@@ -166,31 +166,33 @@ If any CRITICAL or MAJOR item fails: **FAIL — RETURN TO THE OWNING AGENT AND R
 If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO CHAPTER ARCHITECT AND RE-RUN ROADMAP QA.**
 
 # Gate 8 — Pre-Manuscript Scene QA
-**Owners:** A081 Scene Architect, A080 Chapter Architect, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A093 Comedy Editor, A096 Imagination Scene Designer, A037 Power Balance Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A102 Knowledge-State Editor, A111 Logic Editor.
+**Owners:** A081 Scene Architect, A080 Chapter Architect, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor where applicable, A093 Comedy Editor, A096 Imagination Scene Designer, A037 Power Balance Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A102 Knowledge-State Editor, A111 Logic Editor.
 
 - Is the final scene count explicitly locked?
 - Does every scene have a unique Scene ID?
-- Is every scene necessary to the chapter's locked purpose?
-- Does every scene define location, approximate time, participants, purpose, immediate goal, conflict, entering knowledge, discovery, reader-talk opportunity, self-talk opportunity, emotional state, aura opportunity, comedy opportunity, Play Logic opportunity, regeneration/injury beat, natural worldbuilding, continuity dependencies, knowledge restrictions, what changes, exit condition, and transition?
-- Does scene progression move cleanly from awakening → investigation → danger → first anomaly use → civilization direction?
-- Does Red Jackal's voice architecture support first-person reader-talk from the beginning without turning every beat into a joke?
-- Are self-talk and reader-talk serving different functions?
-- Is comedy situational and reduced when danger becomes real?
-- Is the first predator encounter small-scale and messy rather than heroic?
-- Does the first Play Logic manifestation occur only when a concrete urgent need exists?
-- Is the first manifestation crude, short-lived, unstable, useful, and non-polished?
-- Is no Stage II behavior implied?
-- Is the first injury real and painful?
-- Is regeneration observed only after injury and immediate danger?
-- Does regeneration remain incomplete enough to avoid implying immortality?
-- Is worldbuilding limited to what Red Jackal can physically observe?
-- Is unexplained cross-world reading/translation avoided unless separately canonized?
-- Are F-001 through F-004 absent as planted clues in CH-001?
-- Are all protected mysteries absent from actual scene discoveries?
-- Are no unapproved named characters introduced?
-- Does every transition create a reason for the next scene?
-- Does the ending point toward civilization without prematurely beginning CH-002?
+- Is every scene necessary to the current chapter's locked roadmap purpose?
+- Does every scene define all fields required by that chapter's Scene Architecture brief?
+- Does scene progression create a clear cause-and-effect chain rather than disconnected beats?
+- Do scene transitions create a reason for the next scene?
+- Does Red Jackal's voice architecture remain compatible with first-person reader-talk and distinct self-talk?
+- Is dialogue assigned a clear story/character function before prose drafting?
+- Is comedy situational and appropriate to the chapter's pressure level?
+- Are aura-farming opportunities balanced rather than automatically successful?
+- Does Play Logic remain inside the chapter's approved mastery/use restrictions?
+- Do regeneration/injury states carry forward accurately?
+- Is worldbuilding limited to information that can enter naturally through the current scenes?
+- Are language/translation assumptions explicitly supported by canon?
+- Are System outputs and procedures consistent with the Systems Bible where relevant?
+- Are characters present only when authorized by the chapter roadmap?
+- Does every supporting character know only what continuity permits at that point?
+- Are planned F-IDs still **PLANNED — NOT YET PLANTED** before manuscript prose exists?
+- Are non-selected F-IDs prevented from being accidentally introduced early?
+- Are protected mystery truths absent from actual scene discoveries?
+- Does the final scene land on the chapter's locked ending beat without beginning the next chapter?
 - Are final dialogue and manuscript prose still absent?
+- Is the next chapter's Scene Architecture still deferred until this chapter passes its own manuscript QA?
+
+Each chapter's dedicated Gate 8 QA record must add its chapter-specific checks (for example language handling, System intake, combat limits, a planned F-ID, or a particular cast boundary).
 
 If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO SCENE ARCHITECT AND RE-RUN PRE-MANUSCRIPT QA.**
 

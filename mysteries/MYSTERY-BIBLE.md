@@ -1143,3 +1143,23 @@ These chapter assignments identify intended setup locations for future scene/man
 They do **not** mean the clue has occurred.
 
 A clue becomes PLANTED only after approved manuscript prose contains the actual setup.
+
+
+
+# 13. CH-002 F-001 Scene Planning
+
+**Chapter:** CH-002 — Undefined  
+**Status:** PLANNING ONLY — NO MANUSCRIPT YET
+
+F-001 is planned through two distinct standard interfaces:
+
+- **SC-002-02 — Gate Registry Seal:** System Recognition FAILED / World Registry NO RECORD.
+- **SC-002-03 — Certified Identity Slate:** normal identity fields return UNDEFINED / UNAVAILABLE and registry relations remain absent.
+
+These are independent institutional interfaces with different intake purposes.
+
+This chapter architecture must not perform the physical-measurement contrast reserved for F-002.
+
+**F-001 Status: PLANNED — NOT YET PLANTED**
+
+No status change is allowed until approved CH-002 manuscript prose actually contains the clue.

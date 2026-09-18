@@ -165,7 +165,36 @@ If any CRITICAL or MAJOR item fails: **FAIL — RETURN TO THE OWNING AGENT AND R
 
 If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO CHAPTER ARCHITECT AND RE-RUN ROADMAP QA.**
 
-# Gate 8 — Chapter QA
+# Gate 8 — Pre-Manuscript Scene QA
+**Owners:** A081 Scene Architect, A080 Chapter Architect, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A093 Comedy Editor, A096 Imagination Scene Designer, A037 Power Balance Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A102 Knowledge-State Editor, A111 Logic Editor.
+
+- Is the final scene count explicitly locked?
+- Does every scene have a unique Scene ID?
+- Is every scene necessary to the chapter's locked purpose?
+- Does every scene define location, approximate time, participants, purpose, immediate goal, conflict, entering knowledge, discovery, reader-talk opportunity, self-talk opportunity, emotional state, aura opportunity, comedy opportunity, Play Logic opportunity, regeneration/injury beat, natural worldbuilding, continuity dependencies, knowledge restrictions, what changes, exit condition, and transition?
+- Does scene progression move cleanly from awakening → investigation → danger → first anomaly use → civilization direction?
+- Does Red Jackal's voice architecture support first-person reader-talk from the beginning without turning every beat into a joke?
+- Are self-talk and reader-talk serving different functions?
+- Is comedy situational and reduced when danger becomes real?
+- Is the first predator encounter small-scale and messy rather than heroic?
+- Does the first Play Logic manifestation occur only when a concrete urgent need exists?
+- Is the first manifestation crude, short-lived, unstable, useful, and non-polished?
+- Is no Stage II behavior implied?
+- Is the first injury real and painful?
+- Is regeneration observed only after injury and immediate danger?
+- Does regeneration remain incomplete enough to avoid implying immortality?
+- Is worldbuilding limited to what Red Jackal can physically observe?
+- Is unexplained cross-world reading/translation avoided unless separately canonized?
+- Are F-001 through F-004 absent as planted clues in CH-001?
+- Are all protected mysteries absent from actual scene discoveries?
+- Are no unapproved named characters introduced?
+- Does every transition create a reason for the next scene?
+- Does the ending point toward civilization without prematurely beginning CH-002?
+- Are final dialogue and manuscript prose still absent?
+
+If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO SCENE ARCHITECT AND RE-RUN PRE-MANUSCRIPT QA.**
+
+# Gate 9 — Chapter QA
 **Owner:** A120 with specialists.
 
 ## Story
@@ -210,7 +239,7 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO CHAPTER ARCHITECT AND
 - foreshadowing status accurate?
 - no clue marked PLANTED without actual prose?
 
-# Gate 9 — Series QA
+# Gate 10 — Series QA
 **Owner:** A123 Series QA Board.
 
 Periodically verify:

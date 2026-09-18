@@ -200,6 +200,52 @@ Heat retention, storm prediction, preservation, light storage, shelter barriers,
 
 **Ancient magic** refers to pre-Quiet-Registration practices whose frameworks do not always map cleanly onto modern classes or spell taxonomies.
 
+
+## 3.7 Wayfarer Tongue Tokens
+
+**Type:** Common enchanted communication tool used at major gates, caravan posts, ports, and customs desks.
+
+A Wayfarer Tongue Token creates a short-range conversational translation field between willing speakers actively addressing one another.
+
+### What It Can Do
+- convey ordinary spoken meaning between speakers who do not share a language;
+- pass proper names phonetically;
+- handle simple questions, answers, warnings, trade, directions, and intake procedures;
+- support multiple turns of conversation while the token remains powered and nearby.
+
+### What It Cannot Do
+- translate writing, signs, books, contracts, runes, or System text;
+- grant literacy or permanent language knowledge;
+- read thoughts or hidden intent;
+- reveal whether a speaker is lying;
+- translate coded ritual language with perfect precision;
+- guarantee exact handling of poetry, idioms, legal nuance, technical jargon, or obscure dead languages;
+- function at long range.
+
+### Reliability
+Common conversation is usually clear. Unusual metaphors, culture-specific expressions, specialist terms, and deliberately ambiguous statements can translate awkwardly and may require clarification.
+
+### Power and Availability
+Tokens are ordinary institutional magic in trade-heavy regions, not rare artifacts. Gatehouses generally keep charged tokens for foreign travelers.
+
+They require periodic mana recharge and can fail under damage, interference, or exhausted charge.
+
+### Red Jackal Boundary
+A Wayfarer Tongue Token can translate Red Jackal's ordinary spoken Earth language because it works from expressed speech and conversational intent rather than a preloaded language list.
+
+This is **not** a Red Jackal ability.
+
+It does not:
+- register him with the World System;
+- translate Veyran writing for him;
+- explain his arrival;
+- interact with Play Logic;
+- imply System compatibility;
+- connect to Fate, the Great Design, Savael, the Exterior Needle, or any protected mystery.
+
+CH-001 remains unchanged: without such a tool or another established translator, Red Jackal cannot read Veyran writing and does not automatically understand local speech.
+
+
 # 4. Reincarnation and Souls
 
 ## 4.1 Soul Identity

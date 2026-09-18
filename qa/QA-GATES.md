@@ -35,7 +35,26 @@ If major answers are missing: **ROADMAP LOCKED — CONTINUE WORLD BIBLE.**
 - Does the antagonist belong to the destination and possess motive/history?
 - Is anyone acting only because the plot requires it?
 
-# Gate 3 — Destination QA
+# Gate 3 — Mystery Foundation QA
+**Owners:** A050, A051, A001, A031, A033, A034, A035, A100, A102.
+
+- Is Writer Truth defined for every long-term mystery?
+- Are System, magic, reincarnation, Fate, Great Design, anomaly, and fourth-wall mechanics kept distinct?
+- Does Red Jackal begin only with knowledge he could actually possess?
+- Are faction/character knowledge limits explicit?
+- Are false beliefs separated from canon truth?
+- Does each M-ID have a reveal window and payoff?
+- Does every F-ID begin as **PLANNED — NOT YET PLANTED**?
+- Is any clue falsely marked PLANTED without manuscript evidence?
+- Are mysteries connected to existing world/system/character canon rather than retroactively overwriting it?
+- Is the Great Design still non-personal and bounded?
+- Does the mystery architecture preserve Red Jackal's agency rather than secretly making him a chosen hero?
+- Are endgame truths protected by a spoiler firewall?
+- Was any destination order, volume plan, chapter plan, scene plan, or manuscript prose created prematurely?
+
+If Writer Truth, knowledge separation, or foreshadowing state is inconsistent: **FAIL — RETURN TO MYSTERY DIRECTOR.**
+
+# Gate 4 — Destination QA
 **Owners:** A060, A062, A063, A064.
 
 - Is the arc named after the actual place?
@@ -52,7 +71,7 @@ If major answers are missing: **ROADMAP LOCKED — CONTINUE WORLD BIBLE.**
 
 If replacing this place with the previous arc requires little rewriting: **FAIL — strengthen destination identity.**
 
-# Gate 4 — Volume/Arc QA
+# Gate 5 — Volume/Arc QA
 **Owners:** A071, A072, A121, A122.
 
 - One major volume = one destination arc?
@@ -65,7 +84,7 @@ If replacing this place with the previous arc requires little rewriting: **FAIL 
 - departure or next-destination transition natural?
 - structure not mechanically copied from the previous volume?
 
-# Gate 5 — Chapter QA
+# Gate 6 — Chapter QA
 **Owner:** A120 with specialists.
 
 ## Story
@@ -110,7 +129,7 @@ If replacing this place with the previous arc requires little rewriting: **FAIL 
 - foreshadowing status accurate?
 - no clue marked PLANTED without actual prose?
 
-# Gate 6 — Series QA
+# Gate 7 — Series QA
 **Owner:** A123 Series QA Board.
 
 Periodically verify:

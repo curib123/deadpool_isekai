@@ -1,5 +1,8 @@
 # Chapter 2 — Undefined
 
+**Status:** CANON — GATE 9 PASS  
+**Word Count:** 2,849
+
 Civilization announced itself with smoke, wagon wheels, and a wall tall enough to make me reconsider how dangerous the forest behind me actually was. The road curved down through thinning trees toward a timber palisade, its watch platforms half-hidden in river fog while carts waited in two slow-moving lines outside the gate.
 
 People were everywhere. Drivers checked harnesses, guards inspected loads, merchants argued over crates, and somewhere beyond the wall somebody was hammering metal with the steady confidence of a person who had never been attacked by an unidentified forest animal before breakfast.

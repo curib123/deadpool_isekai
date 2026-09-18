@@ -77,8 +77,13 @@ Character Bible Director → Red Jackal Guardian → Supporting Cast → Antagon
 ### Phase 3 Mystery
 Mystery Director → Writer Truth → Mystery IDs → Foreshadowing IDs → Reveal plan → Payoff plan → Mystery QA.
 
-### Phase 4 Destination
-Destination Director chooses an existing place from the World Bible → Culture QA → Local conflict → Local antagonist → Travel logic → Destination QA.
+### Phase 4 Destination Inventory
+Destination Director catalogs existing World Bible places → Geography/Politics/Culture/Travel review → Mystery-dependency review → Classification (HIGH POTENTIAL / RESERVED / UNUSED / NOT SUITABLE) → Destination Inventory QA.
+
+### Destination Selection Gate
+After Phase 4 passes: compare eligible DEST records → choose one existing destination → clear RESERVED dependencies if applicable → validate local-story capacity and travel logic → Destination Selection QA.
+
+No destination becomes an arc before this selection gate passes.
 
 ### Phase 5 Volume/Arc
 Arc Architect → Volume Editor → Pacing Editor → Character Arc Editor → Mystery Editor → Power Balance Editor → Volume/Arc QA.

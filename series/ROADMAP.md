@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-001 CANON — CH-002 SCENE ARCHITECTURE PASSED / CH-002 MANUSCRIPT AUTHORIZED
+**Status:** CH-002 CANON — CH-003 SCENE ARCHITECTURE AUTHORIZED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -20,13 +20,15 @@ Destination Inventory: **PASS**
 Volume 1 Architecture: **PASS**  
 Chapter Roadmap: **PASS — 26 chapters**  
 CH-001 Manuscript: **CANON — GATE 9 PASS**  
-CH-002 Scene Architecture: **PASS — GATE 8**
+CH-002 Scene Architecture: **PASS — GATE 8**  
+CH-002 Manuscript: **CANON — GATE 9 PASS**  
+F-001: **PLANTED — CH-002**
 
 The project is now authorized to proceed to:
 
-1. **Draft CH-002 — Undefined manuscript only**
+1. **Detailed Scene Architecture — CH-003 The Things They Can Measure only**
 
-CH-002 Pre-Manuscript Scene QA has passed. The studio may now draft the actual CH-002 manuscript only. CH-003 planning remains deferred and no later destination has been selected.
+CH-002 Chapter QA has passed and CH-002 is canon. The studio may now build Detailed Scene Architecture for CH-003 only. CH-003 manuscript drafting remains blocked and no later destination has been selected.
 
 ## Destination Naming Law
 
@@ -42,7 +44,7 @@ This table is intentionally empty.
 
 | Volume | Destination ID | Arc Name | Local Conflict | Main Antagonist | Major Mystery Contribution | Status |
 |---|---|---|---|---|---|---|
-| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001–F-004 planned/unplanted | GATE 7 PASS — CH-001 SCENE ARCHITECTURE AUTHORIZED |
+| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002–F-004 planned/unplanted | CH-002 CANON — CH-003 SCENE ARCHITECTURE AUTHORIZED |
 
 ## Lock
 
@@ -52,4 +54,4 @@ Do not add a row until:
 - Destination Inventory exists; **PASS**
 - Destination Selection QA approves an existing world location; **PASS — DEST-001 Greywake**
 
-Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. No detailed scene plan, manuscript prose, or later route is defined by this file.
+Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 and CH-002 are canon; F-001 is planted in CH-002. CH-003 detailed scene planning is authorized, but CH-003 manuscript prose and all later-route selection remain deferred.

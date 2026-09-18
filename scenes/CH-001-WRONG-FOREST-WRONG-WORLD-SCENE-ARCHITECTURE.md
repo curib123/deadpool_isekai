@@ -3,7 +3,7 @@
 **Volume:** 1 — Greywake Arc  
 **Chapter:** CH-001 — Wrong Forest, Wrong World  
 **Phase:** Detailed Scene Architecture  
-**Status:** PROPOSED FOR PRE-MANUSCRIPT SCENE QA  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-001 MANUSCRIPT AUTHORIZED  
 **Final Scene Count:** 5  
 **POV:** Red Jackal first person  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
@@ -760,3 +760,20 @@ If Pre-Manuscript Scene QA passes, lock:
 - no repeated Play Logic use;
 - no System reveal;
 - no final dialogue/prose yet.
+
+
+# 11. Gate 8 Result
+
+**PASS**
+
+Formal QA record:
+
+`qa/CH-001-PRE-MANUSCRIPT-SCENE-QA.md`
+
+The five-scene architecture is locked.
+
+The only authorized next production step is:
+
+**Draft the actual CH-001 manuscript — Wrong Forest, Wrong World.**
+
+Do not draft CH-002.

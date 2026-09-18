@@ -1125,3 +1125,21 @@ Do not explicitly reveal:
 - M-012 Exception Covenant.
 
 No F-ID may change to PLANTED until actual manuscript prose contains the approved setup.
+
+
+# 12. Greywake Chapter-Roadmap Foreshadowing Placement
+
+**Scope:** Planning locations only. No manuscript exists.
+
+| F-ID | Planned Greywake Chapter | Status |
+|---|---:|---|
+| F-001 | CH-002 | PLANNED — NOT YET PLANTED |
+| F-002 | CH-003 | PLANNED — NOT YET PLANTED |
+| F-004 | CH-005 | PLANNED — NOT YET PLANTED |
+| F-003 | CH-007 | PLANNED — NOT YET PLANTED |
+
+These chapter assignments identify intended setup locations for future scene/manuscript work.
+
+They do **not** mean the clue has occurred.
+
+A clue becomes PLANTED only after approved manuscript prose contains the actual setup.

@@ -470,11 +470,11 @@ Do **not** measure:
 CH-003 owns the contrast between measurable physical data and undefined identity data.
 
 ### Play Logic Restrictions
-No successful manifestation.
+Red Jackal does **not** attempt to recreate the CH-001 manifestation.
 
-He may briefly consider recreating the CH-001 slab as proof of being unusual, then decide against it or fail harmlessly if manuscript pacing later justifies it.
+There is no successful or failed Play Logic test in CH-002.
 
-Scene Architecture preference: **do not attempt it here**.
+CH-005 remains the first chapter for intentional successful experimentation.
 
 ### Regeneration Continuity
 Forearm remains tender and visibly improved, but the clerk does not investigate it.
@@ -602,7 +602,7 @@ Red Jackal discovers that “anomaly” is not a VIP category.
 - Brynn asks practical security questions;
 - Red Jackal gives only what he actually knows;
 - clerk summarizes both failures;
-- Maelis asks at most one precise procedural question confirming that two independent tools were used.
+- Maelis asks one precise procedural question confirming that the gate seal and identity slate were separate authorized interfaces.
 
 Maelis does not interrogate Red Jackal yet.
 
@@ -689,14 +689,15 @@ He knows the failure is repeatable and that local authorities are improvising ar
 **Maelis:** has enough anomaly evidence to justify a controlled professional re-check later, but no explanation.
 
 ### What Red Jackal Discovers
-He may enter Greywake under restrictions such as:
-- must present the manual temporary entrant marker if challenged;
+He enters Greywake under the following locked temporary restrictions:
+- receives a physical **Unverified Entrant Token** issued manually by the gate office;
+- must present that token if challenged by militia or gate staff;
 - cannot accept normal registered guild contracts;
 - cannot use identity-bound gate/travel services;
-- cannot receive standard traveler guarantees/insurance;
-- may be required to report for follow-up verification.
+- cannot receive standard registered-traveler guarantees or insurance;
+- must report for a controlled follow-up identity check arranged for the next intake cycle.
 
-Exact manuscript wording can be concise.
+The Unverified Entrant Token is a local administrative marker, not a World System identity and not a substitute registry record.
 
 ### Reader-Talk Opportunity
 He can celebrate finally entering civilization, then immediately list the ways in which civilization has admitted him “with an asterisk.”
@@ -721,9 +722,9 @@ The clerk's temporary marker undermines the effect slightly.
 “Inside, technically” is the comedic frame, but the ending should settle into genuine unease.
 
 ### Dialogue Purpose
-- explain restrictions;
-- establish follow-up expectation;
-- let Maelis identify herself only enough to support CH-003 interest if needed;
+- explain the locked temporary restrictions;
+- establish the next-cycle follow-up requirement;
+- Maelis gives her name and Ledger of Measures affiliation and states that she wants to observe/perform the controlled follow-up;
 - do not begin the controlled CH-003 examination.
 
 ### System Interaction

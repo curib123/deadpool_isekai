@@ -182,3 +182,29 @@ Volume 1 must not create retroactive knowledge for any character merely to speed
 If a chapter plan requires someone to know a protected fact, either:
 1. establish a valid evidence path in an earlier approved chapter, or
 2. reject/revise the plan.
+
+
+# CH-001 Canon Checkpoint
+
+**Status:** CANON — GATE 9 PASS
+
+After CH-001 — Wrong Forest, Wrong World, Red Jackal canonically knows only that:
+
+- his last Earth memory involves a violent rain-night collision;
+- he awakened in an unfamiliar non-Earth environment;
+- one unfamiliar frontier predator attacked him;
+- he suffered a real forearm injury;
+- one crude imagined barrier-like object appeared briefly under immediate pressure;
+- he could not reproduce the manifestation afterward;
+- the injury began healing far faster than normal while remaining painful and exhausting;
+- old and maintained roads indicate nearby civilization;
+- he cannot read the local writing;
+- directional iconography indicates an inhabited settlement ahead.
+
+He does **not** yet know:
+- the settlement name Greywake;
+- Veyr;
+- the World System;
+- why he regenerates;
+- why imagination affected reality;
+- any protected series mystery truth.

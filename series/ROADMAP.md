@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** GREYWAKE CHAPTER ROADMAP PASSED — CH-001 SCENE ARCHITECTURE AUTHORIZED
+**Status:** CH-001 SCENE ARCHITECTURE PASSED — CH-001 MANUSCRIPT AUTHORIZED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -22,9 +22,9 @@ Chapter Roadmap: **PASS — 26 chapters**
 
 The project is now authorized to proceed to:
 
-1. **Detailed Scene Architecture — CH-001 Wrong Forest, Wrong World only**
+1. **Draft CH-001 — Wrong Forest, Wrong World manuscript only**
 
-Gate 7 Chapter Roadmap QA has passed. The studio may now build detailed Scene Architecture for CH-001 only. No later destination has been selected.
+Gate 8 Pre-Manuscript Scene QA has passed. The studio may now draft the actual CH-001 manuscript only. No later destination has been selected.
 
 ## Destination Naming Law
 

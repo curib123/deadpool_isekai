@@ -47,3 +47,9 @@ Every new chapter is checked against:
 7. Previous manuscript canon
 
 When conflict appears, fix it at the owning structural level rather than hiding it with a line of prose.
+
+# Mystery Knowledge Authority
+
+Long-term mystery knowledge partitions are maintained in `continuity/MYSTERY-KNOWLEDGE-STATE.md`.
+
+That support record tracks who may know each M-ID without redefining the Writer Truth in `mysteries/MYSTERY-BIBLE.md`.

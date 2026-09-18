@@ -784,7 +784,7 @@ Red Jackal leaves the gate desk with temporary limited-entry status and steps in
 ### Transition
 Chapter ends.
 
-CH-003 Scene Architecture is not created here.
+Detailed planning for CH-003 remains deferred until CH-002 manuscript canonization.
 
 # 6. F-001 Planning Lock
 

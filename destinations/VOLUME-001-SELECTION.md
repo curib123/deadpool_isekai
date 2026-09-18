@@ -1,7 +1,7 @@
 # Volume 1 Destination Selection
 
 **Owners:** A060 Destination Director, A061 Arc Architect, A062 Destination Culture QA, A063 Local Story Editor, A064 Travel Editor, A043 Red Jackal Guardian, A042 Character Arc Editor, A045 Antagonist Editor, A050 Mystery Director, A037 Power Balance Editor, A071 Volume Editor, A072 Pacing Editor, A100 Continuity Director, A111 Logic Editor  
-**Status:** SELECTED — VOLUME ARCHITECTURE NOT YET CREATED
+**Status:** GATE 5 PASS — VOLUME 1 DESTINATION LOCKED / VOLUME ARCHITECTURE NOT YET CREATED
 
 # Selected Destination
 
@@ -284,4 +284,4 @@ The only route fact now canon is:
 
 **Volume 1 → Greywake → Greywake Arc**
 
-Volume Architecture remains locked until Gate 5 Destination Selection QA passes.
+Gate 5 Destination Selection QA has passed. Volume 1 is authorized to proceed to Phase 5 Volume/Arc Architecture, but no architecture is defined in this file.

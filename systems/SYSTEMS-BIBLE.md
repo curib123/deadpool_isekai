@@ -171,6 +171,52 @@ For Red Jackal:
 The specific Red Jackal outputs remain governed by the locked anomaly status in this Bible.
 
 
+
+## 2.13 Ledger Physical Verification Instruments
+
+The Ledger of Measures and other certification offices maintain calibrated instruments for separating **observable physical facts** from **World System identity records**.
+
+These instruments do not require a valid System identity.
+
+### Calibrated Balance Plate
+Measures ordinary physical mass through mechanical/magical load comparison.
+
+It can confirm that a body has measurable weight even when System identity fields are absent.
+
+### Thermal Bead
+A reusable alchemical/magical bead placed near or against the skin to record approximate body temperature.
+
+It measures heat only. It does not diagnose race, class, illness, or identity.
+
+### Wound Gauge
+A mundane calibrated ruler/grid and inspection protocol used to record visible wound length, closure, swelling, and other external changes over time.
+
+It is not healing magic and does not reveal the cause of regeneration.
+
+### Mana-Reactivity Prism
+A low-output diagnostic prism that exposes a subject or object to a harmless standardized mana pulse and records whether local mana is absorbed, deflected, conducted, disturbed, or ignored.
+
+It does **not** measure System MP when no valid MP field exists.
+
+A subject may physically interact with mana even when the World System cannot define that subject's MP.
+
+### Material Verification Tag
+A simple certification plate that confirms the presence and broad material category of an object placed against it.
+
+It can verify that clothing, tools, tokens, and other equipment are physically present without turning them into System inventory data.
+
+### Limits
+These instruments:
+- measure physical or environmental interaction only;
+- do not create Name, Race, Class, Level, HP, MP, or Progression fields;
+- do not identify souls;
+- do not explain anomalies;
+- do not bypass privacy protections for unrelated information;
+- do not constitute a System appraisal.
+
+For Red Jackal, they may return ordinary physical observations while institutional System interfaces continue returning UNDEFINED / UNAVAILABLE / NO RECORD.
+
+
 # 3. Magic
 
 ## 3.1 Source

@@ -119,6 +119,58 @@ The System cannot:
 - normalize Red Jackal;
 - convert Red Jackal into a conventional registered being.
 
+
+## 2.12 Institutional Registry Interfaces
+
+Civil institutions do not normally ask travelers to summon a private status display on command. Gatehouses, guilds, courts, hospitals, and licensing offices use authorized interfaces that query only the System data needed for their function.
+
+### Gate Registry Seal
+
+A Gate Registry Seal is a fixed civic/guild ward used for routine traveler intake.
+
+It normally checks:
+- whether a valid World Registry relation exists;
+- declared identity against registered identity when available;
+- basic race/class/level categories needed for local entry rules;
+- active legal or safety flags where local law permits.
+
+It is designed for quick screening, not deep examination.
+
+A normal recognized traveler produces a usable registry response.
+
+### Certified Identity Slate
+
+A Certified Identity Slate is a portable or desk-mounted institutional tool used when a gate result is incomplete, disputed, or requires formal recording.
+
+With consent or lawful intake authority, it can request standard identity fields such as:
+- Name;
+- Race;
+- Class;
+- Level;
+- HP;
+- MP;
+- Progression;
+- registry-recognition state.
+
+It queries through a separate local interface from a Gate Registry Seal, so one damaged gate ward does not automatically invalidate the second check.
+
+### Privacy / Limits
+
+These interfaces:
+- do not read thoughts;
+- do not reveal every Skill, Title, Blessing, Curse, or private record by default;
+- do not physically measure weight, temperature, injuries, or equipment;
+- do not create missing identity data;
+- cannot force Red Jackal into registration.
+
+For Red Jackal:
+- the Gate Registry Seal cannot establish a valid World Registry relation;
+- the Certified Identity Slate cannot produce normal identity fields;
+- independent interfaces therefore fail consistently while still being separate tools.
+
+The specific Red Jackal outputs remain governed by the locked anomaly status in this Bible.
+
+
 # 3. Magic
 
 ## 3.1 Source

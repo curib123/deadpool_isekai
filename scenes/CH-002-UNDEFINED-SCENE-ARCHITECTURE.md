@@ -757,6 +757,13 @@ Red Jackal still does not know:
 - Veyr's cosmology;
 - protected mystery truth.
 
+### Off-Page Antagonist Pressure
+Because the guild intake process cannot issue normal traveler/guild privileges, the unresolved entrant report is forwarded through ordinary Greywake Road Guild administration.
+
+**Roadmap consequence:** Rovan Hesk learns off-page that an unregistered but apparently capable stranger using the alias Red Jackal has entered Greywake.
+
+Hesk does not appear, speak, send instructions, or interact with Red Jackal in CH-002.
+
 ### Mystery / Foreshadowing Role
 End-state of F-001 planning:
 Red Jackal now knows the failure is repeatable across independent normal methods.

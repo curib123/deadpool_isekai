@@ -4,7 +4,7 @@
 **Destination:** DEST-001 — Greywake  
 **Arc:** Greywake Arc  
 **Phase:** Chapter Roadmap  
-**Status:** PROPOSED FOR CHAPTER ROADMAP QA  
+**Status:** GATE 7 PASS — CHAPTER ROADMAP LOCKED / CH-001 SCENE ARCHITECTURE AUTHORIZED  
 **Final Chapter Count:** 26  
 **POV:** Red Jackal first person throughout  
 **Scope:** Chapter architecture only. No full scenes, final dialogue, or manuscript prose.
@@ -852,3 +852,20 @@ The roadmap does not decide:
 - final casualty count;
 - final sentencing procedure for Hesk beyond removal from operational authority;
 - next destination.
+
+
+# 12. Gate 7 Result
+
+**PASS**
+
+Formal QA record:
+
+`qa/VOLUME-001-GREYWAKE-CHAPTER-ROADMAP-QA.md`
+
+The 26-chapter roadmap is now locked.
+
+The only authorized next planning step is:
+
+**CH-001 — Wrong Forest, Wrong World: Detailed Scene Architecture**
+
+No final manuscript prose or final dialogue is authorized by this roadmap.

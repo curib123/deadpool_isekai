@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-001 CANON — CH-002 SCENE ARCHITECTURE AUTHORIZED
+**Status:** CH-001 CANON — CH-002 SCENE ARCHITECTURE PASSED / CH-002 MANUSCRIPT AUTHORIZED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -19,13 +19,14 @@ Mystery Foundation: **PASS**
 Destination Inventory: **PASS**  
 Volume 1 Architecture: **PASS**  
 Chapter Roadmap: **PASS — 26 chapters**  
-CH-001 Manuscript: **CANON — GATE 9 PASS**
+CH-001 Manuscript: **CANON — GATE 9 PASS**  
+CH-002 Scene Architecture: **PASS — GATE 8**
 
 The project is now authorized to proceed to:
 
-1. **Detailed Scene Architecture — CH-002 Undefined only**
+1. **Draft CH-002 — Undefined manuscript only**
 
-Gate 9 Chapter QA has passed and CH-001 is canon. The studio may now build Detailed Scene Architecture for CH-002 only. No later destination has been selected.
+CH-002 Pre-Manuscript Scene QA has passed. The studio may now draft the actual CH-002 manuscript only. CH-003 planning remains deferred and no later destination has been selected.
 
 ## Destination Naming Law
 

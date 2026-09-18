@@ -6,20 +6,26 @@
 
 This repository is the canonical production workspace for the Red Jackal light-novel project.
 
-## Core Production Principle
+## Studio Pipeline
 
-The novel is developed through a studio-style pipeline:
+`Series Constitution → World Bible → Systems/Lore → Characters → Mysteries → Destinations → Volume/Arc → Chapters → Scenes → Manuscript → QA → Canon`
 
-`Series Constitution → World Bible → Systems & Lore → Characters → Mysteries → Destinations → Arc/Volume → Chapters → Scenes → Manuscript → QA → Canon`
+**World first. Destination second. Story third.**
 
-The world is built before destination arcs. Each major volume is one destination arc named after the place where it occurs.
+One major volume is one destination arc, and every arc is named after its place: **[Destination] Arc**.
 
-## Main Character
+## Start Here
 
-**Red Jackal** is an anti-villain anomaly: theatrical, self-centered, unpredictable, obsessed with aura and presentation when it suits him, directly conversational with readers, and capable of imagination-based reality manipulation known provisionally as **Play Logic**.
+1. `studio/STUDIO-ARCHITECTURE.md` — agent roles, editorial hierarchy, production gates.
+2. `series/SERIES-CONSTITUTION.md` — locked identity and structural laws.
+3. `world/WORLD-BIBLE.md` — continents, seas, islands, nations, cultures, history, travel, ecology.
+4. `systems/SYSTEMS-BIBLE.md` — World System, magic, reincarnation, Fate, Great Design, anomaly, Play Logic.
+5. `characters/CHARACTER-BIBLE.md` — Red Jackal and character rules.
+6. `mysteries/MYSTERY-BIBLE.md` — mystery and foreshadowing control.
+7. `planning/STORY-PLANNING.md` — destination → volume → chapter → scene.
+8. `manuscript/WRITING-RULES.md` — locked prose/voice rules.
+9. `continuity/CONTINUITY-BIBLE.md` — consequence and knowledge tracking.
+10. `qa/QA-GATES.md` — foundation, destination, volume, chapter, and series QA.
+11. `series/ROADMAP.md` — intentionally blocked until the World Bible foundation passes QA.
 
-## Canon Rule
-
-Lower-level story material cannot silently contradict higher-level canon. Every important change must pass the appropriate studio agent and QA gate.
-
-See `/studio/PRODUCTION-FLOW.md` and `/studio/AGENT-REGISTRY.md` for the full workflow.
+Old generic event/theme arc plans are deprecated.

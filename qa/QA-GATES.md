@@ -72,39 +72,30 @@ If Writer Truth, knowledge separation, or foreshadowing state is inconsistent: *
 If inventory counts, World Bible sourcing, or route neutrality fail: **FAIL — RETURN TO DESTINATION DIRECTOR.**
 
 # Gate 5 — Destination Selection QA
-**Owners:** A060, A062, A063, A064, A050, A100.
+**Owners:** A060 Destination Director, A061 Arc Architect, A062 Destination Culture QA, A063 Local Story Editor, A064 Travel Editor, A043 Red Jackal Guardian, A042 Character Arc Editor, A045 Antagonist Editor, A050 Mystery Director, A037 Power Balance Editor, A071 Volume Editor, A072 Pacing Editor, A100 Continuity Director, A111 Logic Editor.
 
-- Is the selected destination an eligible existing DEST-ID?
-- Is it not marked NOT SUITABLE?
+- Was every eligible HIGH POTENTIAL destination considered without creating a public ranking or full route order?
+- Is exactly one existing DEST-ID selected?
+- Is the selected destination not marked NOT SUITABLE?
 - If RESERVED, is its reveal/mystery dependency explicitly cleared?
-- Is the arc named after the actual place?
-- Did the place already exist in the World Bible?
-- Is geography distinct?
-- Is culture/social identity distinct?
-- Are architecture/social rules/history/factions distinct?
-- Can a local problem arise naturally from the place?
+- Does the selected place already exist in the World Bible?
+- Is the future arc name exactly **[Destination Name] Arc**?
+- Is the geography distinct enough to shape the story?
+- Is the culture/social identity distinct enough to teach the world naturally?
+- Are architecture, local rules, history, factions, and dangers specific to the place?
+- Can a local conflict arise naturally without inventing a world-ending crisis?
 - Can a local antagonist/opposing force belong naturally to that conflict?
-- Is exploration important?
-- Are travel entry/exit logical?
-- Can the local conflict be meaningfully resolved?
-- Can the larger mystery advance without hijacking the local story?
+- Does the destination support exploration and meaningful action?
+- Is it compatible with Red Jackal's established personality without forcing generic heroism?
+- Can supporting characters enter naturally without assigning them prematurely?
+- Does it support the current mystery reveal window without exposing protected late truths?
+- Can early Play Logic be demonstrated within current power limits?
+- Are travel entry and exit routes already supported by canon?
+- Can the local conflict later be meaningfully resolved before departure?
+- Does selecting it preserve multiple believable later routes rather than silently choosing Volume 2?
+- Were no chapter plans, scenes, climax, manuscript prose, or later route assignments created?
 
-If replacing this place with another candidate requires little rewriting: **FAIL — strengthen or reselect the destination.**
-**Owners:** A060, A062, A063, A064.
-
-- Is the arc named after the actual place?
-- Did the place already exist in the World Bible?
-- Is geography distinct?
-- culture distinct?
-- architecture/social rules/history/factions distinct?
-- local problem tied to the place?
-- local antagonist/opposing force tied to the problem?
-- exploration important?
-- travel entry/exit logical?
-- local conflict meaningfully resolved?
-- larger mystery advanced without hijacking the local story?
-
-If replacing this place with the previous arc requires little rewriting: **FAIL — strengthen destination identity.**
+If any critical requirement fails: **FAIL — RESELECT OR RETURN TO DESTINATION DIRECTOR.**
 
 # Gate 6 — Volume/Arc QA
 **Owners:** A071, A072, A121, A122.

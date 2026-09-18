@@ -1,5 +1,8 @@
 # Chapter 1 — Wrong Forest, Wrong World
 
+**Status:** CANON — GATE 9 PASS  
+**Word Count:** 2,432
+
 The first thing I noticed was that I was breathing.
 
 That might sound like a very low standard for a successful morning, but the last thing I remembered was rain exploding across a windshield, white headlights where they absolutely should not have been, and several tons of metal making a very convincing argument against my continued existence. So yes, breathing was encouraging.

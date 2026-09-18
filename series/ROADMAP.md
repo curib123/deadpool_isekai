@@ -13,13 +13,13 @@ The previous generic event/theme arc roadmap remains **DEPRECATED**.
 
 Foundation World Bible: **PASS**  
 Systems Bible: **PASS**  
-Foundation QA: **PASS**
+Foundation QA: **PASS**  
+Character Foundation: **PASS**
 
 The project is now authorized to proceed to:
 
-1. **Phase 2 — Character Foundation**
-2. **Phase 3 — Mystery Foundation**
-3. **Phase 4 — Destination Inventory**
+1. **Phase 3 — Mystery Foundation**
+2. **Phase 4 — Destination Inventory**
 
 Only after those phases pass their QA may the studio select the first destination and begin a volume/arc roadmap.
 
@@ -41,7 +41,7 @@ This table is intentionally empty.
 ## Lock
 
 Do not add a row until:
-- Character Foundation passes;
+- Character Foundation passes; **PASS**
 - Mystery Foundation passes;
 - Destination Inventory exists;
 - Destination Selection QA approves an existing world location.

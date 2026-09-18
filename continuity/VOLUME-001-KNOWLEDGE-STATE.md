@@ -27,8 +27,8 @@ By the end of CH-001, Red Jackal may know only from direct experience that:
 - this is not Earth, or at minimum cannot reasonably be explained as his normal Earth environment;
 - his body recovered abnormally from a minor injury;
 - an imagined physical solution manifested briefly under immediate pressure;
-- maintained roads/signs indicate nearby civilization;
-- one road marker points toward a place named Greywake.
+- maintained road engineering and directional symbols indicate nearby civilization;
+- the maintained route leads toward an inhabited settlement whose name he does not yet know.
 
 He still does not understand the mechanisms.
 
@@ -38,7 +38,7 @@ He still does not understand the mechanisms.
 - he is in a non-Earth world/environment;
 - his body has shown abnormal recovery once;
 - imagination has produced one crude short-lived physical effect;
-- Greywake is the nearest named settlement indicated by the road.
+- a maintained road leads toward a nearby inhabited settlement; he has not yet learned the name Greywake.
 
 ## May Learn During Volume
 - multiple independent appraisal methods agree his identity data is absent rather than merely hidden;

@@ -208,3 +208,101 @@ He does **not** yet know:
 - why he regenerates;
 - why imagination affected reality;
 - any protected series mystery truth.
+
+
+
+# CH-002 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-002 — Undefined  
+**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+
+## Red Jackal — Opening CH-002
+
+Red Jackal begins CH-002 knowing only the CH-001 canon checkpoint:
+- Earth collision memory;
+- unfamiliar non-Earth environment;
+- one crude, unreproduced manifestation;
+- abnormal painful healing;
+- maintained road indicates nearby civilization;
+- local writing is unreadable;
+- he does not yet know the settlement name.
+
+## Red Jackal — Allowed CH-002 Discoveries
+
+By the end of an approved CH-002 manuscript, he may know:
+- the settlement is called **Greywake**;
+- a Wayfarer Tongue Token can translate ordinary spoken conversation without granting literacy;
+- locals use a regulatory identity structure called the World System/System;
+- a Gate Registry Seal cannot establish his World Registry relation;
+- a separate Certified Identity Slate also cannot produce normal identity data;
+- his spoken alias **Red Jackal** can be recorded manually but does not become a valid System Name;
+- the two independent checks fail consistently;
+- Greywake is willing to grant only limited temporary access;
+- he cannot use normal identity-bound guild/traveler services;
+- Maelis Orra has professional interest in re-checking the anomaly.
+
+He may **not** learn why any of these failures occur.
+
+## Captain Brynn Alder — CH-002 Boundary
+
+Brynn may know:
+- Red Jackal cooperated with intake;
+- he lacks documents;
+- the Gate Registry Seal and Certified Identity Slate both failed;
+- his claimed alias is Red Jackal;
+- complete nonrecognition presents a security risk.
+
+Brynn may not know:
+- Red Jackal's true origin mechanism;
+- Play Logic's cause;
+- regeneration's cause;
+- any protected series mystery truth.
+
+Her decision must remain a practical local-security judgment.
+
+## Maelis Orra — CH-002 Boundary
+
+Maelis may know:
+- she is already in Greywake for an independent Ledger audit;
+- two separate ordinary registry interfaces failed on Red Jackal;
+- the failure pattern is unusual enough to justify controlled follow-up;
+- Red Jackal's claimed alias is not equivalent to System identity.
+
+She may **not** establish in CH-002:
+- F-002 physical-measurement contrast;
+- the true reason for registry absence;
+- anti-appraisal, hidden class, hidden level, divine concealment, or any other speculation as fact;
+- any protected series mystery truth.
+
+## Gate / Intake Staff — CH-002 Boundary
+
+Gate and intake staff know only normal frontier intake procedure.
+
+They may speculate about:
+- device malfunction;
+- damaged records;
+- remote/unusual registration;
+- curse/interference;
+- fraud.
+
+They may not possess the correct explanation.
+
+## Language Boundary
+
+Spoken communication in CH-002 is enabled by the standard **Wayfarer Tongue Token** defined in the Systems Bible.
+
+This does not grant Red Jackal:
+- literacy;
+- permanent language knowledge;
+- direct understanding of written System output.
+
+Written results must be interpreted aloud by local staff if Red Jackal is to understand them.
+
+## CH-002 Ending Knowledge Ceiling
+
+Even after limited admission, Red Jackal still does not know:
+- why the System cannot define him;
+- whether the failure can ever be repaired;
+- why he regenerated;
+- why the CH-001 manifestation occurred;
+- any protected mystery truth.

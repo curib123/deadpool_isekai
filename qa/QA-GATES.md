@@ -54,7 +54,42 @@ If major answers are missing: **ROADMAP LOCKED — CONTINUE WORLD BIBLE.**
 
 If Writer Truth, knowledge separation, or foreshadowing state is inconsistent: **FAIL — RETURN TO MYSTERY DIRECTOR.**
 
-# Gate 4 — Destination QA
+# Gate 4 — Destination Inventory QA
+**Owners:** A060, A011, A012, A013, A014, A020, A050, A062, A100, A111.
+
+- Does every DEST-ID originate from an existing named World Bible location, region, island, sea, city, or political territory?
+- Are all four continents represented?
+- Are kingdom, empire, league, concord/confederation, island, frontier, city, maritime, demon-associated, supernatural, and anomaly contexts represented where canon supports them?
+- Is every destination classified as **HIGH POTENTIAL**, **RESERVED**, **UNUSED**, or **NOT SUITABLE**?
+- Does every eligible candidate have distinct geography, culture/social identity, visual identity, history, factions, dangers, travel entry/exit, conflict types, antagonist types, exploration potential, mystery connection, and return potential?
+- Are mystery-heavy locations protected as RESERVED when using them too early would damage the reveal ladder?
+- Are broad macro regions marked NOT SUITABLE when they need a narrower place?
+- Are unsupported categories recorded as gaps rather than filled with invented canon?
+- Does the inventory avoid choosing Volume 1 or creating a route order?
+- Are supporting characters still unassigned to destinations?
+- Were no volume plans, chapter plans, scene plans, or manuscript prose created?
+
+If inventory counts, World Bible sourcing, or route neutrality fail: **FAIL — RETURN TO DESTINATION DIRECTOR.**
+
+# Gate 5 — Destination Selection QA
+**Owners:** A060, A062, A063, A064, A050, A100.
+
+- Is the selected destination an eligible existing DEST-ID?
+- Is it not marked NOT SUITABLE?
+- If RESERVED, is its reveal/mystery dependency explicitly cleared?
+- Is the arc named after the actual place?
+- Did the place already exist in the World Bible?
+- Is geography distinct?
+- Is culture/social identity distinct?
+- Are architecture/social rules/history/factions distinct?
+- Can a local problem arise naturally from the place?
+- Can a local antagonist/opposing force belong naturally to that conflict?
+- Is exploration important?
+- Are travel entry/exit logical?
+- Can the local conflict be meaningfully resolved?
+- Can the larger mystery advance without hijacking the local story?
+
+If replacing this place with another candidate requires little rewriting: **FAIL — strengthen or reselect the destination.**
 **Owners:** A060, A062, A063, A064.
 
 - Is the arc named after the actual place?
@@ -71,7 +106,7 @@ If Writer Truth, knowledge separation, or foreshadowing state is inconsistent: *
 
 If replacing this place with the previous arc requires little rewriting: **FAIL — strengthen destination identity.**
 
-# Gate 5 — Volume/Arc QA
+# Gate 6 — Volume/Arc QA
 **Owners:** A071, A072, A121, A122.
 
 - One major volume = one destination arc?
@@ -84,7 +119,7 @@ If replacing this place with the previous arc requires little rewriting: **FAIL 
 - departure or next-destination transition natural?
 - structure not mechanically copied from the previous volume?
 
-# Gate 6 — Chapter QA
+# Gate 7 — Chapter QA
 **Owner:** A120 with specialists.
 
 ## Story
@@ -129,7 +164,7 @@ If replacing this place with the previous arc requires little rewriting: **FAIL 
 - foreshadowing status accurate?
 - no clue marked PLANTED without actual prose?
 
-# Gate 7 — Series QA
+# Gate 8 — Series QA
 **Owner:** A123 Series QA Board.
 
 Periodically verify:

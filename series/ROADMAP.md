@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** VOLUME 1 DESTINATION SELECTED — LATER ROUTE UNDECIDED
+**Status:** VOLUME 1 ARCHITECTURE PASSED — CHAPTER ROADMAP AUTHORIZED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -20,9 +20,9 @@ Destination Inventory: **PASS**
 
 The project is now authorized to proceed to:
 
-1. **Phase 5 — Volume/Arc Architecture for Volume 1 (Greywake) only**
+1. **Chapter Roadmap — Greywake Arc only**
 
-Gate 5 Destination Selection QA has passed. The studio may now architect Volume 1 only. No later destination has been selected.
+Gate 6 Volume/Arc QA has passed. The studio may now build the Chapter Roadmap for Greywake Arc only. No later destination has been selected.
 
 ## Destination Naming Law
 
@@ -38,7 +38,7 @@ This table is intentionally empty.
 
 | Volume | Destination ID | Arc Name | Local Conflict | Main Antagonist | Major Mystery Contribution | Status |
 |---|---|---|---|---|---|---|
-| 1 | DEST-001 | Greywake Arc | TBD — Phase 5 | TBD — Phase 5 | Early-window only; exact use TBD | DESTINATION SELECTED — ARCHITECTURE PENDING |
+| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001–F-004 planned/unplanted | GATE 6 PASS — CHAPTER ROADMAP AUTHORIZED |
 
 ## Lock
 
@@ -48,4 +48,4 @@ Do not add a row until:
 - Destination Inventory exists; **PASS**
 - Destination Selection QA approves an existing world location; **PASS — DEST-001 Greywake**
 
-Only the Volume 1 destination and arc name are now locked. No local plot, antagonist, chapter, scene, manuscript content, or later route is defined by this file.
+Volume 1 destination, local conflict, antagonist, architecture, and mystery ceiling are locked. No chapter roadmap, scene plan, manuscript prose, or later route is defined by this file.

@@ -385,7 +385,7 @@ This is the thematic endgame alternative to both:
 
 **Red Jackal Baseline:** He remembers Earth and the collision but no summoner.
 
-**Faction Knowledge:** None initially know the answer. Ash Choir traditions contain distorted references to “outside voices.” Ledger records contain no matching transfer case.
+**Faction Knowledge:** None initially know the answer. Ash Choir traditions contain distorted references to “outside voices.” Ledger of Measures records contain no matching transfer case.
 
 **False Beliefs:**
 - a god summoned him;
@@ -415,7 +415,7 @@ This is the thematic endgame alternative to both:
 
 **Red Jackal Baseline:** He sees/learns that normal System fields cannot define him.
 
-**Faction Knowledge:** Ledger experts understand partial failures but not total foreign continuity.
+**Faction Knowledge:** Ledger of Measures experts understand partial failures but not total foreign continuity.
 
 **False Beliefs:**
 - hidden max level;
@@ -469,7 +469,7 @@ This is the thematic endgame alternative to both:
 
 **Red Jackal Baseline:** He knows imagination matters but not why.
 
-**Faction Knowledge:** Mages may classify effects incorrectly; Ledger cannot map them to a normal class.
+**Faction Knowledge:** Mages may classify effects incorrectly; the Ledger of Measures cannot map them to a normal class.
 
 **False Beliefs:**
 - divine blessing;
@@ -600,7 +600,7 @@ This is the thematic endgame alternative to both:
 **Faction Knowledge:**
 - Ash Choir preserves distorted oral fragments;
 - Daughters of the Last Bell guard one ancient structure;
-- Ledger possesses contradictory anomaly surveys;
+- the Ledger of Measures possesses contradictory anomaly surveys;
 - Edrin Marr has impossible route measurements.
 
 **False Beliefs:**
@@ -648,7 +648,7 @@ This is the thematic endgame alternative to both:
 
 **Reader Baseline:** Historical period when System use became consistent.
 
-**Faction Knowledge:** Ledger scholars know institutional fragments; theological traditions credit different gods.
+**Faction Knowledge:** Ledger of Measures scholars know institutional fragments; theological traditions credit different gods.
 
 **False Beliefs:**
 - the System was born fully formed;

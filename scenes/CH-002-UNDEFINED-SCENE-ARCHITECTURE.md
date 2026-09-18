@@ -228,7 +228,7 @@ He is directed to the gate screening position for SC-002-02.
 
 ---
 
-## SC-002-02 — No Record
+## SC-002-02 — No Record — Gate Registry Seal
 
 **Approximate Time:** Minutes after first contact.  
 **Location:** Greywake gate screening alcove beside the entry lane.  
@@ -351,7 +351,7 @@ Red Jackal is moved into the adjacent intake post for SC-002-03.
 
 ---
 
-## SC-002-03 — Undefined
+## SC-002-03 — Undefined — Certified Identity Slate
 
 **Approximate Time:** 10–20 minutes after arrival at the gate.  
 **Location:** Greywake intake post immediately inside/alongside the gate structure, not yet general settlement access.  

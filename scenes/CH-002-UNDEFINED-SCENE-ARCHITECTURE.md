@@ -3,7 +3,7 @@
 **Volume:** 1 — Greywake Arc  
 **Chapter:** CH-002 — Undefined  
 **Phase:** Detailed Scene Architecture  
-**Status:** PROPOSED FOR PRE-MANUSCRIPT SCENE QA  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-002 MANUSCRIPT AUTHORIZED  
 **Final Scene Count:** 5  
 **POV:** Red Jackal first person  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
@@ -894,3 +894,20 @@ QA must specifically verify:
 - regeneration remains continuity-only;
 - limited admission logically follows cooperation plus uncertainty;
 - ending naturally hands interest to CH-003 without planning CH-003 scenes.
+
+
+# 12. Gate 8 Result
+
+**PASS**
+
+Formal QA record:
+
+`qa/CH-002-PRE-MANUSCRIPT-SCENE-QA.md`
+
+The five-scene CH-002 architecture is locked.
+
+The only authorized next production step is:
+
+**Draft the actual CH-002 manuscript — Undefined.**
+
+Do not draft CH-003 and do not create CH-003 Scene Architecture.

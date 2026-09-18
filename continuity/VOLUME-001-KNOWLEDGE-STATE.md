@@ -7,13 +7,38 @@ This file defines the maximum knowledge each active Volume 1 character may posse
 
 # Red Jackal
 
-## Begins Volume Knowing
+## CH-001 Opening Knowledge
+At the opening instant of CH-001, Red Jackal knows only that:
 - Earth existed;
-- he experienced a fatal/violent transition;
-- Veyr is not Earth;
-- normal System identification fails on him;
-- his body regenerates abnormally;
-- imagination can produce short-lived abnormal physical effects.
+- his last clear Earth memory is a violent rain-night collision/transition;
+- he is conscious again in an unfamiliar environment;
+- his body feels physically unfamiliar.
+
+He does **not** yet know at the opening that:
+- Veyr is the world's name;
+- the World System exists;
+- his identity will fail System registration;
+- his body regenerates;
+- imagination can affect reality;
+- Greywake exists.
+
+## Knowledge Gained During CH-001
+By the end of CH-001, Red Jackal may know only from direct experience that:
+- this is not Earth, or at minimum cannot reasonably be explained as his normal Earth environment;
+- his body recovered abnormally from a minor injury;
+- an imagined physical solution manifested briefly under immediate pressure;
+- maintained roads/signs indicate nearby civilization;
+- one road marker points toward a place named Greywake.
+
+He still does not understand the mechanisms.
+
+## Begins CH-002 Knowing
+- Earth existed;
+- he experienced a violent transition;
+- he is in a non-Earth world/environment;
+- his body has shown abnormal recovery once;
+- imagination has produced one crude short-lived physical effect;
+- Greywake is the nearest named settlement indicated by the road.
 
 ## May Learn During Volume
 - multiple independent appraisal methods agree his identity data is absent rather than merely hidden;

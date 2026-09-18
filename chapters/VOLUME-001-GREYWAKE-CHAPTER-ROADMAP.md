@@ -410,7 +410,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** IV — Necessary Sacrifices  
 **Location:** Outer lure site near a threatened homestead / forest approach.  
-**Characters Present:** Red Jackal, Kellan, possibly Tavian arriving later, Guild personnel.  
+**Characters Present:** Red Jackal, Kellan Dorr, Tavian Rook, Road Guild personnel.  
 **Opening Situation:** Immediate danger at an outer homestead creates pressure before the council has agreed on a full plan.  
 **Primary Objective:** Stop a lure from drawing more monsters toward civilians.  
 **Conflict:** Waiting for full mapping means accepting near-term harm; acting now risks destabilizing the network.  
@@ -535,7 +535,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** V — No Acceptable Loss  
 **Location:** Road Guild storehouse, lure-control route, Greywake Core.  
-**Characters Present:** Maelis, Jessa, Red Jackal, Hesk, Guild loyalists; Tavian/Brynn may operate elsewhere.  
+**Characters Present:** Red Jackal, Maelis Orra, Jessa Vale, Rovan Hesk, Road Guild loyalists.  
 **Opening Situation:** Jessa realizes Hesk has retained enough lure material to restore the sacrificial route without council approval.  
 **Primary Objective:** Secure the final lure stock, route logs, and authority needed to prevent unilateral reactivation.  
 **Conflict:** Jessa must choose between employment/family security and exposing the Guild; Hesk moves to seize or destroy evidence.  
@@ -610,7 +610,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** VI — Greywake Holds  
 **Location:** Main defensive choke point and failing migration corridor.  
-**Characters Present:** Red Jackal, Tavian, Brynn, militia, work crews, possibly Maelis coordinating civilians/evidence elsewhere.  
+**Characters Present:** Red Jackal, Tavian Rook, Captain Brynn Alder, Greywake militia, work crews.  
 **Opening Situation:** A large territorial predator and panicked mass movement threaten to break the corridor and spill into inhabited areas.  
 **Primary Objective:** Hold the route long enough for the main migration body to commit to the safer path.  
 **Conflict:** The strongest physical threat arrives at the same time infrastructure begins failing.  

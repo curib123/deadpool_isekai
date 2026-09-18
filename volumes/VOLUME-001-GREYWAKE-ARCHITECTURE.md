@@ -4,7 +4,7 @@
 **Destination:** DEST-001 — Greywake  
 **Arc Name:** Greywake Arc  
 **Phase:** 5 — Volume/Arc Architecture  
-**Status:** PROPOSED FOR GATE 6 QA  
+**Status:** GATE 6 PASS — VOLUME ARCHITECTURE LOCKED / CHAPTER ROADMAP AUTHORIZED  
 **Scope:** Complete volume architecture only. No chapter roadmap, scene list, or manuscript prose.
 
 # 1. Volume Purpose
@@ -1055,3 +1055,16 @@ Do not decide here:
 - exact legal disposition of Hesk;
 - departure direction;
 - next destination.
+
+
+# 26. Gate 6 Result
+
+**PASS**
+
+Formal QA record:
+
+`qa/VOLUME-001-GREYWAKE-GATE-6-QA.md`
+
+The architecture is now locked for Chapter Roadmap planning.
+
+No chapter roadmap, scene plan, or manuscript prose is created by this file.

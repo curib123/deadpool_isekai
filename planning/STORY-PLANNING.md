@@ -105,15 +105,15 @@ The authoritative Volume 1 chapter roadmap is:
 
 The next authorized planning artifact is:
 
-`CH-002 — Undefined: Manuscript Draft`
+`CH-003 — The Things They Can Measure: Detailed Scene Architecture`
 
 CH-001 manuscript has passed Gate 9 and is CANON.
 
-CH-002 Scene Architecture has passed Gate 8.
+CH-002 manuscript has passed Gate 9 and is CANON.
 
-Drafting CH-002 manuscript prose is now authorized.
+Detailed Scene Architecture for CH-003 — The Things They Can Measure is now authorized.
 
-Do not draft CH-003 or create CH-003 Scene Architecture during the CH-002 manuscript step.
+Do not draft CH-003 manuscript until CH-003 Scene Architecture and its Pre-Manuscript Scene QA pass.
 
 # 5. Scene Sheet
 Each scene has:

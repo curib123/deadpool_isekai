@@ -1047,3 +1047,81 @@ Every entry below begins with **PLANNED — NOT YET PLANTED**.
 **Knowledge separation:** PASS — writer, reader, Red Jackal, faction, and false-belief layers are distinct.
 
 **Scope control:** PASS — no destination order, volume plan, chapter plan, scene plan, or manuscript prose is created here.
+
+
+# 11. Volume 1 Mystery Deployment — Greywake Arc
+
+**Status:** PLANNING ASSIGNMENT ONLY — NO F-ID PLANTED
+
+The approved Greywake architecture may use only the following mystery scope:
+
+## M-002 — Why Is Everything About Him UNDEFINED?
+
+**Deployment:** CENTRAL EARLY MYSTERY.
+
+Allowed:
+- repeated appraisal failure;
+- physical measurements succeeding while identity data fails;
+- expert recognition that the data is absent rather than hidden.
+
+Not allowed:
+- native causal-root explanation;
+- true Exterior Needle/continuity explanation.
+
+## M-005 — Why Can He Regenerate?
+
+**Deployment:** OBSERVATIONAL ONLY.
+
+Allowed:
+- abnormal recovery;
+- pain/exhaustion;
+- healer observation that it does not match ordinary healing.
+
+Not allowed:
+- self-model mechanism;
+- connection to Play Logic writer truth.
+
+## M-007 — How Does Fate Treat Him?
+
+**Deployment:** VERY LIGHT TONAL HINT ONLY.
+
+Allowed:
+- consequences seeming to reorganize after he disrupts an expected situation.
+
+Not allowed:
+- technical Fate explanation;
+- causal-wake terminology in-character;
+- native backward-thread truth.
+
+## Selected Foreshadowing Candidates
+
+### F-001 — Independent Appraisals Fail Consistently
+**Greywake Planning:** SELECTED.  
+**Status:** PLANNED — NOT YET PLANTED.
+
+### F-002 — Physical Data Without Identity Data
+**Greywake Planning:** SELECTED.  
+**Status:** PLANNED — NOT YET PLANTED.
+
+### F-003 — Healing Magic Encounters an Already-Correcting Body
+**Greywake Planning:** SELECTED.  
+**Status:** PLANNED — NOT YET PLANTED.
+
+### F-004 — Play Logic Follows Meaning More Than Spell Grammar
+**Greywake Planning:** SELECTED.  
+**Status:** PLANNED — NOT YET PLANTED.
+
+## Protected During Volume 1
+
+Do not explicitly reveal:
+- M-001 arrival cause;
+- M-003 continuity translocation;
+- M-004 writer-truth Play Logic origin;
+- M-006 Exterior Echo;
+- M-008 Great Design;
+- M-009 full Eidrathi / First Severance truth;
+- M-010 Savael;
+- M-011 deep Quiet Registration truth;
+- M-012 Exception Covenant.
+
+No F-ID may change to PLANTED until actual manuscript prose contains the approved setup.

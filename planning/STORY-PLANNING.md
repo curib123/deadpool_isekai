@@ -93,6 +93,24 @@ Travel matters. Use roads, ships, caravans, magical routes, passes, wilderness, 
 - Knowledge dependencies:
 - Ending beat:
 
+# 4A. Active Chapter Roadmap
+
+The authoritative Volume 1 chapter roadmap is:
+
+`chapters/VOLUME-001-GREYWAKE-CHAPTER-ROADMAP.md`
+
+**Status:** GATE 7 PASS
+
+**Locked count:** 26 chapters
+
+The next authorized planning artifact is:
+
+`CH-001 — Wrong Forest, Wrong World: Detailed Scene Architecture`
+
+Do not create detailed Scene Architecture for CH-002 or later chapters until CH-001 Scene Architecture has been reviewed.
+
+Do not write manuscript prose during Scene Architecture.
+
 # 5. Scene Sheet
 Each scene has:
 - purpose

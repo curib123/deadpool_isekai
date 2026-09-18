@@ -2,37 +2,43 @@
 
 **Owners:** A060-A081
 
-# 1. Destination Registry
-### DEST-[ID]
-- Destination name:
-- Arc name: [Destination Name] Arc
-- Continent:
-- Nation/territory:
-- Region:
-- Environment:
-- Visual identity:
-- Culture:
-- History:
-- Settlements:
-- Factions:
-- Laws:
-- Monsters:
-- Unique magic/System behavior:
-- Local problem:
-- Local antagonist/opposing force:
-- Exploration opportunities:
-- Travel entry:
-- Travel exit:
-- Mystery connection:
-- Return potential:
-- Status: UNUSED / PROVISIONAL / PLANNED / ACTIVE / COMPLETED
+# 1. Destination Inventory and Selection
+
+The authoritative Phase 4 inventory is:
+
+`destinations/DESTINATION-INVENTORY.md`
+
+Every candidate uses a stable `DEST-[ID]` and one inventory classification:
+
+- **HIGH POTENTIAL**
+- **RESERVED**
+- **UNUSED**
+- **NOT SUITABLE**
+
+Inventory classification is **not** route order and does not assign a volume.
 
 ## Destination Eligibility
-A destination can become an arc only after its relevant continent/nation/region exists in the World Bible.
+
+A destination may enter the inventory only if its geography, city, region, island, sea, or political territory already exists in the World Bible.
+
+A **RESERVED** destination cannot be selected casually. The later selection team must show that its mystery/reveal dependencies are ready.
+
+A **NOT SUITABLE** destination cannot be promoted directly to an arc. Its worldbuilding must first be narrowed or expanded into a more specific eligible place.
+
+## Destination Selection Gate
+
+After Phase 4 passes, later selection must:
+1. compare eligible existing DEST records;
+2. choose exactly one destination for the next major volume;
+3. justify why its local identity, travel position, conflict capacity, mystery window, and character needs fit the current series state;
+4. run Destination Selection QA;
+5. only then create the corresponding `[Destination Name] Arc`.
 
 ## Arc Naming
+
 Correct: **[Place Name] Arc**.
-Reject event, villain, power-up, or thematic names as the primary arc name.
+
+Reject event, villain, power-up, revelation, or thematic names as the primary arc name.
 
 Old fixed generic arc plans are DEPRECATED.
 

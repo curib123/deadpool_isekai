@@ -85,7 +85,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** I — The Undefined Stranger  
 **Location:** Greywake gate, intake post, outer market edge.  
-**Characters Present:** Red Jackal, gate staff, guild intake clerk, Captain Brynn Alder, Maelis Orra. Maelis observes the anomaly but does not control intake.  
+**Characters Present:** Red Jackal, gate staff, guild intake clerk, Captain Brynn Alder, Maelis Orra. Maelis Orra observes the anomaly but does not control intake.  
 **Opening Situation:** Greywake requires ordinary identification before allowing an unknown armed traveler full access.  
 **Primary Objective:** Get inside, obtain food/shelter, and avoid being detained indefinitely.  
 **Conflict:** Every normal identity field fails; officials cannot decide which rules apply.  
@@ -135,7 +135,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** II — Frontier Work  
 **Location:** Chartered Road Guild hall, caravan yard, Greywake market.  
-**Characters Present:** Red Jackal, Rovan Hesk, Jessa Vale, Brynn Alder briefly.  
+**Characters Present:** Red Jackal, Rovan Rovan Hesk, Jessa Vale, Brynn Alder briefly.  
 **Opening Situation:** Hesk offers Red Jackal provisional dangerous work paid outside normal guild certification.  
 **Primary Objective:** Secure money, supplies, local information, and freedom without submitting to detention or endless testing.  
 **Conflict:** The offer is useful but leaves Red Jackal without normal protections, liability, or appeal.  
@@ -210,7 +210,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** II — Frontier Work  
 **Location:** Side-road skirmish area, Sela Arven's treatment house.  
-**Characters Present:** Red Jackal, Tavian, Sela Arven, injured road worker(s).  
+**Characters Present:** Red Jackal, Tavian Rook, Sela Arven, injured road worker(s).  
 **Opening Situation:** A displaced predator pack attacks somewhere experienced locals did not expect them.  
 **Primary Objective:** Survive and get injured people back to Greywake.  
 **Conflict:** Red Jackal takes a severe hit he assumes he can absorb; someone else is endangered by the same reckless positioning.  
@@ -260,7 +260,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** III — The Road Is Lying  
 **Location:** Forest edge between Main Caravan Road and Broken North Road.  
-**Characters Present:** Red Jackal, Tavian, small Warden/guide presence if needed.  
+**Characters Present:** Red Jackal, Tavian Rook, small Warden/guide presence if needed.  
 **Opening Situation:** Tavian asks Red Jackal to accompany a route check because his previous encounters overlap the abnormal track pattern.  
 **Primary Objective:** Determine why predators/prey are crossing incompatible routes.  
 **Conflict:** Evidence contradicts Guild migration maps.  
@@ -285,7 +285,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** III — The Road Is Lying  
 **Location:** Ledger audit room, Road Guild records office, caravan yard.  
-**Characters Present:** Maelis, Red Jackal, Jessa Vale, Hesk.  
+**Characters Present:** Maelis Orra, Red Jackal, Jessa Vale, Rovan Hesk.  
 **Opening Situation:** Maelis compares casualty and certification records against recent field reports.  
 **Primary Objective:** Explain why road-loss records and actual missing workers do not match.  
 **Conflict:** Hesk deflects discrepancies as frontier chaos; Jessa knows pieces are wrong but fears speaking openly.  
@@ -335,7 +335,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** III — The Road Is Lying  
 **Location:** Broken North Road and Greywake outskirts.  
-**Characters Present:** Red Jackal, Tavian, Maelis, Kellan, later Brynn.  
+**Characters Present:** Red Jackal, Tavian Rook, Maelis Orra, Kellan Dorr, later Captain Brynn Alder.  
 **Opening Situation:** The team examines the discovered march-lure and maps its effect against known routes.  
 **Primary Objective:** Determine whether the lure is isolated, legal, accidental, or part of a network.  
 **Conflict:** Lure placement suggests deliberate long-term use; evidence is incomplete and politically dangerous.  
@@ -360,7 +360,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** III — The Road Is Lying  
 **Location:** Greywake council map room / Guild route archive / outer-route map overlay.  
-**Characters Present:** Red Jackal, Maelis, Tavian, Kellan, Brynn, Hesk, Jessa.  
+**Characters Present:** Red Jackal, Maelis Orra, Tavian Rook, Kellan Dorr, Captain Brynn Alder, Rovan Hesk, Jessa Vale.  
 **Opening Situation:** Enough field and record evidence exists to confront the pattern in one place.  
 **Primary Objective:** Establish who knew the danger was being redirected and whether it was deliberate.  
 **Conflict:** Hesk argues the lures were emergency frontier management; records show the risk repeatedly fell on the same politically weak areas.  
@@ -385,7 +385,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** IV — Necessary Sacrifices  
 **Location:** Council house, Road Guild yard, Greywake Core.  
-**Characters Present:** Red Jackal, Hesk, Maelis, Tavian, Brynn, Kellan, council representatives.  
+**Characters Present:** Red Jackal, Rovan Hesk, Maelis Orra, Tavian Rook, Captain Brynn Alder, Kellan Dorr, council representatives.  
 **Opening Situation:** Greywake must decide whether exposing/stopping the lure policy is survivable.  
 **Primary Objective:** Force a decision on the network before the migration worsens.  
 **Conflict:** Hesk presents a credible case that removing the system abruptly can collapse Greywake's only reliable route and expose the core settlement.  
@@ -435,7 +435,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** IV — Necessary Sacrifices  
 **Location:** Outer road, homestead corridor, Greywake approaches.  
-**Characters Present:** Red Jackal, Kellan, Tavian, Brynn/militia responders, civilians.  
+**Characters Present:** Red Jackal, Kellan Dorr, Tavian Rook, Captain Brynn Alder/militia responders, civilians.  
 **Opening Situation:** The disrupted lure network releases accumulated migration pressure into previously protected corridors.  
 **Primary Objective:** Evacuate people and contain the immediate backflow.  
 **Conflict:** Multiple species begin moving toward Greywake and outer communities simultaneously.  
@@ -460,7 +460,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** V — No Acceptable Loss  
 **Location:** Sela's treatment house, council house, damaged outer approach.  
-**Characters Present:** Red Jackal, Sela, Kellan, Maelis, Tavian, Brynn, Hesk.  
+**Characters Present:** Red Jackal, Sela Arven, Kellan Dorr, Maelis Orra, Tavian Rook, Captain Brynn Alder, Rovan Hesk.  
 **Opening Situation:** Greywake counts the immediate damage from the backflow.  
 **Primary Objective:** Stabilize casualties and decide whether Hesk's sacrificial plan will be restored.  
 **Conflict:** Hesk uses the disaster to demand emergency authority and reactivation of the strongest outer lures.  
@@ -485,7 +485,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** V — No Acceptable Loss  
 **Location:** Council map room, militia yard, route-planning station.  
-**Characters Present:** Red Jackal, Tavian, Maelis, Brynn, Sela, Kellan (limited), Jessa, Hesk/council opposition.  
+**Characters Present:** Red Jackal, Tavian Rook, Maelis Orra, Captain Brynn Alder, Sela Arven, Kellan Dorr (limited), Jessa Vale, Rovan Hesk/council opposition.  
 **Opening Situation:** Greywake needs a plan before the surge reaches the settlement.  
 **Primary Objective:** Build a viable third option between abandoning the outer homesteads and sacrificing Greywake's core.  
 **Conflict:** Time, damaged infrastructure, incomplete maps, political distrust.  
@@ -510,7 +510,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** V — No Acceptable Loss  
 **Location:** Broken North Road, damaged bridges, improvised migration corridor.  
-**Characters Present:** Red Jackal, Tavian, Brynn's militia/work crews, Kellan as adviser if medically plausible, homesteaders.  
+**Characters Present:** Red Jackal, Tavian Rook, Captain Brynn Alder's militia/work crews, Kellan Dorr as adviser if medically plausible, homesteaders.  
 **Opening Situation:** The team begins rebuilding an abandoned route specifically to make monsters choose it instead of inhabited zones.  
 **Primary Objective:** Prepare a viable migration corridor before the surge arrives.  
 **Conflict:** Insufficient materials, predator pressure, damaged roadworks, limited time.  
@@ -535,7 +535,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** V — No Acceptable Loss  
 **Location:** Road Guild storehouse, lure-control route, Greywake Core.  
-**Characters Present:** Red Jackal, Maelis Orra, Jessa Vale, Rovan Hesk, Road Guild loyalists.  
+**Characters Present:** Red Jackal, Maelis Orra, Jessa Vale, Rovan Rovan Hesk, Road Guild loyalists.  
 **Opening Situation:** Jessa realizes Hesk has retained enough lure material to restore the sacrificial route without council approval.  
 **Primary Objective:** Secure the final lure stock, route logs, and authority needed to prevent unilateral reactivation.  
 **Conflict:** Jessa must choose between employment/family security and exposing the Guild; Hesk moves to seize or destroy evidence.  
@@ -560,7 +560,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** VI — Greywake Holds  
 **Location:** Greywake Core, outer homesteads, evacuation routes.  
-**Characters Present:** Red Jackal, Brynn, Tavian, Maelis, Sela, Kellan, Jessa, civilians.  
+**Characters Present:** Red Jackal, Captain Brynn Alder, Tavian Rook, Maelis Orra, Sela Arven, Kellan Dorr, Jessa Vale, civilians.  
 **Opening Situation:** The migration surge is close enough that preparation time is measured in hours.  
 **Primary Objective:** Evacuate exposed people, position militia/work crews, prepare the redirection corridor, and establish fallback points.  
 **Conflict:** Limited carts, injured people, frightened civilians, damaged routes, competing priorities.  
@@ -585,7 +585,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** VI — Greywake Holds  
 **Location:** Outer defenses, migration corridor, Greywake approaches.  
-**Characters Present:** Red Jackal, Tavian, Brynn, militia, homesteaders, civilians.  
+**Characters Present:** Red Jackal, Tavian Rook, Captain Brynn Alder, militia, homesteaders, civilians.  
 **Opening Situation:** The migration begins with prey animals and smaller predators overwhelming prepared routes.  
 **Primary Objective:** Keep the prepared corridor open and prevent panic from collapsing the plan.  
 **Conflict:** Barricades fail, animals scatter, and displaced predators exploit confusion.  
@@ -635,7 +635,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** VI — Greywake Holds  
 **Location:** Final lure site / fork between Broken North corridor and outer homestead route.  
-**Characters Present:** Red Jackal, Rovan Hesk, Maelis Orra, Jessa Vale, Tavian Rook, Captain Brynn Alder.  
+**Characters Present:** Red Jackal, Rovan Rovan Hesk, Maelis Orra, Jessa Vale, Tavian Rook, Captain Brynn Alder.  
 **Opening Situation:** Hesk attempts to restore the sacrificial route as the migration reaches the critical fork.  
 **Primary Objective:** Stop the final lure policy while keeping the migration committed to the prepared corridor.  
 **Conflict:** Red Jackal must choose between pursuing Hesk personally, maintaining the migration solution, and protecting people in immediate danger.  
@@ -660,7 +660,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** VII — What Greywake Counts  
 **Location:** Greywake Core, treatment house, council hall, damaged road approaches.  
-**Characters Present:** Red Jackal, Maelis, Tavian, Brynn, Sela, Kellan, Jessa, Hesk under guard/removed from authority, council/public representatives.  
+**Characters Present:** Red Jackal, Maelis Orra, Tavian Rook, Captain Brynn Alder, Sela Arven, Kellan Dorr, Jessa Vale, Rovan Hesk under guard/removed from authority, council/public representatives.  
 **Opening Situation:** The immediate danger has passed, but the settlement must count casualties, damage, evidence, and responsibility.  
 **Primary Objective:** Resolve the local political/institutional conflict and establish what changes permanently.  
 **Conflict:** Greywake cannot simply celebrate; trade is damaged, people are hurt, and some residents still believe Hesk's policy was necessary.  

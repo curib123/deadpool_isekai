@@ -306,3 +306,37 @@ Even after limited admission, Red Jackal still does not know:
 - why he regenerated;
 - why the CH-001 manifestation occurred;
 - any protected mystery truth.
+
+
+# CH-002 Canon Checkpoint
+
+**Status:** CANON — GATE 9 PASS
+
+After CH-002 — Undefined, Red Jackal canonically knows:
+
+- the settlement is called **Greywake**;
+- spoken communication can be mediated by a Wayfarer Tongue Token;
+- the token does not grant literacy;
+- the World System is a normal civic identity structure used by locals;
+- the Gate Registry Seal returns **System Recognition: FAILED** and **World Registry: NO RECORD** for him;
+- the independent Certified Identity Slate also fails to construct normal identity data;
+- his self-declared alias **Red Jackal** can be recorded manually but does not become a valid System Name;
+- his locked identity state includes UNDEFINED / UNAVAILABLE / NO RECORD results;
+- two independent legitimate interfaces fail consistently;
+- Greywake admits him only provisionally with an **Unverified Entrant Token**;
+- he cannot use normal registered guild/traveler privileges;
+- he must report for a controlled follow-up identity check;
+- Maelis Orra of the Ledger of Measures has professional interest in that follow-up.
+
+Red Jackal still does **not** know:
+- why the System cannot define him;
+- whether the failure can ever be repaired;
+- why his regeneration behaves abnormally;
+- why the CH-001 manifestation occurred;
+- any protected series mystery truth.
+
+## CH-002 F-001 Knowledge Consequence
+
+F-001 is now **PLANTED — CH-002** because Red Jackal and qualified Greywake personnel witnessed two independent authorized System interfaces fail consistently.
+
+This does not reveal the hidden meaning of F-001.

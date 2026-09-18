@@ -105,11 +105,13 @@ The authoritative Volume 1 chapter roadmap is:
 
 The next authorized planning artifact is:
 
-`CH-001 — Wrong Forest, Wrong World: Detailed Scene Architecture`
+`CH-001 — Wrong Forest, Wrong World: Manuscript Draft`
 
-Do not create detailed Scene Architecture for CH-002 or later chapters until CH-001 Scene Architecture has been reviewed.
+CH-001 Scene Architecture has passed Gate 8.
 
-Do not write manuscript prose during Scene Architecture.
+Drafting CH-001 manuscript prose is now authorized.
+
+Do not draft CH-002 or create CH-002 Scene Architecture during the CH-001 manuscript step.
 
 # 5. Scene Sheet
 Each scene has:

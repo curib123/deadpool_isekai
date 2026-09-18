@@ -552,20 +552,20 @@ He still does not know:
 - the System;
 - why any anomaly happened;
 - whether other people are safe;
-- what Greywake is beyond a place name/direction.
+- the settlement's name, politics, culture, or status.
 
 ### Discovery
 He reaches clearly maintained travel infrastructure:
 - repaired road surface or drainage;
 - recent wheel/boot/hoof use;
 - maintained post/marker;
-- readable destination indicator naming **Greywake**.
+- recognizable directional iconography indicating an inhabited settlement lies ahead.
 
-If signage uses writing, Red Jackal may understand the visible place-name at this stage only if later canon accepts cross-world language comprehension as baseline.
+Production truth: the road leads toward **Greywake**.
 
-**Important Pre-Manuscript Dependency:** if language comprehension has not been canonized elsewhere, the manuscript must avoid solving this silently. The scene can instead use recognizable directional iconography plus a physically repeated place-name whose comprehension is deferred until contact in CH-002.
+Red Jackal does **not** read or understand the settlement's written name in CH-001.
 
-This dependency must be resolved during Pre-Manuscript QA before prose authorization.
+The actual name **Greywake** is learned through later human contact in CH-002, after language handling is established there.
 
 ### Reader-Talk Opportunity
 Red Jackal can frame “civilization” as either rescue or the next category of problem.
@@ -603,7 +603,7 @@ Pain/fatigue follows him toward the road.
 ### Worldbuilding Introduced Naturally
 - this region has maintained routes;
 - trade/travel is active enough to justify signage;
-- Greywake exists as the nearest named human destination;
+- an inhabited settlement exists ahead on the maintained route;
 - civilization is close enough to reach by following the road.
 
 Do not introduce Greywake politics or culture yet.
@@ -615,6 +615,7 @@ Red Jackal must end CH-001:
 - without local currency;
 - without formal identity;
 - without System knowledge;
+- without knowing the settlement name Greywake;
 - without meeting any named character;
 - with the wound mostly/impossibly improved but not treated;
 - with only one experienced Play Logic event.
@@ -730,21 +731,20 @@ CH-001 must not explain:
 - cosmology;
 - ancient history.
 
-# 9. Pre-Manuscript Dependency Requiring Resolution
+# 9. Language Boundary — RESOLVED FOR CH-001
 
-## Language / Sign Comprehension
+CH-001 uses **No Silent Translation**.
 
-The current canon reviewed for CH-001 does not explicitly establish why an Earth-born Red Jackal can read a Veyran road sign.
+Red Jackal may recognize:
+- maintained road engineering;
+- directional arrows/icons;
+- settlement/travel symbols through visual context.
 
-Before manuscript drafting, choose one canon-safe implementation:
+He may **not** read Veyran writing in CH-001.
 
-**Option A — No Silent Translation:**  
-CH-001 sign communicates direction through symbols/road design, while the spoken/written name Greywake is learned from people at the CH-002 gate.
+The name **Greywake** is production metadata for the road's destination, not Red Jackal knowledge yet.
 
-**Option B — Baseline Language Compatibility:**  
-A separate canon rule explicitly establishes that Red Jackal can understand the dominant local spoken/written language upon arrival, without explaining the deeper mechanism yet.
-
-Until this is resolved, manuscript prose must not silently give him unexplained reading fluency.
+Language comprehension beyond this point is deferred to CH-002 Scene Architecture and must not be retroactively assumed in CH-001.
 
 # 10. Scene Architecture Locks After QA
 

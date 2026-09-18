@@ -138,7 +138,34 @@ If any critical requirement fails: **FAIL — RESELECT OR RETURN TO DESTINATION 
 
 If any CRITICAL or MAJOR item fails: **FAIL — RETURN TO THE OWNING AGENT AND RE-RUN GATE 6.**
 
-# Gate 7 — Chapter QA
+# Gate 7 — Chapter Roadmap QA
+**Owners:** A080 Chapter Architect, A081 Scene Architect, A072 Pacing Editor, A042 Character Arc Editor, A043 Red Jackal Guardian, A044 Supporting Cast Editor, A045 Antagonist Editor, A050 Mystery Director, A051 Foreshadowing Editor, A037 Power Balance Editor, A100 Continuity Director, A102 Knowledge-State Editor, A111 Logic Editor.
+
+- Is the final chapter count explicitly defined?
+- Does every chapter have a unique chapter ID and working title?
+- Does every chapter specify location, present characters, opening situation, primary objective, conflict, exploration purpose, character beat, protagonist development, supporting development, antagonist pressure, action progression, Play Logic use, regeneration consequence, aura/comedy opportunities, mystery/foreshadowing, continuity dependencies, knowledge dependencies, and ending beat?
+- Are the seven locked volume movements mapped naturally across the roadmap?
+- Is the midpoint placed clearly and does it preserve the locked revelation?
+- Is the major reversal placed clearly and causally follow from Red Jackal's mistake?
+- Does the climax build across multiple chapters rather than appear abruptly?
+- Does the local resolution receive enough space after the climax?
+- Does departure pacing allow consequences to breathe?
+- Do chapter functions vary enough to avoid repetitive mission structure?
+- Does action escalate by complexity/stakes rather than only stronger enemies?
+- Does Red Jackal remain Stage I throughout the volume?
+- Are regeneration pain/exhaustion limits carried forward?
+- Are supporting characters distributed according to their independent roles?
+- Does Hesk's pressure escalate consistently without omniscience?
+- Are F-001 through F-004 assigned only as planned locations and still **PLANNED — NOT YET PLANTED**?
+- Are M-002, observational M-005, and limited M-007 the only approved mystery uses?
+- Are protected writer truths absent from chapter knowledge?
+- Are continuity and knowledge-state dependencies explicit enough for later scene planning?
+- Is Volume 2 still unselected?
+- Are detailed scenes, final dialogue, and manuscript prose still deferred?
+
+If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO CHAPTER ARCHITECT AND RE-RUN ROADMAP QA.**
+
+# Gate 8 — Chapter QA
 **Owner:** A120 with specialists.
 
 ## Story
@@ -183,7 +210,7 @@ If any CRITICAL or MAJOR item fails: **FAIL — RETURN TO THE OWNING AGENT AND R
 - foreshadowing status accurate?
 - no clue marked PLANTED without actual prose?
 
-# Gate 8 — Series QA
+# Gate 9 — Series QA
 **Owner:** A123 Series QA Board.
 
 Periodically verify:

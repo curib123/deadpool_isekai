@@ -312,7 +312,73 @@ A rarely sighted island west of Avarra whose charted position changes by dozens 
 **Magic tradition:** Heat wards, preservation, storm-reading, light storage.  
 **Historical trauma:** The Forty-Day Whiteout.
 
-# 6. Major Factions
+# 6. Intelligent Peoples and Species
+
+These profiles describe broad biological/metaphysical peoples, not single cultures. Culture, citizenship, religion, and morality are never determined solely by species.
+
+## PEOPLE-01 — Humans
+
+**Distribution:** All four mapped continents.  
+**Lifespan:** Usually 70–100 years without magical extension.  
+**Traits:** High adaptability, no universal magical affinity, broad physiological variation.  
+**System interaction:** Standard registration model used by many institutions was historically built around human-majority records, though the System itself is not human-exclusive.  
+**Cultural rule:** No single “human culture” exists.
+
+## PEOPLE-02 — Dwarrow
+
+**Distribution:** Crownspine, Kharadi highlands, major craft cities.  
+**Lifespan:** Commonly 140–190 years.  
+**Traits:** Dense bone structure, strong low-light vision, sensitivity to mineral resonance and vibration.  
+**Magic affinity:** Stone, metal, heat, structural enchantment are culturally common but not biologically mandatory.  
+**System interaction:** Normal registration; some craft classes develop unusually deep specialization.  
+**Cultural rule:** Mountain holds, urban guild families, and Kharadi dwarrow communities have distinct identities.
+
+## PEOPLE-03 — Riverkin
+
+**Distribution:** Sable Basin, Brasswater deltas, Namarra wetlands.  
+**Lifespan:** Roughly 80–120 years.  
+**Traits:** Semi-aquatic ancestry expressed through strong swimming adaptation, pressure tolerance, subtle webbing, and high resistance to common waterborne pathogens.  
+**Magic affinity:** Water sensing and current-reading occur more often than average but require training.  
+**System interaction:** Standard.  
+**Cultural rule:** Riverkin are citizens of many states and are not a single nation.
+
+## PEOPLE-04 — Verdant-Bound
+
+**Distribution:** Primarily Namarra, with smaller diaspora communities.  
+**Lifespan:** 110–170 years.  
+**Traits:** Symbiotic internal mana-organisms allow limited exchange with certain plant/fungal networks; skin, eyes, or hair may show seasonal pigment shifts.  
+**Magic affinity:** Healing, growth-shaping, memory-binding traditions are common.  
+**System interaction:** Normal, although symbiotic states can appear as persistent blessings or traits depending on local registry conventions.  
+**Cultural rule:** Not all Verdant-Bound belong to the Rootbound Concord.
+
+## PEOPLE-05 — Veyrborn Demons
+
+**Distribution:** Scattered; significant populations in Ember Principalities, southern Kharad, remote Avarran enclaves, and unmapped territories.  
+**Lifespan:** Highly variable by lineage, commonly 90–220 years.  
+**Traits:** “Demon” is an old umbrella category for several mana-adapted lineages with features such as horns, unusual eyes, heat tolerance, shadow sensitivity, or dense internal mana channels.  
+**Magic affinity:** Often pronounced, but lineage-specific.  
+**System interaction:** Standard when born within normal Veyr continuity.  
+**Moral rule:** Demonic lineage is not equivalent to evil, corruption, or allegiance to a demon state.  
+**Historical problem:** Several religions and states still preserve discriminatory laws based on old wars.
+
+## PEOPLE-06 — Pale-Touched
+
+**Distribution:** Outer Pale and rare northern diasporas.  
+**Lifespan:** 100–150 years.  
+**Traits:** Cold-adapted physiology, low resting heat loss, strong auroral sensitivity. Some families display faint luminescent iris rings during mana storms.  
+**Magic affinity:** Wardcraft, preservation, storm-reading.  
+**System interaction:** Standard, though auroral events can temporarily distort status readings.  
+**Cultural rule:** Pale-Touched ancestry does not imply membership in the Pale Marches.
+
+## Species QA Rules
+
+- No species determines alignment.
+- No species owns a single culture.
+- Mixed communities and mixed ancestry exist.
+- System registration recognizes species/race patterns but does not dictate citizenship or social worth.
+- Regional prejudice may exist as worldbuilding, but it must be historically grounded rather than treated as objective truth.
+
+# 7. Major Factions
 
 ## FACTION-01 — Ledger of Measures
 
@@ -354,7 +420,7 @@ A rarely sighted island west of Avarra whose charted position changes by dozens 
 **Resources:** Fortified shrines, cold-weather specialists, ancient fragments.  
 **Hidden knowledge:** The Bell predates every recorded Pale settlement.
 
-# 7. World History
+# 8. World History
 
 ## Era I — First Weathering
 
@@ -422,7 +488,7 @@ Year 573 CC. A Ledger expedition into the Ashfall Belt returned with inconsisten
 ## Present
 **Year 612 CC.**
 
-# 8. Economy and Travel
+# 9. Economy and Travel
 
 ## Currencies
 
@@ -461,7 +527,7 @@ Long-range teleportation exists only through **licensed gate complexes** built o
 
 Major states use customs posts, guild seals, travel documents, cargo inspection, and magical checks inconsistently. Frontier and wilderness borders may have no fixed checkpoint.
 
-# 9. Monster Ecology
+# 10. Monster Ecology
 
 ## CREATURE-01 — Crownhorn Grazer
 Large mountain herbivore of the Crownspine. Feeds on mineral-rich moss and stores trace mana in horn ridges. Preyed upon by cliff drakes and hunted carefully for horn plates.
@@ -481,7 +547,7 @@ Floating colonial organism of the Outer Pale producing pale heatless light. Feed
 ## CREATURE-06 — Ash Hound
 Rare anomaly-linked predator found near the Ashfall Belt. Appears physically normal until stressed, when its position can “skip” short distances. Ledger classification remains disputed.
 
-# 10. Knowledge Layers
+# 11. Knowledge Layers
 
 | Subject | Public Knowledge | Expert Knowledge | Hidden / Writer Truth |
 |---|---|---|---|
@@ -493,7 +559,7 @@ Rare anomaly-linked predator found near the Ashfall Belt. Appears physically nor
 | Ashfall Belt | Ancient disaster zone | System and map errors repeat | Some damage involves reality-rule instability |
 | Reincarnation | Religion-dependent belief | Soul persistence has measurable signs | Normal soul routing is structured and registrable |
 
-# 11. Unused Place Registry
+# 12. Unused Place Registry
 
 These are **world locations only**, not arcs, not volume assignments, and not a route order.
 
@@ -513,7 +579,7 @@ These are **world locations only**, not arcs, not volume assignments, and not a 
 14. **PLACE-U14 Ashglass Vale** — abandoned settlement belt inside Ashfall territory.
 15. **PLACE-U15 Eaststorm Cape** — shipwreck coast and storm-clan territory.
 
-# 12. Foundation World Logic
+# 13. Foundation World Logic
 
 - Mountains, rivers, currents, and climate constrain settlement and trade.
 - Magic modifies logistics but does not erase distance, scarcity, weather, politics, or ecology.
@@ -524,7 +590,7 @@ These are **world locations only**, not arcs, not volume assignments, and not a 
 - The known world is not the whole world.
 - Unused locations exist independently of future story planning.
 
-# 13. Phase 1 World QA Summary
+# 14. Phase 1 World QA Summary
 
 **Geography:** PASS — four macro continents, three major seas, islands, regions, routes, climatic logic.  
 **Politics:** PASS — five major states with different institutions and smaller powers.  

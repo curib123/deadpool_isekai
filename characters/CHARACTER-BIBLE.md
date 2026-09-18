@@ -1019,3 +1019,220 @@ PASS — species, factions, nations, System, magic, and cultural origins match P
 
 ## Scope Control
 PASS — no destination arc, volume, chapter, scene, or manuscript content created.
+
+
+# 12. Volume 1 Deployment Records — Greywake Arc
+
+**Status:** CANON DEPLOYMENT SUPPORT  
+**Scope:** Character placement only. Plot architecture remains owned by `volumes/VOLUME-001-GREYWAKE-ARCHITECTURE.md`.
+
+## CHAR-002 — Maelis Orra
+
+**Volume 1 Deployment:** APPROVED — Greywake Arc.
+
+**Independent Presence:** Ledger of Measures field audit of inconsistent Greywake road-guild casualty, certification, and liability records.
+
+**Volume Function:** intellectual foil, anomaly examiner, documentary investigator.
+
+**Boundary:** Maelis does not know Red Jackal's true origin, Great Design truth, Savael, Exterior Needle, or Play Logic's writer-truth mechanism.
+
+## CHAR-003 — Tavian Rook
+
+**Volume 1 Deployment:** APPROVED — Greywake Arc.
+
+**Independent Presence:** Crownspine Warden liaison investigating abnormal monster-route drift affecting western pass traffic and frontier safety.
+
+**Volume Function:** martial competence foil, monster-route expert, rescue/tactical specialist.
+
+**Boundary:** Tavian does not become Red Jackal's subordinate or admirer. Respect may grow without ideological agreement.
+
+# 13. Greywake-Local Character Records
+
+These characters are native/local to Volume 1 architecture and are not automatically recurring after Greywake.
+
+## CHAR-011 — Captain Brynn Alder
+
+**Species:** Human  
+**Age:** 39  
+**Origin:** Greywake, Hollow March  
+**Affiliation:** Greywake Militia  
+**Role Type:** local commander / civic ally
+
+### History
+Former caravan guard who stayed in Greywake after losing a long-term partner on the northern road. Rose through militia ranks because locals trusted practical judgment more than formal pedigree.
+
+### Goal
+Keep Greywake's walls and civilians alive without turning the militia into the Chartered Road Guild's private enforcement arm.
+
+### Fear
+Being forced to choose between obeying the settlement's institutions and protecting the people those institutions claim to serve.
+
+### Strengths
+- defensive planning;
+- crisis command;
+- local trust;
+- militia coordination;
+- practical frontier combat.
+
+### Flaws
+- politically cautious;
+- slow to accuse powerful locals without proof;
+- carries too much responsibility personally.
+
+### Relationship to Red Jackal
+Treats him as dangerous but potentially useful. Values results more than presentation and does not reward aura farming automatically.
+
+### Relationship to Rovan Hesk
+Respects what Hesk once did for Greywake, but increasingly distrusts his secrecy and control over route decisions.
+
+## CHAR-012 — Sela Arven
+
+**Species:** Riverkin  
+**Age:** 51  
+**Origin:** Sable tributary communities, later Greywake resident  
+**Affiliation:** Independent healer / Greywake treatment house  
+**Role Type:** healer / consequence witness
+
+### Goal
+Keep frontier casualties alive with limited medicine, mana, staff, and time.
+
+### Strengths
+- trauma care;
+- poison treatment;
+- practical medicine;
+- battlefield triage;
+- blunt honesty.
+
+### Flaws
+- impatient with avoidable injuries;
+- distrusts people who romanticize danger;
+- overworks during crises.
+
+### Relationship to Red Jackal
+Observes that his regeneration behaves unlike ordinary healing and refuses to treat regeneration as permission for self-destruction.
+
+### Knowledge Boundary
+May observe M-005 symptoms. Does not know the self-model mechanism.
+
+## CHAR-013 — Kellan Dorr
+
+**Species:** Human  
+**Age:** 33  
+**Origin:** Outer Greywake homesteads  
+**Affiliation:** Outer Homestead Compact  
+**Role Type:** community representative / practical engineer
+
+### History
+Carpenter and bridge repairer whose work keeps several outer routes usable. Elected informally as a speaker because he travels between homesteads and the core settlement.
+
+### Goal
+Keep outer communities recognized as part of Greywake rather than expendable margins.
+
+### Strengths
+- repair work;
+- route knowledge;
+- practical engineering;
+- community trust.
+
+### Flaws
+- openly hostile to central-settlement elites;
+- assumes bad faith quickly;
+- can reject compromise before hearing it.
+
+### Relationship to Red Jackal
+Judges him by whether he actually shows up when consequences arrive, not by what he calls himself.
+
+## CHAR-014 — Jessa Vale
+
+**Species:** Human  
+**Age:** 22  
+**Origin:** Greywake  
+**Affiliation:** Greywake Chartered Road Guild  
+**Role Type:** junior route clerk / complicity witness
+
+### History
+Entered guild service for stable pay after a family debt crisis. Learned route schedules, certification procedures, supply logging, and casualty paperwork.
+
+### Goal
+Gain enough status and income to support younger siblings and escape dangerous field assignments.
+
+### Strengths
+- route records;
+- schedule memory;
+- supply-log knowledge;
+- administrative accuracy.
+
+### Flaws
+- conflict-avoidant;
+- afraid of unemployment;
+- rationalizes wrongdoing when challenging it feels personally dangerous.
+
+### Relationship to Rovan Hesk
+Initially sees him as the person who kept Greywake alive and kept her employed.
+
+### Volume Function
+Possesses documentary fragments needed to prove deliberate manipulation without making her a secret mastermind.
+
+# 14. Volume 1 Local Antagonist Record
+
+## ANTAG-GW-001 — Roadmaster Rovan Hesk
+
+**Species:** Human  
+**Age:** 48  
+**Origin:** Greywake / Hollow March  
+**Affiliation:** Greywake Chartered Road Guild  
+**Position:** Roadmaster and settlement-council member  
+**Status:** Volume 1 local antagonist
+
+### History
+Survived a catastrophic winter isolation eleven years before the story, helped reopen Greywake's road, and concluded that the frontier survives only when someone chooses what must be preserved.
+
+### Worldview
+**A frontier does not survive by saving everyone. It survives by deciding what cannot be allowed to die.**
+
+### Goal
+Keep Greywake's main trade road commercially viable long enough to secure stronger Valedorn charter support and long-term road funding.
+
+### Methods
+- illegal high-strength march-lures;
+- falsified route-loss reporting;
+- selective contracts;
+- influence over road intelligence;
+- expendable off-book labor;
+- political pressure.
+
+### Resources
+- road-guild personnel;
+- route maps;
+- lure compounds;
+- warehouses;
+- guards;
+- wagons;
+- council influence.
+
+### What He Protects
+Greywake's core settlement, trade lifeline, food access, and long-term economic viability.
+
+### What He Sacrifices
+Outer homesteads, unregistered travelers, politically weak camps, inconvenient evidence, and people he classifies as acceptable loss.
+
+### Weaknesses
+- tunnel vision;
+- control bias;
+- assumes logistics justify morality;
+- underestimates people he cannot categorize.
+
+### Relationship to Red Jackal
+Initially treats him as useful unregistered labor and later as a possible scapegoat. This makes the conflict directly about personhood, usefulness, and imposed roles.
+
+### Win Condition
+Main road remains open, migration is diverted into outer territory, evidence is suppressed, charter prospects remain strong, and Red Jackal can be blamed if necessary.
+
+### Consequence If Victorious
+Greywake remains commercially viable in the short term while weaker communities are erased and sacrifice becomes policy.
+
+### Consequence If Defeated
+The manipulation becomes public, Guild authority collapses or is restructured, and Greywake must survive without secretly designating expendable communities.
+
+### Return Status
+Not automatically recurring. Later use requires explicit post-Greywake justification.

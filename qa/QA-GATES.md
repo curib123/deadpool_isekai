@@ -98,17 +98,45 @@ If inventory counts, World Bible sourcing, or route neutrality fail: **FAIL — 
 If any critical requirement fails: **FAIL — RESELECT OR RETURN TO DESTINATION DIRECTOR.**
 
 # Gate 6 — Volume/Arc QA
-**Owners:** A071, A072, A121, A122.
+**Owners:** A061 Arc Architect, A063 Local Story Editor, A071 Volume Editor, A072 Pacing Editor, A042 Character Arc Editor, A043 Red Jackal Guardian, A044 Supporting Cast Editor, A045 Antagonist Editor, A050 Mystery Director, A051 Foreshadowing Editor, A037 Power Balance Editor, A064 Travel Editor, A100 Continuity Director, A102 Knowledge-State Editor, A111 Logic Editor, A121 Volume QA Editor, A122 Arc QA Editor.
 
-- One major volume = one destination arc?
-- arrival/setup established?
-- culture introduced naturally?
-- pacing varies among action, exploration, character, mystery and downtime?
-- midpoint/escalation/climax earned?
-- supporting cast matters?
-- Red Jackal leaves consequences?
-- departure or next-destination transition natural?
-- structure not mechanically copied from the previous volume?
+- Is one major volume still exactly one destination arc?
+- Does the architecture preserve the approved destination identity?
+- Is Red Jackal's arrival state compatible with existing mystery/system canon?
+- Is there a clear reason he becomes involved that fits his anti-villain personality?
+- Is the exact local conflict defined and rooted in Greywake rather than generic fantasy danger?
+- Is the main antagonist/opposing force fully defined with history, motive, worldview, resources, methods, win condition, and meaningful sympathy boundary?
+- Can the antagonist act independently of Red Jackal?
+- Is there a non-human/environmental opposing force where appropriate?
+- Are recurring supporting characters deployed only where their independent goals justify presence?
+- Are local characters defined where the destination needs them?
+- Do local factions have competing goals rather than acting as one block?
+- Does exploration use multiple parts of the destination?
+- Are monster/wilderness threats ecological rather than random encounter filler?
+- Does action escalate by stakes/type instead of only larger enemies?
+- Does Play Logic remain within the approved mastery stage?
+- Does regeneration retain pain, exhaustion, and consequence limits?
+- Are aura-farming opportunities balanced across success, indifference, and backfire?
+- Is comedy optional and situational rather than quota-driven?
+- Does the architecture contain real serious consequences that comedy/regeneration cannot erase?
+- Does Red Jackal develop without becoming a conventional hero?
+- Do supporting characters have their own development beats?
+- Is a clear midpoint shift defined?
+- Is a major reversal defined and causally earned?
+- Does Red Jackal make at least one meaningful mistake or face a consequence rather than being protected by author favoritism?
+- Is the climax solvable through combined competencies rather than Red Jackal alone?
+- Is the local conflict meaningfully resolved before departure?
+- Are lasting political, social, economic, ecological, or infrastructural consequences defined?
+- Is the departure condition clear without selecting the next destination?
+- Are mystery reveals limited to the approved window?
+- Are protected writer truths still protected?
+- Are selected F-IDs still **PLANNED — NOT YET PLANTED**?
+- Does the knowledge-state file prevent characters from knowing unearned truths?
+- Is pacing architected across action, exploration, social/worldbuilding, investigation, comedy, and consequence?
+- Is Volume 2 still unselected?
+- Are chapter count, chapter titles, scene order, dialogue, and manuscript prose still deferred?
+
+If any CRITICAL or MAJOR item fails: **FAIL — RETURN TO THE OWNING AGENT AND RE-RUN GATE 6.**
 
 # Gate 7 — Chapter QA
 **Owner:** A120 with specialists.

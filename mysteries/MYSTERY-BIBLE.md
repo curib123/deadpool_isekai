@@ -829,7 +829,7 @@ Allowed truths:
 
 # 8. Foreshadowing Registry
 
-Every entry below begins with **PLANNED — NOT YET PLANTED**.
+Each entry below records its current foreshadowing state. New F-IDs begin as **PLANNED — NOT YET PLANTED** and may change to **PLANTED** only after approved manuscript evidence passes Chapter QA.
 
 ## F-001 — Independent Appraisals Fail Consistently
 
@@ -839,8 +839,10 @@ Every entry below begins with **PLANNED — NOT YET PLANTED**.
 **Hidden meaning:** the data is not concealed; the required registry root does not exist.  
 **Eligible window:** RW-0 / RW-1.  
 **Payoff:** M-002.  
-**Actual manuscript reference:** none.  
-**Status:** PLANNED — NOT YET PLANTED.
+**Actual manuscript reference:** `manuscript/CH002-UNDEFINED.md` — Gate Registry Seal + Certified Identity Slate.  
+**Planted chapter:** CH-002 — Undefined.  
+**QA evidence:** `qa/CH-002-GATE-9-CHAPTER-QA.md`.  
+**Status:** PLANTED — CH-002.
 
 ## F-002 — Physical Data Without Identity Data
 
@@ -1133,7 +1135,7 @@ No F-ID may change to PLANTED until actual manuscript prose contains the approve
 
 | F-ID | Planned Greywake Chapter | Status |
 |---|---:|---|
-| F-001 | CH-002 | PLANNED — NOT YET PLANTED |
+| F-001 | CH-002 | PLANTED — CH-002 |
 | F-002 | CH-003 | PLANNED — NOT YET PLANTED |
 | F-004 | CH-005 | PLANNED — NOT YET PLANTED |
 | F-003 | CH-007 | PLANNED — NOT YET PLANTED |
@@ -1146,10 +1148,10 @@ A clue becomes PLANTED only after approved manuscript prose contains the actual 
 
 
 
-# 13. CH-002 F-001 Scene Planning
+# 13. CH-002 F-001 Planting Record
 
 **Chapter:** CH-002 — Undefined  
-**Status:** PLANNING ONLY — NO MANUSCRIPT YET
+**Status:** PLANTED — GATE 9 PASS
 
 F-001 is planned through two distinct standard interfaces:
 
@@ -1160,6 +1162,6 @@ These are independent institutional interfaces with different intake purposes.
 
 This chapter architecture must not perform the physical-measurement contrast reserved for F-002.
 
-**F-001 Status: PLANNED — NOT YET PLANTED**
+**F-001 Status: PLANTED — CH-002**
 
-No status change is allowed until approved CH-002 manuscript prose actually contains the clue.
+Approved manuscript evidence exists in `manuscript/CH002-UNDEFINED.md` and passed `qa/CH-002-GATE-9-CHAPTER-QA.md`.

@@ -904,9 +904,9 @@ This is a world-expansion requirement, not a failure of the existing inventory.
 
 ## Classification Count
 
-**HIGH POTENTIAL:** 12  
-**RESERVED:** 7  
-**UNUSED:** 5  
+**HIGH POTENTIAL:** 14  
+**RESERVED:** 6  
+**UNUSED:** 4  
 **NOT SUITABLE:** 3 named destinations + 1 documented divine-category gap
 
 No classification implies route order or volume number.

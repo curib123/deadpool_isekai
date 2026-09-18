@@ -135,7 +135,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** II — Frontier Work  
 **Location:** Chartered Road Guild hall, caravan yard, Greywake market.  
-**Characters Present:** Red Jackal, Rovan Rovan Hesk, Jessa Vale, Brynn Alder briefly.  
+**Characters Present:** Red Jackal, Rovan Hesk, Jessa Vale, Captain Brynn Alder briefly.  
 **Opening Situation:** Hesk offers Red Jackal provisional dangerous work paid outside normal guild certification.  
 **Primary Objective:** Secure money, supplies, local information, and freedom without submitting to detention or endless testing.  
 **Conflict:** The offer is useful but leaves Red Jackal without normal protections, liability, or appeal.  

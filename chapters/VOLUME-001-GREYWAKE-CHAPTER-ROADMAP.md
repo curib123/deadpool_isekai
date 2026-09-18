@@ -85,7 +85,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** I — The Undefined Stranger  
 **Location:** Greywake gate, intake post, outer market edge.  
-**Characters Present:** Red Jackal, gate staff, guild intake clerk, Captain Brynn Alder briefly; Maelis may observe near the end but does not control intake.  
+**Characters Present:** Red Jackal, gate staff, guild intake clerk, Captain Brynn Alder, Maelis Orra. Maelis observes the anomaly but does not control intake.  
 **Opening Situation:** Greywake requires ordinary identification before allowing an unknown armed traveler full access.  
 **Primary Objective:** Get inside, obtain food/shelter, and avoid being detained indefinitely.  
 **Conflict:** Every normal identity field fails; officials cannot decide which rules apply.  
@@ -160,7 +160,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** II — Frontier Work  
 **Location:** Main Caravan Road, damaged bridge/worksite.  
-**Characters Present:** Red Jackal, road crew, Jessa or guild escort, minor predators.  
+**Characters Present:** Red Jackal, Road Guild work crew, assigned road guards, minor predators.  
 **Opening Situation:** A routine repair/escort assignment becomes dangerous when a damaged structure and opportunistic monsters intersect.  
 **Primary Objective:** Finish the job and get paid without relying on tools he does not have.  
 **Conflict:** Conventional equipment is insufficient or breaks at the wrong moment.  
@@ -235,7 +235,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** II — Frontier Work  
 **Location:** Outer Homesteads, minor road, Kellan Dorr's bridge/worksite.  
-**Characters Present:** Red Jackal, Kellan Dorr, homesteaders, possibly Tavian.  
+**Characters Present:** Red Jackal, Kellan Dorr, outer-homestead workers.  
 **Opening Situation:** Red Jackal takes work beyond the protected main route and sees the disparity firsthand.  
 **Primary Objective:** Help repair/secure an outer route long enough to move people or supplies.  
 **Conflict:** Outer residents receive late warnings, poor road maintenance, and fewer guards despite paying into Greywake's economy.  
@@ -310,7 +310,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** III — The Road Is Lying  
 **Location:** Broken North Road, ruined watch point, forest-encroached stoneworks.  
-**Characters Present:** Red Jackal, Tavian, Maelis, possibly Kellan as local route guide.  
+**Characters Present:** Red Jackal, Tavian Rook, Maelis Orra, Kellan Dorr.  
 **Opening Situation:** Field and record evidence point toward an abandoned section of the old road.  
 **Primary Objective:** Verify whether something physical is altering migration behavior.  
 **Conflict:** Dangerous terrain, displaced predators, and evidence that someone has maintained hidden equipment in an officially abandoned zone.  
@@ -635,7 +635,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** VI — Greywake Holds  
 **Location:** Final lure site / fork between Broken North corridor and outer homestead route.  
-**Characters Present:** Red Jackal, Hesk, Maelis and/or Jessa for evidence/authority, Tavian/Brynn as timing demands.  
+**Characters Present:** Red Jackal, Rovan Hesk, Maelis Orra, Jessa Vale, Tavian Rook, Captain Brynn Alder.  
 **Opening Situation:** Hesk attempts to restore the sacrificial route as the migration reaches the critical fork.  
 **Primary Objective:** Stop the final lure policy while keeping the migration committed to the prepared corridor.  
 **Conflict:** Red Jackal must choose between pursuing Hesk personally, maintaining the migration solution, and protecting people in immediate danger.  
@@ -685,7 +685,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** VII — What Greywake Counts  
 **Location:** Greywake river landing / gate / road edge; no next destination named.  
-**Characters Present:** Red Jackal; selected farewells with Maelis, Tavian, Brynn/Sela/Kellan/Jessa as pacing permits.  
+**Characters Present:** Red Jackal, Maelis Orra, Tavian Rook, Captain Brynn Alder, Sela Arven, Kellan Dorr, Jessa Vale.  
 **Opening Situation:** Greywake begins reconstruction while Red Jackal now has enough resources and local knowledge to travel independently.  
 **Primary Objective:** Close the Greywake Arc and establish why he chooses to leave rather than settle into a role.  
 **Conflict:** Staying would mean accepting increasing expectations: hero, anomaly, weapon, patient, subject, employee, problem.  
@@ -718,7 +718,7 @@ Primary roadmap presence:
 - CH-021/024/025 resolution support;
 - CH-026 optional farewell.
 
-Her exact presence in CH-002 may remain observational until Chapter 1–3 Scene Architecture decides timing.
+Her CH-002 presence is locked as observational; later Scene Architecture decides exact entrance timing inside the chapter.
 
 ## Tavian Rook
 Primary roadmap presence:

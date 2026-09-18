@@ -220,6 +220,19 @@ He is willing to sacrifice:
 - underestimates people he cannot place inside a ledger;
 - has convinced himself that because his objective is survival, his choices are automatically necessary.
 
+## 5.8A Antagonist Independence
+
+Hesk's march-lure policy predates Red Jackal by years.
+
+If Red Jackal never arrived:
+- Hesk would still manipulate the migration;
+- Maelis's audit could still threaten the records;
+- Tavian could still identify unnatural route behavior;
+- the compressed migration would still become unstable;
+- outer homesteads would still face deliberate sacrifice.
+
+Red Jackal changes how the crisis resolves; he does not create the antagonist's motive, plan, or local conflict.
+
 ## 5.9 Relationship to Red Jackal
 
 Hesk initially sees Red Jackal as ideal off-book labor:

@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-001 SCENE ARCHITECTURE PASSED — CH-001 MANUSCRIPT AUTHORIZED
+**Status:** CH-001 CANON — CH-002 SCENE ARCHITECTURE AUTHORIZED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -18,13 +18,14 @@ Character Foundation: **PASS**
 Mystery Foundation: **PASS**  
 Destination Inventory: **PASS**  
 Volume 1 Architecture: **PASS**  
-Chapter Roadmap: **PASS — 26 chapters**
+Chapter Roadmap: **PASS — 26 chapters**  
+CH-001 Manuscript: **CANON — GATE 9 PASS**
 
 The project is now authorized to proceed to:
 
-1. **Draft CH-001 — Wrong Forest, Wrong World manuscript only**
+1. **Detailed Scene Architecture — CH-002 Undefined only**
 
-Gate 8 Pre-Manuscript Scene QA has passed. The studio may now draft the actual CH-001 manuscript only. No later destination has been selected.
+Gate 9 Chapter QA has passed and CH-001 is canon. The studio may now build Detailed Scene Architecture for CH-002 only. No later destination has been selected.
 
 ## Destination Naming Law
 

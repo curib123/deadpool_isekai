@@ -1,41 +1,25 @@
 # CH-022 Publish Version QA
 
 **Canon Source:** `manuscript/CH022-FIRST-WAVE.md`  
-**Canon Source SHA:** `271dc672091a6001a28c3eefa8f1a0e5d5223f07`  
+**Canon Source SHA:** `c44d340d4236a8cd1760d64a98a75015cbaf3c8b`  
 **Publication Copy:** `published/volume-001/CH022-FIRST-WAVE.md`  
 **Target Platform:** WebNovel-compatible reader-facing copy  
 **Review Date:** 2026-09-19  
-**Status:** PUBLISH-READY — GATE 11 PASS
+**Status:** PUBLISH-READY — GATE 11 PASS / OVERPOWERED RETCON REFRESH
 
 # Source Integrity
-- Canon / Gate 9 prerequisite: **PASS**
-- Latest fetched canon source used: **PASS**
-- Title/opening/final paragraph/order: **PASS**
-- Canon body paragraphs: **240**
-- Missing/duplicated/reordered prose: **NONE**
+- latest source is CANON — OVERPOWERED RETCON GATE 9 PASS;
+- publication copy regenerated directly from current canon;
+- only production metadata removed;
+- title preserved: **Chapter 22 — First Wave**;
+- final nonblank line preserved: **The largest territorial predator in the migration had arrived.**;
+- no scene or prose block reordered.
 
-# Semantic Equivalence
-Reader-facing body is byte-equivalent to canon after repository-only metadata removal. Manifestation counts, injury states, Hesk pressure, climax outcome, and chapter ending remain unchanged.
+# Canon Equivalence
+**PASS.** Power reveal/restraint logic, dialogue, consequences, mystery state and ending exactly follow canon.
 
-**Semantic Diff:** PASS — PRESENTATION ONLY
-
-# Platform QA
-- production metadata: **REMOVED**
-- raw code fences/emphasis markers: **NONE**
-- paragraph rhythm/order: **PRESERVED**
-- dialogue/self-talk/reader-talk: **PRESERVED**
-- title duplication: **NO**
-- mobile/plain-text readability: **PASS**
-- future spoiler/reference expansion: **NONE**
-
-# Findings
-CRITICAL: None.  
-MAJOR: None.  
-MINOR: None.
+# Formatting
+**PASS.** Metadata removed; paragraph rhythm, one-line impact beats and dialogue preserved; WebNovel-compatible.
 
 # Decision
-# PASS
-
-**CH-022 is PUBLISH-READY — GATE 11 PASS.**
-
-Canon manuscript remains authoritative.
+**PUBLISH-READY — GATE 11 PASS.**

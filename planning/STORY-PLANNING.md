@@ -105,7 +105,7 @@ The authoritative Volume 1 chapter roadmap is:
 
 The next authorized planning artifact is:
 
-`CH-010 — The Ledger Doesn't Balance: Gate 9 Chapter QA`
+`CH-011 — Broken North: Detailed Scene Architecture`
 
 CH-001 manuscript has passed Gate 9 and is CANON.
 
@@ -145,9 +145,13 @@ No F-ID changed status in CH-009.
 
 CH-010 Scene Architecture has passed Gate 8.
 
-CH-010 manuscript draft now exists and is awaiting Gate 9 Chapter QA.
+CH-010 manuscript has passed Gate 9 and is CANON.
 
-Do not draft CH-011 or create CH-011 Scene Architecture before CH-010 passes Gate 9 and is canonized.
+No F-ID changed status in CH-010.
+
+Detailed Scene Architecture for CH-011 — Broken North is now authorized.
+
+Do not draft CH-011 manuscript before its Scene Architecture and Gate 8 Pre-Manuscript Scene QA pass.
 
 # 5. Scene Sheet
 Each scene has:

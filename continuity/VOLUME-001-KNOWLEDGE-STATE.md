@@ -4127,7 +4127,7 @@ CH-016 still owns the observed major backflow and Kellan's severe injury.
 # CH-015 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-015 — One Stake Too Many  
-**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+**Status:** SUPERSEDED BY CH-015 CANON CHECKPOINT
 
 ## Opening State
 
@@ -4366,3 +4366,233 @@ An approved CH-015 manuscript may leave CH-016 with:
 - exact magnitude/direction of the resulting backflow not yet known.
 
 CH-016 owns the major reversal.
+
+# CH-015 Canon Checkpoint
+
+**Chapter:** CH-015 — One Stake Too Many  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH015-ONE-STAKE-TOO-MANY.md`  
+**QA:** `qa/CH-015-GATE-9-CHAPTER-QA.md`
+
+## Site / Local Geometry — CANON
+
+CH-015 canonically establishes one active march-lure at:
+
+**an old drainage/retaining cut on the upper approach above the timber-road junction, below the east outer homesteads.**
+
+The site remains descriptive geography rather than a newly named settlement.
+
+The lure:
+
+- uses the already-established march-lure design family;
+- has a current service charge;
+- screens the timber-road connector toward Greywake's more valuable road system;
+- displaces local pressure toward the upper farm/homestead approaches.
+
+This is local geometry only.
+
+Exact network size and complete network geometry remain unknown.
+
+## Authorization State — CANON
+
+The field visit was authorized only for:
+
+- identification;
+- measurement;
+- service-state confirmation;
+- mapping;
+- evidence preservation.
+
+It was not authorized for:
+
+- rotation;
+- opening;
+- disconnection;
+- extraction;
+- output change;
+- disabling.
+
+Brynn's no-unauthorized-alteration order was active when Red acted.
+
+## Tavian Rook — Post-CH-015 State
+
+Tavian canonically:
+
+- confirms the local lure is materially contributing to outer pressure;
+- confirms the wider network remains incompletely mapped;
+- warns that disabling the lure may redirect pressure elsewhere;
+- cannot predict where the pressure will go;
+- explicitly opposes Red's alteration;
+- attempts to stop Red without turning the scene into a full ally-vs-ally fight.
+
+Tavian removes Red's ignorance defense.
+
+His reasonable post-CH-015 assessment is:
+
+**Red is capable, dangerous, warned, and insufficiently responsible.**
+
+## Kellan Dorr — Post-CH-015 State
+
+Kellan canonically:
+
+- wants the local lure stopped because his people are under immediate pressure;
+- knows the local roads/farms and physical site;
+- helps prevent Guild personnel from stopping Red;
+- explicitly states he cannot tell what the rest of the network will do;
+- explicitly refuses to promise the outcome is safe.
+
+Kellan shares moral involvement.
+
+He does not take final decision responsibility away from Red.
+
+## Road Guild Personnel — Post-CH-015 State
+
+Road Guild field personnel canonically:
+
+- identify/document the active lure;
+- invoke Captain Alder's no-change order;
+- oppose unauthorized alteration;
+- preserve equipment/evidence where possible;
+- attempt nonlethal obstruction;
+- are not presented as cartoon villains.
+
+Their immediate opposition is legitimate even though Hesk's broader policy is corrupt.
+
+They now have direct evidence that normal authority does not reliably constrain Red Jackal.
+
+## Red Jackal — Post-CH-015 Responsibility State
+
+Red canonically knows before acting:
+
+- the network is incompletely mapped;
+- changing one lure may move pressure elsewhere;
+- Tavian does not know the destination of that pressure;
+- Kellan cannot guarantee safety;
+- Brynn prohibited unauthorized alteration;
+- Guild personnel are legitimately opposing the change.
+
+Red explicitly recognizes:
+
+**nobody failed to warn him.**
+
+He also recognizes:
+
+**waiting is not neutral because the current lure continues exposing the farms.**
+
+He chooses action anyway.
+
+The decision is therefore:
+
+**informed, unauthorized, personally motivated, partly protective, impatient, anti-authoritarian, and operationally premature.**
+
+Red cannot later claim ignorance.
+
+## Localized Monster Pressure / Injury — CANON
+
+Before the lure is disabled:
+
+- localized ridge-hound pressure reaches the upper approach;
+- Tavian commands the immediate field response;
+- Kellan and Guild personnel help contain it;
+- Red receives a meaningful injury to his side and a bite/leg injury;
+- the wounds begin abnormal correction;
+- pain and weakness remain;
+- Red continues functioning despite damage.
+
+This survivability contributes to Red's overconfidence.
+
+Regeneration does not protect anyone else.
+
+## Play Logic — CANON
+
+CH-015 contains exactly one Stage I manifestation:
+
+**a short-lived hooked pry/wedge utility tool**
+
+Properties:
+
+- simple;
+- physical;
+- short-lived;
+- unstable;
+- shaped around immediate leverage;
+- no remote effect;
+- no network control;
+- no magical deactivation function;
+- no Stage II behavior.
+
+Red uses it to physically force the mounting collar/fastening and lever the march-lure stake from its fitted socket.
+
+The tool then dissolves.
+
+## Lure Shutdown — CANON
+
+Red physically disrupts/extracts the installed lure assembly.
+
+After extraction:
+
+- the rear plate's mana-light fades;
+- the vent stops operating;
+- the local march-lure goes dead.
+
+Play Logic does not directly cancel the lure's magic.
+
+The lure stops because the installed physical assembly has been disrupted.
+
+## Ending Consequence — CANON
+
+Immediately after the local lure dies:
+
+- the local calls above the farms stop;
+- new distant monster calls sound from different locations;
+- the directional pattern has changed.
+
+Locked ending state:
+
+**The lure was dead.**
+
+**The calls changed direction.**
+
+This is consequence onset only.
+
+No major observed backflow has occurred yet.
+
+## F-ID State After CH-015
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+No F-ID changed state in CH-015.
+
+## M-007 State After CH-015
+
+M-007 remains inactive.
+
+The changed calls are ecological consequence setup only.
+
+## CH-016 Handoff
+
+CH-016 — **Backflow** may now begin with:
+
+- one east-outer march-lure physically disabled;
+- Red as the person who knowingly disabled it;
+- Tavian's warning having been ignored;
+- Kellan morally involved but not able to certify system-wide safety;
+- Guild personnel able to report the unauthorized disruption;
+- distant monster calls already changing direction;
+- exact magnitude/direction of the resulting backflow not yet known.
+
+CH-016 owns:
+
+- the major observed backflow;
+- multi-species route release;
+- pressure moving toward Greywake and outer communities;
+- evacuation/rescue crisis;
+- Kellan's severe injury;
+- key outer bridge/route loss;
+- Red's first undeniable responsibility for worsening the crisis;
+- first allowed M-007 tonal hint.
+
+No CH-016 outcome is canon before its manuscript passes Gate 9.

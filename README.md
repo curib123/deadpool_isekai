@@ -8,7 +8,7 @@ This repository is the canonical production workspace for the Red Jackal light-n
 
 ## Studio Pipeline
 
-`Series Constitution → World Bible → Systems/Lore → Characters → Mysteries → Destinations → Volume/Arc → Chapters → Scenes → Manuscript → QA → Canon`
+`Series Constitution → World Bible → Systems/Lore → Characters → Mysteries → Destinations → Volume/Arc → Chapters → Scenes → Manuscript → QA → Canon → Publication Copy → Publish Version QA → Release`
 
 **World first. Destination second. Story third.**
 
@@ -25,7 +25,9 @@ One major volume is one destination arc, and every arc is named after its place:
 7. `planning/STORY-PLANNING.md` — destination → volume → chapter → scene.
 8. `manuscript/WRITING-RULES.md` — locked prose/voice rules.
 9. `continuity/CONTINUITY-BIBLE.md` — consequence and knowledge tracking.
-10. `qa/QA-GATES.md` — foundation, destination, volume, chapter, and series QA.
-11. `series/ROADMAP.md` — intentionally blocked until the World Bible foundation passes QA.
+10. `qa/QA-GATES.md` — foundation, destination, volume, chapter, series, and Publish Version QA.
+11. `qa/PUBLISH-VERSION-QA-STANDARD.md` — Gate 11 reader-facing release QA and canon-equivalence rules.
+12. `published/README.md` — publication-copy workspace and WebNovel-oriented formatting rules.
+13. `series/ROADMAP.md` — authoritative production/release state.
 
 Old generic event/theme arc plans are deprecated.

@@ -1,6 +1,6 @@
 # Chapter 27 — Salt in the Air
 
-**Status:** DRAFT — GATE 9 REVALIDATION  
+**Status:** CANON — GATE 9 PASS / DEADPAN TRAVEL-OPENING VOICE LOCKED  
 **Word Count:** 2108  
 **Volume:** 2 — Merrowgate Arc
 

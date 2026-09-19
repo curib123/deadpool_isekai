@@ -1,20 +1,28 @@
 # Chapter 27 — Salt in the Air
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** STUDIO CINEMATIC RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 2,101  
 **Volume:** 2 — Merrowgate Arc
 
-Freedom, he discovered, had expenses.
+Freedom had expenses.
 
-Not philosophical expenses. Those he could ignore for hours at a time. Actual expenses were more persistent. Food cost money. Beds cost money. Floors sometimes cost money if the owner had correctly identified that travelers became less selective after dark. Crossing a river cost money. Putting his bag on the same boat apparently cost slightly more money, because the bag had achieved independent financial status.
+Food.
 
-Several days out from Greywake, he had begun to suspect civilization was a conspiracy designed by people who owned chairs. The road had changed gradually after he left the Hollow March behind. Fewer stretches disappeared into forest, more carts moved in both directions, and roadside shelters became actual stopping places with covered yards, feed troughs, cooking fires, and boards full of writing he still could not read.
+Beds.
+
+River crossings.
+
+Even Red's bag had apparently become a paying passenger.
+
+Several days out from Greywake, the road looked different.
+
+Fewer empty stretches disappeared into forest. More carts passed in both directions. Roadside shelters had covered yards, feed troughs, cooking fires, and boards full of writing Red still could not read.
 
 His literacy remained undefeated.
 
 He had learned a few symbols through repetition. The mark beside a water barrel usually meant something involving water. A painted wheel near a yard generally suggested carts. A large block of text beside a man holding out his hand almost always meant somebody wanted money. That last one had been surprisingly universal.
 
-His pack felt heavier than when he left Greywake even though he had eaten some of what was inside it. The problem was probably his shoulder, or his ribs, or the fact that Sela had somehow managed to fit enough bandages into one wrapped packet to treat a minor military campaign. He had considered leaving them behind until his side started aching after a long morning on the road. Sela did not need the satisfaction of being right from several days away.
+His pack felt heavier than when he left Greywake even though he had eaten some of what was inside it. The problem was probably his shoulder, his ribs, or Sela's packet of bandages, which seemed large enough to support a minor campaign. He had considered leaving them behind until his side started aching after a long morning on the road. Sela did not need the satisfaction of being right from several days away.
 
 The wound itself was closed. Mostly. His body had done what it always did—pulled itself back toward functional with no concern for how unpleasant the process felt. The bruising had faded, but the stiffness had not. Long stretches sitting on a cart made his leg complain when he stood; long stretches walking made it complain that sitting had been an excellent idea.
 
@@ -72,9 +80,15 @@ He paid him. He pushed two small stamped pieces across the counter, pointed towa
 
 Just money. It was almost refreshing.
 
-He moved away from the counter and counted what remained in his purse by touch before deciding he disliked the answer. He had enough to reach the coast, enough to eat, and enough to avoid sleeping under a cart unless he developed strong feelings about saving money. He did not have enough to continue wandering indefinitely while pretending employment was a problem for future him.
+Red moved away from the counter and counted what remained.
 
-Future him had become annoyingly present.
+Enough to reach the coast.
+
+Enough to eat.
+
+Not enough to keep wandering without work.
+
+Future Red had arrived early.
 
 The boarding area was organized chaos. Cargo went one direction, passengers another, workers somehow moved through both. A crewman with a red cloth tied around one arm checked the stamped piece in his hand, pointed toward a low river vessel, then pointed at his pack. He handed him the second stamp. He nodded, and he had successfully purchased permission for his belongings to continue existing near him.
 
@@ -100,23 +114,29 @@ He held. The man at the wheel shoved the wedge under it while another worker res
 
 He pulled while they shoved. The cart rolled forward six inches, enough for the wheel to climb back into place. Two workers drove wedges behind it while the man at the front secured another line.
 
-Then it was done. No explosion, no monster, no impossible weapon falling out of his imagination. Just five people preventing several hundred pounds of cargo from going into the river because everyone did one useful thing at the correct time.
+Then it was done.
 
-His shoulder hurt. He had survived worse.
+Five people had kept the cargo out of the river by doing one useful thing at the right time.
 
-That was probably not the lesson.
+Red's shoulder hurt.
+
+He suspected that was not the important part.
 
 The crewman took the rope from him, checked the cart, then looked at his stance. “Good.”
 
 That was it. He went back to work.
 
-No applause followed. No grateful merchant rushed forward to declare him the mysterious savior of commercial transportation. Nobody asked his name. A worker carrying a barrel jerked his chin toward the passenger area.
+Nobody applauded.
+
+Nobody asked his name.
+
+A worker carrying a barrel jerked his chin toward the passenger area.
 
 “You’re blocking the ramp.”
 
 He moved.
 
-Personal growth continued to be humiliatingly practical.
+Humiliatingly practical.
 
 The boat pushed away from the landing not long after that. The river widened as the day went on, traffic thickening with it. Barges moved under high bundles of timber and sacks. Narrower craft cut between them carrying passengers, baskets, animals, and once a cage containing something feathered that stared at him with personal dislike.
 
@@ -134,9 +154,15 @@ He stopped long enough for the person behind him to nearly walk into his back. H
 
 Fair.
 
-For a moment, Earth came back in a way that had nothing to do with headlights, rain, or metal screaming. Just coastlines. Wind. That smell that got into clothes and hair and made everything feel slightly damp no matter how clear the sky was.
+For a moment, Earth came back without headlights or rain.
 
-He had not realized how much he missed knowing what a place smelled like.
+Just coastlines.
+
+Wind.
+
+Salt caught in clothes and hair.
+
+Red stood there longer than he meant to.
 
 A cart wheel splashed muddy water onto his boot.
 
@@ -152,7 +178,11 @@ He slowed without meaning to as the land dropped beyond the road and the world o
 
 Chain bridges connected raised sections over channels crowded with smaller boats. Dry docks cut into the edge of the port like enormous open mouths. Workers crossed platforms, crews moved over decks, merchants stood under awnings, and porters threaded between carts with the confidence of people who knew exactly which stranger was about to step into the wrong lane.
 
-He adjusted his coat. The road dust had reduced its authority somewhat, but presentation was a discipline. He straightened his shoulders, ignored the complaint from the left one, and walked toward the outer port traffic with the calm expression of a man arriving exactly where he intended.
+Red adjusted his coat.
+
+Road dust had reduced its authority, but presentation was a discipline.
+
+He straightened his shoulders and walked toward the port like he had planned this arrival.
 
 Three porters came toward him carrying a long crate between them.
 
@@ -168,7 +198,7 @@ Near the outer staging area, another Wayfarer Token hung from a tall post painte
 
 “Arrivals that way,” he said, pointing toward a set of covered counters farther ahead. “Cargo declarations left. Passenger intake center lane. Keep the freight path clear.”
 
-“Passenger intake,” He repeated.
+“Passenger intake,” Red repeated.
 
 “Yes.”
 
@@ -186,12 +216,16 @@ The worker gave him a look. “Are you going?”
 
 Less perfect.
 
-He stepped away from the freight path and looked at what was left of his money. A large port meant work. It meant merchants who needed things moved, guarded, fixed, found, carried, threatened, or occasionally persuaded to stop being stupid. It meant ships going somewhere else when he got bored. It meant information.
+He stepped away from the freight path and looked at what was left of his money. A large port meant work.
 
-Most importantly, it meant he did not have enough money to develop standards.
+Merchants. Cargo. Ships. Information.
 
-He tied the purse shut and started toward the passenger intake lane. No prophecy had called him here. No divine message had arrived. No glowing marker had pointed at the city.
+And Red did not have enough money to develop standards.
 
-Just salt in the air, money running low, and a place large enough to make both of those problems interesting.
+He tied the purse shut and started toward the passenger intake lane. No prophecy.
+
+No divine message.
+
+Just salt in the air, money running low, and a city large enough to make both problems interesting.
 
 Merrowgate would do.

@@ -76,7 +76,22 @@ CH-027 must also pass its new-style Gate 9 revalidation before Volume 2 producti
 
 Do not advance to CH-028 Detailed Scene Architecture until the active CH-001→CH-027 style-retcon revalidation cycle is complete and required Volume 1 refresh gates are satisfied.
 
-## 5. Audit Decision
+## 5. Current-File Validation
+
+A direct fetch-and-scan of the current manuscript files was run after revision.
+
+Validated across **CH-001 through CH-027**:
+
+- 27 / 27 carry **STUDIO CINEMATIC RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING**;
+- no first-person narrator pronouns remain outside dialogue;
+- no default direct reader/audience address remains outside dialogue;
+- no manuscript meta-narration using “chapter/chapters” remains;
+- no manuscript prose uses obsolete Stage I / Stage II progression language;
+- no stale recharge / “uses left” / “not again today” / weak-pressure finite-power wording remains.
+
+One residual meta line in CH-006 was found during validation and corrected before this audit was finalized.
+
+## 6. Audit Decision
 
 **PASS — STUDIO CINEMATIC PROSE REVISION COMPLETE.**
 

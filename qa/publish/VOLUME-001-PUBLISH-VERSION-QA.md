@@ -6,12 +6,26 @@
 **Primary Platform:** WebNovel-compatible release copy  
 **Gate:** 11 — Publish Version QA  
 **Review Date:** 2026-09-19  
-**Status:** PUBLISH-READY — GATE 11 PASS / 26 OF 26 CHAPTERS VERIFIED  
-**Canon Revalidation:** PASS — Gate 10
+**Status:** STALE AFTER FOUNDATIONAL RETCON — PRE-RETCON GATE 11 PASS / REVALIDATION REQUIRED  
+**Canon Revalidation:** PRE-RETCON PASS — NEW GATE 10 REQUIRED
+
+# Retcon Notice
+
+The 26 publication copies remain preserved as the previously approved release set.
+
+They are no longer treated as the final current publication set because the Red Jackal power foundation changed materially.
+
+Any chapter whose prose presents:
+- genuine Stage I/II power progression;
+- hard exhaustion-based raw-power ceilings;
+- Red as physically incapable of an effect he now writer-truth could perform;
+- later power unlocks;
+
+must return through Gate 9, then regenerate its publication copy and rerun Gate 11.
 
 # Volume Decision
 
-# PASS
+# STALE — REVALIDATION REQUIRED
 
 All 26 canon chapters now have:
 

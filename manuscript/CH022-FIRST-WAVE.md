@@ -1,7 +1,7 @@
 # Chapter 22 — First Wave
 
 **Status:** DRAFT — GATE 9 NOT YET RUN  
-**Word Count:** PENDING
+**Word Count:** 3,056
 
 The first mass did not charge us. That would have been simpler. It came out of the trees in layers.
 

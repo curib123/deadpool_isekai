@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-024 CANON — CH-025 SCENE ARCHITECTURE PASSED / CH-025 MANUSCRIPT AUTHORIZED
+**Status:** CH-025 CANON — CH-026 SCENE ARCHITECTURE AUTHORIZED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -71,6 +71,7 @@ CH-023 Manuscript: **CANON — GATE 9 PASS / SERIOUS CLIMAX MODE LOCKED**
 CH-024 Scene Architecture: **PASS — GATE 8**  
 CH-024 Manuscript: **CANON — GATE 9 PASS / SERIOUS CLIMAX MODE LOCKED**  
 CH-025 Scene Architecture: **PASS — GATE 8**  
+CH-025 Manuscript: **CANON — GATE 9 PASS / AFTERMATH MODE LOCKED**  
 Red Jackal Series Voice: **LOCKED — DRY/DEADPAN INTERNAL HUMOR + RESTRAINED FOURTH-WALL STANDARD**  
 Red Jackal Anti-Villain Expression: **LOCKED**  
 Red Jackal Reputation / Fear Progression: **LOCKED — R0 TO R6**  
@@ -80,9 +81,9 @@ Aura Evolution: **MANUFACTURED → EARNED → REPUTATION-SUPPORTED**
 
 The project is now authorized to proceed to:
 
-1. **Draft CH-025 — What Greywake Counts manuscript only**
+1. **Build CH-026 — Before They Decide What I Am Detailed Scene Architecture only**
 
-CH-025 Pre-Manuscript Scene QA has passed. The studio may now draft the actual CH-025 manuscript — What Greywake Counts only. The chapter must preserve injury and infrastructure cost, formally remove Hesk from Roadmaster authority, keep his broader survival argument socially alive without restoring his control, preserve Jessa's testimony cost, make Red's public reputation contradictory, remove unilateral Road Guild emergency-diversion authority, and grant the Outer Homestead Compact enforceable participation in route decisions. CH-026 departure remains blocked until CH-025 passes Gate 9.
+CH-025 has passed Gate 9 and is CANON. Greywake survives with lasting injury, infrastructure and trade cost; Hesk is formally removed from Roadmaster authority; Road Guild emergency-diversion power is no longer unilateral; route-safety records gain civic oversight; and the Outer Homestead Compact has enforceable participation in emergency-route decisions. CH-026 — Before They Decide What I Am is now authorized for Detailed Scene Architecture only. It must close the Greywake Arc through reconstruction, farewells, Red's refusal of assigned roles, and departure into an unnamed wider world. Volume 2 remains unselected.
 
 ## Destination Naming Law
 
@@ -98,7 +99,7 @@ This table is intentionally empty.
 
 | Volume | Destination ID | Arc Name | Local Conflict | Main Antagonist | Major Mystery Contribution | Status |
 |---|---|---|---|---|---|---|
-| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-025 SCENE ARCHITECTURE PASS — CH-025 MANUSCRIPT AUTHORIZED |
+| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-025 CANON — CH-026 SCENE ARCHITECTURE AUTHORIZED |
 
 ## Lock
 

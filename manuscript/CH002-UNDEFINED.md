@@ -8,7 +8,7 @@ Civilization announced itself with smoke, wagon wheels, and a wall tall enough t
 
 People were everywhere. Drivers checked harnesses, guards inspected loads, merchants argued over crates, and somewhere beyond the wall somebody was hammering metal with the steady confidence of a person who had not been attacked by an unidentified forest animal before breakfast.
 
-People. Walls. Probably food. Also rules. That part was less exciting. He stopped at the edge of the road and took a moment to compose himself. His sleeve was torn, dried blood marked his forearm, and mud had formed what he can only describe as a political alliance with the rest of his clothes.
+People. Walls. Probably food. Also rules. That part was less exciting. He stopped at the edge of the road and took a moment to compose himself. His sleeve was torn, dried blood marked his forearm, and mud had formed a firm alliance with the rest of his clothes.
 
 First impressions still mattered. He straightened his back, rolled one shoulder, and walked toward the gate as if he knew where he was going. Looking uncertain usually invites more questions.
 
@@ -20,7 +20,7 @@ He understood exactly none of it. So much for the entrance. He pointed at himsel
 
 Then he pointed through the gate. The guards exchanged a look that required no translation. He repeated the gesture more slowly, because apparently that was how language worked when confidence failed. The younger guard called toward a booth built into the gate. A tired-looking attendant emerged carrying a round brass token on a cord, held it between them, and pressed his thumb to its center.
 
-A faint pressure passed through the air. Not quite sound. Not quite vibration. More like the instant before someone spoke close to your ear.
+A faint pressure passed through the air. Not quite sound. Not quite vibration. More like the instant before someone spoke close to his ear.
 
 “Try again,” the attendant said. He blinked. The sounds coming from his mouth still were not English, but the meaning arrived anyway. He looked at the brass token, then at him.
 
@@ -36,7 +36,7 @@ A faint pressure passed through the air. Not quite sound. Not quite vibration. M
 
 “Name?”
 
-“Red Jackal.” He waited. He waited back.
+“Red Jackal.” He waited. The attendant waited too.
 
 “Your name,” He repeated.
 

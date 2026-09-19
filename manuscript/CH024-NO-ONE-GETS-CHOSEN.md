@@ -285,23 +285,23 @@ That hit harder than shouting.
 
 He released Hesk’s wrist only when Brynn was close enough to take him.
 
-He stepped back from the housing.
+Hesk stepped back from the housing.
 
-Not because he forced him.
+Not because Red forced him.
 
 Because the argument had moved past his hand.
 
-Then he looked at him again.
+Then Hesk looked at Red again.
 
 Blood. Torn coat. Dirt.
 
-He had not seen Broken North.
+Hesk had not seen Broken North.
 
 He had not seen the road stop falling.
 
-He had not seen the predator discover that he was finished playing with it.
+He had not seen the predator discover that Red was finished playing with it.
 
-He was still working from the version of him Greywake understood yesterday.
+He was still working from the version of Red Greywake understood yesterday.
 
 “You can barely stand.”
 

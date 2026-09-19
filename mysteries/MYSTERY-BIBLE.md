@@ -1165,3 +1165,24 @@ This chapter architecture must not perform the physical-measurement contrast res
 **F-001 Status: PLANTED — CH-002**
 
 Approved manuscript evidence exists in `manuscript/CH002-UNDEFINED.md` and passed `qa/CH-002-GATE-9-CHAPTER-QA.md`.
+
+
+
+# 14. CH-003 F-002 Scene Planning
+
+**Chapter:** CH-003 — The Things They Can Measure  
+**Status:** PLANNING ONLY — NO CH-003 MANUSCRIPT YET
+
+F-002 is planned through three complementary components:
+
+- **SC-003-02 — Physical Facts:** calibrated mass, temperature, visible wound state, and material presence return usable physical observations.
+- **SC-003-03 — The Mana Still Touches Me:** a standardized mana pulse produces measurable physical mana interaction while System MP remains undefined.
+- **SC-003-04 — What the Record Refuses to Say:** a controlled identity re-check still returns the locked UNDEFINED / UNAVAILABLE / NO RECORD state after the physical instruments have worked.
+
+This is a contrast between measurable physical existence and absent System identity data.
+
+It must not explain the cause.
+
+**F-002 Status: PLANNED — NOT YET PLANTED**
+
+No status change is allowed until approved CH-003 manuscript prose contains the clue and passes Gate 9.

@@ -19,19 +19,19 @@ Mystery Foundation: **PASS**
 Destination Inventory: **PASS**  
 Volume 1 Architecture: **PASS**  
 Chapter Roadmap: **PASS — 26 chapters**  
-CH-001 Manuscript: **CANON — GATE 9 PASS / READER-COMPANION VOICE LOCKED**  
+CH-001 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-002 Scene Architecture: **PASS — GATE 8**  
-CH-002 Manuscript: **CANON — GATE 9 PASS / READER-COMPANION VOICE LOCKED**  
+CH-002 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 F-001: **PLANTED — CH-002**  
 CH-003 Scene Architecture: **PASS — GATE 8**  
 F-002: **PLANNED — NOT YET PLANTED**  
-Red Jackal Series Voice: **LOCKED — READER-COMPANION / COMEDY + FOURTH-WALL STANDARD**
+Red Jackal Series Voice: **LOCKED — DRY/DEADPAN INTERNAL HUMOR + RESTRAINED FOURTH-WALL STANDARD**
 
 The project is now authorized to proceed to:
 
 1. **Draft CH-003 — The Things They Can Measure manuscript only**
 
-CH-003 Pre-Manuscript Scene QA has passed. The studio may now draft the actual CH-003 manuscript only, using the locked reader-companion voice defined by the Character Bible and revised canon CH-001/CH-002. CH-004 planning remains deferred and no later destination has been selected.
+CH-003 Pre-Manuscript Scene QA has passed. The studio may now draft the actual CH-003 manuscript only, using the locked dry/deadpan internal-humor voice defined by the Character Bible and revised canon CH-001/CH-002. Reader-talk remains restrained and secondary to self-talk. CH-004 planning remains deferred and no later destination has been selected.
 
 ## Destination Naming Law
 

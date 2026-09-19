@@ -4,7 +4,7 @@
 **Chapter:** CH-026 — Before They Decide What I Am  
 **Movement:** VII — What Greywake Counts  
 **Phase:** Detailed Scene Architecture  
-**Status:** DRAFT — GATE 8 PENDING  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-026 MANUSCRIPT AUTHORIZED  
 **Final Scene Count:** 6  
 **POV:** Red Jackal first person  
 **Primary Cast:** Red Jackal, Maelis Orra, Tavian Rook, Captain Brynn Alder, Sela Arven, Kellan Dorr, Jessa Vale  
@@ -565,8 +565,12 @@ CH-025 reform becomes active
 
 # 17. Gate 8 Result
 
-**PENDING**
+**PASS**
 
-Formal QA record to be created:
+Formal QA record:
 
 `qa/CH-026-PRE-MANUSCRIPT-SCENE-QA.md`
+
+The only authorized next production step is:
+
+**Draft the actual CH-026 manuscript — Before They Decide What I Am.**

@@ -851,7 +851,9 @@ Each entry below records its current foreshadowing state. New F-IDs begin as **P
 **First interpretation:** selective System damage.  
 **Hidden meaning:** physical existence is real; identity registration is what is missing.  
 **Eligible window:** RW-1.  
-**Status:** PLANNED — NOT YET PLANTED.
+**Actual manuscript reference:** `manuscript/CH003-THE-THINGS-THEY-CAN-MEASURE.md` — Calibrated Balance Plate, Thermal Bead, Wound Gauge, Material Verification Tag, Mana-Reactivity Prism, and controlled Certified Identity Slate re-check.  
+**QA evidence:** `qa/CH-003-GATE-9-CHAPTER-QA.md`  
+**Status:** PLANTED — CH-003.
 
 ## F-003 — Healing Magic Encounters an Already-Correcting Body
 
@@ -1168,10 +1170,10 @@ Approved manuscript evidence exists in `manuscript/CH002-UNDEFINED.md` and passe
 
 
 
-# 14. CH-003 F-002 Scene Planning
+# 14. CH-003 F-002 Planting Record
 
 **Chapter:** CH-003 — The Things They Can Measure  
-**Status:** PLANNING ONLY — NO CH-003 MANUSCRIPT YET
+**Status:** PLANTED — GATE 9 PASS
 
 F-002 is planned through three complementary components:
 
@@ -1183,6 +1185,6 @@ This is a contrast between measurable physical existence and absent System ident
 
 It must not explain the cause.
 
-**F-002 Status: PLANNED — NOT YET PLANTED**
+**F-002 Status: PLANTED — CH-003**
 
-No status change is allowed until approved CH-003 manuscript prose contains the clue and passes Gate 9.
+Status changed after approved CH-003 manuscript prose contained the clue and passed Gate 9.

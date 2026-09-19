@@ -466,7 +466,7 @@ Hesk looked at Maelis first.
 
 “Roadmaster.”
 
-Then him.
+Then Hesk looked at Red.
 
 “Red Jackal.”
 

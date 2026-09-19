@@ -9,8 +9,8 @@ This file tracks who is allowed to know long-term mystery information. It does n
 # Knowledge Rules
 
 1. A character cannot act on a mystery truth unless the knowledge path is recorded here or explicitly earned later.
-2. Writer Truth is never automatically narrator truth.
-3. Red Jackal's first-person narration cannot reveal facts he has not learned unless he is clearly presenting retrospective knowledge from a later point already authorized by the manuscript plan.
+2. Writer Truth is never automatically narration truth.
+3. Close third-person narration cannot reveal facts Red Jackal has not learned, perceived, remembered, or reasonably inferred.
 4. Factions may possess fragments, false models, or evidence without possessing the correct explanation.
 5. The Great Design, Savael, Exterior Needle, Exterior Echo, and Exception Covenant are restricted until their reveal windows permit explicit knowledge.
 
@@ -106,19 +106,19 @@ This file tracks who is allowed to know long-term mystery information. It does n
 
 ---
 
-# KNOW-M006 — Exterior Echo / Fourth Wall
+# KNOW-M006 — Exterior Echo / Outward Direction
 
-**Writer Truth:** Reader-address is Red Jackal's natural storytelling behavior; the Exterior Echo gives some outward address a real nonlocal direction.
+**Writer Truth:** The Exterior Needle left a passive outward continuity direction attached to Red Jackal.
 
-**Red Jackal Baseline:** Talks to readers from the beginning without requiring an awakening.
+**Red Jackal Baseline:** Does not begin by consciously talking to readers. At most, he may later notice rare feelings of outward attention, directional wrongness, or thoughts that seem to point beyond Veyr when a properly authorized M-006 scene occurs.
 
-**Other Characters:** Do not normally hear reader-address as a separate in-world conversation unless manuscript rules explicitly stage spoken overlap.
+**Other Characters:** No baseline concept of an external audience.
 
 **Maelis / Morn:** No baseline concept of an external audience.
 
-**Savael:** Can eventually detect that Red Jackal retains an outward continuity signature but does not automatically understand the subjective reader experience.
+**Savael:** Can eventually detect that Red Jackal retains an outward continuity signature but does not automatically understand its subjective meaning.
 
-**Forbidden Knowledge:** Reader-talk must never be treated as a power that unlocks in stages.
+**Forbidden Knowledge:** Exterior Echo must not turn narration back into first person or become a conversational audience power.
 
 **Unlock path:** M-006.
 

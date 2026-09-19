@@ -825,7 +825,7 @@ Good for him.
 
 That was unfairly accurate. Brynn began issuing orders to the runner.
 
-“Warn Hallow Bend. Move two militia teams to the outer approach. No one touches any suspected lure without Tavian or an approved field team.”
+“Warn the east outer homesteads. Move two militia teams to the outer approach. No one touches any suspected lure without Tavian or an approved field team.”
 
 The runner nodded and left. Kellan looked at me. Not asking.
 

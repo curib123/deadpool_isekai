@@ -4,7 +4,7 @@
 **Chapter:** CH-020 — The Last Lure  
 **Movement:** V — No Acceptable Loss  
 **Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-020 MANUSCRIPT AUTHORIZED  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-020 MANUSCRIPT CANON  
 **Final Scene Count:** 6  
 **POV:** Red Jackal first person  
 **Primary Cast:** Red Jackal, Maelis Orra, Jessa Vale, Rovan Hesk, Road Guild loyalists/storehouse staff  

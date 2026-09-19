@@ -2837,7 +2837,7 @@ Do not cross into CH-013's locked deliberate-sacrifice conclusion during CH-012 
 # CH-012 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-012 — Someone Put This Here  
-**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+**Status:** SUPERSEDED BY CH-012 CANON CHECKPOINT
 
 ## Red Jackal — Opening CH-012
 
@@ -3003,3 +3003,196 @@ CH-012 must not yet establish:
 **someone in Greywake has been deliberately deciding where the monster migration kills people.**
 
 That remains CH-013's locked midpoint truth.
+
+# CH-012 Canon Checkpoint
+
+**Chapter:** CH-012 — Someone Put This Here  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH012-SOMEONE-PUT-THIS-HERE.md`  
+**QA:** `qa/CH-012-GATE-9-CHAPTER-QA.md`
+
+After CH-012, Red Jackal canonically knows:
+
+- march-lures are legitimate frontier tools in some contexts;
+- they bias animal movement rather than mind-control animals;
+- moving pressure away from one corridor pushes danger somewhere else;
+- the Broken North device was deliberately installed into older infrastructure;
+- the site shows repeated servicing, but exact duration is unknown;
+- one ordinary lure can influence the immediate corridor but does not comfortably explain the full CH-009/010 pattern;
+- additional influence sites are possible, but a full network is not proven;
+- the discovered lure's protected/screened side favors the Main Caravan Road;
+- its displacement/danger side points toward outer roads and settlements;
+- several of his prior off-book/dangerous assignments overlap exposed corridors;
+- that overlap is suspicious, but Hesk's exact knowledge/intent remains unproven;
+- Hesk issued an immediate Guild custody/order response after the discovery;
+- the Guild asserted charter/property custody and restricted related road records;
+- Maelis, Tavian and Kellan independently opposed unilateral alteration/control for their own reasons;
+- Captain Brynn intervened through militia/public-safety authority;
+- the lure remains in place under neutral/contested preservation;
+- Red Jackal successfully refused sole Guild control without gaining ownership himself.
+
+Red Jackal still does **not** know:
+
+- exact lure strength or radius;
+- exact active duration;
+- exact additional-lure count;
+- full network geometry;
+- who installed every lure;
+- whether the Guild as an institution ordered the discovered installation;
+- whether Hesk personally ordered the discovered installation;
+- whether Hesk knew the exact risk of each Red Jackal assignment;
+- whether outer communities were deliberately selected as sacrificial victims;
+- the CH-013 midpoint truth.
+
+## Tavian Rook — Post-CH-012 Knowledge
+
+Tavian canonically knows:
+
+- one known march-lure locally influences movement;
+- its effect direction aligns with the observed track pattern;
+- one ordinary lure does not comfortably explain the full multi-day/multi-species drift;
+- additional influence sites are possible;
+- altering the discovered lure before understanding the route effect could be unsafe;
+- the current device remains preserved;
+- Red Jackal can be procedurally difficult while still accepting competent de-escalation and neutral control.
+
+Tavian still does not know:
+- exact full network;
+- exact lure count;
+- Hesk/Guild authorship as fact;
+- deliberate-sacrifice intent.
+
+## Maelis Orra — Post-CH-012 Knowledge
+
+Maelis canonically knows:
+
+- the lure is deliberately installed and repeatedly serviced;
+- march-lure category legality and installation legality are separate questions;
+- one known device does not prove a complete network;
+- route/job overlap is real but does not prove who knew what when assignments were made;
+- Guild custody is an interested-party claim, not proof of ownership/authorship;
+- neutral preservation is now in place;
+- the directional effect favors the Main Caravan Road and exposes outer-route geography.
+
+Maelis still does not know:
+- full network;
+- Hesk/Guild authorship as proven fact;
+- deliberate sacrifice as proven fact.
+
+## Kellan Dorr — Post-CH-012 Knowledge
+
+Kellan canonically knows:
+
+- the Broken North lure installation was deliberately maintained;
+- its directional effect points pressure toward outer-road country;
+- outer-community concerns now have hard physical support;
+- one lure alone does not explain the whole pattern;
+- Brynn is willing to treat the issue as public safety rather than purely Guild business.
+
+Kellan may strongly suspect bad faith, but suspicion remains ahead of proof.
+
+## Captain Brynn Alder — Post-CH-012 Knowledge
+
+Brynn canonically knows:
+
+- a march-lure exists at Broken North;
+- independent witnesses/documentation support the discovery;
+- the device can affect monster movement near settlement roads;
+- Guild custody is disputed;
+- the device remains operationally preserved;
+- route-effect evidence now points protected pressure toward the Main Caravan Road and displaced danger toward outer routes.
+
+Brynn does not yet know:
+- exact network extent;
+- Hesk/Guild authorship as fact;
+- deliberate sacrifice as fact.
+
+## Rovan Hesk — Post-CH-012 Threat Perception
+
+Hesk can credibly know through Guild reports that:
+
+- Red Jackal entered the closed Broken North corridor;
+- a march-lure was discovered;
+- Red Jackal refused sole Guild control;
+- Maelis/Tavian/Kellan are coordinating around the evidence;
+- Brynn did not simply enforce the Guild custody order.
+
+Hesk's Red Jackal assessment may now advance to:
+
+**unpredictable complication.**
+
+He does not automatically know every private conversation or inference.
+
+## Anti-Villain Expression State After CH-012
+
+CH-012 canonically establishes:
+
+**possible personal manipulation + distrust of ownership/control + physical refusal/intimidation + useful outcome + acceptance of neutral control once unilateral control is blocked.**
+
+Red Jackal:
+- does not become law enforcement;
+- does not claim legal ownership;
+- does not force supporting characters to agree with him;
+- keeps the issue personal without making the entire outer-route problem about himself.
+
+## Play Logic / Regeneration State After CH-012
+
+CH-012 contains:
+- no Play Logic attempt;
+- no manifestation;
+- no regeneration event;
+- no new M-005 clue.
+
+F-003 remains **PLANTED — CH-007**.  
+F-004 remains **PLANTED — CH-005**.
+
+## F-ID State After CH-012
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+No F-ID changed state in CH-012.
+
+## M-007 State After CH-012
+
+M-007 remains inactive.
+
+## Local Investigation State After CH-012
+
+Canon now establishes:
+
+- one deliberately installed, repeatedly serviced march-lure exists at Broken North;
+- one ordinary lure does not comfortably explain the full pattern;
+- a larger artificial system is plausible but unproven;
+- the discovered lure's protected side favors the Main Caravan Road;
+- its displacement side points toward outer settlements;
+- Red Jackal's prior assignments overlap exposed corridors;
+- the Guild attempted to reclaim sole control;
+- neutral preservation now prevents unilateral alteration.
+
+Not yet established:
+- exact network;
+- exact lure count;
+- Hesk/Guild authorship;
+- deliberate victim selection;
+- exact policy motive.
+
+## CH-013 Handoff
+
+CH-013 — **Where They Die** may now begin with:
+
+- CH-010 inverse documentary pattern;
+- CH-011 first lure discovery;
+- CH-012 repeated servicing evidence;
+- CH-012 directional overlay;
+- suspicious overlap between Red Jackal's prior jobs and exposed corridors;
+- neutral preservation of the first lure;
+- active Guild/Hesk pressure;
+- Brynn now treating the issue as public safety;
+- Jessa still holding documentary fragments needed to establish who knew what;
+- no full network map yet;
+- no deliberate-sacrifice conclusion yet.
+
+CH-013 owns the locked midpoint proof that deliberate diversion exists and that someone in Greywake has been deciding where the migration's lethal pressure falls.

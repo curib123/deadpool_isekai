@@ -1,41 +1,25 @@
 # CH-019 Publish Version QA
 
 **Canon Source:** `manuscript/CH019-BUILD-THE-WRONG-ROAD.md`  
-**Canon Source SHA:** `291d649df1b0d016f76e89b010c745a2542b9287`  
+**Canon Source SHA:** `602d51f92298c02e41bb69fd4fcad061cd05d00d`  
 **Publication Copy:** `published/volume-001/CH019-BUILD-THE-WRONG-ROAD.md`  
 **Target Platform:** WebNovel-compatible reader-facing copy  
 **Review Date:** 2026-09-19  
-**Status:** PUBLISH-READY — GATE 11 PASS
+**Status:** PUBLISH-READY — GATE 11 PASS / OVERPOWERED RETCON REFRESH
 
 # Source Integrity
-- Canon / Gate 9 prerequisite: **PASS**
-- Latest fetched canon source used: **PASS**
-- Title/opening/final paragraph/order: **PASS**
-- Canon body paragraphs: **315**
-- Missing/duplicated/reordered prose: **NONE**
+- latest source is CANON — OVERPOWERED RETCON GATE 9 PASS;
+- publication copy regenerated directly from that source;
+- only production metadata removed;
+- title preserved: **Chapter 19 — Build the Wrong Road**;
+- final nonblank line preserved: **Now we had to make the migration choose it.**;
+- prose order complete.
 
-# Semantic Equivalence
-Reader-facing body is byte-equivalent to canon after repository-only metadata removal. Construction, evidence, evacuation, power-conservation, and chapter-ending states remain unchanged.
+# Canon Equivalence
+**PASS.** No semantic publication-only edits.
 
-**Semantic Diff:** PASS — PRESENTATION ONLY
-
-# Platform QA
-- production metadata: **REMOVED**
-- raw code fences/emphasis markers: **NONE**
-- paragraph rhythm/order: **PRESERVED**
-- dialogue/self-talk/reader-talk: **PRESERVED**
-- title duplication: **NO**
-- mobile/plain-text readability: **PASS**
-- future spoiler/reference expansion: **NONE**
-
-# Findings
-CRITICAL: None.  
-MAJOR: None.  
-MINOR: None.
+# Formatting
+**PASS.** Reader-facing metadata cleanup only; paragraph/dialogue rhythm preserved; WebNovel-compatible.
 
 # Decision
-# PASS
-
-**CH-019 is PUBLISH-READY — GATE 11 PASS.**
-
-Canon manuscript remains authoritative.
+**PUBLISH-READY — GATE 11 PASS.**

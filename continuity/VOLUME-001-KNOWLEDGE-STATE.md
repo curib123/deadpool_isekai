@@ -700,3 +700,117 @@ CH-005 may begin with:
 - the damaged bridge/worksite as the destination.
 
 CH-005 may not assume any later conspiracy knowledge not earned in prose.
+
+
+
+# CH-005 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-005 — A Better Hammer  
+**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+
+## Red Jackal — Opening CH-005
+
+Red Jackal begins CH-005 with the CH-004 canon checkpoint.
+
+He knows:
+- his Main Caravan Road repair/support assignment begins at first light;
+- he is private irregular labor, not a certified Guild worker;
+- he already received an advance and basic supplies;
+- the assignment concerns a damaged bridge/worksite;
+- the CH-001 barrier manifestation happened once under a specific immediate need;
+- later vague attempts in CH-001 failed;
+- his body physically interacts with mana;
+- the System cannot define his MP or identity.
+
+He does not know:
+- the term Play Logic;
+- why imagination affects reality;
+- whether his manifestation is normal magic;
+- how to reproduce it reliably;
+- why regeneration works;
+- the march-lure conspiracy;
+- protected writer truth.
+
+## Allowed CH-005 Discoveries — Red Jackal
+
+By the end of an approved CH-005 manuscript, Red Jackal may know:
+- intentional manifestation is possible;
+- a vague mental category such as “hammer” can produce an inadequate literal result;
+- a clear functional concept can materially change the manifestation;
+- the successful manifestation can violate expected normal casting structure;
+- the effect remains unstable, temporary, and tiring;
+- workers/guards do not recognize it as ordinary Guild/Valedorn spellcasting;
+- he still does not know the origin or true mechanism.
+
+His working rule may be:
+
+**clear concept works better than vague wishing.**
+
+This is an observation, not a complete power theory.
+
+## Road Guild Repair Crew — CH-005 Boundary
+
+Crew and guards may know:
+- Red Jackal is irregular labor attached to their assignment;
+- he lacks normal certification;
+- he can physically work and follow instructions;
+- during the chapter, he produces temporary hammer-like objects without obvious conventional casting structure.
+
+They may conclude:
+- strange magic;
+- unknown anomaly;
+- unusual improvised effect.
+
+They may not conclude:
+- hidden class as fact;
+- Play Logic;
+- foreign self-model mechanics;
+- registry-root cause;
+- protected mystery truth.
+
+## F-004 Boundary
+
+F-004 remains **PLANNED — NOT YET PLANTED** until approved CH-005 manuscript prose contains both:
+1. casting-structure mismatch;
+2. changed result from changed mental framing;
+
+and Gate 9 passes.
+
+## F-003 Boundary
+
+F-003 remains **PLANNED — NOT YET PLANTED**.
+
+CH-005 must not include:
+- healing magic;
+- healer analysis;
+- healing-rate observation;
+- regeneration mechanism discussion.
+
+## Hesk / Conspiracy Boundary
+
+CH-005 may show only structural antagonist pressure:
+
+- Red Jackal is deployed onto the maintained profitable Main Caravan Road;
+- the assignment itself is legitimate surface work.
+
+Do not reveal:
+- march-lures;
+- falsified route losses;
+- deliberate sacrifice of outer communities;
+- scapegoat planning.
+
+## Power Boundary
+
+CH-005 remains Stage I.
+
+Allowed:
+- one poor intentional hammer;
+- one successful oversized/unstable hammer;
+- fatigue afterward.
+
+Not allowed:
+- reliable repeated spawning;
+- permanent objects;
+- high-mastery rule bending;
+- System Skill recognition;
+- complete understanding of the ability.

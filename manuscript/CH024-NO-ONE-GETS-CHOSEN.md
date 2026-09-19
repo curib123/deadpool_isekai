@@ -1,7 +1,8 @@
 # Chapter 24 — No One Gets Chosen
 
-**Status:** RETCON + CLIMAX REBUILT — GATE 9 REVALIDATION PENDING  
+**Status:** CANON — OVERPOWERED RETCON GATE 9 PASS  
 **Word Count:** 2270
+**Retcon QA:** `qa/CH-024-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
 The physical line was holding.
 

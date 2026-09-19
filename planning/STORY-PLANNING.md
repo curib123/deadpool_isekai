@@ -554,8 +554,8 @@ Old Gate 9 approvals remain historical for event continuity but are **not curren
 
 **Production order:** CH-001 → CH-027 sequential rewrite + Gate 9.
 
-**Current synchronization state:** CH-001 COMPLETE — current Soul-Drift / close-first-person / final story-engine manuscript has passed Gate 9.
+**Current synchronization state:** CH-001 and CH-002 COMPLETE — current Soul-Drift / close-first-person / final story-engine manuscripts have passed Gate 9.
 
-**Official next step:** CH-002 — Undefined → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.
+**Official next step:** CH-003 — The Things They Can Measure → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.
 
 **CH-028 remains paused until completion.**

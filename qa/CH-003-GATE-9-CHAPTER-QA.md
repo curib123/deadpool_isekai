@@ -1,148 +1,132 @@
 # CH-003 Gate 9 — Chapter QA
 
+**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
+**Volume:** 1 — Greywake Arc  
 **Chapter:** CH-003 — The Things They Can Measure  
-**Manuscript:** `manuscript/CH003-THE-THINGS-THEY-CAN-MEASURE.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 2,443
-
-**Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A097 Prose Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A037 Power Balance Editor, A050 Mystery Director, A051 Foreshadowing Editor, A111 Logic Editor
+**Review Date:** 2026-09-20  
+**Revision Track:** Soul-Drift / Close First-Person / Final Story Engine  
+**Status:** PASS — CURRENT CANON REVALIDATED  
+**Word Count:** 2,512
 
 # Scope
 
-Gate 9 reviewed the complete CH-003 manuscript against:
+Gate 9 reviewed the rewritten CH-003 manuscript against the current Soul-Drift master retcon, final story-engine rules, locked five-scene architecture, CH-001/CH-002 current canon, F-001/F-002 mystery state, language boundaries, and CH-004 handoff.
 
-- locked CH-003 Scene Architecture;
-- CH-001/CH-002 canon;
-- deadpan Red Jackal voice standard;
-- Systems Bible;
-- continuity knowledge boundaries;
-- Mystery Bible;
-- Volume 1 roadmap;
-- Gate 9 QA requirements.
+# Severity Review
 
-# CRITICAL
-
+## CRITICAL
 **None.**
 
-# MAJOR — RESOLVED
+## MAJOR
+**None unresolved.**
 
-## Same-Day Continuity
+### Paragraph Cadence — RESOLVED
+The initial final-engine draft was too fragmented.
 
-The initial CH-003 draft referred to the CH-002 intake as occurring “yesterday.”
+Current saved manuscript:
+- 223 total prose/dialogue paragraphs;
+- 104 non-dialogue narrative paragraphs;
+- 25 single-sentence non-dialogue paragraphs (~24.0%);
+- short standalone dialogue remains separated for speaker clarity.
 
-Locked CH-003 timing is:
+Narrative multi-sentence paragraphs are now the default.
 
-**same day as CH-002, early afternoon.**
+**Resolution:** PASS.
 
-**Resolution:** revised Maelis's line to:
+# Gate 9 Review
 
-**“This morning's intake established that two separate authorized System interfaces could not produce a valid identity record for you.”**
+| Check | Result | Evidence |
+|---|---|---|
+| Close first-person POV | PASS | I/me/my narration; no third-person Red action narration |
+| Soul-Drift memory/origin compatibility | PASS | no traffic-crash residue or restored Earth biography |
+| Chosen Red Jackal persona preserved | PASS | no recovered Earth-name contradiction |
+| Red remains original | PASS | no copied franchise dialogue or scenes |
+| Movie-like English | PASS | direct action/reaction/dialogue flow |
+| Reader-talk restrained | PASS | two audience-facing asides only |
+| Every audience aside freezes time | PASS | both occur during explicit Fourth-Wall Pause |
+| Pause not tactically abused | PASS | no movement/manipulation advantage |
+| Wayfarer Tongue Token active | PASS | spoken language support remains institutional |
+| No silent literacy | PASS | written local/System text remains unreadable |
+| F-001 treated as prior canon | PASS | prior two-interface failure informs procedure, not re-planted |
+| Calibrated Balance Plate | PASS | stable repeatable physical mass |
+| Thermal Bead | PASS | living-body range |
+| Wound Gauge/current-state check | PASS | present wound only; no healing-rate analysis |
+| Material Verification Tag | PASS | clothing/token physically verify |
+| Mana-Reactivity Prism | PASS | repeatable physical mana interaction |
+| Mana interaction ≠ MP | PASS | distinction explicit |
+| Certified Identity Slate control | PASS | recognized control subject checked first |
+| Name | PASS | UNDEFINED |
+| Race | PASS | UNDEFINED |
+| Class | PASS | UNDEFINED |
+| Level | PASS | UNDEFINED |
+| HP | PASS | UNDEFINED |
+| MP | PASS | UNDEFINED |
+| Progression | PASS | UNAVAILABLE |
+| System Recognition | PASS | FAILED |
+| Classification | PASS | ANOMALY |
+| World Registry | PASS | NO RECORD |
+| Soul Registry | PASS | NO RECORD |
+| F-002 physical-data component | PASS | ordinary physical measurements work |
+| F-002 mana component | PASS | mana interacts physically while MP remains undefined |
+| F-002 identity-contrast component | PASS | functioning slate still returns identity absence |
+| F-002 remains planted | PASS | rewritten prose preserves complete clue |
+| F-003 protected | PASS | no healing magic, healing-rate test, or regeneration mechanism |
+| F-004 protected | PASS | no Play Logic attempt, manifestation, or spell-grammar comparison |
+| No raw-power progression | PASS | no level-up/stage/mastery ladder |
+| Maelis evidence-first | PASS | records facts separately from theories |
+| Maelis remains independent/competent | PASS | Red cannot theatricalize her conclusions |
+| Maelis does not know protected truth | PASS | only rules out simple local device failure |
+| Jessa brief/procedural | PASS | Road Guild records bridge only |
+| Jessa knowledge bounded | PASS | no march-lure/conspiracy knowledge revealed |
+| Hesk remains off-page | PASS | invitation only |
+| CH-004 contract not started | PASS | no rate, terms, assignment, or negotiation |
+| Greywake continues independently | PASS | records/audit/guild workflows exist outside Red |
+| Aura farming controlled | PASS | Red attempts flattering interpretations; Maelis reduces them to evidence |
+| No conventional moral-development arc | PASS | cooperation remains practical/self-interested |
+| Serious anomaly has room | PASS | humor falls away during final identity confirmation |
+| Five-scene architecture preserved | PASS | procedure → physical facts → mana → identity contrast → Hesk invitation |
+| CH-004 handoff clean | PASS | Red agrees only to hear Hesk out |
 
-No other time contradiction remains.
+# Fourth-Wall Pause Audit
 
-# MINOR — RESOLVED
+## Pause 1 — Physical Measurement
+Red comments directly to the audience after ordinary physical checks.
 
-## Verification Terminology
+Frozen:
+- rain at the window;
+- clerk's pen above the page.
 
-Two small terminology improvements were made:
-
-- the final physical tool is explicitly named **Material Verification Tag**;
-- Red Jackal's summary now refers to **World Registry** and **Soul Registry** rather than loose “record” phrasing.
-
-# Story
-
-| Check | Result |
-|---|---|
-| Meaningful chapter change | PASS |
-| Physical-vs-identity contradiction advances M-002 | PASS |
-| Maelis relationship advances | PASS |
-| Jessa introduced for a clear local function | PASS |
-| Hesk pressure enters through normal Guild workflow | PASS |
-| Ending hands naturally to CH-004 | PASS |
-| CH-004 itself does not begin | PASS |
-
-# Red Jackal Voice
-
-| Check | Result |
-|---|---|
-| First-person throughout | PASS |
-| Locked dry/deadpan internal humor | PASS |
-| Immediate experience primary | PASS |
-| Reader-talk restrained | PASS |
-| Self-talk remains primary | PASS |
-| No joke quota | PASS |
-| No overt “branding/audience/performance” comedy pattern | PASS |
-| Serious anomaly confirmation reduces humor naturally | PASS |
-
-The chapter's humor comes from understatement, bureaucracy, practical annoyance, and Maelis's literal precision.
-
-# POV / Prose
-
-| Check | Result |
-|---|---|
-| No invisible third-person narrator | PASS |
-| Personality-filtered description | PASS |
-| Dialogue distinct | PASS |
-| Narrative multi-sentence paragraphs remain the default | PASS |
-| Short dialogue turns remain clear | PASS |
-| No robotic prose fragmentation | PASS |
-
-Final cadence:
-- 271 prose/dialogue paragraphs;
-- 160 narrative paragraphs;
-- 84 narrative paragraphs contain two or more sentences;
-- 76 narrative paragraphs are single-sentence;
-- narrative multi-sentence paragraphs remain the majority.
-
-The higher total single-sentence ratio is driven primarily by short speaker turns rather than chopped narrative prose.
-
-# Language / Literacy
-
-**PASS.**
-
-- Wayfarer Tongue Token remains active.
-- Red Jackal still cannot understand local speech without translation.
-- He still cannot read Veyran writing.
-- Written slate/forms remain unreadable to him.
-
-# F-002 Evidence
-
-## Component A — Physical Data
+He only comments and resumes the same instant.
 
 **PASS.**
 
-The manuscript canonically contains:
-- repeatable measurable mass through the **Calibrated Balance Plate**;
-- living-body temperature through the **Thermal Bead**;
-- visible wound-state measurement without healing-rate analysis;
-- physical material verification for the entrant token and clothing through the **Material Verification Tag**.
+## Pause 2 — Identity Contrast
+After physical and mana measurements succeed while identity remains absent, Red addresses the audience.
 
-No exact body weight is canonized.
+Frozen:
+- Wayfarer hum;
+- rain;
+- Maelis mid-motion.
 
-No exact temperature is canonized.
-
-## Component B — Mana Interaction
+He does not alter the test or reposition.
 
 **PASS.**
 
-The **Mana-Reactivity Prism**:
-- emits a standardized low-output pulse;
-- physically interacts with Red Jackal;
-- produces a repeatable result;
-- does not convert the interaction into a valid System MP value.
+# F-002 Revalidation
 
-The chapter preserves:
+The rewritten manuscript preserves all required F-002 evidence.
 
-**mana interaction ≠ System MP.**
+### Component A — Physical existence
+- repeatable mass;
+- living-body temperature;
+- visible wound state;
+- physical material verification.
 
-## Component C — Identity Contrast
+### Component B — Mana interaction
+The standardized pulse interacts with Red twice, but the chapter explicitly refuses to equate this with readable MP, hidden mana capacity, or a special class.
 
-**PASS.**
-
-A functioning Certified Identity Slate is checked against a recognized control subject first.
-
-Red Jackal then returns:
+### Component C — Identity absence
+A functioning Certified Identity Slate still returns:
 
 - Name: UNDEFINED
 - Race: UNDEFINED
@@ -156,133 +140,70 @@ Red Jackal then returns:
 - World Registry: NO RECORD
 - Soul Registry: NO RECORD
 
-The prose explicitly reaches the intended contrast:
+Therefore:
 
-**physical existence is measurable; System identity is not.**
+**F-002 remains PLANTED — CH-003.**
 
-# F-001
+No new F-ID is planted.
 
-**PASS — remains PLANTED — CH-002.**
+# Knowledge Boundary
 
-CH-003 confirms the prior pattern but does not re-plant F-001.
+By the end of CH-003, Red may know:
+- his physical mass and temperature are measurable;
+- the current wound exists as ordinary physical evidence;
+- his clothing and entrant token verify as physical matter;
+- local mana physically interacts with him;
+- measurable mana interaction still does not become valid System MP;
+- the identity slate works on a recognized control;
+- his identity absence persists under controlled conditions;
+- simple local device failure is no longer a sufficient explanation;
+- his restrictions remain unchanged;
+- normal registered guild work remains blocked;
+- Roadmaster Rovan Hesk is willing to discuss private/off-book paid work.
 
-# F-003 Protection
-
-**PASS.**
-
-The wound is recorded only in its current visible state.
-
-No:
-- healing magic;
-- healing-rate measurement;
-- regeneration mechanism;
-- healer analysis;
-- regeneration classification.
-
-F-003 remains unplanted.
-
-# F-004 Protection
-
-**PASS.**
-
-No:
-- Play Logic attempt;
-- manifestation;
-- diagnostic test;
-- spell-grammar comparison;
-- concept-versus-spell analysis.
-
-F-004 remains unplanted for CH-005.
-
-# Power
+He still does not know:
+- why the System cannot define him;
+- Soul Drift;
+- why Fourth-Wall Pause occurs;
+- why regeneration works;
+- how Play Logic works;
+- any protected cosmology or native-story truth.
 
 **PASS.**
 
-CH-003 contains no Play Logic use.
+# Scene Compliance
 
-The Mana-Reactivity Prism does not establish:
-- hidden MP;
-- special class;
-- unlimited mana;
-- anti-magic status;
-- Play Logic mechanics.
+## SC-003-01 — Terms of Measurement
+**PASS.** Maelis defines evidence categories, establishes a control and preserves language/literacy rules.
 
-# Character / Knowledge
+## SC-003-02 — Physical Facts
+**PASS.** Mass, temperature, wound state and physical materials are measurable without creating System identity.
 
-## Maelis Orra
-**PASS.**
+## SC-003-03 — The Mana Still Touches Me
+**PASS.** Repeatable mana interaction is observed without converting it into MP, class, talent or Play Logic theory.
 
-She may conclude:
-- Red Jackal is physically measurable;
-- his body interacts with mana;
-- independent identity failure is repeatable;
-- simple local device malfunction is insufficient.
+## SC-003-04 — What the Record Refuses to Say
+**PASS.** Controlled identity re-check preserves the exact locked undefined state and completes F-002.
 
-She does not infer protected writer truth.
+## SC-003-05 — What the Ledger Writes Down
+**PASS.** Jessa appears through Road Guild records, Hesk remains off-page, and Red accepts only an invitation to hear the proposal.
 
-## Jessa Vale
-**PASS.**
+# Canonization Decision
 
-She knows only:
-- Red Jackal is an unverified entrant;
-- standard contract processing is blocked;
-- Hesk is willing to discuss private/off-book work.
+# GATE 9 — PASS
 
-She does not reveal or know the march-lure conspiracy truth in this chapter.
+**CH-003 — The Things They Can Measure** is current canon under the Soul-Drift / close-first-person / final story-engine standard.
 
-## Rovan Hesk
-**PASS.**
+F-001 remains:
 
-No direct appearance.
+**PLANTED — CH-002**
 
-Only an off-page invitation is conveyed.
+F-002 remains:
 
-No CH-004 contract terms are negotiated.
+**PLANTED — CH-003**
 
-# Mystery
+**Official next production step:**
 
-**PASS.**
+**CH-004 — Off the Books → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**
 
-M-002 advances observationally.
-
-No protected truth appears, including:
-- Savael;
-- Exterior Needle;
-- Eidrathi;
-- First Severance;
-- continuity translocation;
-- Exterior Echo;
-- Great Design;
-- Exception Covenant.
-
-# Ending
-
-**PASS.**
-
-Red Jackal leaves with:
-- no usable System identity;
-- stronger evidence that the anomaly is genuine;
-- unchanged Unverified Entrant restrictions;
-- a Road Guild invitation to hear Hesk's proposal.
-
-Final line:
-
-**“But it was measurable.”**
-
-The chapter ends before CH-004 begins.
-
-# Gate 9 Decision
-
-# PASS
-
-CH-003 is approved for canonization.
-
-After canonization:
-- CH-003 becomes CANON;
-- F-002 becomes **PLANTED — CH-003**;
-- the CH-003 continuity checkpoint may be recorded;
-- the next authorized production step becomes **CH-004 — Off the Books: Detailed Scene Architecture only**.
-
-Do not draft CH-004 manuscript before its Scene Architecture and Gate 8 Pre-Manuscript Scene QA pass.
-
-Do not select Volume 2.
+CH-028 remains paused until CH-001 through CH-027 complete this synchronization cycle.

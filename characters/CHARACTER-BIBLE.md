@@ -56,7 +56,7 @@ No romantic pairing is locked in Phase 2. Attraction or chemistry may be propose
 **Class:** UNDEFINED  
 **Level:** UNDEFINED  
 **Origin:** Earth, outside Veyr's Closed Loom  
-**Current Veyr Location:** deliberately unassigned until Destination Selection  
+**Current Planning Destination:** DEST-002 — Merrowgate (Volume 2 / Gate 6 locked). CH-026 canon still ends with Red having departed Greywake before any next destination is named in-story.  
 **Narrative Role:** protagonist, first-person storyteller, anti-villain anomaly
 
 Red Jackal is not a hidden conventional hero and not a nihilistic murderer. He is a self-centered, theatrical anti-villain who values freedom, spectacle, curiosity, and personal agency more than social approval.
@@ -1803,3 +1803,178 @@ The manipulation becomes public, Guild authority collapses or is restructured, a
 
 ### Return Status
 Not automatically recurring. Later use requires explicit post-Greywake justification.
+
+
+# 15. Volume 2 Deployment Records — Merrowgate Arc
+
+**Status:** GATE 6 LOCKED DEPLOYMENT SUPPORT  
+**Scope:** Character placement and identity only. Plot architecture remains owned by `volumes/VOLUME-002-MERROWGATE-ARCHITECTURE.md`.
+
+Greywake-local characters do not automatically travel with Red Jackal. Volume 2 introduces a destination-local cast whose goals exist independently of him.
+
+## CHAR-015 — Captain Iria Voss
+
+**Species:** Human  
+**Age:** 41  
+**Origin:** Merrowgate  
+**Affiliation:** Merrowgate Harbor Watch  
+**Role Type:** civic-security commander / institutional foil
+
+### Goal
+Keep public harbor authority from becoming an extension of any merchant house.
+
+### Strengths
+- crisis command;
+- port law;
+- boarding actions;
+- crowd/security coordination;
+- political caution.
+
+### Flaws
+- distrusts irregular people;
+- relies heavily on provable procedure;
+- can hesitate while evidence remains incomplete.
+
+### Relationship to Red Jackal
+Initially treats him as a dangerous administrative and security problem. She may recognize his usefulness without becoming his subordinate or admirer.
+
+### Knowledge Boundary
+May learn that Red remains UNDEFINED across jurisdictions and that he participated in one off-book movement. She cannot infer his protected origin or cosmology.
+
+## CHAR-016 — Samir Kesran
+
+**Species:** Human  
+**Age:** 36  
+**Origin:** Serekh family established in Merrowgate  
+**Affiliation:** Independent shipwright cooperative  
+**Role Type:** engineering / harbor-structure specialist
+
+### Goal
+Keep smaller dry docks and shipwright yards commercially independent.
+
+### Strengths
+- rigging;
+- hull repair;
+- load distribution;
+- cranes;
+- dock engineering;
+- practical maritime judgment.
+
+### Flaws
+- proud;
+- openly hostile to merchant financiers;
+- takes technical criticism personally.
+
+### Relationship to Red Jackal
+Respects useful improvisation but rejects flashy solutions that ignore load, balance, workers, or structural reality.
+
+## CHAR-017 — Nessa Quill
+
+**Species:** Riverkin  
+**Age:** 28  
+**Origin:** Merrowgate  
+**Affiliation:** Independent dock broker / courier network  
+**Role Type:** social navigation / informal-route access / transactional ally
+
+### Goal
+Earn enough legitimate contracts to secure a permanent broker charter without becoming owned by a merchant house.
+
+### Strengths
+- dock contacts;
+- informal routes;
+- negotiation;
+- multilingual trade speech;
+- reading people;
+- fast information movement.
+
+### Flaws
+- cuts legal corners;
+- values plausible deniability;
+- can convince herself a suspicious job is merely normal port business.
+
+### Relationship to Red Jackal
+Finds his classification failure commercially interesting. She is not automatically loyal to him and may help route the off-book job that becomes his Volume 2 mistake without knowing the full scheme.
+
+## CHAR-018 — Dalen Marr
+
+**Species:** Human  
+**Age:** 32  
+**Origin:** Avarran interior  
+**Affiliation:** Open Hand Caravans  
+**Role Type:** logistics factor / reputation conduit
+
+### Goal
+Keep Open Hand cargo moving through Merrowgate without accepting monopoly protection contracts.
+
+### Strengths
+- manifests;
+- schedules;
+- caravan/ship transfer logistics;
+- commercial negotiation;
+- rumor verification.
+
+### Flaws
+- risk-averse;
+- may prioritize network stability over individuals;
+- dislikes improvisation he cannot price.
+
+### Relationship to Red Jackal
+Has heard contradictory Greywake stories before meeting him. He is an early example of Red's reputation arriving before the person.
+
+# 16. Volume 2 Local Antagonist Record
+
+## ANTAG-MG-001 — Cassian Venn
+
+**Species:** Human  
+**Age:** 47  
+**Origin:** Merrowgate  
+**Affiliation:** Venn Maritime House  
+**Position:** Maritime assurance magnate, private-security patron, Harbor Council member  
+**Status:** Volume 2 local antagonist
+
+### History
+Raised in a Merrowgate shipping family that lost vessels, warehouse access, and political standing during repeated foreign pressure and privateer crises. He rebuilt the house by combining cargo assurance, debt purchasing, warehouse investment, convoy protection, and private security.
+
+### Worldview
+**A free port is only free while nobody outside it can close it. If the city will not centralize enough to protect itself, someone competent must do it for them.**
+
+### Goal
+Pass the Unified Harbor Security Charter and place Merrowgate's critical emergency inspections, closures, major warehouse security, and crisis enforcement under Venn Maritime House control.
+
+### Methods
+- selective sabotage;
+- purchased informants;
+- manipulated risk certification;
+- deniable smugglers;
+- false security intelligence;
+- debt acquisition after manufactured losses;
+- private guards;
+- political lobbying;
+- planted evidence;
+- legitimate rescue/security work used to build trust.
+
+### Resources
+- merchant wealth;
+- warehouses;
+- assurance contracts;
+- private security;
+- council access;
+- legal advocates;
+- shipping schedules;
+- information brokers;
+- commercial debt holdings.
+
+### Sympathy Boundary
+Merrowgate genuinely faces foreign pressure, privateers, smuggling, maritime danger, and fragmented crisis authority. Cassian has funded real rescues and defenses. His line-crossing is manufacturing or amplifying danger to prove only his system can solve it.
+
+### Relationship to Red Jackal
+Initially sees Red as commercially useful irregular labor whose absent identity and growing rumor can be exploited. Later tries to turn Red's reputation and real off-book mistake into public proof that stronger centralized control is necessary.
+
+### Win Condition
+Enough instability becomes undeniable, Red or another irregular outsider absorbs blame, emergency authority is invoked, and the Unified Harbor Security Charter gives Venn practical control over movement and security.
+
+### Knowledge Boundary
+Cassian does not know why Red is UNDEFINED and possesses no protected Savael, Exterior Needle, Great Design, Play Logic-origin, Exterior Echo, or technical Fate knowledge.
+
+### Return Status
+Not automatically recurring. Later use requires explicit post-Merrowgate justification.

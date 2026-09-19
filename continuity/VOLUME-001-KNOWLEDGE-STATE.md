@@ -495,7 +495,7 @@ This advances M-002 observationally but does not reveal the cause.
 # CH-004 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-004 — Off the Books  
-**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+**Status:** SUPERSEDED BY CH-005 CANON CHECKPOINT
 
 ## Red Jackal — Opening CH-004
 
@@ -770,11 +770,7 @@ They may not conclude:
 
 ## F-004 Boundary
 
-F-004 remains **PLANNED — NOT YET PLANTED** until approved CH-005 manuscript prose contains both:
-1. casting-structure mismatch;
-2. changed result from changed mental framing;
-
-and Gate 9 passes.
+F-004 is now **PLANTED — CH-005** after approved manuscript prose contained both the casting-structure mismatch and changed-result framing clue and passed Gate 9.
 
 ## F-003 Boundary
 
@@ -814,3 +810,87 @@ Not allowed:
 - high-mastery rule bending;
 - System Skill recognition;
 - complete understanding of the ability.
+
+
+
+# CH-005 Canon Checkpoint
+
+**Chapter:** CH-005 — A Better Hammer  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH005-A-BETTER-HAMMER.md`  
+**QA:** `qa/CH-005-GATE-9-CHAPTER-QA.md`
+
+After CH-005, Red Jackal canonically knows:
+
+- intentional manifestation is possible;
+- a vague category such as “hammer” can produce a technically valid but functionally poor result;
+- changing the mental framing to a clear purpose can materially change the manifestation;
+- a clear functional idea can produce a stronger, more useful result than vague wishing;
+- his manifestation does not resemble ordinary prepared Guild/Valedorn sigilcraft;
+- the effect remains unstable and temporary;
+- manifestation use can cause mental and physical fatigue;
+- the power still does not produce a System Skill/Class/Level/MP result;
+- he still does not know the true mechanism, origin, or correct technical name for the ability.
+
+His current working observation is:
+
+**clear purpose works better than vague wishing.**
+
+This is not a complete theory and does not grant reliable control.
+
+Red Jackal still does **not** know:
+
+- the term Play Logic;
+- why imagination affects reality;
+- why his regeneration works;
+- the march-lure conspiracy;
+- Hesk's hidden policy;
+- any protected series mystery truth.
+
+## Road Guild Repair Crew — Post-CH-005 Knowledge
+
+The repair crew and assigned guards canonically know:
+
+- Red Jackal produced two temporary hammer-like objects by an unfamiliar method;
+- the first was functionally poor;
+- the second was useful for the bridge repair;
+- no ordinary prepared sigil/focus/spoken casting sequence was visible;
+- the effect does not look like normal Guild sigilcraft.
+
+They may interpret it as strange or unknown magic.
+
+They do not know:
+- Play Logic;
+- the true mechanism;
+- Red Jackal's anomaly origin;
+- protected writer truth.
+
+## F-004 Knowledge Consequence
+
+F-004 is now:
+
+**PLANTED — CH-005**
+
+Observed clue:
+
+**Red Jackal's manifestation responds more effectively to clear meaning/function than vague category-thinking, despite not using normal spell grammar.**
+
+This advances the power mystery observationally without explaining its origin.
+
+## F-003 State
+
+F-003 remains:
+
+**PLANNED — NOT YET PLANTED**
+
+No healing/regeneration clue was advanced in CH-005.
+
+## CH-006 Handoff
+
+CH-006 may begin with:
+- Red Jackal having completed and been paid for his first private Road Guild job;
+- his new working power observation available to him;
+- Stage I limits still active;
+- no regeneration clue from CH-005;
+- no conspiracy knowledge;
+- Tavian Rook's independent road/migration work still separate from Red Jackal until prose brings them together.

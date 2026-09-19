@@ -3200,7 +3200,7 @@ CH-013 owns the locked midpoint proof that deliberate diversion exists and that 
 # CH-013 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-013 — Where They Die  
-**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+**Status:** SUPERSEDED BY CH-013 CANON CHECKPOINT
 
 ## Opening State
 
@@ -3427,3 +3427,219 @@ CH-013 must stop before fully debating:
 - full shutdown strategy.
 
 Those belong to CH-014 — **Necessary Losses**.
+
+# CH-013 Canon Checkpoint
+
+**Chapter:** CH-013 — Where They Die  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH013-WHERE-THEY-DIE.md`  
+**QA:** `qa/CH-013-GATE-9-CHAPTER-QA.md`
+
+## Midpoint Truth — CANON
+
+Movement III — **The Road Is Lying** has reached its locked midpoint conclusion:
+
+**someone in Greywake has been deliberately deciding where the monster migration kills people.**
+
+Interpretation:
+
+This is **policy-level allocation of lethal migration risk**.
+
+It does not mean:
+- Hesk personally chose every individual victim;
+- every outer death is proven lure-caused;
+- every lure location is known;
+- the complete lure network is mapped.
+
+## Coordinated Diversion State
+
+CH-013 canonically establishes:
+
+- more than one diversion deployment/service sector exists beyond the Broken North lure;
+- recurring diversion-equipment supplies and maintenance dispatches were processed through Road Guild operations;
+- Roadmaster-level authority approved the operational category;
+- Tavian's field evidence is consistent with multiple maintained diversion points;
+- the migration was being deliberately redirected, not merely naturally worsening;
+- the Main Caravan Road was deliberately treated as the protected critical corridor;
+- outer routes repeatedly absorbed displaced pressure;
+- the Guild knew outer routes were taking increased monster pressure;
+- the diversion policy continued despite those known outer consequences.
+
+Still unknown:
+- exact total lure count;
+- exact location of every lure;
+- complete network geometry;
+- exact current state of every device;
+- exact backflow behavior;
+- complete shutdown sequence.
+
+## Rovan Hesk — Post-CH-013 Knowledge / Responsibility
+
+Hesk's policy-level responsibility is now canonically established.
+
+He acknowledged:
+- Greywake used diversion equipment deliberately;
+- multiple deployments existed;
+- the Main Caravan Road was protected through the policy;
+- the operations fell under Roadmaster authority;
+- diversion moved risk elsewhere;
+- the Guild knew outer routes were taking increased monster pressure.
+
+CH-013 does not establish:
+- Hesk personally installed every lure;
+- Hesk personally serviced every lure;
+- Hesk personally selected each casualty;
+- Hesk signed every casualty reclassification.
+
+Hesk's Red Jackal assessment may now move from:
+
+**unpredictable complication**
+
+toward:
+
+**threat to operational control.**
+
+## Jessa Vale — Post-CH-013 Knowledge / Development
+
+Jessa canonically:
+
+- recognizes recurring diversion-equipment supply and service records she previously treated as separate clerical functions;
+- confirms Roadmaster-office approval of the operational category;
+- confirms diversion-service orders remained active while outer incidents were rising;
+- confirms the same office continued approving the operational category;
+- states that she did not know the field geometry;
+- remains economically vulnerable because her brothers depend on her job;
+- chooses to answer after Brynn/Maelis explicitly preserve her agency.
+
+Jessa remains:
+- a complicity witness;
+- not a mastermind;
+- not fully informed about the network;
+- not a sudden fearless whistleblower.
+
+## Maelis Orra — Post-CH-013 Knowledge / Development
+
+Maelis canonically establishes the full evidence chain by combining:
+
+- physical lure evidence;
+- service/dispatch records;
+- ecological movement evidence;
+- route-loss categories;
+- Hesk's policy acknowledgment.
+
+She remains careful that:
+- unresolved cases are not automatically confirmed deaths;
+- category differences do not invalidate a repeated combined pattern;
+- Hesk's policy responsibility does not equal proof he personally ordered each death.
+
+Her audit is now openly adversarial.
+
+## Tavian Rook — Post-CH-013 Knowledge
+
+Tavian canonically knows:
+
+- multiple maintained diversion points are consistent with the persistent migration drift;
+- the migration has been deliberately redirected;
+- animals are being biased, not perfectly controlled;
+- the full network remains incompletely mapped.
+
+He does not yet know or explain detailed backflow behavior.
+
+## Kellan Dorr — Post-CH-013 Knowledge / Development
+
+Kellan canonically sees hard proof that:
+
+- the outer routes absorbing displaced pressure are inhabited communities;
+- the effect is not merely abstract "sector" geography;
+- Greywake's route policy repeatedly exposed outer homesteads, camps and work roads.
+
+His anger remains grounded in community stakes rather than replacing the evidence chain.
+
+## Captain Brynn Alder — Post-CH-013 Knowledge / Development
+
+Brynn canonically knows:
+
+- deliberate diversion exists;
+- the Road Guild shaped the risk environment used for militia route decisions;
+- leadership knew outer pressure was increasing;
+- the policy continued.
+
+She now treats the matter as:
+
+**a settlement/public-safety governance problem**
+
+rather than merely internal Guild procedure.
+
+She has not yet:
+- arrested Hesk;
+- resolved council authority;
+- chosen a final network policy.
+
+## Red Jackal — Post-CH-013 Knowledge / Development
+
+Red Jackal canonically realizes:
+
+- he voluntarily accepted a bad irregular-work arrangement;
+- he did not knowingly consent to hidden route-risk manipulation;
+- Hesk's logic sorts roads, workers and communities by usefulness;
+- Red was especially useful because he lacked ordinary certification/protections;
+- Hesk treats capability as something the institution may deploy where needed;
+- the same broader logic makes some people/routes easier to expose or lose.
+
+Red's core conflict becomes:
+
+**you do not get to decide my expendability for me.**
+
+This remains an anti-villain/agency conflict, not a conversion into lawful heroism.
+
+## Power / Regeneration State After CH-013
+
+CH-013 contains:
+- no Play Logic attempt;
+- no manifestation;
+- no regeneration event;
+- no combat;
+- no new M-005 clue.
+
+F-003 remains **PLANTED — CH-007**.  
+F-004 remains **PLANTED — CH-005**.
+
+## F-ID State After CH-013
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+No F-ID changed state in CH-013.
+
+## M-007 State After CH-013
+
+M-007 remains inactive.
+
+## CH-014 Handoff
+
+CH-014 — **Necessary Losses** may now begin with:
+
+- deliberate diversion proven;
+- multiple coordinated diversion deployments proven;
+- Hesk's policy-level responsibility proven;
+- Main Caravan Road protection proven deliberate;
+- repeated outer-route exposure proven;
+- leadership knowledge of outer consequences proven;
+- exact lure count unknown;
+- full network geometry unknown;
+- backflow behavior not yet explained;
+- no lure disabled yet;
+- Red Jackal personally hostile to Hesk's imposed-expendability logic;
+- Brynn treating the matter as settlement/public-safety governance;
+- Maelis's audit openly adversarial;
+- Tavian still requiring complete migration mapping before physical intervention.
+
+CH-014 owns:
+- Hesk's strongest necessity argument;
+- the deeper history/rationale behind the policy;
+- whether immediate shutdown is survivable;
+- Tavian's warning that altering a lure before mapping the full network may cause backflow.
+
+CH-015 still owns Red Jackal's unauthorized lure-disruption mistake.

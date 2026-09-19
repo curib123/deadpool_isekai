@@ -78,7 +78,7 @@ Future him had become annoyingly present.
 
 The boarding area was organized chaos. Cargo went one direction, passengers another, workers somehow moved through both. A crewman with a red cloth tied around one arm checked the stamped piece in his hand, pointed toward a low river vessel, then pointed at his pack. He handed him the second stamp. He nodded, and he had successfully purchased permission for his belongings to continue existing near him.
 
-The vessel sat low in the water beneath stacked cargo secured with ropes and timber braces. The passenger space was not luxurious, unless your definition of luxury included a bench and the possibility of keeping both feet dry. His had recently become flexible.
+The vessel sat low in the water beneath stacked cargo secured with ropes and timber braces. The passenger space was not luxurious, unless luxury meant a bench and a chance of keeping both feet dry. His had recently become flexible.
 
 He stepped onto the boarding ramp just as two workers began guiding a loaded handcart toward the cargo section. Compact wooden crates were strapped together beneath canvas. Nothing mysterious. Nothing glowing. Nothing screaming.
 

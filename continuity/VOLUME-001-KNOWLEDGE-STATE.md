@@ -5066,3 +5066,191 @@ CH-017 owns:
 - Red accepting responsibility without surrendering agency to Hesk.
 
 No CH-017 outcome is canon before its manuscript passes Gate 9.
+
+# CH-017 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-017 — The Price of Being Right  
+**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+
+## Opening State
+
+CH-017 begins from the CH-016 canon checkpoint.
+
+Known:
+- observed backflow is active;
+- migration pressure is turning toward Greywake;
+- the seasonal-cut bridge is lost;
+- Kellan is severely injured and alive;
+- exact medical prognosis is not yet established;
+- Red is recovering abnormally from CH-015/016 injuries but remains exhausted;
+- Red knows:
+  **“My choice was in this chain.”**
+- Hesk's long-term hidden diversion policy remains proven;
+- Red's unauthorized lure disruption is separately proven;
+- Hesk has not yet regained emergency authority.
+
+## Kellan Medical Boundary
+
+Sela may establish:
+- severe lower-leg crush/fracture;
+- major soft-tissue damage;
+- meaningful blood loss;
+- additional shoulder/torso/rib impact;
+- inability to bear weight;
+- need for immobilization and continued treatment;
+- uncertain early prognosis.
+
+Sela may use:
+- bleeding control;
+- cleaning;
+- splinting/stabilization;
+- pain control;
+- limited healing mana.
+
+Do not establish:
+- amputation;
+- permanent disability;
+- guaranteed full recovery;
+- exact recovery timetable.
+
+## Red Recovery Boundary
+
+Red's side/leg/shoulder injuries may continue visibly closing.
+
+He remains:
+- sore;
+- fatigued;
+- depleted.
+
+His faster recovery must contrast with Kellan's ordinary body.
+
+No Play Logic is authorized.
+
+## Kellan Agency Boundary
+
+Kellan may acknowledge:
+- he wanted the local lure stopped;
+- he helped Red act;
+- he did not know the network-wide consequence.
+
+He must not:
+- absolve Red;
+- take all responsibility;
+- endorse Hesk.
+
+Critical relationship rule:
+
+**Kellan judges Red by whether he shows up after the consequence.**
+
+## Hesk Emergency-Authority Boundary
+
+Hesk may demand:
+- centralized emergency control;
+- reactivation/strengthening of strongest remaining outer lures;
+- Road Guild operational authority.
+
+His argument may rely on:
+- Red violating the hold order;
+- immediate backflow;
+- bridge loss;
+- Greywake-facing pressure;
+- need for fast technical coordination.
+
+This does not erase:
+- manipulated reporting;
+- hidden sacrifice;
+- known outer exposure;
+- prior policy responsibility.
+
+## Maelis Actionable-Evidence Boundary
+
+Maelis may:
+- protect/copy/authenticate records;
+- preserve Hesk admissions/policy statements;
+- accurately record Red's unauthorized action;
+- separate Hesk's long-term responsibility from Red's immediate disruption responsibility;
+- argue for transparent shared emergency control.
+
+She must not:
+- complete Hesk's final legal defeat;
+- restructure the Guild permanently;
+- expose the full scheme publicly.
+
+## Brynn Governance Boundary
+
+Brynn may:
+- retain militia command;
+- refuse sole hidden Guild control;
+- allow Guild technical expertise only under shared oversight;
+- require Tavian/Maelis input;
+- impose a short decision window.
+
+She must not:
+- fully restore Hesk;
+- permanently resolve emergency authority;
+- design CH-018's final solution.
+
+## Tavian Boundary
+
+Tavian may:
+- confirm backflow remains active;
+- confirm Red's disruption materially contributed;
+- warn blind lure reactivation may cause further redistribution;
+- state doing nothing is also dangerous.
+
+He must not:
+- solve CH-018 early;
+- endorse Hesk's sacrifice logic;
+- absolve Red.
+
+## Red Jackal Development Boundary
+
+CH-017 owns the move from:
+
+**“My choice was in this chain.”**
+
+to:
+
+**“I will help fix what I worsened without becoming Hesk's property or accepting his acceptable-loss policy.”**
+
+Red must not:
+- claim ignorance;
+- use Kellan as excuse;
+- claim the disaster was intentional;
+- submit morally to Hesk;
+- become conventionally lawful.
+
+## CH-018 Firewall
+
+CH-017 may authorize the search for a third option.
+
+CH-017 must not:
+- select Broken North;
+- build the redirection plan;
+- define manifestation placements;
+- deploy Jessa into the coalition plan;
+- complete the map-room solution.
+
+CH-018 owns those steps.
+
+## F-ID / Mystery State
+
+No new F-ID.
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+M-007 does not advance in CH-017.
+
+## Locked CH-017 Ending
+
+Red remains and commits himself to helping solve the crisis under shared planning.
+
+He does not:
+- restore Hesk's acceptable-loss policy;
+- surrender his identity/agency;
+- leave Greywake to escape responsibility.
+
+CH-018 then owns the actual no-acceptable-loss plan.

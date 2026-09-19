@@ -241,6 +241,49 @@ The story must never frame this as a newly unlocked form.
 
 It is **restraint being removed**.
 
+## 2.4B Story-Thief / False-Main-Character Lock
+
+Red Jackal is the **reader-facing focal protagonist** of this series, but he is not Veyr's registered chosen Hero.
+
+The world contains a legitimate conventional Hero, Hero Party, Main Villain, minor villains, destination antagonists, and independent storylines.
+
+Red's role is to repeatedly intrude on those stories.
+
+When he appears, he may:
+- steal the visual center of a scene;
+- make the actual Hero look like the late arrival;
+- cause villains to misidentify him as the greater threat;
+- act like the scene belongs to him even when it does not;
+- turn another character's dramatic moment into his own performance;
+- leave before understanding the full plot he just damaged.
+
+This is the **false-main-character effect**.
+
+It must never erase the original characters' motives or causal objectives.
+
+Red steals **presentation and attention**.
+
+He does not automatically inherit every prophecy, quest, rivalry, villain, or destiny.
+
+### Chaos Engine
+
+Red is allowed to create frequent unexpected situations, but not arbitrary randomness.
+
+His disruption should come from:
+- boredom;
+- ego;
+- curiosity;
+- selfish interest;
+- chosen attachment;
+- love of spectacle;
+- hatred of coercion;
+- genre awareness;
+- deliberately playing with an enemy.
+
+The world must react afterward.
+
+A joke that changes the board becomes continuity.
+
 ## 2.5 Stable Psychological Engine
 
 ### Primary Desire

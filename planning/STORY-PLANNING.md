@@ -105,7 +105,7 @@ The authoritative Volume 1 chapter roadmap is:
 
 The next authorized planning artifact is:
 
-`CH-021 — Before the Herd: Manuscript Draft`
+`CH-021 — Before the Herd: Gate 9 Chapter QA`
 
 CH-001 manuscript has passed Gate 9 and is CANON.
 
@@ -221,9 +221,9 @@ M-007 did not advance.
 
 CH-021 Scene Architecture has passed Gate 8.
 
-Drafting CH-021 manuscript prose is now authorized.
+CH-021 manuscript draft now exists and is awaiting Gate 9 Chapter QA.
 
-Do not draft CH-022 or create CH-022 Scene Architecture during the CH-021 manuscript step.
+Do not draft CH-022 or create CH-022 Scene Architecture before CH-021 passes Gate 9 and is canonized.
 
 # 5. Scene Sheet
 Each scene has:

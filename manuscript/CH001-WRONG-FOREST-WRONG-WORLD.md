@@ -1,259 +1,679 @@
 # Chapter 1 — Wrong Forest, Wrong World
 
-**Status:** STUDIO CINEMATIC RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
-**Word Count:** 2,284
-**Voice QA:** `qa/CH-001-DEADPAN-VOICE-GATE-9-QA.md`
+**Status:** SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE REVISION — GATE 9 REVALIDATION PENDING
+**Revision Date:** 2026-09-20
+**Word Count:** 2326
 
-Rain on glass.
+White.
 
-White headlights.
+Heat.
 
-Metal folded around him.
+A sound so large it stopped being a sound.
 
-Then leaves whispered overhead.
+For one broken instant, I remembered light swallowing everything.
 
-Red opened his eyes to green. Branches crossed high above him, wet and heavy, with only thin pieces of sky between them. Damp earth pressed cold against his back. Something called from deeper in the forest.
+Then I opened my eyes under a tree.
 
-He stayed still for one breath.
+Green leaves overlapped high above me. Rainwater clung to their edges. Damp earth pressed cold against my back, and something with too many legs crawled over a root beside my shoulder.
 
-Head. Arms. Legs. No crushed ribs. No glass in his face.
+I stared at the canopy.
 
-No sirens either.
+Nothing exploded.
 
-That was worse.
+That felt like an improvement.
 
-He stared up at the branches. “Okay.”
+I took one breath. Then another.
 
-His voice worked.
+Head attached. Arms attached. Legs attached. No obvious hole through the middle. My ribs did not feel crushed, my skull was not leaking anything important, and breathing only hurt in the normal way breathing hurt when panic was trying to convince you it had medical qualifications.
 
-No hospital. No white room. No goddess waiting behind a desk with answers. No floating screen.
+I sat up slowly.
 
-Just wet soil, unfamiliar trees, and a broad silver-veined leaf under his hand that might have been poisonous.
+The forest tilted.
 
-He pushed himself upright.
+I caught myself on one hand and waited for the world to stop moving.
 
-The movement felt wrong.
+"Okay."
 
-Not painful. Wrong. His balance shifted faster than expected, and he caught himself before he tipped forward. His arms looked like his arms, mostly. Same general proportions. Same hands. But there was more strength in the movement than memory said there should be, and his shoulders felt strangely light.
+My voice sounded normal.
 
-Even his breathing settled too quickly. He flexed his fingers, then his toes. Because dignity had already left the premises, he patted down his ribs, stomach, neck, face, and the back of his head.
+That was almost suspicious.
 
-Nothing broken. No blood. No obvious hole where an important organ had resigned. The clothes were strange too: dark fabric, fitted but flexible, nothing he remembered putting on before the crash.
+I tried to remember what had happened before the white flash.
 
-No wallet. No keys. No phone. He checked again for the phone.
+Explosion.
 
-Still absent.
+I had that much.
 
-“Of course.”
+Heat. Pressure. A violent brightness. Then nothing.
 
-Dead. Drugged. Kidnapped. Insane.
+Everything before it was worse.
 
-None of the options improved with inspection.
+I knew what a hospital was. I knew what a phone was. I knew enough movies, comics, stupid internet jokes, and bad survival advice to recognize exactly how ridiculous my situation looked.
 
-He stood and straightened his coat anyway. If the forest wanted him confused, it did not need to see it. A cold drop of water fell from a leaf and landed directly on the back of his neck.
+My own life?
 
-He flinched hard enough to nearly trip over a root. The forest did not react. Fair enough.
+That part was full of holes.
 
-Dark trunks rose through layers of fern and silver-veined leaves. Moss buried half the stones. Water dripped somewhere to his left.
+Names slipped away when I reached for them. Faces refused to sharpen. I could remember the idea of having a past much better than the actual past itself.
 
-No engines. No power lines. No city hum.
+Excellent.
 
-He turned slowly.
+Memory loss and wilderness. Very premium package.
 
-Nothing human answered.
+I checked my pockets.
 
-Rain. Brakes. Light. Impact.
+No wallet.
 
-His hand went to his face. Cold mud soaked through one knee.
+No phone.
 
-This was too solid to dismiss.
+No keys.
 
-He pinched the inside of his arm. “Ow.” So pain still worked. Good to know.
+I checked for the phone again because denial deserves a fair trial.
 
-Another world. Reincarnation. Isekai.
+Still no phone.
 
-Maybe.
+There was also no ambulance, no road, no smoke column, no rescue crew, and no helpful supernatural receptionist waiting nearby with a clipboard.
 
-He refused to give it a name yet.
+I looked up at the branches.
 
-Instead, he chose a direction where the ground rose slightly and started walking. The plan was simple: do not die, find people, ask questions.
+"If you're waiting for the goddess, tutorial window, or glowing message, so am I."
 
-There was no fourth step. He had not earned one yet. Roots twisted beneath wet leaves, thorny vines grabbed at his clothes, and something small and winged stayed beside his ear for half a minute as if it had nowhere else to be.
+The rain stopped.
 
-He climbed the rise, slid halfway back down, and caught a branch before he fell. He decided not to count that as progress.
+Not slowed.
 
-At the top, the trees thinned enough for him to see farther ahead. He did not find rooftops or smoke, but he found something better than random wilderness.
+Stopped.
 
-Stone.
+A droplet hung beneath a leaf above my knee.
 
-Not a natural outcrop. A line of old, half-buried stones cut across the slope beneath moss and roots. He crouched beside them and brushed dirt away, revealing edges too straight to be accidental.
+Another floated halfway down beside my shoulder.
 
-A drainage channel, maybe. Or the remains of a road. He followed it. The farther he went, the clearer it became that people had once been here. A rotten timber lay parallel to the stones. A low block stood at one side of the route, weathered almost smooth. Brush grew differently in a long strip where the ground had once been kept clear.
+The forest went completely silent. No insects. No distant calls. No wind in the branches.
 
-Civilization. Old, abandoned civilization, but still evidence that somebody had built something here once. That was enough for him. Then he saw the tracks. Four impressions sat in damp soil ahead of him, large enough that he stopped walking. He crouched again.
+I looked at the suspended water.
 
-Four toes, maybe. Claws. The print was wider than his palm, with several more leading into the brush.
+Then I looked toward the place that felt, for reasons I could not explain, like where you were.
 
-Fresh ones.
+"That is new."
 
-He looked into the trees. “Of course.” This time, he said it quietly. Something moved in the brush behind him.
+Nothing answered.
 
-He turned.
+"Good talk."
+
+I turned back.
+
+The droplet hit my knee.
+
+Sound returned all at once.
+
+I stared at the wet spot on my trousers.
+
+There were several possible reactions to that.
+
+I chose postponement.
+
+First problem: survive.
+
+Second problem: find people.
+
+Third problem: discover why reality apparently had a pause button when I talked to an audience I could not see.
+
+That one could wait until I had food.
+
+I pushed myself to my feet.
+
+My body felt wrong.
+
+Not damaged. Different.
+
+I rose too easily, overcorrected, and nearly stepped straight into a fern. My balance recovered faster than expected. My legs felt lighter. My shoulders moved with more strength than memory insisted they should have.
+
+Whatever memory was worth at this point.
+
+I flexed my fingers. Rolled my neck. Checked my ribs, stomach, arms, face, and the back of my head.
+
+Nothing catastrophic.
+
+My clothes were unfamiliar too. Dark fabric. Flexible. A long coat that looked suspiciously better suited for dramatic entrances than wilderness survival.
+
+At least whoever dressed me had priorities.
+
+A cold drop slid directly down the back of my neck.
+
+I flinched hard enough to step on a root.
+
+The forest remained unimpressed.
+
+"Nobody saw that."
+
+Technically true.
+
+I started walking uphill.
+
+Higher ground meant a better view. Probably. That was one of those survival facts I had absorbed from somewhere without remembering the responsible adult who taught it to me.
+
+The slope punished my confidence immediately.
+
+Wet leaves slid under my boots. Thorny vines grabbed my sleeves. A tiny winged thing followed my ear for long enough to become personal.
+
+I climbed ten steps, lost four, and caught myself against a tree.
+
+Very cinematic.
+
+At the top, the forest opened just enough for me to see farther.
+
+No rooftops.
+
+No smoke.
+
+No convenient castle on the horizon.
+
+But there was stone.
+
+A straight line of half-buried blocks crossed the slope beneath moss and roots. I crouched and scraped mud away with my fingers.
+
+Cut edges.
+
+Not natural.
+
+A drainage channel, maybe. Old roadwork. Something built by hands.
+
+"Beautiful."
+
+Civilization had existed here.
+
+Past tense was not my favorite part of that sentence, but I would take what I could get.
+
+I followed the stones.
+
+The evidence grew clearer. A rotten timber lay parallel to the route. Brush formed an unnatural corridor where the ground had once been cleared. A low marker leaned beside the path, weathered almost smooth.
+
+Then I found the tracks.
+
+I stopped.
+
+Four deep impressions pressed into wet soil.
+
+Each one was wider than my palm.
+
+Claws at the front.
+
+More tracks disappeared into brush beside the old road.
+
+Fresh.
+
+I slowly lifted my head.
+
+"Naturally."
+
+Something moved behind me.
+
+Leaves whispered.
+
+I turned.
 
 Nothing.
 
-A few leaves trembled.
+A branch trembled.
 
-He kept walking.
+I kept walking.
 
-Not running was mostly a matter of pride.
+Not running.
 
-There was another rustle, closer this time. His pace increased. He called it caution.
+Running would imply fear, and I was still negotiating with mine.
 
-Then a low shape crossed between two trees ahead of him. He stopped. It was about the size of a large dog, maybe slightly bigger, but too lean through the middle. Its front legs were long. Its shoulders rolled beneath dark coarse fur. Its head sat lower than he liked, narrow muzzle pointed directly at him.
+The rustling followed.
 
-He did not know what it was.
+Closer.
 
-The animal seemed less confused.
+My pace increased.
 
-Lunch.
+That was tactical urgency.
 
-“Listen,” he told it. “I am having a very complicated day.” The animal stared. He lifted his chin anyway.
+A dark shape crossed between two trees ahead.
 
-It was meant to suggest experience. His actual record was mostly mosquitoes. The animal bared its teeth.
+I stopped again.
 
-It was not persuaded. It moved first.
+The animal stepped into the road.
+
+Large dog, if someone had designed a dog after hearing dogs described secondhand by a person with a grudge.
+
+Long front legs. Lean body. Dark coarse fur. Narrow head. Shoulders that rolled when it moved.
+
+It stared at me.
+
+I stared back.
+
+Neither of us seemed pleased with the casting.
+
+"Listen," I said. "I am having a difficult first day."
+
+Its lips pulled away from its teeth.
+
+"Strong counterargument."
+
+I straightened anyway.
+
+Shoulders back. Chin slightly down. Calm expression.
+
+If I was about to be eaten, I could at least look expensive.
+
+The animal lowered itself.
+
+I held its stare.
+
+It moved first.
 
 Fast.
 
-He jumped sideways and learned two important facts at once. One: this body was quicker than expected. Two: quicker was not the same as skilled. His foot hit loose mud. He went down on one knee as teeth snapped where his thigh had been a moment earlier.
+I jumped sideways.
 
-He grabbed the nearest branch and swung. It broke across the animal's shoulder. The animal barely reacted. “Right.”
+My body reacted quicker than I expected.
 
-He scrambled backward while it circled. He kept the broken branch between them. It was not much of a weapon, but it was more than his empty hands. It lunged again. He jammed the branch forward.
+My skill did not.
 
-The animal twisted around it and slammed into him. Pain ripped across his left forearm.
+One boot hit mud. I dropped to a knee while jaws snapped through the space where my thigh had been.
+
+I grabbed a fallen branch and swung.
+
+The branch broke across its shoulder.
+
+The animal barely noticed.
+
+"That was the warning shot."
+
+It circled.
+
+I backed toward the broken stonework, gripping what remained of the branch.
+
+It lunged again.
+
+I shoved the wood forward.
+
+The animal twisted around it and slammed into me.
+
+Pain opened across my left forearm.
 
 Hot.
 
+Sharp.
+
 Immediate.
 
-Real.
+I hit the ground hard enough to lose my breath.
 
-He shouted and hit the ground hard enough to lose his breath. For half a second, he just stared at his arm.
+Blood ran over my wrist.
 
-Blood.
+Four ragged cuts split the skin from below my elbow toward my hand.
 
-Four ragged cuts ran from below his elbow toward his wrist. Not deep enough to expose anything he never wanted to see, but deep enough that blood was already running over his hand.
+For one second, the comedy department closed.
 
 The animal came around again.
 
-The joke disappeared.
+I pushed myself up.
 
-Red was alone, unarmed, bleeding, and the thing in front of him already knew he was bad at this. He got up badly and backed toward the remains of the roadside wall. The animal lowered itself, watching.
+My heart hammered. My arm burned. The broken branch lay somewhere behind the thing trying to turn me into a meal.
 
-No weapon. No room. He looked for a rock. Nothing big enough.
+No weapon.
 
-A board. A pole. A shield.
+No room.
 
-Anything.
+The old roadside stones boxed me in on one side.
 
-The animal sprang. He threw his injured arm up and had one stupid, desperate thought. He needed something between them.
+The predator lowered its head.
 
-Something appeared.
+I looked for anything useful.
 
-Not elegantly. There was no flash of light and no convenient explanation. One moment there was nothing there.
+Rock.
 
-One moment there was empty air. The next there was a thick, ugly slab of dark material half across his forearm, like someone had tried to build a shield from a bad memory of a door.
+Pole.
 
-The animal hit it. The impact drove him backward into the stones. His shoulder screamed, but the teeth did not reach him. For one deeply confusing second, the animal and he both seemed surprised.
+Board.
 
-He reacted first. He shoved. The slab was heavier than it looked. Or lighter.
+Shield.
 
-Somehow both, depending on the angle. He nearly lost it, recovered, and swung the edge into the animal's muzzle. It yelped and stumbled. He swung again, but the second strike barely connected because the thing in his hands had already started losing shape.
+Something between me and those teeth.
 
-The surface rippled. One corner vanished. The whole object felt soft and wrong. The animal backed away.
+The animal sprang.
 
-He raised what remained of the slab. “Calculated,” he said, breathing hard. It growled.
+I threw up my bleeding arm.
 
-He did not believe that either. The animal hesitated, apparently decided he had become too strange to eat efficiently, and disappeared into the brush. He waited. Five seconds.
+I did not chant.
 
-Ten. Long enough for the forest to settle again. The object in his hands sagged like melting wax without the heat, thinned into nothing, and left him gripping empty air. He stared at his hands.
+I did not reach for mana.
 
-Then at the space where it had been. Then back at his hands. “No.” He looked around for it.
+I did not know mana existed.
 
-Gone. He pictured the slab again.
+I just wanted something there.
+
+A slab appeared.
+
+One moment, empty air.
+
+The next, a thick dark plate covered half my forearm, ugly and rectangular, like a door designed by panic.
+
+The predator hit it.
+
+The impact drove me backward into the stones.
+
+Pain shot through my shoulder.
+
+But the teeth stopped.
+
+I stared over the top edge of the thing.
+
+The animal stared back.
+
+For one perfect second, we shared the same professional concern.
+
+What the hell was that?
+
+It pulled away and growled.
+
+I raised the slab.
+
+"Calculated."
+
+The world stopped.
+
+The growl vanished mid-note.
+
+Rain hung in the air. A string of spit stayed suspended between the animal's teeth.
+
+I looked at you.
+
+"No, it was not calculated."
+
+I glanced at the slab attached to my arm.
+
+"Do not ruin this for me."
+
+I looked back at the animal.
+
+Time resumed.
+
+Its growl finished.
+
+I shoved forward.
+
+The slab felt wrong in my grip because I had not imagined a grip. I had imagined a barrier.
+
+Apparently details mattered.
+
+I swung anyway.
+
+The edge struck the animal across the muzzle.
+
+It yelped and stumbled.
+
+I swung again.
+
+This time the slab warped at one corner as my attention broke between hitting, not dying, and wondering why I had just manufactured construction material from absolutely nothing.
+
+The strike clipped its shoulder.
+
+The animal backed away.
+
+I stepped forward because confidence is much easier after physics has joined your side.
+
+"Go on."
+
+It snarled.
+
+I lifted the slab higher.
+
+Its surface rippled.
+
+I had the sudden thought that I did not need it anymore.
+
+The thing folded in on itself like dark wax and vanished.
+
+My empty hand remained raised.
+
+The predator saw that.
+
+I saw that.
+
+"Small technical issue."
+
+It hesitated.
+
+Then, for reasons I was happy not to investigate, it turned and disappeared into the brush.
+
+I waited.
+
+Five seconds.
+
+Ten.
+
+Twenty.
+
+Nothing came back.
+
+Only then did I breathe properly.
+
+My arm shook.
+
+I looked at the place where the slab had been.
+
+"All right."
+
+I pictured it again.
+
+Same shape. Same size. Same ugly door-with-ambition design.
+
+Nothing happened.
+
+I narrowed my eyes.
+
+I tried harder.
+
+Still nothing.
+
+That did not prove much except that desperate terror apparently had better creative direction than deliberate concentration.
+
+I could live with that conclusion until I had a better one.
+
+My forearm reminded me that I had another problem.
+
+Blood covered my hand.
+
+I sat against the old stones and pulled the torn sleeve away from the cuts.
+
+They were ugly.
+
+They were also changing.
+
+I stopped breathing for a moment.
+
+The blood flow slowed while I watched.
+
+The torn edges drew closer together.
+
+Heat spread beneath the skin. Not comforting heat. The kind that crawled.
+
+Then came the pain.
+
+"Ah. Good. Fantastic."
+
+I clenched my teeth.
+
+The deepest cut narrowed another fraction.
+
+I touched beside it.
+
+Pain shot to my elbow.
+
+"That was intelligent."
+
+I did not touch it again.
+
+The wound kept closing.
+
+Not instantly.
+
+Not cleanly.
+
+But far too fast.
+
+I knew enough about bodies to know they were not supposed to do that.
+
+I also knew enough about today to stop using the phrase not supposed to.
+
+I leaned my head against the stone.
+
+Explosion.
+
+White light.
+
+A forest that froze whenever I talked to you.
+
+A shield I had wanted badly enough to make real.
+
+Skin pulling itself together under dried blood.
+
+I laughed once.
+
+It did not sound especially healthy.
+
+For a few seconds, I let myself be scared.
+
+Not dramatically.
+
+No speech.
+
+No heroic promise.
+
+Just fear.
+
+Then a bug landed on my boot.
+
+I looked at it.
+
+"You're not helping."
+
+It left.
+
+Reasonable creature.
+
+I stood.
+
+My arm still hurt. The cuts remained visible, but they already looked much older than they were. My body felt shaky from adrenaline, pain, and the general inconvenience of almost becoming lunch.
+
+Whatever the healing was, I was not going to decide it had a limit, a cost, a name, or a convenient menu after watching it once.
+
+I had already made enough bad assumptions for one morning.
+
+I followed the old road.
+
+More carefully now.
+
+I listened at blind turns. I avoided thick brush. I carried a normal stick because reality-bending emergency slabs were currently unreliable as a scheduling tool.
+
+The route slowly improved.
+
+Broken stones became a clearer path.
+
+The drainage ditch returned in sections.
+
+Then I found fresh wheel marks pressed into the mud.
+
+Recent.
+
+Rain had softened the edges but had not erased them.
+
+People used this road.
+
+Actually used it.
+
+I walked faster.
+
+A few minutes later, the old route joined a maintained one.
+
+Fresh-cut timber reinforced the edge. A metal band wrapped the base of a roadside post. Above it hung a board covered in symbols.
+
+I stared at the writing.
 
 Nothing.
 
-He tried harder. Still nothing. “Of course.”
+Not one word.
 
-His arm throbbed. That was the more immediate problem. He sat against the broken roadside stones and inspected the wound. The cuts were ugly.
+I could tell it was writing.
 
-Less ugly than they had been. He frowned. Blood still coated his skin, but the flow had slowed almost completely. The torn edges looked tighter.
+I could not tell whether it said settlement ahead or travelers will be eaten by tax officials.
 
-He wiped carefully with the least filthy part of his sleeve and watched the deepest cut narrow. Not metaphorically. A hot crawling ache moved beneath the skin, sharp enough to make his fingers shake.
+Below the text was a carved picture: several roof shapes clustered together.
 
-The wound kept changing. Slowly. Painfully.
+An arrow pointed down the road.
 
-Impossible.
+I looked in that direction.
 
-“Nope.” He looked away. Then back. Still happening.
+Trees thinned farther ahead.
 
-He pressed two fingers beside the cut. Bad idea. Pain shot up his arm. So the healing, if that was what this was, was not especially gentle.
+Civilization.
 
-He leaned his head against the stone and shut his eyes.
+I let out a slow breath.
 
-Rain. Headlights. Impact.
+Then I looked toward you.
 
-A forest.
+The world paused.
 
-A thing with teeth.
+A falling leaf stopped beside my shoulder.
 
-A shield that had not existed until he needed it.
+"Good news. People."
 
-His arm pulled itself closed under his fingers.
+I glanced at my bloodstained sleeve, muddy trousers, unfamiliar clothes, and the road leading toward whoever lived here.
 
-A laugh escaped him. Thin. Wrong.
+"Bad news. People."
 
-He opened his eyes.
+The leaf remained suspended.
 
-For once, there was no performance left.
+"I can fight a forest animal."
 
-He was scared. He stayed there for a few seconds, then stood because remaining beside the road was not going to improve anything. His arm still hurt. The cuts had not vanished, but they looked hours or days older than they should have. His body felt heavy too, like the strange healing had taken something out of him.
+I thought about that.
 
-He followed the old road more carefully after that. No heroic marching. No dramatic declarations. He listened before every blind turn and gave thick brush considerably more respect than he had fifteen minutes earlier.
+"Poorly."
 
-The route slowly improved. Broken stones became a clearer path. The drainage ditch reappeared in sections. He found wheel marks pressed into softer ground, recent enough that rain had not erased the edges.
+Then I looked down the road again.
 
-Then he saw the first maintained post. Fresh-cut timber. A metal band around its base. Several symbols had been carved into a board above it.
+"Talking my way past strangers with no money, no papers, no useful memories, and no explanation for any of this?"
 
-He could not read a single one. That was almost comforting. At least one thing today was behaving normally. Below the writing was a simple carved symbol: a cluster of roof shapes.
+I smiled.
 
-An arrow pointed along the better road.
+"Now we're entering my natural habitat."
 
-Settlement.
+Time resumed.
 
-People.
+The leaf finished falling.
 
-Food, maybe. Answers, ideally. Trouble was also possible. He stood at the junction for a moment.
+I checked my arm one last time. Still sore. Still cut. Still impossibly better.
 
-Behind him, the old road disappeared into wet trees.
+Then I tried to remember my name.
 
-Ahead, fresh wheel tracks cut through the mud beneath the sign.
+Nothing clean came back.
 
-Civilization existed.
+That should have bothered me more than it did.
 
-Good enough.
+Maybe it would later.
 
-He checked his arm again. The wound was still there. It was also undeniably smaller. He flexed his hand and felt pain pull along the healing cuts. Then he held out the other hand and imagined the slab again.
+For now, I needed food, shelter, information, and a version of myself I could hand to strangers without sounding insane.
 
-Nothing.
+I straightened my coat.
 
-Not even a spark. “Fine.” Whatever had happened before was not something he could simply repeat. That was inconvenient, but at least it was clear.
+Nobody was watching.
 
-He adjusted his clothes, wiped away as much dirt as possible, and straightened his back. Nobody was watching yet, but he preferred not to arrive looking completely helpless.
+That was not the point.
 
-Civilization would get a better one. He stepped onto the maintained road and followed the arrow. Whatever waited ahead, it had people. And people, unlike monsters, could usually be reasoned with.
+If I was going to walk into civilization covered in mud and dried blood, I could at least do it with posture.
 
-Usually.
+I stepped onto the maintained road and followed the arrow.
+
+Whatever waited ahead had answers.
+
+Or paperwork.
+
+Probably both.
+
+Either way, the forest had already tried to eat me.
+
+People would have to work harder.

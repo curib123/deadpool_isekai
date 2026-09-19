@@ -4,7 +4,7 @@
 **Destination:** DEST-001 — Greywake  
 **Arc:** Greywake Arc  
 **Phase:** Chapter Roadmap  
-**Status:** GATE 7 PASS — CHAPTER ROADMAP LOCKED / CH-005 MANUSCRIPT AUTHORIZED  
+**Status:** GATE 7 PASS — CHAPTER ROADMAP LOCKED / CH-006 SCENE ARCHITECTURE AUTHORIZED  
 **Final Chapter Count:** 26  
 **POV:** Red Jackal first person throughout  
 **Scope:** Chapter architecture only. No full scenes, final dialogue, or manuscript prose.
@@ -50,7 +50,7 @@ These are planning locations only.
 | F-001 — Independent Appraisals Fail Consistently | CH-002 | PLANTED — CH-002 |
 | F-002 — Physical Data Without Identity Data | CH-003 | PLANTED — CH-003 |
 | F-003 — Healing Magic Encounters an Already-Correcting Body | CH-007 | PLANNED — NOT YET PLANTED |
-| F-004 — Play Logic Follows Meaning More Than Spell Grammar | CH-005 | PLANNED — NOT YET PLANTED |
+| F-004 — Play Logic Follows Meaning More Than Spell Grammar | CH-005 | PLANTED — CH-005 |
 
 No F-ID becomes PLANTED until approved manuscript prose actually contains the clue.
 
@@ -174,7 +174,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Regeneration Consequence:** Minor damage possible; not the focus.  
 **Aura-Farming Opportunity:** He chooses a visually excessive tool when a plain one would work.  
 **Comedy Opportunity:** The manifestation obeys the concept more literally than the imagined aesthetic.  
-**Mystery / Foreshadowing:** **F-004 planned here — remains PLANNED — NOT YET PLANTED.** No origin explanation.  
+**Mystery / Foreshadowing:** **F-004 PLANTED — CH-005.** No origin explanation.  
 **Continuity Dependencies:** CH-004 contract active.  
 **Knowledge Dependencies:** Nobody may call Play Logic a hidden class as fact.  
 **Ending Beat:** Red Jackal gets paid and decides frontier work may actually be entertaining.

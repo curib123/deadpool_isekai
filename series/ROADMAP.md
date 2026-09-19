@@ -23,7 +23,8 @@ Volume 1 Canon Revalidation: **PASS — GATE 10 / CH-001 THROUGH CH-026 VERIFIED
 Publish Version QA Standard: **ACTIVE — GATE 11**  
 Volume 1 Publish Version QA: **PASS — GATE 11 / 26 OF 26 PUBLISH-READY**  
 Volume 2 Destination Selection: **PASS — GATE 5 / DEST-002 MERROWGATE**  
-Volume 2 Architecture: **PENDING — GATE 6**  
+Volume 2 Architecture: **PASS — GATE 6 / MERROWGATE ARC LOCKED**  
+Volume 2 Chapter Roadmap: **AUTHORIZED — GATE 7 NEXT**  
 CH-001 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-002 Scene Architecture: **PASS — GATE 8**  
 CH-002 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
@@ -108,7 +109,7 @@ This table contains only volumes whose destination has passed the required selec
 | Volume | Destination ID | Arc Name | Local Conflict | Main Antagonist | Major Mystery Contribution | Status |
 |---|---|---|---|---|---|---|
 | 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | GREYWAKE ARC COMPLETE — CH-001 THROUGH CH-026 CANON |
-| 2 | DEST-002 | Merrowgate Arc | DEFERRED — GATE 6 | DEFERRED — GATE 6 | DEFERRED — GATE 6 | DESTINATION SELECTED — GATE 5 PASS / GATE 6 PENDING |
+| 2 | DEST-002 | Merrowgate Arc | Engineered port instability used to force private harbor-security consolidation | Cassian Venn | M-002 cross-jurisdictional reinforcement; bounded M-011; F-010 PLANNED — NOT YET PLANTED | GATE 6 PASS — VOLUME ARCHITECTURE LOCKED / GATE 7 AUTHORIZED |
 
 ## Lock
 
@@ -118,4 +119,4 @@ Do not add a row until:
 - Destination Inventory exists; **PASS**
 - Destination Selection QA approves an existing world location; **PASS — DEST-001 Greywake / DEST-002 Merrowgate**
 
-Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-026 are canon and the Greywake Arc is complete. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. Volume 2 destination is now locked as DEST-002 — Merrowgate. Gate 6 architecture is the only authorized next production step; Volume 2 chapter roadmap, scenes, manuscript prose, and Volume 3 destination selection remain unauthorized.
+Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-026 are canon and the Greywake Arc is complete. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. Volume 2 destination and architecture are now locked as DEST-002 — Merrowgate / Merrowgate Arc. Gate 7 Chapter Roadmap is the only authorized next production step. Detailed scene architecture, manuscript prose, and Volume 3 destination selection remain unauthorized until their required gates pass.

@@ -1,7 +1,7 @@
 # Chapter 7 — You Should Be Dead
 
-**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED  
-**Word Count:** 4,117  
+**Status:** RETCON REVISED — GATE 9 REVALIDATION PENDING  
+**Word Count:** 4154,117  
 **Chapter QA:** `qa/CH-007-GATE-9-CHAPTER-QA.md`
 
 The road was supposed to be safe. Not completely safe. Greywake did not seem to believe in that kind of promise. But safe enough that the Road Guild had sent three maintenance workers, one small supply wagon, Tavian, and me instead of a full guard detail.
@@ -104,25 +104,47 @@ Simple. Except the lead predator was already too close. It moved toward the cent
 
 “Hold the line. Don't chase the front.”
 
-I understood. I also saw the faster answer. If I moved forward three steps, the lead animal would have to deal with me before it could reach anyone else. Yesterday, that would have been a bad idea. Today, I knew something yesterday-me had not.
+I understood. I also saw a more interesting answer.
 
-I could take a hit. Probably. My forearm had healed. The wound from the forest had closed. My body did things it should not.
+The obvious answer was another impossible object. Wall. Spear. Cage. Something large enough that the animal would discover philosophy before it discovered me.
 
-If the animal hit me, I would survive long enough to hit back. That made the risk acceptable.
+I did not choose any of those.
 
-To me.
+Partly because Tavian had told me to hold the line. Mostly because I wanted to know what happened if I let the animal commit and handled it myself. That distinction would become important approximately three seconds later.
 
-I moved forward. The predator committed immediately. Tavian swore. The animal crossed the distance faster than I expected. I turned enough that the jaws missed my throat.
+I stepped forward.
 
-They did not miss the rest of me. Something hit my side with enough force to lift one foot from the road. Teeth or claws—I could not tell which—tore across my flank below the ribs. The world went white.
+Tavian swore.
+
+The predator committed immediately. It crossed the distance fast enough that an ordinary person would have called my decision suicidal.
+
+I turned enough that the jaws missed my throat.
+
+They did not miss the rest of me.
+
+Something hit my side with enough force to lift one foot from the road. Teeth or claws—I could not tell which—tore across my flank below the ribs. The world went white.
 
 There was no clever thought. No joke. No observation worth keeping.
 
 Only pain.
 
-I hit the ground hard. The predator came with me. I jammed my forearm against its neck and felt warm blood spreading under my coat. Mine. Probably.
+I hit the ground hard. The predator came with me. I jammed my forearm against its neck and felt warm blood spreading under my coat.
 
-The animal twisted. I kicked at its chest. It backed off half a step. That should have been enough. Then someone screamed behind me.
+Then I pushed.
+
+Not a desperate shove. Not really.
+
+The animal left me faster than it should have.
+
+Its paws scraped across the road and its shoulder struck the wagon wheel hard enough to make the frame jump. For one stupid second, the predator stared at me.
+
+I stared back.
+
+That had been easier than expected.
+
+I could have ended the encounter there.
+
+Then someone screamed behind me.
 
 I looked back. The lane. I had left it. By stepping forward, I had pulled Tavian toward the lead animal and opened the right side of the wagon. The second predator had used the gap.
 
@@ -140,19 +162,23 @@ The realization hurt in a completely different place.
 
 He drove the butt of the polearm into the animal's shoulder, forcing its jaw loose. The worker dragged himself backward. The third predator came out of the brush. Everything had become too wide. Too many angles.
 
-The lead animal lunged at me again. I tried to stand. My left side did not cooperate. Something inside my ribs shifted with a sharp, wet pain. I nearly went back down.
+The lead animal lunged at me again.
 
-No.
+This time I did not play with the timing.
 
-Move.
+I caught it high along the neck and shoulder and redirected the charge sideways. The movement should have required leverage I did not have. Instead, the predator hit the road, rolled once, and came up several paces away looking offended by physics.
 
-The lead predator came close enough that I smelled it. I swung at its head. Bad angle. Bad strength. My fist glanced off.
+Good.
 
-The animal snapped. I stumbled backward. My body was already doing something to the wound. I could feel it. Not healing.
+My side still felt like someone had opened it with farm equipment. Pain remained aggressively real. Under the blood, though, my body was already doing something to the wound. I could feel damaged tissue pulling itself back toward the shape it remembered.
 
-Not the way that word sounded. It felt like the damaged tissue had decided pain was a construction material. The torn muscles along my side tightened. Heat spread under the wound. Then came pressure from inside, deep and relentless, as if my body were trying to pull itself back into the shape it remembered.
+The contradiction was becoming difficult to ignore.
 
-I almost vomited. Very encouraging. Tavian shouted.
+I could do more than I had shown.
+
+That did not help the worker bleeding behind Tavian.
+
+Tavian shouted.
 
 “Jackal, back!”
 
@@ -186,73 +212,105 @@ Tavian pointed toward the main-road direction.
 
 Nobody argued. That told me how serious the situation was. I looked at the wagon. Then at the road behind us. The connector narrowed thirty paces back where a drainage cut and stacked stone forced anything following into a tighter approach.
 
-A barrier there would buy time. Something between them and us. Clear purpose. My head was already pounding.
+A barrier there would buy time.
 
-Bad time.
+Something between them and us.
 
-Only time.
+Clear purpose.
 
-“I can block the narrowing.”
+This time I was not testing anything.
+
+“I can close the narrowing.”
 
 Tavian looked at my side.
 
-“You can barely stand.”
+“You're bleeding.”
 
-“Still standing.”
+“I noticed.”
 
-“For now.”
+“Do not make another decision because you think bleeding only matters when it belongs to you.”
 
-The lead predator moved forward. Decision made. I backed toward the narrowing with everyone else. The workers lifted the injured man between them. He bit down on his sleeve to stop himself from shouting every time his leg moved.
+That one landed.
 
-I did not look away. My fault was too simple to misunderstand. I had moved because I could survive the front. He had paid for the space I opened behind me. We reached the narrow section.
+“I won't.”
 
-I turned. The pack followed at a distance. Not charging. Testing. Waiting for one of us to slow.
+The lead predator moved forward. I backed toward the narrowing with everyone else. The workers lifted the injured man between them. He bit down on his sleeve to stop himself from shouting every time his leg moved.
 
-I already had. I planted one hand against the stone edge because the road was tilting.
+I did not look away. My fault was too simple to misunderstand. I had moved because danger to me felt negotiable. He had paid for the space I opened behind me.
 
-Focus.
+We reached the narrow section.
 
-Not wall. Not shield. A cover wide enough to block the lane for a few seconds. Long enough for them to move. That was all.
+I turned. The pack followed at a distance. Testing.
 
-The pressure came. Weakly. Pain tore through the image before it could settle, and I almost lost the thread. I held onto the same idea instead of starting over.
+I pictured exactly what Tavian needed from the terrain: a temporary obstruction across the narrow lane, high enough to discourage the pack and no wider than necessary.
 
-Cover the lane. Give them time. Something dark formed across the narrow road. Crooked. Too low on one side and too thick on the other, like a barricade assembled by someone who had heard about straight lines but disagreed with them personally.
+Something dark formed from empty air.
 
-It did not matter. The lead predator hit it. The whole thing shook. So did I.
+Crooked, because apparently I had developed a style. Too thick on one side. Offensively practical.
+
+The lead predator hit it.
+
+The barrier did not care.
+
+The animal recoiled. A second tried the low edge and found that the low edge had stopped being low.
+
+I had not consciously changed it.
+
+Interesting.
+
+Not now.
 
 “Go,” I said.
 
-The workers moved. Tavian stayed beside me. Of course he did.
+The workers moved. Tavian stayed beside me.
 
 “I said go.”
 
 “I heard you.”
 
-That was apparently contagious. The barrier cracked. One predator climbed partly over the low side. Tavian struck its foreleg and forced it back.
+The pack paced behind the obstruction instead of committing. I could have left it there. I could have made it taller. Wider. Permanent-looking.
 
-“Move.”
+I did none of those things.
 
-This time I listened. We ran. That is a generous description of what I did. The workers carried the injured man between them. Tavian stayed rear-left. I tried to stay rear-right.
+The goal was not to kill animals or redesign the road. It was to get one injured man back to Greywake.
 
-My legs felt distant. The wound kept tightening in pulses. Every pulse burned. The edges under my coat had already changed. I could tell because the bleeding was slowing.
+Once the workers had enough distance, I let the barrier disappear.
 
-Not stopped. Slowing. The problem was that everything else in me was getting worse. My hands shook. My vision narrowed when I turned too quickly.
+“Move,” Tavian said.
 
-The barrier behind us collapsed with a sound like breaking boards. The pack followed. Tavian guided us toward a low stone maintenance marker near the junction with the main road.
+This time I listened.
+
+We ran. That is a generous description of what I did. Pain made every step unpleasant, but the thing behind us was no longer a problem of strength. The workers carried the injured man between them. Tavian stayed rear-left. I stayed rear-right and, for once, did not invent a new rule for the situation.
+
+The wound kept tightening in pulses. Every pulse burned. The bleeding slowed.
+
+The pack followed after the barrier vanished, but with more distance and considerably less enthusiasm. Tavian guided us toward a low stone maintenance marker near the junction with the main road.
 
 “Past that marker,” he said. “Open ground.”
 
-The predators knew it too. They slowed at the clearing. One came farther. Tavian turned on it. I tried to help.
+The predators knew it too. They slowed at the clearing. One came farther. Tavian turned on it.
 
-My foot landed wrong. I nearly fell. He saw.
+I started forward.
+
+He saw me.
 
 “Don't.”
 
-“I can—”
+“I can handle it.”
 
-“No.”
+“I know.”
 
-The word was flat. He held the polearm across his body. The older worker joined him with the shovel. The predator paced at the edge of the cleared ground, decided the meal had become too organized, and backed away.
+That stopped me more effectively than an argument.
+
+Tavian kept the polearm across his body. The older worker joined him with the shovel.
+
+“Then why—”
+
+“Because we are leaving.”
+
+Right.
+
+The predator paced at the edge of the cleared ground, decided the meal had become too organized, and backed away.
 
 The others followed. Nobody chased. For a long moment, all I heard was breathing. Mine sounded bad. The injured worker sounded worse.
 
@@ -310,7 +368,7 @@ I had not. He knew it. I knew he knew it. The worker beside us made a sound thro
 
 Good. The ride back to Greywake was rough. Every rut pulled at my side. The strange internal pressure continued in waves. The pain was not fading with the repair. It was changing.
 
-Sharp tearing became deep heat. Deep heat became crushing soreness. I could feel exhaustion building behind it, heavy enough that keeping my eyes open started taking effort. Surviving was apparently expensive. The treatment house stood near the inner road, close enough to the gate that injured travelers could be brought in without crossing half the settlement.
+Sharp tearing became deep heat. Deep heat became crushing soreness. Keeping my eyes open started taking effort, whether from blood loss, pain, shock, or my body's deeply antisocial repair process. Surviving remained unpleasant even when survival itself was becoming less impressive. The treatment house stood near the inner road, close enough to the gate that injured travelers could be brought in without crossing half the settlement.
 
 We did not enter dramatically. We arrived bleeding in a patrol cart, which was not the entrance I would have chosen. The thought was weak enough that I almost respected it. A woman with dark river-blue markings along her neck stepped out before the cart fully stopped.
 
@@ -594,21 +652,23 @@ I considered improving the story. Maybe I had heroically occupied the strongest 
 
 Tavian said nothing.
 
-“I thought I could take the hit.”
+“I knew I could take the hit.”
 
-Sela's expression did not change.
+Sela's expression changed very slightly.
 
-“Could you?”
+That was worse.
+
+“And you wanted to prove it?”
 
 I looked down at my side. The wound had closed further. It still hurt enough that breathing deeply was a bad idea.
 
-“Apparently.”
+“I wanted to see what happened.”
 
 “No.”
 
 I looked at her. She nodded toward the worker.
 
-“Could he?”
+“Could he afford your experiment?”
 
 That landed.
 

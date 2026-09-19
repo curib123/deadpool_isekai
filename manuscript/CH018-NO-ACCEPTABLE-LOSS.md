@@ -1,12 +1,11 @@
 # Chapter 18 — No Acceptable Loss
 
-**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED  
+**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
 **Word Count:** 3,219  
-**Chapter QA:** `qa/CH-018-GATE-9-CHAPTER-QA.md`
 
-By the time the emergency route board had collected enough new markers to become useful, it had also collected enough new markers to become depressing. Tavian stood over the table with both hands planted beside the map. Brynn had moved three militia tokens since I arrived. Maelis had added a second stack of copied route records. Hesk stood on the opposite side with the expression of a man watching other people use his tools incorrectly.
+By the time the emergency route board had collected enough new markers to become useful, it had also collected enough new markers to become depressing. Tavian stood over the table with both hands planted beside the map. Brynn had moved three militia tokens since he arrived. Maelis had added a second stack of copied route records. Hesk stood on the opposite side with the expression of a man watching other people use his tools incorrectly.
 
-I stayed where Tavian had told me to stay.
+He stayed where Tavian had told him to stay.
 
 That was new.
 
@@ -94,17 +93,17 @@ That was the problem.
 
 Three answers.
 
-Abandon the outer homesteads and pull everyone toward Greywake. Restore the old lure pattern and push danger back toward them. Wait until we understood every route, every lure, every species movement, every possible consequence.
+Abandon the outer homesteads and pull everyone toward Greywake. Restore the old lure pattern and push danger back toward them. Wait until they understood every route, every lure, every species movement, every possible consequence.
 
 The first treated people as cargo.
 
 The second treated them as acceptable loss.
 
-The third required time we did not have.
+The third required time they did not have.
 
-I looked at the map. Normally this was the point where I would suggest breaking something. I had recently gathered evidence that this was not always helpful.
+He looked at the map. Normally this was the point where he would suggest breaking something. He had recently gathered evidence that this was not always helpful.
 
-So I kept my mouth shut. Tavian noticed. He looked at me once.
+So he kept his mouth shut. Tavian noticed. He looked at him once.
 
 Then back at the map.
 
@@ -148,7 +147,7 @@ He almost objected. Almost. Then he stopped.
 
 That was becoming a pattern around Maelis. Jessa arrived with two guards and no confidence that being summoned to another emergency table would improve her life. She paused when she saw Hesk.
 
-Then Maelis. Then me. Her shoulders tightened.
+Then Maelis. Then him. Her shoulders tightened.
 
 Maelis pointed to the empty chair beside the record stack.
 
@@ -252,7 +251,7 @@ Hesk’s expression tightened.
 
 “Estimate based on standard load.”
 
-Maelis wrote it separately. I watched the map change.
+Maelis wrote it separately. He watched the map change.
 
 Not into certainty.
 
@@ -304,9 +303,9 @@ Maelis looked at him.
 
 “We are discussing a crisis caused partly by people treating likely as certain when it was convenient.”
 
-No one improved that sentence by adding anything. Jessa kept working. Within half an hour, we had something better than a map.
+No one improved that sentence by adding anything. Jessa kept working. Within half an hour, they had something better than a map.
 
-We had an incomplete map that admitted it was incomplete. Known lure sectors. Recent route sightings.
+They had an incomplete map that admitted it was incomplete. Known lure sectors. Recent route sightings.
 
 Greywake-facing pressure. Blocked or damaged roads. Outer settlements.
 
@@ -340,13 +339,13 @@ Brynn did not look at him.
 
 “No one said clean.”
 
-Tavian’s finger stopped on an older line north of the active routes. I recognized it before he spoke.
+Tavian’s finger stopped on an older line north of the active routes. He recognized it before he spoke.
 
 Broken North.
 
-I had seen that road when it was still mostly useful as evidence. Old packed stone. Collapsed drainage.
+He had seen that road when it was still mostly useful as evidence. Old packed stone. Collapsed drainage.
 
-Roots lifting what remained. A washout large enough that four people had needed me to hold one cracked ledge together for a few seconds. A recently serviced march-lure hidden behind old stone.
+Roots lifting what remained. A washout large enough that four people had needed him to hold one cracked ledge together for a few seconds. A recently serviced march-lure hidden behind old stone.
 
 Tavian traced the route.
 
@@ -416,7 +415,7 @@ Brynn studied the route.
 
 “How much work?”
 
-Tavian looked at me. I shook my head.
+Tavian looked at him. He shook his head.
 
 “Do not ask me.”
 
@@ -460,7 +459,7 @@ Kellan stared at the map. Then at Tavian.
 
 “Partly blocked last time.”
 
-Kellan looked at me.
+Kellan looked at him.
 
 “You crossed the washout.”
 
@@ -470,7 +469,7 @@ Kellan looked at me.
 
 “Temporary assistance.”
 
-He nodded once. At least we agreed on the adjective. Kellan pointed to the old route line.
+He nodded once. At least they agreed on the adjective. Kellan pointed to the old route line.
 
 “This connector used to split here.”
 
@@ -492,7 +491,7 @@ Tavian asked, “Continuous enough for movement?”
 
 “Yes. If the lower drainage is cleared first.”
 
-Brynn wrote that down. Kellan tapped the cracked section where I had used the temporary brace.
+Brynn wrote that down. Kellan tapped the cracked section where he had used the temporary brace.
 
 “This is the first real problem.”
 
@@ -500,13 +499,13 @@ Brynn wrote that down. Kellan tapped the cracked section where I had used the te
 
 “Bad enough that four people crossing it was stupid.”
 
-I looked at him.
+He looked at him.
 
 “You crossed it.”
 
 “I was having a bad week.”
 
-That one almost got me. Almost. Sela looked at both of us.
+That one almost got him. Almost. Sela looked at both of them.
 
 The almost disappeared. Kellan continued.
 
@@ -528,7 +527,7 @@ Brynn asked, “Materials?”
 
 “Road workers who listen.”
 
-I raised one hand slightly. Kellan looked at me.
+He raised one hand slightly. Kellan looked at him.
 
 “No.”
 
@@ -540,11 +539,11 @@ I raised one hand slightly. Kellan looked at me.
 
 “That is becoming a bridge with more words.”
 
-Sela looked at me.
+Sela looked at him.
 
 “He is right.”
 
-I looked around. This was apparently what cooperation felt like: constant professional disappointment. Sela came around the cot and checked Kellan’s pulse.
+He looked around. This was apparently what cooperation felt like: constant professional disappointment. Sela came around the cot and checked Kellan’s pulse.
 
 “That is enough.”
 
@@ -562,7 +561,7 @@ Sela started moving the cot.
 
 He did not resist. Not because he agreed. Because pain had already taken most of the argument out of him.
 
-Before Sela moved him away, she looked at me.
+Before Sela moved him away, she looked at him.
 
 “You too.”
 
@@ -578,7 +577,7 @@ Before Sela moved him away, she looked at me.
 
 “Then plan as if you know.”
 
-She took Kellan back inside. We returned to the militia yard with his notes. Broken North was possible.
+She took Kellan back inside. They returned to the militia yard with his notes. Broken North was possible.
 
 That was not the same as safe. Tavian redrew the route from the current pressure lines toward the old corridor.
 
@@ -706,13 +705,13 @@ The room went quiet. Brynn looked at the map.
 
 “Red.”
 
-I looked at her.
+He looked at her.
 
 “There are several damaged points where temporary support could buy work crews time.”
 
 Finally.
 
-A job I understood.
+A job he understood.
 
 Tavian held up one finger.
 
@@ -730,7 +729,7 @@ Tavian held up one finger.
 
 “No second use just because the first one looks useful.”
 
-I looked at him.
+He looked at him.
 
 “Do you want me on the plan or not?”
 
@@ -762,9 +761,9 @@ That answer mattered more than the others. Tavian marked three possible support 
 
 “Then these are options. Not promises.”
 
-I nodded. No manifestation. No demonstration.
+He nodded. No manifestation. No demonstration.
 
-No attempt to prove I could do more than he asked. My side was nearly closed, but my shoulder still hurt. My leg still tightened if I moved too fast. Sela’s point had survived the walk back.
+No attempt to prove he could do more than he asked. His side was nearly closed, but his shoulder still hurt. His leg still tightened if he moved too fast. Sela’s point had survived the walk back.
 
 Recovering was not recovered. Hesk looked at the map.
 
@@ -792,7 +791,7 @@ Brynn looked toward the outer markers.
 
 Nobody improved that either. Jessa finished the schedule draft. Maelis checked the authorization blocks.
 
-Tavian reviewed the movement reports again. Brynn counted crews. I stood at the edge of the table and did not touch anything unless someone asked me to.
+Tavian reviewed the movement reports again. Brynn counted crews. He stood at the edge of the table and did not touch anything unless someone asked him to.
 
 This was much less satisfying than taking control. It was also working better. The final decision came when Tavian placed one marker at the entrance to Broken North and another at the far connector.
 
@@ -834,11 +833,11 @@ She looked toward the treatment house.
 
 “Kellan?”
 
-I answered before thinking.
+He answered before thinking.
 
 “He said it can be made usable enough to try.”
 
-Brynn looked at me. I stopped.
+Brynn looked at him. He stopped.
 
 “His words. Not mine.”
 
@@ -854,7 +853,7 @@ The room moved immediately. Runners took assignments. Jessa started copying sche
 
 Maelis separated authorization sheets. Tavian began listing the first route confirmations he needed. Hesk stepped away from the table without accepting the plan.
 
-He did not need to. He just needed to obey the limits around it. I stayed where I was until Tavian pushed the copied Broken North sketch toward me.
+He did not need to. He just needed to obey the limits around it. He stayed where he was until Tavian pushed the copied Broken North sketch toward him.
 
 Three marks had been drawn along the damaged road. Temporary support points. Not the route.
 
@@ -862,6 +861,6 @@ Not the solution.
 
 Support.
 
-I could work with that.
+He could work with that.
 
-For once, nobody was asking who had to be sacrificed. We were going to build somewhere else for the danger to go.
+For once, nobody was asking who had to be sacrificed. They were going to build somewhere else for the danger to go.

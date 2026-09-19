@@ -37,7 +37,7 @@ Keeping a road open apparently required a large number of people preventing natu
 
 “I assumed decorative trenches would be an unusual frontier tradition.”
 
-He stared at him. The token translated the silence perfectly. He stopped trying. They passed two caravans heading toward Greywake. Both slowed as they approached them, drivers exchanging short words with the foreman.
+The worker stared at Red. The token translated the silence perfectly. Red stopped trying. They passed two caravans heading toward Greywake. Both slowed as they approached them, drivers exchanging short words with the foreman.
 
 The road mattered. That was obvious. Every wagon carrying grain, tools, cloth, medicine, or people depended on this strip of maintained ground not turning into mud or monster territory. Greywake's walls were useful. The road was probably why the walls had anything inside them.
 

@@ -1,9 +1,11 @@
 # Chapter 25 — What Greywake Counts
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** STUDIO CINEMATIC RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 2,135
 
-Sela looked at the wound in his side, then at him.
+Sela looked at Red's side.
+
+Then at Red.
 
 “No.”
 
@@ -29,7 +31,11 @@ Sela pressed two fingers near the healing wound. He stopped breathing.
 
 “You are not recovered.”
 
-There it was. Apparently those were different things. Across the room, Kellan sat with his injured leg still splinted and extended on a low stool. He looked much worse than he did because his body had the bad manners to follow normal rules.
+Across the room, Kellan sat with his injured leg splinted and raised on a low stool.
+
+Red's wound was closing.
+
+Kellan's body followed normal rules.
 
 He noticed him looking.
 
@@ -39,7 +45,9 @@ He noticed him looking.
 
 Sela gave him a look. He stopped. Kellan’s mouth moved slightly. That counted as enough humor for the room.
 
-The treatment house was busy without being chaotic. That mattered. People had been hurt, but the preparation had kept the surge from becoming the kind of disaster where nobody knew who was missing until the next morning.
+The treatment house was full, but people knew where to move.
+
+That mattered.
 
 There were cuts, crushed fingers, broken bones, animal impacts, exhaustion, and one militia man with a shoulder that had been put back into place twice because he had gone back to work after the first time. Sela had opinions about him. Strong ones.
 
@@ -195,9 +203,11 @@ Nobody tried to tell her she would be fine. That would have been crueler than si
 
 “No.”
 
-There it was. No reward. No promotion.
+No reward.
 
-No sudden discovery that integrity paid better than complicity. Just the truth. Maelis closed the evidence box.
+No promotion.
+
+Just the truth. Maelis closed the evidence box.
 
 “What we can prove is enough.”
 
@@ -241,9 +251,11 @@ Hesk spoke for the first time.
 
 “No,” Maelis said. “It makes them visible.”
 
-The room went quiet. That was the difference. Hesk had built his policy inside the space between necessity and secrecy.
+The room went quiet.
 
-Now the secrecy was gone. Tavian gave the ecological report. He did not dramatize it.
+Hesk's policy had survived inside secrecy.
+
+The secrecy was gone. Tavian gave the ecological report. He did not dramatize it.
 
 Migration routes remained disturbed. Broken North would need continued monitoring. The old diversion pattern could not simply be restarted without recreating the same unequal pressure. The main road would remain at reduced capacity until repairs and route behavior stabilized.
 
@@ -253,7 +265,9 @@ Then Tavian continued.
 
 “He was wrong that the only workable protection was secret control over who absorbed the danger.”
 
-Kellan’s hand tightened on the arm of his chair. That was enough for him. Jessa gave her statement next.
+Kellan’s hand tightened on the arm of his chair. Kellan's hand tightened on the arm of his chair.
+
+Jessa gave her statement next.
 
 Her voice shook at the start. It did not stop shaking. She still finished.
 
@@ -271,7 +285,9 @@ He looked back.
 
 “I think you should stop asking the least qualified person in the room to run your legal system.”
 
-A few people laughed. Not many. Good.
+A few people laughed.
+
+Red let it stop there.
 
 He continued.
 
@@ -293,7 +309,11 @@ His final legal disposition would go through the evidence and review process tha
 
 During the recess, he heard three different versions of what had happened. In the first, he had single-handedly held a road up while fighting an enormous predator. In the second, he had caused the backflow that nearly killed everyone and then helped fix his own mistake.
 
-Both were true in ways he disliked. The third version claimed he had threatened Hesk with some kind of invisible execution spell. That one was new.
+Both versions held enough truth to annoy him.
+
+A third claimed he had threatened Hesk with an invisible execution spell.
+
+That one was new.
 
 A woman from the market thanked him. A caravan driver asked whether he was the reason his departure had been delayed. A militia recruit stared at his hands.
 
@@ -321,21 +341,19 @@ He read the copy twice. Then he looked at Brynn.
 
 The clerk did. Hesk sat under guard while the institution he had controlled lost the power he had used in secret.
 
-Greywake did not become fair because of one vote.
+The vote did not clean Greywake up.
 
 Broken North was still broken.
 
-The main road was still restricted.
+The main road was restricted.
 
-Caravans were delayed.
+Caravans waited.
 
 People were injured.
 
-Jessa still did not know whether the Guild would exist in a form that employed her.
+Jessa's job was uncertain.
 
 Kellan still could not stand.
-
-None of that disappeared.
 
 But when the clerk finished reading the order, the outer communities were no longer something the Road Guild could legally count around.
 

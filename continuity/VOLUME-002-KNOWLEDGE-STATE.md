@@ -3,9 +3,21 @@
 **Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
 **Volume:** 2  
 **Destination:** DEST-002 — Merrowgate  
-**Status:** CANON SUPPORT RECORD — CH-027 CANON / CH-028 GATE 8 NEXT
+**Status:** CANON SUPPORT RECORD — SOUL-DRIFT RETCON ACTIVE / CH-027 PROSE STALE / CH-028 PAUSED
 
-# 0. Overpowered Retcon Knowledge Override
+# 0. Soul-Drift / Story-Intruder Knowledge Override
+
+The retcon in `planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md` supersedes conflicting origin, memory, fourth-wall, Stage, and moral-development assumptions in this file.
+
+Writer truth:
+- natural far Soul Drift brought Red to Veyr after a mysterious Earth explosion;
+- most autobiographical memory was lost;
+- Red retains deep meta-comedic/media cognitive residue;
+- Fourth-Wall Pause is available from the beginning;
+- Red has no power progression and no conventional moral-development arc;
+- CH-027's event sequence remains planned/canon-compatible, but its current prose is stale and must be rewritten.
+
+# 0A. Overpowered Retcon Knowledge Override
 
 The retcon in `planning/RED-JACKAL-OVERPOWERED-RETCON.md` supersedes old Stage I / exhaustion-as-power-ceiling assumptions.
 
@@ -22,8 +34,8 @@ Volume 2 knowledge tension concerns what people have witnessed, not Red's actual
 
 At Volume 2 opening Red canonically knows:
 
-- Earth existed and he came from there;
-- his last clear Earth memory is the violent rain-night transition;
+- he knows he came from outside Veyr but cannot reconstruct a coherent Earth life;
+- his surviving pre-Veyr memory includes only fragmentary violent/explosion impressions and media/cultural residue;
 - Veyr is not Earth;
 - the World System exists;
 - ordinary identity fields return UNDEFINED or no valid record for him;
@@ -36,7 +48,7 @@ At Volume 2 opening Red canonically knows:
 - poor judgment and incomplete information remain dangerous even when raw force is overwhelming;
 - Greywake's migration was deliberately manipulated;
 - institutions can exploit people they cannot or will not properly count;
-- his choices can harm people who cannot regenerate;
+- other people remain vulnerable to consequences while he can regenerate;
 - his Greywake reputation is mixed.
 
 He cannot read Veyran normally.
@@ -59,14 +71,14 @@ Red may learn:
 
 Red must not learn:
 
+- natural far Soul Drift as the full arrival explanation;
+- exact cause of the Earth explosion;
 - Savael-of-the-Index;
-- Exterior Needle;
+- Exterior Needle historical truth;
 - Eidrathi Continuance;
-- continuity translocation;
-- Exterior Echo;
+- Fourth-Wall Pause metaphysical mechanism;
 - Great Design writer truth;
-- self-model origin of Play Logic/regeneration;
-- Exception Covenant;
+- Soul-Drift identity origin of Play Logic/regeneration;
 - technical causal-wake Fate model;
 - why older Quiet Registration terminology exists at the writer-truth level;
 - soul-registry proof of his origin.
@@ -90,12 +102,13 @@ Cassian may learn:
 
 Cassian must not know:
 
-- Red's true origin;
+- Red's true Soul-Drift origin;
+- exact Earth explosion cause;
 - Savael;
-- Exterior Needle;
+- Exterior Needle historical truth;
 - Great Design;
 - Play Logic writer-truth mechanism;
-- Exterior Echo;
+- Fourth-Wall Pause metaphysical mechanism;
 - technical Fate model.
 
 # 5. Captain Iria Voss
@@ -127,7 +140,7 @@ Begins knowing:
 May learn:
 
 - specific sabotage methods;
-- Red's Stage I constructs are useful but structurally unreliable;
+- Red's displayed constructs may be deliberately limited; Samir can judge only observed structural behavior, not Red's maximum capability;
 - Cassian's consolidation plan depends on physical port failures as political evidence.
 
 Does not know why Red is UNDEFINED.
@@ -220,7 +233,7 @@ Volume 2 may not:
 - erase Greywake's local consequences;
 - grant Red literacy without earned progression;
 - normalize his System identity;
-- advance beyond Stage I Play Logic;
+- treat any planned display count or size as Red's maximum Play Logic capability;
 - treat rumor as reliable omniscient information;
 - give local characters protected mystery knowledge without evidence;
 - select Volume 3 before the Merrowgate arc closes through the proper gates.
@@ -315,14 +328,14 @@ Locked planning state:
 - F-010 planned for CH-038 only;
 - M-002 cross-jurisdictional reinforcement;
 - bounded M-011 surface only;
-- Stage I Play Logic only;
+- planned Play Logic display/restraint pattern only; no maximum-capability inference;
 - Volume 3 remains unselected;
 - no character may use knowledge from a later planned chapter early.
 
 # 14. CH-027 Canon Knowledge Record
 
 **Chapter:** CH-027 — Salt in the Air  
-**Status:** CANON — GATE 9 PASS
+**Status:** EVENT/KNOWLEDGE SEQUENCE PRESERVED — PROSE STALE UNDER SOUL-DRIFT RETCON
 
 CH-027 canonically establishes that Red:
 
@@ -363,4 +376,4 @@ Canonical final line:
 
 **“Merrowgate would do.”**
 
-**Official next step:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.
+**Official next step:** CH-001→CH-027 Soul-Drift first-person manuscript rewrite/revalidation cycle. CH-028 remains paused.

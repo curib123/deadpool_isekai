@@ -1,7 +1,7 @@
 # Chapter 21 — Before the Herd
 
-**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED  
-**Word Count:** 3,301  
+**Status:** RETCON + PACING REVISED — GATE 9 REVALIDATION PENDING  
+**Word Count:** 3365,301  
 **Chapter QA:** `qa/CH-021-GATE-9-CHAPTER-QA.md`
 
 By the time Greywake decided Hesk was missing, we had already run out of time to make finding him everyone’s problem. The militia yard had become a map with people standing on it. Carts waited along one wall. Runners moved between the route board and the gates. Bundles of rope, tools, medical cloth, sealed Guild cases, and ordinary food had been separated into piles that apparently made perfect sense to everyone except me.
@@ -82,9 +82,11 @@ I almost said it. Then someone outside shouted for another cart, and the joke st
 
 Brynn studied me for half a second, probably waiting for the argument. There wasn’t one. I did not own the plan. Tavian knew the animals. Brynn knew the settlement. Maelis knew what could survive an investigation. Jessa knew the Guild machinery from inside it.
 
-I knew how to lift things, ignore bad ideas, and occasionally make impossible objects appear until my skull felt full of nails. Today, apparently, only the first two were required. Good.
+I knew how to lift things, ignore bad ideas, and make impossible objects when I decided reality needed assistance. Today, apparently, the useful part was doing what the plan required instead of proving I could replace it.
 
-My head still hurt. The outer road looked different when people were leaving it on purpose. The last time I had crossed some of those approaches, carts had been bringing supplies toward Greywake. Now they were pointed inward, loaded with blankets, children, injured people, sacks of food, tools, cages, boxes, and in one case enough kitchen equipment to establish a second civilization.
+Good.
+
+My head still hurt from ordinary lack of sleep, impact, and several days of bad decisions. The outer road looked different when people were leaving it on purpose. The last time I had crossed some of those approaches, carts had been bringing supplies toward Greywake. Now they were pointed inward, loaded with blankets, children, injured people, sacks of food, tools, cages, boxes, and in one case enough kitchen equipment to establish a second civilization.
 
 A militia woman stopped that cart.
 
@@ -110,15 +112,17 @@ Wood cracked. The cart stopped. So did the three carts behind it.
 
 Of course. I crouched beside the wheel. The axle had split near the hub. Not completely. Enough that putting full weight on it would finish the job.
 
-The thought came automatically. A brace. Small. Ugly. Wedge it under the cart, lift the weight, hold it while they bound the axle.
+The thought came automatically. A brace. Small. Ugly. I could have put one under the cart before the road worker finished swearing.
 
-I could picture it clearly. That was the dangerous part. A road worker dropped a jack beside me.
+Then he dropped a jack beside me.
 
 “Lift here.”
 
-I looked at the jack. Then at my hands. The tremor was smaller than it had been after the storehouse. Still there.
+I looked at the jack.
 
-“Right.”
+Right.
+
+The point was not whether I could make the repair faster. The point was that this cart needed something the driver could still trust after I walked away.
 
 We used the jack. Two people held the wheel. I worked a lever beneath the frame while another worker fed rope around the split wood. A farmer brought a short length of spare timber from the next cart.
 
@@ -140,11 +144,13 @@ When we lowered the cart, the wheel held well enough to move at walking speed. T
 
 “Inner gate only. Then unload.”
 
-The driver nodded. I stared at the repaired axle for a second. No pale-grey object.
+The driver nodded. I stared at the repaired axle for a second.
 
-No pressure spike behind my eyes. No loss of focus. Just rope, timber, a jack, and five people who knew what they were doing.
+No pale-grey object.
 
-A strange amount of my recent life had been improved by discovering that not every problem needed me to be interesting. Movement flickered across the field beyond the road. Everyone nearest me froze.
+Just rope, timber, a jack, and five people who knew what they were doing.
+
+A strange amount of my recent life had improved after I discovered that being able to replace ordinary solutions did not make replacing them useful. Movement flickered across the field beyond the road. Everyone nearest me froze.
 
 Three grazing animals broke from the brush, crossed the open ground at a frantic run, and vanished through another line of trees. Nobody moved for a breath. Then a runner came down the road.
 
@@ -154,7 +160,7 @@ That was not comforting. It was useful. The carts started again.
 
 By the time the exposed households nearest that route were moving inward, my shoulder had gone from sore to angry. My leg tightened whenever I stepped wrong. A shallow scrape across one hand had already closed enough that I could barely see where it had been.
 
-My exhaustion remained completely unimpressed. Sela’s treatment house had expanded into the road. Stretchers filled the covered side area. Medical helpers carried boxes toward two waiting carts while Sela stood in the middle of all of it, deciding who moved first and making everyone unhappy with professional consistency.
+My body could repair damage faster than it could make a day stop being long. Sela’s treatment house had expanded into the road. Stretchers filled the covered side area. Medical helpers carried boxes toward two waiting carts while Sela stood in the middle of all of it, deciding who moved first and making everyone unhappy with professional consistency.
 
 “No.”
 
@@ -282,7 +288,7 @@ I stared at her.
 
 She released my wrist.
 
-“Listen carefully. Do not use that manifestation ability before the surge unless someone’s life immediately requires it.”
+“Listen carefully. Do not turn the evacuation into another experiment.”
 
 “I already passed one broken axle without becoming architecture.”
 
@@ -290,13 +296,19 @@ She released my wrist.
 
 There was no warmth in it. I liked Sela.
 
-“If a wheel is inconvenient, use a lever. If a crate is heavy, get another person. If a route needs clearing, use tools.”
+“If a wheel is inconvenient, use a lever. If a crate is heavy, get another person. If a route needs clearing, use tools. Not because I think you cannot do something absurd.”
+
+She pointed toward the road.
+
+“Because everyone else needs to know what is real, what stays when you leave, and what the plan is built on.”
+
+That was annoyingly better than a medical order.
 
 “And if the world ends?”
 
-“Then you may improvise.”
+“Then be useful before you become interesting.”
 
-“Generous.”
+“Cruel.”
 
 She pointed at another stretcher.
 
@@ -426,23 +438,27 @@ The worker looked at my hands.
 
 “You can make a cutter, right?”
 
-Probably. A crude blade. A wedge. Something sharp enough to split the trapped section.
-
-The idea came easily. I picked up an axe.
-
 “Yes.”
-
-He stared at me.
 
 “Then why—”
 
+I picked up the axe.
+
 “Because this exists.”
+
+I could have made something sharper. Faster. More impressive.
+
+The branch did not deserve a reveal.
 
 I swung. My shoulder objected immediately. The branch remained offensive.
 
 Two workers joined me. One cut. One pried. I took the other side with a rope and pulled when they told me.
 
-It took longer than making something impossible. It also did not make the pressure behind my eyes worse. We dragged the branch clear.
+It took longer than making something impossible.
+
+It also left three workers knowing exactly how the route had been cleared.
+
+We dragged the branch free.
 
 The worker looked at the axe. Then at me.
 
@@ -504,21 +520,15 @@ Good. Brynn joined us.
 
 Tavian looked at me.
 
-“Your hands?”
+“You understand your role?”
 
-I held one out. Still a small tremor.
+“Carry things. Follow the route plan. Resist becoming the route plan.”
 
-“Attached.”
+“Good.”
 
-“Head?”
+“That sounded dangerously like trust.”
 
-“Also attached.”
-
-He waited.
-
-“Bad.”
-
-“Then keep your power unused.”
+“It is not.”
 
 “I was planning to save my terrible judgment for later.”
 
@@ -566,11 +576,21 @@ Hesk was still somewhere out there. Maybe already near the vulnerable lure housi
 
 Maybe watching Greywake prepare a plan he still believed should fail. We could not stop the settlement to find out. I flexed my fingers.
 
-For the first time in what felt like days, the ability behind my thoughts was still there without having been dragged into shape. No brace. No ramp.
+The ability behind my thoughts was still there.
 
-No wedge. No barrier. I was still tired. My shoulder still hurt. My leg still tightened if I shifted badly. The headache had never fully left.
+Not preserved.
 
-But the part of me that made impossible things had not been spent on a wheel, a branch, or my own impatience. That mattered. No one had ordered me to care about Greywake.
+Not recharged.
+
+There.
+
+Exactly as available as it had been before the broken axle, the fallen branch, and every ordinary problem I had chosen to solve ordinarily.
+
+That mattered for a different reason.
+
+If I did something impossible when the herd arrived, it would be because I chose that answer.
+
+If I did not, that would be a choice too. No one had ordered me to care about Greywake.
 
 No contract was holding me here now. No Guild had successfully classified me into civic responsibility. I was here because I had decided this mess was mine too.
 

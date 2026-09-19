@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** SERIES POV/STYLE RETCON ACTIVE — CLOSE THIRD-PERSON LIMITED / CH-001→CH-027 FULL MANUSCRIPT REVISION REQUIRED / CH-028 PAUSED
+**Status:** SERIES POV/STYLE RETCON ACTIVE — CLOSE THIRD-PERSON LIMITED + CINEMATIC NATURAL ENGLISH / CH-001→CH-027 FULL PROSE REVISION / CH-028 PAUSED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -86,7 +86,7 @@ CH-025 Scene Architecture: **PASS — GATE 8**
 CH-025 Manuscript: **CANON — GATE 9 PASS / AFTERMATH MODE LOCKED**  
 CH-026 Scene Architecture: **PASS — GATE 8**  
 CH-026 Manuscript: **CANON — GATE 9 PASS / ARC-CLOSURE VOICE LOCKED**  
-Red Jackal Series Voice: **LOCKED — DRY/DEADPAN INTERNAL HUMOR + RESTRAINED FOURTH-WALL STANDARD**  
+Red Jackal Series Voice: **LOCKED — CLOSE THIRD-PERSON / CINEMATIC NATURAL ENGLISH / DIALOGUE-LED CHARACTER VOICE**  
 Red Jackal Anti-Villain Expression: **LOCKED**  
 Red Jackal Reputation / Fear Progression: **LOCKED — REVELATION MODEL / UNKNOWN → UNDERESTIMATED → HIDDEN MONSTER**  
 Red Jackal Aura-Farming Reputation Evolution: **LOCKED — MANUFACTURED → EARNED → REPUTATION PRECEDES HIM**  
@@ -226,7 +226,8 @@ New locked manuscript standard:
 
 Core rules:
 - close third-person limited centered on Red Jackal;
-- simple, natural English;
+- movie-like visual flow without screenplay formatting;
+- simple, natural, cinematic English;
 - no first-person narrator;
 - no default direct reader-talk;
 - short/selective internal thought;

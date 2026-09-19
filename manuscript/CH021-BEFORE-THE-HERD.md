@@ -1,6 +1,6 @@
 # Chapter 21 — Before the Herd
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** STUDIO CINEMATIC RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 3,353  
 **Chapter QA:** `qa/CH-021-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-021-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
@@ -123,7 +123,11 @@ He looked at the jack.
 
 Right.
 
-The point was not whether he could make the repair faster. The point was that this cart needed something the driver could still trust after he walked away.
+Red looked at the split axle.
+
+He could make the repair faster.
+
+The driver still needed something that would remain after Red walked away.
 
 They used the jack. Two people held the wheel. He worked a lever beneath the frame while another worker fed rope around the split wood. A farmer brought a short length of spare timber from the next cart.
 
@@ -139,7 +143,11 @@ They used the jack. Two people held the wheel. He worked a lever beneath the fra
 
 He lifted higher. The replacement brace went under the frame. Rope tightened around the axle. Someone drove a wooden pin through the binding.
 
-It was slow. It was ordinary. It worked.
+Slow.
+
+Ordinary.
+
+It worked.
 
 When they lowered the cart, the wheel held well enough to move at walking speed. The road worker slapped the side.
 
@@ -151,7 +159,11 @@ No pale-grey object.
 
 Just rope, timber, a jack, and five people who knew what they were doing.
 
-A strange amount of his recent life had improved after he discovered that being able to replace ordinary solutions did not make replacing them useful. Movement flickered across the field beyond the road. Everyone nearest him froze.
+Red looked at the rope and timber brace.
+
+Power was easy.
+
+Leaving people with something they could keep using was harder. Movement flickered across the field beyond the road. Everyone nearest him froze.
 
 Three grazing animals broke from the brush, crossed the open ground at a frantic run, and vanished through another line of trees. Nobody moved for a breath. Then a runner came down the road.
 
@@ -295,7 +307,9 @@ She released his wrist.
 
 “Congratulations.”
 
-There was no warmth in it. He liked Sela.
+There was no warmth in it.
+
+Red liked Sela.
 
 “If a wheel is inconvenient, use a lever. If a crate is heavy, get another person. If a route needs clearing, use tools. Not because I think you cannot do something absurd.”
 
@@ -303,7 +317,7 @@ She pointed toward the road.
 
 “Because everyone else needs to know what is real, what stays when you leave, and what the plan is built on.”
 
-That was annoyingly better than a medical order.
+Red had no answer to that.
 
 “And if the world ends?”
 
@@ -417,7 +431,7 @@ One of them asked, “Even with the site unsecured?”
 
 “We cannot leave every other position empty while we wait.”
 
-That was the shape of the day. Nothing important became safe before the next important thing needed doing. The lure teams left.
+Nothing important became safe before the next important thing needed doing. The lure teams left.
 
 No activation. No dramatic flash. Just people carrying sealed equipment toward places where, if everyone had done the work correctly, they would soon ask terrified animals to choose one dangerous road instead of another.
 
@@ -455,9 +469,9 @@ He swung. His shoulder objected immediately. The branch remained offensive.
 
 Two workers joined him. One cut. One pried. He took the other side with a rope and pulled when they told him.
 
-It took longer than making something impossible.
+It took longer.
 
-It also left three workers knowing exactly how the route had been cleared.
+When it was done, everyone knew exactly what had been moved and how.
 
 They dragged the branch free.
 
@@ -469,7 +483,9 @@ The worker looked at the axe. Then at him.
 
 Tavian passed them. His eyes moved from the cleared drainage to the axe in his hand. He said nothing.
 
-That was enough. A runner came hard down the outer path before they finished restacking the tools. Brynn met him at the junction.
+Tavian kept walking.
+
+A runner came hard down the outer path before they finished restacking the tools. Brynn met him at the junction.
 
 “Report.”
 
@@ -499,9 +515,9 @@ The runner left with the order. He looked down Broken North. Timber.
 
 Mud. Old stone. Rope.
 
-People. A road Greywake had abandoned because it was too unreliable now had workers waiting beside it with spare materials, hoping it would fail slowly enough for them to keep it alive. There was something almost respectable about that.
+People. A road Greywake had abandoned because it was too unreliable now had workers waiting beside it with spare materials, hoping it would fail slowly enough for them to keep it alive. Red looked at the waiting crews.
 
-Almost. Tavian returned from the upper bend.
+Respectable enough. Tavian returned from the upper bend.
 
 “Drainage is moving. Footing is holding. Entrance and exit are clear enough.”
 
@@ -535,9 +551,9 @@ Tavian looked at him.
 
 “That would be new.”
 
-There it was. Tiny. Dry.
+Tavian looked past him toward the road.
 
-Then gone. Tavian looked past him toward the road.
+The moment was over. Tavian looked past him toward the road.
 
 “We have done what we can before movement begins.”
 
@@ -549,7 +565,9 @@ One carried medical supplies. Another carried people. No one was carrying furnit
 
 The lure teams were already at their assigned sites. Broken North crews waited with tools. Maelis’s copies of the custody records had been separated from the field stock. Jessa was back in the Core with the dispatch logs.
 
-Everyone had something to do. Even him. His, for the moment, was to stand still.
+Everyone had something to do.
+
+Red's job, for the moment, was to stand still.
 
 Brynn checked the route one more time.
 
@@ -571,31 +589,27 @@ Tavian did not correct the word ready. That worried him more than if he had. Bry
 
 “Not yet.”
 
-No clock. No perfect countdown. Just the road, the trees, and whatever was coming through them.
+No clock.
+
+No countdown.
+
+Just the road and the trees.
 
 Hesk was still somewhere out there. Maybe already near the vulnerable lure housing. Maybe moving somewhere else.
 
 Maybe watching Greywake prepare a plan he still believed should fail. They could not stop the settlement to find out. He flexed his fingers.
 
-The ability behind his thoughts was still there.
+The impossible answer was still there.
 
-Not preserved.
+It had always been there.
 
-Not recharged.
+When the herd arrived, using it would be a choice.
 
-There.
+So would holding back. No contract held Red here.
 
-Exactly as available as it had been before the broken axle, the fallen branch, and every ordinary problem he had chosen to solve ordinarily.
+No Guild order.
 
-That mattered for a different reason.
-
-If he did something impossible when the herd arrived, it would be because he chose that answer.
-
-If he did not, that would be a choice too. No one had ordered him to care about Greywake.
-
-No contract was holding him here now. No Guild had successfully classified him into civic responsibility. He was here because he had decided this mess was his too.
-
-That was different.
+He stayed because he chose to.
 
 Brynn raised one hand.
 
@@ -621,10 +635,8 @@ Then ten.
 
 The dark between the trunks seemed to shift behind them.
 
-There was no cheer.
+No one cheered.
 
-No joke.
+No one spoke.
 
-No speech.
-
-Beyond Greywake’s last lanterns, the first mass of fleeing prey came out of the trees.
+Beyond Greywake's last lanterns, the first mass of fleeing prey came out of the trees.

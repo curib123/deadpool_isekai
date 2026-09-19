@@ -2002,7 +2002,7 @@ Do not reveal the first march-lure before CH-011.
 # CH-010 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-010 — The Ledger Doesn't Balance  
-**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+**Status:** SUPERSEDED BY CH-010 CANON CHECKPOINT
 
 ## Red Jackal — Opening CH-010
 
@@ -2243,3 +2243,171 @@ Do not begin:
 - first march-lure stake.
 
 Those belong to CH-011.
+
+# CH-010 Canon Checkpoint
+
+**Chapter:** CH-010 — The Ledger Doesn't Balance  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH010-THE-LEDGER-DOESNT-BALANCE.md`  
+**QA:** `qa/CH-010-GATE-9-CHAPTER-QA.md`
+
+After CH-010, Red Jackal canonically knows:
+
+- Maelis can convert his field experiences into usable evidence only when location, timing, sequence, and observation are separated from inference;
+- his contaminated CH-009 live test is not valid evidence;
+- his CH-004 irregular-labor arrangement leaves real payment, supply, route, and completion traces;
+- that same arrangement does not create normal identity-bound worker/casualty status;
+- if he vanished on an irregular assignment, the Guild could still retain clean expense and route records without counting him like a normal certified worker casualty;
+- some missing, unconfirmed, irregular, and incomplete-identity route cases do not enter the same certified casualty totals used to describe route safety;
+- outer-route losses are disproportionately represented in those weaker/unconfirmed categories;
+- Jessa personally processes or copies some of these category-separated records;
+- some records have been reclassified from casualty to unresolved when identity could not be confirmed;
+- Hesk is actively monitoring and managing Maelis's access to Guild records;
+- Jessa's employment supports her younger siblings;
+- Jessa chose to provide one bounded procedural clarification despite that risk;
+- the Main Caravan Road's recorded safety improves during periods when outer-route losses rise;
+- this inverse pattern repeats;
+- random clerical error is no longer a sufficient comfortable explanation;
+- intentional record management is now a serious suspicion.
+
+Red Jackal still does **not** know:
+
+- that march-lures exist;
+- what physical mechanism is affecting migration;
+- that Hesk personally caused the route-loss pattern;
+- that migration is proven deliberately redirected;
+- that outer communities are proven intentionally selected as acceptable loss;
+- the full conspiracy;
+- protected series truth.
+
+## Maelis Orra — Post-CH-010 Knowledge
+
+Maelis canonically knows:
+
+- Red Jackal's anomaly creates an institutional blind spot: activity can be recorded while normal person-linked safeguards fail;
+- individually valid records can still produce a misleading aggregate picture;
+- unresolved/irregular/incomplete-identity cases are separated from certified casualty totals;
+- outer-route losses are overrepresented in those weaker categories;
+- some casualty entries have been reclassified to unresolved when identity confirmation fails;
+- the inverse main-road-safety / outer-route-loss pattern repeats;
+- the record structure is not adequately explained by random clerical error;
+- correlation has been established, but causation has not;
+- Hesk is actively managing audit access.
+
+Maelis does **not** know:
+
+- the march-lure mechanism;
+- Hesk's authorship as proven fact;
+- deliberate migration redirection as proven fact;
+- the CH-013 midpoint truth.
+
+She remains pro-evidence and pro-procedure.
+
+## Jessa Vale — Post-CH-010 Knowledge / Action State
+
+Jessa canonically:
+
+- understands the relevant Guild filing categories;
+- knows not all people lost on routes enter the same certified casualty totals;
+- has processed/copy-filed records that made her uncomfortable;
+- knows some cases are moved or retained in unresolved/irregular categories;
+- knows her job and income support her younger siblings;
+- remains afraid of employment consequences;
+- voluntarily clarified that unresolved cases may appear as route incidents rather than certified casualties in the main-road summary;
+- set a boundary when asked who taught/authorized the practice;
+- had that boundary respected.
+
+Jessa has **not**:
+- become a full whistleblower;
+- exposed the full conspiracy;
+- identified a march-lure;
+- explained migration manipulation;
+- lost her agency to Red Jackal or Maelis.
+
+## Rovan Hesk — Post-CH-010 Perception State
+
+Hesk canonically knows that:
+
+- Red Jackal is no longer behaving as a contained irregular worker;
+- Red Jackal is connecting field experience to Maelis's audit;
+- Red Jackal will interfere when Hesk tries to control another person's participation;
+- Red Jackal rejects the idea that accepting Guild work grants Hesk ownership over him;
+- Maelis's audit has reached internal filing practice.
+
+Hesk may now treat Red Jackal as:
+
+**an irregular asset becoming operationally inconvenient.**
+
+Do not advance Hesk to CH-012's full **unpredictable complication** state yet.
+
+## Anti-Villain Expression State After CH-010
+
+CH-010 canonically establishes:
+
+**personal usefulness + anti-control motive + intimidation/social pressure + preserved third-party agency.**
+
+Red Jackal protects Jessa's ability to choose because:
+- she is useful to the investigation;
+- he dislikes Hesk deciding her role/silence;
+- Hesk's reminder about the work arrangement activates Red Jackal's hostility toward imposed ownership.
+
+Red Jackal does not force Jessa to testify.
+
+## Documentary Investigation State After CH-010
+
+Canon evidence now establishes:
+
+- Guild accounting can record work/activity without fully counting the person;
+- certified casualty totals exclude or weaken some irregular/unconfirmed cases;
+- those exclusions disproportionately affect outer-route losses;
+- the Main Caravan Road's recorded safety and outer-route losses move inversely across multiple comparable periods.
+
+Allowed conclusion:
+
+**the record pattern is suspicious enough to justify physical verification.**
+
+Not yet established:
+- a physical manipulation device;
+- a march-lure;
+- a lure network;
+- Hesk's guilt;
+- deliberate migration redirection;
+- deliberate sacrifice policy.
+
+## Power / Mystery State After CH-010
+
+CH-010 introduced:
+- no Play Logic use;
+- no regeneration event;
+- no new M-005 clue;
+- no M-007 material;
+- no new F-ID.
+
+Current F-ID state:
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+## CH-011 Handoff
+
+CH-011 — **Broken North** may now begin with:
+
+- CH-009 clean field evidence of repeated northbound migration drift;
+- CH-010 documentary evidence that outer-route losses rise when Main Caravan Road safety improves;
+- Maelis and Tavian holding complementary evidence streams;
+- Red Jackal personally invested because his own off-book status demonstrates how people can be administratively erased;
+- Hesk monitoring the investigation more closely;
+- no physical mechanism yet identified;
+- no march-lure yet discovered;
+- no proof yet that Hesk caused the migration pattern;
+- no CH-013 midpoint truth yet.
+
+CH-011 may now move into the locked physical verification:
+- Broken North Road;
+- lawful-closure/trespass friction;
+- ruined watch infrastructure;
+- evidence of maintained hidden equipment;
+- first physical march-lure discovery at the chapter ending.
+
+Do not begin CH-012 during CH-011 Scene Architecture.

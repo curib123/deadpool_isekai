@@ -355,13 +355,13 @@ He glanced toward the alignment clamp.
 
 “No.”
 
-He looked at him for another second.
+The worker looked at Red for another second.
 
 “Strange magic.”
 
 “That's currently the leading explanation.”
 
-He walked away. Not exactly a scholarly breakthrough. Still useful. The crew finished the repair before noon. They replaced the damaged surface boards, checked the brace twice, reset the drainage edge, and tested the approach with the unloaded repair wagon before allowing normal traffic through.
+The worker walked away. Not exactly a scholarly breakthrough. Still useful. The crew finished the repair before noon. They replaced the damaged surface boards, checked the brace twice, reset the drainage edge, and tested the approach with the unloaded repair wagon before allowing normal traffic through.
 
 Nobody asked him to hit anything else. Probably sensible. The foreman walked the repaired section once, checked the alignment bar, then waved the first waiting caravan forward. The wagon crossed slowly. The bridge held.
 

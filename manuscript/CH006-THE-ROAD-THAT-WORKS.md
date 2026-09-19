@@ -29,7 +29,7 @@ He looked toward the front. The first wagon had a clear view of the road ahead. 
 
 He stared at him. He moved beside the third wagon. So much for proving he did not need supervision. The caravan rolled out after sunrise. Five wagons.
 
-Two Road Guild guards. Several drivers and passengers. him. Nobody seemed particularly interested in the fact that he had produced a hammer from nothing yesterday. Either the story had not traveled yet, or Greywake had healthier priorities than he expected.
+Two Road Guild guards. Several drivers and passengers. And Red. Nobody seemed particularly interested in the fact that he had produced a hammer from nothing yesterday. Either the story had not traveled yet, or Greywake had healthier priorities than he expected.
 
 The Main Caravan Road looked even more deliberate now that he knew what maintaining it required. Fresh gravel had been packed into low spots. Drainage channels had been cleared since the last rain. Brush had been cut back far enough from the road that nothing large could reach the wagons without being seen first.
 
@@ -191,7 +191,7 @@ He did not stop long enough to delay them. That made it harder to call him obses
 
 He was going to be difficult. Worse, he was probably going to be useful. The guarded rest post appeared before noon. It sat where the road widened beside a shallow well and a roofed shelter. Two guards were stationed there. Water barrels stood beneath an awning. Fresh timber had been stacked beside a repair shed.
 
-The sightlines around the post had been cleared far into the brush. A board displayed route notices. He could not read those either. At this point, written information was becoming a personal insult. their drivers watered the animals while passengers stretched their legs.
+The sightlines around the post had been cleared far into the brush. A board displayed route notices. He could not read those either. At this point, written information was becoming a personal insult. Their drivers watered the animals while passengers stretched their legs.
 
 Tavian walked past the shelter. Not toward the well. Toward a narrow road branching west. The difference was immediate. The Main Caravan Road had gravel, drainage, cleared brush, painted posts, and guards.
 

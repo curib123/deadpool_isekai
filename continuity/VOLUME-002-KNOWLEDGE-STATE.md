@@ -3,7 +3,7 @@
 **Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
 **Volume:** 2  
 **Destination:** DEST-002 — Merrowgate  
-**Status:** CANON SUPPORT RECORD — GATE 7 CHAPTER ROADMAP LOCKED
+**Status:** CANON SUPPORT RECORD — CH-027 CANON / CH-028 GATE 8 NEXT
 
 # 1. Red Jackal — Opening Knowledge
 
@@ -306,22 +306,26 @@ Locked planning state:
 - Volume 3 remains unselected;
 - no character may use knowledge from a later planned chapter early.
 
-# 14. CH-027 Pre-Manuscript Knowledge Boundary
+# 14. CH-027 Canon Knowledge Record
 
 **Chapter:** CH-027 — Salt in the Air  
-**Status:** GATE 8 PASS — MANUSCRIPT AUTHORIZED
+**Status:** CANON — GATE 9 PASS
 
-At CH-027 opening Red may know only the Volume 2 opening state plus practical travel information learned after Greywake.
+CH-027 canonically establishes that Red:
 
-During CH-027 he may learn only:
+- has traveled for several days since leaving Greywake;
+- uses ordinary Avarran road/river transport rather than teleportation;
+- has spent meaningful amounts on food, lodging, passage, baggage, and transfers;
+- remains physically improved but still carries shoulder/rib/side/leg soreness;
+- still cannot read Veyran writing;
+- still depends on institutional Wayfarer Tongue Tokens for clear spoken translation;
+- has not received a personal permanent translation device;
+- reaches the Brasswater trade sphere and sees Merrowgate as a major port;
+- observes docks, ships, cranes, warehouses, chain bridges, dry docks, dense cargo traffic, and multilingual commerce;
+- now knows his remaining money is low enough that he needs to earn again soon;
+- chooses Merrowgate for practical work/information/onward-passage reasons.
 
-- ordinary Avarran road/river travel remains costly;
-- the route he is following reaches the Brasswater trade sphere;
-- large trade-transfer points commonly use Wayfarer Tongue Tokens for speech;
-- Merrowgate is visibly a major port with abundant work and onward passage options;
-- continued wandering without earning again is financially impractical.
-
-He does **not** learn in CH-027:
+CH-027 does **not** establish:
 
 - Merrowgate's identity-verification result;
 - Iria Voss;
@@ -336,8 +340,14 @@ He does **not** learn in CH-027:
 - F-010 terminology;
 - any protected mystery truth.
 
+Play Logic uses in CH-027: **0**.
+
 No M-ID advances.
 
 No F-ID is planted.
 
-**Official next step:** CH-027 — Salt in the Air → Manuscript Draft.
+Canonical final line:
+
+**“Merrowgate would do.”**
+
+**Official next step:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.

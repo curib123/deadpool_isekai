@@ -16,7 +16,7 @@ He opened his eyes. Green filled his vision. Not hospital green. Not traffic-lig
 
 He stared upward for a few seconds. “Okay.” His voice worked. That was useful.
 
-He would have preferred a hospital. At that point he would even have accepted one of those suspiciously clean white rooms where somebody explains that your previous life has ended and hands out compensation.
+He would have preferred a hospital. At that point he would even have accepted one of those suspiciously clean white rooms where someone explained that his previous life had ended and handed out compensation.
 
 There was no white room. No goddess. No floating screen. No deep mysterious voice saying, Welcome, chosen one.
 
@@ -32,7 +32,7 @@ Nothing broken. No blood. No obvious hole where an important organ had resigned.
 
 No wallet. No keys. No phone. He checked again for the phone.
 
-Still absent. “Of course.” For your benefit, he will summarize the next few seconds as calm reflection. Internally, he was working through dead, insane, kidnapped, drugged, or something even less convenient.
+Still absent. “Of course.” He stood there for a few seconds pretending to be calm while his mind worked through dead, insane, kidnapped, drugged, or something even less convenient.
 
 He stood. The forest did not applaud, but he straightened anyway. If he was going to wake up alone in an impossible place, he could at least do it with posture. A cold drop of water fell from a leaf and landed directly on the back of his neck.
 
@@ -44,13 +44,13 @@ No tire noise. No aircraft. No power lines. No distant city hum.
 
 He turned slowly and listened. Nothing human answered. That was when the joke stopped being quite as funny. The crash came back in pieces. Rain. Brakes. Light. Impact.
 
-Then this. He rubbed a hand over his face and forced himself to breathe slowly. Dreams did not usually come with cold mud soaking through your knee, and hallucinations probably did not bother rendering this much texture.
+Then this. He rubbed a hand over his face and forced himself to breathe slowly. Dreams did not usually come with cold mud soaking through his knee, and hallucinations probably did not bother with this much texture.
 
 He pinched the inside of his arm. “Ow.” So pain still worked. Good to know.
 
 It would have been easy to call it another world. Reincarnation.
 
-Isekai. Pick your label. He did not. Saying ridiculous things confidently is how they become your problem.
+Isekai. Reincarnation. Whatever it was, he refused to name it yet. Saying something ridiculous out loud had a way of making it feel permanent.
 
 Instead, he chose a direction where the ground rose slightly and started walking. The plan was simple: do not die, find people, ask questions.
 
@@ -80,7 +80,7 @@ Nothing.
 
 A few leaves trembled. He kept walking without running. He would like to say that was discipline. Mostly he did not want whatever was behind him to notice how concerned he was.
 
-There was another rustle, closer this time. His pace increased. they can call it caution.
+There was another rustle, closer this time. His pace increased. He called it caution.
 
 Then a low shape crossed between two trees ahead of him. He stopped. It was about the size of a large dog, maybe slightly bigger, but too lean through the middle. Its front legs were long. Its shoulders rolled beneath dark coarse fur. Its head sat lower than he liked, narrow muzzle pointed directly at him.
 
@@ -178,7 +178,7 @@ Then it disappeared. Now his arm was repairing itself while hurting enough to ma
 
 He laughed once. It came out weaker than he wanted. He opened his eyes and stared into the trees. For the first time since waking, he did not feel like performing.
 
-Not for himself. Not even for you. He was scared. That was the truth of it. He stayed there for a few seconds, then stood because remaining beside the road was not going to improve anything. His arm still hurt. The cuts had not vanished, but they looked hours or days older than they should have. His body felt heavy too, like the strange healing had taken something out of him.
+Not even for himself. He was scared. That was the truth of it. He stayed there for a few seconds, then stood because remaining beside the road was not going to improve anything. His arm still hurt. The cuts had not vanished, but they looked hours or days older than they should have. His body felt heavy too, like the strange healing had taken something out of him.
 
 He followed the old road more carefully after that. No heroic marching. No dramatic declarations. He listened before every blind turn and gave thick brush considerably more respect than he had fifteen minutes earlier.
 

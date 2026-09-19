@@ -269,7 +269,21 @@ M-007 did not advance.
 
 **Volume 1 / Greywake Arc chapter production is complete through CH-026.**
 
-Volume 2 destination remains unselected.
+Volume 2 destination is now selected through Gate 5:
+
+**DEST-002 — Merrowgate / Merrowgate Arc**
+
+Authoritative selection record:
+
+`destinations/VOLUME-002-DESTINATION-SELECTION.md`
+
+Gate 5 QA record:
+
+`qa/VOLUME-002-DESTINATION-SELECTION-QA.md`
+
+**Official next step:** Gate 6 — Volume 2 / Merrowgate Arc Architecture QA.
+
+No Volume 2 chapter roadmap, scene architecture, dialogue, or manuscript prose is authorized yet.
 
 # 4B. Publication Release Workflow
 
@@ -313,7 +327,7 @@ Publication work:
 
 If a publication edit changes meaning, return it to Gate 9 and canonization first.
 
-Volume 2 destination remains unselected and is not authorized by publication work.
+Volume 2 is selected as DEST-002 — Merrowgate through Gate 5. This selection is independent of Volume 1 publication work; Gate 6 architecture must pass before Volume 2 chapter planning begins.
 
 # 5. Scene Sheet
 Each scene has:

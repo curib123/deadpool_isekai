@@ -5,6 +5,22 @@
 
 This file defines the maximum knowledge each active Volume 1 character may possess during Greywake Arc architecture. It does not assign chapter timing.
 
+## Overpowered Retcon Continuity Override
+
+The authorial retcon in `planning/RED-JACKAL-OVERPOWERED-RETCON.md` supersedes any older Volume 1 wording that treats:
+- repeated Play Logic use as a finite power budget;
+- pain or physical exhaustion as loss of raw Play Logic capability;
+- Stage I/II progression as writer truth;
+- Red's small manifestations as evidence of his maximum output.
+
+Current writer truth:
+- Red is already overwhelmingly powerful;
+- Play Logic has no known intrinsic ceiling;
+- early limits may reflect self-misdiagnosis, experimentation, deliberate restraint, role-play, lack of information, or concern for collateral;
+- pain remains genuine;
+- consequences to other people remain genuine;
+- supporting characters remain necessary for information, ecology, engineering, evidence, command, law, logistics and judgment.
+
 # Red Jackal
 
 ## CH-001 Opening Knowledge
@@ -43,7 +59,7 @@ He still does not understand the mechanisms.
 ## May Learn During Volume
 - multiple independent appraisal methods agree his identity data is absent rather than merely hidden;
 - his regeneration does not match ordinary healing;
-- repeated injury and exhaustion reduce his control;
+- repeated injury may hurt and affect his behavior, but does not create a writer-truth raw-power ceiling; his larger risks are incomplete information, judgment and consequences;
 - Greywake's migration has been deliberately manipulated;
 - institutions can exploit people who are difficult to count or classify.
 

@@ -3643,3 +3643,213 @@ CH-014 owns:
 - Tavian's warning that altering a lure before mapping the full network may cause backflow.
 
 CH-015 still owns Red Jackal's unauthorized lure-disruption mistake.
+
+# CH-014 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-014 — Necessary Losses  
+**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+
+## Opening State
+
+CH-014 begins from the CH-013 canon checkpoint.
+
+Core actors may enter knowing:
+
+- deliberate migration diversion exists;
+- multiple coordinated diversion deployments exist;
+- Hesk's Roadmaster authority materially owned/maintained the policy;
+- the Main Caravan Road was deliberately protected;
+- outer routes repeatedly absorbed displaced pressure;
+- leadership knew outer pressure was increasing;
+- the policy continued despite those consequences;
+- exact lure count is unknown;
+- full network geometry is unknown;
+- no lure has yet been disabled;
+- no actual backflow has yet occurred.
+
+## Allowed CH-014 Discoveries
+
+An approved CH-014 manuscript may establish:
+
+- Hesk's eleven-year-old winter-isolation history;
+- why he concluded that the Main Caravan Road cannot be allowed to fail;
+- Greywake's concrete dependence on the road for food, medicine, trade, tools, relief and external support;
+- Hesk's long-term Valedorn charter/funding rationale;
+- the council's fear that exposing/stopping the system without replacement can create immediate survival risk;
+- years of lure manipulation have altered current migration geometry;
+- lure sectors cannot safely be treated as independent switches;
+- sudden alteration may cause displaced pressure to rebound/spill into previously screened corridors;
+- this possibility is called **backflow risk**;
+- exact backflow route/timing remains unknown;
+- Tavian requires fuller network mapping before physical intervention;
+- an outer homestead/approach may face immediate near-term pressure before mapping is complete;
+- Red Jackal hears and understands the warning before CH-015.
+
+## Hesk Sympathy Boundary
+
+CH-014 may reveal:
+
+- early-winter migration + road collapse isolated Greywake eleven years earlier;
+- relief arrived late;
+- caravans vanished;
+- outer farms failed;
+- people froze or starved;
+- distant officials debated route viability;
+- Hesk helped reopen the road;
+- he concluded local survival requires hard prioritization;
+- he seeks stronger Valedorn charter support/funding/defensive support.
+
+This may make Hesk understandable.
+
+It does not absolve:
+
+- secret victim selection;
+- concealment;
+- falsified reporting;
+- use of expendable irregular labor;
+- deliberate exposure of weaker communities.
+
+## Network / Backflow Boundary
+
+CH-014 may establish:
+
+- the diversion system has operated long enough to shape current animal movement;
+- predator/prey paths now overlap abnormally;
+- changing one lure may redirect pressure unpredictably;
+- blind shutdown may endanger other communities;
+- full map first is the safest informed position.
+
+CH-014 must not establish:
+
+- exact total lure count;
+- exact full network geometry;
+- exact backflow route;
+- exact backflow timing;
+- exact species response;
+- actual observed backflow.
+
+CH-016 owns the major observed backflow after CH-015.
+
+## Red Jackal Boundary
+
+Red may:
+
+- reject Hesk's right to define acceptable victims;
+- reject secret continuation;
+- challenge/verbally threaten authority;
+- initially prefer destroying the lure system;
+- accept intellectually that blind intervention can redirect harm onto others.
+
+Red must not:
+
+- become obedient;
+- accept Hesk's morality;
+- become a conventional lawful hero;
+- physically alter a lure;
+- use Play Logic.
+
+Critical CH-014 realization:
+
+**if Red changes the system without understanding it and other people pay the price, he has also made a choice for them.**
+
+He is warned, not converted.
+
+## Maelis Orra Boundary
+
+Maelis may:
+
+- keep the proven truth public;
+- insist records/sites remain preserved;
+- oppose renewed secret Guild control;
+- accept that factual proof does not automatically supply a safe ecological remedy;
+- defer ecological sequencing questions to Tavian.
+
+She does not excuse Hesk's reporting manipulation.
+
+## Tavian Rook Boundary
+
+Tavian may:
+
+- explain network interdependence;
+- explain bounded backflow risk;
+- demand full mapping before changes;
+- reject Hesk's attempt to use his warning as moral endorsement.
+
+He does not know the exact future backflow route.
+
+## Captain Brynn Alder Boundary
+
+Brynn may support:
+
+- no secret unilateral Guild action;
+- no unauthorized lure alteration;
+- full mapping;
+- route warnings;
+- militia preparation;
+- shared access to risk data.
+
+She does not resolve final policy/legal outcomes.
+
+## Kellan Dorr Boundary
+
+Kellan may:
+
+- reject outer communities being treated as replaceable;
+- emphasize their material contribution to Greywake;
+- hate any delay;
+- still accept that blind shutdown may hurt his own people.
+
+## CH-015 Handoff Boundary
+
+CH-014 may end with:
+
+- urgent monster pressure near an outer homestead/approach;
+- a known or suspected lure sector affecting that area;
+- residents at near-term risk;
+- incomplete network mapping.
+
+CH-014 must not:
+
+- travel to the site;
+- disable/remove the lure;
+- begin the physical confrontation;
+- use Play Logic;
+- trigger backflow.
+
+## Play Logic / Regeneration State
+
+CH-014 contains:
+
+- no Play Logic attempt;
+- no manifestation;
+- no regeneration event;
+- no combat;
+- no new M-005 clue.
+
+F-003 remains **PLANTED — CH-007**.  
+F-004 remains **PLANTED — CH-005**.
+
+## F-ID State
+
+No new F-ID is authorized.
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+## M-007 State
+
+M-007 remains inactive.
+
+Backflow in CH-014 is local ecological/operational knowledge, not Fate.
+
+## Locked CH-014 Ending
+
+Tavian must make the risk explicit:
+
+**changing any lure before the full network is mapped could cause a backflow.**
+
+Red must hear and understand this before CH-015.
+
+CH-015 still owns Red Jackal's first major unauthorized lure-disruption action.

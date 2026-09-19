@@ -5,8 +5,8 @@
 **Audit Date:** 2026-09-19  
 **Scope:** Actual canon manuscript prose, CH-001 through CH-026  
 **Authority:** `planning/RED-JACKAL-OVERPOWERED-RETCON.md`  
-**Status:** PASS — REVISION SET IDENTIFIED  
-**Result:** 13 chapters require prose revision; 13 chapters require no prose revision.
+**Status:** COMPLETE — 13/13 REQUIRED REVISIONS FINISHED / GATE 9 PASS  
+**Result:** 13 chapters revised and Gate 9 revalidated; 13 chapters retained without prose changes.
 
 # 1. Audit Standard
 
@@ -542,6 +542,19 @@ The 13 KEEP chapters do not need manuscript rewriting merely because of the powe
 
 Their existing publication copies remain semantically usable, although the volume-level Gate 11 state stays stale until the entire retcon cycle completes.
 
-# 8. Current Next Step
+# 8. Completion Record
 
-**CH-005 — A Better Hammer → Overpowered Retcon Prose Revision → Gate 9 Revalidation.**
+All 13 chapters identified by this audit have completed:
+- prose revision;
+- individual overpowered-retcon Gate 9 revalidation;
+- canonization.
+
+Volume 1 has subsequently passed:
+
+`qa/VOLUME-001-GREYWAKE-OVERPOWERED-RETCON-GATE-10-REVALIDATION.md`
+
+Current Volume 1 canon total: **75,157 words**.
+
+Next required release step:
+
+**regenerate the 13 changed publication copies → Gate 11 revalidation.**

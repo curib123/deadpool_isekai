@@ -7259,7 +7259,7 @@ Do not draft CH-022 manuscript before CH-022 Scene Architecture and Gate 8 Pre-M
 # CH-022 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-022 — First Wave  
-**Status:** SCENE ARCHITECTURE SUPPORT — GATE 8 PASS / MANUSCRIPT NOT YET CANON
+**Status:** SUPERSEDED BY CH-022 CANON CHECKPOINT
 
 ## Opening State
 
@@ -7445,4 +7445,324 @@ An approved CH-022 manuscript must end with both:
 2. **the largest territorial predator emerging into the failing line.**
 
 No major fight follows in CH-022.
+
+# CH-022 Canon Checkpoint
+
+**Chapter:** CH-022 — First Wave  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH022-FIRST-WAVE.md`  
+**QA:** `qa/CH-022-GATE-9-CHAPTER-QA.md`
+
+## First-Wave Opening / Timing — CANON
+
+CH-022 begins immediately from CH-021's final mass-prey sighting.
+
+There is:
+- no rest;
+- no sleep/reset;
+- no off-page recovery;
+- no new planning meeting before impact.
+
+Tavian requires observed herd commitment before activating the approved coalition sequence.
+
+Red sees the wave and deliberately waits instead of manifesting early.
+
+The first approved lure signals are sent only after:
+- movement becomes continuous;
+- lead prey begin committing toward the intended approach.
+
+The first redirection partially works.
+
+## Evacuation Payoff — CANON
+
+CH-021 evacuation materially reduces civilian exposure.
+
+At the first live spill:
+- only the final inbound civilian cart/small residual civilian movement remains exposed;
+- the cart clears behind the fallback line early in CH-022;
+- Greywake does not repopulate evacuated outer areas merely to create rescue stakes.
+
+After that point, most direct danger falls on:
+- militia;
+- workers;
+- runners;
+- route crews.
+
+## Captain Brynn Alder — CANON
+
+Brynn owns live settlement defense.
+
+She canonically:
+- keeps militia out of the herd's main path;
+- clears the final civilian cart;
+- reallocates defenders between pressure points;
+- protects worker withdrawals;
+- abandons failed minor guide positions instead of sacrificing people to hold them;
+- sends field orders while Tavian owns ecological interpretation.
+
+Brynn does not:
+- leave the defense to hunt Hesk;
+- turn militia into indiscriminate monster hunters;
+- cede command to Red.
+
+## Tavian Rook — CANON
+
+Tavian owns:
+- first activation timing;
+- interpretation of prey direction;
+- distinction between normal scatter and repeated wrong-route pull;
+- local placement of Red's temporary route assistance;
+- recognition that the first wave is becoming compressed;
+- worker timing around dangerous movement gaps.
+
+Tavian does not:
+- know Hesk's exact position;
+- control the herd perfectly;
+- become a lure technician;
+- guarantee Broken North will hold.
+
+## Hesk / Unauthorized Lure Intervention — CANON
+
+The first active evidence of Hesk's final interference is now canon.
+
+Observed field symptoms:
+- one branch repeatedly pulls toward the wrong side;
+- additional prey groups repeat that wrong turn;
+- ridge-hounds exploit the same opening;
+- the pull strengthens rather than resolving as ordinary scatter.
+
+Independent site report:
+- the vulnerable older-service housing is already active;
+- its vent state is open before the assigned team's sequence begins;
+- the assigned team did not activate or change it;
+- Hesk remains unseen.
+
+Known access context:
+- Hesk still possesses the Roadmaster field-service key capable of accessing that housing.
+
+Operational conclusion:
+**Hesk's final field-lure intervention is active.**
+
+Not yet established:
+- Hesk's exact physical location;
+- direct confrontation;
+- final operational defeat.
+
+No new lure technology, remote controller, second reserve, System manipulation or cosmic influence is introduced.
+
+## Route / Infrastructure State — CANON
+
+### First Outer Guide
+
+A light guide fence fails under herd pressure near the final fallback opening.
+
+It is not a heavy defensive wall.
+
+### Lower Detour / Seasonal-Cut Approach
+
+The already-damaged route geography remains consequential.
+
+A second ordinary guide/barricade fails.
+
+The position is abandoned rather than retaken at unnecessary human cost.
+
+### Broken North
+
+Broken North remains open by chapter end but is beginning to fail.
+
+Canon state:
+- CH-019 timber support still holds;
+- rough footing remains usable but degrades;
+- fill begins shedding;
+- a support/guide rope loosens;
+- light guide work buckles;
+- old road stone begins settling;
+- repair crews cannot safely enter at every moment;
+- excess animal compression reaches the approach faster than planned.
+
+Broken North is not fully collapsed.
+
+The main physical hold belongs to CH-023.
+
+## Red Jackal — Restraint / Responsibility CANON
+
+Red's central CH-022 development is:
+
+**wait for competent timing, then act hard when the plan actually needs him.**
+
+Canon choices:
+- does not manifest at first sight of the wave;
+- waits for Tavian's call;
+- uses power only for concrete route/rescue needs;
+- chooses not to abandon the live defense to hunt Hesk;
+- stays with the people currently in danger.
+
+This remains self-directed responsibility, not institutional ownership.
+
+## Play Logic — CANON
+
+Actual CH-022 Stage I manifestations:
+
+**exactly 3**
+
+### Manifestation 1 — Spill Guide
+
+A short low angled pale-grey guide redirects a small prey branch away from the fallback opening long enough for the final civilian cart to clear.
+
+It:
+- is temporary;
+- affects only a small branch;
+- does not stop the main herd;
+- cracks and is released after the immediate need.
+
+### Manifestation 2 — Rescue Support
+
+A temporary pale-grey rail/hook-like support forms at the damaged lower detour.
+
+It:
+- creates a short extraction path;
+- helps pull a trapped worker free;
+- does not permanently repair the route;
+- cracks after use.
+
+### Manifestation 3 — Route Deflector
+
+A low temporary angled guide/deflector appears at Broken North where Tavian directs.
+
+It:
+- is visibly rough/crooked from fatigue;
+- redirects only the lead branch;
+- gives workers seconds to clear loose timber;
+- cracks/fails after the immediate correction.
+
+This is the chapter's earned aura moment because it serves the collective plan.
+
+No fourth manifestation occurs.
+
+PL-4 is not used.
+
+PL-4 remains reserved for CH-023.
+
+## Regeneration / Injury State After CH-022 — CANON
+
+Red enters CH-022 already tired from CH-019/020 despite CH-021 conservation.
+
+CH-022 adds:
+
+### Injury 1
+- left shoulder impact from broken rail/debris;
+- forearm abrasion/cut.
+
+### Injury 2
+- harder side/rib impact against stone/roadwork after ridge-hound contact;
+- breathing becomes painful.
+
+### Injury 3
+- thigh/leg impact during Broken North pressure;
+- prior leg/shoulder strain worsens;
+- headache and hand tremor intensify.
+
+Regeneration:
+- closes/limits bleeding;
+- keeps Red functional;
+- remains painful;
+- does not refill stamina;
+- does not restore manifestation precision;
+- does not erase rib/leg/shoulder pain.
+
+By chapter end:
+- Red is mobile;
+- Red is materially worse than at opening;
+- hands are shaking;
+- precision is degraded;
+- CH-023 inherits real accumulated cost.
+
+No new regeneration mechanism is revealed.
+
+## Predator / Ecology State — CANON
+
+The first wave contains layered ecology:
+- fleeing prey/browsing animals;
+- ridge-hounds;
+- ordinary mass movement under pressure.
+
+Ridge-hounds:
+- exploit openings;
+- do not become the main boss;
+- are turned/avoided through ordinary defensive action.
+
+At the ending:
+- prey begin turning more violently;
+- ridge-hounds stop/back away/leave the road;
+- heavier vegetation movement reveals a much larger body.
+
+The reserved large territorial predator physically emerges into the compressed corridor.
+
+It is:
+- local ecology;
+- displaced by migration compression;
+- not Hesk's pet;
+- not summoned;
+- not a series-mystery clue.
+
+No sustained fight with it occurs in CH-022.
+
+## Mystery / Foreshadowing State After CH-022
+
+F-ID state remains:
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+No F-ID changes state.
+
+M-007 does not advance.
+
+No Fate, Great Design, Eidrathi, System-origin, Play-Logic-origin or future-destination material is introduced.
+
+## Locked Ending State
+
+Broken North remains physically open but is beginning to fail under compressed first-wave pressure.
+
+The largest territorial predator emerges into that failing line.
+
+Canonical final line:
+
+**“The largest territorial predator in the migration had arrived.”**
+
+No attack/fight follows.
+
+## CH-023 Handoff
+
+The authoritative next chapter is:
+
+**CH-023 — Greywake Holds**
+
+CH-023 may now proceed to **Detailed Scene Architecture only**.
+
+CH-023 begins with:
+- the large territorial predator physically present at the compressed corridor;
+- Broken North beginning to fail, not yet lost;
+- Hesk's unauthorized lure pull still active;
+- militia/work crews already engaged in live defense;
+- Tavian/Brynn already coordinating the route;
+- Red carrying three CH-022 manifestations' fatigue plus repeated injuries;
+- Red's hand precision visibly degraded.
+
+CH-023 owns:
+- sustained large-territorial-predator combat;
+- main failing-choke-point defense;
+- PL-4 climax utility;
+- peak physical/environmental hold;
+- the line physically holding under maximum pressure;
+- continued Hesk lure pressure without direct Hesk confrontation.
+
+Do not draft CH-023 manuscript before CH-023 Scene Architecture and Gate 8 Pre-Manuscript Scene QA pass.
+
+CH-024 retains:
+- direct Hesk confrontation;
+- final lure-site/fork;
+- final migration commitment;
+- final route-policy resolution.
 

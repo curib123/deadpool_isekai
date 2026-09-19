@@ -280,6 +280,97 @@ No awakening.
 
 Only restraint ending.
 
+# 10A. False-Main-Character Effect
+
+Red Jackal is the **series focal protagonist** but he is **not Veyr's System-recognized chosen protagonist**.
+
+Veyr already has a legitimate conventional isekai Hero, Hero Party, Main Villain, minor villains, destination antagonists, and off-screen conflicts that would continue if Red disappeared.
+
+Red's recurring comic/meta effect is that he enters scenes that were not built for him and makes them *look* like his scene.
+
+He may:
+- steal the entrance;
+- steal the visual center;
+- steal the enemy's attention;
+- accidentally receive the dramatic line meant for the Hero;
+- appear more final-boss-like than the actual villain;
+- leave witnesses convinced he was the important person;
+- interrupt prophecy, duel, rescue, negotiation, or villain-reveal beats;
+- walk away before learning what role he just disrupted.
+
+This does **not** make the native Hero fake, irrelevant, or secretly secondary in-world.
+
+The rule is:
+
+**Red may hijack presentation. He may not lazily erase causality.**
+
+# 10B. Stable-Core / No-Development Lock
+
+Red Jackal has **no conventional character-development arc**.
+
+From opening to ending, his core remains:
+- self-centered;
+- anti-villainous;
+- theatrical;
+- comedic;
+- irreverent;
+- enemy-playing;
+- aura-farming;
+- freedom-obsessed;
+- willing to interfere because something looks interesting;
+- capable of becoming frighteningly direct when the game stops being fun.
+
+He may gain:
+- information;
+- relationships;
+- attachments;
+- enemies;
+- reputation;
+- memories;
+- tactics;
+- preferences;
+- consequences.
+
+Those are **accumulation and revelation**, not moral progression.
+
+Do not build a destination where Red finally becomes a proper hero, matures out of the persona, or learns to stop being Red Jackal.
+
+# 10C. Chaos-Engine Rule
+
+Red is a controlled source of unexpected situations.
+
+A Red intrusion should often create a consequence nobody in the native scene planned for, but the result must still follow established world logic.
+
+Preferred chaos sources:
+- he takes a statement literally when everyone expected genre logic;
+- he treats a sacred or terrifying ritual like stage dressing;
+- he helps the "wrong" side for a selfish reason;
+- he lets the enemy continue because the performance is entertaining;
+- he ends a supposedly climactic threat too early, forcing the real problem to surface;
+- he refuses the obvious quest and accidentally solves a side problem that changes the main route;
+- he uses Play Logic in a way that solves one issue while creating a social, political, evidentiary, or logistical mess;
+- he aura-farms so successfully that people infer a plan he never had;
+- he appears at the exact moment another character expected the Hero.
+
+Unexpected does **not** mean random.
+
+Every disruption must have a cause in Red's personality, information, boredom, ego, curiosity, attachment, or desire for spectacle.
+
+# 10D. Sequence-Protection Rule
+
+When Red changes a planned story beat, the next beat must be **rerouted**, not deleted.
+
+Planning must preserve:
+1. the original objective;
+2. who still wants it;
+3. what Red changed;
+4. who notices;
+5. what the Hero Party or villain now does differently;
+6. what new consequence replaces the expected bridge;
+7. how the story returns to the locked destination sequence without pretending Red's interference never happened.
+
+This is how Red can keep changing the flow without breaking the established map, pacing spine, or causal order.
+
 # 11. Narrative POV
 
 The locked default manuscript POV is:

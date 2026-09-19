@@ -1,7 +1,8 @@
 # Chapter 24 — No One Gets Chosen
 
 **Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
-**Word Count:** 2264
+**Word Count:** 2,263
+**Retcon QA:** `qa/CH-024-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
 The physical line was holding.
 
@@ -43,7 +44,7 @@ He started walking.
 
 Brynn did too.
 
-The service path cut away from Broken North through lower brush and old roadwork. They had not gone far when Maelis and Jessa came from the opposite approach.
+The service path cut away from Broken North through lower brush and old roadwork. they had not gone far when Maelis and Jessa came from the opposite approach.
 
 Maelis carried a wrapped packet against her chest. Jessa carried a copied route sheet and looked like she had spent the last hour expecting to be fired, trampled, arrested, or some efficient combination of the three.
 
@@ -65,7 +66,7 @@ Nobody had brought the only proof into the middle of a migration.
 
 Tavian took the route sheet from Jessa.
 
-“Show him the physical line.”
+“Show me the physical line.”
 
 She pointed to the old fork.
 
@@ -79,7 +80,7 @@ Not dramatically.
 
 Just because there was finally a person at the end of this problem.
 
-They reached the site from above.
+they reached the site from above.
 
 The old-service housing sat inside a shallow stone recess beside the fork. Fitted stake. Vented housing. Service plate. Reservoir assembly.
 
@@ -121,9 +122,9 @@ He did not move.
 
 Maelis came to the edge of the recess.
 
-“they have the reserve records. Issue entries. Witness statements. Your storehouse acknowledgment. Jessa’s signed explanation. Destroying this site will not erase what happened.”
+“We have the reserve records. Issue entries. Witness statements. Your storehouse acknowledgment. Jessa’s signed explanation. Destroying this site will not erase what happened.”
 
-“he am not destroying it.”
+“I am not destroying it.”
 
 “No,” Maelis said. “You are using it.”
 
@@ -143,7 +144,7 @@ Hesk finally looked at him.
 
 “And if Broken North collapses?”
 
-“Then they deal with the collapse they actually have.”
+“Then we deal with the collapse we actually have.”
 
 “That is not an answer.”
 
@@ -155,11 +156,11 @@ Another group took the outer angle.
 
 Hesk pointed at them.
 
-“You see a branch. He see what happens after Greywake loses the main road.”
+“You see a branch. I see what happens after Greywake loses the main road.”
 
 Nobody interrupted.
 
-They knew the story.
+they knew the story.
 
 Winter isolation. Missing caravans. Food and medicine delayed while people somewhere safer discussed whether Greywake deserved the cost of rescue.
 
@@ -167,17 +168,17 @@ Hesk looked at Brynn.
 
 “You know what the road carries.”
 
-“he do.”
+“I do.”
 
 “Food. Medicine. Metal. Relief. Work. Everything this settlement cannot make alone.”
 
-“he know.”
+“I know.”
 
 “And you are gambling that on an abandoned road nobody trusted a week ago.”
 
 Brynn’s expression did not change.
 
-“they are refusing to send the cost through inhabited farms.”
+“We are refusing to send the cost through inhabited farms.”
 
 Hesk looked at him.
 
@@ -187,7 +188,7 @@ That was almost funny.
 
 Almost.
 
-“You survive consequences they cannot,” he continued. “You take wounds that would kill them. You act because you can afford to be wrong.”
+“You survive consequences they cannot,” He continued. “You take wounds that would kill them. You act because you can afford to be wrong.”
 
 That landed.
 
@@ -197,7 +198,7 @@ He had spent several chapters proving the point for him.
 
 He went on.
 
-“Do not pretend you are different from him.”
+“Do not pretend you are different from me.”
 
 He looked at the housing.
 
@@ -207,7 +208,7 @@ Then the blood on his own coat.
 
 The problem with a good accusation was that punching the person who said it did not make it false.
 
-“he was not.”
+“I’m not.”
 
 Hesk’s eyes narrowed.
 
@@ -217,7 +218,7 @@ Hesk’s eyes narrowed.
 
 He looked toward the homestead route.
 
-“he don’t get to choose them either.”
+“I don’t get to choose them either.”
 
 For the first time, he had no immediate answer.
 
@@ -267,7 +268,7 @@ Brynn stepped closer.
 
 Hesk looked past him toward the migration.
 
-“If he stop this now and your road fails—”
+“If I stop this now and your road fails—”
 
 “Then Greywake deals with what actually happens,” Brynn said.
 
@@ -279,29 +280,29 @@ His voice sharpened.
 
 “No,” Brynn said.
 
-“All of them.”
+“All of us.”
 
 That hit harder than shouting.
 
 He released Hesk’s wrist only when Brynn was close enough to take him.
 
-Hesk stepped back from the housing.
+He stepped back from the housing.
 
-Not because Red forced him.
+Not because he forced him.
 
 Because the argument had moved past his hand.
 
-Then Hesk looked at Red again.
+Then he looked at him again.
 
 Blood. Torn coat. Dirt.
 
-Hesk had not seen Broken North.
+He had not seen Broken North.
 
 He had not seen the road stop falling.
 
-He had not seen the predator discover that Red was finished playing with it.
+He had not seen the predator discover that he was finished playing with it.
 
-He was still working from the version of Red Greywake understood yesterday.
+He was still working from the version of him Greywake understood yesterday.
 
 “You can barely stand.”
 
@@ -331,17 +332,17 @@ Tavian turned from the herd.
 
 He continued.
 
-“he could stop the animals.”
+“I could stop the animals.”
 
 He pointed toward the moving mass.
 
-“Wall them in. Lift the road. Move the road. Move them. He can think of several answers, and most of them are terrible.”
+“Wall them in. Lift the road. Move the road. Move them. I can think of several answers, and most of them are terrible.”
 
 Hesk stared.
 
 “If you can—”
 
-“he don’t know what ten thousand terrified animals do after he force them to stop.”
+“I don’t know what ten thousand terrified animals do after I force them to stop.”
 
 He pointed at Tavian.
 
@@ -351,7 +352,7 @@ Tavian did not look pleased to be included in his speech.
 
 That made it better.
 
-“he don’t know which farm becomes the next path if he make this one impossible. He don’t know what the predators do when the prey vanish from under them. He don’t know which road collapses when he move weight somewhere nobody planned for.”
+“I don’t know which farm becomes the next path if I make this one impossible. I don’t know what the predators do when the prey vanish from under them. I don’t know which road collapses when I move weight somewhere nobody planned for.”
 
 He looked back at Hesk.
 
@@ -383,7 +384,7 @@ Jessa caught it.
 
 “You do not have the council vote.”
 
-“he have a live emergency, an unauthorized active lure, witnesses, your reserve stock under custody, and your key in his hand.”
+“I have a live emergency, an unauthorized active lure, witnesses, your reserve stock under custody, and your key in my hand.”
 
 Maelis added, “And records.”
 

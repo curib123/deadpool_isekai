@@ -8,6 +8,26 @@
 **POV:** Red Jackal first person  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
+# Soul-Drift / Final Story-Engine Override
+
+The five-scene CH-004 event structure remains locked.
+
+Current authority:
+- `planning/RED-JACKAL-SOUL-DRIFT-MASTER-RETCON.md`
+- `planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md`
+- `manuscript/WRITING-RULES.md`
+
+Interpretation updates:
+- close first-person Red narration is mandatory;
+- Red Jackal remains a consciously chosen persona name, not recovered Earth identity;
+- genuine audience address invokes Fourth-Wall Pause every time;
+- no raw-power progression occurs in CH-004;
+- no Play Logic attempt, manifestation, or regeneration analysis occurs;
+- Hesk must be useful, calm, institutionally legitimate, and structurally exploitative without villain-signposting;
+- Red's acceptance must remain informed, selfishly practical, and voluntary;
+- Brynn and Jessa retain independent competence and do not become props for Red's aura;
+- CH-004 plants no new F-ID and must not begin CH-005 work.
+
 # 1. Chapter Purpose Lock
 
 CH-004 must move Red Jackal from:

@@ -8112,3 +8112,92 @@ CH-024 owns:
 - Hesk losing operational control.
 
 CH-025 remains aftermath/institutional resolution.
+
+# CH-024 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-024 — No One Gets Chosen  
+**Status:** SCENE ARCHITECTURE SUPPORT — GATE 8 PASS / MANUSCRIPT NOT YET CANON
+
+## Opening State
+
+CH-024 begins immediately after CH-023 canon:
+
+- Broken North physically holds;
+- main migration body is substantially committed but not finally resolved;
+- a trailing branch is pulling toward the outer-homestead route;
+- Hesk's old-service lure remains active;
+- Hesk still possesses one Roadmaster field-service key;
+- Red is severely exhausted/injured after three CH-022 manifestations and one CH-023 PL-4 use;
+- Tavian/Brynn remain in live crisis command;
+- Maelis/Jessa retain already-established evidence/service knowledge.
+
+## Final Site Boundary
+
+CH-024 may physically reveal Hesk at the already-established vulnerable older-service housing.
+
+No new lure technology, reserve, key or remote-control mechanism is authorized.
+
+## Character Knowledge / Function
+
+Maelis may:
+- preserve records/site;
+- establish evidentiary continuity;
+- support later accountability.
+
+Jessa may:
+- identify service codes/access state;
+- identify ordinary neutralization steps.
+
+Tavian may:
+- judge branch recoverability;
+- time neutralization;
+- identify the fork point for Red's guide;
+- confirm final migration commitment.
+
+Brynn may:
+- seize the Roadmaster key;
+- remove Hesk from active control;
+- place Hesk under emergency detention/guard.
+
+Red may:
+- block/intercept Hesk physically;
+- reject imposed sacrifice;
+- choose route protection over personal confrontation;
+- use exactly one final Stage I utility manifestation.
+
+## Play Logic Boundary
+
+Exactly **one** CH-024 manifestation is authorized:
+
+- low temporary fork guide/deflector;
+- lead-edge correction only;
+- no full-herd control;
+- no Stage II;
+- no permanent barrier.
+
+## Locked Resolution
+
+CH-024 may establish:
+
+1. migration commits to the prepared Broken North corridor;
+2. outer homesteads are not deliberately sacrificed;
+3. Hesk loses operational control and is under guard/removed from command.
+
+CH-024 does not:
+- run the full aftermath hearing;
+- decide Hesk's final legal sentence;
+- restructure Road Guild governance;
+- grant formal outer-community representation.
+
+Those remain CH-025.
+
+## Mystery State
+
+No new F-ID.
+
+F-001 through F-004 remain planted where already established.
+
+M-007 does not advance.
+
+No protected cosmology.
+

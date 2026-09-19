@@ -1,7 +1,7 @@
 # Chapter 27 — Salt in the Air
 
-**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
-**Word Count:** 2108  
+**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Word Count:** 2101  
 **Volume:** 2 — Merrowgate Arc
 
 Freedom, he discovered, had expenses.
@@ -34,7 +34,7 @@ The clerk looked at him, then at his pack. “Passenger?”
 
 “South transfer?”
 
-“If that gets me closer to the Brasswater trade routes.”
+“If that gets him closer to the Brasswater trade routes.”
 
 “It does.”
 
@@ -54,7 +54,7 @@ Of course it did not. “How much for the bag?”
 
 He told him again. He looked at his bag. The bag offered no financial assistance.
 
-“Does it receive a better seat than I do?”
+“Does it receive a better seat than he do?”
 
 “No.”
 

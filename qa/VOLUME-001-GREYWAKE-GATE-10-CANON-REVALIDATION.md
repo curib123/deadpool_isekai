@@ -21,7 +21,13 @@ It is no longer the current final authority on power consistency because:
 
 Any conclusion below that depends on Stage I progression, exhaustion-limited raw output, or Red needing to become stronger is historical and must be revalidated.
 
-A new Gate 10 pass is required after affected manuscripts complete Gate 9 retcon revision.
+A new Gate 10 pass has now been completed and is authoritative:
+
+`qa/VOLUME-001-GREYWAKE-OVERPOWERED-RETCON-GATE-10-REVALIDATION.md`
+
+**Current result: PASS — 26/26 chapters CANON / 75,157 words.**
+
+The remainder of this file is preserved as the historical pre-retcon audit.
 
 # 1. Revalidation Scope
 

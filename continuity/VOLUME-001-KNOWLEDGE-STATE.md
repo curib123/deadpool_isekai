@@ -7256,3 +7256,193 @@ CH-022 owns:
 
 Do not draft CH-022 manuscript before CH-022 Scene Architecture and Gate 8 Pre-Manuscript Scene QA pass.
 
+# CH-022 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-022 — First Wave  
+**Status:** SCENE ARCHITECTURE SUPPORT — GATE 8 PENDING
+
+## Opening State
+
+CH-022 begins immediately from CH-021 canon.
+
+Core actors may enter knowing:
+
+- the first mass of fleeing prey is visible beyond Greywake's lantern line;
+- most exposed civilians have already been moved behind fallback lines;
+- one final civilian cart may still be clearing the inner route;
+- approved lure teams are staged at known sites;
+- the coalition has not yet proven the full lure sequence under live wave pressure;
+- Broken North is barely viable;
+- repair crews/materials are staged;
+- Hesk remains unaccounted for;
+- Hesk retains one Roadmaster field-service key;
+- one older-service lure site remains vulnerable and lacks a secure all-clear;
+- Red used zero Play Logic in CH-021;
+- Red remains tired and physically strained rather than fresh.
+
+## First-Wave Boundary
+
+CH-022 may establish:
+
+- sustained prey/browsing-animal movement;
+- smaller predators following/exploiting prey movement;
+- first live activation of the approved coalition lure sequence;
+- light guide/barricade failure;
+- route spill and compression;
+- the first operational symptom that one route is pulling wrong;
+- Hesk's final field-lure interference becoming active;
+- the large territorial predator physically emerging at the ending.
+
+CH-022 must not resolve:
+
+- the major territorial-predator fight;
+- the main failing-choke-point hold;
+- full migration commitment;
+- Hesk's direct final confrontation;
+- Hesk's final operational defeat.
+
+## Tavian Rook Boundary
+
+Tavian may:
+
+- wait for observed herd commitment before signaling activation;
+- judge whether the lure sequence is working;
+- distinguish normal scatter from repeated wrong-direction pull;
+- revise route signals;
+- direct Red's temporary guide placement;
+- identify the onset of structural/ecological overload.
+
+Tavian may not:
+
+- know Hesk's exact location;
+- control the herd perfectly;
+- guarantee Broken North will hold.
+
+## Captain Brynn Alder Boundary
+
+Brynn may:
+
+- direct militia/work-crew withdrawals and replacements;
+- prioritize people over holding every barricade;
+- keep defenders out of the herd's main line;
+- reassign manpower between spill points;
+- protect the last civilian movement;
+- abandon failed minor positions rather than sacrifice defenders.
+
+She does not abandon live defense to hunt Hesk.
+
+## Red Jackal Boundary
+
+Red must begin by:
+
+- seeing the first wave;
+- resisting the impulse to manifest immediately;
+- waiting for Tavian's activation/tactical call.
+
+CH-022 allows a maximum of **three** actual Stage I manifestations:
+
+1. low guide/spill barrier;
+2. rescue support;
+3. low route guide/deflector.
+
+All remain:
+
+- simple;
+- temporary;
+- small-scale;
+- subordinate to the collective plan;
+- increasingly unstable as injury/exhaustion accumulate.
+
+No fourth manifestation.
+
+PL-4 remains reserved for CH-023.
+
+## Regeneration / Injury Boundary
+
+Red may take repeated injuries across live first-wave action.
+
+Regeneration may:
+- stop/close bleeding;
+- keep him moving.
+
+It does not:
+- refill stamina;
+- restore precision;
+- remove pain;
+- reset CH-019/020 exhaustion.
+
+No new M-005 mechanism clue is authorized.
+
+## Hesk Intervention Boundary
+
+CH-022 may establish that:
+
+- the wrong route pull repeats;
+- the vulnerable older-service lure is active outside the coalition's approved timing/setting;
+- the coalition team did not authorize that change;
+- Hesk is the known person still holding the Roadmaster field-service key.
+
+This is enough for the group to treat:
+
+**Hesk's final intervention as active.**
+
+CH-022 does not physically locate or confront Hesk.
+
+## Large Territorial Predator Boundary
+
+The reserved large territorial predator may physically emerge only at the CH-022 ending.
+
+It is:
+
+- local ecology;
+- displaced by compressed migration;
+- not Hesk's pet;
+- not summoned;
+- not a series-mystery clue.
+
+No new CREATURE-ID is required in CH-022.
+
+Its fight belongs to CH-023.
+
+## F-ID / Mystery State
+
+No new F-ID is authorized.
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+M-007 does not advance.
+
+No Fate/Great Design/Eidrathi/System-origin/Play-Logic-origin material.
+
+## CH-023 Firewall
+
+CH-022 must stop before:
+
+- sustained combat with the large territorial predator;
+- PL-4 climax utility;
+- main choke-point hold;
+- full corridor stabilization;
+- physical-climax resolution.
+
+## CH-024 Firewall
+
+CH-022 must not:
+
+- physically confront Hesk;
+- reach/resolve the final lure-site fork;
+- complete the migration route choice;
+- resolve Hesk's final policy/authority;
+- add the optional second M-007 tonal echo.
+
+## Locked Architecture Ending
+
+An approved CH-022 manuscript must end with both:
+
+1. **the migration corridor beginning to fail under compressed first-wave pressure;**
+2. **the largest territorial predator emerging into the failing line.**
+
+No major fight follows in CH-022.
+

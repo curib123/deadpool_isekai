@@ -8,9 +8,9 @@ Civilization announced itself with smoke, wagon wheels, and a wall tall enough t
 
 People were everywhere. Drivers checked harnesses, guards inspected loads, merchants argued over crates, and somewhere beyond the wall somebody was hammering metal with the steady confidence of a person who had not been attacked by an unidentified forest animal before breakfast.
 
-People. Walls. Probably food. Also rules. You rarely get one without the other. I stopped at the edge of the road and took a moment to compose myself. My sleeve was torn, dried blood marked my forearm, and mud had formed what I can only describe as a political alliance with the rest of my clothes.
+People. Walls. Probably food. Also rules. That part was less exciting. I stopped at the edge of the road and took a moment to compose myself. My sleeve was torn, dried blood marked my forearm, and mud had formed what I can only describe as a political alliance with the rest of my clothes.
 
-First impressions still mattered. I straightened my back, rolled one shoulder, and walked toward the gate as if I knew where I was going. You know how this works. Looking uncertain only invites more questions.
+First impressions still mattered. I straightened my back, rolled one shoulder, and walked toward the gate as if I knew where I was going. Looking uncertain usually invites more questions.
 
 Looking composed does not prevent the questions either, but it is slightly better for morale. Two guards noticed me before I reached the first wagon. One was broad enough to make the spear in his hand look decorative. The other was younger, narrower, and already staring at the blood on my sleeve.
 
@@ -170,7 +170,7 @@ She looked back down. “Claimed name?”
 
 “Race: undefined. Class: undefined. Level: undefined. HP and MP are also undefined. Progression unavailable.”
 
-The guard stopped pretending not to listen. I stared at the slate even though the symbols meant nothing to me. It is uncomfortable watching someone read information about you when the writing itself means nothing to you.
+The guard stopped pretending not to listen. I stared at the slate even though the symbols meant nothing to me. Watching someone read information about me while I could not understand the writing was uncomfortable.
 
 It got worse. “System Recognition failed,” she said. “Classification: anomaly. World Registry: no record.”
 
@@ -190,7 +190,7 @@ No record.
 
 I was standing in the room. I was breathing. My arm hurt. I had walked here under my own power.
 
-And according to whatever structure these people trusted to define such things, I apparently lacked the courtesy to exist correctly. If you are wondering whether this felt liberating, no. Mostly it felt inconvenient in ways I did not understand yet. The clerk looked at me. “Do you know why this is happening?”
+And according to whatever structure these people trusted to define such things, I apparently lacked the courtesy to exist correctly. It did not feel liberating. Mostly it felt inconvenient in ways I did not understand yet. The clerk looked at me. “Do you know why this is happening?”
 
 “No.” That answer needed no performance. She studied me for a moment, then pulled a paper form closer and wrote by hand. I could not read the script, but she said the entry aloud.
 
@@ -242,13 +242,13 @@ Brynn looked at me. “You understand me?” I glanced at the brass token.
 
 “I'd love to know.”
 
-“You need a healer?” My forearm gave a small pulse of soreness as if voting yes. I ignored it.
+“You need a healer?” My forearm hurt enough that the answer was probably yes. I ignored it.
 
 “I can move it. Bleeding stopped.” She studied the visible marks briefly, then returned her attention to my face. She did not ask why the injury looked better than the dried blood suggested it should.
 
 Good. One mystery at a time. Another woman stood near the far side of the room, close enough to have heard the summary. I had noticed her earlier only as someone holding papers, but she was watching the slate instead of me.
 
-Dark practical clothing. Neat posture. No visible weapon. The expression of a person whose facts had started misbehaving.
+Dark practical clothing. Neat posture. No visible weapon. She looked like someone reviewing a result she did not trust yet.
 
 Brynn noticed her. “You have a question, Orra?”
 
@@ -332,4 +332,4 @@ It had asked the world who I was. The world had answered:
 
 No record.
 
-If that sounds mysterious from a distance, it does. Standing there with the token in my hand, it mostly felt like a problem I could not file away.
+From a distance, it probably sounded mysterious. Standing there with the token in my hand, it mostly felt like a problem I could not file away.

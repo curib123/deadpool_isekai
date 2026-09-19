@@ -57,6 +57,7 @@ By the end of CH-001, Red Jackal may know only from direct experience that:
 - this is not Earth, or at minimum cannot reasonably be explained as his normal Earth environment;
 - his body recovered abnormally from a minor injury;
 - an imagined physical solution manifested briefly under immediate pressure;
+- direct audience-address moments coincide with a real local-time pause, though he does not understand the mechanism;
 - maintained road engineering and directional symbols indicate nearby civilization;
 - the maintained route leads toward an inhabited settlement whose name he does not yet know.
 

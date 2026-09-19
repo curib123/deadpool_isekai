@@ -463,7 +463,7 @@ The guard moved to the recess.
 
 “Captain Alder's order stands.”
 
-He looked at him.
+Red looked at him.
 
 “No unauthorized alteration.”
 
@@ -521,11 +521,11 @@ No version where he got to stand outside the decision and complain about everyon
 
 He hated that.
 
-The guard said, “Step away from the recess.” He looked at him.
+The guard said, “Step away from the recess.” Red looked at him.
 
 “No.”
 
-His grip tightened on the spear. Tavian moved before he did. He put one arm across his path.
+The guard's grip tightened on the spear. Tavian moved before Red could. He put one arm across Red's path.
 
 “Red.”
 
@@ -639,7 +639,7 @@ The collar moved a fraction. The technician swore.
 
 “Then tell me where not to put pressure.”
 
-He stared at him. Tavian stared at him. The technician's jaw tightened.
+The technician stared at Red. Tavian did too. The technician's jaw tightened.
 
 Then he pointed despite himself.
 

@@ -17,7 +17,7 @@ A lot of timber. There had been a moment, early on, when he had considered putti
 
 “Lift higher. You're dragging it.”
 
-That ended the performance. Practical labor remained resistant to reputation. they passed the old Guild closure just after first light.
+That ended the performance. Practical labor remained resistant to reputation. They passed the old Guild closure just after first light.
 
 The chain had been removed under Brynn's emergency authorization. The sign still hung from one post, warning everyone that the road beyond was unstable, dangerous, and closed. It was still correct.
 
@@ -101,7 +101,7 @@ Just work. The drainage cut below the old watch point had collapsed inward years
 
 Kellan had marked it first. Water before weight. It was not dramatic.
 
-That was probably why it mattered. they dug. The mud came out in heavy clumps.
+That was probably why it mattered. They dug. The mud came out in heavy clumps.
 
 He carried baskets of stone away from the ditch until his shoulder started reminding him about the road impact from two days ago. The skin along his ribs had closed. The deeper ache had not.
 
@@ -125,7 +125,7 @@ He stared at him.
 
 He pulled. The root did not care about moral structure. Three people joined him.
 
-they got it out. Water that had been trapped above the blockage began moving through the opened channel. Not much.
+They got it out. Water that had been trapped above the blockage began moving through the opened channel. Not much.
 
 Enough.
 
@@ -427,7 +427,7 @@ The second appeared farther left. Tavian shouted.
 
 Brynn repeated it. The militia gave ground instead of closing. The hounds wanted the prey.
 
-they wanted them to keep wanting the prey. One worker tripped over a pile of cut roots. Another went back for him.
+They wanted them to keep wanting the prey. One worker tripped over a pile of cut roots. Another went back for him.
 
 A third ridge-hound came in from the side.
 
@@ -609,6 +609,6 @@ He looked toward Greywake.
 
 Of course.
 
-they had built the wrong road.
+They had built the wrong road.
 
 Now they had to make the migration choose it.

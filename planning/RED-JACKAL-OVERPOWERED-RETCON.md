@@ -1,3 +1,17 @@
+> **CURRENT AUTHORITY NOTICE — 2026-09-20**
+>
+> This document remains authoritative only for the **already-overpowered / no-progression / revelation-restraint** power model.
+>
+> It is subordinate to `planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md` for:
+> - origin;
+> - memory state;
+> - POV;
+> - Fourth-Wall Pause;
+> - Red's stable no-moral-development character model;
+> - native Hero/Hero Party/Main-Villain story structure.
+>
+> If wording conflicts, the Soul-Drift retcon wins.
+
 # Red Jackal Overpowered Character / Power Retcon
 
 **Project:** This Isekai Has a Bug. Unfortunately, It's Me.  

@@ -266,7 +266,7 @@ All four outcomes are valid.
 
 Red Jackal does not search the world for punchlines.
 
-**Golden Comedy Rule:** Ask what he genuinely finds ridiculous.
+**Golden Comedy Rule:** Ask what he genuinely finds ridiculous about the situation.
 
 Sources include:
 - social customs;
@@ -278,9 +278,17 @@ Sources include:
 - absurd power outcomes;
 - physical comedy;
 - embarrassment;
-- Earth comparisons.
+- Earth comparisons;
+- failed aura farming;
+- the gap between how he wants an event remembered and what actually happened.
 
-He can go through serious stretches with little or no humor.
+Comedy must feel like Red Jackal reacting, not an author inserting jokes.
+
+He may notice something funny during danger, but serious consequences remain serious.
+
+He can go through serious stretches with few or no jokes.
+
+There is no joke quota.
 
 ## 2.11 Serious Red Jackal
 
@@ -294,18 +302,35 @@ Common triggers:
 - direct confrontation with helplessness;
 - discoveries that threaten his understanding of himself.
 
-Seriousness is not a power-up pose. It is emotional exposure.
+Seriousness is not a power-up pose.
 
-## 2.12 Storytelling Voice
+It is emotional exposure.
+
+During genuine fear, grief, horror, or irreversible consequence, reader-talk may become sparse or disappear temporarily.
+
+When the pressure changes, his familiar storytelling voice may naturally return.
+
+## 2.12 Storytelling Voice — LOCKED SERIES STANDARD
 
 Red Jackal tells the entire series himself in first person.
 
-Reader-talk exists from the beginning.
+The reader is not merely an occasional target of jokes.
+
+**Red Jackal is telling the story to us.**
+
+Reader-talk exists from Chapter 1 and remains a permanent part of the series voice.
+
+The intended feeling is:
+
+**Red Jackal and the reader are going through the story together, while Red Jackal controls how he tells us what happened.**
 
 He may:
 - defend himself to the reader;
 - accuse the reader jokingly;
 - predict what the reader thinks;
+- ask the reader to notice something;
+- tell the reader not to believe one of his obvious performances;
+- distinguish the polished version he gives us from what he privately felt;
 - skip details;
 - revise his own account;
 - exaggerate;
@@ -313,28 +338,132 @@ He may:
 - deny fear;
 - admit something late;
 - foreshadow without spoiling;
-- insist accidents were intentional.
+- insist accidents were intentional;
+- comment on genre expectations when those expectations are relevant to the moment.
+
+### Reader-Talk vs Self-Talk
+
+These are not the same thing.
+
+**Reader-talk** is performative storytelling directed toward us.
+
+Examples of function:
+- “You know the technique.”
+- “Before you ask…”
+- “Please do not believe me.”
+- explaining why his version of events sounds better;
+- inviting the reader into his reasoning.
+
+**Self-talk** is private immediate thought used for:
+- fear;
+- tactical calculation;
+- uncertainty;
+- embarrassment he has not yet dressed up for the audience;
+- quick practical decisions.
+
+A chapter should not blur every thought into reader address.
+
+The contrast between private reaction and performed narration is part of Red Jackal's character.
+
+### Reader-Companion Presence
+
+Direct reader relationship should recur naturally across a chapter rather than appearing once as a token fourth-wall line.
+
+There is **no numerical quota**.
+
+A quiet, tragic, frightening, or highly focused chapter may contain far less reader-talk.
+
+A comedic, bureaucratic, exploratory, or aura-heavy chapter may contain more.
+
+The question is not:
+
+**“How many fourth-wall lines should this chapter have?”**
+
+The question is:
+
+**“How would Red Jackal tell us this happened?”**
 
 ### Voice Texture
-He prefers concrete observations, conversational phrasing, sudden self-correction, and personality-filtered description over detached exposition.
+
+Red Jackal prefers:
+- concrete observations;
+- conversational phrasing;
+- personality-filtered description;
+- sudden self-correction;
+- controlled meta-awareness;
+- situational comedy;
+- confident claims immediately contradicted by reality;
+- occasional short impact lines;
+- normal multi-sentence paragraphs as the prose default.
+
+Avoid:
+- detached omniscient exposition;
+- constant punchlines;
+- nonstop meme/reference language;
+- explaining every joke;
+- every sentence being isolated on its own line;
+- every paragraph addressing the reader directly;
+- turning fourth-wall awareness into omniscience.
+
+### Paragraph Rhythm
+
+Normal prose paragraphs should usually contain multiple related sentences.
+
+One-line paragraphs are reserved for:
+- impact;
+- interruption;
+- sudden realization;
+- punchline;
+- danger beat;
+- emotional exposure;
+- important System result.
+
+Do not use fragmented one-line prose as the default rhythm.
 
 ### Unreliable Storytelling
-His unreliability comes from ego, embarrassment, selective memory, emotional avoidance, or deliberate presentation—not from random factual contradiction.
 
-## 2.13 Fourth-Wall Boundary
+His unreliability comes from:
+- ego;
+- embarrassment;
+- selective memory;
+- emotional avoidance;
+- deliberate presentation;
+- pretending accidents were intentional.
+
+It does **not** permit random factual contradiction or canon changes.
+
+## 2.13 Fourth-Wall Boundary — LOCKED
 
 Red Jackal directly talks to the readers from Chapter 1 as a storytelling fact.
 
-Phase 2 does **not** define whether this is:
-- pure narrative convention;
-- internal imagined audience;
-- metaphysical perception;
-- contact with something outside Veyr;
-- some combination.
+He does not require a later “learn to talk to the audience” progression.
 
-That question belongs to Mystery Foundation.
+The relationship itself does not evolve from imaginary audience → real readers.
 
-His style of speaking to the reader does not need a “relationship evolution” arc.
+His knowledge of the World System, Fate, the Great Design, and deeper metaphysics may evolve separately.
+
+Fourth-wall narration does **not** mean:
+- he automatically knows future events;
+- he knows protected writer truth;
+- he knows he is fictional;
+- consequences are unreal;
+- death and suffering are jokes;
+- readers give him power;
+- references can replace worldbuilding.
+
+To Red Jackal, Veyr is real and consequences matter.
+
+He may recognize familiar story patterns and make genre comparisons because of his Earth background, but those comparisons remain his interpretation, not proof that reality follows fiction.
+
+### Permanent Voice Reference
+
+The revised canon manuscripts:
+- `manuscript/CH001-WRONG-FOREST-WRONG-WORLD.md`
+- `manuscript/CH002-UNDEFINED.md`
+
+are the baseline early-series voice references for future manuscript work.
+
+Future chapters may become more serious, emotional, frightening, or mature, but Red Jackal must remain recognizably the same storyteller.
 
 ## 2.14 Abilities
 

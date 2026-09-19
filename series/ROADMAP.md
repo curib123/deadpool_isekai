@@ -19,9 +19,9 @@ Mystery Foundation: **PASS**
 Destination Inventory: **PASS**  
 Volume 1 Architecture: **PASS**  
 Chapter Roadmap: **PASS — 26 chapters**  
-Volume 1 Canon Revalidation: **STALE AFTER POV/STYLE RETCON — NEW GATE 10 REQUIRED AFTER CH-001→CH-026 REWRITE**  
+Volume 1 Canon Revalidation: **STALE AFTER SOUL-DRIFT RETCON — NEW GATE 10 REQUIRED AFTER CH-001→CH-026 REWRITE**  
 Publish Version QA Standard: **ACTIVE — GATE 11**  
-Volume 1 Publish Version QA: **STALE AFTER POV/STYLE RETCON — NEW GATE 11 REQUIRED**  
+Volume 1 Publish Version QA: **STALE AFTER SOUL-DRIFT RETCON — NEW GATE 11 REQUIRED**  
 Volume 1 Pacing Revision v2: **COMPLETE — MERGED WITH OVERPOWERED RETCON**  
 Red Jackal Overpowered Retcon: **ACTIVE — NO POWER PROGRESSION / UNBOUNDED PLAY LOGIC / REVELATION MODEL**  
 Volume 1 Power-Retcon Manuscript Audit: **COMPLETE — 26/26 AUDITED / 13 REVISED + GATE 9 PASS / 13 KEEP**  
@@ -29,8 +29,8 @@ Volume 2 Destination Selection: **PASS — GATE 5 / DEST-002 MERROWGATE**
 Volume 2 Architecture: **PASS — GATE 6 / MERROWGATE ARC LOCKED**  
 Volume 2 Chapter Roadmap: **PASS — GATE 7 / 24 CHAPTERS / CH-027 THROUGH CH-050 LOCKED**  
 CH-027 Scene Architecture: **PASS — GATE 8 / 5 SCENES LOCKED**  
-CH-027 Manuscript: **CANON — GATE 9 PASS / 2,108 WORDS / DEADPAN TRAVEL-OPENING VOICE LOCKED**  
-CH-028 Scene Architecture: **PAUSED — SERIES VOICE RETCON MUST FINISH THROUGH CH-027 FIRST**  
+CH-027 Manuscript: **HISTORICAL CANON EVENT SEQUENCE / PROSE STALE — SOUL-DRIFT FIRST-PERSON REWRITE REQUIRED**  
+CH-028 Scene Architecture: **PAUSED — SOUL-DRIFT MANUSCRIPT RESET MUST FINISH THROUGH CH-027 FIRST**  
 CH-001 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-002 Scene Architecture: **PASS — GATE 8**  
 CH-002 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
@@ -86,7 +86,7 @@ CH-025 Scene Architecture: **PASS — GATE 8**
 CH-025 Manuscript: **CANON — GATE 9 PASS / AFTERMATH MODE LOCKED**  
 CH-026 Scene Architecture: **PASS — GATE 8**  
 CH-026 Manuscript: **CANON — GATE 9 PASS / ARC-CLOSURE VOICE LOCKED**  
-Red Jackal Series Voice: **LOCKED — CLOSE THIRD-PERSON / CINEMATIC NATURAL ENGLISH / DIALOGUE-LED CHARACTER VOICE**  
+Red Jackal Series Voice: **LOCKED — CLOSE FIRST-PERSON / CINEMATIC MOVIE-LIKE ENGLISH / FOURTH-WALL PAUSE**  
 Red Jackal Anti-Villain Expression: **LOCKED**  
 Red Jackal Reputation / Fear Progression: **LOCKED — REVELATION MODEL / UNKNOWN → UNDERESTIMATED → HIDDEN MONSTER**  
 Red Jackal Aura-Farming Reputation Evolution: **LOCKED — MANUFACTURED → EARNED → REPUTATION PRECEDES HIM**  
@@ -95,8 +95,8 @@ Aura Evolution: **MANUFACTURED → EARNED → REPUTATION-SUPPORTED**
 
 The project publication state is now:
 
-1. **Volume 1 / Greywake Arc — CANON — OVERPOWERED RETCON GATE 10 PASS**
-2. **Volume 1 / Greywake Arc — PUBLISH-READY — RETCON-REFRESHED GATE 11 PASS / 26 OF 26**
+1. **Volume 1 / Greywake Arc — EVENT/STRUCTURE CANON PRESERVED / CURRENT PROSE STALE UNDER SOUL-DRIFT RETCON**
+2. **Previous Volume 1 Gate 10/Gate 11 — HISTORICAL / MUST BE RERUN AFTER NEW MANUSCRIPTS**
 
 The 13 changed reader-facing copies have been regenerated from current canon and individually revalidated. The aggregate refreshed release set now passes Gate 11. Volume 2 is locked as DEST-002 — Merrowgate / Merrowgate Arc through Gate 7. CH-027 through CH-050 are roadmap-locked. CH-027 has passed Gate 9 and is CANON at 2,108 words. CH-028 Detailed Scene Architecture / Gate 8 is the next authorized production step.
 
@@ -114,8 +114,8 @@ This table contains only volumes whose destination has passed the required selec
 
 | Volume | Destination ID | Arc Name | Local Conflict | Main Antagonist | Major Mystery Contribution | Status |
 |---|---|---|---|---|---|---|
-| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | GREYWAKE ARC COMPLETE — CH-001 THROUGH CH-026 CANON |
-| 2 | DEST-002 | Merrowgate Arc | Engineered port instability used to force private harbor-security consolidation | Cassian Venn | M-002 cross-jurisdictional reinforcement; bounded M-011; F-010 PLANNED FOR CH-038 — NOT YET PLANTED | CH-027 CANON — CH-028 GATE 8 NEXT |
+| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | STRUCTURE/EVENT SEQUENCE LOCKED — CH-001→026 PROSE REWRITE ACTIVE |
+| 2 | DEST-002 | Merrowgate Arc | Engineered port instability used to force private harbor-security consolidation | Cassian Venn | M-002 cross-jurisdictional reinforcement; bounded M-011; F-010 PLANNED FOR CH-038 — NOT YET PLANTED | CH-027 PROSE STALE — CH-028 PAUSED |
 
 ## Lock
 

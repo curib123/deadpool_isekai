@@ -361,18 +361,21 @@ Battle spectacle should come from:
 
 The climax should feel like Greywake is surviving a disaster, not waiting for Red to cast the winning move.
 
-# 9. Revision Order
+# 9. Combined Revision Order — RETCON OVERRIDE
 
-Only chapters requiring pacing edits enter manuscript revision.
+The later power-retcon manuscript audit supersedes the earlier pacing-only queue.
 
-Recommended order:
+The active combined order is:
 
-**CH-009 → CH-010 → CH-012 → CH-014 → CH-017 → CH-018 → CH-019 → CH-020 → CH-021 → CH-022 → CH-023 → CH-024**
+**CH-005 → CH-006 → CH-007 → CH-009 → CH-011 → CH-015 → CH-016 → CH-019 → CH-020 → CH-021 → CH-022 → CH-023 → CH-024**
+
+Pacing revisions are merged into the same pass wherever applicable.
 
 After each edited manuscript:
 1. run Gate 9 revalidation;
 2. confirm continuity with unchanged neighboring chapters;
-3. update canon only after PASS.
+3. update canon only after PASS;
+4. regenerate the affected publication copy and rerun its Gate 11 check.
 
 After all affected chapters pass:
 1. rerun Volume 1 Gate 10;
@@ -417,9 +420,9 @@ The revision focus is:
 
 **tighten CH-009–CH-021 where needed, amplify CH-022–CH-024, preserve CH-025–CH-026 closure.**
 
-First manuscript revision target:
+First combined manuscript revision target:
 
-**CH-009 — Wrong Tracks → Pacing Revision Pass → Gate 9 Revalidation.**
+**CH-005 — A Better Hammer → Overpowered Retcon Prose Revision → Gate 9 Revalidation.**
 
 
 # 13. Integration With Overpowered Retcon Manuscript Audit

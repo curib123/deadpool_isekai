@@ -1,4 +1,4 @@
-Chapter 15 — One Stake Too Many
+# Chapter 15 — One Stake Too Many
 
 By the time we reached the upper approach, nobody was pretending this was just a mapping trip. The road narrowed above the timber-road junction and climbed between old retaining stones dark with moss. Beyond them, the land opened toward the outer farms in long uneven strips separated by low fences, drainage cuts, and tree lines.
 
@@ -598,11 +598,21 @@ Tavian stepped toward me.
 
 “Red. Stop.”
 
-I looked at the collar. I needed leverage. Not a sword.
+I looked at the collar.
 
-Not a giant hammer. Not something dramatic. A hook.
+I could have torn the whole recess out of the wall.
 
-A wedge. A pry bar with teeth.
+That was exactly the problem.
+
+I did not know what the ceramic chamber did under impact, what the reservoir did if crushed, or what the rest of the network did if I removed more than the technician expected.
+
+Overwhelming force was easy.
+
+Precision required listening to the person I was currently ignoring.
+
+I needed leverage. Not a sword. Not a giant hammer. Not something dramatic.
+
+A hook. A wedge. A pry bar with teeth.
 
 Simple.
 
@@ -612,7 +622,7 @@ It was ugly.
 
 Good.
 
-I jammed the hooked end beneath the collar. The tool shuddered immediately. Unstable.
+I jammed the hooked end beneath the collar. The tool flexed slightly against the fitted metal because I had imagined leverage, not an indestructible crowbar.
 
 I leaned down. Pain tore across my ribs. The healing tissue did not appreciate negotiation.
 
@@ -632,11 +642,13 @@ Then he pointed despite himself.
 
 “Not the ceramic chamber. Lower. Under the outer ring.”
 
-I shifted the hook where he indicated. The manifestation softened at the edge.
+I shifted the hook where he indicated and let the edge reshape around the new angle.
 
-I forced the image clear again. Hook. Wedge.
+Hook. Wedge. Leverage.
 
-Leverage. Nothing more. The tool hardened just enough.
+Nothing more.
+
+The tool settled exactly where the technician had pointed.
 
 I pulled. The fastening band snapped. A sharp metallic crack echoed through the stone cut.
 
@@ -650,9 +662,9 @@ The guard started forward. Kellan blocked him with both hands.
 
 Tavian did not help either of us. He watched the stake, the slope, and every person around the recess. I drove the wedge under the collar.
 
-My leg shook. The bite wound had started closing, but the muscles around it felt weak. My side burned.
+My leg shook. The bite wound had started closing, but the muscles around it still hurt. My side burned.
 
-The tool bent. I pulled anyway. The collar lifted.
+I changed the hook angle with the pull instead of fighting the mount. The collar lifted.
 
 A thin line of pale mana-light flickered across the rear plate. Not Play Logic. The lure.
 
@@ -662,11 +674,15 @@ The technician's face went white.
 
 I heard him. I kept going. The stake came out of the socket with a violent jerk.
 
-I fell backward. The tool in my hand warped, lost the hooked end, and collapsed into soft dark material before dissolving completely.
+I fell backward.
 
-One manifestation.
+The tool had finished its job.
 
-Gone.
+I let the hooked end fold in on itself and dismissed the whole thing before it could become one more object for Maelis to document.
+
+One tool.
+
+Enough.
 
 The stake hit the stones beside me. The ceramic chamber cracked against the edge but did not shatter. The etched channels on the rear plate faded.
 

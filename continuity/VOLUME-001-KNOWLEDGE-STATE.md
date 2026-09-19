@@ -227,7 +227,8 @@ After CH-001 — Wrong Forest, Wrong World, Red Jackal canonically knows only th
 - one unfamiliar frontier predator attacked him;
 - he suffered a real forearm injury;
 - one deliberately simple/reflexive imagined barrier-like object appeared under immediate pressure;
-- any apparent inability to repeat or enlarge it is not writer-truth evidence of a power ceiling;
+- genuine direct audience-address coincides with a local time-stop effect, though he does not understand why;
+- any apparent inability to repeat or enlarge the manifestation is not writer-truth evidence of a power ceiling;
 - the injury began healing far faster than normal while remaining painful; ordinary pain is not a regeneration power ceiling;
 - old and maintained roads indicate nearby civilization;
 - he cannot read the local writing;
@@ -251,9 +252,10 @@ He does **not** yet know:
 ## Red Jackal — Opening CH-002
 
 Red Jackal begins CH-002 knowing only the CH-001 canon checkpoint:
-- Earth collision memory;
+- mysterious Earth explosion/flash residue with no coherent Earth biography;
 - unfamiliar non-Earth environment;
 - one crude, unreproduced manifestation;
+- observed Fourth-Wall Pause behavior without metaphysical explanation;
 - abnormal painful healing;
 - maintained road indicates nearby civilization;
 - local writing is unreadable;
@@ -352,7 +354,7 @@ After CH-002 — Undefined, Red Jackal canonically knows:
 - the World System is a normal civic identity structure used by locals;
 - the Gate Registry Seal returns **System Recognition: FAILED** and **World Registry: NO RECORD** for him;
 - the independent Certified Identity Slate also fails to construct normal identity data;
-- his self-declared alias **Red Jackal** can be recorded manually but does not become a valid System Name;
+- **Red Jackal** is a name/persona he consciously chooses because his old personal name is inaccessible; the alias can be recorded manually but does not become a valid System Name;
 - his locked identity state includes UNDEFINED / UNAVAILABLE / NO RECORD results;
 - two independent legitimate interfaces fail consistently;
 - Greywake admits him only provisionally with an **Unverified Entrant Token**;

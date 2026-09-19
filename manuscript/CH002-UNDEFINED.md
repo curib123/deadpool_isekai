@@ -88,11 +88,11 @@ Whatever this thing was, these people used it the way normal people used identif
 
 The attendant frowned and tapped the indicator. “Stay there.”
 
-“I had something more dramatic planned, but sure.” He reset the seal and tried again. Same pale light. Same incomplete pattern.
+“All right.” He reset the seal and tried again. Same pale light. Same incomplete pattern.
 
 Same sudden stop. A mark flashed on the side indicator. The attendant's expression changed. The younger guard leaned closer.
 
-The broad one shifted his grip on his spear. Now we were getting somewhere. I let the silence sit for one extra second. You don't rush atmosphere.
+The broad one shifted his grip on his spear. I waited for someone to explain what that meant.
 
 “Something unusual?” I asked. The attendant gave me a flat look that damaged the performance immediately.
 
@@ -102,7 +102,7 @@ System.
 
 Finally.
 
-I had been waiting for this since I woke up in the forest. Every respectable other-world disaster was supposed to come with some kind of System eventually. Mine had apparently arrived late and immediately rejected my application.
+I had been waiting for something like this since I woke up in the forest. If this world had a System, I had finally found it. It just did not seem to know what to do with me.
 
 The attendant checked the indicator again. “World Registry: No Record.” The broad guard's shoulders tightened. I folded my arms, then regretted it when the healing cuts pulled.
 
@@ -120,7 +120,7 @@ At least the guards were taking me seriously now. That was something. “What do
 
 “We verify separately.” The attendant motioned me off the seal. “Could be the ward. Could be damaged relation data, interference, unusual registration, fraud. We don't decide from one failed gate check.”
 
-Reasonable people. Annoying. I had been prepared for superstition. I was much less prepared for troubleshooting.
+That was reasonable. It also meant I could not dismiss the result as a broken gate and move on.
 
 They moved me into a narrow intake room built beside the gate. A single desk divided the space, blank wooden tags hung from hooks along one wall, and more unreadable writing covered the other.
 
@@ -138,9 +138,7 @@ The panel clouded. Symbols filled the surface. I could not read a single one. Th
 
 Her eyes moved across the display once, then returned to the first line. She read it again more slowly. “What?” I asked.
 
-She did not answer immediately. The guard behind me shifted his weight. Excellent atmosphere. Now, if a mysterious artifact fails to identify you and everyone in the room goes silent, there are two possible strategies.
-
-Panic. Or commit to the entrance. You know which one I picked. I straightened slightly.
+She did not answer immediately. The guard behind me shifted his weight. Nobody said anything for a few seconds. I could either panic or continue pretending this was manageable. I straightened slightly.
 
 “I assume that is not normal.” The clerk looked up.
 
@@ -178,7 +176,7 @@ It got worse. “System Recognition failed,” she said. “Classification: anom
 
 She hesitated before the last line. “Soul Registry: no record.” The room became very quiet. For once, I did not help.
 
-A joke arrived. Several, actually. I let them pass. The first device had failed.
+I had a few comments ready. I did not use them. The first device had failed.
 
 Fine. Machines fail. Magic circles fail. People hit things and try again.
 
@@ -286,15 +284,11 @@ Brynn looked between us. “This is still my gate.” Maelis dipped her head.
 
 “You've cooperated,” she continued. “You haven't threatened anyone. You came in on foot, you're unarmed, and I don't have grounds to put you in a cell because a registry tool failed.” The younger guard relaxed slightly.
 
-Brynn continued before I could enjoy that victory. “I also don't have grounds to treat you like a verified traveler.” There it was. Freedom from classification sounded very impressive when you said it slowly.
-
-Freedom from the protections attached to classification sounded less impressive. If you are taking notes, this is what we call an inconvenient second half of the sentence. “So what's the compromise?” Brynn looked at the clerk.
+Brynn continued before I could make too much of that. “I also don't have grounds to treat you like a verified traveler.” Being outside the classification system sounded useful until someone explained what the classification system actually did. Apparently protections and restrictions came together. “So what's the compromise?” Brynn looked at the clerk.
 
 “Unverified entrant.” The clerk took one of the blank wooden tags hanging beside the desk. She stamped it with a simple gate emblem, added a manual mark, threaded a dark cord through the top, and slid it toward me.
 
-“Temporary,” Brynn said. “Keep it with you.” I picked it up. It did not glow.
-
-No title appeared. No voice announced an achievement. Just wood, cord, a stamp, and apparently my entire legal existence. “Temporary, then.”
+“Temporary,” Brynn said. “Keep it with you.” I picked it up. It was just wood, cord, and a stamp. For the moment, that was enough to represent me. “Temporary, then.”
 
 “It should be.” Brynn explained the restrictions without ceremony. If militia or gate staff challenged me, I had to show the token. I could enter the settlement, buy ordinary goods, rent a room if somebody was willing to take my money—which introduced the exciting new problem that I had no money—and move through unrestricted public areas.
 
@@ -320,17 +314,11 @@ I could not accept normal registered guild contracts. I could not use identity-b
 
 “Mysterious exemption from local law?”
 
-“No.” I sighed.
+“No.” I looked at the token again. “So I keep this and try not to become a problem.”
 
-“You people are very committed to ruining the branding.” The clerk laughed quietly.
+“That would help,” Brynn said. The clerk almost smiled. Some of the tension left the room. The clerk gathered the failed forms into a separate stack. One copy went into a gate file. Another, she explained, would pass through normal guild administration because my restrictions prevented ordinary contract processing.
 
-Victory.
-
-Tiny victory, but we count those. Brynn did not laugh, though some of the tension left her shoulders. The clerk gathered the failed forms into a separate stack. One copy went into a gate file. Another, she explained, would pass through normal guild administration because my restrictions prevented ordinary contract processing.
-
-I did not know who would read it. At the time, I did not care. I had larger problems. Food.
-
-Money. A roof. And the small issue of reality apparently returning an error whenever somebody asked who I was. The gate opened to the inner lane.
+I did not know who would read it. At the time, I did not care. I had more immediate problems: food, money, a roof, and some explanation for why every official tool seemed unable to decide what I was. The gate opened to the inner lane.
 
 I stepped through. Greywake was not grand. That was the first thing I noticed. It was alive.
 
@@ -344,4 +332,4 @@ It had asked the world who I was. The world had answered:
 
 No record.
 
-And yes, I know what you're thinking. Very mysterious. Much less fun when it is your problem.
+If that sounds mysterious from a distance, it does. Standing there with the token in my hand, it mostly felt like a problem I could not file away.

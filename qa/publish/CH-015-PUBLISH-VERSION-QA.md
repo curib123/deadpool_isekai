@@ -1,43 +1,29 @@
 # CH-015 Publish Version QA
 
 **Canon Source:** `manuscript/CH015-ONE-STAKE-TOO-MANY.md`  
-**Canon Source SHA:** `cdd09d326bf8a89bba1fcec5ad5acb80439e3891`  
+**Canon Source SHA:** `d2fd502d4fdf0eea641e737cf7f5dc1875c35708`  
 **Publication Copy:** `published/volume-001/CH015-ONE-STAKE-TOO-MANY.md`  
 **Target Platform:** WebNovel-compatible reader-facing copy  
 **Review Date:** 2026-09-19  
-**Status:** PUBLISH-READY — GATE 11 PASS
+**Status:** PUBLISH-READY — GATE 11 PASS / OVERPOWERED RETCON REFRESH
 
 # Source Integrity
-- Canon / Gate 9 prerequisite: **PASS**
-- Latest fetched canon source used: **PASS**
-- Title/opening/final paragraph/order: **PASS**
-- Canon body paragraphs: **348**
-- Missing/duplicated/reordered prose: **NONE**
 
-# Semantic Equivalence
-Reader-facing body is byte-equivalent to canon after repository-only metadata removal.
+- source manuscript is CANON — OVERPOWERED RETCON GATE 9 PASS;
+- publication copy regenerated from latest canon source;
+- only production metadata removed;
+- title preserved: **Chapter 15 — One Stake Too Many**;
+- final nonblank line preserved: **The calls changed direction.**;
+- no prose block omitted, duplicated, or reordered.
 
-No story, dialogue, narration, humor, clue, mystery state, injury, power, knowledge, continuity, ending, or final-line change.
+# Canon Equivalence
 
-**Semantic Diff:** PASS — PRESENTATION ONLY
+**PASS.** Events, dialogue, characterization, injuries, power behavior, mystery state, and ending are canon-equivalent.
 
-# Platform QA
-- internal production metadata: **REMOVED**
-- code fences / raw emphasis markers: **NONE**
-- paragraph rhythm/order: **PRESERVED**
-- dialogue/self-talk/reader-talk: **PRESERVED**
-- title duplication: **NO**
-- mobile/plain-text readability: **PASS**
-- spoiler/reference expansion: **NONE**
+# Reader-Facing / Formatting
 
-# Findings
-CRITICAL: None.  
-MAJOR: None.  
-MINOR: None.
+**PASS.** Production metadata removed; paragraph rhythm and dialogue preserved; no code-fence/HTML artifacts; WebNovel-compatible plain-text flow.
 
 # Decision
-# PASS
 
-**CH-015 is PUBLISH-READY — GATE 11 PASS.**
-
-Canon manuscript remains authoritative.
+**PUBLISH-READY — GATE 11 PASS.**

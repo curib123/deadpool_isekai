@@ -191,7 +191,7 @@ Hesk answered without hesitation.
 
 “Because you're available.”
 
-He looked at him.
+Red looked at Hesk.
 
 “That is less flattering than I expected.”
 
@@ -201,11 +201,11 @@ He looked at him.
 
 “Then we're making progress.”
 
-That was probably the first thing he had said that he liked. He pushed the form toward Jessa.
+That was probably the first thing Hesk had said that Red liked. Hesk pushed the form toward Jessa.
 
 “Explain the terms.”
 
-Then he looked at him.
+Then Hesk looked at Red.
 
 “If you decide the risk isn't worth it, walk away. I can find someone else.”
 

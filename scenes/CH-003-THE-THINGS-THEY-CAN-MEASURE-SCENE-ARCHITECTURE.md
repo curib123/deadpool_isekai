@@ -111,11 +111,21 @@ They do not:
 - explain Red Jackal's anomaly;
 - diagnose regeneration's cause.
 
+# 4A. Language Continuity Lock
+
+A charged **Wayfarer Tongue Token** remains active in the Ledger audit room for the entire CH-003 follow-up.
+
+Red Jackal does not gain permanent spoken-language comprehension.
+
+He still cannot read Veyran writing or written System output.
+
+Maelis, Jessa, and the Greywake clerk communicate with him through the token whenever spoken translation is required.
+
 # 5. Scene Architecture
 
 ## SC-003-01 — Terms of Measurement
 
-**Approximate Time:** Next intake cycle after CH-002; same day or next routine administrative window, depending Greywake's local scheduling.  
+**Approximate Time:** Same day as CH-002, early afternoon, after Greywake's midday intake turnover.  
 **Location:** Temporary Ledger audit room inside a Greywake records office adjacent to the guild/administrative district.  
 **Characters Present:** Red Jackal, Maelis Orra, Greywake records clerk.
 

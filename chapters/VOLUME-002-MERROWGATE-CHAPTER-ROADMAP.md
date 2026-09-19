@@ -9,7 +9,7 @@
 **Final Chapter Count:** 24  
 **Series Chapter Range:** CH-027 through CH-050  
 **POV:** Red Jackal first person throughout  
-**Power Ceiling:** Stage I — Improvised Manifestation throughout; Stage II does not unlock  
+**Power Model:** Red is already overwhelmingly powerful; no Stage progression exists. Chapter uses track voluntary display/reveal, not maximum capability  
 **Scope:** Chapter architecture only. No detailed scene lists, final dialogue, or manuscript prose.
 
 # 1. Roadmap Principles
@@ -25,8 +25,8 @@ It preserves:
 - Red Jackal's post-Greywake continuity state;
 - Red's inability to read Veyran normally;
 - fragmented Greywake reputation arriving ahead of him;
-- Stage I Play Logic only;
-- painful, exhausting regeneration;
+- unbounded Play Logic already present from the start;
+- extreme self-restoration; pain may occur but does not define a raw-power ceiling;
 - Red's knowingly suspicious off-book job as the causal mistake;
 - midpoint proof that instability is being converted into profit and authority;
 - major reversal when Red's real off-book involvement becomes public after a deadly sabotage;
@@ -79,15 +79,15 @@ No other new F-ID is authorized in Volume 2.
 
 F-010 becomes **PLANTED** only after approved CH-038 manuscript prose contains the clue and Gate 9 verifies it.
 
-# 5. Play Logic Usage Plan
+# 5. Play Logic Display / Restraint Plan
 
-The chapter roadmap locks the following ceiling and intended use pattern:
+The chapter roadmap records the following intended **public display/restraint pattern**. These are not maximum capability limits:
 
 - CH-027: none;
 - CH-028: none;
 - CH-029: none;
 - CH-030: one simple work utility permitted;
-- CH-031: up to two simple Stage I work/rescue manifestations;
+- CH-031: up to two simple work/rescue manifestations;
 - CH-032: none required;
 - CH-033: one emergency brace/obstruction utility permitted;
 - CH-034: none required;
@@ -101,14 +101,14 @@ The chapter roadmap locks the following ceiling and intended use pattern:
 - CH-042: one bounded defensive/rescue manifestation permitted after the failure; it cannot undo casualties;
 - CH-043: none;
 - CH-044: none required;
-- CH-045: one controlled Stage I engineering test permitted;
+- CH-045: one controlled engineering test permitted;
 - CH-046: **zero manifestations**; Red conserves focus and stamina before the harbor crisis;
-- CH-047: **exactly two** separate Stage I support manifestations;
-- CH-048: **exactly three** separate Stage I support manifestations;
+- CH-047: **exactly two** separate support manifestations;
+- CH-048: **exactly three** separate support manifestations;
 - CH-049: none;
 - CH-050: none.
 
-No chapter may present simultaneous complex environmental control, permanent construction, or Stage II reliability.
+These chapter notes do not forbid larger power in principle. Any larger display must be a deliberate reveal that preserves the chapter's information, consequence, and political objectives.
 
 # 6. Chapter Roadmap
 
@@ -126,7 +126,7 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Supporting Development:** No major local cast required yet.  
 **Antagonist Pressure:** Cassian's scheme exists independently; Red has not entered it.  
 **Action Progression:** Travel hazard only; no major combat.  
-**Stage I Play Logic:** None.  
+**Play Logic:** None.  
 **Regeneration Consequence:** Residual stiffness/fatigue from Greywake may still be noticed but does not dominate the chapter.  
 **Aura-Farming Opportunity:** He tries to arrive at the Brasswater coast looking like a mysterious traveler; exhausted porters do not care.  
 **Comedy Opportunity:** Large-scale trade bureaucracy begins before he has even reached the city proper.  
@@ -151,7 +151,7 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Supporting Development:** Iria is established as cautious, procedural, and unwilling to treat rumors as proof. Dalen notices the name.  
 **Antagonist Pressure:** None direct. Venn-linked commercial systems exist in the background but do not control intake.  
 **Action Progression:** Administrative/social pressure.  
-**Stage I Play Logic:** None.  
+**Play Logic:** None.  
 **Regeneration Consequence:** None.  
 **Aura-Farming Opportunity:** Red tries to make the repeated UNDEFINED result sound intentional; Iria treats it as a liability problem.  
 **Comedy Opportunity:** A port that welcomes almost anyone still wants to know who signs when something breaks.  
@@ -176,7 +176,7 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Supporting Development:** Dalen establishes risk-pricing/logistics thinking. Nessa recognizes the opportunity represented by a worker who cannot fit standard records.  
 **Antagonist Pressure:** A Venn-linked recruiter notices Red's irregular status but does not approach directly.  
 **Action Progression:** Social negotiation; no combat.  
-**Stage I Play Logic:** None.  
+**Play Logic:** None.  
 **Regeneration Consequence:** None.  
 **Aura-Farming Opportunity:** One Greywake story genuinely impresses a small audience; another listener openly calls it nonsense.  
 **Comedy Opportunity:** Red discovers the most popular rumor is not the version he would have chosen.  
@@ -201,7 +201,7 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Supporting Development:** Nessa's skill and corner-cutting; Dalen's dislike of unpriced risk.  
 **Antagonist Pressure:** Venn-linked private security is visible as one of several competing service providers.  
 **Action Progression:** Work hazard and time pressure.  
-**Stage I Play Logic:** One simple temporary hook, wedge, or lifting aid permitted.  
+**Play Logic:** One simple temporary hook, wedge, or lifting aid permitted.  
 **Regeneration Consequence:** Minor strain only.  
 **Aura-Farming Opportunity:** Red tries a dramatic work solution; the crew cares only whether cargo clears on schedule.  
 **Comedy Opportunity:** Port workers evaluate impossible magic as labor productivity.  
@@ -222,16 +222,16 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Conflict:** Moving loads, wet surfaces, structural limits, and Red's instinct to solve problems visually rather than mechanically.  
 **Exploration Purpose:** Establish shipwright culture and independent yards that will later be threatened by consolidation.  
 **Character Beat:** Samir rejects one flashy idea because it would endanger workers despite looking effective.  
-**Red Jackal Development:** Learns that Stage I usefulness improves when he accepts specialist constraints rather than treating expertise as boring.  
+**Red Jackal Development:** Learns that usefulness improves when he accepts specialist constraints rather than treating expertise as boring.  
 **Supporting Development:** Samir's competence, pride, and hostility toward merchant-finance pressure.  
 **Antagonist Pressure:** The yard is already paying rising security/assurance costs linked indirectly to Venn influence.  
 **Action Progression:** Structural work → load shift → rescue/repair pressure.  
-**Stage I Play Logic:** Up to two simple work/rescue manifestations; neither may replace Samir's engineering.  
+**Play Logic:** Up to two simple work/rescue manifestations; neither may replace Samir's engineering.  
 **Regeneration Consequence:** A minor impact may heal, but fatigue from repeated manifestation remains.  
 **Aura-Farming Opportunity:** One attempt succeeds because the timing genuinely looks impressive.  
 **Comedy Opportunity:** Samir compliments the useful part while insulting the engineering assumptions.  
 **Mystery / Foreshadowing:** None.  
-**Continuity Dependencies:** Stage I only; Greywake lessons about other people's safety must remain active.  
+**Continuity Dependencies:** only; Greywake lessons about other people's safety must remain active.  
 **Knowledge Dependencies:** Samir knows rumors and observed manifestations only.  
 **Ending Beat:** Samir pays Red but warns that the yard's costs are becoming impossible to absorb.
 
@@ -251,7 +251,7 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Supporting Development:** Iria/Cassian ideological divide; Dalen's concern about monopoly protection contracts.  
 **Antagonist Pressure:** Cassian begins assessing Red as a usable irregular asset.  
 **Action Progression:** Political/social pressure; any preceding rescue is already resolved and not a set-piece.  
-**Stage I Play Logic:** None required.  
+**Play Logic:** None required.  
 **Regeneration Consequence:** None.  
 **Aura-Farming Opportunity:** Cassian deliberately gives Red room to perform because useful spectacle supports his narrative about irregular risk.  
 **Comedy Opportunity:** Red notices the rich people are much better at pretending arguments are not arguments.  
@@ -276,7 +276,7 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Supporting Development:** Iria resents private security contaminating an active investigation; Nessa sees clients being squeezed by delay costs.  
 **Antagonist Pressure:** A Venn-linked company offers emergency storage/security at favorable-looking terms.  
 **Action Progression:** Short infrastructure emergency → controlled aftermath.  
-**Stage I Play Logic:** One temporary brace or obstruction utility permitted.  
+**Play Logic:** One temporary brace or obstruction utility permitted.  
 **Regeneration Consequence:** None major.  
 **Aura-Farming Opportunity:** Little reaction because workers are protecting cargo and injured people.  
 **Comedy Opportunity:** Red's "cool save" is immediately followed by someone asking who will pay for the damaged pallet.  
@@ -301,7 +301,7 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Supporting Development:** Nessa's flaw becomes active rather than theoretical.  
 **Antagonist Pressure:** The client is a shell intermediary ultimately linked to Cassian, but neither Red nor Nessa knows that yet.  
 **Action Progression:** Suspense/negotiation, no combat.  
-**Stage I Play Logic:** None required.  
+**Play Logic:** None required.  
 **Regeneration Consequence:** None.  
 **Aura-Farming Opportunity:** Red deliberately acts unconcerned to increase his price.  
 **Comedy Opportunity:** "No questions" costs more precisely because everyone knows questions exist.  
@@ -326,7 +326,7 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Supporting Development:** Nessa reinforces her plausible-deniability habit while showing enough discomfort to prove she also knows the job is wrong.  
 **Antagonist Pressure:** Cassian's network gains the altered brake assemblies where it needs them without exposing the Venn name.  
 **Action Progression:** Stealthy logistical tension rather than combat.  
-**Stage I Play Logic:** One simple lifting/access utility permitted; it cannot bypass all physical or legal risk.  
+**Play Logic:** One simple lifting/access utility permitted; it cannot bypass all physical or legal risk.  
 **Regeneration Consequence:** None.  
 **Aura-Farming Opportunity:** Red enjoys succeeding at a route that official systems could not process him through.  
 **Comedy Opportunity:** The most illegal-feeling part of the job is moving heavy machinery very slowly.  
@@ -351,7 +351,7 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Supporting Development:** Iria begins linking incident methods; Samir's technical suspicion gains weight.  
 **Antagonist Pressure:** Venn-linked assurance/debt representatives approach the damaged operator quickly after the crisis.  
 **Action Progression:** Major rescue set-piece.  
-**Stage I Play Logic:** Up to two rescue utilities permitted.  
+**Play Logic:** Up to two rescue utilities permitted.  
 **Regeneration Consequence:** Red may take a serious but non-disabling impact; regeneration hurts and drains him during extraction.  
 **Aura-Farming Opportunity:** Suppressed by the seriousness of the injuries.  
 **Comedy Opportunity:** Minimal and only after immediate danger passes.  
@@ -376,7 +376,7 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Supporting Development:** Dalen becomes evidence-oriented rather than purely risk-averse; Nessa begins worrying about the CH-035 client.  
 **Antagonist Pressure:** Cassian publicly argues that repeated failures show the need for unified security.  
 **Action Progression:** Investigation/social pressure.  
-**Stage I Play Logic:** None.  
+**Play Logic:** None.  
 **Regeneration Consequence:** CH-036 fatigue continues; no manifestation.  
 **Aura-Farming Opportunity:** Red attempts a dramatic theory; Dalen asks for numbers.  
 **Comedy Opportunity:** Dalen repeatedly translates "suspicious" into "not evidence."  
@@ -401,7 +401,7 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Supporting Development:** Iria accepts informal help because public procedure alone has not connected the incidents.  
 **Antagonist Pressure:** Venn legal representatives request access to some of the same records, creating time pressure without proving guilt.  
 **Action Progression:** Records/investigation chapter.  
-**Stage I Play Logic:** None.  
+**Play Logic:** None.  
 **Regeneration Consequence:** No new injury; fatigue from CH-036 largely resolved.  
 **Aura-Farming Opportunity:** Minimal; Red is bored by archives until the terminology becomes strange.  
 **Comedy Opportunity:** Red is forced to ask what documents say instead of pretending he understood them.  
@@ -426,7 +426,7 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Supporting Development:** Iria moves from isolated-case procedure toward coordinated investigation; Nessa starts tracing her own clients.  
 **Antagonist Pressure:** Cassian's network continues gaining legitimate contracts while the cast lacks accusation-level evidence.  
 **Action Progression:** Investigative midpoint, no combat.  
-**Stage I Play Logic:** None.  
+**Play Logic:** None.  
 **Regeneration Consequence:** None.  
 **Aura-Farming Opportunity:** Red's instinct to call it a conspiracy is finally validated, but only after everyone else did the work to prove the pattern.  
 **Comedy Opportunity:** Brief relief only.  
@@ -453,7 +453,7 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Supporting Development:** Iria risks institutional standing by opposing premature consolidation.  
 **Antagonist Pressure:** Cassian gains visible council support.  
 **Action Progression:** Political confrontation.  
-**Stage I Play Logic:** None.  
+**Play Logic:** None.  
 **Regeneration Consequence:** None.  
 **Aura-Farming Opportunity:** Red attempts to reclaim the room's attention; Cassian calmly incorporates his performance into the argument about irregular risk.  
 **Comedy Opportunity:** The backfire is conceptual rather than slapstick.  
@@ -478,7 +478,7 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Supporting Development:** Nessa's broker ambitions are directly threatened; Iria refuses to destroy evidence simply because she now suspects Cassian.  
 **Antagonist Pressure:** Venn-aligned council members demand Red's detention and Nessa's broker suspension.  
 **Action Progression:** Investigation/legal pressure.  
-**Stage I Play Logic:** None required.  
+**Play Logic:** None required.  
 **Regeneration Consequence:** None.  
 **Aura-Farming Opportunity:** Red has no useful performance that can make the record disappear.  
 **Comedy Opportunity:** Very limited.  
@@ -503,7 +503,7 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Supporting Development:** Samir's expertise identifies deliberate modification; Nessa sees her plausible-deniability logic collapse; Iria must command rescue while preserving evidence.  
 **Antagonist Pressure:** Cassian's allies immediately frame the event as proof the port cannot tolerate irregular actors and fragmented security.  
 **Action Progression:** Major reversal rescue set-piece.  
-**Stage I Play Logic:** One bounded defensive/rescue manifestation permitted after the failure; it cannot stop the initial casualty or restore the infrastructure.  
+**Play Logic:** One bounded defensive/rescue manifestation permitted after the failure; it cannot stop the initial casualty or restore the infrastructure.  
 **Regeneration Consequence:** Red may take severe impact or laceration during rescue; healing is painful and leaves him depleted. One dockworker dies and several are injured despite the rescue.  
 **Aura-Farming Opportunity:** None.  
 **Comedy Opportunity:** None during the casualty sequence.  
@@ -530,7 +530,7 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Supporting Development:** Iria chooses not to treat escape risk as proof of guilt; Dalen commits resources despite commercial risk.  
 **Antagonist Pressure:** Cassian gains temporary emergency-charter momentum and expects Red either to flee or become a controllable suspect.  
 **Action Progression:** Character/legal pressure; no combat.  
-**Stage I Play Logic:** None.  
+**Play Logic:** None.  
 **Regeneration Consequence:** CH-042 injuries continue healing; exhaustion prevents casual manifestation.  
 **Aura-Farming Opportunity:** Red deliberately rejects a dramatic escape because it would serve Cassian's story too perfectly.  
 **Comedy Opportunity:** Very restrained.  
@@ -555,7 +555,7 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Supporting Development:** Iria accepts extra-procedural information; Nessa uses illicit contacts openly; Dalen risks commercial relationships; Samir accepts public-authority support.  
 **Antagonist Pressure:** Cassian's emergency charter is close enough to passing that delay favors him.  
 **Action Progression:** Strategic planning and small evidence retrieval setup.  
-**Stage I Play Logic:** None required.  
+**Play Logic:** None required.  
 **Regeneration Consequence:** Red still has reduced stamina from CH-042.  
 **Aura-Farming Opportunity:** He proposes at least one needlessly theatrical plan that the others reject on practical grounds.  
 **Comedy Opportunity:** The chapter can breathe again through incompatible personalities, not joke quota.  
@@ -576,16 +576,16 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Conflict:** Repairs must look ordinary; too much visible preparation warns the saboteurs.  
 **Exploration Purpose:** Deepen the physical logic of Merrowgate's harbor: loads, moorings, bridges, cranes, tide, worker movement.  
 **Character Beat:** Samir forces Red to describe what a manifestation is supposed to do in structural terms rather than "make it hold."  
-**Red Jackal Development:** Stage I refinement becomes more disciplined without becoming Stage II.  
+**Red Jackal Development:** refinement becomes more disciplined without becoming Stage II.  
 **Supporting Development:** Iria learns to rely on Samir's non-state expertise; Samir accepts operational secrecy he normally dislikes.  
 **Antagonist Pressure:** Venn security contractors increase patrol presence under emergency authority.  
 **Action Progression:** Technical suspense; possible short interference confrontation.  
-**Stage I Play Logic:** One controlled Stage I engineering test permitted. It must remain temporary, imperfect, and tiring.  
+**Play Logic:** One controlled engineering test permitted. It must remain temporary, imperfect, and tiring.  
 **Regeneration Consequence:** No new major injury.  
 **Aura-Farming Opportunity:** Red tries to name the test dramatically; Samir keeps using the practical description.  
 **Comedy Opportunity:** Technical language defeats branding.  
 **Mystery / Foreshadowing:** None.  
-**Continuity Dependencies:** Stage I ceiling; CH-042 shows altered brake methodology.  
+**Continuity Dependencies:** ceiling; CH-042 shows altered brake methodology.  
 **Knowledge Dependencies:** The team knows likely vulnerabilities, not the exact timing of the final move.  
 **Ending Beat:** Nessa reports unusual movement of Venn-contracted personnel and warehouse keys ahead of worsening weather.
 
@@ -605,7 +605,7 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Supporting Development:** Dalen owns logistics; Iria owns command; Nessa owns informal access; Samir owns physical preparation.  
 **Antagonist Pressure:** Cassian's network accelerates emergency-security deployments under a legal pretext.  
 **Action Progression:** Pre-climax tension.  
-**Stage I Play Logic:** **Zero manifestations.**  
+**Play Logic:** **Zero manifestations.**  
 **Regeneration Consequence:** Red has recovered enough for action but is not fully rested.  
 **Aura-Farming Opportunity:** He wants a dramatic pre-battle entrance but is assigned an unglamorous waiting position.  
 **Comedy Opportunity:** Light only; tension dominates.  
@@ -630,7 +630,7 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Supporting Development:** Iria establishes public command legitimacy; Dalen keeps evacuation/cargo lanes moving; Samir directs structural response.  
 **Antagonist Pressure:** Cassian's contractors push to take control of closures and evidence sites.  
 **Action Progression:** First climax chapter: stabilization and route preservation.  
-**Stage I Play Logic:** **Exactly two separate manifestations:** one temporary access/bridge utility and one bounded brace/anchor/obstruction utility. They are sequential, not a persistent complex system.  
+**Play Logic:** **Exactly two separate manifestations:** one temporary access/bridge utility and one bounded brace/anchor/obstruction utility. They are sequential, not a persistent complex system.  
 **Regeneration Consequence:** Red takes physical punishment and accumulates fatigue; healing does not restore focus.  
 **Aura-Farming Opportunity:** One genuinely effective visual moment may enhance his reputation, but it occurs because the practical solution works.  
 **Comedy Opportunity:** Minimal.  
@@ -655,7 +655,7 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Supporting Development:** Nessa risks her future charter to expose broker routes; Dalen keeps commercial evacuation functioning; Samir holds the physical plan together; Iria uses lawful authority against private seizure.  
 **Antagonist Pressure:** Cassian's political and commercial plan is exposed while still dangerous. He adapts rather than collapsing into stupidity.  
 **Action Progression:** Final climax convergence: infrastructure + evidence + authority.  
-**Stage I Play Logic:** **Exactly three separate manifestations:** one catch/deflection utility, one temporary anchor/brace, and one short-lived barrier/access utility. None is permanent; no Stage II behavior.  
+**Play Logic:** **Exactly three separate manifestations:** one catch/deflection utility, one temporary anchor/brace, and one short-lived barrier/access utility. None is permanent; no Stage II behavior.  
 **Regeneration Consequence:** Red ends the crisis hurt and severely depleted; regeneration keeps him functional but does not reset him.  
 **Aura-Farming Opportunity:** A planned dramatic action may succeed, but the chapter must make clear that the harbor survives because everyone completed their own function.  
 **Comedy Opportunity:** Very limited.  
@@ -680,7 +680,7 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Supporting Development:** Iria pushes separation/cross-checking of emergency powers; Samir gains stronger oversight access for independent yards; Nessa faces broker consequences without being used as sole scapegoat; Dalen supports decentralized safeguards.  
 **Antagonist Pressure:** Cassian loses practical control and faces legal/commercial consequences; he is not retroactively revealed as the source of every crime in Merrowgate.  
 **Action Progression:** Aftermath/legal-commercial resolution.  
-**Stage I Play Logic:** None.  
+**Play Logic:** None.  
 **Regeneration Consequence:** Red remains sore/exhausted; recovery takes time.  
 **Aura-Farming Opportunity:** His public image remains contradictory rather than cleanly heroic.  
 **Comedy Opportunity:** Small recovery of dry humor after the serious resolution.  
@@ -705,7 +705,7 @@ No chapter may present simultaneous complex environmental control, permanent con
 **Supporting Development:** Nessa's future charter remains possible but not guaranteed; Dalen returns to trade work; Samir to repairs; Iria to public authority. None automatically joins Red.  
 **Antagonist Pressure:** Cassian is no longer the active arc driver. Residual Venn interests may remain but do not prevent closure.  
 **Action Progression:** None; departure/aftermath.  
-**Stage I Play Logic:** None.  
+**Play Logic:** None.  
 **Regeneration Consequence:** Red is recovered enough for ordinary travel, not magically restored to perfect condition.  
 **Aura-Farming Opportunity:** Red may attempt a stylish departure; Merrowgate remains too busy to turn it into a ceremony.  
 **Comedy Opportunity:** The city finally finds a form that can record "Red Jackal" without pretending the System agrees.  
@@ -751,7 +751,7 @@ His influence appears indirectly through contracts, agents, private security, an
 - CH-042: Red is injured again during the deadly cargo-lift failure; regeneration cannot undo the worker death or other injuries.
 - CH-043–CH-045: Red is recovering and must operate below full stamina.
 - CH-046: conservation chapter; no manifestations.
-- CH-047–CH-048: accumulated physical injury plus five total Stage I support manifestations across two chapters causes severe exhaustion and reduced precision.
+- CH-047–CH-048: accumulated physical injury plus five total support manifestations across two chapters causes severe exhaustion and reduced precision.
 - CH-049: aftermath retains soreness, tremor/fatigue, and recovery time.
 - CH-050: recovered enough for ordinary travel, not consequence-free or freshly reset.
 
@@ -810,7 +810,7 @@ Gate 7 locks:
 - CH-047–CH-048 as physical climax;
 - CH-049 as local resolution;
 - CH-050 as departure;
-- Stage I power ceiling and chapter-level intended manifestation counts;
+- power ceiling and chapter-level intended manifestation counts;
 - injury/recovery progression;
 - character distribution;
 - antagonist escalation;

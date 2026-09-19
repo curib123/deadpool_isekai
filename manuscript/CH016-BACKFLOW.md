@@ -1,7 +1,9 @@
 # Chapter 16 — Backflow
 
 **Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
-**Word Count:** 2707,682  
+**Word Count:** 2,707  
+**Chapter QA:** `qa/CH-016-GATE-9-CHAPTER-QA.md`
+**Retcon QA:** `qa/CH-016-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
 The calls did not stop.
 
@@ -23,7 +25,7 @@ Branches shook in a line that crossed the road instead of following it. Kellan t
 
 “What is that?”
 
-Tavian raised one hand. They waited. A group of long-legged browsing animals broke from the trees and crossed the upper road at a run. He had seen tracks like theirs before. Heavy bodies. Narrow heads. Built to eat plants and avoid trouble.
+Tavian raised one hand. they waited. A group of long-legged browsing animals broke from the trees and crossed the upper road at a run. He had seen tracks like theirs before. Heavy bodies. Narrow heads. Built to eat plants and avoid trouble.
 
 They were doing badly at the second part. They came from the screened side of the dead lure. Straight across the road.
 
@@ -55,7 +57,7 @@ Tavian grabbed his arm and pulled him away from the center of the approach.
 
 “They are moving toward people.”
 
-“Then they move the people.”
+“Then we move the people.”
 
 He looked back toward the lure. For one second, he wanted there to be something obvious to hit. A center.
 
@@ -89,7 +91,7 @@ He felt the wound along his side tighten as he started moving. Pain came with it
 
 His body was correcting damage. The pain remained, and running on torn muscle was still unpleasant. None of that told him where the next collapse would happen.
 
-They ran.
+they ran.
 
 The first farm approach had already started emptying by the time they reached it. People were carrying what they could. Not everything.
 
@@ -113,7 +115,7 @@ He pointed. At first he saw nothing. Then the brush folded.
 
 Small shapes came through. Not ridge-hounds. Lean scavengers or minor predators, too far away and moving too fast for him to identify.
 
-They cut across a side track that had been empty the last time he was here. Another road gone. They reached the next junction just as three militia riders came in from Greywake.
+They cut across a side track that had been empty the last time he was here. Another road gone. they reached the next junction just as three militia riders came in from Greywake.
 
 The lead rider pulled up hard.
 
@@ -137,7 +139,7 @@ Kellan went still.
 
 Tavian looked toward Greywake. Then back toward the outer farms. The runner continued.
 
-“Patrol markers are changing faster than they can send them.”
+“Patrol markers are changing faster than we can send them.”
 
 A second rider pointed behind them.
 
@@ -175,7 +177,7 @@ Brynn looked at him once. Nothing else. No accusation.
 
 No hearing. Not now. She turned to her people.
 
-“Split the squads. One to the lower Greywake approach. One with him.”
+“Split the squads. One to the lower Greywake approach. One with me.”
 
 Then to the runner.
 
@@ -205,9 +207,9 @@ Tavian looked toward the forest.
 
 Kellan did not answer. Brynn did.
 
-“Then they control the crossing.”
+“Then we control the crossing.”
 
-They moved. The road toward the bridge filled before they reached it. People from two directions joined the same connector.
+they moved. The road toward the bridge filled before they reached it. People from two directions joined the same connector.
 
 Some carried packs. Some carried nothing. One man tried to lead a frightened mule while goats crowded behind it. A militia woman cut the mule's harness free when it twisted across the road.
 
@@ -227,7 +229,7 @@ Tavian grabbed his shoulder.
 
 “Not a fight.”
 
-“he know.”
+“I know.”
 
 “Then move.”
 
@@ -295,11 +297,11 @@ His shoulder had not decided what it was doing yet. Kellan caught his good arm.
 
 “Then walk.”
 
-They did. Behind them, the herd kept moving. Ahead of them, another militia runner came from the direction of the bridge.
+they did. Behind them, the herd kept moving. Ahead of them, another militia runner came from the direction of the bridge.
 
 “Crossing is open. Too many people coming from the west.”
 
-Kellan swore. They ran harder. Every time one route cleared, another report pointed to pressure somewhere people were already trying to survive. Roads connected farms. Animals followed open ground. Predators followed prey. People fled toward bridges. The reasons were ordinary, but the result kept tightening around occupied roads and crossings until it stopped feeling like escape and started feeling like being squeezed.
+Kellan swore. they ran harder. Every time one route cleared, another report pointed to pressure somewhere people were already trying to survive. Roads connected farms. Animals followed open ground. Predators followed prey. People fled toward bridges. The reasons were ordinary, but the result kept tightening around occupied roads and crossings until it stopped feeling like escape and started feeling like being squeezed.
 
 The bridge appeared beyond the timber sheds. He recognized it immediately.
 
@@ -317,7 +319,7 @@ The bridge Kellan had rebuilt because nobody else had sent enough material. Ther
 
 A driver shouted back.
 
-“they need them across.”
+“We need them across.”
 
 “No.”
 
@@ -485,7 +487,7 @@ Tavian dropped beside him.
 
 “Together.”
 
-A militia guard joined them. They lifted. His side tore again.
+A militia guard joined them. they lifted. His side tore again.
 
 Something in his shoulder shifted. The beam rose an inch. Kellan made a sound through his teeth.
 
@@ -495,11 +497,11 @@ Worse.
 
 “Higher,” Tavian said.
 
-They lifted. Another militia member pulled the cart frame away. Brynn climbed down and got both hands under Kellan's upper body.
+they lifted. Another militia member pulled the cart frame away. Brynn climbed down and got both hands under Kellan's upper body.
 
 “Now.”
 
-They moved him. His trapped leg came free. It did not look right.
+they moved him. His trapped leg came free. It did not look right.
 
 He looked away from it. Then back. He was bleeding.
 
@@ -541,13 +543,13 @@ Still closing.
 
 Kellan's leg did nothing. That difference sat in front of him where he could not ignore it. The stretcher came.
 
-They lifted him onto it. He lost consciousness halfway through. Tavian checked his breathing.
+they lifted him onto it. He lost consciousness halfway through. Tavian checked his breathing.
 
-“Still with them.”
+“Still with us.”
 
 Brynn looked at the road.
 
-“What do they have left?”
+“What do we have left?”
 
 Kellan could not answer now. A militia runner did.
 
@@ -563,7 +565,7 @@ Brynn pointed.
 
 People started moving again. Around the broken bridge. Away from the road that had been carrying them home.
 
-They climbed out of the cut. He looked back once. The bridge deck lay broken below the approach.
+they climbed out of the cut. He looked back once. The bridge deck lay broken below the approach.
 
 The repaired supports were split. The cart was half on its side.
 

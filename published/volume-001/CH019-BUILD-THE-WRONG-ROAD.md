@@ -1,4 +1,4 @@
-# Chapter 19 — Build the Wrong Road
+Chapter 19 — Build the Wrong Road
 
 Broken North looked worse when people arrived with tools. The last time I had come through, the road had mostly been an investigation problem. Bad ground. Old stone. Fresh Guild closure. One hidden lure. Enough wrong details to make competent people suspicious.
 

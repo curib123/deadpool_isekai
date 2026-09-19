@@ -344,61 +344,149 @@ It does not:
 CH-001 remains unchanged: without such a tool or another established translator, Red Jackal cannot read Veyran writing and does not automatically understand local speech.
 
 
-# 4. Reincarnation and Souls
+# 4. Reincarnation, Souls, and Soul Drift
 
 ## 4.1 Soul Identity
 
-A soul is the persistent identity-bearing structure that can survive biological death. Personality, memory, and embodied experience are not perfectly identical to the soul; they are layers attached to it.
+A soul is the persistent identity-bearing structure that can survive biological death.
+
+Memory, personality, habits, and embodied experience are attached layers, not perfectly identical to the soul itself.
 
 ## 4.2 Normal Death Process
 
+For ordinary Veyran beings:
+
 1. biological death occurs;
 2. living System state closes;
-3. soul separates from body;
-4. soul enters a transitional state;
-5. memory and identity are filtered according to natural/metaphysical conditions;
-6. a compatible reincarnation path may eventually form;
-7. the new embodiment receives a valid local soul and world registry relation.
+3. soul separates from the body;
+4. the soul enters local transition;
+5. memory/personality layers are filtered;
+6. reincarnation or another afterlife path may eventually form;
+7. any new embodiment receives a valid local soul/world registry relation.
 
-## 4.3 Reincarnation Frequency
+## 4.3 Soul Drift — Natural Phenomenon
 
-Most souls do not reincarnate immediately. Timing varies.
+**Soul Drift** is a natural metaphysical phenomenon in which a recently separated soul fails to follow its ordinary local transition path and drifts along weak causal boundaries.
 
-Full conscious memory retention is rare.
+Most Soul Drift remains inside the soul's native reality.
 
-## 4.4 Memory
+Extremely rare **far-drift events** can cross between otherwise separate causal worlds when several conditions overlap:
 
-Normally:
-- emotional tendencies may survive faintly;
-- explicit memories erode;
-- traumatic fragments sometimes persist;
-- magical intervention can preserve or damage memory;
-- complete prior-life retention is abnormal and often unstable.
+- death or near-total embodiment failure;
+- a temporary boundary weakness;
+- violent energy release or reality disturbance;
+- incomplete separation of the identity-bearing soul from its deeper cognitive residue;
+- a compatible destination reality capable of forming embodiment.
 
-## 4.5 Gods and Reincarnation
+No god, summoner, machine, or villain is required to cause Soul Drift.
 
-Some divine beings, temples, or psychopomp entities can influence transition, protection, or routing, but none possesses universal ownership of all souls.
+It is unusual but natural.
 
-## 4.6 Soul Registry
+## 4.4 Memory Erosion During Drift
 
-The soul registry is not a simple physical database. It is the System's recognized relation to a soul that belongs inside Veyr's normal metaphysical continuity.
+Long Soul Drift is destructive to ordinary autobiographical continuity.
 
-## 4.7 Cross-World Souls
+It can strip:
+- names;
+- family memory;
+- life chronology;
+- ordinary personality organization;
+- learned social identity;
+- specific relationships;
+- most explicit memories.
 
-Cross-world transfer is theoretically possible but exceptionally rare. A foreign soul normally requires:
-- a compatible entry path;
-- metaphysical adaptation;
+Deeply reinforced cognitive grooves can survive.
+
+Examples:
+- instinctive humor;
+- obsessive habits;
+- phobias;
+- repeated media patterns;
+- language fragments;
+- combat reflex;
+- a strongly rehearsed persona;
+- ways of interpreting pain or danger.
+
+This distinction is essential to Red Jackal.
+
+## 4.5 Red Jackal's Earth Death
+
+Writer truth:
+
+Evan Calder died during a **mysterious explosion on Earth**.
+
+The exact mundane or extraordinary cause of that explosion remains a protected mystery unless later canon explicitly reveals it.
+
+The explosion coincided with a rare far-drift boundary condition.
+
+No Veyran actor selected Evan.
+
+No god chose him.
+
+No Exterior Needle pulled him.
+
+## 4.6 Red Jackal's Drift Damage
+
+During far Soul Drift:
+
+- most of Evan's autobiographical memory was lost;
+- most of his ordinary pre-death personality organization fragmented;
+- his soul identity remained continuous enough to stay the same person at the deepest level;
+- a heavily reinforced cognitive-performance residue survived.
+
+That residue came partly from Evan's obsessive Deadpool fandom and broader exposure to comics, movies, games, animation, meta-fiction, internet humor, and theatrical antihero media.
+
+The surviving groove strongly favors:
+- irreverent humor;
+- fourth-wall thinking;
+- self-narration;
+- jokes under pain;
+- theatrical performance;
+- pop-culture comparison;
+- treating conflict like a scene.
+
+This does not make Red a copy or possession of any fictional character.
+
+## 4.7 Cross-World Arrival
+
+Red's far-drift soul reached Veyr without:
+
+- native birth;
+- native racial lineage;
 - registry acceptance;
-- local embodiment;
-- Fate integration.
+- local Fate history;
+- normal reincarnation filtering;
+- a progression root.
 
-Red Jackal violates this expected sequence.
+Veyr nevertheless formed a viable embodiment around the foreign soul because physical reality can support a body even when the World System cannot produce a legal metaphysical record for it.
 
-## 4.8 Forbidden Experiments
+## 4.8 Why the Soul Registry Says NO RECORD
 
-Historical attempts to preserve identity, duplicate souls, bind the dead, or force reincarnation have produced fragmented personalities, possession, artificial ghosts, and corrupted registry states.
+The System can only recognize soul relations inside its own continuity model.
 
-None of the known cases equals Red Jackal's complete absence from both world and soul registries.
+Red's soul is real.
+
+The registry has no native root for it.
+
+Therefore:
+
+**Soul Registry: NO RECORD**
+
+means **no valid Veyran registry relation exists**, not that Red has no soul.
+
+## 4.9 Historical Knowledge
+
+Veyran scholars know ordinary soul displacement, ghosts, failed reincarnation, possession, and registry corruption.
+
+They do not begin with a confirmed theory of cross-world far Soul Drift.
+
+Ancient records may contain distorted observations of comparable boundary phenomena without proving Red's exact case.
+
+## 4.10 Forbidden Experiments
+
+Historical attempts to force soul transfer, duplicate identity, bind the dead, or manufacture reincarnation can resemble fragments of Soul Drift symptoms.
+
+These artificial cases are not the cause of Red's arrival and must not be retroactively used to make him an engineered experiment.
 
 # 5. Fate
 
@@ -614,13 +702,16 @@ Writer truth:
 **the capability was already there.**
 
 Series progression therefore tracks:
-- knowledge;
-- creativity;
-- willingness;
-- restraint;
+- knowledge of Veyr;
+- creativity of presentation;
+- voluntary restraint;
 - public revelation;
-- emotional maturity;
+- reputation;
+- relationships;
+- interference with native storylines;
 - consequences.
+
+It does **not** track Red becoming morally healthier, saner, humbler, or conventionally heroic.
 
 # 8. Regeneration / Self-Restoration
 
@@ -778,7 +869,39 @@ There is no:
 
 Future spectacle escalates through **revelation and creativity**, not numerical growth.
 
-# 10. Narrative Counterplay
+## 9.9 Fourth-Wall Pause
+
+Red Jackal's fourth-wall behavior is both a narrative signature and a real anomaly effect.
+
+Whenever Red **genuinely addresses an external reader/audience**, his foreign Soul-Drift relation slips partly outside Veyr's active causal sequence.
+
+Result:
+
+**local Veyran time stops for the duration of the address.**
+
+During the pause:
+- physical motion freezes;
+- local sound ceases;
+- projectiles stop;
+- spells stop advancing;
+- explosions stop expanding;
+- native minds do not experience elapsed time;
+- Red may speak directly to the audience, comment on tropes, mock the situation, think aloud, or perform a meta aside.
+
+Default rule:
+- Red returns to the same causal instant when the aside ends;
+- native characters do not remember the pause;
+- the audience does not grant power;
+- the pause is not a stamina resource;
+- it has no progression tiers.
+
+The pause is **not** evidence that Red is literally inside a fictional book from Veyr's perspective.
+
+It is the observable consequence of a soul that is only partially anchored to Veyr's causal order.
+
+Play Logic may occasionally combine with the pause for a deliberately approved meta gag, but ordinary fourth-wall commentary does not automatically alter frozen physical objects.
+
+# 10. Narrative Counterplay and Story Rerouting
 
 No normal opponent is required to exceed Red Jackal in raw power.
 
@@ -796,6 +919,33 @@ Threats remain meaningful through conditions Red cannot solve by merely hitting 
 - situations where winning the fight does not answer the real problem.
 
 Enemies may also temporarily believe they have countered him because Red allows the scene to continue.
+
+## 10.1 Native Story Tracks
+
+Veyr contains System/Fate-supported conflicts that exist independently of Red.
+
+A legitimate Hero, Hero Party, Main Villain, minor villains, wars, conspiracies, prophecies, and quests may proceed even when Red is elsewhere.
+
+Red is not automatically assigned a role in those convergences.
+
+When he enters one, Fate cannot simply erase him, so the native story **reroutes** around what he changed.
+
+Examples:
+- the Hero arrives after Red already disrupted the expected rescue;
+- a villain survives but changes plan because Red ruined the intended confrontation;
+- a prophecy remains valid in objective but not in expected staging;
+- a minor villain begins treating Red as the main threat even though Red is not part of the original conflict;
+- Red steals a dramatic entrance from the actual Hero without taking the Hero's System role.
+
+## 10.2 Sequence Preservation
+
+Red may change execution, timing, participants, and consequences.
+
+Do not lazily erase the next planned beat just because Red is overpowered.
+
+If the underlying objective still exists, allow it to return in a logically altered form.
+
+This is **story rerouting**, not immunity to consequences.
 
 ### Hard Rule
 

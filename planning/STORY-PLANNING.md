@@ -105,7 +105,7 @@ The authoritative Volume 1 chapter roadmap is:
 
 The next authorized planning artifact is:
 
-`CH-013 — Where They Die: Gate 9 Chapter QA`
+`CH-014 — Necessary Losses: Detailed Scene Architecture`
 
 CH-001 manuscript has passed Gate 9 and is CANON.
 
@@ -163,9 +163,13 @@ No F-ID changed status in CH-012.
 
 CH-013 Scene Architecture has passed Gate 8.
 
-CH-013 manuscript draft now exists and is awaiting Gate 9 Chapter QA.
+CH-013 manuscript has passed Gate 9 and is CANON.
 
-Do not draft CH-014 or create CH-014 Scene Architecture before CH-013 passes Gate 9 and is canonized.
+No F-ID changed status in CH-013.
+
+Detailed Scene Architecture for CH-014 — Necessary Losses is now authorized.
+
+Do not draft CH-014 manuscript before its Scene Architecture and Gate 8 Pre-Manuscript Scene QA pass.
 
 # 5. Scene Sheet
 Each scene has:

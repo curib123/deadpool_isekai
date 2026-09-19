@@ -340,9 +340,7 @@ I threw up my bleeding arm.
 
 I did not chant.
 
-I did not reach for mana.
-
-I did not know mana existed.
+I did not know any spell.
 
 I just wanted something there.
 

@@ -3,7 +3,7 @@
 **Volume:** 1 — Greywake Arc  
 **Chapter:** CH-005 — A Better Hammer  
 **Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-005 MANUSCRIPT AUTHORIZED  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-005 MANUSCRIPT CANON  
 **Final Scene Count:** 5  
 **POV:** Red Jackal first person  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.

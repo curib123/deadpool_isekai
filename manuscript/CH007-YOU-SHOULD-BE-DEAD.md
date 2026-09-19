@@ -1,6 +1,8 @@
 # Chapter 7 — You Should Be Dead
 
-**Status:** DRAFT — GATE 9 NOT YET RUN
+**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED  
+**Word Count:** 4,117  
+**Chapter QA:** `qa/CH-007-GATE-9-CHAPTER-QA.md`
 
 The road was supposed to be safe. Not completely safe. Greywake did not seem to believe in that kind of promise. But safe enough that the Road Guild had sent three maintenance workers, one small supply wagon, Tavian, and me instead of a full guard detail.
 

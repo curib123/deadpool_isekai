@@ -16,7 +16,7 @@ That was becoming irritating. Jessa entered last. She carried two ledgers and a 
 
 Maelis. Brynn. Tavian.
 
-Kellan. him. Then Hesk.
+Kellan. Red. Then Hesk.
 
 She stopped for half a second before crossing to the table. Nobody commented on it. Maelis took the ledgers from her carefully.
 

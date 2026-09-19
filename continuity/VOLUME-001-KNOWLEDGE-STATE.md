@@ -1130,3 +1130,140 @@ CH-007 may not assume:
 - march-lure knowledge;
 - F-003 already planted;
 - any Fate explanation.
+
+
+
+# CH-007 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-007 — You Should Be Dead  
+**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+
+## Red Jackal — Opening CH-007
+
+Red Jackal begins CH-007 with the CH-006 canon checkpoint.
+
+He knows:
+- Tavian is competent at migration tracking and rescue positioning;
+- animal movement near Greywake is abnormal;
+- he does not know the cause;
+- his body has healed unusually fast before;
+- intentional manifestation remains temporary and tiring;
+- he still has no valid System HP/MP/class/level identity.
+
+He does not know:
+- why regeneration works;
+- the term self-model;
+- whether regeneration is a healing skill, racial trait, anomaly, or something else;
+- the march-lure network exists;
+- Hesk is redirecting migration;
+- Fate/Great Design truth.
+
+## Allowed CH-007 Discoveries — Red Jackal
+
+By the end of an approved CH-007 manuscript, Red Jackal may know:
+- a displaced predator pack appeared on a route locals considered unusually safe;
+- his own willingness to absorb danger can redirect danger toward other people;
+- a severe wound can begin correcting itself without a healing spell;
+- the correction is painful, exhausting, and tactically disruptive;
+- Sela considers the process medically abnormal;
+- conventional healing magic does not meet his wound as though it were an ordinary untreated injury;
+- Sela cannot explain the mechanism;
+- surviving a hit does not make the decision that caused it safe.
+
+He may not know:
+- the self-model explanation;
+- universal regeneration limits;
+- Hesk's role;
+- march-lure mechanics;
+- Fate/Great Design truth.
+
+## Tavian Rook — CH-007 Boundary
+
+Tavian begins CH-007 knowing:
+- abnormal migration is recurring;
+- Red Jackal is capable but willing to take unnecessary risk;
+- Red Jackal can follow good field instruction.
+
+During CH-007 he may learn:
+- Red Jackal can remain conscious/moving after trauma that appears severe;
+- Red Jackal's body changes unusually during extraction;
+- Red Jackal's reckless positioning can endanger ordinary workers.
+
+Tavian may conclude:
+- Red Jackal has an abnormal recovery capability;
+- this makes reckless choices more dangerous socially, not less.
+
+Tavian may not infer the mechanism.
+
+## Sela Arven — CH-007 Boundary
+
+Sela begins knowing nothing specific about Red Jackal beyond what arrives with the patients.
+
+She may learn:
+- his injury was severe;
+- his current wound state does not match the elapsed time/trauma;
+- his body is already correcting tissue;
+- standard healing magic does not behave as it normally would on an untreated wound;
+- no ordinary external healing spell signature explains the process.
+
+She may hypothesize:
+- unusual innate/racial recovery;
+- unknown regenerative trait;
+- anomaly.
+
+She may not conclude:
+- immortality;
+- self-model reassertion;
+- System-external embodiment;
+- shared origin with Play Logic.
+
+## Injured Road Worker — CH-007 Boundary
+
+The injured worker:
+- is an ordinary person with ordinary medical limits;
+- receives real treatment priority;
+- may know Red Jackal took a severe hit and still helped extraction;
+- does not know or explain anomaly mechanics.
+
+The worker's injury must remain narratively meaningful and not become disposable shock.
+
+## F-003 Boundary
+
+F-003 remains **PLANNED — NOT YET PLANTED** until approved CH-007 manuscript prose contains:
+
+1. severe injury already autonomously correcting before healer intervention;
+2. conventional healing magic encountering that already-changing wound state;
+
+and Gate 9 passes.
+
+## F-004 Boundary
+
+F-004 remains **PLANTED — CH-005**.
+
+CH-007 may use the existing clear-purpose observation for one simple rescue manifestation but introduces no new Play Logic rule.
+
+## M-007 Boundary
+
+M-007 remains inactive.
+
+No Fate/prophecy/destiny/causal-wake material.
+
+## Conspiracy Boundary
+
+No:
+- march-lure evidence;
+- Hesk accusation;
+- casualty-record clue;
+- deliberate-redirection proof.
+
+The pack remains an unexplained displaced consequence.
+
+## CH-008 Boundary
+
+CH-007 may establish residual exhaustion.
+
+Do not begin:
+- the Outer Homestead work assignment;
+- Kellan Dorr's chapter role;
+- warning-marker mismatch;
+- CH-008 route disparity investigation.

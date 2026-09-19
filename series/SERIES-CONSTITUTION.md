@@ -253,3 +253,20 @@ Do not copy:
 - plot beats lifted from another work.
 
 Red Jackal must remain an original character built from the locked rules in this repository.
+
+# Final Story-Engine Lock — Red Jackal
+
+This section is authoritative wherever older language is ambiguous.
+
+- Red Jackal is the **reader-facing focal protagonist**, not Veyr's System-recognized chosen Hero.
+- The native conventional isekai Hero, Hero Party, Main Villain, minor villains, local antagonists, and off-screen events are real and independent.
+- Red's recurring function is **story intruder / scene thief / false-main-character effect**.
+- He may dominate presentation, attention, aura, and local perception without erasing the original causal objective.
+- His interference must reroute later beats rather than delete continuity.
+- His core personality has no conventional development arc.
+- His raw anomaly power has no progression arc.
+- Soul Drift remains a natural phenomenon, not a chooser or god.
+- Fourth-Wall Pause freezes Veyran time during genuine audience address.
+- Play Logic / imagination authority and extreme regeneration are available from the beginning.
+- Geography, world map, locked destination order, Greywake pacing spine, and Merrowgate pacing spine remain preserved.
+- Unexpected situations must be earned from Red's personality and must leave consequences.

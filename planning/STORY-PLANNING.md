@@ -105,7 +105,7 @@ The authoritative Volume 1 chapter roadmap is:
 
 The next authorized planning artifact is:
 
-`CH-011 — Broken North: Detailed Scene Architecture`
+`CH-011 — Broken North: Manuscript Draft`
 
 CH-001 manuscript has passed Gate 9 and is CANON.
 
@@ -149,9 +149,11 @@ CH-010 manuscript has passed Gate 9 and is CANON.
 
 No F-ID changed status in CH-010.
 
-Detailed Scene Architecture for CH-011 — Broken North is now authorized.
+CH-011 Scene Architecture has passed Gate 8.
 
-Do not draft CH-011 manuscript before its Scene Architecture and Gate 8 Pre-Manuscript Scene QA pass.
+Drafting CH-011 manuscript prose is now authorized.
+
+Do not draft CH-012 or create CH-012 Scene Architecture during the CH-011 manuscript step.
 
 # 5. Scene Sheet
 Each scene has:

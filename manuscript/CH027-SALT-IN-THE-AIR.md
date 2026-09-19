@@ -40,7 +40,7 @@ The clerk looked at him, then at his pack. “Passenger?”
 
 “Good. How much?”
 
-He told him. He stared at him, then checked the painted board over his shoulder in case literacy had arrived while he was not looking. The symbols remained committed to privacy.
+The clerk told him. Red stared at the clerk, then checked the painted board over his shoulder in case literacy had arrived while he was not looking. The symbols remained committed to privacy.
 
 “That includes passage?”
 

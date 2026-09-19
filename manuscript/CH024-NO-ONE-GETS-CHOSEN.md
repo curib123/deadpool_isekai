@@ -1,8 +1,7 @@
 # Chapter 24 — No One Gets Chosen
 
-**Status:** CANON — OVERPOWERED RETCON GATE 9 PASS  
+**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
 **Word Count:** 2270
-**Retcon QA:** `qa/CH-024-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
 The physical line was holding.
 
@@ -24,7 +23,7 @@ Tavian watched three groups move through the split.
 
 He looked back toward Broken North.
 
-The main corridor was still carrying most of the migration. Workers and militia were holding the damaged choke without us standing over them. The real timber under the inner shelf was taking weight. The temporary impossible support was gone because the road no longer needed it.
+The main corridor was still carrying most of the migration. Workers and militia were holding the damaged choke without them standing over them. The real timber under the inner shelf was taking weight. The temporary impossible support was gone because the road no longer needed it.
 
 Good.
 
@@ -38,13 +37,13 @@ Brynn’s face hardened.
 
 “Yes.”
 
-My side still hurt where the predator had opened it. The wound had mostly closed beneath the blood. My coat had not enjoyed the same privilege.
+His side still hurt where the predator had opened it. The wound had mostly closed beneath the blood. His coat had not enjoyed the same privilege.
 
-I started walking.
+He started walking.
 
 Brynn did too.
 
-The service path cut away from Broken North through lower brush and old roadwork. We had not gone far when Maelis and Jessa came from the opposite approach.
+The service path cut away from Broken North through lower brush and old roadwork. They had not gone far when Maelis and Jessa came from the opposite approach.
 
 Maelis carried a wrapped packet against her chest. Jessa carried a copied route sheet and looked like she had spent the last hour expecting to be fired, trampled, arrested, or some efficient combination of the three.
 
@@ -80,7 +79,7 @@ Not dramatically.
 
 Just because there was finally a person at the end of this problem.
 
-We reached the site from above.
+They reached the site from above.
 
 The old-service housing sat inside a shallow stone recess beside the fork. Fitted stake. Vented housing. Service plate. Reservoir assembly.
 
@@ -160,7 +159,7 @@ Hesk pointed at them.
 
 Nobody interrupted.
 
-We knew the story.
+They knew the story.
 
 Winter isolation. Missing caravans. Food and medicine delayed while people somewhere safer discussed whether Greywake deserved the cost of rescue.
 
@@ -180,7 +179,7 @@ Brynn’s expression did not change.
 
 “We are refusing to send the cost through inhabited farms.”
 
-Hesk looked at me.
+Hesk looked at him.
 
 “You understand risk better than they do.”
 
@@ -194,17 +193,17 @@ That landed.
 
 Of course it did.
 
-I had spent several chapters proving the point for him.
+He had spent several chapters proving the point for him.
 
 He went on.
 
 “Do not pretend you are different from me.”
 
-I looked at the housing.
+He looked at the housing.
 
 Then the outer road.
 
-Then the blood on my own coat.
+Then the blood on his own coat.
 
 The problem with a good accusation was that punching the person who said it did not make it false.
 
@@ -216,7 +215,7 @@ Hesk’s eyes narrowed.
 
 “What?”
 
-I looked toward the homestead route.
+He looked toward the homestead route.
 
 “I don’t get to choose them either.”
 
@@ -232,23 +231,23 @@ Hesk turned the key.
 
 Or tried to.
 
-I was beside him before the movement finished.
+He was beside him before the movement finished.
 
 No dramatic run.
 
 No warning.
 
-One moment there had been several steps between us.
+One moment there had been several steps between them.
 
-The next, my hand was around his wrist.
+The next, his hand was around his wrist.
 
 The key had not moved.
 
-Hesk looked at my hand.
+Hesk looked at his hand.
 
-Then at me.
+Then at him.
 
-I was not smiling anymore.
+He was not smiling anymore.
 
 “You had your turn.”
 
@@ -266,7 +265,7 @@ Brynn stepped closer.
 
 “Release the key.”
 
-Hesk looked past me toward the migration.
+Hesk looked past him toward the migration.
 
 “If I stop this now and your road fails—”
 
@@ -284,15 +283,15 @@ His voice sharpened.
 
 That hit harder than shouting.
 
-I released Hesk’s wrist only when Brynn was close enough to take him.
+He released Hesk’s wrist only when Brynn was close enough to take him.
 
 He stepped back from the housing.
 
-Not because I forced him.
+Not because he forced him.
 
 Because the argument had moved past his hand.
 
-Then he looked at me again.
+Then he looked at him again.
 
 Blood. Torn coat. Dirt.
 
@@ -300,13 +299,13 @@ He had not seen Broken North.
 
 He had not seen the road stop falling.
 
-He had not seen the predator discover that I was finished playing with it.
+He had not seen the predator discover that he was finished playing with it.
 
-He was still working from the version of me Greywake understood yesterday.
+He was still working from the version of him Greywake understood yesterday.
 
 “You can barely stand.”
 
-I looked down at myself.
+He looked down at himself.
 
 “That is mostly presentation.”
 
@@ -316,9 +315,9 @@ His expression tightened.
 
 The correct answer would have been modest.
 
-Unfortunately, I was tired of modest.
+Unfortunately, he was tired of modest.
 
-“Yes,” I said.
+“Yes,” he said.
 
 Hesk went still.
 
@@ -326,15 +325,15 @@ So did Jessa.
 
 Maelis did not.
 
-She was watching my face instead.
+She was watching his face instead.
 
 Tavian turned from the herd.
 
-I continued.
+He continued.
 
 “I could stop the animals.”
 
-I pointed toward the moving mass.
+He pointed toward the moving mass.
 
 “Wall them in. Lift the road. Move the road. Move them. I can think of several answers, and most of them are terrible.”
 
@@ -344,17 +343,17 @@ Hesk stared.
 
 “I don’t know what ten thousand terrified animals do after I force them to stop.”
 
-I pointed at Tavian.
+He pointed at Tavian.
 
 “He does.”
 
-Tavian did not look pleased to be included in my speech.
+Tavian did not look pleased to be included in his speech.
 
 That made it better.
 
 “I don’t know which farm becomes the next path if I make this one impossible. I don’t know what the predators do when the prey vanish from under them. I don’t know which road collapses when I move weight somewhere nobody planned for.”
 
-I looked back at Hesk.
+He looked back at Hesk.
 
 “Power is not the same thing as being right.”
 
@@ -396,7 +395,7 @@ Tavian shouted.
 
 “Red!”
 
-I turned my back on Hesk.
+He turned his back on Hesk.
 
 That felt better than hitting him would have.
 
@@ -406,13 +405,13 @@ Tavian ran to the low stone shoulder where the paths divided.
 
 “Here.”
 
-I stopped beside him.
+He stopped beside him.
 
 He pointed.
 
 “Not across the road. Angle them north. Only the front.”
 
-I looked at the herd.
+He looked at the herd.
 
 Then at him.
 
@@ -422,11 +421,11 @@ Then at him.
 
 That was the rule.
 
-Not because I could not do more.
+Not because he could not do more.
 
 Because he knew what more would do.
 
-I gave him one direction.
+He gave him one direction.
 
 A pale-grey guide rose along the fork.
 
@@ -456,7 +455,7 @@ Later problem.
 
 “Now!” he shouted.
 
-Behind us, Jessa dropped beside the housing.
+Behind them, Jessa dropped beside the housing.
 
 Brynn still held Hesk.
 
@@ -472,15 +471,15 @@ Tavian watched the animals.
 
 “Wait.”
 
-The outer branch pressed against my guide.
+The outer branch pressed against his guide.
 
-The shape stayed exactly where I wanted it.
+The shape stayed exactly where he wanted it.
 
 A browser struck the near face and turned north.
 
 Another followed the body ahead.
 
-Momentum began doing the work for us.
+Momentum began doing the work for them.
 
 “Now.”
 
@@ -534,13 +533,13 @@ Jessa did.
 
 The herd pressed against the guide again.
 
-I could have made it taller.
+He could have made it taller.
 
-I did not.
+He did not.
 
 The low angle was enough.
 
-That was the point I kept having to learn.
+That was the point he kept having to learn.
 
 A second cluster chose north.
 
@@ -574,9 +573,9 @@ Tavian watched the split.
 
 “Hold.”
 
-I held the guide.
+He held the guide.
 
-Not because holding it cost me anything meaningful.
+Not because holding it cost him anything meaningful.
 
 Because the front of the branch was still deciding.
 
@@ -588,7 +587,7 @@ The outer angle weakened.
 
 “Now release it.”
 
-I dismissed the guide.
+He dismissed the guide.
 
 It vanished cleanly.
 
@@ -614,7 +613,7 @@ Jessa looked at the key in Brynn’s hand.
 
 Maelis looked at the secured housing.
 
-Hesk looked at me.
+Hesk looked at him.
 
 Different expression now.
 
@@ -652,11 +651,11 @@ The worker from the pack attack still had a damaged leg.
 
 Nothing about overwhelming power reached backward in time and made those consequences disappear.
 
-That was the part I had finally stopped finding funny.
+That was the part he had finally stopped finding funny.
 
 Hesk had believed somebody needed the authority to choose who paid.
 
-I had spent too much of the arc believing that being impossible meant nobody else could tell me when my choices were stupid.
+He had spent too much of the arc believing that being impossible meant nobody else could tell him when his choices were stupid.
 
 Different methods.
 
@@ -678,19 +677,19 @@ Changed the plan.
 
 And when the cost came, nobody got to hide the decision inside one man’s private ledger.
 
-I looked down at my hands.
+He looked down at his hands.
 
 Steady.
 
-My side still hurt.
+His side still hurt.
 
 That was fine.
 
-The last impossible thing I had made was gone because I had chosen to dismiss it.
+The last impossible thing he had made was gone because he had chosen to dismiss it.
 
-I could have made another.
+He could have made another.
 
-I did not need to.
+He did not need to.
 
 Broken North remained full of moving animals.
 

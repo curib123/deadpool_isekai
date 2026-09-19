@@ -269,6 +269,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Character Beat:** Red Jackal must follow someone else's expertise instead of improvising everything.  
 **Red Jackal Development:** Learns that not knowing the rules makes rule-breaking less impressive.  
 **Anti-Villain Expression:** Curiosity pushes him to make one deliberate, unnecessary field test/probe of the abnormal route pattern despite Tavian preferring observation first. The test creates a localized complication that feeds the planned displaced-pack pressure. Red Jackal must admit he did it because he wanted to know what would happen, not because it was necessary.  
+**Reputation / Threat Perception:** Tavian shifts from “reckless anomaly” toward **dangerous wildcard**. The concern is not raw strength; it is that Red Jackal combines unusual survivability, nonstandard manifestations, curiosity, and incomplete judgment. Tavian still sees clear limits and does not treat him as overpowered.  
 **Supporting Development:** Tavian gains narrative authority through competence.  
 **Antagonist Pressure:** Guild-post data and physical evidence disagree.  
 **Action Progression:** Tracking suspense with one displaced pack encounter.  
@@ -295,6 +296,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Character Beat:** Maelis's faith in procedure is challenged by procedurally valid-looking fraud.  
 **Red Jackal Development:** Recognizes his own off-book contract makes him easy to erase too.  
 **Anti-Villain Expression:** If Guild pressure turns toward Jessa, Red Jackal may protect her through intimidation or an openly selfish rationale—she is useful, she has information, and he refuses to let someone else decide whether she gets to speak. Her agency remains intact; he does not force testimony.  
+**Reputation / Threat Perception:** Maelis now has enough independent evidence to treat Red Jackal as an **institutional blind spot**, not merely a failed registry case. Jessa may know rumors about the undefined entrant, strange manifestations, and abnormal recovery, but not the full truth. Hesk begins receiving a more troubling picture of the irregular worker he originally considered disposable.  
 **Supporting Development:** Jessa's complicity/fear becomes visible; Maelis shifts from curiosity about Red Jackal to concern about Greywake's records.  
 **Antagonist Pressure:** Hesk begins monitoring Maelis's audit and managing access.  
 **Action Progression:** No combat; documentary pressure.  
@@ -321,6 +323,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Character Beat:** Maelis and Tavian approach the same mystery from records and ecology; Red Jackal bridges them through improvisation.  
 **Red Jackal Development:** Begins taking the investigation seriously because someone is clearly controlling the board.  
 **Anti-Villain Expression:** Red Jackal is willing to cross a Guild closure, trespass boundary, or other lawful restriction to follow physical evidence rather than wait for permission. Tavian/Maelis may object to the method even when the evidence proves useful.  
+**Reputation / Threat Perception:** A successful manifestation under real danger gives Red Jackal one of his first **earned aura** moments. Tavian and Maelis remain more interested in limits and consequences than spectacle. Kellan may acknowledge usefulness without becoming impressed by the persona.  
 **Supporting Development:** Maelis/Tavian mutual respect grows through complementary evidence.  
 **Antagonist Pressure:** Hidden Guild activity becomes tangible.  
 **Action Progression:** Exploration hazard → predator pressure → discovery under threat.  
@@ -347,6 +350,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Character Beat:** Red Jackal becomes personally interested when he realizes the job assignments he received overlap the manipulated corridors.  
 **Red Jackal Development:** Suspicion shifts from “someone is hiding something” to “someone used me inside their plan.”  
 **Anti-Villain Expression:** When the Guild attempts to reclaim the lure equipment as property, Red Jackal may refuse lawful handover, conceal/retain evidence, or use intimidation to prevent suspected owners from controlling it again. His motive is personal agency and distrust, not respect for procedure.  
+**Reputation / Threat Perception:** Hesk's perception moves from **useful irregular asset** to **unpredictable complication**. The problem is no longer only that Red Jackal is strange; he is becoming difficult to control through contracts, property claims, status, or procedure.  
 **Supporting Development:** Kellan sees first hard evidence validating outer-community suspicions; Brynn becomes willing to challenge Guild priorities if proof holds.  
 **Antagonist Pressure:** Hesk orders restricted access to some road records and tries to reclaim lure equipment as Guild property.  
 **Action Progression:** Tension and short confrontation rather than major battle.  
@@ -373,6 +377,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Character Beat:** Red Jackal realizes Hesk has categorized people—and him—according to usefulness.  
 **Red Jackal Development:** Personal anger enters the local conflict.  
 **Anti-Villain Expression:** His anger is not primarily “the law was broken.” Hesk has classified people—and Red Jackal himself—by usefulness and decided who may be spent. Red Jackal treats that imposed categorization as a personal offense against agency.  
+**Reputation / Threat Perception:** Core actors no longer treat Red Jackal as ordinary irregular labor. Maelis sees an unprecedented classification problem, Tavian sees a dangerous but increasingly capable ally, Kellan sees a useful strange man, and Hesk begins treating him as a threat to operational control. Their reactions must remain different.  
 **Supporting Development:** Maelis's audit becomes openly adversarial; Jessa's silence becomes morally costly; Brynn stops treating the dispute as mere guild politics.  
 **Antagonist Pressure:** Hesk uses his council authority and survival history to defend the policy.  
 **Action Progression:** Political confrontation, no combat.  
@@ -425,6 +430,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Character Beat:** Red Jackal chooses action because he refuses to watch Hesk's system keep selecting victims.  
 **Red Jackal Development:** His motive is understandable and partly responsible—but still driven by anger, autonomy, and impatience.  
 **Anti-Villain Expression:** This is the first major openly unlawful anti-villain action of the arc: Red Jackal knowingly overrides council/Guild authority and disables the lure because he refuses to watch an institution keep selecting victims. He knows Tavian warned that the network is incompletely mapped and acts anyway. The choice is not secretly framed as unquestionably heroic.  
+**Reputation / Threat Perception:** Hesk now treats Red Jackal as a **dangerous wildcard** because normal authority failed to deter him. Workers, militia, and outer residents may begin repeating contradictory stories about what he can survive or create. No rumor may accurately state his true ceiling.  
 **Supporting Development:** Kellan supports action for his people but cannot calculate system-wide ecological effects.  
 **Antagonist Pressure:** Hesk's people attempt to prevent unauthorized lure removal.  
 **Action Progression:** Confrontation + localized monster pressure.  
@@ -450,6 +456,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Exploration Purpose:** Reveal the network as ecological infrastructure, however corrupt, rather than a simple switch.  
 **Character Beat:** Red Jackal sees an understandable choice become a broader disaster.  
 **Red Jackal Development:** First undeniable responsibility for worsening the crisis.  
+**Reputation / Threat Perception:** CH-016 is a critical anti-hype correction. Red Jackal's unlawful action has major consequences, Kellan is severely injured, and Red Jackal cannot simply overpower the backflow. Fear of him may increase, but so may distrust. His reputation becomes **dangerous**, not infallible.  
 **Supporting Development:** Tavian shifts from criticism to crisis command; Kellan suffers for the same decision he supported.  
 **Antagonist Pressure:** Hesk can now credibly argue that Red Jackal endangered the entire settlement.  
 **Action Progression:** Multi-point rescue under escalating migration movement.  
@@ -552,6 +559,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Character Beat:** Jessa stops being passive complicity; Maelis learns evidence needs a person willing to risk something to make it usable.  
 **Red Jackal Development:** Chooses not to solve the problem by simply destroying every record/item in anger.  
 **Anti-Villain Expression:** Red Jackal treats Jessa as under his protection once she chooses to expose the evidence, but the protection can be possessive and intimidating rather than conventionally heroic. He may make it clear to Guild loyalists that harming or silencing her creates a problem with him. The threat is real; Jessa still chooses for herself.  
+**Reputation / Threat Perception:** This is an appropriate point for **earned intimidation**: silence, positioning, and reputation can make Guild loyalists hesitate before Red Jackal demonstrates power. It works because they have heard or seen enough by now—not because aura farming mind-controls the room.  
 **Supporting Development:** Maelis/Jessa peak pre-climax development.  
 **Antagonist Pressure:** Hesk openly commits to his fallback plan.  
 **Action Progression:** Short human confrontation/chase, not the final fight.  
@@ -632,7 +640,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Action Progression:** Major combat/environmental set piece.  
 **Stage I Play Logic:** **PL-4 climax utility:** temporary reinforcement/barrier/guide that buys time but cannot solve migration alone.  
 **Regeneration Consequence:** Serious injury and exhaustion threaten his ability to keep manifestations coherent.  
-**Aura-Farming Opportunity:** One strong, earned aura moment under real pressure.  
+**Aura-Farming Opportunity:** One strong, earned aura moment under real pressure. By now, some of the aura comes from reputation rather than deliberate staging: people have seen him survive, manifest, fail, return, and keep acting.  
 **Comedy Opportunity:** None unless an organic manifestation error briefly occurs without undercutting danger.  
 **Mystery / Foreshadowing:** No new mystery explanation.  
 **Continuity Dependencies:** Stage I limits, CH-022 injuries, corridor state.  
@@ -653,6 +661,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Character Beat:** Hesk and Red Jackal embody opposing answers to agency: assigning sacrifice versus refusing imposed roles while accepting responsibility.  
 **Red Jackal Development:** He chooses the action that protects the collective plan rather than the action that most satisfies his ego.  
 **Anti-Villain Expression:** The climax is not a conversion into “Greywake's hero.” Red Jackal stops Hesk because nobody gets to assign expendable roles to people around him, and because this is now a problem he personally chose to own. He may use unlawful or disproportionate intimidation against Hesk without treating the law as his moral authority.  
+**Reputation / Threat Perception:** Hesk's final fear is not “Red Jackal has a higher level.” It is that Red Jackal cannot be reliably classified, socially contained, predicted through normal incentives, or persuaded to accept Hesk's sacrifice logic. Some expert characters may suspect enormous future potential, but nobody knows the true ceiling.  
 **Supporting Development:** Maelis/Jessa make the truth impossible to erase; Tavian/Brynn finish the route redirection through their expertise.  
 **Antagonist Pressure:** Maximum. Hesk uses his last practical leverage, not secret cosmic power.  
 **Action Progression:** Human confrontation + environmental climax.  
@@ -679,6 +688,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Character Beat:** Red Jackal receives contradictory reactions rather than universal hero worship.  
 **Red Jackal Development:** Accepts that helping does not give him ownership of the story Greywake tells about him.  
 **Anti-Villain Expression:** He rejects both universal hero worship and attempts to reclassify him as a lawful civic asset. Some residents may call him hero, criminal, menace, savior, or problem; he refuses to let any label become ownership.  
+**Reputation / Threat Perception:** Greywake's public reputation of Red Jackal is intentionally contradictory. Some fear him, some admire him, some blame him for CH-016, some credit him for the final defense, and some think the stories are exaggerated. No universal consensus is allowed.  
 **Supporting Development:** Maelis preserves evidence; Tavian acknowledges Red Jackal's reliability under pressure without endorsing him; Jessa accepts consequences of testimony; Kellan's injury remains real.  
 **Antagonist Pressure:** Hesk is defeated institutionally but his argument survives among some residents.  
 **Action Progression:** No major combat.  
@@ -705,6 +715,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Character Beat:** Red Jackal leaves because he chooses movement over being defined by the first place that now has a story about him.  
 **Red Jackal Development:** Responsibility has grown; identity remains self-authored, theatrical, and resistant to ownership.  
 **Anti-Villain Expression:** He leaves partly because remaining would turn chosen help into an assigned role. He does not deny that he cared; he denies Greywake the right to convert that care into permanent duty, employment, sainthood, or ownership.  
+**Reputation / Threat Perception:** Red Jackal leaves Greywake with the beginning of a name that can travel ahead of him. The departing reputation must remain fragmented and exaggerated rather than authoritative, allowing future destinations to meet the rumor before they understand the man.  
 **Supporting Development:** Maelis/Tavian remain independent people with their own next obligations; nobody automatically joins him.  
 **Antagonist Pressure:** None active; Hesk's local defeat stands.  
 **Action Progression:** None.  
@@ -833,7 +844,66 @@ The required tension is:
 
 Not every chapter needs every element.
 
-# 10. Pacing Controls
+# 10. Red Jackal Reputation / Threat Perception — LOCKED
+
+Volume 1 must build Red Jackal's reputation from **evidence, rumor, and uncertainty**.
+
+## Already Established in Canon
+
+- **CH-002 / R1:** gate and registry failures establish Red Jackal as unclassifiable.
+- **CH-003 / R1:** Maelis confirms that multiple institutional verification methods fail in unusual ways.
+- **CH-005 / R2:** witnesses see a temporary object appear without normal prepared spell structure, but also see instability/exhaustion.
+- **CH-006 / R2:** Tavian sees Red Jackal as capable but less competent than a specialist in field judgment; no manifestation occurs.
+- **CH-007 / R2:** Tavian and Sela witness survival/recovery from severe trauma; Sela confirms the process is medically abnormal and not explained by standard healing.
+- **CH-008 / R2:** Kellan/workers may see one useful impossible support effect while also seeing Red Jackal's exhaustion and practical limitations.
+
+## Greywake Forward Progression
+
+- **CH-009:** Tavian begins treating him as an early **R3 dangerous wildcard**.
+- **CH-010:** Maelis begins treating him as an institutional blind spot; Hesk receives increasingly troubling reports.
+- **CH-011:** one earned aura moment is allowed because competence and reputation now support it.
+- **CH-012:** Hesk shifts to “unpredictable complication.”
+- **CH-013/014:** core actors hold different but serious threat assessments.
+- **CH-015:** Hesk and Guild personnel recognize that normal authority does not reliably constrain him.
+- **CH-016:** major consequences prevent myth from becoming infallibility; fear and distrust can rise together.
+- **CH-020:** reputation may intimidate before power is used.
+- **CH-023/024:** Greywake has enough evidence for strong earned aura and real fear, but not enough to know his theoretical ceiling.
+- **CH-025/026:** contradictory rumors leave Greywake and may precede Red Jackal into later arcs.
+
+## Greywake Ceiling
+
+Volume 1 may reach:
+
+**R3 — Dangerous Wildcard**
+
+for informed characters.
+
+It may begin **early R4 speculation** only in the form:
+
+**“His future potential may be much larger than what he can currently do.”**
+
+Volume 1 must **not** establish:
+- certainty that he can rewrite reality;
+- certainty that he is immortal;
+- certainty that he has limitless growth;
+- universal fear;
+- universal admiration;
+- omniscient knowledge of his endgame potential.
+
+## Aura Evolution in Volume 1
+
+Early chapters:
+**manufactured aura, mixed results.**
+
+Middle chapters:
+**earned presence begins after witnessed anomaly, survival, and defiance.**
+
+Late Greywake:
+**reputation sometimes creates aura before he deliberately performs.**
+
+Kellan and other practical characters must remain available as anti-hype anchors.
+
+# 11. Pacing Controls
 
 The roadmap intentionally alternates:
 
@@ -858,7 +928,7 @@ The climax runs across **CH-022 to CH-024**, with CH-024 holding the decisive re
 
 The aftermath receives **two chapters**, CH-025 and CH-026.
 
-# 11. Chapter Roadmap Locks
+# 12. Chapter Roadmap Locks
 
 After roadmap QA passes, the following may become locked:
 
@@ -878,7 +948,7 @@ After roadmap QA passes, the following may become locked:
 - CH-025/026 aftermath/departure pacing;
 - no Volume 2 destination.
 
-# 12. Explicitly Deferred
+# 13. Explicitly Deferred
 
 The roadmap does not decide:
 - scene count per chapter;
@@ -893,7 +963,7 @@ The roadmap does not decide:
 - next destination.
 
 
-# 13. Gate 7 Result
+# 14. Gate 7 Result
 
 **PASS**
 

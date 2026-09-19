@@ -105,7 +105,7 @@ The authoritative Volume 1 chapter roadmap is:
 
 The next authorized planning artifact is:
 
-`CH-020 — The Last Lure: Detailed Scene Architecture`
+`CH-020 — The Last Lure: Manuscript Draft`
 
 CH-001 manuscript has passed Gate 9 and is CANON.
 
@@ -211,9 +211,11 @@ No F-ID changed status in CH-019.
 
 M-007 did not advance.
 
-Detailed Scene Architecture for CH-020 — The Last Lure is now authorized.
+CH-020 Scene Architecture has passed Gate 8.
 
-Do not draft CH-020 manuscript before its Scene Architecture and Gate 8 Pre-Manuscript Scene QA pass.
+Drafting CH-020 manuscript prose is now authorized.
+
+Do not draft CH-021 or create CH-021 Scene Architecture during the CH-020 manuscript step.
 
 # 5. Scene Sheet
 Each scene has:

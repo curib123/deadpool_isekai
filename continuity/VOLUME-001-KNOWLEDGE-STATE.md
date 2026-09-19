@@ -2415,7 +2415,7 @@ Do not begin CH-012 during CH-011 Scene Architecture.
 # CH-011 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-011 — Broken North  
-**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+**Status:** SUPERSEDED BY CH-011 CANON CHECKPOINT
 
 ## Red Jackal — Opening CH-011
 
@@ -2638,3 +2638,198 @@ CH-011 must not establish:
 **someone in Greywake has been deliberately deciding where the monster migration kills people.**
 
 That remains the locked CH-013 midpoint revelation.
+
+# CH-011 Canon Checkpoint
+
+**Chapter:** CH-011 — Broken North  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH011-BROKEN-NORTH.md`  
+**QA:** `qa/CH-011-GATE-9-CHAPTER-QA.md`
+
+After CH-011, Red Jackal canonically knows:
+
+- Tavian's ecological evidence and Maelis's documentary evidence independently point toward Broken North;
+- Broken North is under a current Road Guild closure for unstable roadworks, collapse risk, and monster activity;
+- the closure is not obviously fraudulent and the road is genuinely dangerous;
+- he knowingly crossed the closure without authorization;
+- Maelis explicitly recorded the entry as unauthorized;
+- Tavian and Kellan continued for their own safety/investigation/community reasons rather than as Red Jackal's followers;
+- Broken North is genuinely abandoned and deteriorated overall;
+- someone has nevertheless used/serviced part of the route recently;
+- fresh service evidence includes moved stone, boot traffic, cut vegetation, fresh abrasion, and replaced hardware;
+- animal movement near the deeper site remains abnormal;
+- one compact displaced-predator encounter occurred near the ruined watch approach;
+- he successfully created one temporary structural brace under pressure;
+- the brace was useful only because Tavian and Kellan identified the correct tactical/structural need;
+- the group reached a concealed recently serviced maintenance recess;
+- the recess contains installed magical/alchemical animal-diversion equipment;
+- the device is called a **march-lure**;
+- this particular device shows recent servicing.
+
+Red Jackal still does **not** know:
+
+- whether the specific march-lure is operating illegally;
+- its active strength;
+- its exact radius;
+- its exact direction/orientation;
+- how long it has been in use;
+- whether additional lures exist;
+- whether a network exists;
+- who installed it;
+- who owns it;
+- whether Hesk or the Guild authorized it;
+- whether it explains every abnormal migration event;
+- whether outer communities were deliberately selected as sacrifice zones;
+- the CH-013 midpoint truth;
+- protected series truth.
+
+## Tavian Rook — Post-CH-011 Knowledge
+
+Tavian canonically knows:
+
+- ecological and documentary evidence converge on Broken North;
+- recent servicing exists inside the officially abandoned corridor;
+- the animal sign near the site remains abnormal;
+- a march-lure is installed in the concealed maintenance recess;
+- Red Jackal can wait for tactical positioning and use a limited manifestation as requested;
+- Red Jackal remains a dangerous wildcard but can be reliable under immediate pressure.
+
+Tavian does **not** know:
+
+- who installed the march-lure;
+- whether there are additional lures;
+- the full network geometry;
+- Hesk's authorship as fact;
+- the deliberate-sacrifice midpoint truth.
+
+Tavian remains early **R3 — Dangerous Wildcard** in his assessment of Red Jackal.
+
+## Maelis Orra — Post-CH-011 Knowledge
+
+Maelis canonically knows:
+
+- her CH-010 documentary pattern and Tavian's ecology independently converge on Broken North;
+- entry into Broken North was unauthorized;
+- the closure itself had a plausible safety basis;
+- recently maintained physical equipment exists inside the abandoned corridor;
+- the device has manufactured magical/alchemical components;
+- the device is identifiable as a march-lure;
+- Red Jackal is willing to ignore access rules he considers illegitimate;
+- Red Jackal can also follow specialist direction when immediate danger requires it.
+
+Maelis still does **not** know:
+
+- lure legality/strength;
+- effect orientation/radius;
+- whether a network exists;
+- ownership/authorship;
+- Hesk/Guild guilt as fact;
+- deliberate sacrifice as fact.
+
+## Kellan Dorr — Post-CH-011 Knowledge
+
+Kellan canonically knows:
+
+- Broken North's old roadworks are genuinely degraded;
+- some infrastructure inside the closed zone has been disturbed/serviced recently;
+- the outer-route problem now has physical evidence beyond bad maintenance and delayed warnings;
+- a march-lure is installed at the ruined watch site;
+- Red Jackal's strange manifestation can be practically useful when used inside a competent plan.
+
+Kellan still does **not** know:
+
+- who installed the lure;
+- whether more exist;
+- the network/effect geometry;
+- Hesk's role;
+- the full deliberate-sacrifice policy.
+
+## Anti-Villain Expression State After CH-011
+
+CH-011 canonically establishes:
+
+**personally important truth + distrust of controlled access + unlawful trespass + supporting-character disagreement + useful evidence that does not legalize the method.**
+
+Red Jackal:
+- acknowledges the closure may be legitimate;
+- crosses anyway;
+- does not claim the entry is lawful;
+- refuses to let controlled access decide whether the evidence can be inspected.
+
+## Play Logic State After CH-011
+
+CH-011 contains one Stage I utility manifestation:
+
+- temporary structural brace/support;
+- simple purpose;
+- visibly imperfect;
+- limited duration;
+- no retry;
+- no new rule;
+- stamina/concentration cost;
+- supports Tavian/Kellan's plan rather than replacing expertise.
+
+F-004 remains **PLANTED — CH-005**.
+
+## Regeneration / M-005 State After CH-011
+
+No new regeneration clue was introduced.
+
+F-003 remains **PLANTED — CH-007**.
+
+## F-ID State After CH-011
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+No F-ID changed state in CH-011.
+
+## M-007 State After CH-011
+
+M-007 remains inactive.
+
+No Fate/prophecy/destiny/causal-wake material was introduced.
+
+## Local Investigation State After CH-011
+
+Canon physical evidence now establishes:
+
+- Broken North contains recently maintained hidden equipment;
+- the equipment is a march-lure;
+- march-lures are generally animal-diversion tools;
+- the discovered stake has been serviced recently.
+
+Not yet established:
+- legality;
+- illegal strength;
+- duration of operation;
+- effect orientation/radius;
+- number of devices;
+- network existence;
+- ownership;
+- Guild/Hesk authorship;
+- deliberate sacrifice policy.
+
+## CH-012 Handoff
+
+CH-012 — **Someone Put This Here** may now begin with:
+
+- the first march-lure physically discovered at Broken North;
+- Maelis's CH-010 documentary inverse pattern;
+- Tavian's CH-009 ecological pattern;
+- Kellan's infrastructure/community stake;
+- Red Jackal's unauthorized entry and evidence-control distrust;
+- no proof of lure ownership;
+- no proof of a network;
+- no proof yet that Hesk/Guild deliberately redirected danger toward outer communities;
+- no CH-013 midpoint truth yet.
+
+CH-012 may now examine:
+- whether the lure is isolated, legal, accidental, or part of something larger;
+- effect orientation against known routes;
+- evidence-handling/property pressure;
+- the relation between the lure site and Red Jackal's prior job corridors.
+
+Do not cross into CH-013's locked deliberate-sacrifice conclusion during CH-012 Scene Architecture.

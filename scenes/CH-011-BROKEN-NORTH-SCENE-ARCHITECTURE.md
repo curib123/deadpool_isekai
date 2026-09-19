@@ -4,7 +4,7 @@
 **Chapter:** CH-011 — Broken North  
 **Movement:** III — The Road Is Lying  
 **Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-011 MANUSCRIPT AUTHORIZED  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-011 MANUSCRIPT CANON  
 **Final Scene Count:** 5  
 **POV:** Red Jackal first person  
 **Primary Cast:** Red Jackal, Tavian Rook, Maelis Orra, Kellan Dorr  

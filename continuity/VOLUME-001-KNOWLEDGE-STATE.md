@@ -5475,3 +5475,211 @@ CH-018 owns:
 - identifying where temporary Stage I manifestations may buy time.
 
 Broken North is not canonically selected as the solution until CH-018 architecture/manuscript establishes it.
+
+# CH-018 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-018 — No Acceptable Loss  
+**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+
+## Opening State
+
+CH-018 begins from CH-017 canon.
+
+Known:
+- observed backflow remains active;
+- Greywake-facing pressure is worsening;
+- seasonal-cut bridge remains lost;
+- Kellan remains unable to bear weight;
+- Red is recovering abnormally but remains depleted;
+- Hesk has been denied unilateral emergency authority;
+- shared lure oversight is active;
+- Maelis controls protected evidence copies/custody;
+- Tavian requires current route information;
+- Red has chosen to cooperate under shared planning.
+
+## Planning Problem Boundary
+
+CH-018 may explicitly reject as sole strategies:
+
+1. abandoning outer communities;
+2. restoring Hesk's previous hidden lure pattern;
+3. waiting for perfect mapping.
+
+The approved planning objective is:
+
+**create a non-inhabited migration corridor using current shared information, bounded lure timing, engineering, defense and temporary support.**
+
+## Jessa Vale Boundary
+
+Jessa may contribute:
+- service schedules;
+- route-sector codes;
+- recent/stale dispatch identification;
+- known crew assignments;
+- ordinary lure-compound issue records;
+- operational timing/logistics.
+
+She may not:
+- know full ecology;
+- know every hidden site;
+- reveal CH-020 retained lure stock;
+- complete her CH-020 employment/family-risk decision early.
+
+## Broken North — Architecture Selection Only
+
+CH-018 Scene Architecture selects **Broken North corridor** as the planned redirection route.
+
+This is **not yet manuscript canon**.
+
+The selection is supported by existing canon:
+
+- partly abandoned;
+- partly collapsed;
+- less inhabited than active routes;
+- formerly connected to three smaller routes;
+- old watch point/drainage works;
+- prior abnormal migration drift;
+- known march-lure installation;
+- geographic continuity away from populated approaches.
+
+Known limitations:
+- washouts;
+- cracked road lip;
+- old retaining damage;
+- roots/forest encroachment;
+- elevated monster activity;
+- corridor physically unready.
+
+CH-019 retains actual corridor preparation.
+
+## Kellan / Sela Boundary
+
+Kellan may participate only through a short supervised consultation.
+
+Kellan remains:
+- splinted;
+- non-weight-bearing;
+- injured;
+- medically limited.
+
+He may contribute:
+- old connector knowledge;
+- structural danger points;
+- broad material/work priorities.
+
+He may not:
+- enter field work;
+- stand/walk independently;
+- design the whole solution.
+
+Sela may terminate his consultation and may also constrain Red's assumed workload/manifestation capacity.
+
+## Tavian Redirection Boundary
+
+Tavian may design a plan using:
+
+- current route reports;
+- known lure sites/states;
+- controlled lure strength/timing;
+- populated-route avoidance;
+- Broken North as a lower-resistance corridor;
+- continuous observation and abort/revise conditions.
+
+He must not claim:
+- perfect prediction;
+- total lure-network knowledge;
+- guaranteed success.
+
+## Brynn Boundary
+
+Brynn may assign:
+
+- militia route control;
+- work-crew protection;
+- warning runners;
+- evacuation fallback;
+- checkpoints;
+- authority to halt unsafe field changes.
+
+Shared emergency oversight remains active.
+
+## Maelis Boundary
+
+Maelis may require:
+
+- recorded lure-change authorization;
+- witnesses;
+- copied service-action logs;
+- evidence separation from sole Guild control.
+
+Emergency use of Guild tools does not absolve Hesk.
+
+## Hesk Boundary
+
+Hesk may:
+- object that Broken North is too damaged;
+- argue the plan is too slow/risky;
+- defend main-road resources;
+- provide relevant technical constraints.
+
+He may not:
+- regain unilateral control;
+- reveal/use CH-020 hidden fallback stock;
+- sabotage the CH-018 session.
+
+## Red Jackal Boundary
+
+Red must:
+- let specialists lead;
+- contribute direct observations;
+- accept a bounded support role;
+- ask where Stage I utility may help;
+- accept that engineering must carry the permanent load.
+
+CH-018 contains no actual Play Logic manifestation.
+
+Future planned Stage I support may include:
+- temporary brace;
+- ramp/footing;
+- low barrier;
+- wedge/support;
+- simple emergency tool.
+
+## CH-019 Firewall
+
+CH-018 must not:
+- physically clear Broken North;
+- rebuild roadworks;
+- place field barriers;
+- perform repeated manifestations;
+- execute lure timing;
+- fight construction-site monsters.
+
+CH-019 owns physical corridor preparation.
+
+## CH-020 Firewall
+
+CH-018 must not reveal:
+- hidden retained lure stock;
+- Hesk's unauthorized fallback supply;
+- evidence destruction/seizure attempt;
+- Jessa's decisive complicity break.
+
+## F-ID / Mystery State
+
+No new F-ID.
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+M-007 does not advance.
+
+## Locked Architecture Ending
+
+CH-018 manuscript, if approved later, must end with the coalition committing to:
+
+**redirect the surge through Broken North instead of sacrificing the outer homesteads.**
+
+Until the manuscript passes Gate 9, this remains architecture support rather than canon.

@@ -171,7 +171,7 @@ Foundation changes:
 
 All older Stage-I ceiling language is legacy until revised.
 
-**Current production priority:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.
+**Current production priority:** revise every canon manuscript CH-001→CH-027 to the locked close-third style, revalidate Gate 9, then refresh publication copies.
 
 
 ## Volume 1 Power-Retcon Manuscript Audit Result

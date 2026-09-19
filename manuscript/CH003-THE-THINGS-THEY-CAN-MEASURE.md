@@ -28,7 +28,7 @@ She gestured to the chair across from her. “Before we begin, I want to make th
 
 “It is meant to be.”
 
-That was less reassuring. Maelis rested one hand on a closed notebook. “This morning's gate result established that two separate authorized System interfaces could not produce a valid identity record for you.”
+That was less reassuring. Maelis rested one hand on a closed notebook. “This morning's intake established that two separate authorized System interfaces could not produce a valid identity record for you.”
 
 “I'm aware.”
 
@@ -160,7 +160,7 @@ Probably both.
 
 The last item in that group was a flat metal tag no larger than my palm.
 
-“Place the entrant token against this.”
+“Material Verification Tag,” Maelis said. “Place the entrant token against this.”
 
 I removed the wooden token from inside my coat and pressed it to the plate. A thin mark appeared along the edge.
 
@@ -414,7 +414,7 @@ It did not improve my mood.
 
 “Yes.”
 
-“But the System can't tell you my name, race, class, level, HP, MP, progression, world record, or soul record.”
+“But the System can't tell you my name, race, class, level, HP, MP, progression, World Registry, or Soul Registry.”
 
 “Yes.”
 

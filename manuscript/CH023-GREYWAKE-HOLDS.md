@@ -180,7 +180,7 @@ The fallen worker stared at him.
 
 He decided later was an excellent time.
 
-they moved.
+They moved.
 
 His wound was already pulling itself closed under the blood. Pain remained. Apparently his body believed healing and kindness were unrelated concepts.
 

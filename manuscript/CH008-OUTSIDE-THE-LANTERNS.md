@@ -1,11 +1,12 @@
 # Chapter 8 — Outside the Lanterns
 
 **Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
-**Word Count:** 2964,965  
+**Word Count:** 2,957  
+**Chapter QA:** `qa/CH-008-GATE-9-CHAPTER-QA.md`
 
 Sela had said rest. He had interpreted that as avoid getting torn open again before lunch. This seemed reasonable. His ribs disagreed. Every step down Greywake's western approach pulled faintly along his left side, not enough to stop him, just enough to remind him that the previous day had happened and his body had not filed it under resolved.
 
-The Road Guild had found him another job anyway. Of course they had. Apparently being medically confusing did not remove a person from the labor pool.
+The Road Guild had found him another job anyway. Of course they had. Apparently being medically confusing did not remove you from the labor pool.
 
 He had taken it for three reasons. It paid. It got him out of Sela's treatment house before she could decide rest required supervision. And after seeing how much attention the Main Caravan Road received, he wanted to know what “less protected” actually looked like when nobody was summarizing it for him.
 
@@ -13,19 +14,19 @@ None of those reasons were charity. That suited him.
 
 A charged Wayfarer Tongue Token hung from the side of the small work cart beside him. Two men walked ahead with axes and hand tools over their shoulders. A third pushed a narrow wheelbarrow loaded with iron straps, nails, rope, and pieces of reused timber.
 
-The man leading them had introduced himself as Kellan Dorr. He had looked him over once, noticed how carefully he was turning his torso, and asked, “Can you lift?” Not who he was. Not what had happened to him.
+The man leading them had introduced himself as Kellan Dorr. He had looked him over once, noticed how carefully he was turning his torso, and asked, “Can you lift?” Not who are you. Not what happened to you.
 
-Not whether the stories were true. Just: could he lift? Red had liked him less immediately.
+Not are the stories true. Can you lift. He had liked him less immediately.
 
-“he can lift.”
+“I can lift.”
 
 “How much?”
 
-That had been harder. They left the better road behind before he found an answer. The transition was not dramatic. There was no gate. No sign saying civilization ended here. The maintained road simply narrowed, the drainage became shallower, and the lantern posts grew farther apart.
+That had been harder. they left the better road behind before he found an answer. The transition was not dramatic. There was no gate. No sign saying civilization ended here. The maintained road simply narrowed, the drainage became shallower, and the lantern posts grew farther apart.
 
 Greywake's regular road lamps were simple covered fixtures mounted on waist-thick posts. They marked the route at predictable intervals along the busier approaches. Then there was one last post. After that, nothing. The road continued.
 
-So did the people. A farm sat beyond the next bend, its fields cut into strips between low stone walls. Farther on, smoke rose from a timber workshop. They passed a storage shed built beside a wagon track and two children carrying a basket between houses set well back from the road.
+So did the people. A farm sat beyond the next bend, its fields cut into strips between low stone walls. Farther on, smoke rose from a timber workshop. they passed a storage shed built beside a wagon track and two children carrying a basket between houses set well back from the road.
 
 No wall. No guard post. No neat line where human life stopped. Only fewer things provided by Greywake. Kellan pointed with his chin toward the lantern behind them.
 
@@ -45,7 +46,7 @@ One of the workers snorted. Kellan did not. He pointed at a bundle of cut boards
 
 He looked at the longer beams.
 
-“he can carry those.”
+“I can carry those.”
 
 “You're guarding your left side.”
 
@@ -57,7 +58,7 @@ He took the short boards. Being mysterious had once again led directly to lumber
 
 There was a difference. Ruts had been filled with stone where someone had the material. Small drainage cuts had been reopened by hand. A washed section near one field had been reinforced with brush bundles and flat rock.
 
-None of it looked elegant. All of it looked used. They passed a cart loaded with sacks going toward Greywake. Another came the other way carrying iron tools and salt. A woman near a workshop waved to Kellan and asked whether the bridge would be open by evening.
+None of it looked elegant. All of it looked used. they passed a cart loaded with sacks going toward Greywake. Another came the other way carrying iron tools and salt. A woman near a workshop waved to Kellan and asked whether the bridge would be open by evening.
 
 “If the approach holds,” he said.
 
@@ -85,7 +86,7 @@ The man below him answered.
 
 “Peg, maybe. Timber's soft.”
 
-Kellan leaned farther over. Red watched him judge the grain, the moisture, and the old repairs. Kellan pointed to one of the boards Red had carried.
+Kellan leaned farther over. He watched him judge the grain, the moisture, the old repairs. He pointed to one of the boards he had carried.
 
 “Not that one. Too narrow.”
 
@@ -99,7 +100,7 @@ Kellan glanced at him.
 
 “This season?”
 
-“That is not the answer he wanted.”
+“That is not the answer I wanted.”
 
 “Three.”
 
@@ -107,7 +108,7 @@ He looked again. The Guild bridge from his first road job had been damaged, but 
 
 “You reuse the decking.”
 
-“they reuse what still carries weight.”
+“We reuse what still carries weight.”
 
 “You asked for replacements?”
 
@@ -135,11 +136,11 @@ By the fourth, his side had begun sending written complaints directly to his spi
 
 “Set it down.”
 
-“he have it.”
+“I have it.”
 
 “You're twisting.”
 
-“he am aware.”
+“I am aware.”
 
 “You're doing it anyway.”
 
@@ -153,7 +154,7 @@ He nodded toward a lighter crate.
 
 “Do you assign everyone based on medical disappointment?”
 
-“he assign them based on whether he want to finish today.”
+“I assign them based on whether I want to finish today.”
 
 He took the lighter crate. This was going badly for his image. The work continued. That was the second thing he noticed about the outer homesteads. Nobody seemed surprised by inconvenience.
 
@@ -165,7 +166,7 @@ Probably for a very short time. He leaned against the cart. His breathing had be
 
 “You should sit.”
 
-“he am standing efficiently.”
+“I am standing efficiently.”
 
 “You're pale.”
 
@@ -201,7 +202,7 @@ He tightened the strap.
 
 He hit the strap once with the hammer.
 
-“Then wait for boards when theirs rot.”
+“Then wait for boards when ours rot.”
 
 There it was. Not a speech. Just arithmetic. He looked down at the bridge again. The Guild crew on the Main Caravan Road had not been lazy.
 
@@ -219,11 +220,13 @@ Kellan crouched at the approach and pressed his boot into the packed stone. It h
 
 The driver had already moved the cart forward by half a wheel. He stopped. Kellan pushed at the edge with a pry bar. The packed section crumbled slightly beneath the wheel track.
 
-“Back?” the driver asked.
+“Back?”
+
+the driver asked.
 
 “No.”
 
-Kellan looked at the driver.
+He looked at him.
 
 “No forward. No back.”
 
@@ -237,13 +240,13 @@ He pointed beneath the wheel path.
 
 One of the workers looked under the approach.
 
-“they can pack more stone.”
+“We can pack more stone.”
 
 “Not with the wheel there.”
 
 He looked at the gap. It was not large. The kind of problem that looked easy until a loaded cart put half its weight on it. He had an idea. That was becoming dangerous.
 
-“he can make something.”
+“I can make something.”
 
 Kellan looked at him.
 
@@ -255,7 +258,7 @@ Kellan looked at him.
 
 Good question.
 
-“him.”
+“Me.”
 
 He stared. He clarified.
 
@@ -273,9 +276,9 @@ That did not help. One of the workers looked interested now. Kellan did not.
 
 His expression changed by maybe half a degree. Finally. A challenge.
 
-“If it disappears under the wheel, they lose the cart and maybe the bridge edge.”
+“If it disappears under the wheel, we lose the cart and maybe the bridge edge.”
 
-“he know.”
+“I know.”
 
 “Do you?”
 
@@ -293,7 +296,7 @@ He looked. The root shelf was a hard line of compacted soil and old roots beside
 
 “Why not under the support?”
 
-“Because when your thing disappears, he don't want the bridge learning it was load-bearing.”
+“Because when your thing disappears, I don't want the bridge learning it was load-bearing.”
 
 Fair.
 
@@ -321,13 +324,13 @@ The driver looked at him.
 
 “Because the right half is flatter.”
 
-Kellan looked at the driver.
+He looked at him.
 
 “Can it move?”
 
 “No.”
 
-“Then they move.”
+“Then we move.”
 
 No admiration. No existential crisis. Just geometry. The workers shifted the cart's angle with ropes and shoulder pressure. His impossible slab sat there being evaluated like bad lumber.
 
@@ -385,17 +388,17 @@ He frowned.
 
 “Good?”
 
-“Means he don't have to wonder whether you'll decide the rest of the bridge can be imaginary.”
+“Means I don't have to wonder whether you'll decide the rest of the bridge can be imaginary.”
 
 He almost laughed. Almost. He pointed toward the cart.
 
 “Your trick got the load across. It did not fix the approach.”
 
-“he noticed.”
+“I noticed.”
 
 “Good.”
 
-He turned back to the workers. That was apparently the end of his magical evaluation. They spent the next hour doing the permanent part. Stone. Timber.
+He turned back to the workers. That was apparently the end of his magical evaluation. they spent the next hour doing the permanent part. Stone. Timber.
 
 Iron. Mud. Nothing appeared from nowhere. The approach was packed wider around the root shelf. A second brace went under the outer edge. Two deck boards were turned and reused because their undersides were less worn.
 
@@ -411,7 +414,7 @@ He added a simple wheel symbol beneath it and crossed out the larger wagon picto
 
 Reasonable.
 
-The supply cart continued west. They walked with it to the next junction. This stretch of road was worse. Not unusable. Just tired.
+The supply cart continued west. they walked with it to the next junction. This stretch of road was worse. Not unusable. Just tired.
 
 The surface had been patched in different materials. Some drainage cuts were lined with stone, others with split logs. One marker post had an old Guild stamp burned into it and a newer local repair brace nailed around the base.
 

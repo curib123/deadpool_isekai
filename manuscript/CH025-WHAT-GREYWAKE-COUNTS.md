@@ -1,6 +1,6 @@
 # Chapter 25 — What Greywake Counts
 
-**Status:** DRAFT — GATE 9 NOT YET RUN  
+**Status:** CANON — GATE 9 PASS / AFTERMATH MODE LOCKED  
 **Word Count:** 2,135
 
 Sela looked at the wound in my side, then at me.

@@ -4,45 +4,23 @@
 **Revision Date:** 2026-09-20
 **Word Count:** 2512
 
-By early afternoon, the wooden entrant token hanging inside my coat had become the most official thing I owned.
+By early afternoon, the wooden entrant token hanging inside my coat had become the most official thing I owned. That was not a high bar. Greywake's records district sat under covered timber walkways where rain tapped the roofs and clerks moved between offices carrying bundles of paper like the weather had personally declared war on filing systems. I followed the directions I had been given, climbed a narrow staircase, and found Maelis Orra waiting in a second-floor Ledger room.
 
-That was not a high bar.
+A long table stood between us. So did several objects I did not recognize. Metal plates. A pale bead held in a clip. A thin transparent strip marked with a grid. A flat verification tag. A clear prism in a protective frame. And, at the far end, a Certified Identity Slate.
 
-Greywake's records district sat under covered timber walkways where rain tapped the roofs and clerks moved between offices carrying bundles of paper like the weather had personally declared war on filing systems. I followed the directions I had been given, climbed a narrow staircase, and found Maelis Orra waiting in a second-floor Ledger room.
+I recognized that one. We had history. A charged Wayfarer Tongue Token hung from a brass stand near the center of the table. The faint pressure around my ears settled in as soon as I entered its range.
 
-A long table stood between us.
+Good. At least the investigation would be understandable. A Greywake records clerk sat at the far end with fresh forms.
 
-So did several objects I did not recognize.
-
-Metal plates. A pale bead held in a clip. A thin transparent strip marked with a grid. A flat verification tag. A clear prism in a protective frame. And, at the far end, a Certified Identity Slate.
-
-I recognized that one.
-
-We had history.
-
-A charged Wayfarer Tongue Token hung from a brass stand near the center of the table. The faint pressure around my ears settled in as soon as I entered its range.
-
-Good. At least the investigation would be understandable.
-
-A Greywake records clerk sat at the far end with fresh forms.
-
-Different clerk from the gate.
-
-My administrative problem had already expanded to new people.
-
-Maelis looked up. "You came back."
+Different clerk from the gate. My administrative problem had already expanded to new people. Maelis looked up. "You came back."
 
 "I was told to."
 
 "That is usually how scheduled follow-ups work."
 
-I closed the door. "You have a gift for making obedience sound disappointing."
+I closed the door. "You have a gift for making obedience sound disappointing." She gestured to the chair across from her. "Sit."
 
-She gestured to the chair across from her. "Sit."
-
-I sat.
-
-Maelis rested one hand on a closed notebook. "Before we begin, I want the procedure clear. This morning established that two separate authorized System interfaces could not produce a valid identity record for you."
+I sat. Maelis rested one hand on a closed notebook. "Before we begin, I want the procedure clear. This morning established that two separate authorized System interfaces could not produce a valid identity record for you."
 
 "I'm aware."
 
@@ -64,21 +42,11 @@ There was no arrogance in the answer. That made it harder to argue with.
 
 "Then we will know more precisely what we do not know."
 
-I stared at her for a second.
+I stared at her for a second. Annoyingly reasonable. The clerk shifted the Certified Identity Slate closer. Maelis nodded toward him. "Before it is used on you, we establish a control."
 
-Annoyingly reasonable.
+He placed his hand above the slate. Its surface clouded, brightened, and filled with symbols I still could not read. Some things remained dependable.
 
-The clerk shifted the Certified Identity Slate closer. Maelis nodded toward him. "Before it is used on you, we establish a control."
-
-He placed his hand above the slate.
-
-Its surface clouded, brightened, and filled with symbols I still could not read.
-
-Some things remained dependable.
-
-Maelis checked the result. "Recognized."
-
-That was all she read aloud. The clerk removed his hand and the slate dimmed.
+Maelis checked the result. "Recognized." That was all she read aloud. The clerk removed his hand and the slate dimmed.
 
 "So it works."
 
@@ -88,9 +56,7 @@ That was all she read aloud. The clerk removed his hand and the slate dimmed.
 
 "For me, yes."
 
-I was beginning to understand the shape of our relationship.
-
-Maelis did not bring the slate toward me yet. Instead, she stood and crossed to a low metal platform mounted inside a wooden frame.
+I was beginning to understand the shape of our relationship. Maelis did not bring the slate toward me yet. Instead, she stood and crossed to a low metal platform mounted inside a wooden frame.
 
 "Calibrated Balance Plate."
 
@@ -102,21 +68,15 @@ I looked down at it. "You need a magical floor to confirm I have weight?"
 
 "It is not intended to flatter you."
 
-I stepped onto the plate.
+I stepped onto the plate. A narrow indicator arm moved along the side of the frame. The clerk recorded where it stopped.
 
-A narrow indicator arm moved along the side of the frame. The clerk recorded where it stopped.
-
-Maelis reset it. "Again."
-
-I stepped off, then back on.
+Maelis reset it. "Again." I stepped off, then back on.
 
 The indicator stopped at the same place.
 
 "Stable," she said.
 
-No number was read aloud.
-
-I was perfectly comfortable with that arrangement.
+No number was read aloud. I was perfectly comfortable with that arrangement.
 
 "So gravity recognizes me."
 
@@ -138,23 +98,17 @@ She placed it near the inside of my wrist. A faint line formed across its surfac
 
 "Good. Strong start."
 
-Maelis gave me the same expression she had given the balance plate: the one that said results were more important than my relationship with them.
-
-The next instrument was simpler. She picked up the transparent measuring strip and looked at my left forearm.
+Maelis gave me the same expression she had given the balance plate: the one that said results were more important than my relationship with them. The next instrument was simpler. She picked up the transparent measuring strip and looked at my left forearm.
 
 "The injury from the north road."
 
-I rolled up the sleeve.
-
-The cuts were still there, though smaller than they had any right to be. The skin around them remained tender, and one deeper mark pulled when I turned my wrist.
+I rolled up the sleeve. The cuts were still there, though smaller than they had any right to be. The skin around them remained tender, and one deeper mark pulled when I turned my wrist.
 
 "How long ago?" she asked.
 
 "This morning."
 
-The clerk looked up.
-
-Maelis did not.
+The clerk looked up. Maelis did not.
 
 "Were they deeper when you arrived?"
 
@@ -164,57 +118,39 @@ Maelis did not.
 
 "No."
 
-The clerk's pen stopped.
-
-Maelis placed the transparent grid beside the longest mark without touching me.
+The clerk's pen stopped. Maelis placed the transparent grid beside the longest mark without touching me.
 
 "Current visible state only," she said.
 
-The pen started again.
+The pen started again. No question about healing speed. No conclusion about what had happened. No attempt to make the wound into the center of the chapter.
 
-No question about healing speed. No conclusion about what had happened. No attempt to make the wound into the center of the chapter.
-
-I noticed.
-
-She lowered my sleeve. "This records what is present now. It does not establish how it reached this state."
+I noticed. She lowered my sleeve. "This records what is present now. It does not establish how it reached this state."
 
 "You're very careful."
 
 "Yes."
 
-I was starting to suspect that was the entire job description.
-
-The last tool in the first group was a flat metal tag small enough to fit in my palm.
+I was starting to suspect that was the entire job description. The last tool in the first group was a flat metal tag small enough to fit in my palm.
 
 "Material Verification Tag. Place your entrant token against it."
 
-I removed the wooden tag from inside my coat and pressed it to the plate.
-
-A thin mark appeared along one edge.
+I removed the wooden tag from inside my coat and pressed it to the plate. A thin mark appeared along one edge.
 
 "Present physical material," Maelis said.
 
-She had me repeat the check with the edge of my coat. Same response.
-
-I looked from the tag to the balance plate, then to the thermal bead.
+She had me repeat the check with the edge of my coat. Same response. I looked from the tag to the balance plate, then to the thermal bead.
 
 "So far we've established that I have mass, body heat, injuries, clothes, and a piece of wood."
 
 "Yes."
 
-I waited.
-
-She waited.
+I waited. She waited.
 
 "That sounded more impressive before I listed it."
 
 "It is still useful."
 
-The world paused.
-
-Rain froze against the window.
-
-The clerk's pen stopped above the paper, its tip a hair from touching the page.
+The world paused. Rain froze against the window. The clerk's pen stopped above the paper, its tip a hair from touching the page.
 
 I looked toward you.
 
@@ -232,15 +168,9 @@ A pause.
 
 "Very exclusive club."
 
-Time resumed.
+Time resumed. The pen touched paper. Rain finished striking the window.
 
-The pen touched paper. Rain finished striking the window.
-
-Maelis had noticed nothing.
-
-She reviewed the page in front of her. "Your physical presence is consistently measurable through instruments that do not require a System identity."
-
-I leaned back. "So I'm not an illusion."
+Maelis had noticed nothing. She reviewed the page in front of her. "Your physical presence is consistently measurable through instruments that do not require a System identity." I leaned back. "So I'm not an illusion."
 
 "I had not concluded that you were."
 
@@ -248,13 +178,9 @@ I leaned back. "So I'm not an illusion."
 
 "I considered several possibilities."
 
-I decided not to ask for the full list. There were limits to how much professional suspicion a man needed before lunch.
+I decided not to ask for the full list. There were limits to how much professional suspicion a man needed before lunch. Maelis reached for the clear triangular prism.
 
-Maelis reached for the clear triangular prism.
-
-This one looked more like magic.
-
-Grey daylight entered one side of the glass and broke into thin bands across the table.
+This one looked more like magic. Grey daylight entered one side of the glass and broke into thin bands across the table.
 
 "Mana-Reactivity Prism," she said.
 
@@ -266,23 +192,15 @@ I sat a little straighter. "What does it measure?"
 
 "Yes."
 
-That was more interesting.
+That was more interesting. The memory of the forest came back easily: teeth, blood, panic, and a dark slab appearing where empty air had been. I had not told anyone about that.
 
-The memory of the forest came back easily: teeth, blood, panic, and a dark slab appearing where empty air had been.
-
-I had not told anyone about that.
-
-I was not planning to start now.
-
-Maelis placed the prism between us. "This does not measure your MP."
+I was not planning to start now. Maelis placed the prism between us. "This does not measure your MP."
 
 "Because I don't have a readable MP."
 
 "Because the System cannot produce a valid MP field for you."
 
-The distinction was small.
-
-Apparently that meant it was important.
+The distinction was small. Apparently that meant it was important.
 
 "The prism emits a standardized low-output pulse," she continued. "It records whether local mana physically interacts with the subject."
 
@@ -294,25 +212,13 @@ Apparently that meant it was important.
 
 "Because it is not dangerous."
 
-I held out my hand.
+I held out my hand. She positioned the prism several inches beneath my palm and touched one of the metal contacts. The glass brightened.
 
-She positioned the prism several inches beneath my palm and touched one of the metal contacts.
+Something moved across my skin. Not heat. Not wind. More like pressure without direction, present everywhere at once for a fraction of a second.
 
-The glass brightened.
+Thin lines of light inside the prism bent toward my hand. They gathered. Held.
 
-Something moved across my skin.
-
-Not heat. Not wind. More like pressure without direction, present everywhere at once for a fraction of a second.
-
-Thin lines of light inside the prism bent toward my hand.
-
-They gathered.
-
-Held.
-
-Then separated again.
-
-The room stayed quiet until the light faded.
+Then separated again. The room stayed quiet until the light faded.
 
 "What?" I asked.
 
@@ -324,9 +230,7 @@ I looked at my hand. It looked disappointingly normal.
 
 "Your body physically affects the standardized mana pulse."
 
-I waited for the rest.
-
-There was no rest.
+I waited for the rest. There was no rest.
 
 "So I have magic."
 
@@ -338,13 +242,9 @@ Of course it wasn't.
 
 "That the pulse interacted with you."
 
-She reset the prism. "We repeat once."
+She reset the prism. "We repeat once." The second test produced the same result.
 
-The second test produced the same result.
-
-Light gathered toward my hand, shifted, then separated.
-
-The clerk recorded it.
+Light gathered toward my hand, shifted, then separated. The clerk recorded it.
 
 "Repeatable," Maelis said.
 
@@ -354,31 +254,15 @@ The clerk recorded it.
 
 "Tragic."
 
-Her face remained completely serious.
+Her face remained completely serious. I was not convinced she was incapable of humor. I suspected she simply refused to let me choose when it happened.
 
-I was not convinced she was incapable of humor.
+I looked at the prism again. Mana could touch me. That mattered.
 
-I suspected she simply refused to let me choose when it happened.
+The System still could not give me an MP value, but the thing everyone here called mana did not pass through me like I was absent. I interacted with it physically. That did not explain the slab in the forest.
 
-I looked at the prism again.
+It only removed another easy explanation. I was collecting those. Maelis returned the prism to its case. "Now we repeat the identity query."
 
-Mana could touch me.
-
-That mattered.
-
-The System still could not give me an MP value, but the thing everyone here called mana did not pass through me like I was absent. I interacted with it physically.
-
-That did not explain the slab in the forest.
-
-It only removed another easy explanation.
-
-I was collecting those.
-
-Maelis returned the prism to its case. "Now we repeat the identity query."
-
-The room became less interesting immediately.
-
-The clerk moved the Certified Identity Slate to the center of the table. Maelis checked the control mark again.
+The room became less interesting immediately. The clerk moved the Certified Identity Slate to the center of the table. Maelis checked the control mark again.
 
 "Still functioning."
 
@@ -386,23 +270,11 @@ The clerk moved the Certified Identity Slate to the center of the table. Maelis 
 
 "Hand above the center."
 
-I did.
+I did. The surface clouded. Symbols appeared.
 
-The surface clouded.
+Same unreadable lines. Same pause while two people who could read them quietly became less comfortable. Maelis's expression barely changed.
 
-Symbols appeared.
-
-Same unreadable lines.
-
-Same pause while two people who could read them quietly became less comfortable.
-
-Maelis's expression barely changed.
-
-The clerk's did.
-
-I already knew.
-
-Still, hearing it mattered.
+The clerk's did. I already knew. Still, hearing it mattered.
 
 "Name: undefined," Maelis said.
 
@@ -414,11 +286,7 @@ The clerk kept writing.
 
 "HP: undefined. MP: undefined. Progression unavailable."
 
-I glanced at the prism.
-
-Mana interacted with me.
-
-The System still could not turn that fact into an MP value.
+I glanced at the prism. Mana interacted with me. The System still could not turn that fact into an MP value.
 
 Maelis continued. "System Recognition: failed. Classification: anomaly. World Registry: no record."
 
@@ -426,23 +294,11 @@ She paused before the final field.
 
 "Soul Registry: no record."
 
-Same result.
+Same result. The room went quiet. The balance plate had measured me.
 
-The room went quiet.
+The thermal bead had measured me. The wound gauge had measured me. The material tag had measured things touching me.
 
-The balance plate had measured me.
-
-The thermal bead had measured me.
-
-The wound gauge had measured me.
-
-The material tag had measured things touching me.
-
-Mana had touched me.
-
-The System still looked for a person and came back empty.
-
-The world paused.
+Mana had touched me. The System still looked for a person and came back empty. The world paused.
 
 The faint hum of the Wayfarer token vanished. Rain stopped against the glass. Maelis froze with one finger resting beside the slate.
 
@@ -458,11 +314,7 @@ I looked back toward you.
 
 "Apparently I get paperwork with an existential crisis."
 
-Time resumed.
-
-Rain struck the window.
-
-Maelis had not moved except to finish the motion she had already begun.
+Time resumed. Rain struck the window. Maelis had not moved except to finish the motion she had already begun.
 
 I lowered my hand.
 
@@ -482,11 +334,7 @@ I lowered my hand.
 
 "It is accurate."
 
-She wrote it down.
-
-Naturally.
-
-I watched her for a moment. "You have theories."
+She wrote it down. Naturally. I watched her for a moment. "You have theories."
 
 "Several."
 
@@ -506,15 +354,9 @@ I stared at her.
 
 "Yes."
 
-I could see why the Ledger hired her.
+I could see why the Ledger hired her. It probably prevented entire institutions from declaring prophecy every time a machine made an unusual noise. Maelis closed the slate cover. "What I can say is that simple local device failure is no longer a sufficient explanation."
 
-It probably prevented entire institutions from declaring prophecy every time a machine made an unusual noise.
-
-Maelis closed the slate cover. "What I can say is that simple local device failure is no longer a sufficient explanation."
-
-That was the closest thing to an answer I had received.
-
-It did not improve my mood.
+That was the closest thing to an answer I had received. It did not improve my mood.
 
 "So I'm physically real."
 
@@ -528,25 +370,13 @@ It did not improve my mood.
 
 "Correct."
 
-I thought about that.
+I thought about that. There was a difference between being hidden and being absent. Yesterday—if yesterday still meant anything—I might have found the difference philosophical.
 
-There was a difference between being hidden and being absent.
+Today it controlled whether I could get a job. A knock came at the door. The clerk opened it.
 
-Yesterday—if yesterday still meant anything—I might have found the difference philosophical.
+A young woman stood outside holding a bundle of folded forms against her chest. She looked around my age, maybe younger, with the tired expression of someone who spent most of her life discovering that other people had filled things out incorrectly. Her eyes went to Maelis first, then the clerk, then the wooden token visible at the edge of my coat.
 
-Today it controlled whether I could get a job.
-
-A knock came at the door.
-
-The clerk opened it.
-
-A young woman stood outside holding a bundle of folded forms against her chest. She looked around my age, maybe younger, with the tired expression of someone who spent most of her life discovering that other people had filled things out incorrectly.
-
-Her eyes went to Maelis first, then the clerk, then the wooden token visible at the edge of my coat.
-
-A small pause.
-
-She knew the problem before she knew me.
+A small pause. She knew the problem before she knew me.
 
 "Jessa Vale," Maelis said. "Road Guild records."
 
@@ -556,19 +386,13 @@ Jessa shifted the forms in her arms. "I have the route certification copies you 
 
 "Yes."
 
-Maelis held out a hand.
-
-Jessa passed her most of the stack but kept one folded sheet.
-
-Then she looked at me. "Red Jackal?"
+Maelis held out a hand. Jessa passed her most of the stack but kept one folded sheet. Then she looked at me. "Red Jackal?"
 
 "Depends who's asking."
 
 "Road Guild."
 
-That narrowed it down very little.
-
-She looked at the clerk. "His standard contract file still can't be opened?"
+That narrowed it down very little. She looked at the clerk. "His standard contract file still can't be opened?"
 
 "No valid registry identity," he said.
 
@@ -576,27 +400,15 @@ Jessa nodded as if she had expected the answer. Then she held the remaining shee
 
 "This isn't a contract."
 
-I took it.
+I took it. The writing meant nothing to me. I turned it over.
 
-The writing meant nothing to me.
-
-I turned it over.
-
-Still nothing.
-
-I looked back at her.
-
-She remembered. "Right."
+Still nothing. I looked back at her. She remembered. "Right."
 
 The Wayfarer token hummed between us.
 
 "Roadmaster Rovan Hesk wants to speak with you," she said. "He may have work available that doesn't require standard registered guild status."
 
-That was interesting.
-
-Maelis's eyes moved from Jessa to me.
-
-Not suspicious.
+That was interesting. Maelis's eyes moved from Jessa to me. Not suspicious.
 
 Attentive.
 
@@ -606,21 +418,11 @@ Attentive.
 
 "Legal?"
 
-Jessa hesitated for half a second. "Work that can be arranged privately."
+Jessa hesitated for half a second. "Work that can be arranged privately." Not the same answer.
 
-Not the same answer.
+Good to know. I looked at the unreadable page in my hand. The normal guild system could not process me.
 
-Good to know.
-
-I looked at the unreadable page in my hand.
-
-The normal guild system could not process me.
-
-Someone in charge of that same guild had already decided this was not an obstacle.
-
-That was probably not generosity.
-
-Still, I needed money.
+Someone in charge of that same guild had already decided this was not an obstacle. That was probably not generosity. Still, I needed money.
 
 Food remained stubbornly attached to that problem.
 
@@ -628,15 +430,9 @@ Food remained stubbornly attached to that problem.
 
 "Roadmaster Hesk can see you later today."
 
-I folded the paper once and slipped it inside my coat beside the Unverified Entrant Token.
+I folded the paper once and slipped it inside my coat beside the Unverified Entrant Token. One document said Greywake could not process me normally. The other existed because someone had already found a use for exactly that problem.
 
-One document said Greywake could not process me normally.
-
-The other existed because someone had already found a use for exactly that problem.
-
-Interesting city.
-
-Maelis reopened her notebook. "Your follow-up is complete for now."
+Interesting city. Maelis reopened her notebook. "Your follow-up is complete for now."
 
 "For now."
 
@@ -646,22 +442,10 @@ I stood. "Any change to my restrictions?"
 
 "No."
 
-Of course not.
+Of course not. I had spent the afternoon proving that I possessed mass, heat, material presence, wounds, and a measurable interaction with mana. Apparently none of those things qualified me for standard employment.
 
-I had spent the afternoon proving that I possessed mass, heat, material presence, wounds, and a measurable interaction with mana.
+I looked at Jessa. "Tell Hesk I'll hear him out." She nodded.
 
-Apparently none of those things qualified me for standard employment.
+That was enough. I headed for the door. Behind me, Maelis's pen started moving again.
 
-I looked at Jessa. "Tell Hesk I'll hear him out."
-
-She nodded.
-
-That was enough.
-
-I headed for the door.
-
-Behind me, Maelis's pen started moving again.
-
-The System still could not define me.
-
-But it was measurable.
+The System still could not define me. But it was measurable.

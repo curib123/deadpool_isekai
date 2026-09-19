@@ -8,6 +8,24 @@
 **POV:** Red Jackal first person  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
+# Soul-Drift / Final Story-Engine Override
+
+This scene architecture predates the final Soul-Drift / overpowered story-engine retcon.
+
+The **five-scene event sequence remains locked**, but conflicting old power-language is superseded by:
+- `planning/RED-JACKAL-SOUL-DRIFT-MASTER-RETCON.md`;
+- `planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md`;
+- `manuscript/WRITING-RULES.md`.
+
+Current interpretation:
+- “Stage I” wording below is historical/nonbinding;
+- the first crude manifestation is a reflexive, poorly framed **display choice**, not a true low-power ceiling;
+- failure to reproduce the slab deliberately is Red's early self-misdiagnosis / wrong approach, not lack of raw capacity;
+- injury and pain remain real, but regeneration is not a finite-resource progression mechanic;
+- genuine reader address invokes Fourth-Wall Pause from CH-001;
+- Red's Earth memory is a mysterious explosion/flash impression, not a traffic collision;
+- Red's core personality is stable and is not beginning a moral-development arc.
+
 # 1. Chapter Purpose Lock
 
 CH-001 must accomplish only the approved opening functions:

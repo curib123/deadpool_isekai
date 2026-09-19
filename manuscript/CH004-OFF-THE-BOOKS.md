@@ -1,14 +1,18 @@
 # Chapter 4 — Off the Books
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** CINEMATIC STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 2,823  
 **Chapter QA:** `qa/CH-004-GATE-9-CHAPTER-QA.md`
 
-By the time he reached the Road Guild hall, he had a working theory about Greywake. Everything important eventually became paperwork. Road access. Food shipments. Caravan schedules. Identity. Apparently even being an unexplained problem required a form.
+The Road Guild hall opened directly onto the caravan yard.
 
-The Guild hall sat close to the caravan yard, where the road widened enough for wagons to turn without taking out a wall. The building was larger than the Ledger office and much busier. Drivers came and went through two open doors. Workers carried coils of rope, replacement wheel rims, boxed tools, and bundles of stamped tags. A board near the entrance was covered in notices he could not read.
+Wagons turned through the mud outside while workers carried rope, wheel rims, boxed tools, and stamped tags through two wide doors. A clerk shouted a route number. Someone answered from across the yard.
 
-That last part was becoming familiar. Jessa Vale was waiting near one of the public desks. She noticed him before he reached her and lifted a hand.
+Red stopped under the entrance awning and looked at the notice board beside him.
+
+Still unreadable.
+
+At least Greywake was consistent. Jessa Vale was waiting near one of the public desks. She noticed him before he reached her and lifted a hand.
 
 “Red Jackal.”
 
@@ -30,7 +34,7 @@ She looked past him toward the yard, where two men were arguing over a wagon axl
 
 He followed her gaze. A clerk behind the nearest desk called out a route number. Three caravan guards stepped forward. Another worker moved colored markers across a wall map while someone else checked a list against crates being loaded outside.
 
-This was not a small organization pretending to matter. The Road Guild was busy because Greywake needed it to be busy.
+A worker changed three markers on the wall map before Red had time to finish watching him.
 
 “Every caravan goes through here?” he asked.
 
@@ -40,11 +44,19 @@ This was not a small organization pretending to matter. The Road Guild was busy 
 
 “Yes. Bridge crews, maintenance teams, supply movements, emergency closures, route certifications.”
 
-So Hesk was not just a man with a title. He sat in the middle of the thing keeping Greywake connected to everywhere else. That made the private invitation more interesting. Also more concerning.
+Red looked toward the closed meeting-room door.
 
-A door opened at the far side of the hall. The conversation around it did not stop, but several people looked up. The man who stepped through was broad through the shoulders without being especially large. Late forties, maybe. Dark hair cut short, grey beginning at the sides. His coat had been repaired more than once, and the leather at the cuffs looked worn rather than decorative.
+Hesk was not just a man with a title. The whole yard moved through decisions made in this building.
 
-He carried a rolled map under one arm. Nothing about him suggested he needed to remind people who he was. Jessa straightened slightly.
+The meeting-room door opened.
+
+Three nearby conversations dipped without fully stopping.
+
+Rovan Hesk stepped out with a rolled map under one arm. He was broad through the shoulders, dark hair greying at the sides, his coat repaired at one elbow and worn pale at the cuffs.
+
+No polished insignia. No dramatic entrance.
+
+Jessa straightened anyway.
 
 “Roadmaster.”
 
@@ -64,7 +76,11 @@ He did not smile, but he did not look annoyed either.
 
 “I gathered.”
 
-His gaze moved once over his clothes, his boots, his hands, then returned to his face. It was not the kind of look that searched for an explanation. Hesk looked at people like resources. He had met enough managers in his first life to recognize the difference.
+Hesk's gaze moved once over Red's clothes, boots, and hands, then returned to his face.
+
+Not curiosity.
+
+Assessment.
 
 “You came through the north road alone,” he said.
 
@@ -210,7 +226,11 @@ Then he looked at him.
 
 “If you decide the risk isn't worth it, walk away. I can find someone else.”
 
-That mattered. No pressure. No threat. No attempt to trap him in the room. Which made it harder to treat the offer like one.
+Hesk stepped away from the table.
+
+No pressure. No threat.
+
+That made the offer harder to dismiss.
 
 “I'll decide after I understand the money.”
 
@@ -330,7 +350,11 @@ That was not entirely true. He also had the clothes he was wearing. Things were 
 
 “You should understand something else.”
 
-There it was. The sentence people use right before explaining why the good part was not actually free.
+Jessa lowered her voice.
+
+“You should understand something else.”
+
+Red stopped turning the coin.
 
 “Go on.”
 
@@ -466,7 +490,7 @@ Hesk's expression did not move.
 
 “I don't plan to.”
 
-That sentence would probably matter more later. For now, it sounded ordinary. Brynn left. Hesk watched her go, then turned back to him.
+Brynn held Hesk's gaze for another second, then left. Hesk watched her go, then turned back to him.
 
 “You still interested?”
 
@@ -548,12 +572,24 @@ Jessa pointed through the open door toward the market lane.
 
 She did not answer. Dry humor did not always survive translation. Hesk was already speaking with another clerk. The meeting was over. Just like that.
 
-No oath. No magical contract. No dramatic warning. He had entered the Guild with no recognized identity and no money. He was leaving with silver in his pocket, food in his hand, a place to sleep if he did not choose badly, and a job waiting at first light.
+No oath. No magical contract. No dramatic warning.
 
-The arrangement was not good. The arrangement was useful. Those were not the same thing. He knew that. He took it anyway.
+Silver clicked in Red's pocket when he stepped into the yard. Food sat under one arm. A bridge-marked card sat in the other hand.
+
+The arrangement was bad.
+
+It was also useful.
+
+He took it.
 
 At the edge of the caravan yard, he looked back once. Hesk had not watched him leave. He was bent over another route map with two workers, already dealing with something else.
 
-That made sense. To him, he was a solution to a small problem. For now, that worked both ways. Tomorrow he had his first road assignment. A damaged bridge.
+Hesk never looked up.
 
-A repair crew. A little risk. And, if Greywake was feeling generous, payment at the end. Simple enough. He had stopped trusting that phrase several hours ago.
+Red turned toward the market lane.
+
+Tomorrow: a damaged bridge, a repair crew, a little risk, and payment at the end.
+
+Simple enough.
+
+He had already learned not to trust that phrase.

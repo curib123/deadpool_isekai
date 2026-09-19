@@ -1,3 +1,14 @@
+# POV / Style Retcon Notice
+
+The current publication set is no longer release-authoritative because the underlying canon prose is being converted from first-person to **close third-person limited**.
+
+After manuscript revalidation:
+- regenerate all CH-001→CH-026 reader-facing copies;
+- rerun individual Gate 11;
+- rerun aggregate Gate 11.
+
+---
+
 # Volume 1 — Greywake Arc Publish Version QA
 
 **Volume:** 1  
@@ -6,7 +17,7 @@
 **Primary Platform:** WebNovel-compatible release copy  
 **Gate:** 11 — Publish Version QA  
 **Review Date:** 2026-09-19  
-**Status:** PUBLISH-READY — GATE 11 PASS / OVERPOWERED RETCON REFRESH COMPLETE  
+**Status:** STALE AFTER SERIES POV/STYLE RETCON — HISTORICAL GATE 11 PASS  
 **Canon Revalidation:** PASS — `qa/VOLUME-001-GREYWAKE-OVERPOWERED-RETCON-GATE-10-REVALIDATION.md`
 
 # 1. Refresh Scope

@@ -4,7 +4,7 @@
 **Word Count:** 2,451  
 **Voice QA:** pending deadpan revision revalidation
 
-The first thing I noticed was that I was breathing. That may sound like a very low standard for a successful morning, but the last thing I remembered was rain exploding across a windshield, white headlights where they absolutely should not have been, and several tons of metal making a persuasive argument against my continued existence.
+The first thing I noticed was that I was breathing. The last thing I remembered was rain across a windshield, white headlights, and metal folding around me.
 
 Well, I was breathing, so at least I was not dead. Probably. I did not immediately sit up and decide I had been reincarnated in another world. There were still several less ridiculous explanations available.
 
@@ -48,7 +48,7 @@ Then this. I rubbed a hand over my face and forced myself to breathe slowly. Dre
 
 I pinched the inside of my arm. “Ow.” So pain still worked. Good to know.
 
-You may be expecting me to say this was the moment I accepted the obvious. Another world. Reincarnation.
+It would have been easy to call it another world. Reincarnation.
 
 Isekai. Pick your label. I did not. Saying ridiculous things confidently is how they become your problem.
 
@@ -144,7 +144,7 @@ The surface rippled. One corner vanished. The whole object felt soft and wrong. 
 
 I raised what remained of the slab. “Calculated,” I said, breathing hard. It growled.
 
-You do not need to believe that. I did not either. The animal hesitated, apparently decided I had become too strange to eat efficiently, and disappeared into the brush. I waited. Five seconds.
+I did not believe that either. The animal hesitated, apparently decided I had become too strange to eat efficiently, and disappeared into the brush. I waited. Five seconds.
 
 Ten. Long enough for the forest to settle again. The object in my hands sagged like melting wax without the heat, thinned into nothing, and left me gripping empty air. I stared at my hands.
 

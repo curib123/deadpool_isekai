@@ -1021,10 +1021,10 @@ Do not reveal or explicitly explain:
 - Exterior Needle;
 - Eidrathi Continuance;
 - First Severance truth;
-- continuity translocation;
-- Exterior Echo;
+- natural far Soul Drift writer truth;
+- Fourth-Wall Pause metaphysical mechanism;
 - Great Design;
-- Exception Covenant;
+- any future exception/representation framework;
 - full Play Logic origin;
 - full Fate model.
 

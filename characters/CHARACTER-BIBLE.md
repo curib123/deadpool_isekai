@@ -2,7 +2,7 @@
 
 **Owner:** A040 Character Bible Director  
 **Phase:** 2 — Character Foundation  
-**Status:** CANON — PHASE 2 FOUNDATION
+**Status:** CANON — SOUL-DRIFT / STORY-INTRUDER RETCON
 
 This is the authoritative character source for the project. It defines identity, history, psychology, motives, relationships, reusable cast roles, and antagonist standards. It intentionally does **not** assign characters to destination arcs, volumes, chapters, scenes, or manuscript events.
 
@@ -33,7 +33,11 @@ Separate:
 
 ## 1.2 Character Development Rule
 
-Development changes priorities, relationships, behavior, and self-understanding. It does not erase core identity for convenience.
+Supporting characters may develop normally.
+
+**Red Jackal is the deliberate exception.**
+
+His core personality is structurally stable across the series. He may learn facts, remember fragments, form attachments, alter tactics, or react to consequences, but he does not receive a conventional moral-growth arc that turns him into a saner, humbler, more responsible, or more traditionally heroic person.
 
 ## 1.3 Romance Rule
 
@@ -57,7 +61,7 @@ No romantic pairing is locked in Phase 2. Attraction or chemistry may be propose
 **Level:** UNDEFINED  
 **Origin:** Earth, outside Veyr's Closed Loom  
 **Current Planning Destination:** DEST-002 — Merrowgate (Volume 2 / Gate 6 locked). CH-026 canon still ends with Red having departed Greywake before any next destination is named in-story.  
-**Narrative Role:** protagonist, close-third focal character, anti-villain anomaly
+**Narrative Role:** protagonist, close first-person narrator/focal character, anti-villain anomaly, story intruder
 
 Red Jackal is not a hidden conventional hero and not a nihilistic murderer. He is a self-centered, theatrical anti-villain who values freedom, spectacle, curiosity, and personal agency more than social approval.
 
@@ -85,45 +89,80 @@ Red Jackal gravitates toward:
 
 The mask is a prop and symbol, not a magical requirement and not permanently worn.
 
-## 2.3 Earth History
+## 2.3 Earth History and Soul-Drift Residue
 
-Evan Calder grew up ordinary.
+Evan Calder was an ordinary young adult on Earth with one unusually deep obsession:
 
-He was neither a famous prodigy nor a secret assassin. His childhood was stable enough to leave him with no grand destiny and unstable enough emotionally that he learned early to use humor, performance, and detachment to control how much of himself other people could reach.
+**he was a hard-dying Deadpool fan.**
 
-He was imaginative, observant, easily bored, and privately competitive. He consumed films, games, comics, animation, internet culture, and genre fiction heavily, but he also liked editing, visual composition, stagecraft, and turning mundane things into something dramatic.
+He consumed comics, films, games, animation, internet humor, superhero media, action movies, meta-fiction, and anything that rewarded irreverence or theatrical antihero behavior.
 
-As a teenager he created the online handle **Red Jackal**. It began as a game/forum name and slowly became the version of himself he found easier to perform: bolder, funnier, less apologetic, and impossible to embarrass if he could turn the embarrassment into a joke first.
+He quoted, analyzed, rewatched, compared, role-played, and mentally rehearsed that kind of humor so often that it became one of the deepest cognitive grooves in his mind.
 
-As an adult he worked irregular creative and technical jobs, most consistently in a small print/sign and motion-graphics shop. He was competent but inconsistent: excellent when interested, difficult when bored, resistant to authority he considered stupid, and much better at improvising than maintaining routines.
+He also loved spectacle, editing, visual composition, ridiculous entrances, dramatic timing, and turning ordinary situations into scenes.
 
-He had friends, acquaintances, unfinished ambitions, abandoned projects, and unresolved family relationships. His Earth life was not secretly meaningless; this matters because reincarnation does not automatically erase the emotional weight of losing it.
+### Mysterious Death
 
-### Death / Transfer Boundary
+Evan died during a **mysterious explosion on Earth**.
 
-Writer truth currently establishes only that Evan's Earth life ended during a severe rain-night traffic collision involving multiple vehicles.
+The exact cause is protected writer truth and is not required to be explained early.
 
-There is **no locked goddess interview, divine character-selection room, or confirmed intentional summoning** in Phase 2.
+There is no goddess interview.
 
-Whether his transition was accident, interference, exploitation of a Night-Seam-like weakness, or something else belongs to the Mystery Foundation.
+There is no character-selection room.
 
-## 2.4 The Persona Problem
+There is no divine mission.
 
-“Red Jackal” is not merely a fake mask and not merely his true self.
+### Soul Drift
 
-It is a persona Evan invented, used, enjoyed, and gradually grew into.
+After death, Evan's soul entered a rare natural **far Soul Drift**.
 
-Veyr removes many of the social constraints that once separated Evan from Red Jackal. The result is a dangerous question:
+The drift damaged normal autobiographical continuity.
 
-**If a persona is performed long enough, enjoyed sincerely enough, and becomes the way you survive—where does the performance end?**
+He loses most of:
+- family memory;
+- personal chronology;
+- ordinary social identity;
+- specific friendships;
+- career history;
+- the clean personality structure that made Evan behave like Evan.
 
-Do not resolve this early.
+What survives strongly is:
+- instinctive humor;
+- meta-thinking;
+- genre awareness;
+- jokes under pain;
+- theatrical role-play;
+- self-narration;
+- pop-culture fragments;
+- the feeling that a scene should have an audience;
+- the impulse to make danger entertaining.
 
-He should sometimes perform confidence he does not feel, but sometimes the confidence is completely genuine.
+This residue does not make him literally Deadpool.
 
-He should sometimes joke to hide fear, but sometimes he jokes because he actually finds the situation funny.
+It explains why the person who wakes in Veyr naturally thinks in a chaotic, fourth-wall-aware, irreverent way even though most of Evan's life is gone.
 
-He should sometimes aura farm strategically, but sometimes he simply enjoys being ridiculous.
+## 2.4 Red Jackal Is the Surviving Persona
+
+“Red Jackal” becomes the name he uses because the old ordinary identity feels incomplete and distant.
+
+The persona is not something he gradually grows out of.
+
+It becomes the stable way his damaged soul organizes itself.
+
+He is:
+- theatrical because he enjoys it;
+- funny because danger feels better as a bit;
+- self-centered because he trusts his own choices more than systems;
+- shameless because embarrassment has little authority over him;
+- unpredictable because he treats rules as suggestions;
+- aura-obsessed because presentation genuinely matters to him.
+
+Do not build a storyline where the “real Evan” eventually replaces Red Jackal and cures the persona.
+
+Memory recovery may add information.
+
+It must not erase Red Jackal.
 
 ## 2.4A Overpowered Role-Player Lock — AUTHORIAL RETCON
 
@@ -202,46 +241,57 @@ The story must never frame this as a newly unlocked form.
 
 It is **restraint being removed**.
 
-## 2.5 Core Psychological Engine
+## 2.5 Stable Psychological Engine
 
 ### Primary Desire
-**Absolute personal agency.**
-
-He wants to decide what he is, what role he plays, who he helps, what rules deserve respect, and when a situation gets to define him.
+**Have fun on his own terms while refusing ownership.**
 
 ### Secondary Desires
-- stimulation;
-- novelty;
 - spectacle;
-- recognition on his own terms;
-- freedom from ownership or categorization;
-- people he can choose rather than obligations assigned to him;
-- answers about why Veyr cannot define him.
+- novelty;
+- interesting enemies;
+- ridiculous situations;
+- freedom;
+- mystery;
+- reputation;
+- cool entrances;
+- people worth keeping around;
+- opportunities to interfere with something that clearly was not his business.
 
 ### Core Fear
-**Being trapped inside a role someone else has written for him.**
+**Being forced into somebody else's role.**
 
-This includes:
-- forced destiny;
-- mind control;
-- imprisonment;
-- moral ownership;
-- institutional classification;
-- being reduced to a specimen;
-- being told that his choices never mattered.
+He hates:
+- destiny assigning him;
+- institutions owning him;
+- being treated as a tool;
+- being told what kind of person he must become;
+- anyone claiming his power proves he belongs to their side.
 
-### Hidden Fear
-**Being ordinary, forgettable, and replaceable.**
+### Stable Flaw
+Red often lets the game continue too long because ending it immediately would be boring.
 
-He would mock this fear if confronted with it directly.
+This can cost:
+- time;
+- evidence;
+- property;
+- trust;
+- somebody else's safety;
+- the clean version of a plan.
 
-### Core Lie
-“If I can turn everything into my performance, nothing can truly control or hurt me.”
+The consequence may affect a later choice.
 
-### Core Need
-To learn that accepting responsibility for consequences is not the same as surrendering freedom.
+It does not reform his personality.
 
-This need must not transform him into a conventional saint.
+### No Core Need
+
+Red does **not** have a hidden therapeutic “need” that the series must satisfy.
+
+There is no required destination where he learns to become morally complete.
+
+The story tests his personality.
+
+It does not fix it.
 
 ## 2.6 Values
 
@@ -383,14 +433,15 @@ It does not require random murder, sadism, or contempt for ordinary people.
 
 Across each major arc, verify that Red Jackal demonstrates multiple sides of this identity:
 
-1. at least one genuinely selfish or personal motive behind useful action;
+1. at least one selfish/personal motive behind useful action;
 2. at least one choice a conventional lawful hero would reject;
-3. at least one protective act that does not read as clean heroic altruism;
-4. at least one curiosity/ego-driven mistake or complication where appropriate;
-5. responsibility for consequences without converting him into a saint;
-6. explicit resistance to being morally owned, categorized, or assigned a role.
+3. at least one enemy-playing or aura-farming sequence;
+4. at least one situation where his curiosity, ego, or refusal to end the game cleanly complicates events;
+5. at least one moment where consequences remain real without producing a personality-reform lesson;
+6. explicit resistance to being morally owned, categorized, or assigned a role;
+7. at least one reminder that another character or faction had a life/story in motion before Red entered the scene.
 
-Not every chapter needs all six.
+Not every chapter needs all seven.
 
 ## 2.8 Personality
 
@@ -595,121 +646,71 @@ The contrast should come from behavior, not narrator announcements.
 
 ## 2.12 Storytelling Voice — LOCKED SERIES STANDARD
 
-The series uses **close third-person limited centered on Red Jackal**.
+The series uses **close first-person limited narrated by Red Jackal**.
 
-Narration uses Red/he/him/his and remains inside what Red can perceive, remember, infer, or misunderstand.
+Narration uses I/me/my and remains inside what Red can perceive, infer, misremember, misunderstand, or choose to tell.
 
-The voice should feel:
-- close;
+The voice is:
 - simple;
 - natural;
-- conversational without addressing the reader;
-- observant;
-- lightly colored by Red's personality;
-- emotionally grounded.
+- cinematic;
+- shameless;
+- self-amused;
+- meta-aware;
+- conversational;
+- capable of direct reader address;
+- capable of abrupt seriousness.
 
-Narration may use free-indirect phrasing so Red's attitude enters the prose naturally.
+Red's narration may be unreliable about:
+- whether something was intentional;
+- whether he is afraid;
+- whether somebody is impressed;
+- how much he remembers;
+- why he chose to interfere.
 
-Example:
+The physical scene must remain clear even when Red is joking.
 
-**Too distant:**  
-The administrator appeared frustrated by the irregular documentation.
+## 2.13 Fourth-Wall Pause — LOCKED
 
-**Preferred:**  
-The administrator stared at the form like Red had personally offended paperwork.
+Red does not merely make occasional narrator jokes.
 
-The narration may be amused because Red is amused, but it should not sound like a comedian performing for an audience.
+A genuine fourth-wall address is a real Soul-Drift anomaly event.
 
-### Cinematic Voice Filter
+Whenever Red directly addresses the external reader/audience:
 
-The prose should feel visually immediate without becoming screenplay-like.
-
-Red's close-third narration should usually notice:
-- movement before abstract meaning;
-- faces and hands during social tension;
-- physical space during danger;
-- small visual details that make his jokes or suspicions land;
-- silence when a serious beat does not need commentary.
-
-The narration should not explain Red's personality when his dialogue, posture, timing, or choice can show it.
-
-When he performs, let the **other character's reaction** help sell the performance.
-
-When he becomes serious, reduce narration rather than making the prose more dramatic.
-
-### Internal Thought Boundary
-
-Internal thoughts stay short and selective.
-
-Use them for:
-- an immediate decision;
-- a private reaction;
-- a brief fear;
-- a sharp realization;
-- something Red refuses to say aloud.
-
-Do not turn the chapter into a continuous internal monologue.
-
-### Dialogue Carries Character
-
-Red's strongest voice should usually appear in:
-- what he says;
-- what he refuses to answer;
-- how long he waits before answering;
-- teasing;
-- fake innocence;
-- lightly arrogant understatement;
-- playful threats;
-- abrupt seriousness.
-
-Other characters must retain distinct rhythms and should not all become witty.
-
-### Paragraph Rhythm
-
-Normal prose paragraphs contain multiple related sentences.
-
-One-line paragraphs are reserved for:
-- impact;
-- danger;
-- realization;
-- important System output;
-- emotional exposure;
-- a strong quiet beat;
-- an earned comic beat.
-
-### Unreliable Close Third
-
-The narration may stay close to Red's self-serving interpretation without claiming it is objective truth.
+**Veyran time stops.**
 
 He may:
-- decide an accident was intentional;
-- understate fear;
-- assume someone is impressed when they are not;
-- rationalize curiosity;
-- avoid naming an emotion.
+- speak to the reader;
+- comment on genre logic;
+- mock a villain speech;
+- complain about exposition;
+- point out that a scene clearly belongs to somebody else;
+- narrate his own terrible idea before doing it;
+- hold a private “conversation” with the audience that native characters cannot perceive.
 
-The surrounding action may quietly show otherwise.
+During the pause:
+- local motion freezes;
+- native sound stops;
+- attacks and environmental events stop advancing;
+- native characters experience no elapsed time;
+- Red returns to the same causal instant when the aside ends unless an explicitly approved Play Logic gag alters the setup.
 
-## 2.13 Narrative / Fourth-Wall Boundary — RETCONNED FOR CLOSE THIRD
+The audience is not an in-world power source and cannot order him around.
 
-Direct reader-address is no longer the default narrative device.
+This device is available from the beginning.
 
-The prose does not require Red to speak to an audience.
-
-If future mystery material uses the Exterior Echo, it must appear through rare, explicitly approved phenomena compatible with close-third POV—for example an outward sensation, impossible directional anomaly, or a brief spoken/private remark that does not turn the narrator into first person.
-
-The audience is never an in-world power source.
-
-Close-third POV remains the default even when M-006 material eventually becomes relevant.
+It is not an awakening or progression mechanic.
 
 ## 2.14 Abilities
 
 See `systems/SYSTEMS-BIBLE.md` for mechanics.
 
 Character-relevant ability identity:
-- unregistered existence;
+- unregistered Soul-Drift existence;
 - unbounded Play Logic;
 - extreme/near-immediate self-restoration;
+- Fourth-Wall Pause;
 - total absence of conventional level/class progression;
 - raw output that is not meaningfully ranked by Veyr's normal power hierarchy;
 - voluntary restraint and theatrical self-limitation;
@@ -791,45 +792,59 @@ With people who refuse to be impressed: fascinated or annoyed.
 - treats relationships as chosen possessions when afraid of losing them;
 - resents people who correctly call him irresponsible.
 
-## 2.18 Long-Term Development Boundary
+## 2.18 Long-Term Stability Boundary
 
-Red Jackal has **no required power progression**.
+Red Jackal has **no required power progression and no conventional personality-development arc**.
 
-Long-term development is about personality, responsibility, relationships, knowledge, and revelation.
+What may change:
+- what the audience learns about his past;
+- what Red remembers;
+- which people he likes;
+- which enemies interest him;
+- how famous or feared he becomes;
+- how elaborate his games become;
+- what parts of Veyr's native story he disrupts;
+- how other characters adapt to him.
 
-Potential directions:
-- persona and self becoming less distinguishable;
-- deciding when a game has gone too far;
-- learning accountability without obedience;
-- choosing loyalty without treating it as ownership;
-- admitting fear without pretending fear means weakness;
-- accepting that overwhelming power does not make every choice correct;
-- confronting whether freedom without restraint becomes another form of domination;
-- learning when not to manipulate a situation merely because he can;
-- deciding what kind of person he wants to be when nobody can physically force him to be better.
+What must remain:
+- self-centeredness;
+- theatricality;
+- irreverence;
+- fourth-wall behavior;
+- aura farming;
+- enemy-playing;
+- anti-villain morality;
+- refusal of ownership;
+- chaotic humor;
+- willingness to interfere because something looks interesting.
 
 The audience may discover larger and larger demonstrations of his power.
 
 Those demonstrations are **reveals, not upgrades**.
 
-No volume/arc assignment is attached to these directions.
+The world may develop around Red.
+
+Red does not need to become a better-adjusted person for the story to end.
 
 ## 2.19 Knowledge State at Foundation
 
 Red Jackal initially knows:
-- Earth existed;
-- he died or was violently displaced from it;
-- Veyr is not Earth;
-- the System cannot identify him normally;
-- his body regenerates abnormally;
-- imagination can produce abnormal effects.
+- he is not from Veyr;
+- something violent happened before he woke here;
+- his memory is badly incomplete;
+- the System cannot identify him;
+- his body regenerates;
+- imagination can affect reality;
+- speaking to the external audience freezes the local scene.
 
 He does **not** begin knowing:
-- the true Great Design;
+- his complete Earth life;
+- the exact cause of the explosion;
+- the term Soul Drift;
 - why his soul has NO RECORD;
-- why Play Logic exists;
-- what the Exterior Echo is and why it points beyond Veyr;
-- who or what caused his transfer.
+- why Play Logic and regeneration express through him;
+- the true Great Design;
+- whether anyone else has ever far-drifted between worlds.
 
 ## 2.20 Red Jackal QA Lock
 
@@ -844,6 +859,8 @@ If a proposed scene or plan makes him:
 - omniscient;
 - omnipresent;
 - able to solve every information, relationship, political, or moral problem automatically;
+- gradually rewritten into a sane conventional hero;
+- deprived of fourth-wall behavior in order to make him “mature”;
 
 then it fails Red Jackal Character QA.
 

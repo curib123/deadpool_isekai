@@ -5,7 +5,7 @@
 **Chapter QA:** `qa/CH-011-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-011-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
-By morning, Tavian had a map, Maelis had notes, and Kellan had the expression of a man who had already decided everyone in Greywake was going to make his day harder. He had breakfast. One of them had prepared correctly. they met near the north-side road yard where the maintained stone gave way to older packed earth and the roofs of Greywake stopped pretending the wilderness respected property lines. A charged Wayfarer Tongue Token hung from a leather cord at Tavian's belt. It was close enough for conversation and far enough from anything resembling comfort. Maelis had copied several of her figures onto a smaller field sheet. Tavian had redrawn the track directions from yesterday. Kellan carried a carpenter's hammer, a short pry bar, rope, and the quiet confidence of someone who expected broken things to remain broken unless a person actually fixed them. Tavian spread his map across a low supply crate.
+By morning, Tavian had a map, Maelis had notes, and Kellan had the expression of a man who had already decided everyone in Greywake was going to make his day harder. He had breakfast. One of them had prepared correctly. They met near the north-side road yard where the maintained stone gave way to older packed earth and the roofs of Greywake stopped pretending the wilderness respected property lines. A charged Wayfarer Tongue Token hung from a leather cord at Tavian's belt. It was close enough for conversation and far enough from anything resembling comfort. Maelis had copied several of her figures onto a smaller field sheet. Tavian had redrawn the track directions from yesterday. Kellan carried a carpenter's hammer, a short pry bar, rope, and the quiet confidence of someone who expected broken things to remain broken unless a person actually fixed them. Tavian spread his map across a low supply crate.
 
 “This is the clean track set.”
 
@@ -307,7 +307,7 @@ Again. Maelis came beside him.
 
 “Different geometry. Same problem.”
 
-She wrote that down too. He looked at the road ahead. Old stone. New boot marks. Fresh hardware. Animals behaving badly. Yesterday they had paper. Before that, tracks. Now the forest had started leaving receipts. they followed the narrow used path away from the old road. It climbed toward the watch point through a section where the hillside had collapsed years ago. The original stone stair was mostly gone. Only three steps remained attached to the slope before ending above a washout. Kellan stopped them.
+She wrote that down too. He looked at the road ahead. Old stone. New boot marks. Fresh hardware. Animals behaving badly. Yesterday they had paper. Before that, tracks. Now the forest had started leaving receipts. They followed the narrow used path away from the old road. It climbed toward the watch point through a section where the hillside had collapsed years ago. The original stone stair was mostly gone. Only three steps remained attached to the slope before ending above a washout. Kellan stopped them.
 
 “No.”
 
@@ -327,7 +327,7 @@ Maelis looked down the slope.
 
 “Enough.”
 
-Useful measurement. Tavian raised one hand. they stopped. He was staring into the brush below them.
+Useful measurement. Tavian raised one hand. They stopped. He was staring into the brush below them.
 
 “What?”
 
@@ -455,7 +455,7 @@ He almost ruined the moment. Almost.
 
 “It was.”
 
-There it was. No applause. No awe. Just a competent man confirming that he had done the useful thing at the useful time. It felt different. He decided not to examine that too closely. they continued toward the ruined watch point. The structure had once overlooked the bend where Broken North curved around the slope. Now half the roof was gone and trees grew through one side. The lower stonework remained, including a narrow drainage channel and several maintenance recesses built into the retaining wall. Kellan walked straight to one.
+There it was. No applause. No awe. Just a competent man confirming that he had done the useful thing at the useful time. It felt different. He decided not to examine that too closely. They continued toward the ruined watch point. The structure had once overlooked the bend where Broken North curved around the slope. Now half the roof was gone and trees grew through one side. The lower stonework remained, including a narrow drainage channel and several maintenance recesses built into the retaining wall. Kellan walked straight to one.
 
 “Old road crews stored wedges, lamp oil, spare pins, sometimes emergency rope in these.”
 

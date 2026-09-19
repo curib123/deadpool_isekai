@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** SERIES POV/STYLE RETCON ACTIVE — CLOSE THIRD-PERSON LIMITED + CINEMATIC NATURAL ENGLISH / CH-001→CH-027 FULL PROSE REVISION / CH-028 PAUSED
+**Status:** SERIES POV/STYLE RETCON — CH-001→CH-027 STUDIO CINEMATIC PROSE REVISION COMPLETE / GATE 9 REVALIDATION NEXT / CH-028 PAUSED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -171,7 +171,7 @@ Foundation changes:
 
 All older Stage-I ceiling language is legacy until revised.
 
-**Current production priority:** revise every canon manuscript CH-001→CH-027 to the locked close-third style, revalidate Gate 9, then refresh publication copies.
+**Current production priority:** revalidate CH-001→CH-027 through Gate 9 against the locked Studio cinematic close-third standard, then rerun Volume 1 Gate 10 / Gate 11 refresh before resuming CH-028.
 
 
 ## Volume 1 Power-Retcon Manuscript Audit Result
@@ -238,6 +238,16 @@ Core rules:
 - overpowered revelation model remains unchanged.
 
 Scope:
-**all current canon manuscripts CH-001 through CH-027 require prose revision and Gate 9 revalidation.**
+**CH-001 through CH-027 have completed the Studio cinematic prose revision.**
 
-CH-028 remains paused until this series-wide voice conversion is complete.
+Current status:
+- 27 / 27 manuscripts revised;
+- close third-person limited applied throughout;
+- cinematic natural-English standard applied;
+- Red's dialogue-led voice applied;
+- old first-person/default reader-talk standard superseded;
+- already-overpowered revelation model preserved;
+- **Gate 9 revalidation is still pending under the new style standard**;
+- prior Volume 1 Gate 10 and Gate 11 results are historical but stale until the revised manuscripts are revalidated.
+
+**CH-028 remains paused until CH-001→CH-027 complete Gate 9 revalidation and the required Volume 1 refresh gates are rerun.**

@@ -7769,7 +7769,7 @@ CH-024 retains:
 # CH-023 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-023 — Greywake Holds  
-**Status:** SCENE ARCHITECTURE SUPPORT — GATE 8 PASS / MANUSCRIPT NOT YET CANON
+**Status:** SUPERSEDED BY CH-023 CANON CHECKPOINT
 
 ## Opening State
 
@@ -7957,3 +7957,158 @@ An approved CH-023 manuscript must end with both:
 
 CH-024 owns the direct human/final-route climax.
 
+# CH-023 Canon Checkpoint
+
+**Chapter:** CH-023 — Greywake Holds  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH023-GREYWAKE-HOLDS.md`  
+**QA:** `qa/CH-023-GATE-9-CHAPTER-QA.md`
+
+## Physical Climax — CANON
+
+The large territorial predator enters the Broken North choke already displaced by migration compression.
+
+Tavian prevents defenders from fully boxing it in.
+
+Brynn reorganizes militia/work crews around a controlled-space solution.
+
+The predator remains a local ecological threat, not a summoned/Hesk-controlled creature.
+
+It is not killed as the required solution.
+
+## Red Jackal — Injury / Power State CANON
+
+CH-022 injuries carry forward.
+
+CH-023 adds:
+- a serious flank/side injury;
+- heavy impact into stone/timber;
+- worsened rib pain;
+- worsened shoulder/leg pain;
+- heavier tremor;
+- worse concentration.
+
+Regeneration:
+- reduces bleeding;
+- keeps Red functional;
+- remains painful;
+- does not refill stamina;
+- does not restore precision.
+
+Actual CH-023 Play Logic manifestations:
+
+**exactly 1**
+
+That manifestation is:
+
+**PL-4 — temporary structural reinforcement.**
+
+It is one continuous temporary load-bearing construct at one critical failing section.
+
+It:
+- is not used against the predator;
+- does not control animals;
+- does not rebuild the whole corridor;
+- buys time for ordinary work crews.
+
+Work crews install lasting timber/rope/stone support while PL-4 holds.
+
+No second CH-023 manifestation occurs.
+
+By chapter end Red is near the bottom of his current Stage I endurance.
+
+## Broken North / Infrastructure — CANON
+
+The inner road shelf begins failing under compressed movement.
+
+PL-4 prevents immediate collapse long enough for work crews to transfer load to ordinary reinforcement.
+
+By chapter end:
+- Broken North remains open;
+- major damage remains;
+- new ordinary temporary reinforcement carries enough load;
+- road reconstruction will still be required;
+- nobody considers the corridor safe or restored.
+
+## Predator Resolution — CANON
+
+Tavian identifies that the predator repeatedly seeks the least-compressed open space.
+
+A controlled side/service cut is opened only when the main prey flow has committed enough.
+
+Brynn coordinates:
+- militia shields/spears/noise;
+- work-crew clearing;
+- the opening window;
+- no-chase discipline.
+
+The predator takes the controlled escape route out of the primary choke.
+
+Defenders do not chase it.
+
+## Main Migration State — CANON
+
+The main migration body becomes substantially committed to Broken North.
+
+The immediate physical choke is therefore held.
+
+This is not yet the final migration resolution.
+
+## Hesk / Final Lure State — CANON
+
+Hesk remains physically off-screen.
+
+His already-established unauthorized lure remains active.
+
+After the physical line holds, Tavian identifies renewed consistent movement toward the outer-homestead route.
+
+Canonical final state:
+
+**Greywake's physical line is holding, but Hesk's lure is pulling part of the migration away from it again.**
+
+Hesk has not yet:
+- been physically confronted;
+- lost operational control;
+- been removed from authority through the final climax.
+
+## Mystery / Foreshadowing State After CH-023
+
+F-ID state remains:
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+No F-ID changes state.
+
+M-007 does not advance.
+
+No protected series truth is revealed.
+
+## CH-024 Handoff
+
+The authoritative next chapter is:
+
+**CH-024 — No One Gets Chosen**
+
+CH-024 may proceed to **Detailed Scene Architecture only**.
+
+CH-024 begins with:
+- Broken North physically holding;
+- large predator no longer occupying the main choke;
+- the main migration body substantially committed to the safer corridor but not irreversibly resolved;
+- Hesk's lure pulling a branch/trailing body toward the outer homesteads again;
+- Red severely exhausted/injured after three CH-022 manifestations plus CH-023 PL-4;
+- Tavian/Brynn still in live command;
+- direct Hesk confrontation still pending.
+
+CH-024 owns:
+- final lure site / critical fork;
+- direct Hesk confrontation;
+- final route-policy decision;
+- final short-lived utility manifestation;
+- migration commitment to the prepared corridor;
+- outer homesteads not being deliberately sacrificed;
+- Hesk losing operational control.
+
+CH-025 remains aftermath/institutional resolution.

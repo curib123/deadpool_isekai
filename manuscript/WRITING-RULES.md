@@ -262,6 +262,49 @@ When Red crosses into one:
 
 A recurring pleasure of the series is that Red behaves like the main character of scenes that were not written for him.
 
+# 12A. Red Scene Engine
+
+For Red-heavy scenes, use this flexible engine when useful:
+
+1. **Native scene already moving** — people have goals before Red arrives.
+2. **Red reads the room** — correctly or incorrectly.
+3. **Red chooses a bit** — joke, persona, fake weakness, dramatic silence, or selfish objective.
+4. **The scene bends around him** — attention shifts without erasing other motives.
+5. **Unexpected Red action** — he does something the native participants did not plan for.
+6. **Consequence lands** — social, tactical, political, emotional, evidentiary, or physical.
+7. **Causality reroutes** — the original objective survives in a changed form.
+
+Do not force all seven beats into every scene.
+
+Use them as the default story-engine logic.
+
+# 12B. Close-Narration Performance Rule
+
+Red's narration should stay physically close even when the comedy is loud.
+
+Prefer:
+- what is directly in front of me;
+- the exact expression I notice;
+- the sound that interrupts me;
+- the object I touch;
+- the threat I choose not to respect;
+- the ridiculous comparison that flashes through my head;
+- the thing I deliberately do not tell the other character.
+
+Do not float above the scene to explain the author's plan.
+
+# 12C. Unexpected-Situation Rule
+
+Surprise should feel inevitable **after** it happens.
+
+A good Red surprise is:
+- unexpected to the other characters;
+- recognizable as something Red would absolutely do;
+- compatible with the world rules;
+- consequential after the joke.
+
+Avoid randomness that exists only to prove he is chaotic.
+
 # 13. Aura Farming
 
 Aura farming is a deliberate Red behavior.

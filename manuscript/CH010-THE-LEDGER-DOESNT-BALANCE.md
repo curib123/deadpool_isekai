@@ -1,14 +1,20 @@
 # Chapter 10 — The Ledger Doesn't Balance
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** CINEMATIC STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 3,201  
 **Chapter QA:** `qa/CH-010-GATE-9-CHAPTER-QA.md`
 
-Maelis had three stacks of paper on the table when he arrived. That should have warned him. The Ledger room looked almost exactly as he remembered it: plain walls, narrow windows, one long table, too many documents, and the same quiet confidence that anything confusing could eventually be defeated by writing it down correctly. A charged Wayfarer Tongue Token hung from the stand near Maelis's elbow. She did not look up immediately.
+Three stacks of paper waited for Red when he entered the Ledger room.
+
+Maelis sat behind them with a pen in hand. A charged Wayfarer Tongue Token hung near her elbow.
+
+She did not look up.
 
 “Sit.”
 
-He sat. This felt less like an invitation and more like being processed. She finished marking something, closed one folder, then pulled a blank sheet toward herself.
+Red sat.
+
+The pen kept moving for another few seconds before she closed the folder in front of her. She finished marking something, closed one folder, then pulled a blank sheet toward herself.
 
 “Tavian reported that yesterday's route check found repeated north-east movement across multiple track ages.”
 
@@ -62,7 +68,9 @@ That was unfairly practical. He did. Maelis wrote it down. Then she wanted the d
 
 “No.”
 
-She wrote again. This was what happened when a professional got hold of a dramatic mystery. Maelis removed the drama and kept the useful nouns.
+Maelis wrote again.
+
+By the time she finished, the mystery had lost most of its drama and gained three useful nouns.
 
 “What about the live crossing?” she asked.
 
@@ -568,7 +576,7 @@ Then he looked back at Hesk.
 
 “If you want to decide for her, that's the part I object to.”
 
-Hesk's expression finally changed. Barely.
+Hesk's eyes narrowed by the smallest amount.
 
 “You're here because this Guild gave you work when nobody could process you.”
 
@@ -576,7 +584,9 @@ Hesk's expression finally changed. Barely.
 
 “Then remember the arrangement.”
 
-He smiled. That was a mistake. Not because it was funny. Because he felt the old irritation settle into place. The kind that made roles sound like cages.
+Red smiled.
+
+The old irritation settled into place.
 
 “I remember it very well.”
 
@@ -584,7 +594,9 @@ Irregular labor. No normal protection. No appeal. Useful when needed. Easy to se
 
 “I took bad work because it paid,” he said. “That didn't make me yours.”
 
-The room went quiet. No joke followed. He did not want one. Hesk looked at him for another second, then at Jessa.
+The room went quiet.
+
+Red did not fill it. Hesk looked at him for another second, then at Jessa.
 
 “Answer factual questions if you choose. No speculation. Restricted originals stay here.”
 
@@ -606,7 +618,15 @@ Maelis did not flinch.
 
 “Good.”
 
-He looked at him once more. The look was different now. Not fear. Not yet. Calculation. Then he left. Jessa kept staring at the doorway. He removed his hand from the ledger.
+Hesk looked at Red once more.
+
+Calculation. Nothing warmer.
+
+Then he left.
+
+Jessa kept staring at the doorway.
+
+Red took his hand off the ledger.
 
 “You can go,” he said.
 
@@ -644,7 +664,11 @@ Jessa looked sick.
 
 “Practice.”
 
-The word landed harder than he expected. Maelis's expression changed. Not shock. Anger, maybe. Very controlled anger.
+“Practice.”
+
+Maelis's pen stopped.
+
+Her face barely changed, but the room felt colder.
 
 “Who taught you that practice?”
 
@@ -656,7 +680,11 @@ Boundary. Maelis recognized it.
 
 “All right.”
 
-She did not push. Neither did he. Jessa had given them something. It was enough for now. Back in the Ledger room, the papers looked different. Same pages. Same ink. Same stamps. Less innocent. Maelis arranged the records into columns. He watched. Mostly because he could not read any of them and had run out of useful ways to pretend otherwise. She used route symbols, dates, and marks he recognized well enough to follow when she pointed.
+She did not push. Neither did he. Jessa had given them something. It was enough for now. Back in the Ledger room, Maelis laid the same pages across the table.
+
+Same ink. Same stamps.
+
+They no longer looked harmless. Maelis arranged the records into columns. He watched. Mostly because he could not read any of them and had run out of useful ways to pretend otherwise. She used route symbols, dates, and marks he recognized well enough to follow when she pointed.
 
 “Main Caravan Road,” she said.
 
@@ -726,7 +754,15 @@ That was no longer a good word. He looked at the stacks.
 
 “These periods are comparable.”
 
-He thought about Tavian in the forest. Food west. Water west. Tracks north. Different kinds of evidence. Same feeling. Something that should have been messy was starting to line up too neatly. Maelis sat down.
+Red thought of Tavian's tracks in the mud.
+
+Food west.
+
+Water west.
+
+Tracks north.
+
+Different evidence. Same ugly shape. Maelis sat down.
 
 “The documents are not all false.”
 

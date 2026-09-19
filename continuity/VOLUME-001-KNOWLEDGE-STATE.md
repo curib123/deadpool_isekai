@@ -1136,7 +1136,7 @@ CH-007 may not assume:
 # CH-007 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-007 — You Should Be Dead  
-**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+**Status:** SUPERSEDED BY CH-008 CANON CHECKPOINT
 
 ## Red Jackal — Opening CH-007
 
@@ -1531,3 +1531,144 @@ Do not begin:
 - field comparison against Guild migration maps;
 - deliberate/artificial-influence hypothesis;
 - Broken North investigation.
+
+
+# CH-008 Canon Checkpoint
+
+**Chapter:** CH-008 — Outside the Lanterns  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH008-OUTSIDE-THE-LANTERNS.md`  
+**QA:** `qa/CH-008-GATE-9-CHAPTER-QA.md`
+
+After CH-008, Red Jackal canonically knows:
+
+- the Outer Homesteads continue beyond Greywake's regular lantern/maintenance line as an active network of farms, workshops, storage sites, roads, and households;
+- outer communities still contribute labor, materials, traffic, produce, and trade to Greywake;
+- the minor outer road is patched and kept usable by local labor rather than abandoned;
+- Kellan Dorr is a competent practical engineer and informal community representative whose judgment is based on whether work actually helps;
+- Kellan's bridge has required repeated repair and replacement material from central support has arrived incompletely;
+- the bridge approach and decking can remain usable through careful load management, ordinary repair, and reused material;
+- one temporary Stage I support manifestation can help inside a competent engineering plan but cannot replace permanent repair;
+- his CH-007 injury still reduces carrying capacity, stamina, and manifestation precision;
+- Play Logic use while depleted can worsen his pain and fatigue;
+- the official Guild hazard marker at an outer junction did not match the fresher local warning information;
+- local residents had recorded five recent predator sightings across four days using a fresh supplemental warning strip;
+- the sightings had been reported, while the last patrol passed before those new sightings;
+- official route-warning information can lag behind current outer-route conditions.
+
+Red Jackal still does **not** know:
+
+- that monster movement is being deliberately redirected;
+- that march-lures exist;
+- that Hesk controls a lure network;
+- that casualty records are falsified;
+- that outer communities have been deliberately designated as acceptable loss;
+- the mechanism behind Play Logic;
+- the mechanism behind regeneration;
+- Fate/Great Design truth;
+- any protected writer truth.
+
+## Kellan Dorr — Post-CH-008 Knowledge
+
+Kellan canonically knows:
+
+- Red Jackal was still recovering from a serious recent injury;
+- Red Jackal will perform ordinary labor rather than only appear for spectacle;
+- Red Jackal can create at least one unusual temporary physical support effect;
+- the effect is imperfect, short-lived, and physically taxing;
+- Red Jackal could not safely repeat it again that day;
+- the effect is useful when placed inside a real engineering plan;
+- Red Jackal helped move the supply load but did not replace permanent repair work.
+
+Kellan still does not know:
+- Play Logic's origin or true mechanism;
+- Red Jackal's regeneration mechanism;
+- march-lure existence;
+- Hesk's hidden policy;
+- falsified casualty records;
+- Fate/Great Design truth.
+
+His reaction remains practical rather than worshipful.
+
+## Outer-Homestead Workers — Post-CH-008 Knowledge
+
+The workers may canonically know only what they directly witnessed:
+
+- Red Jackal worked while visibly recovering;
+- he produced one temporary support effect;
+- the effect cracked under load and disappeared;
+- Kellan's placement and ordinary worker coordination were still required;
+- the bridge/approach required permanent conventional repair afterward.
+
+They do not gain protected anomaly knowledge.
+
+## F-ID State After CH-008
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+No F-ID changed state in CH-008.
+
+## Play Logic State After CH-008
+
+Red Jackal has now used Stage I Play Logic for practical terrain support under residual injury.
+
+Established observations:
+- clear functional purpose remains important;
+- output can still be uneven/imperfect;
+- external engineering judgment can determine whether the manifestation is actually safe/useful;
+- physical and mental exhaustion reduce control;
+- the manifestation is temporary and not a substitute for permanent infrastructure.
+
+No new Play Logic rule was revealed.
+
+## Regeneration / M-005 State After CH-008
+
+No new M-005 clue was introduced.
+
+CH-007 residual pain/exhaustion remains materially relevant.
+
+The regeneration mechanism remains protected.
+
+## M-007 State After CH-008
+
+M-007 remains inactive.
+
+No Fate/prophecy/destiny/causal-wake material was introduced.
+
+## Conspiracy State After CH-008
+
+The only new contradiction is informational:
+
+**official Guild warning information is older/incomplete compared with current local outer-route observations.**
+
+This does not yet prove:
+- suppression;
+- fraud;
+- sabotage;
+- march-lures;
+- deliberate redirection;
+- Hesk's guilt.
+
+## CH-009 Handoff
+
+CH-009 may begin with:
+
+- Red Jackal physically tired but functional after CH-008;
+- the official/local warning mismatch fresh in his mind;
+- Tavian's earlier statement that the animals are moving wrong;
+- Red Jackal now personally familiar with the cost of weak outer-route protection;
+- Red Jackal's curiosity sharpened by a concrete contradiction;
+- Kellan remaining outside the immediate CH-009 cast unless the locked roadmap later requires otherwise;
+- F-001 through F-004 unchanged and already planted;
+- no march-lure knowledge;
+- no deliberate-redirection proof.
+
+CH-009 may now move into the locked **Wrong Tracks** investigation:
+- Tavian requests/accepts Red Jackal on a route check;
+- field evidence is compared against expected migration behavior;
+- Red Jackal's curiosity may create the localized complication already locked in the chapter roadmap.
+
+Do not begin CH-010 or reveal the lure network early.

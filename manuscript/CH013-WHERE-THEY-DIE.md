@@ -1,7 +1,7 @@
 # Chapter 13 — Where They Die
 
-**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
-**Word Count:** 2,798  
+**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Word Count:** 2798,798  
 
 By the next morning, Greywake had found a room large enough for everyone to disagree in properly. The council map room sat behind the main meeting chamber, with one long table, two wall maps, three narrow windows, and enough shelves to make him suspicious on principle. A charged Wayfarer Tongue Token hung beside the door. The moment he stepped inside, its familiar pressure settled over the voices around him.
 
@@ -35,13 +35,13 @@ Jessa nodded. Hesk looked at Maelis.
 
 Maelis set one ledger beside the route map.
 
-“Then we will separate commercial information from evidence relevant to route safety.”
+“Then they will separate commercial information from evidence relevant to route safety.”
 
 Hesk's eyes narrowed slightly.
 
 “You have already decided there is evidence.”
 
-“I have decided there is enough reason to examine it.”
+“he have decided there is enough reason to examine it.”
 
 Brynn spoke before Hesk could answer.
 
@@ -49,7 +49,7 @@ Brynn spoke before Hesk could answer.
 
 Her gaze moved to him for some reason. He raised both hands.
 
-“I haven't done anything.”
+“he haven't done anything.”
 
 “Continue that.”
 
@@ -59,7 +59,7 @@ A fair request. Maelis pointed to three spaces she had cleared on the table.
 
 She looked at each of them in turn.
 
-“We examine them separately first. Then we compare them.”
+“they examine them separately first. Then they compare them.”
 
 Kellan leaned against the table.
 
@@ -69,7 +69,7 @@ Kellan leaned against the table.
 
 He looked at Maelis.
 
-“You practiced saying that for me.”
+“You practiced saying that for him.”
 
 “No.”
 
@@ -131,7 +131,7 @@ Hesk spoke.
 
 Maelis nodded.
 
-“We established that yesterday.”
+“they established that yesterday.”
 
 “So repeated supply entries prove the Guild used ordinary equipment.”
 
@@ -139,7 +139,7 @@ Maelis nodded.
 
 “Not wrongdoing.”
 
-“I did not say wrongdoing.”
+“he did not say wrongdoing.”
 
 Hesk looked at her for a moment. Maelis looked back. There was something deeply unsettling about watching two calm people disagree with enough precision to make shouting unnecessary.
 
@@ -183,7 +183,7 @@ Jessa looked at Hesk. Not long. Long enough.
 
 Hesk answered for himself.
 
-“Road operations are approved through my office.”
+“Road operations are approved through his office.”
 
 Maelis kept her eyes on Jessa.
 
@@ -245,7 +245,7 @@ Maelis did not push immediately. She only moved the next ledger into the open sp
 
 Jessa had seen all of these things before. Just never on one table. Tavian leaned over the map.
 
-“Show me the service sectors again.”
+“Show him the service sectors again.”
 
 Jessa pointed as he asked. One by one, Tavian moved stones. North.
 
@@ -255,7 +255,7 @@ Not a neat circle. Not a perfect line. A pattern.
 
 He took Maelis's rubbing from the Broken North lure and placed it near the route map.
 
-“The installed stake we found screened the main-road side and displaced movement toward the outer approaches.”
+“The installed stake they found screened the main-road side and displaced movement toward the outer approaches.”
 
 Hesk said nothing. Tavian pointed to the service sectors.
 
@@ -273,7 +273,7 @@ Brynn stepped closer.
 
 He answered without hesitation.
 
-“We still do not know every active site. We do not know exact strength at each site. We do not know how often every unit was serviced.”
+“they still do not know every active site. they do not know exact strength at each site. they do not know how often every unit was serviced.”
 
 Maelis looked at him.
 
@@ -281,7 +281,7 @@ Maelis looked at him.
 
 Tavian's finger traced the track route from CH-009.
 
-“But repeated maintained diversion points are consistent with the broad drift we observed. Predator and prey movement was not simply worsening. It was being pushed.”
+“But repeated maintained diversion points are consistent with the broad drift they observed. Predator and prey movement was not simply worsening. It was being pushed.”
 
 Nobody made a joke. He noticed because normally he would have. Maelis opened the loss ledger from the audit.
 
@@ -305,13 +305,13 @@ Hesk watched her hands. Kellan watched the map. Jessa watched both.
 
 Maelis spoke without raising her voice.
 
-“The categories are not equivalent. I am not treating every unresolved case as a confirmed death.”
+“The categories are not equivalent. He am not treating every unresolved case as a confirmed death.”
 
 Hesk nodded once.
 
 “Good.”
 
-“I am also not ignoring repeated correlation because the categories are different.”
+“he am also not ignoring repeated correlation because the categories are different.”
 
 His expression changed slightly. Maelis placed another record on the table.
 
@@ -327,7 +327,7 @@ Another.
 
 Jessa closed her eyes briefly. Maelis saw.
 
-“So,” Maelis said, “we have recurring diversion maintenance in multiple sectors. We have ecological drift consistent with repeated directional pressure. We have a recurring difference between main-road safety and outer-route loss categories.”
+“So,” Maelis said, “they have recurring diversion maintenance in multiple sectors. they have ecological drift consistent with repeated directional pressure. they have a recurring difference between main-road safety and outer-route loss categories.”
 
 Hesk folded his hands behind his back.
 
@@ -335,11 +335,11 @@ Hesk folded his hands behind his back.
 
 Maelis looked at him.
 
-“We had correlation three days ago.”
+“they had correlation three days ago.”
 
 That was the first time her voice sharpened. She touched the Broken North rubbing.
 
-“Now we have a physical lure.”
+“Now they have a physical lure.”
 
 The service records.
 
@@ -407,11 +407,11 @@ Hesk turned toward her.
 
 “The lures redirect movement.”
 
-“I know what lures do.”
+“he know what lures do.”
 
 Her voice stayed level.
 
-“I am asking whether Greywake has been using them to move pressure away from the Main Caravan Road.”
+“he am asking whether Greywake has been using them to move pressure away from the Main Caravan Road.”
 
 Hesk looked around the table. At the maps. At the ledgers.
 
@@ -441,9 +441,9 @@ Hesk's expression hardened.
 
 Kellan laughed once. There was no humor in it.
 
-“And you kept moving it toward us.”
+“And you kept moving it toward them.”
 
-“I kept the main road open.”
+“he kept the main road open.”
 
 “That is not an answer.”
 
@@ -493,23 +493,23 @@ Brynn looked at Jessa.
 
 “You may answer. You may also ask for the question to be repeated or narrowed.”
 
-Maelis added, “I am asking what you processed. Not what you believe Hesk intended.” Jessa looked down at the ledger.
+Maelis added, “he am asking what you processed. Not what you believe Hesk intended.” Jessa looked down at the ledger.
 
 Her fingers were shaking.
 
-“My brothers eat because of this job.”
+“his brothers eat because of this job.”
 
 Nobody said anything.
 
-“I know,” Maelis said.
+“he know,” Maelis said.
 
 Jessa breathed in. Then out.
 
-“The outer incident reports started increasing before I was assigned to casualty corrections.”
+“The outer incident reports started increasing before he was assigned to casualty corrections.”
 
 “How long before?” Maelis asked.
 
-“I don't know exactly without the earlier books.”
+“he don't know exactly without the earlier books.”
 
 “Do you remember whether diversion-service orders were already active?”
 
@@ -517,7 +517,7 @@ Jessa breathed in. Then out.
 
 Hesk's face went still. Jessa kept looking at the ledger.
 
-“I processed supply copies. Reservoirs. Compound issue. Maintenance hardware. I didn't know the field geometry.”
+“he processed supply copies. Reservoirs. Compound issue. Maintenance hardware. He didn't know the field geometry.”
 
 Tavian nodded once.
 
@@ -535,7 +535,7 @@ Maelis asked, “Did service orders stop?”
 
 Jessa swallowed.
 
-“Not that I saw.”
+“Not that he saw.”
 
 “Did the same office continue approving the operational category?”
 
@@ -583,7 +583,7 @@ There was no theatrical pause. No dramatic reveal. Just three answers that fit t
 
 Brynn stared at the militia route map.
 
-“We deployed patrols based on Guild hazard information.”
+“they deployed patrols based on Guild hazard information.”
 
 Hesk looked at her.
 
@@ -591,7 +591,7 @@ Hesk looked at her.
 
 “Reports your system was shaping.”
 
-“We reported observed hazards.”
+“they reported observed hazards.”
 
 “After you changed where the hazards went.”
 
@@ -623,11 +623,11 @@ Useful because the normal system could not place him. He had liked that. He had 
 
 That part mattered.
 
-“I took the work,” he said.
+“he took the work,” he said.
 
 Nobody had asked him. He kept going.
 
-“I knew the deal was bad.”
+“he knew the deal was bad.”
 
 Hesk looked at him.
 
@@ -645,17 +645,17 @@ Hesk looked at him.
 
 Kellan glanced at him, but he kept his eyes on Hesk.
 
-“I accepted dangerous work.”
+“he accepted dangerous work.”
 
 Hesk waited.
 
-“I did not accept hidden route math.”
+“he did not accept hidden route math.”
 
 His expression did not change.
 
 “You were paid for risk.”
 
-“I was paid for the risk you told me about.”
+“he was paid for the risk you told him about.”
 
 “The frontier does not itemize danger.”
 
@@ -713,11 +713,11 @@ Hesk's eyes narrowed.
 
 “No?”
 
-“You don't get to make that choice for me.”
+“You don't get to make that choice for him.”
 
 “You made the choice when you accepted the work.”
 
-“I chose the work.”
+“he chose the work.”
 
 He tapped the map.
 

@@ -1,10 +1,10 @@
 # Chapter 20 — The Last Lure
 
-**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED  
-**Word Count:** 3,014  
+**Status:** RETCON + PACING REVISED — GATE 9 REVALIDATION PENDING  
+**Word Count:** 3123,014  
 **Chapter QA:** `qa/CH-020-GATE-9-CHAPTER-QA.md`
 
-By the time I got back from Broken North, my hands had stopped shaking enough to hold a cup.
+By the time I got back from Broken North, mud had dried on my boots, my shoulders hurt from carrying half a road, and somebody had finally put a cup in my hand.
 
 That was the good news.
 
@@ -22,7 +22,7 @@ I stared at it. She stared at me.
 
 That improved nothing. Jessa sat across the table with three stacks of Guild records arranged in front of her. She had already separated them by date and type. Issue forms on the left. Service records in the middle. Returns on the right.
 
-My contribution was apparently to remain conscious nearby. Given how my head still felt after Broken North, that was ambitious enough. Maelis pushed another record toward Jessa.
+My contribution was apparently to remain nearby while people who could actually read turned inventory into a weapon against its owner. Maelis pushed another record toward Jessa.
 
 “Again.”
 
@@ -570,9 +570,7 @@ So I did not do it.
 
 A loyalist slammed the inner gate. The metal door started closing between us and the records cage. If it shut, we lost the stock side while Hesk ran with the control book.
 
-I focused.
-
-One wedge.
+I pictured one wedge.
 
 Small.
 
@@ -584,21 +582,17 @@ Pale grey.
 
 Crooked.
 
-My headache hit hard enough that the room shifted. The wedge caught. The gate slammed into it.
+The gate slammed into it and stopped hard enough to ring through the storehouse.
 
-The manifestation cracked immediately.
+The wedge did not move.
 
 “Now!”
 
 The militia guard shoved the gate back. The storekeeper dropped the key. Jessa caught it before anyone else.
 
-The wedge vanished.
+I dismissed the wedge as soon as the gate was clear.
 
-That was it.
-
-One use.
-
-My hands shook worse afterward. I did not try again. Maelis pointed at the cage.
+No reason to turn a doorstop into a revelation. Maelis pointed at the cage.
 
 “Open it.”
 
@@ -612,19 +606,37 @@ Jessa started reading numbers. The storekeeper, breathing hard, joined her. One 
 
 The militia guard stopped him. The other two had stopped fighting. Not surrendered exactly.
 
-Stopped choosing Hesk over the order. Hesk was already gone. I ran for the side passage.
+Stopped choosing Hesk over the order. Hesk was already gone.
 
-Bad idea.
+I went through the side passage after him.
 
-My leg reminded me first. My head reminded me second. I hit the outer service yard slower than I wanted.
+The outer service yard opened ahead. Hesk had crossed most of it. A side gate stood open beyond him where the road split toward the Guild service lanes.
 
-Hesk had crossed it ahead of me. A side gate stood open. Beyond it, the road split toward the Guild service lanes.
+He looked back once.
 
-I saw him at the far end. Too far for me to catch cleanly in my current state. He looked back once.
+Distance was not the problem.
 
-Then disappeared behind a wagon shed. I stopped. Chasing him alone while exhausted had a familiar shape.
+That realization arrived with several answers I did not use. I could cross the yard faster than he expected. I could put something in front of the gate. Under his feet. Around him. I could make the chase end before it became one.
 
-I had learned to dislike familiar shapes. Behind me, Maelis called my name. I went back.
+Instead, I hesitated.
+
+He had taken the control book and was running toward the service lanes. Part of me wanted to know what a man like Hesk did when his hidden reserve stopped being hidden.
+
+That part won for one second too long.
+
+He disappeared behind a wagon shed.
+
+Maelis called my name from inside.
+
+I looked at the empty gate, then back toward the storehouse where Jessa, the records, the stock, and three men who had just tried to seize evidence were still waiting.
+
+I went back.
+
+I told myself it was prioritization.
+
+It was.
+
+It was also curiosity.
 
 The storehouse floor had become quieter. Jessa sat on an empty crate with the reconciliation sheet in both hands. The stock had been moved out of the cage and counted under militia witness.
 
@@ -660,7 +672,7 @@ Maelis did not lie.
 
 Jessa nodded. That hurt more than a reassuring answer would have. I leaned against the records table.
 
-My headache had settled into something heavy and permanent behind my eyes. For the moment. The militia guard returned from the outer yard.
+The militia guard returned from the outer yard before I had finished deciding whether letting Hesk run had been clever or merely interesting.
 
 “No sign of Hesk.”
 

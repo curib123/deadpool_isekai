@@ -1,6 +1,8 @@
 # Chapter 5 — A Better Hammer
 
-**Status:** DRAFT — GATE 9 NOT YET RUN
+**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED  
+**Word Count:** 3,105  
+**Chapter QA:** `qa/CH-005-GATE-9-CHAPTER-QA.md`
 
 First light was a cruel phrase. It suggested something quiet and poetic. What it actually meant was standing in the Road Guild caravan yard before I had found a reliable source of breakfast. I arrived with the wooden entrant token under my coat, the bridge-marked assignment card in one pocket, and the remaining advance in another. The sky was still grey above Greywake, and the yard was already awake.
 

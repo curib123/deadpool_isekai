@@ -1,24 +1,22 @@
 # Chapter 2 — Undefined
 
-**Status:** CANON — GATE 9 PASS / READER-COMPANION VOICE LOCKED  
+**Status:** CANON — DEADPAN VOICE REVISION UNDER GATE 9 REVIEW  
 **Word Count:** 2,921  
-**Voice QA:** `qa/CH-002-VOICE-REVISION-GATE-9-QA.md`
+**Voice QA:** pending deadpan revision revalidation
 
 Civilization announced itself with smoke, wagon wheels, and a wall tall enough to make me reconsider how dangerous the forest behind me actually was. The road curved down through thinning trees toward a timber palisade, its watch platforms half-hidden in river fog while carts waited in two slow-moving lines outside the gate.
 
 People were everywhere. Drivers checked harnesses, guards inspected loads, merchants argued over crates, and somewhere beyond the wall somebody was hammering metal with the steady confidence of a person who had not been attacked by an unidentified forest animal before breakfast.
 
-Beautiful. People. Walls. Cooked food, probably.
+People. Walls. Probably food. Also rules. You rarely get one without the other. I stopped at the edge of the road and took a moment to compose myself. My sleeve was torn, dried blood marked my forearm, and mud had formed what I can only describe as a political alliance with the rest of my clothes.
 
-Rules, unfortunately. I stopped at the edge of the road and took a moment to compose myself. My sleeve was torn, dried blood marked my forearm, and mud had formed what I can only describe as a political alliance with the rest of my clothes.
+First impressions still mattered. I straightened my back, rolled one shoulder, and walked toward the gate as if I knew where I was going. You know how this works. Looking uncertain only invites more questions.
 
-Still, first impressions mattered. I straightened my back, rolled one shoulder, and walked toward the gate like I had arrived exactly where I intended. You know the technique by now. If you look lost, people ask questions.
-
-If you look mysterious, people also ask questions, but at least you keep some dignity while answering badly. Two guards noticed me before I reached the first wagon. One was broad enough to make the spear in his hand look decorative. The other was younger, narrower, and already staring at the blood on my sleeve.
+Looking composed does not prevent the questions either, but it is slightly better for morale. Two guards noticed me before I reached the first wagon. One was broad enough to make the spear in his hand look decorative. The other was younger, narrower, and already staring at the blood on my sleeve.
 
 The broad guard raised one hand and said something I did not understand. I gave him my most reasonable expression. “I'm going to assume that means welcome.” His frown deepened while the younger guard replied in the same unfamiliar language.
 
-I understood exactly none of it. There went the entrance. I pointed at myself. “Red Jackal.”
+I understood exactly none of it. So much for the entrance. I pointed at myself. “Red Jackal.”
 
 Then I pointed through the gate. The guards exchanged a look that required no translation. I repeated the gesture more slowly, because apparently that was how language worked when confidence failed. The younger guard called toward a booth built into the gate. A tired-looking attendant emerged carrying a round brass token on a cord, held it between us, and pressed his thumb to its center.
 
@@ -42,7 +40,7 @@ A faint pressure passed through the air. Not quite sound. Not quite vibration. M
 
 “Your name,” he repeated.
 
-“That was the answer.” The younger guard made a sound the token translated mostly as disbelief. The attendant rubbed his forehead. You see, this is the problem with introducing yourself properly. Sometimes the audience refuses to respect the stage name.
+“That was the answer.” The younger guard made a sound the token translated mostly as disbelief. The attendant rubbed his forehead. Apparently saying it once was not enough. Fair.
 
 “Fine,” he said. “Claimed name: Red Jackal. Origin?” That was a much worse question.
 
@@ -58,21 +56,21 @@ Papers? None. Guild seal? No.
 
 Local sponsor? Not yet. Each answer removed another small piece of his remaining optimism. The broad guard pointed at my torn sleeve and asked whether I was armed.
 
-“Currently? No.” Technically true. My favorite category.
+“Currently? No.” It was true, which seemed sufficient.
 
 The attendant looked me over. “You came out of the north road alone, with no papers, guild mark, or recognized sponsor, and you're injured.”
 
-“Yes to most of that.” I glanced at my forearm. The cuts were still visible, but compared with what they had been less than an hour earlier, they looked insultingly minor. They remained sore and tight when I flexed my hand, though, so apparently my body believed miracles should come with a service fee.
+“Yes to most of that.” I glanced at my forearm. The cuts were still visible, but compared with what they had been less than an hour earlier, they looked insultingly minor. They remained sore and tight when I flexed my hand. Whatever had healed them had not bothered with comfort.
 
 “It's improving.” The guard did not look reassured.
 
-“Excellent body maintenance,” I added. Nobody laughed. You cannot win every room.
+“It's healing,” I added. Nobody looked reassured.
 
 The attendant pointed toward the gate. “This is Greywake. Entry is controlled. If you have no papers, we check registry.”
 
 Greywake.
 
-There it was. A name. I looked past him at the fog-softened roofs beyond the palisade. “Greywake. Nice. Slightly threatening. Very frontier.”
+There it was. A name. I looked past him at the fog-softened roofs beyond the palisade. “Greywake.” It fit the weather.
 
 “Do you want to enter or review the naming?”
 
@@ -84,7 +82,7 @@ A merchant ahead of me stepped onto it. The grooves lit faintly, the attendant g
 
 Routine.
 
-That part mattered. Nobody gasped. Nobody prayed. Nobody announced that destiny had detected the protagonist.
+That part mattered. Nobody reacted beyond checking the result. So this was routine.
 
 Whatever this thing was, these people used it the way normal people used identification. I stepped onto the seal. The grooves brightened beneath my boots. Then they stopped.
 
@@ -110,13 +108,11 @@ The attendant checked the indicator again. “World Registry: No Record.” The 
 
 “So the world itself has no record of me.”
 
-“It means I cannot finish the entry form.” There are few things more destructive to a mysterious revelation than a civil servant with a missing field. The younger guard watched me more carefully now.
+“It means I cannot finish the entry form.” The attendant seemed less interested in the existential implications than in the unfinished form. Reasonable, unfortunately. The younger guard watched me more carefully now.
 
 Not terrified. Just less willing to assume I was ordinary.
 
-Partial success.
-
-I'll take it. “What does it normally say?”
+At least the guards were taking me seriously now. That was something. “What does it normally say?”
 
 “Recognized. Then it returns the entry categories we need.”
 
@@ -132,7 +128,7 @@ Still unreadable. The Wayfarer token was hung from a peg between us, its faint h
 
 She set it on the desk. “Certified identity slate. Separate query from the gate ward.”
 
-“So if this also hates me, we stop blaming the floor?” She paused.
+“So if this fails too, we stop blaming the gate?” She paused.
 
 “That is one way to phrase it.” I liked her already.
 
@@ -146,11 +142,11 @@ She did not answer immediately. The guard behind me shifted his weight. Excellen
 
 Panic. Or commit to the entrance. You know which one I picked. I straightened slightly.
 
-“Well. I assume you've discovered I'm extremely important.” The clerk looked up.
+“I assume that is not normal.” The clerk looked up.
 
 “I've discovered your form is unusable.”
 
-Brutal.
+That was clear enough.
 
 She looked back down. “Claimed name?”
 
@@ -176,7 +172,7 @@ She looked back down. “Claimed name?”
 
 “Race: undefined. Class: undefined. Level: undefined. HP and MP are also undefined. Progression unavailable.”
 
-The guard stopped pretending not to listen. I stared at the slate even though the symbols meant nothing to me. There is a special kind of discomfort in watching someone read information about you that you cannot read yourself.
+The guard stopped pretending not to listen. I stared at the slate even though the symbols meant nothing to me. It is uncomfortable watching someone read information about you when the writing itself means nothing to you.
 
 It got worse. “System Recognition failed,” she said. “Classification: anomaly. World Registry: no record.”
 
@@ -196,9 +192,7 @@ No record.
 
 I was standing in the room. I was breathing. My arm hurt. I had walked here under my own power.
 
-And according to whatever structure these people trusted to define such things, I apparently lacked the courtesy to exist correctly. If you're waiting for me to tell you that this felt liberating, it did not.
-
-Not yet. The clerk looked at me. “Do you know why this is happening?”
+And according to whatever structure these people trusted to define such things, I apparently lacked the courtesy to exist correctly. If you are wondering whether this felt liberating, no. Mostly it felt inconvenient in ways I did not understand yet. The clerk looked at me. “Do you know why this is happening?”
 
 “No.” That answer needed no performance. She studied me for a moment, then pulled a paper form closer and wrote by hand. I could not read the script, but she said the entry aloud.
 
@@ -208,7 +202,7 @@ Not yet. The clerk looked at me. “Do you know why this is happening?”
 
 “Unless the System recognizes it as your Name, yes.” I leaned back.
 
-“So I can tell you who I am, but your universe refuses to sign the paperwork.”
+“So I can tell you who I am, but the System cannot confirm it.”
 
 “The System is not the universe.” Good to know.
 
@@ -274,7 +268,7 @@ Brynn noticed her. “You have a question, Orra?”
 
 “Correct.” Only then did she look at me. Not frightened. Interested.
 
-Somehow, that was worse. “Maelis Orra,” she said. “Ledger of Measures.”
+I preferred the guards' suspicion. Interest usually led to more questions. “Maelis Orra,” she said. “Ledger of Measures.”
 
 “Red Jackal. Apparently.” One corner of her mouth almost moved. Almost.
 
@@ -300,7 +294,7 @@ Freedom from the protections attached to classification sounded less impressive.
 
 “Temporary,” Brynn said. “Keep it with you.” I picked it up. It did not glow.
 
-No title appeared. No voice announced an achievement. Just wood, cord, a stamp, and apparently my entire legal existence. “This is deeply humbling.”
+No title appeared. No voice announced an achievement. Just wood, cord, a stamp, and apparently my entire legal existence. “Temporary, then.”
 
 “It should be.” Brynn explained the restrictions without ceremony. If militia or gate staff challenged me, I had to show the token. I could enter the settlement, buy ordinary goods, rent a room if somebody was willing to take my money—which introduced the exciting new problem that I had no money—and move through unrestricted public areas.
 
@@ -342,7 +336,7 @@ I stepped through. Greywake was not grand. That was the first thing I noticed. I
 
 Timber buildings leaned close along packed-earth streets. Lantern bridges crossed narrow drainage channels. Carts creaked through river mist while somebody hammered metal nearby and somebody else cooked something that smelled unfairly good.
 
-People moved with the practical speed of a place that expected work to be finished before the weather changed its mind. Nobody stopped to welcome me. Perfect. For the first time since waking in the forest, I was surrounded by people.
+People moved with the practical speed of a place that expected work to be finished before the weather changed its mind. Nobody stopped to welcome me. Good enough. For the first time since waking in the forest, I was surrounded by people.
 
 I should have felt safer. Instead, the wooden token in my hand suddenly felt heavier than it had any right to. The forest had tried to eat me. Greywake had done something stranger.
 

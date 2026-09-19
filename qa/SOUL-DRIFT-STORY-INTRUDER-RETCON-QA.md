@@ -228,9 +228,11 @@ Old Gate 9 / Gate 10 / Gate 11 results remain historical records only.
 
 **Official next step:**
 
-**CH-001 — Wrong Forest, Wrong World → Soul-Drift / Close First-Person Manuscript Revision → Gate 9 Revalidation.**
+**CH-002 — Undefined → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**
 
-Then continue sequentially:
+CH-001 synchronization is COMPLETE — Gate 9 PASS.
+
+Then continue sequentially from CH-002:
 
 **CH-002 → CH-003 → … → CH-027**
 

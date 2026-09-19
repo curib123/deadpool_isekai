@@ -266,11 +266,11 @@ Preserved:
 - Merrowgate 24-chapter pacing/order;
 - local antagonists and destination outcomes unless later chapter-specific QA requires wording changes.
 
-**Manuscript state:** CH-001→CH-027 are now STALE under the new authorial retcon.
+**Manuscript state:** CH-001 is CURRENT CANON under the Soul-Drift/final story-engine retcon; CH-002→CH-027 remain STALE pending sequential revision.
 
 The previous close-third revisions remain historical artifacts only.
 
-**Official next step:** CH-001 — Wrong Forest, Wrong World → Soul-Drift / First-Person Manuscript Revision → Gate 9 Revalidation.
+**Official next step:** CH-002 — Undefined → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.
 
 **CH-028 remains PAUSED.**
 
@@ -303,4 +303,4 @@ Preservation remains absolute unless the author explicitly changes it:
 - major reversal/climax placement;
 - one major volume = one destination arc.
 
-**Production priority remains:** synchronize CH-001 → CH-027 under the final Soul-Drift / close-first-person / story-intruder engine, revalidate Gate 9 sequentially, then resume CH-028.
+**Production priority remains:** CH-001 synchronization is complete and Gate 9 PASS; continue CH-002 → CH-027 under the final Soul-Drift / close-first-person / story-intruder engine, revalidate Gate 9 sequentially, then resume CH-028.

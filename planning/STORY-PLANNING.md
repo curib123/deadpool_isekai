@@ -309,9 +309,19 @@ Gate 7 QA:
 **Locked range:** CH-027 through CH-050  
 **F-010:** planned for CH-038 — NOT YET PLANTED
 
-**Official next step:** CH-027 — Salt in the Air → Detailed Scene Architecture → Gate 8.
+**CH-027 Scene Architecture:** PASS — GATE 8 / 5 scenes locked.
 
-Detailed scenes for later chapters, final dialogue, manuscript prose beyond the active production step, and Volume 3 selection remain deferred.
+Scene architecture:
+
+`scenes/CH-027-SALT-IN-THE-AIR-SCENE-ARCHITECTURE.md`
+
+Gate 8 QA:
+
+`qa/CH-027-PRE-MANUSCRIPT-SCENE-QA.md`
+
+**Official next step:** CH-027 — Salt in the Air → Manuscript Draft.
+
+CH-028 scene architecture, later manuscript work, and Volume 3 selection remain deferred until CH-027 passes Gate 9.
 
 # 4B. Publication Release Workflow
 
@@ -355,7 +365,7 @@ Publication work:
 
 If a publication edit changes meaning, return it to Gate 9 and canonization first.
 
-Volume 2 / Merrowgate Arc has passed Gate 7 with CH-027 through CH-050 locked. This is independent of Volume 1 publication work. CH-027 Detailed Scene Architecture / Gate 8 is the active production step.
+Volume 2 / Merrowgate Arc has passed Gate 7 with CH-027 through CH-050 locked. CH-027 has now passed Gate 8 with five scenes locked. The active production step is the CH-027 manuscript draft.
 
 # 5. Scene Sheet
 Each scene has:

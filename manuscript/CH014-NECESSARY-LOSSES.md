@@ -849,6 +849,6 @@ Still nothing.
 
 “I need you to understand me.”
 
-He looked at him. He held his gaze.
+Red looked at Tavian and held his gaze.
 
 “Changing any lure before we map the full network could cause a backflow.”

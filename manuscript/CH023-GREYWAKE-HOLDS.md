@@ -1,6 +1,6 @@
 # Chapter 23 — Greywake Holds
 
-**Status:** DRAFT — GATE 9 NOT YET RUN  
+**Status:** CANON — GATE 9 PASS / SERIOUS CLIMAX MODE LOCKED  
 **Word Count:** 2,036
 
 The largest territorial predator in the migration had arrived. For one second, nobody moved. The animal filled the broken approach without needing to be monstrous in any supernatural sense. It was simply too large for the road, too close to frightened prey, and too angry at everything pressing around it. Thick shoulders forced through brush and young trees. Mud streaked its hide. One side of its face was marked by old scars that had nothing to do with us.

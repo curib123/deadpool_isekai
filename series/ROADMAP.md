@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-017 CANON — CH-018 SCENE ARCHITECTURE PASSED / CH-018 MANUSCRIPT AUTHORIZED
+**Status:** CH-017 CANON — CH-018 MANUSCRIPT DRAFT / GATE 9 PENDING
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -57,6 +57,7 @@ CH-016 Manuscript: **CANON — GATE 9 PASS / SERIOUS MODE LOCKED**
 CH-017 Scene Architecture: **PASS — GATE 8**  
 CH-017 Manuscript: **CANON — GATE 9 PASS / SERIOUS MODE LOCKED**  
 CH-018 Scene Architecture: **PASS — GATE 8**  
+CH-018 Manuscript: **DRAFT — GATE 9 PENDING**  
 Red Jackal Series Voice: **LOCKED — DRY/DEADPAN INTERNAL HUMOR + RESTRAINED FOURTH-WALL STANDARD**  
 Red Jackal Anti-Villain Expression: **LOCKED**  
 Red Jackal Reputation / Fear Progression: **LOCKED — R0 TO R6**  
@@ -66,9 +67,9 @@ Aura Evolution: **MANUFACTURED → EARNED → REPUTATION-SUPPORTED**
 
 The project is now authorized to proceed to:
 
-1. **Draft CH-018 — No Acceptable Loss manuscript only**
+1. **Run CH-018 Gate 9 — Chapter QA only**
 
-CH-018 Pre-Manuscript Scene QA has passed. The studio may now draft the actual CH-018 manuscript — No Acceptable Loss only. No new F-ID is authorized and M-007 does not advance. CH-018 must build the third option through shared specialist planning, return Jessa through earned operational record knowledge, keep Kellan medically limited, select Broken North as the planned corridor from existing geography, and define only bounded future Stage I support points. No actual Play Logic manifestation occurs in CH-018. CH-019 retains physical corridor construction and CH-020 retains the hidden lure-stock/evidence crisis. No later destination has been selected.
+CH-018 manuscript draft now exists and is awaiting Gate 9 Chapter QA. No new F-ID is authorized and M-007 does not advance. The draft builds the third option through shared specialist planning, returns Jessa through earned operational record knowledge, keeps Kellan medically limited, selects Broken North as the planned corridor from existing geography, and defines only bounded future Stage I support points. No actual Play Logic manifestation occurs in CH-018. CH-019 retains physical corridor construction and CH-020 retains the hidden lure-stock/evidence crisis. CH-019 planning remains blocked until CH-018 passes Gate 9 and is canonized, and no later destination has been selected.
 
 ## Destination Naming Law
 
@@ -84,7 +85,7 @@ This table is intentionally empty.
 
 | Volume | Destination ID | Arc Name | Local Conflict | Main Antagonist | Major Mystery Contribution | Status |
 |---|---|---|---|---|---|---|
-| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-018 SCENE ARCHITECTURE PASS — CH-018 MANUSCRIPT AUTHORIZED |
+| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-018 DRAFT — GATE 9 PENDING |
 
 ## Lock
 
@@ -94,4 +95,4 @@ Do not add a row until:
 - Destination Inventory exists; **PASS**
 - Destination Selection QA approves an existing world location; **PASS — DEST-001 Greywake**
 
-Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-017 are canon. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. CH-018 Scene Architecture has passed Gate 8 and CH-018 manuscript prose is authorized; CH-019 planning and all later-route selection remain deferred.
+Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-017 are canon. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. CH-018 manuscript draft exists and Gate 9 Chapter QA is the only authorized next step; CH-019 planning and all later-route selection remain deferred.

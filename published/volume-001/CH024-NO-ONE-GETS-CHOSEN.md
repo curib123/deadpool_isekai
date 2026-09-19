@@ -1,4 +1,4 @@
-# Chapter 24 — No One Gets Chosen
+Chapter 24 — No One Gets Chosen
 
 The physical line was holding.
 

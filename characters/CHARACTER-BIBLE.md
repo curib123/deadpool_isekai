@@ -372,6 +372,309 @@ Sometimes it backfires spectacularly.
 
 All four outcomes are valid.
 
+## 2.9A Reputation, Fear, and Threat Perception — LOCKED SERIES PROGRESSION
+
+Red Jackal's reputation must grow from **observed contradictions**, not from the story announcing that he has enormous potential.
+
+Characters are allowed to recognize:
+
+- that the System cannot classify him;
+- that normal appraisal/registry tools fail around him;
+- that he can create temporary physical effects without normal spellcasting structure;
+- that his manifestations do not behave exactly like standard magic;
+- that he can survive and recover from trauma that should incapacitate ordinary people;
+- that conventional healing does not cleanly explain his recovery;
+- that he learns how to use his anomaly through experience;
+- that normal threat-estimation methods are unreliable when applied to him.
+
+Characters must **not** automatically know:
+
+- the true source of Play Logic;
+- the true source of regeneration;
+- his theoretical endgame ceiling;
+- that he can eventually bend higher-order rules;
+- protected Fate / Great Design / Exterior truth;
+- that every apparent limitation is temporary.
+
+The frightening question should develop as:
+
+**“What can he do?” → “What actually limits him?” → “Are the limits we have seen fundamental, or only things he has not learned yet?”**
+
+### Reputation Stages
+
+#### R0 — Unknown Stranger
+
+Red Jackal is:
+- undocumented;
+- strange;
+- socially unimportant;
+- easy to underestimate.
+
+No reputation exists yet.
+
+#### R1 — Unclassifiable
+
+People learn that:
+- registry tools fail;
+- identity fields return UNDEFINED;
+- ordinary categories do not fit.
+
+Reaction:
+- suspicion;
+- bureaucratic concern;
+- curiosity;
+- disbelief.
+
+This is **not** fear of power yet.
+
+#### R2 — Anomalous but Limited
+
+People observe:
+- temporary impossible objects;
+- unusual recovery;
+- nonstandard magic behavior;
+- clear exhaustion and mistakes.
+
+Reaction:
+- fascination;
+- cautious respect;
+- rumors;
+- concern.
+
+Important:
+his limitations remain highly visible.
+
+#### R3 — Dangerous Wildcard
+
+Enough evidence accumulates that competent people conclude:
+
+**Red Jackal cannot be evaluated safely using normal assumptions.**
+
+Possible reactions:
+- Tavian worries about judgment more than raw strength;
+- Maelis worries about classification and institutional blind spots;
+- Sela worries that expected medical outcomes do not apply cleanly;
+- Kellan respects usefulness but refuses to worship spectacle;
+- antagonists begin planning around uncertainty rather than known statistics.
+
+At this stage, some characters may fear him.
+
+Not everyone must.
+
+#### R4 — Feared Potential
+
+Later, knowledgeable characters may realize that the disturbing part is no longer his current strength.
+
+It is his **growth direction**.
+
+Allowed conclusion:
+
+**“What frightens me is not what he can do now. It is that every new thing we learn makes the old limits look less certain.”**
+
+This stage must be earned through repeated evidence across arcs.
+
+Do not reach it in early Greywake merely because the Character Bible says his ceiling is enormous.
+
+#### R5 — Reputation Precedes Him
+
+Later-series Red Jackal may enter places where:
+- people have already heard contradictory stories;
+- allies know which stories are exaggerated;
+- enemies prepare for abilities he may not even have;
+- ordinary people may recognize the name before the man.
+
+Rumors may describe him as:
+- anomaly;
+- monster;
+- savior;
+- criminal;
+- impossible mage;
+- unregistered thing;
+- man who does not stay dead;
+- liar;
+- hero;
+- disaster.
+
+No single label is fully authoritative.
+
+#### R6 — Existential Exception
+
+Very late-series experts may recognize that Red Jackal is not merely an unusual user of the world's rules.
+
+They may begin to suspect that **the rules themselves fail to describe him completely**.
+
+This stage belongs to protected late-series development.
+
+Do not accelerate it.
+
+### Perception by Character Type
+
+#### Tavian Rook
+
+Preferred progression:
+
+**reckless stranger → dangerous anomaly → capable ally → person whose future strength requires judgment and restraint**
+
+Tavian should not be impressed merely by spectacle.
+
+His eventual fear, if it develops, is:
+
+**what Red Jackal could become if enormous survivability and expanding anomaly control were paired with bad judgment.**
+
+Trust and fear may coexist.
+
+#### Maelis Orra
+
+Preferred progression:
+
+**registry irregularity → impossible classification case → institutional blind spot → potentially unprecedented anomaly**
+
+Her concern is intellectual and procedural first.
+
+She should be among the earliest characters to understand that the inability to classify Red Jackal may be more important than any single feat.
+
+#### Sela Arven
+
+Preferred progression:
+
+**strange patient → medically abnormal recovery → person whose lethal thresholds cannot be assumed normally**
+
+She must never jump directly to immortality.
+
+Her discomfort comes from losing confidence in predictable medical outcomes.
+
+#### Kellan Dorr
+
+Preferred progression:
+
+**unusual laborer → useful strange man → dangerous but practical ally**
+
+Kellan remains resistant to hype.
+
+Even impressive manifestations are secondary to:
+- whether Red Jackal shows up;
+- whether he listens;
+- whether his power solves the real problem;
+- whether other people pay for his mistakes.
+
+Kellan helps prevent universal protagonist worship.
+
+#### Minor Characters / Civilians / Workers
+
+Their knowledge should be fragmented.
+
+Rumors may develop from partial truths:
+
+- “The gate could not identify him.”
+- “He made a wall appear.”
+- “He was torn open and walked back.”
+- “He is not a mage.”
+- “Then what is he?”
+
+Rumors may contradict one another.
+
+Minor characters are allowed to:
+- fear him;
+- admire him;
+- dismiss the stories;
+- exaggerate them;
+- misunderstand them.
+
+#### Antagonists
+
+Minor antagonists may initially underestimate him because:
+- he has no level;
+- no class;
+- no registered combat status;
+- no formal political protection.
+
+Fear should grow when they discover that:
+- normal threat appraisal fails;
+- injury does not stop him normally;
+- his abilities are difficult to predict;
+- he does not reliably obey institutional pressure.
+
+Competent antagonists adapt.
+
+They do not become stupid because they are afraid.
+
+#### Rovan Hesk — Greywake Progression
+
+Hesk's preferred perception path:
+
+**undocumented disposable labor → useful irregular asset → unpredictable complication → dangerous wildcard → threat to operational control**
+
+Hesk should not fear Red Jackal first because of raw combat strength.
+
+Hesk's deeper fear is that Red Jackal cannot be:
+- reliably classified;
+- threatened through normal employment status;
+- placed cleanly inside Guild procedure;
+- convinced that assigned sacrifice is necessary;
+- predicted through ordinary institutional incentives.
+
+By the late Greywake Arc, Hesk should understand that Red Jackal's unpredictability and refusal of imposed roles are operational threats even before Red Jackal becomes conventionally overpowering.
+
+### Aura-Farming Reputation Evolution
+
+Aura farming itself evolves.
+
+#### Early
+
+Red Jackal **tries to manufacture aura**.
+
+Results vary:
+- success;
+- partial success;
+- indifference;
+- embarrassing failure.
+
+#### Middle
+
+Some aura becomes earned because people have actually seen:
+- impossible survival;
+- strange manifestations;
+- refusal to panic;
+- dangerous decisions;
+- successful rescues;
+- unlawful defiance.
+
+At this point, deliberate silence or positioning works better because reputation supports it.
+
+#### Later
+
+Red Jackal may stop trying in some scenes and still produce aura because other characters already know the stories.
+
+The evolution is:
+
+**manufactured aura → mixed reputation → earned presence → reputation precedes him**
+
+This must never become universal admiration.
+
+### Threat-Perception QA
+
+Whenever another character calls Red Jackal terrifying, dangerous, impossible, powerful, monstrous, or potentially catastrophic, verify:
+
+1. What evidence does this character personally know?
+2. What credible reports have they received?
+3. Are they reacting to current power, uncertainty, growth potential, or reputation?
+4. Does the reaction fit their profession and personality?
+5. Is at least one competent character present who reacts differently?
+6. Are Red Jackal's real limits still visible?
+7. Is the scene avoiding universal worship?
+
+### Core Rule
+
+**Red Jackal's eventual fear factor comes from uncertainty plus demonstrated growth—not from a numerical power level.**
+
+The ideal late-series fear is not:
+
+**“His level is too high.”**
+
+It is:
+
+**“We still do not know what the rules are when he is involved.”**
+
 ## 2.10 Comedy — LOCKED DEADPAN STANDARD
 
 Red Jackal's default humor is **dry, deadpan, and internal**.

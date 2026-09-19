@@ -77,7 +77,7 @@ Travel matters. Use roads, ships, caravans, magical routes, passes, wilderness, 
 - Volume:
 - Destination:
 - Working title:
-- POV: Red Jackal first person
+- POV: close third-person limited centered on Red Jackal
 - Characters:
 - Location:
 - Opening situation:

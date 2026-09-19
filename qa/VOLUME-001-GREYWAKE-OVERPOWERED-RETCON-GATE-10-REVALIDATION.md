@@ -1,3 +1,13 @@
+# POV / Style Retcon Notice
+
+This file remains the valid Gate 10 record for the already-overpowered power retcon, but it is no longer the current final volume approval.
+
+The series prose standard changed afterward from first-person to **close third-person limited**.
+
+All CH-001→CH-026 manuscripts must be rewritten and individually Gate 9 revalidated before a new Volume 1 Gate 10 can pass.
+
+---
+
 # Volume 1 / Greywake Arc — Overpowered Retcon Full Canon Revalidation
 
 **Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
@@ -7,7 +17,7 @@
 **Audit Date:** 2026-09-19  
 **Scope:** CH-001 through CH-026 after Red Jackal overpowered retcon  
 **Gate:** Gate 10 — Series QA / Volume-Level Canon Revalidation  
-**Final Result:** PASS
+**Final Result:** STALE AFTER SERIES POV/STYLE RETCON — HISTORICAL PASS
 
 # 1. Revalidation Basis
 

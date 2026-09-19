@@ -68,7 +68,7 @@ The front edge of the movement bent toward Broken North. People around him start
 
 The body followed. For maybe half a minute, the plan looked like a plan. Then the first fence went.
 
-It was not one of the heavy barriers. they had deliberately avoided putting heavy barriers across routes the animals might need to use. The outer guide was timber stakes, rope, brush panels, and enough visual obstruction to suggest that one side of the approach was worse than the other.
+It was not one of the heavy barriers. They had deliberately avoided putting heavy barriers across routes the animals might need to use. The outer guide was timber stakes, rope, brush panels, and enough visual obstruction to suggest that one side of the approach was worse than the other.
 
 The suggestion failed under the weight of the herd. A larger browser hit the middle section sideways. The rope snapped.
 
@@ -216,7 +216,7 @@ Worker. Brynn turned first.
 
 That decided it. He stayed with the line. The people directly in front of him did not have that luxury.
 
-they ran. The lower detour had been bad before the wave. Losing the seasonal-cut crossing had made it worse.
+They ran. The lower detour had been bad before the wave. Losing the seasonal-cut crossing had made it worse.
 
 The old seasonal-cut crossing was gone as a proper route, forcing movement through a narrower section of broken roadside and packed earth. Workers had built a light guide there because there was nowhere useful for a heavier one. The guide had collapsed.
 
@@ -286,7 +286,7 @@ He dismissed the rail.
 
 “Fall back!” Brynn ordered.
 
-Nobody argued. they abandoned the lower guide before it cost more people.
+Nobody argued. They abandoned the lower guide before it cost more people.
 
 Workers pulled what equipment they could reach without stepping back into the flow. Militia moved with them. Nobody tried to reclaim the post because it had once been part of the plan.
 
@@ -312,7 +312,7 @@ Brynn wiped mud from one glove.
 
 A horn sounded from Broken North. Two short calls. Repair pressure.
 
-they ran again. His hands were shaking from impacts, pain, and adrenaline.
+They ran again. His hands were shaking from impacts, pain, and adrenaline.
 
 Useful medical information.
 
@@ -418,7 +418,7 @@ The hounds did not attack the line. They moved through it, heads low, eyes fixed
 
 A militia spear turned it. Another disappeared into brush. The road took all of it.
 
-Badly. The wrong-route pull had not stopped. they could see it farther downslope, movement still dragging toward the vulnerable side before later corrections forced part of it back.
+Badly. The wrong-route pull had not stopped. They could see it farther downslope, movement still dragging toward the vulnerable side before later corrections forced part of it back.
 
 That meant compression. Compression meant too many animals arriving at Broken North without enough space between them. The road had been built barely viable for a plan that expected breathing room.
 

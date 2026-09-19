@@ -5,7 +5,7 @@
 **Destination:** DEST-002 — Merrowgate  
 **Arc:** Merrowgate Arc  
 **Phase:** Chapter Roadmap  
-**Status:** GATE 7 PASS — CHAPTER ROADMAP LOCKED / CH-027 CANON / CH-028 GATE 8 NEXT  
+**Status:** GATE 7 STRUCTURE LOCKED / SOUL-DRIFT OVERLAY ACTIVE / CH-027 PROSE STALE / CH-028 PAUSED  
 **Final Chapter Count:** 24  
 **Series Chapter Range:** CH-027 through CH-050  
 **POV:** Red Jackal first person throughout  
@@ -120,7 +120,7 @@ The chapter roadmap records the following intended **public display/restraint pa
 - CH-043: none;
 - CH-044: none required;
 - CH-045: one controlled engineering test permitted;
-- CH-046: **zero manifestations**; Red conserves focus and stamina before the harbor crisis;
+- CH-046: **zero manifestations** by choice; Red withholds spectacle before the harbor crisis so the later public reveals, coalition roles, and enemy assumptions land correctly;
 - CH-047: **exactly two** separate support manifestations;
 - CH-048: **exactly three** separate support manifestations;
 - CH-049: none;
@@ -798,14 +798,14 @@ Only these Volume 2 mystery uses are authorized:
 - **F-010:** planned in CH-038, still **PLANNED — NOT YET PLANTED**.
 
 Protected:
-- M-001 acquisition truth;
-- M-003 continuity-translocation truth;
-- M-004 self-model origin;
+- M-001 natural Soul-Drift arrival truth;
+- M-003 far Soul Drift truth;
+- M-004 Soul-Drift/missing-schema Play Logic origin;
 - technical M-007 Fate model;
 - Great Design truth;
 - Savael;
 - Exterior Needle;
-- Exterior Echo;
+- Fourth-Wall Pause metaphysical mechanism;
 - Exception Covenant;
 - Eidrathi endgame material.
 
@@ -857,6 +857,6 @@ Do not build detailed scenes for a later chapter before the active chapter passe
 
 **CH-027 Scene Architecture:** PASS — GATE 8 / SC-027-01 THROUGH SC-027-05 LOCKED.
 
-**CH-027 Manuscript:** CANON — GATE 9 PASS / 2,108 words.
+**CH-027 Manuscript:** EVENT SEQUENCE PRESERVED / PROSE STALE UNDER SOUL-DRIFT RETCON.
 
-**Official next step:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.
+**Official next step:** CH-001→CH-027 Soul-Drift first-person manuscript rewrite/revalidation cycle. CH-028 remains paused.

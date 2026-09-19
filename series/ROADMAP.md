@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-014 CANON — CH-015 MANUSCRIPT DRAFT / GATE 9 PENDING
+**Status:** CH-015 CANON — CH-016 SCENE ARCHITECTURE AUTHORIZED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -51,7 +51,7 @@ CH-013 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**
 CH-014 Scene Architecture: **PASS — GATE 8**  
 CH-014 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-015 Scene Architecture: **PASS — GATE 8**  
-CH-015 Manuscript: **DRAFT — GATE 9 PENDING**  
+CH-015 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 Red Jackal Series Voice: **LOCKED — DRY/DEADPAN INTERNAL HUMOR + RESTRAINED FOURTH-WALL STANDARD**  
 Red Jackal Anti-Villain Expression: **LOCKED**  
 Red Jackal Reputation / Fear Progression: **LOCKED — R0 TO R6**  
@@ -61,9 +61,9 @@ Aura Evolution: **MANUFACTURED → EARNED → REPUTATION-SUPPORTED**
 
 The project is now authorized to proceed to:
 
-1. **Run CH-015 Gate 9 — Chapter QA only**
+1. **Detailed Scene Architecture — CH-016 Backflow only**
 
-CH-015 manuscript draft now exists and is awaiting Gate 9 Chapter QA. No new F-ID is authorized in CH-015; F-001 through F-004 remain in their existing planted states. M-007 remains inactive. The draft makes Red Jackal's lure disruption informed and unauthorized: Tavian opposes it, Kellan supports local action without system-wide certainty, Guild personnel legitimately resist, Red uses one Stage I physical utility manifestation, and the chapter ends when the lure goes dead and distant monster calls change direction. CH-016 still owns the major observed backflow, Kellan's severe injury, route loss, and first allowed M-007 tonal hint. CH-016 planning remains blocked until CH-015 passes Gate 9 and is canonized, and no later destination has been selected.
+CH-015 Chapter QA has passed and CH-015 is canon. No F-ID changed state in CH-015; F-001 through F-004 remain in their existing planted states. M-007 remains inactive. Red Jackal's knowingly unauthorized lure disruption, Tavian's explicit opposition, Kellan's bounded support, the single Stage I pry/wedge manifestation, Red's injury/recovery, and the changed distant monster calls are now canon. CH-016 — Backflow may now proceed to Detailed Scene Architecture only. CH-016 owns the major observed backflow, Kellan's severe injury, key route/bridge loss, and first allowed M-007 tonal hint. CH-016 manuscript remains blocked until its Gate 8 Pre-Manuscript Scene QA passes, and no later destination has been selected.
 
 ## Destination Naming Law
 
@@ -79,7 +79,7 @@ This table is intentionally empty.
 
 | Volume | Destination ID | Arc Name | Local Conflict | Main Antagonist | Major Mystery Contribution | Status |
 |---|---|---|---|---|---|---|
-| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-015 DRAFT — GATE 9 PENDING |
+| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-015 CANON — CH-016 SCENE ARCHITECTURE AUTHORIZED |
 
 ## Lock
 
@@ -89,4 +89,4 @@ Do not add a row until:
 - Destination Inventory exists; **PASS**
 - Destination Selection QA approves an existing world location; **PASS — DEST-001 Greywake**
 
-Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-014 are canon. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. CH-015 manuscript draft exists and Gate 9 Chapter QA is the only authorized next step; CH-016 planning and all later-route selection remain deferred.
+Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-015 are canon. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. CH-016 Detailed Scene Architecture is authorized; CH-016 manuscript prose and all later-route selection remain deferred.

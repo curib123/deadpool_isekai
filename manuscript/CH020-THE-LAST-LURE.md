@@ -1,8 +1,9 @@
 # Chapter 20 — The Last Lure
 
-**Status:** RETCON + PACING REVISED — GATE 9 REVALIDATION PENDING  
+**Status:** CANON — OVERPOWERED RETCON GATE 9 PASS  
 **Word Count:** 3123,014  
 **Chapter QA:** `qa/CH-020-GATE-9-CHAPTER-QA.md`
+**Retcon QA:** `qa/CH-020-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
 By the time I got back from Broken North, mud had dried on my boots, my shoulders hurt from carrying half a road, and somebody had finally put a cup in my hand.
 

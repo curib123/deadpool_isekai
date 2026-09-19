@@ -105,7 +105,7 @@ The authoritative Volume 1 chapter roadmap is:
 
 The next authorized planning artifact is:
 
-`CH-004 — Off the Books: Manuscript Draft`
+`CH-005 — A Better Hammer: Detailed Scene Architecture`
 
 CH-001 manuscript has passed Gate 9 and is CANON.
 
@@ -115,11 +115,13 @@ CH-003 manuscript has passed Gate 9 and is CANON.
 
 F-002 is PLANTED — CH-003.
 
-CH-004 Scene Architecture has passed Gate 8.
+CH-004 manuscript has passed Gate 9 and is CANON.
 
-Drafting CH-004 manuscript prose is now authorized.
+No F-ID changed status in CH-004.
 
-Do not draft CH-005 or create CH-005 Scene Architecture during the CH-004 manuscript step.
+Detailed Scene Architecture for CH-005 — A Better Hammer is now authorized.
+
+Do not draft CH-005 manuscript until CH-005 Scene Architecture and its Pre-Manuscript Scene QA pass.
 
 # 5. Scene Sheet
 Each scene has:

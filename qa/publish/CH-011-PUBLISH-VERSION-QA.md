@@ -1,43 +1,29 @@
 # CH-011 Publish Version QA
 
 **Canon Source:** `manuscript/CH011-BROKEN-NORTH.md`  
-**Canon Source SHA:** `eb1b9878b69d55bca7a8e4c49a2adefb43b3bcdd`  
+**Canon Source SHA:** `513f4816572bb2e4a21236fff972078e5d991736`  
 **Publication Copy:** `published/volume-001/CH011-BROKEN-NORTH.md`  
 **Target Platform:** WebNovel-compatible reader-facing copy  
 **Review Date:** 2026-09-19  
-**Status:** PUBLISH-READY — GATE 11 PASS
+**Status:** PUBLISH-READY — GATE 11 PASS / OVERPOWERED RETCON REFRESH
 
 # Source Integrity
-- Canon source / Gate 9 prerequisite: **PASS**
-- Latest canon source used: **PASS**
-- Title/opening/final paragraph/order: **PASS**
-- Canon body paragraphs: **251**
-- Missing/duplicated/reordered prose: **NONE**
 
-# Semantic Equivalence
-Publication prose body is byte-equivalent to canon after removal of repository-only header metadata.
+- source manuscript is CANON — OVERPOWERED RETCON GATE 9 PASS;
+- publication copy regenerated from latest canon source;
+- only production metadata removed;
+- title preserved: **Chapter 11 — Broken North**;
+- final nonblank line preserved: **“A march-lure.”**;
+- no prose block omitted, duplicated, or reordered.
 
-No story, dialogue, narration, clue, injury, power, continuity, knowledge-state, ending, or final-line change.
+# Canon Equivalence
 
-**Semantic Diff:** PASS — PRESENTATION ONLY
+**PASS.** Events, dialogue, characterization, injuries, power behavior, mystery state, and ending are canon-equivalent.
 
-# Platform QA
-- internal status/word-count/QA metadata: **REMOVED**
-- raw code fences/emphasis markup in prose: **NONE**
-- paragraph rhythm: **PRESERVED**
-- dialogue/self-talk/reader-talk: **PRESERVED**
-- title duplication: **NO**
-- mobile/plain-text readability: **PASS**
-- future spoiler/reference expansion: **NONE**
+# Reader-Facing / Formatting
 
-# Findings
-CRITICAL: None.  
-MAJOR: None.  
-MINOR: None.
+**PASS.** Production metadata removed; paragraph rhythm and dialogue preserved; no code-fence/HTML artifacts; WebNovel-compatible plain-text flow.
 
 # Decision
-# PASS
 
-**CH-011 is PUBLISH-READY — GATE 11 PASS.**
-
-Canon manuscript remains authoritative.
+**PUBLISH-READY — GATE 11 PASS.**

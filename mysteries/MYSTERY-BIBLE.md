@@ -893,6 +893,7 @@ Each entry below records its current foreshadowing state. New F-IDs begin as **P
 **First interpretation:** “the plot correcting itself.”  
 **Hidden meaning:** adaptive Fate and coherence pressure.  
 **Eligible window:** RW-2 / RW-3.  
+**Volume 2 Planning:** SELECTED — MERROWGATE ARC / GATE 6.  
 **Status:** PLANNED — NOT YET PLANTED.
 
 ## F-007 — Ashfall Maps Contradict Each Other
@@ -1236,3 +1237,50 @@ It must not explain why.
 **F-003 Status: PLANTED — CH-007**
 
 Status changed after approved CH-007 manuscript prose contained both components and passed Gate 9.
+
+
+# 15. Volume 2 Mystery Deployment — Merrowgate Arc
+
+**Status:** GATE 6 PLANNING ASSIGNMENT — NO NEW F-ID PLANTED
+
+## M-002 — Why Is Everything About Him UNDEFINED?
+
+**Deployment:** CROSS-JURISDICTIONAL REINFORCEMENT.
+
+Allowed:
+- Merrowgate verification processes independently fail to produce a valid native identity for Red Jackal;
+- physical presence and practical liability may still be acknowledged;
+- different interfaces may present the failure differently while agreeing that no valid identity record exists.
+
+Not allowed:
+- soul-registry origin proof;
+- continuity-translocation explanation;
+- Exterior Needle explanation;
+- Savael;
+- Great Design cause.
+
+## M-011 — What Was the Quiet Registration?
+
+**Deployment:** BOUNDED HISTORICAL SURFACE ONLY.
+
+Allowed:
+- old technical or trade material uses terminology inconsistent with modern System-standard language;
+- characters may interpret it as obsolete scholarly/commercial vocabulary.
+
+Not allowed:
+- proof of the full synchronization history;
+- proof that the World System was engineered at the writer-truth level;
+- protected Great Design conclusions.
+
+## Selected Foreshadowing Candidate
+
+### F-010 — Quiet Registration Records Use Older Terminology
+
+**Merrowgate Planning:** SELECTED.  
+**Status:** PLANNED — NOT YET PLANTED.
+
+Gate 7 may assign one planned chapter location. The clue remains unplanted until actual manuscript prose contains the approved setup and Gate 9 verifies it.
+
+No other new F-ID is authorized by Volume 2 Gate 6.
+
+Previously planted F-001 through F-004 remain canon and may be naturally reinforced without changing their planting status.

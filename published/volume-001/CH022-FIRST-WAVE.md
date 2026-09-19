@@ -1,4 +1,4 @@
-# Chapter 22 — First Wave
+Chapter 22 — First Wave
 
 The first mass did not charge us. It came out of the trees in layers.
 

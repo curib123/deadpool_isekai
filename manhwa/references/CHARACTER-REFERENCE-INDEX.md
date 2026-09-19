@@ -2,7 +2,7 @@
 
 | Character | Reference ID | Type | Status | Source/Path | Notes |
 |---|---|---|---|---|---|
-| Red Jackal | RJ-REF-001 | primary neutral model sheet | PENDING | not generated | must match textual visual lock v1.0 |
+| Red Jackal | RJ-REF-001 | primary neutral model sheet | PENDING | `manhwa/references/assets/characters/red-jackal/RJ-REF-001-primary-neutral-model-sheet-candidate.jpg` | candidate exists; must pass textual visual-lock review before approval |
 | Red Jackal | RJ-REF-002 | full turnaround | PENDING | not generated | front/profile/back/3/4 consistency |
 | Red Jackal | RJ-REF-003 | face reference sheet | PENDING | not generated | neutral + multi-angle facial identity |
 | Red Jackal | RJ-REF-004 | expression sheet | PENDING | not generated | E01–E13 |

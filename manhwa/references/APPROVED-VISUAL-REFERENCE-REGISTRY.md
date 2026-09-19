@@ -11,7 +11,7 @@ This is the authoritative list of visual references approved for repeated manhwa
 
 | ID | Subject | Status | File/Asset | Approved Against | Notes |
 |---|---|---|---|---|---|
-| RJ-REF-001 | Red Jackal primary model sheet | PENDING | — | Red Jackal textual lock v1.0 | not generated |
+| RJ-REF-001 | Red Jackal primary model sheet | PENDING | `manhwa/references/assets/characters/red-jackal/RJ-REF-001-primary-neutral-model-sheet-candidate.jpg` | Red Jackal textual lock v1.0 | candidate generated and stored; visual-lock review still required |
 | RJ-REF-002 | Red Jackal turnaround | PENDING | — | Turnaround specification v1.0 | not generated |
 | RJ-REF-003 | Red Jackal face sheet | PENDING | — | Face lock v1.0 | not generated |
 | RJ-REF-004 | Red Jackal expression sheet | PENDING | — | Expression lock v1.0 | not generated |

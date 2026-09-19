@@ -631,6 +631,22 @@ He only knows:
 - later vague attempts failed;
 - specificity may matter.
 
+### Supporting Character Knowledge
+
+**Repair foreman / nearby crew know:**
+- the proper heavy work tool has failed;
+- Red Jackal is not a certified road specialist;
+- he has volunteered to try something unusual.
+
+**Assigned road guard knows:**
+- ordinary Valedorn/Guild magic normally uses recognizable preparation or shaping;
+- Red Jackal has not used a prepared sigil, enchanted casting tool, or visible learned spell sequence.
+
+Nobody knows:
+- the CH-001 manifestation history;
+- Play Logic;
+- the true mechanism of the effect.
+
 ### What Red Jackal Discovers
 
 Intentional manifestation is not impossible.
@@ -819,6 +835,22 @@ The conclusion remains:
 ### Knowledge Entering Scene — Red Jackal
 
 He has just learned vague category-thinking produced the wrong tool.
+
+### Supporting Character Knowledge
+
+**Repair foreman / crew know:**
+- Red Jackal just produced one temporary hammer-like object by an unfamiliar method;
+- the first object was not useful enough for the repair;
+- the brace is already aligned and still needs the main pin driven.
+
+**Assigned road guards know:**
+- Red Jackal's first manifestation did not resemble ordinary prepared Guild/Valedorn spellcasting;
+- predators are approaching and worker safety remains their primary responsibility.
+
+They do not know:
+- why changing Red Jackal's mental framing will change the result;
+- whether the effect is magic, anomaly, blessing, curse, or something else;
+- any protected mystery truth.
 
 ### What Red Jackal Discovers
 

@@ -105,7 +105,7 @@ The authoritative Volume 1 chapter roadmap is:
 
 The next authorized planning artifact is:
 
-`CH-025 — What Greywake Counts: Detailed Scene Architecture`
+`CH-025 — What Greywake Counts: Manuscript Draft`
 
 CH-001 manuscript has passed Gate 9 and is CANON.
 
@@ -251,9 +251,11 @@ No F-ID changed status in CH-024.
 
 M-007 did not advance.
 
-CH-025 — What Greywake Counts Detailed Scene Architecture is now authorized.
+CH-025 Scene Architecture has passed Gate 8.
 
-Do not draft CH-025 manuscript before CH-025 Scene Architecture and Gate 8 Pre-Manuscript Scene QA pass.
+Drafting CH-025 manuscript prose is now authorized.
+
+Do not create or draft CH-026 until CH-025 passes Gate 9.
 
 # 5. Scene Sheet
 Each scene has:

@@ -60,7 +60,7 @@ He took the short boards. Being mysterious had once again led directly to lumber
 
 There was a difference. Ruts had been filled with stone where someone had the material. Small drainage cuts had been reopened by hand. A washed section near one field had been reinforced with brush bundles and flat rock.
 
-None of it looked elegant. All of it looked used. they passed a cart loaded with sacks going toward Greywake. Another came the other way carrying iron tools and salt. A woman near a workshop waved to Kellan and asked whether the bridge would be open by evening.
+None of it looked elegant. All of it looked used. They passed a cart loaded with sacks going toward Greywake. Another came the other way carrying iron tools and salt. A woman near a workshop waved to Kellan and asked whether the bridge would be open by evening.
 
 “If the approach holds,” he said.
 
@@ -400,7 +400,7 @@ He almost laughed. Almost. He pointed toward the cart.
 
 “Good.”
 
-He turned back to the workers. That was apparently the end of his magical evaluation. they spent the next hour doing the permanent part. Stone. Timber.
+He turned back to the workers. That was apparently the end of his magical evaluation. They spent the next hour doing the permanent part. Stone. Timber.
 
 Iron. Mud. Nothing appeared from nowhere. The approach was packed wider around the root shelf. A second brace went under the outer edge. Two deck boards were turned and reused because their undersides were less worn.
 
@@ -416,7 +416,7 @@ He added a simple wheel symbol beneath it and crossed out the larger wagon picto
 
 Reasonable.
 
-The supply cart continued west. they walked with it to the next junction. This stretch of road was worse. Not unusable. Just tired.
+The supply cart continued west. They walked with it to the next junction. This stretch of road was worse. Not unusable. Just tired.
 
 The surface had been patched in different materials. Some drainage cuts were lined with stone, others with split logs. One marker post had an old Guild stamp burned into it and a newer local repair brace nailed around the base.
 

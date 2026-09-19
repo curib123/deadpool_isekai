@@ -45,7 +45,7 @@ He looked toward the brush beyond the drainage ditch. The road here was close en
 
 Yesterday, Tavian had shown him animals crossing places they should not. Today, the Guild had sent people here anyway. Not because they were stupid. Because this route had been ordinary for years. Greywake could not stop using every road because the forest might be developing opinions.
 
-they finished the first marker and moved on. The second supply box had a cracked lid. One worker replaced it while another cleared leaves from the drainage channel. He carried a bundle of treated stakes from the wagon because apparently his mysterious status had not exempted him from lifting things.
+They finished the first marker and moved on. The second supply box had a cracked lid. One worker replaced it while another cleared leaves from the drainage channel. He carried a bundle of treated stakes from the wagon because apparently his mysterious status had not exempted him from lifting things.
 
 Tavian moved ahead of them by a few paces. He stopped. He noticed because he did not usually stop without a reason.
 
@@ -239,7 +239,7 @@ The lead predator moved forward. He backed toward the narrowing with everyone el
 
 He did not look away. His fault was too simple to misunderstand. He had moved because danger to him felt negotiable. He had paid for the space he opened behind him.
 
-they reached the narrow section.
+They reached the narrow section.
 
 He turned. The pack followed at a distance. Testing.
 
@@ -281,7 +281,7 @@ Once the workers had enough distance, he let the barrier disappear.
 
 This time he listened.
 
-they ran. That is a generous description of what he did. Pain made every step unpleasant, but the thing behind them was no longer a problem of strength. The workers carried the injured man between them. Tavian stayed rear-left. He stayed rear-right and, for once, did not invent a new rule for the situation.
+They ran. That is a generous description of what he did. Pain made every step unpleasant, but the thing behind them was no longer a problem of strength. The workers carried the injured man between them. Tavian stayed rear-left. He stayed rear-right and, for once, did not invent a new rule for the situation.
 
 The wound kept tightening in pulses. Every pulse burned. The bleeding slowed.
 
@@ -335,7 +335,7 @@ He looked toward Greywake.
 
 “Far enough.”
 
-Useful. they got the worker to the maintained road. A patrol cart reached them before they made it much farther. The Guild workers flagged it down, and after a short explanation the injured man was loaded first. He climbed in after him because riding hurt less and he had no reason to turn walking into another demonstration.
+Useful. They got the worker to the maintained road. A patrol cart reached them before they made it much farther. The Guild workers flagged it down, and after a short explanation the injured man was loaded first. He climbed in after him because riding hurt less and he had no reason to turn walking into another demonstration.
 
 The Wayfarer Token from the service wagon was gone with the abandoned supplies, but the patrol cart carried another. Its translation field settled over the voices around him. Someone asked what happened. Tavian answered.
 
@@ -371,7 +371,7 @@ Good. The ride back to Greywake was rough. Every rut pulled at his side. The str
 
 Sharp tearing became deep heat. Deep heat became crushing soreness. Keeping his eyes open started taking effort, whether from blood loss, pain, shock, or his body's deeply antisocial repair process. Surviving remained unpleasant even when survival itself was becoming less impressive. The treatment house stood near the inner road, close enough to the gate that injured travelers could be brought in without crossing half the settlement.
 
-they did not enter dramatically. they arrived bleeding in a patrol cart, which was not the entrance he would have chosen. The thought was weak enough that he almost respected it. A woman with dark river-blue markings along her neck stepped out before the cart fully stopped.
+They did not enter dramatically. They arrived bleeding in a patrol cart, which was not the entrance he would have chosen. The thought was weak enough that he almost respected it. A woman with dark river-blue markings along her neck stepped out before the cart fully stopped.
 
 She took one look at them.
 

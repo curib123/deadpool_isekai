@@ -1,8 +1,8 @@
 # Chapter 2 — Undefined
 
-**Status:** CANON — DEADPAN VOICE REVISION UNDER GATE 9 REVIEW  
-**Word Count:** 2,921  
-**Voice QA:** pending deadpan revision revalidation
+**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED
+**Word Count:** 2,858
+**Voice QA:** `qa/CH-002-DEADPAN-VOICE-GATE-9-QA.md`
 
 Civilization announced itself with smoke, wagon wheels, and a wall tall enough to make me reconsider how dangerous the forest behind me actually was. The road curved down through thinning trees toward a timber palisade, its watch platforms half-hidden in river fog while carts waited in two slow-moving lines outside the gate.
 

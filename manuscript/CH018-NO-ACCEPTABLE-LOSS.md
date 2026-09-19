@@ -306,7 +306,7 @@ Maelis looked at him.
 
 No one improved that sentence by adding anything. Jessa kept working. Within half an hour, they had something better than a map.
 
-they had an incomplete map that admitted it was incomplete. Known lure sectors. Recent route sightings.
+They had an incomplete map that admitted it was incomplete. Known lure sectors. Recent route sightings.
 
 Greywake-facing pressure. Blocked or damaged roads. Outer settlements.
 
@@ -578,7 +578,7 @@ Before Sela moved him away, she looked at him.
 
 “Then plan as if you know.”
 
-She took Kellan back inside. they returned to the militia yard with his notes. Broken North was possible.
+She took Kellan back inside. They returned to the militia yard with his notes. Broken North was possible.
 
 That was not the same as safe. Tavian redrew the route from the current pressure lines toward the old corridor.
 
@@ -864,4 +864,4 @@ Support.
 
 He could work with that.
 
-For once, nobody was asking who had to be sacrificed. they were going to build somewhere else for the danger to go.
+For once, nobody was asking who had to be sacrificed. They were going to build somewhere else for the danger to go.

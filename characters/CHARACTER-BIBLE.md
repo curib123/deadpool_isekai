@@ -811,7 +811,7 @@ He does **not** begin knowing:
 - the true Great Design;
 - why his soul has NO RECORD;
 - why Play Logic exists;
-- whether his reader-talk is metaphysically real;
+- what the Exterior Echo is and why it points beyond Veyr;
 - who or what caused his transfer.
 
 ## 2.20 Red Jackal QA Lock

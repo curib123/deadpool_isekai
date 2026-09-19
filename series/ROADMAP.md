@@ -266,7 +266,7 @@ Preserved:
 - Merrowgate 24-chapter pacing/order;
 - local antagonists and destination outcomes unless later chapter-specific QA requires wording changes.
 
-**Manuscript state:** CH-001 is CURRENT CANON under the Soul-Drift/final story-engine retcon; CH-002→CH-027 remain STALE pending sequential revision.
+**Manuscript state:** CH-001 and CH-002 are CURRENT CANON under the Soul-Drift/final story-engine retcon; CH-003→CH-027 remain STALE pending sequential revision.
 
 The previous close-third revisions remain historical artifacts only.
 

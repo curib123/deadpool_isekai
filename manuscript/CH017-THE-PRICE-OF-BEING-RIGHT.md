@@ -1,7 +1,7 @@
 # Chapter 17 — The Price of Being Right
 
-**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
-**Word Count:** 3,042  
+**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Word Count:** 3043,042  
 
 Sela did not look at him when they carried Kellan in. She looked at the stretcher.
 
@@ -79,7 +79,7 @@ Sela took the smallest remaining bright crystal and set it beside Kellan.
 
 One assistant asked, “Bone?”
 
-“Not with this much swelling and tissue damage. We do not force a full repair we cannot control.”
+“Not with this much swelling and tissue damage. they do not force a full repair they cannot control.”
 
 That sounded like Sela. She placed her hands around the worst part of the leg without touching the broken section directly. A blue-white pattern formed between her fingers, thin and controlled.
 
@@ -105,7 +105,7 @@ Her eyes went to his side. Then his leg. Then his shoulder.
 
 “Sit.”
 
-“I’m fine.”
+“he was fine.”
 
 “No.”
 
@@ -141,9 +141,9 @@ Then she stepped away.
 
 He looked at the crystal rack.
 
-“I wasn’t asking.”
+“he wasn’t asking.”
 
-“I know.”
+“he know.”
 
 She started wrapping Kellan’s leg into the new splint.
 
@@ -159,7 +159,7 @@ His eyes opened again.
 
 “For how long?”
 
-“I do not know yet.”
+“he do not know yet.”
 
 That answer mattered.
 
@@ -169,13 +169,13 @@ No dramatic sentence about walking again.
 
 Just not yet.
 
-“We need the swelling down,” she continued. “We need to see how the tissue responds. We need to watch circulation. We need to keep the fractures stable.”
+“they need the swelling down,” she continued. “they need to see how the tissue responds. they need to watch circulation. they need to keep the fractures stable.”
 
 Kellan swallowed.
 
 “And the shoulder?”
 
-“Badly bruised. Possibly strained. I need the swelling down before I say more.”
+“Badly bruised. Possibly strained. He need the swelling down before he say more.”
 
 He closed his eyes again. Sela looked at him.
 
@@ -211,21 +211,21 @@ He looked at his side.
 
 “You look better.”
 
-“I am.”
+“he am.”
 
 He stared at the ceiling for a moment.
 
 He said nothing. After a moment, he looked back at him.
 
-“I wanted the stake stopped.”
+“he wanted the stake stopped.”
 
-“I know.”
+“he know.”
 
-“I helped you.”
+“he helped you.”
 
 “Yes.”
 
-“I blocked the Guild man.”
+“he blocked the Guild man.”
 
 “Yes.”
 
@@ -233,41 +233,41 @@ His mouth tightened.
 
 “Do not use that.”
 
-“I wasn’t going to.”
+“he wasn’t going to.”
 
 “Good.”
 
 He shifted slightly and immediately stopped. Pain moved through his face.
 
-“I wanted that thing gone because it was pushing danger at our farms.”
+“he wanted that thing gone because it was pushing danger at their farms.”
 
-“I know.”
+“he know.”
 
-“I still do.”
+“he still do.”
 
 Sela looked over from the next table.
 
 “Kellan.”
 
-“I am talking.”
+“he am talking.”
 
 “You are supposed to be resting.”
 
-“I can do both.”
+“he can do both.”
 
 “No.”
 
 He ignored her. Barely. His eyes stayed on him.
 
-“I did not know what the rest of the network would do.”
+“he did not know what the rest of the network would do.”
 
-“Neither did I.”
+“Neither did he.”
 
 “You knew enough to know it could go bad.”
 
 “Yes.”
 
-“So did I.”
+“So did he.”
 
 That did not feel like relief. He continued.
 
@@ -275,7 +275,7 @@ That did not feel like relief. He continued.
 
 “Yes.”
 
-“Not me.”
+“Not him.”
 
 “No.”
 
@@ -285,19 +285,19 @@ He breathed carefully.
 
 “Yes.”
 
-“Do not give him my leg.”
+“Do not give him his leg.”
 
 Red looked at Kellan and held his gaze.
 
 “Do not make this proof that he was right about everything.”
 
-“I won’t.”
+“he won’t.”
 
-“And do not make me proof that you were.”
+“And do not make him proof that you were.”
 
 That landed harder.
 
-“I won’t.”
+“he won’t.”
 
 He closed his eyes.
 
@@ -321,11 +321,11 @@ He looked at Kellan. His eyes remained closed. Sela followed his gaze.
 
 “He is alive.”
 
-“I know.”
+“he know.”
 
 “That is not the same as fine.”
 
-“I know.”
+“he know.”
 
 She turned back to her work. He left. Greywake sounded different outside.
 
@@ -343,11 +343,11 @@ Hesk stood opposite them. He looked rested compared to the rest of them. Not bec
 
 Because he had not spent the last several hours under a bridge. One council representative spoke as he entered.
 
-“We cannot leave the outer pressure uncontrolled.”
+“they cannot leave the outer pressure uncontrolled.”
 
 Hesk answered.
 
-“We cannot leave any of it uncontrolled.”
+“they cannot leave any of it uncontrolled.”
 
 His eyes moved to him. No smile. No satisfaction.
 
@@ -365,7 +365,7 @@ He stopped near the table.
 
 “The lure failed.”
 
-“I removed it.”
+“he removed it.”
 
 “Backflow followed.”
 
@@ -375,9 +375,9 @@ The room stayed quiet. Hesk did not need to raise his voice.
 
 “The seasonal crossing is gone. Outer routes are collapsing into each other. Movement has reached the lower Greywake approach.”
 
-Brynn said, “We know.”
+Brynn said, “they know.”
 
-“Then we should stop debating whether centralized control is offensive and start using it.”
+“Then they should stop debating whether centralized control is offensive and start using it.”
 
 Maelis’s expression hardened. Hesk placed one hand on the map.
 
@@ -387,13 +387,13 @@ Kellan’s leg flashed through his head. Not as an argument. Just there.
 
 Hesk continued.
 
-“We restore pressure away from Greywake. We reopen the protected corridor. Guild handlers know the equipment. I have the route records, the crews, the compounds, and the people who can operate them before the next movement line reaches the walls.”
+“they restore pressure away from Greywake. they reopen the protected corridor. Guild handlers know the equipment. He have the route records, the crews, the compounds, and the people who can operate them before the next movement line reaches the walls.”
 
 Brynn looked at him.
 
 “Under whose authority?”
 
-“Mine.”
+“his.”
 
 There it was. Hesk did not hesitate.
 
@@ -405,7 +405,7 @@ One council member looked toward Brynn. Another looked toward Maelis. Hesk kept 
 
 Hesk pointed toward Red.
 
-“Uncontrolled individual judgment has already shown us the alternative.”
+“Uncontrolled individual judgment has already shown them the alternative.”
 
 No one defended him.
 
@@ -413,7 +413,7 @@ Good.
 
 He was not wrong about that part. Hesk looked directly at him.
 
-“You wanted the choice removed from my hands.”
+“You wanted the choice removed from his hands.”
 
 “Yes.”
 
@@ -481,7 +481,7 @@ Hesk’s jaw tightened.
 
 Maelis placed the records flat on the table.
 
-“That is why I am preserving the evidence before emergency necessity becomes an excuse to destroy it.”
+“That is why he am preserving the evidence before emergency necessity becomes an excuse to destroy it.”
 
 Brynn looked at the copied packets.
 
@@ -501,11 +501,11 @@ Hesk looked at Brynn.
 
 “You approved that?”
 
-“I did.”
+“he did.”
 
 “You are fragmenting command during a crisis.”
 
-“I am preventing one office from controlling the crisis and the evidence about how we got here.”
+“he am preventing one office from controlling the crisis and the evidence about how they got here.”
 
 He leaned forward.
 
@@ -525,21 +525,21 @@ He moved two markers.
 
 Hesk looked at him.
 
-“Then we agree.”
+“Then they agree.”
 
 “No.”
 
 Tavian did not raise his voice.
 
-“We do not have current geometry for every remaining lure. Strengthening the wrong sites can redirect pressure again.”
+“they do not have current geometry for every remaining lure. Strengthening the wrong sites can redirect pressure again.”
 
 Hesk said, “Doing nothing will also redirect pressure.”
 
 “Yes.”
 
-“So we use the system that already held the main road.”
+“So they use the system that already held the main road.”
 
-“We use information.”
+“they use information.”
 
 Tavian tapped the map.
 
@@ -553,11 +553,11 @@ Hesk’s expression went flat.
 
 “You do not have time to map everything.”
 
-“I know.”
+“he know.”
 
 “Then you are choosing delay.”
 
-“I am choosing not to repeat Red’s mistake with more equipment.”
+“he am choosing not to repeat Red’s mistake with more equipment.”
 
 That landed. On him too. Tavian did not look at him.
 
@@ -571,13 +571,13 @@ Brynn stepped closer.
 
 Nobody interrupted.
 
-“Militia command remains with me.”
+“Militia command remains with him.”
 
 Hesk’s mouth tightened.
 
 “Guild technical crews can operate under emergency tasking.”
 
-“Under my authority?”
+“Under his authority?”
 
 “No.”
 
@@ -595,11 +595,11 @@ Maelis added, “And the service action is recorded.” Hesk looked between them
 
 “Yes.”
 
-“We do not have time for that.”
+“they do not have time for that.”
 
 Brynn pointed toward the doors.
 
-“We also do not have time for another hidden decision no one else understands.”
+“they also do not have time for another hidden decision no one else understands.”
 
 Hesk looked at the map again.
 
@@ -615,7 +615,7 @@ Brynn glanced at Tavian. He answered.
 
 Tavian moved another marker.
 
-“But we have route reports coming in now. Give me every current lure site, current charge state, and service history you still control.”
+“But they have route reports coming in now. Give him every current lure site, current charge state, and service history you still control.”
 
 Hesk did not answer immediately. Brynn’s voice went colder.
 
@@ -631,7 +631,7 @@ Not surrender. Not defeat. A temporary shift.
 
 That was all anyone had time for. One of the council representatives asked, “And the strongest outer lures?” Brynn answered.
 
-“Not reactivated until we know what they would push into.”
+“Not reactivated until they know what they would push into.”
 
 Hesk said, “People may die while you wait.” Brynn looked at him.
 
@@ -639,7 +639,7 @@ Hesk said, “People may die while you wait.” Brynn looked at him.
 
 No one in the room pretended otherwise. She continued.
 
-“People may also die if we restore them wrong.”
+“People may also die if they restore them wrong.”
 
 That ended the argument for now. Not because anyone had won. Because the next report arrived.
 
@@ -669,7 +669,7 @@ Both things fit in the same room. He did not like that. It did not matter.
 
 Tavian looked up from the map.
 
-“We need route observations from the disabled site.”
+“they need route observations from the disabled site.”
 
 He had them. Every track. Every call.
 
@@ -725,7 +725,7 @@ He had made that sentence into a claim of ownership. He had made the opposite mi
 
 Neither version worked anymore. Brynn came out behind him.
 
-“We are moving the emergency route board to the militia yard.”
+“they are moving the emergency route board to the militia yard.”
 
 He looked at her.
 
@@ -763,7 +763,7 @@ No claim to command.
 
 No attempt to decide the whole thing alone.
 
-“What do you need from me?”
+“What do you need from him?”
 
 Tavian looked at him for a long second. Then pointed to the empty space beside the map.
 

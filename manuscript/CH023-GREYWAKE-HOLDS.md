@@ -1,7 +1,8 @@
 # Chapter 23 — Greywake Holds
 
 **Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
-**Word Count:** 2662
+**Word Count:** 2,663
+**Retcon QA:** `qa/CH-023-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
 The largest territorial predator in the migration had arrived.
 
@@ -39,9 +40,9 @@ The dangerous part was that he could.
 
 “Not yet,” Tavian said.
 
-Red looked at him.
+He looked at him.
 
-Tavian was watching the animal, not Red.
+He was watching the animal, not him.
 
 “It wants space.”
 
@@ -157,7 +158,7 @@ Tavian shouted first.
 
 He almost felt offended.
 
-“he wasn’t—”
+“I wasn’t—”
 
 “You were thinking about it.”
 
@@ -179,7 +180,7 @@ The fallen worker stared at him.
 
 He decided later was an excellent time.
 
-They moved.
+they moved.
 
 His wound was already pulling itself closed under the blood. Pain remained. Apparently his body believed healing and kindness were unrelated concepts.
 
@@ -213,7 +214,7 @@ Brynn pointed. “Can you reset it?”
 
 “How long?”
 
-“Longer than they have.”
+“Longer than we have.”
 
 The road moved again.
 
@@ -223,7 +224,7 @@ Tavian looked from the road to the prey to the trapped predator.
 
 His decision took less than a second.
 
-“That shelf goes, they lose the inside line.”
+“That shelf goes, we lose the inside line.”
 
 Brynn looked at him.
 
@@ -427,13 +428,13 @@ Tavian pointed toward the service cut.
 
 “Almost open! Keep it facing north!”
 
-“he am.”
+“I am.”
 
 “You are antagonizing it.”
 
 “That is helping it face north.”
 
-“It is not helping him.”
+“It is not helping me.”
 
 Details.
 
@@ -493,7 +494,7 @@ He smiled.
 
 “You cannot prove this is not helping.”
 
-“he can.”
+“I can.”
 
 The foreman shouted from beneath the road.
 
@@ -551,9 +552,9 @@ Still good.
 
 The foreman pointed at the final support under the worst crack.
 
-“Keep that until he say.”
+“Keep that until I say.”
 
-“See? Everyone is learning to give him precise instructions.”
+“See? Everyone is learning to give me precise instructions.”
 
 Nobody laughed.
 
@@ -623,9 +624,9 @@ Stopped.
 
 The foreman put one hand against the repair.
 
-“Still ugly,” Red said.
+“Still ugly,” he said.
 
-The foreman looked at him.
+He looked at him.
 
 “So are you.”
 
@@ -661,11 +662,11 @@ He saw his expression.
 
 “If you put a wall there, they bunch.”
 
-“he know.”
+“I know.”
 
 “If you move the whole group, the rear follows the wrong visual line.”
 
-“he know.”
+“I know.”
 
 “Then trust the workers.”
 
@@ -681,7 +682,7 @@ Tavian was right.
 
 Again.
 
-Power remained a terrible substitute for understanding the actual problem.
+Power remained a terrible substitute for knowing what problem you were solving.
 
 The next minutes blurred into movement.
 

@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-022 CANON — CH-023 SCENE ARCHITECTURE AUTHORIZED
+**Status:** CH-022 CANON — CH-023 SCENE ARCHITECTURE PASSED / CH-023 MANUSCRIPT AUTHORIZED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -66,6 +66,7 @@ CH-021 Scene Architecture: **PASS — GATE 8**
 CH-021 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-022 Scene Architecture: **PASS — GATE 8**  
 CH-022 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
+CH-023 Scene Architecture: **PASS — GATE 8**  
 Red Jackal Series Voice: **LOCKED — DRY/DEADPAN INTERNAL HUMOR + RESTRAINED FOURTH-WALL STANDARD**  
 Red Jackal Anti-Villain Expression: **LOCKED**  
 Red Jackal Reputation / Fear Progression: **LOCKED — R0 TO R6**  
@@ -75,9 +76,9 @@ Aura Evolution: **MANUFACTURED → EARNED → REPUTATION-SUPPORTED**
 
 The project is now authorized to proceed to:
 
-1. **Build CH-023 — Greywake Holds Detailed Scene Architecture only**
+1. **Draft CH-023 — Greywake Holds manuscript only**
 
-CH-022 has passed Gate 9 and is CANON. The first sustained migration wave, Tavian's live activation timing, Brynn's multi-point defense command, Red's exactly three Stage I support manifestations with worsening precision, Hesk's unauthorized old-service lure pull, Broken North beginning to fail, and the large territorial predator's emergence are canon. No F-ID changed state and M-007 did not advance. CH-023 — Greywake Holds may now proceed to Detailed Scene Architecture only. CH-023 owns the sustained large-predator fight, main failing-choke-point hold and PL-4 climax utility. Direct Hesk confrontation remains reserved for CH-024. No later destination has been selected.
+CH-023 Pre-Manuscript Scene QA has passed. The studio may now draft the actual CH-023 manuscript — Greywake Holds only. The chapter must begin directly from the predator emergence, preserve Tavian's ecological authority and Brynn's tactical command, add one serious new injury to Red, use exactly one CH-023 manifestation as PL-4 temporary structural reinforcement, resolve the immediate predator pressure through collective route management, keep Hesk physically off-screen, and end with the physical line holding while Hesk's lure begins drawing part of the migration toward the outer homesteads again. CH-024 direct Hesk confrontation and final route resolution remain blocked until CH-023 passes Gate 9. No new F-ID is authorized and M-007 does not advance. No later destination has been selected.
 
 ## Destination Naming Law
 
@@ -93,7 +94,7 @@ This table is intentionally empty.
 
 | Volume | Destination ID | Arc Name | Local Conflict | Main Antagonist | Major Mystery Contribution | Status |
 |---|---|---|---|---|---|---|
-| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-022 CANON — CH-023 SCENE ARCHITECTURE AUTHORIZED |
+| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-023 SCENE ARCHITECTURE PASS — CH-023 MANUSCRIPT AUTHORIZED |
 
 ## Lock
 

@@ -535,7 +535,7 @@ The foreman behind them said, “It will.”
 
 That was not comforting. It was useful. At the second gap, the planks and fill held their weight.
 
-Not a cart. Not a caravan. them.
+Not a cart. Not a caravan. Just them.
 
 Farther north, cleared brush opened the old route enough that the road did not simply disappear into roots. One of the older connector lines was visible again. Another remained rough but passable.
 

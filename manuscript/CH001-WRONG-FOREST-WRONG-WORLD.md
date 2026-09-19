@@ -15,7 +15,7 @@ He opened his eyes. Green filled his vision. Not hospital green. Not traffic-lig
 
 He stared upward for a few seconds. “Okay.” his voice worked. That was useful.
 
-He would have preferred a hospital. At that point he would even have accepted one of those suspiciously clean white rooms where somebody explains that your previous life has ended and hands out compensation.
+He would have preferred a hospital. At that point he would even have accepted one of those suspiciously clean white rooms where somebody explains that a previous life has ended and hands out compensation.
 
 There was no white room. No goddess. No floating screen. No deep mysterious voice saying, Welcome, chosen one.
 

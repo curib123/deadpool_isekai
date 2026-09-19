@@ -1,6 +1,6 @@
 # Chapter 22 — First Wave
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** STUDIO CINEMATIC RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 2,989
 **Retcon QA:** `qa/CH-022-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
@@ -8,9 +8,15 @@ The first mass did not charge them. It came out of the trees in layers.
 
 The first animals were low, narrow-bodied things with long back legs and pale bellies, running hard enough that dirt kicked behind them in a continuous haze. Larger browsers followed, shoulders knocking brush aside as they forced through the same opening. Behind those, movement filled the tree line without becoming one clean shape.
 
-Too many bodies. Too many directions. Every part of him wanted to build something.
+Too many bodies.
 
-A wall would have been stupid. A beautiful wall would still have been stupid. His fingers tightened anyway.
+Too many directions.
+
+Red's fingers tightened.
+
+A wall would be easy.
+
+A wall would also be stupid.
 
 “Not yet,” Tavian said.
 
@@ -44,13 +50,13 @@ Another took the same bend. Tavian watched the forest, then the road, then the n
 
 “Wait.”
 
-The impossible answer was already there if he wanted it.
+Wall. Trench. Cage.
 
-Wall. Trench. Cage. Something much worse.
+All available.
 
 Tavian had said wait.
 
-So he waited.
+Red waited.
 
 The first browsers reached the shallow approach where they had cleared brush to leave Broken North looking like the easier route. They slowed. One turned its head.
 
@@ -394,11 +400,11 @@ He pointed at the migration.
 
 “Every shape you add changes their choices. You act when I give you the geometry.”
 
-That was not a limit on what he could make.
+Red nodded.
 
-It was a limit on how much he understood.
+The limit was not power.
 
-He nodded.
+It was information.
 
 Broken North was still open. That was the important part.
 
@@ -496,15 +502,11 @@ He shifted his weight to his better leg.
 
 His hands were still shaking.
 
-The impossible part of him was still there.
+The impossible answer was still there.
 
-Completely.
+So was the problem.
 
-So was the very clear knowledge that making something enormous without knowing what Tavian was seeing would be a bad idea.
-
-Not because he could not.
-
-Because he did not know what the herd would do next.
+Red did not know what the herd would do next.
 
 The brush opened.
 

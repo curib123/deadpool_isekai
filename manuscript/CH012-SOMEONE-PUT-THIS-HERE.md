@@ -142,7 +142,7 @@ Kellan looked at her.
 
 “I enjoy making it true.”
 
-That ended the argument. they spent the next stretch learning that a march-lure could be very informative while refusing to answer the question he actually cared about. Tavian moved around the ruined watch point, checking the tracks without crossing Maelis's marked evidence line. Kellan followed the stonework and drainage cut. Maelis measured the lure's mounting angle and copied the visible sigils. He mostly tried not to touch anything.
+That ended the argument. They spent the next stretch learning that a march-lure could be very informative while refusing to answer the question he actually cared about. Tavian moved around the ruined watch point, checking the tracks without crossing Maelis's marked evidence line. Kellan followed the stonework and drainage cut. Maelis measured the lure's mounting angle and copied the visible sigils. He mostly tried not to touch anything.
 
 Growth.
 
@@ -346,7 +346,7 @@ Not always, he thought. But he understood him.
 
 “Most people out there can't.”
 
-He looked back at the map. The anger stayed. It just stopped being neat. they reached Greywake's outer approach before the Guild reached them. That lasted about three minutes. Four Road Guild personnel came down the road from the core side. Two wore road-guard gear. One carried a document case. The fourth was an older route supervisor he had seen around the caravan yard but never spoken to. The Wayfarer Token at Tavian's belt caught their speech as they approached. The supervisor raised one hand.
+He looked back at the map. The anger stayed. It just stopped being neat. They reached Greywake's outer approach before the Guild reached them. That lasted about three minutes. Four Road Guild personnel came down the road from the core side. Two wore road-guard gear. One carried a document case. The fourth was an older route supervisor he had seen around the caravan yard but never spoken to. The Wayfarer Token at Tavian's belt caught their speech as they approached. The supervisor raised one hand.
 
 “Maelis Orra?”
 
@@ -614,7 +614,7 @@ Nobody drew a weapon.
 
 Nobody won.
 
-That was probably why it worked. The first lure stayed where they found it. For once, leaving something alone felt like progress. they ended the day at a militia road table near Greywake's outer post. Neutral enough that the Guild did not own the room. Public enough that nobody could quietly make the papers disappear. Maelis spread three maps across the table. He could not read a single label. He was becoming very good at being offended by maps. Tavian placed small stones where he had recorded track concentrations. Kellan marked old connectors, outer bridges, and homestead approaches. Brynn added militia routes and the maintained approaches to Greywake. Maelis drew the line they had recorded from the lure's mount.
+That was probably why it worked. The first lure stayed where they found it. For once, leaving something alone felt like progress. They ended the day at a militia road table near Greywake's outer post. Neutral enough that the Guild did not own the room. Public enough that nobody could quietly make the papers disappear. Maelis spread three maps across the table. He could not read a single label. He was becoming very good at being offended by maps. Tavian placed small stones where he had recorded track concentrations. Kellan marked old connectors, outer bridges, and homestead approaches. Brynn added militia routes and the maintained approaches to Greywake. Maelis drew the line they had recorded from the lure's mount.
 
 “Again,” she said. “This is a provisional directional effect.”
 

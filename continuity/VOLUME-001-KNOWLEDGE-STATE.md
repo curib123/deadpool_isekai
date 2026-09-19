@@ -4596,3 +4596,232 @@ CH-016 owns:
 - first allowed M-007 tonal hint.
 
 No CH-016 outcome is canon before its manuscript passes Gate 9.
+
+# CH-016 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-016 — Backflow  
+**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+
+## Opening State
+
+CH-016 begins from the CH-015 canon checkpoint.
+
+Known:
+
+- one east-outer march-lure has been physically disabled;
+- Red knowingly disabled it after Tavian's warning;
+- Kellan supported stopping the local harm but did not guarantee wider safety;
+- the local lure is dead;
+- distant monster calls have changed direction;
+- exact backflow magnitude/direction is not yet known;
+- exact lure count remains unknown;
+- full network geometry remains unknown;
+- Red carries fresh side/lower-rib and leg injuries from CH-015;
+- Red's wounds are correcting abnormally but remain painful and exhausting.
+
+## Allowed CH-016 Discoveries
+
+An approved CH-016 manuscript may establish:
+
+- changed calls are the beginning of real ecological backflow;
+- prey and predator movement spills into previously screened routes;
+- multiple outer and Greywake-facing approaches are affected at once;
+- Tavian can identify the event as network backflow in practical/ecological terms;
+- Brynn/militia must begin broader evacuation;
+- Red cannot solve the crisis by fighting one creature;
+- Kellan's CH-008 seasonal-cut bridge becomes a major evacuation route;
+- emergency movement overloads/fails the bridge;
+- Kellan is severely injured during evacuation;
+- the bridge/route becomes unusable;
+- migration pressure turns visibly toward Greywake.
+
+## Ecology Boundary
+
+Use:
+
+- ridge-hounds already present in canon;
+- unnamed ordinary Hollow March prey/browsing animals;
+- unnamed ordinary small/medium predators/scavengers.
+
+Do not create a new major CREATURE-ID.
+
+Do not use the reserved later large-territorial-predator set piece.
+
+## Kellan Bridge Boundary
+
+The lost crossing is the CH-008 seasonal-cut bridge:
+
+- beyond the timber sheds;
+- four main supports;
+- repeatedly repaired;
+- weak/limited approach;
+- important to several outer farm/work routes;
+- well known to Kellan.
+
+It fails from:
+- evacuation load;
+- panicked movement;
+- existing repair limits;
+- impact/overload under backflow pressure.
+
+No sabotage reveal is authorized.
+
+## Kellan Injury Boundary
+
+CH-016 may leave Kellan with:
+
+- severe lower-leg crush/fracture;
+- possible additional torso/shoulder/rib impact;
+- meaningful blood loss;
+- inability to stand/walk independently;
+- alive at chapter end.
+
+Exact medical diagnosis/prognosis belongs to Sela in CH-017.
+
+Red cannot transfer his regeneration to Kellan.
+
+## Tavian Rook Boundary
+
+Tavian may:
+
+- identify real backflow;
+- stop arguing about CH-015 during active danger;
+- command movement/rescue;
+- read predator/prey collision lines;
+- coordinate with Brynn;
+- prevent Red from wasting effort on single-target fighting.
+
+He does not explain Fate.
+
+## Captain Brynn Alder Boundary
+
+Brynn may:
+
+- arrive through militia response;
+- prioritize evacuation;
+- split response between outer routes and Greywake approaches;
+- use Tavian's ecological read;
+- use Kellan's route knowledge;
+- recognize Red's lure disruption as a major causal event.
+
+She does not:
+- conduct a hearing;
+- arrest Red during evacuation;
+- restore Hesk's authority in CH-016.
+
+## Red Jackal Responsibility Boundary
+
+CH-016 may establish:
+
+- Hesk's system created the long-term ecological distortion;
+- Red's CH-015 disruption was a trigger that materially worsened/released the accumulated pressure;
+- Red was warned;
+- Red cannot plausibly deny his action is in the causal chain.
+
+Allowed realization:
+
+**my choice is in this chain.**
+
+CH-017 owns the fuller accountability position.
+
+## Play Logic Boundary
+
+CH-016 authorizes exactly one Stage I rescue-only manifestation:
+
+- temporary low barrier;
+- brace;
+- wedge;
+- shield-wall segment;
+- short ramp/footing.
+
+It must:
+- be temporary;
+- be less precise/stable because Red is hurt/exhausted;
+- solve one immediate rescue problem;
+- buy seconds/meters only.
+
+It must not:
+- redirect the whole migration;
+- save the bridge;
+- prevent Kellan's injury;
+- become Stage II;
+- be followed by a second major manifestation.
+
+## Regeneration Boundary
+
+CH-016 may show:
+
+- CH-015 wounds reopening/straining;
+- additional non-final Red injuries;
+- repeated damage;
+- reduced stamina;
+- weaker concentration/precision;
+- painful continued correction.
+
+Regeneration keeps Red functional.
+
+It does not restore stamina instantly and does not protect Kellan/civilians.
+
+## M-007 Boundary
+
+CH-016 receives the first approved **M-007 tonal hint only**.
+
+Allowed:
+
+Red may have one uneasy impression that when one path clears, pressure keeps appearing on another route already carrying human stakes.
+
+This must remain fully explainable by:
+- ecology;
+- compressed migration;
+- road geometry;
+- lure-network distortion.
+
+Do not use:
+- Fate;
+- destiny;
+- convergence;
+- correction;
+- probability;
+- Great Design;
+- cosmic intent;
+- punishment.
+
+No character recognizes a supernatural mechanism.
+
+## Hesk Boundary
+
+Hesk does not appear physically in CH-016.
+
+The disaster may create obvious future leverage for him, but his emergency-authority argument belongs to CH-017.
+
+## CH-017 Firewall
+
+CH-016 must not resolve:
+
+- Kellan's exact prognosis;
+- Sela's treatment assessment;
+- Hesk's emergency-authority demand;
+- Maelis's legal strategy;
+- Red's full accountability decision;
+- strongest-lure reactivation debate;
+- third-option planning;
+- Broken North redirection plan.
+
+## F-ID State
+
+No new F-ID is authorized.
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+## Locked Major-Reversal Ending
+
+CH-016 must end with all three active:
+
+1. Kellan severely injured;
+2. the key outer seasonal-cut bridge/route lost;
+3. migration pressure turning toward Greywake.
+
+CH-017 then owns consequence/accountability.

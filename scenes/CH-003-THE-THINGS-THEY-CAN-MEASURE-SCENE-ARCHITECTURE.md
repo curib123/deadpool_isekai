@@ -3,7 +3,7 @@
 **Volume:** 1 — Greywake Arc  
 **Chapter:** CH-003 — The Things They Can Measure  
 **Phase:** Detailed Scene Architecture  
-**Status:** PROPOSED FOR PRE-MANUSCRIPT SCENE QA  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-003 MANUSCRIPT AUTHORIZED  
 **Final Scene Count:** 5  
 **POV:** Red Jackal first person  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
@@ -953,3 +953,20 @@ Gate 8 must verify:
 - controlled identity re-check preserves exact UNDEFINED status;
 - chapter ending hands directly to CH-004 without writing CH-004 scenes;
 - no manuscript prose exists yet.
+
+
+# 12. Gate 8 Result
+
+**PASS**
+
+Formal QA record:
+
+`qa/CH-003-PRE-MANUSCRIPT-SCENE-QA.md`
+
+The five-scene CH-003 architecture is locked.
+
+The only authorized next production step is:
+
+**Draft the actual CH-003 manuscript — The Things They Can Measure.**
+
+Do not draft CH-004 and do not create CH-004 Scene Architecture.

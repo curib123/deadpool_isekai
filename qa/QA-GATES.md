@@ -205,29 +205,31 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO SCENE ARCHITECT AND R
 - Is the ending earned?
 
 ## Red Jackal
-- Does he sound like the locked reader-companion voice in the Character Bible?
-- Does the chapter feel like Red Jackal is telling **us** what happened rather than merely recording private thoughts?
-- Is reader-talk present naturally across the chapter when the scene permits, rather than as a token single line?
+- Does he sound like the locked deadpan first-person voice in the Character Bible?
+- Does the narration feel like immediate experience first, dry internal observation second, and reader-talk only when useful?
 - Are reader-talk and private self-talk meaningfully distinct?
+- Is direct reader address restrained rather than constant?
 - Is behavior character-driven rather than plot-driven?
-- Is chaos creative rather than random?
 - Is seriousness used deliberately?
-- If reader-talk drops during fear/grief/horror, does that reduction feel emotionally purposeful?
+- If humor drops during fear/grief/horror, does that reduction feel natural rather than staged?
 
 ## POV / Prose
 - first person throughout?
 - no invisible third-person narrator?
-- reader-talk natural rather than quota-driven?
+- natural internal narration preferred over performed commentary?
+- reader-talk conversational and occasional rather than quota-driven?
 - self-talk clear?
 - dialogue distinct?
 - personality-filtered description preferred over detached exposition?
 - paragraphs normally multi-sentence?
-- one-line paragraphs reserved mainly for impact/punchline/interruption/revelation/emotion?
+- one-line paragraphs reserved for real impact, danger, realization, important System output, emotional exposure, or a genuinely effective deadpan beat?
 - no robotic/excessively fragmented prose?
 
 ## Comedy / References
-- jokes arise from what Red Jackal genuinely finds ridiculous?
-- failed aura farming, embarrassment, genre expectations, or situational contrast used naturally where appropriate?
+- is the default humor dry/deadpan rather than punchline-driven?
+- does humor come from understatement, practical annoyance, contradiction, or quiet self-awareness?
+- are obvious joke setups/payoffs avoided as the default?
+- are repeated “audience,” “branding,” “performance,” or theatrical meta-jokes avoided?
 - serious consequences preserved?
 - no requirement to joke in every scene?
 - references brief, transformed and situational?

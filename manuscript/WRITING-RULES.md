@@ -1,7 +1,7 @@
 # Manuscript Writing Rules
 
 **Owners:** A090-A097  
-**Status:** LOCKED SERIES STANDARD — CLOSE THIRD-PERSON LIMITED
+**Status:** LOCKED SERIES STANDARD — CLOSE THIRD-PERSON LIMITED / CINEMATIC NATURAL ENGLISH
 
 ## 1. POV — Close Third-Person Limited
 
@@ -44,6 +44,136 @@ Avoid:
 - narration that explains what the scene already shows.
 
 World-specific terminology is allowed when canon requires it, but explain it through context rather than textbook exposition.
+
+## 2A. Cinematic / Movie-Like English
+
+“Movie-like” means **cinematic prose that reads like a novel**, not screenplay formatting.
+
+The reader should be able to picture:
+- where Red is;
+- what is moving;
+- what changes in the space;
+- who looks at whom;
+- what a hand, face, door, weapon, animal, road, or crowd is doing;
+- when the scene becomes quiet;
+- what visual image ends the beat.
+
+### Scene Camera Rule
+
+Write from Red's close-third perspective as if the scene has a camera near him.
+
+Prefer this order when natural:
+
+**visible action / sound / physical detail → Red's reaction → dialogue or choice → consequence**
+
+Do not repeatedly use:
+
+**explanation → explanation → thought → action**
+
+### Show Before Explaining
+
+When the scene can show something, let it show it first.
+
+Instead of:
+- explaining that a person is nervous;
+
+show:
+- their fingers missing the buckle twice;
+- a cup stopping halfway to their mouth;
+- a sentence ending early.
+
+Instead of:
+- explaining that Red looks dangerous;
+
+show:
+- someone taking one step back;
+- a guard's hand moving toward a weapon;
+- conversation going quiet.
+
+Use explanation only when the visual/action cannot carry the meaning clearly.
+
+### Cinematic Description
+
+Description should be selective and concrete.
+
+Prefer:
+- light;
+- distance;
+- movement;
+- weather;
+- sound;
+- faces;
+- hands;
+- clothing in motion;
+- blood;
+- dust;
+- smoke;
+- water;
+- doors opening/closing;
+- objects entering or leaving the scene.
+
+Avoid long inventories of scenery.
+
+A location should usually be understood through **what is happening inside it**.
+
+### Scene Entrances
+
+Open scenes as late as practical.
+
+Prefer:
+- somebody already moving;
+- an argument already underway;
+- Red arriving at the important place;
+- a physical image;
+- a problem becoming visible.
+
+Avoid long warm-up explanation before the scene starts.
+
+### Scene Exits
+
+End scenes/chapters on one strong thing:
+- a visual;
+- a decision;
+- a line;
+- a reveal;
+- a quiet reaction;
+- a new problem.
+
+Do not explain the ending again after it lands.
+
+### Action Cutting
+
+During action:
+- use shorter paragraphs;
+- keep cause and effect adjacent;
+- identify who moves first;
+- keep geography clear;
+- avoid explaining strategy in the middle of impact unless Red truly has time to think.
+
+### Quiet Close-Ups
+
+In serious/emotional scenes, the prose may narrow to:
+- breathing;
+- hands;
+- eye contact;
+- a chair not moving;
+- blood on fabric;
+- an unfinished sentence;
+- someone looking away.
+
+Silence is allowed to carry meaning.
+
+### No Fake Cinematic Prose
+
+Do not force:
+- dramatic metaphors every paragraph;
+- “the world slowed” repeatedly;
+- constant slow-motion description;
+- camera terminology such as “cut to,” “close-up,” or “the camera pans”;
+- trailer-style lines;
+- artificial cliffhangers.
+
+The prose must still sound like a natural novel.
 
 ## 3. Internal Thoughts
 
@@ -272,6 +402,8 @@ Before canonizing a chapter, ask:
 7. Does comedy arise from character/situation rather than joke-writing?
 8. Are serious moments allowed to stay quiet?
 9. Are paragraphs readable and not excessively fragmented?
-10. Are plot, continuity, mystery timing, and the overpowered revelation model preserved?
+10. Can the scene be pictured clearly through concrete action, expression, sound, and movement without excessive explanation?
+11. Do scene openings enter late and scene endings stop after the strongest beat when practical?
+12. Are plot, continuity, mystery timing, and the overpowered revelation model preserved?
 
 If any answer is no, the prose is not ready for Gate 9.

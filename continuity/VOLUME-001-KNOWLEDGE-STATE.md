@@ -2833,3 +2833,173 @@ CH-012 may now examine:
 - the relation between the lure site and Red Jackal's prior job corridors.
 
 Do not cross into CH-013's locked deliberate-sacrifice conclusion during CH-012 Scene Architecture.
+
+# CH-012 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-012 — Someone Put This Here  
+**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+
+## Red Jackal — Opening CH-012
+
+Red Jackal begins CH-012 with the CH-011 canon checkpoint.
+
+He knows:
+- one march-lure exists at Broken North;
+- the device shows recent servicing;
+- the site is inside an officially closed/abandoned corridor;
+- ecology and records independently pointed toward the same area;
+- entry into Broken North was unauthorized;
+- nobody has yet proved who owns, installed, serviced, or authorized the lure;
+- no full network has been proven.
+
+He does not know:
+- exact legality;
+- exact output strength/radius;
+- exact service duration;
+- whether another lure exists;
+- whether a network exists;
+- whether Hesk/Guild authorized it;
+- whether outer communities were deliberately chosen as sacrifice zones.
+
+## Allowed CH-012 Discoveries — Group
+
+By the end of an approved CH-012 manuscript, the group may know:
+
+- march-lures are ordinarily temporary/localized animal-diversion tools;
+- the discovered lure was deliberately installed into old Broken North infrastructure;
+- the site shows repeated servicing rather than a single accidental placement;
+- one ordinary lure does not comfortably explain the entire CH-009/010 pattern under ordinary assumptions;
+- additional influence sites are possible;
+- the discovered lure's directional geometry can be inferred non-destructively;
+- the lure's protected/screened side favors the Main Caravan Road corridor;
+- its displacement/danger side points toward minor/outer routes and outer-settlement geography;
+- several prior Red Jackal assignments overlap exposed corridors;
+- the Road Guild attempts to reclaim control/custody of the evidence/site;
+- Captain Brynn refuses to treat the militia as automatic Guild enforcement and supports neutral preservation;
+- Hesk may now reasonably see Red Jackal as an **unpredictable complication**.
+
+They may not yet know:
+
+- exact full network;
+- exact additional-lure count;
+- exact location of other devices;
+- Hesk personally ordered the lure;
+- Guild authorship as proven fact;
+- deliberate sacrifice intent;
+- CH-013's locked midpoint truth.
+
+## Evidence-Preservation Boundary
+
+CH-012 must not:
+
+- pull the stake from the ground;
+- cut its mana path;
+- empty its reservoir;
+- disable it;
+- destroy it;
+- cause migration backflow.
+
+For CH-012, **recovered** means:
+
+**documented and placed under contested/neutral evidentiary control while its physical operating state is preserved.**
+
+CH-015 still owns Red Jackal's premature lure-disruption mistake.
+
+## Legality Boundary
+
+March-lures are not automatically illegal.
+
+CH-012 may distinguish:
+- legal tool category;
+- suspicious specific installation;
+- unresolved authorization/strength/duration questions.
+
+Do not make the discovered lure definitively illegal until the story earns that conclusion.
+
+## Network Boundary
+
+CH-012 may make a larger artificial system a serious hypothesis.
+
+Do not prove:
+- a complete network;
+- exact network geometry;
+- exact lure count;
+- full authorship.
+
+## Prior-Job Overlap Boundary
+
+CH-012 may show that several of Red Jackal's off-book/dangerous assignments overlap corridors exposed by the discovered lure's displacement geometry.
+
+Allowed inference:
+
+**someone may have used an undocumented, unusually survivable worker where abnormal route risk already existed.**
+
+Not allowed:
+
+**Hesk definitely knew the exact lure risk and deliberately sent Red Jackal there to die.**
+
+## Guild Property / Anti-Villain Boundary
+
+The Guild may make a facially plausible property/custody claim.
+
+Red Jackal may:
+- refuse sole Guild custody;
+- physically block removal;
+- intimidate;
+- accept neutral evidence preservation by Maelis/Brynn.
+
+His motive remains:
+- agency;
+- distrust;
+- anger at possible use/manipulation.
+
+He does not become a conventional law-enforcement investigator.
+
+## Captain Brynn Boundary
+
+Brynn enters because:
+- the dispute affects public safety;
+- the device may affect settlement defense;
+- the militia must not become the Guild's private force.
+
+She may:
+- stop escalation;
+- preserve the site/evidence neutrally;
+- refuse sole Guild custody;
+- remain cautious about accusations without proof.
+
+## Play Logic / Regeneration Boundary
+
+CH-012 contains:
+- no Play Logic attempt;
+- no manifestation;
+- no regeneration event;
+- no new M-005 clue.
+
+F-003 remains **PLANTED — CH-007**.
+F-004 remains **PLANTED — CH-005**.
+
+## F-ID State
+
+No new F-ID is authorized.
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+## M-007 State
+
+M-007 remains inactive.
+
+## CH-013 Protection
+
+CH-012 may end with geographic evidence that:
+
+**the discovered lure protects/favors the Main Caravan Road while displaced danger points toward outer settlements.**
+
+CH-012 must not yet establish:
+
+**someone in Greywake has been deliberately deciding where the monster migration kills people.**
+
+That remains CH-013's locked midpoint truth.

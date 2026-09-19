@@ -1,19 +1,21 @@
 # Chapter 16 — Backflow
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** STUDIO CINEMATIC RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 2,707  
 **Chapter QA:** `qa/CH-016-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-016-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
-The calls did not stop.
+The march-lure lay dead in the stone recess.
 
-That was the first thing.
+Its rear plate was dark. The vent had gone silent.
 
-The lure lay dead in the stone recess behind them. Its rear plate had gone dark. The vent no longer hummed. The Guild field crew had already pulled back toward Greywake to report what he had done.
+The forest had not.
 
-Tavian stayed where he was. He listened. A charged Wayfarer Tongue Token hung from his belt, but nobody was talking.
+A call rolled in from the north-east.
 
-The forest was. The first call came from the north-east. Another answered from lower ground.
+Another answered from lower ground.
+
+Tavian stood still and listened.
 
 Then something moved through the brush west of the upper approach.
 
@@ -59,9 +61,11 @@ Tavian grabbed his arm and pulled him away from the center of the approach.
 
 “Then we move the people.”
 
-He looked back toward the lure. For one second, he wanted there to be something obvious to hit. A center.
+Red looked back at the dead lure.
 
-A source. One thing he could break harder than he had broken the last one. There wasn't.
+For one second, he wanted one more thing to break.
+
+There was nothing.
 
 Another line of movement cut through the lower brush. Smaller animals this time. Fast. Scattered. Running across the road at angles that made no sense beside the larger herd.
 
@@ -149,15 +153,19 @@ Tavian nodded.
 
 “Tell her this is backflow. Multiple corridors. Predator and prey movement overlapping.”
 
-The rider did not argue. He turned his horse and left. That was when the scale became real.
+The rider wheeled his horse and left.
 
-Not the calls. Not the tracks. The fact that reports were arriving from roads they could not see.
+Another horn sounded somewhere beyond the farms.
 
-He looked at the upper farms. Then the south connector. Then the road toward Greywake.
+Red looked north.
 
-Too many directions.
+Then south.
 
-He could run toward one. Maybe two. That was all.
+Then toward Greywake.
+
+Too many roads.
+
+Too many things moving at once.
 
 Brynn arrived with militia on foot and horseback. She dismounted before the horse had fully settled.
 
@@ -173,9 +181,13 @@ His eyes flicked toward him.
 
 “Disabled lure is part of it.”
 
-Brynn looked at him once. Nothing else. No accusation.
+Brynn looked at Red once.
 
-No hearing. Not now. She turned to her people.
+Nothing in her face.
+
+Not now.
+
+She turned to her people.
 
 “Split the squads. One to the lower Greywake approach. One with me.”
 
@@ -237,11 +249,19 @@ A herd broke through the brush. Larger than the first group. They were not charg
 
 They were running from something behind them. That made very little difference to a person standing in front of them. Two militia members dragged an older man over the field wall.
 
-A cart wheel caught in a rut. Three people were still trying to move it. They were not going to make it.
+A cart wheel dropped into a rut.
 
-He ran toward them. His side tore open again. Heat spread under his shirt.
+Three people kept pulling.
 
-The cart shifted half a foot. Not enough. The herd came closer.
+The herd thundered closer.
+
+Red ran toward them.
+
+Pain tore across his side. Warm blood spread under his shirt.
+
+The cart moved half a foot.
+
+Not enough.
 
 Tavian shouted.
 
@@ -249,15 +269,11 @@ Tavian shouted.
 
 One person did. Two did not. He planted himself between the cart and the road.
 
-He needed something precise.
+Not a wall.
 
-Not a wall. A wall would stop bodies that needed somewhere to go and turn panic into compression.
+A guide.
 
-A wedge. A low guide.
-
-Something that told the front animals the open field was easier than the cart.
-
-Low. Broad. Temporary by choice.
+Low. Broad. Angled toward the open field.
 
 A pale, uneven barrier formed across exactly the section he wanted. It angled away from the trapped civilians and left the field side open.
 
@@ -281,11 +297,9 @@ He rolled toward the ditch, saw the civilians were clear, and dismissed the guid
 
 Seconds.
 
-That was all the route required.
+Enough to pull the last two people clear.
 
-Enough for those people.
-
-The next road was already somebody else's emergency.
+Then another horn sounded farther ahead.
 
 He tried to stand. His left arm shook. His side had started closing again under the blood.
 
@@ -303,17 +317,17 @@ They did. Behind them, the herd kept moving. Ahead of them, another militia runn
 
 Kellan swore. They ran harder. Every time one route cleared, another report pointed to pressure somewhere people were already trying to survive. Roads connected farms. Animals followed open ground. Predators followed prey. People fled toward bridges. The reasons were ordinary, but the result kept tightening around occupied roads and crossings until it stopped feeling like escape and started feeling like being squeezed.
 
-The bridge appeared beyond the timber sheds. He recognized it immediately.
+The bridge appeared beyond the timber sheds.
 
 Four supports.
 
 Plank deck.
 
-Far approach slightly lower than the rest.
-
 Repairs on repairs.
 
-The bridge Kellan had rebuilt because nobody else had sent enough material. There were more people on it now than he had ever seen. Kellan pushed ahead of them.
+Kellan's bridge.
+
+And far too many people on it. Kellan pushed ahead of them.
 
 “Stop the carts.”
 
@@ -503,11 +517,11 @@ They lifted. Another militia member pulled the cart frame away. Brynn climbed do
 
 They moved him. His trapped leg came free. It did not look right.
 
-He looked away from it. Then back. He was bleeding.
+Red looked away.
 
-Not the way he bled.
+Then forced himself to look back.
 
-Not with skin already tightening under the blood.
+Kellan was bleeding.
 
 Just bleeding.
 
@@ -541,7 +555,11 @@ Painful.
 
 Still closing.
 
-Kellan's leg did nothing. That difference sat in front of him where he could not ignore it. The stretcher came.
+Kellan's leg stayed broken.
+
+Red's side kept closing.
+
+The difference sat between them. The stretcher came.
 
 They lifted him onto it. He lost consciousness halfway through. Tavian checked his breathing.
 
@@ -591,13 +609,15 @@ Tavian stepped closer.
 
 The rider pointed toward Greywake. Nobody spoke. Another horn answered from nearer the settlement.
 
-The backflow was not staying out here. It was moving inward. Kellan lay on the stretcher behind him.
+The backflow was moving toward Greywake.
 
-The bridge he had kept alive with reused wood and missing supplies was gone. He had not built Hesk's system. He had not spent years pushing animals into these roads.
+Kellan lay on the stretcher behind Red.
 
-But he had pulled one piece out while knowing he did not understand the rest.
+The bridge was gone.
 
-His choice was in this chain.
+Red had not built Hesk's system.
+
+He had still pulled one piece out without understanding the rest.
 
 Brynn started moving people toward the lower foot route. Tavian went with her. He followed.
 

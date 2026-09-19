@@ -420,3 +420,27 @@ The revision focus is:
 First manuscript revision target:
 
 **CH-009 — Wrong Tracks → Pacing Revision Pass → Gate 9 Revalidation.**
+
+
+# 13. Integration With Overpowered Retcon Manuscript Audit
+
+The power-retcon manuscript audit is complete:
+
+`qa/VOLUME-001-POWER-RETCON-MANUSCRIPT-AUDIT.md`
+
+Pacing and power revisions should be merged into a **single manuscript pass** where they overlap.
+
+Overlap chapters:
+- CH-009
+- CH-019
+- CH-020
+- CH-021
+- CH-022
+- CH-023
+- CH-024
+
+Do not perform separate pacing and power rewrites for these chapters.
+
+The earlier CH-009-first pacing order is superseded by chronological power-retcon revision beginning at CH-005.
+
+**Current next:** CH-005 — A Better Hammer → Overpowered Retcon Prose Revision → Gate 9 Revalidation.

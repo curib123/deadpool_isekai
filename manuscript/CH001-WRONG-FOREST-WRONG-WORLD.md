@@ -1,28 +1,38 @@
 # Chapter 1 — Wrong Forest, Wrong World
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** CINEMATIC STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 2,284
 **Voice QA:** `qa/CH-001-DEADPAN-VOICE-GATE-9-QA.md`
 
-The first thing he noticed was that he was breathing. The last thing he remembered was rain across a windshield, white headlights, and metal folding around him.
+Rain on glass.
 
-Well, he was breathing, so at least he was not dead. Probably. He did not immediately sit up and decide he had been reincarnated in another world. There were still several less ridiculous explanations available.
+White headlights.
 
-He kept his eyes closed for another second and took inventory. Head attached. Arms attached. Legs still employed by the organization. Nothing felt crushed, and there was no glass in his face.
+Metal folded around him.
 
-No screaming either. No sirens. No paramedic leaning over him and saying something medically responsible like, “Sir, please stop trying to move.” Instead, he could hear leaves shifting overhead.
+Then leaves whispered overhead.
 
-He opened his eyes. Green filled his vision. Not hospital green. Not traffic-light green. Actual leaves layered so thick above him that the sky only appeared in thin patches. Damp air pressed against his skin, and something unfamiliar called somewhere beyond the trees.
+Red opened his eyes to green. Branches crossed high above him, wet and heavy, with only thin pieces of sky between them. Damp earth pressed cold against his back. Something called from deeper in the forest.
 
-He stared upward for a few seconds. “Okay.” His voice worked. That was useful.
+He stayed still for one breath.
 
-He would have preferred a hospital. At that point he would even have accepted one of those suspiciously clean white rooms where someone explained that his previous life had ended and handed out compensation.
+Head. Arms. Legs. No crushed ribs. No glass in his face.
 
-There was no white room. No goddess. No floating screen. No deep mysterious voice saying, Welcome, chosen one.
+No sirens either.
 
-Nothing.
+That was worse.
 
-Just him, wet soil, trees he did not recognize, and what he hoped was not poisonous vegetation under his right hand. Apparently the explanation was optional. He pushed himself upright. The movement felt wrong.
+He stared up at the branches. “Okay.”
+
+His voice worked.
+
+No hospital. No white room. No goddess waiting behind a desk with answers. No floating screen.
+
+Just wet soil, unfamiliar trees, and a broad silver-veined leaf under his hand that might have been poisonous.
+
+He pushed himself upright.
+
+The movement felt wrong.
 
 Not painful. Wrong. His balance shifted faster than expected, and he caught himself before he tipped forward. His arms looked like his arms, mostly. Same general proportions. Same hands. But there was more strength in the movement than memory said there should be, and his shoulders felt strangely light.
 
@@ -32,25 +42,39 @@ Nothing broken. No blood. No obvious hole where an important organ had resigned.
 
 No wallet. No keys. No phone. He checked again for the phone.
 
-Still absent. “Of course.” He stood there for a few seconds pretending to be calm while his mind worked through dead, insane, kidnapped, drugged, or something even less convenient.
+Still absent.
 
-He stood. The forest did not applaud, but he straightened anyway. If he was going to wake up alone in an impossible place, he could at least do it with posture. A cold drop of water fell from a leaf and landed directly on the back of his neck.
+“Of course.”
+
+Dead. Drugged. Kidnapped. Insane.
+
+None of the options improved with inspection.
+
+He stood and straightened his coat anyway. If the forest wanted him confused, it did not need to see it. A cold drop of water fell from a leaf and landed directly on the back of his neck.
 
 He flinched hard enough to nearly trip over a root. The forest did not react. Fair enough.
 
-He looked around properly. The trunks were tall and dark with moisture. Fern-like plants crowded the lower ground beneath broad silver-veined leaves he had never seen before. Moss climbed exposed stones in thick layers, and the earth smelled rich, cold, and aggressively real.
+Dark trunks rose through layers of fern and silver-veined leaves. Moss buried half the stones. Water dripped somewhere to his left.
 
-No tire noise. No aircraft. No power lines. No distant city hum.
+No engines. No power lines. No city hum.
 
-He turned slowly and listened. Nothing human answered. That was when the joke stopped being quite as funny. The crash came back in pieces. Rain. Brakes. Light. Impact.
+He turned slowly.
 
-Then this. He rubbed a hand over his face and forced himself to breathe slowly. Dreams did not usually come with cold mud soaking through his knee, and hallucinations probably did not bother with this much texture.
+Nothing human answered.
+
+Rain. Brakes. Light. Impact.
+
+His hand went to his face. Cold mud soaked through one knee.
+
+This was too solid to dismiss.
 
 He pinched the inside of his arm. “Ow.” So pain still worked. Good to know.
 
-It would have been easy to call it another world. Reincarnation.
+Another world. Reincarnation. Isekai.
 
-Isekai. Reincarnation. Whatever it was, he refused to name it yet. Saying something ridiculous out loud had a way of making it feel permanent.
+Maybe.
+
+He refused to give it a name yet.
 
 Instead, he chose a direction where the ground rose slightly and started walking. The plan was simple: do not die, find people, ask questions.
 
@@ -78,13 +102,19 @@ He turned.
 
 Nothing.
 
-A few leaves trembled. He kept walking without running. He would like to say that was discipline. Mostly he did not want whatever was behind him to notice how concerned he was.
+A few leaves trembled.
+
+He kept walking.
+
+Not running was mostly a matter of pride.
 
 There was another rustle, closer this time. His pace increased. He called it caution.
 
 Then a low shape crossed between two trees ahead of him. He stopped. It was about the size of a large dog, maybe slightly bigger, but too lean through the middle. Its front legs were long. Its shoulders rolled beneath dark coarse fur. Its head sat lower than he liked, narrow muzzle pointed directly at him.
 
-He did not know what it was. It knew exactly what he was.
+He did not know what it was.
+
+The animal seemed less confused.
 
 Lunch.
 
@@ -116,9 +146,11 @@ Blood.
 
 Four ragged cuts ran from below his elbow toward his wrist. Not deep enough to expose anything he never wanted to see, but deep enough that blood was already running over his hand.
 
-The animal came around again. That was when the fear arrived properly. There was nothing funny about it.
+The animal came around again.
 
-No private performance for him. He was alone, unarmed, bleeding, and something with teeth had already learned that he was not very good at this. He got up badly and backed toward the remains of the roadside wall. The animal lowered itself, watching.
+The joke disappeared.
+
+Red was alone, unarmed, bleeding, and the thing in front of him already knew he was bad at this. He got up badly and backed toward the remains of the roadside wall. The animal lowered itself, watching.
 
 No weapon. No room. He looked for a rock. Nothing big enough.
 
@@ -170,15 +202,25 @@ Impossible.
 
 He pressed two fingers beside the cut. Bad idea. Pain shot up his arm. So the healing, if that was what this was, was not especially gentle.
 
-He leaned his head against the stone and closed his eyes. The situation, as he understood it, was not encouraging. He remembered dying.
+He leaned his head against the stone and shut his eyes.
 
-Or almost dying. Details pending. He woke up in a forest that did not belong anywhere he recognized. Something tried to eat him. He thought very hard about needing a barrier, and a barrier appeared.
+Rain. Headlights. Impact.
 
-Then it disappeared. Now his arm was repairing itself while hurting enough to make the process difficult to ignore. None of this was normal.
+A forest.
 
-He laughed once. It came out weaker than he wanted. He opened his eyes and stared into the trees. For the first time since waking, he did not feel like performing.
+A thing with teeth.
 
-Not even for himself. He was scared. That was the truth of it. He stayed there for a few seconds, then stood because remaining beside the road was not going to improve anything. His arm still hurt. The cuts had not vanished, but they looked hours or days older than they should have. His body felt heavy too, like the strange healing had taken something out of him.
+A shield that had not existed until he needed it.
+
+His arm pulled itself closed under his fingers.
+
+A laugh escaped him. Thin. Wrong.
+
+He opened his eyes.
+
+For once, there was no performance left.
+
+He was scared. He stayed there for a few seconds, then stood because remaining beside the road was not going to improve anything. His arm still hurt. The cuts had not vanished, but they looked hours or days older than they should have. His body felt heavy too, like the strange healing had taken something out of him.
 
 He followed the old road more carefully after that. No heroic marching. No dramatic declarations. He listened before every blind turn and gave thick brush considerably more respect than he had fifteen minutes earlier.
 
@@ -196,7 +238,13 @@ People.
 
 Food, maybe. Answers, ideally. Trouble was also possible. He stood at the junction for a moment.
 
-Behind him waited the old road, the forest, and at least one animal that had already reviewed him poorly. Ahead was a road used recently by carts, boots, and hoofed animals. Whatever civilization looked like here, it existed.
+Behind him, the old road disappeared into wet trees.
+
+Ahead, fresh wheel tracks cut through the mud beneath the sign.
+
+Civilization existed.
+
+Good enough.
 
 He checked his arm again. The wound was still there. It was also undeniably smaller. He flexed his hand and felt pain pull along the healing cuts. Then he held out the other hand and imagined the slab again.
 

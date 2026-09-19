@@ -306,4 +306,38 @@ Locked planning state:
 - Volume 3 remains unselected;
 - no character may use knowledge from a later planned chapter early.
 
-**Official next step:** CH-027 — Salt in the Air → Detailed Scene Architecture → Gate 8.
+# 14. CH-027 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-027 — Salt in the Air  
+**Status:** GATE 8 PASS — MANUSCRIPT AUTHORIZED
+
+At CH-027 opening Red may know only the Volume 2 opening state plus practical travel information learned after Greywake.
+
+During CH-027 he may learn only:
+
+- ordinary Avarran road/river travel remains costly;
+- the route he is following reaches the Brasswater trade sphere;
+- large trade-transfer points commonly use Wayfarer Tongue Tokens for speech;
+- Merrowgate is visibly a major port with abundant work and onward passage options;
+- continued wandering without earning again is financially impractical.
+
+He does **not** learn in CH-027:
+
+- Merrowgate's identity-verification result;
+- Iria Voss;
+- Dalen Marr;
+- Nessa Quill;
+- Samir Kesran;
+- Cassian Venn;
+- Venn Maritime House;
+- Harbor Council politics;
+- Unified Harbor Security Charter;
+- sabotage/consolidation pattern;
+- F-010 terminology;
+- any protected mystery truth.
+
+No M-ID advances.
+
+No F-ID is planted.
+
+**Official next step:** CH-027 — Salt in the Air → Manuscript Draft.

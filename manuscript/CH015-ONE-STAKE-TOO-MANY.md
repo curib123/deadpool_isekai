@@ -1,29 +1,27 @@
 # Chapter 15 — One Stake Too Many
 
-**Status:** CANON — OVERPOWERED RETCON GATE 9 PASS  
+**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
 **Word Count:** 2952,846  
-**Chapter QA:** `qa/CH-015-GATE-9-CHAPTER-QA.md`
-**Retcon QA:** `qa/CH-015-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
-By the time we reached the upper approach, nobody was pretending this was just a mapping trip. The road narrowed above the timber-road junction and climbed between old retaining stones dark with moss. Beyond them, the land opened toward the outer farms in long uneven strips separated by low fences, drainage cuts, and tree lines.
+By the time they reached the upper approach, nobody was pretending this was just a mapping trip. The road narrowed above the timber-road junction and climbed between old retaining stones dark with moss. Beyond them, the land opened toward the outer farms in long uneven strips separated by low fences, drainage cuts, and tree lines.
 
-The farms had been warned before we arrived. That did not make the place feel safer. A broken gate hung open below us. Two livestock pens stood empty. Hoof marks churned the soft ground beside the road, overlapping each other where something had panicked hard enough to forget direction.
+The farms had been warned before they arrived. That did not make the place feel safer. A broken gate hung open below them. Two livestock pens stood empty. Hoof marks churned the soft ground beside the road, overlapping each other where something had panicked hard enough to forget direction.
 
 Tavian crouched near the edge of the track. Kellan did not. He kept looking uphill toward the farms.
 
-Two Road Guild field workers had come with us, along with one guard and a technician carrying a narrow tool case. None of them looked pleased to have me there.
+Two Road Guild field workers had come with them, along with one guard and a technician carrying a narrow tool case. None of them looked pleased to have him there.
 
 That seemed fair.
 
 A charged Wayfarer Tongue Token hung from the technician's shoulder strap, close enough to keep the conversation clear. Brynn's order had been simple. Find the influence point.
 
-Map it. Do not touch it. Apparently everyone thought the last part needed special emphasis around me.
+Map it. Do not touch it. Apparently everyone thought the last part needed special emphasis around him.
 
-I had no idea why.
+He had no idea why.
 
 “Tracks,” Tavian said.
 
-I moved closer. He pointed to the mud beside the drainage cut.
+He moved closer. He pointed to the mud beside the drainage cut.
 
 “Small herd animal. Running.”
 
@@ -65,7 +63,7 @@ Kellan crouched and brushed moss from a square stone.
 
 There was a thin seam around it. The technician stared for a moment, then opened his case. He removed two flat tools and worked the edge carefully.
 
-I looked at Tavian.
+He looked at Tavian.
 
 “You already know what's behind it.”
 
@@ -105,7 +103,7 @@ Nobody needed the token for that expression. Tavian pointed toward the upper far
 
 “Displacement opens that way.”
 
-I looked from the stake to the churned hoof marks below us.
+He looked from the stake to the churned hoof marks below them.
 
 “So this one is doing exactly what we thought.”
 
@@ -121,11 +119,11 @@ The technician leaned over the recess.
 
 “Reservoir is active.”
 
-“You can tell without opening it?” I asked.
+“You can tell without opening it?” he asked.
 
 “Seal indicator.”
 
-He pointed to a small colored strip near the cap. I could not read the tiny mark beside it. Naturally.
+He pointed to a small colored strip near the cap. He could not read the tiny mark beside it. Naturally.
 
 “What does it say?”
 
@@ -199,11 +197,11 @@ Kellan turned on him.
 
 “I know.”
 
-That answer did not help. The technician looked at me. Probably because I had been quiet.
+That answer did not help. The technician looked at him. Probably because he had been quiet.
 
 That was his first mistake.
 
-“What?” I asked.
+“What?” he asked.
 
 “Nothing.”
 
@@ -229,7 +227,7 @@ Kellan looked at him.
 
 “Yes.”
 
-I almost respected him. Tavian met my eyes.
+He almost respected him. Tavian met his eyes.
 
 “Red.”
 
@@ -255,13 +253,13 @@ That felt insulting. Unfortunately, it was probably necessary.
 
 “Yes.”
 
-Kellan looked at me.
+Kellan looked at him.
 
 “You forgot the part where this thing is pushing predators toward people right now.”
 
 “I did not forget.”
 
-The Guild guard stepped between us and the recess.
+The Guild guard stepped between them and the recess.
 
 “We finish the map. Then the council decides.”
 
@@ -275,15 +273,15 @@ Another call answered farther along the upper slope. Kellan looked at the stake.
 
 Nobody replied.
 
-The third call came from lower down. Then something crashed through brush above us. Tavian moved first.
+The third call came from lower down. Then something crashed through brush above them. Tavian moved first.
 
 “Off the road.”
 
-Everyone shifted. The Guild guard raised his spear. Kellan grabbed the heavy road hook he had been carrying since we left Greywake.
+Everyone shifted. The Guild guard raised his spear. Kellan grabbed the heavy road hook he had been carrying since they left Greywake.
 
-I turned toward the sound. A ridge-hound burst through the brush at the edge of the drainage cut. I recognized the long shoulders before I recognized the head.
+He turned toward the sound. A ridge-hound burst through the brush at the edge of the drainage cut. He recognized the long shoulders before he recognized the head.
 
-Larger than the ones we had seen near Broken North. Lean. Fast.
+Larger than the ones they had seen near Broken North. Lean. Fast.
 
 Too close. A second shape moved behind it. Tavian shouted.
 
@@ -291,19 +289,19 @@ Too close. A second shape moved behind it. Tavian shouted.
 
 The first ridge-hound lunged toward the road. The guard caught it with the spear shaft instead of the point, redirecting the charge. Kellan swung the road hook against the animal's shoulder.
 
-It twisted away. The second one came around the stone cut. Toward me.
+It twisted away. The second one came around the stone cut. Toward him.
 
-I moved. Not far enough. Claws caught my right side and ripped across the lower ribs.
+He moved. Not far enough. Claws caught his right side and ripped across the lower ribs.
 
-Pain opened hot and immediate. My body hit the retaining wall. For one second, breathing became optional.
+Pain opened hot and immediate. His body hit the retaining wall. For one second, breathing became optional.
 
 The ridge-hound came back. Tavian drove it sideways with the butt of his polearm.
 
 “Red. Move.”
 
-I moved. Badly. Warm blood spread under my shirt.
+He moved. Badly. Warm blood spread under his shirt.
 
-My side felt like someone had opened it with farming equipment. The first ridge-hound snapped at Kellan. The guard stepped in.
+His side felt like someone had opened it with farming equipment. The first ridge-hound snapped at Kellan. The guard stepped in.
 
 The technician dragged his tool case out of the way and grabbed a short hammer from the ground. Nobody looked heroic. That helped.
 
@@ -313,45 +311,45 @@ Tavian kept the animals from gaining the uphill line.
 
 Kellan understood immediately. He struck low, not to kill, but to force the first hound away from the farm approach. The guard did the same.
 
-I got my feet under me. Pain pulled through my side. Something underneath it had already started tightening.
+He got his feet under him. Pain pulled through his side. Something underneath it had already started tightening.
 
 Not healing cleanly. Not comfortably. Correcting.
 
-I hated that I knew the feeling now. The second ridge-hound feinted toward Tavian. I stepped into its side and drove my shoulder into it.
+He hated that he knew the feeling now. The second ridge-hound feinted toward Tavian. He stepped into its side and drove his shoulder into it.
 
 Reckless, but it worked.
 
-The animal hit the ground, scrambled, and snapped at my leg. Its teeth caught cloth and skin before I kicked free. More pain. Tavian did not waste time yelling at me. He used the opening.
+The animal hit the ground, scrambled, and snapped at his leg. Its teeth caught cloth and skin before he kicked free. More pain. Tavian did not waste time yelling at him. He used the opening.
 
 Polearm. Shoulder. Turn.
 
 The ridge-hound lost the road and dropped back toward the lower brush. The first followed after Kellan and the guard pressed it away from the upper approach. Nobody pursued.
 
-For several seconds, all I heard was breathing. Mine was the worst. Tavian looked at my side.
+For several seconds, all he heard was breathing. His was the worst. Tavian looked at his side.
 
 “You are bleeding.”
 
 “I know.”
 
-The technician stared at the blood running down my clothes. Then at the skin visible through the torn fabric. The edges were already pulling tighter.
+The technician stared at the blood running down his clothes. Then at the skin visible through the torn fabric. The edges were already pulling tighter.
 
 Slowly. Painfully. His expression changed.
 
-I had seen that expression before.
+He had seen that expression before.
 
 You should be dead.
 
-I pressed a hand to the wound. My fingers came away red. The bleeding had already slowed.
+He pressed a hand to the wound. His fingers came away red. The bleeding had already slowed.
 
-Kellan watched me.
+Kellan watched him.
 
 “You can still move?”
 
 “Yes.”
 
-Tavian's expression suggested he disliked the answer. I stood straighter anyway. My side burned. My leg throbbed. Every breath felt slightly wrong.
+Tavian's expression suggested he disliked the answer. He stood straighter anyway. His side burned. His leg throbbed. Every breath felt slightly wrong.
 
-But I was standing. The farms uphill did not have that advantage. That thought lodged somewhere it should not have.
+But he was standing. The farms uphill did not have that advantage. That thought lodged somewhere it should not have.
 
 The ridge-hounds were gone. The pressure was not. A distant call sounded from the same general upper corridor.
 
@@ -383,11 +381,11 @@ Kellan looked at him.
 
 “I am talking to both of you.”
 
-His eyes moved to me. Mostly me. Tavian walked between us.
+His eyes moved to him. Mostly him. Tavian walked between them.
 
 “Red.”
 
-My side tightened again. I could feel the body doing its work beneath the pain. It made standing easier.
+His side tightened again. He could feel the body doing its work beneath the pain. It made standing easier.
 
 That was dangerous.
 
@@ -415,7 +413,7 @@ That was dangerous.
 
 “I know.”
 
-His eyes stayed on mine.
+His eyes stayed on his.
 
 “Then act like you know.”
 
@@ -443,7 +441,7 @@ Silence.
 
 Good.
 
-There it was. No permission disguised as certainty. Kellan looked at me.
+There it was. No permission disguised as certainty. Kellan looked at him.
 
 “I know these roads. I know those farms. I know that stake is part of what is hurting them.”
 
@@ -465,7 +463,7 @@ The guard moved to the recess.
 
 “Captain Alder's order stands.”
 
-I looked at him.
+He looked at him.
 
 “No unauthorized alteration.”
 
@@ -483,7 +481,7 @@ I looked at him.
 
 “No,” the technician said. “We prepared because this is dangerous.”
 
-That was annoyingly reasonable. I looked uphill. No civilians in sight.
+That was annoyingly reasonable. He looked uphill. No civilians in sight.
 
 They had been warned away from the approach.
 
@@ -497,13 +495,13 @@ That mattered. Brynn was right. That mattered too.
 
 Kellan did not know if this was safe. He had just said so. The Guild workers were not lying about the order.
 
-Nobody had failed to warn me. I knew why I should wait. That was the problem.
+Nobody had failed to warn him. He knew why he should wait. That was the problem.
 
-Waiting was not neutral anymore. The stake stayed active while we waited. The farms stayed on the exposed side while we waited.
+Waiting was not neutral anymore. The stake stayed active while they waited. The farms stayed on the exposed side while they waited.
 
-More tracks appeared while we waited. More calls came while we waited. Maybe breaking it moved the danger somewhere worse.
+More tracks appeared while they waited. More calls came while they waited. Maybe breaking it moved the danger somewhere worse.
 
-Maybe leaving it guaranteed the danger stayed here. Neither choice came with clean hands. I looked at Tavian.
+Maybe leaving it guaranteed the danger stayed here. Neither choice came with clean hands. He looked at Tavian.
 
 “If I wait and someone uphill gets torn apart, did I choose?”
 
@@ -519,15 +517,15 @@ There it was.
 
 No escape.
 
-No version where I got to stand outside the decision and complain about everyone else's morality.
+No version where he got to stand outside the decision and complain about everyone else's morality.
 
-I hated that.
+He hated that.
 
-The guard said, “Step away from the recess.” I looked at him.
+The guard said, “Step away from the recess.” He looked at him.
 
 “No.”
 
-His grip tightened on the spear. Tavian moved before he did. He put one arm across my path.
+His grip tightened on the spear. Tavian moved before he did. He put one arm across his path.
 
 “Red.”
 
@@ -539,9 +537,9 @@ His grip tightened on the spear. Tavian moved before he did. He put one arm acro
 
 “Then don't.”
 
-My side hurt. My leg hurt. The distant calls came again.
+His side hurt. His leg hurt. The distant calls came again.
 
-I thought about Hesk saying someone had to decide what could be allowed to die. I thought about the farms above us. I thought about another invisible line being drawn while everyone argued over whether the pencil was authorized.
+He thought about Hesk saying someone had to decide what could be allowed to die. He thought about the farms above them. He thought about another invisible line being drawn while everyone argued over whether the pencil was authorized.
 
 “No.”
 
@@ -551,17 +549,17 @@ Tavian's eyes narrowed. The guard stepped forward.
 
 “Then we're all very informed.”
 
-I moved. Tavian caught my shoulder. Not an attack.
+He moved. Tavian caught his shoulder. Not an attack.
 
-A stop. I twisted free. The guard blocked the recess.
+A stop. He twisted free. The guard blocked the recess.
 
-I shoved the spear shaft aside and pushed him back with my forearm. Hard enough to move him. Not hard enough to hurt him.
+He shoved the spear shaft aside and pushed him back with his forearm. Hard enough to move him. Not hard enough to hurt him.
 
-The technician grabbed my sleeve.
+The technician grabbed his sleeve.
 
 “Don't.”
 
-I pulled free. Kellan stepped between the technician and me. Not attacking.
+He pulled free. Kellan stepped between the technician and him. Not attacking.
 
 Just blocking the second grab. Tavian's voice cut through all of it.
 
@@ -577,7 +575,7 @@ Kellan did not look away from the technician.
 
 “I want the stake stopped.”
 
-Then he glanced at me.
+Then he glanced at him.
 
 “What happens after that is not something I can promise you.”
 
@@ -585,51 +583,51 @@ Perfect.
 
 Terrible.
 
-Mine.
+His.
 
-I crossed the evidence line. The lure sat inside the recess. Dark stake.
+He crossed the evidence line. The lure sat inside the recess. Dark stake.
 
 Metal collar. Ceramic chamber. Vented cap.
 
-The same simple ugly thing we had spent days proving was not simple at all. I grabbed the upper band. The technician shouted.
+The same simple ugly thing they had spent days proving was not simple at all. He grabbed the upper band. The technician shouted.
 
 “Do not pull it by hand.”
 
-I tried anyway. It did not move. Of course.
+He tried anyway. It did not move. Of course.
 
-The mounting collar held tight in the fitted socket. My injured side protested when I braced and pulled harder. Nothing.
+The mounting collar held tight in the fitted socket. His injured side protested when he braced and pulled harder. Nothing.
 
-Tavian stepped toward me.
+Tavian stepped toward him.
 
 “Red. Stop.”
 
-I looked at the collar.
+He looked at the collar.
 
-I could have torn the whole recess out of the wall.
+He could have torn the whole recess out of the wall.
 
 That was exactly the problem.
 
-I did not know what the ceramic chamber did under impact, what the reservoir did if crushed, or what the rest of the network did if I removed more than the technician expected.
+He did not know what the ceramic chamber did under impact, what the reservoir did if crushed, or what the rest of the network did if he removed more than the technician expected.
 
 Overwhelming force was easy.
 
-Precision required listening to the person I was currently ignoring.
+Precision required listening to the person he was currently ignoring.
 
-I needed leverage. Not a sword. Not a giant hammer. Not something dramatic.
+He needed leverage. Not a sword. Not a giant hammer. Not something dramatic.
 
 A hook. A wedge. A pry bar with teeth.
 
 Simple.
 
-Something formed in my hand. Dark material folded out of empty air around my grip, rough and uneven, longer than my forearm. One end flattened into a thick wedge. The other curved into a short hooked jaw built for leverage.
+Something formed in his hand. Dark material folded out of empty air around his grip, rough and uneven, longer than his forearm. One end flattened into a thick wedge. The other curved into a short hooked jaw built for leverage.
 
 It was ugly.
 
 Good.
 
-I jammed the hooked end beneath the collar. The tool flexed slightly against the fitted metal because I had imagined leverage, not an indestructible crowbar.
+He jammed the hooked end beneath the collar. The tool flexed slightly against the fitted metal because he had imagined leverage, not an indestructible crowbar.
 
-I leaned down. Pain tore across my ribs. The healing tissue did not appreciate negotiation.
+He leaned down. Pain tore across his ribs. The healing tissue did not appreciate negotiation.
 
 The collar moved a fraction. The technician swore.
 
@@ -641,13 +639,13 @@ The collar moved a fraction. The technician swore.
 
 “Then tell me where not to put pressure.”
 
-He stared at me. Tavian stared at him. The technician's jaw tightened.
+He stared at him. Tavian stared at him. The technician's jaw tightened.
 
 Then he pointed despite himself.
 
 “Not the ceramic chamber. Lower. Under the outer ring.”
 
-I shifted the hook where he indicated and let the edge reshape around the new angle.
+He shifted the hook where he indicated and let the edge reshape around the new angle.
 
 Hook. Wedge. Leverage.
 
@@ -655,7 +653,7 @@ Nothing more.
 
 The tool settled exactly where the technician had pointed.
 
-I pulled. The fastening band snapped. A sharp metallic crack echoed through the stone cut.
+He pulled. The fastening band snapped. A sharp metallic crack echoed through the stone cut.
 
 The guard started forward. Kellan blocked him with both hands.
 
@@ -665,11 +663,11 @@ The guard started forward. Kellan blocked him with both hands.
 
 “No.”
 
-Tavian did not help either of us. He watched the stake, the slope, and every person around the recess. I drove the wedge under the collar.
+Tavian did not help either of them. He watched the stake, the slope, and every person around the recess. He drove the wedge under the collar.
 
-My leg shook. The bite wound had started closing, but the muscles around it still hurt. My side burned.
+His leg shook. The bite wound had started closing, but the muscles around it still hurt. His side burned.
 
-I changed the hook angle with the pull instead of fighting the mount. The collar lifted.
+He changed the hook angle with the pull instead of fighting the mount. The collar lifted.
 
 A thin line of pale mana-light flickered across the rear plate. Not Play Logic. The lure.
 
@@ -677,23 +675,23 @@ The technician's face went white.
 
 “Stop.”
 
-I heard him. I kept going. The stake came out of the socket with a violent jerk.
+He heard him. He kept going. The stake came out of the socket with a violent jerk.
 
-I fell backward.
+He fell backward.
 
 The tool had finished its job.
 
-I let the hooked end fold in on itself and dismissed the whole thing before it could become one more object for Maelis to document.
+He let the hooked end fold in on itself and dismissed the whole thing before it could become one more object for Maelis to document.
 
 One tool.
 
 Enough.
 
-The stake hit the stones beside me. The ceramic chamber cracked against the edge but did not shatter. The etched channels on the rear plate faded.
+The stake hit the stones beside him. The ceramic chamber cracked against the edge but did not shatter. The etched channels on the rear plate faded.
 
-The vent stopped humming. For a moment, nobody spoke. I sat there with blood on my shirt and the dead march-lure beside my leg.
+The vent stopped humming. For a moment, nobody spoke. He sat there with blood on his shirt and the dead march-lure beside his leg.
 
-The technician stared at the empty socket. The guard stared at me. Kellan looked uphill.
+The technician stared at the empty socket. The guard stared at him. Kellan looked uphill.
 
 Tavian closed his eyes for half a second. Then opened them. The forest went quieter.
 
@@ -701,7 +699,7 @@ Not silent.
 
 Quieter.
 
-The calls above the farms stopped. My heart hit once, hard.
+The calls above the farms stopped. His heart hit once, hard.
 
 Maybe—
 

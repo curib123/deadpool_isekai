@@ -337,11 +337,11 @@ Kellan looked at the outer roads.
 
 “Don't make this only about you.”
 
-That landed harder than he expected. He turned to him. He pointed toward the homestead route.
+That landed harder than Red expected. He turned to Kellan. Kellan pointed toward the homestead route.
 
 “You can survive being sent somewhere stupid.”
 
-Not always, he thought. But he understood him.
+*Not always.* But he understood Kellan.
 
 “Most people out there can't.”
 

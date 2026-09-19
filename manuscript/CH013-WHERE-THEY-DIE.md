@@ -1,7 +1,8 @@
 # Chapter 13 — Where They Die
 
-**Status:** DRAFT — GATE 9 NOT YET RUN  
-**Word Count:** 2,798
+**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED  
+**Word Count:** 2,798  
+**Chapter QA:** `qa/CH-013-GATE-9-CHAPTER-QA.md`
 
 By the next morning, Greywake had found a room large enough for everyone to disagree in properly. The council map room sat behind the main meeting chamber, with one long table, two wall maps, three narrow windows, and enough shelves to make me suspicious on principle. A charged Wayfarer Tongue Token hung beside the door. The moment I stepped inside, its familiar pressure settled over the voices around me.
 

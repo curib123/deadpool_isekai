@@ -1,7 +1,7 @@
 # Chapter 11 — Broken North
 
-**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED  
-**Word Count:** 2,869  
+**Status:** RETCON REVISED — GATE 9 REVALIDATION PENDING  
+**Word Count:** 2857,869  
 **Chapter QA:** `qa/CH-011-GATE-9-CHAPTER-QA.md`
 
 By morning, Tavian had a map, Maelis had notes, and Kellan had the expression of a man who had already decided everyone in Greywake was going to make his day harder. I had breakfast. One of us had prepared correctly. We met near the north-side road yard where the maintained stone gave way to older packed earth and the roofs of Greywake stopped pretending the wilderness respected property lines. A charged Wayfarer Tongue Token hung from a leather cord at Tavian's belt. It was close enough for conversation and far enough from anything resembling comfort. Maelis had copied several of her figures onto a smaller field sheet. Tavian had redrawn the track directions from yesterday. Kellan carried a carpenter's hammer, a short pry bar, rope, and the quiet confidence of someone who expected broken things to remain broken unless a person actually fixed them. Tavian spread his map across a low supply crate.
@@ -370,23 +370,31 @@ The ridge-hounds climbed again. Going around suddenly felt less elegant. Tavian 
 
 That was new. Not Can you do something strange? Not Don't. A direct question. I looked where Kellan had pointed. One broken stone shelf. One gap beneath it. One stable chunk of old retaining wall on the inner side. Simple. For once, simple was good.
 
-“I can try once.”
+“I can give you exactly the brace you asked for.”
 
-“Once?” Kellan asked.
+Kellan looked at me.
 
-“Yes.”
+“Exactly?”
 
-“Comforting.”
+“Do not sound so frightened.”
 
-I focused on the gap. Not a bridge. Not a staircase. Not something clever enough to become a problem.
+“That was not reassurance.”
 
-A brace.
+I looked at the gap.
 
-Short. Wide. Ugly. Something appeared beneath the broken lip with a pale-grey flicker. The shape came in crooked at first, thick at one end and too narrow at the other. I forced the idea simpler before it could become decorative.
+Not a bridge. Not a staircase. Not because those were beyond me.
+
+Because Kellan had asked for a brace.
+
+Short. Wide. Ugly.
+
+Something appeared beneath the broken lip with a pale-grey flicker. The first shape tried to become more elaborate than necessary, so I stripped the idea back before it could turn the road crossing into a monument to my taste.
 
 Hold.
 
-That was all. The temporary support wedged itself between the surviving wall and the underside of the cracked road shelf. Pain did not hit me. Pressure did. Behind the eyes. Across the shoulders. The familiar heavy drain that came when reality decided to charge for cooperation. Kellan stared at the brace for half a second. Then he crouched and slapped one hand against the stone above it.
+That was all.
+
+The temporary support wedged itself between the surviving wall and the underside of the cracked road shelf. Kellan stared at the brace for half a second. Then he crouched and slapped one hand against the stone above it.
 
 “It'll hold.”
 
@@ -398,15 +406,21 @@ Beautiful. Tavian backed toward us.
 
 “Kellan first. Maelis. Red Jackal. I cross last.”
 
-The ridge-hounds climbed again. Kellan crossed the damaged section quickly, putting his feet exactly where he had said the old structure remained sound. Maelis followed. The brace shuddered. A crack appeared down one side of the pale-grey surface.
+The ridge-hounds climbed again. Kellan crossed the damaged section quickly, putting his feet exactly where he had said the old structure remained sound. Maelis followed.
 
 “Still holding,” Kellan called.
 
-I crossed. The moment my weight left the cracked lip, the pressure in my head eased. Tavian moved last. One ridge-hound lunged close enough that he turned, struck its muzzle with the guard of his sword, and stepped backward onto the supported section without looking down. For one very brief second, he trusted my impossible piece of bad masonry more than the actual road. Then he was across. The brace split. The lower half vanished first. The rest collapsed into pale fragments that faded before they reached the bottom of the washout.
+“It had one job.”
 
-No second attempt.
+I crossed. Tavian moved last. One ridge-hound lunged close enough that he turned, struck its muzzle with the guard of his sword, and stepped backward onto the supported section without looking down. For one very brief second, he trusted my impossible piece of bad masonry more than the actual road.
 
-Good.
+Then he was across.
+
+I let the brace break apart behind us.
+
+Pale fragments vanished before they reached the bottom of the washout.
+
+No reason to leave an impossible bridge under an abandoned road for somebody else to explain.
 
 The ridge-hounds paced on the far side. The broken gap had become their problem. Tavian watched them for several breaths.
 
@@ -424,7 +438,7 @@ I looked at him.
 
 That might have been the nicest thing he had ever said to me. Maelis lowered her crossbow. She looked at the empty space where the brace had been.
 
-“One manifestation. Temporary. Structural support. Failed immediately after load.”
+“One manifestation. Temporary. Structural support. Dismissed after load.”
 
 “Thank you for preserving the magic.”
 

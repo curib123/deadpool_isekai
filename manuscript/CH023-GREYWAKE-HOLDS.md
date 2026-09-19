@@ -681,7 +681,7 @@ Tavian was right.
 
 Again.
 
-Power remained a terrible substitute for knowing what problem you were solving.
+Power remained a terrible substitute for understanding the actual problem.
 
 The next minutes blurred into movement.
 

@@ -340,3 +340,81 @@ Red Jackal still does **not** know:
 F-001 is now **PLANTED — CH-002** because Red Jackal and qualified Greywake personnel witnessed two independent authorized System interfaces fail consistently.
 
 This does not reveal the hidden meaning of F-001.
+
+
+
+# CH-003 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-003 — The Things They Can Measure  
+**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+
+## Red Jackal — Opening CH-003
+
+Red Jackal begins CH-003 with the CH-002 canon checkpoint.
+
+He knows:
+- Greywake;
+- the World System exists;
+- two independent System interfaces fail on him;
+- his alias is manual, not System identity;
+- F-001's observable pattern has occurred;
+- Maelis intends a controlled follow-up;
+- he remains restricted by Unverified Entrant status.
+
+## Allowed CH-003 Discoveries
+
+By the end of an approved CH-003 manuscript, Red Jackal may know:
+- ordinary instruments can measure his physical mass and temperature;
+- his visible forearm wound can be physically recorded;
+- clothing and his Unverified Entrant Token can be verified as physically present objects;
+- a standardized mana pulse physically interacts with his body;
+- that physical mana interaction does not produce a valid System MP field;
+- a functioning Certified Identity Slate still returns the locked undefined identity state;
+- local device malfunction is no longer a sufficient simple explanation;
+- Maelis records evidence separately from speculation;
+- standard guild employment remains blocked;
+- Roadmaster Rovan Hesk is willing to discuss off-book paid work.
+
+He still may not know **why** the System cannot define him.
+
+## Maelis Orra — CH-003 Boundary
+
+Maelis may conclude:
+- Red Jackal is physically real;
+- ordinary calibrated physical measurements work;
+- his body interacts with mana;
+- the identity slate functions normally on a recognized control;
+- Red Jackal still returns undefined identity data;
+- simple local device failure is insufficient to explain the full pattern.
+
+She may not conclude:
+- foreign causal origin;
+- continuity translocation;
+- missing native soul-registry root as writer truth;
+- Play Logic origin;
+- regeneration mechanism;
+- any protected mystery truth.
+
+## Jessa Vale — CH-003 Boundary
+
+Jessa may know:
+- Red Jackal is an unverified entrant;
+- his lack of registration blocks standard guild contract processing;
+- Maelis is conducting a Ledger follow-up;
+- Hesk has authorized an invitation to discuss work outside the standard registered path.
+
+She may not know:
+- Red Jackal's true anomaly cause;
+- the complete result of every Ledger test unless told in scene;
+- march-lure conspiracy truth;
+- protected series mysteries.
+
+## F-002 Boundary
+
+F-002 remains **PLANNED — NOT YET PLANTED** until CH-003 manuscript prose exists and passes Gate 9.
+
+Physical measurement must not be interpreted as proof of hidden Race/Class/Level or as an explanation of Red Jackal's origin.
+
+## Power Boundary
+
+CH-003 contains no Play Logic attempt, manifestation, or diagnostic test.

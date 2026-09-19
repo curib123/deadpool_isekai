@@ -52,355 +52,237 @@ These windows do not create an arc order.
 
 # 2. Core Writer Truth
 
-## 2.1 Red Jackal Was Not Chosen by a God
+## 2.1 Nobody Chose Red Jackal
 
-Evan Calder was not selected as a hero, summoned by a benevolent deity, or assigned a divine mission.
+Evan Calder was not selected by a god, summoned by a hero ritual, imported by Savael, or assigned a divine mission.
 
-His arrival was caused by an ancient Veyran boundary mechanism reactivated by a surviving intelligence seeking an **external variable** the Closed Loom could not predefine.
+His arrival in Veyr is the result of a rare **natural far Soul Drift**.
 
-## 2.2 The Pre-System Civilization — The Eidrathi Continuance
+This is central writer truth.
 
-Before the historical era now called the First Weathering, an advanced civilization known in writer truth as the **Eidrathi Continuance** studied:
+## 2.2 The Earth Explosion
 
+Evan died during a mysterious explosion on Earth.
+
+The explosion is a real event, not a false memory.
+
+Its exact cause is a protected mystery.
+
+Writer truth at this stage only requires:
+
+- the explosion caused or coincided with Evan's death;
+- it produced extreme local energy/reality disturbance;
+- that disturbance overlapped with a rare far-drift boundary weakness;
+- the Soul Drift itself is natural rather than a deliberate summoning mechanism.
+
+No Veyran actor caused the explosion unless a later explicit retcon changes this truth.
+
+## 2.3 Soul Drift
+
+Soul Drift is a natural post-death phenomenon.
+
+Most drift remains inside a soul's native causal reality.
+
+Extremely rare far-drift cases can cross realities.
+
+Far drift is destructive to normal autobiographical continuity.
+
+Evan's case strips most explicit Earth memory and ordinary personality organization while preserving deeper cognitive grooves.
+
+## 2.4 Why Red Thinks the Way He Does
+
+Before death, Evan was an obsessive Deadpool fan and heavy consumer of meta-fiction, games, comics, action movies, animation, internet humor, and theatrical antihero media.
+
+Because those patterns were repeatedly rehearsed, part of that cognitive style survives drift more strongly than normal autobiographical memory.
+
+The surviving residue favors:
+- irreverence;
+- fourth-wall thinking;
+- jokes under pain;
+- pop-culture comparison;
+- self-narration;
+- theatrical combat;
+- treating enemies as scene partners;
+- assuming somebody, somewhere, ought to appreciate the bit.
+
+This is psychological/metaphysical residue, not possession by a fictional character.
+
+## 2.5 Why His Body Exists
+
+Veyr can physically instantiate a compatible body around a real incoming soul even when the World System lacks the data required to register that person.
+
+Red's body is therefore physically real but metaphysically undocumented.
+
+It resembles his surviving self-concept strongly enough to remain humanlike.
+
+## 2.6 Why the System Rejects Him
+
+The World System lacks:
+- native soul-registry relation;
+- native birth;
+- recognized racial lineage;
+- local Fate history;
+- progression root;
+- legal causal predecessor inside Veyr.
+
+The System cannot invent a valid past merely because a body is standing in front of it.
+
+Therefore:
+- UNDEFINED;
+- NO RECORD;
+- FAILED;
+- UNAVAILABLE;
+- ANOMALY.
+
+## 2.7 Why Play Logic Exists
+
+Play Logic is an emergent consequence of an external Soul-Drift identity occupying Veyr without the normal System/Fate interpretive framework.
+
+Where a native person is constrained and described through overlapping local structures, Red has a missing definition layer.
+
+His imagination can substitute for that missing interpretive relation and force reality to negotiate with what he is asserting.
+
+There is no known intrinsic raw-power ceiling.
+
+Small early effects are restraint, ignorance, performance, comedy, or incomplete revelation—not a weak stage.
+
+## 2.8 Why Regeneration Exists
+
+Red's body repeatedly reasserts the persistent Soul-Drift identity pattern that defines him as a continuing embodied person.
+
+Ordinary physical destruction cannot reliably make the body accept “dead” as its stable final state.
+
+This produces extreme self-restoration.
+
+It does not automatically restore other people or undo consequences.
+
+## 2.9 Why the Fourth Wall Stops Time
+
+Far Soul Drift leaves Red only partially anchored to Veyr's active causal sequence.
+
+When he genuinely addresses an external reader/audience, he slips sideways into that exterior relation.
+
+Veyran time stops for the address.
+
+The reader does not power him.
+
+The reader does not control him.
+
+The pause is the consequence of incomplete causal anchoring.
+
+## 2.10 Fate and the Native Story
+
+Red has no native backward Fate thread.
+
+Veyr does.
+
+The world contains legitimate Fate-supported narrative convergences:
+- a true System-recognized Hero;
+- a Hero Party;
+- a Main Villain;
+- minor villains;
+- wars, prophecies, quests, betrayals, and local conflicts.
+
+These are not fictional inside Veyr. They are real lives and real convergence patterns.
+
+Red is outside their original assignment.
+
+When he interferes, Fate reroutes surviving objectives around the new facts rather than pretending he never appeared.
+
+## 2.11 The Eidrathi Continuance
+
+The pre-System Eidrathi Continuance remains canon.
+
+They studied:
 - soul continuity;
 - Fate convergence;
-- world-boundary behavior;
-- nonlocal geometry;
+- world boundaries;
 - reality stabilization;
 - early registry structures.
 
-They discovered that Veyr existed inside a bounded metaphysical continuity: the Closed Loom.
+Their experiments can provide ancient evidence that reality has boundaries and that external causality is theoretically possible.
 
-The Eidrathi did not discover a literal author or narrative script. They discovered that sufficiently large contradictions triggered increasing correction pressure.
+They did **not** cause Red's Soul Drift.
 
-Their late civilization split over one question:
+## 2.12 The Exterior Needle
 
-**Should Veyr remain a closed coherent world, or should intelligent beings gain access to realities outside its native causal order?**
+The Exterior Needle remains an ancient Eidrathi boundary instrument.
 
-## 2.3 The Exterior Needle
+It was built to reference or pierce beyond the Closed Loom.
 
-The Eidrathi built a boundary instrument called the **Exterior Needle**.
+It caused historical instability during the First Severance.
 
-Its purpose was not conventional teleportation. It was designed to create a narrow reference path beyond the Closed Loom so the Eidrathi could compare Veyr against an external causal reality.
+It is **not** the mechanism that imported Red.
 
-The experiment succeeded briefly.
+Later characters may falsely assume the Needle explains Red because it is the closest known historical analogy.
 
-It also produced catastrophic instability.
+## 2.13 Savael-of-the-Index
 
-## 2.4 The First Severance
+Savael remains a surviving Eidrathi-derived intelligence.
 
-The Exterior Needle's first full activation caused the hidden catastrophe now called in writer truth the **First Severance**.
+Savael did not choose Evan and did not bring him to Veyr.
 
-Effects included:
+Savael becomes interested in Red **after** evidence of a genuine natural external anomaly appears.
 
-- contradictory local histories;
-- regions with damaged spatial continuity;
-- unstable soul routing;
-- Fate convergence failures;
-- dead or incoherent registry structures;
-- early Night Seam phenomena;
-- terrain later associated with the Ashfall Belt.
+Savael may want to:
+- study him;
+- use him as proof;
+- exploit his exterior relation;
+- reproduce far-drift access;
+- turn Red into a key for reopening boundary research.
 
-The Great Design reacted through stabilization pressure, but it did not consciously “punish” the Eidrathi.
+This can make Savael dangerous without making Savael Red's creator.
 
-The civilization collapsed through a combination of physical destruction, political conflict, soul damage, failed records, and correction effects.
+## 2.14 The Great Design
 
-Modern cultures remember fragments as unrelated myths and ancient disasters.
+The Great Design remains a non-personal deep coherence architecture.
 
-## 2.5 The Surviving Intelligence — Savael-of-the-Index
+It did not summon Red.
 
-**Savael-of-the-Index** was originally an Eidrathi archivist and continuity theorist.
+It did not cause the Earth explosion.
 
-During the First Severance, Savael preserved part of their consciousness through a distributed archive network.
+It did not create Soul Drift.
 
-Present writer truth:
+It reacts to consequences after Red arrives.
 
-- Savael is neither fully biological nor a normal ghost;
-- Savael exists as a fragmented but coherent intelligence across dormant Eidrathi anchor structures;
-- Savael retains incomplete memories of the Continuance;
-- Savael believes the Great Design's correction behavior made genuine freedom impossible;
-- Savael considers the collapse of the Eidrathi evidence that Veyr is a prison disguised as reality.
+## 2.15 Quiet Registration
 
-Savael's conclusion is partially understandable and partially wrong.
+The Quiet Registration remains the historical synchronization of post-Severance registry traditions into the reliable modern World System.
 
-The Great Design did contribute stabilization pressure, but the Eidrathi themselves caused the destabilizing breach.
+This history can help experts understand why Red's failure is not an ordinary broken status screen.
 
-## 2.6 Why Red Jackal Arrived
+## 2.16 Endgame Boundary
 
-Savael eventually restored enough of the Exterior Needle network to attempt one limited external acquisition.
+Red is not required to become registered, assimilated, morally completed, or turned into Veyr's chosen hero.
 
-The goal was to obtain an intelligent consciousness with **no native Fate history and no System registry**.
-
-Savael could not choose a specific person.
-
-The Needle searched beyond the Closed Loom for a consciousness at a threshold where local embodiment was failing but identity continuity had not fully dissolved.
-
-On Earth, Evan Calder's fatal traffic collision created such a threshold.
-
-The Needle caught him.
-
-Therefore:
-
-- Evan was not chosen for heroism;
-- his personality was not preselected;
-- Earth was not targeted because it was special;
-- Savael did not know exactly who would arrive;
-- Savael caused the opportunity, not the collision itself.
-
-## 2.7 What Happened to Evan's Soul
-
-Evan did not undergo normal Veyran reincarnation.
-
-His case is best described as **continuity translocation**.
-
-His identity crossed before the ordinary Veyran reincarnation process could:
-- register him;
-- filter memory;
-- assign a compatible native soul relation;
-- integrate him into Fate;
-- place him into a native developmental history.
-
-The Exterior Needle then forced a physical embodiment to instantiate around the foreign continuity.
-
-This is why he retains Earth memory.
-
-## 2.8 Why His Body Looks Human but Is UNDEFINED
-
-The Needle needed a stable body-form.
-
-It reconstructed an embodiment using:
-- Evan's own self-model;
-- available local matter and mana;
-- broad humanoid biological compatibility;
-- incomplete translation through Eidrathi machinery.
-
-The result resembles Evan strongly but is not genealogically descended from any Veyran race.
-
-His crimson eyes and some anomalous traits are side effects of local embodiment, not a hidden species reveal.
-
-## 2.9 Why the System Rejects Him
-
-The World System can observe Red Jackal physically, but it cannot produce a valid identity record because he lacks the dependencies a normal record requires:
-
-- no native soul-registry relation;
-- no Veyran birth or embodiment history;
-- no recognized racial lineage;
-- no native Fate integration at entry;
-- no valid progression root;
-- no legal causal predecessor inside the System's registry model.
-
-The System is descriptive/regulatory, not omnipotent.
-
-To assign a normal identity, it would need to fabricate a past it does not have authority to create.
-
-Therefore the correct results remain:
-
-- UNDEFINED
-- NO RECORD
-- FAILED
-- UNAVAILABLE
-- ANOMALY
-
-## 2.10 Why Play Logic Exists
-
-Savael did **not** intentionally grant Play Logic.
-
-Play Logic emerged because Red Jackal's embodiment lacks a native interpretive schema.
-
-Normal Veyran beings are constrained by overlapping structures:
-
-- physical body;
-- soul continuity;
-- System-recognized identity;
-- Fate integration;
-- local magical law.
-
-Red Jackal entered with a body and soul-continuity but without the normal registry/Fate schema.
-
-When his foreign consciousness pushes against reality, his **self-model and imagination substitute for the missing interpretive layer**.
-
-Under the current authorial power model, Play Logic has **no known intrinsic raw-power ceiling inside Veyr's ordinary hierarchy**.
-
-The important limitation is not a hidden mana bar or mastery stage. Red can still misunderstand the situation, choose the wrong effect, conceal what he can do, or deliberately impose restrictions because he prefers the game.
-
-That undefined interaction is Play Logic.
-
-## 2.11 Why Regeneration Exists
-
-Regeneration and Play Logic share a common root but are not identical abilities.
-
-Because Red Jackal's body was instantiated from his self-model rather than inherited through a native biological lineage, severe damage creates a conflict between:
-
-- current physical state;
-- the persistent foreign identity pattern holding the embodiment together.
-
-His body tends to reassert the self-model.
-
-That produces abnormal regeneration.
-
-Ordinary physical exhaustion or energy depletion does **not** switch this restoration off as a conventional stamina limit.
-
-Late-series threats may still interact with the deeper mechanism through:
-- soul damage;
-- memory/identity damage;
-- conceptual injury;
-- causality interference;
-- existence-targeting effects;
-- disruption or rewriting of the self-model itself.
-
-These are mechanism-level story threats, not a conventional raw-power progression ceiling, and must not be used casually to manufacture a stronger-enemy ladder.
-
-## 2.12 Why Fate Cannot Properly Predict Him
-
-Red Jackal entered Veyr without a native Fate history.
-
-He has **no backward Fate thread** inside the Closed Loom.
-
-After entry, however, his actions create consequences.
-
-Fate can organize probabilities around those consequences and around native people interacting with him.
-
-Writer shorthand:
-
-**Red Jackal has a causal wake, not a native destiny track.**
-
-He can disrupt heavily reinforced outcomes, but he does not automatically defeat Fate.
-
-## 2.13 The Exterior Echo Truth
-
-The Exterior Needle left a passive residual connection called the **Exterior Echo**.
-
-The Echo points outward from Veyr toward the causal exterior through which Evan crossed.
-
-Under the close-third narrative standard, Red Jackal does **not** begin by directly narrating to readers.
-
-The hidden phenomenon may instead surface later as rare, approved signs such as:
-- a sensation that a thought is pointing somewhere outside Veyr;
-- a divination vector that returns no local direction;
-- a brief private or spoken remark that seems to have an outward target;
-- unexplained continuity resonance around Red.
-
-Important limits:
-- the audience is not a character who gives orders;
-- readers do not grant him power;
-- the Echo is not a mana source;
-- narration remains close third-person limited;
-- the Echo may produce detectable anomalies but does not answer him like a telephone.
-
-## 2.14 The Great Design's Actual Relationship to Red Jackal
-
-The Great Design did not summon Red Jackal and did not create Savael.
-
-It treats Red Jackal as an unresolved external variable.
-
-Its normal preference is **minimal correction**:
-- allow local consequences;
-- reinforce existing lawful structures;
-- let Fate adapt around new conditions;
-- prevent contradictions from cascading.
-
-Correction pressure increases only when Red Jackal or others create world-scale incoherence.
-
-Therefore the Great Design can become a source of pressure without becoming a villain with emotions.
-
-## 2.15 Savael's Actual Goal
-
-Savael wanted proof that an external intelligence could exist inside Veyr without native Fate or System definition.
-
-Red Jackal proves that.
-
-Savael's long-term objective is to use an external anomaly to create a stable opening through the Closed Loom large enough to:
-
-1. invalidate the closed causal order;
-2. expose Veyr to genuine outside reference;
-3. prevent the Great Design from restoring a single coherent continuity;
-4. recover or reconstruct what Savael believes was stolen from the Eidrathi.
-
-Savael is willing to risk civilization-scale instability to achieve this.
-
-Savael sees Red Jackal as:
-- proof;
-- leverage;
-- a possible living key;
-- a potential collaborator;
-- a potential threat if Red Jackal refuses the assigned role.
-
-This directly conflicts with Red Jackal's core hatred of being defined by someone else's purpose.
-
-## 2.16 The Quiet Registration Truth
-
-The modern World System became dramatically more consistent after the First Severance.
-
-It was not created by a single god.
-
-Writer truth:
-
-A post-collapse coalition of:
-- surviving Eidrathi-derived technical traditions;
-- early mortal archmages;
-- divine intermediaries;
-- soul-guides;
-- regional registry structures
-
-gradually built and synchronized the regulatory framework that became the modern World System.
-
-The **Quiet Registration** marks the point when those networks became sufficiently unified to produce reliable cross-regional identity and progression records.
-
-The Great Design tolerated and reinforced the framework because it increased world coherence.
-
-It did not personally write the System.
-
-## 2.17 The Endgame Structural Question
-
-Red Jackal cannot become conventionally registered without cost.
-
-A theoretical assimilation process could give him a native causal identity, but only by rewriting portions of the foreign continuity that make him external.
-
-Possible losses could include:
-- parts of Earth continuity;
-- portions of Play Logic;
-- the Exterior Echo;
-- some freedom from native Fate structure.
-
-Writer truth does **not** require him to accept assimilation.
-
-A second theoretical solution exists:
-
-Create a stable **Exception Covenant**—a new reality rule that allows an external person to remain foreign while still being legally/coherently represented inside Veyr.
-
-That solution would require cooperation between native systems and the anomaly rather than domination by either side.
-
-This is the thematic endgame alternative to both:
-- forced assimilation;
-- Savael's destructive breach.
+Possible endgame questions concern:
+- whether Veyr can acknowledge an external exception;
+- whether Soul Drift can occur again;
+- whether native factions attempt to reproduce it;
+- what caused the Earth explosion;
+- whether the Hero/Villain story survives Red's continued interference;
+- what happens when a world built around assignable roles must coexist with someone who has none.
 
 # 3. Mystery Registry
 
 ## M-001 — Who Brought Red Jackal to Veyr?
 
-**Writer Truth:** Savael-of-the-Index reactivated the Exterior Needle to acquire an external consciousness; Evan was the threshold consciousness caught by the search.
+**Writer Truth:** Nobody. Red arrived through a rare natural far Soul Drift after his death in the Earth explosion.
 
-**Reader Baseline:** Red Jackal arrived from Earth after a fatal collision.
+**Reader Baseline:** Red wakes in another world with damaged memory.
 
-**Red Jackal Baseline:** He remembers Earth and the collision but no summoner.
-
-**Faction Knowledge:** None initially know the answer. Ash Choir traditions contain distorted references to “outside voices.” Ledger of Measures records contain no matching transfer case.
+**Red Jackal Baseline:** He knows nobody has shown up to claim responsibility.
 
 **False Beliefs:**
 - a god summoned him;
-- he was chosen as a hero;
-- a demon stole his soul;
-- the System accidentally created him.
+- Savael imported him;
+- the Exterior Needle selected him;
+- the System created him;
+- he is the chosen hero.
 
-**Clue Stages:**
-1. no divine claim can authenticate ownership;
-2. anomaly signatures resemble ancient boundary events;
-3. Exterior Needle architecture is identified;
-4. Savael's involvement becomes provable.
+**Reveal Window:** RW-2 to RW-4.
 
-**Reveal Window:** RW-3 to RW-4.
-
-**Payoff:** Red Jackal learns his arrival was engineered but his identity was not chosen or authored by Savael.
+**Payoff:** The answer is not “who chose him?” but “why was a natural crossing possible at all?”
 
 **Status:** ACTIVE WRITER TRUTH.
 
@@ -408,30 +290,22 @@ This is the thematic endgame alternative to both:
 
 ## M-002 — Why Is Everything About Him UNDEFINED?
 
-**Writer Truth:** The System lacks the native causal, soul-registry, racial, Fate, and progression roots required to construct a valid identity record.
+**Writer Truth:** Veyr's System has no native causal/soul/Fate/progression root from which to construct Red's identity.
 
-**Reader Baseline:** Appraisal fails.
+**Reader Baseline:** System appraisal fails.
 
-**Red Jackal Baseline:** He sees/learns that normal System fields cannot define him.
-
-**Faction Knowledge:** Ledger of Measures experts understand partial failures but not total foreign continuity.
+**Red Jackal Baseline:** He knows the world cannot classify him.
 
 **False Beliefs:**
 - hidden max level;
-- forbidden class;
+- secret class;
 - anti-appraisal skill;
 - divine concealment;
-- corrupted status screen.
-
-**Clue Stages:**
-1. multiple independent appraisal methods fail differently but consistently;
-2. physical traits can be measured while identity cannot;
-3. soul registry also returns no record;
-4. experts conclude the problem is missing origin, not hidden data.
+- corrupted status interface.
 
 **Reveal Window:** RW-1 to RW-3.
 
-**Payoff:** Establishes that “undefined” means there is no valid System answer, not a secret answer waiting to unlock.
+**Payoff:** UNDEFINED means no valid answer exists.
 
 **Status:** ACTIVE WRITER TRUTH.
 
@@ -439,22 +313,21 @@ This is the thematic endgame alternative to both:
 
 ## M-003 — Was Red Jackal Reincarnated?
 
-**Writer Truth:** Not in the normal Veyran sense. He underwent continuity translocation before normal soul filtering/reincarnation.
+**Writer Truth:** Not normally. He far-drifted between realities after death and arrived before any Veyran reincarnation/registry process could claim him.
 
-**Reader Baseline:** He appears to be an isekai reincarnate/transfer.
+**Reader Baseline:** He resembles an isekai reincarnate.
 
-**Red Jackal Baseline:** He does not know the technical distinction.
-
-**Faction Knowledge:** Soul experts can eventually prove he lacks normal reincarnation signatures.
+**Red Jackal Baseline:** His memory is too damaged to know the technical answer.
 
 **False Beliefs:**
-- ordinary reincarnation with perfect memory;
+- ordinary reincarnation;
 - god-managed rebirth;
-- possession of a native body.
+- possession;
+- perfect-memory transfer.
 
 **Reveal Window:** RW-2 to RW-3.
 
-**Payoff:** Explains memory retention, body origin, and registry failure.
+**Payoff:** Explains both missing memory and registry failure.
 
 **Status:** ACTIVE WRITER TRUTH.
 
@@ -462,31 +335,22 @@ This is the thematic endgame alternative to both:
 
 ## M-004 — Where Did Play Logic Come From?
 
-**Writer Truth:** It is emergent reality negotiation caused by a foreign self-model occupying an embodiment without native interpretive schema.
+**Writer Truth:** Play Logic is reality negotiation produced by Red's external Soul-Drift identity and missing native interpretive schema.
 
-**Reader Baseline:** Red Jackal can make imagined concepts affect reality.
+**Reader Baseline:** Imagination can become real around him.
 
-**Red Jackal Baseline:** He knows imagination matters but not why.
-
-**Faction Knowledge:** Mages may classify effects incorrectly; the Ledger of Measures cannot map them to a normal class.
+**Red Jackal Baseline:** He knows imagination works and treats that as excellent news.
 
 **False Beliefs:**
 - divine blessing;
-- unique magic school;
 - hidden class;
-- Savael directly gifted it;
-- reader belief powers him.
-
-**Clue Stages:**
-1. effects respond more to concept than spell structure;
-2. mana interaction varies rather than defining the power;
-3. System cannot classify the manifestations;
-4. effects weaken when his self-model is destabilized;
-5. origin is tied to missing schema.
+- unique magic school;
+- Savael gift;
+- reader belief as fuel.
 
 **Reveal Window:** RW-2 to RW-4.
 
-**Payoff:** Red Jackal understands that the same freedom enabling Play Logic creates vulnerability when his identity is attacked.
+**Payoff:** The power is not something he unlocks. It is a consequence of what he already is.
 
 **Status:** ACTIVE WRITER TRUTH.
 
@@ -494,46 +358,46 @@ This is the thematic endgame alternative to both:
 
 ## M-005 — Why Can He Regenerate?
 
-**Writer Truth:** His instantiated body repeatedly reasserts the foreign self-model that defines its expected form.
+**Writer Truth:** His body reasserts the persistent Soul-Drift identity pattern instead of accepting ordinary lethal damage as final.
 
-**Reader Baseline:** He heals abnormally.
+**Reader Baseline:** He heals from impossible injuries.
 
-**Red Jackal Baseline:** He knows the practical effect before the mechanism.
+**Red Jackal Baseline:** He knows dying has become unreliable.
 
 **False Beliefs:**
-- immortality;
-- vampire/demon trait;
 - healing skill;
-- System exploit.
+- vampire trait;
+- demon body;
+- hidden HP exploit.
 
 **Reveal Window:** RW-1 to RW-3.
 
-**Payoff:** Regeneration becomes thematically linked to identity, not generic invulnerability.
+**Payoff:** Regeneration and Play Logic share a root without becoming the same ability.
 
 **Status:** ACTIVE WRITER TRUTH.
 
 ---
 
-## M-006 — What Is the Exterior Echo Pointing Toward?
+## M-006 — Who Is Red Talking To When Time Stops?
 
-**Writer Truth:** Red retains a passive outward continuity direction from the Exterior Needle. It may later produce rare directional or observational anomalies without turning readers into an in-world power source.
+**Writer Truth:** Genuine reader-address activates a Soul-Drift exterior relation. Veyran causal time pauses while Red addresses the external audience.
 
-**Reader Baseline:** No explicit fourth-wall explanation is required at the beginning. The story is narrated in close third-person limited.
+**Reader Baseline:** Red can stop the scene and talk directly to the reader.
 
-**Red Jackal Baseline:** He behaves as though the audience is there; this does not require an awakening.
+**Red Jackal Baseline:** He treats this as normal for him long before he understands it.
 
-**Faction Knowledge:** None begin with a concept of “readers.” Sensitive instruments may eventually detect outbound null-direction effects.
+**Faction Knowledge:** Native observers cannot remember the pause because no local time elapses. Specialized instruments may eventually detect discontinuities around pause boundaries.
 
 **False Beliefs:**
-- insanity;
+- insanity only;
 - invisible familiar;
-- prophetic spirit;
-- audience belief grants power;
-- he must later discover the reader relationship.
+- time spell;
+- reader worship;
+- a hidden System skill.
 
-**Reveal Window:** RW-3 to RW-5 for metaphysical confirmation.
+**Reveal Window:** RW-1 behavior, RW-3+ metaphysical explanation.
 
-**Payoff:** The fourth wall gains world relevance without rewriting his Chapter-1 voice or turning reader-talk into a skill progression.
+**Payoff:** The fourth wall is both comedy and evidence that Red is not fully anchored to Veyr.
 
 **Status:** ACTIVE WRITER TRUTH.
 
@@ -541,23 +405,21 @@ This is the thematic endgame alternative to both:
 
 ## M-007 — How Does Fate Treat Him?
 
-**Writer Truth:** He has no native backward destiny track. Fate forms adaptive convergence around his downstream consequences: a causal wake.
+**Writer Truth:** Red has no native backward destiny track. Fate can only reroute around the causal wake created after his arrival.
 
-**Reader Baseline:** Prophecies and expected outcomes become less reliable around him.
+**Reader Baseline:** Expected outcomes become unreliable around him.
 
-**Red Jackal Baseline:** He may joke about “plot armor” or “the plot” without initially understanding actual Fate.
-
-**Faction Knowledge:** Fate specialists may observe disturbed convergence around associated natives.
+**Red Jackal Baseline:** He calls it plot interference because that is funnier.
 
 **False Beliefs:**
 - complete Fate immunity;
-- he controls destiny;
-- Fate cannot affect anyone near him;
-- he is automatically destined to break destiny.
+- automatic victory over prophecy;
+- Red controls destiny;
+- anyone near him becomes fate-free.
 
 **Reveal Window:** RW-2 to RW-4.
 
-**Payoff:** Makes his freedom real but bounded; people around him still pay causal costs.
+**Payoff:** Explains why native storylines bend rather than simply vanish when Red interferes.
 
 **Status:** ACTIVE WRITER TRUTH.
 
@@ -565,24 +427,21 @@ This is the thematic endgame alternative to both:
 
 ## M-008 — What Is the Great Design?
 
-**Writer Truth:** A non-personal deep coherence architecture inside the Closed Loom that preserves long-horizon world consistency through bounded mechanisms.
+**Writer Truth:** A non-personal deep coherence architecture that preserves long-horizon world consistency.
 
-**Reader Baseline:** Initially unknown.
+**Reader Baseline:** Unknown.
 
-**Red Jackal Baseline:** Initially unknown; later may call patterns “the Plot” before technical understanding.
-
-**Faction Knowledge:** Gods and rare scholars perceive fragments; nobody possesses complete omniscience.
+**Red Jackal Baseline:** May call patterns “the plot” without technical knowledge.
 
 **False Beliefs:**
-- a literal author;
-- a supreme god;
-- the World System;
-- Fate itself;
-- an evil sentient controller.
+- literal author;
+- supreme god;
+- sentient final boss;
+- World System itself.
 
 **Reveal Window:** RW-3 to RW-5.
 
-**Payoff:** Reframes the conflict from “kill destiny” into a harder question: how can freedom coexist with a reality that requires coherence?
+**Payoff:** Separates meta-comedy from actual cosmology.
 
 **Status:** ACTIVE WRITER TRUTH.
 
@@ -590,27 +449,20 @@ This is the thematic endgame alternative to both:
 
 ## M-009 — What Happened Before the First Weathering?
 
-**Writer Truth:** The Eidrathi Continuance existed, created the Exterior Needle, triggered the First Severance, and left the anomalies later seen in Night Seam and Ashfall phenomena.
+**Writer Truth:** The Eidrathi Continuance studied world boundaries, built the Exterior Needle, and caused the First Severance through artificial boundary experimentation.
 
-**Reader Baseline:** Ruins older than accepted civilization exist.
+**Reader Baseline:** Ancient ruins contradict accepted history.
 
 **Red Jackal Baseline:** None.
 
-**Faction Knowledge:**
-- Ash Choir preserves distorted oral fragments;
-- Daughters of the Last Bell guard one ancient structure;
-- the Ledger of Measures possesses contradictory anomaly surveys;
-- Edrin Marr has impossible route measurements.
-
 **False Beliefs:**
-- unrelated ancient cultures;
 - divine punishment;
-- natural magical catastrophe;
-- the world periodically resets completely.
+- unrelated ancient civilizations;
+- periodic full-world reset.
 
 **Reveal Window:** RW-2 to RW-4.
 
-**Payoff:** Connects local ancient anomalies into one pre-System history.
+**Payoff:** Provides an artificial historical analogue to Red's natural Soul Drift without making it his cause.
 
 **Status:** ACTIVE WRITER TRUTH.
 
@@ -618,24 +470,22 @@ This is the thematic endgame alternative to both:
 
 ## M-010 — Who Is Savael-of-the-Index?
 
-**Writer Truth:** A distributed surviving Eidrathi archivist-intelligence responsible for reactivating the Exterior Needle and importing Red Jackal.
+**Writer Truth:** A surviving distributed Eidrathi archivist-intelligence who learns of Red after his arrival and becomes obsessed with the existence of a naturally occurring external anomaly.
 
 **Reader Baseline:** No awareness.
 
 **Red Jackal Baseline:** No awareness.
 
-**Faction Knowledge:** No modern faction initially knows Savael's present identity. Ash Choir material contains corrupted fragments of the name/title.
-
 **False Beliefs:**
-- dead god;
+- Red's summoner;
+- Red's creator;
 - Great Design avatar;
 - demon sovereign;
-- ancient System administrator;
-- Red Jackal's creator.
+- hidden System administrator.
 
 **Reveal Window:** RW-3 to RW-4.
 
-**Payoff:** Introduces a long-game antagonist whose core sin is assigning Red Jackal a purpose in the name of freedom.
+**Payoff:** Savael wants to use a person who was never chosen by anyone, creating conflict without retconning Soul Drift into a summoning.
 
 **Status:** ACTIVE WRITER TRUTH.
 
@@ -684,13 +534,15 @@ This is the thematic endgame alternative to both:
 
 # 4. Series-Scale Threat Architecture
 
-## 4.1 Primary Hidden Architect
+## 4.1 No Hidden Summoner
 
-**Savael-of-the-Index** is the primary hidden architect behind Red Jackal's arrival.
+There is **no hidden architect behind Red Jackal's arrival**.
 
-Savael is not required to be the antagonist of every destination.
+Soul Drift is natural.
 
-Most local conflicts should have local causes.
+Savael may become a long-game opportunist after discovering Red, but is not his summoner, creator, or author.
+
+Most destination conflicts remain local and independent.
 
 ## 4.2 Systemic Pressure
 
@@ -703,12 +555,14 @@ It is a source of increasingly visible correction pressure when coherence is thr
 The long mystery may escalate through:
 
 1. **Classification problem** — Red Jackal cannot be identified.
-2. **Historical problem** — similar boundary damage predates him.
-3. **Causal problem** — Fate behaves abnormally around his downstream effects.
-4. **Origin problem** — an external breach brought him here.
-5. **Agency problem** — Savael intended to use an external person as a tool.
-6. **World problem** — reopening the Closed Loom risks a correction cascade.
-7. **Thematic problem** — can Veyr recognize an exception without erasing it or breaking itself?
+2. **Memory problem** — he cannot cleanly reconstruct Evan Calder.
+3. **Historical problem** — artificial boundary research predates him.
+4. **Causal problem** — Fate reroutes around his downstream effects.
+5. **Origin problem** — natural far Soul Drift crossed realities.
+6. **Explosion problem** — what happened on Earth and why did it coincide with a far-drift opening?
+7. **Exploitation problem** — factions such as Savael want to reproduce or use what happened naturally.
+8. **Native-story problem** — Hero/Villain convergences keep being rerouted by someone Fate never assigned.
+9. **World problem** — can Veyr coexist with an exception it cannot define?
 
 No destination order is assigned here.
 
@@ -716,15 +570,15 @@ No destination order is assigned here.
 
 | Subject | Red Jackal Baseline | Maelis / Ledger Baseline | Morn Baseline | Pell / Ash Choir Baseline | Edrin Baseline | Divine/Expert Ceiling | Writer Truth |
 |---|---|---|---|---|---|---|---|
-| Arrival cause | unknown | unknown | unknown | suspects outside intervention in abstract | unknown | no complete answer | Savael + Exterior Needle |
+| Arrival cause | fragmented / unknown | unknown | unknown | myths only | unknown | no complete answer | natural far Soul Drift after Earth explosion |
 | UNDEFINED status | knows result | knows anomaly categories | knows containment cases | interprets symbolically | little expertise | can identify unprecedented registry absence | missing native causal/registry roots |
-| Play Logic | imagination matters | unclassifiable | dangerous anomaly behavior | possible reality-memory breach | unknown | may identify nonstandard law interaction | missing schema + self-model |
-| Reincarnation | assumes isekai-like transfer | soul experts uncertain | sees abnormal identity risk | believes forgotten-world return possible | unknown | can distinguish normal reincarnation | continuity translocation |
+| Play Logic | imagination works | unclassifiable | dangerous anomaly behavior | symbolic interpretations | unknown | nonstandard law interaction | Soul-Drift identity + missing native schema |
+| Reincarnation | assumes isekai-like event | soul experts uncertain | abnormal identity risk | forgotten-world myths | unknown | can distinguish normal reincarnation | far Soul Drift, not normal reincarnation |
 | Fate | jokes about plot | limited institutional knowledge | risk-oriented | interprets as correction | has route-anomaly experience | fate specialists see causal disruption | causal wake, no backward thread |
 | Great Design | unknown | unknown | unknown | incorrectly suspects deliberate erasure intelligence | unknown | fragments only | bounded coherence architecture |
 | Eidrathi | unknown | scattered anomaly records | classified fragments | mythic fragments | impossible maps | some divine archives contain traces | pre-System Continuance |
-| Savael | unknown | unknown | unknown | corrupted title fragments | unknown | unknown | surviving archivist-intelligence |
-| Exterior Echo | behaves as narrator | unknown | unknown | might interpret as outside voice | unknown | rare divination anomalies only | passive external residual channel |
+| Savael | unknown | unknown | unknown | corrupted title fragments | unknown | unknown | later opportunist, not summoner |
+| Fourth-wall pause | uses it naturally | unknown | unknown | may mythologize discontinuity | unknown | rare causal discontinuity evidence | exterior Soul-Drift relation freezes local time |
 
 # 6. False-Belief Registry
 
@@ -748,10 +602,10 @@ The Great Design is a conscious supreme deity issuing personal commands.
 
 **Truth:** False.
 
-## FB-005 — Savael Created Red Jackal
-Savael designed his personality, body, and abilities.
+## FB-005 — Savael Created or Summoned Red Jackal
+Savael selected Evan and brought him to Veyr.
 
-**Truth:** False. Savael opened the acquisition path but could not choose the exact person and did not create Play Logic.
+**Truth:** False. Red arrived through natural Soul Drift. Savael becomes interested afterward.
 
 ## FB-006 — Reader Belief Powers Him
 The fourth wall acts like worship energy.

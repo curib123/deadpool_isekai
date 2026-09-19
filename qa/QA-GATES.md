@@ -174,7 +174,7 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO CHAPTER ARCHITECT AND
 - Does every scene define all fields required by that chapter's Scene Architecture brief?
 - Does scene progression create a clear cause-and-effect chain rather than disconnected beats?
 - Do scene transitions create a reason for the next scene?
-- Does Red Jackal's voice architecture remain compatible with first-person reader-talk and distinct self-talk?
+- Does Red Jackal's voice architecture remain compatible with close third-person limited, short selective internal thought, and dialogue-led characterization?
 - Is dialogue assigned a clear story/character function before prose drafting?
 - Is comedy situational and appropriate to the chapter's pressure level?
 - Are aura-farming opportunities balanced rather than automatically successful?
@@ -205,35 +205,36 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO SCENE ARCHITECT AND R
 - Is the ending earned?
 
 ## Red Jackal
-- Does he sound like the locked deadpan first-person voice in the Character Bible?
-- Does the narration feel like immediate experience first, dry internal observation second, and reader-talk only when useful?
-- Are reader-talk and private self-talk meaningfully distinct?
-- Is direct reader address restrained rather than constant?
+- Does Red remain recognizable through behavior, choices, and spoken voice?
+- Is he theatrical/playful only when the moment fits?
+- Does his dialogue carry teasing, pauses, fake innocence, arrogance, or threat naturally rather than constantly?
+- When he becomes serious, does performance drop away?
 - Is behavior character-driven rather than plot-driven?
-- Is seriousness used deliberately?
-- If humor drops during fear/grief/horror, does that reduction feel natural rather than staged?
+- Are quiet emotional moments allowed to remain quiet?
 
 ## POV / Prose
-- first person throughout?
-- no invisible third-person narrator?
-- natural internal narration preferred over performed commentary?
-- reader-talk conversational and occasional rather than quota-driven?
-- self-talk clear?
-- dialogue distinct?
-- personality-filtered description preferred over detached exposition?
+- close third-person limited centered on Red throughout?
+- no first-person narrator?
+- no head-hopping?
+- no omniscient knowledge?
+- simple, natural English?
+- no unnecessary literary or technical wording?
+- internal thoughts short and selective?
+- dialogue distinct and human?
+- interruptions, pauses, incomplete answers, callbacks, and subtext used naturally where appropriate?
+- personality-filtered description without narrator performance?
 - paragraphs normally multi-sentence?
-- one-line paragraphs reserved for real impact, danger, realization, important System output, emotional exposure, or a genuinely effective deadpan beat?
+- one-line paragraphs reserved for real impact?
 - no robotic/excessively fragmented prose?
+- no direct reader-talk unless a future M-006 scene explicitly authorizes it?
 
 ## Comedy / References
-- is the default humor dry/deadpan rather than punchline-driven?
-- does humor come from understatement, practical annoyance, contradiction, or quiet self-awareness?
-- are obvious joke setups/payoffs avoided as the default?
-- are repeated “audience,” “branding,” “performance,” or theatrical meta-jokes avoided?
+- does comedy come from character and situation?
+- are forced setup/punchline patterns avoided?
+- can other characters ignore or reject Red's humor?
 - serious consequences preserved?
 - no requirement to joke in every scene?
-- references brief, transformed and situational?
-- scene understandable without recognizing reference?
+- references brief, transformed, situational, and understandable without recognition?
 
 ## Power
 - Does Play Logic preserve the already-overpowered / no-progression writer truth?
@@ -280,7 +281,7 @@ It verifies:
 - publication text is derived from the latest canon source;
 - story events, dialogue meaning, injuries, power use, mystery clues, knowledge state, and ending are semantically unchanged;
 - repository metadata, QA notes, status lines, word-count lines, and internal file references are removed from the reader-facing copy;
-- paragraph rhythm, dialogue, self-talk, reader-talk, scene breaks, italics/emphasis, punctuation, and mobile readability survive platform conversion;
+- paragraph rhythm, dialogue, selective internal thoughts, scene breaks, italics/emphasis, punctuation, and mobile readability survive platform conversion;
 - no raw unsupported Markdown/HTML/code-fence artifacts remain;
 - no paragraph, scene, dialogue block, or ending is missing, duplicated, or reordered;
 - no later-chapter spoiler or protected mystery leak enters the release copy;

@@ -1,7 +1,9 @@
 # Chapter 5 — A Better Hammer
 
 **Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
-**Word Count:** 3204,105  
+**Word Count:** 3,204  
+**Chapter QA:** `qa/CH-005-GATE-9-CHAPTER-QA.md`
+**Retcon QA:** `qa/CH-005-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
 First light was a cruel phrase. It suggested something quiet and poetic. What it actually meant was standing in the Road Guild caravan yard before he had found a reliable source of breakfast. He arrived with the wooden entrant token under his coat, the bridge-marked assignment card in one pocket, and the remaining advance in another. The sky was still grey above Greywake, and the yard was already awake.
 
@@ -13,7 +15,7 @@ He was probably in his forties. Maybe older. Hard to tell with people who spent 
 
 The Wayfarer Tongue Token hanging from the side of the repair wagon carried the meaning clearly.
 
-“That is what they keep telling him.”
+“That is what they keep telling me.”
 
 He handed the card back.
 
@@ -35,9 +37,9 @@ Keeping a road open apparently required a large number of people preventing natu
 
 “Flood drains.”
 
-“he assumed decorative trenches would be an unusual frontier tradition.”
+“I assumed decorative trenches would be an unusual frontier tradition.”
 
-The worker stared at Red. The token translated the silence perfectly. Red stopped trying. They passed two caravans heading toward Greywake. Both slowed as they approached them, drivers exchanging short words with the foreman.
+He stared at him. The token translated the silence perfectly. He stopped trying. they passed two caravans heading toward Greywake. Both slowed as they approached them, drivers exchanging short words with the foreman.
 
 The road mattered. That was obvious. Every wagon carrying grain, tools, cloth, medicine, or people depended on this strip of maintained ground not turning into mud or monster territory. Greywake's walls were useful. The road was probably why the walls had anything inside them.
 
@@ -59,15 +61,15 @@ The foreman caught him watching.
 
 “Alignment clamp.”
 
-“he gathered.”
+“I gathered.”
 
 “Don't touch the marks.”
 
-“he wasn't planning to.”
+“I wasn't planning to.”
 
 “You were staring at them.”
 
-“he stare at many things he don't understand.”
+“I stare at many things I don't understand.”
 
 He accepted that. The crew spent the next hour forcing the swollen brace back into position. He carried timber. Held one end of a support beam. Dragged a coil of rope.
 
@@ -113,9 +115,9 @@ Then at the iron pin. Then at his hands. The thought came before he invited it. 
 
 Something had appeared. Later, when he tried to make it happen again, nothing. At the time he had assumed fear mattered. Maybe it did. But the first thought had also been specific.
 
-He needed something between them. Not shield. Not weapon. A function. He looked at the bridge pin again.
+He need something between them. Not shield. Not weapon. A function. He looked at the bridge pin again.
 
-The crew needed a hammer. That was simple. Possibly too simple. He should probably have tested this somewhere private. Not beside six workers, two guards, a damaged bridge, and several waiting caravans. That made it a terrible testing environment. He had already reached that conclusion.
+The crew needed a hammer. That was simple. Possibly too simple. He should probably have tested this somewhere private. Not beside six workers, two guards, a damaged bridge, and several waiting caravans. If you're thinking that made this a poor testing environment, he had reached the same conclusion.
 
 On the other hand, he had not found a private place with a broken heavy hammer and an immediate reason to care. Research conditions were imperfect. He stepped away from the crew. The foreman noticed.
 
@@ -123,7 +125,7 @@ On the other hand, he had not found a private place with a broken heavy hammer a
 
 “Trying something.”
 
-“That usually means he should stop you.”
+“That usually means I should stop you.”
 
 “Probably.”
 
@@ -131,7 +133,7 @@ He frowned. He held out one hand. He remembered the feeling from the forest. Not
 
 There had been no spell. No words. Just need. He focused. A hammer.
 
-He needed a hammer. Nothing happened. He kept the thought steady. Hammer. Something solid.
+He need a hammer. Nothing happened. He kept the thought steady. Hammer. Something solid.
 
 Something he could use. For a second, he felt the strange pressure again. Reality seemed to catch on something. Then an object dropped into his hand. He almost lost it.
 
@@ -151,7 +153,7 @@ He looked at the object. Then at his hand. Then at the ground where it definitel
 
 “What casting was that?”
 
-“he was hoping you knew.”
+“I was hoping you knew.”
 
 The nearby guard frowned.
 
@@ -197,11 +199,11 @@ He was becoming very good at creating those. The foreman looked at him.
 
 There was the question.
 
-“he don't know.”
+“I don't know.”
 
 Honest answers were becoming inconvenient. The worker with the smaller maul returned. The foreman took it.
 
-“Then they use this.”
+“Then we use this.”
 
 He turned away. That should have been the end of the experiment. It was not. Because the first attempt had worked. Badly.
 
@@ -335,17 +337,17 @@ The guard who had asked about the casting walked over. He looked at the empty pa
 
 “What was that?”
 
-“he was hoping you had a second theory.”
+“I was hoping you had a second theory.”
 
-“he have none.”
+“I have none.”
 
-“Good. That makes two of them.”
+“Good. That makes two of us.”
 
 He glanced toward the alignment clamp.
 
 “That wasn't sigilcraft.”
 
-“he know.”
+“I know.”
 
 “You didn't shape through a tool.”
 
@@ -355,13 +357,13 @@ He glanced toward the alignment clamp.
 
 “No.”
 
-The worker looked at Red for another second.
+He looked at him for another second.
 
 “Strange magic.”
 
 “That's currently the leading explanation.”
 
-The worker walked away. Not exactly a scholarly breakthrough. Still useful. The crew finished the repair before noon. They replaced the damaged surface boards, checked the brace twice, reset the drainage edge, and tested the approach with the unloaded repair wagon before allowing normal traffic through.
+He walked away. Not exactly a scholarly breakthrough. Still useful. The crew finished the repair before noon. They replaced the damaged surface boards, checked the brace twice, reset the drainage edge, and tested the approach with the unloaded repair wagon before allowing normal traffic through.
 
 Nobody asked him to hit anything else. Probably sensible. The foreman walked the repaired section once, checked the alignment bar, then waved the first waiting caravan forward. The wagon crossed slowly. The bridge held.
 

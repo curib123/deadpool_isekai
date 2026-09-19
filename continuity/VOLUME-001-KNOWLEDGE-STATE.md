@@ -390,7 +390,8 @@ He knows:
 - Greywake;
 - the World System exists;
 - two independent System interfaces fail on him;
-- his alias is manual, not System identity;
+- Red Jackal is a consciously chosen persona name and remains manual, not System identity;
+- he has directly observed Fourth-Wall Pause behavior but does not understand its mechanism;
 - F-001's observable pattern has occurred;
 - Maelis intends a controlled follow-up;
 - he remains restricted by Unverified Entrant status.
@@ -472,6 +473,7 @@ After CH-003, Red Jackal canonically knows:
 - that mana interaction still does not produce a valid System MP field;
 - a functioning Certified Identity Slate still returns the locked undefined identity state after a recognized control subject passes;
 - simple local device malfunction is no longer a sufficient explanation for his identity failure;
+- the contrast between measurable physical existence and absent System identity is now directly established;
 - his Unverified Entrant restrictions remain unchanged;
 - standard registered guild work remains blocked;
 - Roadmaster Rovan Hesk is willing to discuss privately arranged paid work.

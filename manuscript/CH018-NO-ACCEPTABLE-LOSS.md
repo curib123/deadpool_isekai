@@ -1,12 +1,16 @@
 # Chapter 18 — No Acceptable Loss
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** STUDIO CINEMATIC RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 3,219  
 **Chapter QA:** `qa/CH-018-GATE-9-CHAPTER-QA.md`
 
-By the time the emergency route board had collected enough new markers to become useful, it had also collected enough new markers to become depressing. Tavian stood over the table with both hands planted beside the map. Brynn had moved three militia tokens since he arrived. Maelis had added a second stack of copied route records. Hesk stood on the opposite side with the expression of a man watching other people use his tools incorrectly.
+The emergency route board was crowded with markers.
 
-He stayed where Tavian had told him to stay.
+Tavian stood over it with both hands on the table. Brynn moved another militia token. Maelis added a second stack of copied records.
+
+Hesk watched from the opposite side.
+
+Red stayed where Tavian had told him to stay.
 
 That was new.
 
@@ -90,21 +94,17 @@ Tavian looked at the latest markers.
 
 “Also unacceptable.”
 
-That was the problem.
+Three bad answers sat on the map.
 
-Three answers.
+Pull everyone inward.
 
-Abandon the outer homesteads and pull everyone toward Greywake. Restore the old lure pattern and push danger back toward them. Wait until they understood every route, every lure, every species movement, every possible consequence.
+Restore the old lure pattern.
 
-The first treated people as cargo.
+Wait for perfect information they did not have time to get.
 
-The second treated them as acceptable loss.
+Red looked at the markers.
 
-The third required time they did not have.
-
-He looked at the map. Normally this was the point where he would suggest breaking something. He had recently gathered evidence that this was not always helpful.
-
-So he kept his mouth shut. Tavian noticed. He looked at him once.
+For once, he did not suggest breaking anything. Tavian noticed. He looked at him once.
 
 Then back at the map.
 
@@ -144,9 +144,9 @@ Hesk’s head turned.
 
 “Because she knows which parts of your paperwork mean what.”
 
-He almost objected. Almost. Then he stopped.
+Hesk opened his mouth.
 
-That was becoming a pattern around Maelis. Jessa arrived with two guards and no confidence that being summoned to another emergency table would improve her life. She paused when she saw Hesk.
+Then closed it. Jessa arrived with two guards and no confidence that being summoned to another emergency table would improve her life. She paused when she saw Hesk.
 
 Then Maelis. Then him. Her shoulders tightened.
 
@@ -252,11 +252,7 @@ Hesk’s expression tightened.
 
 “Estimate based on standard load.”
 
-Maelis wrote it separately. He watched the map change.
-
-Not into certainty.
-
-Into categories.
+Maelis wrote it in a separate column.
 
 Known site.
 
@@ -268,7 +264,9 @@ Confirmed active.
 
 Field report pending.
 
-It was slower than guessing. It was also much harder to lie to. Jessa pointed to two sector marks.
+The board became slower.
+
+And more honest. Jessa pointed to two sector marks.
 
 “These entries use the same crew code.”
 
@@ -304,9 +302,13 @@ Maelis looked at him.
 
 “We are discussing a crisis caused partly by people treating likely as certain when it was convenient.”
 
-No one improved that sentence by adding anything. Jessa kept working. Within half an hour, they had something better than a map.
+No one answered.
 
-They had an incomplete map that admitted it was incomplete. Known lure sectors. Recent route sightings.
+Jessa kept working.
+
+Soon the table held something more useful than certainty:
+
+an incomplete map that admitted it was incomplete. Known lure sectors. Recent route sightings.
 
 Greywake-facing pressure. Blocked or damaged roads. Outer settlements.
 
@@ -344,9 +346,9 @@ Tavian’s finger stopped on an older line north of the active routes. He recogn
 
 Broken North.
 
-He had seen that road when it was still mostly useful as evidence. Old packed stone. Collapsed drainage.
+Red saw the old road in his head.
 
-Roots lifting what remained. A washout large enough that four people had needed him to hold one cracked ledge together for a few seconds. A recently serviced march-lure hidden behind old stone.
+Broken drainage. Roots under stone. The washout. The hidden march-lure.
 
 Tavian traced the route.
 
@@ -396,9 +398,11 @@ Tavian looked at him.
 
 “I found a direction.”
 
-That was different.
+Red looked at Tavian.
 
-Important difference.
+A direction.
+
+Not a solution.
 
 Hesk pointed at Broken North.
 
@@ -420,9 +424,9 @@ Tavian looked at him. He shook his head.
 
 “Do not ask me.”
 
-He did not.
+Red kept his mouth shut.
 
-Progress continued.
+Progress.
 
 “We need Kellan.”
 
@@ -506,9 +510,11 @@ He looked at him.
 
 “I was having a bad week.”
 
-That one almost got him. Almost. Sela looked at both of them.
+Red almost smiled.
 
-The almost disappeared. Kellan continued.
+Sela looked at both of them.
+
+He stopped. Kellan continued.
 
 “You cannot ask that lip to take sustained traffic.”
 
@@ -544,7 +550,9 @@ Sela looked at him.
 
 “He is right.”
 
-He looked around. This was apparently what cooperation felt like: constant professional disappointment. Sela came around the cot and checked Kellan’s pulse.
+Red looked around.
+
+Apparently cooperation meant being corrected by specialists from several directions at once. Sela came around the cot and checked Kellan’s pulse.
 
 “That is enough.”
 
@@ -626,17 +634,19 @@ Tavian pointed to Broken North.
 
 “That is why the alternative has to be physically easier.”
 
-The plan started becoming real.
+The plan took shape on the table.
 
-Not elegant.
+Clear brush and drainage.
 
-Real.
+Brace the washout.
 
-Clear brush and drainage. Brace the washout. Open the old connectors enough that movement does not hit a dead end.
+Open the old connectors.
 
-Use barriers where a side route might spill toward farms. Use lure pressure in short controlled windows. Watch actual movement.
+Use short lure windows only where field teams confirmed the route.
 
-Stop or change the sequence if the animals do something different. Brynn divided the work.
+Watch the animals.
+
+Change the plan when the animals changed theirs. Brynn divided the work.
 
 “Militia protects the crews and controls civilian routes.”
 
@@ -794,7 +804,9 @@ Nobody improved that either. Jessa finished the schedule draft. Maelis checked t
 
 Tavian reviewed the movement reports again. Brynn counted crews. He stood at the edge of the table and did not touch anything unless someone asked him to.
 
-This was much less satisfying than taking control. It was also working better. The final decision came when Tavian placed one marker at the entrance to Broken North and another at the far connector.
+Red said nothing.
+
+Annoyingly, that was helping. The final decision came when Tavian placed one marker at the entrance to Broken North and another at the far connector.
 
 “If we can make this continuous enough,” he said, “and keep the populated approaches under controlled pressure, the animals have somewhere else to go.”
 
@@ -856,12 +868,16 @@ Maelis separated authorization sheets. Tavian began listing the first route conf
 
 He did not need to. He just needed to obey the limits around it. He stayed where he was until Tavian pushed the copied Broken North sketch toward him.
 
-Three marks had been drawn along the damaged road. Temporary support points. Not the route.
+Three marks had been drawn along Broken North.
+
+Temporary support points.
+
+Not the road.
 
 Not the solution.
 
 Support.
 
-He could work with that.
+Red picked up the copied sketch.
 
-For once, nobody was asking who had to be sacrificed. They were going to build somewhere else for the danger to go.
+This time, the plan was to make somewhere else for the danger to go.

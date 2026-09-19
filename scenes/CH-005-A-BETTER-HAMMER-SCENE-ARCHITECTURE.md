@@ -3,7 +3,7 @@
 **Volume:** 1 — Greywake Arc  
 **Chapter:** CH-005 — A Better Hammer  
 **Phase:** Detailed Scene Architecture  
-**Status:** PROPOSED FOR PRE-MANUSCRIPT SCENE QA  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-005 MANUSCRIPT AUTHORIZED  
 **Final Scene Count:** 5  
 **POV:** Red Jackal first person  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
@@ -1227,3 +1227,20 @@ Pre-Manuscript Scene QA must verify:
 - CH-006 does not begin;
 - no final dialogue/manuscript prose exists;
 - Volume 2 remains unselected.
+
+
+# 15. Gate 8 Result
+
+**PASS**
+
+Formal QA record:
+
+`qa/CH-005-PRE-MANUSCRIPT-SCENE-QA.md`
+
+The five-scene CH-005 architecture is locked.
+
+The only authorized next production step is:
+
+**Draft the actual CH-005 manuscript — A Better Hammer.**
+
+Do not draft CH-006 and do not create CH-006 Scene Architecture.

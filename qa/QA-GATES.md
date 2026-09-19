@@ -226,6 +226,11 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO SCENE ARCHITECT AND R
 - paragraphs normally multi-sentence?
 - one-line paragraphs reserved for real impact, danger, realization, important System output, emotional exposure, quiet emphasis, or a genuinely effective comic beat?
 - no robotic/excessively fragmented prose?
+- cinematic scene readability?
+- can the reader clearly picture movement, positioning, expressions, and the key visual beat?
+- does action appear before unnecessary explanation when practical?
+- do scene openings avoid excessive warm-up?
+- do scene endings stop after the strongest line/image instead of explaining it again?
 
 ## Comedy / References
 - does comedy come from character and situation rather than forced joke construction?

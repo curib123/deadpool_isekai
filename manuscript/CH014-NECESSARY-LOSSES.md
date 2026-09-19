@@ -151,7 +151,7 @@ His voice stayed even.
 
 “No caravan reached Greywake for weeks.”
 
-He watched him. There was no performance in it. That made it harder to dismiss.
+Red watched Hesk. There was no performance in it. That made him harder to dismiss.
 
 “Two supply wagons disappeared before anyone outside Greywake understood the road was gone. One relief caravan turned back. Another never left because Valedorn officials had not agreed whether reopening the route was worth the cost.”
 

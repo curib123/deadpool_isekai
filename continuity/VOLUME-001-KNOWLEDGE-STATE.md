@@ -5479,7 +5479,7 @@ Broken North is not canonically selected as the solution until CH-018 architectu
 # CH-018 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-018 — No Acceptable Loss  
-**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+**Status:** SUPERSEDED BY CH-018 CANON CHECKPOINT
 
 ## Opening State
 
@@ -5683,3 +5683,221 @@ CH-018 manuscript, if approved later, must end with the coalition committing to:
 **redirect the surge through Broken North instead of sacrificing the outer homesteads.**
 
 Until the manuscript passes Gate 9, this remains architecture support rather than canon.
+
+# CH-018 Canon Checkpoint
+
+**Chapter:** CH-018 — No Acceptable Loss  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH018-NO-ACCEPTABLE-LOSS.md`  
+**QA:** `qa/CH-018-GATE-9-CHAPTER-QA.md`
+
+## Third-Option Planning — CANON
+
+CH-018 canonically rejects three insufficient standalone strategies:
+
+1. abandoning/pulling back from outer communities as the main solution;
+2. restoring Hesk's previous high-strength sacrificial lure pattern;
+3. waiting for perfect network knowledge while backflow is already advancing.
+
+The coalition instead commits to:
+
+**build a non-inhabited migration corridor using incomplete but current shared information, controlled known-lure timing, physical road preparation, militia route control and bounded temporary support.**
+
+## Broken North Selection — CANON
+
+Broken North is now canonically selected as the planned migration-redirection corridor.
+
+Selection is based on existing evidence:
+
+- low current habitation compared with active farm routes;
+- old connection to three minor routes;
+- prior migration drift through the area;
+- known march-lure infrastructure;
+- old road/watch/drainage works;
+- geographic continuity away from populated approaches.
+
+Broken North is not yet ready.
+
+Canon limitations remain:
+
+- washouts;
+- cracked road lip;
+- damaged retaining works;
+- blocked drainage;
+- forest/root encroachment;
+- bottleneck/spill risk;
+- elevated monster pressure.
+
+CH-019 owns physical preparation.
+
+## Jessa Vale — Operational Planning State
+
+Jessa canonically contributes through:
+
+- route-sector codes;
+- service schedules;
+- crew codes;
+- supply/issue records;
+- recent/old/uncertain record classification;
+- cross-checking likely operational sequences.
+
+She correctly distinguishes:
+
+- compound issued vs confirmed used;
+- recent record vs current field state;
+- likely sequence vs proven fact.
+
+Jessa does not know:
+- the complete lure network;
+- every hidden site;
+- full ecology;
+- CH-020 hidden retained lure stock.
+
+Her CH-020 complicity break remains unresolved.
+
+## Kellan Dorr / Sela Arven — Post-CH-018 State
+
+Kellan remains:
+
+- splinted;
+- unable to bear weight;
+- medically limited;
+- exhausted/in pain.
+
+He canonically provides a short supervised consultation only.
+
+His knowledge contribution includes:
+
+- old Broken North connector history;
+- washout/retaining/drainage failure points;
+- broad material/work needs:
+  - timber;
+  - rope;
+  - stone/aggregate;
+  - hand tools;
+  - drainage clearing;
+  - temporary bracing.
+
+Sela canonically limits his consultation and removes him from further participation.
+
+No recovery timetable is established.
+
+Sela also reinforces that Red is recovering but not fully recovered.
+
+## Tavian Rook — Redirection Design CANON
+
+Tavian canonically leads the ecological plan.
+
+The current plan:
+
+- uses current field reports rather than old assumptions;
+- uses selected **known** lure sites only;
+- requires field confirmation before lure adjustment;
+- uses controlled timing/strength rather than maximum long-duration pressure;
+- makes populated approaches less attractive;
+- leaves Broken North as the intended lower-resistance corridor;
+- keeps observation/abort/revise conditions active.
+
+Tavian does not claim perfect prediction.
+
+## Captain Brynn Alder — Deployment CANON
+
+Brynn canonically assigns:
+
+- militia protection for work crews;
+- civilian-route control;
+- warning runners;
+- fallback evacuation;
+- continued authority to revise/abort if civilians become exposed.
+
+She formally authorizes Broken North preparation.
+
+## Maelis Orra — Emergency Audit Structure CANON
+
+Maelis canonically requires:
+
+- recorded authorization for lure adjustments;
+- Guild technician participation;
+- militia witness;
+- Tavian/current-route confirmation;
+- post-action records;
+- shared custody/copies.
+
+Emergency lure use does not retroactively legitimize Hesk's hidden policy.
+
+## Rovan Hesk — Post-CH-018 State
+
+Hesk canonically:
+
+- argues Broken North is damaged and may bottleneck;
+- argues the plan risks main-road resources;
+- keeps centralized main-road-first restoration as his preferred fallback;
+- remains technically relevant;
+- does not regain unilateral operational authority;
+- does not reveal CH-020 hidden retained lure stock.
+
+His objections remain credible even though his acceptable-loss fallback remains rejected.
+
+## Red Jackal — Practical Cooperation CANON
+
+Red canonically:
+
+- does not seize the planning room;
+- accepts specialist leadership;
+- accurately describes only what he can support;
+- admits he cannot support an entire road;
+- accepts a narrow temporary-support role;
+- allows his capacity to be constrained by Tavian/Sela.
+
+Planned future Stage I support points include:
+
+- temporary road-lip brace;
+- short ramp;
+- local barrier;
+- temporary worker support.
+
+No actual Play Logic manifestation occurs in CH-018.
+
+## Power / Mystery State After CH-018
+
+No Play Logic manifestation occurs.
+
+F-ID state remains:
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+M-007 does not advance.
+
+No Fate, Great Design, Eidrathi, System-origin, Play-Logic-origin or future-destination material is introduced.
+
+## CH-019 Handoff
+
+The authoritative next chapter is:
+
+**CH-019 — Build the Wrong Road**
+
+CH-019 may begin with:
+
+- Broken North canonically selected;
+- physical corridor preparation authorized;
+- Kellan's structural notes available;
+- Tavian's route/redirection requirements available;
+- Brynn's work/militia allocations active;
+- Maelis's shared lure-adjustment oversight active;
+- Jessa's schedule/log cross-check role active;
+- Red assigned bounded temporary-support points;
+- backflow still advancing.
+
+CH-019 owns:
+
+- brush/drainage clearing;
+- roadbed/washout work;
+- temporary braces/ramps/barriers/tools;
+- work under localized monster pressure;
+- repeated Stage I support under exhaustion;
+- corridor becoming barely viable.
+
+CH-020 hidden retained lure stock/evidence conflict remains protected.

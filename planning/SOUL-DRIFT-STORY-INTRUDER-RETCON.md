@@ -135,6 +135,44 @@ Red can break the expected scene.
 
 He should not break story continuity.
 
+# 8A. False-Main-Character Rule
+
+Red is the reader-facing focal character of this series, but he is not the native chosen Hero of Veyr.
+
+When he enters a native Hero/Villain beat, he is allowed to dominate the *presentation* so strongly that witnesses or readers temporarily feel as if the scene belongs to him.
+
+That effect is intentional.
+
+However:
+- the registered Hero remains legitimate;
+- the Hero Party retains independent objectives;
+- the Main Villain retains a campaign independent of Red;
+- local villains do not all become Red's personal villains;
+- off-screen events continue;
+- Red does not inherit every prophecy, quest, rivalry, romance, or political obligation simply because he appeared.
+
+Red can look like the main character of somebody else's scene without becoming the person that scene was originally about.
+
+# 8B. Controlled Chaos / Unexpected Turn Rule
+
+At least some Red-heavy chapters should contain an **earned unexpected turn** created by Red's choices.
+
+The surprise must come from character logic, not arbitrary author intervention.
+
+Valid causes:
+- boredom;
+- curiosity;
+- ego;
+- self-interest;
+- protecting chosen people;
+- wanting better theater;
+- wanting to see the enemy's full act;
+- refusing destiny or ownership;
+- exploiting a trope he recognizes;
+- misunderstanding the native situation.
+
+Every unexpected turn must leave a causal footprint that future beats acknowledge.
+
 # 9. Greywake Retcon Overlay
 
 Greywake's external events stay in the same order.

@@ -3196,3 +3196,234 @@ CH-013 — **Where They Die** may now begin with:
 - no deliberate-sacrifice conclusion yet.
 
 CH-013 owns the locked midpoint proof that deliberate diversion exists and that someone in Greywake has been deciding where the migration's lethal pressure falls.
+
+# CH-013 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-013 — Where They Die  
+**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+
+## Opening State
+
+CH-013 begins from the CH-012 canon checkpoint.
+
+The group may enter the midpoint review knowing:
+
+- one march-lure is physically confirmed at Broken North;
+- the discovered lure was deliberately installed and repeatedly serviced;
+- one ordinary lure does not comfortably explain the full ecological/documentary pattern;
+- a larger artificial system is plausible;
+- the discovered lure's protected side favors the Main Caravan Road;
+- its displacement side points toward outer roads and settlements;
+- Red Jackal's prior off-book assignments overlap exposed corridors;
+- Hesk issued an immediate Guild custody/record restriction response;
+- Brynn established neutral preservation;
+- exact network size, full authorship, and deliberate-sacrifice intent remain unproven.
+
+## Allowed CH-013 Midpoint Discoveries
+
+An approved CH-013 manuscript may establish:
+
+- multiple diversion deployments/service events existed beyond the single Broken North lure;
+- those deployments were coordinated through Road Guild route-management operations;
+- exact total lure count and full network geometry remain incomplete;
+- recurring service timing aligns with the persistent migration drift;
+- main-road protection repeatedly corresponds with increased outer-route exposure/loss patterns;
+- Hesk's Roadmaster authority materially approved/maintained the diversion policy;
+- leadership knew diversion moved risk elsewhere;
+- the policy continued while outer-route consequences were visible;
+- deliberate migration diversion therefore exists;
+- the outer communities were repeatedly placed on the exposed side of that policy;
+- Red Jackal recognizes the same usefulness/expendability logic in his irregular-labor status;
+- Hesk may now treat Red Jackal as a threat to operational control;
+- Brynn may now treat the issue as a settlement/public-safety problem rather than only Guild procedure.
+
+## Midpoint Proof Requirement
+
+The locked midpoint must be earned through all three:
+
+1. **Physical/ecological evidence**
+   - lure orientation;
+   - persistent migration drift;
+   - multiple coordinated diversion points consistent with the observed pattern.
+
+2. **Documentary/operational evidence**
+   - recurring diversion-equipment service/supply/dispatch records;
+   - route/casualty/reclassification timing;
+   - policy-level authorization structure.
+
+3. **Decision/knowledge evidence**
+   - Hesk/Roadmaster-level policy responsibility;
+   - knowledge that risk was moved away from the protected main road;
+   - continued policy despite visible outer consequences.
+
+No single confession is enough.
+
+## Network Boundary
+
+CH-013 may prove:
+- a coordinated lure/diversion system exists;
+- more than one deployment/site has existed or been serviced.
+
+CH-013 must not yet establish:
+- exact total lure count;
+- exact location of every lure;
+- complete migration-network geometry;
+- exact current state of every device;
+- exact consequence of disabling one lure.
+
+Detailed shutdown/backflow logic remains protected for CH-014/CH-015.
+
+## Hesk Boundary
+
+CH-013 may establish Hesk's **policy-level responsibility**.
+
+Allowed:
+- Hesk approved/maintained diversion operations;
+- Main Caravan Road protection was deliberate;
+- Hesk knew risk moved elsewhere;
+- Hesk knew outer-route consequences were recurring;
+- Hesk continued/defended the policy;
+- Hesk may call the system emergency frontier management.
+
+Do not require:
+- personal installation of every lure;
+- personal servicing of every lure;
+- personal selection of each casualty;
+- exact knowledge of every death.
+
+CH-013 reveals **responsibility**.
+
+CH-014 owns the deeper **necessity/survivability argument**.
+
+## Jessa Vale Boundary
+
+Jessa remains a complicity witness.
+
+She may know:
+- recurring diversion-equipment supply/service records;
+- route closures/service dispatches;
+- ordinary approval/authorization structure;
+- casualty/unresolved reclassification fragments;
+- which office held authority over operational instructions.
+
+She does not know:
+- every lure site;
+- full ecology;
+- Hesk's private thoughts;
+- hidden series truths.
+
+Her younger siblings/employment dependence remains active.
+
+Red Jackal must not force her testimony.
+
+## Maelis Orra Boundary
+
+Maelis may:
+- combine records previously separated by category;
+- establish that the repeated pattern is not comfortably explained by random clerical error;
+- identify policy-level authorization;
+- become openly adversarial after evidence supports the conclusion.
+
+She remains responsible for separating:
+- fact;
+- inference;
+- attribution.
+
+## Tavian Rook Boundary
+
+Tavian may establish:
+- multiple maintained diversion points are consistent with deliberate route manipulation;
+- the migration is being redirected rather than naturally worsening;
+- animals are influenced, not perfectly controlled.
+
+He must not yet explain detailed backflow consequences.
+
+## Kellan Dorr Boundary
+
+Kellan may:
+- identify inhabited outer routes/homesteads behind abstract map sectors;
+- insist the exposed side contains actual communities;
+- react angrily.
+
+His suspicion does not replace proof.
+
+## Captain Brynn Alder Boundary
+
+Brynn may move from:
+**Guild dispute**
+to:
+**settlement/public-safety governance problem.**
+
+She may not yet:
+- resolve arrest;
+- resolve final network policy;
+- become Red Jackal's follower.
+
+## Red Jackal Boundary
+
+Red may realize Hesk's logic categorizes:
+
+- protected infrastructure as necessary;
+- outer routes as more expendable;
+- irregular/unregistered workers as easier to use;
+- Red Jackal as useful because normal protections do not fit him.
+
+Red must retain the distinction:
+
+**he knowingly accepted dangerous work, but he did not knowingly accept hidden route-risk manipulation.**
+
+His anger is about imposed expendability and agency.
+
+He does not become a conventional lawful hero.
+
+## Play Logic / Regeneration Boundary
+
+CH-013 contains:
+- no Play Logic attempt;
+- no manifestation;
+- no regeneration event;
+- no combat;
+- no new M-005 clue.
+
+F-003 remains **PLANTED — CH-007**.  
+F-004 remains **PLANTED — CH-005**.
+
+## F-ID State
+
+No new F-ID is authorized.
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+## M-007 State
+
+M-007 remains inactive.
+
+## Locked CH-013 Ending
+
+An approved CH-013 manuscript must end with the midpoint truth becoming undeniable:
+
+**someone in Greywake has been deliberately deciding where the monster migration kills people.**
+
+Interpretation lock:
+
+This means **policy-level allocation of lethal migration risk**.
+
+It does not mean:
+- Hesk personally selected each dead person;
+- every casualty is proven lure-caused;
+- every lure location is known.
+
+## CH-014 Protection
+
+CH-013 must stop before fully debating:
+- whether the diversion policy was necessary;
+- whether removing it now is survivable;
+- Hesk's full winter-isolation history;
+- charter/funding strategy;
+- exact backflow risk;
+- full shutdown strategy.
+
+Those belong to CH-014 — **Necessary Losses**.

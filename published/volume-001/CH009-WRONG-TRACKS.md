@@ -1,4 +1,4 @@
-# Chapter 9 — Wrong Tracks
+Chapter 9 — Wrong Tracks
 
 Tavian found me the next morning before I found breakfast. This was already a point against him. I had just stepped out from the room I was temporarily using when he appeared at the end of the lane with his polearm over one shoulder and a small field pack at his side. A round metal token hung from one strap. Wayfarer Tongue Token. Charged. That meant he planned to take me somewhere far enough from carts, clerks, and other convenient translation devices that conversation would otherwise become mostly pointing. I looked at the pack.
 

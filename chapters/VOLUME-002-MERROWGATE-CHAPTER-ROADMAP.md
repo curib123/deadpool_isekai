@@ -5,7 +5,7 @@
 **Destination:** DEST-002 — Merrowgate  
 **Arc:** Merrowgate Arc  
 **Phase:** Chapter Roadmap  
-**Status:** GATE 7 PASS — CHAPTER ROADMAP LOCKED / CH-027 THROUGH CH-050 AUTHORIZED FOR SEQUENTIAL GATE 8 PRODUCTION  
+**Status:** GATE 7 PASS — CHAPTER ROADMAP LOCKED / CH-027 GATE 8 PASS / MANUSCRIPT DRAFT AUTHORIZED  
 **Final Chapter Count:** 24  
 **Series Chapter Range:** CH-027 through CH-050  
 **POV:** Red Jackal first person throughout  
@@ -837,4 +837,6 @@ For each chapter:
 
 Do not build detailed scenes for a later chapter before the active chapter passes its required production gate unless a later explicit production policy authorizes parallel work.
 
-**Official next step:** CH-027 — Salt in the Air → Detailed Scene Architecture → Gate 8.
+**CH-027 Scene Architecture:** PASS — GATE 8 / SC-027-01 THROUGH SC-027-05 LOCKED.
+
+**Official next step:** CH-027 — Salt in the Air → Manuscript Draft.

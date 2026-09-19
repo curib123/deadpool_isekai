@@ -514,7 +514,7 @@ The supervisor looked at him.
 
 “And the Guild doesn't control whether we believe you.”
 
-That was when Captain Brynn Alder arrived. She came with two militia members and the expression of someone who had been told there was a possible armed dispute involving him and had immediately regretted waking up. Her eyes moved across the group. Guild. Maelis. Tavian. Kellan. him. She stopped on him.
+That was when Captain Brynn Alder arrived. She came with two militia members and the expression of someone who had been told there was a possible armed dispute involving him and had immediately regretted waking up. Her eyes moved across the group. Guild. Maelis. Tavian. Kellan. Red. She stopped there.
 
 “Why are you in the middle?”
 

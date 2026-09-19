@@ -23,7 +23,7 @@ They ignored him. Good team. The task was simple. Check three warning markers. R
 
 No bridge. No caravan full of civilians. No predator tracks crossing six ways through the mud. At least, that had been the plan. Tavian had come because one of the track lines he was following crossed near the connector. He was not officially part of the maintenance crew, which he had explained twice without being asked.
 
-He was beginning to suspect independence was important to him.
+Red was beginning to suspect independence mattered to Tavian.
 
 “You're staring at dirt again,” he said.
 
@@ -31,7 +31,7 @@ He was beginning to suspect independence was important to him.
 
 “Dirt with paperwork.”
 
-He looked at him. He took that as a successful conversation. One of the workers laughed quietly. Tavian stood and wiped mud from his glove. “Nothing fresh.”
+Tavian looked at Red. Red took that as a successful conversation. One of the workers laughed quietly. Tavian stood and wiped mud from his glove. “Nothing fresh.”
 
 “That sounds good.”
 

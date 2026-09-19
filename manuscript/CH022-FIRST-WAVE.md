@@ -1,6 +1,6 @@
 # Chapter 22 — First Wave
 
-**Status:** DRAFT — GATE 9 NOT YET RUN  
+**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED  
 **Word Count:** 3,004
 
 The first mass did not charge us. It came out of the trees in layers.

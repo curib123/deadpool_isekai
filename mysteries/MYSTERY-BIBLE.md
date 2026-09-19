@@ -893,7 +893,6 @@ Each entry below records its current foreshadowing state. New F-IDs begin as **P
 **First interpretation:** “the plot correcting itself.”  
 **Hidden meaning:** adaptive Fate and coherence pressure.  
 **Eligible window:** RW-2 / RW-3.  
-**Volume 2 Planning:** SELECTED — MERROWGATE ARC / GATE 6.  
 **Status:** PLANNED — NOT YET PLANTED.
 
 ## F-007 — Ashfall Maps Contradict Each Other
@@ -930,7 +929,8 @@ Each entry below records its current foreshadowing state. New F-IDs begin as **P
 **First interpretation:** obsolete scholarly vocabulary.  
 **Hidden meaning:** modern System reliability was engineered and synchronized.  
 **Eligible window:** RW-2 / RW-3.  
-**Volume 2 Planning:** SELECTED — MERROWGATE ARC / GATE 6.  
+**Volume 2 Planning:** SELECTED — MERROWGATE ARC / GATE 7.  
+**Planned chapter:** CH-038 — Old Words, New Ledger.  
 **Status:** PLANNED — NOT YET PLANTED.
 
 ## F-011 — Gate Infrastructure Treats Him as Cargo Before Traveler
@@ -1242,7 +1242,7 @@ Status changed after approved CH-007 manuscript prose contained both components 
 
 # 15. Volume 2 Mystery Deployment — Merrowgate Arc
 
-**Status:** GATE 6 PLANNING ASSIGNMENT — NO NEW F-ID PLANTED
+**Status:** GATE 7 ROADMAP LOCKED — NO NEW F-ID PLANTED
 
 ## M-002 — Why Is Everything About Him UNDEFINED?
 
@@ -1277,10 +1277,10 @@ Not allowed:
 
 ### F-010 — Quiet Registration Records Use Older Terminology
 
-**Merrowgate Planning:** SELECTED.  
+**Merrowgate Planning:** SELECTED — CH-038 — Old Words, New Ledger.  
 **Status:** PLANNED — NOT YET PLANTED.
 
-Gate 7 may assign one planned chapter location. The clue remains unplanted until actual manuscript prose contains the approved setup and Gate 9 verifies it.
+Gate 7 has assigned CH-038 as the planned location. The clue remains unplanted until actual manuscript prose contains the approved setup and Gate 9 verifies it.
 
 No other new F-ID is authorized by Volume 2 Gate 6.
 

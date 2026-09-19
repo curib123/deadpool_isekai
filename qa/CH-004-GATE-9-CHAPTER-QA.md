@@ -1,278 +1,231 @@
 # CH-004 Gate 9 — Chapter QA
 
+**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
+**Volume:** 1 — Greywake Arc  
 **Chapter:** CH-004 — Off the Books  
-**Manuscript:** `manuscript/CH004-OFF-THE-BOOKS.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 2,838
-
-**Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A097 Prose Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A045 Antagonist Editor, A050 Mystery Director, A051 Foreshadowing Editor, A111 Logic Editor
+**Review Date:** 2026-09-20  
+**Revision Track:** Soul-Drift / Close First-Person / Final Story Engine  
+**Status:** PASS — CURRENT CANON REVALIDATED  
+**Word Count:** 2,778
 
 # Scope
 
-Gate 9 reviewed the complete CH-004 manuscript against:
+Gate 9 reviewed the rewritten CH-004 manuscript against the current Soul-Drift master retcon, final story-engine rules, locked five-scene architecture, CH-001 through CH-003 current canon, F-ID boundaries, language/literacy rules, labor/economy rules, and the CH-005 handoff.
 
-- locked CH-004 Scene Architecture;
-- CH-001 through CH-003 canon;
-- deadpan Red Jackal voice standard;
-- Character Bible;
-- Volume 1 roadmap;
-- continuity knowledge boundaries;
-- World Bible economy/language canon;
-- Systems Bible;
-- Mystery Bible;
-- Gate 9 requirements.
+# Severity Review
 
-# CRITICAL
-
+## CRITICAL
 **None.**
 
-# MAJOR
+## MAJOR
+**None unresolved.**
 
-**None.**
+### Paragraph Cadence — RESOLVED
 
-# MINOR — RESOLVED BEFORE GATE 9
+The initial final-engine draft was over-fragmented.
 
-## Prose Cadence
+Current saved manuscript:
+- 302 total prose/dialogue paragraphs;
+- 116 non-dialogue narrative paragraphs;
+- 34 single-sentence non-dialogue paragraphs (~29.3%);
+- standalone dialogue remains separated for speaker clarity.
 
-The initial draft was excessively fragmented.
+Multi-sentence narration is now the default.
 
-**Resolution:** narrative prose was normalized before Gate 9.
+**Resolution:** PASS.
 
-Final cadence:
-- 277 prose/dialogue paragraphs;
-- 91 narrative paragraphs;
-- 66 narrative paragraphs contain two or more sentences;
-- 25 narrative paragraphs are single-sentence;
-- multi-sentence narrative paragraphs are the clear default.
+# Gate 9 Review
 
-Short dialogue turns account for most remaining single-sentence paragraphs.
+| Check | Result | Evidence |
+|---|---|---|
+| Close first-person POV | PASS | Red narrates as I/me/my; no third-person Red action narration |
+| Soul-Drift compatibility | PASS | no traffic-crash residue or restored biography |
+| Chosen Red Jackal persona preserved | PASS | no contradiction with CH-002 chosen-name canon |
+| Red remains original | PASS | no copied franchise dialogue, scenes, or catchphrases |
+| Movie-like English | PASS | immediate action/reaction/dialogue structure |
+| Reader-talk restrained | PASS | two audience-facing asides only |
+| Every audience aside freezes time | PASS | both occur during explicit Fourth-Wall Pause |
+| Fourth-Wall Pause not tactically abused | PASS | commentary only; no negotiation manipulation |
+| Road Guild shown as functioning institution | PASS | caravan scheduling, repair crews, escorts, supplies, route management |
+| Hesk first direct appearance | PASS | enters through ordinary Guild authority |
+| Hesk competent and useful | PASS | practical, concise, involved in real road operations |
+| Hesk not villain-signposted | PASS | no confession, threat, sinister monologue, or hidden-policy reveal |
+| Hesk knowledge bounded | PASS | knows only Red's public/legal circumstances and wilderness survival |
+| Hesk does not know Play Logic | PASS | no manifestation/power knowledge |
+| Hesk does not know regeneration | PASS | no healing knowledge |
+| Hesk benefits from Red's legal gap | PASS | private discretionary labor bypasses unavailable normal certification |
+| Red recognizes visible exploitation | PASS | knows Hesk is using his legal gap |
+| Red accepts voluntarily | PASS | explicitly chooses because deal solves immediate needs |
+| Red's choice remains self-interested | PASS | money, food, lodging, supplies, access, mobility |
+| Red is not morally reformed | PASS | practical freedom remains central |
+| Jessa procedurally competent | PASS | explains payment/protections, route handoff, supply process |
+| Jessa discomfort remains subtle | PASS | cautious reaction only; no premature whistleblowing |
+| Jessa does not know/reveal conspiracy | PASS | no march-lure/casualty-falsification content |
+| Brynn retains independent civic role | PASS | independently checks protection/liability boundary |
+| Brynn does not forbid voluntary work | PASS | warns, then leaves choice with Red |
+| Brynn does not know hidden policy | PASS | no conspiracy accusation |
+| Wayfarer Tongue Token used | PASS | Guild speech translation remains institutional |
+| No silent literacy | PASS | notices/forms/maps remain unreadable |
+| Spoken contract terms explicit | PASS | terms are repeated aloud before acceptance |
+| Off-book does not mean undocumented | PASS | Guild records expense, supplies, work, and accepted private labor |
+| Normal certification absent | PASS | no registered Guild worker status |
+| Standard injury guarantee absent | PASS | explicit |
+| Job-linked traveler protection absent | PASS | explicit |
+| Identity-bound contract appeal absent | PASS | explicit |
+| Payment in Marks | PASS | local trade currency used |
+| Exact price table avoided | PASS | purchasing power described comparatively |
+| Advance present | PASS | Marks issued before work |
+| Basic supplies present | PASS | food, waterskin/weather covering, crew tools |
+| Deal materially useful | PASS | enough for meals/lodging and assignment readiness |
+| Deal structurally bad | PASS | risk/protection imbalance explicit |
+| No Play Logic attempt | PASS | none |
+| No manifestation | PASS | none |
+| No regeneration analysis | PASS | none |
+| No raw-power progression | PASS | no stage/level/mastery language |
+| F-001 unchanged | PASS | remains PLANTED — CH-002 |
+| F-002 unchanged | PASS | remains PLANTED — CH-003 |
+| F-003 protected | PASS | no healer/regeneration clue |
+| F-004 protected | PASS | no intentional manifestation or spell-grammar clue |
+| No new F-ID | PASS | none planted |
+| Protected mystery truth absent | PASS | no Soul Drift, Great Design, lure conspiracy, or cosmology |
+| False-main-character effect controlled | PASS | Red performs confidence, but institution/Hesk/Jessa/Brynn retain their own goals |
+| Aura farming balanced | PASS | Red postures; Hesk simply prices usefulness |
+| Greywake continues independently | PASS | Guild and caravan operations proceed before/after Red's meeting |
+| Five-scene architecture preserved | PASS | Roadmaster → offer → pay meaning → Brynn warning → first assignment |
+| CH-005 assignment locked | PASS | first light / Main Caravan Road / damaged bridge-support job |
+| CH-005 work does not begin | PASS | no travel to site, repairs, attack, or manifestation |
+| Chapter ending clean | PASS | Red leaves with advance, supplies, route card, and active assignment |
 
-## Cast Boundary
+# Fourth-Wall Pause Audit
 
-An early draft comparison referenced Maelis despite CH-004's locked participant list excluding her.
+## Pause 1 — Hesk's Assessment
 
-**Resolution:** the comparison was removed before Gate 9.
+Red notices that Hesk asks what he can do rather than what he is.
 
-Maelis does not appear in the final manuscript.
+Frozen:
+- worker carrying rope;
+- mud beneath a raised boot;
+- clerk pointing at route map.
 
-# Story
-
-| Check | Result |
-|---|---|
-| Meaningful change occurs | PASS |
-| Red Jackal gains first local paid work | PASS |
-| Hesk enters directly | PASS |
-| Jessa gains practical procedural role | PASS |
-| Brynn independently confirms risks | PASS |
-| Ending hands directly to CH-005 | PASS |
-| CH-005 itself does not begin | PASS |
-
-# Red Jackal Voice
-
-| Check | Result |
-|---|---|
-| First-person throughout | PASS |
-| Dry/deadpan internal humor | PASS |
-| Immediate experience primary | PASS |
-| Reader-talk restrained | PASS |
-| No overt comedy-performance default | PASS |
-| Self-interest remains visible | PASS |
-| Anti-villain pragmatism preserved | PASS |
-
-Humor comes from:
-- paperwork;
-- local money he does not understand;
-- practical risk;
-- literal Guild procedure;
-- understated reactions.
-
-# POV / Prose
-
-| Check | Result |
-|---|---|
-| No invisible third-person narrator | PASS |
-| Personality-filtered description | PASS |
-| Dialogue distinct | PASS |
-| Narrative paragraphing normalized | PASS |
-| No robotic narrative fragmentation | PASS |
-
-# Language / Literacy
-
-**PASS.**
-
-- a Road Guild Wayfarer Tongue Token supports spoken negotiation;
-- another Wayfarer Token supports the private office conversation;
-- Red Jackal still cannot read local notices, forms, maps, or assignment text;
-- Jessa explains terms aloud;
-- route markers use recognizable symbols;
-- written paperwork does not silently grant him literacy.
-
-# Economy / Payment
-
-**PASS.**
-
-- ordinary payment uses **Marks**, consistent with World Bible canon;
-- exact pay amount is deliberately not fixed;
-- purchasing power is described comparatively rather than through a new price table;
-- advance payment is explicit;
-- basic Guild supplies are issued;
-- the arrangement is materially useful enough to justify acceptance.
-
-# Contract / Protection Structure
+Red comments only.
 
 **PASS.**
 
-The manuscript clearly distinguishes:
+## Pause 2 — Freedom Without Protection
 
-**private irregular labor**
+After Brynn makes responsibility explicit, Red addresses the audience.
 
-from:
+Frozen:
+- Brynn;
+- Hesk mid-map movement;
+- horse tail outside.
 
-**normal identity-bound registered guild work.**
-
-Red Jackal explicitly lacks:
-- normal guild certification;
-- registered-worker status;
-- standard injury payment/guarantee;
-- normal traveler protection tied to the job;
-- identity-bound contract appeal.
-
-The Guild still records:
-- payment;
-- supplies;
-- work performed.
-
-This preserves the locked meaning of “off the books” as irregular rather than literally undocumented.
-
-# Red Jackal's Choice
+Red comments only and resumes the same instant.
 
 **PASS.**
 
-Red Jackal understands the deal is structurally bad.
+# Character Engine Review
 
-He accepts because it gives him:
-- money;
-- food/lodging access;
-- supplies;
-- local work;
-- road access;
-- a practical role unavailable through normal certification.
-
-The manuscript explicitly establishes:
-
-**the arrangement is bad and useful at the same time.**
-
-His choice is informed rather than foolish.
-
-# Rovan Hesk
-
+## Red Jackal
 **PASS.**
 
-Hesk's first direct appearance preserves his later antagonist effectiveness.
+He:
+- wants money and freedom;
+- understands the deal is bad;
+- accepts because it is useful now;
+- enjoys posture and presentation;
+- does not become naïve, heroic, obedient, or morally corrected.
 
-He appears:
-- competent;
+The chapter adds circumstances and relationships, not character reform.
+
+## Rovan Hesk
+**PASS.**
+
+Hesk's antagonist value comes from competence and institutional leverage.
+
+He is:
 - calm;
-- locally legitimate;
-- involved in real road work;
-- willing to pay;
-- direct rather than theatrical;
-- structurally exploitative without openly appearing villainous.
+- useful;
+- locally credible;
+- technically honest about the visible terms;
+- willing to use a legal/administrative gap;
+- not yet exposed as the later antagonist behind Greywake's deeper policy.
 
-He does not reveal:
-- march-lures;
-- falsified casualty reporting;
+## Jessa Vale
+**PASS.**
+
+She owns the procedural translation of the deal and protects Red from accidental ignorance without overruling Hesk.
+
+## Captain Brynn Alder
+**PASS.**
+
+She owns the civic warning and militia boundary while respecting Red's agency.
+
+# F-ID State
+
+No F-ID changes in CH-004.
+
+- **F-001 — PLANTED — CH-002**
+- **F-002 — PLANTED — CH-003**
+- **F-003 — PLANNED — NOT YET PLANTED**
+- **F-004 — PLANNED — NOT YET PLANTED**
+
+# Knowledge Boundary
+
+By the end of CH-004, Red may know:
+- Hesk is Greywake's Roadmaster and a credible, useful local authority;
+- the Guild is central to roads, bridge work, caravan movement and escorts;
+- Hesk values his usefulness and unusual legal position;
+- Hesk can authorize irregular private labor;
+- the arrangement is documented but not a normal identity-bound contract;
+- registered-worker injury protection, traveler guarantees and normal appeals do not attach;
+- payment is in Marks;
+- the advance is enough to make food/lodging practical;
+- Guild supplies are issued;
+- Brynn confirms the institutional risks are real;
+- his first assignment begins at first light on the Main Caravan Road at a damaged bridge/worksite;
+- he knowingly chose a bad-but-useful deal.
+
+He still does not know:
+- Hesk's march-lure policy;
+- casualty falsification;
 - deliberate outer-community sacrifice;
-- later scapegoat contingency.
-
-He does not know or reference:
-- Play Logic;
-- CH-001 manifestation;
-- regeneration mechanism;
-- protected anomaly truth.
-
-# Jessa Vale
+- later scapegoat plans;
+- Soul Drift;
+- why the System cannot define him;
+- why regeneration works;
+- how Play Logic works;
+- any protected cosmology.
 
 **PASS.**
 
-Jessa is:
-- administratively competent;
-- familiar with payment and certification;
-- cautious around irregular procedure;
-- accurate about missing protections.
+# Scene Compliance
 
-She does not:
-- expose the conspiracy;
-- identify deliberate casualty falsification;
-- become a whistleblower early.
+## SC-004-01 — The Roadmaster
+**PASS.** Guild legitimacy, Hesk's authority, Red's material motive and first direct assessment are all present.
 
-# Captain Brynn Alder
+## SC-004-02 — The Offer
+**PASS.** Private-labor mechanism, first assignment, missing protections and Hesk's usefulness are clear.
 
-**PASS.**
+## SC-004-03 — What the Pay Is Worth
+**PASS.** Jessa translates purchasing power and contract consequences without silent literacy or premature conspiracy disclosure.
 
-Brynn:
-- appears briefly;
-- confirms Red Jackal remains an Unverified Entrant;
-- confirms private Guild work does not create militia or registered-worker protection;
-- does not forbid voluntary private labor;
-- does not claim knowledge of Hesk's hidden policy.
+## SC-004-04 — Private Does Not Mean Protected
+**PASS.** Brynn independently confirms liability/protection limits and leaves the choice with Red.
 
-# Power
+## SC-004-05 — First Assignment
+**PASS.** Advance, supplies, route symbols, first-light reporting and damaged-bridge handoff are locked without beginning CH-005.
 
-**PASS.**
+# Canonization Decision
 
-CH-004 contains:
-- no Play Logic attempt;
-- no manifestation;
-- no diagnostic test;
-- no regeneration analysis.
+# GATE 9 — PASS
 
-# Mystery / Foreshadowing
+**CH-004 — Off the Books** is current canon under the Soul-Drift / close-first-person / final story-engine standard.
 
-**PASS.**
+No F-ID changes status.
 
-No new F-ID is introduced.
+**Official next production step:**
 
-Status remains:
-- F-001 — PLANTED — CH-002
-- F-002 — PLANTED — CH-003
-- F-003 — PLANNED — NOT YET PLANTED
-- F-004 — PLANNED — NOT YET PLANTED
+**CH-005 — A Better Hammer → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**
 
-No protected writer truth appears.
-
-# CH-005 Boundary
-
-**PASS.**
-
-CH-004 ends with:
-- first-light reporting instructions;
-- Main Caravan Road assignment;
-- damaged bridge/worksite setup;
-- supplies/advance issued.
-
-It does **not** include:
-- arrival at the bridge;
-- repair work;
-- monster pressure;
-- Play Logic experimentation;
-- F-004 planting.
-
-Those remain CH-005 material.
-
-# Gate 9 Decision
-
-# PASS
-
-CH-004 is approved for canonization.
-
-After canonization:
-- CH-004 becomes CANON;
-- no F-ID changes status;
-- the CH-004 continuity checkpoint may be recorded;
-- the next authorized production step becomes **CH-005 — A Better Hammer: Detailed Scene Architecture only**.
-
-Do not draft CH-005 manuscript before its Scene Architecture and Gate 8 Pre-Manuscript Scene QA pass.
-
-Do not select Volume 2.
+CH-028 remains paused until CH-001 through CH-027 complete this synchronization cycle.

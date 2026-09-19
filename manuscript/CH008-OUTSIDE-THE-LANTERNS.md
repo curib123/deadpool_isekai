@@ -6,7 +6,7 @@
 
 Sela had said rest. He had interpreted that as avoid getting torn open again before lunch. This seemed reasonable. His ribs disagreed. Every step down Greywake's western approach pulled faintly along his left side, not enough to stop him, just enough to remind him that the previous day had happened and his body had not filed it under resolved.
 
-The Road Guild had found him another job anyway. Of course they had. Apparently being medically confusing did not remove you from the labor pool.
+The Road Guild had found him another job anyway. Of course they had. Apparently being medically confusing did not remove him from the labor pool.
 
 He had taken it for three reasons. It paid. It got him out of Sela's treatment house before she could decide rest required supervision. And after seeing how much attention the Main Caravan Road received, he wanted to know what “less protected” actually looked like when nobody was summarizing it for him.
 

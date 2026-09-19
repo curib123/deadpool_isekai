@@ -930,6 +930,7 @@ Each entry below records its current foreshadowing state. New F-IDs begin as **P
 **First interpretation:** obsolete scholarly vocabulary.  
 **Hidden meaning:** modern System reliability was engineered and synchronized.  
 **Eligible window:** RW-2 / RW-3.  
+**Volume 2 Planning:** SELECTED — MERROWGATE ARC / GATE 6.  
 **Status:** PLANNED — NOT YET PLANTED.
 
 ## F-011 — Gate Infrastructure Treats Him as Cargo Before Traveler

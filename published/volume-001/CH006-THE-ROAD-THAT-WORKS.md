@@ -1,4 +1,4 @@
-# Chapter 6 — The Road That Works
+Chapter 6 — The Road That Works
 
 The second job sounded easier. That should have worried me. I reported to the caravan yard the morning after the bridge repair with fewer illusions about frontier work and slightly more money in my pocket. The Road Guild had apparently decided that surviving one assignment without breaking anything important qualified me for another.
 

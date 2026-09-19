@@ -382,7 +382,7 @@ There it was. Maelis did not react visibly.
 
 “Show me.”
 
-Jessa hesitated. The hesitation lasted long enough to have weight. Then she turned and walked toward the back shelving. they followed. She pulled down a narrow ledger bound in dark cloth, then another thinner packet of route reports.
+Jessa hesitated. The hesitation lasted long enough to have weight. Then she turned and walked toward the back shelving. They followed. She pulled down a narrow ledger bound in dark cloth, then another thinner packet of route reports.
 
 “This one is unresolved route loss.”
 

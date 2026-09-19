@@ -1,7 +1,8 @@
 # Chapter 2 — Undefined
 
-**Status:** CANON — VOICE REVISION UNDER GATE 9 REVIEW  
-**Revision Scope:** Voice/comedy/fourth-wall only; story canon unchanged
+**Status:** CANON — GATE 9 PASS / READER-COMPANION VOICE LOCKED  
+**Word Count:** 2,921  
+**Voice QA:** `qa/CH-002-VOICE-REVISION-GATE-9-QA.md`
 
 Civilization announced itself with smoke, wagon wheels, and a wall tall enough to make me reconsider how dangerous the forest behind me actually was. The road curved down through thinning trees toward a timber palisade, its watch platforms half-hidden in river fog while carts waited in two slow-moving lines outside the gate.
 

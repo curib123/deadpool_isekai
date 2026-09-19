@@ -5905,7 +5905,7 @@ CH-020 hidden retained lure stock/evidence conflict remains protected.
 # CH-019 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-019 — Build the Wrong Road  
-**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+**Status:** SUPERSEDED BY CH-019 CANON CHECKPOINT
 
 ## Opening State
 
@@ -6120,3 +6120,248 @@ The CH-019 manuscript, if later approved, must end with:
 - the corridor still dependent on the remaining known lure network being timed precisely.
 
 Until Gate 9, those outcomes remain architecture support rather than manuscript canon.
+
+# CH-019 Canon Checkpoint
+
+**Chapter:** CH-019 — Build the Wrong Road  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH019-BUILD-THE-WRONG-ROAD.md`  
+**QA:** `qa/CH-019-GATE-9-CHAPTER-QA.md`
+
+## Broken North Physical State — CANON
+
+Broken North is now physically prepared to a **barely viable** threshold.
+
+Canon physical changes:
+
+- lower drainage reopened enough to carry runoff away from the repaired road section;
+- major roots/brush cleared from the intended movement corridor;
+- CH-011 cracked road lip receives permanent timber/stone support;
+- Red's temporary brace is gone;
+- a secondary washed roadbed gap receives rough worker-built plank/fill footing;
+- one dangerous side spill toward inhabited routes receives a physical reclaimed-timber barrier;
+- the intended route is continuous enough for workers and animals to move through.
+
+Broken North is not:
+
+- safe;
+- stable;
+- finished;
+- restored to normal road quality;
+- suitable for normal heavy caravan traffic.
+
+Tavian canonically judges it:
+
+**continuous enough to attempt redirection.**
+
+## Resource State — CANON
+
+The full requested Guild timber/rope allotment is not released.
+
+Canon reason:
+
+- part of ordinary stock remains legitimately needed for the Main Caravan Road;
+- Brynn accepts that stripping the main road completely would be reckless;
+- outer-homestead workers supplement the project with reclaimed ordinary timber/planks/rope.
+
+No hidden-stock implication appears in CH-019.
+
+CH-020 retained lure material remains undiscovered.
+
+## Kellan Dorr — CANON Boundary
+
+Kellan does not enter Broken North.
+
+His existing notes inform:
+
+- drainage priority;
+- washout/bracing concerns;
+- connector ordering;
+- broad material needs.
+
+Current workers verify field conditions themselves.
+
+Kellan remains:
+
+- splinted;
+- non-weight-bearing;
+- under treatment.
+
+## Tavian Rook — CANON Field Role
+
+Tavian canonically:
+
+- protects migration-corridor width/continuity;
+- prevents crews from making animal bottlenecks;
+- monitors current prey/predator sign;
+- stops militia from driving animals toward populated routes;
+- determines the final corridor is barely viable enough to attempt redirection.
+
+He does not guarantee success.
+
+## Captain Brynn Alder — CANON Field Role
+
+Brynn canonically:
+
+- divides work zones;
+- maintains withdrawal routes;
+- protects crews;
+- manages material scarcity;
+- keeps the Main Caravan Road from being stripped completely;
+- coordinates localized ridge-hound pressure without turning the event into a pursuit.
+
+Militia and outer-homestead workers visibly function as one emergency labor force.
+
+## Red Jackal — Labor / Power CANON
+
+Red canonically performs ordinary labor:
+
+- carrying timber;
+- moving stone/fill;
+- clearing/hauling;
+- supporting workers under instruction.
+
+One small early labor-performance attempt receives practical correction rather than admiration.
+
+Red then uses exactly three Stage I manifestations.
+
+### Manifestation 1 — Temporary Brace
+
+At the CH-011 cracked road lip:
+
+- simple pale-grey brace;
+- temporary;
+- supports the damaged shelf while workers install permanent timber/stone support;
+- ends after physical support takes load.
+
+### Manifestation 2 — Short Ramp / Footing
+
+At the secondary washed gap:
+
+- short;
+- rough;
+- less stable than the first use;
+- carries workers/materials only;
+- ends after ordinary planks/fill establish rough footing.
+
+### Manifestation 3 — Low Barrier
+
+During localized ridge-hound/prey pressure:
+
+- low/simple;
+- visibly unstable;
+- bends one immediate hound line;
+- buys seconds for workers to clear/reposition;
+- is not an attack;
+- ends quickly.
+
+No fourth major manifestation occurs.
+
+Red explicitly recognizes the limit.
+
+## Regeneration / Exhaustion — CANON
+
+Across CH-019:
+
+- ordinary labor consumes stamina;
+- prior shoulder/side/leg strain remains;
+- repeated manifestation use produces escalating:
+  - headache/pressure;
+  - hand tremor;
+  - slower movement;
+  - worse concentration;
+  - reduced precision.
+
+A minor forearm cut begins closing abnormally.
+
+Regeneration does not restore energy.
+
+By chapter end, Red is materially exhausted and not a reliable precision resource for another major manifestation.
+
+## Localized Monster Pressure — CANON
+
+CH-019 contains a bounded field incident involving:
+
+- ordinary prey/browsing animals;
+- ridge-hounds.
+
+Tavian/Brynn/militia manage the ecological/defensive problem.
+
+Red's third manifestation only buys seconds.
+
+No new major CREATURE-ID appears.
+
+No boss fight occurs.
+
+## Hesk / CH-020 State
+
+Hesk remains off-site in CH-019.
+
+His prior main-road-first pressure is reflected only through ordinary resource allocation.
+
+CH-019 does not reveal:
+
+- hidden retained lure stock;
+- unauthorized fallback supply;
+- evidence seizure/destruction;
+- Jessa's decisive complicity break;
+- Hesk's final fallback action.
+
+Those remain available for CH-020.
+
+## Power / Mystery State After CH-019
+
+F-ID state remains:
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+M-007 does not advance.
+
+No Fate, Great Design, Eidrathi, System-origin, Play-Logic-origin or future-destination material is introduced.
+
+## Locked Ending State
+
+Broken North is:
+
+**barely viable.**
+
+Physical preparation alone is insufficient.
+
+The coalition still requires:
+
+**precise timing of the remaining known lure network so Broken North becomes the easier route when the surge reaches the decision corridor.**
+
+Canonical final beat:
+
+**“We had built the wrong road. Now we had to make the migration choose it.”**
+
+## CH-020 Handoff
+
+The authoritative next chapter is:
+
+**CH-020 — The Last Lure**
+
+CH-020 may now begin with:
+
+- Broken North physically barely viable;
+- precise lure timing now operationally critical;
+- Maelis holding audit evidence;
+- Jessa holding partial operational logs;
+- Hesk politically weakened but still technically connected to Guild resources;
+- Red exhausted from three CH-019 manifestations;
+- shared oversight still active.
+
+CH-020 owns:
+
+- Jessa discovering retained lure material sufficient for unilateral restoration;
+- securing final lure stock / route logs / authority;
+- Jessa's decisive complicity break;
+- Hesk moving to seize/destroy evidence;
+- Red using earned intimidation/protection around Jessa;
+- short human confrontation/chase;
+- Hesk escaping with access to one final field lure site or activation method.
+
+CH-021 mass surge preparation remains protected.

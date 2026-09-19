@@ -4,7 +4,7 @@
 **Destination:** DEST-001 — Greywake  
 **Arc:** Greywake Arc  
 **Phase:** Chapter Roadmap  
-**Status:** GATE 7 PASS — CHAPTER ROADMAP LOCKED / CH-001 THROUGH CH-026 CANON / GREYWAKE ARC COMPLETE  
+**Status:** GATE 7 PASS — CH-001 THROUGH CH-026 CANON / GREYWAKE ARC COMPLETE / PACING REVISION v2 ACTIVE  
 **Final Chapter Count:** 26  
 **POV:** Red Jackal first person throughout  
 **Scope:** Chapter architecture only. No full scenes, final dialogue, or manuscript prose.
@@ -40,6 +40,35 @@ It preserves:
 | V — No Acceptable Loss | 17–20 | consequence, coalition, counter-plan, antagonist pressure |
 | VI — Greywake Holds | 21–24 | evacuation, surge, climax |
 | VII — What Greywake Counts | 25–26 | aftermath, local resolution, departure |
+
+# 2A. Pacing Revision v2 Overlay
+
+The 26-chapter roadmap and all major canon outcomes remain locked.
+
+A later authorial pacing revision has been approved in:
+
+`planning/VOLUME-001-GREYWAKE-PACING-REVISION.md`
+
+QA:
+
+`qa/VOLUME-001-PACING-REVISION-PLAN-QA.md`
+
+This overlay does not reorder chapters or replace the core plot.
+
+It changes emphasis and prose pacing only after individual Gate 9 revalidation.
+
+Key revision rules:
+- CH-009–CH-013 may not read as five static investigation chapters;
+- repeated clue explanation is cut;
+- CH-014–CH-020 must convert knowledge into deadline, mistake, consequence and counter-action faster;
+- CH-020 functions as climax ignition;
+- CH-021–CH-024 form one continuous climax sequence;
+- CH-023 is expanded as the primary physical battle;
+- CH-024 remains the final human/route climax while physical danger is still active;
+- Stage I power ceiling and locked manifestation counts remain protected;
+- CH-025 and CH-026 retain their slower aftermath/departure functions.
+
+**First revision target:** CH-009 — Wrong Tracks.
 
 # 3. Foreshadowing Placement Plan
 

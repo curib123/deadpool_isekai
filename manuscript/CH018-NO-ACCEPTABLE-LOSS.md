@@ -103,7 +103,7 @@ The third required time they did not have.
 
 He looked at the map. Normally this was the point where he would suggest breaking something. He had recently gathered evidence that this was not always helpful.
 
-So he kept his mouth shut. Tavian noticed. He looked at him once.
+So Red kept his mouth shut. Tavian noticed and looked at him once.
 
 Then back at the map.
 
@@ -499,7 +499,7 @@ Brynn wrote that down. Kellan tapped the cracked section where he had used the t
 
 “Bad enough that four people crossing it was stupid.”
 
-He looked at him.
+Red looked at Kellan.
 
 “You crossed it.”
 
@@ -729,7 +729,7 @@ Tavian held up one finger.
 
 “No second use just because the first one looks useful.”
 
-He looked at him.
+Red looked at Tavian.
 
 “Do you want me on the plan or not?”
 

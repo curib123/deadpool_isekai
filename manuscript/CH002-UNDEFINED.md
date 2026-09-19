@@ -1,6 +1,6 @@
 # Chapter 2 — Undefined
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** CINEMATIC STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 2,836
 **Voice QA:** `qa/CH-002-DEADPAN-VOICE-GATE-9-QA.md`
 
@@ -8,17 +8,31 @@ Civilization announced itself with smoke, wagon wheels, and a wall tall enough t
 
 People were everywhere. Drivers checked harnesses, guards inspected loads, merchants argued over crates, and somewhere beyond the wall somebody was hammering metal with the steady confidence of a person who had not been attacked by an unidentified forest animal before breakfast.
 
-People. Walls. Probably food. Also rules. That part was less exciting. He stopped at the edge of the road and took a moment to compose himself. His sleeve was torn, dried blood marked his forearm, and mud had formed a firm alliance with the rest of his clothes.
+People. Walls. Food, probably.
 
-First impressions still mattered. He straightened his back, rolled one shoulder, and walked toward the gate as if he knew where he was going. Looking uncertain usually invites more questions.
+Rules too.
 
-Looking composed does not prevent the questions either, but it is slightly better for morale. Two guards noticed him before he reached the first wagon. One was broad enough to make the spear in his hand look decorative. The other was younger, narrower, and already staring at the blood on his sleeve.
+Red stopped at the edge of the road. Dried blood marked his torn sleeve. Mud covered one knee and most of one boot.
 
-The broad guard raised one hand and said something he did not understand. He gave him his most reasonable expression. “I'm going to assume that means welcome.” His frown deepened while the younger guard replied in the same unfamiliar language.
+He straightened his back, rolled his sore shoulder once, and walked toward the gate like he belonged in the line.
 
-He understood exactly none of it. So much for the entrance. He pointed at himself. “Red Jackal.”
+Confidence might not reduce questions.
 
-Then he pointed through the gate. The guards exchanged a look that required no translation. He repeated the gesture more slowly, because apparently that was how language worked when confidence failed. The younger guard called toward a booth built into the gate. A tired-looking attendant emerged carrying a round brass token on a cord, held it between them, and pressed his thumb to its center.
+It at least looked better while answering them. Two guards noticed him before he reached the first wagon. One was broad enough to make the spear in his hand look decorative. The other was younger, narrower, and already staring at the blood on his sleeve.
+
+The broad guard raised one hand and said something Red did not understand.
+
+Red gave him a pleasant smile. “I'm going to assume that means welcome.”
+
+The guard's frown deepened.
+
+So much for tone.
+
+Red pointed at himself. “Red Jackal.”
+
+Then through the gate.
+
+The guards exchanged a look that needed no translation. The younger guard called toward a booth built into the gate. A tired-looking attendant emerged carrying a round brass token on a cord, held it between them, and pressed his thumb to its center.
 
 A faint pressure passed through the air. Not quite sound. Not quite vibration. More like the instant before someone spoke close to his ear.
 
@@ -38,7 +52,7 @@ A faint pressure passed through the air. Not quite sound. Not quite vibration. M
 
 “Red Jackal.” He waited. The attendant waited too.
 
-“Your name,” He repeated.
+“Your name,” the attendant repeated.
 
 “That was the answer.” The younger guard made a sound the token translated mostly as disbelief. The attendant rubbed his forehead. Apparently saying it once was not enough. Fair.
 
@@ -70,7 +84,11 @@ The attendant pointed toward the gate. “This is Greywake. Entry is controlled.
 
 Greywake.
 
-There it was. A name. He looked past him at the fog-softened roofs beyond the palisade. “Greywake.” It fit the weather.
+Red looked through the gate at roofs fading into river fog.
+
+“Greywake.”
+
+The name fit.
 
 “Do you want to enter or review the naming?”
 
@@ -82,9 +100,11 @@ A merchant ahead of him stepped onto it. The grooves lit faintly, the attendant 
 
 Routine.
 
-That part mattered. Nobody reacted beyond checking the result. So this was routine.
+That mattered.
 
-Whatever this thing was, these people used it the way normal people used identification. He stepped onto the seal. The grooves brightened beneath his boots. Then they stopped.
+Nobody watched the merchant. Nobody cared.
+
+Then Red stepped onto the seal. He stepped onto the seal. The grooves brightened beneath his boots. Then they stopped.
 
 The attendant frowned and tapped the indicator. “Stay there.”
 
@@ -318,18 +338,34 @@ He could not accept normal registered guild contracts. He could not use identity
 
 “That would help,” Brynn said. The clerk almost smiled. Some of the tension left the room. The clerk gathered the failed forms into a separate stack. One copy went into a gate file. Another, she explained, would pass through normal guild administration because his restrictions prevented ordinary contract processing.
 
-He did not know who would read it. At the time, he did not care. He had more immediate problems: food, money, a roof, and some explanation for why every official tool seemed unable to decide what he was. The gate opened to the inner lane.
+The clerk filed one failed form and sent another toward Guild administration.
 
-He stepped through. Greywake was not grand. That was the first thing he noticed. It was alive.
+Red watched it disappear into the stack.
+
+Food. Money. A roof. Answers later.
+
+The inner gate opened.
+
+He stepped into Greywake.
+
+It was not grand.
+
+It was alive.
 
 Timber buildings leaned close along packed-earth streets. Lantern bridges crossed narrow drainage channels. Carts creaked through river mist while somebody hammered metal nearby and somebody else cooked something that smelled unfairly good.
 
-People moved with the practical speed of a place that expected work to be finished before the weather changed its mind. Nobody stopped to welcome him. Good enough. For the first time since waking in the forest, he was surrounded by people.
+Carts rolled through the mist. Hammers rang somewhere deeper inside. Steam rose from a food stall and made his empty stomach tighten.
 
-He should have felt safer. Instead, the wooden token in his hand suddenly felt heavier than it had any right to. The forest had tried to eat him. Greywake had done something stranger.
+Nobody stopped to welcome him.
 
-It had asked the world who he was. The world had answered:
+Good.
+
+He looked down at the wooden token in his hand.
+
+The forest had tried to eat him.
+
+Greywake had asked the world who he was.
+
+The answer was worse.
 
 No record.
-
-From a distance, it probably sounded mysterious. Standing there with the token in his hand, it mostly felt like a problem he could not file away.

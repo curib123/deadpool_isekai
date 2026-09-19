@@ -420,7 +420,7 @@ Maelis may conclude:
 
 She may not conclude:
 - foreign causal origin;
-- continuity translocation;
+- natural far Soul Drift as writer truth;
 - missing native soul-registry root as writer truth;
 - Play Logic origin;
 - regeneration mechanism;

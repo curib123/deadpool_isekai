@@ -1,7 +1,7 @@
 # Chapter 7 — You Should Be Dead
 
-**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
-**Word Count:** 4154,117  
+**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Word Count:** 4152,117  
 
 The road was supposed to be safe. Not completely safe. Greywake did not seem to believe in that kind of promise. But safe enough that the Road Guild had sent three maintenance workers, one small supply wagon, Tavian, and him instead of a full guard detail.
 
@@ -65,17 +65,17 @@ That was enough. The workers moved. He stepped away from the wagon instead. Tavi
 
 “Jackal.”
 
-“I heard you.”
+“he heard you.”
 
 “Then move with them.”
 
-“I can hold this side.”
+“he can hold this side.”
 
 “You don't know what's coming.”
 
 “Neither do you.”
 
-“I know there is more than one.”
+“he know there is more than one.”
 
 That was fair. Then the first predator broke through the brush. It was low-bodied and heavy through the chest, with long forelimbs and a jaw built for holding onto things that wanted very badly not to be held. Grey-brown hide. Scarred muzzle. Larger than the animals from yesterday.
 
@@ -99,7 +99,7 @@ Simple. Except the lead predator was already too close. It moved toward the cent
 
 “Don't overcommit.”
 
-“I've got it.”
+“he had got it.”
 
 “Hold the line. Don't chase the front.”
 
@@ -157,7 +157,7 @@ The realization hurt in a completely different place.
 
 “Tavian—”
 
-“I see him.”
+“he see him.”
 
 He drove the butt of the polearm into the animal's shoulder, forcing its jaw loose. The worker dragged himself backward. The third predator came out of the brush. Everything had become too wide. Too many angles.
 
@@ -193,7 +193,7 @@ Not his.
 
 That mattered more.
 
-“We need to leave,” Tavian said.
+“they need to leave,” Tavian said.
 
 The older worker looked at the pack.
 
@@ -207,7 +207,7 @@ The older worker looked at the pack.
 
 Tavian pointed toward the main-road direction.
 
-“You two carry him. Wagon stays. We can replace supplies.”
+“You two carry him. Wagon stays. they can replace supplies.”
 
 Nobody argued. That told him how serious the situation was. He looked at the wagon. Then at the road behind them. The connector narrowed thirty paces back where a drainage cut and stacked stone forced anything following into a tighter approach.
 
@@ -219,19 +219,19 @@ Clear purpose.
 
 This time he was not testing anything.
 
-“I can close the narrowing.”
+“he can close the narrowing.”
 
 Tavian looked at his side.
 
 “You're bleeding.”
 
-“I noticed.”
+“he noticed.”
 
 “Do not make another decision because you think bleeding only matters when it belongs to you.”
 
 That one landed.
 
-“I won't.”
+“he won't.”
 
 The lead predator moved forward. He backed toward the narrowing with everyone else. The workers lifted the injured man between them. He bit down on his sleeve to stop himself from shouting every time his leg moved.
 
@@ -263,9 +263,9 @@ Not now.
 
 The workers moved. Tavian stayed beside him.
 
-“I said go.”
+“he said go.”
 
-“I heard you.”
+“he heard you.”
 
 The pack paced behind the obstruction instead of committing. He could have left it there. He could have made it taller. Wider. Permanent-looking.
 
@@ -295,9 +295,9 @@ He saw him.
 
 “Don't.”
 
-“I can handle it.”
+“he can handle it.”
 
-“I know.”
+“he know.”
 
 That stopped him more effectively than an argument.
 
@@ -305,7 +305,7 @@ Tavian kept the polearm across his body. The older worker joined him with the sh
 
 “Then why—”
 
-“Because we are leaving.”
+“Because they are leaving.”
 
 Right.
 
@@ -323,7 +323,7 @@ One of the others tightened a cloth wrap above the wound. Tavian checked it.
 
 “Not tighter.”
 
-“We need a cart.”
+“they need a cart.”
 
 “The main road post is close.”
 
@@ -361,7 +361,7 @@ His eyes narrowed.
 
 “That is not nothing.”
 
-“I've had worse.”
+“he had had worse.”
 
 He had not. He knew it. He knew he knew it. The worker beside them made a sound through clenched teeth. The joke died before it reached his mouth.
 
@@ -383,11 +383,11 @@ People moved. No introduction. No questions about him. Good. She was already pre
 
 “Sela.”
 
-“I know what a bite looks like.”
+“he know what a bite looks like.”
 
 “Multiple predators.”
 
-“That I did not know.”
+“That he did not know.”
 
 Her hands did not stop. The treatment house smelled like boiled cloth, bitter herbs, and something sharp enough to make his nose hurt. Shelves held sealed jars, folded bandages, splints, metal instruments, and three pale crystals set into a wooden rack.
 
@@ -405,7 +405,7 @@ The assistant looked at the wound.
 
 “Only one pass?”
 
-“We still have afternoon.”
+“they still have afternoon.”
 
 That explained the crystal. Healing magic had a budget. Of course it did. Sela packed the wound, wrapped it, and secured the leg.
 
@@ -417,11 +417,11 @@ The assistant reached for a bottle. Only then did Sela look at him. Her eyes wen
 
 “The other patient—”
 
-“Is stable enough for me to look away for two minutes. Table.”
+“Is stable enough for him to look away for two minutes. Table.”
 
 He sat. That was easier than arguing. Tavian stayed near the wall. Sela cut the side seam of his coat before he could object.
 
-“I liked that coat.”
+“he liked that coat.”
 
 “You are welcome to bleed on a different one next time.”
 
@@ -477,7 +477,7 @@ Her expression did not change. She checked his breathing. Then his abdomen. Then
 
 She looked at Tavian. He shook his head.
 
-“I saw the wound after the attack. No healer.”
+“he saw the wound after the attack. No healer.”
 
 Sela's eyes narrowed. She held one hand above the injury. A small structured pattern appeared between her fingers. Different from what she had used on the worker. Thinner.
 
@@ -495,7 +495,7 @@ He gasped. The spell's light split around one edge of the injury instead of foll
 
 “That is unpleasant.”
 
-“I noticed.”
+“he noticed.”
 
 She stared at the wound. Then placed two fingers against uninjured skin nearby. No spell. Just checking.
 
@@ -503,7 +503,7 @@ She stared at the wound. Then placed two fingers against uninjured skin nearby. 
 
 Sela did not answer immediately. She looked at him.
 
-“Your tissue is changing while I examine it.”
+“Your tissue is changing while he examine it.”
 
 “That sounds positive.”
 
@@ -513,13 +513,13 @@ Less positive. She touched the wound edge again.
 
 “It is closing.”
 
-“I had gathered that.”
+“he had gathered that.”
 
 “Not like this.”
 
 The room became quieter. The worker on the other table was breathing steadily now. The assistant changed one of his bandages. Sela looked at his side, then at the dim crystals on the rack.
 
-“I started a diagnostic knit. It should map the damage and follow the wound boundaries.”
+“he started a diagnostic knit. It should map the damage and follow the wound boundaries.”
 
 “And?”
 
@@ -537,13 +537,13 @@ She looked annoyed by his agreement.
 
 “Normal healing magic does not do that unless another active healing effect is already working on the tissue.”
 
-“I don't have one.”
+“he don't have one.”
 
-“I know.”
+“he know.”
 
 “You just asked.”
 
-“And I checked.”
+“And he checked.”
 
 She ran her thumb over a small metal disk beside the table. A faint line appeared across its surface, then faded.
 
@@ -555,11 +555,11 @@ Tavian folded his arms.
 
 Sela looked at him.
 
-“If I knew, I would have said.”
+“If he knew, he would have said.”
 
 He liked her. Possibly because she was too tired to pretend certainty. She looked back at him.
 
-“An innate recovery trait. A racial trait I have not seen. Some kind of anomalous regeneration. Those are guesses.”
+“An innate recovery trait. A racial trait he have not seen. Some kind of anomalous regeneration. Those are guesses.”
 
 “Good guesses?”
 
@@ -569,17 +569,17 @@ Also fair. She examined his side once more, but she did not cast again.
 
 “You're not continuing?”
 
-“Not until I know whether forcing a normal closure pattern will interfere with whatever your body is already doing.”
+“Not until he know whether forcing a normal closure pattern will interfere with whatever your body is already doing.”
 
 That got his attention.
 
 “So healing magic could make it worse?”
 
-“I said I don't know.”
+“he said he don't know.”
 
 “Very reassuring.”
 
-“You are conscious after a wound that should have put you into shock before you reached the gate. Reassurance is not the problem I am solving.”
+“You are conscious after a wound that should have put you into shock before you reached the gate. Reassurance is not the problem he am solving.”
 
 She checked the worker again. Then came back.
 
@@ -599,17 +599,17 @@ Medical.
 
 He leaned back against the wall.
 
-“I'm getting that a lot today.”
+“he was getting that a lot today.”
 
 “No, you're not.”
 
 Sela pointed toward the other table.
 
-“He had a predator tear his leg. We controlled the bleeding, cleaned the wound, used healing mana, medicine, bandages, and a treatment table. He still has days of pain and risk ahead of him.”
+“He had a predator tear his leg. they controlled the bleeding, cleaned the wound, used healing mana, medicine, bandages, and a treatment table. He still has days of pain and risk ahead of him.”
 
 Her finger moved toward his side.
 
-“You were opened below the ribs badly enough that an ordinary patient could bleed out or lose organ function before transport. You arrived conscious, and the wound was already closing before I touched it.”
+“You were opened below the ribs badly enough that an ordinary patient could bleed out or lose organ function before transport. You arrived conscious, and the wound was already closing before he touched it.”
 
 He had no useful answer. Tavian did.
 
@@ -625,7 +625,7 @@ That sounded personal. Sela turned back to him.
 
 “Lie down.”
 
-“I am sitting.”
+“he am sitting.”
 
 “Congratulations. Lie down.”
 
@@ -639,7 +639,7 @@ He just did not like where it was going. By late afternoon, the worker was stabl
 
 Sela finally sat on the stool beside his table. Tavian remained near the wall. He had hoped he would leave. Apparently this was not his day. Sela looked at him.
 
-“Tell me exactly what you did.”
+“Tell him exactly what you did.”
 
 “That sounds accusatory.”
 
@@ -647,11 +647,11 @@ Sela finally sat on the stool beside his table. Tavian remained near the wall. H
 
 He considered improving the story. Maybe he had heroically occupied the strongest attacker while the others escaped. Technically true. Incomplete enough to be useless.
 
-“Tavian told me not to move too far forward.”
+“Tavian told him not to move too far forward.”
 
 Tavian said nothing.
 
-“I knew I could take the hit.”
+“he knew he could take the hit.”
 
 Sela's expression changed very slightly.
 
@@ -661,7 +661,7 @@ That was worse.
 
 He looked down at his side. The wound had closed further. It still hurt enough that breathing deeply was a bad idea.
 
-“I wanted to see what happened.”
+“he wanted to see what happened.”
 
 “No.”
 
@@ -673,17 +673,17 @@ That landed.
 
 He said nothing. Tavian pushed away from the wall.
 
-“When you moved forward, I had to cover your left. That opened the wagon side.”
+“When you moved forward, he had to cover your left. That opened the wagon side.”
 
-“I know.”
+“he know.”
 
 “The second animal took it.”
 
-“I know.”
+“he know.”
 
 “The worker moved because the safe lane stopped being safe.”
 
-“I know.”
+“he know.”
 
 His voice stayed controlled. That was worse than shouting. He looked toward the other table. The worker was asleep. Or unconscious.
 
@@ -733,13 +733,13 @@ He closed his eyes. His side throbbed. Every part of him felt heavy. The strange
 
 Tomorrow was going to be unpleasant. Possibly several tomorrows. Sela stood.
 
-“You are staying here until I am satisfied you are not about to collapse.”
+“You are staying here until he am satisfied you are not about to collapse.”
 
-“I have lodging.”
+“he have lodging.”
 
 “You have a treatment table.”
 
-“I paid for the lodging.”
+“he paid for the lodging.”
 
 “Then consider this a poor financial decision.”
 

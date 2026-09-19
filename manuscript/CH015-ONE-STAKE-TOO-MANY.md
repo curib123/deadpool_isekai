@@ -1,7 +1,7 @@
 # Chapter 15 — One Stake Too Many
 
 **Status:** DRAFT — GATE 9 NOT YET RUN  
-**Word Count:** 2,881
+**Word Count:** 2,870
 
 By the time we reached the upper approach, nobody was pretending this was just a mapping trip. The road narrowed above the timber-road junction and climbed between old retaining stones dark with moss. Beyond them, the land opened toward the outer farms in long uneven strips separated by low fences, drainage cuts, and tree lines.
 
@@ -321,9 +321,7 @@ Stupid. Effective.
 
 Mostly stupid.
 
-The animal hit the ground, scrambled, and snapped at my leg. Its teeth caught cloth and skin before I kicked free. More pain.
-
-Wonderful. Tavian did not waste time yelling at me. He used the opening.
+The animal hit the ground, scrambled, and snapped at my leg. Its teeth caught cloth and skin before I kicked free. More pain. Tavian did not waste time yelling at me. He used the opening.
 
 Polearm. Shoulder. Turn.
 
@@ -619,7 +617,7 @@ A wedge. A pry bar with teeth.
 
 Simple.
 
-Something formed in my hand. Dark material folded out of empty air around my grip, rough and uneven, longer than my forearm. One end flattened into a thick wedge. The other curved into a short hooked jaw that looked like a crowbar designed by someone with anger issues.
+Something formed in my hand. Dark material folded out of empty air around my grip, rough and uneven, longer than my forearm. One end flattened into a thick wedge. The other curved into a short hooked jaw built for leverage.
 
 It was ugly.
 
@@ -645,7 +643,7 @@ Then he pointed despite himself.
 
 “Not the ceramic chamber. Lower. Under the outer ring.”
 
-Useful people remained useful even when angry. I shifted the hook. The manifestation softened at the edge.
+I shifted the hook where he indicated. The manifestation softened at the edge.
 
 I forced the image clear again. Hook. Wedge.
 
@@ -663,7 +661,7 @@ The guard started forward. Kellan blocked him with both hands.
 
 Tavian did not help either of us. He watched the stake. Watched me.
 
-Watched the slope. Probably calculating how many different mistakes were happening at once. I drove the wedge under the collar.
+Watched the slope. He watched the stake, the slope, and every person around the recess. I drove the wedge under the collar.
 
 My leg shook. The bite wound had started closing, but the muscles around it felt weak. My side burned.
 

@@ -3,7 +3,7 @@
 **Volume:** 1 — Greywake Arc  
 **Chapter:** CH-006 — The Road That Works  
 **Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-006 MANUSCRIPT AUTHORIZED  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-006 MANUSCRIPT CANON  
 **Final Scene Count:** 5  
 **POV:** Red Jackal first person  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.

@@ -319,13 +319,17 @@ Gate 8 QA:
 
 `qa/CH-027-PRE-MANUSCRIPT-SCENE-QA.md`
 
-**CH-027 Manuscript:** DRAFTED — `manuscript/CH027-SALT-IN-THE-AIR.md` — 2,119 words.
+**CH-027 Manuscript:** CANON — GATE 9 PASS — `manuscript/CH027-SALT-IN-THE-AIR.md` — 2,108 words.
 
-**Canon status:** NOT YET CANON — Gate 9 pending.
+Gate 9 QA:
 
-**Official next step:** CH-027 — Salt in the Air → Gate 9 Chapter QA.
+`qa/CH-027-GATE-9-CHAPTER-QA.md`
 
-CH-028 scene architecture, later manuscript work, and Volume 3 selection remain deferred until CH-027 passes Gate 9.
+No F-ID changed status in CH-027. No M-ID advanced.
+
+**Official next step:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.
+
+Later manuscript work and Volume 3 selection remain deferred until their required gates pass.
 
 # 4B. Publication Release Workflow
 
@@ -369,7 +373,7 @@ Publication work:
 
 If a publication edit changes meaning, return it to Gate 9 and canonization first.
 
-Volume 2 / Merrowgate Arc has passed Gate 7 with CH-027 through CH-050 locked. CH-027 passed Gate 8 with five scenes locked and now has a 2,119-word manuscript draft. The active production step is CH-027 Gate 9 Chapter QA.
+Volume 2 / Merrowgate Arc has passed Gate 7 with CH-027 through CH-050 locked. CH-027 has passed Gate 9 and is CANON at 2,108 words. The active production step is CH-028 Detailed Scene Architecture / Gate 8.
 
 # 5. Scene Sheet
 Each scene has:

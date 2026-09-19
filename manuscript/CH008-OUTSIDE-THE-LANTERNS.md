@@ -5,7 +5,7 @@
 
 Sela had said rest. He had interpreted that as avoid getting torn open again before lunch. This seemed reasonable. His ribs disagreed. Every step down Greywake's western approach pulled faintly along his left side, not enough to stop him, just enough to remind him that the previous day had happened and his body had not filed it under resolved.
 
-The Road Guild had found him another job anyway. Of course they had. Apparently being medically confusing did not remove you from the labor pool.
+The Road Guild had found him another job anyway. Of course they had. Apparently being medically confusing did not remove a person from the labor pool.
 
 He had taken it for three reasons. It paid. It got him out of Sela's treatment house before she could decide rest required supervision. And after seeing how much attention the Main Caravan Road received, he wanted to know what “less protected” actually looked like when nobody was summarizing it for him.
 
@@ -13,9 +13,9 @@ None of those reasons were charity. That suited him.
 
 A charged Wayfarer Tongue Token hung from the side of the small work cart beside him. Two men walked ahead with axes and hand tools over their shoulders. A third pushed a narrow wheelbarrow loaded with iron straps, nails, rope, and pieces of reused timber.
 
-The man leading them had introduced himself as Kellan Dorr. He had looked him over once, noticed how carefully he was turning his torso, and asked, “Can you lift?” Not who are you. Not what happened to you.
+The man leading them had introduced himself as Kellan Dorr. He had looked him over once, noticed how carefully he was turning his torso, and asked, “Can you lift?” Not who he was. Not what had happened to him.
 
-Not are the stories true. Can you lift. He had liked him less immediately.
+Not whether the stories were true. Just: could he lift? Red had liked him less immediately.
 
 “I can lift.”
 

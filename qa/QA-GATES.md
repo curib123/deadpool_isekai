@@ -205,22 +205,31 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO SCENE ARCHITECT AND R
 - Is the ending earned?
 
 ## Red Jackal
-- Does he sound like himself?
+- Does he sound like the locked reader-companion voice in the Character Bible?
+- Does the chapter feel like Red Jackal is telling **us** what happened rather than merely recording private thoughts?
+- Is reader-talk present naturally across the chapter when the scene permits, rather than as a token single line?
+- Are reader-talk and private self-talk meaningfully distinct?
 - Is behavior character-driven rather than plot-driven?
 - Is chaos creative rather than random?
 - Is seriousness used deliberately?
+- If reader-talk drops during fear/grief/horror, does that reduction feel emotionally purposeful?
 
 ## POV / Prose
 - first person throughout?
-- reader-talk natural?
+- no invisible third-person narrator?
+- reader-talk natural rather than quota-driven?
 - self-talk clear?
 - dialogue distinct?
+- personality-filtered description preferred over detached exposition?
 - paragraphs normally multi-sentence?
+- one-line paragraphs reserved mainly for impact/punchline/interruption/revelation/emotion?
 - no robotic/excessively fragmented prose?
 
 ## Comedy / References
-- jokes arise naturally?
+- jokes arise from what Red Jackal genuinely finds ridiculous?
+- failed aura farming, embarrassment, genre expectations, or situational contrast used naturally where appropriate?
 - serious consequences preserved?
+- no requirement to joke in every scene?
 - references brief, transformed and situational?
 - scene understandable without recognizing reference?
 

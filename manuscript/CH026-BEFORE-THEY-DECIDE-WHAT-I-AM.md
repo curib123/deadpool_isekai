@@ -243,9 +243,9 @@ Tavian looked toward the road outside the gate.
 
 “Good.”
 
-He looked at him. There was probably a farewell available somewhere. Neither of them went looking very hard.
+Red looked at Tavian. There was probably a farewell available somewhere. Neither of them went looking very hard.
 
-“You were reliable when it mattered,” he said.
+“You were reliable when it mattered,” Tavian said.
 
 He had already said something similar. Apparently this was the expanded edition.
 

@@ -1,7 +1,7 @@
 # Chapter 20 — The Last Lure
 
-**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
-**Word Count:** 3123,014  
+**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Word Count:** 3113,014  
 
 By the time he got back from Broken North, mud had dried on his boots, his shoulders hurt from carrying half a road, and somebody had finally put a cup in his hand.
 
@@ -11,9 +11,9 @@ The bad news was that Maelis put a ledger in front of him instead.
 
 He stared at it. She stared at him.
 
-“I still cannot read Veyran.”
+“he still cannot read Veyran.”
 
-“I know.”
+“he know.”
 
 “Then this feels hostile.”
 
@@ -93,9 +93,9 @@ She tapped the first sheet.
 
 Maelis asked, “How much?” Jessa counted again. Her mouth tightened.
 
-“Enough that I noticed.”
+“Enough that he noticed.”
 
-“That is not what I asked.”
+“That is not what he asked.”
 
 Jessa looked at her. Maelis waited. Jessa counted one more time.
 
@@ -155,19 +155,19 @@ Another nod.
 
 Jessa looked up.
 
-“What happens to my Guild position?”
+“What happens to his Guild position?”
 
 Maelis did not soften the answer.
 
-“I do not know.”
+“he do not know.”
 
-“My pay?”
+“his pay?”
 
-“I do not know.”
+“he do not know.”
 
-“My family uses that pay.”
+“his family uses that pay.”
 
-“I know.”
+“he know.”
 
 Jessa looked toward him. He kept his mouth shut. That took effort.
 
@@ -177,33 +177,33 @@ Hesk had also built a system that treated people like adjustable losses. Both th
 
 Jessa looked down at the reconciliation sheet.
 
-“If I sign this, he will know.”
+“If he sign this, he will know.”
 
 “Yes,” Maelis said.
 
-“He will know I was the one who explained it.”
+“He will know he was the one who explained it.”
 
 “Yes.”
 
-“You could use the records without me.”
+“You could use the records without him.”
 
 Maelis shook her head.
 
-“I can show that numbers do not reconcile.”
+“he can show that numbers do not reconcile.”
 
 She tapped the issue form.
 
-“I can show stock left ordinary inventory.”
+“he can show stock left ordinary inventory.”
 
 Then the service ledger.
 
-“I can show the documented work does not account for it.”
+“he can show the documented work does not account for it.”
 
 Then the blank sheet.
 
-“But I cannot testify to what a Roadmaster contingency code means inside Guild practice as well as you can.”
+“But he cannot testify to what a Roadmaster contingency code means inside Guild practice as well as you can.”
 
-Jessa said nothing. Maelis added, “I will not write your explanation for you.”
+Jessa said nothing. Maelis added, “he will not write your explanation for you.”
 
 Good.
 
@@ -243,7 +243,7 @@ The preservation order arrived twelve minutes later. It was not an arrest order.
 
 It authorized temporary shared custody of identified diversion stock and related records until the emergency ended or the council reviewed the evidence. That sounded less dramatic than taking over a storehouse. It was also much harder to argue with.
 
-Jessa read the order twice. Then she said, “I can identify the cage.” Maelis folded the copy.
+Jessa read the order twice. Then she said, “he can identify the cage.” Maelis folded the copy.
 
 “You do not have to come.”
 
@@ -251,7 +251,7 @@ Jessa read the order twice. Then she said, “I can identify the cage.” Maelis
 
 No pause this time.
 
-“I do.”
+“he do.”
 
 That was her choice.
 
@@ -343,7 +343,7 @@ Hesk looked at Maelis again.
 
 “She found unshared lure stock withheld from the emergency inventory.”
 
-“I retained emergency material.”
+“he retained emergency material.”
 
 “Under sole Roadmaster control.”
 
@@ -365,7 +365,7 @@ Jessa’s face went pale. He watched Hesk.
 
 “You mean push it back toward the outer routes.”
 
-“I mean keep Greywake’s lifeline open.”
+“he mean keep Greywake’s lifeline open.”
 
 “There are people on those routes.”
 
@@ -381,7 +381,7 @@ He had arithmetic. Maelis said, “The shared plan exists specifically because t
 
 “And if it fails?”
 
-“We revise.”
+“they revise.”
 
 “With what time?”
 
@@ -391,7 +391,7 @@ Hesk stepped closer to the cage.
 
 Jessa said, “So you kept enough to change the routes back without telling anyone.” Hesk looked at her.
 
-“I kept enough to make a decision if everyone else became too afraid to make one.”
+“he kept enough to make a decision if everyone else became too afraid to make one.”
 
 That was his answer.
 
@@ -419,7 +419,7 @@ Her shoulders tightened. He did not raise his voice.
 
 “You do not understand what this means.”
 
-“I understand the stock record.”
+“he understand the stock record.”
 
 “You understand forms.”
 
@@ -437,7 +437,7 @@ Her shoulders tightened. He did not raise his voice.
 
 Jessa’s face went white. Her hand still pointed at the tag.
 
-“My job is the paperwork.”
+“his job is the paperwork.”
 
 Hesk’s expression hardened.
 
@@ -453,19 +453,19 @@ Good.
 
 This part belonged to her. Hesk continued.
 
-“I signed your position when no one else wanted another debt family on permanent payroll.”
+“he signed your position when no one else wanted another debt family on permanent payroll.”
 
 Jessa’s breathing changed.
 
-“I know.”
+“he know.”
 
-“I kept you off field crews.”
+“he kept you off field crews.”
 
-“I know.”
+“he know.”
 
-“I gave you stability.”
+“he gave you stability.”
 
-“I know.”
+“he know.”
 
 “Then think before you destroy it.”
 
@@ -473,7 +473,7 @@ The storehouse became very still. Jessa looked at the cage. Then at the ledger i
 
 Then at Hesk.
 
-“I did think.”
+“he did think.”
 
 Her voice shook. She opened the reconciliation sheet.
 
@@ -497,7 +497,7 @@ Her hand was shaking hard enough now that the paper moved. She did not stop.
 
 Hesk’s jaw tightened.
 
-“Give me the sheet.”
+“Give him the sheet.”
 
 “No.”
 
@@ -529,7 +529,7 @@ Hesk looked at him.
 
 He looked at Jessa.
 
-“She made it concern me.”
+“She made it concern him.”
 
 Jessa glanced at him. He kept his eyes on Hesk. Not because she needed permission.
 
@@ -565,7 +565,7 @@ So he did not do it.
 
 “Do not destroy anything!” Maelis shouted.
 
-“I know!”
+“he know!”
 
 A loyalist slammed the inner gate. The metal door started closing between them and the records cage. If it shut, they lost the stock side while Hesk ran with the control book.
 
@@ -657,17 +657,17 @@ Jessa stared at the paper.
 
 She looked toward the open side passage. Then back down.
 
-“I do.”
+“he do.”
 
 She signed. No speech. No sudden bravery.
 
 Her hand still shook afterward. Maelis took the page carefully. Jessa looked at her.
 
-“Am I fired?”
+“Am he fired?”
 
 Maelis did not lie.
 
-“I don't know.”
+“he don't know.”
 
 Jessa nodded. That hurt more than a reassuring answer would have. He leaned against the records table.
 

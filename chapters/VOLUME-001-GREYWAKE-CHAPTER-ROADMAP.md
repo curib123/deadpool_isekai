@@ -4,7 +4,7 @@
 **Destination:** DEST-001 — Greywake  
 **Arc:** Greywake Arc  
 **Phase:** Chapter Roadmap  
-**Status:** GATE 7 PASS — CHAPTER ROADMAP LOCKED / CH-007 MANUSCRIPT AUTHORIZED  
+**Status:** GATE 7 PASS — CHAPTER ROADMAP LOCKED / CH-008 SCENE ARCHITECTURE AUTHORIZED  
 **Final Chapter Count:** 26  
 **POV:** Red Jackal first person throughout  
 **Scope:** Chapter architecture only. No full scenes, final dialogue, or manuscript prose.
@@ -49,7 +49,7 @@ These are planning locations only.
 |---|---:|---|
 | F-001 — Independent Appraisals Fail Consistently | CH-002 | PLANTED — CH-002 |
 | F-002 — Physical Data Without Identity Data | CH-003 | PLANTED — CH-003 |
-| F-003 — Healing Magic Encounters an Already-Correcting Body | CH-007 | PLANNED — NOT YET PLANTED |
+| F-003 — Healing Magic Encounters an Already-Correcting Body | CH-007 | PLANTED — CH-007 |
 | F-004 — Play Logic Follows Meaning More Than Spell Grammar | CH-005 | PLANTED — CH-005 |
 
 No F-ID becomes PLANTED until approved manuscript prose actually contains the clue.
@@ -224,7 +224,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Regeneration Consequence:** Major early demonstration: painful abnormal recovery, exhaustion, reduced precision afterward.  
 **Aura-Farming Opportunity:** He tries to minimize the injury after the fact; Sela refuses to let him turn it into a cool story.  
 **Comedy Opportunity:** Limited and post-danger only.  
-**Mystery / Foreshadowing:** **F-003 planned here — remains PLANNED — NOT YET PLANTED.** M-005 observational only.  
+**Mystery / Foreshadowing:** **F-003 PLANTED — CH-007.** M-005 observational only.  
 **Continuity Dependencies:** Tavian has already identified route irregularity.  
 **Knowledge Dependencies:** Sela may know it is not normal healing but cannot infer mechanism.  
 **Ending Beat:** Sela tells him, in practical terms, that surviving damage and making a safe decision are not the same thing.

@@ -427,3 +427,33 @@ Primary pacing goals:
 **Current authorial revision step:** CH-009 — Wrong Tracks → Pacing Revision Pass → Gate 9 Revalidation.
 
 The previously authorized CH-028 Gate 8 step is paused, not cancelled, while Volume 1 revision is active.
+
+
+# 7. Volume 1 Power-Retcon Manuscript Audit
+
+Authoritative audit:
+
+`qa/VOLUME-001-POWER-RETCON-MANUSCRIPT-AUDIT.md`
+
+**Status:** PASS — 26/26 ACTUAL MANUSCRIPTS AUDITED.
+
+Revision set:
+
+**Targeted:** CH-005, CH-006, CH-009, CH-011, CH-015, CH-016.
+
+**Substantive:** CH-007, CH-019, CH-020, CH-021, CH-022, CH-023, CH-024.
+
+**No prose revision required:** CH-001, CH-002, CH-003, CH-004, CH-008, CH-010, CH-012, CH-013, CH-014, CH-017, CH-018, CH-025, CH-026.
+
+Revision order is chronological.
+
+Each changed chapter must complete:
+
+**Overpowered Retcon Prose Revision → Gate 9 Revalidation → Canon Update → Publication Regeneration → Gate 11 Revalidation**
+
+After all 13 changed chapters pass:
+- rerun Volume 1 Gate 10;
+- rerun aggregate Gate 11;
+- resume CH-028.
+
+**Official next step:** CH-005 — A Better Hammer → Overpowered Retcon Prose Revision.

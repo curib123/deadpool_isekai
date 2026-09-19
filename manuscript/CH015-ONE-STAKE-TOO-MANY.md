@@ -339,7 +339,7 @@ Slowly. Painfully. His expression changed.
 
 He had seen that expression before.
 
-You should be dead.
+The look was familiar. He should have been dead.
 
 He pressed a hand to the wound. His fingers came away red. The bleeding had already slowed.
 

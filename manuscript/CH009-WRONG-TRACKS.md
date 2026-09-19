@@ -207,7 +207,7 @@ He pointed at one long-stride track, then a shorter one beside it.
 
 “Probably?”
 
-He looked at him.
+Tavian looked at Red.
 
 “You hate that word.”
 
@@ -253,7 +253,7 @@ He pointed into the brush ahead. At first he saw nothing. Then movement. Three s
 
 “Don't move.”
 
-He looked at him.
+Red looked at Tavian.
 
 “That sounded targeted.”
 
@@ -343,7 +343,7 @@ He shifted the polearm and struck the ground in front of it. The sound snapped t
 
 “Done.”
 
-He dismissed it. The obstruction broke into pale fragments because apparently even disappearing had become theatrical. The fourth predator pushed through the empty gap. Tavian had already moved. He slammed the polearm shaft across its chest and redirected it into the open west side. The pack scattered enough to lose the encirclement. That changed everything. The predators were dangerous. They were not suicidal. One backed into the brush. Another followed. The one he had kicked watched him for a second, ears flat, then retreated after the others. The last animal stayed near the old trail until Tavian took two deliberate steps toward it. Then it vanished north. Silence returned badly. Leaves settled. His manifestation was gone. The grazers were long gone. The observation was ruined. Tavian stood with his polearm lowered but ready. He waited. He looked at him. He knew that look. Sela had a medical version. Kellan had an engineering version. Apparently competence came with a shared expression for him.
+He dismissed it. The obstruction broke into pale fragments because apparently even disappearing had become theatrical. The fourth predator pushed through the empty gap. Tavian had already moved. He slammed the polearm shaft across its chest and redirected it into the open west side. The pack scattered enough to lose the encirclement. That changed everything. The predators were dangerous. They were not suicidal. One backed into the brush. Another followed. The one he had kicked watched him for a second, ears flat, then retreated after the others. The last animal stayed near the old trail until Tavian took two deliberate steps toward it. Then it vanished north. Silence returned badly. Leaves settled. His manifestation was gone. The grazers were long gone. The observation was ruined. Tavian stood with his polearm lowered but ready. He waited, then looked at Red. Red knew that look. Sela had a medical version. Kellan had an engineering version. Apparently competence came with a shared expression for him.
 
 “I wanted to see what they would do,” he said.
 
@@ -559,7 +559,7 @@ He looked back at the tracks. His experiment had felt faster. It had also nearly
 
 “Yes.”
 
-He looked at him.
+Red looked at Tavian.
 
 “You realize this is where normal people start becoming suspicious.”
 

@@ -653,7 +653,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 
 **Movement:** VI — Greywake Holds  
 **Location:** Final lure site / fork between Broken North corridor and outer homestead route.  
-**Characters Present:** Red Jackal, Rovan Rovan Hesk, Maelis Orra, Jessa Vale, Tavian Rook, Captain Brynn Alder.  
+**Characters Present:** Red Jackal, Rovan Hesk, Maelis Orra, Jessa Vale, Tavian Rook, Captain Brynn Alder.  
 **Opening Situation:** Hesk attempts to restore the sacrificial route as the migration reaches the critical fork.  
 **Primary Objective:** Stop the final lure policy while keeping the migration committed to the prepared corridor.  
 **Conflict:** Red Jackal must choose between pursuing Hesk personally, maintaining the migration solution, and protecting people in immediate danger.  

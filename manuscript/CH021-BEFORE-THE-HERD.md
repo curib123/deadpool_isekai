@@ -1,7 +1,7 @@
 # Chapter 21 — Before the Herd
 
-**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
-**Word Count:** 3365,301  
+**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Word Count:** 3354,301  
 
 By the time Greywake decided Hesk was missing, they had already run out of time to make finding him everyone’s problem. The militia yard had become a map with people standing on it. Carts waited along one wall. Runners moved between the route board and the gates. Bundles of rope, tools, medical cloth, sealed Guild cases, and ordinary food had been separated into piles that apparently made perfect sense to everyone except him.
 
@@ -13,7 +13,7 @@ He had learned not to take that personally. Mostly. Tavian came through the yard
 
 The yard got quieter. Tavian put both hands on the route board.
 
-“Not an exact number. The front movement is faster than yesterday, but the terrain is breaking it unevenly. We may see scattered animals earlier. The first sustained mass could follow soon after.”
+“Not an exact number. The front movement is faster than yesterday, but the terrain is breaking it unevenly. they may see scattered animals earlier. The first sustained mass could follow soon after.”
 
 “Can anything major wait until the next watch?” Brynn asked.
 
@@ -33,23 +33,23 @@ Brynn shook her head.
 
 “He has the field-service key,” Jessa said.
 
-“I know.”
+“he know.”
 
 “And the older housing—”
 
-“I know.”
+“he know.”
 
 Brynn pointed to one route on the board.
 
-“I’m sending a small check team. That is all I can spare.”
+“he was sending a small check team. That is all he can spare.”
 
 One militia officer frowned. “If he reaches it first—”
 
-“If I empty the evacuation routes to chase one man, people die even if we catch him.”
+“If he empty the evacuation routes to chase one man, people die even if they catch him.”
 
 Nobody argued after that. Tavian tapped three marks on the map.
 
-“I handle movement thresholds and lure timing. Nobody activates on a clock. You activate on what the animals are actually doing.”
+“he handle movement thresholds and lure timing. Nobody activates on a clock. You activate on what the animals are actually doing.”
 
 Brynn pointed at Maelis.
 
@@ -69,7 +69,7 @@ He waited.
 
 “That is a lot.”
 
-“I was expecting something with a more impressive title.”
+“he was expecting something with a more impressive title.”
 
 “You carry whatever is too heavy and go where people are short.”
 
@@ -91,13 +91,13 @@ A militia woman stopped that cart.
 
 “People first.”
 
-A man beside it stared at her. “Those are our winter stores.”
+A man beside it stared at her. “Those are their winter stores.”
 
 “And the next cart has a woman who cannot walk.”
 
-“We lose this and we lose half the season.”
+“they lose this and they lose half the season.”
 
-“I know.”
+“he know.”
 
 That was the worst answer because it did not pretend he was wrong. He looked at the cart, then at his house, then started unloading sacks. Nobody cheered for him.
 
@@ -127,11 +127,11 @@ They used the jack. Two people held the wheel. He worked a lever beneath the fra
 
 “Higher.”
 
-“I am lifting.”
+“he am lifting.”
 
 “Higher than that.”
 
-“My shoulder has submitted a complaint.”
+“his shoulder has submitted a complaint.”
 
 “Tell it later.”
 
@@ -185,7 +185,7 @@ Better did not mean good. His face tightened every time someone shifted the cot.
 
 “You are lying down.”
 
-“I have perspective.”
+“he have perspective.”
 
 “Your perspective has straps.”
 
@@ -193,21 +193,21 @@ Sela appeared beside him.
 
 “Good. You’re here.”
 
-“That sounded less like concern than I hoped.”
+“That sounded less like concern than he hoped.”
 
 “It was not concern. Lift the rear of his cot.”
 
 Kellan frowned.
 
-“I can help direct the outer crews from here.”
+“he can help direct the outer crews from here.”
 
 “No,” Sela said.
 
-“I know the routes.”
+“he know the routes.”
 
-“You can tell us the routes while being transported.”
+“You can tell them the routes while being transported.”
 
-“I can do that from a horse.”
+“he can do that from a horse.”
 
 “You cannot put weight on the leg.”
 
@@ -223,7 +223,7 @@ They lifted. He hissed through his teeth despite trying not to. That killed the 
 
 They moved him toward the cart slowly. Before they loaded him, Brynn’s runner arrived with a list of households not yet confirmed clear. Kellan held out a hand.
 
-“Give me that.”
+“Give him that.”
 
 The runner hesitated. Sela said, “Give it to him.” Kellan scanned the marks.
 
@@ -259,7 +259,7 @@ Sela caught his wrist before he stepped away. She watched his hand.
 
 “Hold it out.”
 
-“I am holding it out.”
+“he am holding it out.”
 
 “Still.”
 
@@ -289,13 +289,13 @@ She released his wrist.
 
 “Listen carefully. Do not turn the evacuation into another experiment.”
 
-“I already passed one broken axle without becoming architecture.”
+“he already passed one broken axle without becoming architecture.”
 
 “Congratulations.”
 
 There was no warmth in it. He liked Sela.
 
-“If a wheel is inconvenient, use a lever. If a crate is heavy, get another person. If a route needs clearing, use tools. Not because I think you cannot do something absurd.”
+“If a wheel is inconvenient, use a lever. If a crate is heavy, get another person. If a route needs clearing, use tools. Not because he think you cannot do something absurd.”
 
 She pointed toward the road.
 
@@ -327,7 +327,7 @@ A technician already holding a sealed packet froze.
 
 “That is not yours.”
 
-“It has my team mark.”
+“It has his team mark.”
 
 “It has your team mark on the outer tie.”
 
@@ -363,7 +363,7 @@ She pointed.
 
 “You could learn to read.”
 
-“I have been busy.”
+“he have been busy.”
 
 “With what?”
 
@@ -381,9 +381,9 @@ He pointed along the marked routes.
 
 “When prey movement becomes continuous and the lead animals commit toward the approach, use the first signal. If they bunch before the corridor or begin turning across the wrong side, abort and wait for revision.”
 
-One technician asked, “What if we wait too long?”
+One technician asked, “What if they wait too long?”
 
-“Then pressure reaches the farms before we redirect it.”
+“Then pressure reaches the farms before they redirect it.”
 
 “And too early?”
 
@@ -413,7 +413,7 @@ Jessa pressed her lips together. Brynn looked at the assembled technicians.
 
 One of them asked, “Even with the site unsecured?”
 
-“We cannot leave every other position empty while we wait.”
+“they cannot leave every other position empty while they wait.”
 
 That was the shape of the day. Nothing important became safe before the next important thing needed doing. The lure teams left.
 
@@ -463,7 +463,7 @@ The worker looked at the axe. Then at him.
 
 “Huh.”
 
-“Try not to sound shocked. I contain several ordinary skills.”
+“Try not to sound shocked. He contain several ordinary skills.”
 
 Tavian passed them. His eyes moved from the cleared drainage to the axe in his hand. He said nothing.
 
@@ -487,7 +487,7 @@ That was enough. A runner came hard down the outer path before they finished res
 
 Brynn’s jaw tightened. Tavian looked toward the forest.
 
-“We are out of time for a wider search.”
+“they are out of time for a wider search.”
 
 Brynn nodded once. She did not like it. That did not make it wrong.
 
@@ -529,7 +529,7 @@ Tavian looked at him.
 
 “It is not.”
 
-“I was planning to save my terrible judgment for later.”
+“he was planning to save his terrible judgment for later.”
 
 “That would be new.”
 
@@ -537,7 +537,7 @@ There it was. Tiny. Dry.
 
 Then gone. Tavian looked past him toward the road.
 
-“We have done what we can before movement begins.”
+“they have done what they can before movement begins.”
 
 Nobody said it was enough. They went to the lantern line. Greywake’s outer lanterns had always looked too small for the dark around them.
 

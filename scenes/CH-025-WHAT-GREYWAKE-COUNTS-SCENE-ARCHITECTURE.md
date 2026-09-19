@@ -4,7 +4,7 @@
 **Chapter:** CH-025 — What Greywake Counts  
 **Movement:** VII — What Greywake Counts  
 **Phase:** Detailed Scene Architecture  
-**Status:** DRAFT — GATE 8 PENDING  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-025 MANUSCRIPT AUTHORIZED  
 **Final Scene Count:** 6  
 **POV:** Red Jackal first person  
 **Primary Cast:** Red Jackal, Maelis Orra, Tavian Rook, Captain Brynn Alder, Sela Arven, Kellan Dorr, Jessa Vale, Rovan Hesk under guard/removed from authority, council/public representatives  
@@ -605,8 +605,12 @@ CH-024 crisis resolved
 
 # 22. Gate 8 Result
 
-**PENDING**
+**PASS**
 
-Formal QA record to be created:
+Formal QA record:
 
 `qa/CH-025-PRE-MANUSCRIPT-SCENE-QA.md`
+
+The only authorized next production step is:
+
+**Draft the actual CH-025 manuscript — What Greywake Counts.**

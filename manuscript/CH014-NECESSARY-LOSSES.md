@@ -1,7 +1,8 @@
 # Chapter 14 — Necessary Losses
 
-**Status:** DRAFT — GATE 9 NOT YET RUN  
-**Word Count:** 3,124
+**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED  
+**Word Count:** 3,124  
+**Chapter QA:** `qa/CH-014-GATE-9-CHAPTER-QA.md`
 
 Proving someone had been deciding where people were allowed to die turned out not to make the next decision easier. I found that rude. The council chamber was fuller than the map room had been. Two long benches had been pulled against the walls, council representatives occupied most of the chairs, and three different stacks of records sat in front of Maelis like paperwork had started breeding.
 

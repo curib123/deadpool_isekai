@@ -1,0 +1,218 @@
+# CH-024 Gate 9 — Chapter QA
+
+**Chapter:** CH-024 — No One Gets Chosen  
+**Manuscript:** `manuscript/CH024-NO-ONE-GETS-CHOSEN.md`  
+**Review Date:** 2026-09-19  
+**Status:** PASS  
+**Word Count:** 1,945
+
+# Severity Review
+
+## CRITICAL
+**None.**
+
+## MAJOR
+**None.**
+
+## MINOR
+The initial manuscript cadence was too fragmented for the locked prose standard. It was normalized before the final decision without changing plot, dialogue function, manifestation count, Hesk's detention, lure neutralization, or the climax result.
+
+# Story Review
+
+**PASS.**
+
+CH-024:
+
+- continues immediately from CH-023's renewed wrong pull;
+- uses the already-established vulnerable old-service site;
+- physically brings Hesk into the final route conflict;
+- preserves Hesk's established survival logic;
+- makes Maelis/Jessa/Tavian/Brynn each necessary;
+- forces Red to choose route protection over personal confrontation;
+- neutralizes Hesk's existing lure through ordinary established access;
+- commits the migration to Broken North;
+- prevents deliberate outer-homestead sacrifice;
+- removes Hesk from operational control;
+- stops before the aftermath hearing.
+
+# Red Jackal Review
+
+**PASS.**
+
+Red remains self-directed.
+
+His decisive action is not obedience or hero conversion.
+
+He acts because:
+- Hesk has assigned other people the role of acceptable loss;
+- Red refuses imposed expendability;
+- he personally chose Greywake's crisis as his responsibility.
+
+The strongest character beat is Red turning away from Hesk once Brynn can secure him and using his remaining useful power on the route.
+
+# POV / Prose Review
+
+**PASS.**
+
+- first person throughout;
+- no invisible narrator;
+- no manuscript-meta chapter references;
+- natural multi-sentence paragraphs restored through QA correction;
+- shorter closing beats support exhaustion and final resolution;
+- route/site geography remains readable.
+
+# Hesk Review
+
+**PASS.**
+
+Hesk:
+
+- uses only the existing Roadmaster field-service key;
+- uses only the already-established old-service housing;
+- remains consistent with his frontier-survival worldview;
+- does not become sadistic or irrational;
+- does not reveal protected information;
+- does not receive new powers.
+
+His defeat is loss of unilateral operational control, not sudden ideological repentance.
+
+# Maelis Review
+
+**PASS.**
+
+Maelis preserves:
+- copied records;
+- site integrity;
+- evidence continuity;
+- later accountability.
+
+She does not replace Tavian or Jessa's specialist roles.
+
+# Jessa Review
+
+**PASS.**
+
+Jessa:
+- identifies service state;
+- identifies the plate/vent access;
+- uses established procedural knowledge;
+- neutralizes/secures the housing through ordinary keyed procedure;
+- acts despite likely employment consequences.
+
+She does not become a master engineer.
+
+# Tavian Review
+
+**PASS.**
+
+Tavian owns:
+- branch recoverability;
+- final route timing;
+- the exact fork-guide placement;
+- neutralization timing;
+- confirmation that migration has committed.
+
+# Captain Brynn Alder Review
+
+**PASS.**
+
+Brynn:
+- removes Hesk from the housing;
+- seizes control of the key;
+- places Hesk under emergency detention;
+- keeps operational authority distinct from Red's personal conflict.
+
+# Play Logic Review
+
+**PASS.**
+
+Actual CH-024 manifestations:
+
+**exactly 1**
+
+Function:
+
+**temporary low fork guide/deflector.**
+
+It:
+- redirects only the lead edge of the wrong branch;
+- buys seconds;
+- remains unstable;
+- fades after the route commits;
+- does not control the full herd;
+- does not become Stage II;
+- does not neutralize the lure itself.
+
+# Regeneration / Exhaustion Review
+
+**PASS.**
+
+No recovery reset occurs.
+
+Red remains:
+- flank-injured;
+- rib-limited;
+- shoulder/leg strained;
+- tremor-impaired;
+- near his current Stage I endurance floor.
+
+No new regeneration mechanism is introduced.
+
+# Route / Climax Resolution Review
+
+**PASS.**
+
+Final resolution is collective:
+
+1. Broken North already carries main-body momentum;
+2. Tavian identifies recoverable branch timing;
+3. Brynn removes Hesk from access;
+4. Jessa neutralizes the housing;
+5. Maelis preserves evidence;
+6. Red's temporary guide buys the required seconds;
+7. lure pull weakens;
+8. the trailing branch follows Broken North momentum.
+
+Locked result achieved:
+
+- migration commits to the prepared corridor;
+- outer homesteads are not deliberately sacrificed;
+- Hesk loses operational control and is under guard.
+
+# Mystery / Foreshadowing Review
+
+**PASS.**
+
+No new F-ID.
+
+F-001 through F-004 remain unchanged.
+
+M-007 does not advance.
+
+The optional tonal echo is not used.
+
+No Fate, Great Design, Eidrathi, System-origin, Play-Logic-origin or future-destination content.
+
+# CH-025 Firewall Review
+
+**PASS.**
+
+CH-025 retains:
+
+- casualty/damage accounting;
+- treatment aftermath;
+- public/council response;
+- Hesk's legal/institutional disposition;
+- Road Guild restructuring;
+- formal outer-community representation;
+- mixed public reaction to Red.
+
+# Gate 9 Decision
+
+# PASS
+
+CH-024 — No One Gets Chosen is approved for canonization.
+
+Next authorized production step after canonization:
+
+**CH-025 — What Greywake Counts → Detailed Scene Architecture → Gate 8.**

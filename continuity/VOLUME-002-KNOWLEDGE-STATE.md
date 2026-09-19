@@ -5,6 +5,19 @@
 **Destination:** DEST-002 — Merrowgate  
 **Status:** CANON SUPPORT RECORD — CH-027 CANON / CH-028 GATE 8 NEXT
 
+# 0. Overpowered Retcon Knowledge Override
+
+The retcon in `planning/RED-JACKAL-OVERPOWERED-RETCON.md` supersedes old Stage I / exhaustion-as-power-ceiling assumptions.
+
+Writer truth:
+- Red is already overwhelmingly powerful;
+- Play Logic has no known intrinsic ceiling;
+- no Stage progression exists;
+- public/local characters do not know this automatically;
+- Red himself may not initially conceptualize the full implications cleanly, but raw capability is not earned through later levels.
+
+Volume 2 knowledge tension concerns what people have witnessed, not Red's actual writer-truth ceiling.
+
 # 1. Red Jackal — Opening Knowledge
 
 At Volume 2 opening Red canonically knows:
@@ -16,11 +29,11 @@ At Volume 2 opening Red canonically knows:
 - ordinary identity fields return UNDEFINED or no valid record for him;
 - multiple Greywake appraisal methods failed consistently;
 - physical traits can be measured while identity data remains absent;
-- his body regenerates abnormally;
-- regeneration hurts and consumes energy;
-- Play Logic responds to imagined meaning and clear purpose but remains unstable;
-- he can use simple temporary Stage I manifestations;
-- fatigue, pain, distraction, and poor judgment reduce control;
+- his body restores itself abnormally;
+- pain may still be experienced even when damage is not a meaningful combat ceiling;
+- Play Logic responds to imagined meaning and chosen framing;
+- his earlier small manifestations do not prove a true capability ceiling;
+- poor judgment and incomplete information remain dangerous even when raw force is overwhelming;
 - Greywake's migration was deliberately manipulated;
 - institutions can exploit people they cannot or will not properly count;
 - his choices can harm people who cannot regenerate;

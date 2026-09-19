@@ -743,9 +743,9 @@ Outside, another horn sounded. Longer this time. Closer.
 
 Nobody said what it meant. They did not have to.
 
-they had the stock.
+They had the stock.
 
-they had the proof.
+They had the proof.
 
 Hesk still had one key.
 

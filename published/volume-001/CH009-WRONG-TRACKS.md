@@ -1,4 +1,4 @@
-Chapter 9 — Wrong Tracks
+# Chapter 9 — Wrong Tracks
 
 Tavian found me the next morning before I found breakfast. This was already a point against him. I had just stepped out from the room I was temporarily using when he appeared at the end of the lane with his polearm over one shoulder and a small field pack at his side. A round metal token hung from one strap. Wayfarer Tongue Token. Charged. That meant he planned to take me somewhere far enough from carts, clerks, and other convenient translation devices that conversation would otherwise become mostly pointing. I looked at the pack.
 
@@ -166,37 +166,7 @@ He looked up.
 
 I crouched beside him, careful not to touch the ground. The marks were split in the middle. Fine.
 
-“Fresh?”
-
-“Not the ones I'm pointing at.”
-
-They looked exactly as muddy as the rest of the mud.
-
-“How can you tell?”
-
-He touched the edge of one print without pressing into it.
-
-“Collapsed rim. Rain softened it after the animal passed. This one beside it is newer.”
-
-The second mark had sharper edges. I could see that once he said it. Tavian pointed farther across the depression.
-
-“Direction?”
-
-I looked at the toe of the print.
-
-“North.”
-
-“North-east.”
-
-“That feels like unnecessary precision.”
-
-“It becomes necessary when you want to know where something went.”
-
-He followed the line of prints to the brush. More marks crossed them. Wider. Four-toed. Claw tips visible.
-
-“Predator?” I asked.
-
-“Yes.”
+The first set was older; rain had softened the rims. A sharper set beside it pointed north-east. Four-toed predator marks crossed later.
 
 “Following the grazer?”
 
@@ -204,15 +174,7 @@ He followed the line of prints to the brush. More marks crossed them. Wider. Fou
 
 “Again with maybe.”
 
-He pointed to the depth.
-
-“The predator prints are newer.”
-
-“So following.”
-
-“Or crossing the same route later.”
-
-I stared at him.
+“Newer does not mean chasing.”
 
 “Do Wardens receive formal training in ruining conclusions?”
 
@@ -230,37 +192,19 @@ A second set of hoof marks cut through the mud at a different angle. Older. Then
 
 That was irritatingly satisfying. Tavian used the butt of his polearm to point without touching.
 
-“Ordinary movement changes. Food shifts. Water changes. Territory changes. Weather pushes animals. Predators push prey. Larger predators push smaller ones. A fire can redirect half a valley.”
+“Movement changes for ordinary reasons. Food. Water. Weather. Predators. Fire.”
 
-“None of which is happening.”
+“But repeated movement by different animals in the same wrong direction matters.”
 
-“I didn't say that.”
+“Yes.”
 
-“You were about to.”
+He pointed at one long-stride track, then a shorter one beside it.
 
-“I was not.”
+“Different pace. Same drift.”
 
-I sighed. He went on.
+“Probably?”
 
-“One strange crossing means very little. Several species using the same crossing can still be normal. Repeated movement over different days, different animals, same broad direction—that matters.”
-
-He pointed at a deeper hoof mark.
-
-“This one was moving quickly.”
-
-“How?”
-
-“Stride length.”
-
-Then at another.
-
-“This one wasn't.”
-
-“So one was fleeing and one wasn't.”
-
-“Probably.”
-
-I waited. He looked at me.
+He looked at me.
 
 “You hate that word.”
 
@@ -368,11 +312,17 @@ I looked. Between the fallen trunk and an exposed root wall, there was a narrow 
 
 “Close it.”
 
-That was clear enough. One purpose. A low obstruction. Nothing clever. Nothing tall. Just enough to make that gap not exist for a few seconds. The pressure came easier than yesterday, but not easily. My side tightened. I held the image simple. A squat, pale-grey block formed between the trunk and the roots. Ugly. Too thick at one end. Good enough. The fourth predator reached it, checked its stride, and hit the edge with one foreleg. The manifestation cracked. The animal recoiled. Tavian used the moment.
+That was clear enough. One purpose. A low obstruction. Nothing clever. Nothing tall. Just enough to make that gap stop being useful for a few seconds.
+
+I pictured exactly that and nothing more.
+
+A squat, pale-grey block formed between the trunk and the roots. Ugly. Too thick at one end. Good enough. The fourth predator reached it, checked its stride, and struck the edge with one foreleg. The block stayed where I had put it. Tavian used the moment.
 
 “Now left.”
 
-I shifted left. The circling predator came toward me. I did not chase it. That deserved recognition from somebody. Probably me. It lunged when I entered its path. I stepped back instead of forward. Its jaws closed on air. I kicked its shoulder as it passed. Not dramatic. Effective enough to spoil the turn. Tavian drove the first animal farther from the crossing with two controlled strikes. The second hesitated. The pack had expected fleeing prey. It had found two people refusing to become simple. The fourth hit my barrier again. A crack ran through the middle. I felt the shape wobble in my concentration. I did not try to improve it. One job. Close the gap. Tavian saw the fracture.
+I shifted left. The circling predator came toward me. I did not chase it. That deserved recognition from somebody. Probably me. It lunged when I entered its path. I stepped back instead of forward. Its jaws closed on air. I kicked its shoulder as it passed. Not dramatic. Effective enough to spoil the turn. Tavian drove the first animal farther from the crossing with two controlled strikes. The second hesitated. The pack had expected fleeing prey. It had found two people refusing to become simple. The fourth hit my barrier again. I kept it exactly as ugly and exactly as temporary as Tavian needed.
+
+One job. Close the gap.
 
 “Hold three breaths.”
 
@@ -390,7 +340,7 @@ He shifted the polearm and struck the ground in front of it. The sound snapped t
 
 “Done.”
 
-I let go. The obstruction collapsed into pale fragments that faded before they fully hit the ground. The fourth predator pushed through the empty gap. Tavian had already moved. He slammed the polearm shaft across its chest and redirected it into the open west side. The pack scattered enough to lose the encirclement. That changed everything. The predators were dangerous. They were not suicidal. One backed into the brush. Another followed. The one I had kicked watched me for a second, ears flat, then retreated after the others. The last animal stayed near the old trail until Tavian took two deliberate steps toward it. Then it vanished north. Silence returned badly. Leaves settled. My manifestation was gone. The grazers were long gone. The observation was ruined. Tavian stood with his polearm lowered but ready. I waited. He looked at me. I knew that look. Sela had a medical version. Kellan had an engineering version. Apparently competence came with a shared expression for me.
+I dismissed it. The obstruction broke into pale fragments because apparently even disappearing had become theatrical. The fourth predator pushed through the empty gap. Tavian had already moved. He slammed the polearm shaft across its chest and redirected it into the open west side. The pack scattered enough to lose the encirclement. That changed everything. The predators were dangerous. They were not suicidal. One backed into the brush. Another followed. The one I had kicked watched me for a second, ears flat, then retreated after the others. The last animal stayed near the old trail until Tavian took two deliberate steps toward it. Then it vanished north. Silence returned badly. Leaves settled. My manifestation was gone. The grazers were long gone. The observation was ruined. Tavian stood with his polearm lowered but ready. I waited. He looked at me. I knew that look. Sela had a medical version. Kellan had an engineering version. Apparently competence came with a shared expression for me.
 
 “I wanted to see what they would do,” I said.
 
@@ -466,13 +416,13 @@ He looked up. That paused him.
 
 “Yes.”
 
-I had not redeemed myself. I had at least located the next obvious step. We moved away from the crossing. Tavian did not speak for several minutes. I let him. That may have been the most responsible thing I did all morning. My side had begun to ache from the manifestation, but not badly. I kept my pace even. Tavian noticed anyway.
+I had not redeemed myself. I had at least located the next obvious step. We moved away from the crossing. Tavian did not speak for several minutes. I let him. That may have been the most responsible thing I did all morning. My side had begun to ache again from the morning's walking and the injury I was still pretending not to respect. I kept my pace even. Tavian noticed anyway.
 
 “Can you still walk?”
 
 “Yes.”
 
-“No second trick?”
+“No second experiment?”
 
 “No.”
 
@@ -480,9 +430,9 @@ I had not redeemed myself. I had at least located the next obvious step. We move
 
 There was that word again.
 
-“People keep reacting strangely to my limits.”
+“People keep reacting strangely when I choose not to do something impossible.”
 
-“Limits are useful.”
+“Restraint is useful.”
 
 “To you.”
 

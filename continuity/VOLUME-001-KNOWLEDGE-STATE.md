@@ -346,7 +346,7 @@ This does not reveal the hidden meaning of F-001.
 # CH-003 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-003 — The Things They Can Measure  
-**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+**Status:** SUPERSEDED BY CH-004 CANON CHECKPOINT
 
 ## Red Jackal — Opening CH-003
 
@@ -596,3 +596,107 @@ CH-004 introduces **no new F-ID**.
 ## Power Boundary
 
 CH-004 contains no Play Logic attempt, manifestation, diagnostic test, or regeneration analysis.
+
+
+
+# CH-004 Canon Checkpoint
+
+**Chapter:** CH-004 — Off the Books  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH004-OFF-THE-BOOKS.md`  
+**QA:** `qa/CH-004-GATE-9-CHAPTER-QA.md`
+
+After CH-004, Red Jackal canonically knows:
+
+- Rovan Hesk is Greywake's Roadmaster and a credible local authority;
+- the Road Guild publicly manages road maintenance, caravan schedules, escorts, supply movements, and bridge work;
+- Hesk can authorize private irregular labor when standard guild certification is unavailable;
+- the arrangement is documented locally but is not a normal identity-bound registered guild contract;
+- ordinary registered-worker protections do not attach;
+- payment uses local Marks;
+- a Guild advance can cover immediate food/lodging needs;
+- Jessa Vale understands the practical consequences of the irregular arrangement;
+- Captain Brynn Alder does not forbid the work but confirms that it does not create normal militia or registered-worker protection;
+- his first assignment is a Main Caravan Road repair/support job involving a damaged bridge/worksite;
+- he is expected to report at first light;
+- accepting the arrangement gives him money, supplies, access, and practical freedom at the cost of protection.
+
+Red Jackal may reasonably conclude:
+
+- Hesk benefits from his unusual legal status;
+- the deal is structurally bad but materially useful.
+
+Red Jackal still does **not** know:
+
+- the march-lure network exists;
+- casualty records are deliberately falsified;
+- outer communities are being deliberately sacrificed;
+- Hesk may later use him as a scapegoat;
+- why the System cannot define him;
+- why his regeneration behaves abnormally;
+- how Play Logic works;
+- any protected series mystery truth.
+
+## Rovan Hesk — Post-CH-004 Knowledge
+
+Hesk canonically knows:
+
+- Red Jackal is an Unverified Entrant;
+- normal guild certification cannot process him;
+- Greywake admitted him provisionally;
+- he survived the north-road wilderness alone;
+- he needs local work/resources;
+- he is willing to accept private irregular labor.
+
+Hesk still does not know:
+- Red Jackal's regeneration mechanism;
+- the CH-001 manifestation;
+- Play Logic;
+- protected anomaly truth.
+
+## Jessa Vale — Post-CH-004 Knowledge
+
+Jessa canonically knows:
+
+- Red Jackal cannot use normal registered contracts;
+- he cannot read Veyran writing;
+- Hesk has authorized irregular private labor;
+- Red Jackal understands the missing protections;
+- he accepted the Main Caravan Road assignment;
+- his first assignment begins at first light.
+
+She still does not reveal or establish:
+- deliberate casualty falsification;
+- march-lure conspiracy truth;
+- protected series mystery truth.
+
+## Captain Brynn Alder — Post-CH-004 Knowledge
+
+Brynn canonically knows:
+
+- Red Jackal remains an Unverified Entrant;
+- Hesk has arranged private Road Guild work;
+- private work does not create normal registered-worker or militia-backed protections;
+- Red Jackal understands and accepts that risk.
+
+She does not know the hidden march-lure policy as fact.
+
+## F-ID State After CH-004
+
+No F-ID changes status.
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANNED — NOT YET PLANTED
+- F-004 — PLANNED — NOT YET PLANTED
+
+## CH-005 Handoff
+
+CH-005 may begin with:
+- Red Jackal reporting at first light;
+- the Main Caravan Road repair/support assignment active;
+- Guild supplies/advance already issued;
+- no formal guild certification;
+- the damaged bridge/worksite as the destination.
+
+CH-005 may not assume any later conspiracy knowledge not earned in prose.

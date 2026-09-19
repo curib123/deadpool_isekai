@@ -2411,3 +2411,230 @@ CH-011 may now move into the locked physical verification:
 - first physical march-lure discovery at the chapter ending.
 
 Do not begin CH-012 during CH-011 Scene Architecture.
+
+# CH-011 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-011 — Broken North  
+**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+
+## Red Jackal — Opening CH-011
+
+Red Jackal begins CH-011 with the CH-010 canon checkpoint.
+
+He knows:
+- clean CH-009 field evidence repeatedly points north/north-east toward old northern routes;
+- predator and prey share the abnormal directional drift;
+- artificial/deliberate influence is possible but not proven;
+- CH-010 records show Main Caravan Road recorded safety improving while outer-route losses rise;
+- correlation is not causation;
+- irregular/unconfirmed people are easier to lose from certified casualty statistics;
+- his own off-book status makes that vulnerability personal;
+- Hesk is managing Maelis's audit access;
+- accepting Guild work does not give Hesk ownership over him;
+- no physical migration-control mechanism has yet been found;
+- no march-lure has yet been discovered.
+
+He does not know:
+- that march-lures caused the observed movement;
+- whether one or several devices exist;
+- who installed any equipment;
+- whether Hesk or the Guild authorized it;
+- the exact route effect/orientation;
+- deliberate sacrifice as proven fact;
+- protected series truth.
+
+## Tavian Rook — Opening CH-011
+
+Tavian begins CH-011 knowing:
+- repeated predator/prey movement toward old northern routes is ecologically abnormal;
+- older track layers prove the pattern predates Red Jackal's CH-009 interference;
+- artificial/deliberate influence is a reasonable hypothesis;
+- Red Jackal is an early R3 Dangerous Wildcard;
+- Red Jackal can follow tactical direction when consequences become immediate;
+- Red Jackal's manifestations remain temporary and limited.
+
+Tavian does not know:
+- the physical mechanism;
+- that a march-lure is installed in Broken North;
+- who is responsible;
+- the complete CH-010 documentary pattern until Maelis explains what is relevant.
+
+## Maelis Orra — Opening CH-011
+
+Maelis begins CH-011 knowing:
+- CH-010 established a repeating inverse main-road-safety / outer-route-loss pattern;
+- unresolved/irregular categories disproportionately weaken outer-route losses in official summaries;
+- random clerical error is no longer a sufficient comfortable explanation;
+- causation remains unproven;
+- Red Jackal is an institutional blind spot;
+- Hesk is managing audit access;
+- Tavian has independently derived ecological evidence pointing north.
+
+Maelis does not know:
+- the physical migration mechanism;
+- a march-lure is present;
+- Hesk/Guild authorship as fact;
+- deliberate migration redirection as fact;
+- CH-013 midpoint truth.
+
+## Kellan Dorr — Opening CH-011
+
+Kellan begins CH-011 knowing:
+- outer homesteads receive weaker road, warning, and patrol support;
+- CH-008's local warning showed more recent predator pressure than the official marker;
+- local labor maintains important outer-route infrastructure;
+- Broken North and its old connectors matter to outer-community access;
+- central Greywake priorities often favor the Main Caravan Road.
+
+Kellan may be told only the CH-009/010 findings needed to justify the trip.
+
+He does not know:
+- march-lures exist;
+- migration manipulation is proven;
+- Hesk's hidden policy;
+- the full record conspiracy.
+
+## Allowed CH-011 Discoveries — Group
+
+By the end of an approved CH-011 manuscript, the group may know:
+
+- CH-009 ecology and CH-010 records independently point toward Broken North;
+- Broken North is currently closed/restricted and genuinely unsafe;
+- the road is largely abandoned and physically deteriorated;
+- some part of the abandoned zone has nevertheless been used/serviced recently;
+- animal movement near the deeper route remains abnormal;
+- a concealed maintenance pocket contains manufactured magical/alchemical equipment;
+- the installed device is recognizable as a **march-lure**;
+- march-lures are generally short-term animal/predator diversion tools;
+- this specific stake shows recent servicing.
+
+They may not yet know:
+
+- whether the specific stake is operating illegally;
+- its active strength;
+- its exact radius;
+- its exact direction/orientation;
+- how long it has been active;
+- whether more stakes exist;
+- whether a network exists;
+- who installed it;
+- who owns it;
+- whether Hesk/Guild authorized it;
+- whether it caused the entire migration pattern;
+- whether outer communities were deliberately selected as targets.
+
+## Broken North Closure / Trespass Boundary
+
+CH-011 must contain a real current closure/restriction.
+
+Red Jackal knowingly crosses it.
+
+The trespass:
+- remains unlawful or unauthorized;
+- is motivated by distrust of controlled access and resistance to assigned roles;
+- is not retroactively legalized because useful evidence is found.
+
+Maelis/Tavian may object.
+
+Each supporting character must independently choose to continue for their own evidence, safety, or community reasons.
+
+## Play Logic Boundary
+
+CH-011 contains exactly:
+
+**one Stage I utility manifestation attempt and one success.**
+
+Preferred function:
+
+**temporary brace / foothold / step.**
+
+Requirements:
+- simple;
+- temporary;
+- imperfect;
+- supports group movement/survival;
+- does not defeat the predators;
+- no retry;
+- no new rule;
+- visible concentration/stamina cost.
+
+F-004 remains **PLANTED — CH-005**.
+
+## Regeneration / M-005 Boundary
+
+No new regeneration clue is authorized.
+
+Preferred:
+- no meaningful injury;
+- ordinary fatigue/scratches only if needed;
+- no healing analysis.
+
+F-003 remains **PLANTED — CH-007**.
+
+## F-ID Boundary
+
+No new F-ID is authorized.
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+## M-007 Boundary
+
+M-007 remains inactive.
+
+No Fate/prophecy/destiny/causal-wake material.
+
+## Reputation Boundary
+
+Tavian remains early **R3 — Dangerous Wildcard**.
+
+Maelis may add concern that Red Jackal is procedurally difficult to constrain when he rejects an access rule.
+
+Kellan may update toward seeing him as a strange but useful person who actually shows up when outer-route problems become dangerous.
+
+Hesk's full CH-012 **unpredictable complication** assessment remains deferred.
+
+## March-Lure Discovery Boundary
+
+CH-011 owns the **first physical march-lure discovery**.
+
+The stake must not appear before the final scene.
+
+At the ending, the characters may identify:
+- installed stake-like equipment;
+- alchemical/magical diversion components;
+- recent servicing;
+- general march-lure category/purpose.
+
+Do not yet establish:
+- illegal strength;
+- long-term operation;
+- network structure;
+- effect orientation;
+- ownership;
+- Hesk/Guild authorship;
+- deliberate sacrifice.
+
+## CH-012 Boundary
+
+CH-011 may end with the first march-lure stake being uncovered/identified.
+
+Do not begin:
+- detailed lure examination;
+- legality/strength determination;
+- effect mapping;
+- isolated-versus-network analysis;
+- Guild property-reclamation conflict;
+- route-overlay conclusion.
+
+Those belong to CH-012.
+
+## CH-013 Boundary
+
+CH-011 must not establish:
+
+**someone in Greywake has been deliberately deciding where the monster migration kills people.**
+
+That remains the locked CH-013 midpoint revelation.

@@ -3,7 +3,7 @@
 **Volume:** 1 — Greywake Arc  
 **Chapter:** CH-007 — You Should Be Dead  
 **Phase:** Detailed Scene Architecture  
-**Status:** PROPOSED FOR PRE-MANUSCRIPT SCENE QA  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-007 MANUSCRIPT AUTHORIZED  
 **Final Scene Count:** 5  
 **POV:** Red Jackal first person  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
@@ -1315,3 +1315,20 @@ Pre-Manuscript Scene QA must verify:
 - CH-008 does not begin;
 - no final dialogue/manuscript prose exists;
 - Volume 2 remains unselected.
+
+
+# 19. Gate 8 Result
+
+**PASS**
+
+Formal QA record:
+
+`qa/CH-007-PRE-MANUSCRIPT-SCENE-QA.md`
+
+The five-scene CH-007 architecture is locked.
+
+The only authorized next production step is:
+
+**Draft the actual CH-007 manuscript — You Should Be Dead.**
+
+Do not draft CH-008 and do not create CH-008 Scene Architecture.

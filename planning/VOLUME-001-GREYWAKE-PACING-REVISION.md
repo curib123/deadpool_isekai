@@ -3,10 +3,10 @@
 **Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
 **Volume:** 1 — Greywake Arc  
 **Revision Type:** Canon-preserving pacing revision  
-**Status:** PACING REVISION PLAN LOCKED — MANUSCRIPT REVALIDATION REQUIRED FOR EDITED CHAPTERS  
+**Status:** PACING PLAN RETAINED / POWER-BALANCE ASSUMPTIONS SUPERSEDED BY OVERPOWERED RETCON  
 **Chapter Count:** 26 — UNCHANGED  
 **Arc Outcome:** UNCHANGED  
-**Primary Goal:** Reduce mid-arc investigation drag and strengthen the CH-021–CH-024 climax without power creep or canon replacement.
+**Primary Goal:** Reduce mid-arc investigation drag and strengthen the CH-021–CH-024 climax under the new overpowered role-player model.
 
 # 1. Revision Principle
 
@@ -76,8 +76,8 @@ From CH-008 onward:
 4. Every chapter ending from CH-009 through CH-024 must create forward pressure, not merely another question.
 5. CH-020 is the **climax ignition** even though Movement VI still formally begins at CH-021.
 6. CH-021–CH-024 are treated as **one continuous climax sequence** with no emotional or temporal reset between chapters.
-7. Spectacle comes from scale, geography, teamwork, failure, injuries, and competing objectives—not additional power tiers.
-8. Red may not become the sole battlefield solution.
+7. Spectacle comes from scale, geography, simultaneous objectives, Red's theatrical restraint, and the contrast between play and serious release.
+8. Red may dominate the physical battlefield, while supporting characters remain essential for information, evacuation, logistics, evidence, and local decisions.
 
 # 4. Revised Momentum Curve
 
@@ -276,15 +276,10 @@ Expand through:
 - Red taking physical cost;
 - the defense surviving because multiple competencies hold together.
 
-Do NOT add:
-- Stage II;
-- extra PL-4 uses;
-- army-killing solo attack;
-- new ultimate skill;
-- deus ex machina.
+Do NOT add a new power-up or awakening. Red is already overpowered. Any larger display must be framed as voluntary revelation/restraint removal rather than progression.
 
 Target:
-**great defensive battle**, not Red soloing a war.
+**great defensive battle where Red can physically overwhelm the threat but still has to choose what to reveal, what to protect first, and when to stop playing.**
 
 Preferred length:
 **~3.2k–3.7k**.
@@ -347,7 +342,7 @@ Canonical final line remains:
 
 # 8. Battle Scale Rule
 
-Arc 1 may feel larger without making Red overpowered.
+Arc 1 may feel larger by finally revealing more of how overpowered Red already is.
 
 Battle spectacle should come from:
 
@@ -360,8 +355,9 @@ Battle spectacle should come from:
 - coordinated militia/workers;
 - predators exploiting chaos;
 - physical fatigue;
-- Red being unable to solve all fronts;
-- choices about what can be saved first.
+- Red being unable to know/attend every front at once;
+- choices about what must be saved first;
+- the danger of him treating a serious crisis like a game for too long.
 
 The climax should feel like Greywake is surviving a disaster, not waiting for Red to cast the winning move.
 

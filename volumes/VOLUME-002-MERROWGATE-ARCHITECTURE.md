@@ -8,6 +8,20 @@
 **Status:** GATE 6 PASS — VOLUME ARCHITECTURE LOCKED / CHAPTER ROADMAP AUTHORIZED  
 **Scope:** Complete volume architecture only. No chapter roadmap, scene list, final dialogue, or manuscript prose.
 
+# Soul-Drift / Story-Intruder Retcon Override
+
+The authoritative retcon in `planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md` supersedes conflicting origin, POV, fourth-wall, Red-development, and power-limit language in this architecture.
+
+Locked interpretation:
+- Red enters Merrowgate with the same overwhelming capability he had from the beginning;
+- no Stage I/II progression exists;
+- no “discipline growth” or moral-development track exists for Red;
+- he may choose cleaner or more controlled manifestations because the scene, specialist advice, secrecy, or joke benefits from it;
+- Fourth-Wall Pause is available throughout;
+- Cassian is dangerous through systems, evidence, timing, distributed action, and other people's vulnerability—not raw power;
+- Merrowgate's existing 24-chapter pacing, reversal, climax, and resolution stay intact;
+- the independent Hero/Main-Villain storyline continues elsewhere unless a later gate deliberately intersects it.
+
 # Power-Model Retcon Override
 
 The authorial retcon in `planning/RED-JACKAL-OVERPOWERED-RETCON.md` supersedes all Stage I / Stage II / power-ceiling language in this file.
@@ -575,9 +589,9 @@ The climax is not a single duel.
 
 **Volume 2 ceiling: Stage I — Improvised Manifestation.**
 
-Stage II does not unlock in this volume.
+No power stage unlocks in this volume because Red has no power stages.
 
-Growth occurs through discipline, repeatability, and judgment rather than a new mastery stage.
+Any increase in precision, repeatability, or restraint is a **choice of presentation/application**, not growth in power or personality.
 
 ## 14.2 Approved Volume 2 Development
 
@@ -673,38 +687,22 @@ No joke quota exists.
 
 Comedy must drop naturally during the major reversal and harbor crisis.
 
-# 18. Character Development
+# 18. Character Movement / Stable Red Contrast
 
 ## 18.1 Red Jackal
 
-Opening position:
+Red does not undergo a moral-development arc.
 
-**"Nobody gets to decide what I am."**
+Volume 2 instead tests the same stable personality under a different system:
+- he likes the freedom of informal port work;
+- he likes being a rumor people trade;
+- he treats Cassian's manipulation as an invitation to play;
+- his off-manifest choice creates real consequences;
+- he stays because Cassian uses Red's name/story without permission, because Nessa and others have become chosen pieces on Red's board, and because leaving would let Cassian own the narrative;
+- he cooperates with specialists when their knowledge makes the game possible;
+- he remains self-centered, theatrical, fourth-wall-aware, and aura-farming at the end.
 
-Merrowgate pressure adds a new problem:
-
-Even when nobody can define him officially, people can still profit from:
-- his name;
-- his rumor;
-- his usefulness;
-- his absence from records.
-
-His volume development moves toward:
-
-**"If people are going to use my name, I should at least know what I am lending it to."**
-
-This is not moral purification.
-
-He remains:
-- theatrical;
-- self-centered;
-- dangerous;
-- curious;
-- willing to cheat;
-- willing to threaten;
-- resistant to authority.
-
-He becomes less casual about giving other people deniable access to his unpredictability.
+This is **situational pressure and revelation**, not personality reform.
 
 ## 18.2 Iria Voss
 

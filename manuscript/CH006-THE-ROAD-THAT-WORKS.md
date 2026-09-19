@@ -1,7 +1,9 @@
 # Chapter 6 — The Road That Works
 
 **Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
-**Word Count:** 2797,787  
+**Word Count:** 2,794  
+**Chapter QA:** `qa/CH-006-GATE-9-CHAPTER-QA.md`
+**Retcon QA:** `qa/CH-006-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
 The second job sounded easier. That should have worried him. He reported to the caravan yard the morning after the bridge repair with fewer illusions about frontier work and slightly more money in his pocket. The Road Guild had apparently decided that surviving one assignment without breaking anything important qualified him for another.
 
@@ -11,7 +13,7 @@ In less practical terms, he had been promoted from temporary road worker to arme
 
 Progress.
 
-A charged Wayfarer Tongue Token hung inside the lead wagon, close enough that the guards' instructions reached him clearly while they prepared to leave. The written schedule pinned beside it remained meaningless. Some traditions survived every world.
+A charged Wayfarer Tongue Token hung inside the lead wagon, close enough that the guards' instructions reached him clearly while they prepared to leave. The written schedule pinned beside it remained meaningless. Some traditions survived every chapter.
 
 One of the road guards pointed toward the middle of the caravan.
 
@@ -19,15 +21,15 @@ One of the road guards pointed toward the middle of the caravan.
 
 He looked toward the front. The first wagon had a clear view of the road ahead. Better light. Better positioning. Much stronger entrance potential.
 
-“he was thinking front-left.”
+“I was thinking front-left.”
 
 “You're not the lead guard.”
 
 “Not officially.”
 
-The guard stared at Red. Red moved beside the third wagon. So much for proving he did not need supervision. The caravan rolled out after sunrise. Five wagons.
+He stared at him. He moved beside the third wagon. So much for proving he did not need supervision. The caravan rolled out after sunrise. Five wagons.
 
-Two Road Guild guards. Several drivers and passengers. Red. Nobody seemed particularly interested in the fact that he had produced a hammer from nothing yesterday. Either the story had not traveled yet, or Greywake had healthier priorities than he expected.
+Two Road Guild guards. Several drivers and passengers. him. Nobody seemed particularly interested in the fact that he had produced a hammer from nothing yesterday. Either the story had not traveled yet, or Greywake had healthier priorities than he expected.
 
 The Main Caravan Road looked even more deliberate now that he knew what maintaining it required. Fresh gravel had been packed into low spots. Drainage channels had been cleared since the last rain. Brush had been cut back far enough from the road that nothing large could reach the wagons without being seen first.
 
@@ -41,17 +43,17 @@ The road worked. Not because it was safe by default. Because people kept spendin
 
 Annoyingly competent.
 
-Their first stop was a toll marker built beside a wide drainage channel. Two Guild workers checked wagon tags while one of the guards spoke with them about traffic farther ahead. He stepped away from the third wagon to stretch his legs.
+their first stop was a toll marker built beside a wide drainage channel. Two Guild workers checked wagon tags while one of the guards spoke with them about traffic farther ahead. He stepped away from the third wagon to stretch his legs.
 
 That was when he noticed the man crouched beside the road. Dark travel coat. Worn boots. A polearm rested on the ground within reach. He was not looking at the toll station.
 
-The man was looking at mud. More specifically, at a patch of mud as though it had personally offended him. Red moved closer. The man raised one hand without looking up.
+He was looking at mud. More specifically, he was looking at a patch of mud as though it had personally offended him. He moved closer. He raised one hand without looking up.
 
 “Don't step there.”
 
-He stopped with one foot half-raised. There were many ways to meet someone. Being told his foot was the problem was not one of the better ones. He lowered it behind him. The man pointed to the ground.
+He stopped with one foot half-raised. There are many ways to meet someone. Being told your foot is the problem is not the best one. He lowered it behind him. The man pointed to the ground.
 
-Only then did Red see the tracks. Several wide impressions crossed the drainage edge and disappeared toward the forest. Larger than deer tracks from Earth, split-hooved, with deep pressure near the front. A second trail cut across them.
+Only then did he see the tracks. Several wide impressions crossed the drainage edge and disappeared toward the forest. Larger than deer tracks from Earth, split-hooved, with deep pressure near the front. A second trail cut across them.
 
 Clawed. Four toes. Long stride. The man stood. He was around thirty, maybe a little older, with the kind of posture that made standing still look intentional. Nothing flashy about him. No polished armor. No unnecessary decoration.
 
@@ -65,21 +67,21 @@ The man looked at him.
 
 “For less than a minute.”
 
-“they were on schedule.”
+“We're on schedule.”
 
 “So are the animals.”
 
-The guard exhaled. That did not sound promising. Then he noticed Red.
+The guard exhaled. That did not sound promising. He noticed him.
 
 “This is Tavian Rook. Crownspine Warden liaison.”
 
-Tavian looked at Red once, then back at the tracks. Apparently Red had not made the immediate list of interesting environmental problems. He decided to fix that.
+Tavian looked at him once. Then back at the tracks. Apparently he had not made the immediate list of interesting environmental problems. He decided to fix that.
 
 “Red Jackal.”
 
 “Tavian Rook.”
 
-No reaction. Red adjusted his coat slightly and moved toward the forest edge where the light hit better. Tavian pointed at the ground again.
+No reaction. He adjusted his coat slightly and moved toward the forest edge where the light hit better. Tavian pointed at the ground again.
 
 “Not there either.”
 
@@ -87,7 +89,7 @@ He looked down. Another faint print sat less than half a step from his boot. He 
 
 Very dignified.
 
-This did weaken his case for not needing supervision. He had noticed.
+If you're wondering whether this weakened his case for not needing supervision, yes. He had noticed.
 
 “What are you looking for?” he asked.
 
@@ -145,7 +147,7 @@ That was annoyingly reasonable. The road guard folded his arms.
 
 The guard looked at him as if expecting support. He had none. Tavian stood and looked toward the forest.
 
-“One crossing means very little. Two means slightly more. He had seen six like this in three days.”
+“One crossing means very little. Two means slightly more. I've seen six like this in three days.”
 
 The guard's expression changed only a little.
 
@@ -153,25 +155,25 @@ The guard's expression changed only a little.
 
 “Near it. Side approaches too.”
 
-“their patrols haven't reported anything serious.”
+“Our patrols haven't reported anything serious.”
 
-“he didn't say serious.”
+“I didn't say serious.”
 
 He picked up his polearm.
 
-“he said unusual.”
+“I said unusual.”
 
-The toll workers finished checking the last wagon. The guard waved everyone forward. Tavian started walking in the same direction as the caravan. Red looked at him.
+The toll workers finished checking the last wagon. The guard waved everyone forward. Tavian started walking in the same direction as the caravan. He looked at him.
 
-“You're joining them?”
+“You're joining us?”
 
 “No.”
 
-“You're walking beside them.”
+“You're walking beside us.”
 
-“his next survey point is the rest post.”
+“My next survey point is the rest post.”
 
-“So you're joining them temporarily.”
+“So you're joining us temporarily.”
 
 “No.”
 
@@ -205,17 +207,17 @@ Tavian glanced at the old marker.
 
 One of their road guards heard him.
 
-“Not their route.”
+“Not our route.”
 
 Tavian looked back toward the main road.
 
-“he know.”
+“I know.”
 
 “The caravan stays here.”
 
-“he know.”
+“I know.”
 
-“You planning to hold them again?”
+“You planning to hold us again?”
 
 “No.”
 
@@ -269,9 +271,9 @@ The road guard called from behind them.
 
 Tavian looked over.
 
-“they were leaving in five.”
+“We're leaving in five.”
 
-“he heard.”
+“I heard.”
 
 The guard nodded toward the maintained road.
 
@@ -305,13 +307,13 @@ Just incomplete.
 
 The caravan started moving again. Tavian walked with them. Still not joining them, apparently. He had learned to respect technical definitions. The road beyond the rest post followed the forest edge for another mile before bending around a low ridge. The wagons spread slightly where the ground flattened.
 
-One of the guards rode ahead. The other stayed behind the second wagon. Red was still beside the third, a position chosen entirely for utility and therefore offensive to his instincts. Tavian moved near the front-right edge, watching the tree line.
+One of the guards rode ahead. The other stayed behind the second wagon. He was still beside the third. A position chosen entirely for utility and therefore offensive to his instincts. Tavian moved near the front-right edge, watching the tree line.
 
-Red noticed Tavian stop. Not dramatically. Just enough.
+He noticed him stop. Not dramatically. Just enough.
 
 “What?”
 
-Tavian lifted one hand. Everyone behind him slowed. The lead guard turned. Then something crashed through the brush. A large four-legged animal burst from the trees.
+He lifted one hand. Everyone behind him slowed. The lead guard turned. Then something crashed through the brush. A large four-legged animal burst from the trees.
 
 Not a predator. At least not immediately. It had heavy shoulders, a long narrow head, and two swept-back horns. Mud streaked its flank. It crossed the drainage ditch badly and hit the road at an angle.
 
@@ -321,7 +323,7 @@ Clawed. Fast. The predator came through the brush lower to the ground and commit
 
 The predator. Five wagons. Drivers. Passengers. Two guards.
 
-Red. Tavian moved first.
+him. Tavian moved first.
 
 “Drivers, hold the wagons.”
 
@@ -335,11 +337,11 @@ Simple. Possibly impressive. Tavian's voice cut across the road.
 
 “Not there.”
 
-Red looked at Tavian. Tavian pointed hard to his right.
+He looked at him. He pointed hard to his right.
 
 “Move.”
 
-“he had got the line.”
+“I've got the line.”
 
 “You're closing its escape.”
 
@@ -369,7 +371,7 @@ More importantly, he did not need to reveal another impossible object for a situ
 
 The predator lowered its head. Tavian said, very calmly, “Don't chase it.”
 
-“he wasn't planning to.”
+“I wasn't planning to.”
 
 He had absolutely been planning to. The animal darted left. He matched it. Not attacking. Just taking space.
 
@@ -439,11 +441,11 @@ Tavian looked at him.
 
 “Yes.”
 
-“Then they continue.”
+“Then we continue.”
 
 Tavian nodded once.
 
-“they should.”
+“We should.”
 
 The guard walked back toward the wagons. That was it. No accusation. No argument. He had a caravan to move.
 
@@ -465,13 +467,13 @@ He pointed to the clawed prints.
 
 “Why?”
 
-“he don't know.”
+“I don't know.”
 
 That was the first answer from him he liked. Not because it was useful. Because he did not pretend it was more than he knew. The caravan drivers started calling people back into position. He looked at Tavian.
 
 “You coming?”
 
-“his survey continues north.”
+“My survey continues north.”
 
 “That sounds like yes.”
 

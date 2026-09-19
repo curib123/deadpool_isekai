@@ -4,7 +4,7 @@
 **Chapter:** CH-010 — The Ledger Doesn't Balance  
 **Movement:** III — The Road Is Lying  
 **Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-010 MANUSCRIPT AUTHORIZED  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-010 MANUSCRIPT CANON  
 **Final Scene Count:** 5  
 **POV:** Red Jackal first person  
 **Primary Cast:** Red Jackal, Maelis Orra, Jessa Vale, Rovan Hesk  

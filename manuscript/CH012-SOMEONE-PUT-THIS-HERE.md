@@ -1,12 +1,16 @@
 # Chapter 12 — Someone Put This Here
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** CINEMATIC STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 3,078  
 **Chapter QA:** `qa/CH-012-GATE-9-CHAPTER-QA.md`
 
 “A march-lure.”
 
-Tavian's words stayed in the little stone recess longer than they should have. He looked at the stake again. It had not become more evil-looking now that it had a name. That was mildly disappointing. The dark shaft was fixed into a socket cut through old watch-stone. Metal bands held a narrow ceramic chamber near the top. The vented cap faced slightly away from the ruined road, while thin etched channels ran from the base toward the rear plate. Maelis lifted one hand before Kellan could lean closer.
+The name changed nothing about the thing in the wall.
+
+Dark stake. Ceramic chamber. Vented cap.
+
+Red had expected evil to look more cooperative. The dark shaft was fixed into a socket cut through old watch-stone. Metal bands held a narrow ceramic chamber near the top. The vented cap faced slightly away from the ruined road, while thin etched channels ran from the base toward the rear plate. Maelis lifted one hand before Kellan could lean closer.
 
 “Don't touch it.”
 
@@ -32,7 +36,13 @@ Tavian gave him a flat look.
 
 “It does.”
 
-Maelis crouched at the edge of the recess and opened her field case. She took out paper, charcoal, a measuring cord, and two small metal markers. No dramatic magical lens. No glowing sphere that immediately announced the villain's name. Apparently evidence preferred office supplies too. She began with the recess itself.
+Maelis opened her field case.
+
+Paper. Charcoal. Measuring cord. Two small metal markers.
+
+No glowing lens. No convenient answer.
+
+She began with the stone recess.
 
 “Old road structure?”
 
@@ -142,7 +152,13 @@ Kellan looked at her.
 
 “I enjoy making it true.”
 
-That ended the argument. They spent the next stretch learning that a march-lure could be very informative while refusing to answer the question he actually cared about. Tavian moved around the ruined watch point, checking the tracks without crossing Maelis's marked evidence line. Kellan followed the stonework and drainage cut. Maelis measured the lure's mounting angle and copied the visible sigils. He mostly tried not to touch anything.
+Tavian circled the ruined watch point, reading tracks outside Maelis's evidence markers.
+
+Kellan followed the stonework and drainage cut.
+
+Maelis measured the lure's angle and copied the visible sigils.
+
+Red kept his hands to himself.
 
 Growth.
 
@@ -258,7 +274,11 @@ Maelis folded the paper.
 
 “We first preserve what we have.”
 
-That was when the investigation became personal. It happened on the way back toward Greywake. The path down from Broken North gave them a view across several older connector roads. Kellan stopped at a bare patch of slope and pointed toward three lines cutting through the trees.
+On the way down from Broken North, the trees opened.
+
+Three old connector roads cut across the slope below them.
+
+Kellan stopped and pointed.
 
 “That one feeds the outer bridge.”
 
@@ -278,11 +298,19 @@ Closer to the edge. Kellan pointed toward the outer connector.
 
 “And my bridge.”
 
-Farther into the side Tavian had called displacement. Then the track route from yesterday. North again. For a few seconds nobody said anything. He looked at the map. His jobs had felt random when he took them. Bad work for good-enough money. No registry. No certification. No normal protections.
+Farther into the side Tavian had called displacement. Then the track route from yesterday. North again. Nobody spoke.
 
-Convenient.
+Red looked at the map.
 
-He had liked that part. Freedom from forms was still freedom. It also meant there was no clean place in the records where someone had to explain why he kept ending up in bad places.
+Main-road job on one side.
+
+The pack attack closer to the line.
+
+Kellan's bridge farther into the displacement route.
+
+His jobs had felt random when he took them.
+
+Now they sat on the same piece of paper.
 
 “Interesting,” he said.
 
@@ -514,7 +542,23 @@ The supervisor looked at him.
 
 “And the Guild doesn't control whether we believe you.”
 
-That was when Captain Brynn Alder arrived. She came with two militia members and the expression of someone who had been told there was a possible armed dispute involving him and had immediately regretted waking up. Her eyes moved across the group. Guild. Maelis. Tavian. Kellan. Red. She stopped there.
+Boots sounded on the road behind the Guild party.
+
+Captain Brynn Alder arrived with two militia members.
+
+Her eyes moved across the group.
+
+Guild.
+
+Maelis.
+
+Tavian.
+
+Kellan.
+
+Red.
+
+She stopped there.
 
 “Why are you in the middle?”
 
@@ -612,9 +656,9 @@ That was a very Maelis sentence. Maelis seemed to approve. Brynn's gaze stayed o
 
 Nobody drew a weapon.
 
-Nobody won.
+The lure stayed where they had found it.
 
-That was probably why it worked. The first lure stayed where they found it. For once, leaving something alone felt like progress. They ended the day at a militia road table near Greywake's outer post. Neutral enough that the Guild did not own the room. Public enough that nobody could quietly make the papers disappear. Maelis spread three maps across the table. He could not read a single label. He was becoming very good at being offended by maps. Tavian placed small stones where he had recorded track concentrations. Kellan marked old connectors, outer bridges, and homestead approaches. Brynn added militia routes and the maintained approaches to Greywake. Maelis drew the line they had recorded from the lure's mount.
+For once, leaving something alone counted as progress. They ended the day at a militia road table near Greywake's outer post. Neutral enough that the Guild did not own the room. Public enough that nobody could quietly make the papers disappear. Maelis spread three maps across the table. He could not read a single label. He was becoming very good at being offended by maps. Tavian placed small stones where he had recorded track concentrations. Kellan marked old connectors, outer bridges, and homestead approaches. Brynn added militia routes and the maintained approaches to Greywake. Maelis drew the line they had recorded from the lure's mount.
 
 “Again,” she said. “This is a provisional directional effect.”
 
@@ -666,12 +710,14 @@ Maelis nodded.
 
 “Yes.”
 
-He studied the map again. The pattern did not tell them who had ordered anything. It did not tell them how many stakes existed. It did not tell them whether Hesk had known exactly where he was being sent. It did not tell them who had decided the rules.
+Red looked at the line Maelis had drawn across the map.
+
+One side touched the Main Caravan Road.
+
+The other cut through the older routes toward the outer settlements.
+
+No name. No order. No proof of a network.
 
 Not yet.
 
-But the road finally admitted what direction the pressure moved.
-
-The lure's protected side favored the Main Caravan Road.
-
-Its danger side pointed toward the outer settlements.
+But the direction was finally visible.

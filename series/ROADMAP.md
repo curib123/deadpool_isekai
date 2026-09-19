@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** GREYWAKE ARC COMPLETE — VOLUME 1 PUBLISH-READY / VOLUME 2 MERROWGATE SELECTED — GATE 5 PASS / GATE 6 PENDING
+**Status:** GREYWAKE ARC COMPLETE — VOLUME 1 PUBLISH-READY / VOLUME 2 MERROWGATE ARC — GATE 6 PASS / GATE 7 AUTHORIZED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -92,7 +92,7 @@ The project publication state is now:
 1. **Volume 1 / Greywake Arc — PUBLISH-READY — Gate 11 PASS**
 2. **CH-001 through CH-026 approved for external posting in canon order**
 
-All 26 publication copies have individual Gate 11 PASS records. The aggregate release record is `qa/publish/VOLUME-001-PUBLISH-VERSION-QA.md`. This authorizes posting but does not claim the chapters have already been posted externally. Volume 2 is now selected as DEST-002 — Merrowgate through Gate 5; publication approval for Volume 1 does not authorize Volume 2 chapter production.
+All 26 publication copies have individual Gate 11 PASS records. The aggregate release record is `qa/publish/VOLUME-001-PUBLISH-VERSION-QA.md`. This authorizes posting but does not claim the chapters have already been posted externally. Volume 2 is now locked as DEST-002 — Merrowgate / Merrowgate Arc through Gate 6; publication approval for Volume 1 does not authorize Volume 2 manuscript production. Gate 7 chapter-roadmap planning is authorized.
 
 ## Destination Naming Law
 

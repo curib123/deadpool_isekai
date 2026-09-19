@@ -1,6 +1,8 @@
 # Chapter 4 — Off the Books
 
-**Status:** DRAFT — GATE 9 NOT YET RUN
+**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED  
+**Word Count:** 2,838  
+**Chapter QA:** `qa/CH-004-GATE-9-CHAPTER-QA.md`
 
 By the time I reached the Road Guild hall, I had a working theory about Greywake. Everything important eventually became paperwork. Road access. Food shipments. Caravan schedules. Identity. Apparently even being an unexplained problem required a form.
 

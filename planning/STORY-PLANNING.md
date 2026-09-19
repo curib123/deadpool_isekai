@@ -339,7 +339,7 @@ Gate 9 QA:
 
 No F-ID changed status in CH-027. No M-ID advanced.
 
-**Official next step:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.
+**Historical next step before Soul-Drift reset:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.
 
 Later manuscript work and Volume 3 selection remain deferred until their required gates pass.
 
@@ -476,7 +476,7 @@ After all 13 changed chapters pass:
 
 **Gate 11 refresh:** COMPLETE — 13 revised publication copies regenerated and individually revalidated; aggregate Volume 1 Gate 11 PASS.
 
-**Official next step:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.
+**Historical next step before Soul-Drift reset:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.
 
 
 # 8. Volume 1 Overpowered Retcon Completion

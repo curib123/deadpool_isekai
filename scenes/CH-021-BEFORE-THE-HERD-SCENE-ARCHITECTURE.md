@@ -4,7 +4,7 @@
 **Chapter:** CH-021 — Before the Herd  
 **Movement:** VI — Greywake Holds  
 **Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-021 MANUSCRIPT AUTHORIZED  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-021 MANUSCRIPT CANON  
 **Final Scene Count:** 6  
 **POV:** Red Jackal first person  
 **Primary Cast:** Red Jackal, Captain Brynn Alder, Tavian Rook, Maelis Orra, Sela Arven, Kellan Dorr, Jessa Vale, Greywake civilians/militia/work crews  

@@ -1,4 +1,4 @@
-Chapter 22 — First Wave
+# Chapter 22 — First Wave
 
 The first mass did not charge us. It came out of the trees in layers.
 
@@ -40,7 +40,13 @@ Another took the same bend. Tavian watched the forest, then the road, then the n
 
 “Wait.”
 
-The pressure behind my eyes was already present, the familiar place where an idea could become something physical if I gave it enough attention. I kept it there. Unused.
+The impossible answer was already there if I wanted it.
+
+Wall. Trench. Cage. Something much worse.
+
+Tavian had said wait.
+
+So I waited.
 
 The first browsers reached the shallow approach where we had cleared brush to leave Broken North looking like the easier route. They slowed. One turned its head.
 
@@ -86,9 +92,11 @@ He pointed at a strip of ground between the broken fence and the fallback openin
 
 “Low. From there to the ditch. Angle north.”
 
-That was enough. I focused. Pressure gathered behind my eyes and dropped into my hands.
+That was enough.
 
-A pale-grey shape pushed out of empty air along the line he had chosen. It was ugly. Low, thick at the base, no higher than my thigh, with a sloping face that looked more like a badly cut piece of roadwork than anything I would have designed for myself.
+I gave the ground the line Tavian wanted.
+
+A pale-grey shape pushed out of empty air along the angle he had chosen. It was ugly. Low, thick at the base, no higher than my thigh, with a sloping face that looked more like a badly cut piece of roadwork than anything I would have designed for myself.
 
 Perfect. The first prey hit the visual line and turned. One jumped it.
 
@@ -102,9 +110,9 @@ Not horns. A broken fence rail. It spun out of the moving mass and hit hard enou
 
 My forearm scraped along stone. Skin opened. Heat followed.
 
-Then pain. I kept my feet. The pale-grey guide shivered.
+Then pain. I kept my feet.
 
-A crack ran along the top.
+The pale-grey guide stayed where I had put it.
 
 “Red,” Tavian said.
 
@@ -114,7 +122,7 @@ The last civilian cart crossed behind the inner marker. Brynn waved the lane clo
 
 “Clear!”
 
-I let the construct go. It broke apart into nothing before the next wave reached it. The cut along my arm had already started pulling itself closed.
+I dismissed the construct before the next wave reached it. The cut along my arm had already started pulling itself closed.
 
 The wound was already closing, but every second of it still hurt. My shoulder hurt.
 
@@ -138,7 +146,7 @@ A line of smaller prey crossed behind the browsers. They followed the wrong side
 
 Ridge-hounds. They were not driving the prey. They were using the same opening.
 
-One hound cut sideways, snapped at the rear of a limping animal, missed, and kept running. Another followed the side road. My headache sharpened.
+One hound cut sideways, snapped at the rear of a limping animal, missed, and kept running. Another followed the side road.
 
 “Scatter?” I asked.
 
@@ -228,17 +236,23 @@ He dropped back into the cut. I reached the rail.
 
 A ridge-hound came too close. A militia shield slammed into its shoulder and turned it away. Another snapped at a spear shaft, let go, and followed the moving prey instead.
 
-There was no clean path down. There was no time to build one normally. This one was mine.
+There was no clean path down. There was no time to build one normally.
 
-I crouched and looked at the broken edge. Not stairs. Too much shape.
+This one was mine.
 
-Not a bridge. Too long. One point to brace.
+I crouched and looked at the broken edge.
 
-One thing to grab. I focused. The second manifestation hurt sooner.
+I could have made stairs.
 
-That was new only in degree. A pale-grey rail pushed out from the broken road edge and hooked down toward the trapped worker. It formed crooked.
+I could have made a bridge.
 
-The lower end was thicker than I wanted. The upper grip shook under my hand.
+Neither was necessary, and both would have put more solid geometry into a route full of panicking animals.
+
+One point to brace.
+
+One thing to grab.
+
+A pale-grey rail pushed out from the broken road edge and hooked down toward the trapped worker exactly where I wanted it.
 
 “Use that!”
 
@@ -246,7 +260,7 @@ The worker grabbed it. Two people pulled. The pinned leg came free.
 
 He shouted. The sound was ugly. Alive was allowed to be ugly.
 
-They dragged him up. The construct trembled. A ridge-hound hit the road edge beside me.
+They dragged him up. I kept the rail in place until the worker was clear. A ridge-hound hit the road edge beside me.
 
 I turned just enough. Its shoulder caught my side. The world moved.
 
@@ -262,7 +276,9 @@ Breathing arrived. Badly.
 
 I was not fine.
 
-The worker was clear. The pale rail cracked where it joined the road.
+The worker was clear.
+
+I dismissed the rail.
 
 “Fall back!” Brynn ordered.
 
@@ -292,9 +308,11 @@ Brynn wiped mud from one glove.
 
 A horn sounded from Broken North. Two short calls. Repair pressure.
 
-We ran again. By then my hands had started shaking more. Not enough to stop me.
+We ran again. My hands were shaking from impacts, pain, and adrenaline.
 
-Enough to be information. Broken North was already under more pressure than we had built it to take. The old timber support still held beneath the cracked shelf.
+Useful medical information.
+
+Not a power gauge. Broken North was already under more pressure than we had built it to take. The old timber support still held beneath the cracked shelf.
 
 The rough footing still existed. Neither looked happy. Animals were entering faster now.
 
@@ -318,19 +336,25 @@ Some would. The ones behind would bunch. Then everything would get worse.
 
 “Only turn the front. Not the whole line.”
 
-Good. The whole line was beyond what I could shape. Brynn cleared the workers.
+Good.
+
+I could imagine answers for the whole line.
+
+That was exactly why I did not use them.
+
+A wall big enough to dominate the herd would create compression. A trench would create bodies. Moving the animals by force without understanding their behavior would turn Tavian's problem into mine and everyone else's.
+
+Brynn cleared the workers.
 
 “Back from the edge!”
 
-I stepped into the space they left. My ribs objected. My shoulder objected.
+I stepped into the space they left.
 
-My head had joined them. I focused anyway. The third manifestation came out wrong before it came out right.
+One guide.
 
-A pale-grey slab appeared at an angle, too narrow at the near end. I forced the idea simpler. Not wall.
+The pale-grey slab appeared at Tavian's angle, low enough not to trap anything and wide enough to make the first animals choose the inside path.
 
-Guide. The far end widened. The shape leaned across the weak approach, low enough not to trap anything, angled enough to make the first animals choose the inside path.
-
-It was crooked. It was cracked before the first hoof touched the ground beside it. It also worked.
+It worked immediately.
 
 The lead browser saw the obstruction and cut inward. The next followed. Then another.
 
@@ -340,29 +364,39 @@ No one cheered. There was no time. But I saw Brynn look once.
 
 I saw two workers who had spent the last few days watching my impossible objects fail, wobble, bend, and disappear look at the guide and then at me. For once, the dramatic thing had also been the practical thing. I did not ruin it by saying anything.
 
-I kept my mouth shut and let the moment pass. The guide cracked down the center.
+I kept my mouth shut and let the moment pass.
 
 “Move!” Tavian shouted.
 
-I moved. A large prey animal clipped the failing outer edge. Stone broke loose under my boot.
+I dismissed the guide and moved. A large prey animal clipped the exposed outer edge. Stone broke loose under my boot.
 
 I went down. Something struck my thigh. Maybe hoof.
 
 Maybe debris. It did not matter. Pain arrived first.
 
-The construct failed behind me. The branch of animals had already turned. Workers grabbed my arms and dragged me behind the repair line before the next group crossed.
+The branch of animals had already turned. Workers grabbed my arms and dragged me behind the repair line before the next group crossed.
 
-My leg wanted to fold when I stood. My hands were shaking badly now.
+My leg hurt when I stood. My hands shook badly from being hit, running on damaged muscle, and generally treating my body as negotiable.
 
-The pressure behind my eyes had become a hard pulse. My ribs hurt every time I inhaled deeper than necessary. A cut along my thigh was closing under torn cloth.
-
-Slowly. Painfully. Without providing any energy whatsoever.
+A cut along my thigh was already closing under torn cloth.
 
 Tavian came to me.
 
-“No more.”
+“No more guessing.”
 
-I looked at my hands and nodded. He was already watching the road again. Broken North was still open. That was the important part.
+I looked at him.
+
+He pointed at the migration.
+
+“Every shape you add changes their choices. You act when I give you the geometry.”
+
+That was not a limit on what I could make.
+
+It was a limit on how much I understood.
+
+I nodded.
+
+Broken North was still open. That was the important part.
 
 Open did not mean healthy. The rough footing had started shedding fill along one side. One support rope hung loose where a guide post had pulled free.
 
@@ -460,7 +494,13 @@ My hands were still shaking.
 
 The impossible part of me was still there.
 
-So was the very clear knowledge that shaping anything else right now would be a bad idea.
+Completely.
+
+So was the very clear knowledge that making something enormous without knowing what Tavian was seeing would be a bad idea.
+
+Not because I could not.
+
+Because I did not know what the herd would do next.
 
 The brush opened.
 

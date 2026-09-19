@@ -706,7 +706,7 @@ CH-005 may not assume any later conspiracy knowledge not earned in prose.
 # CH-005 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-005 — A Better Hammer  
-**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+**Status:** SUPERSEDED BY CH-006 CANON CHECKPOINT
 
 ## Red Jackal — Opening CH-005
 
@@ -1033,3 +1033,100 @@ Do not begin:
 - severe Red Jackal injury;
 - Sela Arven's treatment-house material;
 - F-003 planting.
+
+
+
+# CH-006 Canon Checkpoint
+
+**Chapter:** CH-006 — The Road That Works  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH006-THE-ROAD-THAT-WORKS.md`  
+**QA:** `qa/CH-006-GATE-9-CHAPTER-QA.md`
+
+After CH-006, Red Jackal canonically knows:
+
+- Tavian Rook is a Crownspine Warden liaison already investigating abnormal monster-route drift;
+- Tavian is highly competent at track reading, migration judgment, rescue positioning, and field safety;
+- the Main Caravan Road works because Greywake continually invests workers, guards, repairs, drainage, markers, and traffic control into it;
+- a nearby minor side route visibly receives weaker maintenance and protection;
+- repeated browser and predator track patterns are crossing near the protected road in directions Tavian considers ecologically abnormal;
+- one isolated crossing could be ordinary, but repeated layered crossings are the concern;
+- the same kind of abnormal movement can produce immediate road-safety problems;
+- Tavian does not know the cause;
+- the road can be operationally safe while the surrounding ecology is becoming wrong;
+- Tavian's safety instructions are worth following when his expertise is better than Red Jackal's improvisation.
+
+Red Jackal has begun to respect Tavian's competence.
+
+Red Jackal still does **not** know:
+
+- the march-lure network exists;
+- Hesk is redirecting migration;
+- casualty records are falsified;
+- outer communities are deliberately being sacrificed;
+- why his regeneration works;
+- any Fate/Great Design truth;
+- any protected series mystery truth.
+
+## Tavian Rook — Post-CH-006 Knowledge
+
+Tavian canonically knows:
+
+- abnormal migration drift is recurring near Greywake's routes;
+- browser and predator movement patterns are overlapping in repeated ways he considers wrong;
+- side-route observation and maintenance are weaker than the profitable Main Caravan Road;
+- Red Jackal is irregular Road Guild labor;
+- Red Jackal is physically capable and can follow correct field instructions despite theatrical instincts;
+- Red Jackal does not need to be treated as incompetent, but Tavian has reason to distrust unnecessary risk.
+
+Tavian still does not know:
+
+- march-lures;
+- Hesk's hidden policy;
+- falsified casualty records;
+- Red Jackal's anomaly origin;
+- Play Logic mechanics;
+- Fate/Great Design truth.
+
+## Road Guild Guards — Post-CH-006 Knowledge
+
+Road guards canonically know:
+
+- Tavian is investigating migration/safety concerns;
+- the Main Caravan Road remains open;
+- Red Jackal contributed usefully during a short road-defense incident;
+- Tavian believes surrounding animal movement is abnormal.
+
+They are not established as knowingly complicit in any conspiracy.
+
+## F-ID State After CH-006
+
+No F-ID changes status.
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANNED — NOT YET PLANTED
+- F-004 — PLANTED — CH-005
+
+## M-007 State After CH-006
+
+M-007 remains inactive.
+
+No Fate/prophecy/causal-wake clue was introduced.
+
+## CH-007 Handoff
+
+CH-007 may begin with:
+
+- Tavian's route-irregularity concern already established;
+- Red Jackal and Tavian having first-hand field friction and limited mutual respect;
+- the ecological pattern capable of escalating into a displaced predator attack;
+- Red Jackal still having no regeneration clue from CH-006;
+- F-003 still available for its planned CH-007 planting.
+
+CH-007 may not assume:
+
+- proof of Hesk's involvement;
+- march-lure knowledge;
+- F-003 already planted;
+- any Fate explanation.

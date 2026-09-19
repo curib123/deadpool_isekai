@@ -6,135 +6,160 @@
 **Primary Platform:** WebNovel-compatible release copy  
 **Gate:** 11 — Publish Version QA  
 **Review Date:** 2026-09-19  
-**Status:** STALE AFTER FOUNDATIONAL RETCON — PRE-RETCON GATE 11 PASS / REVALIDATION REQUIRED  
-**Canon Revalidation:** PRE-RETCON PASS — NEW GATE 10 REQUIRED
+**Status:** PUBLISH-READY — GATE 11 PASS / OVERPOWERED RETCON REFRESH COMPLETE  
+**Canon Revalidation:** PASS — `qa/VOLUME-001-GREYWAKE-OVERPOWERED-RETCON-GATE-10-REVALIDATION.md`
 
-# Retcon Notice
+# 1. Refresh Scope
 
-The 26 publication copies remain preserved as the previously approved release set.
+The Red Jackal overpowered retcon changed 13 canon manuscripts.
 
-They are no longer treated as the final current publication set because the Red Jackal power foundation changed materially.
+Their reader-facing copies were regenerated from the current canon sources and individually revalidated:
 
-Any chapter whose prose presents:
-- genuine Stage I/II power progression;
-- hard exhaustion-based raw-power ceilings;
-- Red as physically incapable of an effect he now writer-truth could perform;
-- later power unlocks;
+- CH-005
+- CH-006
+- CH-007
+- CH-009
+- CH-011
+- CH-015
+- CH-016
+- CH-019
+- CH-020
+- CH-021
+- CH-022
+- CH-023
+- CH-024
 
-must return through Gate 9, then regenerate its publication copy and rerun Gate 11.
+The other 13 chapter manuscripts did not change and retain their existing valid publication copies:
 
-# Volume Decision
+- CH-001
+- CH-002
+- CH-003
+- CH-004
+- CH-008
+- CH-010
+- CH-012
+- CH-013
+- CH-014
+- CH-017
+- CH-018
+- CH-025
+- CH-026
 
-# STALE — REVALIDATION REQUIRED
+# 2. Volume Decision
 
-All 26 canon chapters now have:
-
-- a dedicated reader-facing publication copy under `published/volume-001/`;
-- an individual Gate 11 QA record under `qa/publish/`;
-- semantic equivalence to the current canon manuscript;
-- repository metadata removed from reader-visible text;
-- canon title and prose order preserved;
-- canon opening and ending preserved;
-- no publication-only story edits;
-- WebNovel-compatible plain reader text.
+# PASS
 
 **26 / 26 chapters are PUBLISH-READY.**
 
-This means the files are approved for external posting.
+All changed publication copies:
+- derive from the current CANON manuscript;
+- remove Status / Word Count / QA / Retcon QA metadata;
+- use a plain reader-facing chapter-title line rather than a Markdown heading marker;
+- preserve prose order;
+- preserve dialogue and internal narration;
+- preserve intentional short/impact paragraphs;
+- contain no publication-only story edits.
 
-It does **not** mean they have already been posted externally.
+# 3. Chapter Matrix
 
-# Chapter Matrix
+| Chapter | Title | Source State | Publication QA |
+|---|---|---|---|
+| CH-001 | Wrong Forest, Wrong World | retained canon | Gate 11 PASS |
+| CH-002 | Undefined | retained canon | Gate 11 PASS |
+| CH-003 | The Things They Can Measure | retained canon | Gate 11 PASS |
+| CH-004 | Off the Books | retained canon | Gate 11 PASS |
+| CH-005 | A Better Hammer | retcon revised | refreshed Gate 11 PASS |
+| CH-006 | The Road That Works | retcon revised | refreshed Gate 11 PASS |
+| CH-007 | You Should Be Dead | retcon revised | refreshed Gate 11 PASS |
+| CH-008 | Outside the Lanterns | retained canon | Gate 11 PASS |
+| CH-009 | Wrong Tracks | retcon + pacing revised | refreshed Gate 11 PASS |
+| CH-010 | The Ledger Doesn't Balance | retained canon | Gate 11 PASS |
+| CH-011 | Broken North | retcon revised | refreshed Gate 11 PASS |
+| CH-012 | Someone Put This Here | retained canon | Gate 11 PASS |
+| CH-013 | Where They Die | retained canon | Gate 11 PASS |
+| CH-014 | Necessary Losses | retained canon | Gate 11 PASS |
+| CH-015 | One Stake Too Many | retcon revised | refreshed Gate 11 PASS |
+| CH-016 | Backflow | retcon revised | refreshed Gate 11 PASS |
+| CH-017 | The Price of Being Right | retained canon | Gate 11 PASS |
+| CH-018 | No Acceptable Loss | retained canon | Gate 11 PASS |
+| CH-019 | Build the Wrong Road | retcon + pacing revised | refreshed Gate 11 PASS |
+| CH-020 | The Last Lure | retcon + pacing revised | refreshed Gate 11 PASS |
+| CH-021 | Before the Herd | retcon + pacing revised | refreshed Gate 11 PASS |
+| CH-022 | First Wave | retcon + pacing revised | refreshed Gate 11 PASS |
+| CH-023 | Greywake Holds | retcon climax rebuild | refreshed Gate 11 PASS |
+| CH-024 | No One Gets Chosen | retcon climax rebuild | refreshed Gate 11 PASS |
+| CH-025 | What Greywake Counts | retained canon | Gate 11 PASS |
+| CH-026 | Before They Decide What I Am | retained canon | Gate 11 PASS |
 
-| Chapter | Title | Canon State | Publication Copy | Publish QA |
-|---|---|---|---|---|
-| CH-001 | Wrong Forest, Wrong World | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-002 | Undefined | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-003 | The Things They Can Measure | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-004 | Off the Books | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-005 | A Better Hammer | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-006 | The Road That Works | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-007 | You Should Be Dead | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-008 | Outside the Lanterns | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-009 | Wrong Tracks | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-010 | The Ledger Doesn't Balance | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-011 | Broken North | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-012 | Someone Put This Here | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-013 | Where They Die | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-014 | Necessary Losses | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-015 | One Stake Too Many | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-016 | Backflow | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-017 | The Price of Being Right | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-018 | No Acceptable Loss | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-019 | Build the Wrong Road | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-020 | The Last Lure | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-021 | Before the Herd | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-022 | First Wave | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-023 | Greywake Holds | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-024 | No One Gets Chosen | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-025 | What Greywake Counts | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
-| CH-026 | Before They Decide What I Am | CANON / Gate 9 PASS | EXISTS | PUBLISH-READY — Gate 11 PASS |
+# 4. Retcon-Specific Release Checks
 
-# Volume-Level Checks
+**PASS.**
 
-- [x] 26 / 26 publication copies exist from successful repository creation.
-- [x] 26 / 26 individual Gate 11 QA records PASS.
-- [x] Chapter order is exactly CH-001 → CH-026.
-- [x] No missing chapter.
-- [x] No duplicated chapter in the release sequence.
-- [x] Chapter titles match canon.
-- [x] Reader-facing copies contain no CANON/Gate/word-count metadata.
-- [x] Repository QA/internal file references are removed from reader-facing chapter text.
-- [x] Publication bodies preserve canon paragraph order.
-- [x] Publication bodies preserve canon dialogue/narration wording.
-- [x] No raw code fences exist in canon prose bodies.
-- [x] No raw Markdown emphasis markers exist in canon prose bodies.
-- [x] No every-sentence-new-line conversion was introduced.
-- [x] Intentional short/impact paragraphs remain separated.
-- [x] Self-talk / reader-talk / spoken dialogue distinctions remain canon-equivalent.
-- [x] F-001 wording remains preserved in CH-002.
-- [x] F-002 wording remains preserved in CH-003.
-- [x] F-004 wording remains preserved in CH-005.
-- [x] F-003 wording remains preserved in CH-007.
-- [x] CH-016 bounded M-007 tonal material remains unchanged in meaning.
-- [x] CH-022 manifestation count/state remains unchanged.
-- [x] CH-023 PL-4 climax utility remains unchanged.
-- [x] CH-024 final lure/Hesk climax remains unchanged.
-- [x] CH-025 institutional resolution remains unchanged.
-- [x] CH-026 departure remains unchanged.
-- [x] CH-026 final line remains: **“Then I left Greywake before they could decide what I was.”**
-- [x] No Volume 2 destination is introduced.
-- [x] Volume 2 remains unselected.
+Reader-facing release now preserves:
+- Red already being overwhelmingly powerful;
+- no Stage progression;
+- no manifestation stamina budget;
+- pain without raw-power depletion;
+- CH-007 worker injury as consequence of Red's game/judgment failure;
+- CH-015 precision choice and informed mistake;
+- CH-016 multi-route consequence;
+- CH-020 Hesk escape as Red's deliberate hesitation/misjudgment;
+- CH-021 discipline/predictability rather than power conservation;
+- CH-022 ecological restraint;
+- CH-023 first major hidden-power physical reveal;
+- CH-024 serious-switch / human climax.
 
-# Publication Copy Policy Confirmation
+Key CH-024 line preserved:
 
-Every `published/volume-001/` chapter was generated from its CANON manuscript by:
+**“Power is not the same thing as being right.”**
 
-1. preserving the chapter title;
-2. removing the leading Markdown heading marker only;
-3. removing repository-only metadata blocks such as CANON status, word count and Chapter QA path;
-4. preserving the canon prose body exactly in wording and paragraph order.
+# 5. Mystery / Continuity
 
-No substantive publication edit was made.
+**PASS.**
 
-# Canon Relationship
+Planted clue locations remain:
+- F-001 — CH-002
+- F-002 — CH-003
+- F-004 — CH-005
+- F-003 — CH-007
 
-The following remain authoritative:
+M-007 remains bounded to its approved CH-016 tonal hint.
 
-`manuscript/CH001-...` through `manuscript/CH026-...`
+No protected series mystery truth enters the publication refresh.
 
-The `published/volume-001/` files are approved release artifacts only.
+No Volume 2 destination is inserted into Volume 1 prose.
 
-If a future edit changes prose meaning, story facts, characterization, continuity, power use, mystery state or ending:
+# 6. Arc Ending
 
-**return to Gate 9 → recanonize → regenerate publication copy → rerun Gate 11.**
+**PASS.**
 
-# Final Publish Decision
+CH-025 remains aftermath/institutional consequence.
 
-**VOLUME 1 / GREYWAKE ARC — PUBLISH-READY — GATE 11 PASS**
+CH-026 remains farewell/departure.
 
-External posting is authorized in canon chapter order:
+Canonical final line remains:
+
+**“Then I left Greywake before they could decide what I was.”**
+
+# 7. Canon / Release State
+
+Authoritative manuscript total:
+
+**75,157 words**
+
+Current Volume 1 state:
+
+**CANON — GATE 10 PASS**  
+**PUBLISH-READY — GATE 11 PASS**
+
+External posting remains authorized in chapter order:
 
 **CH-001 → CH-026**
 
-Volume 2 planning remains separate and unselected.
+This QA record does not claim external posting has already occurred.
+
+# 8. Next Production Step
+
+Volume 1 retcon/republication cycle is complete.
+
+**CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.**

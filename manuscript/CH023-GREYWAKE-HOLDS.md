@@ -1,7 +1,7 @@
 # Chapter 23 — Greywake Holds
 
-**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
-**Word Count:** 2670
+**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Word Count:** 2662
 
 The largest territorial predator in the migration had arrived.
 
@@ -157,7 +157,7 @@ Tavian shouted first.
 
 He almost felt offended.
 
-“I wasn’t—”
+“he wasn’t—”
 
 “You were thinking about it.”
 
@@ -213,7 +213,7 @@ Brynn pointed. “Can you reset it?”
 
 “How long?”
 
-“Longer than we have.”
+“Longer than they have.”
 
 The road moved again.
 
@@ -223,7 +223,7 @@ Tavian looked from the road to the prey to the trapped predator.
 
 His decision took less than a second.
 
-“That shelf goes, we lose the inside line.”
+“That shelf goes, they lose the inside line.”
 
 Brynn looked at him.
 
@@ -427,13 +427,13 @@ Tavian pointed toward the service cut.
 
 “Almost open! Keep it facing north!”
 
-“I am.”
+“he am.”
 
 “You are antagonizing it.”
 
 “That is helping it face north.”
 
-“It is not helping me.”
+“It is not helping him.”
 
 Details.
 
@@ -493,7 +493,7 @@ He smiled.
 
 “You cannot prove this is not helping.”
 
-“I can.”
+“he can.”
 
 The foreman shouted from beneath the road.
 
@@ -551,9 +551,9 @@ Still good.
 
 The foreman pointed at the final support under the worst crack.
 
-“Keep that until I say.”
+“Keep that until he say.”
 
-“See? Everyone is learning to give me precise instructions.”
+“See? Everyone is learning to give him precise instructions.”
 
 Nobody laughed.
 
@@ -661,11 +661,11 @@ He saw his expression.
 
 “If you put a wall there, they bunch.”
 
-“I know.”
+“he know.”
 
 “If you move the whole group, the rear follows the wrong visual line.”
 
-“I know.”
+“he know.”
 
 “Then trust the workers.”
 

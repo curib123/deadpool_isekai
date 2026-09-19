@@ -15,7 +15,7 @@ The Road Guild had apparently decided one completed bridge job qualified him to 
 
 Progress.
 
-A charged Wayfarer Tongue Token hung inside the lead wagon, close enough that the guards' instructions reached him clearly while they prepared to leave. The written schedule pinned beside it remained meaningless. Some traditions survived every chapter.
+A charged Wayfarer Tongue Token hung inside the lead wagon, close enough that the guards' instructions reached him clearly while they prepared to leave. The written schedule pinned beside it remained meaningless. Some problems survived every road.
 
 One of the road guards pointed toward the middle of the caravan.
 

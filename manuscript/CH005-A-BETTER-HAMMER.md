@@ -1,7 +1,7 @@
 # Chapter 5 — A Better Hammer
 
-**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
-**Word Count:** 3215,105  
+**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Word Count:** 3204,105  
 
 First light was a cruel phrase. It suggested something quiet and poetic. What it actually meant was standing in the Road Guild caravan yard before he had found a reliable source of breakfast. He arrived with the wooden entrant token under his coat, the bridge-marked assignment card in one pocket, and the remaining advance in another. The sky was still grey above Greywake, and the yard was already awake.
 
@@ -13,7 +13,7 @@ He was probably in his forties. Maybe older. Hard to tell with people who spent 
 
 The Wayfarer Tongue Token hanging from the side of the repair wagon carried the meaning clearly.
 
-“That is what they keep telling me.”
+“That is what they keep telling him.”
 
 He handed the card back.
 
@@ -35,7 +35,7 @@ Keeping a road open apparently required a large number of people preventing natu
 
 “Flood drains.”
 
-“I assumed decorative trenches would be an unusual frontier tradition.”
+“he assumed decorative trenches would be an unusual frontier tradition.”
 
 The worker stared at Red. The token translated the silence perfectly. Red stopped trying. They passed two caravans heading toward Greywake. Both slowed as they approached them, drivers exchanging short words with the foreman.
 
@@ -59,15 +59,15 @@ The foreman caught him watching.
 
 “Alignment clamp.”
 
-“I gathered.”
+“he gathered.”
 
 “Don't touch the marks.”
 
-“I wasn't planning to.”
+“he wasn't planning to.”
 
 “You were staring at them.”
 
-“I stare at many things I don't understand.”
+“he stare at many things he don't understand.”
 
 He accepted that. The crew spent the next hour forcing the swollen brace back into position. He carried timber. Held one end of a support beam. Dragged a coil of rope.
 
@@ -123,7 +123,7 @@ On the other hand, he had not found a private place with a broken heavy hammer a
 
 “Trying something.”
 
-“That usually means I should stop you.”
+“That usually means he should stop you.”
 
 “Probably.”
 
@@ -151,7 +151,7 @@ He looked at the object. Then at his hand. Then at the ground where it definitel
 
 “What casting was that?”
 
-“I was hoping you knew.”
+“he was hoping you knew.”
 
 The nearby guard frowned.
 
@@ -197,11 +197,11 @@ He was becoming very good at creating those. The foreman looked at him.
 
 There was the question.
 
-“I don't know.”
+“he don't know.”
 
 Honest answers were becoming inconvenient. The worker with the smaller maul returned. The foreman took it.
 
-“Then we use this.”
+“Then they use this.”
 
 He turned away. That should have been the end of the experiment. It was not. Because the first attempt had worked. Badly.
 
@@ -335,17 +335,17 @@ The guard who had asked about the casting walked over. He looked at the empty pa
 
 “What was that?”
 
-“I was hoping you had a second theory.”
+“he was hoping you had a second theory.”
 
-“I have none.”
+“he have none.”
 
-“Good. That makes two of us.”
+“Good. That makes two of them.”
 
 He glanced toward the alignment clamp.
 
 “That wasn't sigilcraft.”
 
-“I know.”
+“he know.”
 
 “You didn't shape through a tool.”
 

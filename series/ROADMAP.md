@@ -218,40 +218,20 @@ Result:
 **Next:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.
 
 
-## Superseded Close-Third Retcon — Historical Record
+## Superseded POV/Style Retcon — Historical Record
 
-New locked manuscript standard:
+A prior close-third prose conversion was completed before the Soul-Drift / Story-Intruder retcon.
 
-`manuscript/WRITING-RULES.md`
+That prose standard is fully superseded.
 
-Core rules:
-- close third-person limited centered on Red Jackal;
-- movie-like visual flow without screenplay formatting;
-- simple, natural, cinematic English;
-- no first-person narrator;
-- no default direct reader-talk;
-- short/selective internal thought;
-- human dialogue with interruption, pauses, teasing, incomplete answers, callbacks and subtext;
-- Red's strongest voice carried through speech, behavior and free-indirect narration;
-- comedy from character/situation;
-- serious and emotional scenes may become quiet;
-- overpowered revelation model remains unchanged.
+It has no current authority over:
+- POV;
+- reader address;
+- fourth-wall mechanics;
+- Red's origin;
+- Red's personality-development model.
 
-Scope:
-**CH-001 through CH-027 have completed the Studio cinematic prose revision.**
-
-Current status:
-- 27 / 27 manuscripts revised;
-- close third-person limited applied throughout;
-- cinematic natural-English standard applied;
-- Red's dialogue-led voice applied;
-- old first-person/default reader-talk standard superseded;
-- already-overpowered revelation model preserved;
-- **Gate 9 revalidation is still pending under the new style standard**;
-- prior Volume 1 Gate 10 and Gate 11 results are historical but stale until the revised manuscripts are revalidated.
-
-**CH-028 remains paused until CH-001→CH-027 complete Gate 9 revalidation and the required Volume 1 refresh gates are rerun.**
-
+The only retained value from that historical pass is line-level work that remains compatible after the new first-person rewrite.
 
 ## Soul-Drift / Story-Intruder Retcon — 2026-09-20
 

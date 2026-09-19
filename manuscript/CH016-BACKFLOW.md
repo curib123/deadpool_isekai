@@ -1,8 +1,9 @@
 # Chapter 16 — Backflow
 
-**Status:** RETCON REVISED — GATE 9 REVALIDATION PENDING  
+**Status:** CANON — OVERPOWERED RETCON GATE 9 PASS  
 **Word Count:** 2718,682  
 **Chapter QA:** `qa/CH-016-GATE-9-CHAPTER-QA.md`
+**Retcon QA:** `qa/CH-016-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
 The calls did not stop.
 

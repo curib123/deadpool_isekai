@@ -784,15 +784,15 @@ Previously planted F-001 through F-004 remain canon and may be reinforced natura
 
 Volume 2 must not reveal:
 
-- M-001 acquisition truth;
-- M-003 continuity-translocation truth;
-- M-004 self-model origin;
+- M-001 natural Soul-Drift arrival truth;
+- M-003 far Soul Drift truth;
+- M-004 Soul-Drift/missing-schema Play Logic origin;
 - technical M-007 Fate model;
 - Great Design truth;
 - Savael;
 - Exterior Needle;
-- Exterior Echo;
-- Exception Covenant;
+- Fourth-Wall Pause metaphysical mechanism;
+- any future exception/representation framework;
 - Eidrathi endgame material.
 
 # 20. Volume Movement Architecture

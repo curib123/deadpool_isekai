@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-018 CANON — CH-019 SCENE ARCHITECTURE AUTHORIZED
+**Status:** CH-018 CANON — CH-019 SCENE ARCHITECTURE PASSED / CH-019 MANUSCRIPT AUTHORIZED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -58,6 +58,7 @@ CH-017 Scene Architecture: **PASS — GATE 8**
 CH-017 Manuscript: **CANON — GATE 9 PASS / SERIOUS MODE LOCKED**  
 CH-018 Scene Architecture: **PASS — GATE 8**  
 CH-018 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
+CH-019 Scene Architecture: **PASS — GATE 8**  
 Red Jackal Series Voice: **LOCKED — DRY/DEADPAN INTERNAL HUMOR + RESTRAINED FOURTH-WALL STANDARD**  
 Red Jackal Anti-Villain Expression: **LOCKED**  
 Red Jackal Reputation / Fear Progression: **LOCKED — R0 TO R6**  
@@ -67,9 +68,9 @@ Aura Evolution: **MANUFACTURED → EARNED → REPUTATION-SUPPORTED**
 
 The project is now authorized to proceed to:
 
-1. **Detailed Scene Architecture — CH-019 Build the Wrong Road only**
+1. **Draft CH-019 — Build the Wrong Road manuscript only**
 
-CH-018 Chapter QA has passed and CH-018 is canon. No F-ID changed state and M-007 did not advance. Broken North is now canonically selected as the planned redirection corridor. Jessa's operational record role, Kellan's limited route consultation, Tavian's redirection design, Brynn's deployment structure, Maelis's lure-adjustment audit controls, Hesk's credible fallback objections, and Red's bounded temporary-support role are canon. CH-019 — Build the Wrong Road may now proceed to Detailed Scene Architecture only. CH-019 owns physical Broken North preparation and repeated Stage I support under exhaustion. CH-020 hidden lure-stock/evidence conflict remains protected. No later destination has been selected.
+CH-019 Pre-Manuscript Scene QA has passed. The studio may now draft the actual CH-019 manuscript — Build the Wrong Road only. No new F-ID is authorized and M-007 does not advance. CH-019 must physically prepare Broken North through ordinary labor, limited materials, three maximum Stage I support manifestations, cumulative exhaustion, and localized monster pressure. Kellan remains out of the field; workers own permanent engineering; Tavian owns ecological viability; Brynn owns protection/resource allocation. CH-019 must end with Broken North barely viable and still dependent on precise remaining-lure timing. CH-020 hidden lure-stock/evidence conflict remains fully protected. No later destination has been selected.
 
 ## Destination Naming Law
 
@@ -85,7 +86,7 @@ This table is intentionally empty.
 
 | Volume | Destination ID | Arc Name | Local Conflict | Main Antagonist | Major Mystery Contribution | Status |
 |---|---|---|---|---|---|---|
-| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-018 CANON — CH-019 SCENE ARCHITECTURE AUTHORIZED |
+| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-019 SCENE ARCHITECTURE PASS — CH-019 MANUSCRIPT AUTHORIZED |
 
 ## Lock
 
@@ -95,4 +96,4 @@ Do not add a row until:
 - Destination Inventory exists; **PASS**
 - Destination Selection QA approves an existing world location; **PASS — DEST-001 Greywake**
 
-Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-018 are canon. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. CH-019 Detailed Scene Architecture is authorized; CH-019 manuscript prose and all later-route selection remain deferred.
+Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-018 are canon. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. CH-019 Scene Architecture has passed Gate 8 and CH-019 manuscript prose is authorized; CH-020 planning and all later-route selection remain deferred.

@@ -1,7 +1,8 @@
 # Chapter 10 — The Ledger Doesn't Balance
 
-**Status:** DRAFT — GATE 9 NOT YET RUN  
-**Word Count:** 3,201
+**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED  
+**Word Count:** 3,201  
+**Chapter QA:** `qa/CH-010-GATE-9-CHAPTER-QA.md`
 
 Maelis had three stacks of paper on the table when I arrived. That should have warned me. The Ledger room looked almost exactly as I remembered it: plain walls, narrow windows, one long table, too many documents, and the same quiet confidence that anything confusing could eventually be defeated by writing it down correctly. A charged Wayfarer Tongue Token hung from the stand near Maelis's elbow. She did not look up immediately.
 

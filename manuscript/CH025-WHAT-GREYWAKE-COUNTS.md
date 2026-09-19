@@ -1,7 +1,7 @@
 # Chapter 25 — What Greywake Counts
 
 **Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
-**Word Count:** 2135,135
+**Word Count:** 2,135
 
 Sela looked at the wound in his side, then at him.
 
@@ -21,7 +21,7 @@ Sela pressed two fingers near the healing wound. He stopped breathing.
 
 “Good,” she said.
 
-“That was not the word he was going to use.”
+“That was not the word I was going to use.”
 
 “You are healing.”
 
@@ -31,7 +31,7 @@ Sela pressed two fingers near the healing wound. He stopped breathing.
 
 There it was. Apparently those were different things. Across the room, Kellan sat with his injured leg still splinted and extended on a low stool. He looked much worse than he did because his body had the bad manners to follow normal rules.
 
-Kellan noticed Red looking.
+He noticed him looking.
 
 “Still attached?”
 
@@ -55,7 +55,7 @@ Neither looked rested.
 
 “Standing.”
 
-Brynn added, “Damaged enough that he would arrest anyone who calls it open for normal traffic.” That sounded reasonable.
+Brynn added, “Damaged enough that I would arrest anyone who calls it open for normal traffic.” That sounded reasonable.
 
 “Hesk?” he asked.
 
@@ -77,11 +77,11 @@ Brynn looked at her.
 
 “No.”
 
-“he am sitting right here,” he said.
+“I am sitting right here,” he said.
 
 They both ignored him. Kellan leaned back against the wall.
 
-“he think this is good for you.”
+“I think this is good for you.”
 
 “Which part?”
 
@@ -89,7 +89,7 @@ They both ignored him. Kellan leaned back against the wall.
 
 He considered throwing something at him. Sela had already removed anything useful from reach. Brynn eventually won on the condition that he remained seated whenever possible and returned if he started bleeding again.
 
-Sela made the condition sound less like medicine and more like a threat. They did not go straight to the council hall. Tavian wanted to see Broken North first.
+Sela made the condition sound less like medicine and more like a threat. they did not go straight to the council hall. Tavian wanted to see Broken North first.
 
 He did too. The road looked worse in daylight. The temporary reinforcement under the inner shelf was still carrying weight. Workers had added another brace beside it and packed loose stone where the old edge had shifted. Most of the guide structures were either damaged or gone. Rope lines hung loose. Brush had been flattened into mud.
 
@@ -109,7 +109,7 @@ The worker looked at him.
 
 “You either.”
 
-“he wasn’t planning to.”
+“I wasn’t planning to.”
 
 He kept looking. Fair. Brynn read from a damage sheet as they moved.
 
@@ -123,9 +123,9 @@ Tavian added, “Animal movement will stay unstable for a while.”
 
 “Specific.”
 
-“they changed a pattern that had been forced for years. The animals do not become sensible because one lure stops.”
+“We changed a pattern that had been forced for years. The animals do not become sensible because one lure stops.”
 
-That sounded annoyingly permanent. Red looked at Tavian.
+That sounded annoyingly permanent. He looked at him.
 
 “You did well yesterday.”
 
@@ -133,7 +133,7 @@ He stopped walking. Brynn looked at him too. Tavian kept his attention on the ro
 
 “You waited when waiting mattered. You acted when acting mattered.”
 
-That was the entire speech. Red gave Tavian time to reconsider. Tavian did not.
+That was the entire speech. He gave him time to reconsider. He did not.
 
 “Are you feeling all right?”
 
@@ -151,17 +151,17 @@ Maelis looked up when they entered.
 
 “You are late.”
 
-“he was medically detained.”
+“I was medically detained.”
 
 Sela had sent a written note with Brynn. Maelis had read it.
 
-“he know.”
+“I know.”
 
 He sat. Jessa looked tired. Not injured.
 
 Worse in a different way. Maelis tapped one of the sheets.
 
-“they can establish the reserve existed. they can establish it was withheld from the shared emergency inventory. they can establish the older-service site was altered outside the coalition sequence. they can establish the Roadmaster key was recovered from Hesk at that site.”
+“We can establish the reserve existed. We can establish it was withheld from the shared emergency inventory. We can establish the older-service site was altered outside the coalition sequence. We can establish the Roadmaster key was recovered from Hesk at that site.”
 
 Jessa nodded.
 
@@ -179,7 +179,7 @@ Jessa stared at the table.
 
 “You may be asked again in public session.”
 
-“he know.”
+“I know.”
 
 “You can request the statement be read instead.”
 
@@ -189,7 +189,7 @@ Jessa’s grip tightened around the cup.
 
 Maelis waited. Jessa looked up.
 
-“If he am going to lose the job anyway, he am not losing it because someone says he misunderstood his own records.”
+“If I am going to lose the job anyway, I am not losing it because someone says I misunderstood my own records.”
 
 Nobody tried to tell her she would be fine. That would have been crueler than silence. He asked, “Do you know if you still have a job?”
 
@@ -199,15 +199,15 @@ There it was. No reward. No promotion.
 
 No sudden discovery that integrity paid better than complicity. Just the truth. Maelis closed the evidence box.
 
-“What they can prove is enough.”
+“What we can prove is enough.”
 
-“What can’t they prove?” he asked.
+“What can’t we prove?” he asked.
 
 “Every private conversation Hesk had. Every individual casualty he anticipated. Every person who agreed with him before the records became public.”
 
 “And his final sentence?”
 
-“That is not his to decide.”
+“That is not mine to decide.”
 
 Good. One less person pretending evidence gave them ownership of everything after it. The council hall was full before they entered.
 
@@ -233,7 +233,7 @@ The man flinched. Another council member raised a hand.
 
 Brynn cut in before the room could split.
 
-“they are not deciding whether Greywake needs roads. It does. they are deciding whether one office gets to choose which inhabited routes absorb danger without recorded authority or representation.”
+“We are not deciding whether Greywake needs roads. It does. We are deciding whether one office gets to choose which inhabited routes absorb danger without recorded authority or representation.”
 
 Hesk spoke for the first time.
 
@@ -269,7 +269,7 @@ Every face in the room turned toward him. That was uncomfortable. He looked at H
 
 He looked back.
 
-“he think you should stop asking the least qualified person in the room to run your legal system.”
+“I think you should stop asking the least qualified person in the room to run your legal system.”
 
 A few people laughed. Not many. Good.
 
@@ -279,7 +279,7 @@ He continued.
 
 Hesk’s expression did not change.
 
-“he am not deciding his sentence.”
+“I am not deciding his sentence.”
 
 Kellan looked at him.
 

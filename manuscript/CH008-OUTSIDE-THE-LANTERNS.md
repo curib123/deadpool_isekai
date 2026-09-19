@@ -1,7 +1,7 @@
 # Chapter 8 — Outside the Lanterns
 
-**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
-**Word Count:** 2,965  
+**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Word Count:** 2964,965  
 
 Sela had said rest. He had interpreted that as avoid getting torn open again before lunch. This seemed reasonable. His ribs disagreed. Every step down Greywake's western approach pulled faintly along his left side, not enough to stop him, just enough to remind him that the previous day had happened and his body had not filed it under resolved.
 
@@ -17,7 +17,7 @@ The man leading them had introduced himself as Kellan Dorr. He had looked him ov
 
 Not whether the stories were true. Just: could he lift? Red had liked him less immediately.
 
-“I can lift.”
+“he can lift.”
 
 “How much?”
 
@@ -45,7 +45,7 @@ One of the workers snorted. Kellan did not. He pointed at a bundle of cut boards
 
 He looked at the longer beams.
 
-“I can carry those.”
+“he can carry those.”
 
 “You're guarding your left side.”
 
@@ -99,7 +99,7 @@ Kellan glanced at him.
 
 “This season?”
 
-“That is not the answer I wanted.”
+“That is not the answer he wanted.”
 
 “Three.”
 
@@ -107,7 +107,7 @@ He looked again. The Guild bridge from his first road job had been damaged, but 
 
 “You reuse the decking.”
 
-“We reuse what still carries weight.”
+“they reuse what still carries weight.”
 
 “You asked for replacements?”
 
@@ -135,11 +135,11 @@ By the fourth, his side had begun sending written complaints directly to his spi
 
 “Set it down.”
 
-“I have it.”
+“he have it.”
 
 “You're twisting.”
 
-“I am aware.”
+“he am aware.”
 
 “You're doing it anyway.”
 
@@ -153,7 +153,7 @@ He nodded toward a lighter crate.
 
 “Do you assign everyone based on medical disappointment?”
 
-“I assign them based on whether I want to finish today.”
+“he assign them based on whether he want to finish today.”
 
 He took the lighter crate. This was going badly for his image. The work continued. That was the second thing he noticed about the outer homesteads. Nobody seemed surprised by inconvenience.
 
@@ -165,7 +165,7 @@ Probably for a very short time. He leaned against the cart. His breathing had be
 
 “You should sit.”
 
-“I am standing efficiently.”
+“he am standing efficiently.”
 
 “You're pale.”
 
@@ -201,7 +201,7 @@ He tightened the strap.
 
 He hit the strap once with the hammer.
 
-“Then wait for boards when ours rot.”
+“Then wait for boards when theirs rot.”
 
 There it was. Not a speech. Just arithmetic. He looked down at the bridge again. The Guild crew on the Main Caravan Road had not been lazy.
 
@@ -237,13 +237,13 @@ He pointed beneath the wheel path.
 
 One of the workers looked under the approach.
 
-“We can pack more stone.”
+“they can pack more stone.”
 
 “Not with the wheel there.”
 
 He looked at the gap. It was not large. The kind of problem that looked easy until a loaded cart put half its weight on it. He had an idea. That was becoming dangerous.
 
-“I can make something.”
+“he can make something.”
 
 Kellan looked at him.
 
@@ -255,7 +255,7 @@ Kellan looked at him.
 
 Good question.
 
-“Me.”
+“him.”
 
 He stared. He clarified.
 
@@ -273,9 +273,9 @@ That did not help. One of the workers looked interested now. Kellan did not.
 
 His expression changed by maybe half a degree. Finally. A challenge.
 
-“If it disappears under the wheel, we lose the cart and maybe the bridge edge.”
+“If it disappears under the wheel, they lose the cart and maybe the bridge edge.”
 
-“I know.”
+“he know.”
 
 “Do you?”
 
@@ -293,7 +293,7 @@ He looked. The root shelf was a hard line of compacted soil and old roots beside
 
 “Why not under the support?”
 
-“Because when your thing disappears, I don't want the bridge learning it was load-bearing.”
+“Because when your thing disappears, he don't want the bridge learning it was load-bearing.”
 
 Fair.
 
@@ -327,7 +327,7 @@ Kellan looked at the driver.
 
 “No.”
 
-“Then we move.”
+“Then they move.”
 
 No admiration. No existential crisis. Just geometry. The workers shifted the cart's angle with ropes and shoulder pressure. His impossible slab sat there being evaluated like bad lumber.
 
@@ -385,13 +385,13 @@ He frowned.
 
 “Good?”
 
-“Means I don't have to wonder whether you'll decide the rest of the bridge can be imaginary.”
+“Means he don't have to wonder whether you'll decide the rest of the bridge can be imaginary.”
 
 He almost laughed. Almost. He pointed toward the cart.
 
 “Your trick got the load across. It did not fix the approach.”
 
-“I noticed.”
+“he noticed.”
 
 “Good.”
 

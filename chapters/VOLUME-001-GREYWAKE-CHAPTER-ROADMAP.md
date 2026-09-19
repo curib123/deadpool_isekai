@@ -120,7 +120,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Movement:** I — The Undefined Stranger  
 **Location:** Hollow March wilderness, abandoned roadside marker, approach toward Greywake road.  
 **Characters Present:** Red Jackal; frontier predators only.  
-**Opening Situation:** Red Jackal regains awareness in an unfamiliar wilderness after the Earth collision/transition.  
+**Opening Situation:** Red Jackal regains awareness in an unfamiliar wilderness after a fragmentary memory of a mysterious Earth explosion and an unremembered far Soul Drift.  
 **Primary Objective:** Survive long enough to understand where he is and locate civilization.  
 **Conflict:** Physical disorientation, unfamiliar body, a small opportunistic predator encounter, no money/equipment/local knowledge.  
 **Exploration Purpose:** Establish Hollow March danger, old road remnants, distant signs of settlement, and that wilderness is not empty scenery.  
@@ -129,12 +129,12 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Supporting Development:** None.  
 **Antagonist Pressure:** None direct. The local conflict exists elsewhere without him.  
 **Action Progression:** First survival encounter; small-scale and messy rather than heroic.  
-**Play Logic Display Choice:** First crude improvised manifestation—short-lived, useful, unstable, and not fully understood.  
-**Regeneration Consequence:** Minor injury heals abnormally; pain remains and confuses him.  
+**Play Logic Display Choice:** First on-page manifestation is deliberately/reflexively simple and visually crude; its small scale must not imply instability, a finite stage, or maximum capability.  
+**Regeneration Consequence:** Minor injury heals abnormally; pain remains, but healing is not framed as a finite-resource progression mechanic.  
 **Aura-Farming Opportunity:** He tries to make his first victory look more intentional than it was.  
 **Comedy Opportunity:** His assumption that an isekai arrival should come with instructions, only to receive none.  
 **Mystery / Foreshadowing:** No F-ID planted. Establish only observable anomaly baseline.  
-**Continuity Dependencies:** Earth collision memory; arrival state from Gate 6; no local identity.  
+**Continuity Dependencies:** fragmentary Earth-explosion impression; Soul-Drift arrival state from Gate 6 override; no local identity.  
 **Knowledge Dependencies:** Red Jackal knows no Veyran systems or factions.  
 **Ending Beat:** He finds maintained road signs pointing toward Greywake and chooses civilization over wandering blind.
 
@@ -868,9 +868,9 @@ Only tonal hints in CH-016 and optionally CH-024. No technical explanation.
 ## Protected Mysteries
 No roadmap chapter may explicitly reveal:
 - M-001 true arrival cause;
-- M-003 continuity translocation;
-- M-004 writer-truth origin;
-- M-006 Exterior Echo;
+- M-003 far Soul Drift truth;
+- M-004 Soul-Drift/missing-schema Play Logic origin;
+- M-006 Fourth-Wall Pause metaphysical explanation;
 - M-008 Great Design;
 - M-009 full Eidrathi/First Severance truth;
 - M-010 Savael;

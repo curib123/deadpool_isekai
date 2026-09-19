@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** SOUL-DRIFT / STORY-INTRUDER RETCON ACTIVE — CH-001→CH-002 CURRENT / CH-003→CH-027 FIRST-PERSON SYNCHRONIZATION REQUIRED / CH-028 PAUSED
+**Status:** SOUL-DRIFT / STORY-INTRUDER RETCON ACTIVE — CH-001→CH-003 CURRENT / CH-004→CH-027 FIRST-PERSON SYNCHRONIZATION REQUIRED / CH-028 PAUSED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -36,7 +36,7 @@ CH-002 Scene Architecture: **PASS — GATE 8**
 CH-002 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
 F-001: **PLANTED — CH-002**  
 CH-003 Scene Architecture: **PASS — GATE 8**  
-CH-003 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
+CH-003 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
 F-002: **PLANTED — CH-003**  
 CH-004 Scene Architecture: **PASS — GATE 8**  
 CH-004 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
@@ -266,11 +266,11 @@ Preserved:
 - Merrowgate 24-chapter pacing/order;
 - local antagonists and destination outcomes unless later chapter-specific QA requires wording changes.
 
-**Manuscript state:** CH-001 and CH-002 are CURRENT CANON under the Soul-Drift/final story-engine retcon; CH-003→CH-027 remain STALE pending sequential revision.
+**Manuscript state:** CH-001 through CH-003 are CURRENT CANON under the Soul-Drift/final story-engine retcon; CH-004→CH-027 remain STALE pending sequential revision.
 
 The previous close-third revisions remain historical artifacts only.
 
-**Official next step:** CH-003 — The Things They Can Measure → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.
+**Official next step:** CH-004 — Off the Books → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.
 
 **CH-028 remains PAUSED.**
 
@@ -303,4 +303,4 @@ Preservation remains absolute unless the author explicitly changes it:
 - major reversal/climax placement;
 - one major volume = one destination arc.
 
-**Production priority remains:** CH-001 and CH-002 synchronization are complete and Gate 9 PASS; continue CH-003 → CH-027 under the final Soul-Drift / close-first-person / story-intruder engine, revalidate Gate 9 sequentially, then resume CH-028.
+**Production priority remains:** CH-001 through CH-003 synchronization are complete and Gate 9 PASS; continue CH-004 → CH-027 under the final Soul-Drift / close-first-person / story-intruder engine, revalidate Gate 9 sequentially, then resume CH-028.

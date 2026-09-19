@@ -1,7 +1,8 @@
 # Chapter 22 — First Wave
 
-**Status:** RETCON + PACING REVISED — GATE 9 REVALIDATION PENDING  
+**Status:** CANON — OVERPOWERED RETCON GATE 9 PASS  
 **Word Count:** 2998,004
+**Retcon QA:** `qa/CH-022-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
 The first mass did not charge us. It came out of the trees in layers.
 

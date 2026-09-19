@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-021 CANON — CH-022 MANUSCRIPT DRAFT / GATE 9 PENDING
+**Status:** CH-022 CANON — CH-023 SCENE ARCHITECTURE AUTHORIZED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -65,7 +65,7 @@ CH-020 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**
 CH-021 Scene Architecture: **PASS — GATE 8**  
 CH-021 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-022 Scene Architecture: **PASS — GATE 8**  
-CH-022 Manuscript: **DRAFT — GATE 9 PENDING**  
+CH-022 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 Red Jackal Series Voice: **LOCKED — DRY/DEADPAN INTERNAL HUMOR + RESTRAINED FOURTH-WALL STANDARD**  
 Red Jackal Anti-Villain Expression: **LOCKED**  
 Red Jackal Reputation / Fear Progression: **LOCKED — R0 TO R6**  
@@ -75,9 +75,9 @@ Aura Evolution: **MANUFACTURED → EARNED → REPUTATION-SUPPORTED**
 
 The project is now authorized to proceed to:
 
-1. **Run CH-022 Gate 9 — Chapter QA only**
+1. **Build CH-023 — Greywake Holds Detailed Scene Architecture only**
 
-CH-022 manuscript draft now exists and is awaiting Gate 9 Chapter QA. The draft begins directly from CH-021's mass-prey sighting, lets Tavian own live activation thresholds, makes Red wait before acting, uses exactly three small Stage I manifestations with worsening precision, shows Hesk's existing field-lure intervention through a wrong-route pull, preserves Brynn's live defense command, keeps Hesk off-screen, and ends when the large territorial predator emerges as the migration corridor begins failing. CH-023 major predator combat and PL-4 remain blocked until CH-022 passes Gate 9. No new F-ID is authorized and M-007 does not advance. No later destination has been selected.
+CH-022 has passed Gate 9 and is CANON. The first sustained migration wave, Tavian's live activation timing, Brynn's multi-point defense command, Red's exactly three Stage I support manifestations with worsening precision, Hesk's unauthorized old-service lure pull, Broken North beginning to fail, and the large territorial predator's emergence are canon. No F-ID changed state and M-007 did not advance. CH-023 — Greywake Holds may now proceed to Detailed Scene Architecture only. CH-023 owns the sustained large-predator fight, main failing-choke-point hold and PL-4 climax utility. Direct Hesk confrontation remains reserved for CH-024. No later destination has been selected.
 
 ## Destination Naming Law
 
@@ -93,7 +93,7 @@ This table is intentionally empty.
 
 | Volume | Destination ID | Arc Name | Local Conflict | Main Antagonist | Major Mystery Contribution | Status |
 |---|---|---|---|---|---|---|
-| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-022 DRAFT — GATE 9 PENDING |
+| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-022 CANON — CH-023 SCENE ARCHITECTURE AUTHORIZED |
 
 ## Lock
 
@@ -103,4 +103,4 @@ Do not add a row until:
 - Destination Inventory exists; **PASS**
 - Destination Selection QA approves an existing world location; **PASS — DEST-001 Greywake**
 
-Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-021 are canon. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. CH-022 manuscript draft exists and Gate 9 Chapter QA is the only authorized next step; CH-023 planning and all later-route selection remain deferred.
+Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-022 are canon. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. CH-023 Detailed Scene Architecture is now authorized; CH-023 manuscript drafting and all later-route selection remain deferred until the required gates pass.

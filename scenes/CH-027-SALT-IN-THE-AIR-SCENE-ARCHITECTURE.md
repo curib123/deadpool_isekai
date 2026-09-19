@@ -5,7 +5,7 @@
 **Chapter:** CH-027 — Salt in the Air  
 **Movement:** I — A Name Arrives Before the Man  
 **Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / MANUSCRIPT AUTHORIZED  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-027 MANUSCRIPT CANON  
 **Final Scene Count:** 5  
 **Scene IDs:** SC-027-01 through SC-027-05  
 **POV:** Red Jackal first person throughout  
@@ -748,6 +748,8 @@ Formal QA record:
 
 `qa/CH-027-PRE-MANUSCRIPT-SCENE-QA.md`
 
+CH-027 manuscript has passed Gate 9 and is CANON.
+
 The only authorized next production step is:
 
-**CH-027 — Salt in the Air → Manuscript Draft.**
+**CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.**

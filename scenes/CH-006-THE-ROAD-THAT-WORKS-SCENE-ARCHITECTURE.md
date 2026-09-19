@@ -183,11 +183,7 @@ No literacy gain occurs.
 
 # 7. Play Logic Lock
 
-F-004 is already:
-
-**PLANTED — CH-005**
-
-CH-006 introduces **no new Play Logic rule**.
+F-004 remains **PLANTED — CH-005**. CH-006 introduces **no new Play Logic rule or F-004 clue**.
 
 Preferred CH-006 power choice:
 
@@ -270,7 +266,7 @@ Avoid:
 
 ## SC-006-01 — Second Job
 
-**Approximate Time:** Morning after CH-005 or the next available Road Guild work morning.  
+**Approximate Time:** Morning after CH-005.  
 **Location:** Greywake caravan yard → Main Caravan Road toll marker.  
 **Characters Present:** Red Jackal, caravan travelers, Road Guild road guards, wagon drivers.
 

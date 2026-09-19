@@ -1,7 +1,7 @@
 # Chapter 15 — One Stake Too Many
 
 **Status:** DRAFT — GATE 9 NOT YET RUN  
-**Word Count:** 2,870
+**Word Count:** 2,855
 
 By the time we reached the upper approach, nobody was pretending this was just a mapping trip. The road narrowed above the timber-road junction and climbed between old retaining stones dark with moss. Beyond them, the land opened toward the outer farms in long uneven strips separated by low fences, drainage cuts, and tree lines.
 
@@ -317,9 +317,7 @@ Not healing cleanly. Not comfortably. Correcting.
 
 I hated that I knew the feeling now. The second ridge-hound feinted toward Tavian. I stepped into its side and drove my shoulder into it.
 
-Stupid. Effective.
-
-Mostly stupid.
+Reckless, but it worked.
 
 The animal hit the ground, scrambled, and snapped at my leg. Its teeth caught cloth and skin before I kicked free. More pain. Tavian did not waste time yelling at me. He used the opening.
 
@@ -331,17 +329,15 @@ For several seconds, all I heard was breathing. Mine was the worst. Tavian looke
 
 “You are bleeding.”
 
-“I noticed.”
-
-No one laughed.
-
-Good.
+“I know.”
 
 The technician stared at the blood running down my clothes. Then at the skin visible through the torn fabric. The edges were already pulling tighter.
 
 Slowly. Painfully. His expression changed.
 
-I had seen that expression before. You should be dead. Or at least more inconvenienced.
+I had seen that expression before.
+
+You should be dead.
 
 I pressed a hand to the wound. My fingers came away red. The bleeding had already slowed.
 
@@ -552,10 +548,6 @@ Tavian's eyes narrowed. The guard stepped forward.
 “This is your last warning.”
 
 “Then we're all very informed.”
-
-No one found that funny.
-
-Good.
 
 I moved. Tavian caught my shoulder. Not an attack.
 

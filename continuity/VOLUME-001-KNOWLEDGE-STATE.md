@@ -8703,4 +8703,4 @@ By the end of Volume 1:
 
 **Greywake Arc chapter production is complete through CH-026.**
 
-**Volume 2 destination remains UNSELECTED.**
+**Historical CH-026 lock:** Volume 2 was UNSELECTED when CH-026 was canonized, and Red left Greywake without a named next destination in-story. Later production planning selected DEST-002 — Merrowgate at Gate 5 and locked the Merrowgate Arc at Gate 6. That later planning does not retroactively change Red's CH-026 knowledge or the canonical final line.

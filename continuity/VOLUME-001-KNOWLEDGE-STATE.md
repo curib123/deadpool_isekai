@@ -8356,7 +8356,7 @@ CH-026 remains departure/arc closure.
 # CH-025 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-025 — What Greywake Counts  
-**Status:** SCENE ARCHITECTURE SUPPORT — GATE 8 PASS / MANUSCRIPT NOT YET CANON
+**Status:** SUPERSEDED BY CH-025 CANON CHECKPOINT
 
 CH-025 begins after the immediate migration/lure crisis has passed.
 
@@ -8389,3 +8389,134 @@ No new F-ID.
 
 M-007 does not advance.
 
+# CH-025 Canon Checkpoint
+
+**Chapter:** CH-025 — What Greywake Counts  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH025-WHAT-GREYWAKE-COUNTS.md`  
+**QA:** `qa/CH-025-GATE-9-CHAPTER-QA.md`
+
+## Physical / Treatment Aftermath — CANON
+
+Red remains injured and exhausted despite rapid wound closure.
+
+Sela confirms:
+- healing speed is abnormal;
+- pain/bruising/fatigue remain;
+- healing faster is not the same as being recovered.
+
+Kellan remains:
+- splinted;
+- non-weight-bearing;
+- unable to return to normal movement.
+
+No new regeneration mechanism is revealed.
+
+## Infrastructure / Economy — CANON
+
+Greywake survives with lasting cost.
+
+Canon consequences include:
+- Broken North remains damaged/restricted;
+- temporary reinforcement still carries load;
+- multiple guide points are destroyed;
+- lower detour remains unusable;
+- caravan departures are delayed;
+- trade capacity is reduced;
+- animal routes remain disturbed beyond the immediate surge.
+
+## Evidence / Jessa — CANON
+
+Maelis consolidates:
+- reserve records;
+- route-loss evidence;
+- key/site custody;
+- witness statements.
+
+Jessa:
+- stands by her signed explanation;
+- publicly confirms service/control facts;
+- remains uncertain about employment/income;
+- receives no instant promotion or financial resolution.
+
+## Hesk — Institutional Status CANON
+
+Hesk remains under guard.
+
+Greywake formally removes him from Roadmaster authority.
+
+He cannot resume Road Guild operational command.
+
+His broader legal disposition remains pending further formal proceedings/review.
+
+Some residents/representatives still acknowledge that his underlying road-survival problem was real.
+
+His secret victim-selection policy, falsified reporting and unilateral diversion authority remain rejected.
+
+## Public Reputation of Red — CANON
+
+Greywake's opinion of Red is contradictory.
+
+He is variously treated as:
+- helpful;
+- dangerous;
+- partly responsible for earlier backflow;
+- important to the final defense;
+- suspicious because he remains UNDEFINED;
+- exaggerated in rumor.
+
+No universal hero consensus exists.
+
+## Governance Reform — CANON
+
+Greywake formally establishes:
+
+1. Road Guild no longer has unilateral authority to activate/alter emergency diversion systems affecting inhabited routes.
+2. dangerous route-diversion actions require recorded civic emergency authority.
+3. militia command receives notice/operational oversight.
+4. route-loss/safety records are copied outside exclusive Guild control.
+5. Outer Homestead Compact receives enforceable participation in emergency-route decisions affecting outer settlements.
+
+Longer charter/legal revision remains pending.
+
+## Mystery / Power State After CH-025
+
+No Play Logic occurs.
+
+F-ID state remains:
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+M-007 does not advance.
+
+No protected series truth is revealed.
+
+## CH-026 Handoff
+
+The authoritative final Greywake chapter is:
+
+**CH-026 — Before They Decide What I Am**
+
+CH-026 may proceed to **Detailed Scene Architecture only**.
+
+CH-026 begins with:
+- migration crisis resolved;
+- Hesk no longer controls road policy;
+- Road Guild emergency authority restructured;
+- Outer Homestead Compact formally represented;
+- Greywake reconstruction underway;
+- Red still recovering;
+- Red's public reputation fragmented;
+- Red free enough to travel independently;
+- no next destination selected.
+
+CH-026 owns:
+- reconstruction glimpse;
+- farewell interactions;
+- Red refusing permanent assigned roles;
+- departure from Greywake;
+- unnamed wider-world ending.
+
+No Volume 2 destination may be named or selected.

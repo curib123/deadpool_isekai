@@ -1,13 +1,17 @@
 # Chapter 5 — A Better Hammer
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** CINEMATIC STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 3,204  
 **Chapter QA:** `qa/CH-005-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-005-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
-First light was a cruel phrase. It suggested something quiet and poetic. What it actually meant was standing in the Road Guild caravan yard before he had found a reliable source of breakfast. He arrived with the wooden entrant token under his coat, the bridge-marked assignment card in one pocket, and the remaining advance in another. The sky was still grey above Greywake, and the yard was already awake.
+The sky over Greywake was still grey when Red reached the Road Guild yard.
 
-Workers were loading timber onto a wagon. Two guards checked spearheads near the gate. Someone was arguing about rope. Apparently roads did not maintain themselves just because people found them convenient. A broad-shouldered man with a weather-dark coat looked at his assignment card, then at him.
+A wagon waited near the gate with fresh timber stacked along one side. Workers hauled iron clamps into crates. Two guards checked spearheads. Somewhere behind the wagon, two men were already arguing about rope.
+
+Red had not found breakfast yet.
+
+First light was a cruel phrase. A broad-shouldered man with a weather-dark coat looked at his assignment card, then at him.
 
 He was probably in his forties. Maybe older. Hard to tell with people who spent most of their lives outside.
 
@@ -29,11 +33,15 @@ He looked at the clamps. Then at him. Then back at the clamps. So much for myste
 
 They were heavier than they looked. The foreman had already moved on. No questions about his missing class. No concern about his undefined level. No interest in what the System thought of him.
 
-He had two arms and had shown up on time. Apparently that was enough qualification for road maintenance. The repair crew left Greywake just after sunrise. There were six workers, two assigned road guards, the foreman, one wagon, and him. The Wayfarer Tongue Token hung from a hook beneath the wagon roof so the crew could speak to him when needed.
+He had two arms and had shown up on time. That was enough qualification for road maintenance.
+
+The repair crew left Greywake just after sunrise: six workers, two road guards, the foreman, one wagon, and Red. The Wayfarer Tongue Token hung from a hook beneath the wagon roof so the crew could speak to him when needed.
 
 Without it, their Valic turned back into unfamiliar sound. He still could not read the painted route boards they passed. That remained his problem. The Main Caravan Road was wider than he had realized on the walk into Greywake. Outside the gate, the packed surface had been raised above the surrounding ground with layers of gravel and timber reinforcement. Drainage ditches ran along both sides. Stone markers stood at regular intervals. Every few hundred paces, he saw evidence of repair—fresh fill, replaced boards, cleared brush, reinforced culverts.
 
-Keeping a road open apparently required a large number of people preventing nature from taking it back. One of the workers noticed him looking at a line of shallow channels cut beside the road.
+Every few hundred paces, fresh repairs cut across older damage.
+
+Keeping the road open was less a construction project and more an argument with the weather. One of the workers noticed him looking at a line of shallow channels cut beside the road.
 
 “Flood drains.”
 
@@ -43,7 +51,7 @@ He stared at him. The token translated the silence perfectly. He stopped trying.
 
 The road mattered. That was obvious. Every wagon carrying grain, tools, cloth, medicine, or people depended on this strip of maintained ground not turning into mud or monster territory. Greywake's walls were useful. The road was probably why the walls had anything inside them.
 
-The damaged bridge approach appeared around midmorning. The bridge itself crossed a narrow river channel, low and broad rather than dramatic. No deep gorge. No raging waterfall. Nothing worth falling into for narrative purposes.
+The damaged bridge approach appeared around midmorning. The bridge itself crossed a narrow river channel, low and broad rather than dramatic. No deep gorge. No raging waterfall. Just brown water moving under a low timber span.
 
 The problem was on the near side. Recent rain had softened the roadbed and pushed one of the approach supports out of alignment. A heavy timber brace beneath the outer edge had swollen with water and shifted far enough that the surface above it sagged slightly.
 
@@ -55,7 +63,11 @@ Sigils.
 
 He still could not read them. A worker set an iron clamp around the damaged brace. Small etched lines along the clamp lit as he tightened it. The timber stopped shifting. So this was what ordinary practical magic looked like here.
 
-Prepared tool. Prepared markings. Specific job. No dramatic chanting. Honestly, it was disappointingly sensible.
+Prepared tool. Prepared marks. One specific job.
+
+No chanting. No sparks.
+
+Practical magic looked disappointingly sensible.
 
 The foreman caught him watching.
 
@@ -131,11 +143,21 @@ On the other hand, he had not found a private place with a broken heavy hammer a
 
 He frowned. He held out one hand. He remembered the feeling from the forest. Not mana. At least he did not think it was mana.
 
-There had been no spell. No words. Just need. He focused. A hammer.
+There had been no spell in the forest. No words.
 
-He needed a hammer. Nothing happened. He kept the thought steady. Hammer. Something solid.
+Just need.
 
-Something he could use. For a second, he felt the strange pressure again. Reality seemed to catch on something. Then an object dropped into his hand. He almost lost it.
+A hammer.
+
+Nothing happened.
+
+Red kept his hand out. Something solid. Something he could use.
+
+Pressure gathered around his palm.
+
+Then a hammer dropped into his hand.
+
+He almost lost it.
 
 Not because it was heavy. Because it was ridiculous. It was a hammer. Technically. The handle was too short.
 
@@ -197,11 +219,11 @@ He was becoming very good at creating those. The foreman looked at him.
 
 “Can you do that again?”
 
-There was the question.
+There it was.
 
 “I don't know.”
 
-Honest answers were becoming inconvenient. The worker with the smaller maul returned. The foreman took it.
+The answer left a brief silence behind it. The worker with the smaller maul returned. The foreman took it.
 
 “Then we use this.”
 
@@ -247,9 +269,13 @@ Spear point flashed. The animal twisted away. The second predator moved from the
 
 Probably.
 
-The problem was time. The brace needed one heavy strike. Not a hammer. Not just a hammer. The exact thing.
+The brace needed one heavy strike.
 
-He looked at the iron pin. At the swollen timber. At the workers holding the brace. Then he stopped thinking about the word. He pictured the result instead.
+Red looked at the iron pin. The swollen timber. The two workers holding the support in place.
+
+Not a hammer.
+
+The result.
 
 A hammer he could actually swing. Heavy enough to drive that pin through the swollen brace.
 
@@ -285,7 +311,15 @@ Clear function, apparently. Reasonable proportions were optional. He adjusted hi
 
 One strike. Drive the pin. That was the purpose. He swung. The hammer came down.
 
-The impact cracked through the worksite. The iron pin drove through the swollen timber and seated hard against the outer plate. For half a second, nobody moved. Then the foreman shouted.
+The hammer hit.
+
+The crack rolled across the worksite.
+
+The iron pin punched through the swollen timber and slammed against the outer plate.
+
+Nobody moved for half a beat.
+
+Then the foreman shouted.
 
 “Clamp it.”
 
@@ -379,12 +413,26 @@ The clerk placed the remaining payment in Marks on the counter. He counted them.
 
 “Complete,” the clerk said.
 
-That was it. No celebration. No ceremony. No System notification. He had helped repair a bridge, frightened off one predator with an oversized temporary hammer, and discovered that reality responded differently depending on how he framed what he wanted.
+That was it.
 
-The Guild cared that the bridge was open. Honestly, he respected that. He put the Marks away. The foreman was already speaking to another worker about tomorrow's traffic. To him, his impossible hammer was apparently less important than whether six wagons could cross before dark.
+No celebration. No System notice.
+
+Outside, the first loaded wagon rolled across the repaired bridge.
+
+The Guild cared that the road worked.
+
+Red respected that. He put the Marks away. The foreman was already speaking to another worker about tomorrow's traffic. To him, his impossible hammer was apparently less important than whether six wagons could cross before dark.
 
 Reasonable priorities. He stepped out into the yard. His shoulders still ached from swinging the ridiculous thing. He considered trying the ability again just to prove he could, then decided that manifesting random objects in a Guild yard for no reason would reveal more than it taught him.
 
-For now, curiosity could wait. He had money. He had completed the job. And he had learned one thing. Vague wishing got him something technically correct.
+For now, curiosity could wait.
 
-A clear purpose got him something useful. That was not an explanation. It was enough to work with. Frontier employment was beginning to look more interesting. Mostly because the tools occasionally came from nowhere.
+Marks clicked in his pocket as he crossed the yard.
+
+A vague idea gave him something technically correct.
+
+A clear purpose gave him something useful.
+
+Not an explanation.
+
+Enough to try again later.

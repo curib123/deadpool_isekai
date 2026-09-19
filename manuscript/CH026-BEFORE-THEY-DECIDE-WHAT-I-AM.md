@@ -1,9 +1,11 @@
 # Chapter 26 — Before They Decide What I Am
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** STUDIO CINEMATIC RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 1,826
 
-Greywake sounded different when nobody was screaming. Hammers had replaced alarm horns. Not everywhere.
+Greywake sounded different without alarm horns.
+
+Hammers had taken over.
 
 One section of the outer approach still had militia markers blocking normal traffic, and the road toward Broken North remained closed behind a line of rope, warning boards, and workers who had developed the expression of people prepared to physically attack anyone who called a damaged road “probably fine.” He respected them. The market had reopened in pieces. Half the stalls were running. The other half had become storage points for repair timber, rope, tools, food, and whatever else Greywake had discovered it needed more urgently than decorative pottery.
 
@@ -33,11 +35,15 @@ That was Greywake. Survival had apparently restored bureaucracy faster than infr
 
 He followed the outer road far enough to see the damaged approaches from above. Fresh timber braced old stone. New marker posts stood beside broken ones. Workers had begun clearing debris from the seasonal-cut detour without pretending the route would reopen that day.
 
-Greywake had survived. It looked like it. That was better than a clean ending.
+Greywake had survived.
 
-Clean endings usually meant somebody had stopped counting. He went back to the treatment house because Sela had threatened to send someone after him if he did not. She inspected his side with the patience of a person who had none.
+It looked like survival: mud, timber, blocked roads, tired workers, and arguments that had not ended. He went back to the treatment house because Sela had threatened to send someone after him if he did not. She inspected his side with the patience of a person who had none.
 
-The wound had closed. The bruising had not. His ribs still complained when he twisted too far, and the leg he had abused through several chapters of bad judgment remained stiff.
+The wound had closed.
+
+The bruising had not.
+
+His ribs still complained when he twisted too far, and his leg remained stiff after days of bad decisions.
 
 Sela pressed near his shoulder. He moved away.
 
@@ -69,7 +75,9 @@ Kellan was near the window with his leg still splinted and elevated. Someone had
 
 High praise. He had not stood since the injury. He would not stand today either.
 
-That mattered. Everyone else’s consequences did not disappear because his healed faster. Kellan put the paper down.
+Red's body healed faster.
+
+Nobody else's consequences followed him. Kellan put the paper down.
 
 “You leaving?”
 
@@ -163,7 +171,7 @@ He looked at her. She tapped the packet.
 
 That stopped him. Maelis had spent most of their first conversations trying to measure something the System refused to recognize. Somewhere along the way, she had learned the difference between documenting a person and claiming one.
 
-Maybe he had learned a few things too. He did not say that.
+Red did not comment.
 
 “I’m not staying for examinations.”
 
@@ -185,13 +193,13 @@ Jessa finally smiled. Maelis ignored her.
 
 “If the Ledger contacts you again, you can answer or refuse.”
 
-That was all he wanted. Maybe not all. Enough.
+Enough.
 
 He left them with the records. They had work after he was gone. That felt important.
 
 Tavian was near the gate reviewing a route marker with two workers. He finished before acknowledging him. He waited.
 
-Growth continued to be unpleasant. When he turned, he looked at the pack over his shoulder.
+Tavian finished with the workers, then looked at the pack over Red's shoulder.
 
 “So.”
 
@@ -243,7 +251,7 @@ Tavian looked toward the road outside the gate.
 
 “Good.”
 
-He looked at him. There was probably a farewell available somewhere. Neither of them went looking very hard.
+He looked at him. Neither of them seemed interested in making the farewell larger than it needed to be.
 
 “You were reliable when it mattered,” he said.
 
@@ -255,7 +263,9 @@ He had already said something similar. Apparently this was the expanded edition.
 
 That was true. Unfortunately. Brynn said, “Greywake could use you.”
 
-There it was. He looked at her. She continued before he could answer.
+Red looked at her.
+
+She continued before he could answer.
 
 “That was not an order.”
 
@@ -273,19 +283,23 @@ Also important.
 
 “Tempting.”
 
-He liked her. That was part of the problem. Greywake could use him.
+He liked her. Greywake could use him.
 
-Maelis could study him. Sela could treat him. The militia could call him when something needed to survive damage it should not survive.
+Maelis could study him. Sela could treat him. Brynn could call when something impossible needed doing.
 
-Workers could ask for impossible tools. Outer communities could ask him to show up when institutions failed them. People could call him hero.
+People could call him hero.
 
-Other people could call him menace. The Ledger could call him anomaly. The System called him nothing.
+Others could call him menace.
 
-Every one of those labels came with a shape. Stay long enough, and shapes became expectations. Expectations became duties.
+The Ledger could call him anomaly.
 
-Duties became roles. He had not crossed worlds to become somebody’s permanent emergency equipment. That did not mean Greywake meant nothing.
+The System called him nothing.
 
-That was the difficult part. It meant enough that leaving required a decision. The pack was ordinary.
+Stay long enough and labels became expectations.
+
+Red did not want to become Greywake's permanent emergency tool.
+
+That did not mean leaving was easy. The pack was ordinary.
 
 Food. Water. Bandages Sela had forced on him.
 
@@ -329,17 +343,13 @@ Maelis was buried in records. Tavian had already returned to work. Brynn was sta
 
 Nobody dropped their life to follow him.
 
+They had their own lives.
+
 Good.
-
-They had lives.
-
-That was why any of this had mattered.
 
 He walked through the gate.
 
 Then stopped.
-
-Not for emotion.
 
 A repair wagon was coming in.
 
@@ -384,8 +394,6 @@ They would keep going.
 So would he.
 
 He did not know what waited beyond Greywake.
-
-That was not a problem.
 
 For once, nobody had assigned him the answer.
 

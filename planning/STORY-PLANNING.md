@@ -105,7 +105,7 @@ The authoritative Volume 1 chapter roadmap is:
 
 The next authorized planning artifact is:
 
-`CH-006 — The Road That Works: Detailed Scene Architecture`
+`CH-006 — The Road That Works: Manuscript Draft`
 
 CH-001 manuscript has passed Gate 9 and is CANON.
 
@@ -123,9 +123,11 @@ CH-005 manuscript has passed Gate 9 and is CANON.
 
 F-004 is PLANTED — CH-005.
 
-Detailed Scene Architecture for CH-006 — The Road That Works is now authorized.
+CH-006 Scene Architecture has passed Gate 8.
 
-Do not draft CH-006 manuscript until CH-006 Scene Architecture and its Pre-Manuscript Scene QA pass.
+Drafting CH-006 manuscript prose is now authorized.
+
+Do not draft CH-007 or create CH-007 Scene Architecture during the CH-006 manuscript step.
 
 # 5. Scene Sheet
 Each scene has:

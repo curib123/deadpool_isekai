@@ -1,7 +1,7 @@
 # Chapter 16 — Backflow
 
-**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
-**Word Count:** 2718,682  
+**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Word Count:** 2707,682  
 
 The calls did not stop.
 
@@ -55,7 +55,7 @@ Tavian grabbed his arm and pulled him away from the center of the approach.
 
 “They are moving toward people.”
 
-“Then we move the people.”
+“Then they move the people.”
 
 He looked back toward the lure. For one second, he wanted there to be something obvious to hit. A center.
 
@@ -137,7 +137,7 @@ Kellan went still.
 
 Tavian looked toward Greywake. Then back toward the outer farms. The runner continued.
 
-“Patrol markers are changing faster than we can send them.”
+“Patrol markers are changing faster than they can send them.”
 
 A second rider pointed behind them.
 
@@ -175,7 +175,7 @@ Brynn looked at him once. Nothing else. No accusation.
 
 No hearing. Not now. She turned to her people.
 
-“Split the squads. One to the lower Greywake approach. One with me.”
+“Split the squads. One to the lower Greywake approach. One with him.”
 
 Then to the runner.
 
@@ -205,7 +205,7 @@ Tavian looked toward the forest.
 
 Kellan did not answer. Brynn did.
 
-“Then we control the crossing.”
+“Then they control the crossing.”
 
 They moved. The road toward the bridge filled before they reached it. People from two directions joined the same connector.
 
@@ -227,7 +227,7 @@ Tavian grabbed his shoulder.
 
 “Not a fight.”
 
-“I know.”
+“he know.”
 
 “Then move.”
 
@@ -317,7 +317,7 @@ The bridge Kellan had rebuilt because nobody else had sent enough material. Ther
 
 A driver shouted back.
 
-“We need them across.”
+“they need them across.”
 
 “No.”
 
@@ -543,11 +543,11 @@ Kellan's leg did nothing. That difference sat in front of him where he could not
 
 They lifted him onto it. He lost consciousness halfway through. Tavian checked his breathing.
 
-“Still with us.”
+“Still with them.”
 
 Brynn looked at the road.
 
-“What do we have left?”
+“What do they have left?”
 
 Kellan could not answer now. A militia runner did.
 

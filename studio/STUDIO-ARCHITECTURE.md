@@ -56,6 +56,7 @@ Lower levels cannot silently contradict higher levels.
 | A095 | Action Choreographer | Battle Scene Editor | combat clarity |
 | A096 | Imagination Scene Designer | Signature Action Designer | Play Logic scenes |
 | A097 | Prose Editor | Line Editor | natural prose |
+| A098 | Publication Editor | Release Copy Editor | canon-derived platform-ready publication copies |
 | A100 | Continuity Director | Continuity Editor | continuity ledger |
 | A101 | Canon Conflict Detector | Canon QA Editor | contradictions |
 | A102 | Knowledge-State Editor | Information-State Editor | who knows what |

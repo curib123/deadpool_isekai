@@ -1,7 +1,7 @@
 # Chapter 21 — Before the Herd
 
 **Status:** DRAFT — GATE 9 NOT YET RUN  
-**Word Count:** 3,280
+**Word Count:** 3,301
 
 By the time Greywake decided Hesk was missing, we had already run out of time to make finding him everyone’s problem. The militia yard had become a map with people standing on it. Carts waited along one wall. Runners moved between the route board and the gates. Bundles of rope, tools, medical cloth, sealed Guild cases, and ordinary food had been separated into piles that apparently made perfect sense to everyone except me.
 

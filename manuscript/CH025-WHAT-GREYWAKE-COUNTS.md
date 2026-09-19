@@ -89,7 +89,7 @@ They both ignored him. Kellan leaned back against the wall.
 
 He considered throwing something at him. Sela had already removed anything useful from reach. Brynn eventually won on the condition that he remained seated whenever possible and returned if he started bleeding again.
 
-Sela made the condition sound less like medicine and more like a threat. they did not go straight to the council hall. Tavian wanted to see Broken North first.
+Sela made the condition sound less like medicine and more like a threat. They did not go straight to the council hall. Tavian wanted to see Broken North first.
 
 He did too. The road looked worse in daylight. The temporary reinforcement under the inner shelf was still carrying weight. Workers had added another brace beside it and packed loose stone where the old edge had shifted. Most of the guide structures were either damaged or gone. Rope lines hung loose. Brush had been flattened into mud.
 

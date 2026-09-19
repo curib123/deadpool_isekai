@@ -295,9 +295,23 @@ Gate 6 QA:
 
 `qa/VOLUME-002-MERROWGATE-GATE-6-QA.md`
 
-**Official next step:** Gate 7 — Volume 2 / Merrowgate Arc Chapter Roadmap QA.
+**Gate 7 Result:** PASS — Volume 2 / Merrowgate Arc chapter roadmap locked.
 
-Chapter-roadmap planning is now authorized. Detailed scenes, final dialogue, manuscript prose, and Volume 3 selection remain deferred.
+Authoritative roadmap:
+
+`chapters/VOLUME-002-MERROWGATE-CHAPTER-ROADMAP.md`
+
+Gate 7 QA:
+
+`qa/VOLUME-002-MERROWGATE-CHAPTER-ROADMAP-QA.md`
+
+**Locked count:** 24 chapters  
+**Locked range:** CH-027 through CH-050  
+**F-010:** planned for CH-038 — NOT YET PLANTED
+
+**Official next step:** CH-027 — Salt in the Air → Detailed Scene Architecture → Gate 8.
+
+Detailed scenes for later chapters, final dialogue, manuscript prose beyond the active production step, and Volume 3 selection remain deferred.
 
 # 4B. Publication Release Workflow
 
@@ -341,7 +355,7 @@ Publication work:
 
 If a publication edit changes meaning, return it to Gate 9 and canonization first.
 
-Volume 2 is selected as DEST-002 — Merrowgate through Gate 5. This selection is independent of Volume 1 publication work; Gate 6 architecture must pass before Volume 2 chapter planning begins.
+Volume 2 / Merrowgate Arc has passed Gate 7 with CH-027 through CH-050 locked. This is independent of Volume 1 publication work. CH-027 Detailed Scene Architecture / Gate 8 is the active production step.
 
 # 5. Scene Sheet
 Each scene has:

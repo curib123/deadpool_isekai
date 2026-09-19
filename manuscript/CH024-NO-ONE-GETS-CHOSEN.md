@@ -1,14 +1,14 @@
 # Chapter 24 — No One Gets Chosen
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** STUDIO CINEMATIC RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 2,263
 **Retcon QA:** `qa/CH-024-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
 The physical line was holding.
 
-That should have felt like victory.
+The physical line was holding.
 
-Instead, Tavian pointed toward the lower fork.
+Tavian pointed toward the lower fork.
 
 The branch pulling away from Broken North had grown since the first turn. It was not the main body, but it was no longer a few frightened animals testing open ground either. Browsers at the front kept taking the same angle. Smaller prey followed them. Behind those came predators using the movement because predators had apparently decided today needed additional management.
 
@@ -26,9 +26,7 @@ He looked back toward Broken North.
 
 The main corridor was still carrying most of the migration. Workers and militia were holding the damaged choke without them standing over them. The real timber under the inner shelf was taking weight. The temporary impossible support was gone because the road no longer needed it.
 
-Good.
-
-Then Tavian looked at the wrong branch.
+Tavian looked at the wrong branch.
 
 “That pull is the old-service line.”
 
@@ -60,9 +58,7 @@ Maelis lifted the packet.
 
 “Copies of the custody entries, service references, and Jessa’s signed explanation. Originals are secured in the Core.”
 
-Good.
-
-Nobody had brought the only proof into the middle of a migration.
+The originals were still safe in the Core.
 
 Tavian took the route sheet from Jessa.
 
@@ -184,17 +180,11 @@ Hesk looked at him.
 
 “You understand risk better than they do.”
 
-That was almost funny.
+Hesk looked at Red.
 
-Almost.
+“You survive consequences they cannot,” he continued. “You take wounds that would kill them. You act because you can afford to be wrong.”
 
-“You survive consequences they cannot,” He continued. “You take wounds that would kill them. You act because you can afford to be wrong.”
-
-That landed.
-
-Of course it did.
-
-He had spent several chapters proving the point for him.
+That landed because part of it was true.
 
 He went on.
 
@@ -206,7 +196,9 @@ Then the outer road.
 
 Then the blood on his own coat.
 
-The problem with a good accusation was that punching the person who said it did not make it false.
+Red could hit Hesk.
+
+It would not make the accusation false.
 
 “I’m not.”
 
@@ -220,7 +212,7 @@ He looked toward the homestead route.
 
 “I don’t get to choose them either.”
 
-For the first time, he had no immediate answer.
+Hesk said nothing.
 
 Then his hand moved toward the key.
 
@@ -234,13 +226,11 @@ Or tried to.
 
 He was beside him before the movement finished.
 
-No dramatic run.
+Hesk's fingers touched the key.
 
-No warning.
+Red crossed the gap.
 
-One moment there had been several steps between them.
-
-The next, his hand was around his wrist.
+His hand closed around Hesk's wrist before the key turned.
 
 The key had not moved.
 
@@ -259,8 +249,6 @@ Nothing happened.
 His face changed.
 
 Very slightly.
-
-Good.
 
 Brynn stepped closer.
 
@@ -296,13 +284,9 @@ Then he looked at him again.
 
 Blood. Torn coat. Dirt.
 
-He had not seen Broken North.
+Hesk looked at Red's blood, torn coat, and dirt.
 
-He had not seen the road stop falling.
-
-He had not seen the predator discover that he was finished playing with it.
-
-He was still working from the version of him Greywake understood yesterday.
+He was still judging the man in front of him by what he thought Red could do.
 
 “You can barely stand.”
 
@@ -314,11 +298,9 @@ His expression tightened.
 
 “You cannot stop the migration.”
 
-The correct answer would have been modest.
+Red met his eyes.
 
-Unfortunately, he was tired of modest.
-
-“Yes,” he said.
+“Yes.”
 
 Hesk went still.
 
@@ -348,9 +330,7 @@ He pointed at Tavian.
 
 “He does.”
 
-Tavian did not look pleased to be included in his speech.
-
-That made it better.
+Tavian did not look pleased to be included.
 
 “I don’t know which farm becomes the next path if I make this one impossible. I don’t know what the predators do when the prey vanish from under them. I don’t know which road collapses when I move weight somewhere nobody planned for.”
 
@@ -420,13 +400,11 @@ Then at him.
 
 “Yes.”
 
-That was the rule.
+Red looked at Tavian's angle.
 
-Not because he could not do more.
+Only the front.
 
-Because he knew what more would do.
-
-He gave him one direction.
+He raised one guide.
 
 A pale-grey guide rose along the fork.
 
@@ -444,15 +422,11 @@ Then three more.
 
 The branch hesitated.
 
-The guide did not crack.
-
-It did not flicker.
-
-It did not care how many animals touched it.
+The guide held exactly where Red placed it.
 
 Tavian noticed.
 
-Later problem.
+Neither of them had time to discuss it.
 
 “Now!” he shouted.
 
@@ -540,8 +514,6 @@ He did not.
 
 The low angle was enough.
 
-That was the point he kept having to learn.
-
 A second cluster chose north.
 
 Then a third.
@@ -576,9 +548,7 @@ Tavian watched the split.
 
 He held the guide.
 
-Not because holding it cost him anything meaningful.
-
-Because the front of the branch was still deciding.
+The front of the branch was still deciding.
 
 More prey took Broken North.
 
@@ -616,13 +586,9 @@ Maelis looked at the secured housing.
 
 Hesk looked at him.
 
-Different expression now.
+Hesk looked at Red differently now.
 
-Not fear exactly.
-
-Calculation had finally met a number it could not place.
-
-Good.
+The calculation had changed.
 
 Brynn bound his wrists with a militia restraint cord.
 
@@ -634,49 +600,23 @@ The main body moved through the damaged corridor.
 
 The outer homestead route remained clear of the mass he had tried to send there.
 
-His plan was over.
+Hesk's plan was over.
 
-Not because Greywake had found a way to save everything without cost.
+Broken North was still damaged.
 
-Broken North was damaged.
-
-People were injured.
-
-The main road would suffer.
-
-Trade would suffer.
+People were still injured.
 
 Kellan still could not walk.
 
-The worker from the pack attack still had a damaged leg.
+The main road and trade would still pay a price.
 
-Nothing about overwhelming power reached backward in time and made those consequences disappear.
+Red's power changed none of that.
 
-That was the part he had finally stopped finding funny.
+Greywake had argued, failed, recorded the damage, changed the plan, and kept the decision where everyone could see it.
 
-Hesk had believed somebody needed the authority to choose who paid.
+No private ledger.
 
-He had spent too much of the arc believing that being impossible meant nobody else could tell him when his choices were stupid.
-
-Different methods.
-
-Uncomfortably similar arrogance.
-
-The difference mattered anyway.
-
-Greywake had argued.
-
-Failed.
-
-Recorded.
-
-Objected.
-
-Built something ugly.
-
-Changed the plan.
-
-And when the cost came, nobody got to hide the decision inside one man’s private ledger.
+No hidden acceptable loss.
 
 He looked down at his hands.
 
@@ -684,13 +624,9 @@ Steady.
 
 His side still hurt.
 
-That was fine.
+The last impossible guide was gone.
 
-The last impossible thing he had made was gone because he had chosen to dismiss it.
-
-He could have made another.
-
-He did not need to.
+He did not need another.
 
 Broken North remained full of moving animals.
 

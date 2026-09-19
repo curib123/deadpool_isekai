@@ -4,7 +4,7 @@
 **Destination:** DEST-001 — Greywake  
 **Arc:** Greywake Arc  
 **Phase:** Chapter Roadmap  
-**Status:** GATE 7 PASS — CHAPTER ROADMAP LOCKED / CH-004 SCENE ARCHITECTURE AUTHORIZED  
+**Status:** GATE 7 PASS — CHAPTER ROADMAP LOCKED / CH-004 MANUSCRIPT AUTHORIZED  
 **Final Chapter Count:** 26  
 **POV:** Red Jackal first person throughout  
 **Scope:** Chapter architecture only. No full scenes, final dialogue, or manuscript prose.
@@ -47,8 +47,8 @@ These are planning locations only.
 
 | F-ID | Planned Chapter | Status |
 |---|---:|---|
-| F-001 — Independent Appraisals Fail Consistently | CH-002 | PLANNED — NOT YET PLANTED |
-| F-002 — Physical Data Without Identity Data | CH-003 | PLANNED — NOT YET PLANTED |
+| F-001 — Independent Appraisals Fail Consistently | CH-002 | PLANTED — CH-002 |
+| F-002 — Physical Data Without Identity Data | CH-003 | PLANTED — CH-003 |
 | F-003 — Healing Magic Encounters an Already-Correcting Body | CH-007 | PLANNED — NOT YET PLANTED |
 | F-004 — Play Logic Follows Meaning More Than Spell Grammar | CH-005 | PLANNED — NOT YET PLANTED |
 

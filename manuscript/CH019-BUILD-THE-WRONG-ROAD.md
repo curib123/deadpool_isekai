@@ -1,7 +1,7 @@
 # Chapter 19 — Build the Wrong Road
 
-**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
-**Word Count:** 2680,748  
+**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Word Count:** 2671,748  
 
 Broken North looked worse when people arrived with tools. The last time he had come through, the road had mostly been an investigation problem. Bad ground. Old stone. Fresh Guild closure. One hidden lure. Enough wrong details to make competent people suspicious.
 
@@ -39,9 +39,9 @@ One worker looked up from his axe.
 
 “It's brush.”
 
-“It is also the line we want large animals to keep using.”
+“It is also the line they want large animals to keep using.”
 
-“We could clear the middle faster.”
+“they could clear the middle faster.”
 
 “And teach them to spill around the sides when the road closes on them.”
 
@@ -65,13 +65,13 @@ Brynn came over while he was helping unload stone.
 
 He stopped. She looked at him.
 
-“We still need the caravan route standing tomorrow.”
+“they still need the caravan route standing tomorrow.”
 
 Right.
 
 Complicated things continued refusing to become simple when he wanted them to.
 
-“How much did we get?”
+“How much did they get?”
 
 “Enough to work. Not enough to work badly.”
 
@@ -85,7 +85,7 @@ Brynn looked at the load.
 
 “He sent you?”
 
-“No. He told us yesterday what the road would need. We can think without him.”
+“No. He told them yesterday what the road would need. they can think without him.”
 
 Also fair.
 
@@ -129,7 +129,7 @@ Enough.
 
 The road worker nearest the drainage knelt and watched the flow.
 
-“Keep widening that side. If it backs up under the fill, we lose the lip again.”
+“Keep widening that side. If it backs up under the fill, they lose the lip again.”
 
 Tavian crouched beside a line of fresh prints near the far edge. He saw him stop.
 
@@ -169,19 +169,19 @@ Then at the ground. Then at him.
 
 Tavian said, “Temporary only.” The foreman looked at him.
 
-“I know what temporary means.”
+“he know what temporary means.”
 
 His eyes moved to him.
 
 “Do you?”
 
-“I have recently received several lectures.”
+“he have recently received several lectures.”
 
 “Good.”
 
 He pointed beneath the cracked shelf.
 
-“I need support there. Not wider. Not higher. Hold that section while we seat the timber.”
+“he need support there. Not wider. Not higher. Hold that section while they seat the timber.”
 
 “Simple.”
 
@@ -217,7 +217,7 @@ The foreman crouched.
 
 “Hold.”
 
-“I was planning to.”
+“he was planning to.”
 
 “Then stop talking.”
 
@@ -257,7 +257,7 @@ Red looked at the foreman.
 
 “That is a lot of trust in wood.”
 
-“It is more trust than I have in your face right now.”
+“It is more trust than he have in your face right now.”
 
 He dismissed the manifestation. The pale-grey brace broke apart and disappeared. The timber remained.
 
@@ -275,7 +275,7 @@ That felt better than he expected. He sat down for exactly long enough to drink 
 
 “Eat.”
 
-“I did.”
+“he did.”
 
 “When?”
 
@@ -287,7 +287,7 @@ A section of the old roadbed had been eaten out from one side until the remainin
 
 The foreman looked at the gap.
 
-“We can fill from both sides if we get planks across.”
+“they can fill from both sides if they get planks across.”
 
 A worker pointed at Red.
 
@@ -295,7 +295,7 @@ A worker pointed at Red.
 
 Red looked at the worker.
 
-“Good to know I have become equipment.”
+“Good to know he have become equipment.”
 
 “Equipment gets maintained.”
 

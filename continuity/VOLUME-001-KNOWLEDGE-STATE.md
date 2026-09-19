@@ -1676,7 +1676,7 @@ Do not begin CH-010 or reveal the lure network early.
 # CH-009 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-009 — Wrong Tracks  
-**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+**Status:** SUPERSEDED BY CH-009 CANON CHECKPOINT
 
 ## Red Jackal — Opening CH-009
 
@@ -1836,3 +1836,165 @@ Do not begin:
 - the repeating loss-record pattern.
 
 Those belong to CH-010.
+
+# CH-009 Canon Checkpoint
+
+**Chapter:** CH-009 — Wrong Tracks  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH009-WRONG-TRACKS.md`  
+**QA:** `qa/CH-009-GATE-9-CHAPTER-QA.md`
+
+After CH-009, Red Jackal canonically knows:
+
+- Tavian's Warden investigation independently overlaps Red Jackal's recent abnormal predator encounters;
+- the CH-008 outer warning mismatch is useful context but not proof of falsification or deliberate suppression;
+- track freshness, edge collapse, stride, depth, direction, and repeated use can distinguish isolated movement from a continuing pattern;
+- predator and prey sign are repeatedly crossing expected route boundaries in the same broad north-east/northern direction;
+- the easier and seasonally expected food/water routes lie farther west;
+- live field evidence can become unusable when the observer interferes with it;
+- his deliberate curiosity test contaminated the clean observation;
+- his interference helped trigger a localized pack complication by panicking prey in an already abnormal corridor;
+- he did not know the pack was nearby;
+- the test was not necessary;
+- he performed it because he wanted to know what would happen;
+- Tavian's tactical positioning is more reliable than Red Jackal's improvisation when Red Jackal lacks field expertise;
+- older track layers prove the directional drift existed before Red Jackal's experiment;
+- different track ages across multiple days show repeated movement rather than one panic event;
+- the clean track pattern trends away from the profitable Main Caravan Road and toward old northern paths;
+- something may be influencing the movement;
+- artificial or deliberate influence is possible but not proven.
+
+Red Jackal still does **not** know:
+
+- what is causing the migration drift;
+- that march-lures exist;
+- that a lure network exists;
+- that Guild equipment is causing the movement;
+- that Hesk is involved;
+- that casualty/certification records are being manipulated;
+- that outer communities are being deliberately designated as acceptable loss;
+- Play Logic's true mechanism;
+- regeneration's true mechanism;
+- Fate/Great Design truth;
+- any protected writer truth.
+
+## Tavian Rook — Post-CH-009 Knowledge
+
+Tavian canonically knows:
+
+- Red Jackal will knowingly interfere with an uncertain field situation because curiosity interests him;
+- Red Jackal understood that the live observation would be contaminated and interfered anyway;
+- Red Jackal did not anticipate the nearby displaced pack;
+- Red Jackal admits the test was unnecessary;
+- once immediate danger begins, Red Jackal can follow specialist positioning and avoid repeating CH-007's forward overextension;
+- Red Jackal can produce a small temporary obstruction under pressure;
+- the manifestation remains imperfect, short-lived, and limited;
+- Red Jackal cannot simply repeat the effect indefinitely;
+- Red Jackal's usefulness and danger coexist;
+- older track layers establish that the northbound pattern predates today's disturbance;
+- repeated predator/prey movement toward old northern routes is real field evidence;
+- artificial/deliberate influence is now a reasonable hypothesis, not a conclusion.
+
+Tavian may now treat Red Jackal as an early:
+
+**R3 — Dangerous Wildcard**
+
+His concern is based on:
+- unusual survivability;
+- nonstandard temporary manifestations;
+- incomplete judgment;
+- voluntary experimentation under uncertainty;
+- visible power/knowledge limits.
+
+He does not treat Red Jackal as overwhelmingly powerful or limitless.
+
+## Anti-Villain Expression State After CH-009
+
+CH-009 canonically establishes:
+
+**curiosity → unnecessary interference → real localized consequence → self-chosen responsibility.**
+
+The curiosity test was not secretly heroic, necessary, or perfectly predicted.
+
+Red Jackal does not deny why he did it.
+
+## Play Logic State After CH-009
+
+CH-009 contains one Stage I utility manifestation:
+
+- a low temporary obstruction used to narrow a tactical gap;
+- simple purpose;
+- physically imperfect;
+- cracks under pressure;
+- lasts only seconds;
+- supports Tavian's positioning rather than replacing his competence;
+- disappears without creating a permanent effect.
+
+No new Play Logic rule was revealed.
+
+F-004 remains **PLANTED — CH-005**.
+
+## Regeneration / M-005 State After CH-009
+
+No new M-005 clue was introduced.
+
+Only residual left-side soreness/strain from CH-007/008 remains relevant.
+
+F-003 remains **PLANTED — CH-007**.
+
+## F-ID State After CH-009
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+No F-ID changed state in CH-009.
+
+## M-007 State After CH-009
+
+M-007 remains inactive.
+
+No Fate/prophecy/destiny/causal-wake material was introduced.
+
+## Local Investigation State After CH-009
+
+Canon field evidence now establishes:
+
+- repeated migration drift across multiple track ages;
+- predator and prey movement sharing the same broad direction;
+- movement away from the Main Caravan Road;
+- movement toward old northern paths;
+- ordinary natural explanations remain possible but increasingly strained.
+
+Allowed current hypothesis:
+
+**something may be pushing, pulling, or otherwise influencing the migration pattern.**
+
+Not yet established:
+- a physical device;
+- a march-lure;
+- human authorship;
+- Guild involvement;
+- Hesk's involvement.
+
+## CH-010 Handoff
+
+CH-010 may begin with:
+
+- Red Jackal and Tavian possessing clean field evidence of repeated northbound migration drift;
+- Tavian treating artificial/deliberate influence as a hypothesis worth testing;
+- Red Jackal's curiosity mistake and its consequence remaining part of Tavian's threat assessment;
+- no march-lure discovery;
+- no proof of Guild manipulation;
+- no casualty-record fraud knowledge;
+- F-001 through F-004 unchanged;
+- M-007 inactive.
+
+CH-010 — **The Ledger Doesn't Balance** may now move into the locked documentary investigation:
+- Maelis compares casualty/certification records against recent field reports;
+- Red Jackal's off-book status becomes personally relevant;
+- Jessa's documentary knowledge/fear may surface;
+- Hesk may begin managing access and pressure.
+
+Do not reveal the first march-lure before CH-011.

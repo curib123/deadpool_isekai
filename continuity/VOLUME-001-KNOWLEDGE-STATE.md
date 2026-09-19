@@ -7766,3 +7766,194 @@ CH-024 retains:
 - final migration commitment;
 - final route-policy resolution.
 
+# CH-023 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-023 — Greywake Holds  
+**Status:** SCENE ARCHITECTURE SUPPORT — GATE 8 PENDING
+
+## Opening State
+
+CH-023 begins immediately from CH-022 canon.
+
+Core actors may enter knowing:
+
+- the large territorial predator is physically present in the compressed Broken North corridor;
+- the predator has not yet begun the sustained CH-023 fight;
+- Broken North remains open but is beginning to fail;
+- CH-019 timber support still holds;
+- rough footing is degrading;
+- one guide/support rope is loose;
+- old road stone is settling;
+- repair crews can only enter during movement gaps;
+- Hesk's unauthorized older-service lure remains active;
+- the wrong-side pull continues compressing the migration;
+- Red has already used exactly three Stage I manifestations in CH-022;
+- Red carries shoulder, rib, thigh/leg pain, headache, hand tremor and reduced manifestation precision;
+- Tavian and Brynn are already coordinating the live defense.
+
+## Large Predator Boundary
+
+CH-023 may establish:
+
+- sustained combat/environmental pressure from the large territorial predator;
+- the predator reacting to compression and available escape space;
+- militia/work crews coordinating around the animal;
+- one serious new injury to Red;
+- the predator leaving the primary choke through a controlled route.
+
+The predator remains:
+
+- local ecology;
+- not Hesk-controlled;
+- not summoned;
+- not a mystery clue.
+
+No new CREATURE-ID is required.
+
+## Tavian Rook Boundary
+
+Tavian may:
+
+- interpret predator behavior;
+- prevent defenders from boxing the animal into the choke;
+- identify the controlled escape geometry;
+- determine how long Broken North must remain usable;
+- identify the exact structural failure where temporary reinforcement matters;
+- call the safe opening window for the predator;
+- identify when the main migration body has committed enough;
+- identify the renewed Hesk pull at the ending.
+
+Tavian may not:
+
+- know Hesk's exact position;
+- guarantee the predator's response;
+- become a combat superhuman;
+- control the migration magically.
+
+## Captain Brynn Alder Boundary
+
+Brynn may:
+
+- command militia and work-crew withdrawals/returns;
+- protect structural repair windows;
+- keep defenders from chasing the predator;
+- open/clear the controlled escape lane;
+- abandon unsafe minor positions;
+- hold the physical choke.
+
+Brynn does not leave the line to pursue Hesk.
+
+## Red Jackal Boundary
+
+Red enters:
+
+- exhausted;
+- precision-degraded;
+- already injured;
+- still Stage I.
+
+CH-023 authorizes exactly **one** Play Logic manifestation:
+
+**PL-4 — Climax Utility, Not Solo Victory.**
+
+It must be:
+
+- one continuous temporary construct;
+- structural utility only;
+- used at one critical failing physical point;
+- dependent on Tavian's placement/timing;
+- protected by Brynn's command;
+- converted into lasting ordinary support by work crews.
+
+No earlier Play Logic.
+
+No second CH-023 manifestation.
+
+Red does not use Play Logic to:
+- attack the predator;
+- control the herd;
+- rebuild the entire road;
+- permanently repair Broken North.
+
+## Regeneration / Injury Boundary
+
+CH-022 injuries carry fully.
+
+CH-023 may add one serious new impact/cut during predator/crew protection.
+
+Regeneration may:
+- reduce/close bleeding;
+- keep Red mobile.
+
+It does not:
+- refill stamina;
+- restore precision;
+- erase pain;
+- make PL-4 easy;
+- protect other people.
+
+## Infrastructure Boundary
+
+CH-023 may worsen:
+- road-shelf settling;
+- loose stone/fill;
+- ordinary support lines;
+- timber stress;
+- repair access.
+
+PL-4 may prevent one critical collapse.
+
+Work crews must create the lasting ordinary support.
+
+Broken North remains visibly damaged after the physical hold.
+
+## Hesk Boundary
+
+Hesk remains physically off-screen.
+
+His existing unauthorized lure remains the only sabotage mechanism.
+
+CH-023 may end with:
+- the physical line holding;
+- a renewed/strengthened branch of migration pulling toward the outer homesteads.
+
+CH-023 does not:
+- reach the final lure site;
+- confront Hesk;
+- stop Hesk's lure permanently;
+- resolve the final sacrificial-route conflict.
+
+## F-ID / Mystery State
+
+No new F-ID is authorized.
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+M-007 does not advance.
+
+No Fate/Great Design/Eidrathi/System-origin/Play-Logic-origin material.
+
+## CH-024 Firewall
+
+CH-023 must stop before:
+
+- direct Hesk confrontation;
+- arrival at the final lure site/fork;
+- final migration commitment;
+- Hesk losing operational control;
+- final outer-homestead route resolution;
+- CH-024's final short-lived utility manifestation;
+- optional CH-024 M-007 tonal echo.
+
+## Locked Architecture Ending
+
+An approved CH-023 manuscript must end with both:
+
+1. **Greywake's physical line holding;**
+2. **Hesk's final lure beginning to draw part of the migration toward the outer homesteads again.**
+
+CH-024 owns the direct human/final-route climax.
+

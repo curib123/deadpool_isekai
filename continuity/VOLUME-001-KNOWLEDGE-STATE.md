@@ -894,3 +894,142 @@ CH-006 may begin with:
 - no regeneration clue from CH-005;
 - no conspiracy knowledge;
 - Tavian Rook's independent road/migration work still separate from Red Jackal until prose brings them together.
+
+
+
+# CH-006 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-006 — The Road That Works  
+**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+
+## Red Jackal — Opening CH-006
+
+Red Jackal begins CH-006 with the CH-005 canon checkpoint.
+
+He knows:
+- he completed and was paid for his first private Road Guild job;
+- private irregular Guild work remains available to him;
+- the Main Caravan Road is heavily maintained;
+- intentional manifestation is possible;
+- clear purpose worked better than vague wishing in CH-005;
+- manifestation remains unstable, temporary, and tiring;
+- his effect does not resemble ordinary prepared Guild sigilcraft;
+- he still cannot read Veyran writing;
+- he does not know why local animal movement is changing.
+
+He does not know:
+- the march-lure network exists;
+- Hesk is redirecting migration;
+- casualty reports are falsified;
+- why regeneration works;
+- any technical Fate/Great Design truth;
+- protected series mystery truth.
+
+## Allowed CH-006 Discoveries — Red Jackal
+
+By the end of an approved CH-006 manuscript, Red Jackal may know:
+- Tavian Rook is a Crownspine Warden liaison already investigating abnormal monster-route drift;
+- Tavian is highly competent at track reading, migration judgment, rescue positioning, and field safety;
+- the profitable Main Caravan Road is heavily maintained, guarded, and supplied;
+- an adjacent minor side route visibly receives less maintenance/protection;
+- multiple ordinary animal/monster track patterns are crossing in ways Tavian considers ecologically wrong;
+- repeated layered crossings matter more than one random chase;
+- Tavian does not know the cause;
+- the immediate road can be safe while the surrounding ecology is becoming abnormal.
+
+Red Jackal may begin respecting Tavian's expertise.
+
+He may not conclude:
+- deliberate migration redirection;
+- Guild conspiracy;
+- Hesk's role;
+- Fate disturbance.
+
+## Tavian Rook — Opening CH-006
+
+Tavian enters already performing an independent Crownspine Warden migration/safety assignment.
+
+He knows:
+- normal regional migration patterns;
+- monster/prey tracking;
+- rescue and caravan safety;
+- route drift has become abnormal enough to investigate;
+- Greywake's main route receives stronger maintenance and observation than minor routes.
+
+He does not know:
+- march-lures exist;
+- Hesk is responsible;
+- Guild losses are deliberately falsified;
+- Red Jackal's anomaly origin;
+- Play Logic's mechanism;
+- any Fate/Great Design truth.
+
+## Allowed CH-006 Discoveries — Tavian
+
+Tavian may learn:
+- Red Jackal is irregular Road Guild labor;
+- Red Jackal is physically capable in a short road-defense situation;
+- Red Jackal can follow correct safety instruction despite theatrics;
+- Red Jackal's identity/power details are unusual only if ordinary local rumor naturally surfaces.
+
+Tavian does not need to witness Play Logic in CH-006.
+
+## Road Guild Guards — CH-006 Boundary
+
+Road guards know:
+- the Main Caravan Road is open and their immediate duty is traveler safety;
+- Tavian is an external Warden liaison with migration/safety authority to inspect;
+- side routes have lower priority/resources;
+- Red Jackal is attached as irregular labor.
+
+They may dismiss Tavian's broader concern as outside the immediate job.
+
+They may not:
+- knowingly conceal march-lures;
+- state Hesk's hidden policy;
+- knowingly falsify ecology evidence in this chapter.
+
+## F-ID Boundary
+
+CH-006 introduces **no new F-ID**.
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANNED — NOT YET PLANTED
+- F-004 — PLANTED — CH-005
+
+## M-007 Boundary
+
+M-007 is not active in CH-006.
+
+Do not introduce:
+- Fate terminology;
+- prophecy;
+- causal-wake effects;
+- destiny disturbance evidence.
+
+## Power Boundary
+
+Preferred CH-006 manuscript behavior:
+
+**No Play Logic manifestation.**
+
+No new power rule is introduced.
+
+## Regeneration Boundary
+
+No major Red Jackal injury.
+
+No abnormal healing evidence.
+
+F-003 remains protected for CH-007.
+
+## CH-007 Boundary
+
+CH-006 may end only with the ecological conclusion that the animals are moving wrong.
+
+Do not begin:
+- the displaced-predator attack;
+- severe Red Jackal injury;
+- Sela Arven's treatment-house material;
+- F-003 planting.

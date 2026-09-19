@@ -1,438 +1,962 @@
 # Chapter 5 — A Better Hammer
 
-**Status:** STUDIO CINEMATIC RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
-**Word Count:** 3,204  
+**Status:** SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE REVISION — GATE 9 REVALIDATION PENDING
+**Revision Date:** 2026-09-20
+**Word Count:** 3016
 **Chapter QA:** `qa/CH-005-GATE-9-CHAPTER-QA.md`
-**Retcon QA:** `qa/CH-005-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
-The sky over Greywake was still grey when Red reached the Road Guild yard.
+The sky over Greywake was still grey when I reached the Road Guild yard.
 
-A wagon waited near the gate with fresh timber stacked along one side. Workers hauled iron clamps into crates. Two guards checked spearheads. Somewhere behind the wagon, two men were already arguing about rope.
+A wagon waited near the gate with fresh timber stacked along one side. Workers hauled iron clamps into crates. Two guards checked spearheads under the awning. Somewhere behind the wagon, two men were already arguing about rope with the intensity of people discussing national policy.
 
-Red had not found breakfast yet.
+I had not found breakfast yet.
 
-First light was a cruel phrase. A broad-shouldered man with a weather-dark coat looked at his assignment card, then at him.
+First light was a cruel phrase.
 
-He was probably in his forties. Maybe older. Hard to tell with people who spent most of their lives outside.
+A broad-shouldered man in a weather-dark coat took the bridge-marked assignment card from me, checked the Guild seal, then checked me.
 
-“You Red Jackal?”
+"You Red Jackal?"
 
-The Wayfarer Tongue Token hanging from the side of the repair wagon carried the meaning clearly.
+A Wayfarer Tongue Token hung from the side of the repair wagon. Its faint pressure settled around his words.
 
-“That is what they keep telling me.”
+"That is what the paperwork has decided."
 
 He handed the card back.
 
-“Foreman.”
+"Foreman."
 
-No name. Just foreman. Efficient. He pointed at a stack of iron clamps beside the wagon.
+No name.
 
-“Carry those.”
+Just foreman.
 
-He looked at the clamps. Then at him. Then back at the clamps. So much for mysterious irregular frontier work. He picked them up.
+Efficient.
 
-They were heavier than they looked. The foreman had already moved on. No questions about his missing class. No concern about his undefined level. No interest in what the System thought of him.
+He pointed at a stack of iron clamps beside the wagon. "Carry those."
 
-He had two arms and had shown up on time. That was enough qualification for road maintenance.
+I looked at the clamps.
 
-The repair crew left Greywake just after sunrise: six workers, two road guards, the foreman, one wagon, and Red. The Wayfarer Tongue Token hung from a hook beneath the wagon roof so the crew could speak to him when needed.
+Then at him.
 
-Without it, their Valic turned back into unfamiliar sound. He still could not read the painted route boards they passed. That remained his problem. The Main Caravan Road was wider than he had realized on the walk into Greywake. Outside the gate, the packed surface had been raised above the surrounding ground with layers of gravel and timber reinforcement. Drainage ditches ran along both sides. Stone markers stood at regular intervals. Every few hundred paces, he saw evidence of repair—fresh fill, replaced boards, cleared brush, reinforced culverts.
+Then back at the clamps.
 
-Every few hundred paces, fresh repairs cut across older damage.
+So much for mysterious frontier employment.
 
-Keeping the road open was less a construction project and more an argument with the weather. One of the workers noticed him looking at a line of shallow channels cut beside the road.
+I picked them up.
 
-“Flood drains.”
+They were heavier than they looked.
 
-“I assumed decorative trenches would be an unusual frontier tradition.”
+The foreman had already moved on.
 
-He stared at him. The token translated the silence perfectly. He stopped trying. They passed two caravans heading toward Greywake. Both slowed as they approached them, drivers exchanging short words with the foreman.
+No questions about my missing class. No concern about my undefined level. No philosophical crisis over the fact that the World System had searched for me and apparently found a blank space.
 
-The road mattered. That was obvious. Every wagon carrying grain, tools, cloth, medicine, or people depended on this strip of maintained ground not turning into mud or monster territory. Greywake's walls were useful. The road was probably why the walls had anything inside them.
+I had two arms, had arrived on time, and could carry metal.
 
-The damaged bridge approach appeared around midmorning. The bridge itself crossed a narrow river channel, low and broad rather than dramatic. No deep gorge. No raging waterfall. Just brown water moving under a low timber span.
+For road maintenance, that was enough.
 
-The problem was on the near side. Recent rain had softened the roadbed and pushed one of the approach supports out of alignment. A heavy timber brace beneath the outer edge had swollen with water and shifted far enough that the surface above it sagged slightly.
+I liked the Guild a little more.
 
-Not enough to collapse. Enough that sending loaded wagons across it would be stupid. The crew immediately started working. Nobody stood around waiting for him to solve anything. Two workers unloaded replacement boards and wedges. Another cleared packed mud from around the support. The foreman checked the angle with a long metal measuring bar etched with narrow geometric markings.
+We left Greywake just after sunrise: six workers, two road guards, the foreman, one repair wagon, and me.
 
-The markings gave off a faint blue glow. He looked closer.
+The Wayfarer Tongue Token stayed hooked beneath the wagon roof so the crew could speak to me when they needed to. Outside its reach, their Valic went back to unfamiliar sound. The painted route boards remained unreadable too.
+
+Consistency.
+
+The Main Caravan Road was wider than I had realized on my first walk into Greywake. Outside the gate, the packed surface had been raised above the surrounding ground with gravel, timber reinforcement, and drainage cuts along both sides. Stone markers stood at regular intervals. Fresh fill crossed older ruts. Replaced boards sat beside weathered ones. Brush had been cut back from the shoulders.
+
+Every few hundred paces, newer repairs crossed older damage.
+
+Keeping the road open was less construction and more a long-running argument with rain.
+
+One of the workers noticed me looking into a shallow channel beside the road.
+
+"Flood drain."
+
+"I was hoping decorative trenches were a local art form."
+
+He stared at me.
+
+The token translated the silence perfectly.
+
+I decided to conserve material.
+
+We passed two caravans heading toward Greywake. Both slowed near our wagon. Drivers exchanged quick words with the foreman, then moved on.
+
+Grain.
+
+Tools.
+
+Cloth.
+
+Crates I could not identify.
+
+People.
+
+Greywake's walls kept danger out.
+
+This road kept everything else coming in.
+
+That probably mattered more.
+
+The damaged bridge approach appeared around midmorning.
+
+The bridge itself crossed a narrow brown river channel. Low timber span. Broad banks. No giant waterfall, no bottomless gorge, no dramatic mist waiting for somebody to fall into it.
+
+The damage was on our side.
+
+Recent rain had softened the roadbed and shifted one of the outer approach supports. A heavy timber brace beneath the edge had swollen with water and twisted just far enough to make the surface above it sag.
+
+Not collapsing.
+
+Not safe either.
+
+The crew went to work before I finished looking.
+
+Two workers unloaded replacement boards and wedges. Another dug packed mud away from the support. The foreman checked the brace angle with a long metal bar etched with narrow geometric markings.
+
+The markings gave off a faint blue glow.
+
+I leaned closer.
 
 Sigils.
 
-He still could not read them. A worker set an iron clamp around the damaged brace. Small etched lines along the clamp lit as he tightened it. The timber stopped shifting. So this was what ordinary practical magic looked like here.
+Still unreadable.
 
-Prepared tool. Prepared marks. One specific job.
+A worker fitted an iron clamp around the swollen brace. More etched lines lit as he tightened it. The timber stopped shifting.
 
-No chanting. No sparks.
+So this was ordinary practical magic.
 
-Practical magic looked disappointingly sensible.
+Prepared object.
 
-The foreman caught him watching.
+Prepared markings.
 
-“Alignment clamp.”
+Specific function.
 
-“I gathered.”
+Nobody raised both hands and screamed the name of an attack.
 
-“Don't touch the marks.”
+Mildly disappointing.
 
-“I wasn't planning to.”
+The foreman caught me watching.
 
-“You were staring at them.”
+"Alignment clamp."
 
-“I stare at many things I don't understand.”
+"I gathered."
 
-He accepted that. The crew spent the next hour forcing the swollen brace back into position. He carried timber. Held one end of a support beam. Dragged a coil of rope.
+"Don't touch the marks."
 
-Moved two crates because someone pointed at them. Frontier work continued to be less glamorous than advertised. The important part was that the crew knew exactly what they were doing. The foreman called positions. Two workers levered the brace.
+"I wasn't planning to."
 
-Another checked the alignment bar. One guard remained near the road while the other watched the tree line. The whole thing moved with the practiced irritation of people who had fixed similar problems before. Eventually, the brace settled into the right position.
+"You were staring at them."
 
-A worker slid a thick iron pin through the first half of the joint. It stopped. The swollen timber held it tight. The foreman checked the angle again.
+"I stare at many things I don't understand."
 
-“Needs driving.”
+He accepted that with the tired calm of a man who had probably supervised worse.
 
-One of the workers went to the wagon and came back with a heavy two-handed hammer.
+For the next hour, I did actual work.
+
+I carried timber. Held one end of a support beam. Dragged rope. Moved crates because someone pointed at them. Stood where the foreman told me to stand and moved when he told me to move.
+
+Frontier employment continued to have a terrible marketing department.
+
+The crew knew exactly what they were doing.
+
+That became obvious quickly.
+
+The foreman called positions. Two workers levered the brace. Another checked the glowing alignment bar. One guard stayed near the road. The other watched the tree line. Nobody waited for the mysterious unregistered stranger to solve engineering.
+
+Eventually, the swollen brace settled into position.
+
+A worker slid a thick iron pin through the first half of the joint.
+
+It stopped.
+
+The timber held it tight.
+
+The foreman checked the angle again.
+
+"Needs driving."
+
+One worker went to the wagon and returned with a heavy two-handed hammer.
 
 Finally.
 
-A tool he understood. He raised it and brought it down on the end of the pin. Metal rang. The pin moved slightly. Second strike.
+A tool I understood.
 
-Another small movement. Third strike— The hammer handle split near the head. The metal head twisted sideways and hit the ground. Everyone stopped. The worker holding the broken handle looked at it.
+He planted his feet, raised it, and brought it down.
 
-The foreman closed his eyes for half a second. He understood that expression. It was the universal face of equipment failure.
+Metal rang.
 
-“Spare?” one of the workers asked.
+The pin moved.
 
-“Smaller.”
+He struck again.
 
-“How much smaller?”
+A little farther.
 
-The foreman looked at the wagon.
+Third strike—
 
-“Enough to make this take longer.”
+The wooden handle split near the head.
 
-Traffic had already begun stacking up on the far side of the work zone. Three wagons waited under guard. Another had stopped behind them. The foreman pointed at two workers.
+The metal head twisted free, hit the mud, and rolled once.
 
-“Reset the brace. Keep pressure on it.”
+Everyone stopped.
 
-Then to another.
+The worker stared at the broken handle.
 
-“Get the smaller maul.”
+The foreman closed his eyes for half a second.
 
-Nobody panicked. Nobody declared disaster. They had a fallback. It was just slower. He looked at the broken hammer head lying in the mud.
+I knew that face.
 
-Then at the iron pin. Then at his hands. The thought came before he invited it. The slab. In the forest, he had needed something between himself and teeth.
+Equipment failure was apparently universal.
 
-Something had appeared. Later, when he tried to make it happen again, nothing. At the time he had assumed fear mattered. Maybe it did. But the first thought had also been specific.
+"Spare?" somebody asked.
 
-He needed something between them. Not a shield. Not a weapon. A function. He looked at the bridge pin again.
+"Smaller."
 
-The crew needed a hammer. That was simple. Possibly too simple. He should probably have tested this somewhere private. Not beside six workers, two guards, a damaged bridge, and several waiting caravans. It was a poor testing environment. He knew that before he tried anyway.
+"How much smaller?"
 
-On the other hand, he had not found a private place with a broken heavy hammer and an immediate reason to care. Research conditions were imperfect. He stepped away from the crew. The foreman noticed.
+The foreman looked toward the wagon.
 
-“What are you doing?”
+"Enough to make this annoying."
 
-“Trying something.”
+Traffic had already begun stacking behind the work zone. Three wagons waited under guard. Another slowed behind them.
 
-“That usually means I should stop you.”
+"Reset the brace," the foreman ordered. "Keep pressure on it."
 
-“Probably.”
+Two workers moved immediately.
 
-He frowned. He held out one hand. He remembered the feeling from the forest. Not mana. At least he did not think it was mana.
+"Get the smaller maul."
 
-There had been no spell in the forest. No words.
+Nobody panicked.
 
-Just need.
+They had a fallback.
+
+It was just slower.
+
+I looked at the broken hammer head in the mud.
+
+Then at the half-driven iron pin.
+
+Then at my hands.
+
+The memory came back without permission.
+
+Forest.
+
+Teeth.
+
+Blood.
+
+A need so immediate there had been no room to decorate it.
+
+Something between me and that animal.
+
+And then there had been something.
+
+A dark slab where empty air had been.
+
+Afterward, I had tried to reproduce it.
+
+Badly.
+
+Nothing useful.
+
+At the time, I had blamed fear.
+
+Maybe fear mattered.
+
+Maybe not.
+
+The crew needed a hammer.
+
+That was a very simple problem.
+
+Which made it dangerous.
+
+Simple problems encouraged confidence.
+
+I stepped away from the brace.
+
+The foreman noticed immediately.
+
+"What are you doing?"
+
+"Trying something."
+
+His eyes narrowed.
+
+"That usually means I should stop you."
+
+"Strong instinct."
+
+He frowned.
+
+I held out one hand.
 
 A hammer.
 
-Nothing happened.
+That was the thought.
 
-Red kept his hand out. Something solid. Something he could use.
+Just that.
 
-Pressure gathered around his palm.
+A hammer.
 
-Then a hammer dropped into his hand.
+For half a second, nothing happened.
 
-He almost lost it.
+Then pressure gathered around my palm.
 
-Not because it was heavy. Because it was ridiculous. It was a hammer. Technically. The handle was too short.
+Not heat.
 
-The head was wide but thin, more like someone had described a hammer to a child and received an enthusiastic drawing in return. He stared at it. The foreman stared at it. One of the guards took a step closer.
+Not mana, at least not in any way I understood.
 
-“Well,” he said.
+Just the strange certainty that empty space had become negotiable.
 
-Nobody helped. He had asked for a hammer. He had received a hammer. That was apparently the full extent of the agreement. He walked over to the brace-pin.
+Something dropped into my hand.
 
-The foreman moved in front of him.
+I almost fumbled it.
 
-“Wait.”
+Not because it was heavy.
 
-He looked at the object. Then at his hand. Then at the ground where it definitely had not been a moment earlier.
+Because it was stupid.
 
-“What casting was that?”
+It was absolutely a hammer.
 
-“I was hoping you knew.”
+Technically.
 
-The nearby guard frowned.
+The handle was too short. The head was too wide and much too thin. The proportions looked like a child had drawn the concept from memory after seeing one once.
 
-“No sigil.”
+I stared at it.
 
-“No.”
+The foreman stared at it.
 
-“No focus tool.”
+One of the guards stepped closer.
 
-“No.”
+The world paused.
 
-“What words did you use?”
+Wind stopped in the roadside grass.
 
-“None.”
+A droplet falling from the wagon wheel hung in the air.
 
-His expression changed. Not fear. Confusion.
+The guard froze with one boot half a step forward.
 
-“That isn't how Guild shaping works.”
+I looked toward you.
+
+"I asked for a hammer."
+
+I raised the terrible object slightly.
+
+"Reality has entered its malicious-compliance phase."
+
+I looked at the head again.
+
+"Technically correct."
+
+Time resumed.
+
+The droplet hit the mud.
+
+Nobody noticed the missing moment.
+
+"Well," I said.
+
+The foreman looked from the hammer to the empty air beside my hand where it had definitely not existed a moment earlier.
+
+"What casting was that?"
+
+"I was hoping you knew."
+
+The nearest guard frowned.
+
+"No sigil."
+
+"No."
+
+"No focus tool."
+
+"No."
+
+"What words did you use?"
+
+"None."
+
+His expression changed.
+
+Not fear.
+
+Confusion.
+
+"That isn't how Guild shaping works."
 
 Useful.
 
-Not comforting.
+Still not an explanation.
 
-The foreman pointed at the hammer.
+The foreman pointed toward the pin.
 
-“Can it drive the pin?”
+"Can it drive that?"
 
-Only one way to find out. He raised it. The balance was terrible. The head pulled sideways. He struck the iron pin anyway.
+There was only one responsible way to find out.
 
-The result was a small metallic tap. The pin did not move. The hammer head bent. Not a lot. Enough.
+I raised the hammer.
 
-He looked at it. The worker beside him looked at it too.
+The balance was awful.
 
-“That is a bad hammer,” he said.
+The head tried to pull sideways.
 
-“Thank you.”
+I hit the pin anyway.
 
-The surface blurred. The head thinned. A moment later, the entire thing softened into nothing. That part was familiar. The crew remained silent.
+Tap.
 
-He was becoming very good at creating those. The foreman looked at him.
+The pin did not move.
 
-“Can you do that again?”
+The hammer head bent slightly.
 
-There it was.
+The worker beside me looked at it.
 
-“I don't know.”
+Then at me.
 
-The answer left a brief silence behind it. The worker with the smaller maul returned. The foreman took it.
+"That is a bad hammer."
 
-“Then we use this.”
+"Thank you. The review process is important."
 
-He turned away. That should have been the end of the experiment. It was not. Because the first attempt had worked. Badly.
+The surface blurred.
 
-But it had worked. He had wanted a hammer. He got one. Not the hammer. A hammer.
+The handle softened.
 
-The distinction bothered him. The foreman handed the smaller maul to a worker. The worker took position. The first strike barely moved the pin. Second strike.
+A moment later the whole thing collapsed into nothing.
 
-Almost nothing. The brace creaked under tension.
+Silence.
 
-“Hold it,” the foreman said.
+I had intentionally made something.
 
-Two workers leaned harder on the support. One of the guards suddenly raised a hand.
+That mattered.
 
-“Movement.”
+The fact that the thing had been embarrassing mattered less.
 
-Everything changed quickly. The second guard turned toward the trees. The foreman pointed.
+The foreman looked at me.
 
-“Workers in.”
+"Can you do that again?"
 
-Nobody argued. The crew near the outer edge shifted closer to the wagon. A low shape moved through the brush beyond the drainage ditch. Then another. Then a third.
+"I can probably make another bad decision."
 
-They were smaller than the thing that had attacked him in the forest, lean-bodied and long-legged, with grey-brown hides that disappeared easily against wet bark. Ordinary predators.
+"Can you make another hammer?"
+
+I looked at the empty hand.
+
+"I don't know yet."
+
+The worker returned with the smaller maul.
+
+The foreman took it.
+
+"Then we use what we know works."
+
+And just like that, the road crew went back to the road.
+
+No kneeling.
+
+No prophecy.
+
+No requests for my sacred guidance.
+
+I respected them more every minute.
+
+The smaller maul came down.
+
+The pin moved a fraction.
+
+Again.
+
+Almost nothing.
+
+The brace creaked under the tension.
+
+"Hold it," the foreman said.
+
+Two workers leaned harder against the support.
+
+One of the guards raised a hand.
+
+"Movement."
+
+Everything changed.
+
+The second guard turned toward the trees.
+
+The foreman pointed at the workers near the outer edge.
+
+"In."
+
+Nobody argued.
+
+People shifted closer to the wagon and work zone.
+
+A low shape moved through the brush beyond the drainage ditch.
+
+Then another.
+
+Then a third.
+
+Lean bodies.
+
+Long legs.
+
+Grey-brown hides that disappeared easily against wet bark.
+
+Ordinary predators.
 
 Probably.
 
-He had learned not to make strong claims about wildlife. One of the guards stepped forward with his spear. The other drew a short blade. The animals did not charge immediately. They circled.
+I had stopped making confident statements about local wildlife.
 
-Noise, food, exposed workers. Easy opportunity. The guard nearest him glanced back.
+One guard stepped forward with his spear.
 
-“Stay with the crew.”
+The other drew a short blade.
 
-Reasonable instruction. He looked at the brace-pin. Still halfway in. If the crew released pressure now, the swollen timber would shift again. Not catastrophic.
+The animals did not charge.
 
-Just more work. The foreman saw the same thing.
+They circled.
 
-“Keep the brace set.”
+Noise.
 
-Two workers held position. The smaller maul came down again. The pin moved less than an inch. One of the predators darted toward the supply wagon. The guard intercepted it.
+Food.
 
-Spear point flashed. The animal twisted away. The second predator moved from the opposite side. Both guards shifted. They could handle them.
+Workers focused on something else.
 
-Probably.
+Opportunity.
+
+"Stay with the crew," one guard told me.
+
+Reasonable.
+
+I looked at the half-driven pin.
+
+If the workers released pressure now, the brace would shift again.
+
+Not disaster.
+
+Just lost work and more delay.
+
+The foreman saw the same problem.
+
+"Keep it set."
+
+Two workers held position.
+
+The smaller maul came down again.
+
+The pin barely moved.
+
+One predator darted toward the supply wagon.
+
+A guard intercepted it.
+
+Spear point flashed.
+
+The animal twisted away.
+
+The second predator moved from the opposite side.
+
+The guards shifted.
+
+They could handle them.
 
 The brace needed one heavy strike.
 
-Red looked at the iron pin. The swollen timber. The two workers holding the support in place.
+I looked at the iron pin.
+
+The swollen timber.
+
+The workers holding alignment.
+
+The broken hammer.
 
 Not a hammer.
 
-The result.
+That was where I had gone wrong.
 
-A hammer he could actually swing. Heavy enough to drive that pin through the swollen brace.
+I had asked for a noun.
 
-One clean strike.
+The job did not need a noun.
 
-That was all. The pressure returned. Stronger this time. Something formed in his hands. He immediately regretted adding any sense of style to the image.
+It needed a result.
 
-The handle was long. Too long. The head was enormous. Not impossibly enormous. Just large enough that a reasonable person would have chosen something smaller.
+Something I could swing.
 
-Dark material formed along the surface in uneven planes, more solid than the first hammer and much heavier. The weight dragged his arms down. One of the workers stared.
+Enough impact to drive that pin through the swollen brace in one clean strike.
 
-“That is not better.”
+One strike.
 
-“It might be.”
+That was the role.
 
-The guard beside the road looked over. Again, no sigil. No spell. No preparation. Just him holding something that had not existed a second earlier.
+I held out both hands.
 
-He did not have time to think about what that meant. The hammer had started to distort at the edges, not from strain so much as from the fact that he had imagined the result more clearly than the proportions. He stepped toward the pin. The foreman looked at the hammer, then the brace, then Red.
+The pressure returned immediately.
 
-“Can you control it?”
+This time I did not think about what a hammer was supposed to look like.
 
-“Enough.”
+I thought about the pin moving.
+
+About iron punching through wet timber.
+
+About weight arriving exactly where the work needed it.
+
+Then, because I have weaknesses, I also imagined the silhouette being unnecessarily dramatic.
+
+Something formed between my hands.
+
+Long handle.
+
+Dark head.
+
+Far too large.
+
+The workers stared.
+
+I stared too.
+
+Apparently I had been very clear about "impact" and less responsible about "reasonable."
+
+The foreman looked at it.
+
+"That is bigger."
+
+"Observation remains one of your strengths."
+
+One worker leaned away from the head.
+
+"Can you actually use it?"
+
+I adjusted my grip.
+
+The weight dragged at my shoulders.
+
+The thing was physically real enough to demand actual leverage.
+
+That was important.
+
+Creating an absurd hammer did not magically teach my joints to enjoy swinging one.
+
+"Yes."
+
+I looked at the brace.
 
 Probably.
 
-He pointed to the workers.
+The edges of the head shifted slightly, not like weak material breaking, but like the shape had not decided whether all that extra drama was necessary.
 
-“Hold.”
+Fine.
 
-They braced. He raised the hammer. Bad idea. His shoulders immediately objected. The thing was much heavier than he had intended.
+The job mattered more than the silhouette.
 
-Clear function, apparently. Reasonable proportions were optional. He adjusted his grip. The head gave one small, ridiculous wobble because he had asked for impact and left aesthetics to whatever part of reality had a sense of humor.
+The guard near the road shouted.
 
-One strike. Drive the pin. That was the purpose. He swung. The hammer came down.
+"Left!"
 
-The hammer hit.
+A predator rushed the ditch.
 
-The crack rolled across the worksite.
+The second guard moved to cut it off.
+
+The foreman pointed toward the brace.
+
+"Now or back off."
+
+That simplified things.
+
+"Hold it," I said.
+
+The workers braced.
+
+I raised the hammer.
+
+My shoulders immediately filed a complaint.
+
+One strike.
+
+Drive the pin.
+
+That was all.
+
+I swung.
+
+The head came down.
+
+The sound cracked across the worksite.
 
 The iron pin punched through the swollen timber and slammed against the outer plate.
 
-Nobody moved for half a beat.
+For half a heartbeat, nobody moved.
 
 Then the foreman shouted.
 
-“Clamp it.”
+"Clamp it!"
 
-The crew reacted immediately. Two workers secured the brace. Another locked the outer plate. The enchanted clamp flared blue. The structure settled.
+The crew reacted immediately.
 
-His arms felt like they had been replaced with rope. The hammer was still there because he had not dismissed it yet. One of the predators came too close around the wagon. The nearest guard was occupied with another.
+Two workers secured the brace.
 
-He turned. The animal lowered itself. He could have invented something else. He did not need to. He was already holding a hammer the size of a bad decision. He shifted the shaft sideways and let the head drop between the animal and the workers.
+Another locked the outer plate.
 
-The creature checked its charge.
+The enchanted clamp flared blue.
 
-Good.
+The timber settled into position.
 
-He shoved the hammer forward. The head clipped the ground, kicked up mud, and forced the animal back. Not elegant. Effective enough. The guard moved in and drove it away with the spear.
+That was the repair.
 
-The rest of the small pack followed once they realized breakfast had developed organization. Nobody chased them. The guards held position until the brush went still. He looked down at the hammer. The edges had started to lose definition now that he no longer cared what happened to it.
+Not my hammer.
 
-That was useful information. He let go of the idea as much as the handle. The shaft softened before it hit the ground, the head sagged, and the whole thing disappeared.
+Their alignment.
 
-His knees objected to the ordinary fact that he had just swung something absurdly heavy. He caught the edge of the wagon. The foreman looked at him.
+Their brace.
 
-“You all right?”
+Their clamp.
 
-“Define all right.”
+Their engineering.
 
-“Standing.”
+I had contributed one extremely rude solution to one extremely specific problem.
 
-“Yes.”
+The predator near the wagon chose that moment to come closer.
 
-“Then sit down.”
+I was still holding the hammer.
 
-That was probably wise. He sat on a timber stack while the crew finished securing the bridge approach. His hands shook slightly from the impact, and his shoulders hurt because apparently creating an impossible hammer did not exempt him from using it badly.
+Convenient.
 
-So. Intentional manifestation was possible. That was new. The first result had been useless because he had asked for a category. Hammer.
+It lowered itself.
 
-The second had worked because he had asked for a purpose. Drive the pin.
+I turned the shaft and let the oversized head drop between the animal and the workers.
+
+The creature stopped.
+
+So did I.
+
+We considered each other.
+
+I pushed forward.
+
+The hammer head hit the ground, threw mud, and forced the animal back without turning it into a stain.
+
+The guard stepped in immediately and drove it away with his spear.
+
+The rest of the small pack withdrew once the worksite stopped looking easy.
+
+Nobody chased them.
+
+The guards held position until the brush went still.
+
+I looked down at the hammer.
+
+Now that the pin was driven and the threat had backed away, the unnecessary parts of the image began to soften.
+
+Interesting.
+
+I loosened my grip.
+
+The shaft blurred before it touched the ground.
+
+The head folded into nothing.
+
+Gone.
+
+My arms still remembered the weight.
+
+That was less mysterious.
+
+I had swung something enormous.
+
+My shoulders hurt because shoulders are tragically committed to physics.
+
+The foreman looked at me.
+
+"You standing?"
+
+"Against medical advice from several muscles."
+
+"Sit down."
+
+I sat on a timber stack.
+
+My hands shook slightly from the impact.
+
+Not some magical meter running empty.
+
+Just the ordinary consequence of putting my entire body behind a hammer built from terrible judgment.
+
+I looked at the repaired brace.
+
+The first hammer had not been weak because I was weak.
+
+It had been exactly as useful as the thought I gave it.
+
+Hammer.
+
+Fine.
+
+There.
+
+Hammer.
+
+The second had been different because I had stopped thinking about the label and started thinking about what I wanted the thing to do.
+
+Drive the pin.
 
 One clean strike.
 
-The shape had changed with the thought. Not because he had become stronger in the last ten minutes. Because he had finally stopped asking reality for a noun and started giving it a role.
+The shape followed the role.
 
-Clear idea. Better result. He stored that away.
+Not perfectly.
 
-Not a limit.
+The ridiculous scale proved that.
 
-A pattern.
+But enough.
 
-The guard who had asked about the casting walked over. He looked at the empty patch of mud where the hammer had disappeared.
+That was not a power-up.
 
-“What was that?”
+It was information.
 
-“I was hoping you had a second theory.”
+A dangerous distinction.
 
-“I have none.”
+The guard who had questioned the first manifestation walked over and stared at the empty patch of mud.
 
-“Good. That makes two of us.”
+"What was that?"
 
-He glanced toward the alignment clamp.
+"I was hoping you had developed a theory."
 
-“That wasn't sigilcraft.”
+"I have not."
 
-“I know.”
+"Excellent. We're making equal progress."
 
-“You didn't shape through a tool.”
+He glanced at the glowing alignment clamp.
 
-“No.”
+"That wasn't sigilcraft."
 
-“No spoken pattern.”
+"I know."
 
-“No.”
+"No tool focus."
 
-He looked at him for another second.
+"No."
 
-“Strange magic.”
+"No spoken pattern."
 
-“That's currently the leading explanation.”
+"No."
 
-He walked away. Not exactly a scholarly breakthrough. Still useful. The crew finished the repair before noon. They replaced the damaged surface boards, checked the brace twice, reset the drainage edge, and tested the approach with the unloaded repair wagon before allowing normal traffic through.
+He looked at me for another second.
 
-Nobody asked him to hit anything else. Probably sensible. The foreman walked the repaired section once, checked the alignment bar, then waved the first waiting caravan forward. The wagon crossed slowly. The bridge held.
+"Strange magic."
 
-The workers relaxed. Just slightly. The important part was done. His impossible hammer had driven one pin. The crew had repaired the bridge.
+"Currently the least wrong answer."
 
-That distinction mattered. On the return trip, he carried less. This may have been sympathy. He chose to interpret it as professional recognition. The Wayfarer Token swung beneath the wagon roof while the crew talked around him.
+He walked away.
 
-Nobody called him chosen. Nobody asked whether he had a legendary class. One worker asked whether he could make a shovel next time. He told him no. Mostly because he did not know.
+The crew finished before noon.
 
-The foreman submitted the completion record at the Road Guild yard that afternoon. A clerk checked the stamped assignment card, counted returned supplies, listened to the foreman's report, and opened a cash drawer. He stood there trying not to look too interested.
+Replacement boards went down. The brace was checked twice. The drainage edge was reset. They tested the approach with the unloaded repair wagon before allowing normal traffic through.
 
-The clerk placed the remaining payment in Marks on the counter. He counted them. Not because he had mastered local economics overnight. Because counting money was universal enough.
+Nobody asked me to create anything else.
 
-“Complete,” the clerk said.
+Probably wise.
+
+The foreman walked the repaired section, checked the glowing alignment bar, and waved the first waiting caravan forward.
+
+The wagon crossed slowly.
+
+The bridge held.
+
+Only then did the workers relax.
+
+My impossible hammer had driven one pin.
+
+The crew had repaired the bridge.
+
+That distinction mattered.
+
+On the return trip, they gave me less to carry.
+
+I chose to interpret this as professional recognition rather than concern that I would invent construction equipment again.
+
+The Wayfarer Tongue Token swung beneath the wagon roof while the crew talked around me.
+
+Nobody called me chosen.
+
+Nobody asked about a legendary class.
+
+One worker asked whether I could make a shovel next time.
+
+I looked at him.
+
+"Yes."
+
+He blinked.
+
+I smiled.
+
+"Probably."
+
+That answer was much more fun.
+
+The foreman submitted the completion record at the Road Guild yard that afternoon.
+
+A clerk checked the stamped assignment card, counted the returned supplies, listened to the foreman's report, and opened a cash drawer.
+
+I tried not to look too interested.
+
+The remaining payment landed on the counter in Marks.
+
+I counted them.
+
+Not because I had mastered local economics overnight.
+
+Because counting money is a language humanity solved early.
+
+"Complete," the clerk said.
 
 That was it.
 
-No celebration. No System notice.
+No System window.
 
-Outside, the first loaded wagon rolled across the repaired bridge.
+No Skill unlocked.
+
+No class notification.
+
+No glowing title declaring me Master of Hammers.
+
+Just payment.
+
+Outside Greywake, the first loaded wagons were already moving across the repaired bridge.
 
 The Guild cared that the road worked.
 
-Red respected that. He put the Marks away. The foreman was already speaking to another worker about tomorrow's traffic. To him, his impossible hammer was apparently less important than whether six wagons could cross before dark.
+I respected that.
 
-Reasonable priorities. He stepped out into the yard. His shoulders still ached from swinging the ridiculous thing. He considered trying the ability again just to prove he could, then decided that manifesting random objects in a Guild yard for no reason would reveal more than it taught him.
+I put the Marks away.
 
-For now, curiosity could wait.
+The foreman was already discussing the next day's traffic with another worker.
 
-Marks clicked in his pocket as he crossed the yard.
+To him, the impossible hammer was less important than whether six wagons could cross before dark.
 
-A vague idea gave him something technically correct.
+Reasonable priorities.
 
-A clear purpose gave him something useful.
+I stepped back into the yard.
 
-Not an explanation.
+My shoulders still ached.
 
-Enough to try again later.
+The idea of trying the anomaly again crossed my mind.
+
+I let it pass.
+
+Not because I had reached a limit.
+
+Because testing reality in the middle of a busy Guild yard would reveal more about me than it taught me.
+
+There would be better stages.
+
+Better timing.
+
+More interesting problems.
+
+Marks clicked in my pocket as I headed toward the market.
+
+The world had not taught me how to become stronger.
+
+It had taught me something much more useful.
+
+If I gave the impossible a role, it listened differently.
+
+That was enough for today.

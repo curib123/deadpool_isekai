@@ -1,6 +1,8 @@
 # Chapter 3 — The Things They Can Measure
 
-**Status:** DRAFT — GATE 9 NOT YET RUN
+**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED  
+**Word Count:** 2,443  
+**Chapter QA:** `qa/CH-003-GATE-9-CHAPTER-QA.md`
 
 By early afternoon, I had learned two useful things about Greywake. First, the settlement had food. Second, having no recognized identity made acquiring that food more complicated than it needed to be.
 

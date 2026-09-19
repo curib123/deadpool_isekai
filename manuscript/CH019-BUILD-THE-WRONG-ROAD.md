@@ -117,7 +117,7 @@ He looked at the thick section buried under one side of the old drain.
 
 “Finally. A problem with a clear moral structure.”
 
-He stared at him.
+The worker stared at Red.
 
 “Pull.”
 
@@ -249,7 +249,7 @@ Still held.
 
 “Release it.”
 
-He looked at him.
+Red looked at the foreman.
 
 “You sure?”
 
@@ -289,11 +289,11 @@ The foreman looked at the gap.
 
 “We can fill from both sides if we get planks across.”
 
-A worker pointed at him.
+A worker pointed at Red.
 
 “He can make the temporary bit.”
 
-He looked at him.
+Red looked at the worker.
 
 “Good to know I have become equipment.”
 

@@ -1,14 +1,13 @@
 # Chapter 23 — Greywake Holds
 
-**Status:** CANON — OVERPOWERED RETCON GATE 9 PASS  
+**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
 **Word Count:** 2670
-**Retcon QA:** `qa/CH-023-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
 The largest territorial predator in the migration had arrived.
 
 For one second, nobody moved.
 
-The animal filled the broken approach without needing magic, titles, or glowing eyes. It was simply too large for the road, too close to frightened prey, and too angry at everything pressing around it. Thick shoulders forced through brush and young trees. Mud streaked its hide. One side of its face carried old scars that had nothing to do with us.
+The animal filled the broken approach without needing magic, titles, or glowing eyes. It was simply too large for the road, too close to frightened prey, and too angry at everything pressing around it. Thick shoulders forced through brush and young trees. Mud streaked its hide. One side of its face carried old scars that had nothing to do with them.
 
 Then the prey behind it surged.
 
@@ -28,21 +27,21 @@ Fast enough.
 
 The predator struck the remains of a guide frame with one shoulder. Timber exploded sideways. Prey split around it, found another wall of bodies, and compressed again.
 
-I had answers.
+He had answers.
 
 Too many.
 
 A wall high enough to stop the entire approach. A trench deep enough to make the predator somebody else’s problem. A cage. Chains. A hole where the road used to be. Something large and stupid dropping out of the sky.
 
-The dangerous part was not whether I could imagine one.
+The dangerous part was not whether he could imagine one.
 
-The dangerous part was that I could.
+The dangerous part was that he could.
 
 “Not yet,” Tavian said.
 
-I looked at him.
+He looked at him.
 
-He was watching the animal, not me.
+He was watching the animal, not him.
 
 “It wants space.”
 
@@ -52,7 +51,7 @@ Brynn’s eyes stayed on the line. “Where?”
 
 That was the problem. Every escape route the predator tested was becoming another body, fence, slope, worker, or panicked prey animal.
 
-If I solved the predator without solving the geometry, I would just choose where the disaster happened.
+If he solved the predator without solving the geometry, he would just choose where the disaster happened.
 
 Annoying.
 
@@ -76,9 +75,9 @@ He went down beside the road shelf.
 
 The predator moved.
 
-I was already running.
+He was already running.
 
-A militia man struck his shield with the butt of his spear. Another shouted from the opposite side. The animal hesitated just long enough for me to reach the fallen worker.
+A militia man struck his shield with the butt of his spear. Another shouted from the opposite side. The animal hesitated just long enough for him to reach the fallen worker.
 
 “Leg?”
 
@@ -86,77 +85,77 @@ A militia man struck his shield with the butt of his spear. Another shouted from
 
 “Good.”
 
-I grabbed the back of his coat and pulled him upright.
+He grabbed the back of his coat and pulled him upright.
 
 The predator came anyway.
 
 A shield hit its muzzle from the side. It swung through the impact instead of retreating. One forelimb came across low and fast.
 
-I saw it.
+He saw it.
 
-This time, I could have moved.
+This time, he could have moved.
 
-I did not.
+He did not.
 
-The hit tore across my flank and threw me into broken timber.
+The hit tore across his flank and threw him into broken timber.
 
 Pain arrived with professional enthusiasm.
 
-For a moment there was no sound. Then hooves, shouting, cracking wood, and my own breathing all came back at once.
+For a moment there was no sound. Then hooves, shouting, cracking wood, and his own breathing all came back at once.
 
-Blood spread under my coat.
+Blood spread under his coat.
 
 The predator came toward the worker again.
 
 That was when the game stopped being interesting.
 
-I stood.
+He stood.
 
-My side hurt. My ribs hurt. None of that mattered to the animal.
+His side hurt. His ribs hurt. None of that mattered to the animal.
 
 It lunged.
 
-I caught it.
+He caught it.
 
 Not elegantly.
 
 One hand against the side of its head. The other against the thick ridge above its shoulder.
 
-The impact drove my boots backward through loose gravel.
+The impact drove his boots backward through loose gravel.
 
 Then stopped.
 
-The road around my heels cracked.
+The road around his heels cracked.
 
-The predator did not move me another inch.
+The predator did not move him another inch.
 
 For a second, the militia line forgot to breathe.
 
-So did I, but that was mostly the ribs.
+So did he, but that was mostly the ribs.
 
 The animal pushed.
 
-I looked at it.
+He looked at it.
 
 “No.”
 
-I turned.
+He turned.
 
 That was all.
 
-Several hundred kilograms of territorial bad judgment changed direction because I decided it would.
+Several hundred kilograms of territorial bad judgment changed direction because he decided it would.
 
-The predator stumbled sideways hard enough to tear a groove through the road. It recovered, spun, and stared at me.
+The predator stumbled sideways hard enough to tear a groove through the road. It recovered, spun, and stared at him.
 
-I stared back.
+He stared back.
 
-There were several ways I could have ended that conversation.
+There were several ways he could have ended that conversation.
 
 Tavian shouted first.
 
 “Do not kill it!”
 
-I almost felt offended.
+He almost felt offended.
 
 “I wasn’t—”
 
@@ -172,7 +171,7 @@ Brynn was already moving the crew.
 
 “Upper team! Clear the service cut. Do not enter until Tavian calls it. Lower shields keep the animal off the workers.”
 
-The fallen worker stared at me.
+The fallen worker stared at him.
 
 “You—”
 
@@ -180,17 +179,17 @@ The fallen worker stared at me.
 
 He decided later was an excellent time.
 
-We moved.
+They moved.
 
-My wound was already pulling itself closed under the blood. Pain remained. Apparently my body believed healing and kindness were unrelated concepts.
+His wound was already pulling itself closed under the blood. Pain remained. Apparently his body believed healing and kindness were unrelated concepts.
 
-Workers attacked the blocked service cut with axes, rope, and pry bars. I took one rope because someone shoved it at me. Ordinary work.
+Workers attacked the blocked service cut with axes, rope, and pry bars. He took one rope because someone shoved it at him. Ordinary work.
 
 Good.
 
-Behind us, militia kept the predator irritated without making it feel trapped.
+Behind them, militia kept the predator irritated without making it feel trapped.
 
-Then Broken North made a sound that killed every joke I had.
+Then Broken North made a sound that killed every joke he had.
 
 Stone grinding on stone.
 
@@ -226,9 +225,9 @@ His decision took less than a second.
 
 “That shelf goes, we lose the inside line.”
 
-Brynn looked at me.
+Brynn looked at him.
 
-She did not ask whether I was tired.
+She did not ask whether he was tired.
 
 Good.
 
@@ -236,7 +235,7 @@ Tavian pointed at one section.
 
 “Hold that.”
 
-I followed his hand.
+He followed his hand.
 
 One section.
 
@@ -244,19 +243,19 @@ That was what he understood.
 
 That was what the workers had planned around.
 
-I could have made a new road.
+He could have made a new road.
 
-The thought came so easily it frightened me more than the predator had.
+The thought came so easily it frightened him more than the predator had.
 
 A perfect road. Smooth stone. Wide enough for the entire migration. Stronger than anything Greywake could build in a month.
 
-I did not know where all that weight would go.
+He did not know where all that weight would go.
 
-I did not know what a sudden perfect corridor would make the herd choose.
+He did not know what a sudden perfect corridor would make the herd choose.
 
-Kellan would have called me an idiot before explaining why.
+Kellan would have called him an idiot before explaining why.
 
-So I gave Tavian exactly what he asked for.
+So he gave Tavian exactly what he asked for.
 
 At first.
 
@@ -276,7 +275,7 @@ More stone shifted than Tavian had pointed to.
 
 The failure spread sideways.
 
-A crack opened along the road surface, running past the edge of my first support.
+A crack opened along the road surface, running past the edge of his first support.
 
 The foreman went pale.
 
@@ -290,9 +289,9 @@ A heavy browser hit the weakened section.
 
 The road started to go.
 
-I looked at it.
+He looked at it.
 
-Then I stopped pretending one small brace was the interesting answer.
+Then he stopped pretending one small brace was the interesting answer.
 
 “No.”
 
@@ -324,7 +323,7 @@ That was new.
 
 Wrong question.
 
-I looked at the road.
+He looked at the road.
 
 “As much as you need.”
 
@@ -336,7 +335,7 @@ Of course she did.
 
 “Repair crew! Move!”
 
-That was why I liked competent people even when they were exhausting.
+That was why he liked competent people even when they were exhausting.
 
 The workers did not stand there admiring the impossible.
 
@@ -348,17 +347,17 @@ They crawled under the protected side of the shelf with timber, wedges, stone, a
 
 “Pack behind the lower timber!”
 
-I held the road.
+He held the road.
 
 That sentence made the entire thing sound harder than it was.
 
 The support was simply there.
 
-My side still hurt from being opened. My shoulder still remembered the predator. My hands were steady.
+His side still hurt from being opened. His shoulder still remembered the predator. His hands were steady.
 
 One of the workers noticed.
 
-I pretended not to notice him noticing.
+He pretended not to notice him noticing.
 
 A second wave of prey entered the choke.
 
@@ -372,7 +371,7 @@ Tavian watched the animals.
 
 The predator heard the movement and turned toward the workers under the road.
 
-I felt something in me become very quiet.
+He felt something in him become very quiet.
 
 It charged.
 
@@ -380,13 +379,13 @@ Militia shields moved.
 
 Too slow.
 
-I stepped away from the shelf.
+He stepped away from the shelf.
 
 The pale support remained.
 
 That got another look from the foreman.
 
-Apparently everyone had assumed I needed to stand there and concentrate.
+Apparently everyone had assumed he needed to stand there and concentrate.
 
 Reasonable assumption.
 
@@ -394,25 +393,25 @@ Wrong.
 
 The predator crossed the road in three heavy strides.
 
-I met it before the workers.
+He met it before the workers.
 
-This time I did not let it hit me.
+This time he did not let it hit him.
 
-I caught one horn-like ridge along its skull, turned with the charge, and put the animal into the road hard enough that the ground shook.
+He caught one horn-like ridge along its skull, turned with the charge, and put the animal into the road hard enough that the ground shook.
 
 Not dead.
 
-I had listened to Tavian.
+He had listened to Tavian.
 
 Mostly.
 
-The predator rolled, came up furious, and snapped at me.
+The predator rolled, came up furious, and snapped at him.
 
-I stepped close enough that its jaws closed behind my back.
+He stepped close enough that its jaws closed behind his back.
 
 “Wrong direction.”
 
-I shoved its head north.
+He shoved its head north.
 
 It resisted.
 
@@ -420,7 +419,7 @@ For almost an entire second.
 
 Then it moved.
 
-The militia closest to us backed away without being told.
+The militia closest to them backed away without being told.
 
 Smart people.
 
@@ -438,7 +437,7 @@ Tavian pointed toward the service cut.
 
 Details.
 
-Behind us, the road crew shouted.
+Behind them, the road crew shouted.
 
 “First timber set!”
 
@@ -450,27 +449,27 @@ Brynn caught it first.
 
 Her sword struck flat along the jaw while a militia spear blocked the second angle. The hound turned, found open movement north, and followed the prey.
 
-Nobody needed me for that.
+Nobody needed him for that.
 
 Good.
 
 The large predator tried to circle.
 
-I stepped with it.
+He stepped with it.
 
 It stopped.
 
-I stopped.
+He stopped.
 
 It moved left.
 
-I moved left.
+He moved left.
 
 For the first time since it entered Broken North, the animal looked less angry than confused.
 
-I understood the feeling.
+He understood the feeling.
 
-Tavian watched the prey above us.
+Tavian watched the prey above them.
 
 “Not yet.”
 
@@ -478,15 +477,15 @@ The service cut was open enough for the predator.
 
 Not enough for the prey crossing in front of it.
 
-If we released it now, it would plow straight through the smaller animals and send the entire front sideways.
+If they released it now, it would plow straight through the smaller animals and send the entire front sideways.
 
-So we waited.
+So they waited.
 
-The predator and I stood three paces apart while a migration passed between us.
+The predator and he stood three paces apart while a migration passed between them.
 
 It snapped once.
 
-I smiled.
+He smiled.
 
 “Now you’re getting it.”
 
@@ -504,7 +503,7 @@ The workers eased weight onto the permanent timber.
 
 The road settled half an inch.
 
-My support stayed exactly where it was.
+His support stayed exactly where it was.
 
 “Again!”
 
@@ -520,13 +519,13 @@ Stone packed tighter.
 
 “Taking load!”
 
-The foreman crawled out, looked at my impossible structure, then at the actual braces.
+The foreman crawled out, looked at his impossible structure, then at the actual braces.
 
 “Release the outer third.”
 
 That was specific.
 
-I liked specific.
+He liked specific.
 
 The pale-grey support withdrew from the far end.
 
@@ -544,7 +543,7 @@ The road stayed.
 
 “Next third.”
 
-I removed another section.
+He removed another section.
 
 The workers watched their braces.
 
@@ -608,13 +607,13 @@ Not safely.
 
 But it held.
 
-I returned to the inner shelf.
+He returned to the inner shelf.
 
 The foreman checked his braces one last time.
 
 “Release.”
 
-I removed the final pale support.
+He removed the final pale support.
 
 Ordinary timber, rope, packed stone, and old masonry took the road back.
 
@@ -624,9 +623,9 @@ Stopped.
 
 The foreman put one hand against the repair.
 
-“Still ugly,” I said.
+“Still ugly,” he said.
 
-He looked at me.
+He looked at him.
 
 “So are you.”
 
@@ -644,9 +643,9 @@ Militia moved.
 
 Too many animals reached the opening at once.
 
-I could have fixed it.
+He could have fixed it.
 
-I looked at Tavian.
+He looked at Tavian.
 
 He was already pointing.
 
@@ -658,7 +657,7 @@ Not because holding back hurt.
 
 Because the answer was obvious.
 
-He saw my expression.
+He saw his expression.
 
 “If you put a wall there, they bunch.”
 
@@ -670,7 +669,7 @@ He saw my expression.
 
 “Then trust the workers.”
 
-I hated that sentence.
+He hated that sentence.
 
 The workers cut the failed rope, dragged the broken panel flat, and opened the space instead of closing it.
 
@@ -694,29 +693,29 @@ Brynn sent runners before people asked for them.
 
 Tavian changed the guide angles twice as the prey behavior changed.
 
-I carried a broken post out of the route, caught one worker who slipped, and did absolutely nothing spectacular for nearly five consecutive minutes.
+He carried a broken post out of the route, caught one worker who slipped, and did absolutely nothing spectacular for nearly five consecutive minutes.
 
 Personal growth.
 
 Then a ridge-hound broke toward an injured militia man.
 
-I was closer.
+He was closer.
 
-I stepped between them.
+He stepped between them.
 
 The hound lunged.
 
-I looked at it.
+He looked at it.
 
 It stopped in midair.
 
-Not because I caught it.
+Not because he caught it.
 
 Because something pale-grey had appeared under its chest like a hand-shaped platform and lifted it just high enough that all four legs stopped reaching the ground.
 
 The hound twisted in outrage.
 
-I stared at it.
+He stared at it.
 
 That had not been the plan.
 
@@ -730,7 +729,7 @@ The platform moved three paces, lowered, and vanished.
 
 The hound landed, decided Greywake had become unreasonable, and ran after the herd.
 
-Brynn looked at me.
+Brynn looked at him.
 
 “Was that necessary?”
 
@@ -756,17 +755,17 @@ There was still too much moving.
 
 But the choke was no longer losing ground.
 
-I leaned against a post mostly because the post was there.
+He leaned against a post mostly because the post was there.
 
-My side had almost stopped bleeding.
+His side had almost stopped bleeding.
 
 The pain had not vanished.
 
-My hands were not shaking.
+His hands were not shaking.
 
 That was what Tavian noticed.
 
-His eyes went from them to the road support I had expanded, then to me.
+His eyes went from them to the road support he had expanded, then to him.
 
 He said nothing.
 
@@ -786,11 +785,11 @@ He turned toward the lower fork.
 
 His expression changed.
 
-I followed his sightline.
+He followed his sightline.
 
-At first I saw only movement.
+At first he saw only movement.
 
-Then I saw the angle.
+Then he saw the angle.
 
 A trailing branch of prey was not following the main body.
 

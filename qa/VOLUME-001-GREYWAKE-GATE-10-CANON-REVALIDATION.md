@@ -7,7 +7,21 @@
 **Audit Date:** 2026-09-19  
 **Scope:** CH-001 through CH-026, all canon manuscripts and chapter QA records  
 **Gate:** Gate 10 — Series QA / Volume-Level Canon Revalidation  
-**Final Result:** PASS
+**Final Result:** SUPERSEDED — OVERPOWERED RETCON REVALIDATION REQUIRED
+
+# Retcon Notice
+
+This Gate 10 PASS remains a valid record of the **pre-retcon** canon state.
+
+It is no longer the current final authority on power consistency because:
+- `characters/CHARACTER-BIBLE.md` now defines Red as already overwhelmingly powerful;
+- `systems/SYSTEMS-BIBLE.md` removes Stage I/II/III/IV progression;
+- Play Logic now uses an unbounded revelation/restraint model;
+- regeneration/exhaustion is no longer a conventional raw-power ceiling.
+
+Any conclusion below that depends on Stage I progression, exhaustion-limited raw output, or Red needing to become stronger is historical and must be revalidated.
+
+A new Gate 10 pass is required after affected manuscripts complete Gate 9 retcon revision.
 
 # 1. Revalidation Scope
 

@@ -1,8 +1,9 @@
 # Chapter 19 — Build the Wrong Road
 
-**Status:** RETCON + PACING REVISED — GATE 9 REVALIDATION PENDING  
+**Status:** CANON — OVERPOWERED RETCON GATE 9 PASS  
 **Word Count:** 2680,748  
 **Chapter QA:** `qa/CH-019-GATE-9-CHAPTER-QA.md`
+**Retcon QA:** `qa/CH-019-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
 Broken North looked worse when people arrived with tools. The last time I had come through, the road had mostly been an investigation problem. Bad ground. Old stone. Fresh Guild closure. One hidden lure. Enough wrong details to make competent people suspicious.
 

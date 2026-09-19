@@ -859,4 +859,4 @@ Do not build detailed scenes for a later chapter before the active chapter passe
 
 **CH-027 Manuscript:** EVENT SEQUENCE PRESERVED / PROSE STALE UNDER SOUL-DRIFT RETCON.
 
-**Official next step:** CH-003→CH-027 Soul-Drift / close-first-person / final story-engine manuscript rewrite/revalidation cycle. CH-001 and CH-002 are complete and Gate 9 PASS. CH-028 remains paused.
+**Official next step:** CH-004→CH-027 Soul-Drift / close-first-person / final story-engine manuscript rewrite/revalidation cycle. CH-001 through CH-003 are complete and Gate 9 PASS. CH-028 remains paused.

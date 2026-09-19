@@ -8,6 +8,27 @@
 **POV:** Red Jackal first person  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
+# Soul-Drift / Final Story-Engine Override
+
+The five-scene CH-003 event structure remains locked.
+
+Current authority:
+- `planning/RED-JACKAL-SOUL-DRIFT-MASTER-RETCON.md`
+- `planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md`
+- `manuscript/WRITING-RULES.md`
+
+Interpretation updates:
+- close first-person Red narration is mandatory;
+- Red enters with mysterious explosion/flash residue and erased coherent Earth biography;
+- **Red Jackal** remains a consciously chosen persona name, not recovered identity;
+- genuine audience address invokes Fourth-Wall Pause every time;
+- no raw-power progression occurs in CH-003;
+- physical measurability versus System identity absence is the point of F-002;
+- UNDEFINED / NO RECORD is not hidden superiority;
+- no Play Logic attempt or manifestation occurs;
+- Maelis remains evidence-first and independently competent;
+- Jessa remains a brief Road Guild bridge; Hesk remains off-page.
+
 # 1. Chapter Purpose Lock
 
 CH-003 must move Red Jackal from:

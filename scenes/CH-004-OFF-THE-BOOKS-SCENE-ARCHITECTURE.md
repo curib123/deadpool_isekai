@@ -506,7 +506,7 @@ Jessa becomes the procedural translator in SC-004-03.
 
 **Approximate Time:** Continuing negotiation.  
 **Location:** Guild contract desk and nearby Greywake market frontage / covered market lane.  
-**Characters Present:** Red Jackal, Jessa Vale; Hesk may remain nearby or allow Jessa to handle the practical explanation.
+**Characters Present:** Red Jackal, Jessa Vale.
 
 ### Scene Purpose
 
@@ -811,6 +811,15 @@ Leave with:
 There is no new antagonist confrontation.
 
 The pressure comes from the fact that the first assignment is already riskier and less protected than normal registered work.
+
+### Conflict
+
+Red Jackal must leave with instructions he can actually use even though:
+- he cannot read the written assignment sheet;
+- he has no normal guild credential;
+- the job begins outside the protections of registered work.
+
+Jessa must convert the Guild's written/administrative handoff into clear spoken instructions, physical route markers, and usable supplies without pretending the arrangement is a normal certified contract.
 
 ### Assignment Handoff
 

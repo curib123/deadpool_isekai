@@ -1,30 +1,34 @@
 # Chapter 8 — Outside the Lanterns
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** CINEMATIC STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 2,957  
 **Chapter QA:** `qa/CH-008-GATE-9-CHAPTER-QA.md`
 
-Sela had said rest. He had interpreted that as avoid getting torn open again before lunch. This seemed reasonable. His ribs disagreed. Every step down Greywake's western approach pulled faintly along his left side, not enough to stop him, just enough to remind him that the previous day had happened and his body had not filed it under resolved.
+“Can you lift?”
 
-The Road Guild had found him another job anyway. Of course they had. Apparently being medically confusing did not remove him from the labor pool.
+That was Kellan Dorr's first question.
 
-He had taken it for three reasons. It paid. It got him out of Sela's treatment house before she could decide rest required supervision. And after seeing how much attention the Main Caravan Road received, he wanted to know what “less protected” actually looked like when nobody was summarizing it for him.
+Not what happened to Red. Not whether the stories were true. Not why a man who had been mauled yesterday was already walking down Greywake's western road.
 
-None of those reasons were charity. That suited him.
+Just whether he could lift.
 
-A charged Wayfarer Tongue Token hung from the side of the small work cart beside him. Two men walked ahead with axes and hand tools over their shoulders. A third pushed a narrow wheelbarrow loaded with iron straps, nails, rope, and pieces of reused timber.
+Red liked him almost immediately.
 
-The man leading them had introduced himself as Kellan Dorr. Kellan had looked him over once, noticed how carefully Red was turning his torso, and asked, “Can you lift?”
-
-No questions about who Red was, what had happened to him, or whether the stories were true. Just whether he could lift.
-
-Red had liked him almost immediately.
-
-“I can lift.”
+“I can.”
 
 “How much?”
 
-That had been harder. They left the better road behind before he found an answer. The transition was not dramatic. There was no gate. No sign saying civilization ended here. The maintained road simply narrowed, the drainage became shallower, and the lantern posts grew farther apart.
+That answer took longer.
+
+Sela had ordered rest. Red had interpreted that as avoid getting torn open again before lunch. His ribs had their own opinion, but the Road Guild had a paying job outside the lantern line.
+
+Money won.
+
+A charged Wayfarer Tongue Token hung from the side of the small work cart beside him. Two men walked ahead with axes and hand tools over their shoulders. A third pushed a narrow wheelbarrow loaded with iron straps, nails, rope, and pieces of reused timber.
+
+Kellan walked at the front with an axe over one shoulder. Two workers followed with tools, while another pushed a narrow wheelbarrow loaded with iron straps, nails, rope, and reused timber.
+
+They left the better road behind before Red found an answer. The transition was not dramatic. There was no gate. No sign saying civilization ended here. The maintained road simply narrowed, the drainage became shallower, and the lantern posts grew farther apart.
 
 Greywake's regular road lamps were simple covered fixtures mounted on waist-thick posts. They marked the route at predictable intervals along the busier approaches. Then there was one last post. After that, nothing. The road continued.
 
@@ -306,15 +310,23 @@ He crouched and tapped the exact area with the pry bar.
 
 “Here.”
 
-He had expected more wonder. Instead he had coordinates. Practical people were very difficult to impress. He stepped closer. Pain tightened around his ribs.
+Red had expected more wonder.
 
-His first instinct was to imagine a perfect stone plate. Then he remembered he did not actually know enough about stone to trust “perfect.” Useful. That was safer. A broad temporary footing.
+Kellan gave him coordinates.
 
-Flat. Strong enough for one wheel. Long enough for one crossing. Nothing else. He took a breath.
+Practical people were difficult to impress.
 
-The pressure answered. Weakly. Much weaker than the hammer had. His concentration slipped toward the pain in his side. He held the same idea.
+Red looked at the gap. He could have made a perfect stone plate, or something larger, or something that replaced the whole approach.
 
-Footing. Spread the load. One wheel. Something pale-grey formed against the ground. It looked like a slab that had been made by someone with strong opinions about function and no interest in symmetry.
+That would have been stupid. Kellan had told him exactly what the wheel needed.
+
+Flat. Wide enough to spread the load onto the packed stone and root shelf. Temporary.
+
+A pale-grey footing formed against the ground.
+
+Ugly. Slightly thicker on one end.
+
+Useful.
 
 One end was too thick. The surface dipped slightly near the center. Kellan immediately pointed.
 
@@ -326,7 +338,7 @@ The driver looked at him.
 
 “Because the right half is flatter.”
 
-He looked at him.
+Red looked at him.
 
 “Can it move?”
 
@@ -334,35 +346,31 @@ He looked at him.
 
 “Then we move.”
 
-No admiration. No existential crisis. Just geometry. The workers shifted the cart's angle with ropes and shoulder pressure. His impossible slab sat there being evaluated like bad lumber.
+No admiration. No existential crisis. Just geometry.
 
-He was offended on its behalf.
+The workers shifted the cart with ropes and shoulder pressure. The wheel rolled onto Red's impossible footing.
+
+The pale-grey surface held.
 
 “Slow,” Kellan said.
 
-The wheel rolled onto the manifestation. The slab groaned. He felt it in his head. Not physically. More like holding a thought steady while someone leaned on it.
+The driver eased forward. One worker controlled the rear rope. Another watched the wheel.
 
-His ribs burned. The wheel crossed the first third. The slab cracked near the thick end.
+The cart crossed the weak edge and reached the bridge deck.
 
-“Keep moving,” Kellan said.
+“Clear.”
 
-The driver did. The workers controlled the cart with ropes from both sides. The wheel reached the dip. For one second, the whole support sagged. His vision narrowed.
+Red dismissed the footing.
 
-He almost changed the shape. Didn't. This was the only attempt he was making.
+The damaged road was still damaged underneath it.
 
-One purpose.
+Of course.
 
-Hold.
+Kellan was already pointing at the gap.
 
-The wheel rolled across. Then onto the bridge deck.
+“Stone first. Then brace it wider.”
 
-“Clear,” Kellan said.
-
-The workers moved the cart fully onto the reinforced section. He let go. The slab faded at the edges, cracked once more, and disappeared. The road underneath was still damaged. Of course it was.
-
-Reality had not signed up for maintenance. His knees felt uncertain. He sat down before Kellan could tell him to.
-
-Personal growth.
+The permanent work began before the last pale fragment vanished.
 
 One of the workers looked at the empty patch.
 
@@ -382,7 +390,9 @@ Just angry. Sela would have been unbearable about this. Fortunately, she was not
 
 “How often can you do that?”
 
-“Not again today.”
+Red looked at the bridge.
+
+“Often enough to make bad decisions.”
 
 “Good.”
 
@@ -390,17 +400,21 @@ He frowned.
 
 “Good?”
 
-“Means I don't have to wonder whether you'll decide the rest of the bridge can be imaginary.”
+“Means you're aware of the problem.”
 
-He almost laughed. Almost. He pointed toward the cart.
+Kellan pointed at the workers packing stone.
 
-“Your trick got the load across. It did not fix the approach.”
+“Your trick got the cart across. It didn't fix the approach.”
 
-“I noticed.”
+He almost laughed. Almost. “I noticed.”
 
 “Good.”
 
-He turned back to the workers. That was apparently the end of his magical evaluation. They spent the next hour doing the permanent part. Stone. Timber.
+Kellan turned back to the workers.
+
+That was the end of his magical evaluation.
+
+They spent the next hour doing the permanent part. Stone. Timber.
 
 Iron. Mud. Nothing appeared from nowhere. The approach was packed wider around the root shelf. A second brace went under the outer edge. Two deck boards were turned and reused because their undersides were less worn.
 
@@ -494,8 +508,12 @@ He knew five new cuts when he saw them. Yesterday, Tavian had told him the anima
 
 The bridge job was finished. He could have collected his pay, gone back to Greywake, and decided the warning board belonged to somebody with a title.
 
-The mismatch annoyed him.
+Red looked from the old Guild warning to the five fresh cuts in the red strip.
 
-Curiosity had caused worse decisions.
+The bridge job was done.
+
+He could go back, collect his pay, and leave the board to someone with a title.
+
+He kept looking at the five marks.
 
 The official warning had not caught up.

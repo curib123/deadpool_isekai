@@ -3,31 +3,17 @@
 **Status:** DRAFT — GATE 9 NOT YET RUN  
 **Word Count:** PENDING
 
-The first mass did not charge us.
-
-That would have been simpler.
-
-It came out of the trees in layers.
+The first mass did not charge us. That would have been simpler. It came out of the trees in layers.
 
 The first animals were low, narrow-bodied things with long back legs and pale bellies, running hard enough that dirt kicked behind them in a continuous haze. Larger browsers followed, shoulders knocking brush aside as they forced through the same opening. Behind those, movement filled the tree line without becoming one clean shape.
 
-Too many bodies. Too many directions.
+Too many bodies. Too many directions. Every part of me wanted to build something.
 
-Every part of me wanted to build something.
-
-A wall would have been stupid.
-
-A beautiful wall would still have been stupid.
-
-My fingers tightened anyway.
+A wall would have been stupid. A beautiful wall would still have been stupid. My fingers tightened anyway.
 
 “Not yet,” Tavian said.
 
-I looked at him.
-
-He was not looking at me.
-
-His eyes stayed on the lead animals.
+I looked at him. He was not looking at me. His eyes stayed on the lead animals.
 
 The first line crossed the open ground beyond the lantern posts. They did not run straight toward Greywake. Not yet. They spread across the approach, following the slope, each animal reacting to the one in front of it and the pressure behind.
 
@@ -35,11 +21,7 @@ Brynn’s hand dropped.
 
 “Hold positions.”
 
-Nobody moved into the road.
-
-That mattered more than it looked.
-
-A younger militia man near the outer marker shifted his spear forward when the first animals came close enough to hear. Brynn saw it.
+Nobody moved into the road. That mattered more than it looked. A younger militia man near the outer marker shifted his spear forward when the first animals came close enough to hear. Brynn saw it.
 
 “Back.”
 
@@ -47,133 +29,59 @@ He stepped back.
 
 “Do not challenge the movement,” Tavian said. “Let them choose.”
 
-Choose was a generous word.
-
-They were terrified.
-
-Still, they had choices.
+Choose was a generous word. They were terrified. Still, they had choices.
 
 The final civilian cart Brynn’s runner had mentioned was still moving behind us, wheels hammering over the inner stones as two workers pushed at the rear. One older man rode inside with a child and a bundle tied against his chest. A woman walked beside the draft animal, pulling more than leading.
 
-Too close.
+Too close. But moving. The lead prey crossed the first marked line.
 
-But moving.
+Tavian raised two fingers. Nothing happened. More animals followed.
 
-The lead prey crossed the first marked line.
+The scattered shapes became continuous. One group angled left. Then corrected.
 
-Tavian raised two fingers.
-
-Nothing happened.
-
-More animals followed.
-
-The scattered shapes became continuous.
-
-One group angled left.
-
-Then corrected.
-
-Another took the same bend.
-
-Tavian watched the forest, then the road, then the next cluster behind the first.
+Another took the same bend. Tavian watched the forest, then the road, then the next cluster behind the first.
 
 “Wait.”
 
-The pressure behind my eyes was already present, the familiar place where an idea could become something physical if I gave it enough attention.
+The pressure behind my eyes was already present, the familiar place where an idea could become something physical if I gave it enough attention. I kept it there. Unused.
 
-I kept it there.
+The first browsers reached the shallow approach where we had cleared brush to leave Broken North looking like the easier route. They slowed. One turned its head.
 
-Unused.
-
-The first browsers reached the shallow approach where we had cleared brush to leave Broken North looking like the easier route.
-
-They slowed.
-
-One turned its head.
-
-Another followed it.
-
-Then the front of the mass began drifting north.
-
-Tavian’s hand closed.
+Another followed it. Then the front of the mass began drifting north. Tavian’s hand closed.
 
 “Signal.”
 
-A runner blew one short horn call.
+A runner blew one short horn call. Farther out, another answered. Then another.
 
-Farther out, another answered.
+No flash crossed the hills. No glowing line appeared to tell us the plan was working. The animals changed direction by degrees.
 
-Then another.
-
-No flash crossed the hills. No glowing line appeared to tell us the plan was working.
-
-The animals changed direction by degrees.
-
-The front edge of the movement bent toward Broken North.
-
-People around me started breathing again.
-
-Tavian did not.
+The front edge of the movement bent toward Broken North. People around me started breathing again. Tavian did not.
 
 “Still moving,” he said. “Do not celebrate a turn before the body follows it.”
 
-That felt unfairly reasonable.
+The body followed. For maybe half a minute, the plan looked like a plan. Then the first fence went.
 
-The body followed.
+It was not one of the heavy barriers. We had deliberately avoided putting heavy barriers across routes the animals might need to use. The outer guide was timber stakes, rope, brush panels, and enough visual obstruction to suggest that one side of the approach was worse than the other.
 
-For maybe half a minute, the plan looked like a plan.
+Suggestion worked until several hundred frightened animals disagreed. A larger browser hit the middle section sideways. The rope snapped.
 
-Then the first fence went.
-
-It was not one of the heavy barriers.
-
-We had deliberately avoided putting heavy barriers across routes the animals might need to use. The outer guide was timber stakes, rope, brush panels, and enough visual obstruction to suggest that one side of the approach was worse than the other.
-
-Suggestion worked until several hundred frightened animals disagreed.
-
-A larger browser hit the middle section sideways.
-
-The rope snapped.
-
-Two posts folded.
-
-The animal stumbled through, recovered, and kept running.
-
-Everything behind it saw an opening.
+Two posts folded. The animal stumbled through, recovered, and kept running. Everything behind it saw an opening.
 
 “South spill!” someone shouted.
 
-Tavian turned.
-
-The broken guide pointed directly toward the fallback opening.
-
-Directly toward the final cart.
+Tavian turned. The broken guide pointed directly toward the fallback opening. Directly toward the final cart.
 
 Brynn was already moving.
 
 “Cart through! Everyone else off the lane!”
 
-Militia pulled back from the spill route. The woman beside the draft animal slapped the reins and dragged at the bridle.
+Militia pulled back from the spill route. The woman beside the draft animal slapped the reins and dragged at the bridle. The animal panicked.
 
-The animal panicked.
+The cart lurched. One wheel struck a stone and bounced hard enough that the older man inside nearly fell. The prey coming through the broken guide widened from three animals to ten.
 
-The cart lurched.
+Then twenty. I could see the answer. Not a wall.
 
-One wheel struck a stone and bounced hard enough that the older man inside nearly fell.
-
-The prey coming through the broken guide widened from three animals to ten.
-
-Then twenty.
-
-I could see the answer.
-
-Not a wall.
-
-A wall would catch them.
-
-Angle them.
-
-Give them somewhere easier to go.
+A wall would catch them. Angle them. Give them somewhere easier to go.
 
 “Tavian.”
 
@@ -181,53 +89,23 @@ He pointed at a strip of ground between the broken fence and the fallback openin
 
 “Low. From there to the ditch. Angle north.”
 
-That was enough.
+That was enough. I focused. Pressure gathered behind my eyes and dropped into my hands.
 
-I focused.
+A pale-grey shape pushed out of empty air along the line he had chosen. It was ugly. Low, thick at the base, no higher than my thigh, with a sloping face that looked more like a badly cut piece of roadwork than anything I would have designed for myself.
 
-Pressure gathered behind my eyes and dropped into my hands.
+Perfect. The first prey hit the visual line and turned. One jumped it.
 
-A pale-grey shape pushed out of empty air along the line he had chosen.
-
-It was ugly.
-
-Low, thick at the base, no higher than my thigh, with a sloping face that looked more like a badly cut piece of roadwork than anything I would have designed for myself.
-
-Perfect.
-
-The first prey hit the visual line and turned.
-
-One jumped it.
-
-The next three followed the easier angle.
-
-The spill shifted.
+The next three followed the easier angle. The spill shifted.
 
 “Move!” Brynn shouted.
 
-The cart cleared the marker.
+The cart cleared the marker. Militia dragged one worker back by his belt as the last part of the spill crossed where he had been standing. Something struck my left shoulder.
 
-Militia dragged one worker back by his belt as the last part of the spill crossed where he had been standing.
+Not horns. A broken fence rail. It spun out of the moving mass and hit hard enough to knock me sideways.
 
-Something struck my left shoulder.
+My forearm scraped along stone. Skin opened. Heat followed.
 
-Not horns.
-
-A broken fence rail.
-
-It spun out of the moving mass and hit hard enough to knock me sideways.
-
-My forearm scraped along stone.
-
-Skin opened.
-
-Heat followed.
-
-Then pain.
-
-I kept my feet.
-
-The pale-grey guide shivered.
+Then pain. I kept my feet. The pale-grey guide shivered.
 
 A crack ran along the top.
 
@@ -235,97 +113,47 @@ A crack ran along the top.
 
 “I know.”
 
-The last civilian cart crossed behind the inner marker.
-
-Brynn waved the lane closed.
+The last civilian cart crossed behind the inner marker. Brynn waved the lane closed.
 
 “Clear!”
 
-I let the construct go.
+I let the construct go. It broke apart into nothing before the next wave reached it. The cut along my arm had already started pulling itself closed.
 
-It broke apart into nothing before the next wave reached it.
+That did not make it pleasant. Regeneration had never learned the difference between repairing me and making sure I noticed every second of it. My shoulder hurt.
 
-The cut along my arm had already started pulling itself closed.
+The cart was safe. Good enough. The first guide point was not.
 
-That did not make it pleasant.
+Workers pulled what remained of the broken fence away before it became debris in the main flow. Brynn reassigned two militia to the next marker and sent the rest back from the open ground. The herd kept moving.
 
-Regeneration had never learned the difference between repairing me and making sure I noticed every second of it.
+At first, most of it still followed the northward bend. Then Tavian stopped. Not physically.
 
-My shoulder hurt.
+Everything about him stopped. His eyes fixed on the lower split. A cluster of prey had broken from the main movement.
 
-The cart was safe.
+That by itself meant nothing. Frightened animals did not sign agreements. The second cluster took the same angle.
 
-Good enough.
-
-The first guide point was not.
-
-Workers pulled what remained of the broken fence away before it became debris in the main flow. Brynn reassigned two militia to the next marker and sent the rest back from the open ground.
-
-The herd kept moving.
-
-At first, most of it still followed the northward bend.
-
-Then Tavian stopped.
-
-Not physically.
-
-Everything about him stopped.
-
-His eyes fixed on the lower split.
-
-A cluster of prey had broken from the main movement.
-
-That by itself meant nothing.
-
-Frightened animals did not sign agreements.
-
-The second cluster took the same angle.
-
-Then a third.
-
-They were turning toward the outer side road.
-
-The road we had spent days trying to stop the migration from choosing.
+Then a third. They were turning toward the outer side road. The road we had spent days trying to stop the migration from choosing.
 
 “Tavian?” Brynn asked.
 
 “Watch.”
 
-A line of smaller prey crossed behind the browsers.
+A line of smaller prey crossed behind the browsers. They followed the wrong side. Behind them came dark shapes moving low.
 
-They followed the wrong side.
+Ridge-hounds. They were not driving the prey. They were using the same opening.
 
-Behind them came dark shapes moving low.
-
-Ridge-hounds.
-
-They were not driving the prey.
-
-They were using the same opening.
-
-One hound cut sideways, snapped at the rear of a limping animal, missed, and kept running.
-
-Another followed the side road.
-
-My headache sharpened.
+One hound cut sideways, snapped at the rear of a limping animal, missed, and kept running. Another followed the side road. My headache sharpened.
 
 “Scatter?” I asked.
 
 “No.”
 
-Tavian walked three steps downslope for a clearer view.
-
-Another group turned.
-
-He swore quietly.
+Tavian walked three steps downslope for a clearer view. Another group turned. He swore quietly.
 
 That got my attention more than shouting would have.
 
 “The pull is strengthening.”
 
-A runner came from the eastern marker hard enough that he nearly missed the turn into Brynn’s position.
-
-He caught himself on a post.
+A runner came from the eastern marker hard enough that he nearly missed the turn into Brynn’s position. He caught himself on a post.
 
 “Old service site.”
 
@@ -355,231 +183,103 @@ Brynn’s expression went flat.
 
 “No visual.”
 
-No visual.
+No visual. Of course. I looked toward the old service route.
 
-Of course.
+I knew where it ran. I knew Hesk still had one key. For one very satisfying second, I imagined leaving.
 
-I looked toward the old service route.
+Not running away. Running toward him. Find the site. Find Hesk. Solve one human-sized problem with both hands.
 
-I knew where it ran.
-
-I knew Hesk still had one key.
-
-For one very satisfying second, I imagined leaving.
-
-Not running away.
-
-Running toward him.
-
-Find the site. Find Hesk. Solve one human-sized problem with both hands.
-
-My body actually shifted.
-
-Tavian saw it.
+My body actually shifted. Tavian saw it.
 
 “Don’t.”
 
-I looked at him.
-
-He pointed at the moving animals.
+I looked at him. He pointed at the moving animals.
 
 “Leave now and this opens before you reach the site.”
 
-He was right.
+He was right. He was right. Brynn did not ask me to stay.
 
-I hated how often competent people made that inconvenient.
+She did not need to. A scream came from the lower detour. Not civilian.
 
-Brynn did not ask me to stay.
-
-She did not need to.
-
-A scream came from the lower detour.
-
-Not civilian.
-
-Worker.
-
-Brynn turned first.
+Worker. Brynn turned first.
 
 “Shift north team! Pull from lower guide!”
 
-That decided it.
+That decided it. I stayed with the line. The people directly in front of me did not have that luxury.
 
-Hesk could continue being a problem for several more minutes.
+We ran. The lower detour had been bad before the wave. CH-016 had made sure of that.
 
-The people directly in front of me did not have that luxury.
+The old seasonal-cut crossing was gone as a proper route, forcing movement through a narrower section of broken roadside and packed earth. Workers had built a light guide there because there was nowhere useful for a heavier one. The guide had collapsed.
 
-We ran.
+One post lay under the feet of passing prey. The rope line had wrapped around a second post and pulled the whole panel sideways. Three workers were retreating toward the higher road.
 
-The lower detour had been bad before the wave.
-
-CH-016 had made sure of that.
-
-The old seasonal-cut crossing was gone as a proper route, forcing movement through a narrower section of broken roadside and packed earth. Workers had built a light guide there because there was nowhere useful for a heavier one.
-
-The guide had collapsed.
-
-One post lay under the feet of passing prey.
-
-The rope line had wrapped around a second post and pulled the whole panel sideways.
-
-Three workers were retreating toward the higher road.
-
-A fourth was not.
-
-He had gone down behind the fallen rail where the edge dropped into the drainage cut.
-
-Two militia were trying to reach him.
+A fourth was not. He had gone down behind the fallen rail where the edge dropped into the drainage cut. Two militia were trying to reach him.
 
 Ridge-hounds came through the gap behind the prey.
 
 “Do not chase them!” Brynn shouted.
 
-One militia man who had started forward stopped.
+One militia man who had started forward stopped. Good. The hounds were moving because the opening existed.
 
-Good.
+Killing one in the middle of the road would not close the opening. The trapped worker tried to climb. The loose edge collapsed under his hand.
 
-The hounds were moving because the opening existed.
-
-Killing one in the middle of the road would not close the opening.
-
-The trapped worker tried to climb.
-
-The loose edge collapsed under his hand.
-
-He dropped back into the cut.
-
-I reached the rail.
+He dropped back into the cut. I reached the rail.
 
 “Can he stand?”
 
 “Leg’s pinned,” one worker said.
 
-A ridge-hound came too close.
+A ridge-hound came too close. A militia shield slammed into its shoulder and turned it away. Another snapped at a spear shaft, let go, and followed the moving prey instead.
 
-A militia shield slammed into its shoulder and turned it away.
+There was no clean path down. There was no time to build one normally. This one was mine.
 
-Another snapped at a spear shaft, let go, and followed the moving prey instead.
+I crouched and looked at the broken edge. Not stairs. Too much shape.
 
-There was no clean path down.
+Not a bridge. Too long. One point to brace.
 
-There was no time to build one normally.
+One thing to grab. I focused. The second manifestation hurt sooner.
 
-This one was mine.
+That was new only in degree. A pale-grey rail pushed out from the broken road edge and hooked down toward the trapped worker. It formed crooked.
 
-I crouched and looked at the broken edge.
-
-Not stairs.
-
-Too much shape.
-
-Not a bridge.
-
-Too long.
-
-One point to brace.
-
-One thing to grab.
-
-I focused.
-
-The second manifestation hurt sooner.
-
-That was new only in degree.
-
-A pale-grey rail pushed out from the broken road edge and hooked down toward the trapped worker.
-
-It formed crooked.
-
-The lower end was thicker than I wanted.
-
-The upper grip shook under my hand.
+The lower end was thicker than I wanted. The upper grip shook under my hand.
 
 “Use that!”
 
-The worker grabbed it.
+The worker grabbed it. Two people pulled. The pinned leg came free.
 
-Two people pulled.
+He shouted. The sound was ugly. Alive was allowed to be ugly.
 
-The pinned leg came free.
+They dragged him up. The construct trembled. A ridge-hound hit the road edge beside me.
 
-He shouted.
+I turned just enough. Its shoulder caught my side. The world moved.
 
-The sound was ugly.
+Stone hit my ribs. Air left. For a second, I could not breathe.
 
-Alive was allowed to be ugly.
-
-They dragged him up.
-
-The construct trembled.
-
-A ridge-hound hit the road edge beside me.
-
-I turned just enough.
-
-Its shoulder caught my side.
-
-The world moved.
-
-Stone hit my ribs.
-
-Air left.
-
-For a second, breathing became a theoretical activity other people enjoyed.
-
-The hound did not stay.
-
-It scrambled after the moving line.
-
-Someone pulled me up by the coat.
+The hound did not stay. It scrambled after the moving line. Someone pulled me up by the coat.
 
 “Red!”
 
 “I’m—”
 
-Breathing arrived.
-
-Badly.
+Breathing arrived. Badly.
 
 “Fine” would have been ambitious.
 
-The worker was clear.
-
-The pale rail cracked where it joined the road.
+The worker was clear. The pale rail cracked where it joined the road.
 
 “Fall back!” Brynn ordered.
 
-Nobody argued.
+Nobody argued. We abandoned the lower guide before it cost more people. We gave up the lower guide.
 
-That was the difference between a defense and a collection of people emotionally attached to timber.
+Workers pulled what equipment they could reach without stepping back into the flow. Militia moved with them. Nobody tried to reclaim the post because it had once been part of the plan.
 
-We gave up the lower guide.
+My side burned. The scrape on my arm had mostly closed. My ribs had not.
 
-Workers pulled what equipment they could reach without stepping back into the flow.
+The bleeding slowed. The pain did not. The pressure shifted north.
 
-Militia moved with them.
+That should have helped. It did not. The wrong pull was squeezing two lines of movement together.
 
-Nobody tried to reclaim the post because it had once been part of the plan.
-
-My side burned.
-
-The scrape on my arm had mostly closed.
-
-My ribs had not.
-
-Regeneration was excellent at solving the problem of bleeding while leaving the problem of existing inside my body completely available.
-
-The pressure shifted north.
-
-That should have helped.
-
-It did not.
-
-The wrong pull was squeezing two lines of movement together.
-
-Animals that should have spread across the approach were arriving closer to one another. The main group still bent toward Broken North, but the side pull kept dragging enough bodies across the lower edge that every correction created new crowding behind it.
-
-Tavian saw it before I did.
+Animals that should have spread across the approach were arriving closer to one another. The main group still bent toward Broken North, but the side pull kept dragging enough bodies across the lower edge that every correction created new crowding behind it. Tavian saw it before I did.
 
 “We are compressing them.”
 
@@ -593,187 +293,79 @@ Brynn wiped mud from one glove.
 
 “No.”
 
-A horn sounded from Broken North.
+A horn sounded from Broken North. Two short calls. Repair pressure.
 
-Two short calls.
+We ran again. By then my hands had started shaking more. Not enough to stop me.
 
-Repair pressure.
+Enough to be information. Broken North was already under more pressure than we had built it to take. The old timber support still held beneath the cracked shelf.
 
-We ran again.
+The rough footing still existed. Neither looked happy. Animals were entering faster now.
 
-By then my hands had started shaking more.
+Not charging as one body. Bunching. Splitting.
 
-Not enough to stop me.
-
-Enough to be information.
-
-Broken North looked exactly like a road that had been asked to do something beyond its career qualifications.
-
-The old timber support still held beneath the cracked shelf.
-
-The rough footing still existed.
-
-Neither looked happy.
-
-Animals were entering faster now.
-
-Not charging as one body.
-
-Bunching.
-
-Splitting.
-
-Correcting.
-
-Workers stood behind marked lines with pry bars and rope, clearing debris only when the flow gave them enough space.
-
-A light guide on the upper edge bowed inward.
+Correcting. Workers stood behind marked lines with pry bars and rope, clearing debris only when the flow gave them enough space. A light guide on the upper edge bowed inward.
 
 “Leave it!” Brynn shouted.
 
-A worker let go before the next animal hit.
-
-The guide folded.
-
-Stone rolled from the weak shoulder of the road.
+A worker let go before the next animal hit. The guide folded. Stone rolled from the weak shoulder of the road.
 
 Tavian pointed past it.
 
 “There.”
 
-I followed his hand.
+I followed his hand. A branch of prey was drifting toward the weakest outside edge. If they took it, they would not all fall.
 
-A branch of prey was drifting toward the weakest outside edge.
-
-If they took it, they would not all fall.
-
-Some would.
-
-The ones behind would bunch.
-
-Then everything would get worse.
+Some would. The ones behind would bunch. Then everything would get worse.
 
 “How much?” I asked.
 
 “Only turn the front. Not the whole line.”
 
-Good.
-
-The whole line sounded exhausting.
-
-Brynn cleared the workers.
+Good. The whole line was beyond what I could shape. Brynn cleared the workers.
 
 “Back from the edge!”
 
-I stepped into the space they left.
+I stepped into the space they left. My ribs objected. My shoulder objected.
 
-My ribs objected.
+My head had joined them. I focused anyway. The third manifestation came out wrong before it came out right.
 
-My shoulder objected.
+A pale-grey slab appeared at an angle, too narrow at the near end. I forced the idea simpler. Not wall.
 
-My head had joined them.
+Guide. The far end widened. The shape leaned across the weak approach, low enough not to trap anything, angled enough to make the first animals choose the inside path.
 
-I focused anyway.
+It was crooked. It was cracked before the first hoof touched the ground beside it. It also worked.
 
-The third manifestation came out wrong before it came out right.
+The lead browser saw the obstruction and cut inward. The next followed. Then another.
 
-A pale-grey slab appeared at an angle, too narrow at the near end.
+Workers shouted and pulled a loose timber clear from the corrected lane. Militia shifted behind them. For several seconds, the branch flowed exactly where Tavian wanted it.
 
-I forced the idea simpler.
+No one cheered. There was no time. But I saw Brynn look once.
 
-Not wall.
+I saw two workers who had spent the last few days watching my impossible objects fail, wobble, bend, and disappear look at the guide and then at me. For once, the dramatic thing had also been the practical thing. I did not ruin it by saying anything.
 
-Guide.
-
-The far end widened.
-
-The shape leaned across the weak approach, low enough not to trap anything, angled enough to make the first animals choose the inside path.
-
-It was crooked.
-
-It was cracked before the first hoof touched the ground beside it.
-
-It also worked.
-
-The lead browser saw the obstruction and cut inward.
-
-The next followed.
-
-Then another.
-
-Workers shouted and pulled a loose timber clear from the corrected lane.
-
-Militia shifted behind them.
-
-For several seconds, the branch flowed exactly where Tavian wanted it.
-
-No one cheered.
-
-There was no time.
-
-But I saw Brynn look once.
-
-I saw two workers who had spent the last few days watching my impossible objects fail, wobble, bend, and disappear look at the guide and then at me.
-
-For once, the dramatic thing had also been the practical thing.
-
-I did not ruin it by saying anything.
-
-Personal growth was disgusting.
-
-The guide cracked down the center.
+I kept my mouth shut and let the moment pass. The guide cracked down the center.
 
 “Move!” Tavian shouted.
 
-I moved.
+I moved. A large prey animal clipped the failing outer edge. Stone broke loose under my boot.
 
-A large prey animal clipped the failing outer edge.
+I went down. Something struck my thigh. Maybe hoof.
 
-Stone broke loose under my boot.
+Maybe debris. It did not matter. Pain arrived first.
 
-I went down.
+The construct failed behind me. The branch of animals had already turned. Workers grabbed my arms and dragged me behind the repair line before the next group crossed.
 
-Something struck my thigh.
+My leg wanted to fold when I stood. I refused on principle. My hands were shaking badly now.
 
-Maybe hoof.
+The pressure behind my eyes had become a hard pulse. My ribs hurt every time I inhaled deeper than necessary. A cut along my thigh was closing under torn cloth.
 
-Maybe debris.
-
-It did not matter.
-
-Pain arrived first.
-
-The construct failed behind me.
-
-The branch of animals had already turned.
-
-Workers grabbed my arms and dragged me behind the repair line before the next group crossed.
-
-My leg wanted to fold when I stood.
-
-I refused on principle.
-
-My hands were shaking badly now.
-
-The pressure behind my eyes had become a hard pulse.
-
-My ribs hurt every time I inhaled deeper than necessary.
-
-A cut along my thigh was closing under torn cloth.
-
-Slowly.
-
-Painfully.
-
-Without providing any energy whatsoever.
+Slowly. Painfully. Without providing any energy whatsoever.
 
 Tavian came to me.
 
 “No more.”
 
-I looked at my hands.
-
-For once, we agreed before arguing.
+I looked at my hands. For once, we agreed before arguing.
 
 “Three.”
 
@@ -781,67 +373,29 @@ For once, we agreed before arguing.
 
 “Nothing.”
 
-He was already watching the road again.
+He was already watching the road again. Broken North was still open. That was the important part.
 
-Broken North was still open.
+Open did not mean healthy. The rough footing had started shedding fill along one side. One support rope hung loose where a guide post had pulled free.
 
-That was the important part.
-
-Open did not mean healthy.
-
-The rough footing had started shedding fill along one side.
-
-One support rope hung loose where a guide post had pulled free.
-
-The old road shelf made a sound I felt through my boots before I heard it.
-
-Stone settling.
-
-Brynn heard it too.
+The old road shelf made a sound I felt through my boots before I heard it. Stone settling. Brynn heard it too.
 
 “Repair team!”
 
 “Not yet!” Tavian shouted. “Keep them back until the next gap!”
 
-The workers waited.
+The workers waited. That was harder than rushing in. Another wave crossed.
 
-That was harder than rushing in.
+Smaller animals first. Then browsers. Then ridge-hounds following the pressure.
 
-Another wave crossed.
+The hounds did not attack the line. They moved through it, heads low, eyes fixed on openings. One broke toward a worker.
 
-Smaller animals first.
+A militia spear turned it. Another disappeared into brush. The road took all of it.
 
-Then browsers.
+Badly. The wrong-route pull had not stopped. We could see it farther downslope, movement still dragging toward the vulnerable side before later corrections forced part of it back.
 
-Then ridge-hounds following the pressure.
+That meant compression. Compression meant too many animals arriving at Broken North without enough space between them. The road had been built barely viable for a plan that expected breathing room.
 
-The hounds did not attack the line.
-
-They moved through it, heads low, eyes fixed on openings.
-
-One broke toward a worker.
-
-A militia spear turned it.
-
-Another disappeared into brush.
-
-The road took all of it.
-
-Badly.
-
-The wrong-route pull had not stopped.
-
-We could see it farther downslope, movement still dragging toward the vulnerable side before later corrections forced part of it back.
-
-That meant compression.
-
-Compression meant too many animals arriving at Broken North without enough space between them.
-
-The road had been built barely viable for a plan that expected breathing room.
-
-Hesk had apparently decided breathing room was a luxury.
-
-A runner reached Brynn.
+Hesk had apparently decided breathing room was a luxury. A runner reached Brynn.
 
 “Lower signal changed again.”
 
@@ -849,19 +403,11 @@ A runner reached Brynn.
 
 “No.”
 
-Brynn looked at Tavian.
-
-He did not need the report anymore.
-
-The animals were the report.
+Brynn looked at Tavian. He did not need the report anymore. The animals were the report.
 
 “Withdraw the outer marker team,” he said. “If they stay there, they become the obstacle.”
 
-Brynn sent the order.
-
-The outer line gave ground.
-
-The corridor kept working.
+Brynn sent the order. The outer line gave ground. The corridor kept working.
 
 Then something changed.
 

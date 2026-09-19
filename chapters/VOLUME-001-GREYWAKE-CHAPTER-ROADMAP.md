@@ -39,6 +39,9 @@ Power interpretation changes to:
 - specialists remain necessary for knowledge, evidence, evacuation, logistics, and judgment;
 - climax spectacle may reveal far more power without calling it a power-up.
 
+**Soul-Drift Synchronization:** CH-001 CURRENT — Gate 9 PASS (2026-09-20); CH-002→CH-026 prose remains pending sequential synchronization.  
+**Next Rewrite:** CH-002 — Undefined.
+
 # 1. Roadmap Principles
 
 This roadmap distributes the locked Gate 6 architecture across 26 chapters.

@@ -587,7 +587,7 @@ The climax is not a single duel.
 
 ## 14.1 Progression Ceiling
 
-**Volume 2 ceiling: Stage I — Improvised Manifestation.**
+**Volume 2 public-display plan: deliberately restrained utility/support manifestations unless a larger reveal is specifically authorized. This is not a capability ceiling.**
 
 No power stage unlocks in this volume because Red has no power stages.
 

@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** GREYWAKE ARC COMPLETE — CH-026 CANON / GATE 11 PUBLISH QA ENABLED / VOLUME 2 UNSELECTED
+**Status:** GREYWAKE ARC COMPLETE — VOLUME 1 PUBLISH-READY / GATE 11 PASS / VOLUME 2 UNSELECTED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -21,7 +21,7 @@ Volume 1 Architecture: **PASS**
 Chapter Roadmap: **PASS — 26 chapters**  
 Volume 1 Canon Revalidation: **PASS — GATE 10 / CH-001 THROUGH CH-026 VERIFIED**  
 Publish Version QA Standard: **ACTIVE — GATE 11**  
-Volume 1 Publish Version QA: **PENDING — 0 / 26 PUBLISH-READY**  
+Volume 1 Publish Version QA: **PASS — GATE 11 / 26 OF 26 PUBLISH-READY**  
 CH-001 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-002 Scene Architecture: **PASS — GATE 8**  
 CH-002 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
@@ -84,12 +84,12 @@ Red Jackal Aura-Farming Reputation Evolution: **LOCKED — MANUFACTURED → EARN
 Red Jackal Reputation / Threat Perception: **LOCKED — GRADUAL / EVIDENCE-BASED**  
 Aura Evolution: **MANUFACTURED → EARNED → REPUTATION-SUPPORTED**
 
-The project is now authorized to proceed to:
+The project publication state is now:
 
-1. **Volume 1 Publication Copy Preparation → Gate 11 Publish Version QA**
-2. **Begin with CH-001, then continue in canon chapter order through CH-026**
+1. **Volume 1 / Greywake Arc — PUBLISH-READY — Gate 11 PASS**
+2. **CH-001 through CH-026 approved for external posting in canon order**
 
-CH-001 through CH-026 are CANON and Volume 1 has passed Gate 10 revalidation. Publication copies must be derived from those canon manuscripts and pass Gate 11 before they are marked PUBLISH-READY. The active release tracker is `qa/publish/VOLUME-001-PUBLISH-VERSION-QA.md`. Volume 2 remains unselected and is not authorized by the publication workflow.
+All 26 publication copies have individual Gate 11 PASS records. The aggregate release record is `qa/publish/VOLUME-001-PUBLISH-VERSION-QA.md`. This authorizes posting but does not claim the chapters have already been posted externally. Volume 2 remains unselected and is not authorized by the publication workflow.
 
 ## Destination Naming Law
 

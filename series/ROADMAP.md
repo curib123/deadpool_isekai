@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-005 CANON — CH-006 SCENE ARCHITECTURE PASSED / CH-006 MANUSCRIPT AUTHORIZED
+**Status:** CH-006 CANON — CH-007 SCENE ARCHITECTURE AUTHORIZED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -32,13 +32,14 @@ CH-005 Scene Architecture: **PASS — GATE 8**
 CH-005 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 F-004: **PLANTED — CH-005**  
 CH-006 Scene Architecture: **PASS — GATE 8**  
+CH-006 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 Red Jackal Series Voice: **LOCKED — DRY/DEADPAN INTERNAL HUMOR + RESTRAINED FOURTH-WALL STANDARD**
 
 The project is now authorized to proceed to:
 
-1. **Draft CH-006 — The Road That Works manuscript only**
+1. **Detailed Scene Architecture — CH-007 You Should Be Dead only**
 
-CH-006 Pre-Manuscript Scene QA has passed. The studio may now draft the actual CH-006 manuscript — The Road That Works only, using the locked dry/deadpan internal-humor voice. F-003 remains PLANNED — NOT YET PLANTED and M-007 remains inactive. CH-007 planning remains deferred and no later destination has been selected.
+CH-006 Chapter QA has passed and CH-006 is canon. No F-ID changed status; F-003 remains PLANNED — NOT YET PLANTED and M-007 remains inactive. The studio may now build Detailed Scene Architecture for CH-007 — You Should Be Dead only. CH-007 manuscript drafting remains blocked until its Gate 8 Pre-Manuscript Scene QA passes, and no later destination has been selected.
 
 ## Destination Naming Law
 
@@ -54,7 +55,7 @@ This table is intentionally empty.
 
 | Volume | Destination ID | Arc Name | Local Conflict | Main Antagonist | Major Mystery Contribution | Status |
 |---|---|---|---|---|---|---|
-| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 planned/unplanted; F-004 PLANTED in CH-005 | CH-006 SCENE ARCHITECTURE PASS — CH-006 MANUSCRIPT AUTHORIZED |
+| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 planned/unplanted; F-004 PLANTED in CH-005 | CH-006 CANON — CH-007 SCENE ARCHITECTURE AUTHORIZED |
 
 ## Lock
 
@@ -64,4 +65,4 @@ Do not add a row until:
 - Destination Inventory exists; **PASS**
 - Destination Selection QA approves an existing world location; **PASS — DEST-001 Greywake**
 
-Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-005 are canon. F-001 is planted in CH-002, F-002 in CH-003, and F-004 in CH-005. CH-006 Scene Architecture has passed Gate 8 and CH-006 manuscript prose is authorized; CH-007 planning and all later-route selection remain deferred.
+Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-006 are canon. F-001 is planted in CH-002, F-002 in CH-003, and F-004 in CH-005. F-003 remains planned for CH-007. CH-007 Detailed Scene Architecture is authorized; CH-007 manuscript prose and all later-route selection remain deferred.

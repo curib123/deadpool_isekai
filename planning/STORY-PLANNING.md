@@ -105,7 +105,7 @@ The authoritative Volume 1 chapter roadmap is:
 
 The next authorized planning artifact is:
 
-`CH-016 — Backflow: Manuscript Draft`
+`CH-016 — Backflow: Gate 9 Chapter QA`
 
 CH-001 manuscript has passed Gate 9 and is CANON.
 
@@ -181,9 +181,9 @@ No F-ID changed status in CH-015.
 
 CH-016 Scene Architecture has passed Gate 8.
 
-Drafting CH-016 manuscript prose is now authorized.
+CH-016 manuscript draft now exists and is awaiting Gate 9 Chapter QA.
 
-Do not draft CH-017 or create CH-017 Scene Architecture during the CH-016 manuscript step.
+Do not draft CH-017 or create CH-017 Scene Architecture before CH-016 passes Gate 9 and is canonized.
 
 # 5. Scene Sheet
 Each scene has:

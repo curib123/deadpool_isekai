@@ -1,21 +1,27 @@
 # Chapter 19 — Build the Wrong Road
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** STUDIO CINEMATIC RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 2,668  
 **Chapter QA:** `qa/CH-019-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-019-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
-Broken North looked worse when people arrived with tools. The last time he had come through, the road had mostly been an investigation problem. Bad ground. Old stone. Fresh Guild closure. One hidden lure. Enough wrong details to make competent people suspicious.
+Broken North looked worse with work crews standing on it.
 
-Now it had to carry something.
+Before, it had been evidence.
 
-That was different.
+Now it had to become a road again.
 
 Brynn had brought militia, road workers, two carts of ordinary materials, and more people from the outer homesteads than Greywake had officially requested. Tavian brought route notes and the expression of a man who expected the forest to disagree with them personally. He carried timber.
 
-A lot of timber. There had been a moment, early on, when he had considered putting one beam over his shoulder and walking past the work crews like he had just returned from conquering carpentry. A woman from the outer farms pointed at the other end.
+A lot of timber. Red put one beam over his shoulder.
 
-“Lift higher. You're dragging it.”
+A woman from the outer farms pointed at the other end.
+
+“Higher. You're dragging it.”
+
+Red looked back.
+
+She was right.
 
 That ended the performance. Practical labor remained resistant to reputation. They passed the old Guild closure just after first light.
 
@@ -91,11 +97,21 @@ Brynn looked at the load.
 
 Also fair.
 
-By sunrise, the lower part of Broken North looked less like a road crew and more like a disagreement between every profession in Greywake. Militia cleared space. Homesteaders cut roots.
+Soon the lower road filled with overlapping work.
 
-Guild road workers argued over drainage angles. Tavian objected whenever anyone made the future animal path narrower. Brynn objected whenever Tavian wanted people standing too long in exposed ground.
+Militia cleared space.
 
-He moved whatever someone pointed at. No manifestation. No clever shortcut.
+Homesteaders cut roots.
+
+Guild workers argued over drainage angles.
+
+Tavian kept the future animal path wide.
+
+Brynn kept people out of exposed ground.
+
+Red moved whatever someone pointed at.
+
+No manifestation.
 
 Just work. The drainage cut below the old watch point had collapsed inward years ago. Mud, stones, roots, and dead branches had turned it into a shallow wall that pushed water under the road instead of away from it.
 
@@ -227,9 +243,9 @@ Workers moved. Two timbers went into the gap beside the manifestation. Stone fol
 
 He kept the brace exactly where it was.
 
-The difficult part was not holding impossible material under a road.
+Holding the impossible brace was easy.
 
-The difficult part was doing nothing clever while people who actually understood roads decided where permanent weight belonged.
+Not interfering with the people who understood roads was harder.
 
 A worker drove the timber deeper. Another packed stone behind it. Brynn kept the approach clear. Tavian watched both the road and the forest.
 
@@ -269,7 +285,9 @@ No magic under it.
 
 Just wood, stone, and people who knew where to put both.
 
-That felt better than he expected. He sat down for exactly long enough to drink water. Brynn handed him another cup.
+The timber stayed.
+
+Red sat down long enough to drink water. Brynn handed him another cup.
 
 “You're shaking.”
 
@@ -467,8 +485,6 @@ Tavian watched the tree line until the calls moved farther away. Then he lowered
 
 Nobody cheered.
 
-Good.
-
 A worker came back for the dropped tools. Another checked the rough footing. Brynn looked at him.
 
 “You done improvising?”
@@ -505,15 +521,15 @@ Two homesteaders were already dragging old fence timber into place.
 
 Work resumed.
 
-That was the part he noticed.
+The animals passed.
 
-Not dramatically.
+Militia lowered their weapons.
 
-Just immediately.
+Red's barrier was gone.
 
-The animals had come through. Militia had held. He had bought a few seconds.
+Then everyone went back to work.
 
-Then everyone went back to work. No one had mistaken survival for completion. By late afternoon, Broken North looked almost worse than before.
+No one mistook survival for completion. By late afternoon, Broken North looked almost worse than before.
 
 Fresh cuts in the brush. Mud everywhere. Timber braces under old stone.
 
@@ -569,11 +585,15 @@ He took time before answering.
 
 “Enough to attempt the redirection.”
 
-That was the win. A very careful, unimpressive win. The road still looked terrible.
+That was the win.
 
-The workers were exhausted. The militia had mud to their knees. He was tired too, mostly because he had spent a day carrying timber, digging mud, and repeatedly refusing to solve civil engineering by declaring reality negotiable.
+The road still looked terrible.
 
-And Broken North now went somewhere. Brynn looked at the far connector.
+Workers stood in mud to their knees.
+
+Red's shoulder hurt. His hands were dirty.
+
+Broken North went somewhere again. Brynn looked at the far connector.
 
 “What else?”
 

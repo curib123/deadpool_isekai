@@ -1,7 +1,8 @@
 # Chapter 20 — The Last Lure
 
-**Status:** DRAFT — GATE 9 NOT YET RUN  
-**Word Count:** 3,014
+**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED  
+**Word Count:** 3,014  
+**Chapter QA:** `qa/CH-020-GATE-9-CHAPTER-QA.md`
 
 By the time I got back from Broken North, my hands had stopped shaking enough to hold a cup.
 

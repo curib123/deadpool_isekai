@@ -7259,7 +7259,7 @@ Do not draft CH-022 manuscript before CH-022 Scene Architecture and Gate 8 Pre-M
 # CH-022 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-022 — First Wave  
-**Status:** SCENE ARCHITECTURE SUPPORT — GATE 8 PENDING
+**Status:** SCENE ARCHITECTURE SUPPORT — GATE 8 PASS / MANUSCRIPT NOT YET CANON
 
 ## Opening State
 

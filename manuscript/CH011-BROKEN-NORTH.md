@@ -309,7 +309,7 @@ She wrote that down too. He looked at the road ahead. Old stone. New boot marks.
 
 “No.”
 
-He looked at him.
+Red looked at him.
 
 “That sounded final.”
 
@@ -345,7 +345,7 @@ One hound climbed onto a fallen block. The second circled below. Tavian pointed.
 
 “Maelis, wall side. Kellan behind her.”
 
-Maelis already had her compact crossbow out. He started forward. Tavian looked at him. He stopped.
+Maelis already had her compact crossbow out. Red started forward. Tavian looked at him. Red stopped.
 
 Progress.
 
@@ -353,7 +353,7 @@ Progress.
 
 “Here.”
 
-He positioned him beside the narrowest part of the washout. The first hound lunged up the slope. Maelis fired. The bolt struck dirt in front of it and forced it sideways instead of dropping it. Tavian moved at once, using the opening to drive the animal back with the flat line of his blade rather than chasing. The second hound came from the other side. Kellan swore.
+Tavian positioned Red beside the narrowest part of the washout. The first hound lunged up the slope. Maelis fired. The bolt struck dirt in front of it and forced it sideways instead of dropping it. Tavian moved at once, using the opening to drive the animal back with the flat line of his blade rather than chasing. The second hound came from the other side. Kellan swore.
 
 “Outer edge is moving.”
 
@@ -429,13 +429,13 @@ Kellan rested one hand on his knee.
 
 “That thing was ugly.”
 
-He looked at him.
+Red looked at Kellan.
 
 “You crossed it.”
 
 “I said ugly. I didn't say useless.”
 
-That might have been the nicest thing he had ever said to him. Maelis lowered her crossbow. She looked at the empty space where the brace had been.
+That might have been the nicest thing Kellan had ever said to Red. Maelis lowered her crossbow. She looked at the empty space where the brace had been.
 
 “One manifestation. Temporary. Structural support. Dismissed after load.”
 
@@ -443,7 +443,7 @@ That might have been the nicest thing he had ever said to him. Maelis lowered he
 
 “I am preserving the observation.”
 
-Tavian sheathed his sword. Then he looked at him.
+Tavian sheathed his sword. Then he looked at Red.
 
 “You waited for the position.”
 

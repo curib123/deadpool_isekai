@@ -8,6 +8,26 @@
 **POV:** Red Jackal first person  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
+# Soul-Drift / Final Story-Engine Override
+
+The five-scene CH-002 event structure remains locked.
+
+Current authority:
+- `planning/RED-JACKAL-SOUL-DRIFT-MASTER-RETCON.md`
+- `planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md`
+- `manuscript/WRITING-RULES.md`
+
+Interpretation updates:
+- Red enters CH-002 with mysterious Earth-explosion/flash residue, not traffic-collision memory;
+- Red's coherent Earth biography remains largely erased;
+- **Red Jackal** is a self-declared/chosen persona name, not recovered Earth identity;
+- genuine audience address invokes Fourth-Wall Pause every time;
+- no Play Logic attempt occurs in CH-002;
+- Red's raw power does not progress in this chapter;
+- the System's UNDEFINED / NO RECORD result is literal absence of a valid native progression/identity object, not hidden superiority;
+- F-001 remains the chapter's only new foreshadowing plant;
+- native/local characters retain independent competence and authority; Brynn owns the gate decision and Maelis owns only her professional observation.
+
 # 1. Chapter Purpose Lock
 
 CH-002 moves Red Jackal from:
@@ -112,7 +132,7 @@ Once communication begins, Red Jackal cannot answer basic intake questions clean
 
 ### Knowledge Entering Scene — Red Jackal
 He knows only what CH-001 canon established:
-- Earth collision memory;
+- mysterious Earth explosion/flash residue with no coherent biography;
 - non-Earth environment;
 - one crude manifestation;
 - abnormal painful healing;

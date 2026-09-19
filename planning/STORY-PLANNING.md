@@ -105,7 +105,7 @@ The authoritative Volume 1 chapter roadmap is:
 
 The next authorized planning artifact is:
 
-`CH-009 — Wrong Tracks: Manuscript Draft`
+`CH-010 — The Ledger Doesn't Balance: Detailed Scene Architecture`
 
 CH-001 manuscript has passed Gate 9 and is CANON.
 
@@ -139,9 +139,13 @@ No F-ID changed status in CH-008.
 
 CH-009 Scene Architecture has passed Gate 8.
 
-Drafting CH-009 manuscript prose is now authorized.
+CH-009 manuscript has passed Gate 9 and is CANON.
 
-Do not draft CH-010 or create CH-010 Scene Architecture during the CH-009 manuscript step.
+No F-ID changed status in CH-009.
+
+Detailed Scene Architecture for CH-010 — The Ledger Doesn't Balance is now authorized.
+
+Do not draft CH-010 manuscript before its Scene Architecture and Gate 8 Pre-Manuscript Scene QA pass.
 
 # 5. Scene Sheet
 Each scene has:

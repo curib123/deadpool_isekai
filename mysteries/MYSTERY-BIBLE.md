@@ -862,7 +862,9 @@ Each entry below records its current foreshadowing state. New F-IDs begin as **P
 **First interpretation:** exotic racial trait.  
 **Hidden meaning:** self-model reassertion.  
 **Eligible window:** RW-1 / RW-2.  
-**Status:** PLANNED — NOT YET PLANTED.
+**Actual manuscript reference:** `manuscript/CH007-YOU-SHOULD-BE-DEAD.md` — severe flank/torso injury begins autonomously correcting before healer intervention; Sela's diagnostic/healing knit encounters moving wound boundaries and no standard external healing residue.  
+**QA evidence:** `qa/CH-007-GATE-9-CHAPTER-QA.md`  
+**Status:** PLANTED — CH-007.
 
 ## F-004 — Play Logic Follows Meaning More Than Spell Grammar
 
@@ -1215,10 +1217,10 @@ Status changed after approved CH-005 manuscript prose contained both components 
 
 
 
-# CH-007 F-003 Scene Planning
+# CH-007 F-003 Planting Record
 
 **Chapter:** CH-007 — You Should Be Dead  
-**Status:** PLANNING ONLY — NO CH-007 MANUSCRIPT YET
+**Status:** PLANTED — GATE 9 PASS
 
 F-003 is planned through two required components:
 
@@ -1231,6 +1233,6 @@ The clue must support:
 
 It must not explain why.
 
-**F-003 Status: PLANNED — NOT YET PLANTED**
+**F-003 Status: PLANTED — CH-007**
 
-No status change is allowed until approved CH-007 manuscript prose contains both components and passes Gate 9.
+Status changed after approved CH-007 manuscript prose contained both components and passed Gate 9.

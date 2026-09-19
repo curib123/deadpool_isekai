@@ -37,7 +37,7 @@ Reasonable. Still suspicious. He looked better than the last time he had seen hi
 
 “Good.”
 
-He turned. Apparently that was the invitation. He followed because he had learned that competent people became more annoying when allowed to leave with information he wanted. they reached the western edge of Greywake without much conversation. Tavian did not ask about the bridge. He told him anyway.
+He turned. Apparently that was the invitation. He followed because he had learned that competent people became more annoying when allowed to leave with information he wanted. They reached the western edge of Greywake without much conversation. Tavian did not ask about the bridge. He told him anyway.
 
 “The outer warning board was wrong.”
 
@@ -143,7 +143,7 @@ That was finally a sentence he understood. He tapped the map once. “This is a 
 
 “You're a witness.”
 
-Slightly less flattering. they left the maintained road. The forest edge looked ordinary for the first ten minutes. Trees. Damp ground. Ferns. The usual amount of mud attempting to become part of his boots. Tavian moved slower than he expected. Not cautious in the nervous sense. Deliberate. He stopped near a shallow depression where the ground stayed soft between two low ridges. He nearly stepped beside him. His arm blocked him.
+Slightly less flattering. They left the maintained road. The forest edge looked ordinary for the first ten minutes. Trees. Damp ground. Ferns. The usual amount of mud attempting to become part of his boots. Tavian moved slower than he expected. Not cautious in the nervous sense. Deliberate. He stopped near a shallow depression where the ground stayed soft between two low ridges. He nearly stepped beside him. His arm blocked him.
 
 “Don't.”
 
@@ -215,7 +215,7 @@ He looked at him.
 
 “I hate that you keep earning it.”
 
-they followed the crossing north for another quarter hour. Tavian stopped often. He stopped when he stopped. That was progress. Sometimes he showed him something useful. Broken stems at knee height. Hair caught on bark. A place where several animals had pushed through the same narrow gap even though open ground lay twenty paces west. Sometimes he stared at dirt long enough that he assumed he had discovered the meaning of existence. Usually he had discovered a track was older than another track. Annoyingly, those small differences kept adding up. The official route map expected most seasonal movement to cross farther west, where water and grazing ground opened between the trees. The physical sign kept bending north-east. Not every track. Enough. Predator and prey. That was the part he did not like.
+They followed the crossing north for another quarter hour. Tavian stopped often. He stopped when he stopped. That was progress. Sometimes he showed him something useful. Broken stems at knee height. Hair caught on bark. A place where several animals had pushed through the same narrow gap even though open ground lay twenty paces west. Sometimes he stared at dirt long enough that he assumed he had discovered the meaning of existence. Usually he had discovered a track was older than another track. Annoyingly, those small differences kept adding up. The official route map expected most seasonal movement to cross farther west, where water and grazing ground opened between the trees. The physical sign kept bending north-east. Not every track. Enough. Predator and prey. That was the part he did not like.
 
 “Wouldn't prey avoid a route predators are using?”
 
@@ -235,7 +235,7 @@ He straightened.
 
 “They would be wrong.”
 
-they moved on. The old trail appeared gradually. It was not a road anymore. At least not one anyone maintained. Two shallow parallel depressions ran between trees where wagon wheels had once passed often enough to change the ground. Roots had lifted sections. Brush filled the center. A weathered stone stood beside it, half-covered in moss. Tavian checked the mud along the lower edge.
+They moved on. The old trail appeared gradually. It was not a road anymore. At least not one anyone maintained. Two shallow parallel depressions ran between trees where wagon wheels had once passed often enough to change the ground. Roots had lifted sections. Brush filled the center. A weathered stone stood beside it, half-covered in moss. Tavian checked the mud along the lower edge.
 
 “Broken North connector.”
 
@@ -421,7 +421,7 @@ He looked up. That paused him.
 
 “Yes.”
 
-He had not redeemed himself. He had at least located the next obvious step. they moved away from the crossing. Tavian did not speak for several minutes. He let him. That may have been the most responsible thing he did all morning. His side had begun to ache again from the morning's walking and the injury he was still pretending not to respect. He kept his pace even. Tavian noticed anyway.
+He had not redeemed himself. He had at least located the next obvious step. They moved away from the crossing. Tavian did not speak for several minutes. He let him. That may have been the most responsible thing he did all morning. His side had begun to ache again from the morning's walking and the injury he was still pretending not to respect. He kept his pace even. Tavian noticed anyway.
 
 “Can you still walk?”
 
@@ -443,7 +443,7 @@ There was that word again.
 
 “To everyone around you.”
 
-Fair. they followed the old trail north-east without entering it fully. Tavian stayed off the center, searching the softer ground beside the old wheel depressions. The recent pack tracks were easy now. Even he could see them. He ignored most of them.
+Fair. They followed the old trail north-east without entering it fully. Tavian stayed off the center, searching the softer ground beside the old wheel depressions. The recent pack tracks were easy now. Even he could see them. He ignored most of them.
 
 “Those are ours,” he said.
 
@@ -453,7 +453,7 @@ Fair. they followed the old trail north-east without entering it fully. Tavian s
 
 “They're from today. I need older sign.”
 
-they found the first clean layer fifty paces farther on where runoff had left a strip of dark soil beneath an overhanging bank. Tavian crouched. He stayed back without being told. He glanced at him. He chose to interpret that as admiration. It probably wasn't. The bank held several old impressions protected from direct rain. Hoof marks. Then larger paw prints. Not fresh. Not from their disturbance. Tavian traced the direction in the air.
+They found the first clean layer fifty paces farther on where runoff had left a strip of dark soil beneath an overhanging bank. Tavian crouched. He stayed back without being told. He glanced at him. He chose to interpret that as admiration. It probably wasn't. The bank held several old impressions protected from direct rain. Hoof marks. Then larger paw prints. Not fresh. Not from their disturbance. Tavian traced the direction in the air.
 
 “North-east.”
 
@@ -479,7 +479,7 @@ He smiled. He noticed.
 
 “I regret teaching you language.”
 
-they kept going. The old connector bent slightly north where a fallen tree had forced animals around it. The tracks bent with it. Not one set. Layers. Some faint enough that he only saw them after Tavian outlined the shape with a finger hovering above the soil. Different sizes. Different ages. Same broad drift. Tavian stood. He looked back south-west. Through gaps in the trees, he could just make out brighter open ground toward the Main Caravan Road. Then he looked north. The old trail disappeared beneath brush.
+They kept going. The old connector bent slightly north where a fallen tree had forced animals around it. The tracks bent with it. Not one set. Layers. Some faint enough that he only saw them after Tavian outlined the shape with a finger hovering above the soil. Different sizes. Different ages. Same broad drift. Tavian stood. He looked back south-west. Through gaps in the trees, he could just make out brighter open ground toward the Main Caravan Road. Then he looked north. The old trail disappeared beneath brush.
 
 “Expected crossing is west,” he said.
 

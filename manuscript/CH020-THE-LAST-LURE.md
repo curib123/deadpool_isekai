@@ -139,7 +139,7 @@ The sentence came out quietly. Maelis asked, “Who can authorize it?”
 
 “No.”
 
-He leaned back against the wall. Of course he did not. Why share a contingency when you could keep the final decision in a locked cage with your name on it?
+He leaned back against the wall. Of course he did not. Why share a contingency when Hesk could keep the final decision in a locked cage with his name on it?
 
 Jessa pulled a blank reconciliation sheet toward herself. Her hand stopped above it. Maelis noticed that too.
 
@@ -513,7 +513,7 @@ So did the other two. Nobody asked why.
 
 Good reputation was strange.
 
-You spent weeks trying to look dangerous and mostly annoyed clerks. Then one day people remembered you had walked away from things that should have killed you, ignored Guild orders in public, and made objects appear where objects had no business being. Suddenly standing still did some of the work.
+Red had spent weeks trying to look dangerous and mostly annoyed clerks. Then people remembered he had walked away from things that should have killed him, ignored Guild orders in public, and made objects appear where objects had no business being. Suddenly, standing still did some of the work.
 
 The first man looked at his hands. They were trembling. He still did not move.
 

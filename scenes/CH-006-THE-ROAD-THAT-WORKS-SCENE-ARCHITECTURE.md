@@ -3,7 +3,7 @@
 **Volume:** 1 — Greywake Arc  
 **Chapter:** CH-006 — The Road That Works  
 **Phase:** Detailed Scene Architecture  
-**Status:** PROPOSED FOR PRE-MANUSCRIPT SCENE QA  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-006 MANUSCRIPT AUTHORIZED  
 **Final Scene Count:** 5  
 **POV:** Red Jackal first person  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
@@ -1166,3 +1166,20 @@ Pre-Manuscript Scene QA must verify:
 - ending remains Tavian's “animals are moving wrong” conclusion;
 - no final dialogue/manuscript prose exists;
 - Volume 2 remains unselected.
+
+
+# 16. Gate 8 Result
+
+**PASS**
+
+Formal QA record:
+
+`qa/CH-006-PRE-MANUSCRIPT-SCENE-QA.md`
+
+The five-scene CH-006 architecture is locked.
+
+The only authorized next production step is:
+
+**Draft the actual CH-006 manuscript — The Road That Works.**
+
+Do not draft CH-007 and do not create CH-007 Scene Architecture.

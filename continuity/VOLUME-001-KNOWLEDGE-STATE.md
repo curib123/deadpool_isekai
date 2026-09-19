@@ -8116,7 +8116,7 @@ CH-025 remains aftermath/institutional resolution.
 # CH-024 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-024 — No One Gets Chosen  
-**Status:** SCENE ARCHITECTURE SUPPORT — GATE 8 PASS / MANUSCRIPT NOT YET CANON
+**Status:** SUPERSEDED BY CH-024 CANON CHECKPOINT
 
 ## Opening State
 
@@ -8201,3 +8201,154 @@ M-007 does not advance.
 
 No protected cosmology.
 
+# CH-024 Canon Checkpoint
+
+**Chapter:** CH-024 — No One Gets Chosen  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH024-NO-ONE-GETS-CHOSEN.md`  
+**QA:** `qa/CH-024-GATE-9-CHAPTER-QA.md`
+
+## Final Route Resolution — CANON
+
+The renewed outer-homestead pull is traced to the already-established vulnerable older-service lure site.
+
+Hesk is physically present at that site using the existing Roadmaster field-service key.
+
+No new lure technology, key, reserve, remote controller, System manipulation or cosmic mechanism is introduced.
+
+## Hesk — CANON
+
+Hesk makes his final established argument:
+- Greywake's trade road is existential;
+- Broken North remains damaged;
+- he believes deliberate localized loss is preferable to risking settlement-wide collapse.
+
+Red rejects Hesk's right to decide who is expendable.
+
+Brynn removes Hesk from access to the housing.
+
+The Roadmaster field-service key is seized.
+
+Hesk is placed under emergency detention/guard and removed from active road authority.
+
+He does not repent.
+
+His final legal disposition remains for CH-025.
+
+## Maelis / Jessa — CANON
+
+Maelis preserves:
+- copied records;
+- site integrity;
+- custody/evidence continuity.
+
+Jessa:
+- identifies the live service state;
+- identifies established vent/plate access;
+- uses ordinary keyed procedure to return the housing to neutral/secured condition;
+- acts despite likely Guild employment consequences.
+
+## Tavian / Brynn — CANON
+
+Tavian owns:
+- branch recoverability;
+- fork timing;
+- neutralization timing;
+- confirmation of final migration commitment.
+
+Brynn owns:
+- Hesk's removal from the housing;
+- key seizure;
+- emergency detention;
+- physical authority at the site.
+
+## Red Jackal — Final Climax Choice CANON
+
+Red enters severely exhausted.
+
+He has the opportunity to remain focused on Hesk personally.
+
+He instead turns away once Brynn can contain Hesk and goes to the route fork.
+
+Actual CH-024 Play Logic manifestations:
+
+**exactly 1**
+
+Function:
+
+**temporary low fork guide/deflector.**
+
+It:
+- redirects only the lead edge of the wrong branch;
+- buys seconds;
+- remains unstable;
+- fades after use;
+- does not control the whole migration;
+- does not become Stage II.
+
+This is the final Volume 1 climax manifestation.
+
+## Migration / Outer Homestead Result — CANON
+
+After:
+- Hesk loses access;
+- Jessa neutralizes the old-service housing;
+- Red's guide buys seconds;
+- existing Broken North momentum reasserts;
+
+the trailing branch returns toward Broken North.
+
+Tavian confirms commitment.
+
+Canonical climax result:
+
+1. **the migration commits to the prepared Broken North corridor;**
+2. **the outer homesteads are not deliberately sacrificed;**
+3. **Hesk loses operational control of the scheme and is under guard/removed from command.**
+
+## Injury / Power State After CH-024
+
+Red remains:
+- flank/side injured but regenerating;
+- rib-limited;
+- shoulder/leg strained;
+- headache/tremor affected;
+- severely fatigued.
+
+Regeneration has not restored stamina or precision.
+
+## Mystery / Foreshadowing State After CH-024
+
+F-ID state remains:
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+No F-ID changes state.
+
+M-007 does not advance.
+
+No protected series truth is revealed.
+
+## CH-025 Handoff
+
+The authoritative next chapter is:
+
+**CH-025 — What Greywake Counts**
+
+CH-025 may proceed to **Detailed Scene Architecture only**.
+
+CH-025 begins after the immediate migration crisis has passed.
+
+It owns:
+- casualty/damage accounting;
+- treatment aftermath;
+- Hesk's institutional/legal removal;
+- preservation/public handling of evidence;
+- Road Guild restructuring;
+- formal outer-community representation;
+- mixed public reaction to Red;
+- permanent economic/infrastructure consequences.
+
+CH-026 remains departure/arc closure.

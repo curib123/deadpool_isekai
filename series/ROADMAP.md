@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-019 CANON — CH-020 SCENE ARCHITECTURE AUTHORIZED
+**Status:** CH-019 CANON — CH-020 SCENE ARCHITECTURE PASSED / CH-020 MANUSCRIPT AUTHORIZED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -60,6 +60,7 @@ CH-018 Scene Architecture: **PASS — GATE 8**
 CH-018 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-019 Scene Architecture: **PASS — GATE 8**  
 CH-019 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
+CH-020 Scene Architecture: **PASS — GATE 8**  
 Red Jackal Series Voice: **LOCKED — DRY/DEADPAN INTERNAL HUMOR + RESTRAINED FOURTH-WALL STANDARD**  
 Red Jackal Anti-Villain Expression: **LOCKED**  
 Red Jackal Reputation / Fear Progression: **LOCKED — R0 TO R6**  
@@ -69,9 +70,9 @@ Aura Evolution: **MANUFACTURED → EARNED → REPUTATION-SUPPORTED**
 
 The project is now authorized to proceed to:
 
-1. **Detailed Scene Architecture — CH-020 The Last Lure only**
+1. **Draft CH-020 — The Last Lure manuscript only**
 
-CH-019 Chapter QA has passed and CH-019 is canon. No F-ID changed state and M-007 did not advance. Broken North's barely-viable physical state, permanent cracked-lip support, rough secondary footing, physical side barrier, Red's exactly three Stage I support manifestations, cumulative exhaustion, and the precise lure-timing dependency are canon. CH-020 — The Last Lure may now proceed to Detailed Scene Architecture only. CH-020 owns the retained lure-stock discovery, Jessa's decisive complicity break, evidence confrontation, and Hesk's fallback action. CH-021 surge preparation remains protected. No later destination has been selected.
+CH-020 Pre-Manuscript Scene QA has passed. The studio may now draft the actual CH-020 manuscript — The Last Lure only. No new F-ID is authorized and M-007 does not advance. CH-020 must discover the retained Roadmaster lure reserve through Jessa's existing supply-log competence, make her decisive complicity break voluntary, turn Maelis's evidence into actionable custody, use one earned Red Jackal intimidation beat, permit at most one small Stage I obstruction, secure the reserve/proof, and leave Hesk unaccounted for with one final field-lure access method. CH-021 full surge preparation remains blocked until CH-020 canonization. No later destination has been selected.
 
 ## Destination Naming Law
 
@@ -87,7 +88,7 @@ This table is intentionally empty.
 
 | Volume | Destination ID | Arc Name | Local Conflict | Main Antagonist | Major Mystery Contribution | Status |
 |---|---|---|---|---|---|---|
-| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-019 CANON — CH-020 SCENE ARCHITECTURE AUTHORIZED |
+| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-020 SCENE ARCHITECTURE PASS — CH-020 MANUSCRIPT AUTHORIZED |
 
 ## Lock
 
@@ -97,4 +98,4 @@ Do not add a row until:
 - Destination Inventory exists; **PASS**
 - Destination Selection QA approves an existing world location; **PASS — DEST-001 Greywake**
 
-Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-019 are canon. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. CH-020 Detailed Scene Architecture is authorized; CH-020 manuscript prose and all later-route selection remain deferred.
+Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-019 are canon. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. CH-020 Scene Architecture has passed Gate 8 and CH-020 manuscript prose is authorized; CH-021 planning and all later-route selection remain deferred.

@@ -1,409 +1,346 @@
 # Manuscript Writing Rules
 
 **Owners:** A090-A097  
-**Status:** LOCKED SERIES STANDARD — CLOSE THIRD-PERSON LIMITED / CINEMATIC NATURAL ENGLISH
+**Status:** LOCKED SERIES STANDARD — CLOSE FIRST-PERSON / CINEMATIC MOVIE-LIKE ENGLISH / FOURTH-WALL PAUSE
 
-## 1. POV — Close Third-Person Limited
+# 1. POV — Close First-Person Limited
 
-All canon prose uses **close third-person limited centered on Red Jackal** unless a future explicitly approved chapter authorizes another viewpoint.
+All Red Jackal canon prose uses **close first-person limited** unless a future chapter explicitly authorizes another POV.
 
-Use:
-- **Red / he / him / his** in narration;
-- only what Red can directly perceive, remember, infer, or reasonably misunderstand;
-- free-indirect phrasing when useful so narration can carry Red's attitude without becoming first-person;
-- short direct internal thoughts only when they add something the narration cannot.
+Narration uses:
+- I / me / my;
+- only what Red perceives, remembers, guesses, misunderstands, invents, or chooses to tell;
+- immediate physical experience;
+- short internal commentary;
+- Red's personality directly in the narration.
+
+The prose must feel like the reader is trapped beside Red inside the scene.
 
 Do not use:
-- first-person narration;
-- omniscient explanations;
-- invisible narrator knowledge;
-- direct reader conversation as the default voice;
-- head-hopping into another character's private thoughts.
+- omniscient narration;
+- head-hopping;
+- explanations Red cannot know;
+- distant neutral narration that could belong to anyone.
 
-The prose should feel close enough that the reader experiences the scene beside Red, not from above him.
+# 2. Movie-Like English
 
-## 2. Language — Simple, Natural English
+Use **simple, natural, cinematic English**.
 
-Use **simple, natural English**.
-
-Prefer:
-- familiar words;
-- clear sentence structure;
-- concrete description;
-- active verbs;
-- readable paragraphs;
-- direct emotional language when emotion matters.
-
-Avoid:
-- purple prose;
-- overly literary phrasing;
-- technical wording when ordinary words communicate the same idea;
-- long abstract explanations;
-- repeated metaphor chains;
-- AI-sounding transition phrases;
-- narration that explains what the scene already shows.
-
-World-specific terminology is allowed when canon requires it, but explain it through context rather than textbook exposition.
-
-## 2A. Cinematic / Movie-Like English
-
-“Movie-like” means **cinematic prose that reads like a novel**, not screenplay formatting.
-
-The reader should be able to picture:
-- where Red is;
-- what is moving;
-- what changes in the space;
-- who looks at whom;
-- what a hand, face, door, weapon, animal, road, or crowd is doing;
-- when the scene becomes quiet;
-- what visual image ends the beat.
-
-### Scene Camera Rule
-
-Write from Red's close-third perspective as if the scene has a camera near him.
-
-Prefer this order when natural:
-
-**visible action / sound / physical detail → Red's reaction → dialogue or choice → consequence**
-
-Do not repeatedly use:
-
-**explanation → explanation → thought → action**
-
-### Show Before Explaining
-
-When the scene can show something, let it show it first.
-
-Instead of:
-- explaining that a person is nervous;
-
-show:
-- their fingers missing the buckle twice;
-- a cup stopping halfway to their mouth;
-- a sentence ending early.
-
-Instead of:
-- explaining that Red looks dangerous;
-
-show:
-- someone taking one step back;
-- a guard's hand moving toward a weapon;
-- conversation going quiet.
-
-Use explanation only when the visual/action cannot carry the meaning clearly.
-
-### Cinematic Description
-
-Description should be selective and concrete.
+Movie-like means the reader can clearly picture the scene while still reading a novel.
 
 Prefer:
-- light;
+**action / sound / visual change → Red's reaction → dialogue → consequence**
+
+Use:
+- clear movement;
+- faces and hands;
+- entrances and exits;
 - distance;
-- movement;
+- objects in motion;
 - weather;
-- sound;
-- faces;
-- hands;
-- clothing in motion;
+- light;
 - blood;
-- dust;
-- smoke;
-- water;
-- doors opening/closing;
-- objects entering or leaving the scene.
-
-Avoid long inventories of scenery.
-
-A location should usually be understood through **what is happening inside it**.
-
-### Scene Entrances
-
-Open scenes as late as practical.
-
-Prefer:
-- somebody already moving;
-- an argument already underway;
-- Red arriving at the important place;
-- a physical image;
-- a problem becoming visible.
-
-Avoid long warm-up explanation before the scene starts.
-
-### Scene Exits
-
-End scenes/chapters on one strong thing:
-- a visual;
-- a decision;
-- a line;
-- a reveal;
-- a quiet reaction;
-- a new problem.
-
-Do not explain the ending again after it lands.
-
-### Action Cutting
-
-During action:
-- use shorter paragraphs;
-- keep cause and effect adjacent;
-- identify who moves first;
-- keep geography clear;
-- avoid explaining strategy in the middle of impact unless Red truly has time to think.
-
-### Quiet Close-Ups
-
-In serious/emotional scenes, the prose may narrow to:
-- breathing;
-- hands;
-- eye contact;
-- a chair not moving;
-- blood on fabric;
-- an unfinished sentence;
-- someone looking away.
-
-Silence is allowed to carry meaning.
-
-### No Fake Cinematic Prose
-
-Do not force:
-- dramatic metaphors every paragraph;
-- “the world slowed” repeatedly;
-- constant slow-motion description;
-- camera terminology such as “cut to,” “close-up,” or “the camera pans”;
-- trailer-style lines;
-- artificial cliffhangers.
-
-The prose must still sound like a natural novel.
-
-## 3. Internal Thoughts
-
-Internal thoughts are **short and selective**.
-
-They may appear as:
-- brief free-indirect narration;
-- a short italicized direct thought;
-- a quick judgment or decision.
-
-Do not let internal monologue dominate the page.
+- silence;
+- short action paragraphs when impact is fast.
 
 Avoid:
-- paragraph-long thought essays;
-- constant self-commentary;
-- repeating information already obvious from action/dialogue;
-- using thoughts as a substitute for scene interaction.
+- screenplay directions;
+- camera terminology;
+- purple prose;
+- technical wording when simple words work;
+- long abstract explanation before something happens.
 
-Red's mind should be present, not constantly talking.
+# 3. Red's Narrative Voice
 
-## 4. Red Jackal Voice
-
-Red's voice must fit his established character:
-- theatrical when he chooses to perform;
+Red's first-person voice is:
 - shameless;
 - playful;
-- lightly arrogant;
-- curious;
-- self-amused;
-- opportunistic;
-- quick to tease;
-- resistant to authority;
-- capable of abrupt, frightening seriousness.
+- theatrical;
+- self-centered;
+- chaotic;
+- observant;
+- casually arrogant;
+- genre-aware;
+- pop-culture-aware;
+- capable of instant seriousness;
+- frequently amused by his own choices.
 
-His **spoken dialogue** carries more of his personality than the narration.
+His narration can sound like he is telling the story while actively living it.
 
-Typical Red dialogue may include:
-- teasing;
-- deadpan replies;
-- deliberate pauses;
-- fake innocence;
-- confident understatement;
-- playful threats;
-- needling competent people;
-- pretending an accident was intentional;
-- acting casual when everyone else expects panic.
+Do not make him emotionally polished.
 
-Do not make every line witty.
+Do not make him a secretly conventional hero.
 
-When Red is serious:
-- jokes drop away;
-- sentences get shorter;
-- he stops performing;
-- he says only what matters.
+Do not write a moral-development arc into his voice.
 
-## 5. Dialogue — Human Conversation
+# 4. Deadpool-Fan Residue Rule
 
-Dialogue must feel like people actually talking.
+Red does not retain a normal complete Earth identity.
 
-Use naturally:
+His old obsession with Deadpool and similar meta-comedic media survived Soul Drift as a deep cognitive-performance groove.
+
+This can influence:
+- timing;
+- irreverence;
+- reader-address instinct;
+- jokes under pain;
+- reference-heavy thinking;
+- willingness to mock the scene itself.
+
+Never copy Deadpool dialogue or reproduce franchise-specific scenes.
+
+Red's jokes and phrasing must be original.
+
+# 5. Fourth-Wall Pause
+
+A **true fourth-wall break** is a real anomaly event.
+
+Whenever Red directly addresses the reader/audience as an external observer:
+
+**Veyran time stops.**
+
+Presentation:
+1. the active scene freezes;
+2. Red notices or simply accepts the pause;
+3. he addresses the audience;
+4. the aside remains concise enough to preserve pacing unless the joke deliberately requires a longer beat;
+5. Red resumes;
+6. the world continues from the same instant.
+
+During the pause:
+- arrows may hang in the air;
+- a sword may stop centimeters from him;
+- a person may remain frozen mid-expression;
+- rain may hang as droplets;
+- explosions may freeze before expanding.
+
+Native characters do not remember the pause.
+
+Reader-talk is real, but the reader is **not** a character who gives Red commands and is not a power source.
+
+Fourth-wall pauses may be frequent because they are a signature device, but do not interrupt every emotional line or every attack.
+
+Use them where Red would naturally comment on:
+- genre logic;
+- absurd danger;
+- villain speeches;
+- his own entrance;
+- obvious tropes;
+- bad plans;
+- the difference between what characters think and what he thinks is funny.
+
+# 6. Dialogue — Human, Movie-Like Conversation
+
+Dialogue should feel performed by people, not generated as exposition.
+
+Use:
 - interruptions;
 - pauses;
-- incomplete answers;
+- incomplete sentences;
+- overlapping intent;
 - teasing;
-- callbacks to earlier lines;
-- misunderstandings;
-- people ignoring a joke;
-- people answering only part of a question;
-- subtext;
-- different speech habits between characters.
-
-Avoid:
-- characters taking turns delivering complete exposition paragraphs;
-- everyone speaking with Red's rhythm;
-- dialogue that exists only to explain lore;
-- constant clever banter;
-- characters stating emotions they would naturally hide.
-
-Let body language, silence, and what is **not** answered carry meaning.
-
-## 6. Comedy
-
-Comedy comes from **character and situation**, not forced jokes.
-
-Good sources:
-- Red's personality colliding with practical people;
-- a serious institution refusing to cooperate with his theatrics;
-- misunderstandings;
-- failed attempts to look cool;
-- inconvenient physical reality;
-- other characters refusing to give him the reaction he wants;
 - callbacks;
-- Red taking something absurdly seriously or something serious too casually.
+- people ignoring Red's joke;
+- people refusing to answer;
+- subtext;
+- silence.
 
-Do not impose a joke quota.
+Different characters must have different rhythms.
 
-Do not make every paragraph funny.
+Red can talk too much during combat because he enjoys the scene.
 
-Do not write setup → punchline prose by default.
+When Red turns serious, his dialogue becomes shorter.
 
-## 7. Serious and Emotional Scenes
+# 7. Comedy
 
-Serious danger, grief, fear, guilt, tenderness, betrayal, or emotional exposure may become **quiet**.
+Comedy is a primary identity of the series but does not need a joke every paragraph.
 
-In those moments:
-- reduce jokes;
-- shorten internal commentary;
-- let silence exist;
-- use concrete physical details;
-- let dialogue become simpler;
-- do not immediately undercut emotion with comedy.
+Main sources:
+- Red treating a deadly enemy like an improv partner;
+- fourth-wall pauses;
+- aura farming;
+- deliberately overdramatic entrances;
+- absurdly specific Play Logic props;
+- enemies misunderstanding what kind of monster he is;
+- competent people refusing to cooperate with his performance;
+- Red interrupting a scene that clearly belonged to somebody else;
+- a native hero arriving after Red already ruined the expected setup;
+- Red making a reference nobody in Veyr can understand;
+- physical comedy that Red can survive but others cannot.
 
-Red may still be Red, but he does not need to protect every vulnerable moment with a joke.
+Serious consequences may remain quiet.
 
-## 8. Paragraph Rhythm
+# 8. No Red Character-Development Arc
 
-Normal prose uses natural multi-sentence paragraphs.
+Red may learn information.
 
-Use one-line paragraphs only for:
-- impact;
-- sudden danger;
-- a sharp realization;
-- an important System output;
-- emotional exposure;
-- a strong quiet beat;
-- a genuinely effective comic beat.
+He may remember fragments.
 
-Do not place every sentence on a separate line.
+He may like or dislike people more.
 
-## 9. Description
+He may choose differently in one situation because of a previous consequence.
 
-Describe what Red notices because it matters to him now.
+But prose must not imply that he is gradually becoming:
+- a better person;
+- a proper hero;
+- less crazy;
+- less theatrical;
+- less self-centered;
+- cured of his need to perform.
 
-Prioritize:
-- movement;
-- threat;
-- useful objects;
-- unusual people;
-- exits;
-- social reactions;
-- details he finds interesting, annoying, suspicious, or amusing.
+The world changes around Red more than Red changes for the world.
 
-Avoid detached travel-guide paragraphs and long decorative description.
+# 9. Overpowered Combat
 
-## 10. Action
+Red is already stronger than the encounter requires.
 
-Action must stay spatially clear.
+Combat suspense must not ask:
+**Can Red become strong enough?**
 
-Track:
-- where people are;
-- what changed;
-- who can see what;
-- injuries;
-- terrain;
-- immediate objectives;
-- consequences.
+Use:
+- What is he pretending?
+- How long will he keep playing?
+- What ridiculous rule did he give himself?
+- Who else is in danger?
+- What does he not know?
+- What happens elsewhere while he is entertained?
+- What consequence has already started?
+- What does the enemy think is happening?
+- What story beat did Red just ruin?
 
-Red is already overwhelmingly powerful.
+Enemy-playing pattern:
+1. Red allows the enemy's identity to establish;
+2. he gives them room to perform;
+3. he answers at their level or with a joke;
+4. he escalates only when amused or required;
+5. serious switch ends the illusion of equality.
 
-Do not manufacture suspense by pretending he needs a new power level.
+Do not turn every fight into an instant one-shot.
 
-Tension comes from:
-- incomplete information;
-- other people being vulnerable;
-- simultaneous problems;
-- timing;
-- collateral;
-- politics;
-- evidence;
-- Red's judgment;
-- Red choosing to play too long.
+Do not pretend the enemy is a raw-power threat if writer truth says they are not.
 
-## 11. Play Logic
+# 10. Play Logic — Cartoon Reality Without a Ceiling
 
-Play Logic reveals personality and intent.
+Play Logic may create whatever Red genuinely imagines strongly enough to impose.
 
-A small effect is not proof of a small ceiling.
+Effects can be:
+- useful;
+- ridiculous;
+- frightening;
+- visually impossible;
+- symbolic;
+- cartoon-like;
+- brutally simple.
 
-Red may deliberately:
-- use less power;
-- imitate a weaker ability;
-- choose a ridiculous object;
-- follow somebody else's plan;
-- let an enemy misunderstand him.
+Small effect ≠ low power.
 
-Larger feats are **reveals**, not upgrades.
+Large effect ≠ upgrade.
 
-## 12. Serious Consequences
+No Stage I/II/III/IV language in current prose.
 
-Red can survive things other people cannot.
+# 11. Regeneration
 
-That does not erase:
-- death;
-- injury;
-- trauma;
-- damaged trust;
-- political consequences;
-- destroyed property;
-- missed timing;
-- mistakes;
-- choices already made.
+Red can regenerate from ordinary lethal trauma.
 
-Overpowered does not mean consequence-free.
+Pain can remain.
 
-## 13. References
+He may exaggerate injury, delay visible recovery, or use the injury as part of the performance.
 
-Pop-culture references, when used, must be:
+Never use healing speed as a conventional progression track.
+
+# 12. Native Story Intrusion
+
+Veyr has real protagonists, villains, and storylines independent of Red.
+
+When Red crosses into one:
+- let the existing characters behave as if their lives were already in motion;
+- do not make them instantly revolve around him;
+- let Red misread the scene;
+- let him steal attention accidentally or deliberately;
+- preserve the native conflict after the gag;
+- reroute consequences instead of deleting the plot.
+
+A recurring pleasure of the series is that Red behaves like the main character of scenes that were not written for him.
+
+# 13. Aura Farming
+
+Aura farming is a deliberate Red behavior.
+
+He may:
+- wait in shadow for no practical reason;
+- say less because silence looks cooler;
+- manufacture an entrance;
+- let rumors grow;
+- wear an outfit for the mood;
+- use an unnecessarily elegant solution;
+- leave before anyone can ask questions;
+- appear to know more than he does.
+
+Sometimes the aura works.
+
+Sometimes practical people ruin it.
+
+Both are valid.
+
+# 14. Serious Mode
+
+When the scene truly becomes serious:
+- jokes may stop;
+- fourth-wall pauses may stop temporarily;
+- Red's sentences shorten;
+- the prose becomes visually clean;
+- his power use becomes simpler;
+- consequences receive room.
+
+Do not immediately undercut every emotional beat.
+
+The contrast makes the comedy stronger when it returns.
+
+# 15. References
+
+Pop-culture references may appear because of Red's damaged Earth-media residue.
+
+Rules:
 - brief;
 - transformed;
-- understandable without source knowledge;
-- occasional;
-- natural to Red.
+- understandable enough without source knowledge;
+- no copyrighted dialogue;
+- no long quotations;
+- no recreated franchise scene;
+- no dependence on the reader recognizing the reference.
 
-Never reproduce substantial copyrighted dialogue, lyrics, scenes, character designs, or franchise lore.
+# 16. Paragraph Rhythm
 
-## 14. Final Prose Test
+Normal narration uses readable multi-sentence paragraphs.
 
-Before canonizing a chapter, ask:
+Use one-line paragraphs for:
+- impact;
+- a visual reveal;
+- a fourth-wall punch;
+- serious silence;
+- sudden danger;
+- a decisive line.
 
-1. Is the POV close third-person limited to Red?
-2. Is the English simple and natural?
-3. Does narration avoid unnecessary literary/technical wording?
-4. Are internal thoughts short and selective?
-5. Does Red sound like Red most strongly through behavior and dialogue?
-6. Does dialogue include natural interruption, pauses, callbacks, incomplete answers, and subtext where appropriate?
-7. Does comedy arise from character/situation rather than joke-writing?
-8. Are serious moments allowed to stay quiet?
-9. Are paragraphs readable and not excessively fragmented?
-10. Can the scene be pictured clearly through concrete action, expression, sound, and movement without excessive explanation?
-11. Do scene openings enter late and scene endings stop after the strongest beat when practical?
-12. Are plot, continuity, mystery timing, and the overpowered revelation model preserved?
+Do not make the entire chapter one-line prose.
 
-If any answer is no, the prose is not ready for Gate 9.
+# 17. Final Prose Test
+
+Before Gate 9, verify:
+
+1. First-person limited remains locked to Red.
+2. English is simple, natural, and cinematic.
+3. Red sounds self-centered, theatrical, chaotic, and original.
+4. Dialogue feels human rather than expositional.
+5. Fourth-wall address freezes Veyran time every time it is genuinely used.
+6. Fourth-wall pauses do not become the reader controlling the story.
+7. Red has no power progression.
+8. Red has no conventional moral-development arc.
+9. Enemy play/holding back is voluntary.
+10. Serious switch is restraint removal, not transformation.
+11. Play Logic can use cartoon-reality freedom without copying copyrighted material.
+12. Regeneration does not erase consequences to other people.
+13. Native storylines still exist independently of Red.
+14. Red's interference reroutes scenes instead of lazily deleting the sequence.
+15. Geography, destination identity, chronology, and locked pacing remain intact.
+
+If any answer is no, the chapter is not ready for Gate 9.

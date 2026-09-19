@@ -287,7 +287,7 @@ He breathed carefully.
 
 “Do not give him my leg.”
 
-He looked at him. He held his eyes.
+Red looked at Kellan and held his gaze.
 
 “Do not make this proof that he was right about everything.”
 
@@ -403,7 +403,7 @@ One council member looked toward Brynn. Another looked toward Maelis. Hesk kept 
 
 “This is not theoretical anymore.”
 
-He pointed toward him.
+Hesk pointed toward Red.
 
 “Uncontrolled individual judgment has already shown us the alternative.”
 

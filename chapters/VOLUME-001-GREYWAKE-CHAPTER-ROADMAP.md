@@ -242,6 +242,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Exploration Purpose:** Humanize outer homesteads and establish why losing them matters.  
 **Character Beat:** Kellan refuses to be impressed by Red Jackal's power if he only uses it where people are already protected.  
 **Red Jackal Development:** Begins forming chosen personal investment despite insisting the work is transactional.  
+**Anti-Villain Expression:** He takes the job for pay, to escape patienthood, and because the protection disparity has started bothering his curiosity. His concern for the homesteads grows after he arrives; the chapter must not pretend he came because of pure altruism.  
 **Supporting Development:** Kellan's anger at Greywake's priorities becomes understandable rather than abstract.  
 **Antagonist Pressure:** Guild policy visibly favors the core road.  
 **Action Progression:** Environmental danger/repair pressure rather than major combat.  
@@ -832,7 +833,7 @@ The required tension is:
 
 Not every chapter needs every element.
 
-# 12. Pacing Controls
+# 10. Pacing Controls
 
 The roadmap intentionally alternates:
 
@@ -857,7 +858,7 @@ The climax runs across **CH-022 to CH-024**, with CH-024 holding the decisive re
 
 The aftermath receives **two chapters**, CH-025 and CH-026.
 
-# 12. Chapter Roadmap Locks
+# 11. Chapter Roadmap Locks
 
 After roadmap QA passes, the following may become locked:
 
@@ -892,7 +893,7 @@ The roadmap does not decide:
 - next destination.
 
 
-# 12. Gate 7 Result
+# 13. Gate 7 Result
 
 **PASS**
 

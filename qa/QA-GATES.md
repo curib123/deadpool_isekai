@@ -268,5 +268,48 @@ Periodically verify:
 - returning places evolve,
 - enough unexplored world and mystery remain for continuation.
 
+# Gate 11 — Publish Version QA
+**Owner:** A124 Publish Version QA Editor with A097 Prose Editor, A091 Red Jackal Voice Writer, A100 Continuity Director, A101 Canon Conflict Detector, A110 Legal/Reference QA, and A130 Canon Librarian.
+
+Gate 11 runs **after canonization** on a reader-facing publication copy derived from the current canon manuscript.
+
+It verifies:
+- the source manuscript is CANON and Gate 9 PASS;
+- chapter number/title match canon;
+- publication text is derived from the latest canon source;
+- story events, dialogue meaning, injuries, power use, mystery clues, knowledge state, and ending are semantically unchanged;
+- repository metadata, QA notes, status lines, word-count lines, and internal file references are removed from the reader-facing copy;
+- paragraph rhythm, dialogue, self-talk, reader-talk, scene breaks, italics/emphasis, punctuation, and mobile readability survive platform conversion;
+- no raw unsupported Markdown/HTML/code-fence artifacts remain;
+- no paragraph, scene, dialogue block, or ending is missing, duplicated, or reordered;
+- no later-chapter spoiler or protected mystery leak enters the release copy;
+- copyright/reference safety remains intact;
+- target-platform formatting is readable after copy/paste.
+
+Allowed publication-only edits are presentation changes only.
+
+If a desired edit changes meaning, characterization, pacing structure, lore, chronology, mystery state, power behavior, dialogue intent, or chapter ending:
+
+**FAIL — RETURN TO MANUSCRIPT / GATE 9 / CANONIZATION.**
+
+A publication artifact may be marked:
+
+**PUBLISH-READY — GATE 11 PASS**
+
+only after all Gate 11 defects are corrected.
+
+Gate 11 does not create or modify canon.
+
+Detailed standard:
+
+`qa/PUBLISH-VERSION-QA-STANDARD.md`
+
 # Canonization Rule
 A chapter/volume becomes CANON only after its required gates pass and A130 Canon Librarian updates the authoritative record.
+
+# Publication Rule
+A CANON chapter is not automatically PUBLISH-READY.
+
+External release requires a derived publication copy and Gate 11 PASS.
+
+The canon manuscript remains the single source of truth.

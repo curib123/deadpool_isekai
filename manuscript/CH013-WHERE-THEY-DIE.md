@@ -1,22 +1,21 @@
 # Chapter 13 — Where They Die
 
-**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED  
+**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
 **Word Count:** 2,798  
-**Chapter QA:** `qa/CH-013-GATE-9-CHAPTER-QA.md`
 
-By the next morning, Greywake had found a room large enough for everyone to disagree in properly. The council map room sat behind the main meeting chamber, with one long table, two wall maps, three narrow windows, and enough shelves to make me suspicious on principle. A charged Wayfarer Tongue Token hung beside the door. The moment I stepped inside, its familiar pressure settled over the voices around me.
+By the next morning, Greywake had found a room large enough for everyone to disagree in properly. The council map room sat behind the main meeting chamber, with one long table, two wall maps, three narrow windows, and enough shelves to make him suspicious on principle. A charged Wayfarer Tongue Token hung beside the door. The moment he stepped inside, its familiar pressure settled over the voices around him.
 
 Maelis had already claimed most of the table. Maps. Route ledgers. Incident summaries. Copies of Guild work orders. Tavian's field notes. Kellan's route sketches. The rubbing Maelis had taken from the Broken North lure plate.
 
 Everything that had been separate for the last several days was now sitting within arm's reach of everything else. That felt dangerous. Brynn stood near the head of the table, arms folded. Kellan had taken the side closest to the outer-route map. Tavian stood opposite him with three small stones marking track clusters.
 
-Hesk was already there. Of course he was. He stood beside one of the council chairs with a sealed packet in front of him, looking exactly as calm as he had when I first agreed to work under his private arrangement.
+Hesk was already there. Of course he was. He stood beside one of the council chairs with a sealed packet in front of him, looking exactly as calm as he had when he first agreed to work under his private arrangement.
 
 That was becoming irritating. Jessa entered last. She carried two ledgers and a stack of tied route packets against her chest. Her eyes moved around the room once.
 
 Maelis. Brynn. Tavian.
 
-Kellan. Me. Then Hesk.
+Kellan. him. Then Hesk.
 
 She stopped for half a second before crossing to the table. Nobody commented on it. Maelis took the ledgers from her carefully.
 
@@ -48,7 +47,7 @@ Brynn spoke before Hesk could answer.
 
 “This room is for review. Not a hearing. Not an arrest. Not a Guild meeting.”
 
-Her gaze moved to me for some reason. I raised both hands.
+Her gaze moved to him for some reason. He raised both hands.
 
 “I haven't done anything.”
 
@@ -58,7 +57,7 @@ A fair request. Maelis pointed to three spaces she had cleared on the table.
 
 “Field evidence. Operational records. Loss records.”
 
-She looked at each of us in turn.
+She looked at each of them in turn.
 
 “We examine them separately first. Then we compare them.”
 
@@ -68,7 +67,7 @@ Kellan leaned against the table.
 
 “Yes.”
 
-I looked at Maelis.
+He looked at Maelis.
 
 “You practiced saying that for me.”
 
@@ -82,7 +81,7 @@ Maelis slid the top sheet toward her.
 
 “What does that entry say?”
 
-I looked at the writing. Still nothing. Jessa read aloud.
+He looked at the writing. Still nothing. Jessa read aloud.
 
 “Two sealed scent reservoirs. Four mana-channel pins. Resin compound. Assigned to north service sector three.”
 
@@ -122,7 +121,7 @@ Jessa pulled a third form.
 
 “South-east timber road.”
 
-Tavian shifted one of his stones across the map. I looked at the three points. Broken North was not one of them.
+Tavian shifted one of his stones across the map. He looked at the three points. Broken North was not one of them.
 
 That mattered.
 
@@ -160,7 +159,7 @@ Jessa nodded.
 
 She did. North service sector. East outer service sector.
 
-Old quarry connector. Timber road. Two entries with only sector marks I did not recognize.
+Old quarry connector. Timber road. Two entries with only sector marks he did not recognize.
 
 Kellan did. He put a finger on the map.
 
@@ -174,7 +173,7 @@ Jessa looked at the mark again.
 
 “North farm spur.”
 
-Kellan's jaw tightened. I knew that expression now. It meant a map had stopped being a map.
+Kellan's jaw tightened. He knew that expression now. It meant a map had stopped being a map.
 
 Maelis separated the pages into dates.
 
@@ -214,7 +213,7 @@ There it was.
 
 Not a confession.
 
-Not a villain speech. Just the same ordinary office that approved rope, bridge crews, road closures, and my first irregular work assignment. Maelis placed the dispatches beside the Broken North rubbing.
+Not a villain speech. Just the same ordinary office that approved rope, bridge crews, road closures, and his first irregular work assignment. Maelis placed the dispatches beside the Broken North rubbing.
 
 “Were these records filed together?”
 
@@ -284,11 +283,11 @@ Tavian's finger traced the track route from CH-009.
 
 “But repeated maintained diversion points are consistent with the broad drift we observed. Predator and prey movement was not simply worsening. It was being pushed.”
 
-Nobody made a joke. I noticed because normally I would have. Maelis opened the loss ledger from the audit.
+Nobody made a joke. He noticed because normally he would have. Maelis opened the loss ledger from the audit.
 
 “Now the dates.”
 
-She placed one column of service dispatches beside another set of pages. I could not read either. She could.
+She placed one column of service dispatches beside another set of pages. He could not read either. She could.
 
 That was becoming increasingly inconvenient for several people in the room.
 
@@ -416,13 +415,13 @@ Her voice stayed level.
 
 Hesk looked around the table. At the maps. At the ledgers.
 
-At Jessa. At me. Then back to Brynn.
+At Jessa. At him. Then back to Brynn.
 
 “Yes.”
 
 Jessa lowered her eyes. Kellan's hand flattened against the table. Maelis did not move.
 
-For some reason, I had expected the moment to feel louder. It did not. Hesk continued.
+For some reason, he had expected the moment to feel louder. It did not. Hesk continued.
 
 “The road is Greywake's supply line. Diversion equipment was deployed to reduce pressure on critical approaches.”
 
@@ -462,7 +461,7 @@ Hesk was quiet for two seconds.
 
 “Yes.”
 
-That changed the room. Not because we had never suspected it. Because suspicion no longer had anywhere to hide.
+That changed the room. Not because they had never suspected it. Because suspicion no longer had anywhere to hide.
 
 Maelis looked at Jessa.
 
@@ -472,11 +471,11 @@ Jessa did not answer. Nobody moved. Hesk said her name.
 
 “Jessa.”
 
-She flinched. I felt something hot rise in my chest.
+She flinched. He felt something hot rise in his chest.
 
 “Don't.”
 
-Every head turned toward me. Hesk's eyes narrowed.
+Every head turned toward him. Hesk's eyes narrowed.
 
 “She works for the Guild.”
 
@@ -486,7 +485,7 @@ Every head turned toward me. Hesk's eyes narrowed.
 
 “No.”
 
-My voice came out quieter than I expected.
+His voice came out quieter than he expected.
 
 “That stopped working yesterday.”
 
@@ -564,7 +563,7 @@ She pointed to him.
 
 “Your acknowledgment of the diversion policy is intent.”
 
-For the first time since I had met her, Maelis looked openly angry. Not loud. Worse.
+For the first time since he had met her, Maelis looked openly angry. Not loud. Worse.
 
 “You knew the road was being protected by moving pressure elsewhere.”
 
@@ -608,29 +607,29 @@ Kellan looked at the outer routes.
 
 “It never was.”
 
-The room went quiet again. I looked at the table. Main road.
+The room went quiet again. He looked at the table. Main road.
 
-Outer roads. Service sectors. Casualty columns I could not read.
+Outer roads. Service sectors. Casualty columns he could not read.
 
 Irregular workers. Incomplete identities. Routes that mattered.
 
 Routes that apparently mattered less. Something about it felt familiar. Not the lures.
 
-The sorting. I remembered Hesk's office. No valid identity.
+The sorting. He remembered Hesk's office. No valid identity.
 
 No standard certification. No normal protections. Private labor under his authority.
 
-Useful because the normal system could not place me. I had liked that. I had chosen it.
+Useful because the normal system could not place him. He had liked that. He had chosen it.
 
 That part mattered.
 
-“I took the work,” I said.
+“I took the work,” he said.
 
-Nobody had asked me. I kept going.
+Nobody had asked him. He kept going.
 
 “I knew the deal was bad.”
 
-Hesk looked at me.
+Hesk looked at him.
 
 “You were told the terms.”
 
@@ -644,7 +643,7 @@ Hesk looked at me.
 
 “Yes.”
 
-Kellan glanced at me, but I kept my eyes on Hesk.
+Kellan glanced at him, but he kept his eyes on Hesk.
 
 “I accepted dangerous work.”
 
@@ -662,13 +661,13 @@ His expression did not change.
 
 “No.”
 
-I leaned forward slightly.
+He leaned forward slightly.
 
 “But you did.”
 
 That finally moved something in his face. Small. Real.
 
-I pointed at the map.
+He pointed at the map.
 
 “You had protected routes.”
 
@@ -680,13 +679,13 @@ Then the irregular-labor records.
 
 “Workers with protections.”
 
-Then myself.
+Then himself.
 
 “And people who were easier to lose.”
 
 Maelis said nothing. Tavian said nothing. Even Kellan stayed quiet.
 
-Hesk looked at me for a long moment.
+Hesk looked at him for a long moment.
 
 “You survived assignments others could not.”
 
@@ -700,13 +699,13 @@ There it was. Not praise. Classification.
 
 “The Guild used available capability where it was needed.”
 
-That sentence should not have surprised me. It did anyway. Because suddenly every conversation with him had the same shape.
+That sentence should not have surprised him. It did anyway. Because suddenly every conversation with him had the same shape.
 
 The road mattered. The work mattered. The supply line mattered.
 
-People mattered according to how they fit around those things. I smiled a little. Not because anything was funny.
+People mattered according to how they fit around those things. He smiled a little. Not because anything was funny.
 
-Habit. Then I stopped.
+Habit. Then he stopped.
 
 “No.”
 
@@ -720,15 +719,15 @@ Hesk's eyes narrowed.
 
 “I chose the work.”
 
-I tapped the map.
+He tapped the map.
 
 “You chose what the work meant.”
 
 Silence.
 
-I looked at Kellan's outer roads. At Jessa's shaking hands. At Brynn's militia markers.
+He looked at Kellan's outer roads. At Jessa's shaking hands. At Brynn's militia markers.
 
-At the casualty records I could not read and the route shapes I now understood too well. Hesk had not pointed at a person and ordered a monster to kill them. That would have been simpler.
+At the casualty records he could not read and the route shapes he now understood too well. Hesk had not pointed at a person and ordered a monster to kill them. That would have been simpler.
 
 He had done something colder. He had decided what had to stay safe. Then he had accepted where the danger went instead.
 

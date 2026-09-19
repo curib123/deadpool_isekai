@@ -1,7 +1,8 @@
 # Chapter 1 — Wrong Forest, Wrong World
 
 **Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
-**Word Count:** 2278,311
+**Word Count:** 2,284
+**Voice QA:** `qa/CH-001-DEADPAN-VOICE-GATE-9-QA.md`
 
 The first thing he noticed was that he was breathing. The last thing he remembered was rain across a windshield, white headlights, and metal folding around him.
 
@@ -13,9 +14,9 @@ No screaming either. No sirens. No paramedic leaning over him and saying somethi
 
 He opened his eyes. Green filled his vision. Not hospital green. Not traffic-light green. Actual leaves layered so thick above him that the sky only appeared in thin patches. Damp air pressed against his skin, and something unfamiliar called somewhere beyond the trees.
 
-He stared upward for a few seconds. “Okay.” his voice worked. That was useful.
+He stared upward for a few seconds. “Okay.” His voice worked. That was useful.
 
-He would have preferred a hospital. At that point he would even have accepted one of those suspiciously clean white rooms where somebody explains that a previous life has ended and hands out compensation.
+He would have preferred a hospital. At that point he would even have accepted one of those suspiciously clean white rooms where somebody explains that your previous life has ended and hands out compensation.
 
 There was no white room. No goddess. No floating screen. No deep mysterious voice saying, Welcome, chosen one.
 
@@ -31,7 +32,7 @@ Nothing broken. No blood. No obvious hole where an important organ had resigned.
 
 No wallet. No keys. No phone. He checked again for the phone.
 
-Still absent. “Of course.” He preferred to remember the next few seconds as calm reflection. In reality, he was working through dead, insane, kidnapped, drugged, or something even less convenient.
+Still absent. “Of course.” For your benefit, he will summarize the next few seconds as calm reflection. Internally, he was working through dead, insane, kidnapped, drugged, or something even less convenient.
 
 He stood. The forest did not applaud, but he straightened anyway. If he was going to wake up alone in an impossible place, he could at least do it with posture. A cold drop of water fell from a leaf and landed directly on the back of his neck.
 
@@ -43,13 +44,13 @@ No tire noise. No aircraft. No power lines. No distant city hum.
 
 He turned slowly and listened. Nothing human answered. That was when the joke stopped being quite as funny. The crash came back in pieces. Rain. Brakes. Light. Impact.
 
-Then this. He rubbed a hand over his face and forced himself to breathe slowly. Dreams did not usually come with cold mud soaking through his knee, and hallucinations probably did not bother rendering this much texture.
+Then this. He rubbed a hand over his face and forced himself to breathe slowly. Dreams did not usually come with cold mud soaking through your knee, and hallucinations probably did not bother rendering this much texture.
 
 He pinched the inside of his arm. “Ow.” So pain still worked. Good to know.
 
 It would have been easy to call it another world. Reincarnation.
 
-Isekai. Whatever the label, he refused to settle on one yet. Saying ridiculous things confidently had a way of making them feel real.
+Isekai. Pick your label. He did not. Saying ridiculous things confidently is how they become your problem.
 
 Instead, he chose a direction where the ground rose slightly and started walking. The plan was simple: do not die, find people, ask questions.
 
@@ -77,9 +78,9 @@ He turned.
 
 Nothing.
 
-A few leaves trembled. He kept walking without running. He could have called it discipline. Mostly, he did not want whatever was behind him to notice how concerned he was.
+A few leaves trembled. He kept walking without running. He would like to say that was discipline. Mostly he did not want whatever was behind him to notice how concerned he was.
 
-There was another rustle, closer this time. His pace increased. They can call it caution.
+There was another rustle, closer this time. His pace increased. they can call it caution.
 
 Then a low shape crossed between two trees ahead of him. He stopped. It was about the size of a large dog, maybe slightly bigger, but too lean through the middle. Its front legs were long. Its shoulders rolled beneath dark coarse fur. Its head sat lower than he liked, narrow muzzle pointed directly at him.
 
@@ -87,7 +88,7 @@ He did not know what it was. It knew exactly what he was.
 
 Lunch.
 
-“Listen,” he told it. “he am having a very complicated day.” The animal stared. He lifted his chin anyway.
+“Listen,” he told it. “I am having a very complicated day.” The animal stared. He lifted his chin anyway.
 
 It was meant to suggest experience. His actual record was mostly mosquitoes. The animal bared its teeth.
 
@@ -117,7 +118,7 @@ Four ragged cuts ran from below his elbow toward his wrist. Not deep enough to e
 
 The animal came around again. That was when the fear arrived properly. There was nothing funny about it.
 
-No performance now. He was alone, unarmed, bleeding, and something with teeth had already learned that he was not very good at this. He got up badly and backed toward the remains of the roadside wall. The animal lowered itself, watching.
+No private performance for him. He was alone, unarmed, bleeding, and something with teeth had already learned that he was not very good at this. He got up badly and backed toward the remains of the roadside wall. The animal lowered itself, watching.
 
 No weapon. No room. He looked for a rock. Nothing big enough.
 
@@ -125,7 +126,7 @@ A board. A pole. A shield.
 
 Anything.
 
-The animal sprang. He threw his injured arm up and had one stupid, desperate thought. *Something between them.*
+The animal sprang. He threw his injured arm up and had one stupid, desperate thought. He need something between them.
 
 Something appeared.
 
@@ -147,7 +148,7 @@ He did not believe that either. The animal hesitated, apparently decided he had 
 
 Ten. Long enough for the forest to settle again. The object in his hands sagged like melting wax without the heat, thinned into nothing, and left him gripping empty air. He stared at his hands.
 
-Then at the space where it had been. Then back at his hands. “No.” he looked around for it.
+Then at the space where it had been. Then back at his hands. “No.” He looked around for it.
 
 Gone. He pictured the slab again.
 
@@ -165,7 +166,7 @@ The wound kept changing. Slowly. Painfully.
 
 Impossible.
 
-“Nope.” he looked away. Then back. Still happening.
+“Nope.” He looked away. Then back. Still happening.
 
 He pressed two fingers beside the cut. Bad idea. Pain shot up his arm. So the healing, if that was what this was, was not especially gentle.
 
@@ -175,9 +176,9 @@ Or almost dying. Details pending. He woke up in a forest that did not belong any
 
 Then it disappeared. Now his arm was repairing itself while hurting enough to make the process difficult to ignore. None of this was normal.
 
-He laughed once. It came out weaker than he wanted. He opened his eyes and stared into the trees. For the first time since waking, he did not feel like performing at all.
+He laughed once. It came out weaker than he wanted. He opened his eyes and stared into the trees. For the first time since waking, he did not feel like performing.
 
-He was scared. That was the truth of it. He stayed there for a few seconds, then stood because remaining beside the road was not going to improve anything. His arm still hurt. The cuts had not vanished, but they looked hours or days older than they should have. His body felt heavy too, like the strange healing had taken something out of him.
+Not for himself. Not even for you. He was scared. That was the truth of it. He stayed there for a few seconds, then stood because remaining beside the road was not going to improve anything. His arm still hurt. The cuts had not vanished, but they looked hours or days older than they should have. His body felt heavy too, like the strange healing had taken something out of him.
 
 He followed the old road more carefully after that. No heroic marching. No dramatic declarations. He listened before every blind turn and gave thick brush considerably more respect than he had fifteen minutes earlier.
 

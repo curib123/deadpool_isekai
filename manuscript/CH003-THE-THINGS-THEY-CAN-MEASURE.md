@@ -1,20 +1,28 @@
 # Chapter 3 — The Things They Can Measure
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** CINEMATIC STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 2,426  
 **Chapter QA:** `qa/CH-003-GATE-9-CHAPTER-QA.md`
 
-By early afternoon, he had learned two useful things about Greywake. First, the settlement had food. Second, having no recognized identity made acquiring that food more complicated than it needed to be.
+By early afternoon, the wooden entrant token had become the most official thing Red owned.
 
-He still had no money, which did not help. The Unverified Entrant Token hung from its cord inside his coat, a small piece of stamped wood proving that the local authorities had looked at him, failed to decide what he was, and allowed him inside anyway. Not exactly citizenship. Still better than sleeping outside the wall.
+It hung inside his coat while he crossed Greywake's records district beneath covered timber walkways. Rain tapped the roofs. Clerks moved between offices with bundles of paper tucked under their arms.
 
-He returned to the records district when the gate clerk had told him to. The buildings here were plain timber structures connected by covered walkways, probably because Greywake's weather seemed committed to keeping everything damp.
+He still had no money.
 
-The Ledger room was on the second floor of a narrow office beside a guild records building. Maelis Orra was already there, which did not surprise him. She had arranged several objects across a long table in neat rows, and a brass token hung from a stand near the center, faintly warm with the same pressure he had felt at the gate.
+Apparently being allowed inside and being able to afford lunch were separate achievements.
 
-The Wayfarer Tongue Token. Good. He still could not understand the local language without it.
+Maelis Orra waited on the second floor of a narrow Ledger office.
 
-A Greywake clerk sat at the far end of the table with a stack of forms. He was not the same clerk from the gate, which meant his administrative problem had already expanded to new people.
+A row of instruments covered the table between them. Metal plates. A pale bead in a clip. A clear prism. A familiar identity slate.
+
+A Wayfarer Tongue Token hung from a stand near the center.
+
+Good. At least the interrogation would be understandable.
+
+A different clerk sat at the far end with fresh forms.
+
+His problem had already spread to new staff.
 
 Maelis looked up as he entered. “You came back.”
 
@@ -142,13 +150,17 @@ The clerk looked up. Maelis did not.
 
 “No.”
 
-That earned a pause. Nothing dramatic. Just enough to tell him she had noticed.
+The clerk's pen stopped.
 
-Maelis placed the transparent grid beside the longest mark without touching it. “Current visible state only.”
+Maelis's eyes stayed on the wound.
 
-The clerk wrote it down.
+Then she placed the transparent grid beside the longest mark without touching him. “Current visible state only.”
 
-No questions about healing speed. No healer. No spell. He preferred it that way.
+The pen started again.
+
+No question about healing speed.
+
+Red did not volunteer one.
 
 Maelis lowered his sleeve. “This records what is visible now. It does not establish how it reached this state.”
 
@@ -254,9 +266,11 @@ He looked at his hand. It looked normal.
 
 “Your body physically affects the standardized mana pulse.”
 
-He waited for the rest.
+Red waited.
 
-There was no rest.
+Maelis closed her mouth.
+
+Apparently that was the whole answer.
 
 “So I have magic.”
 
@@ -350,15 +364,19 @@ She paused at the final field.
 
 Same result.
 
-The room was quiet.
+The room went quiet.
 
-This time there was nothing mysterious about it.
+The prism had reacted to him.
 
-The gate device had failed. The second slate had failed. Now a working slate, checked against someone else immediately beforehand, had failed again.
+The balance plate had measured him.
 
-Meanwhile, the other instruments had no difficulty confirming that he weighed something, produced heat, wore clothes, carried an object, had an injury, and interacted with mana.
+The thermal bead had read him.
 
-His body was apparently easy.
+The slate still showed nothing.
+
+Red lowered his hand.
+
+His body was easy.
 
 His identity was the problem.
 
@@ -430,13 +448,13 @@ A knock came at the door.
 
 The clerk opened it. A young woman stood outside carrying a bundle of folded forms against her chest. She looked about his age, maybe a little younger, with the tired expression of someone who spent most of her day correcting other people's paperwork.
 
-She noticed Maelis first, then the clerk, then him. Her eyes stopped on the wooden token hanging from his coat.
+She noticed Maelis first, then the clerk.
 
-Recognition.
+Then her eyes dropped to the wooden token at Red's coat.
 
-Not of him.
+A small pause.
 
-Of the problem.
+She knew the problem before she knew him.
 
 “Jessa Vale,” Maelis said. “Road Guild records.”
 
@@ -508,15 +526,15 @@ Still, he needed money. Food remained stubbornly attached to that problem.
 
 He folded the unreadable paper once and slipped it inside his coat beside the Unverified Entrant Token.
 
-One document said he could not be processed normally.
+One document said Greywake could not process him normally.
 
-The other existed because of that exact problem.
+The other existed because someone had already found a way around that.
 
-Greywake was becoming easier to understand.
+Red folded it once.
 
-Not simpler.
+Greywake was starting to make sense.
 
-Just easier.
+That was not the same as becoming simple.
 
 Maelis reopened her notebook. “Your follow-up is complete for now.”
 
@@ -540,8 +558,8 @@ She nodded.
 
 That was enough.
 
-He left the Ledger room with no class, no level, no registered identity, and slightly better confirmation that he was not imaginary.
+Red left the Ledger room with no class, no level, no registered identity, and a private job offer in his coat.
 
-It was not the answer he wanted.
+Behind him, Maelis's pen started moving again.
 
-But it was measurable.
+At least one thing about him was measurable.

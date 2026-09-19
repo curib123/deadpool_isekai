@@ -1,11 +1,17 @@
 # Chapter 9 — Wrong Tracks
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** CINEMATIC STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 3,500  
 **Chapter QA:** `qa/CH-009-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-009-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
-Tavian found him the next morning before he found breakfast. This was already a point against him. He had just stepped out from the room he was temporarily using when he appeared at the end of the lane with his polearm over one shoulder and a small field pack at his side. A round metal token hung from one strap. Wayfarer Tongue Token. Charged. That meant he planned to take him somewhere far enough from carts, clerks, and other convenient translation devices that conversation would otherwise become mostly pointing. He looked at the pack.
+Red stepped out of his rented room and found Tavian waiting at the end of the lane.
+
+Polearm over one shoulder. Field pack at his side. A charged Wayfarer Tongue Token hung from one strap.
+
+No breakfast in sight.
+
+Red looked at the pack.
 
 “No.”
 
@@ -131,13 +137,17 @@ Tavian rolled the map halfway closed.
 
 “No.”
 
-He looked at him. He looked back. This was why talking to Tavian could be exhausting. He kept refusing to become less correct for the sake of momentum.
+Red stared at him.
+
+Tavian stared back.
+
+The man refused to become less correct just to make conversation easier.
 
 “What can you tell me?”
 
 “That I want to look.”
 
-That was finally a sentence he understood. He tapped the map once. “This is a Warden route check. You're here because you were at two of the overlap points. I want what you remember from the ground, not what somebody copied into a report.”
+Finally. He tapped the map once. “This is a Warden route check. You're here because you were at two of the overlap points. I want what you remember from the ground, not what somebody copied into a report.”
 
 “So I'm evidence.”
 
@@ -215,7 +225,19 @@ He looked at him.
 
 “I hate that you keep earning it.”
 
-They followed the crossing north for another quarter hour. Tavian stopped often. He stopped when he stopped. That was progress. Sometimes he showed him something useful. Broken stems at knee height. Hair caught on bark. A place where several animals had pushed through the same narrow gap even though open ground lay twenty paces west. Sometimes he stared at dirt long enough that he assumed he had discovered the meaning of existence. Usually he had discovered a track was older than another track. Annoyingly, those small differences kept adding up. The official route map expected most seasonal movement to cross farther west, where water and grazing ground opened between the trees. The physical sign kept bending north-east. Not every track. Enough. Predator and prey. That was the part he did not like.
+They followed the crossing north.
+
+Tavian stopped at broken stems. Hair caught on bark. Mud pressed deep where several animals had forced themselves through one narrow gap even though open ground lay twenty paces west.
+
+Red stopped when he stopped.
+
+Progress.
+
+The small signs kept pointing the same way.
+
+North-east.
+
+Prey and predator alike.
 
 “Wouldn't prey avoid a route predators are using?”
 
@@ -265,7 +287,19 @@ He looked at him.
 
 “Which side they take.”
 
-The crossing split around a cluster of exposed roots. West was open, leading toward the easier ground Tavian had shown him. North-east narrowed between brush and the old trail. The animals approached. He watched. Nothing happened. They sniffed. One took two steps. Stopped. Another looked back. Tracking, it turned out, included an unreasonable amount of waiting. He shifted his weight. Tavian's eyes moved to him. He stopped. One animal stepped toward the northern gap. The second followed. The third remained behind. He looked west. Wide path. Clear ground. No obvious danger. Then north again. Narrow. Brush. Old route. Something had been bothering him since the mud crossing. If they wanted north badly enough, would they still choose it when something made north unpleasant? That was a useful question. Unfortunately, Tavian wanted the answer slowly. He leaned closer.
+The crossing split around a cluster of exposed roots. West was open, leading toward the easier ground Tavian had shown him. North-east narrowed between brush and the old trail. The animals approached. He watched. Nothing happened. They sniffed. One took two steps. Stopped. Another looked back. The animals sniffed the ground.
+
+One stepped toward the northern gap.
+
+A second followed.
+
+The third stayed back.
+
+Red looked west. Open ground.
+
+Then north. Brush. Narrow trail.
+
+The question came quickly: if north became unpleasant, would they still choose it?
 
 “What if we pressure the north side?”
 
@@ -283,11 +317,25 @@ The crossing split around a cluster of exposed roots. West was open, leading tow
 
 “It isn't.”
 
-The first grazer took another step north-east. He watched its ears. The idea sat there. Small. Obvious. Move into sight on the north side. Give them a reason to choose west. If they still tried north, the preference meant more. At least to him. Tavian was right that it would contaminate the observation. He knew that. He also wanted to know. That part won. He shifted sideways around the fallen trunk before he could stop him. Not far. Just enough to enter the open edge of the north-east gap. The nearest grazer saw him immediately. Its head snapped up. The others froze. Tavian whispered something behind him that did not need translation. He took one more step. The animals exploded. There was no graceful decision. No measured route preference. All three bolted at once. One broke west. The second slammed through the northern brush. The third followed it, changed direction, nearly collided with the first, then cut north again. Branches snapped. Leaves burst upward. For half a second he felt vindicated. Then Tavian stood.
+The first grazer took another step north-east.
+
+Red knew Tavian was right.
+
+He also wanted the answer now.
+
+That part won.
+
+He slipped around the fallen trunk and stepped into the northern gap. The nearest grazer saw him immediately. Its head snapped up. The others froze. Tavian whispered something behind him that did not need translation. He took one more step. The animals exploded. There was no graceful decision. No measured route preference. All three bolted at once. One broke west. The second slammed through the northern brush. The third followed it, changed direction, nearly collided with the first, then cut north again. Branches snapped. Leaves burst upward. For half a second he felt vindicated. Then Tavian stood.
 
 “Back.”
 
-He heard the change in his voice. Not anger. Danger. Something moved in the brush beyond the fleeing grazers. Low. Fast. Another shape cut left. Then another. The same broad kind of predator they had fought near the service road. Heavy chest. Long forelimbs. Jaw built for holding. They had been close enough to react to the sudden run. Maybe already stalking. Maybe displaced through the same corridor. He had just rung the dinner bell. That seemed worth admitting internally. Tavian moved past him.
+He heard the change in his voice. Not anger. Danger. Something moved in the brush beyond the fleeing grazers. Low. Fast. Another shape cut left. Then another. The same broad kind of predator they had fought near the service road. Heavy chest. Long forelimbs. Jaw built for holding. They had been close enough to react to the sudden run.
+
+Maybe stalking. Maybe just passing through.
+
+Either way, Red had rung the dinner bell.
+
+Tavian moved past him.
 
 “Tree line. Left side.”
 
@@ -345,7 +393,17 @@ He shifted the polearm and struck the ground in front of it. The sound snapped t
 
 “Done.”
 
-He dismissed it. The obstruction broke into pale fragments because apparently even disappearing had become theatrical. The fourth predator pushed through the empty gap. Tavian had already moved. He slammed the polearm shaft across its chest and redirected it into the open west side. The pack scattered enough to lose the encirclement. That changed everything. The predators were dangerous. They were not suicidal. One backed into the brush. Another followed. The one he had kicked watched him for a second, ears flat, then retreated after the others. The last animal stayed near the old trail until Tavian took two deliberate steps toward it. Then it vanished north. Silence returned badly. Leaves settled. His manifestation was gone. The grazers were long gone. The observation was ruined. Tavian stood with his polearm lowered but ready. He waited. He looked at him. He knew that look. Sela had a medical version. Kellan had an engineering version. Apparently competence came with a shared expression for him.
+He dismissed it. The obstruction broke into pale fragments because apparently even disappearing had become theatrical. The fourth predator pushed through the empty gap. Tavian had already moved. He slammed the polearm shaft across its chest and redirected it into the open west side. The pack scattered enough to lose the encirclement. That changed everything. The predators were dangerous. They were not suicidal. One backed into the brush. Another followed. The one he had kicked watched him for a second, ears flat, then retreated after the others. The last animal stayed near the old trail until Tavian took two deliberate steps toward it. Then it vanished north. The pack disappeared into the brush.
+
+Leaves settled.
+
+The grazers were gone. So was the clean observation.
+
+Tavian lowered his polearm and looked at Red.
+
+Red knew that look.
+
+Sela had a medical version. Kellan had an engineering version.
 
 “I wanted to see what they would do,” he said.
 
@@ -421,7 +479,13 @@ He looked up. That paused him.
 
 “Yes.”
 
-He had not redeemed himself. He had at least located the next obvious step. They moved away from the crossing. Tavian did not speak for several minutes. He let him. That may have been the most responsible thing he did all morning. His side had begun to ache again from the morning's walking and the injury he was still pretending not to respect. He kept his pace even. Tavian noticed anyway.
+They left the ruined crossing behind.
+
+Tavian said nothing for several minutes.
+
+Red let him.
+
+That might have been his most responsible decision all morning. His side had begun to ache again from the morning's walking and the injury he was still pretending not to respect. He kept his pace even. Tavian noticed anyway.
 
 “Can you still walk?”
 
@@ -543,7 +607,17 @@ He smiled.
 
 “Preferably.”
 
-He looked back at the tracks. His experiment had felt faster. It had also nearly put teeth into both of them and made the live observation useless. Tavian's slow method had survived him. Annoying. Useful. He unrolled the map again on a flat stone and held one edge with his glove. He could not read the labels, but he understood the roads now. Main Caravan Road to the south-west. Outer routes farther west. Old northern connector here. He drew a short temporary line in charcoal beside the existing marks. Then another. Then another. Each represented field sign from different places. All leaned away from the profitable road. All pointed toward the older northern paths. He stared at the pattern.
+Red looked back at the tracks.
+
+His experiment had been faster.
+
+It had also nearly put teeth into both of them and ruined the observation.
+
+Tavian's slower method had survived him.
+
+Annoying.
+
+Useful. He unrolled the map again on a flat stone and held one edge with his glove. He could not read the labels, but he understood the roads now. Main Caravan Road to the south-west. Outer routes farther west. Old northern connector here. He drew a short temporary line in charcoal beside the existing marks. Then another. Then another. Each represented field sign from different places. All leaned away from the profitable road. All pointed toward the older northern paths. He stared at the pattern.
 
 “So the road is safe because the animals aren't using it.”
 
@@ -571,6 +645,14 @@ That surprised him. Tavian rolled the map closed.
 
 “I am not certain.”
 
-There it was. The difference. Suspicion was allowed. Certainty had to be earned. He looked north again. The forest gave nothing back. No hidden machine. No villain waiting behind a tree. No convenient answer. Just old tracks pressed into wet ground by animals that had been choosing the same wrong direction before he arrived, before he frightened anything, before today's pack moved. Whatever was affecting them, it had been happening already. And every clean set of tracks they found pointed away from the Main Caravan Road.
+There it was. The difference. Suspicion was allowed. Certainty had to be earned. Red looked north.
+
+The old trail vanished into wet trees.
+
+No machine. No waiting enemy. No convenient answer.
+
+Only layers of tracks made before he arrived.
+
+All bending away from the Main Caravan Road.
 
 North.

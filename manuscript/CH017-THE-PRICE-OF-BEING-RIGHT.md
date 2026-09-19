@@ -1,7 +1,8 @@
 # Chapter 17 — The Price of Being Right
 
-**Status:** DRAFT — GATE 9 NOT YET RUN  
-**Word Count:** 3,042
+**Status:** CANON — GATE 9 PASS / SERIOUS MODE LOCKED  
+**Word Count:** 3,042  
+**Chapter QA:** `qa/CH-017-GATE-9-CHAPTER-QA.md`
 
 Sela did not look at me when we carried Kellan in. She looked at the stretcher.
 

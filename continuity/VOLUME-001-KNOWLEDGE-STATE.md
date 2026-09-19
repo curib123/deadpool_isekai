@@ -835,19 +835,20 @@ Do not reveal:
 
 ## Power Boundary
 
-CH-005 remains Stage I.
+CH-005 does not create a power stage or raw-capacity progression.
 
-Allowed:
-- one poor intentional hammer;
-- one successful oversized/unstable hammer;
-- fatigue afterward.
+Observed chapter expressions:
+- one intentionally produced but poorly framed hammer;
+- one intentionally produced, oversized, task-aligned hammer;
+- ordinary physical soreness from swinging the oversized object.
 
-Not allowed:
-- reliable repeated spawning;
-- permanent objects;
-- high-mastery rule bending;
-- System Skill recognition;
-- complete understanding of the ability.
+Interpretation lock:
+- the first poor result is a framing/display result, not evidence of weak power;
+- the second result is not a power-up;
+- no finite manifestation budget or magical stamina cost is established;
+- no third manifestation occurs because Red chooses not to continue public experimentation;
+- no System Skill recognition occurs;
+- Red still lacks a complete explanation of the ability.
 
 
 
@@ -863,18 +864,18 @@ After CH-005, Red Jackal canonically knows:
 - intentional manifestation is possible;
 - a vague category such as “hammer” can produce a technically valid but functionally poor result;
 - changing the mental framing to a clear purpose can materially change the manifestation;
-- a clear functional idea can produce a stronger, more useful result than vague wishing;
+- in this observed case, a clear functional role produces a materially different, more useful expression than a vague category;
 - his manifestation does not resemble ordinary prepared Guild/Valedorn sigilcraft;
-- the effect remains unstable and temporary;
-- manifestation use can cause mental and physical fatigue;
+- both observed hammer expressions are temporary in this scene without proving a universal duration ceiling;
+- swinging the oversized second hammer causes ordinary physical soreness, not a magical resource drain;
 - the power still does not produce a System Skill/Class/Level/MP result;
 - he still does not know the true mechanism, origin, or correct technical name for the ability.
 
 His current working observation is:
 
-**clear purpose works better than vague wishing.**
+**clear functional framing changed the manifestation more usefully than a vague category in this observed case.**
 
-This is not a complete theory and does not grant reliable control.
+This is not a complete theory, a power stage, a mastery unlock, or evidence of increased raw capacity.
 
 Red Jackal still does **not** know:
 
@@ -928,7 +929,7 @@ No healing/regeneration clue was advanced in CH-005.
 CH-006 may begin with:
 - Red Jackal having completed and been paid for his first private Road Guild job;
 - his new working power observation available to him;
-- Stage I limits still active;
+- no new raw-power stage or capacity limit established;
 - no regeneration clue from CH-005;
 - no conspiracy knowledge;
 - Tavian Rook's independent road/migration work still separate from Red Jackal until prose brings them together.
@@ -950,7 +951,7 @@ He knows:
 - the Main Caravan Road is heavily maintained;
 - intentional manifestation is possible;
 - clear purpose worked better than vague wishing in CH-005;
-- manifestation remains unstable, temporary, and tiring;
+- the CH-005 hammer expressions were temporary; the oversized hammer caused ordinary physical strain while swung;
 - his effect does not resemble ordinary prepared Guild sigilcraft;
 - he still cannot read Veyran writing;
 - he does not know why local animal movement is changing.

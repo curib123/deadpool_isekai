@@ -1378,3 +1378,156 @@ CH-008 may begin with:
 - the Outer Homestead work assignment beginning beyond the protected main-route system.
 
 Residual exhaustion must limit how casually Red Jackal uses Play Logic in CH-008.
+
+
+
+# CH-008 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-008 — Outside the Lanterns  
+**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+
+## Red Jackal — Opening CH-008
+
+Red Jackal begins CH-008 with the CH-007 canon checkpoint.
+
+He knows:
+- his regeneration is medically abnormal;
+- he remains sore and physically depleted after CH-007;
+- using Play Logic while badly hurt worsened his exhaustion;
+- his own survivability cannot be used as the only risk standard around ordinary people;
+- the Main Caravan Road is heavily protected;
+- outer/service routes receive less attention;
+- animal movement near Greywake is abnormal;
+- he still does not know the cause.
+
+He does not know:
+- the march-lure network exists;
+- Hesk is deliberately redirecting migration;
+- casualty records are falsified;
+- outer communities are being deliberately designated as acceptable loss;
+- why regeneration works;
+- why Play Logic exists;
+- Fate/Great Design truth.
+
+## Allowed CH-008 Discoveries — Red Jackal
+
+By the end of an approved CH-008 manuscript, Red Jackal may know:
+- the Outer Homesteads are a lived network of farms, workshops, storage sites, minor roads, and work compounds;
+- Kellan Dorr is a practical engineer and informal speaker for several outer communities;
+- outer residents maintain roads/bridges locally because official support often arrives late or incompletely;
+- the protected road-lantern/maintenance line ends before the outer community network ends;
+- the outer road receives weaker patrol/maintenance coverage than the Main Caravan Road;
+- local residents have updated monster-warning information themselves;
+- the current local warning pictogram/tag does not match the official Guild warning information he was given;
+- Kellan interprets this as neglect, stale information, and trade-first priorities;
+- one temporary Stage I support can help only when used inside a sound engineering plan.
+
+Red Jackal may begin feeling personally invested in the outer communities.
+
+He may not conclude:
+- deliberate monster redirection;
+- march-lure use;
+- Hesk's guilt;
+- casualty-report fraud;
+- protected series truth.
+
+## Kellan Dorr — Opening CH-008
+
+Kellan begins CH-008 knowing:
+- outer bridges/roads are repeatedly kept usable through local labor;
+- official materials and maintenance support arrive inconsistently;
+- patrol/warning attention is thinner outside the protected main network;
+- recent predator/movement warnings have reached local residents faster than official updates.
+
+Kellan suspects:
+- neglect;
+- central-settlement self-interest;
+- trade-first priorities;
+- bureaucratic indifference.
+
+Kellan does not know:
+- march-lures exist;
+- Hesk is intentionally manipulating migration;
+- casualty records are falsified;
+- Red Jackal's anomaly origin;
+- Play Logic mechanics;
+- regeneration mechanics;
+- Fate/Great Design truth.
+
+## Allowed CH-008 Discoveries — Kellan
+
+Kellan may learn:
+- Red Jackal is still recovering from a serious recent injury;
+- Red Jackal can produce one temporary material/support effect by an unusual method;
+- the effect is useful only if placed correctly and treated as temporary;
+- Red Jackal will work outside the protected main route rather than only where Guild protection is strongest.
+
+Kellan may respect that Red Jackal showed up and worked.
+
+He does not need to become personally impressed by the anomaly itself.
+
+## Outer-Homestead Workers — CH-008 Boundary
+
+Workers know:
+- Kellan's repair plan;
+- local road/bridge conditions;
+- current local warning signs;
+- official support is slower/weaker than they would like.
+
+They may know Red Jackal only as unusual irregular labor.
+
+They may not:
+- explain the lure scheme;
+- know Hesk's hidden policy;
+- become exposition devices for future investigation.
+
+## F-ID Boundary
+
+CH-008 introduces **no new F-ID**.
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+## Play Logic Boundary
+
+Maximum CH-008 use:
+
+**one Stage I terrain/bridge-assist manifestation attempt and one success total.**
+
+No retry.
+
+No new rule.
+
+## Regeneration / M-005 Boundary
+
+No new clue.
+
+Residual soreness/exhaustion only.
+
+## M-007 Boundary
+
+M-007 remains inactive.
+
+No Fate/prophecy/destiny/causal-wake material.
+
+## Conspiracy Boundary
+
+No:
+- march-lure evidence;
+- Hesk accusation;
+- falsified casualty-record clue;
+- deliberate-redirection proof.
+
+The warning-marker mismatch establishes stale/incomplete official information only.
+
+## CH-009 Boundary
+
+CH-008 may end with Red Jackal recognizing the warning mismatch.
+
+Do not begin:
+- Tavian's formal route-check request;
+- field comparison against Guild migration maps;
+- deliberate/artificial-influence hypothesis;
+- Broken North investigation.

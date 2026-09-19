@@ -1,7 +1,8 @@
 # Chapter 23 — Greywake Holds
 
-**Status:** RETCON + CLIMAX REBUILT — GATE 9 REVALIDATION PENDING  
+**Status:** CANON — OVERPOWERED RETCON GATE 9 PASS  
 **Word Count:** 2670
+**Retcon QA:** `qa/CH-023-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
 The largest territorial predator in the migration had arrived.
 

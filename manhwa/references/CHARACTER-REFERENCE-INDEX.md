@@ -2,9 +2,9 @@
 
 | Character | Reference ID | Type | Status | Source/Path | Notes |
 |---|---|---|---|---|---|
-| Red Jackal | RJ-REF-001 | primary neutral model sheet | PENDING — REVISION REQUIRED | `manhwa/references/assets/characters/red-jackal/RJ-REF-001-primary-neutral-model-sheet-candidate.jpg` | R2 required: flip secondary belt to character-right waist → character-left hip; soften close-up smirk; replace/verify complete repo binary |
+| Red Jackal | RJ-REF-001 | primary neutral model sheet | **APPROVED** | `manhwa/references/assets/characters/red-jackal/RJ-REF-001-R2-verified.svg` | R2 passed visual-lock review; primary identity anchor |
 | Red Jackal | RJ-REF-002 | full turnaround | PENDING | not generated | front/profile/back/3/4 consistency |
-| Red Jackal | RJ-REF-003 | face reference sheet | PENDING | not generated | neutral + multi-angle facial identity |
+| Red Jackal | RJ-REF-003 | face reference sheet | PENDING | not generated | **NEXT PRODUCTION GATE** — neutral + multi-angle facial identity |
 | Red Jackal | RJ-REF-004 | expression sheet | PENDING | not generated | E01–E13 |
 | Red Jackal | RJ-REF-005A | ARRIVAL-001 costume sheet | PENDING | not generated | CH001 costume anchor |
 | Red Jackal | RJ-REF-005B | SIGNATURE-001 costume sheet | PENDING | not generated | design-ready; story use unassigned |

@@ -1,4 +1,4 @@
-Chapter 5 — A Better Hammer
+# Chapter 5 — A Better Hammer
 
 First light was a cruel phrase. It suggested something quiet and poetic. What it actually meant was standing in the Road Guild caravan yard before I had found a reliable source of breakfast. I arrived with the wooden entrant token under my coat, the bridge-marked assignment card in one pocket, and the remaining advance in another. The sky was still grey above Greywake, and the yard was already awake.
 
@@ -262,7 +262,7 @@ Dark material formed along the surface in uneven planes, more solid than the fir
 
 The guard beside the road looked over. Again, no sigil. No spell. No preparation. Just me holding something that had not existed a second earlier.
 
-I did not have time to think about what that meant. The hammer was already starting to feel unstable. I stepped toward the pin. The foreman looked at the hammer, then the brace, then me.
+I did not have time to think about what that meant. The hammer had started to distort at the edges, not from strain so much as from the fact that I had imagined the result more clearly than the proportions. I stepped toward the pin. The foreman looked at the hammer, then the brace, then me.
 
 “Can you control it?”
 
@@ -276,7 +276,7 @@ He pointed to the workers.
 
 They braced. I raised the hammer. Bad idea. My shoulders immediately objected. The thing was much heavier than I had intended.
 
-Clear function, apparently. Reasonable proportions were optional. I adjusted my grip. The head trembled slightly. Focus.
+Clear function, apparently. Reasonable proportions were optional. I adjusted my grip. The head gave one small, ridiculous wobble because I had asked for impact and left aesthetics to whatever part of reality had a sense of humor.
 
 One strike. Drive the pin. That was the purpose. I swung. The hammer came down.
 
@@ -286,9 +286,9 @@ The impact cracked through the worksite. The iron pin drove through the swollen 
 
 The crew reacted immediately. Two workers secured the brace. Another locked the outer plate. The enchanted clamp flared blue. The structure settled.
 
-My arms felt like they had been replaced with rope. The hammer was still there. Barely. One of the predators came too close around the wagon. The nearest guard was occupied with another.
+My arms felt like they had been replaced with rope. The hammer was still there because I had not dismissed it yet. One of the predators came too close around the wagon. The nearest guard was occupied with another.
 
-I turned. The animal lowered itself. I did not have enough control left for anything clever. Fortunately, I was holding a hammer the size of a bad decision. I shifted the shaft sideways and let the head drop between the animal and the workers.
+I turned. The animal lowered itself. I could have invented something else. I did not need to. I was already holding a hammer the size of a bad decision. I shifted the shaft sideways and let the head drop between the animal and the workers.
 
 The creature checked its charge.
 
@@ -296,11 +296,11 @@ Good.
 
 I shoved the hammer forward. The head clipped the ground, kicked up mud, and forced the animal back. Not elegant. Effective enough. The guard moved in and drove it away with the spear.
 
-The rest of the small pack followed once they realized breakfast had developed organization. Nobody chased them. The guards held position until the brush went still. I looked down at the hammer. Cracks were moving across the dark surface.
+The rest of the small pack followed once they realized breakfast had developed organization. Nobody chased them. The guards held position until the brush went still. I looked down at the hammer. The edges had started to lose definition now that I no longer cared what happened to it.
 
-That seemed bad. I let go. The handle softened before it hit the ground. The head sagged. Then the whole thing collapsed into nothing.
+That was useful information. I let go of the idea as much as the handle. The shaft softened before it hit the ground, the head sagged, and the whole thing disappeared.
 
-My knees almost did the same. I caught the edge of the wagon. The foreman looked at me.
+My knees objected to the ordinary fact that I had just swung something absurdly heavy. I caught the edge of the wagon. The foreman looked at me.
 
 “You all right?”
 
@@ -312,7 +312,7 @@ My knees almost did the same. I caught the edge of the wagon. The foreman looked
 
 “Then sit down.”
 
-That was probably wise. I sat on a timber stack while the crew finished securing the bridge approach. My hands shook slightly. My shoulders hurt. There was a dull pressure behind my eyes that made focusing unpleasant.
+That was probably wise. I sat on a timber stack while the crew finished securing the bridge approach. My hands shook slightly from the impact, and my shoulders hurt because apparently creating an impossible hammer did not exempt me from using it badly.
 
 So. Intentional manifestation was possible. That was new. The first result had been useless because I had asked for a category. Hammer.
 
@@ -320,13 +320,13 @@ The second had worked because I had asked for a purpose. Drive the pin.
 
 One clean strike.
 
-The shape had changed with the thought. Not perfectly. Definitely not politely. But enough. Clear idea.
+The shape had changed with the thought. Not because I had become stronger in the last ten minutes. Because I had finally stopped asking reality for a noun and started giving it a role.
 
-Better result. I stored that away.
+Clear idea. Better result. I stored that away.
 
-Not a rule yet.
+Not a limit.
 
-Maybe a pattern.
+A pattern.
 
 The guard who had asked about the casting walked over. He looked at the empty patch of mud where the hammer had disappeared.
 
@@ -378,8 +378,8 @@ That was it. No celebration. No ceremony. No System notification. I had helped r
 
 The Guild cared that the bridge was open. Honestly, I respected that. I put the Marks away. The foreman was already speaking to another worker about tomorrow's traffic. To him, my impossible hammer was apparently less important than whether six wagons could cross before dark.
 
-Reasonable priorities. I stepped out into the yard. My shoulders still ached. My head felt heavy. Trying the strange ability again sounded like an excellent way to learn what unconsciousness felt like, so I decided against it.
+Reasonable priorities. I stepped out into the yard. My shoulders still ached from swinging the ridiculous thing. I considered trying the ability again just to prove I could, then decided that manifesting random objects in a Guild yard for no reason would reveal more than it taught me.
 
-For now. I had money. I had completed the job. And I had learned one thing. Vague wishing got me something technically correct.
+For now, curiosity could wait. I had money. I had completed the job. And I had learned one thing. Vague wishing got me something technically correct.
 
 A clear purpose got me something useful. That was not an explanation. It was enough to work with. Frontier employment was beginning to look more interesting. Mostly because the tools occasionally came from nowhere.

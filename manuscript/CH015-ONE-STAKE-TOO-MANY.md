@@ -1,13 +1,21 @@
 # Chapter 15 — One Stake Too Many
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** CINEMATIC STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 2,941  
 **Chapter QA:** `qa/CH-015-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-015-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
-By the time they reached the upper approach, nobody was pretending this was just a mapping trip. The road narrowed above the timber-road junction and climbed between old retaining stones dark with moss. Beyond them, the land opened toward the outer farms in long uneven strips separated by low fences, drainage cuts, and tree lines.
+A broken farm gate hung open below the upper road.
 
-The farms had been warned before they arrived. That did not make the place feel safer. A broken gate hung open below them. Two livestock pens stood empty. Hoof marks churned the soft ground beside the road, overlapping each other where something had panicked hard enough to forget direction.
+Two livestock pens stood empty.
+
+Hoof marks tore through the soft ground in every direction.
+
+Red stopped beside the retaining wall and looked uphill toward the farms.
+
+They had been warned.
+
+The road still felt exposed.
 
 Tavian crouched near the edge of the track. Kellan did not. He kept looking uphill toward the farms.
 
@@ -151,9 +159,11 @@ Kellan turned toward him.
 
 “Yes.”
 
-Kellan stared at the stake. There are moments when an object becomes offensive simply by continuing to exist.
+Kellan stared at the stake.
 
-That was one of them.
+It hummed quietly inside the wall.
+
+That seemed to make him angrier.
 
 The Guild technician replaced one tool in his case and took out a measuring cord.
 
@@ -199,11 +209,11 @@ Kellan turned on him.
 
 “I know.”
 
-That answer did not help. The technician looked at him. Probably because he had been quiet.
+That answer did not help. The technician looked at Red.
 
-That was his first mistake.
+Red caught it.
 
-“What?” he asked.
+“What?”
 
 “Nothing.”
 
@@ -351,9 +361,9 @@ Kellan watched him.
 
 Tavian's expression suggested he disliked the answer. He stood straighter anyway. His side burned. His leg throbbed. Every breath felt slightly wrong.
 
-But he was standing. The farms uphill did not have that advantage. That thought lodged somewhere it should not have.
+Red stayed on his feet.
 
-The ridge-hounds were gone. The pressure was not. A distant call sounded from the same general upper corridor.
+A distant animal call rolled down from the upper corridor.
 
 Then another. Kellan looked toward the farms.
 
@@ -441,9 +451,7 @@ Tavian's jaw tightened. Kellan held up one hand.
 
 Silence.
 
-Good.
-
-There it was. No permission disguised as certainty. Kellan looked at him.
+Kellan looked at Red.
 
 “I know these roads. I know those farms. I know that stake is part of what is hurting them.”
 
@@ -483,31 +491,11 @@ He looked at him.
 
 “No,” the technician said. “We prepared because this is dangerous.”
 
-That was annoyingly reasonable. He looked uphill. No civilians in sight.
+Another animal called from above the farms.
 
-They had been warned away from the approach.
+Red looked at Tavian.
 
-Good.
-
-Beyond the tree line, the farms were still there. People were still there. Livestock.
-
-Homes. The kind of lives Hesk had spent years converting into acceptable percentages. Tavian was right.
-
-That mattered. Brynn was right. That mattered too.
-
-Kellan did not know if this was safe. He had just said so. The Guild workers were not lying about the order.
-
-Nobody had failed to warn him. He knew why he should wait. That was the problem.
-
-Waiting was not neutral anymore. The stake stayed active while they waited. The farms stayed on the exposed side while they waited.
-
-More tracks appeared while they waited. More calls came while they waited. Maybe breaking it moved the danger somewhere worse.
-
-Maybe leaving it guaranteed the danger stayed here. Neither choice came with clean hands. He looked at Tavian.
-
-“If I wait and someone uphill gets torn apart, did I choose?”
-
-His expression did not change.
+“If we leave it running and someone up there gets hit, is that still a choice?”
 
 “Yes.”
 
@@ -515,15 +503,15 @@ His expression did not change.
 
 “Yes.”
 
-There it was.
+Kellan looked between them, jaw tight.
 
-No escape.
+No clean answer.
 
-No version where he got to stand outside the decision and complain about everyone else's morality.
+The guard stepped in front of the recess.
 
-He hated that.
+“Step away.”
 
-The guard said, “Step away from the recess.” He looked at him.
+Red looked at him.
 
 “No.”
 
@@ -541,7 +529,7 @@ His grip tightened on the spear. Tavian moved before he did. He put one arm acro
 
 His side hurt. His leg hurt. The distant calls came again.
 
-He thought about Hesk saying someone had to decide what could be allowed to die. He thought about the farms above them. He thought about another invisible line being drawn while everyone argued over whether the pencil was authorized.
+Red looked past Tavian toward the farms.
 
 “No.”
 
@@ -581,11 +569,9 @@ Then he glanced at him.
 
 “What happens after that is not something I can promise you.”
 
-Perfect.
+Kellan stepped aside.
 
-Terrible.
-
-The choice was his.
+The choice was Red's.
 
 He crossed the evidence line. The lure sat inside the recess. Dark stake.
 
@@ -605,15 +591,13 @@ Tavian stepped toward him.
 
 He looked at the collar.
 
-He could have torn the whole recess out of the wall.
+Red could have torn the entire recess out of the wall.
 
-That was exactly the problem.
+Easy.
 
-He did not know what the ceramic chamber did under impact, what the reservoir did if crushed, or what the rest of the network did if he removed more than the technician expected.
+He did not know what the reservoir would do if crushed.
 
-Overwhelming force was easy.
-
-Precision required listening to the person he was currently ignoring.
+That was the problem.
 
 He needed leverage. Not a sword. Not a giant hammer. Not something dramatic.
 
@@ -691,28 +675,24 @@ Enough.
 
 The stake hit the stones beside him. The ceramic chamber cracked against the edge but did not shatter. The etched channels on the rear plate faded.
 
-The vent stopped humming. For a moment, nobody spoke. He sat there with blood on his shirt and the dead march-lure beside his leg.
+The vent stopped humming. The march-lure hit the stones beside Red's leg.
 
-The technician stared at the empty socket. The guard stared at him. Kellan looked uphill.
+The vent went silent.
 
-Tavian closed his eyes for half a second. Then opened them. The forest went quieter.
+So did the upper slope.
 
-Not silent.
+For one breath, nobody moved.
 
-Quieter.
+Then an animal called in the distance.
 
-The calls above the farms stopped. His heart hit once, hard.
+Farther east.
 
-Maybe—
+Tavian's head snapped toward the sound.
 
-A new call sounded far off.
+A second call answered from somewhere else.
 
-Different place.
-
-Tavian's head turned. Another answered from somewhere else. Not where the first had been.
-
-Kellan looked at him.
+Kellan looked at Red.
 
 The lure was dead.
 
-The calls changed direction.
+The calls had moved.

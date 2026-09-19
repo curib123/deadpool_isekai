@@ -1,12 +1,12 @@
 # Chapter 1 — Wrong Forest, Wrong World
 
-**Status:** CANON — GATE 9 PASS / READER-COMPANION VOICE LOCKED  
+**Status:** CANON — DEADPAN VOICE REVISION UNDER GATE 9 REVIEW  
 **Word Count:** 2,451  
-**Voice QA:** `qa/CH-001-VOICE-REVISION-GATE-9-QA.md`
+**Voice QA:** pending deadpan revision revalidation
 
 The first thing I noticed was that I was breathing. That may sound like a very low standard for a successful morning, but the last thing I remembered was rain exploding across a windshield, white headlights where they absolutely should not have been, and several tons of metal making a persuasive argument against my continued existence.
 
-So yes. Breathing was encouraging. Before you ask, no, I did not immediately sit up and announce that I had been reincarnated in another world. I had standards. Very flexible standards, apparently, but standards.
+Well, I was breathing, so at least I was not dead. Probably. I did not immediately sit up and decide I had been reincarnated in another world. There were still several less ridiculous explanations available.
 
 I kept my eyes closed for another second and took inventory. Head attached. Arms attached. Legs still employed by the organization. Nothing felt crushed, and there was no glass in my face.
 
@@ -14,15 +14,15 @@ No screaming either. No sirens. No paramedic leaning over me and saying somethin
 
 I opened my eyes. Green filled my vision. Not hospital green. Not traffic-light green. Actual leaves layered so thick above me that the sky only appeared in thin patches. Damp air pressed against my skin, and something unfamiliar called somewhere beyond the trees.
 
-I stared upward for a few seconds. “Okay.” My voice worked. Good. Strong start.
+I stared upward for a few seconds. “Okay.” My voice worked. That was useful.
 
-For the record, I would have accepted a hospital. I would even have accepted one of those suspiciously clean white rooms where somebody explains that your previous life has ended and offers you three broken abilities as compensation.
+I would have preferred a hospital. At that point I would even have accepted one of those suspiciously clean white rooms where somebody explains that your previous life has ended and hands out compensation.
 
 There was no white room. No goddess. No floating screen. No deep mysterious voice saying, Welcome, chosen one.
 
 Nothing.
 
-Just me, wet soil, trees I did not recognize, and what I sincerely hoped was not poisonous vegetation under my right hand. You would think reality could provide onboarding. I pushed myself upright. The movement felt wrong.
+Just me, wet soil, trees I did not recognize, and what I hoped was not poisonous vegetation under my right hand. Apparently the explanation was optional. I pushed myself upright. The movement felt wrong.
 
 Not painful. Wrong. My balance shifted faster than expected, and I caught myself before I tipped forward. My arms looked like my arms, mostly. Same general proportions. Same hands. But there was more strength in the movement than memory said there should be, and my shoulders felt strangely light.
 
@@ -32,11 +32,11 @@ Nothing broken. No blood. No obvious hole where an important organ had resigned.
 
 No wallet. No keys. No phone. I checked again for the phone.
 
-Still absent. “Excellent.” That one was for me, not you. You get the polished version. I get the private moment where I quietly consider whether I am dead, insane, kidnapped, drugged, or starring in a genre famous for terrible workplace safety.
+Still absent. “Of course.” For your benefit, I will summarize the next few seconds as calm reflection. Internally, I was working through dead, insane, kidnapped, drugged, or something even less convenient.
 
 I stood. The forest did not applaud, but I straightened anyway. If I was going to wake up alone in an impossible place, I could at least do it with posture. A cold drop of water fell from a leaf and landed directly on the back of my neck.
 
-I flinched hard enough to nearly trip over a root. The forest remained unimpressed. Fine. We were establishing boundaries.
+I flinched hard enough to nearly trip over a root. The forest did not react. Fair enough.
 
 I looked around properly. The trunks were tall and dark with moisture. Fern-like plants crowded the lower ground beneath broad silver-veined leaves I had never seen before. Moss climbed exposed stones in thick layers, and the earth smelled rich, cold, and aggressively real.
 
@@ -46,17 +46,17 @@ I turned slowly and listened. Nothing human answered. That was when the joke sto
 
 Then this. I rubbed a hand over my face and forced myself to breathe slowly. Dreams did not usually come with cold mud soaking through your knee, and hallucinations probably did not bother rendering this much texture.
 
-I pinched the inside of my arm. “Ow.” Useful experiment. I had officially proven that I was capable of hurting myself in mysterious forests.
+I pinched the inside of my arm. “Ow.” So pain still worked. Good to know.
 
-Science would be proud. You probably want me to tell you that this was the moment I accepted the obvious. Another world. Reincarnation.
+You may be expecting me to say this was the moment I accepted the obvious. Another world. Reincarnation.
 
 Isekai. Pick your label. I did not. Saying ridiculous things confidently is how they become your problem.
 
-Instead, I chose a direction where the ground rose slightly and started walking. My survival strategy was extremely advanced: Do not die. Find people. Ask questions.
+Instead, I chose a direction where the ground rose slightly and started walking. The plan was simple: do not die, find people, ask questions.
 
-You may notice there was no fourth step. I believe in flexible planning. The terrain made fun of that confidence almost immediately. Roots twisted beneath wet leaves, thorny vines grabbed at my clothes, and something small and winged buzzed beside my ear for half a minute with the persistence of a debt collector.
+There was no fourth step. I had not earned one yet. Roots twisted beneath wet leaves, thorny vines grabbed at my clothes, and something small and winged stayed beside my ear for half a minute as if it had nowhere else to be.
 
-I climbed the rise, slid halfway back down, caught a branch, and pretended the entire sequence had been intentional. There are moments when a man becomes one with nature. This was not one of them.
+I climbed the rise, slid halfway back down, and caught a branch before I fell. I decided not to count that as progress.
 
 At the top, the trees thinned enough for me to see farther ahead. I did not find rooftops or smoke, but I found something better than random wilderness.
 
@@ -66,9 +66,7 @@ Not a natural outcrop. A line of old, half-buried stones cut across the slope be
 
 A drainage channel, maybe. Or the remains of a road. I followed it. The farther I went, the clearer it became that people had once been here. A rotten timber lay parallel to the stones. A low block stood at one side of the route, weathered almost smooth. Brush grew differently in a long strip where the ground had once been kept clear.
 
-Civilization. Old civilization. Abandoned civilization. Possibly civilization that had been eaten by something unpleasant.
-
-Still counting it as progress. Then I saw the tracks. Four impressions sat in damp soil ahead of me, large enough that I stopped walking. I crouched again.
+Civilization. Old, abandoned civilization, but still evidence that somebody had built something here once. That was enough for me. Then I saw the tracks. Four impressions sat in damp soil ahead of me, large enough that I stopped walking. I crouched again.
 
 Four toes, maybe. Claws. The print was wider than my palm, with several more leading into the brush.
 
@@ -80,9 +78,9 @@ I turned.
 
 Nothing.
 
-A few leaves trembled. I kept walking, but not faster. Faster would look like panic, and I was not panicking. I was strategically increasing my distance from the unknown predator while maintaining an atmosphere of calm authority.
+A few leaves trembled. I kept walking without running. I would like to say that was discipline. Mostly I did not want whatever was behind me to notice how concerned I was.
 
-There was another rustle. Closer. My pace increased. Still not panic.
+There was another rustle, closer this time. My pace increased. We can call it caution.
 
 Then a low shape crossed between two trees ahead of me. I stopped. It was about the size of a large dog, maybe slightly bigger, but too lean through the middle. Its front legs were long. Its shoulders rolled beneath dark coarse fur. Its head sat lower than I liked, narrow muzzle pointed directly at me.
 
@@ -90,19 +88,19 @@ I did not know what it was. It knew exactly what I was.
 
 Lunch.
 
-“Listen,” I told it, because apparently negotiation with wildlife was where my life had gone. “I am having a very complicated day.” The animal stared. I lifted my chin and gave it the look.
+“Listen,” I told it. “I am having a very complicated day.” The animal stared. I lifted my chin anyway.
 
-You know the one. The look that says, I have killed things far more dangerous than you. Technically, I had killed mosquitoes. The animal bared its teeth.
+It was meant to suggest experience. My actual record was mostly mosquitoes. The animal bared its teeth.
 
-No respect for theater. Disappointing. It moved first.
+It was not persuaded. It moved first.
 
 Fast.
 
 I jumped sideways and learned two important facts at once. One: this body was quicker than expected. Two: quicker was not the same as skilled. My foot hit loose mud. I went down on one knee as teeth snapped where my thigh had been a moment earlier.
 
-I grabbed the nearest branch and swung. It broke across the animal's shoulder. The animal did not appear emotionally affected. “Right.”
+I grabbed the nearest branch and swung. It broke across the animal's shoulder. The animal barely reacted. “Right.”
 
-I scrambled backward while it circled. I kept the broken branch between us, though half a stick is only intimidating when the other side understands symbolism. It lunged again. I jammed the branch forward.
+I scrambled backward while it circled. I kept the broken branch between us. It was not much of a weapon, but it was more than my empty hands. It lunged again. I jammed the branch forward.
 
 The animal twisted around it and slammed into me. Pain ripped across my left forearm.
 
@@ -118,7 +116,7 @@ Blood.
 
 Four ragged cuts ran from below my elbow toward my wrist. Not deep enough to expose anything I never wanted to see, but deep enough that blood was already running over my hand.
 
-The animal came around again. That was when the fear arrived properly. No joke. No clever observation for you.
+The animal came around again. That was when the fear arrived properly. There was nothing funny about it.
 
 No private performance for me. I was alone, unarmed, bleeding, and something with teeth had already learned that I was not very good at this. I got up badly and backed toward the remains of the roadside wall. The animal lowered itself, watching.
 
@@ -132,7 +130,7 @@ The animal sprang. I threw my injured arm up and had one stupid, desperate thoug
 
 Something appeared.
 
-Not elegantly. There was no flash of divine light. No satisfying sound. No legendary weapon spinning into my hand because destiny had finally remembered its cue.
+Not elegantly. There was no flash of light and no convenient explanation. One moment there was nothing there.
 
 One moment there was empty air. The next there was a thick, ugly slab of dark material half across my forearm, like someone had tried to build a shield from a bad memory of a door.
 
@@ -144,9 +142,9 @@ Somehow both, depending on the angle. I nearly lost it, recovered, and swung the
 
 The surface rippled. One corner vanished. The whole object felt soft and wrong. The animal backed away.
 
-I raised what remained of the slab. “Exactly,” I said, breathing hard. “Calculated.” It growled.
+I raised what remained of the slab. “Calculated,” I said, breathing hard. It growled.
 
-Please do not insult either of us by believing me. The animal hesitated, apparently decided I had become too strange to eat efficiently, and disappeared into the brush. I waited. Five seconds.
+You do not need to believe that. I did not either. The animal hesitated, apparently decided I had become too strange to eat efficiently, and disappeared into the brush. I waited. Five seconds.
 
 Ten. Long enough for the forest to settle again. The object in my hands sagged like melting wax without the heat, thinned into nothing, and left me gripping empty air. I stared at my hands.
 
@@ -156,9 +154,9 @@ Gone. I pictured the slab again.
 
 Nothing.
 
-I tried harder. Still nothing. “Good,” I whispered. “That would have been too convenient.”
+I tried harder. Still nothing. “Of course.”
 
-My arm throbbed. Right. Actual problem. I sat against the broken roadside stones and inspected the wound. The cuts were ugly.
+My arm throbbed. That was the more immediate problem. I sat against the broken roadside stones and inspected the wound. The cuts were ugly.
 
 Less ugly than they had been. I frowned. Blood still coated my skin, but the flow had slowed almost completely. The torn edges looked tighter.
 
@@ -170,19 +168,17 @@ Impossible.
 
 “Nope.” I looked away. Then back. Still happening.
 
-I pressed two fingers beside the cut. Bad idea. Pain shot up my arm. Whatever this was, it had not come with the kindness package.
+I pressed two fingers beside the cut. Bad idea. Pain shot up my arm. So the healing, if that was what this was, was not especially gentle.
 
-I leaned my head against the stone and closed my eyes. All right. You and I should probably review. I remembered dying.
+I leaned my head against the stone and closed my eyes. The situation, as I understood it, was not encouraging. I remembered dying.
 
 Or almost dying. Details pending. I woke up in a forest that did not belong anywhere I recognized. Something tried to eat me. I thought very hard about needing a barrier, and a barrier appeared.
 
-Then it disappeared. Now my arm was repairing itself while making sure I appreciated every second. Perfect. Completely normal sequence of events.
+Then it disappeared. Now my arm was repairing itself while hurting enough to make the process difficult to ignore. None of this was normal.
 
 I laughed once. It came out weaker than I wanted. I opened my eyes and stared into the trees. For the first time since waking, I did not feel like performing.
 
-Not for myself. Not even for you. I was scared. There.
-
-Enjoy the exclusive. It lasted maybe three seconds. Then I stood, because fear is useful right up until it becomes furniture. My arm still hurt. The cuts had not vanished, but they looked hours or days older than they should have. My body felt heavy too, like the strange healing had taken something out of me.
+Not for myself. Not even for you. I was scared. That was the truth of it. I stayed there for a few seconds, then stood because remaining beside the road was not going to improve anything. My arm still hurt. The cuts had not vanished, but they looked hours or days older than they should have. My body felt heavy too, like the strange healing had taken something out of me.
 
 I followed the old road more carefully after that. No heroic marching. No dramatic declarations. I listened before every blind turn and gave thick brush considerably more respect than I had fifteen minutes earlier.
 
@@ -198,7 +194,7 @@ Settlement.
 
 People.
 
-Food, maybe. Answers, ideally. New and exciting ways to get arrested, statistically possible. I stood at the junction for a moment.
+Food, maybe. Answers, ideally. Trouble was also possible. I stood at the junction for a moment.
 
 Behind me waited the old road, the forest, and at least one animal that had already reviewed me poorly. Ahead was a road used recently by carts, boots, and hoofed animals. Whatever civilization looked like here, it existed.
 
@@ -206,9 +202,9 @@ I checked my arm again. The wound was still there. It was also undeniably smalle
 
 Nothing.
 
-Not even a dramatic spark. “Fine.” Probably for the best. If I had accidentally become all-powerful in the first hour, you and I would be trapped in a very short story.
+Not even a spark. “Fine.” Whatever had happened before was not something I could simply repeat. That was inconvenient, but at least it was clear.
 
-I adjusted my clothes, wiped away as much dirt as possible, and straightened my back. Nobody was watching yet. That was not the point. The forest had gotten the first impression.
+I adjusted my clothes, wiped away as much dirt as possible, and straightened my back. Nobody was watching yet, but I preferred not to arrive looking completely helpless.
 
 Civilization would get a better one. I stepped onto the maintained road and followed the arrow. Whatever waited ahead, it had people. And people, unlike monsters, could usually be reasoned with.
 

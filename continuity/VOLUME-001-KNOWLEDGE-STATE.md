@@ -8520,3 +8520,38 @@ CH-026 owns:
 - unnamed wider-world ending.
 
 No Volume 2 destination may be named or selected.
+
+# CH-026 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-026 — Before They Decide What I Am  
+**Status:** SCENE ARCHITECTURE SUPPORT — GATE 8 PASS / MANUSCRIPT NOT YET CANON
+
+CH-026 begins with:
+- Greywake Arc local crisis resolved;
+- Hesk removed from road authority;
+- governance reform active;
+- outer-community representation active;
+- reconstruction ongoing;
+- Red recovering but not fully reset;
+- Red's reputation contradictory;
+- supporting cast embedded in independent duties;
+- no next destination selected.
+
+CH-026 may establish:
+- Red is no longer required to remain under emergency public-safety/anomaly restrictions;
+- ordinary travel readiness;
+- farewells;
+- Red's choice to leave before chosen help hardens into assigned role;
+- physical departure from Greywake.
+
+CH-026 may not:
+- select/name Volume 2 destination;
+- add a permanent companion;
+- reveal protected mystery;
+- use Play Logic;
+- reopen the local conflict.
+
+No new F-ID.
+
+M-007 does not advance.
+

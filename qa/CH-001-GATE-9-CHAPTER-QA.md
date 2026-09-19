@@ -5,7 +5,7 @@
 **Chapter:** CH-001 — Wrong Forest, Wrong World  
 **Review date:** 2026-09-18  
 **Status:** PASS  
-**Word Count:** 2,432
+**Word Count:** 2,311
 
 **Owners:** A120 Chapter QA Editor with A090 Manuscript Author, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A095 Action Choreographer, A096 Imagination Scene Designer, A097 Prose Editor, A043 Red Jackal Guardian, A037 Power Balance Editor, A050 Mystery Director, A100 Continuity Director, A102 Knowledge-State Editor
 

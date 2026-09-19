@@ -1,42 +1,29 @@
 # CH-009 Publish Version QA
 
 **Canon Source:** `manuscript/CH009-WRONG-TRACKS.md`  
-**Canon Source SHA:** `107bde84b8509f62190d3b47bcb61f9b6f0d8f02`  
+**Canon Source SHA:** `da7a8c430df515f45ec8aae583e990e6d488e1ab`  
 **Publication Copy:** `published/volume-001/CH009-WRONG-TRACKS.md`  
 **Target Platform:** WebNovel-compatible reader-facing copy  
 **Review Date:** 2026-09-19  
-**Status:** PUBLISH-READY — GATE 11 PASS
+**Status:** PUBLISH-READY — GATE 11 PASS / OVERPOWERED RETCON REFRESH
 
 # Source Integrity
-- Canon source: **CANON / PASS**
-- Gate 9 / Volume 1 Gate 10 prerequisite: **PASS**
-- Latest fetched source used: **PASS**
-- Title/opening/final paragraph/order: **PASS**
-- Canon body paragraphs: **310**
-- Missing/duplicated prose: **NONE**
 
-# Semantic Equivalence
-Publication prose body is byte-equivalent to canon after repository-only header metadata removal. No semantic story/prose change.
+- source manuscript is CANON — OVERPOWERED RETCON GATE 9 PASS;
+- publication copy regenerated from latest canon source;
+- only production metadata removed;
+- title preserved: **Chapter 9 — Wrong Tracks**;
+- final nonblank line preserved: **North.**;
+- no prose block omitted, duplicated, or reordered.
 
-**Semantic Diff:** PASS — PRESENTATION ONLY
+# Canon Equivalence
 
-# Platform QA
-- status/word count/internal QA metadata: **REMOVED**
-- raw code fences / raw emphasis markers: **NONE**
-- paragraph rhythm/order: **PASS**
-- dialogue/self-talk/reader-talk: **PRESERVED**
-- title duplication: **NO**
-- plain-text/mobile readability: **PASS**
-- spoiler/reference expansion: **NONE**
+**PASS.** Events, dialogue, characterization, injuries, power behavior, mystery state, and ending are canon-equivalent.
 
-# Findings
-CRITICAL: None.  
-MAJOR: None.  
-MINOR: None.
+# Reader-Facing / Formatting
+
+**PASS.** Production metadata removed; paragraph rhythm and dialogue preserved; no code-fence/HTML artifacts; WebNovel-compatible plain-text flow.
 
 # Decision
-# PASS
 
-**CH-009 is PUBLISH-READY — GATE 11 PASS.**
-
-Canon manuscript remains the source of truth.
+**PUBLISH-READY — GATE 11 PASS.**

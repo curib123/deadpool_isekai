@@ -13,7 +13,7 @@ A wall would have been stupid. A beautiful wall would still have been stupid. Hi
 
 “Not yet,” Tavian said.
 
-He looked at him. He was not looking at him. His eyes stayed on the lead animals.
+Red looked at him. Tavian did not look back. His eyes stayed on the lead animals.
 
 The first line crossed the open ground beyond the lantern posts. They did not run straight toward Greywake. Not yet. They spread across the approach, following the slope, each animal reacting to the one in front of it and the pressure behind.
 
@@ -201,7 +201,7 @@ His body actually shifted. Tavian saw it.
 
 “Don’t.”
 
-He looked at him. He pointed at the moving animals.
+Red looked at Tavian. Tavian pointed at the moving animals.
 
 “Leave now and this opens before you reach the site.”
 
@@ -387,9 +387,9 @@ Tavian came to him.
 
 “No more guessing.”
 
-He looked at him.
+Red looked at Tavian.
 
-He pointed at the migration.
+Tavian pointed at the migration.
 
 “Every shape you add changes their choices. You act when I give you the geometry.”
 

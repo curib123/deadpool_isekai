@@ -6805,3 +6805,205 @@ CH-021 owns:
 - first mass prey wave beyond the lantern line.
 
 CH-022 first-wave action remains protected.
+
+# CH-021 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-021 — Before the Herd  
+**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+
+## Opening State
+
+CH-021 begins from CH-020 canon.
+
+Known:
+- Broken North is barely viable;
+- retained Roadmaster lure stock is under shared custody;
+- the coalition has enough known stock/log information to execute its timing plan;
+- Hesk is unaccounted for;
+- Hesk retains one Roadmaster field-service key;
+- one existing older-service lure site remains vulnerable;
+- Jessa is an active witness;
+- Maelis holds usable evidence;
+- Kellan remains splinted and non-weight-bearing;
+- Red remains physically depleted from CH-019/020;
+- the migration surge is close enough that remaining preparation time may be measured in hours.
+
+## Evacuation Boundary
+
+CH-021 may begin and substantially execute full coordinated civilian evacuation.
+
+Priorities may include:
+- non-mobile injured;
+- children/people needing assistance;
+- households closest to likely spill routes;
+- civilians without safe shelter.
+
+People are prioritized before property.
+
+Limited carts remain a real constraint.
+
+No outer community may be treated as expendable.
+
+## Kellan / Sela Boundary
+
+Kellan:
+- remains non-weight-bearing;
+- may be transported with other injured civilians;
+- may contribute local route/household knowledge before/during transport;
+- does not return to field work.
+
+Sela:
+- controls triage;
+- controls injured-person transport order;
+- protects treatment supplies;
+- may reinforce that Red must conserve manifestation capacity.
+
+No long-term Kellan prognosis is introduced.
+
+## Brynn Boundary
+
+Brynn may coordinate:
+- evacuation;
+- militia positions;
+- carts;
+- work crews;
+- warning runners;
+- fallback points;
+- Broken North support teams;
+- lure-site protection;
+- bounded search/check effort for Hesk.
+
+She cannot spare the whole militia to chase Hesk.
+
+A small patrol/check team may be sent toward the vulnerable older-service lure site.
+
+Hesk remains unconfirmed/unlocated through the chapter.
+
+## Tavian Boundary
+
+Tavian may:
+- update approach estimates from fresh sign;
+- define activation thresholds based on observed movement;
+- check Broken North readiness;
+- stage known lure teams;
+- establish abort/revise signals.
+
+He does not:
+- activate the full lure sequence;
+- discover active Hesk sabotage;
+- guarantee success.
+
+## Maelis Boundary
+
+Maelis may:
+- document stock transfer;
+- preserve custody records;
+- create/witness copies of timing/service instructions;
+- distribute protected copies before the wave.
+
+She does not:
+- conduct Hesk's final hearing;
+- lead frontline tactics.
+
+## Jessa Boundary
+
+Jessa may:
+- cross-check lure-site/technician/service assignments;
+- verify stock quantities;
+- identify routine dispatch mismatches;
+- flag the vulnerable older-service site.
+
+She does not:
+- know Hesk's current location;
+- detect sabotage before evidence;
+- receive an instant promotion/reward.
+
+## Red Jackal Boundary
+
+Red must:
+- accept evacuation/logistics assignments;
+- perform ordinary physical work;
+- conserve Play Logic despite opportunities;
+- remain self-directed rather than institutionally owned.
+
+CH-021 actual manifestations:
+
+**0**
+
+At least one, preferably two, explicit decisions should show Red choosing ordinary labor/tools over manifestation because the first wave is imminent.
+
+## Regeneration / Exhaustion Boundary
+
+Red remains functional but not fresh.
+
+Allowed:
+- lingering hand tremor;
+- headache/mental pressure;
+- shoulder soreness;
+- leg strain;
+- fatigue;
+- minor damage closing abnormally.
+
+Regeneration does not refill stamina.
+
+## Lure-Team Staging Boundary
+
+Allowed:
+- stock counted under witness;
+- sealed components assigned;
+- site/service instructions cross-checked;
+- approved teams move into place;
+- observational activation thresholds communicated.
+
+Not allowed:
+- coordinated lure activation;
+- proof of successful timing;
+- proof that one route is pulling wrong.
+
+CH-022 owns those outcomes.
+
+## Broken North Boundary
+
+Broken North remains barely viable.
+
+Allowed:
+- final inspection;
+- repair crews/tools staged;
+- minor ordinary clearing;
+- emergency materials positioned.
+
+Not allowed:
+- major upgrade;
+- new Play Logic reinforcement;
+- calling the corridor safe/finished.
+
+## CH-022 Firewall
+
+CH-021 must not:
+- begin sustained first-wave action;
+- show mass barricade failure;
+- show predator exploitation of the wave;
+- reveal Hesk's final intervention as active;
+- show a route pulling wrong;
+- introduce the largest territorial predator.
+
+## F-ID / Mystery State
+
+No new F-ID.
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+M-007 does not advance.
+
+## Locked Architecture Ending
+
+The CH-021 manuscript, if later approved, must end with:
+
+**the first mass of fleeing prey appearing beyond Greywake's lantern line.**
+
+This sighting is the threshold only.
+
+The first-wave action itself belongs to CH-022.

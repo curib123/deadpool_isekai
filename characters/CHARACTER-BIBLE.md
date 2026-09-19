@@ -620,6 +620,23 @@ The administrator stared at the form like Red had personally offended paperwork.
 
 The narration may be amused because Red is amused, but it should not sound like a comedian performing for an audience.
 
+### Cinematic Voice Filter
+
+The prose should feel visually immediate without becoming screenplay-like.
+
+Red's close-third narration should usually notice:
+- movement before abstract meaning;
+- faces and hands during social tension;
+- physical space during danger;
+- small visual details that make his jokes or suspicions land;
+- silence when a serious beat does not need commentary.
+
+The narration should not explain Red's personality when his dialogue, posture, timing, or choice can show it.
+
+When he performs, let the **other character's reaction** help sell the performance.
+
+When he becomes serious, reduce narration rather than making the prose more dramatic.
+
 ### Internal Thought Boundary
 
 Internal thoughts stay short and selective.

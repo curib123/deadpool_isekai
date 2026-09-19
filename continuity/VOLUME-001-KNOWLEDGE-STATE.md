@@ -6365,3 +6365,217 @@ CH-020 owns:
 - Hesk escaping with access to one final field lure site or activation method.
 
 CH-021 mass surge preparation remains protected.
+
+# CH-020 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-020 — The Last Lure  
+**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+
+## Opening State
+
+CH-020 begins from CH-019 canon.
+
+Known:
+- Broken North is barely viable;
+- precise lure timing is now the immediate operational dependency;
+- Red is materially exhausted from exactly three CH-019 manifestations;
+- Hesk remains denied unilateral authority;
+- shared lure oversight remains active;
+- Maelis holds protected evidence/copies;
+- Jessa holds partial route/service/supply knowledge;
+- known lure-state information remains incomplete;
+- CH-021 full surge preparation has not begun.
+
+## Retained Lure Reserve Boundary
+
+CH-020 may establish a Roadmaster-controlled emergency reserve outside the shared operational inventory.
+
+Allowed material categories:
+- sealed scent reservoirs;
+- concentrated mana-guided diversion compound;
+- spare mana-channel pins;
+- replacement vent/service components.
+
+The reserve may be sufficient to restore the old main-road-first / outer-exposure pressure pattern for one emergency cycle using existing installed lure housings.
+
+It does not:
+- control the entire migration;
+- guarantee Hesk's success;
+- create a new network from nothing.
+
+## Discovery Boundary
+
+Jessa may discover the reserve through:
+
+1. issue records;
+2. service-use records;
+3. return records;
+4. contingency/storehouse references.
+
+She may recognize:
+- stock that left ordinary inventory;
+- stock not explained by documented use;
+- stock not returned normally;
+- Roadmaster-controlled handling.
+
+She does not infer ecology by herself.
+
+Maelis verifies documentary meaning/custody.
+
+## Jessa Vale Boundary
+
+Jessa's personal stakes remain:
+
+- Guild wages support younger siblings;
+- losing employment matters;
+- Hesk was previously someone she saw as Greywake's protector/employer.
+
+CH-020 may canonize her decisive complicity break only if manuscript prose shows her voluntarily:
+
+- authenticating the discrepancy;
+- signing/initialing an explanation;
+- identifying the reserve/storehouse reference;
+- refusing to recant;
+- assisting preservation of the stock/logs.
+
+Red and Maelis may not coerce the choice.
+
+## Maelis Boundary
+
+Maelis may:
+
+- verify the discrepancy;
+- preserve originals/copies;
+- obtain bounded emergency preservation/custody authority;
+- secure lure stock/logs temporarily;
+- require intact tags/seals where possible.
+
+She may not:
+- sentence Hesk;
+- restructure the Guild permanently;
+- claim unlimited police power.
+
+## Hesk Boundary
+
+Hesk may openly defend the reserve as:
+
+- a Roadmaster contingency;
+- necessary if Broken North fails;
+- a final way to protect Greywake's lifeline.
+
+He may attempt:
+- stock removal;
+- targeted evidence destruction;
+- record seizure;
+- escape through Guild/service infrastructure.
+
+He may not:
+- discover protected Red anomaly truth;
+- become sadistic/cartoonish;
+- complete his final defeat in CH-020.
+
+## Red Jackal Boundary
+
+Red enters exhausted.
+
+He may:
+- protect Jessa only after she chooses disclosure;
+- use silence/proximity/reputation to intimidate Guild loyalists;
+- issue a credible threat against attempts to silence/harm her;
+- refuse indiscriminate destruction of stock/records.
+
+He may not:
+- force Jessa to testify;
+- destroy all Guild materials;
+- torture/kill surrendering staff;
+- become a conventional lawful protector.
+
+## Reputation Boundary
+
+One earned intimidation beat is authorized.
+
+It works because Red is already known as:
+- unclassifiable;
+- difficult to control;
+- unusually survivable;
+- capable of nonstandard manifestations;
+- willing to ignore Guild authority.
+
+It causes hesitation, not supernatural fear or universal surrender.
+
+## Play Logic Boundary
+
+Maximum actual CH-020 manifestation:
+
+**1**
+
+Preferred:
+- short-lived gate/door wedge;
+- small evidence-preserving obstruction;
+- simple stopper/hook.
+
+It must:
+- remain Stage I;
+- last seconds;
+- be degraded by CH-019 fatigue;
+- cause no major injury;
+- not destroy evidence;
+- not solve the whole confrontation.
+
+No second major manifestation is authorized.
+
+## Hesk Escape Boundary
+
+CH-020 may end with:
+
+- coalition securing retained stock;
+- coalition securing documentary proof;
+- Jessa's authentication usable;
+- Hesk escaping/evading custody.
+
+Hesk may retain one existing-compatible:
+- Roadmaster field-service key;
+- priming access method;
+- service code;
+- equivalent access to one final existing lure site.
+
+Do not invent a new magical super-device.
+
+## CH-021 Firewall
+
+CH-020 must not begin:
+
+- full civilian evacuation;
+- hours-level final staging;
+- first mass prey wave beyond Greywake's lantern line.
+
+A closing warning that the surge is nearer is allowed.
+
+## CH-022+ Firewall
+
+CH-020 must not:
+
+- execute Hesk's final intervention successfully across the migration;
+- show the major corridor failure caused by it;
+- introduce the large territorial predator;
+- begin the climax fight.
+
+## F-ID / Mystery State
+
+No new F-ID.
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+M-007 does not advance.
+
+## Locked Architecture Ending
+
+The manuscript, if later approved, must leave two truths active:
+
+1. coalition has secured the retained lure stock and usable proof;
+2. Hesk remains unaccounted for with one final field-lure access method/site.
+
+Until Gate 9, those outcomes remain architecture support rather than canon.

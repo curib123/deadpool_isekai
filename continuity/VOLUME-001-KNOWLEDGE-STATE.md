@@ -8352,3 +8352,40 @@ It owns:
 - permanent economic/infrastructure consequences.
 
 CH-026 remains departure/arc closure.
+
+# CH-025 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-025 — What Greywake Counts  
+**Status:** SCENE ARCHITECTURE SUPPORT — GATE 8 PASS / MANUSCRIPT NOT YET CANON
+
+CH-025 begins after the immediate migration/lure crisis has passed.
+
+Authorized aftermath facts:
+- migration committed to Broken North;
+- outer homesteads were not deliberately sacrificed;
+- Hesk is under guard and removed from emergency operational authority;
+- final lure/key/site are secured;
+- Broken North/main approaches remain damaged;
+- trade capacity is reduced;
+- Red remains injured/exhausted;
+- Kellan remains non-weight-bearing.
+
+CH-025 may establish:
+- bounded injury/damage/casualty accounting;
+- Hesk's formal removal/suspension as Roadmaster;
+- evidence preservation/public institutional recognition;
+- Road Guild loss of unilateral emergency diversion authority;
+- civic/militia oversight of dangerous route actions;
+- enforceable Outer Homestead Compact representation in emergency-route decisions;
+- contradictory public reputation for Red.
+
+CH-025 may not:
+- reveal protected mystery;
+- use Play Logic;
+- resolve Red's departure;
+- name/select the next destination.
+
+No new F-ID.
+
+M-007 does not advance.
+

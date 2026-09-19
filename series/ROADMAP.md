@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** VOLUME 1 OVERPOWERED RETCON — MANUSCRIPT REVISION COMPLETE / GATE 10 PASS / GATE 11 REFRESH NEXT; CH-028 PAUSED
+**Status:** VOLUME 1 OVERPOWERED RETCON COMPLETE — GATE 10 PASS / GATE 11 PASS; VOLUME 2 CH-028 GATE 8 NEXT
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -21,8 +21,8 @@ Volume 1 Architecture: **PASS**
 Chapter Roadmap: **PASS — 26 chapters**  
 Volume 1 Canon Revalidation: **PASS — OVERPOWERED RETCON GATE 10 / 26 OF 26 CANON / 75,157 WORDS**  
 Publish Version QA Standard: **ACTIVE — GATE 11**  
-Volume 1 Publish Version QA: **STALE AFTER RETCON — PREVIOUS 26-COPY PASS PRESERVED / REVALIDATION REQUIRED**  
-Volume 1 Pacing Revision v2: **PAUSED — RETAIN PACING GOALS / POWER-BALANCE ASSUMPTIONS SUPERSEDED**  
+Volume 1 Publish Version QA: **PASS — GATE 11 / 26 OF 26 PUBLISH-READY / RETCON REFRESH COMPLETE**  
+Volume 1 Pacing Revision v2: **COMPLETE — MERGED WITH OVERPOWERED RETCON**  
 Red Jackal Overpowered Retcon: **ACTIVE — NO POWER PROGRESSION / UNBOUNDED PLAY LOGIC / REVELATION MODEL**  
 Volume 1 Power-Retcon Manuscript Audit: **COMPLETE — 26/26 AUDITED / 13 REVISED + GATE 9 PASS / 13 KEEP**  
 Volume 2 Destination Selection: **PASS — GATE 5 / DEST-002 MERROWGATE**  
@@ -30,7 +30,7 @@ Volume 2 Architecture: **PASS — GATE 6 / MERROWGATE ARC LOCKED**
 Volume 2 Chapter Roadmap: **PASS — GATE 7 / 24 CHAPTERS / CH-027 THROUGH CH-050 LOCKED**  
 CH-027 Scene Architecture: **PASS — GATE 8 / 5 SCENES LOCKED**  
 CH-027 Manuscript: **CANON — GATE 9 PASS / 2,108 WORDS / DEADPAN TRAVEL-OPENING VOICE LOCKED**  
-CH-028 Scene Architecture: **AUTHORIZED BUT PAUSED — VOLUME 1 GATE 11 PUBLICATION REFRESH NEXT**  
+CH-028 Scene Architecture: **AUTHORIZED — GATE 8 NEXT**  
 CH-001 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-002 Scene Architecture: **PASS — GATE 8**  
 CH-002 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
@@ -96,9 +96,9 @@ Aura Evolution: **MANUFACTURED → EARNED → REPUTATION-SUPPORTED**
 The project publication state is now:
 
 1. **Volume 1 / Greywake Arc — CANON — OVERPOWERED RETCON GATE 10 PASS**
-2. **13 revised reader-facing publication copies require Gate 11 regeneration before the refreshed release set is PUBLISH-READY**
+2. **Volume 1 / Greywake Arc — PUBLISH-READY — RETCON-REFRESHED GATE 11 PASS / 26 OF 26**
 
-The pre-retcon 26-copy Gate 11 set remains a historical release record. The 13 changed manuscripts must regenerate their reader-facing copies and pass Gate 11 again before the refreshed Volume 1 set is approved. Volume 2 is locked as DEST-002 — Merrowgate / Merrowgate Arc through Gate 7. CH-027 through CH-050 are roadmap-locked. CH-027 has passed Gate 9 and is CANON at 2,108 words. CH-028 Detailed Scene Architecture / Gate 8 is the next authorized production step.
+The 13 changed reader-facing copies have been regenerated from current canon and individually revalidated. The aggregate refreshed release set now passes Gate 11. Volume 2 is locked as DEST-002 — Merrowgate / Merrowgate Arc through Gate 7. CH-027 through CH-050 are roadmap-locked. CH-027 has passed Gate 9 and is CANON at 2,108 words. CH-028 Detailed Scene Architecture / Gate 8 is the next authorized production step.
 
 ## Destination Naming Law
 
@@ -152,7 +152,7 @@ Revision result:
 
 **Status:** COMPLETE — merged into the overpowered-retcon manuscript pass.
 
-Volume 2 CH-028 remains structurally authorized but is paused until the refreshed Volume 1 Gate 11 cycle completes.
+Volume 1 Gate 11 refresh is complete. Volume 2 CH-028 is now the active authorized step.
 
 
 ## Red Jackal Overpowered Retcon
@@ -171,7 +171,7 @@ Foundation changes:
 
 All older Stage-I ceiling language is legacy until revised.
 
-**Current production priority:** regenerate the 13 revised Volume 1 publication copies → Gate 11 revalidation.
+**Current production priority:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.
 
 
 ## Volume 1 Power-Retcon Manuscript Audit Result
@@ -213,4 +213,6 @@ Result:
 - CH-023 is now the main hidden-power physical reveal;
 - CH-024 is the institutional/human climax under the rule: **power is not the same thing as being right**.
 
-**Next:** refreshed Gate 11 publication copies for the 13 revised chapters.
+**Gate 11:** PASS — 26/26 publication copies PUBLISH-READY.
+
+**Next:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.

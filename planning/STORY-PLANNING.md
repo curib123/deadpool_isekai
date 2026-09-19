@@ -271,6 +271,40 @@ M-007 did not advance.
 
 Volume 2 destination remains unselected.
 
+# 4B. Publication Release Workflow
+
+Volume 1 has passed full canon revalidation and may enter publication preparation.
+
+**Publish Version QA:** Gate 11
+
+Authoritative standard:
+
+`qa/PUBLISH-VERSION-QA-STANDARD.md`
+
+Volume 1 release tracker:
+
+`qa/publish/VOLUME-001-PUBLISH-VERSION-QA.md`
+
+The next authorized release artifact is:
+
+`published/volume-001/CH001-WRONG-FOREST-WRONG-WORLD.md`
+
+Release order is chapter-by-chapter:
+
+**Canon Manuscript → Publication Copy → Gate 11 → PUBLISH-READY**
+
+Then continue CH-002 through CH-026.
+
+Publication work:
+- may remove production metadata;
+- may normalize platform formatting;
+- must remain semantically equivalent to canon;
+- may not silently repair/change canon.
+
+If a publication edit changes meaning, return it to Gate 9 and canonization first.
+
+Volume 2 destination remains unselected and is not authorized by publication work.
+
 # 5. Scene Sheet
 Each scene has:
 - purpose

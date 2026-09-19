@@ -4,7 +4,7 @@
 This repository uses a studio-style production pipeline. Each agent has an editorial-equivalent role, owned canon domain, inputs, outputs, and a QA gate.
 
 ## Canon hierarchy
-Series Constitution → World Bible → Systems/Lore → Character Bible → Mystery Bible → Destination → Volume/Arc → Chapter → Scene → Manuscript → QA → Canon.
+Series Constitution → World Bible → Systems/Lore → Character Bible → Mystery Bible → Destination → Volume/Arc → Chapter → Scene → Manuscript → QA → Canon → Publication Copy → Publish Version QA → Release.
 
 Lower levels cannot silently contradict higher levels.
 
@@ -65,6 +65,7 @@ Lower levels cannot silently contradict higher levels.
 | A121 | Volume QA Editor | Volume Review Editor | volume gate |
 | A122 | Arc QA Editor | Arc Review Board | destination-arc gate |
 | A123 | Series QA Board | Senior Editorial Board | full-series audit |
+| A124 | Publish Version QA Editor | Release QA Editor | canon-equivalent reader-facing publication checks |
 | A130 | Canon Librarian | Story Bible Manager | authoritative records |
 
 ## Production Flow
@@ -100,14 +101,24 @@ Canon Conflict → Continuity → Power → Mystery → Character → Paragraph 
 ### Phase 9 Canonization
 Lead Editor approval → Series Director approval if high-level canon changed → Canon Librarian updates authoritative records.
 
+### Phase 10 Publication Copy
+Publication Editor derives a reader-facing copy from the latest CANON manuscript → removes repository metadata → applies target-platform-safe formatting only → records canon source revision.
+
+Publication edits must remain semantically equivalent to canon.
+
+### Phase 11 Publish Version QA
+A124 Publish Version QA Editor → canon-equivalence diff → title/order/ending check → metadata-removal check → paragraph/dialogue/emphasis check → platform-readability check → copyright/reference check → **PUBLISH-READY — GATE 11 PASS**.
+
+If a requested release edit changes story meaning, it must return to Manuscript QA and canonization before a new publication copy is generated.
+
 ## No-Skip Rule
 Major ideas may not jump directly from idea to prose. Route them through the department that owns the affected canon.
 
 ## QA Escalation
-Prose issue → A097. Dialogue → A092. Character → A040/A043. Power → A031-A037. World → A010. Arc → A061. Major series contradiction → A001.
+Prose issue → A097. Dialogue → A092. Character → A040/A043. Power → A031-A037. World → A010. Arc → A061. Publication formatting/canon-equivalence → A124. Major series contradiction → A001.
 
 ## Canon States
-LOCKED, CANON, PROVISIONAL, PLANNED, DRAFT, DEPRECATED.
+LOCKED, CANON, PROVISIONAL, PLANNED, DRAFT, PUBLISH DRAFT, PUBLISH-READY, PUBLISHED, DEPRECATED.
 
 ## Single Source of Truth
 Each canon domain has one authoritative Bible. Other documents reference it; they do not redefine it.

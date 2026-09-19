@@ -3,7 +3,7 @@
 **Volume:** 1 — Greywake Arc  
 **Chapter:** CH-008 — Outside the Lanterns  
 **Phase:** Detailed Scene Architecture  
-**Status:** PROPOSED FOR PRE-MANUSCRIPT SCENE QA  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-008 MANUSCRIPT AUTHORIZED  
 **Final Scene Count:** 5  
 **POV:** Red Jackal first person  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
@@ -1171,3 +1171,20 @@ Pre-Manuscript Scene QA must verify:
 - CH-009 does not begin;
 - no final dialogue/manuscript prose exists;
 - Volume 2 remains unselected.
+
+
+# 18. Gate 8 Result
+
+**PASS**
+
+Formal QA record:
+
+`qa/CH-008-PRE-MANUSCRIPT-SCENE-QA.md`
+
+The five-scene CH-008 architecture is locked.
+
+The only authorized next production step is:
+
+**Draft the actual CH-008 manuscript — Outside the Lanterns.**
+
+Do not draft CH-009 and do not create CH-009 Scene Architecture.

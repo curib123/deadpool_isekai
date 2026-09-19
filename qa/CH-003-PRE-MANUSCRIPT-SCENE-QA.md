@@ -255,3 +255,23 @@ Do not create CH-004 Scene Architecture during the CH-003 manuscript step.
 Do not mark F-002 PLANTED before CH-003 Gate 9 passes.
 
 Do not select Volume 2.
+
+
+# Voice Standard Addendum
+
+The CH-003 manuscript must use the newly locked series standard:
+
+**dry/deadpan internal humor + restrained fourth-wall presence**
+
+This supersedes any earlier implication that reader-talk or overt comedy should recur frequently.
+
+Required:
+- immediate first-person experience first;
+- deadpan internal observation second;
+- reader-talk only when it adds intimacy/clarity;
+- no joke quota;
+- no overt performance-comedy default;
+- Maelis-related humor remains understated procedural irony;
+- serious anomaly confirmation may contain little or no humor.
+
+Gate 8 remains **PASS** because this is a prose-direction refinement and does not alter scene structure, canon, mystery timing, or character knowledge.

@@ -1,8 +1,8 @@
 # Chapter 1 — Wrong Forest, Wrong World
 
-**Status:** CANON — DEADPAN VOICE REVISION UNDER GATE 9 REVIEW  
-**Word Count:** 2,451  
-**Voice QA:** pending deadpan revision revalidation
+**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED
+**Word Count:** 2,311
+**Voice QA:** `qa/CH-001-DEADPAN-VOICE-GATE-9-QA.md`
 
 The first thing I noticed was that I was breathing. The last thing I remembered was rain across a windshield, white headlights, and metal folding around me.
 

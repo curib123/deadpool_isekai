@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-023 CANON — CH-024 SCENE ARCHITECTURE AUTHORIZED
+**Status:** CH-023 CANON — CH-024 SCENE ARCHITECTURE PASSED / CH-024 MANUSCRIPT AUTHORIZED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -68,6 +68,7 @@ CH-022 Scene Architecture: **PASS — GATE 8**
 CH-022 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-023 Scene Architecture: **PASS — GATE 8**  
 CH-023 Manuscript: **CANON — GATE 9 PASS / SERIOUS CLIMAX MODE LOCKED**  
+CH-024 Scene Architecture: **PASS — GATE 8**  
 Red Jackal Series Voice: **LOCKED — DRY/DEADPAN INTERNAL HUMOR + RESTRAINED FOURTH-WALL STANDARD**  
 Red Jackal Anti-Villain Expression: **LOCKED**  
 Red Jackal Reputation / Fear Progression: **LOCKED — R0 TO R6**  
@@ -77,9 +78,9 @@ Aura Evolution: **MANUFACTURED → EARNED → REPUTATION-SUPPORTED**
 
 The project is now authorized to proceed to:
 
-1. **Build CH-024 — No One Gets Chosen Detailed Scene Architecture only**
+1. **Draft CH-024 — No One Gets Chosen manuscript only**
 
-CH-023 has passed Gate 9 and is CANON. Broken North physically holds under ordinary reinforcement after one PL-4 temporary support, the large territorial predator leaves the primary choke through a controlled collective route solution, and the main migration body becomes substantially committed to Broken North. Hesk's existing lure then reasserts a pull toward the outer homesteads. CH-024 — No One Gets Chosen may now proceed to Detailed Scene Architecture only. CH-024 owns the final lure site, direct Hesk confrontation, final route decision, migration commitment, and Hesk losing operational control. No later destination has been selected.
+CH-024 Pre-Manuscript Scene QA has passed. The studio may now draft the actual CH-024 manuscript — No One Gets Chosen only. The chapter must use the existing old-service lure/key, keep Hesk's worldview consistent, let Maelis/Jessa/Tavian/Brynn retain distinct competencies, give Red exactly one final Stage I fork-guide manifestation, resolve the migration into the prepared corridor, prevent deliberate outer-homestead sacrifice, and end with Hesk under guard/removed from operational control. CH-025 aftermath remains blocked until CH-024 passes Gate 9.
 
 ## Destination Naming Law
 
@@ -95,7 +96,7 @@ This table is intentionally empty.
 
 | Volume | Destination ID | Arc Name | Local Conflict | Main Antagonist | Major Mystery Contribution | Status |
 |---|---|---|---|---|---|---|
-| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-023 CANON — CH-024 SCENE ARCHITECTURE AUTHORIZED |
+| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-024 SCENE ARCHITECTURE PASS — CH-024 MANUSCRIPT AUTHORIZED |
 
 ## Lock
 

@@ -367,7 +367,7 @@ The ridge-hounds climbed again. Going around suddenly felt less elegant. Tavian 
 
 “Can you support that edge?”
 
-That was new. Not Can you do something strange? Not Don't. A direct question. He looked where Kellan had pointed. One broken stone shelf. One gap beneath it. One stable chunk of old retaining wall on the inner side. Simple. For once, simple was good.
+That was new. Not a vague request for something strange. Not a warning to stop. A direct question. He looked where Kellan had pointed. One broken stone shelf. One gap beneath it. One stable chunk of old retaining wall on the inner side. Simple. For once, simple was good.
 
 “I can give you exactly the brace you asked for.”
 

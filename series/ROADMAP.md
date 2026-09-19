@@ -95,13 +95,13 @@ Every future major arc must be named after its actual destination:
 
 Do not create event/theme arc names as the primary arc title.
 
-## Future Route Table
+## Volume Route Table
 
-This table is intentionally empty.
+This table contains only volumes whose destination has passed the required selection gate. Volume 2 remains unselected and therefore has no row.
 
 | Volume | Destination ID | Arc Name | Local Conflict | Main Antagonist | Major Mystery Contribution | Status |
 |---|---|---|---|---|---|---|
-| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-026 SCENE ARCHITECTURE PASS — CH-026 MANUSCRIPT AUTHORIZED |
+| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | GREYWAKE ARC COMPLETE — CH-001 THROUGH CH-026 CANON |
 
 ## Lock
 
@@ -111,4 +111,4 @@ Do not add a row until:
 - Destination Inventory exists; **PASS**
 - Destination Selection QA approves an existing world location; **PASS — DEST-001 Greywake**
 
-Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-022 are canon. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. CH-023 Detailed Scene Architecture is now authorized; CH-023 manuscript drafting and all later-route selection remain deferred until the required gates pass.
+Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-026 are canon and the Greywake Arc is complete. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. Volume 2 remains unselected; no later destination, chapter roadmap, or manuscript work is authorized until the required destination/volume gates pass.

@@ -38,7 +38,7 @@ The chapter must:
 14. tie that wrong pull to Hesk's existing final field-lure access rather than inventing a new device;
 15. keep Hesk physically off-screen;
 16. use repeated Stage I Play Logic as rescue/route support, not as migration control;
-17. lock exactly **three maximum actual CH-022 manifestations**, all small and temporary;
+17. lock exactly **three actual CH-022 manifestations**, all small and temporary;
 18. make each later manifestation less stable/precise than the previous one;
 19. carry Red's CH-019/020 exhaustion despite CH-021 power conservation;
 20. inflict repeated but survivable injuries on Red while keeping regeneration painful and non-restorative;
@@ -248,11 +248,11 @@ He must continue to:
 
 CH-022 remains **Stage I — Improvised Manifestation**.
 
-Maximum actual manifestations:
+Actual CH-022 manifestations:
 
-**3**
+**exactly 3**
 
-All three, if used, are authorized and should occur.
+All three are required by the locked architecture.
 
 No fourth manifestation is authorized.
 
@@ -993,7 +993,7 @@ Before manuscript drafting, verify:
 - wrong route is visible in animal movement;
 - wrong pull does not instantly defeat the plan;
 - Red does not leave to hunt Hesk;
-- maximum actual manifestations = 3;
+- actual manifestations = exactly 3;
 - Manifestation 1 is small guide/spill barrier;
 - Manifestation 2 is rescue support;
 - Manifestation 3 is small route guide/deflector;

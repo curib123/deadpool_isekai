@@ -105,7 +105,7 @@ The authoritative Volume 1 chapter roadmap is:
 
 The next authorized planning artifact is:
 
-`CH-015 — One Stake Too Many: Detailed Scene Architecture`
+`CH-015 — One Stake Too Many: Manuscript Draft`
 
 CH-001 manuscript has passed Gate 9 and is CANON.
 
@@ -173,9 +173,11 @@ CH-014 manuscript has passed Gate 9 and is CANON.
 
 No F-ID changed status in CH-014.
 
-Detailed Scene Architecture for CH-015 — One Stake Too Many is now authorized.
+CH-015 Scene Architecture has passed Gate 8.
 
-Do not draft CH-015 manuscript before its Scene Architecture and Gate 8 Pre-Manuscript Scene QA pass.
+Drafting CH-015 manuscript prose is now authorized.
+
+Do not draft CH-016 or create CH-016 Scene Architecture during the CH-015 manuscript step.
 
 # 5. Scene Sheet
 Each scene has:

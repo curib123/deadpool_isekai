@@ -694,6 +694,19 @@ Maelis will not convert evidence of physical reality into a fabricated System id
 
 The clerk cannot authorize normal guild privileges without valid registration.
 
+### Knowledge Entering Scene
+Red Jackal now knows:
+- his body returns stable physical measurements;
+- his body interacts with a standardized mana pulse;
+- a functioning identity slate still returns the same undefined state;
+- Maelis considers simple local device failure insufficient;
+- his Unverified Entrant restrictions remain active.
+
+He does not yet know:
+- whether Greywake can offer him legal work without registration;
+- why Hesk has taken interest;
+- anything about the Road Guild's hidden migration policy.
+
 ### Conflict
 Red Jackal has now proven:
 - he is physically real;

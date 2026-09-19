@@ -1,7 +1,8 @@
 # Chapter 16 — Backflow
 
-**Status:** DRAFT — GATE 9 NOT YET RUN  
-**Word Count:** 2,682
+**Status:** CANON — GATE 9 PASS / SERIOUS MODE LOCKED  
+**Word Count:** 2,682  
+**Chapter QA:** `qa/CH-016-GATE-9-CHAPTER-QA.md`
 
 The calls did not stop.
 

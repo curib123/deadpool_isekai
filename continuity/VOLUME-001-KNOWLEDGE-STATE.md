@@ -560,6 +560,7 @@ He does not know:
 
 By the end of an approved CH-004 manuscript, Red Jackal may know:
 - Hesk is the Roadmaster and a credible local authority;
+- Hesk's first direct interaction shows that he values Red's usefulness and unusual legal position more than the mystery of what Red is;
 - the Road Guild publicly maintains roads, bridges, escorts, caravan schedules, and supply movement;
 - Hesk can authorize private paid labor outside the normal registered-contract path;
 - the arrangement is recorded locally but is not a normal identity-bound guild contract;
@@ -655,7 +656,8 @@ After CH-004, Red Jackal canonically knows:
 - Captain Brynn Alder does not forbid the work but confirms that it does not create normal militia or registered-worker protection;
 - his first assignment is a Main Caravan Road repair/support job involving a damaged bridge/worksite;
 - he is expected to report at first light;
-- accepting the arrangement gives him money, supplies, access, and practical freedom at the cost of protection.
+- accepting the arrangement gives him money, supplies, access, and practical freedom at the cost of protection;
+- he chose the bad-but-useful arrangement knowingly rather than being deceived about its visible terms.
 
 Red Jackal may reasonably conclude:
 

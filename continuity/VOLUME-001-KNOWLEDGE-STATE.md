@@ -7769,7 +7769,7 @@ CH-024 retains:
 # CH-023 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-023 — Greywake Holds  
-**Status:** SCENE ARCHITECTURE SUPPORT — GATE 8 PENDING
+**Status:** SCENE ARCHITECTURE SUPPORT — GATE 8 PASS / MANUSCRIPT NOT YET CANON
 
 ## Opening State
 

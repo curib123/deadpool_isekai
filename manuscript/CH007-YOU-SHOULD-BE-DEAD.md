@@ -1,8 +1,9 @@
 # Chapter 7 — You Should Be Dead
 
-**Status:** RETCON REVISED — GATE 9 REVALIDATION PENDING  
+**Status:** CANON — OVERPOWERED RETCON GATE 9 PASS  
 **Word Count:** 4154,117  
 **Chapter QA:** `qa/CH-007-GATE-9-CHAPTER-QA.md`
+**Retcon QA:** `qa/CH-007-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
 The road was supposed to be safe. Not completely safe. Greywake did not seem to believe in that kind of promise. But safe enough that the Road Guild had sent three maintenance workers, one small supply wagon, Tavian, and me instead of a full guard detail.
 
@@ -334,7 +335,7 @@ I looked toward Greywake.
 
 “Far enough.”
 
-Useful. We got the worker to the maintained road. A patrol cart reached us before we made it much farther. The Guild workers flagged it down, and after a short explanation the injured man was loaded first. I climbed in after him because walking had stopped being a serious option.
+Useful. We got the worker to the maintained road. A patrol cart reached us before we made it much farther. The Guild workers flagged it down, and after a short explanation the injured man was loaded first. I climbed in after him because riding hurt less and I had no reason to turn walking into another demonstration.
 
 The Wayfarer Token from the service wagon was gone with the abandoned supplies, but the patrol cart carried another. Its translation field settled over the voices around me. Someone asked what happened. Tavian answered.
 

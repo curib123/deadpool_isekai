@@ -9,6 +9,19 @@
 **POV:** Red Jackal first person throughout  
 **Scope:** Chapter architecture only. No full scenes, final dialogue, or manuscript prose.
 
+# Power Retcon Override
+
+The later authorial retcon in `planning/RED-JACKAL-OVERPOWERED-RETCON.md` supersedes all Stage I/II progression and raw-power ceiling language in this roadmap.
+
+The chapter order, local plot, midpoint, reversal, Hesk conflict, consequences, and departure remain structurally useful.
+
+Power interpretation changes to:
+- Red is already overwhelmingly powerful;
+- early small manifestations are deliberate/experimental/reveal choices;
+- apparent struggle may be performance, limited information, or concern for others;
+- specialists remain necessary for knowledge, evidence, evacuation, logistics, and judgment;
+- climax spectacle may reveal far more power without calling it a power-up.
+
 # 1. Roadmap Principles
 
 This roadmap distributes the locked Gate 6 architecture across 26 chapters.
@@ -799,22 +812,22 @@ Primary roadmap pressure:
 - Kellan: outer-homestead stakes, CH-008 onward; severe injury locked in CH-016.
 - Jessa: documentary complicity/evidence arc, CH-003/010/013/020/025.
 
-# 6. Power Progression Summary
+# 6. Power Revelation Summary
 
-Red Jackal remains **Stage I — Improvised Manifestation** for the entire volume.
+Red Jackal does not progress through power stages.
 
-Progression is control/understanding, not a formal stage advancement:
+Volume 1 instead controls **revelation**:
 
-1. CH-001 — accidental/crude survival manifestation.
-2. CH-005 — intentional object/tool with interpretation risk.
-3. CH-007/008 — practical defense/terrain aid.
-4. CH-011/015 — controlled short utility under danger.
-5. CH-019/022 — repeated practical support under exhaustion.
-6. CH-023/024 — climax utility used as one part of a team solution.
+1. CH-001 — first small manifestation; readers/Red do not yet understand the scale.
+2. CH-005 — clearer intentional expression.
+3. CH-007/008 — physical absurdity and restoration become harder to dismiss.
+4. CH-011/015 — Red keeps using bounded-looking solutions because the local game interests him.
+5. CH-019/022 — larger stakes create larger visible displays without implying a new tier.
+6. CH-023/024 — climax may reveal that earlier “limits” were substantially self-imposed.
 
-**No Stage II unlock occurs in Volume 1.**
+The reveal must not make Red omniscient or erase the consequences already caused by his choices.
 
-# 7. Regeneration Progression Summary
+# 7. Regeneration / Restoration Revelation Summary
 
 1. CH-001 — strange minor recovery.
 2. CH-007 — unmistakable severe recovery and pain.
@@ -901,20 +914,16 @@ Volume 1 must build Red Jackal's reputation from **evidence, rumor, and uncertai
 
 ## Greywake Ceiling
 
-Volume 1 may reach:
+Volume 1 may move informed characters from **Dangerous Wildcard** toward **Hidden Monster** suspicion.
 
-**R3 — Dangerous Wildcard**
+The correct speculation is:
 
-for informed characters.
-
-It may begin **early R4 speculation** only in the form:
-
-**“His future potential may be much larger than what he can currently do.”**
+**“What if what we saw was never his limit?”**
 
 Volume 1 must **not** establish:
 - certainty that he can rewrite reality;
 - certainty that he is immortal;
-- certainty that he has limitless growth;
+- certainty about the full extent of his already-existing capability;
 - universal fear;
 - universal admiration;
 - omniscient knowledge of his endgame potential.
@@ -973,7 +982,7 @@ After roadmap QA passes, the following may become locked:
 - F-003 planned CH-007;
 - F-004 planned CH-005;
 - Kellan's severe injury at CH-016;
-- no Stage II Play Logic in Volume 1;
+- no power-stage progression; any larger display is revelation of existing capability;
 - CH-025/026 aftermath/departure pacing;
 - no Volume 2 destination.
 

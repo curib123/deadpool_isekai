@@ -285,15 +285,25 @@ Volume 1 release tracker:
 
 `qa/publish/VOLUME-001-PUBLISH-VERSION-QA.md`
 
-The next authorized release artifact is:
+Volume 1 publication preparation is complete.
 
-`published/volume-001/CH001-WRONG-FOREST-WRONG-WORLD.md`
+**Gate 11 Result:** PASS — 26 / 26 chapters PUBLISH-READY
 
-Release order is chapter-by-chapter:
+Release order remains:
 
-**Canon Manuscript → Publication Copy → Gate 11 → PUBLISH-READY**
+**CH-001 → CH-026**
 
-Then continue CH-002 through CH-026.
+All reader-facing copies are under:
+
+`published/volume-001/`
+
+All chapter publication QA records are under:
+
+`qa/publish/`
+
+Aggregate release QA:
+
+`qa/publish/VOLUME-001-PUBLISH-VERSION-QA.md`
 
 Publication work:
 - may remove production metadata;

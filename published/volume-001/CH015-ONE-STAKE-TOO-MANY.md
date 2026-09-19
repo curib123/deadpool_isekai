@@ -1,4 +1,4 @@
-# Chapter 15 — One Stake Too Many
+Chapter 15 — One Stake Too Many
 
 By the time we reached the upper approach, nobody was pretending this was just a mapping trip. The road narrowed above the timber-road junction and climbed between old retaining stones dark with moss. Beyond them, the land opened toward the outer farms in long uneven strips separated by low fences, drainage cuts, and tree lines.
 

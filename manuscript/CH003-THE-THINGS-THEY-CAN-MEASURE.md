@@ -28,7 +28,7 @@ She gestured to the chair across from her. “Before we begin, I want to make th
 
 “It is meant to be.”
 
-That was less reassuring. Maelis rested one hand on a closed notebook. “Yesterday's gate result established that two separate authorized System interfaces could not produce a valid identity record for you.”
+That was less reassuring. Maelis rested one hand on a closed notebook. “This morning's gate result established that two separate authorized System interfaces could not produce a valid identity record for you.”
 
 “I'm aware.”
 

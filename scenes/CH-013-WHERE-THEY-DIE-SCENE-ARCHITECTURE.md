@@ -4,7 +4,7 @@
 **Chapter:** CH-013 — Where They Die  
 **Movement:** III — The Road Is Lying  
 **Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-013 MANUSCRIPT AUTHORIZED  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-013 MANUSCRIPT CANON  
 **Final Scene Count:** 6  
 **POV:** Red Jackal first person  
 **Primary Cast:** Red Jackal, Maelis Orra, Tavian Rook, Kellan Dorr, Captain Brynn Alder, Rovan Hesk, Jessa Vale  

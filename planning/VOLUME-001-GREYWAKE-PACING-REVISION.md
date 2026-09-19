@@ -1,3 +1,11 @@
+> **CURRENT AUTHORITY NOTICE — 2026-09-20**
+>
+> This document remains authoritative for **Greywake pacing and event-order goals only**.
+>
+> Character-growth, POV, origin, Stage, stamina/focus, and fourth-wall language is superseded by `planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md`.
+>
+> Preserve the pacing revision's investigation tightening and CH-020→024 climax shape, but interpret Red through the stable, already-overpowered Soul-Drift model.
+
 # Volume 1 — Greywake Arc Pacing Revision v2
 
 **Project:** This Isekai Has a Bug. Unfortunately, It's Me.  

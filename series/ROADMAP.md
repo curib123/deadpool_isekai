@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-010 CANON — CH-011 MANUSCRIPT DRAFT / GATE 9 PENDING
+**Status:** CH-011 CANON — CH-012 SCENE ARCHITECTURE AUTHORIZED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -43,7 +43,7 @@ CH-009 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**
 CH-010 Scene Architecture: **PASS — GATE 8**  
 CH-010 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-011 Scene Architecture: **PASS — GATE 8**  
-CH-011 Manuscript: **DRAFT — GATE 9 PENDING**  
+CH-011 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 Red Jackal Series Voice: **LOCKED — DRY/DEADPAN INTERNAL HUMOR + RESTRAINED FOURTH-WALL STANDARD**  
 Red Jackal Anti-Villain Expression: **LOCKED**  
 Red Jackal Reputation / Fear Progression: **LOCKED — R0 TO R6**  
@@ -53,9 +53,9 @@ Aura Evolution: **MANUFACTURED → EARNED → REPUTATION-SUPPORTED**
 
 The project is now authorized to proceed to:
 
-1. **Run CH-011 Gate 9 — Chapter QA only**
+1. **Detailed Scene Architecture — CH-012 Someone Put This Here only**
 
-CH-011 manuscript draft now exists and is awaiting Gate 9 Chapter QA. No new F-ID is authorized in CH-011; F-001 through F-004 remain in their existing planted states. M-007 remains inactive. CH-011 ends on the first physical march-lure discovery, CH-012 still owns detailed lure examination, and CH-013 still owns the locked midpoint revelation. CH-012 planning remains blocked until CH-011 passes Gate 9 and is canonized, and no later destination has been selected.
+CH-011 Chapter QA has passed and CH-011 is canon. No F-ID changed state in CH-011; F-001 through F-004 remain in their existing planted states. M-007 remains inactive. The first physical march-lure discovery is now canon. The studio may now build Detailed Scene Architecture for CH-012 — Someone Put This Here only. CH-012 owns lure examination, legality/network/effect questions and evidence/property pressure, while CH-013 still owns the locked deliberate-sacrifice midpoint revelation. CH-012 manuscript drafting remains blocked until its Gate 8 Pre-Manuscript Scene QA passes, and no later destination has been selected.
 
 ## Destination Naming Law
 
@@ -71,7 +71,7 @@ This table is intentionally empty.
 
 | Volume | Destination ID | Arc Name | Local Conflict | Main Antagonist | Major Mystery Contribution | Status |
 |---|---|---|---|---|---|---|
-| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-011 DRAFT — GATE 9 PENDING |
+| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-011 CANON — CH-012 SCENE ARCHITECTURE AUTHORIZED |
 
 ## Lock
 
@@ -81,4 +81,4 @@ Do not add a row until:
 - Destination Inventory exists; **PASS**
 - Destination Selection QA approves an existing world location; **PASS — DEST-001 Greywake**
 
-Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-010 are canon. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. CH-011 manuscript draft exists and Gate 9 Chapter QA is the only authorized next step; CH-012 planning and all later-route selection remain deferred.
+Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-011 are canon. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. CH-012 Detailed Scene Architecture is authorized; CH-012 manuscript prose and all later-route selection remain deferred.

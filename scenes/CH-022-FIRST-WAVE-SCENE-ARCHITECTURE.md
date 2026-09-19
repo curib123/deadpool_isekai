@@ -4,7 +4,7 @@
 **Chapter:** CH-022 — First Wave  
 **Movement:** VI — Greywake Holds  
 **Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-022 MANUSCRIPT AUTHORIZED  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-022 MANUSCRIPT CANON  
 **Final Scene Count:** 6  
 **POV:** Red Jackal first person  
 **Primary Cast:** Red Jackal, Tavian Rook, Captain Brynn Alder, Greywake militia, outer-homestead workers, civilians  

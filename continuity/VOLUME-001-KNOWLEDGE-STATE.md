@@ -8524,7 +8524,7 @@ No Volume 2 destination may be named or selected.
 # CH-026 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-026 — Before They Decide What I Am  
-**Status:** SCENE ARCHITECTURE SUPPORT — GATE 8 PASS / MANUSCRIPT NOT YET CANON
+**Status:** SUPERSEDED BY CH-026 CANON CHECKPOINT
 
 CH-026 begins with:
 - Greywake Arc local crisis resolved;
@@ -8555,3 +8555,152 @@ No new F-ID.
 
 M-007 does not advance.
 
+# CH-026 Canon Checkpoint — Greywake Arc Closure
+
+**Chapter:** CH-026 — Before They Decide What I Am  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH026-BEFORE-THEY-DECIDE-WHAT-I-AM.md`  
+**QA:** `qa/CH-026-GATE-9-CHAPTER-QA.md`
+
+## Greywake Reconstruction — CANON
+
+Greywake is actively rebuilding.
+
+Canon closure state includes:
+- Broken North remains restricted/damaged;
+- damaged approaches remain under repair;
+- caravan traffic is reduced/reorganized;
+- route-safety oversight/reformed records are active;
+- outer-community participation is visible;
+- the settlement survives without resetting to its pre-crisis condition.
+
+## Red Jackal Recovery / Agency — CANON
+
+Red is improved but not fully recovered.
+
+Residual state includes:
+- reduced but present rib/shoulder/leg soreness;
+- smaller hand tremor;
+- lingering fatigue.
+
+No new regeneration mechanism is revealed.
+
+Greywake confirms there is no continuing emergency public-safety reason requiring Red to remain.
+
+This does not grant:
+- citizenship;
+- System identity;
+- Guild membership;
+- militia status;
+- permanent employment.
+
+Red is free to leave by choice.
+
+## Supporting Character End States — CANON
+
+### Maelis Orra
+Remains with Ledger/Greywake evidence and reporting duties.
+
+Future anomaly follow-up must respect Red's consent.
+
+She does not join Red.
+
+### Tavian Rook
+Returns to migration-route/ecological monitoring.
+
+He recognizes Red as reliable when timing mattered.
+
+He does not join Red.
+
+### Captain Brynn Alder
+Remains Greywake militia/reconstruction/public-safety authority.
+
+She acknowledges Greywake could use Red but does not convert that need into obligation.
+
+She does not join Red.
+
+### Sela Arven
+Remains treatment-house healer and consequence witness.
+
+She does not join Red.
+
+### Kellan Dorr
+Remains non-weight-bearing and engaged in outer-community route/reconstruction planning.
+
+He does not join Red.
+
+### Jessa Vale
+Remains in Greywake assisting records transition/testimony under a temporary arrangement.
+
+Her long-term employment remains unresolved.
+
+She does not join Red.
+
+## Reputation — CANON
+
+Red's local reputation remains fragmented.
+
+He is variously treated as:
+- hero;
+- menace;
+- anomaly;
+- useful worker;
+- patient;
+- subject;
+- civic problem/asset.
+
+No single label becomes authoritative.
+
+## Power / Mystery State at Volume 1 End
+
+No Play Logic occurs in CH-026.
+
+F-ID state remains:
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+M-007 does not advance in CH-026.
+
+No protected series truth is revealed.
+
+Red remains unable to read Veyran normally.
+
+Red remains UNDEFINED by the System.
+
+## Departure — CANON
+
+Red leaves Greywake with ordinary travel readiness only.
+
+No legendary reward, class, System registration or chosen destination is granted.
+
+Nobody automatically joins him.
+
+No next destination is named or selected.
+
+Canonical final line:
+
+**“Then I left Greywake before they could decide what I was.”**
+
+## Greywake Arc Final Local State
+
+By the end of Volume 1:
+
+- immediate migration crisis is resolved;
+- migration committed to the prepared corridor;
+- outer homesteads were not deliberately sacrificed;
+- Hesk no longer controls sacrificial route policy;
+- Hesk remains removed from Roadmaster authority / under formal process;
+- Road Guild emergency-diversion authority is restructured;
+- outer-community representation is enforceable;
+- route-safety records have civic oversight;
+- infrastructure/economic cost persists;
+- ecological routes remain disturbed;
+- reconstruction continues;
+- Red's Greywake reputation is mixed;
+- Red has departed by choice.
+
+**Greywake Arc chapter production is complete through CH-026.**
+
+**Volume 2 destination remains UNSELECTED.**

@@ -1,7 +1,8 @@
 # Chapter 18 — No Acceptable Loss
 
-**Status:** DRAFT — GATE 9 NOT YET RUN  
-**Word Count:** 3,219
+**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED  
+**Word Count:** 3,219  
+**Chapter QA:** `qa/CH-018-GATE-9-CHAPTER-QA.md`
 
 By the time the emergency route board had collected enough new markers to become useful, it had also collected enough new markers to become depressing. Tavian stood over the table with both hands planted beside the map. Brynn had moved three militia tokens since I arrived. Maelis had added a second stack of copied route records. Hesk stood on the opposite side with the expression of a man watching other people use his tools incorrectly.
 

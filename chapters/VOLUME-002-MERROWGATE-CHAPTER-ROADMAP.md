@@ -12,6 +12,24 @@
 **Power Model:** Red is already overwhelmingly powerful; no Stage progression exists. Chapter uses track voluntary display/reveal, not maximum capability  
 **Scope:** Chapter architecture only. No detailed scene lists, final dialogue, or manuscript prose.
 
+# Soul-Drift / Story-Intruder Retcon Override
+
+This roadmap keeps its **24-chapter order, CH-027→CH-050 range, major reversal, climax, and resolution**.
+
+The retcon in `planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md` overrides conflicting character/power language.
+
+Rules:
+- first-person Red remains the manuscript POV;
+- Fourth-Wall Pause is available in every chapter where Red genuinely addresses the audience;
+- Red has no power progression and no moral-development arc;
+- “development” fields below are stable-character/situation beats;
+- all Stage I/II references are historical and nonbinding;
+- manifestation counts describe planned scene restraint/display, never maximum capability;
+- Red's ability does not have a focus/stamina meter;
+- Cassian's threat is systemic, distributed, and consequential;
+- Red plays with Cassian's game because evidence and reputation are more interesting than simply killing him;
+- the native Hero/Main-Villain story remains active off-screen.
+
 # 1. Roadmap Principles
 
 This roadmap distributes the locked Gate 6 Merrowgate architecture across 24 chapters.
@@ -122,7 +140,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** Travel costs, unreadable notices, unfamiliar coastal trade customs, and ordinary suspicion toward an undocumented traveler.  
 **Exploration Purpose:** Make travel real; transition from frontier roads to Brasswater commerce, larger traffic flows, ships, cranes, and foreign accents/customs.  
 **Character Beat:** Red discovers that leaving Greywake did not magically make food, lodging, or transport free.  
-**Red Jackal Development:** Carries Greywake's responsibility lesson without becoming cautious by nature; he still prefers self-directed risk.  
+**Red Jackal Stable-Character Beat:** He remembers that choices can move consequences onto other people, but he remains reckless, self-directed, and interested in risk.  
 **Supporting Development:** No major local cast required yet.  
 **Antagonist Pressure:** Cassian's scheme exists independently; Red has not entered it.  
 **Action Progression:** Travel hazard only; no major combat.  
@@ -147,7 +165,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** Independent Merrowgate verification again confirms physical presence but fails to produce a valid native identity record.  
 **Exploration Purpose:** Establish that Merrowgate treats identity commercially and legally: who guarantees a person, contract, or cargo matters.  
 **Character Beat:** Red realizes Greywake was not the broken machine; the problem followed him.  
-**Red Jackal Development:** M-002 deepens emotionally without revealing cause. He is less surprised and more irritated by administrative impossibility.  
+**Red Jackal Stable-Character Beat:** M-002 deepens emotionally without revealing cause. He is less surprised and more irritated by administrative impossibility.  
 **Supporting Development:** Iria is established as cautious, procedural, and unwilling to treat rumors as proof. Dalen notices the name.  
 **Antagonist Pressure:** None direct. Venn-linked commercial systems exist in the background but do not control intake.  
 **Action Progression:** Administrative/social pressure.  
@@ -172,7 +190,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** Reputation helps attract attention but makes reliable employers cautious; every story about him contradicts another.  
 **Exploration Purpose:** Introduce Merrowgate's rumor economy, labor brokerage, mixed cultures, and the difference between licensed and informal work.  
 **Character Beat:** Red enjoys that his reputation arrived first until he realizes other people are deciding what the reputation is worth.  
-**Red Jackal Development:** First explicit encounter with reputation as a tradable resource.  
+**Red Jackal Stable-Character Beat:** First explicit encounter with reputation as a tradable resource.  
 **Supporting Development:** Dalen establishes risk-pricing/logistics thinking. Nessa recognizes the opportunity represented by a worker who cannot fit standard records.  
 **Antagonist Pressure:** A Venn-linked recruiter notices Red's irregular status but does not approach directly.  
 **Action Progression:** Social negotiation; no combat.  
@@ -197,7 +215,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** Fees, guarantees, storage rules, crew boundaries, and liability make a "simple" cargo job more complicated than frontier labor.  
 **Exploration Purpose:** Teach Merrowgate's commercial rhythm through physical work instead of exposition.  
 **Character Beat:** Nessa demonstrates that knowing which rule matters is more valuable than knowing every rule.  
-**Red Jackal Development:** He sees the practical appeal of informal systems without yet respecting their hidden costs.  
+**Red Jackal Stable-Character Beat:** He sees the practical appeal of informal systems without yet respecting their hidden costs.  
 **Supporting Development:** Nessa's skill and corner-cutting; Dalen's dislike of unpriced risk.  
 **Antagonist Pressure:** Venn-linked private security is visible as one of several competing service providers.  
 **Action Progression:** Work hazard and time pressure.  
@@ -222,7 +240,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** Moving loads, wet surfaces, structural limits, and Red's instinct to solve problems visually rather than mechanically.  
 **Exploration Purpose:** Establish shipwright culture and independent yards that will later be threatened by consolidation.  
 **Character Beat:** Samir rejects one flashy idea because it would endanger workers despite looking effective.  
-**Red Jackal Development:** Learns that usefulness improves when he accepts specialist constraints rather than treating expertise as boring.  
+**Red Jackal Stable-Character Beat:** He follows Samir's structural constraints because they make the stunt work better; this is tactical preference, not character growth.  
 **Supporting Development:** Samir's competence, pride, and hostility toward merchant-finance pressure.  
 **Antagonist Pressure:** The yard is already paying rising security/assurance costs linked indirectly to Venn influence.  
 **Action Progression:** Structural work → load shift → rescue/repair pressure.  
@@ -247,7 +265,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** Cassian presents a persuasive case for stronger centralized security while Iria resists surrendering public authority without proof.  
 **Exploration Purpose:** Introduce Harbor Council politics and Cassian as a legitimate local power rather than an obvious villain.  
 **Character Beat:** Cassian treats Red politely and as a commercial fact rather than a monster, which Red initially prefers.  
-**Red Jackal Development:** He sees how flattering it can feel when someone turns his anomaly into value instead of suspicion.  
+**Red Jackal Stable-Character Beat:** He sees how flattering it can feel when someone turns his anomaly into value instead of suspicion.  
 **Supporting Development:** Iria/Cassian ideological divide; Dalen's concern about monopoly protection contracts.  
 **Antagonist Pressure:** Cassian begins assessing Red as a usable irregular asset.  
 **Action Progression:** Political/social pressure; any preceding rescue is already resolved and not a set-piece.  
@@ -272,7 +290,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** Conflicting authority, damaged infrastructure, missing cargo, and private guards arriving faster than public investigators.  
 **Exploration Purpose:** Show how one physical incident creates debt, delay, assurance claims, storage fees, and political pressure.  
 **Character Beat:** Dalen immediately asks who owns the losses, while Red initially thinks only about what physically broke.  
-**Red Jackal Development:** Begins seeing that port damage continues long after the dangerous moment ends.  
+**Red Jackal Stable-Character Beat:** Begins seeing that port damage continues long after the dangerous moment ends.  
 **Supporting Development:** Iria resents private security contaminating an active investigation; Nessa sees clients being squeezed by delay costs.  
 **Antagonist Pressure:** A Venn-linked company offers emergency storage/security at favorable-looking terms.  
 **Action Progression:** Short infrastructure emergency → controlled aftermath.  
@@ -297,7 +315,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** The client refuses normal documentation, the route is inconveniently secretive, and Nessa admits the job is deliberately avoiding bonded inspection.  
 **Exploration Purpose:** Show the gray economy without depicting every smuggler as part of Cassian's network.  
 **Character Beat:** Nessa frames plausible deniability as normal port survival. Red finds that logic familiar and attractive.  
-**Red Jackal Development:** His post-Greywake caution is tested by money and the ego of being useful because rules cannot classify him.  
+**Red Jackal Stable-Character Beat:** His post-Greywake caution is tested by money and the ego of being useful because rules cannot classify him.  
 **Supporting Development:** Nessa's flaw becomes active rather than theoretical.  
 **Antagonist Pressure:** The client is a shell intermediary ultimately linked to Cassian, but neither Red nor Nessa knows that yet.  
 **Action Progression:** Suspense/negotiation, no combat.  
@@ -322,7 +340,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** The route is physically awkward and legally suspicious; the client insists the seals remain untouched.  
 **Exploration Purpose:** Show service routes, warehouse understructure, and how legitimate infrastructure can be bypassed without a grand criminal underworld.  
 **Character Beat:** Red consciously decides not to inspect the cargo because the job only works if he keeps pretending the purpose is none of his concern.  
-**Red Jackal Development:** This is the locked mistake: he chooses convenience, money, and self-authored exemption over responsible curiosity.  
+**Red Jackal Stable-Character Beat:** This is the locked mistake: he chooses convenience, money, and self-authored exemption over responsible curiosity.  
 **Supporting Development:** Nessa reinforces her plausible-deniability habit while showing enough discomfort to prove she also knows the job is wrong.  
 **Antagonist Pressure:** Cassian's network gains the altered brake assemblies where it needs them without exposing the Venn name.  
 **Action Progression:** Stealthy logistical tension rather than combat.  
@@ -347,7 +365,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** Heavy moving equipment, water, damaged supports, and confused authority create time-critical danger.  
 **Exploration Purpose:** Establish that sabotage can resemble normal industrial failure in a port where accidents are genuinely possible.  
 **Character Beat:** Samir immediately notices details that make the failure suspicious but cannot prove intent.  
-**Red Jackal Development:** Uses Play Logic as support inside a specialist rescue instead of assuming survivability makes him the plan.  
+**Red Jackal Stable-Character Beat:** Uses Play Logic as support inside a specialist rescue instead of assuming survivability makes him the plan.  
 **Supporting Development:** Iria begins linking incident methods; Samir's technical suspicion gains weight.  
 **Antagonist Pressure:** Venn-linked assurance/debt representatives approach the damaged operator quickly after the crisis.  
 **Action Progression:** Major rescue set-piece.  
@@ -372,7 +390,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** Every incident has a plausible independent explanation, and following the money requires records Red cannot read himself.  
 **Exploration Purpose:** Show debt purchasing, assurance claims, storage transfers, and how commercial control can grow without open conquest.  
 **Character Beat:** Red recognizes that not reading Veyran makes him dependent on other people's interpretation, which irritates him enough to cooperate.  
-**Red Jackal Development:** Begins asking who benefits instead of only what happened physically.  
+**Red Jackal Stable-Character Beat:** Begins asking who benefits instead of only what happened physically.  
 **Supporting Development:** Dalen becomes evidence-oriented rather than purely risk-averse; Nessa begins worrying about the CH-035 client.  
 **Antagonist Pressure:** Cassian publicly argues that repeated failures show the need for unified security.  
 **Action Progression:** Investigation/social pressure.  
@@ -397,7 +415,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** Records use changing terminology, overlapping jurisdictions, and old technical language that does not map cleanly to modern standards.  
 **Exploration Purpose:** Show Merrowgate's institutional history without leaving the local investigation.  
 **Character Beat:** Red has to trust other people to read evidence he cannot personally verify.  
-**Red Jackal Development:** Cooperation becomes a chosen tool rather than an imposed dependency.  
+**Red Jackal Stable-Character Beat:** Cooperation becomes a chosen tool rather than an imposed dependency.  
 **Supporting Development:** Iria accepts informal help because public procedure alone has not connected the incidents.  
 **Antagonist Pressure:** Venn legal representatives request access to some of the same records, creating time pressure without proving guilt.  
 **Action Progression:** Records/investigation chapter.  
@@ -422,7 +440,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** The network is visible, but direct proof that Cassian ordered the incidents remains incomplete.  
 **Exploration Purpose:** Turn Merrowgate's commercial systems into the midpoint revelation rather than generic conspiracy exposition.  
 **Character Beat:** Dalen, the most risk-focused member, becomes the person who states that the pattern itself is too consistent to price as coincidence.  
-**Red Jackal Development:** Realizes the city is not merely chaotic; someone is shaping chaos into leverage.  
+**Red Jackal Stable-Character Beat:** Realizes the city is not merely chaotic; someone is shaping chaos into leverage.  
 **Supporting Development:** Iria moves from isolated-case procedure toward coordinated investigation; Nessa starts tracing her own clients.  
 **Antagonist Pressure:** Cassian's network continues gaining legitimate contracts while the cast lacks accusation-level evidence.  
 **Action Progression:** Investigative midpoint, no combat.  
@@ -449,7 +467,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** Cassian's proposal solves real coordination problems, and the evidence against him is not yet sufficient for public accusation.  
 **Exploration Purpose:** Show Merrowgate's political independence as something maintained through competing commercial powers, not abstract freedom.  
 **Character Beat:** Cassian openly argues that Red himself proves unclassified risk exists beyond normal procedures.  
-**Red Jackal Development:** Realizes his reputation is being used in a political argument without his consent.  
+**Red Jackal Stable-Character Beat:** Realizes his reputation is being used in a political argument without his consent.  
 **Supporting Development:** Iria risks institutional standing by opposing premature consolidation.  
 **Antagonist Pressure:** Cassian gains visible council support.  
 **Action Progression:** Political confrontation.  
@@ -474,7 +492,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** The evidence proves Red knowingly bypassed ordinary inspection but not that he knew the sabotage purpose.  
 **Exploration Purpose:** Demonstrate how informal commerce still leaves human witnesses, payments, route tokens, and liability traces.  
 **Character Beat:** Red cannot honestly claim complete innocence because the suspicious part of the job was obvious.  
-**Red Jackal Development:** Responsibility shifts from abstract lesson to concrete admission: he chose not to know.  
+**Red Jackal Stable-Character Beat:** Responsibility shifts from abstract lesson to concrete admission: he chose not to know.  
 **Supporting Development:** Nessa's broker ambitions are directly threatened; Iria refuses to destroy evidence simply because she now suspects Cassian.  
 **Antagonist Pressure:** Venn-aligned council members demand Red's detention and Nessa's broker suspension.  
 **Action Progression:** Investigation/legal pressure.  
@@ -499,7 +517,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** Altered brake assemblies fail during active transfer; heavy cargo and structural motion make rescue dangerous.  
 **Exploration Purpose:** Make Merrowgate's infrastructure and labor physically central to the political conflict.  
 **Character Beat:** The consequence Red helped enable becomes undeniable and irreversible.  
-**Red Jackal Development:** He cannot hide behind "I didn't know" because he deliberately chose not to know enough.  
+**Red Jackal Stable-Character Beat:** He cannot hide behind "I didn't know" because he deliberately chose not to know enough.  
 **Supporting Development:** Samir's expertise identifies deliberate modification; Nessa sees her plausible-deniability logic collapse; Iria must command rescue while preserving evidence.  
 **Antagonist Pressure:** Cassian's allies immediately frame the event as proof the port cannot tolerate irregular actors and fragmented security.  
 **Action Progression:** Major reversal rescue set-piece.  
@@ -526,7 +544,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** Leaving protects Red's freedom but abandons Nessa to absorb more blame and leaves Cassian's narrative largely intact.  
 **Exploration Purpose:** Show the city's informal exits and how easy it can be for an undocumented person to vanish compared with people tied to local livelihoods.  
 **Character Beat:** Nessa does not ask Red to be a hero; she only refuses to pretend they were blameless.  
-**Red Jackal Development:** He chooses to stay because the choice that opened the door was his, and refusing consequences would let someone else write what his freedom means.  
+**Red Jackal Stable-Character Beat:** He chooses to stay because the choice that opened the door was his, and refusing consequences would let someone else write what his freedom means.  
 **Supporting Development:** Iria chooses not to treat escape risk as proof of guilt; Dalen commits resources despite commercial risk.  
 **Antagonist Pressure:** Cassian gains temporary emergency-charter momentum and expects Red either to flee or become a controllable suspect.  
 **Action Progression:** Character/legal pressure; no combat.  
@@ -551,7 +569,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** Each character's preferred solution fails if used alone.  
 **Exploration Purpose:** Demonstrate that Merrowgate's complexity is why no single faction can safely own all harbor functions.  
 **Character Beat:** Red has to accept a role inside a plan without treating "having a role" as equivalent to being owned.  
-**Red Jackal Development:** Distinguishes chosen coordination from imposed identity.  
+**Red Jackal Stable-Character Beat:** Distinguishes chosen coordination from imposed identity.  
 **Supporting Development:** Iria accepts extra-procedural information; Nessa uses illicit contacts openly; Dalen risks commercial relationships; Samir accepts public-authority support.  
 **Antagonist Pressure:** Cassian's emergency charter is close enough to passing that delay favors him.  
 **Action Progression:** Strategic planning and small evidence retrieval setup.  
@@ -576,7 +594,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** Repairs must look ordinary; too much visible preparation warns the saboteurs.  
 **Exploration Purpose:** Deepen the physical logic of Merrowgate's harbor: loads, moorings, bridges, cranes, tide, worker movement.  
 **Character Beat:** Samir forces Red to describe what a manifestation is supposed to do in structural terms rather than "make it hold."  
-**Red Jackal Development:** refinement becomes more disciplined without becoming Stage II.  
+**Red Jackal Stable-Character Beat:** He chooses a more controlled manifestation because precision serves the scene; there is no Stage II and no power-growth meaning.  
 **Supporting Development:** Iria learns to rely on Samir's non-state expertise; Samir accepts operational secrecy he normally dislikes.  
 **Antagonist Pressure:** Venn security contractors increase patrol presence under emergency authority.  
 **Action Progression:** Technical suspense; possible short interference confrontation.  
@@ -601,7 +619,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** The team must move people, cargo, evidence, and trusted crews without triggering panic or tipping Cassian off.  
 **Exploration Purpose:** Show Merrowgate functioning as an interdependent system immediately before crisis.  
 **Character Beat:** Red voluntarily conserves power instead of using it to solve every preparation inconvenience.  
-**Red Jackal Development:** Judgment improvement is shown through restraint.  
+**Red Jackal Stable-Character Beat:** Judgment improvement is shown through restraint.  
 **Supporting Development:** Dalen owns logistics; Iria owns command; Nessa owns informal access; Samir owns physical preparation.  
 **Antagonist Pressure:** Cassian's network accelerates emergency-security deployments under a legal pretext.  
 **Action Progression:** Pre-climax tension.  
@@ -626,7 +644,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** Infrastructure failures, weather, moving cargo/ships, conflicting orders, and private-security interference happen at once.  
 **Exploration Purpose:** Use Merrowgate's full physical identity as the climax environment.  
 **Character Beat:** Red follows specialist timing even when acting immediately would look more heroic.  
-**Red Jackal Development:** Demonstrates that responsibility can include waiting for the correct moment.  
+**Red Jackal Stable-Character Beat:** Demonstrates that responsibility can include waiting for the correct moment.  
 **Supporting Development:** Iria establishes public command legitimacy; Dalen keeps evacuation/cargo lanes moving; Samir directs structural response.  
 **Antagonist Pressure:** Cassian's contractors push to take control of closures and evidence sites.  
 **Action Progression:** First climax chapter: stabilization and route preservation.  
@@ -648,10 +666,10 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Characters Present:** Red Jackal, Nessa Quill, Iria Voss, Samir Kesran, Dalen Marr, Cassian Venn or his direct representatives, Harbor Watch, workers.  
 **Opening Situation:** Physical crisis continues while the coalition has a narrow chance to secure the evidence linking sabotage orders, shell contractors, and Venn emergency planning.  
 **Primary Objective:** Keep the harbor functional long enough for Iria/Nessa/Dalen to secure evidence and prevent Cassian from converting chaos into uncontested authority.  
-**Conflict:** Red cannot be everywhere; every manifestation costs focus; private security attempts to seize routes and documents under emergency authority.  
+**Conflict:** Red cannot be physically present at every simultaneous crisis; each intervention changes visibility, crowd behavior, and what enemies learn about him, while private security attempts to seize routes and documents under emergency authority.  
 **Exploration Purpose:** Complete the port-scale climax without turning it into a boss duel.  
 **Character Beat:** Red chooses where *not* to intervene so other specialists can finish their parts.  
-**Red Jackal Development:** His strongest Volume 2 growth is selective responsibility, not greater raw power.  
+**Red Jackal Stable-Character Beat:** His strongest Volume 2 contrast is selective involvement: he decides where to interfere and where to let specialists keep their own scene. This is not moral growth.  
 **Supporting Development:** Nessa risks her future charter to expose broker routes; Dalen keeps commercial evacuation functioning; Samir holds the physical plan together; Iria uses lawful authority against private seizure.  
 **Antagonist Pressure:** Cassian's political and commercial plan is exposed while still dangerous. He adapts rather than collapsing into stupidity.  
 **Action Progression:** Final climax convergence: infrastructure + evidence + authority.  
@@ -676,7 +694,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** Cassian's real public service history complicates judgment; Red's own off-book role cannot be erased; merchant factions still want security reform.  
 **Exploration Purpose:** Show the economic/social aftershock and how Merrowgate changes without becoming utopian.  
 **Character Beat:** Red accepts public responsibility for knowingly bypassing scrutiny without accepting blame for Cassian's authorship.  
-**Red Jackal Development:** Responsibility and agency coexist explicitly.  
+**Red Jackal Stable-Character Beat:** Responsibility and agency coexist explicitly.  
 **Supporting Development:** Iria pushes separation/cross-checking of emergency powers; Samir gains stronger oversight access for independent yards; Nessa faces broker consequences without being used as sole scapegoat; Dalen supports decentralized safeguards.  
 **Antagonist Pressure:** Cassian loses practical control and faces legal/commercial consequences; he is not retroactively revealed as the source of every crime in Merrowgate.  
 **Action Progression:** Aftermath/legal-commercial resolution.  
@@ -701,7 +719,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Conflict:** Merrowgate still cannot produce a System identity for him; local officials need a practical way to record contracts and passage.  
 **Exploration Purpose:** Show the port operating after reform: still noisy, commercial, imperfect, and alive.  
 **Character Beat:** Merrowgate adopts a narrow witnessed-contract workaround: a declared name may be accepted locally when living witnesses accept liability even if System identity validation fails.  
-**Red Jackal Development:** He accepts that a chosen name can be enough for a practical agreement without allowing the city to claim it has defined what he is.  
+**Red Jackal Stable-Character Beat:** He accepts that a chosen name can be enough for a practical agreement without allowing the city to claim it has defined what he is.  
 **Supporting Development:** Nessa's future charter remains possible but not guaranteed; Dalen returns to trade work; Samir to repairs; Iria to public authority. None automatically joins Red.  
 **Antagonist Pressure:** Cassian is no longer the active arc driver. Residual Venn interests may remain but do not prevent closure.  
 **Action Progression:** None; departure/aftermath.  

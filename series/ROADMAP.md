@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** SERIES POV/STYLE RETCON — CH-001→CH-027 STUDIO CINEMATIC PROSE REVISION COMPLETE / GATE 9 REVALIDATION NEXT / CH-028 PAUSED
+**Status:** SOUL-DRIFT / STORY-INTRUDER RETCON ACTIVE — FOUNDATION UPDATED / CH-001→CH-027 NEW FIRST-PERSON MANUSCRIPT PASS REQUIRED / CH-028 PAUSED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -171,7 +171,7 @@ Foundation changes:
 
 All older Stage-I ceiling language is legacy until revised.
 
-**Current production priority:** revalidate CH-001→CH-027 through Gate 9 against the locked Studio cinematic close-third standard, then rerun Volume 1 Gate 10 / Gate 11 refresh before resuming CH-028.
+**Current production priority:** rewrite CH-001→CH-027 under the locked Soul-Drift close-first-person / Fourth-Wall Pause / stable-Red standard, then Gate 9 revalidate sequentially before refreshing Volume 1 Gate 10/Gate 11 and resuming CH-028.
 
 
 ## Volume 1 Power-Retcon Manuscript Audit Result
@@ -218,7 +218,7 @@ Result:
 **Next:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.
 
 
-## Series POV / Style Retcon — 2026-09-19
+## Superseded Close-Third Retcon — Historical Record
 
 New locked manuscript standard:
 
@@ -251,3 +251,45 @@ Current status:
 - prior Volume 1 Gate 10 and Gate 11 results are historical but stale until the revised manuscripts are revalidated.
 
 **CH-028 remains paused until CH-001→CH-027 complete Gate 9 revalidation and the required Volume 1 refresh gates are rerun.**
+
+
+## Soul-Drift / Story-Intruder Retcon — 2026-09-20
+
+Authoritative retcon:
+
+`planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md`
+
+Native story framework:
+
+`series/NATIVE-STORY-FRAMEWORK.md`
+
+Locked changes:
+- Evan dies in a mysterious Earth explosion;
+- natural far Soul Drift, not Savael/Exterior Needle, brings him to Veyr;
+- most autobiographical memory/personality organization is lost;
+- Deadpool-fan/meta-media cognitive residue survives;
+- Red uses close first-person narration;
+- genuine reader address invokes Fourth-Wall Pause and freezes Veyran time;
+- Play Logic remains unbounded from the start;
+- regeneration remains extreme from the start;
+- Red has no conventional power progression;
+- Red has no conventional moral-development arc;
+- Red remains a self-centered comedic anti-villain/aura farmer/enemy-player;
+- Veyr has a real registered otherworld Hero, Hero Party, Main Villain, and independent native story;
+- Red intrudes on and reroutes that story without becoming its chosen Hero.
+
+Preserved:
+- world map/geography;
+- Greywake as Volume 1;
+- Merrowgate as Volume 2;
+- Greywake 26-chapter pacing/order;
+- Merrowgate 24-chapter pacing/order;
+- local antagonists and destination outcomes unless later chapter-specific QA requires wording changes.
+
+**Manuscript state:** CH-001→CH-027 are now STALE under the new authorial retcon.
+
+The previous close-third revisions remain historical artifacts only.
+
+**Official next step:** CH-001 — Wrong Forest, Wrong World → Soul-Drift / First-Person Manuscript Revision → Gate 9 Revalidation.
+
+**CH-028 remains PAUSED.**

@@ -1672,3 +1672,167 @@ CH-009 may now move into the locked **Wrong Tracks** investigation:
 - Red Jackal's curiosity may create the localized complication already locked in the chapter roadmap.
 
 Do not begin CH-010 or reveal the lure network early.
+
+# CH-009 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-009 — Wrong Tracks  
+**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+
+## Red Jackal — Opening CH-009
+
+Red Jackal begins CH-009 with the CH-008 canon checkpoint.
+
+He knows:
+- Tavian previously said the animals around Greywake are moving wrong;
+- a displaced predator pack already appeared on a near-Greywake service road;
+- his own CH-007 positioning error exposed an ordinary worker to danger;
+- the Outer Homesteads receive weaker road, patrol, and warning support than the Main Caravan Road;
+- a fresh local predator-warning strip contradicted the older official Guild hazard information;
+- the recent local sightings had already been reported;
+- the official patrol passed before those newest sightings;
+- official warning information can therefore lag behind lived outer-route conditions;
+- none of this proves deliberate suppression or deliberate monster redirection;
+- he remains unable to read Veyran writing;
+- his body is still recovering from CH-007/008 strain, though CH-009 does not require a new regeneration event.
+
+He does not know:
+- march-lures exist;
+- Hesk is deliberately redirecting migration;
+- casualty records are falsified;
+- outer communities are being deliberately designated as acceptable loss;
+- why Play Logic exists;
+- why regeneration exists;
+- Fate/Great Design truth.
+
+## Tavian Rook — Opening CH-009
+
+Tavian begins CH-009 knowing:
+- recent migration/track patterns near Greywake do not fit ordinary seasonal behavior;
+- CH-006 produced abnormal route overlap;
+- CH-007 produced a displaced pack near a route locals considered routine;
+- Red Jackal can survive severe trauma in medically abnormal ways;
+- Red Jackal can produce temporary nonstandard physical effects;
+- Red Jackal has demonstrated both useful tactical behavior and dangerous overconfidence;
+- Red Jackal accepted responsibility after CH-007 but remains difficult to predict.
+
+Tavian does not know:
+- march-lure existence;
+- Hesk's hidden policy;
+- falsified casualty records;
+- Play Logic's mechanism;
+- regeneration's mechanism;
+- Fate/Great Design truth.
+
+## Allowed CH-009 Discoveries — Red Jackal
+
+By the end of an approved CH-009 manuscript, Red Jackal may know:
+- Tavian's route investigation independently overlaps Red Jackal's recent predator encounters;
+- track direction, freshness, gait, depth, and repeated use can distinguish isolated movement from a pattern;
+- prey and predators are repeatedly crossing expected route boundaries in the same broad direction;
+- one clean observation can be invalidated by interference;
+- his own curiosity can create field risk even when he is trying to learn something real;
+- older track layers show the northward pattern existed before his interference;
+- repeated animal movement trends away from the Main Caravan Road and toward old northern paths;
+- deliberate/artificial influence is a hypothesis worth investigating, not a proven cause.
+
+He may not conclude:
+- a lure is responsible;
+- a human is definitely responsible;
+- the Guild is responsible;
+- Hesk is responsible;
+- records are being falsified.
+
+## Allowed CH-009 Discoveries — Tavian
+
+Tavian may learn:
+- Red Jackal will deliberately test uncertainty even after being told observation is preferable;
+- Red Jackal can contaminate evidence through curiosity;
+- Red Jackal can still follow specialist tactical direction once immediate danger begins;
+- Red Jackal's usefulness and danger can coexist;
+- the northward migration drift is repeated across older track layers and is not explained by today's disturbance;
+- deliberate/artificial influence is now a reasonable working hypothesis.
+
+Tavian may move toward:
+**R3 — Dangerous Wildcard**
+
+for evidence-based reasons only.
+
+He must still see Red Jackal's:
+- temporary power limits;
+- knowledge gaps;
+- judgment errors;
+- dependence on specialist competence.
+
+## Anti-Villain Curiosity Boundary
+
+CH-009 must include exactly one deliberate unnecessary field test/probe initiated by Red Jackal.
+
+The test:
+- occurs after Tavian asks for non-interference;
+- is motivated by wanting to know what will happen;
+- contaminates the live observation;
+- contributes causally to a localized pack complication;
+- is not secretly necessary or heroic;
+- does not produce definitive proof.
+
+## Play Logic Boundary
+
+Maximum CH-009 use:
+
+**one small Stage I utility manifestation attempt and one success total.**
+
+No retry.
+
+No new rule.
+
+F-004 remains **PLANTED — CH-005**.
+
+## Regeneration / M-005 Boundary
+
+No new regeneration clue.
+
+No severe injury is required.
+
+F-003 remains **PLANTED — CH-007**.
+
+## F-ID Boundary
+
+No new F-ID is authorized.
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+## M-007 Boundary
+
+M-007 remains inactive.
+
+No Fate/prophecy/destiny/causal-wake material.
+
+## Conspiracy Boundary
+
+CH-009 may establish only:
+- repeated directional migration drift;
+- contradiction between field evidence and expected route behavior;
+- old northern paths receiving unexpected animal traffic;
+- deliberate/artificial influence as a hypothesis.
+
+CH-009 may not establish:
+- march-lure evidence;
+- Hesk accusation;
+- Guild fraud;
+- falsified casualty records;
+- intentional sacrifice policy.
+
+## CH-010 Boundary
+
+CH-009 may end with the northbound track pattern.
+
+Do not begin:
+- Maelis's casualty/certification comparison;
+- Jessa's documentary pressure;
+- Hesk's direct records obstruction;
+- the repeating loss-record pattern.
+
+Those belong to CH-010.

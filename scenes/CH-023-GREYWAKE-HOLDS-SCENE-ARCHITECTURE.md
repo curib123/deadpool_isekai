@@ -4,7 +4,7 @@
 **Chapter:** CH-023 — Greywake Holds  
 **Movement:** VI — Greywake Holds  
 **Phase:** Detailed Scene Architecture  
-**Status:** DRAFT — GATE 8 PENDING  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-023 MANUSCRIPT AUTHORIZED  
 **Final Scene Count:** 6  
 **POV:** Red Jackal first person  
 **Primary Cast:** Red Jackal, Tavian Rook, Captain Brynn Alder, Greywake militia, work crews  
@@ -936,14 +936,16 @@ Before manuscript drafting, verify:
 
 # 22. Gate 8 Result
 
-**PENDING**
+**PASS**
 
-Formal QA record to be created:
+Formal QA record:
 
 `qa/CH-023-PRE-MANUSCRIPT-SCENE-QA.md`
 
-Until Gate 8 passes:
+The six-scene CH-023 architecture is locked.
 
-- CH-023 manuscript drafting is not authorized;
-- CH-024 Scene Architecture remains blocked;
-- no later chapter may be drafted.
+The only authorized next production step is:
+
+**Draft the actual CH-023 manuscript — Greywake Holds.**
+
+Do not draft CH-024 and do not create CH-024 Scene Architecture during the CH-023 manuscript step.

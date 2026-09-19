@@ -1,17 +1,15 @@
 # Chapter 20 — The Last Lure
 
-**Status:** CANON — OVERPOWERED RETCON GATE 9 PASS  
+**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
 **Word Count:** 3123,014  
-**Chapter QA:** `qa/CH-020-GATE-9-CHAPTER-QA.md`
-**Retcon QA:** `qa/CH-020-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
-By the time I got back from Broken North, mud had dried on my boots, my shoulders hurt from carrying half a road, and somebody had finally put a cup in my hand.
+By the time he got back from Broken North, mud had dried on his boots, his shoulders hurt from carrying half a road, and somebody had finally put a cup in his hand.
 
 That was the good news.
 
-The bad news was that Maelis put a ledger in front of me instead.
+The bad news was that Maelis put a ledger in front of him instead.
 
-I stared at it. She stared at me.
+He stared at it. She stared at him.
 
 “I still cannot read Veyran.”
 
@@ -23,7 +21,7 @@ I stared at it. She stared at me.
 
 That improved nothing. Jessa sat across the table with three stacks of Guild records arranged in front of her. She had already separated them by date and type. Issue forms on the left. Service records in the middle. Returns on the right.
 
-My contribution was apparently to remain nearby while people who could actually read turned inventory into a weapon against its owner. Maelis pushed another record toward Jessa.
+His contribution was apparently to remain nearby while people who could actually read turned inventory into a weapon against its owner. Maelis pushed another record toward Jessa.
 
 “Again.”
 
@@ -77,7 +75,7 @@ Jessa checked another section.
 
 “Not like this.”
 
-I looked between them.
+He looked between them.
 
 “Explain it to the illiterate person.”
 
@@ -111,7 +109,7 @@ Not technical.
 
 Personal.
 
-Maelis did not push. I did not either. Jessa looked down at the ledger again.
+Maelis did not push. He did not either. Jessa looked down at the ledger again.
 
 “There is a contingency class.”
 
@@ -141,7 +139,7 @@ The sentence came out quietly. Maelis asked, “Who can authorize it?”
 
 “No.”
 
-I leaned back against the wall. Of course he did not. Why share a contingency when you could keep the final decision in a locked cage with your name on it?
+He leaned back against the wall. Of course he did not. Why share a contingency when you could keep the final decision in a locked cage with your name on it?
 
 Jessa pulled a blank reconciliation sheet toward herself. Her hand stopped above it. Maelis noticed that too.
 
@@ -171,7 +169,7 @@ Maelis did not soften the answer.
 
 “I know.”
 
-Jessa looked toward me. I kept my mouth shut. That took effort.
+Jessa looked toward him. He kept his mouth shut. That took effort.
 
 She had two younger siblings. She had taken the Guild job because debt had already taught her what unemployment meant. Hesk had given her stable work.
 
@@ -209,11 +207,11 @@ Jessa said nothing. Maelis added, “I will not write your explanation for you.�
 
 Good.
 
-Neither would I.
+Neither would he.
 
 The room sat with her decision. Outside, someone ran past the records office. A militia horn sounded once from the lower quarter.
 
-Not alarm. Signal. Still close enough to remind us that the migration had not stopped while paperwork developed a conscience.
+Not alarm. Signal. Still close enough to remind them that the migration had not stopped while paperwork developed a conscience.
 
 Jessa picked up the pen. Her hand shook. She wrote anyway.
 
@@ -257,25 +255,25 @@ No pause this time.
 
 That was her choice.
 
-Only then did I move away from the wall.
+Only then did he move away from the wall.
 
-“If someone decides they dislike that choice,” I said, “they can dislike it from a safe distance.”
+“If someone decides they dislike that choice,” he said, “they can dislike it from a safe distance.”
 
-Jessa looked at me. Maelis did too.
+Jessa looked at him. Maelis did too.
 
-“What?” I asked.
+“What?” he asked.
 
 Maelis folded the order again.
 
 “Keep the distance part.”
 
-I could work with that. The Road Guild storehouse sat behind the main hall where half the buildings looked important because someone had painted numbers on the doors. I still could not read any of them.
+He could work with that. The Road Guild storehouse sat behind the main hall where half the buildings looked important because someone had painted numbers on the doors. He still could not read any of them.
 
-Civilization remained committed to excluding me from labels. Two militia guards came with the preservation order. Not enough to seize the Guild.
+Civilization remained committed to excluding him from labels. Two militia guards came with the preservation order. Not enough to seize the Guild.
 
-Enough to witness. Jessa led us through the receiving floor without speaking. Storehouse workers stopped when they recognized her.
+Enough to witness. Jessa led them through the receiving floor without speaking. Storehouse workers stopped when they recognized her.
 
-Then Maelis. Then me. That order was interesting.
+Then Maelis. Then him. That order was interesting.
 
 The lure-material cage was behind a second interior gate. Jessa pointed.
 
@@ -297,7 +295,7 @@ He looked at Jessa. She did not look away.
 
 “Open it,” Maelis said.
 
-The storekeeper hesitated. Then reached for the key. A voice behind us said, “Do not.”
+The storekeeper hesitated. Then reached for the key. A voice behind them said, “Do not.”
 
 Hesk.
 
@@ -363,7 +361,7 @@ Hesk looked at the storehouse cage.
 
 “If Broken North fails, enough to restore pressure around the main road.”
 
-Jessa’s face went pale. I watched Hesk.
+Jessa’s face went pale. He watched Hesk.
 
 “You mean push it back toward the outer routes.”
 
@@ -507,9 +505,9 @@ Hesk’s jaw tightened.
 
 “No.”
 
-One of the Guild men behind him moved. Not toward me. Toward her.
+One of the Guild men behind him moved. Not toward him. Toward her.
 
-I stepped between them. That was all. He stopped.
+He stepped between them. That was all. He stopped.
 
 So did the other two. Nobody asked why.
 
@@ -517,11 +515,11 @@ Good reputation was strange.
 
 You spent weeks trying to look dangerous and mostly annoyed clerks. Then one day people remembered you had walked away from things that should have killed you, ignored Guild orders in public, and made objects appear where objects had no business being. Suddenly standing still did some of the work.
 
-The first man looked at my hands. They were trembling. He still did not move.
+The first man looked at his hands. They were trembling. He still did not move.
 
 Smart man.
 
-Hesk looked at me.
+Hesk looked at him.
 
 “This is a Guild matter.”
 
@@ -529,33 +527,33 @@ Hesk looked at me.
 
 “It does not concern you.”
 
-I looked at Jessa.
+He looked at Jessa.
 
 “She made it concern me.”
 
-Jessa glanced at me. I kept my eyes on Hesk. Not because she needed permission.
+Jessa glanced at him. He kept his eyes on Hesk. Not because she needed permission.
 
 Because she had already chosen. One of the loyalists did not care about reputation. He moved around the side and grabbed for the ledger.
 
-Maelis pulled it back. The man caught her sleeve. I caught him.
+Maelis pulled it back. The man caught her sleeve. He caught him.
 
 Not hard enough to break anything. Hard enough to remove his hand. Another loyalist shoved one of the militia guards.
 
 The room moved all at once. The storekeeper backed away from the cage. Jessa grabbed the stock-reference sheet.
 
-Maelis secured the issue ledger under one arm. Hesk reached for the storehouse control book on the side desk. I saw it.
+Maelis secured the issue ledger under one arm. Hesk reached for the storehouse control book on the side desk. He saw it.
 
 So did Jessa.
 
 “That's the contingency book!”
 
-Hesk took it. Then moved for the side passage. I could have gone after him immediately.
+Hesk took it. Then moved for the side passage. He could have gone after him immediately.
 
-I did not. One loyalist was trying to pull the cage key from the storekeeper. Another had grabbed the edge of the record stack.
+He did not. One loyalist was trying to pull the cage key from the storekeeper. Another had grabbed the edge of the record stack.
 
 Too many things.
 
-For half a second, the obvious answer came to me. Smash the cage. Smash the stock.
+For half a second, the obvious answer came to him. Smash the cage. Smash the stock.
 
 Smash the records. No reserve. No evidence problem.
 
@@ -563,15 +561,15 @@ No lure problem. Also no controlled lure sequence. No proof.
 
 No record of what Jessa had risked her job to explain. That would have been satisfying. It would also have destroyed the plan, the proof, and the meaning of Jessa's choice.
 
-So I did not do it.
+So he did not do it.
 
 “Do not destroy anything!” Maelis shouted.
 
 “I know!”
 
-A loyalist slammed the inner gate. The metal door started closing between us and the records cage. If it shut, we lost the stock side while Hesk ran with the control book.
+A loyalist slammed the inner gate. The metal door started closing between them and the records cage. If it shut, they lost the stock side while Hesk ran with the control book.
 
-I pictured one wedge.
+He pictured one wedge.
 
 Small.
 
@@ -591,7 +589,7 @@ The wedge did not move.
 
 The militia guard shoved the gate back. The storekeeper dropped the key. Jessa caught it before anyone else.
 
-I dismissed the wedge as soon as the gate was clear.
+He dismissed the wedge as soon as the gate was clear.
 
 No reason to turn a doorstop into a revelation. Maelis pointed at the cage.
 
@@ -609,7 +607,7 @@ The militia guard stopped him. The other two had stopped fighting. Not surrender
 
 Stopped choosing Hesk over the order. Hesk was already gone.
 
-I went through the side passage after him.
+He went through the side passage after him.
 
 The outer service yard opened ahead. Hesk had crossed most of it. A side gate stood open beyond him where the road split toward the Guild service lanes.
 
@@ -617,23 +615,23 @@ He looked back once.
 
 Distance was not the problem.
 
-That realization arrived with several answers I did not use. I could cross the yard faster than he expected. I could put something in front of the gate. Under his feet. Around him. I could make the chase end before it became one.
+That realization arrived with several answers he did not use. He could cross the yard faster than he expected. He could put something in front of the gate. Under his feet. Around him. He could make the chase end before it became one.
 
-Instead, I hesitated.
+Instead, he hesitated.
 
-He had taken the control book and was running toward the service lanes. Part of me wanted to know what a man like Hesk did when his hidden reserve stopped being hidden.
+He had taken the control book and was running toward the service lanes. Part of him wanted to know what a man like Hesk did when his hidden reserve stopped being hidden.
 
 That part won for one second too long.
 
 He disappeared behind a wagon shed.
 
-Maelis called my name from inside.
+Maelis called his name from inside.
 
-I looked at the empty gate, then back toward the storehouse where Jessa, the records, the stock, and three men who had just tried to seize evidence were still waiting.
+He looked at the empty gate, then back toward the storehouse where Jessa, the records, the stock, and three men who had just tried to seize evidence were still waiting.
 
-I went back.
+He went back.
 
-I told myself it was prioritization.
+He told himself it was prioritization.
 
 It was.
 
@@ -671,9 +669,9 @@ Maelis did not lie.
 
 “I don't know.”
 
-Jessa nodded. That hurt more than a reassuring answer would have. I leaned against the records table.
+Jessa nodded. That hurt more than a reassuring answer would have. He leaned against the records table.
 
-The militia guard returned from the outer yard before I had finished deciding whether letting Hesk run had been clever or merely interesting.
+The militia guard returned from the outer yard before he had finished deciding whether letting Hesk run had been clever or merely interesting.
 
 “No sign of Hesk.”
 
@@ -703,7 +701,7 @@ Jessa stood too fast.
 
 “Any standard Road Guild lure housing keyed to Roadmaster override.”
 
-Maelis went still. I looked at Jessa.
+Maelis went still. He looked at Jessa.
 
 “Can he activate a lure with that?”
 
@@ -721,7 +719,7 @@ The storekeeper said, “There is one field site still using the older Roadmaste
 
 “Where?”
 
-He named a route sector I did not recognize. Jessa did. Her face tightened.
+He named a route sector he did not recognize. Jessa did. Her face tightened.
 
 “That is still inside the active diversion line.”
 
@@ -743,9 +741,9 @@ Outside, another horn sounded. Longer this time. Closer.
 
 Nobody said what it meant. They did not have to.
 
-We had the stock.
+They had the stock.
 
-We had the proof.
+They had the proof.
 
 Hesk still had one key.
 

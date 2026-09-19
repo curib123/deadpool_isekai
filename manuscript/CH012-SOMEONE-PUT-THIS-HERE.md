@@ -1,7 +1,8 @@
 # Chapter 12 — Someone Put This Here
 
-**Status:** DRAFT — GATE 9 NOT YET RUN  
-**Word Count:** 3,078
+**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED  
+**Word Count:** 3,078  
+**Chapter QA:** `qa/CH-012-GATE-9-CHAPTER-QA.md`
 
 “A march-lure.”
 

@@ -1212,3 +1212,25 @@ It must not explain why.
 **F-004 Status: PLANTED — CH-005**
 
 Status changed after approved CH-005 manuscript prose contained both components and passed Gate 9.
+
+
+
+# CH-007 F-003 Scene Planning
+
+**Chapter:** CH-007 — You Should Be Dead  
+**Status:** PLANNING ONLY — NO CH-007 MANUSCRIPT YET
+
+F-003 is planned through two required components:
+
+- **SC-007-02 / SC-007-03 — Severe Injury and Autonomous Correction:** Red Jackal suffers life-threatening physical trauma, remains impaired, and his body begins correcting the damage before healer intervention. The process is painful and exhausting rather than an instant reset.
+- **SC-007-04 — Healing Magic Encounters an Already-Correcting Body:** Sela demonstrates normal trauma care/healing on an ordinary patient, then observes that Red Jackal's wound is already changing under its own process. A cautious standard healing/diagnostic technique does not behave as it would on a normal untreated wound.
+
+The clue must support:
+
+**Red Jackal's regeneration is not behaving like ordinary conventional healing magic.**
+
+It must not explain why.
+
+**F-003 Status: PLANNED — NOT YET PLANTED**
+
+No status change is allowed until approved CH-007 manuscript prose contains both components and passes Gate 9.

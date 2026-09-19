@@ -3647,7 +3647,7 @@ CH-015 still owns Red Jackal's unauthorized lure-disruption mistake.
 # CH-014 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-014 — Necessary Losses  
-**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+**Status:** SUPERSEDED BY CH-014 CANON CHECKPOINT
 
 ## Opening State
 
@@ -3853,3 +3853,273 @@ Tavian must make the risk explicit:
 Red must hear and understand this before CH-015.
 
 CH-015 still owns Red Jackal's first major unauthorized lure-disruption action.
+
+# CH-014 Canon Checkpoint
+
+**Chapter:** CH-014 — Necessary Losses  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH014-NECESSARY-LOSSES.md`  
+**QA:** `qa/CH-014-GATE-9-CHAPTER-QA.md`
+
+## Hesk History / Rationale — CANON
+
+CH-014 canonically establishes:
+
+- eleven years before the story, an early-winter migration and road collapse isolated Greywake;
+- caravans vanished or failed to arrive;
+- outer farms failed;
+- food, medicine, lamp oil, salt and other supplies became scarce;
+- people froze and starved;
+- relief was delayed;
+- Valedorn officials questioned whether Greywake's route justified continued support;
+- Hesk helped reopen the road;
+- the event shaped his belief that someone on the frontier must decide what cannot be allowed to fail.
+
+Hesk's worldview is now openly stated:
+
+**A frontier does not survive by saving everyone. It survives by deciding what cannot be allowed to die.**
+
+This history explains Hesk.
+
+It does not absolve:
+- concealed victim selection;
+- manipulated reporting;
+- disproportionate outer exposure;
+- expendable irregular labor;
+- unilateral control.
+
+## Main Caravan Road Stakes — CANON
+
+The Main Caravan Road is canonically established as Greywake's primary reliable heavy-supply route for:
+
+- grain and preserved food;
+- salt;
+- medicine;
+- metal/tools/replacement parts;
+- lamp oil;
+- cloth/dry goods;
+- caravan work and trade;
+- emergency relief;
+- external authority contact.
+
+Minor routes and river access exist but cannot immediately replace the Main Caravan Road's capacity/safety during the current migration instability.
+
+Abrupt loss of the road is therefore a genuine settlement-level threat.
+
+This does not make outer communities expendable.
+
+## Outer Homestead Value — CANON
+
+CH-014 also canonically establishes that outer homesteads contribute:
+
+- local food/grain;
+- timber;
+- livestock;
+- labor;
+- repair work.
+
+Kellan's objection is now explicit:
+
+**the outer communities are part of what keeps Greywake alive, not empty margins outside the real settlement.**
+
+## Charter / Funding State — CANON
+
+Hesk canonically confirms that:
+
+- he has been trying to keep the route viable long enough to secure stronger Valedorn support;
+- expanded charter support could provide road funding, defensive support, patrol resources and maintenance;
+- route-performance records were part of that effort;
+- those records now have credibility problems because outer losses were weakened/omitted.
+
+Maelis canonically establishes that survival goals do not excuse false accounting.
+
+## Network / Backflow Knowledge — CANON
+
+Tavian canonically establishes:
+
+- repeated lure pressure has changed current animal movement;
+- predator and prey routes overlap abnormally;
+- the network cannot safely be treated as independent switches;
+- removing one influence does not guarantee animals return to an old natural route;
+- pressure may rebound/spill into another available corridor.
+
+The approved term is:
+
+**backflow risk**
+
+Current character knowledge:
+
+**changing one lure before the full network is mapped may redirect displaced migration pressure into previously screened routes.**
+
+Still unknown:
+- exact lure count;
+- exact full network geometry;
+- exact backflow route;
+- exact backflow timing;
+- exact species response;
+- exact magnitude;
+- guaranteed outcome.
+
+No actual observed backflow has occurred yet.
+
+CH-016 still owns the first major observed backflow after CH-015.
+
+## Temporary Emergency Position — CANON
+
+Brynn's temporary position is now canon:
+
+- no unauthorized lure alteration;
+- no secret Guild servicing changes;
+- militia receives route-risk information;
+- known/suspected sites are mapped;
+- outer communities receive warning/preparation;
+- records/sites remain transparent and preserved.
+
+This is a least-bad operational hold.
+
+It is not moral endorsement of Hesk's policy.
+
+## Red Jackal — Post-CH-014 Development
+
+Red canonically still believes:
+
+- Hesk had no right to secretly assign expendability;
+- outer communities were not legitimate hidden sacrifice;
+- authority does not automatically deserve obedience.
+
+Red also now understands:
+
+**if he breaks the wrong part of the system out of anger and someone else pays the price, he has also made a choice for them.**
+
+This is the exact responsibility pressure required before CH-015.
+
+Red is:
+- warned;
+- informed;
+- still frustrated;
+- still willing to defy authority under personally compelling conditions.
+
+He is not converted into a lawful hero.
+
+## Tavian Rook — Post-CH-014 Knowledge
+
+Tavian canonically:
+
+- recognizes network interdependence;
+- recognizes bounded backflow risk;
+- requires fuller mapping before lure changes;
+- refuses to let Hesk convert ecological caution into moral approval;
+- explicitly warns Red about backflow.
+
+His final warning to Red is canon:
+
+**“Changing any lure before we map the full network could cause a backflow.”**
+
+## Maelis Orra — Post-CH-014 Development
+
+Maelis canonically recognizes:
+
+**evidence solved the factual dispute; it did not solve the operational problem.**
+
+She:
+- keeps Hesk's wrongdoing on record;
+- supports transparent mapping/preservation;
+- opposes renewed secret Guild control;
+- defers ecological sequencing to Tavian.
+
+## Captain Brynn Alder — Post-CH-014 Development
+
+Brynn canonically balances:
+
+- core safety;
+- outer-homestead safety;
+- militia deployment;
+- transparency;
+- lack of a safe replacement plan.
+
+She refuses:
+- secret Hesk control;
+- blind immediate shutdown.
+
+## Kellan Dorr — Post-CH-014 Development
+
+Kellan canonically:
+
+- rejects treating outer people as replaceable;
+- insists outer communities receive warning/access;
+- hates delaying action;
+- nevertheless accepts that blind lure disruption can redirect danger onto another homestead.
+
+This means CH-015 cannot treat Kellan as an omniscient guarantee that immediate action is safe.
+
+## CH-015 Immediate Handoff — CANON
+
+Near CH-014's end:
+
+- fresh predator movement is reported near the east outer homesteads;
+- the affected farms sit above the timber-road junction;
+- livestock are scattered;
+- no confirmed attack has yet occurred;
+- a prior service entry exists near that corridor;
+- the exact lure site remains unconfirmed;
+- Brynn dispatches warnings and militia support;
+- no one is authorized to alter a suspected lure.
+
+This creates CH-015's dilemma:
+
+**people may be in near-term danger before the network map is complete.**
+
+No CH-015 site name beyond this generic geographic handoff is canonically locked yet.
+
+## Power / Regeneration State After CH-014
+
+CH-014 contains:
+- no Play Logic attempt;
+- no manifestation;
+- no regeneration event;
+- no combat;
+- no lure interference;
+- no new M-005 clue.
+
+F-003 remains **PLANTED — CH-007**.  
+F-004 remains **PLANTED — CH-005**.
+
+## F-ID State After CH-014
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+No F-ID changed state in CH-014.
+
+## M-007 State After CH-014
+
+M-007 remains inactive.
+
+Backflow is currently understood as local ecological/operational behavior, not Fate.
+
+## CH-015 Handoff
+
+CH-015 — **One Stake Too Many** may now begin with:
+
+- urgent east-outer-homestead pressure;
+- a suspected/known lure influence near the threatened corridor;
+- residents/livestock at immediate near-term risk;
+- incomplete network mapping;
+- Red already knowing blind alteration may cause backflow;
+- Kellan emotionally invested but not able to calculate network-wide effects;
+- Tavian's warning already explicitly given;
+- Brynn's no-unauthorized-alteration order active;
+- Hesk/Guild personnel able to oppose unauthorized interference;
+- no actual backflow yet.
+
+CH-015 owns:
+
+- selecting the exact physical lure site;
+- Red's knowingly unauthorized intervention;
+- Stage I utility used to disable/extract part of the lure setup;
+- the lure going dead;
+- distant monster calls changing direction.
+
+CH-016 still owns the observed major backflow and Kellan's severe injury.

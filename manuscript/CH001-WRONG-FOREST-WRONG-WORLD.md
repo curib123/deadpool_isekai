@@ -126,7 +126,7 @@ A board. A pole. A shield.
 
 Anything.
 
-The animal sprang. He threw his injured arm up and had one stupid, desperate thought. He need something between them.
+The animal sprang. He threw his injured arm up and had one stupid, desperate thought. He needed something between them.
 
 Something appeared.
 

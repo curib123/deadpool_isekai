@@ -223,7 +223,7 @@ The driver had already moved the cart forward by half a wheel. He stopped. Kella
 
 “No.”
 
-He looked at him.
+Kellan looked at the driver.
 
 “No forward. No back.”
 
@@ -321,7 +321,7 @@ The driver looked at him.
 
 “Because the right half is flatter.”
 
-He looked at him.
+Kellan looked at the driver.
 
 “Can it move?”
 

@@ -82,12 +82,24 @@ Travel matters. Use roads, ships, caravans, magical routes, passes, wilderness, 
 - Location:
 - Opening situation:
 - Primary goal:
+- Native story baseline before Red interferes:
+- Who owns the original objective:
 - Conflict:
+- Red's personal/selfish reason to engage:
+- Red intrusion / false-main-character beat:
+- Earned unexpected turn:
+- Aura-farming opportunity (optional):
+- Enemy-play / voluntary restraint choice:
+- Serious-switch threshold (if any):
 - Discovery:
 - Character beat:
 - Comedy opportunity (optional):
 - Play Logic use:
+- Fourth-Wall Pause opportunity (optional):
 - System/magic use:
+- Consequence caused by Red:
+- Causal reroute that preserves sequence:
+- Off-screen independent story movement (if applicable):
 - Mystery/foreshadowing:
 - Continuity dependencies:
 - Knowledge dependencies:

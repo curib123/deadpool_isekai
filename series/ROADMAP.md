@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-008 CANON — CH-009 SCENE ARCHITECTURE PASSED / CH-009 MANUSCRIPT AUTHORIZED
+**Status:** CH-009 CANON — CH-010 SCENE ARCHITECTURE AUTHORIZED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -39,6 +39,7 @@ F-003: **PLANTED — CH-007**
 CH-008 Scene Architecture: **PASS — GATE 8**  
 CH-008 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-009 Scene Architecture: **PASS — GATE 8**  
+CH-009 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 Red Jackal Series Voice: **LOCKED — DRY/DEADPAN INTERNAL HUMOR + RESTRAINED FOURTH-WALL STANDARD**  
 Red Jackal Anti-Villain Expression: **LOCKED**  
 Red Jackal Reputation / Fear Progression: **LOCKED — R0 TO R6**  
@@ -48,9 +49,9 @@ Aura Evolution: **MANUFACTURED → EARNED → REPUTATION-SUPPORTED**
 
 The project is now authorized to proceed to:
 
-1. **Draft CH-009 — Wrong Tracks manuscript only**
+1. **Detailed Scene Architecture — CH-010 The Ledger Doesn't Balance only**
 
-CH-009 Pre-Manuscript Scene QA has passed. The studio may now draft the actual CH-009 manuscript — Wrong Tracks only. No new F-ID is authorized in CH-009; F-001 through F-004 remain in their existing planted states. M-007 remains inactive. CH-011 still owns the first march-lure discovery. CH-010 planning remains deferred and no later destination has been selected.
+CH-009 Chapter QA has passed and CH-009 is canon. No F-ID changed state in CH-009; F-001 through F-004 remain in their existing planted states. Tavian may now treat Red Jackal as an early R3 Dangerous Wildcard based on personally observed behavior. M-007 remains inactive. CH-011 still owns the first march-lure discovery. The studio may now build Detailed Scene Architecture for CH-010 — The Ledger Doesn't Balance only. CH-010 manuscript drafting remains blocked until its Gate 8 Pre-Manuscript Scene QA passes, and no later destination has been selected.
 
 ## Destination Naming Law
 
@@ -66,7 +67,7 @@ This table is intentionally empty.
 
 | Volume | Destination ID | Arc Name | Local Conflict | Main Antagonist | Major Mystery Contribution | Status |
 |---|---|---|---|---|---|---|
-| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-009 SCENE ARCHITECTURE PASS — CH-009 MANUSCRIPT AUTHORIZED |
+| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-009 CANON — CH-010 SCENE ARCHITECTURE AUTHORIZED |
 
 ## Lock
 
@@ -76,4 +77,4 @@ Do not add a row until:
 - Destination Inventory exists; **PASS**
 - Destination Selection QA approves an existing world location; **PASS — DEST-001 Greywake**
 
-Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-008 are canon. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. CH-009 Scene Architecture has passed Gate 8 and CH-009 manuscript prose is authorized; CH-010 planning and all later-route selection remain deferred.
+Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-009 are canon. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. CH-010 Detailed Scene Architecture is authorized; CH-010 manuscript prose and all later-route selection remain deferred.

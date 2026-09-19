@@ -1,7 +1,7 @@
 # Chapter 15 — One Stake Too Many
 
 **Status:** DRAFT — GATE 9 NOT YET RUN  
-**Word Count:** 2,855
+**Word Count:** 2,846
 
 By the time we reached the upper approach, nobody was pretending this was just a mapping trip. The road narrowed above the timber-road junction and climbed between old retaining stones dark with moss. Beyond them, the land opened toward the outer farms in long uneven strips separated by low fences, drainage cuts, and tree lines.
 
@@ -651,9 +651,7 @@ The guard started forward. Kellan blocked him with both hands.
 
 “No.”
 
-Tavian did not help either of us. He watched the stake. Watched me.
-
-Watched the slope. He watched the stake, the slope, and every person around the recess. I drove the wedge under the collar.
+Tavian did not help either of us. He watched the stake, the slope, and every person around the recess. I drove the wedge under the collar.
 
 My leg shook. The bite wound had started closing, but the muscles around it felt weak. My side burned.
 

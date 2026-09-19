@@ -4,7 +4,7 @@
 **Destination:** DEST-001 — Greywake  
 **Arc:** Greywake Arc  
 **Phase:** Chapter Roadmap  
-**Status:** GATE 7 PASS — CHAPTER ROADMAP LOCKED / CH-019 CANON / CH-020 SCENE ARCHITECTURE AUTHORIZED  
+**Status:** GATE 7 PASS — CHAPTER ROADMAP LOCKED / CH-019 CANON / CH-020 MANUSCRIPT AUTHORIZED  
 **Final Chapter Count:** 26  
 **POV:** Red Jackal first person throughout  
 **Scope:** Chapter architecture only. No full scenes, final dialogue, or manuscript prose.

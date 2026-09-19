@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** VOLUME 1 OVERPOWERED RETCON COMPLETE — GATE 10 PASS / GATE 11 PASS; VOLUME 2 CH-028 GATE 8 NEXT
+**Status:** SERIES POV/STYLE RETCON ACTIVE — CLOSE THIRD-PERSON LIMITED / CH-001→CH-027 FULL MANUSCRIPT REVISION REQUIRED / CH-028 PAUSED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -19,9 +19,9 @@ Mystery Foundation: **PASS**
 Destination Inventory: **PASS**  
 Volume 1 Architecture: **PASS**  
 Chapter Roadmap: **PASS — 26 chapters**  
-Volume 1 Canon Revalidation: **PASS — OVERPOWERED RETCON GATE 10 / 26 OF 26 CANON / 75,157 WORDS**  
+Volume 1 Canon Revalidation: **STALE AFTER POV/STYLE RETCON — NEW GATE 10 REQUIRED AFTER CH-001→CH-026 REWRITE**  
 Publish Version QA Standard: **ACTIVE — GATE 11**  
-Volume 1 Publish Version QA: **PASS — GATE 11 / 26 OF 26 PUBLISH-READY / RETCON REFRESH COMPLETE**  
+Volume 1 Publish Version QA: **STALE AFTER POV/STYLE RETCON — NEW GATE 11 REQUIRED**  
 Volume 1 Pacing Revision v2: **COMPLETE — MERGED WITH OVERPOWERED RETCON**  
 Red Jackal Overpowered Retcon: **ACTIVE — NO POWER PROGRESSION / UNBOUNDED PLAY LOGIC / REVELATION MODEL**  
 Volume 1 Power-Retcon Manuscript Audit: **COMPLETE — 26/26 AUDITED / 13 REVISED + GATE 9 PASS / 13 KEEP**  
@@ -30,7 +30,7 @@ Volume 2 Architecture: **PASS — GATE 6 / MERROWGATE ARC LOCKED**
 Volume 2 Chapter Roadmap: **PASS — GATE 7 / 24 CHAPTERS / CH-027 THROUGH CH-050 LOCKED**  
 CH-027 Scene Architecture: **PASS — GATE 8 / 5 SCENES LOCKED**  
 CH-027 Manuscript: **CANON — GATE 9 PASS / 2,108 WORDS / DEADPAN TRAVEL-OPENING VOICE LOCKED**  
-CH-028 Scene Architecture: **AUTHORIZED — GATE 8 NEXT**  
+CH-028 Scene Architecture: **PAUSED — SERIES VOICE RETCON MUST FINISH THROUGH CH-027 FIRST**  
 CH-001 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-002 Scene Architecture: **PASS — GATE 8**  
 CH-002 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
@@ -216,3 +216,27 @@ Result:
 **Gate 11:** PASS — 26/26 publication copies PUBLISH-READY.
 
 **Next:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.
+
+
+## Series POV / Style Retcon — 2026-09-19
+
+New locked manuscript standard:
+
+`manuscript/WRITING-RULES.md`
+
+Core rules:
+- close third-person limited centered on Red Jackal;
+- simple, natural English;
+- no first-person narrator;
+- no default direct reader-talk;
+- short/selective internal thought;
+- human dialogue with interruption, pauses, teasing, incomplete answers, callbacks and subtext;
+- Red's strongest voice carried through speech, behavior and free-indirect narration;
+- comedy from character/situation;
+- serious and emotional scenes may become quiet;
+- overpowered revelation model remains unchanged.
+
+Scope:
+**all current canon manuscripts CH-001 through CH-027 require prose revision and Gate 9 revalidation.**
+
+CH-028 remains paused until this series-wide voice conversion is complete.

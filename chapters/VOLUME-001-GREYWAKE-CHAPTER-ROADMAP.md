@@ -9,6 +9,23 @@
 **POV:** Red Jackal first person throughout  
 **Scope:** Chapter architecture only. No full scenes, final dialogue, or manuscript prose.
 
+# Soul-Drift / Story-Intruder Retcon Override
+
+This roadmap keeps its **26-chapter order and pacing**.
+
+The retcon in `planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md` overrides conflicting character/power/POV language.
+
+Interpretation rules:
+- POV for rewritten manuscript = close first-person Red;
+- Fourth-Wall Pause is available from CH-001;
+- Red has no power progression;
+- Red has no conventional moral-development arc;
+- fields formerly labeled “Red Jackal Development” describe a stable-character choice, consequence, relationship, reputation, or reveal beat;
+- Stage I/II language is historical and nonbinding;
+- small manifestations are voluntary display choices;
+- injuries do not imply a finite regeneration resource;
+- Greywake pacing and chapter sequence remain unchanged.
+
 # Power Retcon Override
 
 The later authorial retcon in `planning/RED-JACKAL-OVERPOWERED-RETCON.md` supersedes all Stage I/II progression and raw-power ceiling language in this roadmap.
@@ -108,11 +125,11 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Physical disorientation, unfamiliar body, a small opportunistic predator encounter, no money/equipment/local knowledge.  
 **Exploration Purpose:** Establish Hollow March danger, old road remnants, distant signs of settlement, and that wilderness is not empty scenery.  
 **Character Beat:** Red Jackal responds to fear by turning the situation into a performance for himself/readers.  
-**Red Jackal Development:** None yet; establish baseline self-control-through-performance.  
+**Red Jackal Stable-Character Beat:** None yet; establish baseline self-control-through-performance.  
 **Supporting Development:** None.  
 **Antagonist Pressure:** None direct. The local conflict exists elsewhere without him.  
 **Action Progression:** First survival encounter; small-scale and messy rather than heroic.  
-**Stage I Play Logic:** First crude improvised manifestation—short-lived, useful, unstable, and not fully understood.  
+**Play Logic Display Choice:** First crude improvised manifestation—short-lived, useful, unstable, and not fully understood.  
 **Regeneration Consequence:** Minor injury heals abnormally; pain remains and confuses him.  
 **Aura-Farming Opportunity:** He tries to make his first victory look more intentional than it was.  
 **Comedy Opportunity:** His assumption that an isekai arrival should come with instructions, only to receive none.  
@@ -133,11 +150,11 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Every normal identity field fails; officials cannot decide which rules apply.  
 **Exploration Purpose:** Introduce Greywake's palisade, river fog, gate culture, practical frontier bureaucracy, and dependence on System records.  
 **Character Beat:** Red Jackal discovers that being impossible sounds cooler than being administratively unusable.  
-**Red Jackal Development:** First experience of freedom from the System also creating practical vulnerability.  
+**Red Jackal Stable-Character Beat:** First experience of freedom from the System also creating practical vulnerability.  
 **Supporting Development:** Brynn is established as cautious rather than hysterical.  
 **Antagonist Pressure:** Hesk learns that an unregistered capable stranger has arrived.  
 **Action Progression:** Social/legal pressure rather than combat.  
-**Stage I Play Logic:** None required.  
+**Play Logic Display Choice:** None required.  
 **Regeneration Consequence:** None.  
 **Aura-Farming Opportunity:** Strong attempt to turn the failed appraisal into a mysterious entrance; some guards are unsettled, clerks are mostly annoyed.  
 **Comedy Opportunity:** Bureaucracy refuses to be impressed by existential mystery.  
@@ -158,11 +175,11 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Physical measurements work; identity records still do not. Maelis refuses his preferred dramatic explanations without evidence.  
 **Exploration Purpose:** Introduce Ledger standards, local records culture, and the difference between physical fact and System identity.  
 **Character Beat:** Maelis establishes herself as someone who records what happened, not what Red Jackal wishes looked cooler.  
-**Red Jackal Development:** Realizes the anomaly is repeatable, not a one-off malfunction.  
+**Red Jackal Stable-Character Beat:** Realizes the anomaly is repeatable, not a one-off malfunction.  
 **Supporting Development:** Maelis's procedural confidence and Jessa's nervous familiarity with route paperwork are established.  
 **Antagonist Pressure:** Hesk sees the Ledger's interest and decides an off-book arrangement is safer than formal guild registration.  
 **Action Progression:** None; investigative/social tension.  
-**Stage I Play Logic:** None in CH-003; no attempt or manifestation. F-004 remains protected for CH-005.  
+**Play Logic Display Choice:** None in CH-003; no attempt or manifestation. F-004 remains protected for CH-005.  
 **Regeneration Consequence:** None.  
 **Aura-Farming Opportunity:** Red Jackal gives an overdramatic non-answer about his identity; Maelis writes down “refused/unknown” rather than the version he wanted.  
 **Comedy Opportunity:** Maelis's literal recordkeeping punctures his narration.  
@@ -183,11 +200,11 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** The offer is useful but leaves Red Jackal without normal protections, liability, or appeal.  
 **Exploration Purpose:** Explain Greywake's economic dependence on roads/caravans through action and negotiation rather than lore dump.  
 **Character Beat:** Red Jackal knowingly accepts a bad arrangement because it benefits him now.  
-**Red Jackal Development:** Establishes his willingness to exploit systems while underestimating how systems can exploit him.  
+**Red Jackal Stable-Character Beat:** Establishes his willingness to exploit systems while underestimating how systems can exploit him.  
 **Supporting Development:** Jessa is shown as competent but visibly cautious around Hesk's informal orders.  
 **Antagonist Pressure:** Hesk deliberately tests whether Red Jackal can be used for high-risk assignments.  
 **Action Progression:** Preparation rather than combat.  
-**Stage I Play Logic:** None necessary.  
+**Play Logic Display Choice:** None necessary.  
 **Regeneration Consequence:** Hesk knows only that Red Jackal survived the wilderness; he does not yet understand regeneration.  
 **Aura-Farming Opportunity:** Red Jackal accepts the contract as if he is granting Hesk a favor. Hesk lets him think that.  
 **Comedy Opportunity:** Negotiating pay while not understanding local prices.  
@@ -208,11 +225,11 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Conventional equipment is insufficient or breaks at the wrong moment.  
 **Exploration Purpose:** Show the maintained main road and how much effort/resources Greywake spends protecting it.  
 **Character Beat:** Red Jackal discovers Play Logic responds better to a clear mental idea than to vague wishing.  
-**Red Jackal Development:** First intentional experimentation instead of accidental manifestation.  
+**Red Jackal Stable-Character Beat:** First intentional experimentation instead of accidental manifestation.  
 **Supporting Development:** Road workers establish practical frontier competence.  
 **Antagonist Pressure:** The assignment keeps Red Jackal on the protected road and away from outer-route questions.  
 **Action Progression:** Work hazard → small monster pressure → improvisational solution.  
-**Stage I Play Logic:** Improvised tool / absurd combat object; useful but unstable.  
+**Play Logic Display Choice:** Improvised tool / absurd combat object; useful but unstable.  
 **Regeneration Consequence:** Minor damage possible; not the focus.  
 **Aura-Farming Opportunity:** He chooses a visually excessive tool when a plain one would work.  
 **Comedy Opportunity:** The manifestation obeys the concept more literally than the imagined aesthetic.  
@@ -233,11 +250,11 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Tavian challenges unsafe assumptions and notices species tracks crossing in patterns that should not overlap.  
 **Exploration Purpose:** Contrast the heavily maintained profitable road with increasingly neglected side routes.  
 **Character Beat:** Tavian is introduced as competent enough that Red Jackal cannot dismiss him as boring authority.  
-**Red Jackal Development:** First friction with someone unimpressed by theatrics but demonstrably useful.  
+**Red Jackal Stable-Character Beat:** First friction with someone unimpressed by theatrics but demonstrably useful.  
 **Supporting Development:** Tavian's rescue-first mentality and migration expertise established.  
 **Antagonist Pressure:** Guild guards encourage staying on approved routes and dismiss Tavian's concerns.  
 **Action Progression:** Tracking tension, short pursuit/defense encounter.  
-**Stage I Play Logic:** Optional simple defensive manifestation; no escalation.  
+**Play Logic Display Choice:** Optional simple defensive manifestation; no escalation.  
 **Regeneration Consequence:** None major.  
 **Aura-Farming Opportunity:** Red Jackal attempts dramatic monster positioning; Tavian interrupts with a practical safety instruction.  
 **Comedy Opportunity:** Tavian's dead-serious refusal to participate in the performance.  
@@ -258,11 +275,11 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Red Jackal takes a severe hit he assumes he can absorb; someone else is endangered by the same reckless positioning.  
 **Exploration Purpose:** Show the cost of frontier medicine and the difference between Red Jackal's body and ordinary bodies.  
 **Character Beat:** Sela is angry not because Red Jackal was hurt, but because his recklessness changed the danger around everyone else.  
-**Red Jackal Development:** First concrete lesson that regeneration does not make his choices consequence-free.  
+**Red Jackal Stable-Character Beat:** His recklessness produces a concrete consequence for other people; he notices the link without becoming morally reformed.  
 **Supporting Development:** Tavian's distrust of reckless talent deepens; Sela becomes consequence witness.  
 **Antagonist Pressure:** The attack is a downstream effect of manipulated routes, though nobody proves it yet.  
 **Action Progression:** Harder pack fight and rescue extraction.  
-**Stage I Play Logic:** Improvised short-lived defense or rescue aid.  
+**Play Logic Display Choice:** Improvised short-lived defense or rescue aid.  
 **Regeneration Consequence:** Major early demonstration: painful abnormal recovery, exhaustion, reduced precision afterward.  
 **Aura-Farming Opportunity:** He tries to minimize the injury after the fact; Sela refuses to let him turn it into a cool story.  
 **Comedy Opportunity:** Limited and post-danger only.  
@@ -283,12 +300,12 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Outer residents receive late warnings, poor road maintenance, and fewer guards despite paying into Greywake's economy.  
 **Exploration Purpose:** Humanize outer homesteads and establish why losing them matters.  
 **Character Beat:** Kellan refuses to be impressed by Red Jackal's power if he only uses it where people are already protected.  
-**Red Jackal Development:** Begins forming chosen personal investment despite insisting the work is transactional.  
+**Red Jackal Stable-Character Beat:** Begins forming chosen personal investment despite insisting the work is transactional.  
 **Anti-Villain Expression:** He takes the job for pay, to escape patienthood, and because the protection disparity has started bothering his curiosity. His concern for the homesteads grows after he arrives; the chapter must not pretend he came because of pure altruism.  
 **Supporting Development:** Kellan's anger at Greywake's priorities becomes understandable rather than abstract.  
 **Antagonist Pressure:** Guild policy visibly favors the core road.  
 **Action Progression:** Environmental danger/repair pressure rather than major combat.  
-**Stage I Play Logic:** Temporary terrain assistance for a bridge or crossing.  
+**Play Logic Display Choice:** Temporary terrain assistance for a bridge or crossing.  
 **Regeneration Consequence:** Residual exhaustion from CH-007 limits how casually he can manifest.  
 **Aura-Farming Opportunity:** Little reaction—the homesteaders are too busy working to care.  
 **Comedy Opportunity:** Red Jackal discovers practical labor is resistant to dramatic entrances.  
@@ -309,13 +326,13 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Evidence contradicts Guild migration maps.  
 **Exploration Purpose:** Deepen Hollow March ecology and teach readers how local experts read monster movement.  
 **Character Beat:** Red Jackal must follow someone else's expertise instead of improvising everything.  
-**Red Jackal Development:** Learns that not knowing the rules makes rule-breaking less impressive.  
+**Red Jackal Stable-Character Beat:** Not knowing the local rules makes his rule-breaking less useful, so he follows Tavian's information for this scene without becoming more obedient.  
 **Anti-Villain Expression:** Curiosity pushes him to make one deliberate, unnecessary field test/probe of the abnormal route pattern despite Tavian preferring observation first. The test creates a localized complication that feeds the planned displaced-pack pressure. Red Jackal must admit he did it because he wanted to know what would happen, not because it was necessary.  
 **Reputation / Threat Perception:** Tavian shifts from “reckless anomaly” toward **dangerous wildcard**. The concern is not raw strength; it is that Red Jackal combines unusual survivability, nonstandard manifestations, curiosity, and incomplete judgment. Tavian still sees clear limits and does not treat him as overpowered.  
 **Supporting Development:** Tavian gains narrative authority through competence.  
 **Antagonist Pressure:** Guild-post data and physical evidence disagree.  
 **Action Progression:** Tracking suspense with one displaced pack encounter.  
-**Stage I Play Logic:** Small utility only.  
+**Play Logic Display Choice:** Small utility only.  
 **Regeneration Consequence:** None required.  
 **Aura-Farming Opportunity:** Minimal; this chapter privileges observation.  
 **Comedy Opportunity:** Red Jackal is annoyed by how useful careful tracking is.  
@@ -336,13 +353,13 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Hesk deflects discrepancies as frontier chaos; Jessa knows pieces are wrong but fears speaking openly.  
 **Exploration Purpose:** Show how institutions erase people through paperwork rather than magic.  
 **Character Beat:** Maelis's faith in procedure is challenged by procedurally valid-looking fraud.  
-**Red Jackal Development:** Recognizes his own off-book contract makes him easy to erase too.  
+**Red Jackal Stable-Character Beat:** Recognizes his own off-book contract makes him easy to erase too.  
 **Anti-Villain Expression:** If Guild pressure turns toward Jessa, Red Jackal may protect her through intimidation or an openly selfish rationale—she is useful, she has information, and he refuses to let someone else decide whether she gets to speak. Her agency remains intact; he does not force testimony.  
 **Reputation / Threat Perception:** Maelis now has enough independent evidence to treat Red Jackal as an **institutional blind spot**, not merely a failed registry case. Jessa may know rumors about the undefined entrant, strange manifestations, and abnormal recovery, but not the full truth. Hesk begins receiving a more troubling picture of the irregular worker he originally considered disposable.  
 **Supporting Development:** Jessa's complicity/fear becomes visible; Maelis shifts from curiosity about Red Jackal to concern about Greywake's records.  
 **Antagonist Pressure:** Hesk begins monitoring Maelis's audit and managing access.  
 **Action Progression:** No combat; documentary pressure.  
-**Stage I Play Logic:** None.  
+**Play Logic Display Choice:** None.  
 **Regeneration Consequence:** None.  
 **Aura-Farming Opportunity:** Red Jackal tries to “help” an audit by giving a dramatic version of events; Maelis demands dates and locations.  
 **Comedy Opportunity:** Evidence versus storytelling ego.  
@@ -363,13 +380,13 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Dangerous terrain, displaced predators, and evidence that someone has maintained hidden equipment in an officially abandoned zone.  
 **Exploration Purpose:** Fully use Zone D and introduce old infrastructure without identifying it as Eidrathi.  
 **Character Beat:** Maelis and Tavian approach the same mystery from records and ecology; Red Jackal bridges them through improvisation.  
-**Red Jackal Development:** Begins taking the investigation seriously because someone is clearly controlling the board.  
+**Red Jackal Stable-Character Beat:** Begins taking the investigation seriously because someone is clearly controlling the board.  
 **Anti-Villain Expression:** Red Jackal is willing to cross a Guild closure, trespass boundary, or other lawful restriction to follow physical evidence rather than wait for permission. Tavian/Maelis may object to the method even when the evidence proves useful.  
 **Reputation / Threat Perception:** A successful manifestation under real danger gives Red Jackal one of his first **earned aura** moments. Tavian and Maelis remain more interested in limits and consequences than spectacle. Kellan may acknowledge usefulness without becoming impressed by the persona.  
 **Supporting Development:** Maelis/Tavian mutual respect grows through complementary evidence.  
 **Antagonist Pressure:** Hidden Guild activity becomes tangible.  
 **Action Progression:** Exploration hazard → predator pressure → discovery under threat.  
-**Stage I Play Logic:** Temporary brace/step/barrier used to access or survive the site.  
+**Play Logic Display Choice:** Temporary brace/step/barrier used to access or survive the site.  
 **Regeneration Consequence:** Minor injury possible, with cumulative fatigue noted.  
 **Aura-Farming Opportunity:** One successful dramatic maneuver earns genuine reaction.  
 **Comedy Opportunity:** Brief, before discovery shifts tone.  
@@ -390,13 +407,13 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Lure placement suggests deliberate long-term use; evidence is incomplete and politically dangerous.  
 **Exploration Purpose:** Connect physical route geography to outer homestead losses.  
 **Character Beat:** Red Jackal becomes personally interested when he realizes the job assignments he received overlap the manipulated corridors.  
-**Red Jackal Development:** Suspicion shifts from “someone is hiding something” to “someone used me inside their plan.”  
+**Red Jackal Stable-Character Beat:** Suspicion shifts from “someone is hiding something” to “someone used me inside their plan.”  
 **Anti-Villain Expression:** When the Guild attempts to reclaim the lure equipment as property, Red Jackal may refuse lawful handover, conceal/retain evidence, or use intimidation to prevent suspected owners from controlling it again. His motive is personal agency and distrust, not respect for procedure.  
 **Reputation / Threat Perception:** Hesk's perception moves from **useful irregular asset** to **unpredictable complication**. The problem is no longer only that Red Jackal is strange; he is becoming difficult to control through contracts, property claims, status, or procedure.  
 **Supporting Development:** Kellan sees first hard evidence validating outer-community suspicions; Brynn becomes willing to challenge Guild priorities if proof holds.  
 **Antagonist Pressure:** Hesk orders restricted access to some road records and tries to reclaim lure equipment as Guild property.  
 **Action Progression:** Tension and short confrontation rather than major battle.  
-**Stage I Play Logic:** None required.  
+**Play Logic Display Choice:** None required.  
 **Regeneration Consequence:** None.  
 **Aura-Farming Opportunity:** Red Jackal's humor begins thinning.  
 **Comedy Opportunity:** Very limited.  
@@ -417,13 +434,13 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Hesk argues the lures were emergency frontier management; records show the risk repeatedly fell on the same politically weak areas.  
 **Exploration Purpose:** Turn Greywake's geography into the story's moral map: what gets defended, what gets ignored.  
 **Character Beat:** Red Jackal realizes Hesk has categorized people—and him—according to usefulness.  
-**Red Jackal Development:** Personal anger enters the local conflict.  
+**Red Jackal Stable-Character Beat:** Personal anger enters the local conflict.  
 **Anti-Villain Expression:** His anger is not primarily “the law was broken.” Hesk has classified people—and Red Jackal himself—by usefulness and decided who may be spent. Red Jackal treats that imposed categorization as a personal offense against agency.  
 **Reputation / Threat Perception:** Core actors no longer treat Red Jackal as ordinary irregular labor. Maelis sees an unprecedented classification problem, Tavian sees a dangerous but increasingly capable ally, Kellan sees a useful strange man, and Hesk begins treating him as a threat to operational control. Their reactions must remain different.  
 **Supporting Development:** Maelis's audit becomes openly adversarial; Jessa's silence becomes morally costly; Brynn stops treating the dispute as mere guild politics.  
 **Antagonist Pressure:** Hesk uses his council authority and survival history to defend the policy.  
 **Action Progression:** Political confrontation, no combat.  
-**Stage I Play Logic:** None.  
+**Play Logic Display Choice:** None.  
 **Regeneration Consequence:** None.  
 **Aura-Farming Opportunity:** Red Jackal chooses not to turn the realization into a joke.  
 **Comedy Opportunity:** None required.  
@@ -444,12 +461,12 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Hesk presents a credible case that removing the system abruptly can collapse Greywake's only reliable route and expose the core settlement.  
 **Exploration Purpose:** Show frontier politics under resource scarcity.  
 **Character Beat:** Hesk becomes most sympathetic here without being absolved.  
-**Red Jackal Development:** Red Jackal hates Hesk's imposed-role logic but also sees that “just break it” has real costs.  
+**Red Jackal Stable-Character Beat:** Red Jackal hates Hesk's imposed-role logic but also sees that “just break it” has real costs.  
 **Anti-Villain Expression:** He rejects Hesk's claimed right to choose acceptable victims without adopting a clean lawful-hero posture. He is willing to break rules and threaten authority, but must confront that freedom without competence can also hurt people.  
 **Supporting Development:** Maelis learns evidence alone does not instantly solve policy; Tavian insists migration geometry must be mapped first.  
 **Antagonist Pressure:** Hesk pushes for maintaining the network until charter support arrives.  
 **Action Progression:** Political/strategic escalation.  
-**Stage I Play Logic:** None.  
+**Play Logic Display Choice:** None.  
 **Regeneration Consequence:** None.  
 **Aura-Farming Opportunity:** Red Jackal attempts a cutting moral posture, but Hesk's lived history makes the room less simple.  
 **Comedy Opportunity:** Minimal.  
@@ -470,13 +487,13 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Waiting for full mapping means accepting near-term harm; acting now risks destabilizing the network.  
 **Exploration Purpose:** Put the abstract ethical argument into an urgent physical situation.  
 **Character Beat:** Red Jackal chooses action because he refuses to watch Hesk's system keep selecting victims.  
-**Red Jackal Development:** His motive is understandable and partly responsible—but still driven by anger, autonomy, and impatience.  
+**Red Jackal Stable-Character Beat:** His motive is understandable and partly responsible—but still driven by anger, autonomy, and impatience.  
 **Anti-Villain Expression:** This is the first major openly unlawful anti-villain action of the arc: Red Jackal knowingly overrides council/Guild authority and disables the lure because he refuses to watch an institution keep selecting victims. He knows Tavian warned that the network is incompletely mapped and acts anyway. The choice is not secretly framed as unquestionably heroic.  
 **Reputation / Threat Perception:** Hesk now treats Red Jackal as a **dangerous wildcard** because normal authority failed to deter him. Workers, militia, and outer residents may begin repeating contradictory stories about what he can survive or create. No rumor may accurately state his true ceiling.  
 **Supporting Development:** Kellan supports action for his people but cannot calculate system-wide ecological effects.  
 **Antagonist Pressure:** Hesk's people attempt to prevent unauthorized lure removal.  
 **Action Progression:** Confrontation + localized monster pressure.  
-**Stage I Play Logic:** Improvised tool/force to disable or extract part of the lure setup.  
+**Play Logic Display Choice:** Improvised tool/force to disable or extract part of the lure setup.  
 **Regeneration Consequence:** Red Jackal can absorb danger during removal, encouraging overconfidence.  
 **Aura-Farming Opportunity:** Little; urgency overrides performance.  
 **Comedy Opportunity:** None required.  
@@ -497,12 +514,12 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Multiple species begin moving toward Greywake and outer communities simultaneously.  
 **Exploration Purpose:** Reveal the network as ecological infrastructure, however corrupt, rather than a simple switch.  
 **Character Beat:** Red Jackal sees an understandable choice become a broader disaster.  
-**Red Jackal Development:** First undeniable responsibility for worsening the crisis.  
+**Red Jackal Stable-Character Beat:** His choice undeniably worsens the crisis; he accepts the factual connection without a personality-growth beat.  
 **Reputation / Threat Perception:** CH-016 is a critical anti-hype correction. Red Jackal's unlawful action has major consequences, Kellan is severely injured, and Red Jackal cannot simply overpower the backflow. Fear of him may increase, but so may distrust. His reputation becomes **dangerous**, not infallible.  
 **Supporting Development:** Tavian shifts from criticism to crisis command; Kellan suffers for the same decision he supported.  
 **Antagonist Pressure:** Hesk can now credibly argue that Red Jackal endangered the entire settlement.  
 **Action Progression:** Multi-point rescue under escalating migration movement.  
-**Stage I Play Logic:** Rescue aid only; weakened precision under stress.  
+**Play Logic Display Choice:** Rescue aid only; weakened precision under stress.  
 **Regeneration Consequence:** Repeated injuries/exhaustion reduce control.  
 **Aura-Farming Opportunity:** None; serious mode begins.  
 **Comedy Opportunity:** None.  
@@ -523,12 +540,12 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Hesk uses the disaster to demand emergency authority and reactivation of the strongest outer lures.  
 **Exploration Purpose:** Show aftermath inside ordinary medical/civic infrastructure.  
 **Character Beat:** Red Jackal cannot joke away Kellan's injury or claim the outcome was intentional.  
-**Red Jackal Development:** Accepts responsibility without accepting Hesk's conclusion that sacrifice is therefore necessary.  
+**Red Jackal Stable-Character Beat:** Accepts responsibility without accepting Hesk's conclusion that sacrifice is therefore necessary.  
 **Anti-Villain Expression:** He accepts blame for what his choice worsened but refuses Hesk's attempt to convert that guilt into obedience or moral ownership. Responsibility does not mean surrendering his agency to the institution he opposed.  
 **Supporting Development:** Sela forces consequence recognition; Maelis pivots from investigation to making evidence legally actionable.  
 **Antagonist Pressure:** Hesk is strongest politically after Red Jackal's mistake.  
 **Action Progression:** Low physical action; emotional/political pressure.  
-**Stage I Play Logic:** None.  
+**Play Logic Display Choice:** None.  
 **Regeneration Consequence:** Contrast Red Jackal recovering while Kellan cannot.  
 **Aura-Farming Opportunity:** Deliberately absent.  
 **Comedy Opportunity:** None required.  
@@ -549,11 +566,11 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Time, damaged infrastructure, incomplete maps, political distrust.  
 **Exploration Purpose:** Turn local knowledge from multiple factions into the solution.  
 **Character Beat:** Red Jackal willingly lets specialists lead parts he does not understand.  
-**Red Jackal Development:** Accountability becomes practical cooperation rather than moral speech.  
+**Red Jackal Stable-Character Beat:** He cooperates because specialists know parts of the board he does not and because the problem has become personally interesting.  
 **Supporting Development:** Tavian designs migration redirection; Brynn plans defense; Kellan contributes route/bridge knowledge despite injury; Maelis handles authority/evidence.  
 **Antagonist Pressure:** Hesk insists the plan is too risky and prepares fallback control.  
 **Action Progression:** Strategic preparation.  
-**Stage I Play Logic:** Planning identifies where temporary manifestations could buy time, not replace engineering.  
+**Play Logic Display Choice:** Planning identifies where temporary manifestations could buy time, not replace engineering.  
 **Regeneration Consequence:** Red Jackal is still physically depleted enough that unlimited use is impossible.  
 **Aura-Farming Opportunity:** Small return of personality, but not dominance.  
 **Comedy Opportunity:** Brief tension-release from competing specialists correcting Red Jackal.  
@@ -574,11 +591,11 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Insufficient materials, predator pressure, damaged roadworks, limited time.  
 **Exploration Purpose:** Revisit Zone D with a transformed purpose—from mystery site to solution space.  
 **Character Beat:** Red Jackal does unglamorous work because the glamorous shortcut would fail.  
-**Red Jackal Development:** Learns that improvisation can support planning rather than replace it.  
+**Red Jackal Stable-Character Beat:** Learns that improvisation can support planning rather than replace it.  
 **Supporting Development:** Brynn/homesteaders visibly cooperate across old political divisions.  
 **Antagonist Pressure:** Hesk withholds some Guild resources or argues they must remain on the main road.  
 **Action Progression:** Work-under-pressure plus localized attacks.  
-**Stage I Play Logic:** Temporary braces, ramps, barriers, or tools; repeated use increases exhaustion.  
+**Play Logic Display Choice:** Temporary braces, ramps, barriers, or tools; repeated use increases exhaustion.  
 **Regeneration Consequence:** Physical labor and prior damage make recovery slower.  
 **Aura-Farming Opportunity:** One attempt to make manual work dramatic; little reaction.  
 **Comedy Opportunity:** Practical workers again defeat the performance.  
@@ -599,13 +616,13 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Jessa must choose between employment/family security and exposing the Guild; Hesk moves to seize or destroy evidence.  
 **Exploration Purpose:** Use Greywake Core and Guild infrastructure as active conflict space.  
 **Character Beat:** Jessa stops being passive complicity; Maelis learns evidence needs a person willing to risk something to make it usable.  
-**Red Jackal Development:** Chooses not to solve the problem by simply destroying every record/item in anger.  
+**Red Jackal Stable-Character Beat:** Chooses not to solve the problem by simply destroying every record/item in anger.  
 **Anti-Villain Expression:** Red Jackal treats Jessa as under his protection once she chooses to expose the evidence, but the protection can be possessive and intimidating rather than conventionally heroic. He may make it clear to Guild loyalists that harming or silencing her creates a problem with him. The threat is real; Jessa still chooses for herself.  
 **Reputation / Threat Perception:** This is an appropriate point for **earned intimidation**: silence, positioning, and reputation can make Guild loyalists hesitate before Red Jackal demonstrates power. It works because they have heard or seen enough by now—not because aura farming mind-controls the room.  
 **Supporting Development:** Maelis/Jessa peak pre-climax development.  
 **Antagonist Pressure:** Hesk openly commits to his fallback plan.  
 **Action Progression:** Short human confrontation/chase, not the final fight.  
-**Stage I Play Logic:** Small utility or obstruction only.  
+**Play Logic Display Choice:** Small utility or obstruction only.  
 **Regeneration Consequence:** None central.  
 **Aura-Farming Opportunity:** A successful intimidating entrance may force Guild loyalists to hesitate.  
 **Comedy Opportunity:** Minimal.  
@@ -626,13 +643,13 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Limited carts, injured people, frightened civilians, damaged routes, competing priorities.  
 **Exploration Purpose:** Show the whole destination functioning as one community under pressure.  
 **Character Beat:** Red Jackal's quieter seriousness contrasts with earlier theatrics.  
-**Red Jackal Development:** He takes responsibility for assigned work without needing ownership of the whole plan.  
+**Red Jackal Stable-Character Beat:** He takes responsibility for assigned work without needing ownership of the whole plan.  
 **Supporting Development:** Sela, Brynn, Kellan, Maelis, Tavian all contribute domain expertise.  
 **Antagonist Pressure:** Hesk remains unaccounted for or is moving toward the final lure position.  
 **Action Progression:** Tense preparation with minor encounters.  
-**Stage I Play Logic:** Conserved deliberately; Red Jackal does not waste power for style.  
+**Play Logic Display Choice:** Conserved deliberately; Red Jackal does not waste power for style.  
 **Regeneration Consequence:** He starts the climax not fully fresh.  
-**Aura-Farming Opportunity:** Almost none; restraint itself signals growth.  
+**Aura-Farming Opportunity:** Almost none; restraint reveals deliberate choice, not growth.  
 **Comedy Opportunity:** One or two natural human tension-release moments only if earned.  
 **Mystery / Foreshadowing:** None.  
 **Continuity Dependencies:** CH-019 corridor ready; CH-020 Hesk still has a route to sabotage.  
@@ -651,11 +668,11 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Barricades fail, animals scatter, and displaced predators exploit confusion.  
 **Exploration Purpose:** Turn previously explored roads/bridges into payoff spaces.  
 **Character Beat:** Red Jackal follows Tavian's timing rather than improvising too early.  
-**Red Jackal Development:** Demonstrates learned restraint.  
+**Red Jackal Stable-Character Beat:** Demonstrates learned restraint.  
 **Supporting Development:** Tavian's expertise becomes indispensable; Brynn's militia coordination pays off.  
 **Antagonist Pressure:** Signs show one route is pulling wrong—Hesk's final intervention is active.  
 **Action Progression:** Large multi-point action, still below final peak.  
-**Stage I Play Logic:** Temporary barriers, rescue tools, route markers.  
+**Play Logic Display Choice:** Temporary barriers, rescue tools, route markers.  
 **Regeneration Consequence:** Red Jackal takes repeated injuries and keeps moving, but precision declines.  
 **Aura-Farming Opportunity:** One genuine cool moment can succeed because it serves the plan.  
 **Comedy Opportunity:** Very limited.  
@@ -676,11 +693,11 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** The strongest physical threat arrives at the same time infrastructure begins failing.  
 **Exploration Purpose:** Pay off the Greywake geography, bridge/road engineering, and ecological setup.  
 **Character Beat:** Red Jackal uses power to support a collective plan rather than turn the crisis into his solo stage.  
-**Red Jackal Development:** Responsibility and showmanship coexist rather than one erasing the other.  
+**Red Jackal Stable-Character Beat:** Responsibility and showmanship coexist rather than one erasing the other.  
 **Supporting Development:** Tavian/Brynn earn the physical climax beside him.  
 **Antagonist Pressure:** Hesk's lure activation continues pulling part of the migration toward the sacrificial route.  
 **Action Progression:** Major combat/environmental set piece.  
-**Stage I Play Logic:** **PL-4 climax utility:** temporary reinforcement/barrier/guide that buys time but cannot solve migration alone.  
+**Play Logic Display Choice:** **PL-4 climax utility:** temporary reinforcement/barrier/guide that buys time but cannot solve migration alone.  
 **Regeneration Consequence:** Serious injury and exhaustion threaten his ability to keep manifestations coherent.  
 **Aura-Farming Opportunity:** One strong, earned aura moment under real pressure. By now, some of the aura comes from reputation rather than deliberate staging: people have seen him survive, manifest, fail, return, and keep acting.  
 **Comedy Opportunity:** None unless an organic manifestation error briefly occurs without undercutting danger.  
@@ -701,13 +718,13 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Red Jackal must choose between pursuing Hesk personally, maintaining the migration solution, and protecting people in immediate danger.  
 **Exploration Purpose:** Make the destination's route geography the final moral/physical decision point.  
 **Character Beat:** Hesk and Red Jackal embody opposing answers to agency: assigning sacrifice versus refusing imposed roles while accepting responsibility.  
-**Red Jackal Development:** He chooses the action that protects the collective plan rather than the action that most satisfies his ego.  
+**Red Jackal Stable-Character Beat:** He chooses the action that protects the collective plan rather than the action that most satisfies his ego.  
 **Anti-Villain Expression:** The climax is not a conversion into “Greywake's hero.” Red Jackal stops Hesk because nobody gets to assign expendable roles to people around him, and because this is now a problem he personally chose to own. He may use unlawful or disproportionate intimidation against Hesk without treating the law as his moral authority.  
 **Reputation / Threat Perception:** Hesk's final fear is not “Red Jackal has a higher level.” It is that Red Jackal cannot be reliably classified, socially contained, predicted through normal incentives, or persuaded to accept Hesk's sacrifice logic. Some expert characters may suspect enormous future potential, but nobody knows the true ceiling.  
 **Supporting Development:** Maelis/Jessa make the truth impossible to erase; Tavian/Brynn finish the route redirection through their expertise.  
 **Antagonist Pressure:** Maximum. Hesk uses his last practical leverage, not secret cosmic power.  
 **Action Progression:** Human confrontation + environmental climax.  
-**Stage I Play Logic:** Final short-lived utility manifestation buys the seconds needed for the route plan; no reality rewrite.  
+**Play Logic Display Choice:** Final short-lived utility manifestation buys the seconds needed for the route plan; no reality rewrite.  
 **Regeneration Consequence:** Red Jackal may survive damage that would stop others, but exhaustion prevents endless escalation.  
 **Aura-Farming Opportunity:** Serious Red Jackal dominates; style appears only where it does not compromise duty.  
 **Comedy Opportunity:** None required.  
@@ -728,13 +745,13 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Greywake cannot simply celebrate; trade is damaged, people are hurt, and some residents still believe Hesk's policy was necessary.  
 **Exploration Purpose:** Revisit core locations in aftermath to show visible change.  
 **Character Beat:** Red Jackal receives contradictory reactions rather than universal hero worship.  
-**Red Jackal Development:** Accepts that helping does not give him ownership of the story Greywake tells about him.  
+**Red Jackal Stable-Character Beat:** Accepts that helping does not give him ownership of the story Greywake tells about him.  
 **Anti-Villain Expression:** He rejects both universal hero worship and attempts to reclassify him as a lawful civic asset. Some residents may call him hero, criminal, menace, savior, or problem; he refuses to let any label become ownership.  
 **Reputation / Threat Perception:** Greywake's public reputation of Red Jackal is intentionally contradictory. Some fear him, some admire him, some blame him for CH-016, some credit him for the final defense, and some think the stories are exaggerated. No universal consensus is allowed.  
 **Supporting Development:** Maelis preserves evidence; Tavian acknowledges Red Jackal's reliability under pressure without endorsing him; Jessa accepts consequences of testimony; Kellan's injury remains real.  
 **Antagonist Pressure:** Hesk is defeated institutionally but his argument survives among some residents.  
 **Action Progression:** No major combat.  
-**Stage I Play Logic:** None necessary.  
+**Play Logic Display Choice:** None necessary.  
 **Regeneration Consequence:** Red Jackal visibly recovers faster than others, reinforcing the asymmetry rather than erasing it.  
 **Aura-Farming Opportunity:** He may try to leave the hearing/council moment stylishly; reaction is mixed.  
 **Comedy Opportunity:** Light aftermath humor can return carefully.  
@@ -755,13 +772,13 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Staying would mean accepting increasing expectations: hero, anomaly, weapon, patient, subject, employee, problem.  
 **Exploration Purpose:** Show altered Greywake—damaged roads, active repairs, changed civic relationships, not a reset.  
 **Character Beat:** Red Jackal leaves because he chooses movement over being defined by the first place that now has a story about him.  
-**Red Jackal Development:** Responsibility has grown; identity remains self-authored, theatrical, and resistant to ownership.  
+**Red Jackal Stable-Character Beat:** Responsibility has grown; identity remains self-authored, theatrical, and resistant to ownership.  
 **Anti-Villain Expression:** He leaves partly because remaining would turn chosen help into an assigned role. He does not deny that he cared; he denies Greywake the right to convert that care into permanent duty, employment, sainthood, or ownership.  
 **Reputation / Threat Perception:** Red Jackal leaves Greywake with the beginning of a name that can travel ahead of him. The departing reputation must remain fragmented and exaggerated rather than authoritative, allowing future destinations to meet the rumor before they understand the man.  
 **Supporting Development:** Maelis/Tavian remain independent people with their own next obligations; nobody automatically joins him.  
 **Antagonist Pressure:** None active; Hesk's local defeat stands.  
 **Action Progression:** None.  
-**Stage I Play Logic:** Optional tiny non-combat flourish only if it reflects character and does not imply Stage II mastery.  
+**Play Logic Display Choice:** Optional tiny non-combat flourish only if it reflects character and does not imply Stage II mastery.  
 **Regeneration Consequence:** Residual fatigue/injuries may remain, though recovery continues.  
 **Aura-Farming Opportunity:** Departure is the natural place for a controlled theatrical beat, but it may be undercut by a mundane interruption if tonally useful.  
 **Comedy Opportunity:** Light closing humor allowed after consequences are respected.  

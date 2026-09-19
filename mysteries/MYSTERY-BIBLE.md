@@ -266,29 +266,26 @@ Writer shorthand:
 
 He can disrupt heavily reinforced outcomes, but he does not automatically defeat Fate.
 
-## 2.13 The Fourth-Wall Truth
-
-Red Jackal's habit of addressing readers is part of his personality and storytelling voice from the beginning.
-
-Writer truth adds one metaphysical layer:
+## 2.13 The Exterior Echo Truth
 
 The Exterior Needle left a passive residual connection called the **Exterior Echo**.
 
 The Echo points outward from Veyr toward the causal exterior through which Evan crossed.
 
-Red Jackal does not need to “unlock” the ability to speak to readers.
+Under the close-third narrative standard, Red Jackal does **not** begin by directly narrating to readers.
 
-He already speaks to his audience because that is how he narrates.
-
-The hidden truth is that some of that address travels along a real nonlocal channel beyond the Closed Loom.
+The hidden phenomenon may instead surface later as rare, approved signs such as:
+- a sensation that a thought is pointing somewhere outside Veyr;
+- a divination vector that returns no local direction;
+- a brief private or spoken remark that seems to have an outward target;
+- unexplained continuity resonance around Red.
 
 Important limits:
-
 - the audience is not a character who gives orders;
 - readers do not grant him power;
-- direct address is not a mana source;
-- he does not need a staged “discover the readers are real” character arc;
-- the Echo may produce detectable anomalies, but it does not answer him like a telephone.
+- the Echo is not a mana source;
+- narration remains close third-person limited;
+- the Echo may produce detectable anomalies but does not answer him like a telephone.
 
 ## 2.14 The Great Design's Actual Relationship to Red Jackal
 
@@ -517,11 +514,11 @@ This is the thematic endgame alternative to both:
 
 ---
 
-## M-006 — Who Is Red Jackal Talking To?
+## M-006 — What Is the Exterior Echo Pointing Toward?
 
-**Writer Truth:** Reader-address is his stable narrative behavior; the Exterior Echo makes some outward address metaphysically real without turning the audience into an in-world power source.
+**Writer Truth:** Red retains a passive outward continuity direction from the Exterior Needle. It may later produce rare directional or observational anomalies without turning readers into an in-world power source.
 
-**Reader Baseline:** He talks directly to the audience from the beginning.
+**Reader Baseline:** No explicit fourth-wall explanation is required at the beginning. The story is narrated in close third-person limited.
 
 **Red Jackal Baseline:** He behaves as though the audience is there; this does not require an awakening.
 
@@ -944,10 +941,10 @@ Each entry below records its current foreshadowing state. New F-IDs begin as **P
 **Eligible window:** RW-2.  
 **Status:** PLANNED — NOT YET PLANTED.
 
-## F-012 — Reader Address Produces Outbound Null Direction on Sensitive Divination
+## F-012 — Exterior Echo Produces Outbound Null Direction on Sensitive Divination
 
 **Related:** M-006  
-**Planned setup:** Very sensitive observation records a directional anomaly that points nowhere inside Veyr during moments of direct reader address.  
+**Planned setup:** Very sensitive observation records a directional anomaly associated with Red that points nowhere inside Veyr during an approved Exterior Echo event.  
 **First interpretation:** mental magic or invisible familiar.  
 **Hidden meaning:** Exterior Echo.  
 **Eligible window:** RW-3.  
@@ -1034,7 +1031,7 @@ Each entry below records its current foreshadowing state. New F-IDs begin as **P
 | M-003 Reincarnation | He crossed by continuity translocation, explaining memory/body |
 | M-004 Play Logic | Freedom comes from missing schema, but identity instability is a weakness |
 | M-005 Regeneration | His body survives by reasserting self, not generic immortality |
-| M-006 Fourth Wall | Reader-talk remains natural voice while gaining metaphysical relevance |
+| M-006 Exterior Echo | A passive outward continuity direction gains metaphysical relevance without changing the close-third narrative standard |
 | M-007 Fate | He is free of a native past-thread, not free of consequences |
 | M-008 Great Design | Coherence is not the same as tyranny, but can become oppressive under pressure |
 | M-009 Ancient History | Modern anomalies share one buried pre-System source |
@@ -1050,7 +1047,7 @@ Each entry below records its current foreshadowing state. New F-IDs begin as **P
 
 **Great Design compatibility:** PASS — not a person, god, narrator, or direct summoner.
 
-**Character compatibility:** PASS — Red Jackal's agency, anti-villain identity, reader-talk, and fear of imposed roles are reinforced rather than overwritten.
+**Character compatibility:** PASS — Red Jackal's agency, anti-villain identity, close-third characterization, and fear of imposed roles are reinforced rather than overwritten.
 
 **World compatibility:** PASS — Ashfall Belt, Night Seam, Quiet Registration, Ledger, Ash Choir, Daughters of the Last Bell, and anomaly history receive connected writer truth without creating destination stories.
 

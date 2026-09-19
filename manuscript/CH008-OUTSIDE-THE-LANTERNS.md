@@ -85,7 +85,7 @@ The man below him answered.
 
 “Peg, maybe. Timber's soft.”
 
-Kellan leaned farther over. He watched him judge the grain, the moisture, the old repairs. He pointed to one of the boards he had carried.
+Kellan leaned farther over. Red watched him judge the grain, the moisture, and the old repairs. Kellan pointed to one of the boards Red had carried.
 
 “Not that one. Too narrow.”
 
@@ -219,9 +219,7 @@ Kellan crouched at the approach and pressed his boot into the packed stone. It h
 
 The driver had already moved the cart forward by half a wheel. He stopped. Kellan pushed at the edge with a pry bar. The packed section crumbled slightly beneath the wheel track.
 
-“Back?”
-
-the driver asked.
+“Back?” the driver asked.
 
 “No.”
 

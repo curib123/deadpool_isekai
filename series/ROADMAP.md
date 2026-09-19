@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** GREYWAKE ARC COMPLETE — VOLUME 1 PUBLISH-READY / VOLUME 2 MERROWGATE ARC — CH-027 GATE 8 PASS / MANUSCRIPT NEXT
+**Status:** GREYWAKE ARC COMPLETE — VOLUME 1 PUBLISH-READY / VOLUME 2 MERROWGATE ARC — CH-027 MANUSCRIPT DRAFTED / GATE 9 NEXT
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -26,7 +26,7 @@ Volume 2 Destination Selection: **PASS — GATE 5 / DEST-002 MERROWGATE**
 Volume 2 Architecture: **PASS — GATE 6 / MERROWGATE ARC LOCKED**  
 Volume 2 Chapter Roadmap: **PASS — GATE 7 / 24 CHAPTERS / CH-027 THROUGH CH-050 LOCKED**  
 CH-027 Scene Architecture: **PASS — GATE 8 / 5 SCENES LOCKED**  
-CH-027 Manuscript: **AUTHORIZED — DRAFT NEXT**  
+CH-027 Manuscript: **DRAFTED — 2,119 WORDS / GATE 9 NEXT**  
 CH-001 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-002 Scene Architecture: **PASS — GATE 8**  
 CH-002 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
@@ -94,7 +94,7 @@ The project publication state is now:
 1. **Volume 1 / Greywake Arc — PUBLISH-READY — Gate 11 PASS**
 2. **CH-001 through CH-026 approved for external posting in canon order**
 
-All 26 publication copies have individual Gate 11 PASS records. The aggregate release record is `qa/publish/VOLUME-001-PUBLISH-VERSION-QA.md`. This authorizes posting but does not claim the chapters have already been posted externally. Volume 2 is locked as DEST-002 — Merrowgate / Merrowgate Arc through Gate 7. CH-027 through CH-050 are roadmap-locked, but no Volume 2 manuscript is canon yet. CH-027 Detailed Scene Architecture is the next authorized production step.
+All 26 publication copies have individual Gate 11 PASS records. The aggregate release record is `qa/publish/VOLUME-001-PUBLISH-VERSION-QA.md`. This authorizes posting but does not claim the chapters have already been posted externally. Volume 2 is locked as DEST-002 — Merrowgate / Merrowgate Arc through Gate 7. CH-027 through CH-050 are roadmap-locked. CH-027 now has a 2,119-word manuscript draft, but no Volume 2 chapter is canon yet; CH-027 Gate 9 Chapter QA is the next authorized production step.
 
 ## Destination Naming Law
 
@@ -111,7 +111,7 @@ This table contains only volumes whose destination has passed the required selec
 | Volume | Destination ID | Arc Name | Local Conflict | Main Antagonist | Major Mystery Contribution | Status |
 |---|---|---|---|---|---|---|
 | 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | GREYWAKE ARC COMPLETE — CH-001 THROUGH CH-026 CANON |
-| 2 | DEST-002 | Merrowgate Arc | Engineered port instability used to force private harbor-security consolidation | Cassian Venn | M-002 cross-jurisdictional reinforcement; bounded M-011; F-010 PLANNED FOR CH-038 — NOT YET PLANTED | CH-027 GATE 8 PASS — MANUSCRIPT DRAFT NEXT |
+| 2 | DEST-002 | Merrowgate Arc | Engineered port instability used to force private harbor-security consolidation | Cassian Venn | M-002 cross-jurisdictional reinforcement; bounded M-011; F-010 PLANNED FOR CH-038 — NOT YET PLANTED | CH-027 MANUSCRIPT DRAFTED — GATE 9 NEXT |
 
 ## Lock
 
@@ -121,4 +121,4 @@ Do not add a row until:
 - Destination Inventory exists; **PASS**
 - Destination Selection QA approves an existing world location; **PASS — DEST-001 Greywake / DEST-002 Merrowgate**
 
-Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-026 are canon and the Greywake Arc is complete. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. Volume 2 destination, architecture, and 24-chapter roadmap are locked as DEST-002 — Merrowgate / Merrowgate Arc, CH-027 through CH-050. CH-027 Scene Architecture has passed Gate 8 with five scenes locked. The CH-027 manuscript draft is the only authorized next production step. CH-028 scene architecture, later manuscript work, and Volume 3 destination selection remain unauthorized until the active chapter passes its required gate.
+Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-026 are canon and the Greywake Arc is complete. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. Volume 2 destination, architecture, and 24-chapter roadmap are locked as DEST-002 — Merrowgate / Merrowgate Arc, CH-027 through CH-050. CH-027 Scene Architecture passed Gate 8 with five scenes locked, and the 2,119-word manuscript draft now exists. CH-027 Gate 9 Chapter QA is the only authorized next production step. CH-028 scene architecture, later manuscript work, and Volume 3 destination selection remain unauthorized until CH-027 passes Gate 9.

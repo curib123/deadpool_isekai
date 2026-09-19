@@ -105,7 +105,7 @@ The authoritative Volume 1 chapter roadmap is:
 
 The next authorized planning artifact is:
 
-`CH-007 — You Should Be Dead: Manuscript Draft`
+`CH-008 — Outside the Lanterns: Detailed Scene Architecture`
 
 CH-001 manuscript has passed Gate 9 and is CANON.
 
@@ -127,11 +127,13 @@ CH-006 manuscript has passed Gate 9 and is CANON.
 
 No F-ID changed status in CH-006. F-003 remains PLANNED — NOT YET PLANTED.
 
-CH-007 Scene Architecture has passed Gate 8.
+CH-007 manuscript has passed Gate 9 and is CANON.
 
-Drafting CH-007 manuscript prose is now authorized.
+F-003 is PLANTED — CH-007.
 
-Do not draft CH-008 or create CH-008 Scene Architecture during the CH-007 manuscript step.
+Detailed Scene Architecture for CH-008 — Outside the Lanterns is now authorized.
+
+Do not draft CH-008 manuscript until CH-008 Scene Architecture and its Pre-Manuscript Scene QA pass.
 
 # 5. Scene Sheet
 Each scene has:

@@ -1,4 +1,4 @@
-# Chapter 7 — You Should Be Dead
+Chapter 7 — You Should Be Dead
 
 The road was supposed to be safe. Not completely safe. Greywake did not seem to believe in that kind of promise. But safe enough that the Road Guild had sent three maintenance workers, one small supply wagon, Tavian, and me instead of a full guard detail.
 

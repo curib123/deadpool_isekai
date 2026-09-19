@@ -14,19 +14,21 @@ None of those reasons were charity. That suited him.
 
 A charged Wayfarer Tongue Token hung from the side of the small work cart beside him. Two men walked ahead with axes and hand tools over their shoulders. A third pushed a narrow wheelbarrow loaded with iron straps, nails, rope, and pieces of reused timber.
 
-The man leading them had introduced himself as Kellan Dorr. He had looked him over once, noticed how carefully he was turning his torso, and asked, “Can you lift?” Not who are you. Not what happened to you.
+The man leading them had introduced himself as Kellan Dorr. Kellan had looked him over once, noticed how carefully Red was turning his torso, and asked, “Can you lift?”
 
-Not are the stories true. Can you lift. He had liked him less immediately.
+No questions about who Red was, what had happened to him, or whether the stories were true. Just whether he could lift.
+
+Red had liked him almost immediately.
 
 “I can lift.”
 
 “How much?”
 
-That had been harder. they left the better road behind before he found an answer. The transition was not dramatic. There was no gate. No sign saying civilization ended here. The maintained road simply narrowed, the drainage became shallower, and the lantern posts grew farther apart.
+That had been harder. They left the better road behind before he found an answer. The transition was not dramatic. There was no gate. No sign saying civilization ended here. The maintained road simply narrowed, the drainage became shallower, and the lantern posts grew farther apart.
 
 Greywake's regular road lamps were simple covered fixtures mounted on waist-thick posts. They marked the route at predictable intervals along the busier approaches. Then there was one last post. After that, nothing. The road continued.
 
-So did the people. A farm sat beyond the next bend, its fields cut into strips between low stone walls. Farther on, smoke rose from a timber workshop. they passed a storage shed built beside a wagon track and two children carrying a basket between houses set well back from the road.
+So did the people. A farm sat beyond the next bend, its fields cut into strips between low stone walls. Farther on, smoke rose from a timber workshop. They passed a storage shed built beside a wagon track and two children carrying a basket between houses set well back from the road.
 
 No wall. No guard post. No neat line where human life stopped. Only fewer things provided by Greywake. Kellan pointed with his chin toward the lantern behind them.
 

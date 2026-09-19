@@ -57,7 +57,7 @@ No romantic pairing is locked in Phase 2. Attraction or chemistry may be propose
 **Level:** UNDEFINED  
 **Origin:** Earth, outside Veyr's Closed Loom  
 **Current Planning Destination:** DEST-002 — Merrowgate (Volume 2 / Gate 6 locked). CH-026 canon still ends with Red having departed Greywake before any next destination is named in-story.  
-**Narrative Role:** protagonist, first-person storyteller, anti-villain anomaly
+**Narrative Role:** protagonist, close-third focal character, anti-villain anomaly
 
 Red Jackal is not a hidden conventional hero and not a nihilistic murderer. He is a self-centered, theatrical anti-villain who values freedom, spectacle, curiosity, and personal agency more than social approval.
 
@@ -557,233 +557,133 @@ It is:
 
 **“Every time we think we found his limit, we discover he was choosing where to stop.”**
 
-## 2.10 Comedy — LOCKED DEADPAN STANDARD
+## 2.10 Comedy — LOCKED CHARACTER/SITUATION STANDARD
 
-Red Jackal's default humor is **dry, deadpan, and internal**.
+Comedy comes from Red Jackal's personality colliding with the world around him.
 
-He does not perform every funny observation like a punchline.
+Primary sources:
+- teasing;
+- failed coolness;
+- practical people ignoring theatrics;
+- social friction;
+- situational absurdity;
+- misunderstandings;
+- callbacks;
+- Red's confidence meeting inconvenient reality.
 
-The humor should usually come from:
-- understated reactions to absurd situations;
-- matter-of-fact observations;
-- quiet contradiction between what he expected and what happened;
-- restrained self-awareness;
-- practical annoyance;
-- flat acceptance of ridiculous circumstances;
-- occasional mild sarcasm;
-- the gap between his preferred image and observable reality.
+Do not write constant punchlines.
 
-Preferred tonal model:
+Do not make every observation funny.
 
-**Too performed:**  
-“Breathing was encouraging.”
-
-**Locked direction:**  
-“Well, I'm breathing, so at least I'm not dead.”
-
-The second version is funny because the observation is plain and understated, not because the sentence announces a joke.
-
-### Deadpan Humor Rules
-
-Prefer:
-- simple wording;
-- calm delivery;
-- understatement;
-- short internal observations;
-- humor embedded inside normal narration;
-- reactions that sound like a person thinking, not a comedian setting up a bit.
-
-Avoid as the default:
-- obvious punchline construction;
-- constant witty metaphors;
-- theatrical joke setup/payoff;
-- meme-like phrasing;
-- repeated “branding,” “audience,” “performance,” or “dramatic reveal” jokes;
-- narrator applause for his own joke;
-- telling the reader that something is funny;
-- constant genre parody;
-- comedy that makes danger feel unreal.
-
-Red Jackal can still be funny.
-
-The prose simply should not look like it is trying hard to be funny.
-
-### Golden Comedy Rule
-
-Ask:
-
-**“What would Red Jackal think here if he was tired, annoyed, scared, or quietly amused?”**
-
-Do not ask:
-
-**“What joke should Red Jackal make here?”**
-
-There is no joke quota.
-
-Serious scenes may contain no humor at all.
+Serious scenes may contain no humor.
 
 ## 2.11 Serious Red Jackal
 
-When danger, grief, fear, horror, helplessness, betrayal, or irreversible consequence becomes real, humor naturally reduces.
+When danger, grief, fear, guilt, betrayal, helplessness, or irreversible consequence becomes real, the prose may become quiet.
 
-Red Jackal does not force jokes over emotional truth.
+Red does not need to joke through every vulnerable moment.
 
-Common triggers:
-- someone he chose to protect is harmed;
-- mind control or forced loss of agency;
-- betrayal by someone he trusted;
-- irreversible consequences caused by his own vanity;
-- direct confrontation with helplessness;
-- discoveries that threaten his understanding of himself.
+Serious Red:
+- speaks less;
+- stops performing;
+- becomes direct;
+- notices concrete details;
+- acts faster;
+- avoids decorative explanations.
 
-Seriousness is not a pose.
-
-It is the point where he stops softening the situation for himself.
-
-Reader-talk may become sparse or disappear temporarily.
-
-When pressure changes, dry internal humor can return naturally.
+The contrast should come from behavior, not narrator announcements.
 
 ## 2.12 Storytelling Voice — LOCKED SERIES STANDARD
 
-Red Jackal tells the entire series in first person.
+The series uses **close third-person limited centered on Red Jackal**.
 
-The reader remains present from Chapter 1 onward, but the fourth wall must not turn the prose into constant performed comedy.
+Narration uses Red/he/him/his and remains inside what Red can perceive, remember, infer, or misunderstand.
 
-The default hierarchy is:
-
-1. **Immediate first-person experience**
-2. **Dry/deadpan internal observation**
-3. **Natural reader-companion aside when useful**
-4. **Overt joke only when the situation genuinely earns it**
-
-Red Jackal is telling the story to us, but he does not need to remind us of that every paragraph.
-
-### Reader-Talk
-
-Reader-talk may:
-- clarify what he was really thinking;
-- quietly correct the version he presented to other characters;
-- acknowledge what the reader probably noticed;
-- admit something he avoided admitting in the moment;
-- share a restrained aside;
-- expose the gap between his confidence and reality.
-
-Preferred reader-talk is conversational and understated.
-
-Avoid:
-- repeatedly calling attention to “the audience”;
-- treating every scene as a performance;
-- constant “you know the one” phrasing;
-- forcing fourth-wall jokes into emotional scenes;
-- addressing the reader simply because the previous chapter did.
-
-### Reader-Talk vs Self-Talk
-
-**Self-talk** is the default internal layer.
-
-It covers:
-- tactical thought;
-- fear;
-- uncertainty;
-- annoyance;
-- dry observations;
-- restrained humor;
-- immediate decisions.
-
-**Reader-talk** is a secondary layer.
-
-It is used when speaking to us adds character, contrast, intimacy, or clarification.
-
-This distinction must remain visible.
-
-### Voice Texture
-
-Red Jackal's prose should feel:
+The voice should feel:
+- close;
+- simple;
 - natural;
-- conversational;
-- restrained;
+- conversational without addressing the reader;
 - observant;
-- deadpan;
-- self-aware;
-- emotionally grounded;
-- simple without sounding childish.
+- lightly colored by Red's personality;
+- emotionally grounded.
 
-Descriptions should be filtered through what he notices, not through a detached narrator.
-
-Humor should usually be embedded in the observation itself.
+Narration may use free-indirect phrasing so Red's attitude enters the prose naturally.
 
 Example:
 
-**Too joke-forward:**  
-“The forest remained unimpressed. Fine. We were establishing boundaries.”
+**Too distant:**  
+The administrator appeared frustrated by the irregular documentation.
 
 **Preferred:**  
-“The forest did not react. Fair enough.”
+The administrator stared at the form like Red had personally offended paperwork.
+
+The narration may be amused because Red is amused, but it should not sound like a comedian performing for an audience.
+
+### Internal Thought Boundary
+
+Internal thoughts stay short and selective.
+
+Use them for:
+- an immediate decision;
+- a private reaction;
+- a brief fear;
+- a sharp realization;
+- something Red refuses to say aloud.
+
+Do not turn the chapter into a continuous internal monologue.
+
+### Dialogue Carries Character
+
+Red's strongest voice should usually appear in:
+- what he says;
+- what he refuses to answer;
+- how long he waits before answering;
+- teasing;
+- fake innocence;
+- lightly arrogant understatement;
+- playful threats;
+- abrupt seriousness.
+
+Other characters must retain distinct rhythms and should not all become witty.
 
 ### Paragraph Rhythm
 
-Normal prose paragraphs usually contain multiple related sentences.
+Normal prose paragraphs contain multiple related sentences.
 
 One-line paragraphs are reserved for:
 - impact;
-- sudden danger;
+- danger;
 - realization;
 - important System output;
 - emotional exposure;
-- a genuinely effective dry beat.
+- a strong quiet beat;
+- an earned comic beat.
 
-Do not isolate every mildly funny sentence.
+### Unreliable Close Third
 
-### Unreliable Storytelling
+The narration may stay close to Red's self-serving interpretation without claiming it is objective truth.
 
-Red Jackal may:
+He may:
+- decide an accident was intentional;
 - understate fear;
-- make himself sound slightly more composed than he was;
-- call an accident intentional;
-- leave out embarrassment until later;
-- quietly revise his own version.
+- assume someone is impressed when they are not;
+- rationalize curiosity;
+- avoid naming an emotion.
 
-His unreliability should also remain deadpan.
+The surrounding action may quietly show otherwise.
 
-Avoid turning every mistake into a theatrical routine.
+## 2.13 Narrative / Fourth-Wall Boundary — RETCONNED FOR CLOSE THIRD
 
-## 2.13 Fourth-Wall Boundary — LOCKED
+Direct reader-address is no longer the default narrative device.
 
-Red Jackal can directly address the reader from Chapter 1 onward.
+The prose does not require Red to speak to an audience.
 
-This is permanent series voice canon.
+If future mystery material uses the Exterior Echo, it must appear through rare, explicitly approved phenomena compatible with close-third POV—for example an outward sensation, impossible directional anomaly, or a brief spoken/private remark that does not turn the narrator into first person.
 
-However:
+The audience is never an in-world power source.
 
-**fourth-wall presence does not mean fourth-wall frequency.**
-
-A chapter may contain only a few direct reader asides if the scene is immersive, tense, or serious.
-
-The reader relationship should feel continuous because the whole narration belongs to Red Jackal, not because he repeatedly says “you.”
-
-Fourth-wall narration does not mean:
-- he knows future events;
-- he knows protected writer truth;
-- he knows he is fictional;
-- readers give him power;
-- danger is fake;
-- suffering is a joke;
-- genre knowledge overrides world evidence.
-
-He may compare situations to Earth fiction because of his background, but those comparisons should be occasional and natural.
-
-### Permanent Voice Reference
-
-The current revised canon versions of:
-- `manuscript/CH001-WRONG-FOREST-WRONG-WORLD.md`
-- `manuscript/CH002-UNDEFINED.md`
-
-are the early-series baseline for:
-
-**dry/deadpan internal humor + restrained fourth-wall reader companionship.**
-
-Future chapters may become darker, warmer, more emotional, or more intense, but they must not drift into constant punchline writing.
+Close-third POV remains the default even when M-006 material eventually becomes relevant.
 
 ## 2.14 Abilities
 

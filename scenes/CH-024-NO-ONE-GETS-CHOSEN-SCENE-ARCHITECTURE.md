@@ -4,7 +4,7 @@
 **Chapter:** CH-024 — No One Gets Chosen  
 **Movement:** VI — Greywake Holds  
 **Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-024 MANUSCRIPT AUTHORIZED  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-024 MANUSCRIPT CANON  
 **Final Scene Count:** 6  
 **POV:** Red Jackal first person  
 **Primary Cast:** Red Jackal, Rovan Hesk, Maelis Orra, Jessa Vale, Tavian Rook, Captain Brynn Alder  

@@ -15,6 +15,16 @@
 **Mystery / Foreshadowing:** No new F-ID; no M-ID advancement  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
+# Overpowered Retcon Override
+
+The later authorial power retcon supersedes this file's old Stage I / exhaustion-as-ceiling language.
+
+CH-027's actual event remains valid because Red chooses to use **zero Play Logic**.
+
+His ordinary travel, money pressure, literacy problem, and decision to follow transport workers remain character/world choices rather than evidence that he lacks overwhelming power.
+
+Residual soreness may remain as experienced pain or deliberately unhurried restoration; it is not a raw-power limitation.
+
 # 1. Chapter Purpose Lock
 
 CH-027 opens Volume 2 by proving that departure from Greywake creates ordinary logistical consequences rather than instantly beginning a new crisis.
@@ -62,9 +72,9 @@ Red's allowed entry state:
 - no level;
 - no native System identity;
 - no literacy gain;
-- Stage I Play Logic remains available in principle but is not used here;
-- regeneration remains painful and energy-dependent;
-- Greywake injuries are improved but not perfectly erased;
+- unbounded Play Logic is available in principle but Red chooses not to use it here;
+- pain/soreness may remain experienced without imposing a raw-power ceiling;
+- visible Greywake injuries/recovery state may persist by choice and continuity;
 - Greywake reputation exists in canon but does not need to reach the page yet;
 - Red knows no Merrowgate political faction, antagonist, or active scheme.
 

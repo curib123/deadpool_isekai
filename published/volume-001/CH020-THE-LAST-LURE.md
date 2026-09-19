@@ -1,4 +1,4 @@
-# Chapter 20 — The Last Lure
+Chapter 20 — The Last Lure
 
 By the time I got back from Broken North, mud had dried on my boots, my shoulders hurt from carrying half a road, and somebody had finally put a cup in my hand.
 

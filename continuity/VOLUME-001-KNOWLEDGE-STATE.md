@@ -4123,3 +4123,246 @@ CH-015 owns:
 - distant monster calls changing direction.
 
 CH-016 still owns the observed major backflow and Kellan's severe injury.
+
+# CH-015 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-015 — One Stake Too Many  
+**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+
+## Opening State
+
+CH-015 begins from the CH-014 canon checkpoint.
+
+Red Jackal already knows:
+
+- deliberate diversion exists;
+- Hesk's policy-level responsibility is proven;
+- exact lure count remains unknown;
+- full network geometry remains unknown;
+- years of lure pressure have distorted migration routes;
+- changing one lure may cause backflow into another corridor;
+- exact backflow route/timing is unknown;
+- Brynn's no-unauthorized-alteration order is active;
+- east outer homesteads above the timber-road junction face increasing predator pressure;
+- a prior service entry exists near that corridor;
+- Tavian explicitly warned:
+  **“Changing any lure before we map the full network could cause a backflow.”**
+
+Red cannot later claim he was not warned.
+
+## Exact CH-015 Site
+
+CH-015 may now use:
+
+**an old stone drainage/retaining cut on the upper approach above the timber-road junction, below the threatened east outer homesteads.**
+
+This is descriptive geography only.
+
+The site may contain one active march-lure using the established design family:
+- dark stake;
+- fitted socket/mounting collar;
+- ceramic chamber;
+- capped reservoir;
+- vented housing;
+- directional plate/channels.
+
+Do not invent a new magical subsystem.
+
+## Local Geometry
+
+The CH-015 lure may canonically be shown to:
+
+- screen/protect the timber-road connector leading back toward Greywake's more valuable road system;
+- displace local pressure toward the upper farm/homestead approaches.
+
+This is local geometry only.
+
+It does not reveal:
+- complete network geometry;
+- exact effect of all other lures;
+- exact backflow route.
+
+## Field Authorization Boundary
+
+The CH-015 field group's authorized purpose is:
+
+**identify, inspect, document and map the suspected influence point.**
+
+It is not authorized to:
+- rotate;
+- drain;
+- open;
+- extract;
+- disable;
+- otherwise alter the lure.
+
+Brynn's CH-014 order remains active.
+
+## Tavian Rook Boundary
+
+Tavian may:
+
+- confirm the local lure is active/influential;
+- confirm the threatened farms are genuinely exposed;
+- explain that current local harm does not make blind alteration safe;
+- repeat that full network mapping is incomplete;
+- oppose Red's intervention;
+- attempt to stop the alteration without becoming Hesk's defender.
+
+Tavian must remove Red's ignorance defense.
+
+## Kellan Dorr Boundary
+
+Kellan may:
+
+- identify local road/farm geography;
+- identify practical access to the lure recess;
+- support stopping the lure because his people are under immediate pressure;
+- help Red physically access the installation.
+
+Kellan may not:
+- know full network geometry;
+- predict exact backflow;
+- guarantee the action is safe.
+
+Critical boundary:
+
+**Kellan can support intervention without transferring final responsibility away from Red.**
+
+## Road Guild Personnel Boundary
+
+Road Guild field personnel may:
+
+- inspect/document the lure;
+- identify ordinary equipment/service features;
+- invoke Brynn's no-change order;
+- oppose unauthorized alteration;
+- physically block access;
+- attempt nonlethal restraint.
+
+They are not automatically villains.
+
+They do not need to know:
+- Hesk's private reasoning;
+- full network map;
+- exact backflow outcome.
+
+## Red Jackal Choice Boundary
+
+Red may act only after all of the following are clear:
+
+- current local danger is real;
+- waiting has visible cost;
+- Tavian opposes blind alteration;
+- exact wider consequence is unknown;
+- Kellan cannot certify system-wide safety;
+- Guild personnel oppose unauthorized interference;
+- Brynn's order remains active.
+
+Red then chooses to act anyway.
+
+Required internal logic:
+
+**he understands why he should wait and decides that continuing to wait is itself an unacceptable choice.**
+
+This is an informed mistake.
+
+## Play Logic Boundary
+
+CH-015 authorizes exactly one Stage I utility manifestation:
+
+**a short-lived hooked pry/cutting tool or heavy wedge**
+
+used physically to disrupt/extract the known march-lure assembly.
+
+Allowed function:
+- break/force a fastening band;
+- wedge under the mounting collar;
+- lever the stake from its fitted socket.
+
+Not allowed:
+- magical deactivation command;
+- remote shutdown;
+- network control;
+- Stage II behavior;
+- second major manifestation.
+
+The lure goes dead because its physical installed assembly is disrupted.
+
+## Regeneration Boundary
+
+CH-015 may include one meaningful but non-climactic Red injury during the localized pressure/intervention.
+
+Required:
+- pain;
+- temporary movement/precision effect;
+- abnormal recovery begins;
+- fatigue remains;
+- Red keeps functioning because of survivability.
+
+Regeneration must not:
+- erase the injury instantly;
+- make Red invulnerable;
+- protect Kellan/Tavian/Guild personnel;
+- prove the intervention was safe.
+
+## Localized Monster Pressure
+
+CH-015 may show:
+
+- one local predator;
+- a small displaced pair/group;
+- livestock/prey panic;
+- fresh calls/tracks approaching the farm corridor.
+
+The pressure remains local.
+
+CH-015 must not show:
+- full multi-species release;
+- Greywake-facing surge;
+- settlement-wide evacuation.
+
+## CH-016 Firewall
+
+CH-015 must stop before:
+
+- major observed backflow;
+- simultaneous multi-species movement toward Greywake/outer communities;
+- Brynn crisis command;
+- Kellan's severe injury;
+- key bridge/route loss;
+- M-007 tonal hint;
+- Red fully understanding the scale of the reversal.
+
+The only ending consequence is:
+
+**the lure goes dead—and distant monster calls change direction.**
+
+## F-ID State
+
+No new F-ID is authorized.
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+## M-007 State
+
+M-007 remains inactive in CH-015.
+
+The changing calls are ecological consequence setup only.
+
+## CH-016 Handoff
+
+An approved CH-015 manuscript may leave CH-016 with:
+
+- one physically disabled east-outer march-lure;
+- Red as the person who knowingly disabled it;
+- Tavian's warning having been ignored;
+- Kellan morally supportive of local intervention but not system-wide certainty;
+- Guild personnel able to report that normal authority failed to constrain Red;
+- distant calls changing direction;
+- exact magnitude/direction of the resulting backflow not yet known.
+
+CH-016 owns the major reversal.

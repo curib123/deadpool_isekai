@@ -1,6 +1,8 @@
 # Chapter 8 — Outside the Lanterns
 
-**Status:** DRAFT — GATE 9 NOT YET RUN
+**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED  
+**Word Count:** 2,965  
+**Chapter QA:** `qa/CH-008-GATE-9-CHAPTER-QA.md`
 
 Sela had said rest. I had interpreted that as avoid getting torn open again before lunch. This seemed reasonable. My ribs disagreed. Every step down Greywake's western approach pulled faintly along my left side, not enough to stop me, just enough to remind me that the previous day had happened and my body had not filed it under resolved.
 

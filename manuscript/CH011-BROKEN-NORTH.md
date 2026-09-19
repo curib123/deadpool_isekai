@@ -1,11 +1,19 @@
 # Chapter 11 — Broken North
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** CINEMATIC STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 2,846  
 **Chapter QA:** `qa/CH-011-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-011-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
-By morning, Tavian had a map, Maelis had notes, and Kellan had the expression of a man who had already decided everyone in Greywake was going to make his day harder. He had breakfast. One of them had prepared correctly. They met near the north-side road yard where the maintained stone gave way to older packed earth and the roofs of Greywake stopped pretending the wilderness respected property lines. A charged Wayfarer Tongue Token hung from a leather cord at Tavian's belt. It was close enough for conversation and far enough from anything resembling comfort. Maelis had copied several of her figures onto a smaller field sheet. Tavian had redrawn the track directions from yesterday. Kellan carried a carpenter's hammer, a short pry bar, rope, and the quiet confidence of someone who expected broken things to remain broken unless a person actually fixed them. Tavian spread his map across a low supply crate.
+Tavian spread a map across a low supply crate at Greywake's north road yard.
+
+Maelis set a field sheet beside it. Kellan dropped a coil of rope and a short pry bar onto the crate.
+
+Red arrived with breakfast.
+
+One of them had prepared correctly.
+
+Beyond the yard, maintained stone gave way to old packed earth and the roofs thinned toward the tree line. A charged Wayfarer Tongue Token hung from Tavian's belt.
 
 “This is the clean track set.”
 
@@ -73,11 +81,11 @@ Maelis glanced from his finger to Tavian's marks.
 
 Tavian nodded once.
 
-Two different investigations.
+Tavian's charcoal mark and Maelis's loss cluster sat on the same part of the map.
 
-Same place.
+Red looked at it.
 
-He had learned recently that when competent people from completely different professions started pointing at the same patch of ground, the ground usually became less relaxing.
+“That's relaxing.”
 
 “So we go look,” he said.
 
@@ -195,7 +203,7 @@ He stepped over the chain. Maelis stared at him. Tavian adjusted the strap on hi
 
 “My investigation also points north. I was going to inspect this corridor with or without him. I would have preferred authorization.”
 
-“Preferred,” He repeated.
+“Preferred,” Red repeated.
 
 “Do not make me regret using that word.”
 
@@ -355,7 +363,7 @@ Progress.
 
 “Here.”
 
-He positioned him beside the narrowest part of the washout. The first hound lunged up the slope. Maelis fired. The bolt struck dirt in front of it and forced it sideways instead of dropping it. Tavian moved at once, using the opening to drive the animal back with the flat line of his blade rather than chasing. The second hound came from the other side. Kellan swore.
+Tavian positioned Red beside the narrowest part of the washout. The first hound lunged up the slope. Maelis fired. The bolt struck dirt in front of it and forced it sideways instead of dropping it. Tavian moved at once, using the opening to drive the animal back with the flat line of his blade rather than chasing. The second hound came from the other side. Kellan swore.
 
 “Outer edge is moving.”
 
@@ -413,7 +421,7 @@ The ridge-hounds climbed again. Kellan crossed the damaged section quickly, putt
 
 “It had one job.”
 
-He crossed. Tavian moved last. One ridge-hound lunged close enough that he turned, struck its muzzle with the guard of his sword, and stepped backward onto the supported section without looking down. For one very brief second, he trusted his impossible piece of bad masonry more than the actual road.
+He crossed. Tavian moved last. One ridge-hound lunged close enough that he turned, struck its muzzle with the guard of his sword, and stepped backward onto the supported section without looking down. For one brief second, Tavian trusted Red's impossible piece of bad masonry more than the actual road.
 
 Then he was across.
 
@@ -455,7 +463,11 @@ He almost ruined the moment. Almost.
 
 “It was.”
 
-There it was. No applause. No awe. Just a competent man confirming that he had done the useful thing at the useful time. It felt different. He decided not to examine that too closely. They continued toward the ruined watch point. The structure had once overlooked the bend where Broken North curved around the slope. Now half the roof was gone and trees grew through one side. The lower stonework remained, including a narrow drainage channel and several maintenance recesses built into the retaining wall. Kellan walked straight to one.
+No applause. No awe.
+
+Just Tavian giving him one short nod before turning back to the road.
+
+Red decided that was enough. They continued toward the ruined watch point. The structure had once overlooked the bend where Broken North curved around the slope. Now half the roof was gone and trees grew through one side. The lower stonework remained, including a narrow drainage channel and several maintenance recesses built into the retaining wall. Kellan walked straight to one.
 
 “Old road crews stored wedges, lamp oil, spare pins, sometimes emergency rope in these.”
 
@@ -491,7 +503,17 @@ Kellan glanced at her.
 
 “Slowly.”
 
-He used the pry bar. The first stone shifted. Then the second. Behind them was a shallow service pocket cut into the retaining wall. Something had been installed inside it. Not stored. Installed. A dark stake rose from a fitted socket in the stone floor, roughly the length of his forearm above the mount. Thin metal bands wrapped its upper section around a narrow ceramic chamber. A capped reservoir sat beneath a small vented housing. Faint etched lines ran from the mounting collar into a metal plate fixed against the back of the recess. The old watch stone around it was dirty and weathered. The device was not. One fastening strap had fresh tool marks. A seam near the reservoir shone with recent wax or resin. Maelis did not touch it. Neither did Kellan. Tavian leaned closer, then stopped before crossing the edge of the recess. His face changed. Not dramatically. That made it worse.
+He used the pry bar. The first stone shifted. Then the second. Behind them was a shallow service pocket cut into the retaining wall. Something had been installed inside it. Not stored. Installed. A dark stake rose from a fitted socket in the stone floor, roughly the length of his forearm above the mount. Thin metal bands wrapped its upper section around a narrow ceramic chamber. A capped reservoir sat beneath a small vented housing. Faint etched lines ran from the mounting collar into a metal plate fixed against the back of the recess. The old watch stone was dark with age.
+
+The device was not.
+
+Fresh tool marks cut across one fastening strap. New wax shone along the reservoir seam.
+
+Maelis stopped at the edge of the recess. Kellan did the same.
+
+Tavian leaned closer.
+
+His face went still.
 
 “You recognize it,” Maelis said.
 

@@ -39,9 +39,9 @@ The dangerous part was that he could.
 
 “Not yet,” Tavian said.
 
-He looked at him.
+Red looked at him.
 
-He was watching the animal, not him.
+Tavian was watching the animal, not Red.
 
 “It wants space.”
 
@@ -623,9 +623,9 @@ Stopped.
 
 The foreman put one hand against the repair.
 
-“Still ugly,” he said.
+“Still ugly,” Red said.
 
-He looked at him.
+The foreman looked at him.
 
 “So are you.”
 

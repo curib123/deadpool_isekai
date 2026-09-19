@@ -217,13 +217,13 @@ Normal Veyran beings are constrained by overlapping structures:
 
 Red Jackal entered with a body and soul-continuity but without the normal registry/Fate schema.
 
-When his foreign consciousness pushes against reality, his **self-model and imagination partially substitute for the missing interpretive layer**.
+When his foreign consciousness pushes against reality, his **self-model and imagination substitute for the missing interpretive layer**.
 
-Reality does not obey him absolutely.
+Under the current authorial power model, Play Logic has **no known intrinsic raw-power ceiling inside Veyr's ordinary hierarchy**.
 
-It negotiates with an undefined actor.
+The important limitation is not a hidden mana bar or mastery stage. Red can still misunderstand the situation, choose the wrong effect, conceal what he can do, or deliberately impose restrictions because he prefers the game.
 
-That negotiation is Play Logic.
+That undefined interaction is Play Logic.
 
 ## 2.11 Why Regeneration Exists
 
@@ -238,15 +238,17 @@ His body tends to reassert the self-model.
 
 That produces abnormal regeneration.
 
-The process can still be defeated by:
-- energy depletion;
-- sealing;
+Ordinary physical exhaustion or energy depletion does **not** switch this restoration off as a conventional stamina limit.
+
+Late-series threats may still interact with the deeper mechanism through:
 - soul damage;
-- memory damage;
+- memory/identity damage;
 - conceptual injury;
 - causality interference;
-- existence-targeting attacks;
-- disruption of the self-model itself.
+- existence-targeting effects;
+- disruption or rewriting of the self-model itself.
+
+These are mechanism-level story threats, not a conventional raw-power progression ceiling, and must not be used casually to manufacture a stronger-enemy ladder.
 
 ## 2.12 Why Fate Cannot Properly Predict Him
 
@@ -1084,8 +1086,9 @@ Not allowed:
 
 Allowed:
 - abnormal recovery;
-- pain/exhaustion;
-- healer observation that it does not match ordinary healing.
+- genuine pain and visible injury;
+- healer observation that it does not match ordinary healing;
+- the distinction between pain and actual loss of raw capability.
 
 Not allowed:
 - self-model mechanism;
@@ -1205,7 +1208,7 @@ Status changed after approved CH-003 manuscript prose contained the clue and pas
 F-004 is planned through two required components:
 
 - **SC-005-03 — A Hammer, Technically:** Red Jackal intentionally manifests a technically valid but functionally poor hammer without normal spell construction after framing the need only as “a hammer.”
-- **SC-005-04 — A Better Hammer:** Red Jackal reframes the need as a clear functional concept; the resulting manifestation changes materially, becomes useful for driving the bridge brace-pin, and remains oversized, unstable, temporary, and tiring.
+- **SC-005-04 — A Better Hammer:** Red Jackal reframes the need as a clear functional concept; the resulting manifestation changes materially and becomes useful for driving the bridge brace-pin. Its oversized form demonstrates interpretation/framing behavior, and Red later dismisses it by choice.
 
 The clue must support:
 
@@ -1226,7 +1229,7 @@ Status changed after approved CH-005 manuscript prose contained both components 
 
 F-003 is planned through two required components:
 
-- **SC-007-02 / SC-007-03 — Severe Injury and Autonomous Correction:** Red Jackal suffers life-threatening physical trauma, remains impaired, and his body begins correcting the damage before healer intervention. The process is painful and exhausting rather than an instant reset.
+- **SC-007-02 / SC-007-03 — Severe Injury and Autonomous Correction:** Red Jackal suffers life-threatening physical trauma and his body begins correcting the damage before healer intervention. The process is genuinely painful, but the pain does not establish a raw-power ceiling.
 - **SC-007-04 — Healing Magic Encounters an Already-Correcting Body:** Sela demonstrates normal trauma care/healing on an ordinary patient, then observes that Red Jackal's wound is already changing under its own process. A cautious standard healing/diagnostic technique does not behave as it would on a normal untreated wound.
 
 The clue must support:

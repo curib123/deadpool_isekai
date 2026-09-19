@@ -105,7 +105,7 @@ The authoritative Volume 1 chapter roadmap is:
 
 The next authorized planning artifact is:
 
-`CH-026 — Before They Decide What I Am: Manuscript Draft`
+`VOLUME-001 / GREYWAKE ARC — Chapter Production Complete`
 
 CH-001 manuscript has passed Gate 9 and is CANON.
 
@@ -261,9 +261,15 @@ M-007 did not advance.
 
 CH-026 Scene Architecture has passed Gate 8.
 
-Drafting CH-026 manuscript prose is now authorized.
+CH-026 manuscript has passed Gate 9 and is CANON.
 
-Do not select Volume 2 during the CH-026 manuscript step.
+No F-ID changed status in CH-026.
+
+M-007 did not advance.
+
+**Volume 1 / Greywake Arc chapter production is complete through CH-026.**
+
+Volume 2 destination remains unselected.
 
 # 5. Scene Sheet
 Each scene has:

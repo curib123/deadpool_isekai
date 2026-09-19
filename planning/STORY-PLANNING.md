@@ -385,3 +385,45 @@ Each scene has:
 - exit condition
 
 If nothing meaningful changes, remove or rewrite the scene.
+
+
+# 6. Volume 1 Authorial Pacing Revision Track
+
+Volume 1 has been reopened for a canon-preserving pacing revision after publication QA.
+
+Authoritative plan:
+
+`planning/VOLUME-001-GREYWAKE-PACING-REVISION.md`
+
+Plan QA:
+
+`qa/VOLUME-001-PACING-REVISION-PLAN-QA.md`
+
+**Status:** PASS — REVISION PLAN LOCKED.
+
+This does not invalidate the current canon or current published copies by itself.
+
+Affected chapters enter revision sequentially:
+
+**CH-009 → CH-010 → CH-012 → CH-014 → CH-017 → CH-018 → CH-019 → CH-020 → CH-021 → CH-022 → CH-023 → CH-024**
+
+For every edited chapter:
+
+**Pacing Revision Pass → Gate 9 Revalidation → Canon Update → Publication Regeneration → Gate 11 Revalidation**
+
+After all affected chapters:
+- rerun Volume 1 Gate 10;
+- rerun aggregate Volume 1 Gate 11.
+
+Primary pacing goals:
+- reduce repetitive investigation processing;
+- no consecutive low-pressure chapters after CH-008;
+- create harder forward hooks;
+- begin climax pressure by CH-020;
+- make CH-021–CH-024 continuous;
+- expand CH-023 into the clear physical battle peak;
+- preserve CH-025 and CH-026 as separate aftermath and departure functions.
+
+**Current authorial revision step:** CH-009 — Wrong Tracks → Pacing Revision Pass → Gate 9 Revalidation.
+
+The previously authorized CH-028 Gate 8 step is paused, not cancelled, while Volume 1 revision is active.

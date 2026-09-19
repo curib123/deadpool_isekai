@@ -1,15 +1,17 @@
 # Chapter 6 — The Road That Works
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** CINEMATIC STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 2,794  
 **Chapter QA:** `qa/CH-006-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-006-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
-The second job sounded easier. That should have worried him. He reported to the caravan yard the morning after the bridge repair with fewer illusions about frontier work and slightly more money in his pocket. The Road Guild had apparently decided that surviving one assignment without breaking anything important qualified him for another.
+Five wagons rolled out of Greywake after sunrise.
 
-This time, there was no damaged bridge waiting for him. No broken hammer. No repair crew staring at wet timber. He was attached to a caravan movement on the Main Caravan Road. In practical terms, that meant walking beside wagons and helping the road guards if something went wrong.
+Red walked beside the third one.
 
-In less practical terms, he had been promoted from temporary road worker to armed-looking person without a weapon.
+That had not been his choice.
+
+The Road Guild had apparently decided one completed bridge job qualified him to look useful near a caravan. No broken hammer today. No repair crew. Just two road guards, several drivers, passengers, and Red doing his best impression of an armed man without a weapon.
 
 Progress.
 
@@ -43,7 +45,7 @@ The road worked. Not because it was safe by default. Because people kept spendin
 
 Annoyingly competent.
 
-their first stop was a toll marker built beside a wide drainage channel. Two Guild workers checked wagon tags while one of the guards spoke with them about traffic farther ahead. He stepped away from the third wagon to stretch his legs.
+Their first stop was a toll marker built beside a wide drainage channel. Two Guild workers checked wagon tags while one of the guards spoke with them about traffic farther ahead. He stepped away from the third wagon to stretch his legs.
 
 That was when he noticed the man crouched beside the road. Dark travel coat. Worn boots. A polearm rested on the ground within reach. He was not looking at the toll station.
 
@@ -189,7 +191,11 @@ He did not stop long enough to delay them. That made it harder to call him obses
 
 “You asked.”
 
-He was going to be difficult. Worse, he was probably going to be useful. The guarded rest post appeared before noon. It sat where the road widened beside a shallow well and a roofed shelter. Two guards were stationed there. Water barrels stood beneath an awning. Fresh timber had been stacked beside a repair shed.
+Tavian was going to be difficult.
+
+Worse, he was probably going to be useful.
+
+The guarded rest post appeared before noon. It sat where the road widened beside a shallow well and a roofed shelter. Two guards were stationed there. Water barrels stood beneath an awning. Fresh timber had been stacked beside a repair shed.
 
 The sightlines around the post had been cleared far into the brush. A board displayed route notices. He could not read those either. At this point, written information was becoming a personal insult. Their drivers watered the animals while passengers stretched their legs.
 
@@ -319,11 +325,19 @@ Not a predator. At least not immediately. It had heavy shoulders, a long narrow 
 
 The drivers started shouting. The animal saw the wagons. Changed direction. That was when the second shape appeared behind it. Lean.
 
-Clawed. Fast. The predator came through the brush lower to the ground and committed to the chase before it noticed the caravan. The road suddenly contained too many moving parts. The prey animal.
+Clawed. Fast. The predator came through the brush lower to the ground and committed to the chase before it noticed the caravan. The road suddenly held too many moving parts at once.
 
-The predator. Five wagons. Drivers. Passengers. Two guards.
+Prey animal.
 
-him. Tavian moved first.
+Predator.
+
+Five wagons.
+
+Drivers. Passengers. Two guards.
+
+Red.
+
+Tavian moved first.
 
 “Drivers, hold the wagons.”
 
@@ -347,9 +361,13 @@ He looked at him. He pointed hard to his right.
 
 The horned animal was already turning. If he stayed where he was, it could not pass between the wagons. It would have only one open direction. Toward the passengers sheltering behind the third wagon.
 
-Right.
+Red saw the line.
 
-That would have been bad. He moved. Not because he enjoyed being ordered around. Because he was correct quickly enough that arguing would have been stupid. Tavian pointed toward the drainage ditch.
+If he stayed there, the animal's only open path ran straight toward the passengers.
+
+He moved.
+
+Tavian was right. Arguing would only make it slower. Tavian pointed toward the drainage ditch.
 
 “Keep that side open.”
 
@@ -391,11 +409,13 @@ No one was.
 
 No. Only after that did he look toward where the animals had disappeared.
 
-Rescue first.
+People first.
 
-Then the problem.
+Tracks second.
 
-He understood him a little better. He also disliked that he had been right twice in one morning. There should be limits. The road guard walked over.
+Red watched Tavian kneel at the roadside again.
+
+Annoyingly, the man kept earning the right to be correct. The road guard walked over.
 
 “That could happen anywhere.”
 
@@ -469,7 +489,13 @@ He pointed to the clawed prints.
 
 “I don't know.”
 
-That was the first answer from him he liked. Not because it was useful. Because he did not pretend it was more than he knew. The caravan drivers started calling people back into position. He looked at Tavian.
+Red watched him for a second.
+
+“I don't know.”
+
+No guess dressed up as certainty.
+
+Good. The caravan drivers started calling people back into position. He looked at Tavian.
 
 “You coming?”
 

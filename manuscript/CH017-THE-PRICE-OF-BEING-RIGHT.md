@@ -1,22 +1,21 @@
 # Chapter 17 — The Price of Being Right
 
-**Status:** CANON — GATE 9 PASS / SERIOUS MODE LOCKED  
+**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
 **Word Count:** 3,042  
-**Chapter QA:** `qa/CH-017-GATE-9-CHAPTER-QA.md`
 
-Sela did not look at me when we carried Kellan in. She looked at the stretcher.
+Sela did not look at him when they carried Kellan in. She looked at the stretcher.
 
 “Table.”
 
 Two assistants moved before the word finished. Kellan was transferred onto the wider treatment bed near the back wall, the one with leather straps, side supports, and enough room for three people to work around him without colliding. His face had gone pale under the dirt and blood.
 
-The lower part of one leg was wrapped badly because badly had been all we had time for on the road. Blood had soaked through around the splint. His shoulder sat too low on one side, and every breath came shallow.
+The lower part of one leg was wrapped badly because badly had been all they had time for on the road. Blood had soaked through around the splint. His shoulder sat too low on one side, and every breath came shallow.
 
-I was still standing.
+He was still standing.
 
 That felt wrong.
 
-My shirt had dried against the wound along my ribs. The tear had narrowed again during the walk back. My leg still hurt where the ridge-hound had bitten me. My shoulder ached from being thrown into the road.
+His shirt had dried against the wound along his ribs. The tear had narrowed again during the walk back. His leg still hurt where the ridge-hound had bitten him. His shoulder ached from being thrown into the road.
 
 Everything hurt. Everything was also improving.
 
@@ -26,7 +25,7 @@ Sela cut through the field wrap without looking up.
 
 “Who splinted this?”
 
-“Tavian and militia,” I said.
+“Tavian and militia,” he said.
 
 “Good enough to move him.”
 
@@ -72,7 +71,7 @@ He closed them. Sela checked his ribs next, pressing carefully along one side of
 
 “Rib damage. Maybe more than one. Shoulder took impact too.”
 
-She turned toward the rack of pale healing crystals. There were fewer than I remembered. Two assistants were already using one on another patient across the room.
+She turned toward the rack of pale healing crystals. There were fewer than he remembered. Two assistants were already using one on another patient across the room.
 
 Sela took the smallest remaining bright crystal and set it beside Kellan.
 
@@ -100,9 +99,9 @@ The assistant looked at the leg.
 
 “For this pass.”
 
-She started preparing a better splint. I moved closer. Sela finally looked at me.
+She started preparing a better splint. He moved closer. Sela finally looked at him.
 
-Her eyes went to my side. Then my leg. Then my shoulder.
+Her eyes went to his side. Then his leg. Then his shoulder.
 
 “Sit.”
 
@@ -110,9 +109,9 @@ Her eyes went to my side. Then my leg. Then my shoulder.
 
 “No.”
 
-I sat. She pressed two fingers against the wound under my ribs. Pain flashed through me.
+He sat. She pressed two fingers against the wound under his ribs. Pain flashed through him.
 
-I did not move. She watched the edges.
+He did not move. She watched the edges.
 
 “Still closing.”
 
@@ -128,11 +127,11 @@ I did not move. She watched the edges.
 
 “Can you breathe fully?”
 
-I tried. It hurt.
+He tried. It hurt.
 
 “Mostly.”
 
-She touched the shoulder. I flinched.
+She touched the shoulder. He flinched.
 
 “Probably bruised badly. Maybe strained. Nothing is obviously displaced.”
 
@@ -140,7 +139,7 @@ Then she stepped away.
 
 “That is all you get.”
 
-I looked at the crystal rack.
+He looked at the crystal rack.
 
 “I wasn’t asking.”
 
@@ -152,7 +151,7 @@ She started wrapping Kellan’s leg into the new splint.
 
 The words were neutral. The contrast was not. Across the room, Kellan lay still while three people worked around him.
 
-My side had already closed enough that the bleeding had stopped. Sela tightened the upper strap on the splint.
+His side had already closed enough that the bleeding had stopped. Sela tightened the upper strap on the splint.
 
 “Kellan cannot put weight on this leg.”
 
@@ -178,11 +177,11 @@ Kellan swallowed.
 
 “Badly bruised. Possibly strained. I need the swelling down before I say more.”
 
-He closed his eyes again. Sela looked at me.
+He closed his eyes again. Sela looked at him.
 
 “Your body recovering does not reduce any of that.”
 
-I did not answer. She did not need one. For the next hour, I stayed out of the way.
+He did not answer. She did not need one. For the next hour, he stayed out of the way.
 
 That was harder than it sounded. People moved through the treatment house with blood on their clothes and mud on their boots. Some had animal bites. Some had cuts from carts, fences, tools, broken roadwork. One militia guard had a torn hand from dragging someone across a collapsed approach.
 
@@ -196,19 +195,19 @@ Not healed.
 
 Stable.
 
-I sat beside the wall and watched my own hands stop shaking.
+He sat beside the wall and watched his own hands stop shaking.
 
 That was the difference.
 
-My body kept taking things from the problem. His did not. When Kellan woke properly, Sela was checking another patient.
+His body kept taking things from the problem. His did not. When Kellan woke properly, Sela was checking another patient.
 
-He turned his head toward me.
+He turned his head toward him.
 
 “You still here?”
 
 “Yes.”
 
-He looked at my side.
+He looked at his side.
 
 “You look better.”
 
@@ -216,7 +215,7 @@ He looked at my side.
 
 He stared at the ceiling for a moment.
 
-I said nothing. After a moment, he looked back at me.
+He said nothing. After a moment, he looked back at him.
 
 “I wanted the stake stopped.”
 
@@ -258,7 +257,7 @@ Sela looked over from the next table.
 
 “No.”
 
-He ignored her. Barely. His eyes stayed on me.
+He ignored her. Barely. His eyes stayed on him.
 
 “I did not know what the rest of the network would do.”
 
@@ -288,7 +287,7 @@ He breathed carefully.
 
 “Do not give him my leg.”
 
-I looked at him. He held my eyes.
+He looked at him. He held his eyes.
 
 “Do not make this proof that he was right about everything.”
 
@@ -308,7 +307,7 @@ Sela crossed the room and adjusted the blanket over him.
 
 “You are done now.”
 
-Kellan did not argue this time. I stood. Sela looked at me.
+Kellan did not argue this time. He stood. Sela looked at him.
 
 “You leaving?”
 
@@ -318,7 +317,7 @@ A militia runner had arrived ten minutes earlier with Brynn’s summons. Sela no
 
 “Then go.”
 
-I looked at Kellan. His eyes remained closed. Sela followed my gaze.
+He looked at Kellan. His eyes remained closed. Sela followed his gaze.
 
 “He is alive.”
 
@@ -328,21 +327,21 @@ I looked at Kellan. His eyes remained closed. Sela followed my gaze.
 
 “I know.”
 
-She turned back to her work. I left. Greywake sounded different outside.
+She turned back to her work. He left. Greywake sounded different outside.
 
 More horns. More boots. Wagons moving in the wrong direction.
 
-People being told to leave roads they normally trusted. The lower approach had been partially cleared for militia traffic. Workers were hauling barriers toward the gate. Someone had marked one road with a red cloth warning I could understand without reading.
+People being told to leave roads they normally trusted. The lower approach had been partially cleared for militia traffic. Workers were hauling barriers toward the gate. Someone had marked one road with a red cloth warning he could understand without reading.
 
-The council house doors were open. Two guards stood outside. Neither stopped me.
+The council house doors were open. Two guards stood outside. Neither stopped him.
 
 Inside, the emergency chamber had lost the careful stillness of earlier meetings. Maps covered the table. Markers had been moved since morning.
 
 Maelis stood on one side with three copied record packets. Tavian stood at the map. Brynn had not removed her field coat.
 
-Hesk stood opposite them. He looked rested compared to the rest of us. Not because he was calm.
+Hesk stood opposite them. He looked rested compared to the rest of them. Not because he was calm.
 
-Because he had not spent the last several hours under a bridge. One council representative spoke as I entered.
+Because he had not spent the last several hours under a bridge. One council representative spoke as he entered.
 
 “We cannot leave the outer pressure uncontrolled.”
 
@@ -350,13 +349,13 @@ Hesk answered.
 
 “We cannot leave any of it uncontrolled.”
 
-His eyes moved to me. No smile. No satisfaction.
+His eyes moved to him. No smile. No satisfaction.
 
 That would have made things easier. Instead, he looked like a man whose argument had just been given bodies.
 
 “The hold order was clear,” he said.
 
-I stopped near the table.
+He stopped near the table.
 
 “Yes.”
 
@@ -384,7 +383,7 @@ Maelis’s expression hardened. Hesk placed one hand on the map.
 
 “The strongest remaining outer lures should be brought back to full operation.”
 
-Kellan’s leg flashed through my head. Not as an argument. Just there.
+Kellan’s leg flashed through his head. Not as an argument. Just there.
 
 Hesk continued.
 
@@ -404,15 +403,15 @@ One council member looked toward Brynn. Another looked toward Maelis. Hesk kept 
 
 “This is not theoretical anymore.”
 
-He pointed toward me.
+He pointed toward him.
 
 “Uncontrolled individual judgment has already shown us the alternative.”
 
-No one defended me.
+No one defended him.
 
 Good.
 
-He was not wrong about that part. Hesk looked directly at me.
+He was not wrong about that part. Hesk looked directly at him.
 
 “You wanted the choice removed from my hands.”
 
@@ -422,7 +421,7 @@ He was not wrong about that part. Hesk looked directly at me.
 
 “Yes.”
 
-A small shift in the room. Maybe they expected me to argue. I did not.
+A small shift in the room. Maybe they expected him to argue. He did not.
 
 Hesk’s gaze narrowed.
 
@@ -430,13 +429,13 @@ Hesk’s gaze narrowed.
 
 “No.”
 
-That made him pause. I looked at the map.
+That made him pause. He looked at the map.
 
 “Someone always chooses.”
 
-Kellan had chosen to support me. Tavian had chosen to warn me. Brynn had chosen to hold.
+Kellan had chosen to support him. Tavian had chosen to warn him. Brynn had chosen to hold.
 
-I had chosen to pull the stake. Hesk had chosen for years. The difference was not whether choices existed.
+He had chosen to pull the stake. Hesk had chosen for years. The difference was not whether choices existed.
 
 The difference was who paid, who knew, and whether anyone could challenge them. Hesk straightened.
 
@@ -466,7 +465,7 @@ Hesk said, “And Red Jackal’s unauthorized alteration is now documented too.�
 
 “Yes.”
 
-No hesitation. Maelis looked at me.
+No hesitation. Maelis looked at him.
 
 “It will be.”
 
@@ -560,7 +559,7 @@ Hesk’s expression went flat.
 
 “I am choosing not to repeat Red’s mistake with more equipment.”
 
-That landed. On me too. Tavian did not look at me.
+That landed. On him too. Tavian did not look at him.
 
 He kept his attention on the map.
 
@@ -622,7 +621,7 @@ Hesk did not answer immediately. Brynn’s voice went colder.
 
 “That was not optional.”
 
-He looked at her. Then at Maelis. Then at me.
+He looked at her. Then at Maelis. Then at him.
 
 Finally back to Tavian.
 
@@ -660,35 +659,35 @@ The runner answered. Tavian started moving markers. Brynn began giving orders.
 
 Maelis gathered her records. Hesk stepped toward his side of the table where the Guild route packets were kept. Everyone had something to do.
 
-I stood there. That was when being right about Hesk stopped offering anywhere to hide. I had been right about Hesk.
+He stood there. That was when being right about Hesk stopped offering anywhere to hide. He had been right about Hesk.
 
 He had hidden the lures. He had manipulated the reports. He had decided which roads could absorb danger.
 
-He had treated the outer homesteads as the part of Greywake that could be spent. All of that was still true. And I had still been wrong to pull the stake when I did.
+He had treated the outer homesteads as the part of Greywake that could be spent. All of that was still true. And he had still been wrong to pull the stake when he did.
 
-Both things fit in the same room. I did not like that. It did not matter.
+Both things fit in the same room. He did not like that. It did not matter.
 
 Tavian looked up from the map.
 
 “We need route observations from the disabled site.”
 
-I had them. Every track. Every call.
+He had them. Every track. Every call.
 
 Which side had been screened. Where the first herd crossed. Where the ridge-hounds appeared.
 
-I knew because I had been there. Because I had caused the change. I stepped toward the table.
+He knew because he had been there. Because he had caused the change. He stepped toward the table.
 
-Hesk looked at me.
+Hesk looked at him.
 
 “You have already contributed enough improvisation.”
 
-I stopped. Not because he told me to. Because part of me wanted to hit the sentence instead of answer it.
+He stopped. Not because he told him to. Because part of him wanted to hit the sentence instead of answer it.
 
 Brynn noticed.
 
 “So don't improvise.”
 
-I looked at her.
+He looked at her.
 
 “Then what?”
 
@@ -696,15 +695,15 @@ I looked at her.
 
 Maelis added, “Only what you saw.” Tavian said nothing. That was worse than being ordered.
 
-He was waiting to see what I did. I gave them the route. The first herd came from the screened side.
+He was waiting to see what he did. He gave them the route. The first herd came from the screened side.
 
 Ridge-hounds followed from another angle. Then smaller animals crossed the lower brush. Calls shifted before visible movement.
 
-I described where. Tavian moved markers while I spoke. He corrected one of my directional estimates.
+He described where. Tavian moved markers while he spoke. He corrected one of his directional estimates.
 
-I let him. Maelis wrote. Brynn listened.
+He let him. Maelis wrote. Brynn listened.
 
-Hesk did not interrupt. When I finished, Tavian looked at the map.
+Hesk did not interrupt. When he finished, Tavian looked at the map.
 
 “This helps.”
 
@@ -712,23 +711,23 @@ Not forgiveness. Not approval. Useful.
 
 That was enough. Another runner entered. Brynn turned away.
 
-The room moved again. I stepped outside. The air was colder than it had been that morning.
+The room moved again. He stepped outside. The air was colder than it had been that morning.
 
-From the council steps, I could see people moving barricades toward the lower road. A cart rolled toward the treatment house carrying supplies instead of patients. For now.
+From the council steps, he could see people moving barricades toward the lower road. A cart rolled toward the treatment house carrying supplies instead of patients. For now.
 
-The bridge was gone. Kellan was in a splint. My side had almost closed.
+The bridge was gone. Kellan was in a splint. His side had almost closed.
 
-I flexed my hand. Still weak. Still mine.
+He flexed his hand. Still weak. Still his.
 
 That mattered too. Hesk had been right about one thing. Someone had to choose.
 
-He had made that sentence into a claim of ownership. I had made the opposite mistake. I had treated choosing for myself as if it could not choose for anyone else.
+He had made that sentence into a claim of ownership. He had made the opposite mistake. He had treated choosing for himself as if it could not choose for anyone else.
 
-Neither version worked anymore. Brynn came out behind me.
+Neither version worked anymore. Brynn came out behind him.
 
 “We are moving the emergency route board to the militia yard.”
 
-I looked at her.
+He looked at her.
 
 “Tavian?”
 
@@ -748,15 +747,15 @@ Still necessary.
 
 Complicated.
 
-I looked toward the treatment house. Then toward the militia yard. Leaving would have been easier.
+He looked toward the treatment house. Then toward the militia yard. Leaving would have been easier.
 
-I could have told myself Greywake had its experts now. That I had made things worse once already. That staying would only give Hesk more reasons to point at me.
+He could have told himself Greywake had its experts now. That he had made things worse once already. That staying would only give Hesk more reasons to point at him.
 
-All true enough to hide inside. I did not move toward the gate. I went with Brynn.
+All true enough to hide inside. He did not move toward the gate. He went with Brynn.
 
 At the militia yard, Tavian had already spread a fresh route map across a work table. Maelis arrived with copied service records. Two militia runners waited for assignments.
 
-I put my hands on the edge of the table.
+He put his hands on the edge of the table.
 
 No performance.
 
@@ -766,16 +765,16 @@ No attempt to decide the whole thing alone.
 
 “What do you need from me?”
 
-Tavian looked at me for a long second. Then pointed to the empty space beside the map.
+Tavian looked at him for a long second. Then pointed to the empty space beside the map.
 
 “Everything you remember from the disabled site. Exact order.”
 
-I stayed.
+He stayed.
 
 Not because Hesk was right.
 
-Not because Greywake owned me.
+Not because Greywake owned him.
 
-Because I had helped break this.
+Because he had helped break this.
 
-I was going to help repair it.
+He was going to help repair it.

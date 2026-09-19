@@ -1,7 +1,8 @@
 # Chapter 4 — Off the Books
 
 **Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
-**Word Count:** 2830,838  
+**Word Count:** 2,823  
+**Chapter QA:** `qa/CH-004-GATE-9-CHAPTER-QA.md`
 
 By the time he reached the Road Guild hall, he had a working theory about Greywake. Everything important eventually became paperwork. Road access. Food shipments. Caravan schedules. Identity. Apparently even being an unexplained problem required a form.
 
@@ -11,13 +12,13 @@ That last part was becoming familiar. Jessa Vale was waiting near one of the pub
 
 “Red Jackal.”
 
-“Still him.”
+“Still me.”
 
 A Wayfarer Tongue Token hung from a brass stand between the counters. The faint pressure settled around the words as he came closer. Good. He had no interest in negotiating employment through hand gestures.
 
 Jessa held a thin stack of forms against her chest. “Roadmaster Hesk is finishing a route meeting.”
 
-“So he was invited before he was free.”
+“So I was invited before he was free.”
 
 “He expected the meeting to end earlier.”
 
@@ -51,9 +52,9 @@ Rovan Hesk looked at her first, then at him. His eyes paused on the wooden Unver
 
 “Red Jackal.”
 
-“That seems to be what everyone is calling him.”
+“That seems to be what everyone is calling me.”
 
-“he was told it's what you call yourself.”
+“I was told it's what you call yourself.”
 
 “Also true.”
 
@@ -61,7 +62,7 @@ He did not smile, but he did not look annoyed either.
 
 “Hesk.”
 
-“he gathered.”
+“I gathered.”
 
 His gaze moved once over his clothes, his boots, his hands, then returned to his face. It was not the kind of look that searched for an explanation. Hesk looked at people like resources. He had met enough managers in his first life to recognize the difference.
 
@@ -75,11 +76,11 @@ His gaze moved once over his clothes, his boots, his hands, then returned to his
 
 “No guild record.”
 
-“Apparently he was difficult to file.”
+“Apparently I'm difficult to file.”
 
 “You survived the road anyway.”
 
-He waited. That sounded like the part he cared about. Hesk handed the rolled map to a nearby clerk. “Come with him.” Confidence was easier when nobody had asked his price yet.
+He waited. That sounded like the part he cared about. Hesk handed the rolled map to a nearby clerk. “Come with me.” Confidence is easier when nobody has asked your price yet.
 
 He followed. His office was not much more impressive than the public hall. A large working table filled most of the room. Route maps covered one wall. Wooden markers sat in shallow trays beside wax tablets, sealed packets, and two cups that looked like someone had forgotten them hours ago.
 
@@ -89,7 +90,7 @@ Jessa came in behind them and set her papers on the table. Another Wayfarer Toke
 
 Direct. He appreciated that.
 
-“he need money.”
+“I need money.”
 
 “That usually means work.”
 
@@ -101,13 +102,13 @@ Fair. He pulled one sheet from Jessa's stack and looked at it. He could not read
 
 “Your registry failure prevents standard certification,” he said. “No valid identity means no normal guild contract, no registered escort assignment, no insured route work.”
 
-“he had heard the list.”
+“I've heard the list.”
 
-“Then he won't repeat it.”
+“Then I won't repeat it.”
 
 Better. He set the page down.
 
-“he can still pay you.”
+“I can still pay you.”
 
 That was the first useful sentence of the meeting.
 
@@ -117,13 +118,13 @@ That was the first useful sentence of the meeting.
 
 Jessa shifted slightly beside the table. Not enough to interrupt. Enough that he noticed. Hesk continued.
 
-“The Guild records the money. they record supplies issued. they record the work performed. What they do not create is a registered contract tied to an identity the System cannot recognize.”
+“The Guild records the money. We record supplies issued. We record the work performed. What we do not create is a registered contract tied to an identity the System cannot recognize.”
 
 “So off the books.”
 
 “Not entirely.”
 
-He looked at the page. Of course not. Apparently even avoiding paperwork required paperwork. Hesk tapped the form. “You would be recorded as irregular private labor under his authority.”
+He looked at the page. Of course not. Apparently even avoiding paperwork required paperwork. Hesk tapped the form. “You would be recorded as irregular private labor under my authority.”
 
 “And the difference?”
 
@@ -131,7 +132,7 @@ He looked at the page. Of course not. Apparently even avoiding paperwork require
 
 There it was. The useful part and the dangerous part sitting next to each other.
 
-“What do he get?”
+“What do I get?”
 
 “Marks.”
 
@@ -151,7 +152,7 @@ Jessa looked down at the table. Hesk nodded once.
 
 “At least you're honest about that.”
 
-“he try it occasionally.”
+“I try it occasionally.”
 
 He ignored the comment.
 
@@ -185,33 +186,33 @@ Hesk leaned one hand against the table.
 
 No monster nest. No forbidden ruin. No ritual sacrifice. Almost disappointing. Almost.
 
-“And why him?”
+“And why me?”
 
 Hesk answered without hesitation.
 
 “Because you're available.”
 
-Red looked at Hesk.
+He looked at him.
 
-“That is less flattering than he expected.”
+“That is less flattering than I expected.”
 
 “You want flattering or paid?”
 
 “Paid.”
 
-“Then they were making progress.”
+“Then we're making progress.”
 
-That was probably the first thing Hesk had said that Red liked. Hesk pushed the form toward Jessa.
+That was probably the first thing he had said that he liked. He pushed the form toward Jessa.
 
 “Explain the terms.”
 
-Then Hesk looked at Red.
+Then he looked at him.
 
-“If you decide the risk isn't worth it, walk away. He can find someone else.”
+“If you decide the risk isn't worth it, walk away. I can find someone else.”
 
 That mattered. No pressure. No threat. No attempt to trap him in the room. Which made it harder to treat the offer like one.
 
-“he would decide after he understand the money.”
+“I'll decide after I understand the money.”
 
 “Reasonable.”
 
@@ -219,23 +220,23 @@ Hesk left them with the form. That was either confidence or very good sales tech
 
 “Do you want the short version or the complete version?”
 
-“Complete enough that he don't discover later he agreed to donate a kidney.”
+“Complete enough that I don't discover later I agreed to donate a kidney.”
 
 She blinked. The token carried the meaning.
 
-“he don't think that translated correctly.”
+“I don't think that translated correctly.”
 
 “Probably for the best.”
 
-They moved back toward the public contract desks. The market lane outside was visible through the open doors, busy with late-afternoon traffic. Jessa placed the form beside the Guild token.
+they moved back toward the public contract desks. The market lane outside was visible through the open doors, busy with late-afternoon traffic. Jessa placed the form beside the Guild token.
 
 “This is not a standard employment contract.”
 
-“he noticed.”
+“I noticed.”
 
 “It records an irregular service payment authorized by the Roadmaster. The Guild can issue supplies and pay you, but the registry does not recognize you as a contracted worker.”
 
-“So if he get hurt?”
+“So if I get hurt?”
 
 “No standard injury payment.”
 
@@ -247,13 +248,13 @@ They moved back toward the public contract desks. The market lane outside was vi
 
 “Almost.”
 
-“And if he dispute the job?”
+“And if I dispute the job?”
 
 “No identity-bound contract appeal.”
 
 He looked at the writing again. It remained completely unhelpful.
 
-“What exactly am he being paid?”
+“What exactly am I being paid?”
 
 She told him the amount. It meant nothing. He stared at her for a second. Jessa understood.
 
@@ -281,7 +282,7 @@ Good. He was beginning to get a sense of the local economy. Mostly that being al
 
 “You said you were unarmed at the gate.”
 
-“he was.”
+“I was.”
 
 She looked at him. He looked back. She decided not to ask. That was probably wise for both of them.
 
@@ -307,23 +308,23 @@ Her mouth moved slightly before she looked back at the form.
 
 “It is an advance.”
 
-“he understand the concept.”
+“I understand the concept.”
 
-“he was checking.”
+“I'm checking.”
 
 She was good at this. That was becoming obvious.
 
-“What do he need to bring?”
+“What do I need to bring?”
 
 “Yourself. Your entrant token. Clothing suitable for the road. Anything personal you don't want to leave behind.”
 
-“So everything he own.”
+“So everything I own.”
 
 She looked at him again.
 
 “You really have nothing?”
 
-“he have a wooden token and a very complicated administrative history.”
+“I have a wooden token and a very complicated administrative history.”
 
 That was not entirely true. He also had the clothes he was wearing. Things were improving. Jessa lowered her voice a little.
 
@@ -335,9 +336,9 @@ There it was. The sentence people use right before explaining why the good part 
 
 “A registered road worker would have a certification record. If something happens, the Guild knows who they are, who receives notice, which protections apply, which claims can be filed.”
 
-“And him?”
+“And me?”
 
-“they know what you call yourself.”
+“We know what you call yourself.”
 
 Simple. Accurate. Not especially comforting.
 
@@ -365,17 +366,17 @@ Careful answer. Not necessarily dishonest.
 
 Also an answer. He handed the coin back.
 
-“For the record, he was learning the value of the money after negotiating for it.”
+“For the record, I'm learning the value of the money after negotiating for it.”
 
 “You haven't negotiated yet.”
 
 Good point.
 
-“What if he want more?”
+“What if I want more?”
 
 “You can ask.”
 
-“Will he get more?”
+“Will I get more?”
 
 “Probably not.”
 
@@ -385,7 +386,7 @@ Her direction changed. Of course it did. Brynn stopped just inside the Guild ent
 
 “You took the offer.”
 
-“he was considering it.”
+“I'm considering it.”
 
 “Hesk's private work?”
 
@@ -401,7 +402,7 @@ Brynn looked back at him.
 
 “You understand what that means?”
 
-“Everyone has been very committed to making sure he do.”
+“Everyone has been very committed to making sure I do.”
 
 “Good.”
 
@@ -415,19 +416,19 @@ Nothing hostile in the greeting. Nothing warm either. Brynn nodded toward the fo
 
 “He stays an Unverified Entrant.”
 
-“he know.”
+“I know.”
 
 “This doesn't change his gate restrictions.”
 
-“he know.”
+“I know.”
 
 “The militia isn't guaranteeing Guild work outside registered contracts.”
 
-“he didn't ask you to.”
+“I didn't ask you to.”
 
 Hesk's tone remained calm. Brynn's did too. That somehow made the disagreement clearer. He looked between them.
 
-“So nobody is responsible for him.”
+“So nobody is responsible for me.”
 
 Brynn looked at him.
 
@@ -435,13 +436,13 @@ Brynn looked at him.
 
 There it was. Short answer. Hard to argue with. Hesk set the map on the counter. “He's choosing the work.”
 
-“he can see that.”
+“I can see that.”
 
 “You object?”
 
-“he object to people confusing private arrangements with protection.”
+“I object to people confusing private arrangements with protection.”
 
-“he haven't confused them.”
+“I haven't confused them.”
 
 Brynn looked at him again.
 
@@ -463,7 +464,7 @@ She looked once at Hesk.
 
 Hesk's expression did not move.
 
-“he don't plan to.”
+“I don't plan to.”
 
 That sentence would probably matter more later. For now, it sounded ordinary. Brynn left. Hesk watched her go, then turned back to him.
 
@@ -483,9 +484,9 @@ That was almost disappointing. He had expected accepting questionable frontier e
 
 “Private labor accepted. Advance issued. Supply access approved. Assignment pending completion.”
 
-“he can't read any of that.”
+“I can't read any of that.”
 
-“he know.”
+“I know.”
 
 “So this is based on spoken terms.”
 
@@ -507,19 +508,19 @@ A bridge symbol. Jessa pointed to each one.
 
 He studied the shapes.
 
-“That he can remember.”
+“That I can remember.”
 
 “The written sheet has the same route.”
 
 “Less useful.”
 
-“he assumed.”
+“I assumed.”
 
 She separated a smaller card from the stack. The writing was still unreadable, but the bridge symbol had been stamped clearly at the top.
 
 “Show this to the crew foreman. The symbol and Guild seal identify the assignment.”
 
-“Finally. Paperwork designed for him.”
+“Finally. Paperwork designed for me.”
 
 “It was designed for workers who can't read.”
 

@@ -1,14 +1,20 @@
 # Chapter 14 — Necessary Losses
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** CINEMATIC STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 3,124  
 **Chapter QA:** `qa/CH-014-GATE-9-CHAPTER-QA.md`
 
-Proving someone had been deciding where people were allowed to die turned out not to make the next decision easier. He found that rude. The council chamber was fuller than the map room had been. Two long benches had been pulled against the walls, council representatives occupied most of the chairs, and three different stacks of records sat in front of Maelis like paperwork had started breeding.
+The council chamber was full before Red arrived.
 
-A charged Wayfarer Tongue Token hung near the central table. Brynn stood beside it. Hesk sat instead of standing this time.
+Representatives filled most of the chairs. Two benches had been dragged against the walls. Three stacks of records waited in front of Maelis.
 
-That somehow made him look more dangerous. Kellan had refused a chair. Tavian stood near the route map with both hands resting on the edge of the table.
+Hesk sat at the central table.
+
+Yesterday he had stood through every argument.
+
+Today he looked tired.
+
+Red trusted that less. Kellan had refused a chair. Tavian stood near the route map with both hands resting on the edge of the table.
 
 Nobody looked rested. Maelis opened with the part no one could argue around anymore.
 
@@ -42,11 +48,9 @@ Hesk did not answer. A second council representative leaned forward.
 
 “What happens if the lures stop today?”
 
-That was the question.
+That was the question now.
 
-Not whether they should have existed. Not whether Hesk had lied. Not whether the outer routes had paid for the main road.
-
-What happened next. He looked at the man.
+What happened next.
 
 “You're asking if we should keep doing it.”
 
@@ -140,9 +144,13 @@ He did not begin with the lures. He began with winter.
 
 “Eleven years ago, the first snow came before the migration cleared.”
 
-The room changed. Not visibly at first. A few council members looked down.
+A few council members looked down.
 
-Brynn's expression went still. Kellan stopped moving. Apparently this was not a story Greywake had forgotten.
+Brynn went still.
+
+Kellan stopped moving.
+
+Greywake remembered this winter.
 
 Hesk continued.
 
@@ -152,7 +160,9 @@ His voice stayed even.
 
 “No caravan reached Greywake for weeks.”
 
-He watched him. There was no performance in it. That made it harder to dismiss.
+Red watched Hesk.
+
+There was no performance in his face.
 
 “Two supply wagons disappeared before anyone outside Greywake understood the road was gone. One relief caravan turned back. Another never left because Valedorn officials had not agreed whether reopening the route was worth the cost.”
 
@@ -182,7 +192,9 @@ Another.
 
 “People starved.”
 
-Nobody moved. He had wanted to dislike the story. That would have been easier.
+Nobody moved.
+
+Red wished the story had been easier to dismiss.
 
 Hesk rested both hands on the table.
 
@@ -204,9 +216,15 @@ Kellan's eyes hardened.
 
 “It survives by deciding what cannot be allowed to die.”
 
-There it was. The sentence beneath everything. The road.
+There it was.
 
-The records. The outer routes. Red.
+The road.
+
+The records.
+
+The outer routes.
+
+Red.
 
 He folded his arms.
 
@@ -242,9 +260,7 @@ No excuse.
 
 No denial.
 
-Just yes.
-
-That answer landed harder than another argument would have. Hesk looked at him again.
+Just yes. Hesk looked at him again.
 
 “You think I chose between good and evil.”
 
@@ -268,7 +284,9 @@ Maelis looked at him.
 
 “Yes.”
 
-That distinction mattered now. The discussion moved from the chamber to the adjoining route board because apparently serious moral collapse also required inventory. The board covered most of one wall.
+That distinction mattered now. They moved to the adjoining route board.
+
+Even moral collapse came with inventory. The board covered most of one wall.
 
 Colored tags marked caravans, supply categories, road closures, work crews, and expected arrivals. He could read none of the writing. Naturally.
 
@@ -702,13 +720,9 @@ He looked at her. She pointed at the map.
 
 “But if you destroy one and the pressure hits another settlement, what did you designate them as?”
 
-That landed.
+Red looked back at the map.
 
-He hated it.
-
-Which usually meant it deserved attention. He looked back at the map. If he broke the wrong thing because he was angry, and someone else paid for it, then he had still made a choice for them.
-
-Different motive. Same problem.
+If he broke the wrong lure and another settlement paid for it, the motive would not matter much to the people getting hurt.
 
 Annoying.
 
@@ -746,9 +760,11 @@ Tavian was quiet.
 
 “That is the problem.”
 
-Nobody solved it. That was worse than every answer they had found so far. A knock hit the chamber door.
+No one answered.
 
-Not polite. Urgent. Brynn turned.
+A hard knock hit the chamber door.
+
+Brynn turned.
 
 One of the militia runners entered, breathing hard. Mud covered one boot to the knee.
 
@@ -810,13 +826,15 @@ Kellan hit the table with the side of his fist.
 
 “I know.”
 
-Red heat climbed into his chest. There it was again. Wait.
+Heat climbed into Red's chest.
 
-Map. Confirm. Meanwhile somebody else's road got teeth.
+Wait. Map. Confirm.
 
-He looked at Tavian. He looked back. He knew exactly what he was thinking.
+Meanwhile somebody else's road got teeth.
 
-Good for him.
+He looked at Tavian.
+
+Tavian was already watching him.
 
 “Red.”
 

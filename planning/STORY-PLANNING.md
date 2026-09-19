@@ -456,4 +456,29 @@ After all 13 changed chapters pass:
 - rerun aggregate Gate 11;
 - resume CH-028.
 
-**Official next step:** CH-005 — A Better Hammer → Overpowered Retcon Prose Revision.
+**Retcon manuscript revision result:** COMPLETE — 13/13 affected chapters revised and individually Gate 9 revalidated.
+
+**Volume 1 Gate 10:** PASS — `qa/VOLUME-001-GREYWAKE-OVERPOWERED-RETCON-GATE-10-REVALIDATION.md`.
+
+**Current canon total:** 75,157 words.
+
+**Official next step:** regenerate publication copies for the 13 revised chapters → Gate 11 revalidation.
+
+
+# 8. Volume 1 Overpowered Retcon Completion
+
+The manuscript revision cycle is complete.
+
+Revised + Gate 9 PASS:
+**CH-005, CH-006, CH-007, CH-009, CH-011, CH-015, CH-016, CH-019, CH-020, CH-021, CH-022, CH-023, CH-024.**
+
+Retained without prose rewrite:
+**CH-001, CH-002, CH-003, CH-004, CH-008, CH-010, CH-012, CH-013, CH-014, CH-017, CH-018, CH-025, CH-026.**
+
+Volume-level Gate 10:
+**PASS — 26/26 CANON / 75,157 words.**
+
+Authoritative Gate 10:
+`qa/VOLUME-001-GREYWAKE-OVERPOWERED-RETCON-GATE-10-REVALIDATION.md`
+
+CH-028 remains paused until the changed reader-facing Volume 1 copies complete Gate 11 refresh.

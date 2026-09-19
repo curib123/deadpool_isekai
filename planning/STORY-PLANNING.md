@@ -105,7 +105,7 @@ The authoritative Volume 1 chapter roadmap is:
 
 The next authorized planning artifact is:
 
-`CH-019 — Build the Wrong Road: Detailed Scene Architecture`
+`CH-019 — Build the Wrong Road: Manuscript Draft`
 
 CH-001 manuscript has passed Gate 9 and is CANON.
 
@@ -203,9 +203,11 @@ No F-ID changed status in CH-018.
 
 M-007 did not advance.
 
-Detailed Scene Architecture for CH-019 — Build the Wrong Road is now authorized.
+CH-019 Scene Architecture has passed Gate 8.
 
-Do not draft CH-019 manuscript before its Scene Architecture and Gate 8 Pre-Manuscript Scene QA pass.
+Drafting CH-019 manuscript prose is now authorized.
+
+Do not draft CH-020 or create CH-020 Scene Architecture during the CH-019 manuscript step.
 
 # 5. Scene Sheet
 Each scene has:

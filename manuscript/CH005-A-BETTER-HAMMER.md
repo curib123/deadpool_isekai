@@ -1,8 +1,9 @@
 # Chapter 5 — A Better Hammer
 
-**Status:** RETCON REVISED — GATE 9 REVALIDATION PENDING  
+**Status:** CANON — OVERPOWERED RETCON GATE 9 PASS  
 **Word Count:** 3215,105  
 **Chapter QA:** `qa/CH-005-GATE-9-CHAPTER-QA.md`
+**Retcon QA:** `qa/CH-005-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
 First light was a cruel phrase. It suggested something quiet and poetic. What it actually meant was standing in the Road Guild caravan yard before I had found a reliable source of breakfast. I arrived with the wooden entrant token under my coat, the bridge-marked assignment card in one pocket, and the remaining advance in another. The sky was still grey above Greywake, and the yard was already awake.
 

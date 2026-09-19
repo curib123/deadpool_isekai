@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** RED JACKAL OVERPOWERED RETCON ACTIVE — FOUNDATION UPDATED / VOLUME 1+2 POWER AUDIT REQUIRED / CH-028 PAUSED
+**Status:** RED JACKAL OVERPOWERED RETCON ACTIVE — VOLUME 1 MANUSCRIPT AUDIT COMPLETE / CH-005 REVISION NEXT / CH-028 PAUSED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -24,6 +24,7 @@ Publish Version QA Standard: **ACTIVE — GATE 11**
 Volume 1 Publish Version QA: **STALE AFTER RETCON — PREVIOUS 26-COPY PASS PRESERVED / REVALIDATION REQUIRED**  
 Volume 1 Pacing Revision v2: **PAUSED — RETAIN PACING GOALS / POWER-BALANCE ASSUMPTIONS SUPERSEDED**  
 Red Jackal Overpowered Retcon: **ACTIVE — NO POWER PROGRESSION / UNBOUNDED PLAY LOGIC / REVELATION MODEL**  
+Volume 1 Power-Retcon Manuscript Audit: **PASS — 26/26 AUDITED / 13 REVISE / 13 KEEP**  
 Volume 2 Destination Selection: **PASS — GATE 5 / DEST-002 MERROWGATE**  
 Volume 2 Architecture: **PASS — GATE 6 / MERROWGATE ARC LOCKED**  
 Volume 2 Chapter Roadmap: **PASS — GATE 7 / 24 CHAPTERS / CH-027 THROUGH CH-050 LOCKED**  
@@ -170,4 +171,28 @@ Foundation changes:
 
 All older Stage-I ceiling language is legacy until revised.
 
-**Current production priority:** foundation/volume/manuscript power audit before new CH-028 scene production.
+**Current production priority:** CH-005 — A Better Hammer → Overpowered Retcon Prose Revision → Gate 9 Revalidation.
+
+
+## Volume 1 Power-Retcon Manuscript Audit Result
+
+Audit:
+
+`qa/VOLUME-001-POWER-RETCON-MANUSCRIPT-AUDIT.md`
+
+Result:
+- **26 / 26 manuscripts audited**
+- **7 substantive revisions**
+- **6 targeted revisions**
+- **13 no manuscript change**
+
+Substantive:
+CH-007, CH-019, CH-020, CH-021, CH-022, CH-023, CH-024.
+
+Targeted:
+CH-005, CH-006, CH-009, CH-011, CH-015, CH-016.
+
+Keep:
+CH-001, CH-002, CH-003, CH-004, CH-008, CH-010, CH-012, CH-013, CH-014, CH-017, CH-018, CH-025, CH-026.
+
+**Active step:** CH-005 — A Better Hammer → Overpowered Retcon Prose Revision → Gate 9 Revalidation.

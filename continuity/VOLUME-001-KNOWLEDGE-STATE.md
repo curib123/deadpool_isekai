@@ -5901,3 +5901,222 @@ CH-019 owns:
 - corridor becoming barely viable.
 
 CH-020 hidden retained lure stock/evidence conflict remains protected.
+
+# CH-019 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-019 — Build the Wrong Road  
+**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+
+## Opening State
+
+CH-019 begins from CH-018 canon.
+
+Known:
+- Broken North is the selected redirection corridor;
+- Broken North is physically unready;
+- backflow remains active;
+- Greywake-facing pressure remains dangerous;
+- Brynn's shared deployment structure is active;
+- Tavian leads route/ecology confirmation;
+- Kellan remains non-weight-bearing and out of field work;
+- Kellan's CH-018 repair notes are available;
+- Red is recovering but not fully fresh;
+- CH-020 hidden retained lure stock remains unknown.
+
+## Physical Work Boundary
+
+CH-019 may establish:
+
+- drainage clearing;
+- brush/root removal;
+- roadbed stabilization;
+- permanent timber/stone support at the CH-011 cracked lip;
+- rough worker-built footing across a secondary washed gap;
+- ordinary side barriers/earth obstructions;
+- work crews moving through the corridor on foot.
+
+The corridor may become:
+
+**barely viable**
+
+but not:
+- safe;
+- repaired to normal road standard;
+- suitable for normal heavy caravan traffic;
+- guaranteed to carry the full surge.
+
+## Kellan Boundary
+
+Kellan remains out of Broken North.
+
+His existing notes may inform:
+- drainage priority;
+- cracked-lip bracing;
+- connector order;
+- broad material needs.
+
+Current field workers must verify actual conditions.
+
+No field return or weight bearing is authorized.
+
+## Hesk / Resource Boundary
+
+CH-019 may show ordinary resource scarcity.
+
+Allowed:
+- less Guild timber/rope than requested;
+- some ordinary stock remaining on the Main Caravan Road;
+- Hesk's established argument that the main road cannot be stripped;
+- homesteaders contributing reclaimed ordinary materials.
+
+Not allowed:
+- hidden stock;
+- missing secret lure material;
+- unauthorized reserve;
+- CH-020 fallback discovery.
+
+## Tavian Boundary
+
+Tavian may:
+- judge whether construction creates a continuous animal route;
+- monitor fresh sign;
+- identify localized predator pressure;
+- prevent workers/militia from redirecting danger toward populated side routes;
+- determine at chapter end whether Broken North is viable enough for redirection.
+
+He does not execute final lure timing in CH-019.
+
+## Brynn Boundary
+
+Brynn may:
+- assign work crews;
+- assign militia protection;
+- preserve withdrawal routes;
+- allocate limited materials;
+- stop work if a site becomes untenable.
+
+She does not:
+- restore Hesk;
+- reveal CH-020 material;
+- begin CH-021 mass evacuation.
+
+## Red Jackal Boundary
+
+Red must perform ordinary labor.
+
+Examples:
+- carrying timber;
+- moving stone/fill;
+- clearing brush;
+- hauling rope;
+- helping position materials.
+
+One mild manual-labor performance beat is allowed early.
+
+After active localized danger increases, humor should sharply reduce.
+
+## Stage I Play Logic Boundary
+
+Maximum CH-019 manifestations:
+
+**3**
+
+### Manifestation 1
+Temporary brace beneath the CH-011 cracked road lip.
+
+Purpose:
+- allow workers to install permanent timber/stone support.
+
+### Manifestation 2
+Short temporary ramp/footing across a secondary washed gap.
+
+Purpose:
+- move workers/materials while ordinary footing is built.
+
+### Manifestation 3
+Low temporary barrier/obstruction during localized animal/predator pressure.
+
+Purpose:
+- buy seconds for workers/militia to reposition.
+
+All manifestations must:
+- remain Stage I;
+- remain temporary;
+- be physically simple;
+- become progressively less stable;
+- never become permanent infrastructure;
+- never replace engineering.
+
+No fourth major manifestation is authorized.
+
+## Regeneration / Exhaustion Boundary
+
+CH-019 may show:
+- side/leg/shoulder soreness;
+- normal labor fatigue;
+- manifestation pressure/headache;
+- hand tremor;
+- slower movement;
+- reduced concentration;
+- small new injuries/abrasions.
+
+Regeneration:
+- may close minor damage;
+- may keep Red functional.
+
+It does not:
+- refill stamina;
+- restore precision instantly;
+- authorize a fourth major manifestation.
+
+## Localized Monster Pressure Boundary
+
+Allowed:
+- ridge-hounds;
+- panicked browsing/prey animals;
+- ordinary unnamed Hollow March predators/scavengers.
+
+Not allowed:
+- new major CREATURE-ID;
+- reserved large territorial predator;
+- boss fight;
+- mass casualty set piece.
+
+## CH-020 Firewall
+
+CH-019 must not reveal or establish:
+- hidden retained lure stock;
+- unauthorized fallback lure supply;
+- evidence seizure/destruction attempt;
+- Jessa's decisive complicity break;
+- Hesk's final fallback action.
+
+Only ordinary logged resources may appear.
+
+## CH-021 Firewall
+
+CH-019 must not begin:
+- mass Greywake evacuation;
+- hours-level final surge staging;
+- first mass prey wave beyond the lantern line.
+
+## F-ID / Mystery State
+
+No new F-ID.
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+M-007 does not advance.
+
+## Locked Architecture Ending
+
+The CH-019 manuscript, if later approved, must end with:
+
+- Broken North barely viable;
+- Red materially exhausted;
+- the corridor still dependent on the remaining known lure network being timed precisely.
+
+Until Gate 9, those outcomes remain architecture support rather than manuscript canon.

@@ -1,20 +1,19 @@
 # Chapter 4 — Off the Books
 
-**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED  
+**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
 **Word Count:** 2,838  
-**Chapter QA:** `qa/CH-004-GATE-9-CHAPTER-QA.md`
 
-By the time I reached the Road Guild hall, I had a working theory about Greywake. Everything important eventually became paperwork. Road access. Food shipments. Caravan schedules. Identity. Apparently even being an unexplained problem required a form.
+By the time he reached the Road Guild hall, he had a working theory about Greywake. Everything important eventually became paperwork. Road access. Food shipments. Caravan schedules. Identity. Apparently even being an unexplained problem required a form.
 
-The Guild hall sat close to the caravan yard, where the road widened enough for wagons to turn without taking out a wall. The building was larger than the Ledger office and much busier. Drivers came and went through two open doors. Workers carried coils of rope, replacement wheel rims, boxed tools, and bundles of stamped tags. A board near the entrance was covered in notices I could not read.
+The Guild hall sat close to the caravan yard, where the road widened enough for wagons to turn without taking out a wall. The building was larger than the Ledger office and much busier. Drivers came and went through two open doors. Workers carried coils of rope, replacement wheel rims, boxed tools, and bundles of stamped tags. A board near the entrance was covered in notices he could not read.
 
-That last part was becoming familiar. Jessa Vale was waiting near one of the public desks. She noticed me before I reached her and lifted a hand.
+That last part was becoming familiar. Jessa Vale was waiting near one of the public desks. She noticed him before he reached her and lifted a hand.
 
 “Red Jackal.”
 
 “Still me.”
 
-A Wayfarer Tongue Token hung from a brass stand between the counters. The faint pressure settled around the words as I came closer. Good. I had no interest in negotiating employment through hand gestures.
+A Wayfarer Tongue Token hung from a brass stand between the counters. The faint pressure settled around the words as he came closer. Good. He had no interest in negotiating employment through hand gestures.
 
 Jessa held a thin stack of forms against her chest. “Roadmaster Hesk is finishing a route meeting.”
 
@@ -24,15 +23,15 @@ Jessa held a thin stack of forms against her chest. “Roadmaster Hesk is finish
 
 “Reasonable mistake.”
 
-She looked past me toward the yard, where two men were arguing over a wagon axle.
+She looked past him toward the yard, where two men were arguing over a wagon axle.
 
 “Road meetings usually run long.”
 
-I followed her gaze. A clerk behind the nearest desk called out a route number. Three caravan guards stepped forward. Another worker moved colored markers across a wall map while someone else checked a list against crates being loaded outside.
+He followed her gaze. A clerk behind the nearest desk called out a route number. Three caravan guards stepped forward. Another worker moved colored markers across a wall map while someone else checked a list against crates being loaded outside.
 
 This was not a small organization pretending to matter. The Road Guild was busy because Greywake needed it to be busy.
 
-“Every caravan goes through here?” I asked.
+“Every caravan goes through here?” he asked.
 
 “Not every one. Most scheduled road traffic does.”
 
@@ -48,7 +47,7 @@ He carried a rolled map under one arm. Nothing about him suggested he needed to 
 
 “Roadmaster.”
 
-Rovan Hesk looked at her first, then at me. His eyes paused on the wooden Unverified Entrant Token hanging near my coat.
+Rovan Hesk looked at her first, then at him. His eyes paused on the wooden Unverified Entrant Token hanging near his coat.
 
 “Red Jackal.”
 
@@ -64,7 +63,7 @@ He did not smile, but he did not look annoyed either.
 
 “I gathered.”
 
-His gaze moved once over my clothes, my boots, my hands, then returned to my face. It was not the kind of look that searched for an explanation. Hesk looked at people like resources. I had met enough managers in my first life to recognize the difference.
+His gaze moved once over his clothes, his boots, his hands, then returned to his face. It was not the kind of look that searched for an explanation. Hesk looked at people like resources. He had met enough managers in his first life to recognize the difference.
 
 “You came through the north road alone,” he said.
 
@@ -80,15 +79,15 @@ His gaze moved once over my clothes, my boots, my hands, then returned to my fac
 
 “You survived the road anyway.”
 
-I waited. That sounded like the part he cared about. Hesk handed the rolled map to a nearby clerk. “Come with me.” Confidence is easier when nobody has asked your price yet.
+He waited. That sounded like the part he cared about. Hesk handed the rolled map to a nearby clerk. “Come with me.” Confidence is easier when nobody has asked your price yet.
 
-I followed. His office was not much more impressive than the public hall. A large working table filled most of the room. Route maps covered one wall. Wooden markers sat in shallow trays beside wax tablets, sealed packets, and two cups that looked like someone had forgotten them hours ago.
+He followed. His office was not much more impressive than the public hall. A large working table filled most of the room. Route maps covered one wall. Wooden markers sat in shallow trays beside wax tablets, sealed packets, and two cups that looked like someone had forgotten them hours ago.
 
-Jessa came in behind us and set her papers on the table. Another Wayfarer Token hung from a hook near the door. Hesk stayed standing.
+Jessa came in behind them and set her papers on the table. Another Wayfarer Token hung from a hook near the door. Hesk stayed standing.
 
 “So,” he said. “You need work.”
 
-Direct. I appreciated that.
+Direct. He appreciated that.
 
 “I need money.”
 
@@ -98,7 +97,7 @@ Direct. I appreciated that.
 
 “Not often enough to plan around.”
 
-Fair. He pulled one sheet from Jessa's stack and looked at it. I could not read a word.
+Fair. He pulled one sheet from Jessa's stack and looked at it. He could not read a word.
 
 “Your registry failure prevents standard certification,” he said. “No valid identity means no normal guild contract, no registered escort assignment, no insured route work.”
 
@@ -116,7 +115,7 @@ That was the first useful sentence of the meeting.
 
 “Private labor. Discretionary road expense.”
 
-Jessa shifted slightly beside the table. Not enough to interrupt. Enough that I noticed. Hesk continued.
+Jessa shifted slightly beside the table. Not enough to interrupt. Enough that he noticed. Hesk continued.
 
 “The Guild records the money. We record supplies issued. We record the work performed. What we do not create is a registered contract tied to an identity the System cannot recognize.”
 
@@ -124,7 +123,7 @@ Jessa shifted slightly beside the table. Not enough to interrupt. Enough that I 
 
 “Not entirely.”
 
-I looked at the page. Of course not. Apparently even avoiding paperwork required paperwork. Hesk tapped the form. “You would be recorded as irregular private labor under my authority.”
+He looked at the page. Of course not. Apparently even avoiding paperwork required paperwork. Hesk tapped the form. “You would be recorded as irregular private labor under my authority.”
 
 “And the difference?”
 
@@ -136,13 +135,13 @@ There it was. The useful part and the dangerous part sitting next to each other.
 
 “Marks.”
 
-Finally. Money I also did not understand. Hesk must have seen something in my face.
+Finally. Money he also did not understand. Hesk must have seen something in his face.
 
 “You know what a Mark is?”
 
 “Silver coin.”
 
-That much I had learned from listening.
+That much he had learned from listening.
 
 “Do you know what one buys?”
 
@@ -192,7 +191,7 @@ Hesk answered without hesitation.
 
 “Because you're available.”
 
-I looked at him.
+He looked at him.
 
 “That is less flattering than I expected.”
 
@@ -202,21 +201,21 @@ I looked at him.
 
 “Then we're making progress.”
 
-That was probably the first thing he had said that I liked. He pushed the form toward Jessa.
+That was probably the first thing he had said that he liked. He pushed the form toward Jessa.
 
 “Explain the terms.”
 
-Then he looked at me.
+Then he looked at him.
 
 “If you decide the risk isn't worth it, walk away. I can find someone else.”
 
-That mattered. No pressure. No threat. No attempt to trap me in the room. Which made it harder to treat the offer like one.
+That mattered. No pressure. No threat. No attempt to trap him in the room. Which made it harder to treat the offer like one.
 
 “I'll decide after I understand the money.”
 
 “Reasonable.”
 
-Hesk left us with the form. That was either confidence or very good sales technique. Possibly both. Jessa picked up the page.
+Hesk left them with the form. That was either confidence or very good sales technique. Possibly both. Jessa picked up the page.
 
 “Do you want the short version or the complete version?”
 
@@ -228,7 +227,7 @@ She blinked. The token carried the meaning.
 
 “Probably for the best.”
 
-We moved back toward the public contract desks. The market lane outside was visible through the open doors, busy with late-afternoon traffic. Jessa placed the form beside the Guild token.
+They moved back toward the public contract desks. The market lane outside was visible through the open doors, busy with late-afternoon traffic. Jessa placed the form beside the Guild token.
 
 “This is not a standard employment contract.”
 
@@ -252,11 +251,11 @@ We moved back toward the public contract desks. The market lane outside was visi
 
 “No identity-bound contract appeal.”
 
-I looked at the writing again. It remained completely unhelpful.
+He looked at the writing again. It remained completely unhelpful.
 
 “What exactly am I being paid?”
 
-She told me the amount. It meant nothing. I stared at her for a second. Jessa understood.
+She told him the amount. It meant nothing. He stared at her for a second. Jessa understood.
 
 “Right.”
 
@@ -268,7 +267,7 @@ She pointed toward the market outside.
 
 “No.”
 
-Good. I was beginning to get a sense of the local economy. Mostly that being alive remained expensive.
+Good. He was beginning to get a sense of the local economy. Mostly that being alive remained expensive.
 
 “And the Guild supplies?”
 
@@ -284,13 +283,13 @@ Good. I was beginning to get a sense of the local economy. Mostly that being ali
 
 “I was.”
 
-She looked at me. I looked back. She decided not to ask. That was probably wise for both of us.
+She looked at him. He looked back. She decided not to ask. That was probably wise for both of them.
 
 “There's also an advance,” she said.
 
-Now we were talking. She opened a small drawer beneath the desk and took out several silver coins. Marks. They were slightly larger than the coins I remembered from home, stamped with a crown shape on one side and a river motif on the other.
+Now they were talking. She opened a small drawer beneath the desk and took out several silver coins. Marks. They were slightly larger than the coins he remembered from home, stamped with a crown shape on one side and a river motif on the other.
 
-My first money in another world. I had expected that moment to feel more significant. Mostly I was hungry. Jessa kept the coins on the desk.
+His first money in another world. He had expected that moment to feel more significant. Mostly he was hungry. Jessa kept the coins on the desk.
 
 “You receive these only if you accept.”
 
@@ -320,13 +319,13 @@ She was good at this. That was becoming obvious.
 
 “So everything I own.”
 
-She looked at me again.
+She looked at him again.
 
 “You really have nothing?”
 
 “I have a wooden token and a very complicated administrative history.”
 
-That was not entirely true. I also had the clothes I was wearing. Things were improving. Jessa lowered her voice a little.
+That was not entirely true. He also had the clothes he was wearing. Things were improving. Jessa lowered her voice a little.
 
 “You should understand something else.”
 
@@ -344,9 +343,9 @@ Simple. Accurate. Not especially comforting.
 
 “If you disappear,” she continued, “there is still an expense record. There would be a route report. But the normal identity-linked protections don't exist.”
 
-I looked at the silver coins. The deal was bad. Not secretly bad. Openly bad. That was almost refreshing.
+He looked at the silver coins. The deal was bad. Not secretly bad. Openly bad. That was almost refreshing.
 
-The problem was that the alternative was currently no deal at all. I could refuse and preserve protections I did not have access to. Very safe. Very unemployed. I picked up one of the Marks and turned it between my fingers.
+The problem was that the alternative was currently no deal at all. He could refuse and preserve protections he did not have access to. Very safe. Very unemployed. He picked up one of the Marks and turned it between his fingers.
 
 “Does Hesk do this often?”
 
@@ -364,7 +363,7 @@ Careful answer. Not necessarily dishonest.
 
 “Greywake is a frontier settlement.”
 
-Also an answer. I handed the coin back.
+Also an answer. He handed the coin back.
 
 “For the record, I'm learning the value of the money after negotiating for it.”
 
@@ -380,7 +379,7 @@ Good point.
 
 “Probably not.”
 
-I liked her honesty. Before I could decide whether to make the attempt anyway, Captain Brynn Alder crossed the open yard outside. She saw me at the desk. Then Jessa. Then the form.
+He liked her honesty. Before he could decide whether to make the attempt anyway, Captain Brynn Alder crossed the open yard outside. She saw him at the desk. Then Jessa. Then the form.
 
 Her direction changed. Of course it did. Brynn stopped just inside the Guild entrance.
 
@@ -398,7 +397,7 @@ Her eyes went to Jessa.
 
 “No,” Jessa said.
 
-Brynn looked back at me.
+Brynn looked back at him.
 
 “You understand what that means?”
 
@@ -406,7 +405,7 @@ Brynn looked back at me.
 
 “Good.”
 
-Hesk appeared from the office behind us, carrying another map.
+Hesk appeared from the office behind them, carrying another map.
 
 “Alder.”
 
@@ -426,11 +425,11 @@ Nothing hostile in the greeting. Nothing warm either. Brynn nodded toward the fo
 
 “I didn't ask you to.”
 
-Hesk's tone remained calm. Brynn's did too. That somehow made the disagreement clearer. I looked between them.
+Hesk's tone remained calm. Brynn's did too. That somehow made the disagreement clearer. He looked between them.
 
 “So nobody is responsible for me.”
 
-Brynn looked at me.
+Brynn looked at him.
 
 “You are.”
 
@@ -444,13 +443,13 @@ There it was. Short answer. Hard to argue with. Hesk set the map on the counter.
 
 “I haven't confused them.”
 
-Brynn looked at me again.
+Brynn looked at him again.
 
 “Have you?”
 
 “No.”
 
-That was true. I knew exactly what I was getting. Money. Work. Access.
+That was true. He knew exactly what he was getting. Money. Work. Access.
 
 Risk. The order was negotiable. Brynn seemed satisfied enough with that.
 
@@ -466,11 +465,11 @@ Hesk's expression did not move.
 
 “I don't plan to.”
 
-That sentence would probably matter more later. For now, it sounded ordinary. Brynn left. Hesk watched her go, then turned back to me.
+That sentence would probably matter more later. For now, it sounded ordinary. Brynn left. Hesk watched her go, then turned back to him.
 
 “You still interested?”
 
-I looked at the Marks. Then at the Guild workers moving supplies through the yard. Then at Jessa, who had just spent several minutes explaining why the offer was bad and still had not told me not to take it.
+He looked at the Marks. Then at the Guild workers moving supplies through the yard. Then at Jessa, who had just spent several minutes explaining why the offer was bad and still had not told him not to take it.
 
 “Yes.”
 
@@ -478,9 +477,9 @@ Hesk nodded once. No triumph. No smile. Just business.
 
 “Good.”
 
-That was almost disappointing. I had expected accepting questionable frontier employment to feel more dramatic. Instead, Jessa pulled the form back toward herself and started writing. Naturally.
+That was almost disappointing. He had expected accepting questionable frontier employment to feel more dramatic. Instead, Jessa pulled the form back toward herself and started writing. Naturally.
 
-“What exactly are you putting down?” I asked.
+“What exactly are you putting down?” he asked.
 
 “Private labor accepted. Advance issued. Supply access approved. Assignment pending completion.”
 
@@ -494,19 +493,19 @@ That was almost disappointing. I had expected accepting questionable frontier em
 
 “Good.”
 
-Jessa finished the entry, stamped the page, and placed the silver Marks in my hand. They were heavier than they looked. My first local income. Technically an advance against future work, but I was not going to ruin the moment for myself.
+Jessa finished the entry, stamped the page, and placed the silver Marks in his hand. They were heavier than they looked. His first local income. Technically an advance against future work, but he was not going to ruin the moment for himself.
 
 Hesk tapped the map.
 
 “Report here at first light.”
 
-Jessa turned it so I could see. Lines crossed the parchment in several directions. Most meant nothing to me, but some markers used simple shapes instead of writing. A gate. A road post.
+Jessa turned it so he could see. Lines crossed the parchment in several directions. Most meant nothing to him, but some markers used simple shapes instead of writing. A gate. A road post.
 
 A bridge symbol. Jessa pointed to each one.
 
 “Main gate. North-east road marker. Guild repair post. You'll meet the crew here.”
 
-I studied the shapes.
+He studied the shapes.
 
 “That I can remember.”
 
@@ -532,7 +531,7 @@ Fair enough. She moved to a supply counter and returned with a rolled weather sh
 
 “Travel food. Basic covering. The crew has tools.”
 
-I took them.
+He took them.
 
 “What about lodging tonight?”
 
@@ -548,12 +547,12 @@ Jessa pointed through the open door toward the market lane.
 
 She did not answer. Dry humor did not always survive translation. Hesk was already speaking with another clerk. The meeting was over. Just like that.
 
-No oath. No magical contract. No dramatic warning. I had entered the Guild with no recognized identity and no money. I was leaving with silver in my pocket, food in my hand, a place to sleep if I did not choose badly, and a job waiting at first light.
+No oath. No magical contract. No dramatic warning. He had entered the Guild with no recognized identity and no money. He was leaving with silver in his pocket, food in his hand, a place to sleep if he did not choose badly, and a job waiting at first light.
 
-The arrangement was not good. The arrangement was useful. Those were not the same thing. I knew that. I took it anyway.
+The arrangement was not good. The arrangement was useful. Those were not the same thing. He knew that. He took it anyway.
 
-At the edge of the caravan yard, I looked back once. Hesk had not watched me leave. He was bent over another route map with two workers, already dealing with something else.
+At the edge of the caravan yard, he looked back once. Hesk had not watched him leave. He was bent over another route map with two workers, already dealing with something else.
 
-That made sense. To him, I was a solution to a small problem. For now, that worked both ways. Tomorrow I had my first road assignment. A damaged bridge.
+That made sense. To him, he was a solution to a small problem. For now, that worked both ways. Tomorrow he had his first road assignment. A damaged bridge.
 
-A repair crew. A little risk. And, if Greywake was feeling generous, payment at the end. Simple enough. I had stopped trusting that phrase several hours ago.
+A repair crew. A little risk. And, if Greywake was feeling generous, payment at the end. Simple enough. He had stopped trusting that phrase several hours ago.

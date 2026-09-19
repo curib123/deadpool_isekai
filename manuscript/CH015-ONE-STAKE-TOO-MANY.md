@@ -1,7 +1,8 @@
 # Chapter 15 — One Stake Too Many
 
-**Status:** DRAFT — GATE 9 NOT YET RUN  
-**Word Count:** 2,846
+**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED  
+**Word Count:** 2,846  
+**Chapter QA:** `qa/CH-015-GATE-9-CHAPTER-QA.md`
 
 By the time we reached the upper approach, nobody was pretending this was just a mapping trip. The road narrowed above the timber-road junction and climbed between old retaining stones dark with moss. Beyond them, the land opened toward the outer farms in long uneven strips separated by low fences, drainage cuts, and tree lines.
 

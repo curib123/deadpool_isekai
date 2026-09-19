@@ -44,7 +44,7 @@ The chapter must also:
 4. create a work hazard before monster pressure;
 5. let conventional equipment fail at the wrong time;
 6. make Red Jackal attempt Play Logic intentionally for the first time;
-7. make the first intentional attempt weak/wrong because the concept is vague;
+7. make the first intentionally displayed result functionally poor because the framing is vague;
 8. make the second attempt succeed because the concept is precise and meaningful;
 9. keep the successful manifestation useful but unstable and over-literal;
 10. plant F-004 in planned form without explaining Play Logic's origin;
@@ -141,7 +141,7 @@ Result:
 
 The clue is:
 
-**clear concept and intended meaning produce a stronger usable result than vague desire.**
+**clear concept and intended meaning produce a more task-aligned usable result than vague category-thinking.**
 
 F-004 remains:
 
@@ -152,7 +152,7 @@ until CH-005 manuscript contains the approved clue and passes Gate 9.
 # 4. Play Logic Chapter-Expression Lock
 
 Allowed:
-- one weak/incorrect intentional manifestation;
+- one poorly framed / functionally poor intentional manifestation;
 - one successful improvised hammer manifestation;
 - short-lived object;
 - wrong scale / over-literal interpretation;
@@ -161,7 +161,7 @@ Allowed:
 - ordinary physical soreness may follow from physically swinging the oversized object; no finite manifestation-resource cost is established.
 
 Not allowed:
-- reliable repeat spawning;
+- repeated public spawning/testing that would turn this chapter into a mastery demonstration;
 - permanent object creation;
 - complex transformations;
 - environmental rule rewriting;
@@ -173,7 +173,7 @@ Not allowed:
 
 The successful hammer must solve one immediate problem.
 
-It must not make Red Jackal generally competent with the power.
+It must not imply a new mastery tier, raw-capacity increase, or complete explanatory model.
 
 # 5. Regeneration / Injury Lock
 
@@ -1019,7 +1019,7 @@ The Guild cares more that:
 He now knows:
 - intentional manifestation is possible;
 - vague framing creates poor results;
-- clear function produces a better result;
+- clear function produces a more task-aligned result;
 - this particular expression ended after its immediate role;
 - the oversized object imposed ordinary physical strain while he swung it;
 - other people do not recognize it as normal casting.

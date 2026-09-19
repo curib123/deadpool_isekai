@@ -1,7 +1,7 @@
 # Chapter 16 — Backflow
 
-**Status:** CANON — GATE 9 PASS / SERIOUS MODE LOCKED  
-**Word Count:** 2,682  
+**Status:** RETCON REVISED — GATE 9 REVALIDATION PENDING  
+**Word Count:** 2718,682  
 **Chapter QA:** `qa/CH-016-GATE-9-CHAPTER-QA.md`
 
 The calls did not stop.
@@ -88,7 +88,9 @@ Several.
 
 I felt the wound along my side tighten as I started moving. Pain came with it. The bite in my leg had stopped bleeding, but every hard step pulled at the half-healed tissue.
 
-My body was correcting damage. It was not replacing energy. We ran.
+My body was correcting damage. The pain remained, and running on torn muscle was still unpleasant. None of that told me where the next collapse would happen.
+
+We ran.
 
 The first farm approach had already started emptying by the time we reached it. People were carrying what they could. Not everything.
 
@@ -246,41 +248,43 @@ Tavian shouted.
 
 One person did. Two did not. I planted myself between the cart and the road.
 
-I needed something simple. Not clever. Not large.
+I needed something precise.
 
-A wall would be too much. A wedge. A low barrier.
+Not a wall. A wall would stop bodies that needed somewhere to go and turn panic into compression.
 
-Something to make the front animals choose half a step sideways. That was all. I held the idea.
+A wedge. A low guide.
 
-Low. Broad. Temporary.
+Something that told the front animals the open field was easier than the cart.
 
-A pale, uneven barrier formed across part of the road. Too short. I pushed the image wider.
+Low. Broad. Temporary by choice.
 
-It stretched another few feet and trembled. The edge wavered. My concentration slipped when pain pulled across my ribs.
+A pale, uneven barrier formed across exactly the section I wanted. It angled away from the trapped civilians and left the field side open.
 
-I forced it back. The first animal reached the barrier. It checked.
+The first animal reached it and checked.
 
-The next hit its shoulder. The line bent. Not stopped.
+The next crowded its shoulder.
 
-Bent. The herd split around the low obstruction. Half went into the open field.
+The front of the herd bent.
 
-The other half crowded toward the ditch. Militia pulled the last two civilians clear. One animal clipped me as it passed.
+That was the point.
 
-The impact spun me into the road. My shoulder hit hard. The barrier flickered.
+Half spilled toward the open field. The other half followed the easier line long enough for militia to pull the last two civilians clear.
+
+One animal clipped me as it passed. The impact spun me into the road and drove my shoulder into stone.
 
 “Move!”
 
-Tavian's voice. I rolled toward the ditch. The manifestation collapsed behind me.
+Tavian's voice.
+
+I rolled toward the ditch, saw the civilians were clear, and dismissed the guide before the next group could bunch against something that no longer needed to exist.
 
 Seconds.
 
-That was all it had bought.
-
-Seconds.
+That was all the route required.
 
 Enough for those people.
 
-Not enough for the next road.
+The next road was already somebody else's emergency.
 
 I tried to stand. My left arm shook. My side had started closing again under the blood.
 

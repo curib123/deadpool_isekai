@@ -60,14 +60,14 @@ Red Jackal's personal version of that question is:
 Red Jackal physically manifests in the Hollow March wilderness within roughly one day's dangerous travel of Greywake.
 
 He arrives:
-- with Earth memories substantially intact;
+- with most autobiographical Earth memory erased by far Soul Drift;
+- with fragmentary explosion/media/cultural residue rather than a coherent former life;
 - without a valid World System identity;
 - with an unfamiliar but physically functional Veyran embodiment;
-- aware that his body behaves strangely;
-- only beginning to understand that imagination can affect reality;
+- not yet knowing why his body, imagination, or fourth-wall relationship behave impossibly;
 - without local money, legal identity, guild registration, social standing, or reliable knowledge of Veyr.
 
-The exact reason his translocation resolves near Greywake is **not explained or investigated in Volume 1**.
+The exact mechanics of far Soul Drift and why his arrival resolves near Greywake are **not explained or investigated in Volume 1**.
 
 His first hours establish practical survival pressure rather than cosmological exposition.
 
@@ -116,7 +116,7 @@ The Greywake Chartered Road Guild offers him **off-book provisional work** preci
 
 Red Jackal initially accepts because the arrangement benefits him.
 
-He later understands that the same lack of identity he uses to escape rules also makes it easy for institutions to deny him protections.
+He later sees that the same lack of identity he enjoys using against rules also lets institutions deny him protections. This is information about the board, not a moral-growth lesson.
 
 # 4. Exact Local Conflict
 

@@ -1,4 +1,4 @@
-# Chapter 5 — A Better Hammer
+Chapter 5 — A Better Hammer
 
 First light was a cruel phrase. It suggested something quiet and poetic. What it actually meant was standing in the Road Guild caravan yard before I had found a reliable source of breakfast. I arrived with the wooden entrant token under my coat, the bridge-marked assignment card in one pocket, and the remaining advance in another. The sky was still grey above Greywake, and the yard was already awake.
 

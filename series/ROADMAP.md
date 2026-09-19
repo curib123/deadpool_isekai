@@ -37,7 +37,8 @@ CH-007 Scene Architecture: **PASS — GATE 8**
 CH-007 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 F-003: **PLANTED — CH-007**  
 CH-008 Scene Architecture: **PASS — GATE 8**  
-Red Jackal Series Voice: **LOCKED — DRY/DEADPAN INTERNAL HUMOR + RESTRAINED FOURTH-WALL STANDARD**
+Red Jackal Series Voice: **LOCKED — DRY/DEADPAN INTERNAL HUMOR + RESTRAINED FOURTH-WALL STANDARD**  
+Red Jackal Anti-Villain Expression: **LOCKED**
 
 The project is now authorized to proceed to:
 

@@ -105,7 +105,7 @@ The authoritative Volume 1 chapter roadmap is:
 
 The next authorized planning artifact is:
 
-`CH-018 — No Acceptable Loss: Detailed Scene Architecture`
+`CH-018 — No Acceptable Loss: Manuscript Draft`
 
 CH-001 manuscript has passed Gate 9 and is CANON.
 
@@ -195,9 +195,11 @@ No F-ID changed status in CH-017.
 
 M-007 did not advance.
 
-Detailed Scene Architecture for CH-018 — No Acceptable Loss is now authorized.
+CH-018 Scene Architecture has passed Gate 8.
 
-Do not draft CH-018 manuscript before its Scene Architecture and Gate 8 Pre-Manuscript Scene QA pass.
+Drafting CH-018 manuscript prose is now authorized.
+
+Do not draft CH-019 or create CH-019 Scene Architecture during the CH-018 manuscript step.
 
 # 5. Scene Sheet
 Each scene has:

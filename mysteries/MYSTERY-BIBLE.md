@@ -1188,3 +1188,25 @@ It must not explain the cause.
 **F-002 Status: PLANTED — CH-003**
 
 Status changed after approved CH-003 manuscript prose contained the clue and passed Gate 9.
+
+
+
+# CH-005 F-004 Scene Planning
+
+**Chapter:** CH-005 — A Better Hammer  
+**Status:** PLANNING ONLY — NO CH-005 MANUSCRIPT YET
+
+F-004 is planned through two required components:
+
+- **SC-005-03 — A Hammer, Technically:** Red Jackal intentionally manifests a technically valid but functionally poor hammer without normal spell construction after framing the need only as “a hammer.”
+- **SC-005-04 — A Better Hammer:** Red Jackal reframes the need as a clear functional concept; the resulting manifestation changes materially, becomes useful for driving the bridge brace-pin, and remains oversized, unstable, temporary, and tiring.
+
+The clue must support:
+
+**meaning / functional framing matters more than conventional spell grammar.**
+
+It must not explain why.
+
+**F-004 Status: PLANNED — NOT YET PLANTED**
+
+No status change is allowed until approved CH-005 manuscript prose contains both components and passes Gate 9.

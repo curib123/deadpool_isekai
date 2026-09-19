@@ -1,14 +1,14 @@
 # Red Jackal — Visual Lock
 
 **Character:** CHAR-001 — Red Jackal / Evan Calder  
-**Status:** TEXTUAL VISUAL LOCK v1.0 COMPLETE — IMAGE LOCK PENDING  
+**Status:** TEXTUAL VISUAL LOCK v1.0 COMPLETE — PRIMARY IMAGE ANCHOR APPROVED / OVERALL IMAGE LOCK INCOMPLETE  
 **Authority:** derived manhwa visual specification under novel canon
 
 # 1. Lock State
 
 The textual model is now sufficiently specified to generate controlled candidate reference images.
 
-This does **not** mean any image is approved.
+RJ-REF-001-R2 is now APPROVED as the primary identity anchor. This does **not** mean the overall Red Jackal image lock is complete; RJ-REF-002 through RJ-REF-007 remain pending.
 
 Authority remains:
 
@@ -173,4 +173,4 @@ Image lock may change from PENDING to APPROVED only after:
 6. explicit approval;
 7. registry update with actual asset path/reference ID.
 
-Until then, all image reference IDs remain PENDING.
+RJ-REF-001 has passed this gate and is APPROVED. Remaining image reference IDs stay PENDING until they pass their own review gates.

@@ -105,7 +105,7 @@ The authoritative Volume 1 chapter roadmap is:
 
 The next authorized planning artifact is:
 
-`CH-008 — Outside the Lanterns: Manuscript Draft`
+`CH-009 — Wrong Tracks: Detailed Scene Architecture`
 
 CH-001 manuscript has passed Gate 9 and is CANON.
 
@@ -133,9 +133,13 @@ F-003 is PLANTED — CH-007.
 
 CH-008 Scene Architecture has passed Gate 8.
 
-Drafting CH-008 manuscript prose is now authorized.
+CH-008 manuscript has passed Gate 9 and is CANON.
 
-Do not draft CH-009 or create CH-009 Scene Architecture during the CH-008 manuscript step.
+No F-ID changed status in CH-008.
+
+Detailed Scene Architecture for CH-009 — Wrong Tracks is now authorized.
+
+Do not draft CH-009 manuscript before its Scene Architecture and Gate 8 Pre-Manuscript Scene QA pass.
 
 # 5. Scene Sheet
 Each scene has:

@@ -1,25 +1,29 @@
 # Chapter 7 — You Should Be Dead
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** CINEMATIC STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 4,150  
 **Chapter QA:** `qa/CH-007-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-007-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
-The road was supposed to be safe. Not completely safe. Greywake did not seem to believe in that kind of promise. But safe enough that the Road Guild had sent three maintenance workers, one small supply wagon, Tavian, and him instead of a full guard detail.
-
-The service road branched from the Main Caravan Road less than an hour outside Greywake. It carried repair supplies between two maintenance points and connected several warning markers that workers checked after heavy rain. The surface was narrower than the main road, but the drainage still worked, the brush had been cut back, and the marker posts were recent enough that even he could tell someone cared about them.
-
-He still could not read what the markers said. Some problems were reassuringly consistent. A Wayfarer Tongue Token hung from the side of the supply wagon. As long as they stayed close enough to it, he could understand the workers arguing about whether one marker post needed replacing or only straightening.
-
-One of them kicked the base.
+One road worker kicked the leaning marker post.
 
 “Replace.”
 
-The older worker beside him pushed the post upright.
+The older man beside him shoved it upright with both hands.
 
 “Straighten.”
 
-They both looked at Tavian. Tavian was crouched near the opposite ditch, studying the ground. Neither answer arrived. He leaned against the wagon. “You two may have to develop independent judgment.”
+They both looked at Tavian.
+
+Tavian was crouched in the opposite ditch, staring at mud.
+
+Red leaned against the supply wagon. A Wayfarer Tongue Token hung from its side, carrying the argument clearly.
+
+“You two may have to develop independent judgment.”
+
+Neither worker looked at him.
+
+Good team. Tavian was crouched near the opposite ditch, studying the ground. Neither answer arrived. He leaned against the wagon. “You two may have to develop independent judgment.”
 
 They ignored him. Good team. The task was simple. Check three warning markers. Replace damaged supply boxes used by road crews. Clear one drainage obstruction. Return to Greywake.
 
@@ -111,9 +115,11 @@ The obvious answer was another impossible object. Wall. Spear. Cage. Something l
 
 He did not choose any of those.
 
-Partly because Tavian had told him to hold the line. Mostly because he wanted to know what happened if he let the animal commit and handled it himself. That distinction would become important approximately three seconds later.
+Tavian had told him to hold the line.
 
-He stepped forward.
+Red stepped forward anyway.
+
+He wanted to see what happened if the animal committed to him.
 
 Tavian swore.
 
@@ -149,13 +155,17 @@ Then someone screamed behind him.
 
 He looked back. The lane. He had left it. By stepping forward, he had pulled Tavian toward the lead animal and opened the right side of the wagon. The second predator had used the gap.
 
-One of the workers had been moving backward with the others. Now he was on the ground beside the rear wheel. The predator had caught his lower leg. Tavian changed direction instantly. Not toward him.
+One of the workers had been backing away with the others.
 
-Toward him.
+Now he was on the ground beside the rear wheel, the second predator locked onto his lower leg.
 
-Correct choice.
+Tavian changed direction instantly.
 
-The realization hurt in a completely different place.
+Not toward Red.
+
+Toward the worker.
+
+Red understood why before the thought finished forming.
 
 “Tavian—”
 
@@ -173,11 +183,13 @@ Good.
 
 His side still felt like someone had opened it with farm equipment. Pain remained aggressively real. Under the blood, though, his body was already doing something to the wound. He could feel damaged tissue pulling itself back toward the shape it remembered.
 
-The contradiction was becoming difficult to ignore.
+Red looked at the animal several paces away.
 
 He could do more than he had shown.
 
-That did not help the worker bleeding behind Tavian.
+Behind Tavian, the worker was still bleeding.
+
+That was the part that mattered.
 
 Tavian shouted.
 
@@ -237,7 +249,11 @@ That one landed.
 
 The lead predator moved forward. He backed toward the narrowing with everyone else. The workers lifted the injured man between them. He bit down on his sleeve to stop himself from shouting every time his leg moved.
 
-He did not look away. His fault was too simple to misunderstand. He had moved because danger to him felt negotiable. He had paid for the space he opened behind him.
+Red did not look away.
+
+He had stepped out because danger to him felt negotiable.
+
+The worker had paid for the space he opened behind him.
 
 They reached the narrow section.
 
@@ -281,7 +297,9 @@ Once the workers had enough distance, he let the barrier disappear.
 
 This time he listened.
 
-They ran. That is a generous description of what he did. Pain made every step unpleasant, but the thing behind them was no longer a problem of strength. The workers carried the injured man between them. Tavian stayed rear-left. He stayed rear-right and, for once, did not invent a new rule for the situation.
+They moved fast.
+
+Calling Red's part of it running was generous. Pain made every step unpleasant, but the pack was no longer a problem of strength. The workers carried the injured man between them. Tavian stayed rear-left. He stayed rear-right and, for once, did not invent a new rule for the situation.
 
 The wound kept tightening in pulses. Every pulse burned. The bleeding slowed.
 
@@ -291,9 +309,9 @@ The pack followed after the barrier vanished, but with more distance and conside
 
 The predators knew it too. They slowed at the clearing. One came farther. Tavian turned on it.
 
-He started forward.
+Red started forward.
 
-He saw him.
+Tavian saw him.
 
 “Don't.”
 
@@ -371,7 +389,9 @@ Good. The ride back to Greywake was rough. Every rut pulled at his side. The str
 
 Sharp tearing became deep heat. Deep heat became crushing soreness. Keeping his eyes open started taking effort, whether from blood loss, pain, shock, or his body's deeply antisocial repair process. Surviving remained unpleasant even when survival itself was becoming less impressive. The treatment house stood near the inner road, close enough to the gate that injured travelers could be brought in without crossing half the settlement.
 
-They did not enter dramatically. They arrived bleeding in a patrol cart, which was not the entrance he would have chosen. The thought was weak enough that he almost respected it. A woman with dark river-blue markings along her neck stepped out before the cart fully stopped.
+The patrol cart rolled into the treatment yard with blood on the floorboards.
+
+A woman with dark river-blue markings along her neck stepped out before it fully stopped.
 
 She took one look at them.
 

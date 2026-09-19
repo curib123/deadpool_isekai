@@ -5,6 +5,20 @@
 
 This file defines the maximum knowledge each active Volume 1 character may possess during Greywake Arc architecture. It does not assign chapter timing.
 
+# Soul-Drift Continuity Override
+
+The authorial retcon in `planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md` supersedes conflicting origin, memory, POV, fourth-wall, and character-growth wording in this record.
+
+Current writer truth:
+- Evan dies in a mysterious Earth explosion;
+- natural far Soul Drift carries him to Veyr;
+- most autobiographical Earth memory and ordinary personality organization are lost;
+- deep meta-comedic/media cognitive grooves survive;
+- Red does not begin with substantially intact Earth memories;
+- Red has Fourth-Wall Pause from the beginning;
+- Red has no conventional moral-development arc;
+- old canon checkpoints below preserve event order but not superseded prose/origin interpretation.
+
 ## Overpowered Retcon Continuity Override
 
 The authorial retcon in `planning/RED-JACKAL-OVERPOWERED-RETCON.md` supersedes any older Volume 1 wording that treats:
@@ -25,8 +39,8 @@ Current writer truth:
 
 ## CH-001 Opening Knowledge
 At the opening instant of CH-001, Red Jackal knows only that:
-- Earth existed;
-- his last clear Earth memory is a violent rain-night collision/transition;
+- he has fragmentary certainty that he came from somewhere outside Veyr;
+- his last accessible Earth residue is a violent flash/explosion impression rather than a coherent life memory;
 - he is conscious again in an unfamiliar environment;
 - his body feels physically unfamiliar.
 
@@ -49,8 +63,8 @@ By the end of CH-001, Red Jackal may know only from direct experience that:
 He still does not understand the mechanisms.
 
 ## Begins CH-002 Knowing
-- Earth existed;
-- he experienced a violent transition;
+- he knows he is not native to this world;
+- he remembers only fragmentary violent/explosion impressions from before waking;
 - he is in a non-Earth world/environment;
 - his body has shown abnormal recovery once;
 - imagination has produced one crude short-lived physical effect;
@@ -64,13 +78,14 @@ He still does not understand the mechanisms.
 - institutions can exploit people who are difficult to count or classify.
 
 ## Must Not Learn Yet
+- natural far Soul Drift as the true arrival mechanism;
+- exact cause of the Earth explosion;
 - Savael-of-the-Index;
-- Exterior Needle;
+- Exterior Needle historical truth;
 - Eidrathi Continuance;
-- continuity translocation;
-- Exterior Echo;
+- Fourth-Wall Pause metaphysical mechanism;
 - Great Design;
-- self-model origin of Play Logic/regeneration;
+- Soul-Drift identity origin of Play Logic/regeneration;
 - Exception Covenant;
 - technical causal-wake Fate model.
 
@@ -90,12 +105,12 @@ He still does not understand the mechanisms.
 
 ## Must Not Learn Yet
 - Red Jackal's true origin;
-- continuity translocation;
+- natural far Soul Drift truth;
 - Savael;
-- Exterior Needle;
+- Exterior Needle historical truth;
 - Great Design;
 - Play Logic writer-truth mechanism;
-- Exterior Echo.
+- Fourth-Wall Pause metaphysical mechanism.
 
 # Tavian Rook
 
@@ -136,8 +151,8 @@ He still does not understand the mechanisms.
 - Eidrathi;
 - Great Design;
 - true Play Logic mechanics;
-- Exterior Echo;
-- Exception Covenant.
+- Fourth-Wall Pause metaphysical mechanism;
+- any later legal/metaphysical representation solution.
 
 Hesk is a local antagonist, not a secret cosmology insider.
 
@@ -206,13 +221,13 @@ If a chapter plan requires someone to know a protected fact, either:
 
 After CH-001 — Wrong Forest, Wrong World, Red Jackal canonically knows only that:
 
-- his last Earth memory involves a violent rain-night collision;
+- his accessible pre-Veyr memory is only a violent explosion/flash impression with no coherent Earth-life chronology;
 - he awakened in an unfamiliar non-Earth environment;
 - one unfamiliar frontier predator attacked him;
 - he suffered a real forearm injury;
-- one crude imagined barrier-like object appeared briefly under immediate pressure;
-- he could not reproduce the manifestation afterward;
-- the injury began healing far faster than normal while remaining painful and exhausting;
+- one deliberately simple/reflexive imagined barrier-like object appeared under immediate pressure;
+- any apparent inability to repeat or enlarge it is not writer-truth evidence of a power ceiling;
+- the injury began healing far faster than normal while remaining painful; ordinary pain is not a regeneration power ceiling;
 - old and maintained roads indicate nearby civilization;
 - he cannot read the local writing;
 - directional iconography indicates an inhabited settlement ahead.

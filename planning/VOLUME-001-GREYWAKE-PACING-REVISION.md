@@ -3,7 +3,7 @@
 **Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
 **Volume:** 1 — Greywake Arc  
 **Revision Type:** Canon-preserving pacing revision  
-**Status:** PACING PLAN RETAINED / POWER-BALANCE ASSUMPTIONS SUPERSEDED BY OVERPOWERED RETCON  
+**Status:** COMPLETE — PACING GOALS MERGED INTO OVERPOWERED RETCON REVISIONS / GATE 10 PASS  
 **Chapter Count:** 26 — UNCHANGED  
 **Arc Outcome:** UNCHANGED  
 **Primary Goal:** Reduce mid-arc investigation drag and strengthen the CH-021–CH-024 climax under the new overpowered role-player model.
@@ -446,4 +446,22 @@ Do not perform separate pacing and power rewrites for these chapters.
 
 The earlier CH-009-first pacing order is superseded by chronological power-retcon revision beginning at CH-005.
 
-**Current next:** CH-005 — A Better Hammer → Overpowered Retcon Prose Revision → Gate 9 Revalidation.
+**Result:** all overlapping pacing/power revisions are complete and Gate 9 revalidated. Volume 1 has passed the new Gate 10.
+
+
+# 14. Completion Record
+
+The combined revision queue has completed.
+
+Pacing changes were applied together with power-retcon changes to avoid duplicate manuscript rewrites.
+
+Key outcomes:
+- CH-009 investigation tightened;
+- CH-020 Hesk escape is now a Red choice/misjudgment rather than exhaustion;
+- CH-021 is discipline/predictability rather than power conservation;
+- CH-022 uses deliberate ecological restraint;
+- CH-023 is expanded/rebuilt as the primary physical hidden-power climax;
+- CH-024 is rebuilt as the human/institutional climax;
+- CH-025 and CH-026 remain unchanged.
+
+Gate 10: **PASS**.

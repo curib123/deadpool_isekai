@@ -3,7 +3,7 @@
 **Status:** DRAFT — GATE 9 NOT YET RUN  
 **Word Count:** 3,056
 
-The first mass did not charge us. That would have been simpler. It came out of the trees in layers.
+The first mass did not charge us. It came out of the trees in layers.
 
 The first animals were low, narrow-bodied things with long back legs and pale bellies, running hard enough that dirt kicked behind them in a continuous haze. Larger browsers followed, shoulders knocking brush aside as they forced through the same opening. Behind those, movement filled the tree line without becoming one clean shape.
 
@@ -63,7 +63,7 @@ The body followed. For maybe half a minute, the plan looked like a plan. Then th
 
 It was not one of the heavy barriers. We had deliberately avoided putting heavy barriers across routes the animals might need to use. The outer guide was timber stakes, rope, brush panels, and enough visual obstruction to suggest that one side of the approach was worse than the other.
 
-Suggestion worked until several hundred frightened animals disagreed. A larger browser hit the middle section sideways. The rope snapped.
+The suggestion failed under the weight of the herd. A larger browser hit the middle section sideways. The rope snapped.
 
 Two posts folded. The animal stumbled through, recovered, and kept running. Everything behind it saw an opening.
 
@@ -129,7 +129,7 @@ At first, most of it still followed the northward bend. Then Tavian stopped. Not
 
 Everything about him stopped. His eyes fixed on the lower split. A cluster of prey had broken from the main movement.
 
-That by itself meant nothing. Frightened animals did not sign agreements. The second cluster took the same angle.
+That by itself meant nothing. The second cluster took the same angle.
 
 Then a third. They were turning toward the outer side road. The road we had spent days trying to stop the migration from choosing.
 
@@ -183,7 +183,7 @@ Brynn’s expression went flat.
 
 “No visual.”
 
-No visual. Of course. I looked toward the old service route.
+No visual. I looked toward the old service route.
 
 I knew where it ran. I knew Hesk still had one key. For one very satisfying second, I imagined leaving.
 
@@ -197,7 +197,7 @@ I looked at him. He pointed at the moving animals.
 
 “Leave now and this opens before you reach the site.”
 
-He was right. He was right. Brynn did not ask me to stay.
+He was right. Brynn did not ask me to stay.
 
 She did not need to. A scream came from the lower detour. Not civilian.
 
@@ -207,7 +207,7 @@ Worker. Brynn turned first.
 
 That decided it. I stayed with the line. The people directly in front of me did not have that luxury.
 
-We ran. The lower detour had been bad before the wave. CH-016 had made sure of that.
+We ran. The lower detour had been bad before the wave. Losing the seasonal-cut crossing had made it worse.
 
 The old seasonal-cut crossing was gone as a proper route, forcing movement through a narrower section of broken roadside and packed earth. Workers had built a light guide there because there was nowhere useful for a heavier one. The guide had collapsed.
 
@@ -263,13 +263,13 @@ The hound did not stay. It scrambled after the moving line. Someone pulled me up
 
 Breathing arrived. Badly.
 
-“Fine” would have been ambitious.
+I was not fine.
 
 The worker was clear. The pale rail cracked where it joined the road.
 
 “Fall back!” Brynn ordered.
 
-Nobody argued. We abandoned the lower guide before it cost more people. We gave up the lower guide.
+Nobody argued. We abandoned the lower guide before it cost more people.
 
 Workers pulled what equipment they could reach without stepping back into the flow. Militia moved with them. Nobody tried to reclaim the post because it had once been part of the plan.
 
@@ -355,7 +355,7 @@ Maybe debris. It did not matter. Pain arrived first.
 
 The construct failed behind me. The branch of animals had already turned. Workers grabbed my arms and dragged me behind the repair line before the next group crossed.
 
-My leg wanted to fold when I stood. I refused on principle. My hands were shaking badly now.
+My leg wanted to fold when I stood. My hands were shaking badly now.
 
 The pressure behind my eyes had become a hard pulse. My ribs hurt every time I inhaled deeper than necessary. A cut along my thigh was closing under torn cloth.
 
@@ -365,15 +365,7 @@ Tavian came to me.
 
 “No more.”
 
-I looked at my hands. For once, we agreed before arguing.
-
-“Three.”
-
-“What?”
-
-“Nothing.”
-
-He was already watching the road again. Broken North was still open. That was the important part.
+I looked at my hands and nodded. He was already watching the road again. Broken North was still open. That was the important part.
 
 Open did not mean healthy. The rough footing had started shedding fill along one side. One support rope hung loose where a guide post had pulled free.
 
@@ -395,7 +387,7 @@ Badly. The wrong-route pull had not stopped. We could see it farther downslope, 
 
 That meant compression. Compression meant too many animals arriving at Broken North without enough space between them. The road had been built barely viable for a plan that expected breathing room.
 
-Hesk had apparently decided breathing room was a luxury. A runner reached Brynn.
+The continuing wrong pull kept taking that breathing room away. A runner reached Brynn.
 
 “Lower signal changed again.”
 
@@ -481,7 +473,7 @@ A heavy shoulder forcing through branches.
 
 A head above the fleeing prey.
 
-A body too large for the narrow approach and angry enough at the world to make that everyone else’s problem.
+A body too large for the narrow approach forced itself through the broken vegetation.
 
 It stepped into the compressed corridor.
 
@@ -489,4 +481,4 @@ Behind it, Broken North groaned under the weight of the first wave.
 
 Ahead of it, our line was beginning to fail.
 
-The largest predator in the migration had arrived.
+The largest territorial predator in the migration had arrived.

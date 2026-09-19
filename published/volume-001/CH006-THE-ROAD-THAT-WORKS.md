@@ -1,4 +1,4 @@
-Chapter 6 — The Road That Works
+# Chapter 6 — The Road That Works
 
 The second job sounded easier. That should have worried me. I reported to the caravan yard the morning after the bridge repair with fewer illusions about frontier work and slightly more money in my pocket. The Road Guild had apparently decided that surviving one assignment without breaking anything important qualified me for another.
 
@@ -358,9 +358,9 @@ Better.
 
 The predator saw me. It slowed. I had no weapon. That seemed unfair. For half a second, I thought about the hammer.
 
-Clear purpose. Something between us. A weapon. No. Yesterday had left me shaking after two manifestations.
+Clear purpose. Something between us. A weapon. No. I wanted to see whether Tavian's method actually worked when I stopped trying to turn every problem into my entrance scene.
 
-More importantly, I did not need it. The lead guard was already moving into position. So was Tavian. I planted one foot and spread my arms slightly.
+More importantly, I did not need to reveal another impossible object for a situation the guards already understood. The lead guard was moving into position. So was Tavian. I planted one foot and spread my arms slightly.
 
 “Come on.”
 

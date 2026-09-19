@@ -43,7 +43,7 @@ There it was.
 
 He looked toward the brush beyond the drainage ditch. The road here was close enough to Greywake that the workers moved like men doing ordinary work rather than people expecting something to jump from the trees. That mattered.
 
-Yesterday, Tavian had shown him animals crossing places they should not. Today, the Guild had sent people here anyway. Not because they were stupid. Because this route had been ordinary for years. You could not stop using every road because the forest might be developing opinions.
+Yesterday, Tavian had shown him animals crossing places they should not. Today, the Guild had sent people here anyway. Not because they were stupid. Because this route had been ordinary for years. Greywake could not stop using every road because the forest might be developing opinions.
 
 they finished the first marker and moved on. The second supply box had a cracked lid. One worker replaced it while another cleared leaves from the drainage channel. He carried a bundle of treated stakes from the wagon because apparently his mysterious status had not exempted him from lifting things.
 

@@ -1136,7 +1136,7 @@ CH-007 may not assume:
 # CH-007 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-007 — You Should Be Dead  
-**Status:** SUPERSEDED BY CH-008 CANON CHECKPOINT
+**Status:** SUPERSEDED BY CH-007 CANON CHECKPOINT
 
 ## Red Jackal — Opening CH-007
 
@@ -1384,7 +1384,7 @@ Residual exhaustion must limit how casually Red Jackal uses Play Logic in CH-008
 # CH-008 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-008 — Outside the Lanterns  
-**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+**Status:** SUPERSEDED BY CH-008 CANON CHECKPOINT
 
 ## Red Jackal — Opening CH-008
 

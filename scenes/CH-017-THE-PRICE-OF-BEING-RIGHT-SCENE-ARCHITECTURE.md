@@ -4,7 +4,7 @@
 **Chapter:** CH-017 — The Price of Being Right  
 **Movement:** V — No Acceptable Loss  
 **Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-017 MANUSCRIPT AUTHORIZED  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-017 MANUSCRIPT CANON  
 **Final Scene Count:** 6  
 **POV:** Red Jackal first person  
 **Primary Cast:** Red Jackal, Sela Arven, Kellan Dorr, Maelis Orra, Tavian Rook, Captain Brynn Alder, Rovan Hesk  

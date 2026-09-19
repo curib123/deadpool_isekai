@@ -62,7 +62,7 @@ That was unfairly practical. He did. Maelis wrote it down. Then she wanted the d
 
 “No.”
 
-She wrote again. This was what happened when you gave a professional access to your dramatic mystery. They removed all the dramatic parts and kept the useful nouns.
+She wrote again. This was what happened when a professional got hold of a dramatic mystery. Maelis removed the drama and kept the useful nouns.
 
 “What about the live crossing?” she asked.
 

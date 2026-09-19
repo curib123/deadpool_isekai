@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** GREYWAKE ARC COMPLETE — CH-026 CANON / VOLUME 2 UNSELECTED
+**Status:** GREYWAKE ARC COMPLETE — CH-026 CANON / GATE 11 PUBLISH QA ENABLED / VOLUME 2 UNSELECTED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -20,6 +20,8 @@ Destination Inventory: **PASS**
 Volume 1 Architecture: **PASS**  
 Chapter Roadmap: **PASS — 26 chapters**  
 Volume 1 Canon Revalidation: **PASS — GATE 10 / CH-001 THROUGH CH-026 VERIFIED**  
+Publish Version QA Standard: **ACTIVE — GATE 11**  
+Volume 1 Publish Version QA: **PENDING — 0 / 26 PUBLISH-READY**  
 CH-001 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-002 Scene Architecture: **PASS — GATE 8**  
 CH-002 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
@@ -84,9 +86,10 @@ Aura Evolution: **MANUFACTURED → EARNED → REPUTATION-SUPPORTED**
 
 The project is now authorized to proceed to:
 
-1. **Greywake Arc chapter production complete through CH-026**
+1. **Volume 1 Publication Copy Preparation → Gate 11 Publish Version QA**
+2. **Begin with CH-001, then continue in canon chapter order through CH-026**
 
-CH-026 has passed Gate 9 and is CANON. Greywake remains damaged but rebuilding; the local migration/Hesk conflict is resolved; all major supporting characters retain independent obligations; Red's local reputation remains fragmented; and Red departs Greywake by choice with no companion or destination selected. Volume 1 / Greywake Arc chapter production is complete through all 26 chapters. Volume 2 remains unselected. Full Volume 1 canon revalidation has passed Gate 10; see `qa/VOLUME-001-GREYWAKE-GATE-10-CANON-REVALIDATION.md`.
+CH-001 through CH-026 are CANON and Volume 1 has passed Gate 10 revalidation. Publication copies must be derived from those canon manuscripts and pass Gate 11 before they are marked PUBLISH-READY. The active release tracker is `qa/publish/VOLUME-001-PUBLISH-VERSION-QA.md`. Volume 2 remains unselected and is not authorized by the publication workflow.
 
 ## Destination Naming Law
 

@@ -3,7 +3,7 @@
 **Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
 **Volume:** 2  
 **Destination:** DEST-002 — Merrowgate  
-**Status:** CANON SUPPORT RECORD — GATE 6 ARCHITECTURE LOCKED
+**Status:** CANON SUPPORT RECORD — GATE 7 CHAPTER ROADMAP LOCKED
 
 # 1. Red Jackal — Opening Knowledge
 
@@ -211,3 +211,99 @@ Volume 2 may not:
 - treat rumor as reliable omniscient information;
 - give local characters protected mystery knowledge without evidence;
 - select Volume 3 before the Merrowgate arc closes through the proper gates.
+
+
+# 12. Gate 7 Chapter Knowledge Progression
+
+This section records the maximum planned knowledge progression authorized by the Volume 2 chapter roadmap. It does not itself make any clue canon; manuscript evidence and Gate 9 are still required.
+
+## CH-027 through CH-029
+Red may learn:
+- Merrowgate is a major Brasswater trade port;
+- his identity failure persists outside Greywake;
+- contradictory Greywake rumors have already reached trade networks.
+
+Iria may learn:
+- Merrowgate's own verification cannot validate Red normally.
+
+Dalen and Nessa may know only rumor plus what Red demonstrates directly.
+
+## CH-030 through CH-033
+The local cast may learn:
+- Venn-linked services repeatedly appear after port disruptions;
+- independent operators are under increasing security/assurance pressure.
+
+No one may yet claim a unified sabotage conspiracy as proven.
+
+## CH-034 through CH-035
+Red and Nessa know:
+- they accepted a deliberately off-manifest job;
+- the sealed cargo was represented as replacement counterweight brake assemblies;
+- ordinary inspection was intentionally bypassed.
+
+They do not know the assemblies were sabotaged.
+
+## CH-036 through CH-038
+Samir may suspect deliberate equipment interference from technical evidence.
+
+Iria may begin comparing incidents.
+
+CH-038 may contain the planned F-010 terminology clue, but F-010 remains **PLANNED — NOT YET PLANTED** until manuscript/Gate 9.
+
+No character may infer the Quiet Registration writer truth from the clue.
+
+## CH-039 through CH-040
+The coalition may know:
+- multiple disruptions produce a consistent Venn-linked profit/debt/security pattern;
+- Cassian's charter would concentrate emergency authority;
+- the CH-035 job may be connected.
+
+They still lack complete direct proof of Cassian's authorship.
+
+## CH-041 through CH-042
+The cast may learn:
+- surviving records link Red and Nessa to the off-manifest movement;
+- the moved parts were counterweight brake assemblies;
+- altered assemblies caused the CH-042 cargo-transfer failure;
+- Red's choice helped enable the sabotage.
+
+Public knowledge may include Red's real off-manifest involvement.
+
+## CH-043 through CH-046
+The coalition may build a shared case and defensive plan from earned evidence.
+
+Cassian may know Red stayed and that opposition is organizing, but he does not gain omniscient access to the coalition plan.
+
+## CH-047 through CH-048
+Evidence secured during the harbor crisis may establish that Venn-linked actors deliberately shaped multiple incidents to support emergency consolidation.
+
+This still does not reveal protected cosmology.
+
+## CH-049
+Public/local institutional knowledge may include:
+- Cassian's network engineered part of the instability;
+- Red enabled one operation through reckless off-book work but was not the architect;
+- the monopoly-security solution was itself part of the scheme.
+
+## CH-050
+Merrowgate may establish a local witnessed-contract workaround for Red's declared name.
+
+This does not:
+- create native System identity;
+- reveal his origin;
+- grant class/level;
+- bind other jurisdictions.
+
+# 13. Gate 7 Continuity Lock
+
+Locked planning state:
+
+- CH-027 through CH-050 only;
+- F-010 planned for CH-038 only;
+- M-002 cross-jurisdictional reinforcement;
+- bounded M-011 surface only;
+- Stage I Play Logic only;
+- Volume 3 remains unselected;
+- no character may use knowledge from a later planned chapter early.
+
+**Official next step:** CH-027 — Salt in the Air → Detailed Scene Architecture → Gate 8.

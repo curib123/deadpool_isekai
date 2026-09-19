@@ -1,35 +1,17 @@
 # Chapter 26 — Before They Decide What I Am
 
 **Status:** DRAFT — GATE 9 NOT YET RUN  
-**Word Count:** PENDING
+**Word Count:** 1,826
 
-Greywake sounded different when nobody was screaming.
+Greywake sounded different when nobody was screaming. Hammers had replaced alarm horns. Not everywhere.
 
-Hammers had replaced alarm horns.
+One section of the outer approach still had militia markers blocking normal traffic, and the road toward Broken North remained closed behind a line of rope, warning boards, and workers who had developed the expression of people prepared to physically attack anyone who called a damaged road “probably fine.” I respected them. The market had reopened in pieces. Half the stalls were running. The other half had become storage points for repair timber, rope, tools, food, and whatever else Greywake had discovered it needed more urgently than decorative pottery.
 
-Not everywhere.
+Caravans still waited in the yard. Fewer were leaving. The ones that did moved under new route instructions that I could not read.
 
-One section of the outer approach still had militia markers blocking normal traffic, and the road toward Broken North remained closed behind a line of rope, warning boards, and workers who had developed the expression of people prepared to physically attack anyone who called a damaged road “probably fine.”
+Some things survived every disaster. A clerk stood beside a route board reading the updated restrictions aloud while two people from the outer homesteads argued with a Guild representative about repair priority. The important part was that they were in the argument.
 
-I respected them.
-
-The market had reopened in pieces. Half the stalls were running. The other half had become storage points for repair timber, rope, tools, food, and whatever else Greywake had discovered it needed more urgently than decorative pottery.
-
-Caravans still waited in the yard.
-
-Fewer were leaving.
-
-The ones that did moved under new route instructions that I could not read.
-
-Some things survived every disaster.
-
-A clerk stood beside a route board reading the updated restrictions aloud while two people from the outer homesteads argued with a Guild representative about repair priority.
-
-The important part was that they were in the argument.
-
-Not outside the room waiting to hear what had been decided for them.
-
-Brynn crossed the yard carrying three reports and looking like sleep had become a political disagreement.
+Not outside the room waiting to hear what had been decided for them. Brynn crossed the yard carrying three reports and looking like sleep had become a political disagreement.
 
 “Broken North?”
 
@@ -47,35 +29,17 @@ Brynn crossed the yard carrying three reports and looking like sleep had become 
 
 “Yes.”
 
-That was Greywake.
-
-Survival had apparently restored bureaucracy faster than infrastructure.
-
-She kept walking.
+That was Greywake. Survival had apparently restored bureaucracy faster than infrastructure. She kept walking.
 
 I followed the outer road far enough to see the damaged approaches from above. Fresh timber braced old stone. New marker posts stood beside broken ones. Workers had begun clearing debris from the seasonal-cut detour without pretending the route would reopen that day.
 
-Greywake had survived.
+Greywake had survived. It looked like it. That was better than a clean ending.
 
-It looked like it.
+Clean endings usually meant somebody had stopped counting. I went back to the treatment house because Sela had threatened to send someone after me if I did not. She inspected my side with the patience of a person who had none.
 
-That was better than a clean ending.
+The wound had closed. The bruising had not. My ribs still complained when I twisted too far, and the leg I had abused through several chapters of bad judgment remained stiff.
 
-Clean endings usually meant somebody had stopped counting.
-
-I went back to the treatment house because Sela had threatened to send someone after me if I did not.
-
-She inspected my side with the patience of a person who had none.
-
-The wound had closed.
-
-The bruising had not.
-
-My ribs still complained when I twisted too far, and the leg I had abused through several chapters of bad judgment remained stiff.
-
-Sela pressed near my shoulder.
-
-I moved away.
+Sela pressed near my shoulder. I moved away.
 
 “Still hurts.”
 
@@ -85,11 +49,7 @@ I moved away.
 
 “Medical science is cruel everywhere.”
 
-Fair.
-
-She checked my eyes, made me follow one finger, then watched my hands.
-
-The tremor was much smaller.
+Fair. She checked my eyes, made me follow one finger, then watched my hands. The tremor was much smaller.
 
 Still there.
 
@@ -99,9 +59,7 @@ Still there.
 
 “Do not ruin it.”
 
-Kellan was near the window with his leg still splinted and elevated. Someone had given him a stack of route sketches and apparently decided this counted as rest.
-
-He waved one sheet at me.
+Kellan was near the window with his leg still splinted and elevated. Someone had given him a stack of route sketches and apparently decided this counted as rest. He waved one sheet at me.
 
 “They moved the northern repair priority.”
 
@@ -109,23 +67,13 @@ He waved one sheet at me.
 
 “Less stupid.”
 
-High praise.
+High praise. He had not stood since the injury. He would not stand today either.
 
-He had not stood since the injury.
-
-He would not stand today either.
-
-That mattered.
-
-Everyone else’s consequences did not disappear because mine healed faster.
-
-Kellan put the paper down.
+That mattered. Everyone else’s consequences did not disappear because mine healed faster. Kellan put the paper down.
 
 “You leaving?”
 
-Sela looked at me before I answered.
-
-Apparently the treatment house had better intelligence than the militia.
+Sela looked at me before I answered. Apparently the treatment house had better intelligence than the militia.
 
 “I was considering it.”
 
@@ -135,23 +83,13 @@ Apparently the treatment house had better intelligence than the militia.
 
 “No, you act quickly and explain it slowly.”
 
-Sela made a sound that might have been agreement.
-
-I ignored both of them.
-
-Kellan looked toward the road outside.
+Sela made a sound that might have been agreement. I ignored both of them. Kellan looked toward the road outside.
 
 “You stayed.”
 
-That was not a question.
+That was not a question. I knew what he meant. After the backflow.
 
-I knew what he meant.
-
-After the backflow.
-
-After his injury.
-
-After everything had become more difficult than breaking one bad thing.
+After his injury. After everything had become more difficult than breaking one bad thing.
 
 “I did.”
 
@@ -159,11 +97,7 @@ He nodded once.
 
 “That counts.”
 
-Coming from him, it did.
-
-Then he picked up another route sketch.
-
-Conversation over.
+Coming from him, it did. Then he picked up another route sketch. Conversation over.
 
 Sela handed me a small wrapped packet of bandages.
 
@@ -175,23 +109,11 @@ Sela handed me a small wrapped packet of bandages.
 
 “You bleed first.”
 
-I took the bandages.
+I took the bandages. There were limits to personal agency. Some of them had Sela’s voice.
 
-There were limits to personal agency.
+Maelis was in the records room with Jessa. That had become normal enough to be dangerous. The room held more copied documents than it had when I first arrived, except now the copies were not all controlled by the same office. Council seals, militia notices, Guild records, Ledger packets, and outer-community submissions occupied separate stacks across the long tables.
 
-Some of them had Sela’s voice.
-
-Maelis was in the records room with Jessa.
-
-That had become normal enough to be dangerous.
-
-The room held more copied documents than it had when I first arrived, except now the copies were not all controlled by the same office. Council seals, militia notices, Guild records, Ledger packets, and outer-community submissions occupied separate stacks across the long tables.
-
-I still could not read any of them.
-
-My administrative development remained limited.
-
-Jessa was copying service references into a new record set.
+I still could not read any of them. My administrative development remained limited. Jessa was copying service references into a new record set.
 
 “Temporary work?” I asked.
 
@@ -203,17 +125,9 @@ She nodded.
 
 “No.”
 
-She said it without pretending not to care.
+She said it without pretending not to care. That was progress too. Her siblings still needed money.
 
-That was progress too.
-
-Her siblings still needed money.
-
-The Guild was being restructured around her.
-
-Doing the right thing had not created a better salary out of the air.
-
-Maelis closed one ledger.
+The Guild was being restructured around her. Doing the right thing had not created a better salary out of the air. Maelis closed one ledger.
 
 “My formal report will take longer.”
 
@@ -221,9 +135,7 @@ Maelis closed one ledger.
 
 “Because Greywake is complicated.”
 
-That was almost flattering.
-
-She pulled a smaller packet from the pile.
+That was almost flattering. She pulled a smaller packet from the pile.
 
 “This part is you.”
 
@@ -237,11 +149,7 @@ Less flattering.
 
 “So far.”
 
-Jessa looked down at her page.
-
-I could tell she was trying not to smile.
-
-Maelis continued.
+Jessa looked down at her page. I could tell she was trying not to smile. Maelis continued.
 
 “The Ledger will want follow-up.”
 
@@ -249,19 +157,13 @@ Maelis continued.
 
 “Want.”
 
-I looked at her.
-
-She tapped the packet.
+I looked at her. She tapped the packet.
 
 “Not own.”
 
-That stopped me.
+That stopped me. Maelis had spent most of our first conversations trying to measure something the System refused to recognize. Somewhere along the way, she had learned the difference between documenting a person and claiming one.
 
-Maelis had spent most of our first conversations trying to measure something the System refused to recognize. Somewhere along the way, she had learned the difference between documenting a person and claiming one.
-
-Maybe I had learned a few things too.
-
-I did not say that.
+Maybe I had learned a few things too. I did not say that.
 
 “I’m not staying for examinations.”
 
@@ -279,33 +181,17 @@ Maelis stared at me.
 
 “Comforting.”
 
-Jessa finally smiled.
-
-Maelis ignored her.
+Jessa finally smiled. Maelis ignored her.
 
 “If the Ledger contacts you again, you can answer or refuse.”
 
-That was all I wanted.
+That was all I wanted. Maybe not all. Enough.
 
-Maybe not all.
+I left them with the records. They had work after I was gone. That felt important.
 
-Enough.
+Tavian was near the gate reviewing a route marker with two workers. He finished before acknowledging me. I waited.
 
-I left them with the records.
-
-They had work after I was gone.
-
-That felt important.
-
-Tavian was near the gate reviewing a route marker with two workers.
-
-He finished before acknowledging me.
-
-I waited.
-
-Growth continued to be unpleasant.
-
-When he turned, he looked at the pack over my shoulder.
+Growth continued to be unpleasant. When he turned, he looked at the pack over my shoulder.
 
 “So.”
 
@@ -317,11 +203,7 @@ When he turned, he looked at the pack over my shoulder.
 
 “You packed food.”
 
-That had damaged the effect.
-
-Brynn approached from the militia yard.
-
-She carried no reports this time.
+That had damaged the effect. Brynn approached from the militia yard. She carried no reports this time.
 
 Suspicious.
 
@@ -339,25 +221,13 @@ Suspicious.
 
 “Yes.”
 
-Probably.
-
-I had been busy being undefined.
-
-Brynn folded her arms.
+Probably. I had been busy being undefined. Brynn folded her arms.
 
 “You are free to travel.”
 
-No citizenship.
+No citizenship. No registration. No System correction.
 
-No registration.
-
-No System correction.
-
-No official answer to what I was.
-
-Just no immediate reason for Greywake to say I had to stay.
-
-That mattered more.
+No official answer to what I was. Just no immediate reason for Greywake to say I had to stay. That mattered more.
 
 Tavian looked toward the road outside the gate.
 
@@ -373,33 +243,19 @@ Tavian looked toward the road outside the gate.
 
 “Good.”
 
-He looked at me.
-
-There was probably a farewell available somewhere.
-
-Neither of us went looking very hard.
+He looked at me. There was probably a farewell available somewhere. Neither of us went looking very hard.
 
 “You were reliable when it mattered,” he said.
 
-He had already said something similar.
-
-Apparently this was the expanded edition.
+He had already said something similar. Apparently this was the expanded edition.
 
 “Careful. I might develop a reputation.”
 
 “You already have one.”
 
-That was true.
+That was true. Unfortunately. Brynn said, “Greywake could use you.”
 
-Unfortunately.
-
-Brynn said, “Greywake could use you.”
-
-There it was.
-
-I looked at her.
-
-She continued before I could answer.
+There it was. I looked at her. She continued before I could answer.
 
 “That was not an order.”
 
@@ -417,89 +273,35 @@ Also important.
 
 “Tempting.”
 
-I liked her.
+I liked her. That was part of the problem. Greywake could use me.
 
-That was part of the problem.
+Maelis could study me. Sela could treat me. The militia could call me when something needed to survive damage it should not survive.
 
-Greywake could use me.
+Workers could ask for impossible tools. Outer communities could ask me to show up when institutions failed them. People could call me hero.
 
-Maelis could study me.
+Other people could call me menace. The Ledger could call me anomaly. The System called me nothing.
 
-Sela could treat me.
+Every one of those labels came with a shape. Stay long enough, and shapes became expectations. Expectations became duties.
 
-The militia could call me when something needed to survive damage it should not survive.
+Duties became roles. I had not crossed worlds to become somebody’s permanent emergency equipment. That did not mean Greywake meant nothing.
 
-Workers could ask for impossible tools.
+That was the difficult part. It meant enough that leaving required a decision. The pack was ordinary.
 
-Outer communities could ask me to show up when institutions failed them.
+Food. Water. Bandages Sela had forced on me.
 
-People could call me hero.
+A little coin from work already accounted for. A cloak that had survived better than some roads. No legendary weapon.
 
-Other people could call me menace.
+No sacred map. No glowing arrow pointing toward destiny. I did have directions.
 
-The Ledger could call me anomaly.
+Several. None of them had become a decision. That was how I wanted it.
 
-The System called me nothing.
-
-Every one of those labels came with a shape.
-
-Stay long enough, and shapes became expectations.
-
-Expectations became duties.
-
-Duties became roles.
-
-I had not crossed worlds to become somebody’s permanent emergency equipment.
-
-That did not mean Greywake meant nothing.
-
-That was the difficult part.
-
-It meant enough that leaving required a decision.
-
-The pack was ordinary.
-
-Food.
-
-Water.
-
-Bandages Sela had forced on me.
-
-A little coin from work already accounted for.
-
-A cloak that had survived better than some roads.
-
-No legendary weapon.
-
-No sacred map.
-
-No glowing arrow pointing toward destiny.
-
-I did have directions.
-
-Several.
-
-None of them had become a decision.
-
-That was how I wanted it.
-
-At the market edge, people noticed the pack.
-
-A woman who had thanked me after the council session asked if I was coming back.
+At the market edge, people noticed the pack. A woman who had thanked me after the council session asked if I was coming back.
 
 “I have no idea.”
 
-A Guild worker I had seen during repairs told me I still owed him for a broken pry bar.
+A Guild worker I had seen during repairs told me I still owed him for a broken pry bar. I did not remember breaking it. That did not mean I had not.
 
-I did not remember breaking it.
-
-That did not mean I had not.
-
-A militia recruit nodded at me like I was someone important.
-
-An older resident watched me like I was something dangerous.
-
-One child asked again whether I had learned to make a horse.
+A militia recruit nodded at me like I was someone important. An older resident watched me like I was something dangerous. One child asked again whether I had learned to make a horse.
 
 “No.”
 
@@ -507,11 +309,7 @@ One child asked again whether I had learned to make a horse.
 
 “Still no.”
 
-He seemed disappointed in my progression.
-
-Reasonable.
-
-Jessa appeared near the gate with a stack of papers in her arms.
+He seemed disappointed in my progression. Reasonable. Jessa appeared near the gate with a stack of papers in her arms.
 
 “You are actually going.”
 
@@ -525,17 +323,9 @@ She looked at me for a second.
 
 “That sounds like you.”
 
-I chose to take it positively.
+I chose to take it positively. Kellan could not come to the gate. Sela would not leave the treatment house long enough to try.
 
-Kellan could not come to the gate.
-
-Sela would not leave the treatment house long enough to try.
-
-Maelis was buried in records.
-
-Tavian had already returned to work.
-
-Brynn was standing ten steps away pretending she was not waiting for me to leave safely.
+Maelis was buried in records. Tavian had already returned to work. Brynn was standing ten steps away pretending she was not waiting for me to leave safely.
 
 Nobody dropped their life to follow me.
 

@@ -105,7 +105,7 @@ The authoritative Volume 1 chapter roadmap is:
 
 The next authorized planning artifact is:
 
-`CH-017 — The Price of Being Right: Detailed Scene Architecture`
+`CH-017 — The Price of Being Right: Manuscript Draft`
 
 CH-001 manuscript has passed Gate 9 and is CANON.
 
@@ -187,9 +187,11 @@ No F-ID changed status in CH-016.
 
 The first bounded M-007 tonal hint is now canon.
 
-Detailed Scene Architecture for CH-017 — The Price of Being Right is now authorized.
+CH-017 Scene Architecture has passed Gate 8.
 
-Do not draft CH-017 manuscript before its Scene Architecture and Gate 8 Pre-Manuscript Scene QA pass.
+Drafting CH-017 manuscript prose is now authorized.
+
+Do not draft CH-018 or create CH-018 Scene Architecture during the CH-017 manuscript step.
 
 # 5. Scene Sheet
 Each scene has:

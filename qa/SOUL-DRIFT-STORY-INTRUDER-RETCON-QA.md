@@ -213,14 +213,14 @@ Older historical files may contain legacy wording only where explicitly marked s
 
 CH-001→CH-027 event structures remain continuity references.
 
-Their current prose is **STALE** under this retcon because the new standard changes:
+CH-001 and CH-002 prose are now **CURRENT** under this retcon. CH-003→CH-027 prose remains **STALE** because the new standard changes:
 - first-person POV;
 - memory/origin;
 - Fourth-Wall Pause;
 - Red's stable character framing;
 - combat/comedy presentation.
 
-Old Gate 9 / Gate 10 / Gate 11 results remain historical records only.
+Old pre-reset Gate 9 / Gate 10 / Gate 11 results remain historical records only; the new CH-001 and CH-002 Gate 9 revalidations are current.
 
 # 11. Production Decision
 
@@ -234,7 +234,7 @@ CH-001 and CH-002 synchronization are COMPLETE — Gate 9 PASS.
 
 Then continue sequentially from CH-003:
 
-**CH-002 → CH-003 → … → CH-027**
+**CH-003 → CH-004 → … → CH-027**
 
 After CH-001→CH-026:
 - rerun Volume 1 Gate 10;

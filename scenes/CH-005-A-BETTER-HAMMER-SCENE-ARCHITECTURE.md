@@ -8,6 +8,24 @@
 **POV:** Red Jackal first person  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
+# Soul-Drift / Final Story-Engine Override
+
+The five-scene CH-005 event sequence remains locked, but all legacy Stage/progression language below is superseded by the final story engine.
+
+Current interpretation:
+- Red is already overwhelmingly powerful; CH-005 is **not** an awakening, unlock, power-up, control tier, or mastery stage.
+- The two hammer manifestations are reveal/framing evidence, not evidence of increasing raw capacity.
+- The first intentionally displayed hammer is poor because Red gives the anomaly a vague category and accepts/receives an unhelpful expression, not because his power is weak.
+- The second hammer is more task-aligned because Red supplies a precise role/function. It is not proof that he became stronger.
+- Play Logic has no known intrinsic raw-power ceiling and no finite manifestation budget.
+- Any arm/shoulder soreness comes from physically swinging an absurdly heavy manifested object, not from spending a magical resource.
+- The second hammer may soften/disappear when Red stops sustaining the role because that is how this expression ends; this is not a universal duration ceiling.
+- No third manifestation occurs because Red chooses not to keep displaying/testing the anomaly publicly, not because he is unable to.
+- F-004 remains the same observational clue: meaning/framing matters more than ordinary spell grammar.
+- Red does not know the writer term **Play Logic** in-world.
+- genuine audience address invokes Fourth-Wall Pause every time.
+- F-003 remains protected.
+
 # 1. Chapter Purpose Lock
 
 CH-005 must move Red Jackal from:
@@ -131,11 +149,7 @@ F-004 remains:
 
 until CH-005 manuscript contains the approved clue and passes Gate 9.
 
-# 4. Play Logic Stage I Lock
-
-CH-005 remains strictly:
-
-**Stage I — Improvised Manifestation**
+# 4. Play Logic Chapter-Expression Lock
 
 Allowed:
 - one weak/incorrect intentional manifestation;
@@ -144,7 +158,7 @@ Allowed:
 - wrong scale / over-literal interpretation;
 - instability;
 - concentration sensitivity;
-- mental/physical fatigue after use.
+- ordinary physical soreness may follow from physically swinging the oversized object; no finite manifestation-resource cost is established.
 
 Not allowed:
 - reliable repeat spawning;
@@ -155,7 +169,7 @@ Not allowed:
 - high-mastery metaphor effects;
 - precise material engineering;
 - System Skill recognition;
-- formal control.
+- any claim that this chapter establishes a mastery tier or universal control ceiling.
 
 The successful hammer must solve one immediate problem.
 
@@ -760,7 +774,7 @@ Noise/food/work disturbance draws ordinary predators toward the exposed worksite
 
 ### Scene Purpose
 
-Deliver the successful half of F-004 through an action/work problem while keeping Stage I unstable and costly.
+Deliver the successful half of F-004 through an action/work problem while preserving framing uncertainty without inventing a raw-capacity limit.
 
 ### Red Jackal's Immediate Goal
 
@@ -796,8 +810,8 @@ Reality responds with:
 - a much larger/visually excessive hammer than necessary;
 - enough effective mass/impact to do the intended job;
 - proportions that are dramatic rather than engineered;
-- manageable use for only a very short period;
-- instability immediately after the main strike.
+- a temporary expression that begins softening once its immediate role is no longer being sustained;
+- no claim that this duration is a universal limit.
 
 The manifestation follows the **meaning/function** better than the desired aesthetic precision.
 
@@ -856,7 +870,7 @@ They do not know:
 
 Changing his mental framing changed the manifestation.
 
-A clear purpose produces a stronger, more useful expression.
+A clear purpose produces a materially different, more task-aligned expression.
 
 He does **not** know why.
 
@@ -874,7 +888,7 @@ Optional and brief.
 
 ### Emotional State
 
-Focused → surprised satisfaction → fatigue.
+Focused → surprised satisfaction → ordinary physical soreness.
 
 ### Aura-Farming Opportunity
 
@@ -916,13 +930,12 @@ The hammer:
 - becomes harder to control once the immediate purpose is fulfilled;
 - disappears or collapses shortly afterward.
 
-Cost:
-- mental fatigue;
-- physical depletion;
-- possible hand/shoulder soreness from using it;
-- temporary difficulty forming another clear manifestation.
+Physical consequence:
+- possible hand/shoulder soreness from actually swinging an oversized physical object.
 
-No third successful manifestation attempt in this chapter.
+No magical stamina/resource cost is established.
+
+No third manifestation attempt occurs in this chapter because Red chooses not to keep testing/displaying the anomaly in public.
 
 ### Regeneration Continuity
 
@@ -954,7 +967,7 @@ Manifestation changes with mental framing and succeeds despite ordinary spell-gr
 
 Red Jackal gains his first usable working rule for the anomaly:
 
-**clear concept > vague wish.**
+**clear functional framing changes the expression more usefully than a vague category in this observed case.**
 
 ### Exit Condition
 
@@ -987,7 +1000,7 @@ No antagonist confrontation.
 The remaining pressure is:
 - work completion;
 - report accuracy;
-- Red Jackal's post-manifestation fatigue.
+- Red Jackal's ordinary post-work / post-swing soreness.
 
 ### Conflict
 
@@ -1007,8 +1020,8 @@ He now knows:
 - intentional manifestation is possible;
 - vague framing creates poor results;
 - clear function produces a better result;
-- the power is unstable;
-- using it has a cost;
+- this particular expression ended after its immediate role;
+- the oversized object imposed ordinary physical strain while he swung it;
 - other people do not recognize it as normal casting.
 
 ### Supporting Character Knowledge
@@ -1032,7 +1045,7 @@ This makes the work unexpectedly appealing to him.
 
 He concludes that being paid for solving strange practical problems may be more entertaining than expected.
 
-He also privately stores the new working rule about specificity.
+He privately stores the observation that changing framing changed the result, without treating it as a complete rule of the power.
 
 ### Reader-Talk Opportunity
 
@@ -1069,7 +1082,7 @@ None.
 
 No further manifestation attempt.
 
-Red Jackal is fatigued and does not immediately test the new rule again.
+Red Jackal does not immediately test the observation again because a busy Guild yard is a poor place to reveal more of the anomaly.
 
 ### Regeneration Continuity
 
@@ -1099,7 +1112,7 @@ Do not advance F-003.
 
 Red Jackal:
 - receives his first completed-job payment;
-- gains a first intentional power-use rule;
+- gains a first useful observation about how framing affects an intentional manifestation;
 - becomes more willing to take frontier work.
 
 ### Exit Condition
@@ -1208,10 +1221,10 @@ Pre-Manuscript Scene QA must verify:
 - first intentional attempt is vague and functionally poor;
 - second attempt uses a clear functional mental frame;
 - second manifestation changes materially because the framing changed;
-- successful object is oversized/excessive, useful, unstable, and temporary;
-- Stage I limits are respected;
-- no third successful manifestation occurs;
-- cost/fatigue follows use;
+- successful object is oversized/excessive, useful, and temporary in this scene without establishing a universal duration ceiling;
+- no raw-power progression or mastery tier is introduced;
+- no third manifestation occurs because Red elects not to keep testing publicly;
+- no finite manifestation-resource cost is introduced;
 - no System Skill/Class/Level/MP result appears;
 - nobody calls the power a hidden class as fact;
 - no one knows the term Play Logic in-world;

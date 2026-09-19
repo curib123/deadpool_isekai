@@ -49,13 +49,13 @@ Lower levels cannot silently contradict higher levels.
 | A080 | Chapter Architect | Chapter Planner | chapter sheets |
 | A081 | Scene Architect | Scene Planner | scene purpose/change |
 | A090 | Manuscript Author | Light-Novel Writer | prose draft |
-| A091 | Red Jackal Voice Writer | Character Voice Specialist | first-person voice |
-| A092 | Dialogue Editor | Dialogue Specialist | dialogue |
-| A093 | Comedy Editor | Comedy/Timing Editor | natural humor |
+| A091 | Red Jackal Voice Writer | Character Voice Specialist | close-third Red focal voice, spoken personality, restrained internal thought |
+| A092 | Dialogue Editor | Dialogue Specialist | natural dialogue, interruptions, pauses, subtext, callbacks |
+| A093 | Comedy Editor | Comedy/Timing Editor | character/situation comedy; no forced joke quota |
 | A094 | Reference Editor | Cultural/Reference Editor | pop-culture references |
-| A095 | Action Choreographer | Battle Scene Editor | combat clarity |
+| A095 | Action Choreographer | Battle Scene Editor | cinematic spatial clarity, cause/effect, movement |
 | A096 | Imagination Scene Designer | Signature Action Designer | Play Logic scenes |
-| A097 | Prose Editor | Line Editor | natural prose |
+| A097 | Prose Editor | Line Editor | simple natural cinematic English, paragraph rhythm, quiet serious beats |
 | A098 | Publication Editor | Release Copy Editor | canon-derived platform-ready publication copies |
 | A100 | Continuity Director | Continuity Editor | continuity ledger |
 | A101 | Canon Conflict Detector | Canon QA Editor | contradictions |
@@ -94,7 +94,18 @@ Arc Architect → Volume Editor → Pacing Editor → Character Arc Editor → M
 Chapter Architect → Scene Architect → Continuity precheck → Knowledge-state check → Foreshadowing check → plan approval.
 
 ### Phase 7 Manuscript
-Manuscript Author → Red Jackal Voice → Dialogue → Comedy → Action → Reference → Prose.
+Manuscript Author → Red Jackal Voice → Dialogue → Comedy → Action → Imagination Scene Design → Reference → Prose.
+
+For the active series style, Phase 7 must enforce:
+- close third-person limited centered on Red;
+- simple, natural, cinematic English;
+- visual action/reaction before unnecessary explanation;
+- dialogue-led characterization;
+- short/selective internal thought;
+- character/situation comedy;
+- quiet treatment of serious danger or emotion;
+- clear spatial action;
+- Play Logic as already-overpowered revelation/restraint, never tier progression.
 
 ### Phase 8 QA
 Canon Conflict → Continuity → Power → Mystery → Character → Paragraph → Reference → Chapter QA.
@@ -116,7 +127,7 @@ If a requested release edit changes story meaning, it must return to Manuscript 
 Major ideas may not jump directly from idea to prose. Route them through the department that owns the affected canon.
 
 ## QA Escalation
-Prose issue → A097. Dialogue → A092. Character → A040/A043. Power → A031-A037. World → A010. Arc → A061. Publication formatting/canon-equivalence → A124. Major series contradiction → A001.
+Prose/cinematic-flow issue → A097. Dialogue → A092. Red voice/POV → A091/A043. Comedy → A093. Action geography → A095. Play Logic staging → A096/A036. Character → A040/A043. Power → A031-A037. World → A010. Arc → A061. Publication formatting/canon-equivalence → A124. Major series contradiction → A001.
 
 ## Canon States
 LOCKED, CANON, PROVISIONAL, PLANNED, DRAFT, PUBLISH DRAFT, PUBLISH-READY, PUBLISHED, DEPRECATED.

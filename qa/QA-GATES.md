@@ -65,7 +65,7 @@ If Writer Truth, knowledge separation, or foreshadowing state is inconsistent: *
 - Are mystery-heavy locations protected as RESERVED when using them too early would damage the reveal ladder?
 - Are broad macro regions marked NOT SUITABLE when they need a narrower place?
 - Are unsupported categories recorded as gaps rather than filled with invented canon?
-- Does the inventory avoid choosing Volume 1 or creating a route order?
+- Does the inventory avoid assigning any destination to a volume or creating a route order?
 - Are supporting characters still unassigned to destinations?
 - Were no volume plans, chapter plans, scene plans, or manuscript prose created?
 
@@ -92,7 +92,7 @@ If inventory counts, World Bible sourcing, or route neutrality fail: **FAIL — 
 - Can early Play Logic be demonstrated within current power limits?
 - Are travel entry and exit routes already supported by canon?
 - Can the local conflict later be meaningfully resolved before departure?
-- Does selecting it preserve multiple believable later routes rather than silently choosing Volume 2?
+- Does selecting it preserve multiple believable later routes without silently selecting any later volume?
 - Were no chapter plans, scenes, climax, manuscript prose, or later route assignments created?
 
 If any critical requirement fails: **FAIL — RESELECT OR RETURN TO DESTINATION DIRECTOR.**
@@ -104,7 +104,7 @@ If any critical requirement fails: **FAIL — RESELECT OR RETURN TO DESTINATION 
 - Does the architecture preserve the approved destination identity?
 - Is Red Jackal's arrival state compatible with existing mystery/system canon?
 - Is there a clear reason he becomes involved that fits his anti-villain personality?
-- Is the exact local conflict defined and rooted in Greywake rather than generic fantasy danger?
+- Is the exact local conflict defined and rooted in the selected destination rather than generic fantasy danger?
 - Is the main antagonist/opposing force fully defined with history, motive, worldview, resources, methods, win condition, and meaningful sympathy boundary?
 - Can the antagonist act independently of Red Jackal?
 - Is there a non-human/environmental opposing force where appropriate?
@@ -133,7 +133,7 @@ If any critical requirement fails: **FAIL — RESELECT OR RETURN TO DESTINATION 
 - Are selected F-IDs still **PLANNED — NOT YET PLANTED**?
 - Does the knowledge-state file prevent characters from knowing unearned truths?
 - Is pacing architected across action, exploration, social/worldbuilding, investigation, comedy, and consequence?
-- Is Volume 2 still unselected?
+- Is the following volume still unselected?
 - Are chapter count, chapter titles, scene order, dialogue, and manuscript prose still deferred?
 
 If any CRITICAL or MAJOR item fails: **FAIL — RETURN TO THE OWNING AGENT AND RE-RUN GATE 6.**
@@ -152,15 +152,15 @@ If any CRITICAL or MAJOR item fails: **FAIL — RETURN TO THE OWNING AGENT AND R
 - Does departure pacing allow consequences to breathe?
 - Do chapter functions vary enough to avoid repetitive mission structure?
 - Does action escalate by complexity/stakes rather than only stronger enemies?
-- Does Red Jackal remain Stage I throughout the volume?
+- Does Red Jackal remain within the progression ceiling approved by Gate 6 throughout the volume?
 - Are regeneration pain/exhaustion limits carried forward?
 - Are supporting characters distributed according to their independent roles?
-- Does Hesk's pressure escalate consistently without omniscience?
-- Are F-001 through F-004 assigned only as planned locations and still **PLANNED — NOT YET PLANTED**?
-- Are M-002, observational M-005, and limited M-007 the only approved mystery uses?
+- Does the approved antagonist/opposing-force pressure escalate consistently without omniscience?
+- Are only the F-IDs approved by Gate 6 assigned to planned locations, and do they remain **PLANNED — NOT YET PLANTED** until manuscript evidence exists?
+- Are only the M-IDs and reveal levels approved by Gate 6 used?
 - Are protected writer truths absent from chapter knowledge?
 - Are continuity and knowledge-state dependencies explicit enough for later scene planning?
-- Is Volume 2 still unselected?
+- Is the following volume still unselected?
 - Are detailed scenes, final dialogue, and manuscript prose still deferred?
 
 If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO CHAPTER ARCHITECT AND RE-RUN ROADMAP QA.**

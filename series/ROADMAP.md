@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** VOLUME 1 GREYWAKE PACING REVISION ACTIVE — PLAN LOCKED / CH-009 REVISION NEXT; VOLUME 2 MERROWGATE — CH-027 CANON / CH-028 PAUSED
+**Status:** RED JACKAL OVERPOWERED RETCON ACTIVE — FOUNDATION UPDATED / VOLUME 1+2 POWER AUDIT REQUIRED / CH-028 PAUSED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -22,7 +22,8 @@ Chapter Roadmap: **PASS — 26 chapters**
 Volume 1 Canon Revalidation: **PASS — GATE 10 / CH-001 THROUGH CH-026 VERIFIED**  
 Publish Version QA Standard: **ACTIVE — GATE 11**  
 Volume 1 Publish Version QA: **PASS — GATE 11 / 26 OF 26 CURRENT CANON COPIES PUBLISH-READY**  
-Volume 1 Pacing Revision v2: **PLAN PASS / CANON-PRESERVING REVISION TRACK ACTIVE / CH-009 FIRST**  
+Volume 1 Pacing Revision v2: **PAUSED — RETAIN PACING GOALS / POWER-BALANCE ASSUMPTIONS SUPERSEDED**  
+Red Jackal Overpowered Retcon: **ACTIVE — NO POWER PROGRESSION / UNBOUNDED PLAY LOGIC / REVELATION MODEL**  
 Volume 2 Destination Selection: **PASS — GATE 5 / DEST-002 MERROWGATE**  
 Volume 2 Architecture: **PASS — GATE 6 / MERROWGATE ARC LOCKED**  
 Volume 2 Chapter Roadmap: **PASS — GATE 7 / 24 CHAPTERS / CH-027 THROUGH CH-050 LOCKED**  
@@ -86,9 +87,9 @@ CH-026 Scene Architecture: **PASS — GATE 8**
 CH-026 Manuscript: **CANON — GATE 9 PASS / ARC-CLOSURE VOICE LOCKED**  
 Red Jackal Series Voice: **LOCKED — DRY/DEADPAN INTERNAL HUMOR + RESTRAINED FOURTH-WALL STANDARD**  
 Red Jackal Anti-Villain Expression: **LOCKED**  
-Red Jackal Reputation / Fear Progression: **LOCKED — R0 TO R6**  
+Red Jackal Reputation / Fear Progression: **LOCKED — REVELATION MODEL / UNKNOWN → UNDERESTIMATED → HIDDEN MONSTER**  
 Red Jackal Aura-Farming Reputation Evolution: **LOCKED — MANUFACTURED → EARNED → REPUTATION PRECEDES HIM**  
-Red Jackal Reputation / Threat Perception: **LOCKED — GRADUAL / EVIDENCE-BASED**  
+Red Jackal Reputation / Threat Perception: **LOCKED — EVIDENCE-BASED DISCOVERY, NOT POWER GROWTH**  
 Aura Evolution: **MANUFACTURED → EARNED → REPUTATION-SUPPORTED**
 
 The project publication state is now:
@@ -151,3 +152,22 @@ Revision focus:
 **Active revision step:** CH-009 — Wrong Tracks → Pacing Revision Pass → Gate 9 Revalidation.
 
 Volume 2 CH-028 remains structurally authorized but is paused while this authorial revision track is active.
+
+
+## Red Jackal Overpowered Retcon
+
+Authoritative retcon:
+
+`planning/RED-JACKAL-OVERPOWERED-RETCON.md`
+
+Foundation changes:
+- Red is already overwhelmingly powerful from the beginning;
+- Play Logic has no known intrinsic ceiling;
+- Stage I/II/III/IV progression is superseded;
+- apparent early limits are reveal/restraint/knowledge issues, not raw-power tiers;
+- fights emphasize Red playing with enemies until he decides to stop;
+- supporting cast matter through information, access, logistics, evidence, judgment and consequences.
+
+All older Stage-I ceiling language is legacy until revised.
+
+**Current production priority:** foundation/volume/manuscript power audit before new CH-028 scene production.

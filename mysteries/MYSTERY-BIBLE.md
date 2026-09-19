@@ -275,7 +275,7 @@ Possible endgame questions concern:
 
 **False Beliefs:**
 - a god summoned him;
-- Savael imported him;
+- Savael deliberately summoned him;
 - the Exterior Needle selected him;
 - the System created him;
 - he is the chosen hero.
@@ -797,12 +797,12 @@ Each entry below records its current foreshadowing state. New F-IDs begin as **P
 **Eligible window:** RW-2.  
 **Status:** PLANNED — NOT YET PLANTED.
 
-## F-012 — Exterior Echo Produces Outbound Null Direction on Sensitive Divination
+## F-012 — Fourth-Wall Pause Leaves a Causal Discontinuity on Sensitive Observation
 
 **Related:** M-006  
-**Planned setup:** Very sensitive observation records a directional anomaly associated with Red that points nowhere inside Veyr during an approved Exterior Echo event.  
-**First interpretation:** mental magic or invisible familiar.  
-**Hidden meaning:** Exterior Echo.  
+**Planned setup:** Very sensitive observation records a causal discontinuity around the instant Red enters or exits a genuine Fourth-Wall Pause.  
+**First interpretation:** time magic, perception interference, or a damaged observation instrument.  
+**Hidden meaning:** Red's Soul-Drift exterior relation momentarily leaves Veyr's active causal sequence.  
 **Eligible window:** RW-3.  
 **Status:** PLANNED — NOT YET PLANTED.
 
@@ -884,10 +884,10 @@ Each entry below records its current foreshadowing state. New F-IDs begin as **P
 |---|---|
 | M-001 Arrival | He was imported as a tool, but not personally chosen or authored |
 | M-002 UNDEFINED | Absence is structural, not hidden superiority |
-| M-003 Reincarnation | He crossed by continuity translocation, explaining memory/body |
-| M-004 Play Logic | Freedom comes from missing schema, but identity instability is a weakness |
-| M-005 Regeneration | His body survives by reasserting self, not generic immortality |
-| M-006 Exterior Echo | A passive outward continuity direction gains metaphysical relevance without changing the close-third narrative standard |
+| M-003 Reincarnation | He arrived through natural far Soul Drift, explaining memory loss and missing native history |
+| M-004 Play Logic | Missing native schema lets his imagination negotiate reality without a progression ladder |
+| M-005 Regeneration | His body reasserts the persistent Soul-Drift identity pattern rather than ordinary mortality |
+| M-006 Fourth-Wall Pause | Genuine audience address reveals his incomplete causal anchoring by freezing local Veyran time |
 | M-007 Fate | He is free of a native past-thread, not free of consequences |
 | M-008 Great Design | Coherence is not the same as tyranny, but can become oppressive under pressure |
 | M-009 Ancient History | Modern anomalies share one buried pre-System source |
@@ -981,9 +981,9 @@ Not allowed:
 
 Do not explicitly reveal:
 - M-001 arrival cause;
-- M-003 continuity translocation;
+- M-003 far Soul Drift truth;
 - M-004 writer-truth Play Logic origin;
-- M-006 Exterior Echo;
+- M-006 Fourth-Wall Pause metaphysical explanation;
 - M-008 Great Design;
 - M-009 full Eidrathi / First Severance truth;
 - M-010 Savael;

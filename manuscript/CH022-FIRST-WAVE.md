@@ -1,7 +1,7 @@
 # Chapter 22 — First Wave
 
 **Status:** DRAFT — GATE 9 NOT YET RUN  
-**Word Count:** 3,056
+**Word Count:** 3,004
 
 The first mass did not charge us. It came out of the trees in layers.
 
@@ -29,7 +29,7 @@ He stepped back.
 
 “Do not challenge the movement,” Tavian said. “Let them choose.”
 
-Choose was a generous word. They were terrified. Still, they had choices.
+They were terrified. Still, they had choices.
 
 The final civilian cart Brynn’s runner had mentioned was still moving behind us, wheels hammering over the inner stones as two workers pushed at the rear. One older man rode inside with a child and a bundle tied against his chest. A woman walked beside the draft animal, pulling more than leading.
 
@@ -119,7 +119,7 @@ The last civilian cart crossed behind the inner marker. Brynn waved the lane clo
 
 I let the construct go. It broke apart into nothing before the next wave reached it. The cut along my arm had already started pulling itself closed.
 
-That did not make it pleasant. Regeneration had never learned the difference between repairing me and making sure I noticed every second of it. My shoulder hurt.
+The wound was already closing, but every second of it still hurt. My shoulder hurt.
 
 The cart was safe. Good enough. The first guide point was not.
 

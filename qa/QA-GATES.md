@@ -20,7 +20,11 @@ Before long-term arc planning:
 - Fate defined?
 - Great Design writer-truth defined?
 - Red Jackal anomaly defined?
+- Soul Drift defined as a natural phenomenon and Red's actual arrival mechanism?
+- mysterious Earth explosion protected as origin mystery?
 - Play Logic defined under the unbounded revelation/restraint model with narrative counterplay?
+- Fourth-Wall Pause defined as a real time-stop effect for genuine audience address?
+- independent native Hero/Hero Party/Main-Villain story framework defined?
 - enough unexplored destinations remain for a long series?
 
 If major answers are missing: **ROADMAP LOCKED — CONTINUE WORLD BIBLE.**
@@ -28,7 +32,7 @@ If major answers are missing: **ROADMAP LOCKED — CONTINUE WORLD BIBLE.**
 # Gate 2 — Character QA
 **Owners:** A040, A043, A044, A045.
 
-- Does Red Jackal remain anti-villainous, theatrical, self-centered, unpredictable, playful and dangerous?
+- Does Red Jackal remain anti-villainous, theatrical, self-centered, unpredictable, playful, aura-farming, enemy-playing and dangerous without being morally normalized?
 - Is aura farming optional and earned?
 - Does serious Red Jackal feel meaningful?
 - Do supporting characters have independent goals?
@@ -119,7 +123,7 @@ If any critical requirement fails: **FAIL — RESELECT OR RETURN TO DESTINATION 
 - Are aura-farming opportunities balanced across success, indifference, and backfire?
 - Is comedy optional and situational rather than quota-driven?
 - Does the architecture contain real serious consequences that comedy/regeneration cannot erase?
-- Does Red Jackal develop without becoming a conventional hero?
+- Does Red Jackal remain fundamentally stable rather than receiving a conventional moral-development arc?
 - Do supporting characters have their own development beats?
 - Is a clear midpoint shift defined?
 - Is a major reversal defined and causally earned?
@@ -143,7 +147,7 @@ If any CRITICAL or MAJOR item fails: **FAIL — RETURN TO THE OWNING AGENT AND R
 
 - Is the final chapter count explicitly defined?
 - Does every chapter have a unique chapter ID and working title?
-- Does every chapter specify location, present characters, opening situation, primary objective, conflict, exploration purpose, character beat, protagonist development, supporting development, antagonist pressure, action progression, Play Logic use, regeneration consequence, aura/comedy opportunities, mystery/foreshadowing, continuity dependencies, knowledge dependencies, and ending beat?
+- Does every chapter specify location, present characters, opening situation, primary objective, conflict, exploration purpose, character beat, Red stable-character/situation beat, supporting development, antagonist pressure, action progression, Play Logic use, regeneration consequence, aura/comedy opportunities, mystery/foreshadowing, continuity dependencies, knowledge dependencies, and ending beat?
 - Are the seven locked volume movements mapped naturally across the roadmap?
 - Is the midpoint placed clearly and does it preserve the locked revelation?
 - Is the major reversal placed clearly and causally follow from Red Jackal's mistake?
@@ -174,7 +178,7 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO CHAPTER ARCHITECT AND
 - Does every scene define all fields required by that chapter's Scene Architecture brief?
 - Does scene progression create a clear cause-and-effect chain rather than disconnected beats?
 - Do scene transitions create a reason for the next scene?
-- Does Red Jackal's voice architecture remain compatible with close third-person limited, short selective internal thought, and dialogue-led characterization?
+- Does Red Jackal's voice architecture remain compatible with close first-person limited, cinematic clarity, his stable chaotic voice, and Fourth-Wall Pause when genuine audience address occurs?
 - Is dialogue assigned a clear story/character function before prose drafting?
 - Is comedy situational and appropriate to the chapter's pressure level?
 - Are aura-farming opportunities balanced rather than automatically successful?
@@ -205,32 +209,30 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO SCENE ARCHITECT AND R
 - Is the ending earned?
 
 ## Red Jackal
-- Does Red sound like the Character Bible version of Red: theatrical by choice, shameless, curious, teasing, lightly arrogant, and capable of sudden seriousness?
-- Does his personality come through behavior, dialogue, timing, and close-third filtering rather than constant internal commentary?
+- Does Red sound like the locked stable version of Red: theatrical, shameless, self-centered, curious, aura-farming, enemy-playing, meta-aware, and capable of sudden seriousness?
+- Does the chapter avoid turning consequences into a moral-reform lesson?
+- Does Red remain fundamentally the same character even if he changes tactics or acknowledges facts?
 - Are his spoken lines natural rather than endlessly witty?
-- Is behavior character-driven rather than plot-driven?
-- Is seriousness used deliberately?
-- If humor drops during fear, guilt, grief, horror, or tenderness, does the quieter tone feel natural?
+- Does he play with enemies when appropriate instead of behaving like a conventional desperate shonen underdog?
+- If he stops playing, is the serious switch restraint removal rather than a power-up?
 
 ## POV / Prose
-- close third-person limited centered on Red throughout?
-- no first-person narrator?
+- close first-person limited centered on Red throughout?
 - no head-hopping?
 - no omniscient information Red could not know?
-- simple, natural English?
-- technical or literary wording used only when necessary?
-- internal thoughts short and selective?
+- simple, natural, movie-like English?
+- Red's narration recognizable and original?
 - dialogue distinct and human?
 - interruptions, pauses, incomplete answers, callbacks, and subtext used where natural?
-- personality-filtered description preferred over detached exposition?
-- paragraphs normally multi-sentence?
-- one-line paragraphs reserved for real impact, danger, realization, important System output, emotional exposure, quiet emphasis, or a genuinely effective comic beat?
-- no robotic/excessively fragmented prose?
+- paragraphs readable rather than mechanically fragmented?
 - cinematic scene readability?
 - can the reader clearly picture movement, positioning, expressions, and the key visual beat?
 - does action appear before unnecessary explanation when practical?
 - do scene openings avoid excessive warm-up?
 - do scene endings stop after the strongest line/image instead of explaining it again?
+- whenever Red genuinely addresses the external reader/audience, does Veyran time stop?
+- do native characters remain unaware of elapsed time during Fourth-Wall Pause?
+- is the audience kept separate from being a power source or command system?
 
 ## Comedy / References
 - does comedy come from character and situation rather than forced joke construction?
@@ -246,7 +248,7 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO SCENE ARCHITECT AND R
 - Does Play Logic preserve the already-overpowered / no-progression writer truth?
 - Are apparent limits clearly compatible with voluntary restraint, role-play, incomplete information, or collateral concerns?
 - Are System/magic/Fate rules consistent?
-- Does overwhelming force avoid automatically solving information, political, moral, evidentiary, relationship, or multi-location problems?
+- Does overwhelming force avoid automatically solving information, political, evidentiary, relationship, timing, or multi-location problems?
 - Are pain, injuries to others, irreversible outcomes, and consequences respected?
 
 ## Continuity / Knowledge
@@ -274,6 +276,9 @@ Periodically verify:
 - mysteries are paced,
 - consequences persist,
 - returning places evolve,
+- the legitimate Hero/Hero Party/Main-Villain storyline continues independently of Red,
+- Red's interference reroutes native story beats instead of lazily deleting them,
+- Red has not been converted into the world's chosen hero,
 - enough unexplored world and mystery remain for continuation.
 
 # Gate 11 — Publish Version QA

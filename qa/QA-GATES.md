@@ -20,7 +20,7 @@ Before long-term arc planning:
 - Fate defined?
 - Great Design writer-truth defined?
 - Red Jackal anomaly defined?
-- Play Logic defined with counters?
+- Play Logic defined under the unbounded revelation/restraint model with narrative counterplay?
 - enough unexplored destinations remain for a long series?
 
 If major answers are missing: **ROADMAP LOCKED — CONTINUE WORLD BIBLE.**
@@ -89,7 +89,7 @@ If inventory counts, World Bible sourcing, or route neutrality fail: **FAIL — 
 - Is it compatible with Red Jackal's established personality without forcing generic heroism?
 - Can supporting characters enter naturally without assigning them prematurely?
 - Does it support the current mystery reveal window without exposing protected late truths?
-- Can early Play Logic be demonstrated within current power limits?
+- Can Play Logic be demonstrated without prematurely exposing more of Red's hidden capability than the selected destination needs?
 - Are travel entry and exit routes already supported by canon?
 - Can the local conflict later be meaningfully resolved before departure?
 - Does selecting it preserve multiple believable later routes without silently selecting any later volume?
@@ -114,8 +114,8 @@ If any critical requirement fails: **FAIL — RESELECT OR RETURN TO DESTINATION 
 - Does exploration use multiple parts of the destination?
 - Are monster/wilderness threats ecological rather than random encounter filler?
 - Does action escalate by stakes/type instead of only larger enemies?
-- Does Play Logic remain within the approved mastery stage?
-- Does regeneration retain pain, exhaustion, and consequence limits?
+- Does Play Logic follow the approved revelation/restraint policy without inventing a progression ceiling?
+- Does regeneration preserve pain and consequences for others without treating ordinary exhaustion/injury as a raw-power ceiling?
 - Are aura-farming opportunities balanced across success, indifference, and backfire?
 - Is comedy optional and situational rather than quota-driven?
 - Does the architecture contain real serious consequences that comedy/regeneration cannot erase?
@@ -124,7 +124,7 @@ If any critical requirement fails: **FAIL — RESELECT OR RETURN TO DESTINATION 
 - Is a clear midpoint shift defined?
 - Is a major reversal defined and causally earned?
 - Does Red Jackal make at least one meaningful mistake or face a consequence rather than being protected by author favoritism?
-- Is the climax solvable through combined competencies rather than Red Jackal alone?
+- Does the climax preserve independent supporting competencies even if Red can dominate the raw physical threat?
 - Is the local conflict meaningfully resolved before departure?
 - Are lasting political, social, economic, ecological, or infrastructural consequences defined?
 - Is the departure condition clear without selecting the next destination?
@@ -152,8 +152,8 @@ If any CRITICAL or MAJOR item fails: **FAIL — RETURN TO THE OWNING AGENT AND R
 - Does departure pacing allow consequences to breathe?
 - Do chapter functions vary enough to avoid repetitive mission structure?
 - Does action escalate by complexity/stakes rather than only stronger enemies?
-- Does Red Jackal remain within the progression ceiling approved by Gate 6 throughout the volume?
-- Are regeneration pain/exhaustion limits carried forward?
+- Does every chapter preserve the no-power-progression rule and its approved reveal/restraint level?
+- Are regeneration pain/injury states carried forward without turning them into a false raw-power limit?
 - Are supporting characters distributed according to their independent roles?
 - Does the approved antagonist/opposing-force pressure escalate consistently without omniscience?
 - Are only the F-IDs approved by Gate 6 assigned to planned locations, and do they remain **PLANNED — NOT YET PLANTED** until manuscript evidence exists?
@@ -178,7 +178,7 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO CHAPTER ARCHITECT AND
 - Is dialogue assigned a clear story/character function before prose drafting?
 - Is comedy situational and appropriate to the chapter's pressure level?
 - Are aura-farming opportunities balanced rather than automatically successful?
-- Does Play Logic remain inside the chapter's approved mastery/use restrictions?
+- Does Play Logic remain inside the chapter's approved display/reveal/restraint plan, without implying a real mastery ceiling?
 - Do regeneration/injury states carry forward accurately?
 - Is worldbuilding limited to information that can enter naturally through the current scenes?
 - Are language/translation assumptions explicitly supported by canon?
@@ -236,10 +236,11 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO SCENE ARCHITECT AND R
 - scene understandable without recognizing reference?
 
 ## Power
-- Play Logic follows current mastery?
-- System/magic/Fate rules consistent?
-- solution not effortless?
-- counters/injuries/consequences respected?
+- Does Play Logic preserve the already-overpowered / no-progression writer truth?
+- Are apparent limits clearly compatible with voluntary restraint, role-play, incomplete information, or collateral concerns?
+- Are System/magic/Fate rules consistent?
+- Does overwhelming force avoid automatically solving information, political, moral, evidentiary, relationship, or multi-location problems?
+- Are pain, injuries to others, irreversible outcomes, and consequences respected?
 
 ## Continuity / Knowledge
 - locations/travel consistent?
@@ -261,7 +262,7 @@ Periodically verify:
 - anti-villain identity preserved,
 - world larger than current route,
 - destinations remain varied,
-- powers remain tense,
+- overwhelming power still leaves meaningful narrative tension through information, timing, consequences, judgment and simultaneous objectives,
 - System/Magic/Fate/Great Design remain distinct,
 - mysteries are paced,
 - consequences persist,

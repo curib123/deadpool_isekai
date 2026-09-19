@@ -228,7 +228,7 @@ She blinked. The token carried the meaning.
 
 “Probably for the best.”
 
-they moved back toward the public contract desks. The market lane outside was visible through the open doors, busy with late-afternoon traffic. Jessa placed the form beside the Guild token.
+They moved back toward the public contract desks. The market lane outside was visible through the open doors, busy with late-afternoon traffic. Jessa placed the form beside the Guild token.
 
 “This is not a standard employment contract.”
 

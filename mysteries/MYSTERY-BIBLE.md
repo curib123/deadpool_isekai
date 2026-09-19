@@ -514,7 +514,7 @@ Possible endgame questions concern:
 
 ## M-012 — Can Red Jackal Ever Become “Defined”?
 
-**Writer Truth:** Conventional assimilation is possible only by rewriting part of his foreign continuity. A second path, the Exception Covenant, could create lawful representation without erasing his external identity.
+**Writer Truth:** A conventional native identity would require rewriting part of Red's foreign Soul-Drift continuity. Such assimilation is optional and is never his required character arc. A separate legal/metaphysical exception framework could represent him without erasing what he is.
 
 **Reader Baseline:** The System cannot define him.
 
@@ -528,7 +528,7 @@ Possible endgame questions concern:
 
 **Reveal Window:** RW-4 to RW-5.
 
-**Payoff:** Creates the endgame thematic choice between forced assimilation, destructive rupture, and negotiated coexistence.
+**Payoff:** Establishes that Veyr may need to change how it represents exceptions; Red is not required to assimilate, become chosen, or become morally complete.
 
 **Status:** ACTIVE WRITER TRUTH.
 
@@ -655,22 +655,24 @@ Allowed truths:
 - Quiet Registration has hidden complexity;
 - Fate behaves strangely around his causal wake.
 
-## RL-3 — External Breach
+## RL-3 — Far-Drift Reality
 
 Allowed truths:
-- Red Jackal did not undergo normal reincarnation;
-- an ancient civilization studied the Closed Loom;
-- an Exterior Needle existed;
-- his body was instantiated without a native history.
+- Red Jackal did not undergo normal Veyran reincarnation;
+- natural far Soul Drift can cross causal worlds under exceptional conditions;
+- an ancient civilization independently studied the Closed Loom and built the Exterior Needle;
+- the Needle is a historical analogue, not Red's transport;
+- Red's body formed without a native Veyran history;
+- Fourth-Wall Pause reflects incomplete causal anchoring.
 
-## RL-4 — Hidden Architect
+## RL-4 — Exploitation and the Explosion
 
 Allowed truths:
 - Savael survived;
-- Savael reactivated the Needle;
-- Red Jackal was acquired as an external variable;
-- Savael intends to reopen Veyr to external causality;
-- Great Design is correction architecture, not the summoner.
+- Savael did **not** summon Red;
+- Savael learned of Red after arrival and wants to exploit/reproduce the natural anomaly;
+- evidence about the Earth explosion may begin identifying why that death coincided with far Soul Drift;
+- Great Design is correction architecture, not the summoner or cause of Soul Drift.
 
 ## RL-5 — Endgame Choice
 

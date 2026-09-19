@@ -489,3 +489,110 @@ The canonically observed clue is:
 **Red Jackal's physical existence and mana interaction are measurable while his System identity remains undefined.**
 
 This advances M-002 observationally but does not reveal the cause.
+
+
+
+# CH-004 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-004 — Off the Books  
+**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+
+## Red Jackal — Opening CH-004
+
+Red Jackal begins CH-004 with the CH-003 canon checkpoint.
+
+He knows:
+- Greywake is a road-dependent frontier settlement;
+- his physical existence is measurable while System identity remains undefined;
+- his Unverified Entrant restrictions remain active;
+- normal registered guild work is blocked;
+- Roadmaster Rovan Hesk is willing to discuss privately arranged paid work;
+- Jessa Vale works in Road Guild records;
+- he needs local income, food, lodging, supplies, and practical information.
+
+He does not know:
+- the march-lure network exists;
+- Road Guild casualty records are deliberately falsified;
+- Hesk is deliberately sacrificing outer communities;
+- Hesk may later use him as a scapegoat;
+- why the System cannot define him;
+- why he regenerates;
+- how Play Logic works;
+- any protected series mystery truth.
+
+## Allowed CH-004 Discoveries — Red Jackal
+
+By the end of an approved CH-004 manuscript, Red Jackal may know:
+- Hesk is the Roadmaster and a credible local authority;
+- the Road Guild publicly maintains roads, bridges, escorts, caravan schedules, and supply movement;
+- Hesk can authorize private paid labor outside the normal registered-contract path;
+- the arrangement is recorded locally but is not a normal identity-bound guild contract;
+- ordinary guild worker/traveler protections do not attach to the arrangement;
+- he can be paid in local Marks and/or receive a Guild supply allowance/advance;
+- Jessa understands the practical consequences of the irregular arrangement;
+- Brynn does not forbid the work but confirms that private Guild labor does not create normal protections;
+- his first assignment is a Main Caravan Road repair/supply-support job leading into CH-005.
+
+He may conclude that Hesk benefits from his unusual legal status.
+
+He may **not** conclude the hidden migration policy or Hesk's later scapegoat contingency.
+
+## Rovan Hesk — CH-004 Boundary
+
+Hesk may know:
+- Red Jackal arrived without valid registry identity;
+- normal guild certification cannot process him;
+- Greywake admitted him provisionally;
+- the Ledger has professional interest in his anomaly;
+- Red Jackal survived the north-road wilderness alone;
+- Red Jackal needs work and local resources.
+
+Hesk may not know:
+- Red Jackal's regeneration mechanism;
+- that Red Jackal manifested a barrier in CH-001;
+- Play Logic;
+- protected anomaly writer truth.
+
+Hesk does know his own preexisting march-lure policy, but he must not reveal it in CH-004.
+
+## Jessa Vale — CH-004 Boundary
+
+Jessa may know:
+- Red Jackal is an unverified entrant;
+- normal guild contract processing is blocked;
+- Hesk authorized private work;
+- the difference between registered and irregular Guild records;
+- route schedules, supply procedures, payment handling, and the first assignment's legitimate surface purpose.
+
+Jessa may show caution or discomfort with irregular procedure.
+
+She may not:
+- expose the march-lure conspiracy;
+- identify casualty falsification as deliberate;
+- become a whistleblower in CH-004;
+- know protected series mystery truth.
+
+## Captain Brynn Alder — CH-004 Boundary
+
+Brynn may know:
+- Red Jackal remains an Unverified Entrant;
+- Hesk is arranging private Road Guild work;
+- private work does not grant normal registered-worker protections;
+- the militia does not own or guarantee the Guild arrangement.
+
+Brynn may distrust Hesk's secrecy in general.
+
+She may not know or state the hidden march-lure policy as fact.
+
+## F-ID Boundary
+
+CH-004 introduces **no new F-ID**.
+
+- F-001 remains PLANTED — CH-002.
+- F-002 remains PLANTED — CH-003.
+- F-003 remains PLANNED — NOT YET PLANTED.
+- F-004 remains PLANNED — NOT YET PLANTED.
+
+## Power Boundary
+
+CH-004 contains no Play Logic attempt, manifestation, diagnostic test, or regeneration analysis.

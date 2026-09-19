@@ -298,7 +298,9 @@ Red Jackal's abnormal recovery must not steal care away from someone more vulner
 
 F-004 is already **PLANTED — CH-005**.
 
-CH-007 may use one simple Stage I manifestation for rescue/defense only.
+**Maximum Play Logic use in CH-007: one simple Stage I rescue/defense manifestation total.**
+
+No other manifestation attempt or success is allowed in the chapter.
 
 Recommended function:
 

@@ -1,7 +1,7 @@
 # Chapter 6 — The Road That Works
 
-**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
-**Word Count:** 2805,787  
+**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Word Count:** 2797,787  
 
 The second job sounded easier. That should have worried him. He reported to the caravan yard the morning after the bridge repair with fewer illusions about frontier work and slightly more money in his pocket. The Road Guild had apparently decided that surviving one assignment without breaking anything important qualified him for another.
 
@@ -19,7 +19,7 @@ One of the road guards pointed toward the middle of the caravan.
 
 He looked toward the front. The first wagon had a clear view of the road ahead. Better light. Better positioning. Much stronger entrance potential.
 
-“I was thinking front-left.”
+“he was thinking front-left.”
 
 “You're not the lead guard.”
 
@@ -65,7 +65,7 @@ The man looked at him.
 
 “For less than a minute.”
 
-“We're on schedule.”
+“they were on schedule.”
 
 “So are the animals.”
 
@@ -145,7 +145,7 @@ That was annoyingly reasonable. The road guard folded his arms.
 
 The guard looked at him as if expecting support. He had none. Tavian stood and looked toward the forest.
 
-“One crossing means very little. Two means slightly more. I've seen six like this in three days.”
+“One crossing means very little. Two means slightly more. He had seen six like this in three days.”
 
 The guard's expression changed only a little.
 
@@ -153,25 +153,25 @@ The guard's expression changed only a little.
 
 “Near it. Side approaches too.”
 
-“Our patrols haven't reported anything serious.”
+“their patrols haven't reported anything serious.”
 
-“I didn't say serious.”
+“he didn't say serious.”
 
 He picked up his polearm.
 
-“I said unusual.”
+“he said unusual.”
 
 The toll workers finished checking the last wagon. The guard waved everyone forward. Tavian started walking in the same direction as the caravan. Red looked at him.
 
-“You're joining us?”
+“You're joining them?”
 
 “No.”
 
-“You're walking beside us.”
+“You're walking beside them.”
 
-“My next survey point is the rest post.”
+“his next survey point is the rest post.”
 
-“So you're joining us temporarily.”
+“So you're joining them temporarily.”
 
 “No.”
 
@@ -205,17 +205,17 @@ Tavian glanced at the old marker.
 
 One of their road guards heard him.
 
-“Not our route.”
+“Not their route.”
 
 Tavian looked back toward the main road.
 
-“I know.”
+“he know.”
 
 “The caravan stays here.”
 
-“I know.”
+“he know.”
 
-“You planning to hold us again?”
+“You planning to hold them again?”
 
 “No.”
 
@@ -269,9 +269,9 @@ The road guard called from behind them.
 
 Tavian looked over.
 
-“We're leaving in five.”
+“they were leaving in five.”
 
-“I heard.”
+“he heard.”
 
 The guard nodded toward the maintained road.
 
@@ -339,7 +339,7 @@ Red looked at Tavian. Tavian pointed hard to his right.
 
 “Move.”
 
-“I've got the line.”
+“he had got the line.”
 
 “You're closing its escape.”
 
@@ -369,7 +369,7 @@ More importantly, he did not need to reveal another impossible object for a situ
 
 The predator lowered its head. Tavian said, very calmly, “Don't chase it.”
 
-“I wasn't planning to.”
+“he wasn't planning to.”
 
 He had absolutely been planning to. The animal darted left. He matched it. Not attacking. Just taking space.
 
@@ -439,11 +439,11 @@ Tavian looked at him.
 
 “Yes.”
 
-“Then we continue.”
+“Then they continue.”
 
 Tavian nodded once.
 
-“We should.”
+“they should.”
 
 The guard walked back toward the wagons. That was it. No accusation. No argument. He had a caravan to move.
 
@@ -465,13 +465,13 @@ He pointed to the clawed prints.
 
 “Why?”
 
-“I don't know.”
+“he don't know.”
 
 That was the first answer from him he liked. Not because it was useful. Because he did not pretend it was more than he knew. The caravan drivers started calling people back into position. He looked at Tavian.
 
 “You coming?”
 
-“My survey continues north.”
+“his survey continues north.”
 
 “That sounds like yes.”
 

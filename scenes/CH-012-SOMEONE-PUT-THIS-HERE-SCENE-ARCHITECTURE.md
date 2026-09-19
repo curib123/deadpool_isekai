@@ -4,7 +4,7 @@
 **Chapter:** CH-012 — Someone Put This Here  
 **Movement:** III — The Road Is Lying  
 **Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-012 MANUSCRIPT AUTHORIZED  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-012 MANUSCRIPT CANON  
 **Final Scene Count:** 6  
 **POV:** Red Jackal first person  
 **Primary Cast:** Red Jackal, Tavian Rook, Maelis Orra, Kellan Dorr; Captain Brynn Alder enters later  

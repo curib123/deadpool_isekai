@@ -24,6 +24,13 @@ Before long-term arc planning:
 - mysterious Earth explosion protected as origin mystery?
 - Play Logic defined under the unbounded revelation/restraint model with narrative counterplay?
 - Fourth-Wall Pause defined as a real time-stop effect for genuine audience address?
+- Red locked as reader-facing focal protagonist but not Veyr's registered chosen Hero?
+- native Hero, Hero Party, Main Villain, minor villains, and independent off-screen stories preserved?
+- false-main-character effect used without replacing the native Hero?
+- Red intrusion reroutes causality instead of deleting story sequence?
+- unexpected Red behavior earned from personality rather than arbitrary randomness?
+- no conventional Red moral/personality-development arc introduced?
+- no raw-power progression or hidden level ladder reintroduced?
 - independent native Hero/Hero Party/Main-Villain story framework defined?
 - enough unexplored destinations remain for a long series?
 

@@ -1,7 +1,7 @@
 # Chapter 1 — Wrong Forest, Wrong World
 
-**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
-**Word Count:** 2,311
+**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Word Count:** 2278,311
 
 The first thing he noticed was that he was breathing. The last thing he remembered was rain across a windshield, white headlights, and metal folding around him.
 
@@ -87,7 +87,7 @@ He did not know what it was. It knew exactly what he was.
 
 Lunch.
 
-“Listen,” he told it. “I am having a very complicated day.” The animal stared. He lifted his chin anyway.
+“Listen,” he told it. “he am having a very complicated day.” The animal stared. He lifted his chin anyway.
 
 It was meant to suggest experience. His actual record was mostly mosquitoes. The animal bared its teeth.
 

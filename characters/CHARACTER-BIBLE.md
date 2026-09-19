@@ -205,6 +205,116 @@ Red Jackal:
 
 He is still capable of moral failure, collateral damage, selfishness, and bad judgment.
 
+## 2.7A Anti-Villain Expression Check — LOCKED
+
+Red Jackal must not drift into **“a conventional good guy who only pretends not to be a hero.”**
+
+His anti-villain identity should be demonstrated through behavior across the story, not merely stated in character notes.
+
+### When He Helps Someone
+
+Ask first:
+
+**Why does Red Jackal personally want to help?**
+
+Valid motives include:
+- money;
+- information;
+- curiosity;
+- ego;
+- boredom;
+- personal debt;
+- possessiveness;
+- chosen attachment;
+- irritation at someone else claiming control;
+- wanting to prove something;
+- refusing to let another person decide who is expendable;
+- genuine care he does not want turned into moral ownership.
+
+A heroic outcome does not require a heroic motive.
+
+Do **not** secretly convert every selfish motive into hidden sainthood.
+
+Sometimes he really is helping because:
+- he wants to be paid;
+- he needs someone alive;
+- he wants answers;
+- he likes the person;
+- the situation interests him;
+- someone else's authority annoyed him;
+- he chose the problem and now considers it his.
+
+### When He Protects Someone
+
+Protection may coexist with:
+- intimidation;
+- possessive language;
+- threats;
+- manipulation;
+- refusal to explain himself;
+- openly selfish reasoning.
+
+He may effectively communicate:
+
+**“I am protecting you because I chose to. Do not mistake that for ownership of me or proof that I belong to your side.”**
+
+Protection must still be genuine.
+
+### When He Opposes an Institution
+
+Red Jackal does not need legal permission to oppose something he considers coercive, abusive, incompetent, or built on imposed sacrifice.
+
+He may:
+- trespass;
+- steal evidence;
+- refuse confiscation;
+- blackmail;
+- threaten;
+- sabotage harmful infrastructure;
+- ignore an order he never freely accepted.
+
+These choices must retain consequences. Authorities and competent opponents do not become stupid merely because Red Jackal rejects their legitimacy.
+
+### Curiosity Rule
+
+Curiosity is allowed to create real problems.
+
+Red Jackal may test, touch, provoke, follow, open, or interfere with something because he genuinely wants to know what will happen.
+
+If that creates a larger problem:
+- do not erase the consequence;
+- do not reveal that he secretly knew the outcome;
+- do not automatically make the mistake heroic;
+- require him to decide what responsibility he accepts afterward.
+
+### Cruelty Boundary
+
+Do not add cruelty merely to prove he is an anti-villain.
+
+Anti-villain behavior comes from:
+- self-authored morality;
+- selfish motives;
+- illegal or intimidating methods;
+- curiosity;
+- possessive attachment;
+- refusal of imposed roles;
+- willingness to accept morally uncomfortable choices.
+
+It does not require random murder, sadism, or contempt for ordinary people.
+
+### Arc-Level QA
+
+Across each major arc, verify that Red Jackal demonstrates multiple sides of this identity:
+
+1. at least one genuinely selfish or personal motive behind useful action;
+2. at least one choice a conventional lawful hero would reject;
+3. at least one protective act that does not read as clean heroic altruism;
+4. at least one curiosity/ego-driven mistake or complication where appropriate;
+5. responsibility for consequences without converting him into a saint;
+6. explicit resistance to being morally owned, categorized, or assigned a role.
+
+Not every chapter needs all six.
+
 ## 2.8 Personality
 
 ### Surface Traits

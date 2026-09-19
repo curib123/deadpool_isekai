@@ -1,7 +1,9 @@
 # Chapter 19 — Build the Wrong Road
 
 **Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
-**Word Count:** 2671,748  
+**Word Count:** 2,668  
+**Chapter QA:** `qa/CH-019-GATE-9-CHAPTER-QA.md`
+**Retcon QA:** `qa/CH-019-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
 Broken North looked worse when people arrived with tools. The last time he had come through, the road had mostly been an investigation problem. Bad ground. Old stone. Fresh Guild closure. One hidden lure. Enough wrong details to make competent people suspicious.
 
@@ -15,7 +17,7 @@ A lot of timber. There had been a moment, early on, when he had considered putti
 
 “Lift higher. You're dragging it.”
 
-That ended the performance. Practical labor remained resistant to reputation. They passed the old Guild closure just after first light.
+That ended the performance. Practical labor remained resistant to reputation. they passed the old Guild closure just after first light.
 
 The chain had been removed under Brynn's emergency authorization. The sign still hung from one post, warning everyone that the road beyond was unstable, dangerous, and closed. It was still correct.
 
@@ -39,9 +41,9 @@ One worker looked up from his axe.
 
 “It's brush.”
 
-“It is also the line they want large animals to keep using.”
+“It is also the line we want large animals to keep using.”
 
-“they could clear the middle faster.”
+“We could clear the middle faster.”
 
 “And teach them to spill around the sides when the road closes on them.”
 
@@ -65,13 +67,13 @@ Brynn came over while he was helping unload stone.
 
 He stopped. She looked at him.
 
-“they still need the caravan route standing tomorrow.”
+“We still need the caravan route standing tomorrow.”
 
 Right.
 
 Complicated things continued refusing to become simple when he wanted them to.
 
-“How much did they get?”
+“How much did we get?”
 
 “Enough to work. Not enough to work badly.”
 
@@ -85,7 +87,7 @@ Brynn looked at the load.
 
 “He sent you?”
 
-“No. He told them yesterday what the road would need. they can think without him.”
+“No. He told us yesterday what the road would need. We can think without him.”
 
 Also fair.
 
@@ -99,7 +101,7 @@ Just work. The drainage cut below the old watch point had collapsed inward years
 
 Kellan had marked it first. Water before weight. It was not dramatic.
 
-That was probably why it mattered. They dug. The mud came out in heavy clumps.
+That was probably why it mattered. they dug. The mud came out in heavy clumps.
 
 He carried baskets of stone away from the ditch until his shoulder started reminding him about the road impact from two days ago. The skin along his ribs had closed. The deeper ache had not.
 
@@ -117,19 +119,19 @@ He looked at the thick section buried under one side of the old drain.
 
 “Finally. A problem with a clear moral structure.”
 
-The worker stared at Red.
+He stared at him.
 
 “Pull.”
 
 He pulled. The root did not care about moral structure. Three people joined him.
 
-They got it out. Water that had been trapped above the blockage began moving through the opened channel. Not much.
+they got it out. Water that had been trapped above the blockage began moving through the opened channel. Not much.
 
 Enough.
 
 The road worker nearest the drainage knelt and watched the flow.
 
-“Keep widening that side. If it backs up under the fill, they lose the lip again.”
+“Keep widening that side. If it backs up under the fill, we lose the lip again.”
 
 Tavian crouched beside a line of fresh prints near the far edge. He saw him stop.
 
@@ -169,19 +171,19 @@ Then at the ground. Then at him.
 
 Tavian said, “Temporary only.” The foreman looked at him.
 
-“he know what temporary means.”
+“I know what temporary means.”
 
 His eyes moved to him.
 
 “Do you?”
 
-“he have recently received several lectures.”
+“I have recently received several lectures.”
 
 “Good.”
 
 He pointed beneath the cracked shelf.
 
-“he need support there. Not wider. Not higher. Hold that section while they seat the timber.”
+“I need support there. Not wider. Not higher. Hold that section while we seat the timber.”
 
 “Simple.”
 
@@ -217,7 +219,7 @@ The foreman crouched.
 
 “Hold.”
 
-“he was planning to.”
+“I was planning to.”
 
 “Then stop talking.”
 
@@ -249,7 +251,7 @@ Still held.
 
 “Release it.”
 
-Red looked at the foreman.
+He looked at him.
 
 “You sure?”
 
@@ -257,7 +259,7 @@ Red looked at the foreman.
 
 “That is a lot of trust in wood.”
 
-“It is more trust than he have in your face right now.”
+“It is more trust than I have in your face right now.”
 
 He dismissed the manifestation. The pale-grey brace broke apart and disappeared. The timber remained.
 
@@ -275,7 +277,7 @@ That felt better than he expected. He sat down for exactly long enough to drink 
 
 “Eat.”
 
-“he did.”
+“I did.”
 
 “When?”
 
@@ -287,15 +289,15 @@ A section of the old roadbed had been eaten out from one side until the remainin
 
 The foreman looked at the gap.
 
-“they can fill from both sides if they get planks across.”
+“We can fill from both sides if we get planks across.”
 
-A worker pointed at Red.
+A worker pointed at him.
 
 “He can make the temporary bit.”
 
-Red looked at the worker.
+He looked at him.
 
-“Good to know he have become equipment.”
+“Good to know I have become equipment.”
 
 “Equipment gets maintained.”
 
@@ -425,7 +427,7 @@ The second appeared farther left. Tavian shouted.
 
 Brynn repeated it. The militia gave ground instead of closing. The hounds wanted the prey.
 
-They wanted them to keep wanting the prey. One worker tripped over a pile of cut roots. Another went back for him.
+they wanted them to keep wanting the prey. One worker tripped over a pile of cut roots. Another went back for him.
 
 A third ridge-hound came in from the side.
 
@@ -607,6 +609,6 @@ He looked toward Greywake.
 
 Of course.
 
-They had built the wrong road.
+they had built the wrong road.
 
 Now they had to make the migration choose it.

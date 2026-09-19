@@ -1,7 +1,8 @@
 # Chapter 10 — The Ledger Doesn't Balance
 
 **Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
-**Word Count:** 3202,201  
+**Word Count:** 3,201  
+**Chapter QA:** `qa/CH-010-GATE-9-CHAPTER-QA.md`
 
 Maelis had three stacks of paper on the table when he arrived. That should have warned him. The Ledger room looked almost exactly as he remembered it: plain walls, narrow windows, one long table, too many documents, and the same quiet confidence that anything confusing could eventually be defeated by writing it down correctly. A charged Wayfarer Tongue Token hung from the stand near Maelis's elbow. She did not look up immediately.
 
@@ -37,7 +38,7 @@ He looked at her.
 
 “Closer to which road marker?”
 
-“he don't read the markers.”
+“I don't read the markers.”
 
 “You can describe them.”
 
@@ -61,7 +62,7 @@ That was unfairly practical. He did. Maelis wrote it down. Then she wanted the d
 
 “No.”
 
-She wrote again. This was what happened when a professional got access to a dramatic mystery. Maelis removed the drama and kept the useful nouns.
+She wrote again. This was what happened when you gave a professional access to your dramatic mystery. They removed all the dramatic parts and kept the useful nouns.
 
 “What about the live crossing?” she asked.
 
@@ -71,13 +72,13 @@ He knew where this was going.
 
 “And?”
 
-“he adjusted the experiment.”
+“I adjusted the experiment.”
 
 Her pen stopped.
 
 “Meaning?”
 
-“he stepped into their sight line.”
+“I stepped into their sight line.”
 
 “After Tavian asked you not to?”
 
@@ -87,7 +88,7 @@ Her pen stopped.
 
 He considered improving the answer. Maelis looked at him. He decided against it.
 
-“he wanted to see what they would do.”
+“I wanted to see what they would do.”
 
 “Did your interference change their movement?”
 
@@ -145,7 +146,7 @@ Her eyes lifted. He noticed the small pause.
 
 “You're learning.”
 
-“he had been accused of that recently.”
+“I've been accused of that recently.”
 
 She ignored the comment and pulled one of the existing folders toward them. The top page was covered in writing he still could not read. Several colored marks ran down one side. Route symbols he recognized sat beside some of the entries. She pointed to one shaped like a forked road.
 
@@ -157,7 +158,7 @@ She ignored the comment and pulled one of the existing folders toward them. The 
 
 He leaned closer.
 
-“Where am he?”
+“Where am I?”
 
 “You aren't.”
 
@@ -173,7 +174,7 @@ She moved her finger lower.
 
 “It also records assistance from irregular labor.”
 
-“That sounds like him.”
+“That sounds like me.”
 
 “It is likely you.”
 
@@ -183,19 +184,19 @@ She moved her finger lower.
 
 He looked at the page. The attack existed. The injured worker existed. The route existed. Apparently he existed as a grammatical inconvenience.
 
-“Does it say he was injured?”
+“Does it say I was injured?”
 
 “No.”
 
-“he was very injured.”
+“I was very injured.”
 
-“he know.”
+“I know.”
 
 “Sela was extremely committed to that fact.”
 
 “The Guild report does not carry a registered injury claim for you.”
 
-“Because he was not registered.”
+“Because I'm not registered.”
 
 “Yes.”
 
@@ -205,11 +206,11 @@ He looked at the route page again. Nothing on it was necessarily false. That was
 
 He stared at the stack.
 
-“he have a record?”
+“I have a record?”
 
 “You have several.”
 
-“That feels dishonest. He was promised off the books.”
+“That feels dishonest. I was promised off the books.”
 
 “You were not promised that.”
 
@@ -231,11 +232,11 @@ Another.
 
 He looked across the table.
 
-“So Greywake can record his money, his food, where he worked, and whether he finished.”
+“So Greywake can record my money, my food, where I worked, and whether I finished.”
 
 “Yes.”
 
-“But not him.”
+“But not me.”
 
 “It can record the name you use.”
 
@@ -261,7 +262,7 @@ He waited.
 
 He stopped smiling. There were several ways to describe that. None improved with style.
 
-“So if he vanish, the silver still balances.”
+“So if I vanish, the silver still balances.”
 
 “Yes.”
 
@@ -273,7 +274,7 @@ He stopped smiling. There were several ways to describe that. None improved with
 
 “Yes.”
 
-“And he don't.”
+“And I don't.”
 
 Maelis looked at the page rather than him.
 
@@ -281,9 +282,9 @@ Maelis looked at the page rather than him.
 
 That was worse. He had liked being hard to classify when it meant gates failed, tests broke, and people with official stamps had to invent temporary rules around him. Being difficult to own had advantages. Being difficult to count was apparently the same feature viewed from the other side. He tapped the payment sheet.
 
-“Hesk could pay him, send him somewhere, lose him, and still have clean books.”
+“Hesk could pay me, send me somewhere, lose me, and still have clean books.”
 
-“Clean is not the word he would use.”
+“Clean is not the word I would use.”
 
 “Balanced?”
 
@@ -293,9 +294,9 @@ That was worse. He had liked being hard to classify when it meant gates failed, 
 
 Maelis gathered the pages.
 
-“This is why he asked you here.”
+“This is why I asked you here.”
 
-“Because he was administratively disposable.”
+“Because I'm administratively disposable.”
 
 “Because your case makes the separation obvious.”
 
@@ -313,11 +314,11 @@ Somehow worse. Maelis opened another folder.
 
 Several route symbols repeated down the page. Some matched outer roads. Others he did not recognize.
 
-“What am he looking at?”
+“What am I looking at?”
 
 “People who appear in one record system and not another.”
 
-“Like him.”
+“Like me.”
 
 “Similar. Not identical.”
 
@@ -341,11 +342,11 @@ He looked from one to the other.
 
 “Why?”
 
-“That is what he am trying to establish.”
+“That is what I am trying to establish.”
 
 She stood.
 
-“they need the Guild's internal filing structure.”
+“We need the Guild's internal filing structure.”
 
 He looked at the stacks.
 
@@ -355,23 +356,23 @@ He looked at the stacks.
 
 He sighed. There were monsters in the forest with teeth the length of his fingers. Accounting was beginning to feel less honest. The Road Guild records office smelled like old paper, lamp oil, and damp wool. Jessa Vale was behind a narrow counter sorting route packets into wooden slots when they entered. She looked up at Maelis, then at him. Her expression changed slightly. Not surprise. Concern. That was interesting. The public hall beyond the records office remained busy. Workers crossed the caravan yard carrying rope, axle parts, food crates, and sealed packets. Wheels rattled over the packed ground outside. Normal work. Normal day. Maelis set a written request on the counter.
 
-“he need the corresponding route-loss categories for these entries.”
+“I need the corresponding route-loss categories for these entries.”
 
 Jessa took the page. Her eyes moved down it once. Then again.
 
 “You already have the casualty summaries.”
 
-“he have the certified casualty summaries.”
+“I have the certified casualty summaries.”
 
 Jessa's fingers tightened slightly on the paper.
 
 “Yes.”
 
-“he also have route incidents with missing completion records, irregular labor expenses, and active certifications that do not reconcile with those totals.”
+“I also have route incidents with missing completion records, irregular labor expenses, and active certifications that do not reconcile with those totals.”
 
 Jessa looked at him. He was becoming accustomed to being used as evidence. It was not his favorite reputation. Maelis continued.
 
-“he need to understand where those cases go.”
+“I need to understand where those cases go.”
 
 Jessa lowered her voice.
 
@@ -379,9 +380,9 @@ Jessa lowered her voice.
 
 There it was. Maelis did not react visibly.
 
-“Show him.”
+“Show me.”
 
-Jessa hesitated. The hesitation lasted long enough to have weight. Then she turned and walked toward the back shelving. They followed. She pulled down a narrow ledger bound in dark cloth, then another thinner packet of route reports.
+Jessa hesitated. The hesitation lasted long enough to have weight. Then she turned and walked toward the back shelving. they followed. She pulled down a narrow ledger bound in dark cloth, then another thinner packet of route reports.
 
 “This one is unresolved route loss.”
 
@@ -433,11 +434,11 @@ Jessa's eyes moved to him again. He did not speak. She had to decide whether thi
 
 Jessa did not answer immediately. That answer was apparently more expensive.
 
-“he need the records,” Maelis said, not unkindly.
+“I need the records,” Maelis said, not unkindly.
 
 Jessa looked at the ledger in her hands.
 
-“he had copied corrections where an incident moved from casualty to unresolved because identity could not be confirmed.”
+“I've copied corrections where an incident moved from casualty to unresolved because identity could not be confirmed.”
 
 Maelis went still.
 
@@ -449,7 +450,7 @@ Maelis went still.
 
 Jessa's face closed. Not completely. Enough.
 
-“he process forms. He don't approve the final categories.”
+“I process forms. I don't approve the final categories.”
 
 Important distinction. Also not an answer. Before Maelis could ask again, a voice came from the doorway.
 
@@ -479,11 +480,11 @@ Maelis handed him the written request. He read it.
 
 “These include restricted worker files.”
 
-“They include route-loss records relevant to his audit.”
+“They include route-loss records relevant to my audit.”
 
 “Some contain private identity and liability details.”
 
-“he can work from certified copies.”
+“I can work from certified copies.”
 
 “That can be arranged.”
 
@@ -491,11 +492,11 @@ He handed the request back. Calm. Reasonable. Annoying. Hesk looked toward the d
 
 “Original unresolved-loss books remain in Guild custody.”
 
-“he am not removing them,” Maelis said.
+“I am not removing them,” Maelis said.
 
 “You may inspect them with a Guild clerk present.”
 
-“he already have one.”
+“I already have one.”
 
 His eyes moved to Jessa.
 
@@ -507,7 +508,7 @@ There it was. Nothing threatening in the words. Jessa still went pale. Hesk cont
 
 Maelis's voice stayed level.
 
-“he am asking her procedural questions about categories she personally processes.”
+“I am asking her procedural questions about categories she personally processes.”
 
 “She can answer factual questions during assigned audit time.”
 
@@ -521,9 +522,9 @@ Jessa lowered her eyes.
 
 “Yes, Roadmaster.”
 
-Her hand stayed on the ledger. “he need this job. his younger siblings depend on what he earn here.” Hesk's expression did not change.
+Her hand stayed on the ledger. “I need this job. My younger siblings depend on what I earn here.” Hesk's expression did not change.
 
-“he know.”
+“I know.”
 
 She reached for the unresolved ledger. He put his hand on it first. Not hard. Just enough. Hesk looked at his hand. Then at him.
 
@@ -543,11 +544,11 @@ That changed the room. Only a little. Enough. Hesk's gaze sharpened.
 
 “Jessa works for the Guild.”
 
-“he know. That's why she's useful.”
+“I know. That's why she's useful.”
 
 Jessa looked at him. He continued because pretending this was noble would have been insulting to everyone present.
 
-“She knows where your categories go. He want the answer. Maelis wants the answer. You want her back at a desk.”
+“She knows where your categories go. I want the answer. Maelis wants the answer. You want her back at a desk.”
 
 “That is called employment.”
 
@@ -557,7 +558,7 @@ Maelis spoke carefully.
 
 “Red Jackal.”
 
-“he am not making her talk.”
+“I am not making her talk.”
 
 He looked at Jessa.
 
@@ -565,23 +566,23 @@ He looked at Jessa.
 
 Then he looked back at Hesk.
 
-“If you want to decide for her, that's the part he object to.”
+“If you want to decide for her, that's the part I object to.”
 
 Hesk's expression finally changed. Barely.
 
 “You're here because this Guild gave you work when nobody could process you.”
 
-“he remember.”
+“I remember.”
 
 “Then remember the arrangement.”
 
 He smiled. That was a mistake. Not because it was funny. Because he felt the old irritation settle into place. The kind that made roles sound like cages.
 
-“he remember it very well.”
+“I remember it very well.”
 
 Irregular labor. No normal protection. No appeal. Useful when needed. Easy to separate from the person attached.
 
-“he took bad work because it paid,” he said. “That didn't make him yours.”
+“I took bad work because it paid,” he said. “That didn't make me yours.”
 
 The room went quiet. No joke followed. He did not want one. Hesk looked at him for another second, then at Jessa.
 
@@ -601,17 +602,17 @@ Hesk turned to leave, then stopped.
 
 Maelis did not flinch.
 
-“That is why he am keeping the categories separate.”
+“That is why I am keeping the categories separate.”
 
 “Good.”
 
-Hesk looked at Red once more. The look was different now. Not fear. Not yet. Calculation. Then Hesk left. Jessa kept staring at the doorway. Red removed his hand from the ledger.
+He looked at him once more. The look was different now. Not fear. Not yet. Calculation. Then he left. Jessa kept staring at the doorway. He removed his hand from the ledger.
 
 “You can go,” he said.
 
 She looked at him.
 
-“he know.”
+“I know.”
 
 Good. That mattered. Maelis waited. So did he. Jessa breathed out slowly. Then she opened the dark ledger again.
 
@@ -649,7 +650,7 @@ The word landed harder than he expected. Maelis's expression changed. Not shock.
 
 Jessa closed the ledger.
 
-“he said he would explain the category.”
+“I said I would explain the category.”
 
 Boundary. Maelis recognized it.
 
@@ -673,7 +674,7 @@ Third stack. He looked at the table.
 
 “It is already interesting.”
 
-“That is what worries him.”
+“That is what worries me.”
 
 Maelis ignored him. She compared one reporting period. Then another. Then a third. Each time she copied totals onto a fresh sheet. He could not read the numbers. He could read her face. That was enough.
 
@@ -715,7 +716,7 @@ That was no longer a good word. He looked at the stacks.
 
 “Could be more people using the outer routes.”
 
-“he checked assignment volume.”
+“I checked assignment volume.”
 
 “Bad weather?”
 
@@ -733,7 +734,7 @@ He thought about Tavian in the forest. Food west. Water west. Tracks north. Diff
 
 “It is.”
 
-“Then what are they looking at?”
+“Then what are we looking at?”
 
 “A reporting structure where the main road can become safer on paper while losses rise somewhere else without entering the same headline count.”
 
@@ -745,13 +746,13 @@ Practice.
 
 Maelis was quiet for a long moment.
 
-“he don't know.”
+“I don't know.”
 
 That answer again. Different person. Same discipline.
 
 “But?”
 
-“But he no longer think random clerical error is a sufficient explanation.”
+“But I no longer think random clerical error is a sufficient explanation.”
 
 There it was. Not proof. Not a confession. Not the shape of the thing causing animals to move. Just a pattern. Maelis turned the final sheet toward herself and drew two lines across separate columns. One for the road Greywake protected best. One for the places beyond it. When one improved, the other worsened. Not once. Repeatedly. She looked at the pages, then at him.
 

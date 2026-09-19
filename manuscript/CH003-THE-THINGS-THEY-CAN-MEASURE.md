@@ -1,7 +1,8 @@
 # Chapter 3 — The Things They Can Measure
 
 **Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
-**Word Count:** 2432,443  
+**Word Count:** 2,426  
+**Chapter QA:** `qa/CH-003-GATE-9-CHAPTER-QA.md`
 
 By early afternoon, he had learned two useful things about Greywake. First, the settlement had food. Second, having no recognized identity made acquiring that food more complicated than it needed to be.
 
@@ -17,39 +18,39 @@ A Greywake clerk sat at the far end of the table with a stack of forms. He was n
 
 Maelis looked up as he entered. “You came back.”
 
-“he was told to.”
+“I was told to.”
 
 “That is usually how scheduled follow-ups work.”
 
 He closed the door behind him. Fair enough.
 
-She gestured to the chair across from her. “Before they begin, he want to make the procedure clear.”
+She gestured to the chair across from her. “Before we begin, I want to make the procedure clear.”
 
-“That sounds reassuring.” he sat.
+“That sounds reassuring.” He sat.
 
 “It is meant to be.”
 
 That was less reassuring. Maelis rested one hand on a closed notebook. “This morning's intake established that two separate authorized System interfaces could not produce a valid identity record for you.”
 
-“he was aware.”
+“I'm aware.”
 
 “Today is not another attempt to guess what you are.”
 
 That caught his attention. “What is it, then?”
 
-“they separate what can be observed from what can be inferred.” She tapped the table once. “Physical facts. System-derived facts. Speculation.”
+“We separate what can be observed from what can be inferred.” She tapped the table once. “Physical facts. System-derived facts. Speculation.”
 
 He looked at the instruments arranged in front of her. “So you're measuring everything except the interesting part.”
 
-“he am measuring the parts that produce evidence.”
+“I am measuring the parts that produce evidence.”
 
 That sounded like something the Ledger probably printed above its doors. Maelis continued before he could ask.
 
-“If a result is normal, he record it as normal. If it is abnormal, he record the abnormality. He do not decide what a result means before he have it.”
+“If a result is normal, I record it as normal. If it is abnormal, I record the abnormality. I do not decide what a result means before I have it.”
 
 “And if none of this explains anything?”
 
-“Then they will know more precisely what they do not know.”
+“Then we will know more precisely what we do not know.”
 
 He considered that. It was annoyingly reasonable.
 
@@ -59,7 +60,7 @@ Certified Identity Slate.
 
 Not his favorite object in the room.
 
-Maelis nodded toward the clerk. “Before using it on you, they establish a control.”
+Maelis nodded toward the clerk. “Before using it on you, we establish a control.”
 
 The clerk placed his hand above the slate. Its surface clouded, brightened, and filled with symbols he still could not read.
 
@@ -75,7 +76,7 @@ That was all she read aloud. The clerk removed his hand, and the slate dimmed.
 
 “Comforting.”
 
-“For him, yes.”
+“For me, yes.”
 
 She made a note. Apparently they were starting well.
 
@@ -83,9 +84,9 @@ Maelis did not use the slate on him yet. Instead, she stood and moved to the fir
 
 “Calibrated Balance Plate.”
 
-He looked down at it. “You need a magical device to confirm he have weight?”
+He looked down at it. “You need a magical device to confirm I have weight?”
 
-“they need a calibrated device to establish that your physical measurements can be recorded independently of your System identity.”
+“We need a calibrated device to establish that your physical measurements can be recorded independently of your System identity.”
 
 He stepped onto the plate. A narrow indicator arm moved along the side of the frame, and the clerk recorded the result.
 
@@ -97,7 +98,7 @@ He stepped off, then back on. The indicator stopped at the same place.
 
 No number was read aloud. He was fine with that. He had enough problems without committing a body-weight figure to history.
 
-“So gravity recognizes him.”
+“So gravity recognizes me.”
 
 “The plate measures mass.”
 
@@ -113,7 +114,7 @@ Maelis placed it near the inside of his wrist. A faint line appeared across its 
 
 “Living-body range,” she said.
 
-“So he was warm.”
+“So I'm warm.”
 
 “Yes.”
 
@@ -169,13 +170,13 @@ He removed the wooden token from inside his coat and pressed it to the plate. A 
 
 She had him do the same with the edge of his coat. Same response.
 
-“So far,” he said, “they had established that he have weight, body heat, injuries, clothes, and a piece of wood.”
+“So far,” he said, “we've established that I have weight, body heat, injuries, clothes, and a piece of wood.”
 
 “Yes.”
 
 He waited. She did too.
 
-“That sounded more useful before he listed it.”
+“That sounded more useful before I listed it.”
 
 “It is still useful.”
 
@@ -183,13 +184,13 @@ Almost encouraging.
 
 Maelis returned to her chair and reviewed the page. “Your physical presence is consistently measurable through instruments that do not require a System identity.”
 
-He looked at the collection of devices. “So he was not an illusion.”
+He looked at the collection of devices. “So I'm not an illusion.”
 
-“he had not concluded that you were.”
+“I had not concluded that you were.”
 
 “You considered it.”
 
-“he considered several possibilities.”
+“I considered several possibilities.”
 
 He decided not to ask for the full list. There were limits to how much professional suspicion he needed in one afternoon.
 
@@ -215,7 +216,7 @@ He had not told them about it. He was not planning to start now.
 
 Maelis placed the prism between them. “This does not measure your MP.”
 
-“Because he apparently don't have a readable MP.”
+“Because I apparently don't have a readable MP.”
 
 “Because the System cannot produce a valid MP field for you.”
 
@@ -257,9 +258,9 @@ He waited for the rest.
 
 There was no rest.
 
-“So he have magic.”
+“So I have magic.”
 
-“That is not what he said.”
+“That is not what I said.”
 
 Of course not.
 
@@ -267,7 +268,7 @@ Of course not.
 
 “That the pulse interacted with you.”
 
-She reset the prism. “they repeat once.”
+She reset the prism. “We repeat once.”
 
 The second test produced the same response. The lines gathered, shifted, and separated again.
 
@@ -281,11 +282,11 @@ The clerk recorded it.
 
 He leaned back. There was something impressive about being denied flattering interpretations with this much consistency.
 
-“So mana can touch him.”
+“So mana can touch me.”
 
 “Yes.”
 
-“But the System still can't give him an MP value.”
+“But the System still can't give me an MP value.”
 
 “Correct.”
 
@@ -299,7 +300,7 @@ That did not explain what had happened in the forest. It only removed one simple
 
 He was collecting those.
 
-Maelis returned the prism to its case. “Now they repeat the identity query.”
+Maelis returned the prism to its case. “Now we repeat the identity query.”
 
 He looked at the slate.
 
@@ -363,7 +364,7 @@ His identity was the problem.
 
 He lowered his hand. “So the gate wasn't broken.”
 
-“Not based on the evidence they have now.”
+“Not based on the evidence we have now.”
 
 “And the first slate?”
 
@@ -385,7 +386,7 @@ He watched her for a moment. “Do you have a theory?”
 
 “Yes.”
 
-That surprised him. “You're going to tell him?”
+That surprised him. “You're going to tell me?”
 
 “No.”
 
@@ -393,7 +394,7 @@ That surprised him less.
 
 “Why?”
 
-“Because he have several theories, and none are supported strongly enough to present as fact.”
+“Because I have several theories, and none are supported strongly enough to present as fact.”
 
 He stared at her. “You do this professionally.”
 
@@ -401,21 +402,21 @@ He stared at her. “You do this professionally.”
 
 He could see why the Ledger hired her. It probably saved time.
 
-Maelis closed the slate's cover. “What he can say is that a simple local device failure is no longer sufficient.”
+Maelis closed the slate's cover. “What I can say is that a simple local device failure is no longer sufficient.”
 
 That was the closest thing to an answer he had received.
 
 It did not improve his mood.
 
-“So he was physically real.”
+“So I'm physically real.”
 
 “Yes.”
 
-“Mana interacts with him.”
+“Mana interacts with me.”
 
 “Yes.”
 
-“But the System can't tell you his name, race, class, level, HP, MP, progression, World Registry, or Soul Registry.”
+“But the System can't tell you my name, race, class, level, HP, MP, progression, World Registry, or Soul Registry.”
 
 “Yes.”
 
@@ -439,7 +440,7 @@ Of the problem.
 
 “Jessa Vale,” Maelis said. “Road Guild records.”
 
-Jessa shifted the forms in her arms. “he have the route certification copies you requested.”
+Jessa shifted the forms in her arms. “I have the route certification copies you requested.”
 
 “For the audit?”
 
@@ -523,7 +524,7 @@ Maelis reopened her notebook. “Your follow-up is complete for now.”
 
 “Yes.”
 
-He stood. “Any change to his restrictions?”
+He stood. “Any change to my restrictions?”
 
 “No.”
 
@@ -533,7 +534,7 @@ He had spent the afternoon proving that he was physically real.
 
 Apparently that was not the same thing as being employable.
 
-He looked at Jessa. “Tell Hesk he would hear him out.”
+He looked at Jessa. “Tell Hesk I'll hear him out.”
 
 She nodded.
 

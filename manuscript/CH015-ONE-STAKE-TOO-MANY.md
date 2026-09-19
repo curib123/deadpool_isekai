@@ -585,7 +585,7 @@ Perfect.
 
 Terrible.
 
-His.
+The choice was his.
 
 He crossed the evidence line. The lure sat inside the recess. Dark stake.
 

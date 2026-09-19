@@ -19,9 +19,9 @@ Mystery Foundation: **PASS**
 Destination Inventory: **PASS**  
 Volume 1 Architecture: **PASS**  
 Chapter Roadmap: **PASS — 26 chapters**  
-Volume 1 Canon Revalidation: **PASS — GATE 10 / CH-001 THROUGH CH-026 VERIFIED**  
+Volume 1 Canon Revalidation: **PRE-RETCON PASS — NEW GATE 10 REQUIRED AFTER POWER RETCON REVISIONS**  
 Publish Version QA Standard: **ACTIVE — GATE 11**  
-Volume 1 Publish Version QA: **PASS — GATE 11 / 26 OF 26 CURRENT CANON COPIES PUBLISH-READY**  
+Volume 1 Publish Version QA: **STALE AFTER RETCON — PREVIOUS 26-COPY PASS PRESERVED / REVALIDATION REQUIRED**  
 Volume 1 Pacing Revision v2: **PAUSED — RETAIN PACING GOALS / POWER-BALANCE ASSUMPTIONS SUPERSEDED**  
 Red Jackal Overpowered Retcon: **ACTIVE — NO POWER PROGRESSION / UNBOUNDED PLAY LOGIC / REVELATION MODEL**  
 Volume 2 Destination Selection: **PASS — GATE 5 / DEST-002 MERROWGATE**  

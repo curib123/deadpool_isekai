@@ -18,7 +18,7 @@ His pack felt heavier than when he left Greywake even though he had eaten some o
 
 The wound itself was closed. Mostly. His body had done what it always did—pulled itself back toward functional with no concern for how unpleasant the process felt. The bruising had faded, but the stiffness had not. Long stretches sitting on a cart made his leg complain when he stood; long stretches walking made it complain that sitting had been an excellent idea.
 
-Regeneration was a miracle if you ignored the customer experience.
+Regeneration was a miracle if Red ignored how unpleasant it felt.
 
 He adjusted the strap across his shoulder and joined the line moving toward the river landing. This one was larger than the places he had passed before. Not Greywake large. Greywake had been a settlement trying very hard to be important to the roads around it. This place existed because roads, boats, cargo, and people had already decided it was useful.
 

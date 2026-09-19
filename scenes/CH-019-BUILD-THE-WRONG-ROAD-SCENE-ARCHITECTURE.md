@@ -4,7 +4,7 @@
 **Chapter:** CH-019 — Build the Wrong Road  
 **Movement:** V — No Acceptable Loss  
 **Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-019 MANUSCRIPT AUTHORIZED  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-019 MANUSCRIPT CANON  
 **Final Scene Count:** 6  
 **POV:** Red Jackal first person  
 **Primary Cast:** Red Jackal, Tavian Rook, Captain Brynn Alder, Greywake militia/work crews, outer-homestead workers  

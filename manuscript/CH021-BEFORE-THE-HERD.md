@@ -125,7 +125,7 @@ Right.
 
 The point was not whether he could make the repair faster. The point was that this cart needed something the driver could still trust after he walked away.
 
-they used the jack. Two people held the wheel. He worked a lever beneath the frame while another worker fed rope around the split wood. A farmer brought a short length of spare timber from the next cart.
+They used the jack. Two people held the wheel. He worked a lever beneath the frame while another worker fed rope around the split wood. A farmer brought a short length of spare timber from the next cart.
 
 “Higher.”
 
@@ -221,9 +221,9 @@ Sela looked at him. Kellan stopped. He took the rear handles.
 
 “Shut up.”
 
-they lifted. He hissed through his teeth despite trying not to. That killed the humor.
+They lifted. He hissed through his teeth despite trying not to. That killed the humor.
 
-they moved him toward the cart slowly. Before they loaded him, Brynn’s runner arrived with a list of households not yet confirmed clear. Kellan held out a hand.
+They moved him toward the cart slowly. Before they loaded him, Brynn’s runner arrived with a list of households not yet confirmed clear. Kellan held out a hand.
 
 “Give me that.”
 
@@ -255,7 +255,7 @@ Sela tightened one of the transport straps.
 
 “It is medicine.”
 
-they got him onto the cart with two other non-mobile patients. Treatment supplies went beneath the benches. Everything else waited.
+They got him onto the cart with two other non-mobile patients. Treatment supplies went beneath the benches. Everything else waited.
 
 Sela caught his wrist before he stepped away. She watched his hand.
 
@@ -373,7 +373,7 @@ He lifted the box.
 
 “Developing upper-body resentment.”
 
-That earned him exactly no reaction. Good. they were all tired.
+That earned him exactly no reaction. Good. They were all tired.
 
 Tavian gathered the lure teams around the route board before they departed.
 
@@ -459,7 +459,7 @@ It took longer than making something impossible.
 
 It also left three workers knowing exactly how the route had been cleared.
 
-they dragged the branch free.
+They dragged the branch free.
 
 The worker looked at the axe. Then at him.
 
@@ -541,7 +541,7 @@ Then gone. Tavian looked past him toward the road.
 
 “We have done what we can before movement begins.”
 
-Nobody said it was enough. they went to the lantern line. Greywake’s outer lanterns had always looked too small for the dark around them.
+Nobody said it was enough. They went to the lantern line. Greywake’s outer lanterns had always looked too small for the dark around them.
 
 Now they looked smaller. The road beyond the last posts descended through open ground before bending toward the tree line. Militia watched from marked positions. Runners waited beside fresh horses. Farther behind them, the last carts continued toward the protected routes.
 
@@ -575,7 +575,7 @@ No clock. No perfect countdown. Just the road, the trees, and whatever was comin
 
 Hesk was still somewhere out there. Maybe already near the vulnerable lure housing. Maybe moving somewhere else.
 
-Maybe watching Greywake prepare a plan he still believed should fail. they could not stop the settlement to find out. He flexed his fingers.
+Maybe watching Greywake prepare a plan he still believed should fail. They could not stop the settlement to find out. He flexed his fingers.
 
 The ability behind his thoughts was still there.
 

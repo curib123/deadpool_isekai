@@ -4,7 +4,7 @@
 **Chapter:** CH-014 — Necessary Losses  
 **Movement:** IV — Necessary Sacrifices  
 **Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-014 MANUSCRIPT AUTHORIZED  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-014 MANUSCRIPT CANON  
 **Final Scene Count:** 6  
 **POV:** Red Jackal first person  
 **Primary Cast:** Red Jackal, Rovan Hesk, Maelis Orra, Tavian Rook, Captain Brynn Alder, Kellan Dorr, council representatives  

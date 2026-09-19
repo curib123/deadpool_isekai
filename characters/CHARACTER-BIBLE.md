@@ -1841,7 +1841,7 @@ Initially sees Red as commercially useful irregular labor whose absent identity 
 Enough instability becomes undeniable, Red or another irregular outsider absorbs blame, emergency authority is invoked, and the Unified Harbor Security Charter gives Venn practical control over movement and security.
 
 ### Knowledge Boundary
-Cassian does not know why Red is UNDEFINED and possesses no protected Savael, Exterior Needle, Great Design, Play Logic-origin, Exterior Echo, or technical Fate knowledge.
+Cassian does not know why Red is UNDEFINED and possesses no protected Savael, Exterior Needle historical truth, Great Design, Play Logic-origin, Fourth-Wall Pause metaphysics, or technical Fate knowledge.
 
 ### Return Status
 Not automatically recurring. Later use requires explicit post-Merrowgate justification.

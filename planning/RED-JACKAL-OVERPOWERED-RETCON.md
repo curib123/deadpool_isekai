@@ -1,7 +1,7 @@
 # Red Jackal Overpowered Character / Power Retcon
 
 **Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
-**Status:** AUTHORIAL RETCON — ACTIVE / FOUNDATION UPDATED  
+**Status:** AUTHORIAL RETCON — IMPLEMENTED / VOLUME 1 GATE 10 + GATE 11 COMPLETE  
 **Applies To:** All volumes, chapters, scene plans, QA, power rules, and future production  
 **Priority:** Overrides older Stage I / Stage II / mastery-ceiling language wherever conflict exists.
 
@@ -226,17 +226,19 @@ Older chapter events may remain canon if they can be reinterpreted as voluntary 
 
 If not, that chapter requires Gate 9 retcon revision.
 
-# 14. Production Priority
+# 14. Production Completion
 
-Before continuing new Arc 2 chapter production:
+The Volume 1 implementation cycle is complete:
 
-1. synchronize Volume 1/2 architecture with this retcon;
-2. audit all canon manuscripts for explicit power-ceiling contradictions;
-3. revise the affected chapters;
-4. rerun Gate 9 where prose meaning changes;
-5. rerun Volume 1 Gate 10;
-6. regenerate/rerun Gate 11 for changed publication copies;
-7. then resume CH-028.
+1. Volume 1/2 architecture synchronized — COMPLETE;
+2. all Volume 1 canon manuscripts audited — COMPLETE;
+3. 13 affected chapters revised — COMPLETE;
+4. individual retcon Gate 9 revalidation — 13/13 PASS;
+5. Volume 1 Gate 10 — PASS;
+6. changed publication copies regenerated and Gate 11 revalidated — 13/13 PASS;
+7. aggregate Volume 1 Gate 11 — PASS / 26 of 26 PUBLISH-READY.
+
+**Active next step:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.
 
 # 15. Core One-Sentence Rule
 

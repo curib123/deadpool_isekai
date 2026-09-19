@@ -215,7 +215,7 @@ Nobody argued. That told him how serious the situation was. He looked at the wag
 
 A barrier there would buy time.
 
-Something between them and them.
+Something between the workers and the pack.
 
 Clear purpose.
 

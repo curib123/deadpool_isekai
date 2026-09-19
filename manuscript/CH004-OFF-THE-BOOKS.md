@@ -80,7 +80,7 @@ His gaze moved once over his clothes, his boots, his hands, then returned to his
 
 “You survived the road anyway.”
 
-He waited. That sounded like the part he cared about. Hesk handed the rolled map to a nearby clerk. “Come with me.” Confidence is easier when nobody has asked your price yet.
+He waited. That sounded like the part he cared about. Hesk handed the rolled map to a nearby clerk. “Come with me.” Confidence was easier before anyone asked his price.
 
 He followed. His office was not much more impressive than the public hall. A large working table filled most of the room. Route maps covered one wall. Wooden markers sat in shallow trays beside wax tablets, sealed packets, and two cups that looked like someone had forgotten them hours ago.
 

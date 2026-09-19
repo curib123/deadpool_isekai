@@ -1,7 +1,8 @@
 # Chapter 22 — First Wave
 
 **Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
-**Word Count:** 2989,004
+**Word Count:** 2,989
+**Retcon QA:** `qa/CH-022-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
 The first mass did not charge them. It came out of the trees in layers.
 
@@ -13,7 +14,7 @@ A wall would have been stupid. A beautiful wall would still have been stupid. Hi
 
 “Not yet,” Tavian said.
 
-Red looked at him. Tavian did not look back. His eyes stayed on the lead animals.
+He looked at him. He was not looking at him. His eyes stayed on the lead animals.
 
 The first line crossed the open ground beyond the lantern posts. They did not run straight toward Greywake. Not yet. They spread across the approach, following the slope, each animal reacting to the one in front of it and the pressure behind.
 
@@ -67,7 +68,7 @@ The front edge of the movement bent toward Broken North. People around him start
 
 The body followed. For maybe half a minute, the plan looked like a plan. Then the first fence went.
 
-It was not one of the heavy barriers. They had deliberately avoided putting heavy barriers across routes the animals might need to use. The outer guide was timber stakes, rope, brush panels, and enough visual obstruction to suggest that one side of the approach was worse than the other.
+It was not one of the heavy barriers. they had deliberately avoided putting heavy barriers across routes the animals might need to use. The outer guide was timber stakes, rope, brush panels, and enough visual obstruction to suggest that one side of the approach was worse than the other.
 
 The suggestion failed under the weight of the herd. A larger browser hit the middle section sideways. The rope snapped.
 
@@ -119,7 +120,7 @@ The pale-grey guide stayed where he had put it.
 
 “Red,” Tavian said.
 
-“he know.”
+“I know.”
 
 The last civilian cart crossed behind the inner marker. Brynn waved the lane closed.
 
@@ -201,7 +202,7 @@ His body actually shifted. Tavian saw it.
 
 “Don’t.”
 
-Red looked at Tavian. Tavian pointed at the moving animals.
+He looked at him. He pointed at the moving animals.
 
 “Leave now and this opens before you reach the site.”
 
@@ -215,7 +216,7 @@ Worker. Brynn turned first.
 
 That decided it. He stayed with the line. The people directly in front of him did not have that luxury.
 
-They ran. The lower detour had been bad before the wave. Losing the seasonal-cut crossing had made it worse.
+they ran. The lower detour had been bad before the wave. Losing the seasonal-cut crossing had made it worse.
 
 The old seasonal-cut crossing was gone as a proper route, forcing movement through a narrower section of broken roadside and packed earth. Workers had built a light guide there because there was nowhere useful for a heavier one. The guide had collapsed.
 
@@ -273,7 +274,7 @@ The hound did not stay. It scrambled after the moving line. Someone pulled him u
 
 “Red!”
 
-“he was—”
+“I’m—”
 
 Breathing arrived. Badly.
 
@@ -285,7 +286,7 @@ He dismissed the rail.
 
 “Fall back!” Brynn ordered.
 
-Nobody argued. They abandoned the lower guide before it cost more people.
+Nobody argued. they abandoned the lower guide before it cost more people.
 
 Workers pulled what equipment they could reach without stepping back into the flow. Militia moved with them. Nobody tried to reclaim the post because it had once been part of the plan.
 
@@ -297,11 +298,11 @@ That should have helped. It did not. The wrong pull was squeezing two lines of m
 
 Animals that should have spread across the approach were arriving closer to one another. The main group still bent toward Broken North, but the side pull kept dragging enough bodies across the lower edge that every correction created new crowding behind it. Tavian saw it before he did.
 
-“they are compressing them.”
+“We are compressing them.”
 
 Brynn wiped mud from one glove.
 
-“Can they widen?”
+“Can we widen?”
 
 “Not without opening the homestead side.”
 
@@ -311,7 +312,7 @@ Brynn wiped mud from one glove.
 
 A horn sounded from Broken North. Two short calls. Repair pressure.
 
-They ran again. His hands were shaking from impacts, pain, and adrenaline.
+they ran again. His hands were shaking from impacts, pain, and adrenaline.
 
 Useful medical information.
 
@@ -387,11 +388,11 @@ Tavian came to him.
 
 “No more guessing.”
 
-Red looked at Tavian.
+He looked at him.
 
-Tavian pointed at the migration.
+He pointed at the migration.
 
-“Every shape you add changes their choices. You act when he give you the geometry.”
+“Every shape you add changes their choices. You act when I give you the geometry.”
 
 That was not a limit on what he could make.
 
@@ -417,7 +418,7 @@ The hounds did not attack the line. They moved through it, heads low, eyes fixed
 
 A militia spear turned it. Another disappeared into brush. The road took all of it.
 
-Badly. The wrong-route pull had not stopped. They could see it farther downslope, movement still dragging toward the vulnerable side before later corrections forced part of it back.
+Badly. The wrong-route pull had not stopped. they could see it farther downslope, movement still dragging toward the vulnerable side before later corrections forced part of it back.
 
 That meant compression. Compression meant too many animals arriving at Broken North without enough space between them. The road had been built barely viable for a plan that expected breathing room.
 

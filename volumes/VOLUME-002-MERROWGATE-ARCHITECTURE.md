@@ -8,6 +8,23 @@
 **Status:** GATE 6 PASS — VOLUME ARCHITECTURE LOCKED / CHAPTER ROADMAP AUTHORIZED  
 **Scope:** Complete volume architecture only. No chapter roadmap, scene list, final dialogue, or manuscript prose.
 
+# Power-Model Retcon Override
+
+The authorial retcon in `planning/RED-JACKAL-OVERPOWERED-RETCON.md` supersedes all Stage I / Stage II / power-ceiling language in this file.
+
+Red enters Merrowgate already overwhelmingly powerful.
+
+Volume 2 tension comes from:
+- incomplete information;
+- reputation manipulation;
+- political/commercial leverage;
+- Red's self-imposed games;
+- his off-book mistake;
+- evidence and timing;
+- protecting multiple objectives.
+
+Any chapter-level “bounded manifestation” language describes what Red **chooses to display**, not what he is capable of.
+
 # 1. Volume Purpose
 
 Merrowgate Arc expands the series from frontier survival into dense commercial, maritime, and urban pressure.
@@ -36,10 +53,10 @@ Red enters Volume 2 carrying the complete consequences of Greywake:
 - he still cannot read Veyran normally;
 - he knows multiple ordinary appraisal methods fail to classify him;
 - he understands that physical data can be measured while identity data remains absent;
-- he knows his regeneration is painful and exhausting;
-- he knows reckless choices can injure people who cannot heal like him;
-- his Play Logic remains Stage I — Improvised Manifestation;
-- he has begun learning discipline, timing, and purpose, but not Stage II control;
+- he knows physical pain does not meaningfully define his combat ceiling;
+- he knows reckless choices can injure people who cannot restore themselves like him;
+- his Play Logic is already unbounded in raw potential;
+- his real development is judgment, information, restraint, and deciding what to reveal;
 - he leaves Greywake voluntarily with no class, level, title, citizenship, legendary reward, or chosen-hero status;
 - no Greywake companion automatically follows him;
 - his reputation exists as fragmented rumor rather than authoritative fame.
@@ -946,7 +963,7 @@ Locked by this architecture:
 - midpoint: profit/debt/security pattern revealed;
 - major reversal: Red implicated and consequence becomes public;
 - climax type: harbor emergency + evidence + combined competencies;
-- power ceiling: Stage I only;
+- power model: already-overpowered / no progression ceiling; chapter displays are voluntary restraint/revelation choices;
 - mystery window: M-002 reinforcement + bounded M-011 surface;
 - planned foreshadowing: F-010 only;
 - departure: local resolution without selecting Volume 3.

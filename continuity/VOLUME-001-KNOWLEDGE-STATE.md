@@ -4600,7 +4600,7 @@ No CH-016 outcome is canon before its manuscript passes Gate 9.
 # CH-016 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-016 — Backflow  
-**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+**Status:** SUPERSEDED BY CH-016 CANON CHECKPOINT
 
 ## Opening State
 
@@ -4825,3 +4825,244 @@ CH-016 must end with all three active:
 3. migration pressure turning toward Greywake.
 
 CH-017 then owns consequence/accountability.
+
+# CH-016 Canon Checkpoint
+
+**Chapter:** CH-016 — Backflow  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH016-BACKFLOW.md`  
+**QA:** `qa/CH-016-GATE-9-CHAPTER-QA.md`
+
+## Observed Backflow — CANON
+
+CH-016 canonically establishes that the CH-015 lure disruption was followed by real ecological backflow.
+
+Observed behavior includes:
+
+- browsing/prey animals crossing previously screened routes;
+- ridge-hounds following or being displaced along altered corridors;
+- additional ordinary Hollow March animal/predator movement entering side routes;
+- multiple outer approaches reporting changing traffic;
+- at least one Greywake-facing route developing new movement pressure.
+
+Backflow is now operationally real.
+
+Still unknown:
+
+- exact total lure count;
+- full network geometry;
+- exact network-wide timing;
+- exact total pressure distribution;
+- any supernatural cause.
+
+## Causal Responsibility — CANON
+
+The causal distinction is now locked:
+
+- Hesk and the Road Guild created/maintained the long-term diversion system;
+- years of lure pressure distorted migration behavior;
+- Red did not create that underlying system;
+- Red knowingly disabled one lure before the full network was understood;
+- Tavian had explicitly warned that backflow could occur;
+- the disruption materially triggered/worsened the release of accumulated pressure.
+
+Red canonically recognizes:
+
+**“My choice was in this chain.”**
+
+This is responsibility recognition.
+
+It is not yet CH-017's full responsibility-without-ownership position.
+
+## Tavian Rook — Post-CH-016 State
+
+Tavian canonically:
+
+- identifies the changed movement as backflow;
+- immediately shifts from criticism into crisis command;
+- directs people away from predator/prey collision lines;
+- prevents Red from wasting effort on a single-target solution;
+- coordinates with Brynn;
+- helps rescue Kellan;
+- does not gloat or say “I told you so.”
+
+His assessment of Red remains severe but practical.
+
+## Captain Brynn Alder — Post-CH-016 State
+
+Brynn canonically:
+
+- arrives through militia response;
+- treats the event as a settlement-scale evacuation crisis;
+- splits resources between outer routes and Greywake-facing approaches;
+- uses Tavian's ecological read;
+- uses Kellan's route knowledge;
+- does not arrest Red during active rescue;
+- does not restore Hesk in CH-016.
+
+## Stage I Play Logic — CANON
+
+CH-016 contains exactly one Stage I manifestation:
+
+**a temporary low barrier**
+
+Function:
+
+- forms across part of an evacuation road;
+- is less precise/stable because Red is hurt/exhausted;
+- bends one local herd line;
+- buys civilians only seconds;
+- collapses immediately afterward.
+
+It does not:
+
+- stop the backflow;
+- redirect the network;
+- save the bridge;
+- prevent Kellan's injury;
+- become Stage II.
+
+No second manifestation occurs.
+
+## Red Injury / Regeneration — CANON
+
+Red enters CH-016 with CH-015 injuries and accumulates further strain.
+
+Canon effects:
+
+- side injury reopens under exertion;
+- shoulder impact during rescue;
+- continued leg weakness;
+- shaking/weakness;
+- reduced precision;
+- painful abnormal correction continues;
+- stamina is not restored.
+
+Regeneration keeps Red functional.
+
+It does not:
+- remove pain;
+- restore energy instantly;
+- protect others;
+- heal Kellan;
+- erase the consequences.
+
+## M-007 — First Tonal Hint CANON
+
+CH-016 contains the first approved M-007 tonal hint.
+
+Canonical tonal impression:
+
+as one occupied route clears, pressure keeps appearing on another road or crossing where people are already trying to survive.
+
+The manuscript explicitly grounds this in ordinary local causes:
+
+- roads connect farms;
+- animals follow open ground;
+- predators follow prey;
+- people flee toward bridges.
+
+No character recognizes a supernatural mechanism.
+
+The following remain absent:
+
+- Fate;
+- destiny;
+- convergence;
+- correction;
+- probability manipulation;
+- Great Design;
+- cosmic punishment.
+
+M-007 remains tonal only.
+
+## Seasonal-Cut Bridge — CANON LOSS
+
+The CH-008 seasonal-cut bridge is now canonically lost as an operational route.
+
+Failure chain:
+
+- emergency evacuation loads the crossing;
+- animal pressure disrupts the approach;
+- an abandoned cart is struck/moved;
+- impact transfers into the bridge structure;
+- one repaired support fails;
+- the remaining deck/supports collapse enough to make the crossing unusable.
+
+The bridge was not sabotaged.
+
+The loss is caused by:
+- existing infrastructure limitations;
+- emergency loading;
+- panic;
+- backflow pressure.
+
+## Kellan Dorr — Post-CH-016 Injury State
+
+Kellan canonically:
+
+- leads the bridge crossing because he knows its limits;
+- stays at the crossing to clear civilians;
+- is struck/pinned during bridge failure;
+- suffers a severe lower-leg crush/fracture presentation;
+- suffers additional shoulder/torso impact;
+- loses meaningful blood;
+- cannot stand/walk independently;
+- loses consciousness during transport;
+- remains alive.
+
+Exact formal diagnosis/prognosis remains deferred to Sela in CH-017.
+
+Red cannot heal him.
+
+## Greywake Pressure — CANON
+
+By chapter end:
+
+- multiple movement lines are reported on a lower Greywake-facing approach;
+- horns signal escalating movement nearer the settlement;
+- backflow is visibly moving inward.
+
+Locked ending state:
+
+**Kellan is severely injured.**  
+**The seasonal-cut bridge/route is lost.**  
+**Migration pressure is turning toward Greywake.**
+
+## F-ID State After CH-016
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+No F-ID changed state in CH-016.
+
+## CH-017 Handoff
+
+The current authoritative next chapter is:
+
+**CH-017 — The Price of Being Right**
+
+CH-017 may begin with:
+
+- Kellan transported to Sela's treatment house;
+- exact medical prognosis still unknown to Red;
+- Red visibly recovering faster than Kellan;
+- bridge/route loss confirmed;
+- migration pressure still worsening;
+- Hesk able to use the disaster politically;
+- Maelis moving from investigation into legal/operational response;
+- Brynn balancing crisis authority;
+- Red aware that his choice materially worsened the crisis.
+
+CH-017 owns:
+
+- Sela's formal consequence confrontation;
+- Kellan's medical assessment;
+- Hesk's emergency-authority demand;
+- debate over restoring strongest outer lures;
+- Maelis's legal response;
+- Red accepting responsibility without surrendering agency to Hesk.
+
+No CH-017 outcome is canon before its manuscript passes Gate 9.

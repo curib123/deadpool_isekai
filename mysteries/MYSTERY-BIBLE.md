@@ -871,7 +871,9 @@ Each entry below records its current foreshadowing state. New F-IDs begin as **P
 **First interpretation:** chaotic magic.  
 **Hidden meaning:** the effect is negotiated through self-model and concept.  
 **Eligible window:** RW-1 / RW-2.  
-**Status:** PLANNED — NOT YET PLANTED.
+**Actual manuscript reference:** `manuscript/CH005-A-BETTER-HAMMER.md` — vague hammer manifestation versus clear-function hammer manifestation; no normal sigil/focus/spoken casting sequence.  
+**QA evidence:** `qa/CH-005-GATE-9-CHAPTER-QA.md`  
+**Status:** PLANTED — CH-005.
 
 ## F-005 — Prophecy Describes Everyone Except the Variable
 
@@ -1191,10 +1193,10 @@ Status changed after approved CH-003 manuscript prose contained the clue and pas
 
 
 
-# CH-005 F-004 Scene Planning
+# CH-005 F-004 Planting Record
 
 **Chapter:** CH-005 — A Better Hammer  
-**Status:** PLANNING ONLY — NO CH-005 MANUSCRIPT YET
+**Status:** PLANTED — GATE 9 PASS
 
 F-004 is planned through two required components:
 
@@ -1207,6 +1209,6 @@ The clue must support:
 
 It must not explain why.
 
-**F-004 Status: PLANNED — NOT YET PLANTED**
+**F-004 Status: PLANTED — CH-005**
 
-No status change is allowed until approved CH-005 manuscript prose contains both components and passes Gate 9.
+Status changed after approved CH-005 manuscript prose contained both components and passed Gate 9.

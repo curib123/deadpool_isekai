@@ -6369,7 +6369,7 @@ CH-021 mass surge preparation remains protected.
 # CH-020 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-020 — The Last Lure  
-**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+**Status:** SUPERSEDED BY CH-020 CANON CHECKPOINT
 
 ## Opening State
 
@@ -6579,3 +6579,229 @@ The manuscript, if later approved, must leave two truths active:
 2. Hesk remains unaccounted for with one final field-lure access method/site.
 
 Until Gate 9, those outcomes remain architecture support rather than canon.
+
+# CH-020 Canon Checkpoint
+
+**Chapter:** CH-020 — The Last Lure  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH020-THE-LAST-LURE.md`  
+**QA:** `qa/CH-020-GATE-9-CHAPTER-QA.md`
+
+## Retained Roadmaster Reserve — CANON
+
+Jessa canonically discovers that ordinary lure-material records do not reconcile.
+
+Evidence chain:
+
+- high-strength diversion material leaves ordinary stock;
+- documented service use does not account for all of it;
+- no ordinary return closes the discrepancy;
+- a Roadmaster emergency/contingency classification explains the missing stock;
+- physical tags and stock later confirm the reserve.
+
+The retained reserve contains established lure-material categories only:
+
+- sealed reservoirs;
+- concentrated mana-guided diversion compound;
+- spare/channel pins;
+- replacement vent/service components.
+
+No new lure technology is introduced.
+
+The quantity is sufficient for one bounded emergency sequence using existing compatible lure housings.
+
+It is not enough for perfect migration control.
+
+## Jessa Vale — Decisive Complicity Break CANON
+
+Jessa canonically:
+
+- understands exposing the reserve may cost her Guild employment;
+- knows her siblings depend on that income;
+- voluntarily identifies the Roadmaster contingency meaning;
+- initials/authenticates the reconciliation;
+- confirms the reserve should have been included in the shared emergency inventory;
+- chooses to accompany Maelis to identify the stock;
+- later refuses Hesk's direct order to surrender/recant the evidence;
+- signs an explanation of what the contingency codes mean.
+
+Jessa remains afraid throughout.
+
+She is not coerced by Maelis.
+
+She is not coerced by Red.
+
+No replacement job or security guarantee is given.
+
+## Maelis Orra — Evidence-to-Action CANON
+
+Maelis canonically:
+
+- verifies the issue/service/return discrepancy;
+- creates/preserves documentary copies;
+- obtains bounded emergency preservation/shared-custody authority;
+- secures the physical retained stock and related evidence under witnesses;
+- keeps temporary custody separate from final guilt/sentencing;
+- recognizes Jessa's knowledgeable testimony as necessary to explain Guild record meaning.
+
+Maelis does not complete Hesk's final legal defeat in CH-020.
+
+## Rovan Hesk — Fallback Commitment CANON
+
+Hesk canonically acknowledges the reserve.
+
+He argues:
+
+- it is legitimate Roadmaster emergency material;
+- Broken North remains unproven;
+- Greywake's main trade road cannot be allowed to fail;
+- if necessary, he will restore pressure around the main road using the retained reserve.
+
+His fallback remains consistent with his worldview:
+
+**the main road cannot be allowed to die, even if outer routes pay the cost.**
+
+Hesk does not admit sadistic motive and does not gain protected anomaly knowledge.
+
+## Red Jackal — Jessa Protection / Reputation CANON
+
+Red canonically waits until Jessa makes her own choice before offering protection.
+
+When Guild loyalists move toward her/records:
+
+- Red steps between them;
+- several hesitate because of his accumulated reputation;
+- at least one still acts.
+
+This intimidation is earned, non-magical and within R3 Dangerous Wildcard limits.
+
+Red frames protection personally rather than as lawful heroism.
+
+Jessa retains full agency.
+
+## Red Jackal — Destruction Restraint CANON
+
+During the storehouse conflict, Red canonically recognizes a simpler destructive option:
+
+- smash cage;
+- smash stock;
+- smash records.
+
+He refuses because destruction would erase:
+
+- the coalition's controlled lure resources;
+- documentary proof;
+- the value of Jessa's choice.
+
+This is practical restraint, not institutional submission.
+
+## CH-020 Stage I Manifestation CANON
+
+Exactly one Stage I manifestation occurs.
+
+### Storehouse Gate Wedge
+
+- small;
+- pale-grey;
+- crooked/unstable;
+- placed at the inner gate hinge;
+- prevents the gate from sealing for seconds;
+- lets militia/storehouse staff recover access to the stock/evidence;
+- causes no major injury;
+- is not a combat weapon;
+- disappears immediately after use.
+
+No second manifestation occurs.
+
+CH-019 exhaustion remains active:
+
+- headache;
+- hand tremor;
+- slower pursuit;
+- leg/shoulder limitation.
+
+Regeneration does not refill stamina.
+
+## Physical Stock / Evidence Outcome CANON
+
+The coalition secures:
+
+- retained lure reserve;
+- stock tags/seals;
+- issue/service/return records and copies;
+- Jessa's signed/authenticated explanation;
+- witness confirmation that Hesk acknowledged the reserve.
+
+Hesk takes the storehouse control book during escape, but enough independent evidence remains to prove the reserve existed.
+
+## Hesk Escape / Final Access CANON
+
+Hesk escapes Greywake Core custody.
+
+He retains one existing-compatible:
+
+**Roadmaster field-service key.**
+
+The key can service compatible standard Road Guild lure housings.
+
+It is not sufficient by itself; a charged/primed compatible site is still required.
+
+One existing field site inside the active diversion line still uses the older Roadmaster service housing.
+
+Hesk knows/accesses that final vulnerability.
+
+No new magical super-device is introduced.
+
+## Power / Mystery State After CH-020
+
+F-ID state remains:
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+M-007 does not advance.
+
+No Fate, Great Design, Eidrathi, System-origin, Play-Logic-origin or future-destination material is introduced.
+
+## Locked Ending State
+
+Two truths are canon:
+
+1. the coalition has secured the retained stock and usable proof;
+2. Hesk remains unaccounted for with one Roadmaster field-service key and access to one existing vulnerable lure site.
+
+Canonical final beat:
+
+**“We had the stock. We had the proof. Hesk still had one key. And somewhere ahead of the migration, there was still one lure he could reach.”**
+
+## CH-021 Handoff
+
+The authoritative next chapter is:
+
+**CH-021 — Before the Herd**
+
+CH-021 may now begin with:
+
+- Broken North barely viable;
+- retained reserve secured;
+- known lure timing under shared control;
+- Hesk unaccounted for;
+- one existing lure site vulnerable to his field-service key;
+- Red still not fully recovered from CH-019/020;
+- Maelis holding usable evidence;
+- Jessa now an active witness;
+- settlement pressure close enough that preparation time can become measured in hours.
+
+CH-021 owns:
+
+- full civilian evacuation;
+- militia/work-crew final placement;
+- fallback staging;
+- injured-person transport;
+- all-domain Greywake crisis preparation;
+- conserving Red's Stage I use;
+- first mass prey wave beyond the lantern line.
+
+CH-022 first-wave action remains protected.

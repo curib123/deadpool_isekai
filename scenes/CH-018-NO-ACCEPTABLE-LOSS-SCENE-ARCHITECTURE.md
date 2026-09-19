@@ -4,7 +4,7 @@
 **Chapter:** CH-018 — No Acceptable Loss  
 **Movement:** V — No Acceptable Loss  
 **Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-018 MANUSCRIPT AUTHORIZED  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-018 MANUSCRIPT CANON  
 **Final Scene Count:** 6  
 **POV:** Red Jackal first person  
 **Primary Cast:** Red Jackal, Tavian Rook, Maelis Orra, Captain Brynn Alder, Sela Arven, Kellan Dorr (limited), Jessa Vale, Rovan Hesk / limited council opposition  

@@ -44,7 +44,7 @@ He started walking.
 
 Brynn did too.
 
-The service path cut away from Broken North through lower brush and old roadwork. they had not gone far when Maelis and Jessa came from the opposite approach.
+The service path cut away from Broken North through lower brush and old roadwork. They had not gone far when Maelis and Jessa came from the opposite approach.
 
 Maelis carried a wrapped packet against her chest. Jessa carried a copied route sheet and looked like she had spent the last hour expecting to be fired, trampled, arrested, or some efficient combination of the three.
 
@@ -80,7 +80,7 @@ Not dramatically.
 
 Just because there was finally a person at the end of this problem.
 
-they reached the site from above.
+They reached the site from above.
 
 The old-service housing sat inside a shallow stone recess beside the fork. Fitted stake. Vented housing. Service plate. Reservoir assembly.
 
@@ -160,7 +160,7 @@ Hesk pointed at them.
 
 Nobody interrupted.
 
-they knew the story.
+They knew the story.
 
 Winter isolation. Missing caravans. Food and medicine delayed while people somewhere safer discussed whether Greywake deserved the cost of rescue.
 

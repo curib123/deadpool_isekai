@@ -1,10 +1,10 @@
 # Chapter 17 — The Price of Being Right
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** STUDIO CINEMATIC RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 3,042  
 **Chapter QA:** `qa/CH-017-GATE-9-CHAPTER-QA.md`
 
-Sela did not look at him when they carried Kellan in. She looked at the stretcher.
+Sela saw the stretcher and pointed.
 
 “Table.”
 
@@ -12,15 +12,15 @@ Two assistants moved before the word finished. Kellan was transferred onto the w
 
 The lower part of one leg was wrapped badly because badly had been all they had time for on the road. Blood had soaked through around the splint. His shoulder sat too low on one side, and every breath came shallow.
 
-He was still standing.
+Red stood beside the bed with dried blood stiff on his shirt.
 
-That felt wrong.
+His side was closing.
 
-His shirt had dried against the wound along his ribs. The tear had narrowed again during the walk back. His leg still hurt where the ridge-hound had bitten him. His shoulder ached from being thrown into the road.
+His leg was improving.
 
-Everything hurt. Everything was also improving.
+His shoulder still hurt.
 
-Kellan was not.
+Kellan was not improving nearly fast enough.
 
 Sela cut through the field wrap without looking up.
 
@@ -30,7 +30,7 @@ Sela cut through the field wrap without looking up.
 
 “Good enough to move him.”
 
-Not praise. Classification.
+Sela was not praising anyone.
 
 She pressed two fingers against Kellan’s foot, then higher along the injured leg.
 
@@ -150,9 +150,9 @@ She started wrapping Kellan’s leg into the new splint.
 
 “You are already repairing.”
 
-The words were neutral. The contrast was not. Across the room, Kellan lay still while three people worked around him.
+Across the room, three people worked around Kellan.
 
-His side had already closed enough that the bleeding had stopped. Sela tightened the upper strap on the splint.
+Red's own bleeding had already stopped. Sela tightened the upper strap on the splint.
 
 “Kellan cannot put weight on this leg.”
 
@@ -384,7 +384,7 @@ Maelis’s expression hardened. Hesk placed one hand on the map.
 
 “The strongest remaining outer lures should be brought back to full operation.”
 
-Kellan’s leg flashed through his head. Not as an argument. Just there.
+Red saw Kellan's leg for one sharp second.
 
 Hesk continued.
 
@@ -408,11 +408,9 @@ He pointed toward him.
 
 “Uncontrolled individual judgment has already shown us the alternative.”
 
-No one defended him.
+No one defended Red.
 
-Good.
-
-He was not wrong about that part. Hesk looked directly at him.
+They shouldn't. Hesk looked directly at him.
 
 “You wanted the choice removed from my hands.”
 
@@ -422,7 +420,9 @@ He was not wrong about that part. Hesk looked directly at him.
 
 “Yes.”
 
-A small shift in the room. Maybe they expected him to argue. He did not.
+A few eyes moved toward Red.
+
+He did not argue.
 
 Hesk’s gaze narrowed.
 
@@ -444,9 +444,11 @@ The difference was who paid, who knew, and whether anyone could challenge them. 
 
 “No.”
 
-His face hardened. There it was again. The part he wanted.
+Hesk's face hardened.
 
-Take the mistake. Turn it into obedience. Maelis spoke before he could answer.
+There it was.
+
+Use the mistake. Turn it into obedience. Maelis spoke before he could answer.
 
 “CH-016 does not erase CH-013.”
 

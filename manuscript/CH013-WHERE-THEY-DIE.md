@@ -1,14 +1,18 @@
 # Chapter 13 — Where They Die
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** CINEMATIC STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 2,798  
 **Chapter QA:** `qa/CH-013-GATE-9-CHAPTER-QA.md`
 
-By the next morning, Greywake had found a room large enough for everyone to disagree in properly. The council map room sat behind the main meeting chamber, with one long table, two wall maps, three narrow windows, and enough shelves to make him suspicious on principle. A charged Wayfarer Tongue Token hung beside the door. The moment he stepped inside, its familiar pressure settled over the voices around him.
+The council map table had disappeared under evidence.
 
-Maelis had already claimed most of the table. Maps. Route ledgers. Incident summaries. Copies of Guild work orders. Tavian's field notes. Kellan's route sketches. The rubbing Maelis had taken from the Broken North lure plate.
+Route ledgers. Guild work orders. Tavian's field notes. Kellan's road sketches. Maelis's rubbing from the Broken North lure.
 
-Everything that had been separate for the last several days was now sitting within arm's reach of everything else. That felt dangerous. Brynn stood near the head of the table, arms folded. Kellan had taken the side closest to the outer-route map. Tavian stood opposite him with three small stones marking track clusters.
+Red stopped inside the door.
+
+For the first time, everything they had found was in one room.
+
+That made the room feel smaller. Brynn stood near the head of the table, arms folded. Kellan had taken the side closest to the outer-route map. Tavian stood opposite him with three small stones marking track clusters.
 
 Hesk was already there. Of course he was. He stood beside one of the council chairs with a sealed packet in front of him, looking exactly as calm as he had when he first agreed to work under his private arrangement.
 
@@ -210,11 +214,13 @@ Jessa looked down at the paper.
 
 “The Roadmaster's office.”
 
-There it was.
+Jessa looked down at the paper.
 
-Not a confession.
+“The Roadmaster's office.”
 
-Not a villain speech. Just the same ordinary office that approved rope, bridge crews, road closures, and his first irregular work assignment. Maelis placed the dispatches beside the Broken North rubbing.
+No confession.
+
+Just an ordinary office attached to every important road decision in Greywake. Maelis placed the dispatches beside the Broken North rubbing.
 
 “Were these records filed together?”
 
@@ -284,7 +290,9 @@ Tavian's finger traced the track route from CH-009.
 
 “But repeated maintained diversion points are consistent with the broad drift we observed. Predator and prey movement was not simply worsening. It was being pushed.”
 
-Nobody made a joke. He noticed because normally he would have. Maelis opened the loss ledger from the audit.
+Nobody joked.
+
+Red did not try. Maelis opened the loss ledger from the audit.
 
 “Now the dates.”
 
@@ -462,7 +470,9 @@ Hesk was quiet for two seconds.
 
 “Yes.”
 
-That changed the room. Not because they had never suspected it. Because suspicion no longer had anywhere to hide.
+No one moved.
+
+Suspicion had just become an answer.
 
 Maelis looked at Jessa.
 
@@ -580,7 +590,9 @@ Hesk's eyes hardened.
 
 “Yes.”
 
-There was no theatrical pause. No dramatic reveal. Just three answers that fit together too well.
+Three quiet answers.
+
+That was enough.
 
 Brynn stared at the militia route map.
 
@@ -700,13 +712,17 @@ There it was. Not praise. Classification.
 
 “The Guild used available capability where it was needed.”
 
-That sentence should not have surprised him. It did anyway. Because suddenly every conversation with him had the same shape.
+Red looked at Hesk.
 
-The road mattered. The work mattered. The supply line mattered.
+The road. The work. The supply line.
 
-People mattered according to how they fit around those things. He smiled a little. Not because anything was funny.
+Everything had a place in Hesk's system.
 
-Habit. Then he stopped.
+So did people.
+
+Red smiled out of habit.
+
+Then the smile vanished.
 
 “No.”
 
@@ -726,11 +742,13 @@ He tapped the map.
 
 Silence.
 
-He looked at Kellan's outer roads. At Jessa's shaking hands. At Brynn's militia markers.
+Red looked at Jessa's shaking hands.
 
-At the casualty records he could not read and the route shapes he now understood too well. Hesk had not pointed at a person and ordered a monster to kill them. That would have been simpler.
+Then at Kellan's outer roads.
 
-He had done something colder. He had decided what had to stay safe. Then he had accepted where the danger went instead.
+Hesk had never pointed at a person and ordered a monster to kill them.
+
+He had chosen what stayed safe and accepted where the danger went.
 
 Maelis moved the final set of records into line. Service orders. Loss periods.
 
@@ -758,10 +776,10 @@ Kellan's voice was rough.
 
 “While you knew people were there.”
 
-Hesk did not answer. He did not need to. The map already had.
+Hesk did not answer.
 
-The question was no longer whether Greywake had been suffering from a bad migration. It was no longer whether one hidden lure had been placed where it should not be. It was no longer even whether someone had manipulated the road.
+He did not need to.
 
-The truth was worse.
+The map already had.
 
-Someone in Greywake has been deliberately deciding where the monster migration kills people.
+Someone in Greywake had been deciding where the monster migration killed people.

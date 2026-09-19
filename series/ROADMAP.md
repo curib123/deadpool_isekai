@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** GREYWAKE ARC COMPLETE — VOLUME 1 PUBLISH-READY / VOLUME 2 MERROWGATE ARC — CH-027 CANON / CH-028 GATE 8 NEXT
+**Status:** VOLUME 1 GREYWAKE PACING REVISION ACTIVE — PLAN LOCKED / CH-009 REVISION NEXT; VOLUME 2 MERROWGATE — CH-027 CANON / CH-028 PAUSED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -21,13 +21,14 @@ Volume 1 Architecture: **PASS**
 Chapter Roadmap: **PASS — 26 chapters**  
 Volume 1 Canon Revalidation: **PASS — GATE 10 / CH-001 THROUGH CH-026 VERIFIED**  
 Publish Version QA Standard: **ACTIVE — GATE 11**  
-Volume 1 Publish Version QA: **PASS — GATE 11 / 26 OF 26 PUBLISH-READY**  
+Volume 1 Publish Version QA: **PASS — GATE 11 / 26 OF 26 CURRENT CANON COPIES PUBLISH-READY**  
+Volume 1 Pacing Revision v2: **PLAN PASS / CANON-PRESERVING REVISION TRACK ACTIVE / CH-009 FIRST**  
 Volume 2 Destination Selection: **PASS — GATE 5 / DEST-002 MERROWGATE**  
 Volume 2 Architecture: **PASS — GATE 6 / MERROWGATE ARC LOCKED**  
 Volume 2 Chapter Roadmap: **PASS — GATE 7 / 24 CHAPTERS / CH-027 THROUGH CH-050 LOCKED**  
 CH-027 Scene Architecture: **PASS — GATE 8 / 5 SCENES LOCKED**  
 CH-027 Manuscript: **CANON — GATE 9 PASS / 2,108 WORDS / DEADPAN TRAVEL-OPENING VOICE LOCKED**  
-CH-028 Scene Architecture: **AUTHORIZED — GATE 8 NEXT**  
+CH-028 Scene Architecture: **AUTHORIZED BUT PAUSED — VOLUME 1 PACING REVISION CURRENT PRIORITY**  
 CH-001 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-002 Scene Architecture: **PASS — GATE 8**  
 CH-002 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
@@ -123,3 +124,30 @@ Do not add a row until:
 - Destination Selection QA approves an existing world location; **PASS — DEST-001 Greywake / DEST-002 Merrowgate**
 
 Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-026 are canon and the Greywake Arc is complete. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. Volume 2 destination, architecture, and 24-chapter roadmap are locked as DEST-002 — Merrowgate / Merrowgate Arc, CH-027 through CH-050. CH-027 has passed Gate 9 and is CANON. CH-028 Detailed Scene Architecture / Gate 8 is the only authorized next production step. Later manuscript work and Volume 3 destination selection remain unauthorized until their required gates pass.
+
+
+## Volume 1 Pacing Revision Track
+
+The author has reopened Volume 1 for a controlled pacing revision.
+
+Authoritative revision plan:
+
+`planning/VOLUME-001-GREYWAKE-PACING-REVISION.md`
+
+Revision-plan QA:
+
+`qa/VOLUME-001-PACING-REVISION-PLAN-QA.md`
+
+The existing 26-chapter canon remains valid until an individual revised manuscript passes Gate 9.
+
+Revision focus:
+- tighten investigation drag in CH-009–CH-021 where specified;
+- treat CH-020 as climax ignition;
+- make CH-021–CH-024 one continuous escalation;
+- amplify CH-022–CH-024 without raising the Stage I power ceiling;
+- preserve CH-025 consequence pacing;
+- preserve CH-026 departure pacing and final line.
+
+**Active revision step:** CH-009 — Wrong Tracks → Pacing Revision Pass → Gate 9 Revalidation.
+
+Volume 2 CH-028 remains structurally authorized but is paused while this authorial revision track is active.

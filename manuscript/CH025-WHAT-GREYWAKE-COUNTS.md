@@ -1,23 +1,23 @@
 # Chapter 25 — What Greywake Counts
 
-**Status:** CANON — GATE 9 PASS / AFTERMATH MODE LOCKED  
+**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
 **Word Count:** 2,135
 
-Sela looked at the wound in my side, then at me.
+Sela looked at the wound in his side, then at him.
 
 “No.”
 
-I had not said anything yet.
+He had not said anything yet.
 
 “That feels unfair.”
 
 “It is preventative.”
 
-She pushed me back onto the treatment bench before I could stand. The room around us was full enough that arguing would have required more energy than I had left. Militia, workers, and people from the outer approaches occupied every usable bed, chair, wall, and section of floor that had been turned into a temporary place to sit.
+She pushed him back onto the treatment bench before he could stand. The room around them was full enough that arguing would have required more energy than he had left. Militia, workers, and people from the outer approaches occupied every usable bed, chair, wall, and section of floor that had been turned into a temporary place to sit.
 
-My flank had mostly closed. Mostly. The skin had pulled together far faster than it had any right to, but the bruising beneath it still felt like someone had stored a hammer inside my ribs. My shoulder remained stiff. My leg still threatened to fold if I moved too quickly. The headache had finally dropped from a spike to a heavy pressure.
+His flank had mostly closed. Mostly. The skin had pulled together far faster than it had any right to, but the bruising beneath it still felt like someone had stored a hammer inside his ribs. His shoulder remained stiff. His leg still threatened to fold if he moved too quickly. The headache had finally dropped from a spike to a heavy pressure.
 
-Sela pressed two fingers near the healing wound. I stopped breathing.
+Sela pressed two fingers near the healing wound. He stopped breathing.
 
 “Good,” she said.
 
@@ -29,21 +29,21 @@ Sela pressed two fingers near the healing wound. I stopped breathing.
 
 “You are not recovered.”
 
-There it was. Apparently those were different things. Across the room, Kellan sat with his injured leg still splinted and extended on a low stool. He looked much worse than I did because his body had the bad manners to follow normal rules.
+There it was. Apparently those were different things. Across the room, Kellan sat with his injured leg still splinted and extended on a low stool. He looked much worse than he did because his body had the bad manners to follow normal rules.
 
-He noticed me looking.
+He noticed him looking.
 
 “Still attached?”
 
 “The important parts.”
 
-Sela gave me a look. I stopped. Kellan’s mouth moved slightly. That counted as enough humor for the room.
+Sela gave him a look. He stopped. Kellan’s mouth moved slightly. That counted as enough humor for the room.
 
 The treatment house was busy without being chaotic. That mattered. People had been hurt, but the preparation had kept the surge from becoming the kind of disaster where nobody knew who was missing until the next morning.
 
 There were cuts, crushed fingers, broken bones, animal impacts, exhaustion, and one militia man with a shoulder that had been put back into place twice because he had gone back to work after the first time. Sela had opinions about him. Strong ones.
 
-She had stronger ones about me. Brynn entered near midday with dried mud still on her boots. Tavian came behind her.
+She had stronger ones about him. Brynn entered near midday with dried mud still on her boots. Tavian came behind her.
 
 Neither looked rested.
 
@@ -57,17 +57,17 @@ Neither looked rested.
 
 Brynn added, “Damaged enough that I would arrest anyone who calls it open for normal traffic.” That sounded reasonable.
 
-“Hesk?” I asked.
+“Hesk?” he asked.
 
 “Guarded. No Road Guild command access. Key and final housing are secured.”
 
-Sela folded a clean cloth over my side.
+Sela folded a clean cloth over his side.
 
 “And now?”
 
 “Council,” Brynn said.
 
-Sela looked at me.
+Sela looked at him.
 
 “No.”
 
@@ -77,9 +77,9 @@ Brynn looked at her.
 
 “No.”
 
-“I am sitting right here,” I said.
+“I am sitting right here,” he said.
 
-They both ignored me. Kellan leaned back against the wall.
+They both ignored him. Kellan leaned back against the wall.
 
 “I think this is good for you.”
 
@@ -87,11 +87,11 @@ They both ignored me. Kellan leaned back against the wall.
 
 “Being irrelevant.”
 
-I considered throwing something at him. Sela had already removed anything useful from reach. Brynn eventually won on the condition that I remained seated whenever possible and returned if I started bleeding again.
+He considered throwing something at him. Sela had already removed anything useful from reach. Brynn eventually won on the condition that he remained seated whenever possible and returned if he started bleeding again.
 
-Sela made the condition sound less like medicine and more like a threat. We did not go straight to the council hall. Tavian wanted to see Broken North first.
+Sela made the condition sound less like medicine and more like a threat. They did not go straight to the council hall. Tavian wanted to see Broken North first.
 
-I did too. The road looked worse in daylight. The temporary reinforcement under the inner shelf was still carrying weight. Workers had added another brace beside it and packed loose stone where the old edge had shifted. Most of the guide structures were either damaged or gone. Rope lines hung loose. Brush had been flattened into mud.
+He did too. The road looked worse in daylight. The temporary reinforcement under the inner shelf was still carrying weight. Workers had added another brace beside it and packed loose stone where the old edge had shifted. Most of the guide structures were either damaged or gone. Rope lines hung loose. Brush had been flattened into mud.
 
 The corridor still existed. That was the important part. It was also closed.
 
@@ -105,19 +105,19 @@ Tavian stood again.
 
 “Good.”
 
-The worker looked at me.
+The worker looked at him.
 
 “You either.”
 
 “I wasn’t planning to.”
 
-He kept looking. Fair. Brynn read from a damage sheet as we moved.
+He kept looking. Fair. Brynn read from a damage sheet as they moved.
 
 “Three guide points destroyed. Lower detour unusable until rebuilt. Broken North restricted. Two outer sheds damaged. Livestock losses still being counted. Caravan yard has four departures delayed.”
 
 Tavian added, “Animal movement will stay unstable for a while.”
 
-“How long?” I asked.
+“How long?” he asked.
 
 “Longer than Greywake wants.”
 
@@ -125,15 +125,15 @@ Tavian added, “Animal movement will stay unstable for a while.”
 
 “We changed a pattern that had been forced for years. The animals do not become sensible because one lure stops.”
 
-That sounded annoyingly permanent. He looked at me.
+That sounded annoyingly permanent. He looked at him.
 
 “You did well yesterday.”
 
-I stopped walking. Brynn looked at him too. Tavian kept his attention on the road.
+He stopped walking. Brynn looked at him too. Tavian kept his attention on the road.
 
 “You waited when waiting mattered. You acted when acting mattered.”
 
-That was the entire speech. I gave him time to reconsider. He did not.
+That was the entire speech. He gave him time to reconsider. He did not.
 
 “Are you feeling all right?”
 
@@ -147,7 +147,7 @@ Maelis had covered two tables with documents. Jessa sat at the end of one of the
 
 Beside it were copies of the reserve records, route-loss entries, service references, and the signed explanation Jessa had already given. Hesk was not in the room. Two militia guards stood outside the adjoining holding chamber.
 
-Maelis looked up when we entered.
+Maelis looked up when they entered.
 
 “You are late.”
 
@@ -157,7 +157,7 @@ Sela had sent a written note with Brynn. Maelis had read it.
 
 “I know.”
 
-I sat. Jessa looked tired. Not injured.
+He sat. Jessa looked tired. Not injured.
 
 Worse in a different way. Maelis tapped one of the sheets.
 
@@ -191,7 +191,7 @@ Maelis waited. Jessa looked up.
 
 “If I am going to lose the job anyway, I am not losing it because someone says I misunderstood my own records.”
 
-Nobody tried to tell her she would be fine. That would have been crueler than silence. I asked, “Do you know if you still have a job?”
+Nobody tried to tell her she would be fine. That would have been crueler than silence. He asked, “Do you know if you still have a job?”
 
 “No.”
 
@@ -201,7 +201,7 @@ No sudden discovery that integrity paid better than complicity. Just the truth. 
 
 “What we can prove is enough.”
 
-“What can’t we prove?” I asked.
+“What can’t we prove?” he asked.
 
 “Every private conversation Hesk had. Every individual casualty he anticipated. Every person who agreed with him before the records became public.”
 
@@ -209,9 +209,9 @@ No sudden discovery that integrity paid better than complicity. Just the truth. 
 
 “That is not mine to decide.”
 
-Good. One less person pretending evidence gave them ownership of everything after it. The council hall was full before we entered.
+Good. One less person pretending evidence gave them ownership of everything after it. The council hall was full before they entered.
 
-Kellan had been brought in on a wheeled chair from the treatment house. His leg remained elevated. Sela stood near the side wall because apparently she had decided that if we insisted on attending politics while injured, she would attend politics too.
+Kellan had been brought in on a wheeled chair from the treatment house. His leg remained elevated. Sela stood near the side wall because apparently she had decided that if they insisted on attending politics while injured, she would attend politics too.
 
 Hesk sat under guard. No Roadmaster coat. No key.
 
@@ -261,11 +261,11 @@ She explained the reserve codes, the control book, the service key, the older ho
 
 The facts were worse for him because they did not need decoration. Maelis confirmed the documentary chain. Brynn confirmed the final-site detention and seizure.
 
-Then someone asked me.
+Then someone asked him.
 
 “What do you think should happen to Hesk?”
 
-Every face in the room turned toward me. That was uncomfortable. I looked at Hesk.
+Every face in the room turned toward him. That was uncomfortable. He looked at Hesk.
 
 He looked back.
 
@@ -273,7 +273,7 @@ He looked back.
 
 A few people laughed. Not many. Good.
 
-I continued.
+He continued.
 
 “He saw a real problem. Then he decided some people counted less because sacrificing them was convenient to the solution.”
 
@@ -281,7 +281,7 @@ Hesk’s expression did not change.
 
 “I am not deciding his sentence.”
 
-Kellan looked at me.
+Kellan looked at him.
 
 “Growth.”
 
@@ -291,15 +291,15 @@ The council formally removed Hesk from Roadmaster authority before the session m
 
 His final legal disposition would go through the evidence and review process that followed, with the Ledger record attached and the council preserving custody until transfer or further order. He remained under guard. The argument did not disappear with him.
 
-During the recess, I heard three different versions of what had happened. In the first, I had single-handedly held a road up while fighting an enormous predator. In the second, I had caused the backflow that nearly killed everyone and then helped fix my own mistake.
+During the recess, he heard three different versions of what had happened. In the first, he had single-handedly held a road up while fighting an enormous predator. In the second, he had caused the backflow that nearly killed everyone and then helped fix his own mistake.
 
-Both were true in ways I disliked. The third version claimed I had threatened Hesk with some kind of invisible execution spell. That one was new.
+Both were true in ways he disliked. The third version claimed he had threatened Hesk with some kind of invisible execution spell. That one was new.
 
-A woman from the market thanked me. A caravan driver asked whether I was the reason his departure had been delayed. A militia recruit stared at my hands.
+A woman from the market thanked him. A caravan driver asked whether he was the reason his departure had been delayed. A militia recruit stared at his hands.
 
-An older man moved away when he heard someone say I was still undefined. A child asked whether I could make a horse. I told him probably not a good one.
+An older man moved away when he heard someone say he was still undefined. A child asked whether he could make a horse. He told him probably not a good one.
 
-His mother took him away before he could negotiate. By the time the council reconvened, Greywake had apparently decided I was a hero, criminal, monster, useful idiot, miracle worker, and road hazard. I preferred the last one.
+His mother took him away before he could negotiate. By the time the council reconvened, Greywake had apparently decided he was a hero, criminal, monster, useful idiot, miracle worker, and road hazard. He preferred the last one.
 
 It felt honest. The final order took longer than fighting Hesk had. Naturally.
 

@@ -49,7 +49,7 @@ Lower levels cannot silently contradict higher levels.
 | A080 | Chapter Architect | Chapter Planner | chapter sheets |
 | A081 | Scene Architect | Scene Planner | scene purpose/change |
 | A090 | Manuscript Author | Light-Novel Writer | prose draft |
-| A091 | Red Jackal Voice Writer | Character Voice Specialist | close-third Red focal voice, spoken personality, restrained internal thought |
+| A091 | Red Jackal Voice Writer | Character Voice Specialist | close first-person Red voice, fourth-wall timing, spoken personality |
 | A092 | Dialogue Editor | Dialogue Specialist | natural dialogue, interruptions, pauses, subtext, callbacks |
 | A093 | Comedy Editor | Comedy/Timing Editor | character/situation comedy; no forced joke quota |
 | A094 | Reference Editor | Cultural/Reference Editor | pop-culture references |
@@ -97,15 +97,17 @@ Chapter Architect → Scene Architect → Continuity precheck → Knowledge-stat
 Manuscript Author → Red Jackal Voice → Dialogue → Comedy → Action → Imagination Scene Design → Reference → Prose.
 
 For the active series style, Phase 7 must enforce:
-- close third-person limited centered on Red;
+- close first-person limited centered on Red;
 - simple, natural, cinematic English;
-- visual action/reaction before unnecessary explanation;
-- dialogue-led characterization;
-- short/selective internal thought;
-- character/situation comedy;
+- direct Red personality in narration and dialogue;
+- fourth-wall pause whenever Red genuinely addresses the audience;
+- human dialogue with interruptions, pauses and subtext;
+- character/situation/meta comedy;
 - quiet treatment of serious danger or emotion;
 - clear spatial action;
-- Play Logic as already-overpowered revelation/restraint, never tier progression.
+- Play Logic as already-overpowered revelation/restraint, never tier progression;
+- no conventional Red moral-development arc;
+- preservation of independent native hero/villain storylines that Red may intrude upon.
 
 ### Phase 8 QA
 Canon Conflict → Continuity → Power → Mystery → Character → Paragraph → Reference → Chapter QA.

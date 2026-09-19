@@ -7,6 +7,20 @@
 **Status:** GATE 6 PASS — VOLUME ARCHITECTURE LOCKED / CHAPTER ROADMAP AUTHORIZED  
 **Scope:** Complete volume architecture only. No chapter roadmap, scene list, or manuscript prose.
 
+# Soul-Drift / Story-Intruder Retcon Override
+
+The authoritative retcon in `planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md` supersedes conflicting origin, POV, fourth-wall, Red-development, and power-limit language in this architecture.
+
+Locked interpretation:
+- Red uses close first-person narration in manuscript;
+- Red is already overwhelmingly powerful;
+- no Stage progression exists;
+- Red does not receive a moral-development arc;
+- any “lesson” is a situational fact or consequence, not personality reform;
+- fourth-wall address invokes Fourth-Wall Pause;
+- Greywake's place, chapter order, investigation pacing, climax placement, and ending remain unchanged;
+- Veyr's independent Hero/Main-Villain story continues off-screen.
+
 # Power-Model Retcon Override
 
 The authorial retcon in `planning/RED-JACKAL-OVERPOWERED-RETCON.md` supersedes all Stage I / progression-ceiling language in this architecture.
@@ -345,7 +359,7 @@ She does **not** arrive because of Red Jackal.
 - challenges Red Jackal's habit of treating facts as optional when presentation is more entertaining;
 - provides M-002 observations without explaining writer truth.
 
-### Personal Development Beat
+### Red Stable-Character / Situation Beat
 
 Maelis begins believing correct procedure is the best defense against abuse.
 
@@ -376,13 +390,13 @@ He does **not** arrive because of Red Jackal.
 - repeatedly clashes with Red Jackal's willingness to improvise around risks that can kill other people;
 - supports the final migration solution through actual frontier expertise.
 
-### Personal Development Beat
+### Red Stable-Character / Situation Beat
 
 Tavian initially treats Red Jackal as another talented reckless person who will eventually get someone else killed.
 
 He does not become a fan.
 
-By the end, he can acknowledge that Red Jackal is capable of taking responsibility when a situation becomes real, while still considering him irresponsible.
+By the end, he can acknowledge that Red Jackal is capable of taking consequence when a situation becomes real, while still considering him irresponsible.
 
 # 8. Greywake-Local Cast
 
@@ -746,7 +760,7 @@ toward:
 He does not become obedient, lawful, selfless, or traditionally heroic.
 
 ### End State
-He remains theatrical and self-centered but has made at least one deliberate choice to take responsibility for a consequence he could have escaped.
+He remains theatrical and self-centered but has made at least one deliberate choice to take consequence for a consequence he could have escaped.
 
 ## 17.2 Maelis Orra
 
@@ -799,7 +813,7 @@ adventure-forward with increasing unease.
 Functions:
 - lure evidence is discovered;
 - Guild route choices become suspicious;
-- Red Jackal learns his off-book jobs overlap the manipulated danger zones;
+- Red Jackal discovers his off-book jobs overlap the manipulated danger zones;
 - outer-homestead losses become personal rather than statistical;
 - Hesk's policy becomes visible without yet exposing every detail.
 

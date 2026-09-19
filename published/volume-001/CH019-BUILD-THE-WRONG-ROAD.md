@@ -1,4 +1,4 @@
-Chapter 19 — Build the Wrong Road
+# Chapter 19 — Build the Wrong Road
 
 Broken North looked worse when people arrived with tools. The last time I had come through, the road had mostly been an investigation problem. Bad ground. Old stone. Fresh Guild closure. One hidden lure. Enough wrong details to make competent people suspicious.
 
@@ -198,13 +198,17 @@ A brace.
 
 Nothing more.
 
-The pale-grey shape appeared beneath the lip. It came cleaner than the first one I had made here. Short.
+The pale-grey shape appeared beneath the lip exactly where the foreman had pointed.
 
-Wide. Wedged against the remaining wall. The pressure behind my eyes came immediately.
+Short.
 
-Not pain yet.
+Wide.
 
-Weight.
+Wedged against the remaining wall.
+
+I could have made more.
+
+More was not the assignment.
 
 The foreman crouched.
 
@@ -214,31 +218,19 @@ The foreman crouched.
 
 “Then stop talking.”
 
-Workers moved. Two timbers went into the gap beside the manifestation. Stone followed.
+Workers moved. Two timbers went into the gap beside the manifestation. Stone followed, then packed aggregate. Rope lines held workers away from the drop while they worked the supports into place.
 
-Then packed aggregate. Rope lines held workers away from the drop while they worked the supports into place. I did nothing except keep the idea simple.
+I kept the brace exactly where it was.
 
-Hold.
+The difficult part was not holding impossible material under a road.
 
-My shoulder tightened. Sweat ran down my back. The brace gave a faint shudder.
+The difficult part was doing nothing clever while people who actually understood roads decided where permanent weight belonged.
 
-The foreman looked at it.
+A worker drove the timber deeper. Another packed stone behind it. Brynn kept the approach clear. Tavian watched both the road and the forest.
 
-“Still?”
+Minutes stretched.
 
-“Yes.”
-
-He did not ask again. That helped. A worker drove the timber deeper.
-
-Another packed stone behind it. Brynn kept the approach clear. Tavian watched both the road and the forest.
-
-Minutes stretched. The manifestation started to crack near one side. I could feel it before I saw it.
-
-My concentration slipped. I dragged it back.
-
-Simple.
-
-Hold.
+The brace did not.
 
 “Transfer,” the foreman said.
 
@@ -264,7 +256,7 @@ I looked at him.
 
 “It is more trust than I have in your face right now.”
 
-I let the manifestation go. The pale-grey brace fractured and disappeared. The timber remained.
+I dismissed the manifestation. The pale-grey brace broke apart and disappeared. The timber remained.
 
 The road shelf remained.
 
@@ -306,10 +298,6 @@ I looked at him.
 
 That was probably not the direction I wanted the conversation to go. Tavian came over.
 
-“One use.”
-
-“Yes.”
-
 “Short.”
 
 “Yes.”
@@ -324,31 +312,25 @@ The foreman said, “Ramp.”
 
 “Fine.”
 
-I focused on the near edge and the surviving road surface beyond it. Short. Rough.
+I pictured the near edge and the surviving road surface beyond it.
 
-Enough for boots and material. The second manifestation came slower. The first edge appeared too thin.
+Short. Rough. Enough for boots and material.
 
-I corrected it. The far side warped. I corrected that too.
+A pale-grey ramp settled into place.
 
-Pressure became pain. A hard line behind my eyes. The ramp settled into place.
+Crooked because the road was crooked. Usable because that was the only part that mattered.
 
-Crooked. Usable. The foreman tested it with one foot.
+The foreman tested it with one foot.
 
 “Move.”
 
 Workers moved. Planks first. Then stone baskets.
 
-Then fill. Nobody lingered. I held the ramp.
+Then fill. Nobody lingered. The ramp stayed where I had put it.
 
-My hands started trembling. The surface flickered once when someone dropped a stone basket onto the far side. I forced it stable.
+Tavian watched the workers instead of me.
 
-Tavian saw.
-
-“How long?”
-
-“Not forever.”
-
-“That was already established.”
+Good.
 
 The foreman shouted from the far side.
 
@@ -366,25 +348,19 @@ The foreman looked at me.
 
 “Drop it.”
 
-I kept holding.
-
 “There is one more basket.”
 
-“No.”
+“The permanent footing is carrying load now. Drop it.”
 
-“It would take ten seconds.”
+That was the point.
 
-“Drop it.”
+I dismissed the ramp. The last basket stayed on the near side.
 
-I looked at Tavian. He did not say anything. That was worse.
+A worker picked it up and carried it across the new planks by hand. Apparently civilization survived without making the impossible part permanent.
 
-I released the ramp. It vanished unevenly. The last basket stayed on the near side.
+I drank water and ate the rest of the bread Brynn had forced on me. My shoulder throbbed from the ordinary work, and the old wound at my side still pulled when I bent.
 
-A worker picked it up and carried it across the new planks by hand. Apparently civilization survived. I sat down again.
-
-This time nobody waited for me to pretend I was fine. My headache had moved behind both eyes. My shoulder throbbed.
-
-The old wound at my side felt tight instead of open, but bending made it pull. My hands would not stop shaking. Tavian crouched near a patch of disturbed soil.
+Tavian crouched near a patch of disturbed soil.
 
 He stopped.
 
@@ -454,29 +430,33 @@ Wrong angle.
 
 Straight toward the work group.
 
-I moved. My body did not appreciate that decision. The headache sharpened.
+I moved.
 
-My leg almost failed on the first step. I planted myself between the workers and the side cut.
+The workday had made my leg sore, but soreness was not the problem in front of me.
+
+I planted myself between the workers and the side cut.
 
 Low barrier.
 
 Nothing else.
 
-Simple.
+Not because nothing else was possible.
 
-The manifestation appeared badly. Too narrow. I forced it wider.
+Because Tavian wanted the hounds following prey north, not trapped in a fight beside the work crews.
 
-One side flickered. The hound hit the barrier. The shape bent.
+A low pale barrier appeared across the bad angle.
 
-Did not break. The animal recoiled and turned along the road instead.
+The hound hit it, found the route inconvenient, and turned along the road instead.
 
 “Move!”
 
 Brynn's voice. The workers cleared the line. The second hound followed the first.
 
-The barrier shook. A crack ran through the center. I let it go before it failed under me.
+The workers cleared the line.
 
-It disappeared. The hounds kept running north after the prey. Militia did not chase.
+I dismissed the barrier.
+
+The hounds kept running north after the prey. Militia did not chase.
 
 Tavian watched the tree line until the calls moved farther away. Then he lowered his blade.
 
@@ -486,23 +466,21 @@ Good.
 
 A worker came back for the dropped tools. Another checked the rough footing. Brynn looked at me.
 
-“You done?”
+“You done improvising?”
 
-“Yes.”
+“For now.”
 
 “Actually?”
 
 “Yes.”
 
-She looked at my hands. I looked too. The shaking had gotten worse.
+She pointed toward the road.
 
-“I am not making a fourth thing.”
+“Good. They need hands more than spectacle.”
 
-“That was not a suggestion.”
+That was not a suggestion.
 
-I sat on a stone. A small cut along my forearm had already started closing. My energy had not.
-
-The distinction was becoming familiar. Tavian walked the section the animals had used. He looked at the route.
+A small cut along my forearm had already started closing. I picked up a dropped tool and went back to the work line. Tavian walked the section the animals had used. He looked at the route.
 
 Then at the side spill.
 
@@ -588,7 +566,7 @@ He took time before answering.
 
 That was the win. A very careful, unimpressive win. The road still looked terrible.
 
-The workers were exhausted. The militia had mud to their knees. I felt like my skull had been packed with wet cloth.
+The workers were exhausted. The militia had mud to their knees. I was tired too, mostly because I had spent a day carrying timber, digging mud, and repeatedly refusing to solve civil engineering by declaring reality negotiable.
 
 And Broken North now went somewhere. Brynn looked at the far connector.
 

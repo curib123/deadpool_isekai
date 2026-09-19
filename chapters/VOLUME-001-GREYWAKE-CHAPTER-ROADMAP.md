@@ -120,12 +120,12 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Supporting Development:** Maelis's procedural confidence and Jessa's nervous familiarity with route paperwork are established.  
 **Antagonist Pressure:** Hesk sees the Ledger's interest and decides an off-book arrangement is safer than formal guild registration.  
 **Action Progression:** None; investigative/social tension.  
-**Stage I Play Logic:** Small spontaneous manifestation may occur under stress but is not analyzed deeply.  
+**Stage I Play Logic:** None in CH-003; no attempt or manifestation. F-004 remains protected for CH-005.  
 **Regeneration Consequence:** None.  
 **Aura-Farming Opportunity:** Red Jackal gives an overdramatic non-answer about his identity; Maelis writes down “refused/unknown” rather than the version he wanted.  
 **Comedy Opportunity:** Maelis's literal recordkeeping punctures his narration.  
 **Mystery / Foreshadowing:** **F-002 planned here — remains PLANNED — NOT YET PLANTED.** M-002 advances observationally.  
-**Continuity Dependencies:** F-001 is only planned, not canonically planted until prose exists.  
+**Continuity Dependencies:** F-001 is PLANTED — CH-002; CH-003 may reference the established two-interface failure.  
 **Knowledge Dependencies:** Maelis may conclude the failure exceeds ordinary anti-appraisal, but cannot know its cause.  
 **Ending Beat:** Hesk offers Red Jackal a private solution: work that does not require a valid registry entry.
 

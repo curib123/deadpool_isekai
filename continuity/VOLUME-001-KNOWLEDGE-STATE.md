@@ -900,7 +900,7 @@ CH-006 may begin with:
 # CH-006 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-006 — The Road That Works  
-**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+**Status:** SUPERSEDED BY CH-007 CANON CHECKPOINT
 
 ## Red Jackal — Opening CH-006
 
@@ -1229,12 +1229,7 @@ The worker's injury must remain narratively meaningful and not become disposable
 
 ## F-003 Boundary
 
-F-003 remains **PLANNED — NOT YET PLANTED** until approved CH-007 manuscript prose contains:
-
-1. severe injury already autonomously correcting before healer intervention;
-2. conventional healing magic encountering that already-changing wound state;
-
-and Gate 9 passes.
+F-003 is now **PLANTED — CH-007** after approved manuscript prose contained both autonomous correction before healer intervention and conventional healing magic encountering the already-changing wound state, and passed Gate 9.
 
 ## F-004 Boundary
 
@@ -1267,3 +1262,119 @@ Do not begin:
 - Kellan Dorr's chapter role;
 - warning-marker mismatch;
 - CH-008 route disparity investigation.
+
+
+
+# CH-007 Canon Checkpoint
+
+**Chapter:** CH-007 — You Should Be Dead  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH007-YOU-SHOULD-BE-DEAD.md`  
+**QA:** `qa/CH-007-GATE-9-CHAPTER-QA.md`
+
+After CH-007, Red Jackal canonically knows:
+
+- a displaced predator pack appeared on a near-Greywake service road locals considered routine;
+- his own abnormal survivability can distort his risk judgment;
+- moving into a position because he can survive the likely hit can redirect danger toward people who cannot;
+- he suffered severe flank/torso trauma that would likely kill or critically disable an ordinary person without urgent treatment;
+- his body began correcting that trauma autonomously before healer intervention;
+- the correction is painful, exhausting, and destabilizing rather than an instant combat reset;
+- regeneration reduces bleeding and changes tissue state but does not preserve full coordination or focus;
+- Sela Arven considers the process medically abnormal;
+- a conventional diagnostic/healing knit encountered wound boundaries that were already changing beneath it;
+- no standard external healing residue explained the recovery;
+- Sela cannot classify the true mechanism safely;
+- surviving damage and making a safe decision are not the same thing.
+
+Red Jackal still does **not** know:
+
+- the self-model mechanism;
+- why regeneration and Play Logic exist;
+- whether every lethal injury is survivable;
+- the march-lure network exists;
+- Hesk is redirecting migration;
+- casualty records are falsified;
+- Fate/Great Design truth;
+- any protected writer truth.
+
+## Tavian Rook — Post-CH-007 Knowledge
+
+Tavian canonically knows:
+
+- the displaced pack appeared abnormally close to Greywake;
+- Red Jackal's high-risk positioning directly exposed an ordinary worker;
+- Red Jackal can remain conscious and mobile after severe trauma;
+- Red Jackal's body changes unusually during extraction;
+- Red Jackal can still choose rescue responsibility after making a bad decision;
+- Red Jackal's raw survivability makes field judgment more important, not less.
+
+Tavian still does not know the regeneration mechanism.
+
+His distrust of reckless talent has deepened.
+
+## Sela Arven — Post-CH-007 Knowledge
+
+Sela canonically knows:
+
+- Red Jackal suffered recent severe trauma;
+- the wound state changed too quickly for ordinary untreated injury;
+- tissue was actively changing during diagnostic examination;
+- a standard diagnostic/healing knit did not meet a stable untreated wound boundary;
+- no normal external healing spell residue explains the process;
+- unusual innate/racial recovery or anomalous regeneration are possible hypotheses;
+- forcing ordinary healing patterns over the unknown process may be unsafe.
+
+Sela does not know:
+- self-model reassertion;
+- System-external embodiment;
+- shared origin with Play Logic;
+- immortality.
+
+## Injured Road Worker — Post-CH-007 State
+
+The injured worker:
+- suffered meaningful lower-leg predator trauma;
+- received first-priority conventional treatment;
+- remains subject to ordinary pain/recovery limits;
+- was not erased from the scene by Red Jackal's anomaly.
+
+His injury is part of the practical consequence of Red Jackal's mistake.
+
+## F-ID State After CH-007
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+## M-005 State After CH-007
+
+M-005 advances observationally only.
+
+Established observation:
+- Red Jackal's regeneration is medically abnormal;
+- it does not behave like ordinary conventional healing magic;
+- it is painful and exhausting.
+
+The mechanism remains protected.
+
+## M-007 State After CH-007
+
+M-007 remains inactive.
+
+No Fate/prophecy/causal-wake clue was introduced.
+
+## CH-008 Handoff
+
+CH-008 may begin with:
+
+- Red Jackal still physically depleted from CH-007;
+- Sela's warning and treatment restrictions still relevant;
+- Tavian's distrust of reckless positioning increased;
+- F-003 already planted;
+- no proof of Hesk's migration manipulation;
+- no march-lure knowledge;
+- the Outer Homestead work assignment beginning beyond the protected main-route system.
+
+Residual exhaustion must limit how casually Red Jackal uses Play Logic in CH-008.

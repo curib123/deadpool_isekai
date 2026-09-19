@@ -1,57 +1,58 @@
 # CH-006 Publish Version QA
 
 **Canon Source:** `manuscript/CH006-THE-ROAD-THAT-WORKS.md`  
-**Canon Source SHA:** `e5d151399b9338a2408ddac2a8f408d3a0206f61`  
+**Canon Source SHA:** `534da06624f8b58b91312a02d603f57cb837a191`  
 **Publication Copy:** `published/volume-001/CH006-THE-ROAD-THAT-WORKS.md`  
 **Target Platform:** WebNovel-compatible reader-facing copy  
 **Review Date:** 2026-09-19  
-**Status:** PUBLISH-READY — GATE 11 PASS
+**Status:** PUBLISH-READY — GATE 11 PASS / OVERPOWERED RETCON REFRESH
 
 # Source Integrity
 
-- Canon source is CANON: **PASS**
-- Gate 9 status is recorded in canon / Volume 1 Gate 10: **PASS**
-- Latest fetched canon source used: **PASS**
-- Chapter title preserved: **PASS**
-- Canon body paragraph count preserved: **240 / 240**
-- Opening/final paragraph preserved exactly: **PASS**
-- Order preserved; omissions/duplications: **NONE**
+- source manuscript is CANON — OVERPOWERED RETCON GATE 9 PASS;
+- publication copy regenerated from the latest canon source;
+- only production metadata was removed;
+- chapter title preserved: **Chapter 6 — The Road That Works**;
+- final nonblank line preserved: **“The animals are moving wrong.”**;
+- no scene, dialogue block, event, or paragraph order changed.
 
-# Semantic Equivalence
+# Canon Equivalence
 
-Reader-facing prose body is byte-equivalent to canon after removal of repository-only metadata.
+**PASS.**
 
-Presentation-only removals:
-- Markdown heading marker;
-- CANON status;
-- word-count metadata;
-- internal Chapter QA/file metadata.
+The publication copy is a presentation-only derivation of the current canon manuscript.
 
-No story, dialogue, narration, humor, injury, power, clue, knowledge-state, character-decision, ending, or final-line change.
+No semantic changes were made to:
+- Red Jackal characterization;
+- Play Logic behavior;
+- injuries/consequences;
+- mystery/foreshadowing;
+- dialogue meaning;
+- chapter ending.
 
-**Semantic Diff:** PASS — PRESENTATION ONLY
+# Reader-Facing Cleanup
 
-# Platform QA
+**PASS.**
 
-- repository/QA metadata visible: **NONE**
-- raw code fences: **NONE**
-- raw Markdown emphasis markers in prose: **NONE**
-- paragraph rhythm/order: **PASS**
-- dialogue/self-talk/reader-talk wording: **PASS**
-- duplicated title in body: **NO**
-- plain-text/mobile readability: **PASS**
-- new spoilers/reference expansion: **NONE**
+Removed:
+- Status;
+- Word Count;
+- Chapter QA;
+- Retcon QA;
+- other production metadata when present.
 
-# Findings
+No internal Gate/QA text remains inside reader prose.
 
-CRITICAL: None.  
-MAJOR: None.  
-MINOR: None.
+# Formatting
+
+**PASS.**
+
+- paragraph sequence preserved;
+- dialogue quotation marks preserved;
+- intentional one-line beats preserved;
+- no code fences or broken HTML;
+- plain-text/WebNovel copy-paste compatible.
 
 # Decision
 
-# PASS
-
-**CH-006 is PUBLISH-READY — GATE 11 PASS.**
-
-Canon manuscript remains the source of truth.
+**PUBLISH-READY — GATE 11 PASS.**

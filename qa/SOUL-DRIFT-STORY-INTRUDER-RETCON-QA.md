@@ -213,14 +213,14 @@ Older historical files may contain legacy wording only where explicitly marked s
 
 CH-001→CH-027 event structures remain continuity references.
 
-CH-001 through CH-004 prose are now **CURRENT** under this retcon. CH-005→CH-027 prose remains **STALE** because the new standard changes:
+CH-001 through CH-005 prose are now **CURRENT** under this retcon. CH-006→CH-027 prose remains **STALE** because the new standard changes:
 - first-person POV;
 - memory/origin;
 - Fourth-Wall Pause;
 - Red's stable character framing;
 - combat/comedy presentation.
 
-Old pre-reset Gate 9 / Gate 10 / Gate 11 results remain historical records only; the new CH-001 through CH-004 Gate 9 revalidations are current.
+Old pre-reset Gate 9 / Gate 10 / Gate 11 results remain historical records only; the new CH-001 through CH-005 Gate 9 revalidations are current.
 
 # 11. Production Decision
 
@@ -228,13 +228,13 @@ Old pre-reset Gate 9 / Gate 10 / Gate 11 results remain historical records only;
 
 **Official next step:**
 
-**CH-005 — A Better Hammer → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**
+**CH-006 — The Road That Works → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**
 
-CH-001 through CH-004 synchronization are COMPLETE — Gate 9 PASS.
+CH-001 through CH-005 synchronization are COMPLETE — Gate 9 PASS.
 
-Then continue sequentially from CH-005:
+Then continue sequentially from CH-006:
 
-**CH-005 → CH-006 → … → CH-027**
+**CH-006 → CH-007 → … → CH-027**
 
 After CH-001→CH-026:
 - rerun Volume 1 Gate 10;

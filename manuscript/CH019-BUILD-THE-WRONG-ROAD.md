@@ -1,7 +1,8 @@
 # Chapter 19 — Build the Wrong Road
 
-**Status:** DRAFT — GATE 9 NOT YET RUN  
-**Word Count:** 2,748
+**Status:** CANON — GATE 9 PASS / DEADPAN VOICE LOCKED  
+**Word Count:** 2,748  
+**Chapter QA:** `qa/CH-019-GATE-9-CHAPTER-QA.md`
 
 Broken North looked worse when people arrived with tools. The last time I had come through, the road had mostly been an investigation problem. Bad ground. Old stone. Fresh Guild closure. One hidden lure. Enough wrong details to make competent people suspicious.
 

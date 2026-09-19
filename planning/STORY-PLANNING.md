@@ -281,9 +281,23 @@ Gate 5 QA record:
 
 `qa/VOLUME-002-DESTINATION-SELECTION-QA.md`
 
-**Official next step:** Gate 6 — Volume 2 / Merrowgate Arc Architecture QA.
+**Gate 6 Result:** PASS — Volume 2 / Merrowgate Arc architecture locked.
 
-No Volume 2 chapter roadmap, scene architecture, dialogue, or manuscript prose is authorized yet.
+Authoritative architecture:
+
+`volumes/VOLUME-002-MERROWGATE-ARCHITECTURE.md`
+
+Knowledge-state support:
+
+`continuity/VOLUME-002-KNOWLEDGE-STATE.md`
+
+Gate 6 QA:
+
+`qa/VOLUME-002-MERROWGATE-GATE-6-QA.md`
+
+**Official next step:** Gate 7 — Volume 2 / Merrowgate Arc Chapter Roadmap QA.
+
+Chapter-roadmap planning is now authorized. Detailed scenes, final dialogue, manuscript prose, and Volume 3 selection remain deferred.
 
 # 4B. Publication Release Workflow
 

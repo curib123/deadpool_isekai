@@ -1,7 +1,7 @@
 # Chapter 14 — Necessary Losses
 
-**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
-**Word Count:** 3,124  
+**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Word Count:** 3124,124  
 
 Proving someone had been deciding where people were allowed to die turned out not to make the next decision easier. He found that rude. The council chamber was fuller than the map room had been. Two long benches had been pulled against the walls, council representatives occupied most of the chairs, and three different stacks of records sat in front of Maelis like paperwork had started breeding.
 
@@ -21,7 +21,7 @@ Kellan looked at him.
 
 “You were yesterday.”
 
-“I said no one is disputing it now.”
+“he said no one is disputing it now.”
 
 “Comforting.”
 
@@ -47,7 +47,7 @@ Not whether they should have existed. Not whether Hesk had lied. Not whether the
 
 What happened next. He looked at the man.
 
-“You're asking if we should keep doing it.”
+“You're asking if they should keep doing it.”
 
 “No,” Brynn said before he could answer.
 
@@ -61,13 +61,13 @@ He glanced at her. She met his eyes.
 
 Maelis folded her hands.
 
-“Evidence tells us what occurred. It does not tell us how to reverse it safely.”
+“Evidence tells them what occurred. It does not tell them how to reverse it safely.”
 
 He looked at her.
 
 “That is deeply disappointing.”
 
-“I assumed you would feel that way.”
+“he assumed you would feel that way.”
 
 Minimal sympathy. Very on brand. Kellan stepped closer to the table.
 
@@ -89,7 +89,7 @@ The answer came fast.
 
 “You do not resume secret control because the council has not finished arguing.”
 
-“I am the Roadmaster.”
+“he am the Roadmaster.”
 
 “You are also the person whose hidden policy created this dispute.”
 
@@ -103,17 +103,17 @@ Hesk's face did not move. Brynn continued.
 
 That one almost made him smile. Almost. A councilwoman near the far end of the table tapped the wood with two fingers.
 
-“If we are going to suspend the system, I want the operational risk stated plainly.”
+“If they are going to suspend the system, he want the operational risk stated plainly.”
 
 Kellan turned on her.
 
 “People are already dying under it.”
 
-“I know.”
+“he know.”
 
 “Then what more do you need?”
 
-“I need to know whether stopping it kills more.”
+“he need to know whether stopping it kills more.”
 
 The room went quiet. Hesk finally spoke.
 
@@ -127,7 +127,7 @@ Hesk looked at him.
 
 “You wanted the truth.”
 
-“I got it.”
+“he got it.”
 
 “And now you want a simpler one.”
 
@@ -163,9 +163,9 @@ Kellan's jaw tightened.
 
 “Don't use them for this.”
 
-“I am telling you what happened.”
+“he am telling you what happened.”
 
-“I know what happened.”
+“he know what happened.”
 
 “Then you know people came inside the walls carrying what they could carry.”
 
@@ -185,15 +185,15 @@ Nobody moved. He had wanted to dislike the story. That would have been easier.
 
 Hesk rested both hands on the table.
 
-“I was on the crews that reopened the road.”
+“he was on the crews that reopened the road.”
 
 One councilman nodded once. Hesk continued.
 
-“We cut through frozen debris. We buried two workers beside the old marker because the ground was too hard to bring them home. When relief finally reached Greywake, the officials who signed the release papers asked whether this settlement still justified maintaining the route.”
+“they cut through frozen debris. they buried two workers beside the old marker because the ground was too hard to bring them home. When relief finally reached Greywake, the officials who signed the release papers asked whether this settlement still justified maintaining the route.”
 
 His voice stayed calm. That was the worst part.
 
-“I learned something that winter.”
+“he learned something that winter.”
 
 He already knew what was coming. He looked around the room.
 
@@ -213,7 +213,7 @@ He folded his arms.
 
 Hesk looked at him.
 
-“I decided the road was how the people inside this settlement stayed alive.”
+“he decided the road was how the people inside this settlement stayed alive.”
 
 “Very neat.”
 
@@ -229,9 +229,9 @@ The room went silent again. Hesk looked toward the map.
 
 Kellan stepped forward.
 
-“That does not mean you get to feed mine to the forest.”
+“That does not mean you get to feed his to the forest.”
 
-“I did not say it did.”
+“he did not say it did.”
 
 “You did it anyway.”
 
@@ -245,11 +245,11 @@ Just yes.
 
 That answer landed harder than another argument would have. Hesk looked at him again.
 
-“You think I chose between good and evil.”
+“You think he chose between good and evil.”
 
-“I think you chose for people who never got asked.”
+“he think you chose for people who never got asked.”
 
-“I chose between routes.”
+“he chose between routes.”
 
 “Routes have people on them.”
 
@@ -259,7 +259,7 @@ There was no way to make him misunderstand that. He knew. That was the problem.
 
 One council representative cleared his throat.
 
-“We need the supply figures.”
+“they need the supply figures.”
 
 Maelis looked at him.
 
@@ -295,7 +295,7 @@ The clerk nodded.
 
 “Outer farms, timber, repair stock, livestock.”
 
-“Say that again when someone calls us replaceable.”
+“Say that again when someone calls them replaceable.”
 
 Hesk did not react. The clerk continued.
 
@@ -311,7 +311,7 @@ The clerk looked uncomfortable.
 
 “For how long?”
 
-“I cannot give an exact time.”
+“he cannot give an exact time.”
 
 “Good,” Tavian said.
 
@@ -339,9 +339,9 @@ Kellan blinked. Apparently he had expected a fight. Hesk continued.
 
 “They provide timber, livestock, labor, repair crews, local grain.”
 
-“Then why were we the side you kept exposing?”
+“Then why were they the side you kept exposing?”
 
-“Because losing the Main Caravan Road isolates all of us.”
+“Because losing the Main Caravan Road isolates all of them.”
 
 Kellan laughed once. Not because it was funny.
 
@@ -371,7 +371,7 @@ One council representative looked sharply at him. Maelis continued.
 
 “You intended to secure expanded Valedorn support using safety data that did not fully represent the cost of that safety.”
 
-“I intended to secure permanent funding before Greywake was abandoned the next time officials decided we cost more than we returned.”
+“he intended to secure permanent funding before Greywake was abandoned the next time officials decided they cost more than they returned.”
 
 “That is not a denial.”
 
@@ -397,7 +397,7 @@ Maelis's voice stayed level.
 
 “And falsifying the human cost may invalidate the credibility of the request entirely.”
 
-“I know.”
+“he know.”
 
 For the first time, Hesk looked tired. Not guilty. Not defeated.
 
@@ -405,11 +405,11 @@ Tired. That almost made him easier to hate. Almost.
 
 Brynn turned to Tavian.
 
-“We know why Hesk wants the system maintained.”
+“they know why Hesk wants the system maintained.”
 
 Tavian nodded.
 
-“We still do not know what happens if it changes.”
+“they still do not know what happens if it changes.”
 
 “Can you answer that?”
 
@@ -431,7 +431,7 @@ Maelis nodded approvingly. He pointed to the lines between them.
 
 “These lures do not command animals.”
 
-“We know,” he said.
+“they know,” he said.
 
 “They change the choices available.”
 
@@ -467,7 +467,7 @@ Very Tavian.
 
 He continued.
 
-“The system has been active long enough that several movement corridors overlap where they should not. We have already seen predator and prey species using the same broad drift.”
+“The system has been active long enough that several movement corridors overlap where they should not. they have already seen predator and prey species using the same broad drift.”
 
 He remembered CH-009. Wrong tracks. Wrong direction.
 
@@ -507,7 +507,7 @@ Another.
 
 He looked around the room.
 
-“We do not know.”
+“they do not know.”
 
 That was unpleasantly clear. He looked at the map.
 
@@ -539,7 +539,7 @@ Hesk looked at him.
 
 “You just explained—”
 
-“I explained why removing it blindly is dangerous.”
+“he explained why removing it blindly is dangerous.”
 
 “That is the same conclusion.”
 
@@ -555,11 +555,11 @@ Hesk said nothing.
 
 He almost smiled. Professional disagreement remained beautiful. Tavian pointed toward the unconfirmed areas.
 
-“We need the full deployment map.”
+“they need the full deployment map.”
 
-“We do not have one,” Maelis said.
+“they do not have one,” Maelis said.
 
-“Then we build one.”
+“Then they build one.”
 
 Hesk folded his arms.
 
@@ -571,25 +571,25 @@ Tavian looked at him.
 
 Kellan's head snapped around.
 
-“You want us to leave the lures running?”
+“You want them to leave the lures running?”
 
-“I want nobody changing a system we do not understand while people are standing inside the possible consequences.”
+“he want nobody changing a system they do not understand while people are standing inside the possible consequences.”
 
 Kellan's face tightened.
 
-“My people are already standing inside the consequences.”
+“his people are already standing inside the consequences.”
 
-“I know.”
+“he know.”
 
 “Then every hour matters.”
 
-“I know.”
+“he know.”
 
 “Doesn't sound like it.”
 
 Tavian did not flinch.
 
-“If I tell you to break a lure now, and the pressure moves into another homestead, did I help you?”
+“If he tell you to break a lure now, and the pressure moves into another homestead, did he help you?”
 
 Kellan opened his mouth. Stopped. That silence hurt more than shouting.
 
@@ -627,7 +627,7 @@ Tavian added, “Field teams map confirmed and suspected influence points.” Ke
 
 “All of them?”
 
-“All we can reach.”
+“All they can reach.”
 
 “Evacuated?”
 
@@ -641,7 +641,7 @@ One council member rubbed his forehead.
 
 “No one said it did.”
 
-“I am saying it now so no one says otherwise later.”
+“he am saying it now so no one says otherwise later.”
 
 Also very Maelis. Hesk looked at the table.
 
@@ -651,7 +651,7 @@ Also very Maelis. Hesk looked at the table.
 
 “And if the migration shifts before your mapping is complete?”
 
-“We respond.”
+“they respond.”
 
 “You cannot respond everywhere.”
 
@@ -663,17 +663,17 @@ Hesk's gaze moved across the room.
 
 He pushed away from the wall.
 
-“No, we just don't enjoy saying it as much as you do.”
+“No, they just don't enjoy saying it as much as you do.”
 
 His eyes settled on him.
 
 “You still think there is a version where no one chooses.”
 
-“I think there is a difference between choosing under pressure and quietly deciding someone else counts less.”
+“he think there is a difference between choosing under pressure and quietly deciding someone else counts less.”
 
 “The forest does not care about that distinction.”
 
-“I do.”
+“he do.”
 
 “That will not move a migration.”
 
@@ -693,9 +693,9 @@ The answer came too quickly. Everyone noticed. Tavian definitely noticed.
 
 He continued anyway.
 
-“I want the part where people get secretly designated as acceptable loss gone.”
+“he want the part where people get secretly designated as acceptable loss gone.”
 
-“So do I,” Brynn said.
+“So do he,” Brynn said.
 
 He looked at her. She pointed at the map.
 
@@ -715,19 +715,19 @@ Maelis watched him. He pointed at her.
 
 “Do not look pleased.”
 
-“I am not.”
+“he am not.”
 
 “You have an evidence face.”
 
-“I have one face.”
+“he have one face.”
 
 Debatable. Kellan exhaled.
 
-“I hate this plan.”
+“he hate this plan.”
 
 Brynn nodded.
 
-“So do I.”
+“So do he.”
 
 “That is not reassuring.”
 
@@ -737,9 +737,9 @@ Kellan looked at Tavian.
 
 “You actually think waiting is safer?”
 
-“I think mapping first gives us a chance to change the system without guessing where the danger goes.”
+“he think mapping first gives them a chance to change the system without guessing where the danger goes.”
 
-“And if people get hit while we wait?”
+“And if people get hit while they wait?”
 
 Tavian was quiet.
 
@@ -793,21 +793,21 @@ Brynn turned on him.
 
 “The east outer homesteads are already exposed.”
 
-“So we warn them and send militia support.”
+“So they warn them and send militia support.”
 
 “The lure may need adjustment.”
 
-“Then we confirm the site and the risk first.”
+“Then they confirm the site and the risk first.”
 
 Kellan hit the table with the side of his fist.
 
-“My people are there now.”
+“his people are there now.”
 
-“I know,” Brynn said.
+“he know,” Brynn said.
 
-“We do not have time for three days of maps.”
+“they do not have time for three days of maps.”
 
-“I know.”
+“he know.”
 
 Red heat climbed into his chest. There it was again. Wait.
 
@@ -819,7 +819,7 @@ Good for him.
 
 “Red.”
 
-“I haven't done anything.”
+“he haven't done anything.”
 
 “Not yet.”
 
@@ -835,20 +835,20 @@ Hesk watched both of them. That was worse. Tavian stepped closer.
 
 His voice was quiet enough that the room had to listen.
 
-“We still do not know the full network.”
+“they still do not know the full network.”
 
 He said nothing.
 
-“We do not know which pressure lines overlap there.”
+“they do not know which pressure lines overlap there.”
 
 Still nothing.
 
 “If you change a lure now, the animals may not go where you think they will.”
 
-“I heard you.”
+“he heard you.”
 
-“I need you to understand me.”
+“he need you to understand him.”
 
 Red looked at Tavian and held his gaze.
 
-“Changing any lure before we map the full network could cause a backflow.”
+“Changing any lure before they map the full network could cause a backflow.”

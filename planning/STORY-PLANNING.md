@@ -484,3 +484,38 @@ Authoritative Gate 10:
 `qa/VOLUME-001-GREYWAKE-OVERPOWERED-RETCON-GATE-10-REVALIDATION.md`
 
 CH-028 is unpaused. The Volume 1 publication refresh has passed Gate 11.
+
+
+# 9. Series POV / Style Retcon
+
+**Status:** ACTIVE.
+
+The author has replaced first-person narration with:
+
+**close third-person limited centered on Red Jackal.**
+
+All current canon manuscripts are stylistically stale until revised:
+**CH-001 through CH-027.**
+
+Revision preserves:
+- chapter plot;
+- titles;
+- chronology;
+- mystery timing;
+- F-ID planting;
+- Red's already-overpowered writer truth;
+- injuries/consequences;
+- chapter endings unless grammar requires third-person conversion.
+
+Revision changes:
+- POV;
+- prose texture;
+- dialogue naturalness;
+- internal-thought density;
+- Red's voice delivery;
+- comedy placement;
+- emotional quiet.
+
+Production order is chronological.
+
+**CH-028 is paused until CH-001→CH-027 finish Gate 9 revalidation.**

@@ -4,7 +4,7 @@
 **Chapter:** CH-023 — Greywake Holds  
 **Movement:** VI — Greywake Holds  
 **Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-023 MANUSCRIPT AUTHORIZED  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-023 MANUSCRIPT CANON  
 **Final Scene Count:** 6  
 **POV:** Red Jackal first person  
 **Primary Cast:** Red Jackal, Tavian Rook, Captain Brynn Alder, Greywake militia, work crews  

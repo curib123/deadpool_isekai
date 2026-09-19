@@ -1,7 +1,7 @@
 # Chapter 15 — One Stake Too Many
 
-**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
-**Word Count:** 2952,846  
+**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Word Count:** 2943,846  
 
 By the time they reached the upper approach, nobody was pretending this was just a mapping trip. The road narrowed above the timber-road junction and climbed between old retaining stones dark with moss. Beyond them, the land opened toward the outer farms in long uneven strips separated by low fences, drainage cuts, and tree lines.
 
@@ -33,7 +33,7 @@ Kellan looked at the slope.
 
 “How recent?”
 
-“Recent enough that I do not want anyone separating.”
+“Recent enough that he do not want anyone separating.”
 
 The Guild guard shifted his spear.
 
@@ -67,7 +67,7 @@ He looked at Tavian.
 
 “You already know what's behind it.”
 
-“I know what I expect.”
+“he know what he expect.”
 
 “That sounded suspiciously like optimism.”
 
@@ -105,11 +105,11 @@ Nobody needed the token for that expression. Tavian pointed toward the upper far
 
 He looked from the stake to the churned hoof marks below them.
 
-“So this one is doing exactly what we thought.”
+“So this one is doing exactly what they thought.”
 
 Tavian's answer was careful.
 
-“It is influencing movement in the direction we expected.”
+“It is influencing movement in the direction they expected.”
 
 “That was a very Maelis answer.”
 
@@ -145,7 +145,7 @@ Kellan turned toward him.
 
 “The timber connector is being screened. The pressure is being pushed toward the upper approaches.”
 
-“My people.”
+“his people.”
 
 “Yes.”
 
@@ -155,7 +155,7 @@ That was one of them.
 
 The Guild technician replaced one tool in his case and took out a measuring cord.
 
-“We document first.”
+“they document first.”
 
 Kellan looked at him.
 
@@ -175,13 +175,13 @@ The guard stepped closer.
 
 “That is the order.”
 
-“I heard the order.”
+“he heard the order.”
 
 “Then follow it.”
 
 Kellan's shoulders tightened. Tavian stood.
 
-“We are not changing it yet.”
+“they are not changing it yet.”
 
 Kellan turned on him.
 
@@ -191,11 +191,11 @@ Kellan turned on him.
 
 “And you want to leave it running.”
 
-“I want the network mapped before we alter part of it.”
+“he want the network mapped before they alter part of it.”
 
 “The animals are not waiting for your map.”
 
-“I know.”
+“he know.”
 
 That answer did not help. The technician looked at him. Probably because he had been quiet.
 
@@ -205,7 +205,7 @@ That was his first mistake.
 
 “Nothing.”
 
-“You looked at me like I was about to commit a crime.”
+“You looked at him like he was about to commit a crime.”
 
 The guard answered.
 
@@ -231,7 +231,7 @@ He almost respected him. Tavian met his eyes.
 
 “Red.”
 
-“I know.”
+“he know.”
 
 “Say what you know.”
 
@@ -249,7 +249,7 @@ That felt insulting. Unfortunately, it was probably necessary.
 
 “No.”
 
-“And Brynn said nobody changes anything until we know more.”
+“And Brynn said nobody changes anything until they know more.”
 
 “Yes.”
 
@@ -257,11 +257,11 @@ Kellan looked at him.
 
 “You forgot the part where this thing is pushing predators toward people right now.”
 
-“I did not forget.”
+“he did not forget.”
 
 The Guild guard stepped between them and the recess.
 
-“We finish the map. Then the council decides.”
+“they finish the map. Then the council decides.”
 
 Kellan stared uphill again. A long animal call rolled through the trees. Not close.
 
@@ -329,7 +329,7 @@ For several seconds, all he heard was breathing. His was the worst. Tavian looke
 
 “You are bleeding.”
 
-“I know.”
+“he know.”
 
 The technician stared at the blood running down his clothes. Then at the skin visible through the torn fabric. The edges were already pulling tighter.
 
@@ -359,7 +359,7 @@ Then another. Kellan looked toward the farms.
 
 Tavian did not pretend.
 
-“I don't know.”
+“he don't know.”
 
 “Today?”
 
@@ -367,7 +367,7 @@ Tavian did not pretend.
 
 “Tomorrow?”
 
-“I don't know.”
+“he don't know.”
 
 Kellan turned toward the service recess. The stake kept working. Quietly.
 
@@ -377,9 +377,9 @@ Perfectly. The technician stepped in front of it.
 
 Kellan looked at him.
 
-“I wasn't talking to you.”
+“he wasn't talking to you.”
 
-“I am talking to both of you.”
+“he am talking to both of you.”
 
 His eyes moved to him. Mostly him. Tavian walked between them.
 
@@ -389,11 +389,11 @@ His side tightened again. He could feel the body doing its work beneath the pain
 
 That was dangerous.
 
-“You heard me in Greywake,” Tavian said.
+“You heard him in Greywake,” Tavian said.
 
 “Yes.”
 
-“You heard me five minutes ago.”
+“You heard him five minutes ago.”
 
 “Yes.”
 
@@ -401,17 +401,17 @@ That was dangerous.
 
 “Yes.”
 
-“That does not tell us what disabling it does to every connected route.”
+“That does not tell them what disabling it does to every connected route.”
 
-“I know.”
+“he know.”
 
-“We do not know where the displaced movement goes.”
+“they do not know where the displaced movement goes.”
 
-“I know.”
+“he know.”
 
-“We do not know what other species are being held away from this corridor by the same broader pattern.”
+“they do not know what other species are being held away from this corridor by the same broader pattern.”
 
-“I know.”
+“he know.”
 
 His eyes stayed on his.
 
@@ -419,23 +419,23 @@ His eyes stayed on his.
 
 That one landed. Kellan stepped closer.
 
-“I want it stopped.”
+“he want it stopped.”
 
 Tavian looked at him. Kellan did not back down.
 
-“My people are uphill.”
+“his people are uphill.”
 
-“I know.”
+“he know.”
 
 “That thing is helping push danger at them.”
 
 “Yes.”
 
-“Then I want it stopped.”
+“Then he want it stopped.”
 
 Tavian's jaw tightened. Kellan held up one hand.
 
-“But I cannot tell you what the rest of the network will do.”
+“But he cannot tell you what the rest of the network will do.”
 
 Silence.
 
@@ -443,11 +443,11 @@ Good.
 
 There it was. No permission disguised as certainty. Kellan looked at him.
 
-“I know these roads. I know those farms. I know that stake is part of what is hurting them.”
+“he know these roads. He know those farms. He know that stake is part of what is hurting them.”
 
 Then he pointed toward the forest.
 
-“I do not know where all of that goes if you pull it.”
+“he do not know where all of that goes if you pull it.”
 
 The technician nodded sharply.
 
@@ -455,9 +455,9 @@ The technician nodded sharply.
 
 Kellan turned on him.
 
-“Do not mistake that for me agreeing with you.”
+“Do not mistake that for him agreeing with you.”
 
-“I don't.”
+“he don't.”
 
 The guard moved to the recess.
 
@@ -479,7 +479,7 @@ Red looked at him.
 
 “You all prepared notes.”
 
-“No,” the technician said. “We prepared because this is dangerous.”
+“No,” the technician said. “they prepared because this is dangerous.”
 
 That was annoyingly reasonable. He looked uphill. No civilians in sight.
 
@@ -503,13 +503,13 @@ More tracks appeared while they waited. More calls came while they waited. Maybe
 
 Maybe leaving it guaranteed the danger stayed here. Neither choice came with clean hands. He looked at Tavian.
 
-“If I wait and someone uphill gets torn apart, did I choose?”
+“If he wait and someone uphill gets torn apart, did he choose?”
 
 His expression did not change.
 
 “Yes.”
 
-“And if I pull it and the pressure moves somewhere else?”
+“And if he pull it and the pressure moves somewhere else?”
 
 “Yes.”
 
@@ -529,11 +529,11 @@ The guard's grip tightened on the spear. Tavian moved before Red could. He put o
 
 “Red.”
 
-“I heard you.”
+“he heard you.”
 
 “That is not the same as listening.”
 
-“I listened.”
+“he listened.”
 
 “Then don't.”
 
@@ -547,7 +547,7 @@ Tavian's eyes narrowed. The guard stepped forward.
 
 “This is your last warning.”
 
-“Then we're all very informed.”
+“Then they were all very informed.”
 
 He moved. Tavian caught his shoulder. Not an attack.
 
@@ -565,19 +565,19 @@ Just blocking the second grab. Tavian's voice cut through all of it.
 
 “Kellan.”
 
-“I know.”
+“he know.”
 
 “You cannot know this is safe.”
 
-“I know.”
+“he know.”
 
 Kellan did not look away from the technician.
 
-“I want the stake stopped.”
+“he want the stake stopped.”
 
 Then he glanced at him.
 
-“What happens after that is not something I can promise you.”
+“What happens after that is not something he can promise you.”
 
 Perfect.
 
@@ -637,7 +637,7 @@ The collar moved a fraction. The technician swore.
 
 “You could crack the reservoir.”
 
-“Then tell me where not to put pressure.”
+“Then tell him where not to put pressure.”
 
 The technician stared at Red. Tavian did too. The technician's jaw tightened.
 

@@ -214,7 +214,7 @@ He does **not** yet know:
 # CH-002 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-002 — Undefined  
-**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+**Status:** SUPERSEDED BY CH-003 CANON CHECKPOINT
 
 ## Red Jackal — Opening CH-002
 
@@ -411,10 +411,81 @@ She may not know:
 
 ## F-002 Boundary
 
-F-002 remains **PLANNED — NOT YET PLANTED** until CH-003 manuscript prose exists and passes Gate 9.
+F-002 is now **PLANTED — CH-003** after the approved manuscript passed Gate 9.
 
 Physical measurement must not be interpreted as proof of hidden Race/Class/Level or as an explanation of Red Jackal's origin.
 
 ## Power Boundary
 
 CH-003 contains no Play Logic attempt, manifestation, or diagnostic test.
+
+
+
+# CH-003 Canon Checkpoint
+
+**Chapter:** CH-003 — The Things They Can Measure  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH003-THE-THINGS-THEY-CAN-MEASURE.md`  
+**QA:** `qa/CH-003-GATE-9-CHAPTER-QA.md`
+
+After CH-003, Red Jackal canonically knows:
+
+- ordinary calibrated instruments can measure his physical mass;
+- his body temperature falls within a normal living-body range;
+- the current visible state of his forearm injury can be physically recorded;
+- his clothing and Unverified Entrant Token can be verified as physical material;
+- a standardized mana pulse physically interacts with his body;
+- that mana interaction still does not produce a valid System MP field;
+- a functioning Certified Identity Slate still returns the locked undefined identity state after a recognized control subject passes;
+- simple local device malfunction is no longer a sufficient explanation for his identity failure;
+- his Unverified Entrant restrictions remain unchanged;
+- standard registered guild work remains blocked;
+- Roadmaster Rovan Hesk is willing to discuss privately arranged paid work.
+
+Red Jackal still does **not** know:
+
+- why the System cannot define him;
+- whether the failure can be repaired;
+- why his regeneration behaves abnormally;
+- why the CH-001 manifestation occurred;
+- how Play Logic works;
+- any protected series mystery truth.
+
+## Maelis Orra — Post-CH-003 Knowledge
+
+Maelis canonically knows:
+
+- Red Jackal is physically measurable;
+- his body interacts with mana;
+- the Certified Identity Slate functions normally on a recognized control;
+- Red Jackal still returns the same undefined identity data;
+- simple local device failure is insufficient to explain the pattern.
+
+She does not know the true cause.
+
+## Jessa Vale — Post-CH-003 Knowledge
+
+Jessa canonically knows:
+
+- Red Jackal is an unverified entrant;
+- his registry failure blocks standard contract processing;
+- Maelis is conducting a Ledger follow-up;
+- Hesk is willing to discuss work outside the standard registered path.
+
+She does not know:
+
+- the complete meaning of Red Jackal's anomaly;
+- the march-lure conspiracy truth;
+- protected series mysteries.
+
+## F-002 Knowledge Consequence
+
+F-002 is now:
+
+**PLANTED — CH-003**
+
+The canonically observed clue is:
+
+**Red Jackal's physical existence and mana interaction are measurable while his System identity remains undefined.**
+
+This advances M-002 observationally but does not reveal the cause.

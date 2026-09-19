@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-025 CANON — CH-026 SCENE ARCHITECTURE PASSED / CH-026 MANUSCRIPT AUTHORIZED
+**Status:** GREYWAKE ARC COMPLETE — CH-026 CANON / VOLUME 2 UNSELECTED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -73,6 +73,7 @@ CH-024 Manuscript: **CANON — GATE 9 PASS / SERIOUS CLIMAX MODE LOCKED**
 CH-025 Scene Architecture: **PASS — GATE 8**  
 CH-025 Manuscript: **CANON — GATE 9 PASS / AFTERMATH MODE LOCKED**  
 CH-026 Scene Architecture: **PASS — GATE 8**  
+CH-026 Manuscript: **CANON — GATE 9 PASS / ARC-CLOSURE VOICE LOCKED**  
 Red Jackal Series Voice: **LOCKED — DRY/DEADPAN INTERNAL HUMOR + RESTRAINED FOURTH-WALL STANDARD**  
 Red Jackal Anti-Villain Expression: **LOCKED**  
 Red Jackal Reputation / Fear Progression: **LOCKED — R0 TO R6**  
@@ -82,9 +83,9 @@ Aura Evolution: **MANUFACTURED → EARNED → REPUTATION-SUPPORTED**
 
 The project is now authorized to proceed to:
 
-1. **Draft CH-026 — Before They Decide What I Am manuscript only**
+1. **Greywake Arc chapter production complete through CH-026**
 
-CH-026 Pre-Manuscript Scene QA has passed. The studio may now draft the final Greywake Arc manuscript — Before They Decide What I Am. The chapter must show active reconstruction, partial recovery, independent supporting-character obligations, Red's release from emergency restriction, contradictory role expectations, no combat/Play Logic, no next destination, and a physical departure from Greywake by choice. Volume 2 remains unselected.
+CH-026 has passed Gate 9 and is CANON. Greywake remains damaged but rebuilding; the local migration/Hesk conflict is resolved; all major supporting characters retain independent obligations; Red's local reputation remains fragmented; and Red departs Greywake by choice with no companion or destination selected. Volume 1 / Greywake Arc chapter production is complete through all 26 chapters. Volume 2 remains unselected.
 
 ## Destination Naming Law
 

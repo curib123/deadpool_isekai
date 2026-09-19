@@ -1,7 +1,7 @@
 # Chapter 22 — First Wave
 
-**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
-**Word Count:** 2998,004
+**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Word Count:** 2989,004
 
 The first mass did not charge them. It came out of the trees in layers.
 
@@ -119,7 +119,7 @@ The pale-grey guide stayed where he had put it.
 
 “Red,” Tavian said.
 
-“I know.”
+“he know.”
 
 The last civilian cart crossed behind the inner marker. Brynn waved the lane closed.
 
@@ -273,7 +273,7 @@ The hound did not stay. It scrambled after the moving line. Someone pulled him u
 
 “Red!”
 
-“I’m—”
+“he was—”
 
 Breathing arrived. Badly.
 
@@ -297,11 +297,11 @@ That should have helped. It did not. The wrong pull was squeezing two lines of m
 
 Animals that should have spread across the approach were arriving closer to one another. The main group still bent toward Broken North, but the side pull kept dragging enough bodies across the lower edge that every correction created new crowding behind it. Tavian saw it before he did.
 
-“We are compressing them.”
+“they are compressing them.”
 
 Brynn wiped mud from one glove.
 
-“Can we widen?”
+“Can they widen?”
 
 “Not without opening the homestead side.”
 
@@ -391,7 +391,7 @@ Red looked at Tavian.
 
 Tavian pointed at the migration.
 
-“Every shape you add changes their choices. You act when I give you the geometry.”
+“Every shape you add changes their choices. You act when he give you the geometry.”
 
 That was not a limit on what he could make.
 

@@ -4,7 +4,7 @@
 **Chapter:** CH-016 — Backflow  
 **Movement:** IV — Necessary Sacrifices  
 **Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-016 MANUSCRIPT AUTHORIZED  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-016 MANUSCRIPT CANON  
 **Final Scene Count:** 6  
 **POV:** Red Jackal first person  
 **Primary Cast:** Red Jackal, Kellan Dorr, Tavian Rook, Captain Brynn Alder, Greywake militia responders, outer-homestead civilians  

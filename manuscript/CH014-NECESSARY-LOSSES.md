@@ -416,7 +416,7 @@ Tavian nodded.
 
 “Partly.”
 
-they went back to the map room. Because apparently the map was where everything terrible eventually became understandable. Tavian removed several of the old track stones and replaced them with different markers.
+They went back to the map room. Because apparently the map was where everything terrible eventually became understandable. Tavian removed several of the old track stones and replaced them with different markers.
 
 One for Broken North. Others for the service sectors Jessa had identified. A few remained unmarked.
 

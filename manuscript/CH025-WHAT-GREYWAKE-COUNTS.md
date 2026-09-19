@@ -31,7 +31,7 @@ Sela pressed two fingers near the healing wound. He stopped breathing.
 
 There it was. Apparently those were different things. Across the room, Kellan sat with his injured leg still splinted and extended on a low stool. He looked much worse than he did because his body had the bad manners to follow normal rules.
 
-He noticed him looking.
+Kellan noticed Red looking.
 
 “Still attached?”
 
@@ -125,7 +125,7 @@ Tavian added, “Animal movement will stay unstable for a while.”
 
 “We changed a pattern that had been forced for years. The animals do not become sensible because one lure stops.”
 
-That sounded annoyingly permanent. He looked at him.
+That sounded annoyingly permanent. Red looked at Tavian.
 
 “You did well yesterday.”
 
@@ -133,7 +133,7 @@ He stopped walking. Brynn looked at him too. Tavian kept his attention on the ro
 
 “You waited when waiting mattered. You acted when acting mattered.”
 
-That was the entire speech. He gave him time to reconsider. He did not.
+That was the entire speech. Red gave Tavian time to reconsider. Tavian did not.
 
 “Are you feeling all right?”
 

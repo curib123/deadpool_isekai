@@ -550,8 +550,13 @@ Red Jackal does not have:
 - invisible normal XP;
 - a secret conventional class;
 - a delayed standard awakening;
-- a normal System evolution path waiting to unlock;
-- automatic immunity to magic, Fate, gods, causality, or damage.
+- a normal System evolution path waiting to unlock.
+
+He is also not “weak now but destined to become limitless later.”
+
+**The absence of a progression field is literal. There is no conventional power progression to record.**
+
+His overwhelming anomaly is already present.
 
 ## 7.4 Observable Symptoms
 
@@ -581,175 +586,228 @@ Experts can eventually confirm:
 - he is physically real;
 - he can interact with mana and matter;
 - his soul cannot be found through normal registry methods;
-- his growth occurs despite absent progression fields;
-- his effects do not fit one known magic school.
+- his effects do not fit one known magic school;
+- his output does not correlate with any visible level, class, mana pool, or progression record;
+- apparent limits are inconsistent across situations.
 
-They still cannot automatically explain his origin.
+They still cannot automatically explain his origin or know his full capability.
 
-## 7.7 Natural Growth
+## 7.7 No Power Progression — Revelation Model
 
-Red Jackal can improve through:
-- combat experience;
-- strategy;
-- reflexes;
-- tactical timing;
-- weapons;
-- environmental awareness;
-- magical understanding;
-- resistance training;
-- pain tolerance;
-- regeneration control;
-- psychological resilience;
-- knowledge of monsters, gods, Fate, and world rules;
-- experimentation with Play Logic.
+Red Jackal does not gain raw power through:
+- XP;
+- levels;
+- classes;
+- mastery stages;
+- kill counts;
+- conventional awakenings;
+- mandatory training thresholds.
 
-His System screen does not normalize in response.
+He may improve ordinary knowledge, judgment, tactics, social understanding, local language, technical skill, and familiarity with Veyr.
 
-# 8. Regeneration
+Those improvements help him choose better solutions.
 
-Red Jackal possesses unusually powerful regeneration associated with his anomalous embodiment.
+They do **not** unlock a higher power tier.
+
+Writer truth:
+
+**the capability was already there.**
+
+Series progression therefore tracks:
+- knowledge;
+- creativity;
+- willingness;
+- restraint;
+- public revelation;
+- emotional maturity;
+- consequences.
+
+# 8. Regeneration / Self-Restoration
+
+Red Jackal's body is not meaningfully limited by ordinary lethal damage.
 
 ## 8.1 Capabilities
 
-Depending on damage and current condition, regeneration can repair:
-- cuts;
-- fractures;
-- organ damage;
-- severe tissue loss;
-- some otherwise lethal physical injuries.
+His anomaly can restore him from extreme physical destruction with speed and completeness that ordinary healing systems cannot classify.
 
-## 8.2 Costs and Limits
+Cuts, fractures, organ loss, massive tissue destruction, and normally lethal trauma do not create a conventional long-term combat ceiling.
 
-Regeneration is not painless and not infinite.
+## 8.2 Pain and Performance
 
-Constraints include:
-- pain;
-- energy depletion;
-- repeated trauma;
-- regeneration suppression;
-- magical poison;
-- curses;
-- sealing;
-- paralysis;
-- soul damage;
-- memory disruption;
-- conceptual injury;
-- causality manipulation;
-- dimensional exile;
-- existence-targeting attacks.
+Pain may still be experienced.
 
-Regeneration can keep him alive without making him victorious.
+Red may also:
+- deliberately delay visible recovery;
+- allow an injury to remain for dramatic effect;
+- pretend recovery is slower than it is;
+- use bandages or ordinary treatment because the social situation is easier that way;
+- accept medical care because he likes or respects the person providing it.
 
-# 9. Play Logic
+These are not proof that his restoration has a conventional stamina ceiling.
+
+## 8.3 Narrative Boundary
+
+Self-restoration does not make Red:
+- omniscient;
+- omnipresent;
+- able to undo another person's death automatically;
+- able to know what happened while he was absent;
+- automatically correct about consequences.
+
+A person Red failed to protect can still die.
+
+A city can still burn somewhere he was not watching.
+
+A political decision can still be made while he is playing with the wrong enemy.
+
+# 9. Play Logic — Unbounded Play
 
 ## 9.1 Definition
 
-**Play Logic** is the working term for Red Jackal's imagination-based anomaly.
+**Play Logic** is Red Jackal's imagination-based anomaly.
 
-He imagines a meaningful form, object, transformation, rule-bending interaction, or exaggerated physical concept, and reality may temporarily accept an abnormal expression of that idea.
+Reality accepts the role, object, interaction, transformation, or rule he sincerely chooses to impose strongly enough that normal Veyran categories stop being useful.
 
-It is not a menu of conventional skills.
+It is not conventional magic.
 
-## 9.2 Expression Categories
+It is not a skill tree.
 
-- temporary objects;
-- improvised weapons;
-- oversized or absurd tools;
-- physical transformations;
-- exaggerated momentum or impact;
-- visual-symbolic constructs;
-- environmental alterations;
-- impossible utility objects;
-- temporary spatial tricks;
-- metaphor-like manifestations;
-- rule-bending effects at high mastery.
+It has no locked mastery stages.
 
-## 9.3 Core Principle
+## 9.2 Writer-Truth Power Model
 
-The effect is strongest when Red Jackal has:
-- a clear concept;
-- a strong imaginative image;
-- sufficient focus;
-- emotional or situational commitment;
-- an effect he can mentally frame coherently.
+Red Jackal is already overpowered.
 
-Random wishing is weaker than vivid intentional imagination.
+There is **no known intrinsic ceiling** to Play Logic inside the series power structure.
 
-## 9.4 Interpretation Risk
+He does not progress from small objects to large effects because he becomes stronger.
 
-Play Logic may follow the *idea* rather than the precise desired engineering.
+If an early chapter shows a small effect, the correct interpretation is one or more of:
+- that was all he chose to use;
+- he was testing how Veyr reacted;
+- he did not understand the situation well enough to choose a larger solution;
+- he was preserving his persona;
+- he was entertaining himself;
+- the story had not yet revealed more.
 
-Possible failures:
-- wrong scale;
-- wrong material behavior;
-- comedic literal interpretation;
-- unstable duration;
-- unwanted side effect;
-- collateral damage;
-- effect ending early;
-- reality resisting the concept.
+It is not evidence of a true Stage I ceiling.
 
-## 9.5 Mastery Stages
+## 9.3 Expression
 
-### Stage I — Improvised Manifestation
-Small or short-lived objects and effects. High unpredictability. Best for immediate physical situations.
+Play Logic may express as:
+- temporary or permanent objects;
+- weapons;
+- transformations;
+- barriers;
+- environmental alteration;
+- spatial manipulation;
+- impossible movement;
+- matter/energy alteration;
+- magic cancellation or imitation;
+- conceptual interactions;
+- causality-like tricks;
+- symbolic or metaphorical effects;
+- effects that conventional observers cannot place on a scale.
 
-### Stage II — Controlled Play
-More reliable objects, transformations, short environmental manipulations, combination effects, improved duration.
+This list is descriptive, not exhaustive.
 
-### Stage III — Rule Bending
-Can impose temporary abnormal interactions on a local area or target, but strong world laws, Fate pressure, conceptual defenses, and concentration become major factors.
+## 9.4 Voluntary Restraint
 
-### Stage IV — Narrative-Scale Imagination
-Potentially enormous conceptual reach. This is theoretical late mastery, not starting capability. Effects face extreme resistance, cost, instability, and Great Design pressure when they threaten world-scale coherence.
+Red frequently creates his own rules because unrestricted victory is boring.
 
-## 9.6 Constraints
+Examples:
+- “only use one hand”;
+- “beat the swordsman with a spoon”;
+- “do not move from this spot”;
+- “let him finish the spell”;
+- “make it look accidental”;
+- “win without showing anyone what happened.”
 
-### Focus
-Distraction, pain, mental interference, fear, and sensory overload can destabilize effects.
+These restrictions are character choices.
 
-### Scale
-Larger manifestations are harder to sustain and easier for reality to resist.
+They can be abandoned instantly.
 
-### Complexity
-A simple hammer is easier than a self-consistent artificial ecosystem.
+## 9.5 Apparent Failure
 
-### Duration
-Permanent changes are dramatically harder than temporary ones.
+A Play Logic attempt may appear to misfire because:
+- Red was joking;
+- he changed the idea midway;
+- he preferred the funnier result;
+- he misunderstood a local object or concept;
+- he intentionally let the scene continue;
+- he is an unreliable narrator about how intentional something was.
 
-### Knowledge
-He can imagine impossible-looking things without understanding engineering, but ignorance increases interpretation risk.
+Do not use “reality resistance” as a routine hard ceiling.
 
-### Resistance
-Targets with strong magic, divine protection, conceptual anchors, Fate reinforcement, or reality-stabilizing artifacts can resist.
+## 9.6 Knowledge Is Not Power
 
-### Collateral
-Play Logic can produce unintended physical consequences. Comedy does not protect bystanders.
+Red can possess enough raw capability to erase an enemy while still not knowing:
+- who the real enemy is;
+- what a device does;
+- which person is lying;
+- what political consequence follows;
+- where every hostage is;
+- which choice will hurt someone later.
 
-### Recovery
-Heavy use can leave him mentally exhausted, physically depleted, emotionally unstable, or temporarily unable to form precise manifestations.
+This is the primary distinction that preserves story tension.
 
-# 10. Counterplay
+## 9.7 Serious Release
 
-Effective threats to Red Jackal can include:
-- overwhelming physical damage faster than current regeneration;
-- restraint;
-- imprisonment;
-- anti-magic fields affecting manifestations that depend on local mana interaction;
-- reality-stabilizing wards;
-- regeneration suppression;
-- soul attacks;
-- memory attacks;
-- mental interference;
-- sealing;
-- dimensional displacement;
-- causality manipulation;
-- conceptual attacks;
-- existence-targeting effects;
-- Fate-supported convergences;
-- opponents who exploit his self-centeredness, showmanship, curiosity, or refusal to take situations seriously.
+When Red stops playing, the difference is not a transformation.
 
-No single counter works universally.
+It is the removal of voluntary restraint.
+
+Serious displays should be:
+- simple;
+- decisive;
+- disproportionate;
+- frightening because the audience realizes previous difficulty was partly performance.
+
+## 9.8 No Progression Ceiling
+
+There is no:
+- Stage I;
+- Stage II;
+- Stage III;
+- Stage IV;
+- final form;
+- level cap;
+- stat cap;
+- mandatory awakening;
+- “strong enough later” requirement.
+
+Future spectacle escalates through **revelation and creativity**, not numerical growth.
+
+# 10. Narrative Counterplay
+
+No normal opponent is required to exceed Red Jackal in raw power.
+
+Threats remain meaningful through conditions Red cannot solve by merely hitting harder:
+
+- incomplete information;
+- hidden objectives;
+- simultaneous crises;
+- hostages/civilians in multiple locations;
+- political consequences;
+- secrets he wants preserved;
+- people acting independently;
+- irreversible choices already made;
+- enemies exploiting his curiosity, vanity, boredom, role-playing, or refusal to take them seriously;
+- situations where winning the fight does not answer the real problem.
+
+Enemies may also temporarily believe they have countered him because Red allows the scene to continue.
+
+### Hard Rule
+
+Do not manufacture a stronger enemy solely to restore conventional power scaling.
+
+If Red loses something important, prefer:
+- being too late;
+- choosing badly;
+- misunderstanding the situation;
+- protecting the wrong objective;
+- allowing the game to continue too long;
+- winning the fight but losing the larger outcome.
 
 # 11. System Interaction Matrix
 
@@ -785,6 +843,6 @@ The System is not reality itself. Fate is bounded. The Great Design is deeper th
 **Fate:** PASS — real but probabilistic and non-omnipotent.  
 **Great Design:** PASS — writer-truth role and reveal boundary defined.  
 **Red Jackal anomaly:** PASS — locked UNDEFINED/NO RECORD/FAILED/ANOMALY state preserved.  
-**Regeneration:** PASS — powerful but counterable.  
-**Play Logic:** PASS — creative ceiling, mastery progression, interpretation risk, counterplay, recovery.  
+**Regeneration:** PASS — extreme self-restoration; ordinary lethal damage is not a meaningful combat ceiling.  
+**Play Logic:** PASS — unbounded from the start; no mastery-stage progression; story tension comes from revelation, restraint, information, judgment, and consequences.  
 **Scope control:** PASS — no arc, volume, chapter, scene, or manuscript planning.

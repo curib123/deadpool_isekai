@@ -57,8 +57,8 @@ Volume record:
 - exploration
 - major action
 - mystery contribution
-- character development
-- power development
+- Red stable-character / situation beat
+- power display / revelation choice
 - midpoint shift
 - escalation
 - climax
@@ -77,7 +77,7 @@ Travel matters. Use roads, ships, caravans, magical routes, passes, wilderness, 
 - Volume:
 - Destination:
 - Working title:
-- POV: close third-person limited centered on Red Jackal
+- POV: close first-person limited centered on Red Jackal
 - Characters:
 - Location:
 - Opening situation:
@@ -486,7 +486,7 @@ Authoritative Gate 10:
 CH-028 is unpaused. The Volume 1 publication refresh has passed Gate 11.
 
 
-# 9. Series POV / Style Retcon
+# 9. Superseded Close-Third POV / Style Retcon — Historical
 
 **Status:** STUDIO CINEMATIC PROSE REVISION COMPLETE — GATE 9 REVALIDATION PENDING.
 
@@ -527,3 +527,56 @@ Current revision state:
 **Official next production step:** CH-001 → Studio Cinematic Gate 9 Revalidation, then continue chapter-by-chapter through CH-027.
 
 **CH-028 is paused until CH-001→CH-027 finish Gate 9 revalidation.**
+
+
+# 10. Soul-Drift / Story-Intruder Retcon
+
+**Status:** ACTIVE — FOUNDATION LOCKED / MANUSCRIPTS STALE.
+
+Authoritative retcon:
+
+`planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md`
+
+Native story:
+
+`series/NATIVE-STORY-FRAMEWORK.md`
+
+## Planning Interpretation
+
+All future chapter/scene plans must assume:
+- Red is already overwhelmingly powerful;
+- Red has no level/class/stage progression;
+- Red has no conventional personality-growth arc;
+- first-person narration is mandatory for Red chapters;
+- every genuine fourth-wall address freezes Veyran time;
+- enemy-playing and voluntary restraint are character behavior;
+- aura farming is recurring;
+- local serious consequences remain real;
+- other characters and the native Hero/Villain storyline exist independently;
+- Red may hijack a scene but later causality must reroute instead of being discarded.
+
+## Preservation Lock
+
+Do not change solely because of this retcon:
+- Greywake map/location;
+- Merrowgate map/location;
+- destination sequence;
+- Greywake chapter count/order;
+- Merrowgate chapter count/order;
+- major reversal/climax placement.
+
+## Manuscript Reset
+
+CH-001 through CH-027 require a new prose pass because the locked foundation now changes:
+- origin;
+- memory;
+- POV;
+- fourth-wall mechanics;
+- character-development interpretation;
+- comedy/combat presentation.
+
+Old Gate 9 approvals remain historical for event continuity but are **not current prose approval**.
+
+**Production order:** CH-001 → CH-027 sequential rewrite + Gate 9.
+
+**CH-028 remains paused until completion.**

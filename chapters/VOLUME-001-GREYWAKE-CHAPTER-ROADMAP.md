@@ -4,7 +4,7 @@
 **Destination:** DEST-001 — Greywake  
 **Arc:** Greywake Arc  
 **Phase:** Chapter Roadmap  
-**Status:** GATE 7 PASS — CHAPTER ROADMAP LOCKED / CH-003 MANUSCRIPT AUTHORIZED  
+**Status:** GATE 7 PASS — CHAPTER ROADMAP LOCKED / CH-004 SCENE ARCHITECTURE AUTHORIZED  
 **Final Chapter Count:** 26  
 **POV:** Red Jackal first person throughout  
 **Scope:** Chapter architecture only. No full scenes, final dialogue, or manuscript prose.
@@ -124,7 +124,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Regeneration Consequence:** None.  
 **Aura-Farming Opportunity:** Red Jackal gives an overdramatic non-answer about his identity; Maelis writes down “refused/unknown” rather than the version he wanted.  
 **Comedy Opportunity:** Maelis's literal recordkeeping punctures his narration.  
-**Mystery / Foreshadowing:** **F-002 planned here — remains PLANNED — NOT YET PLANTED.** M-002 advances observationally.  
+**Mystery / Foreshadowing:** **F-002 PLANTED — CH-003.** M-002 advances observationally.  
 **Continuity Dependencies:** F-001 is PLANTED — CH-002; CH-003 may reference the established two-interface failure.  
 **Knowledge Dependencies:** Maelis may conclude the failure exceeds ordinary anti-appraisal, but cannot know its cause.  
 **Ending Beat:** Hesk offers Red Jackal a private solution: work that does not require a valid registry entry.

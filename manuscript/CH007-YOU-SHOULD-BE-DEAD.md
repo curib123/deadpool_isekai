@@ -212,7 +212,7 @@ Focus.
 
 Not wall. Not shield. A cover wide enough to block the lane for a few seconds. Long enough for them to move. That was all.
 
-The pressure came. Weakly. I almost lost it. Pain broke the image apart. I tried again without changing the idea.
+The pressure came. Weakly. Pain tore through the image before it could settle, and I almost lost the thread. I held onto the same idea instead of starting over.
 
 Cover the lane. Give them time. Something dark formed across the narrow road. Crooked. Too low on one side and too thick on the other, like a barricade assembled by someone who had heard about straight lines but disagreed with them personally.
 

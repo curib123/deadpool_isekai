@@ -51,7 +51,7 @@ He was looking at mud. More specifically, he was looking at a patch of mud as th
 
 “Don't step there.”
 
-He stopped with one foot half-raised. There are many ways to meet someone. Being told your foot is the problem is not the best one. He lowered it behind him. The man pointed to the ground.
+He stopped with one foot half-raised. There were better ways to meet someone than being told his foot was the problem. He lowered it behind him. The man pointed to the ground.
 
 Only then did he see the tracks. Several wide impressions crossed the drainage edge and disappeared toward the forest. Larger than deer tracks from Earth, split-hooved, with deep pressure near the front. A second trail cut across them.
 
@@ -89,7 +89,7 @@ He looked down. Another faint print sat less than half a step from his boot. He 
 
 Very dignified.
 
-If you're wondering whether this weakened his case for not needing supervision, yes. He had noticed.
+This weakened his case for not needing supervision. He had noticed.
 
 “What are you looking for?” he asked.
 

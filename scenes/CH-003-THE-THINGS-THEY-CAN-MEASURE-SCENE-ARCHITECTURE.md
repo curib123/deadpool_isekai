@@ -121,7 +121,7 @@ He still cannot read Veyran writing or written System output.
 
 Maelis, Jessa, and the Greywake clerk communicate with him through the token whenever spoken translation is required.
 
-# 4B. Reader-Companion Voice Lock
+# 4B. Deadpan Voice Lock
 
 The CH-003 manuscript must follow the permanent Red Jackal voice standard in:
 
@@ -130,12 +130,14 @@ The CH-003 manuscript must follow the permanent Red Jackal voice standard in:
 - revised canon CH-002.
 
 Required manuscript feel:
-- Red Jackal is telling the story to **us**;
-- direct reader-talk recurs naturally when the scene permits;
-- self-talk remains distinct from reader-talk;
-- Maelis's precision creates situational comedy without making the investigation unserious;
-- reader-talk may reduce when the physical-vs-identity contradiction becomes genuinely unsettling;
+- immediate first-person experience is primary;
+- humor is dry/deadpan and mostly internal;
+- funny observations are understated rather than presented as punchlines;
+- reader-talk remains available but restrained and secondary to self-talk;
+- Maelis's precision creates quiet situational irony rather than overt comedy routines;
+- when the physical-vs-identity contradiction becomes unsettling, humor naturally falls away;
 - no joke quota;
+- avoid repeated “audience,” “branding,” “performance,” or theatrical meta-jokes;
 - multi-sentence paragraphs remain the prose default.
 
 # 5. Scene Architecture
@@ -358,12 +360,9 @@ He may act offended that the Ledger needs a machine to confirm he has weight and
 Maelis treats the measurement as the point, not the insult.
 
 ### Comedy Opportunity
-The absurdity of proving basic facts:
-- yes, he has weight;
-- yes, he is warm;
-- yes, his clothes physically exist.
+Keep the humor dry and internal: Red Jackal quietly registers that the Ledger has now confirmed he has weight, body heat, and clothes. He does not turn the measurements into a comedy routine.
 
-Comedy must not imply the investigation is pointless.
+The investigation remains serious.
 
 ### Dialogue Purpose
 Maelis explains the difference between:
@@ -487,7 +486,7 @@ Maelis's answer is essentially:
 the instrument did not measure that.
 
 ### Comedy Opportunity
-A technical “no” punctures a grand interpretation.
+A flat technical answer quietly undercuts any flattering interpretation. Keep the beat understated.
 
 ### Dialogue Purpose
 Clarify:
@@ -634,9 +633,9 @@ Maelis reduces it to literal evidence-neutral notes.
 His aura works on atmosphere, not on the record.
 
 ### Comedy Opportunity
-Maelis's note-taking strips dramatic language down to bureaucratic meaning.
+The dry contrast comes from Maelis recording only what can be proven while Red Jackal privately notices how much less impressive the official wording sounds.
 
-Comedy must not erase the seriousness of the confirmed contradiction.
+Do not turn it into a performance bit.
 
 ### Dialogue Purpose
 - compare positive physical measurements with negative identity data;
@@ -795,7 +794,7 @@ Maelis knows the less glamorous explanation:
 his lack of registration makes him convenient for irregular work.
 
 ### Comedy Opportunity
-The chapter ends with the practical irony that failure to qualify for ordinary employment produces an offer precisely because he failed to qualify.
+Use quiet practical irony: normal employment rejects him, and that same problem makes him useful for off-book work. Red Jackal notices the contradiction without announcing the joke.
 
 ### Dialogue Purpose
 - Maelis explains that her report records observations, not a manufactured identity;
@@ -946,7 +945,7 @@ F-002 may become PLANTED only after:
 
 The chapter is investigative/social, not action-heavy.
 
-Comedy comes from Red Jackal versus precise procedure.
+Humor comes from Red Jackal's deadpan internal reactions to precise procedure.
 
 The mystery must become more concrete, not louder.
 

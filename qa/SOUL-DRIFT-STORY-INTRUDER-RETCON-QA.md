@@ -228,11 +228,11 @@ Old Gate 9 / Gate 10 / Gate 11 results remain historical records only.
 
 **Official next step:**
 
-**CH-002 — Undefined → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**
+**CH-003 — The Things They Can Measure → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**
 
-CH-001 synchronization is COMPLETE — Gate 9 PASS.
+CH-001 and CH-002 synchronization are COMPLETE — Gate 9 PASS.
 
-Then continue sequentially from CH-002:
+Then continue sequentially from CH-003:
 
 **CH-002 → CH-003 → … → CH-027**
 

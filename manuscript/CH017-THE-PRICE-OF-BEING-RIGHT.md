@@ -1,7 +1,7 @@
 # Chapter 17 — The Price of Being Right
 
 **Status:** DRAFT — GATE 9 NOT YET RUN  
-**Word Count:** 3,036
+**Word Count:** 3,042
 
 Sela did not look at me when we carried Kellan in. She looked at the stretcher.
 
@@ -65,7 +65,7 @@ Kellan opened his eyes again.
 
 “That good?”
 
-“It is better than the alternative.”
+“Circulation is still there. That matters.”
 
 He closed them. Sela checked his ribs next, pressing carefully along one side of his chest and shoulder. He inhaled sharply.
 
@@ -175,7 +175,7 @@ Kellan swallowed.
 
 “And the shoulder?”
 
-“You will survive being annoyed by it.”
+“Badly bruised. Possibly strained. I need the swelling down before I say more.”
 
 He closed his eyes again. Sela looked at me.
 
@@ -213,9 +213,7 @@ He looked at my side.
 
 “I am.”
 
-He stared at the ceiling.
-
-“That is irritating.”
+He stared at the ceiling for a moment.
 
 I said nothing. After a moment, he looked back at me.
 

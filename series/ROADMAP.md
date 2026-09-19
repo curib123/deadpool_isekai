@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** RED JACKAL OVERPOWERED RETCON ACTIVE — VOLUME 1 MANUSCRIPT AUDIT COMPLETE / CH-005 REVISION NEXT / CH-028 PAUSED
+**Status:** VOLUME 1 OVERPOWERED RETCON — MANUSCRIPT REVISION COMPLETE / GATE 10 PASS / GATE 11 REFRESH NEXT; CH-028 PAUSED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -19,18 +19,18 @@ Mystery Foundation: **PASS**
 Destination Inventory: **PASS**  
 Volume 1 Architecture: **PASS**  
 Chapter Roadmap: **PASS — 26 chapters**  
-Volume 1 Canon Revalidation: **PRE-RETCON PASS — NEW GATE 10 REQUIRED AFTER POWER RETCON REVISIONS**  
+Volume 1 Canon Revalidation: **PASS — OVERPOWERED RETCON GATE 10 / 26 OF 26 CANON / 75,157 WORDS**  
 Publish Version QA Standard: **ACTIVE — GATE 11**  
 Volume 1 Publish Version QA: **STALE AFTER RETCON — PREVIOUS 26-COPY PASS PRESERVED / REVALIDATION REQUIRED**  
 Volume 1 Pacing Revision v2: **PAUSED — RETAIN PACING GOALS / POWER-BALANCE ASSUMPTIONS SUPERSEDED**  
 Red Jackal Overpowered Retcon: **ACTIVE — NO POWER PROGRESSION / UNBOUNDED PLAY LOGIC / REVELATION MODEL**  
-Volume 1 Power-Retcon Manuscript Audit: **PASS — 26/26 AUDITED / 13 REVISE / 13 KEEP**  
+Volume 1 Power-Retcon Manuscript Audit: **COMPLETE — 26/26 AUDITED / 13 REVISED + GATE 9 PASS / 13 KEEP**  
 Volume 2 Destination Selection: **PASS — GATE 5 / DEST-002 MERROWGATE**  
 Volume 2 Architecture: **PASS — GATE 6 / MERROWGATE ARC LOCKED**  
 Volume 2 Chapter Roadmap: **PASS — GATE 7 / 24 CHAPTERS / CH-027 THROUGH CH-050 LOCKED**  
 CH-027 Scene Architecture: **PASS — GATE 8 / 5 SCENES LOCKED**  
 CH-027 Manuscript: **CANON — GATE 9 PASS / 2,108 WORDS / DEADPAN TRAVEL-OPENING VOICE LOCKED**  
-CH-028 Scene Architecture: **AUTHORIZED BUT PAUSED — VOLUME 1 RETCON REVISION CURRENT PRIORITY**  
+CH-028 Scene Architecture: **AUTHORIZED BUT PAUSED — VOLUME 1 GATE 11 PUBLICATION REFRESH NEXT**  
 CH-001 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-002 Scene Architecture: **PASS — GATE 8**  
 CH-002 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
@@ -41,21 +41,21 @@ F-002: **PLANTED — CH-003**
 CH-004 Scene Architecture: **PASS — GATE 8**  
 CH-004 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-005 Scene Architecture: **PASS — GATE 8**  
-CH-005 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
+CH-005 Manuscript: **CANON — OVERPOWERED RETCON GATE 9 PASS**  
 F-004: **PLANTED — CH-005**  
 CH-006 Scene Architecture: **PASS — GATE 8**  
-CH-006 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
+CH-006 Manuscript: **CANON — OVERPOWERED RETCON GATE 9 PASS**  
 CH-007 Scene Architecture: **PASS — GATE 8**  
-CH-007 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
+CH-007 Manuscript: **CANON — OVERPOWERED RETCON GATE 9 PASS**  
 F-003: **PLANTED — CH-007**  
 CH-008 Scene Architecture: **PASS — GATE 8**  
 CH-008 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-009 Scene Architecture: **PASS — GATE 8**  
-CH-009 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
+CH-009 Manuscript: **CANON — OVERPOWERED RETCON GATE 9 PASS**  
 CH-010 Scene Architecture: **PASS — GATE 8**  
 CH-010 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-011 Scene Architecture: **PASS — GATE 8**  
-CH-011 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
+CH-011 Manuscript: **CANON — OVERPOWERED RETCON GATE 9 PASS**  
 CH-012 Scene Architecture: **PASS — GATE 8**  
 CH-012 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-013 Scene Architecture: **PASS — GATE 8**  
@@ -63,25 +63,25 @@ CH-013 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**
 CH-014 Scene Architecture: **PASS — GATE 8**  
 CH-014 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-015 Scene Architecture: **PASS — GATE 8**  
-CH-015 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
+CH-015 Manuscript: **CANON — OVERPOWERED RETCON GATE 9 PASS**  
 CH-016 Scene Architecture: **PASS — GATE 8**  
-CH-016 Manuscript: **CANON — GATE 9 PASS / SERIOUS MODE LOCKED**  
+CH-016 Manuscript: **CANON — OVERPOWERED RETCON GATE 9 PASS**  
 CH-017 Scene Architecture: **PASS — GATE 8**  
 CH-017 Manuscript: **CANON — GATE 9 PASS / SERIOUS MODE LOCKED**  
 CH-018 Scene Architecture: **PASS — GATE 8**  
 CH-018 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-019 Scene Architecture: **PASS — GATE 8**  
-CH-019 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
+CH-019 Manuscript: **CANON — OVERPOWERED RETCON GATE 9 PASS**  
 CH-020 Scene Architecture: **PASS — GATE 8**  
-CH-020 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
+CH-020 Manuscript: **CANON — OVERPOWERED RETCON GATE 9 PASS**  
 CH-021 Scene Architecture: **PASS — GATE 8**  
-CH-021 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
+CH-021 Manuscript: **CANON — OVERPOWERED RETCON GATE 9 PASS**  
 CH-022 Scene Architecture: **PASS — GATE 8**  
-CH-022 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
+CH-022 Manuscript: **CANON — OVERPOWERED RETCON GATE 9 PASS**  
 CH-023 Scene Architecture: **PASS — GATE 8**  
-CH-023 Manuscript: **CANON — GATE 9 PASS / SERIOUS CLIMAX MODE LOCKED**  
+CH-023 Manuscript: **CANON — OVERPOWERED RETCON GATE 9 PASS**  
 CH-024 Scene Architecture: **PASS — GATE 8**  
-CH-024 Manuscript: **CANON — GATE 9 PASS / SERIOUS CLIMAX MODE LOCKED**  
+CH-024 Manuscript: **CANON — OVERPOWERED RETCON GATE 9 PASS**  
 CH-025 Scene Architecture: **PASS — GATE 8**  
 CH-025 Manuscript: **CANON — GATE 9 PASS / AFTERMATH MODE LOCKED**  
 CH-026 Scene Architecture: **PASS — GATE 8**  
@@ -95,10 +95,10 @@ Aura Evolution: **MANUFACTURED → EARNED → REPUTATION-SUPPORTED**
 
 The project publication state is now:
 
-1. **Volume 1 / Greywake Arc — PUBLISH-READY — Gate 11 PASS**
-2. **CH-001 through CH-026 approved for external posting in canon order**
+1. **Volume 1 / Greywake Arc — CANON — OVERPOWERED RETCON GATE 10 PASS**
+2. **13 revised reader-facing publication copies require Gate 11 regeneration before the refreshed release set is PUBLISH-READY**
 
-All 26 publication copies have individual Gate 11 PASS records. The aggregate release record is `qa/publish/VOLUME-001-PUBLISH-VERSION-QA.md`. This authorizes posting but does not claim the chapters have already been posted externally. Volume 2 is locked as DEST-002 — Merrowgate / Merrowgate Arc through Gate 7. CH-027 through CH-050 are roadmap-locked. CH-027 has passed Gate 9 and is CANON at 2,108 words. CH-028 Detailed Scene Architecture / Gate 8 is the next authorized production step.
+The pre-retcon 26-copy Gate 11 set remains a historical release record. The 13 changed manuscripts must regenerate their reader-facing copies and pass Gate 11 again before the refreshed Volume 1 set is approved. Volume 2 is locked as DEST-002 — Merrowgate / Merrowgate Arc through Gate 7. CH-027 through CH-050 are roadmap-locked. CH-027 has passed Gate 9 and is CANON at 2,108 words. CH-028 Detailed Scene Architecture / Gate 8 is the next authorized production step.
 
 ## Destination Naming Law
 
@@ -142,17 +142,17 @@ Revision-plan QA:
 
 The existing 26-chapter canon remains valid until an individual revised manuscript passes Gate 9.
 
-Revision focus:
-- tighten investigation drag in CH-009–CH-021 where specified;
-- treat CH-020 as climax ignition;
-- make CH-021–CH-024 one continuous escalation;
-- amplify CH-022–CH-024 without raising the Stage I power ceiling;
-- preserve CH-025 consequence pacing;
-- preserve CH-026 departure pacing and final line.
+Revision result:
+- investigation tightening applied where it overlapped the retcon;
+- CH-020 now functions as climax ignition;
+- CH-021–CH-024 read as one continuous escalation;
+- CH-023/024 rebuilt around hidden-power revelation rather than Stage progression;
+- CH-025 consequence pacing preserved;
+- CH-026 departure pacing and final line preserved.
 
-**Active revision step:** CH-009 — Wrong Tracks → Pacing Revision Pass → Gate 9 Revalidation.
+**Status:** COMPLETE — merged into the overpowered-retcon manuscript pass.
 
-Volume 2 CH-028 remains structurally authorized but is paused while this authorial revision track is active.
+Volume 2 CH-028 remains structurally authorized but is paused until the refreshed Volume 1 Gate 11 cycle completes.
 
 
 ## Red Jackal Overpowered Retcon
@@ -171,7 +171,7 @@ Foundation changes:
 
 All older Stage-I ceiling language is legacy until revised.
 
-**Current production priority:** CH-005 — A Better Hammer → Overpowered Retcon Prose Revision → Gate 9 Revalidation.
+**Current production priority:** regenerate the 13 revised Volume 1 publication copies → Gate 11 revalidation.
 
 
 ## Volume 1 Power-Retcon Manuscript Audit Result
@@ -195,4 +195,22 @@ CH-005, CH-006, CH-009, CH-011, CH-015, CH-016.
 Keep:
 CH-001, CH-002, CH-003, CH-004, CH-008, CH-010, CH-012, CH-013, CH-014, CH-017, CH-018, CH-025, CH-026.
 
-**Active step:** CH-005 — A Better Hammer → Overpowered Retcon Prose Revision → Gate 9 Revalidation.
+**Revision cycle result:** COMPLETE — all 13 affected chapters revised, canonized, and individually Gate 9 revalidated.
+
+
+## Volume 1 Overpowered Retcon Completion
+
+Current authoritative volume-level revalidation:
+
+`qa/VOLUME-001-GREYWAKE-OVERPOWERED-RETCON-GATE-10-REVALIDATION.md`
+
+Result:
+- 26 / 26 chapters CANON;
+- 13 / 13 retcon-targeted chapters revised and Gate 9 revalidated;
+- 13 / 13 compatible chapters retained;
+- current canon total: **75,157 words**;
+- Greywake Arc outcome, F-ID placements, M-007 ceiling, aftermath, and departure preserved;
+- CH-023 is now the main hidden-power physical reveal;
+- CH-024 is the institutional/human climax under the rule: **power is not the same thing as being right**.
+
+**Next:** refreshed Gate 11 publication copies for the 13 revised chapters.

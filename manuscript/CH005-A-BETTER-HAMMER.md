@@ -115,7 +115,7 @@ Something had appeared. Later, when he tried to make it happen again, nothing. A
 
 He needed something between them. Not shield. Not weapon. A function. He looked at the bridge pin again.
 
-The crew needed a hammer. That was simple. Possibly too simple. He should probably have tested this somewhere private. Not beside six workers, two guards, a damaged bridge, and several waiting caravans. If you're thinking that made this a poor testing environment, he had reached the same conclusion.
+The crew needed a hammer. That was simple. Possibly too simple. He should probably have tested this somewhere private. Not beside six workers, two guards, a damaged bridge, and several waiting caravans. That made it a terrible testing environment. He had already reached that conclusion.
 
 On the other hand, he had not found a private place with a broken heavy hammer and an immediate reason to care. Research conditions were imperfect. He stepped away from the crew. The foreman noticed.
 

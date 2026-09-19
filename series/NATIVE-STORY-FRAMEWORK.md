@@ -121,6 +121,37 @@ Preferred recurring patterns:
 - Red finishes the opponent anyway because they annoyed him.
 - The Hero Party's quest survives, but its next step changes because Red moved a piece nobody expected.
 
+# 6A. The Scene-Thief Contract
+
+Red Jackal may repeatedly create a **false-main-character effect**.
+
+The native scene belongs causally to Adrian, the Hero Party, the Main Villain, a destination cast, or another local actor.
+
+Red enters.
+
+For a few beats, everything may visually and socially reorganize around him because:
+- his entrance is absurdly strong;
+- his reputation precedes him;
+- he behaves as though the scene was waiting for him;
+- Play Logic creates impossible stage control;
+- enemies fixate on the unknown anomaly;
+- witnesses misunderstand his role.
+
+Then planning must remember who actually had the original objective.
+
+The pleasure is not replacing the native protagonist.
+
+The pleasure is watching an uninvited anomaly **steal the scene and damage the script**.
+
+# 6B. Independent-Story Minimum
+
+For every major volume, planning must maintain at least one meaningful development that:
+- happens without Red present;
+- matters to the Hero/Villain campaign or another independent character line;
+- can later collide with Red.
+
+This prevents Veyr from feeling frozen whenever Red leaves the page.
+
 # 7. Sequence Preservation
 
 The Hero storyline is allowed to be disrupted.

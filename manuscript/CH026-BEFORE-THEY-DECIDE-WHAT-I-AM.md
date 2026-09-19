@@ -1,7 +1,7 @@
 # Chapter 26 — Before They Decide What I Am
 
-**Status:** CLOSE-THIRD STYLE REVISION — GATE 9 PENDING
-**Word Count:** 1,826
+**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Word Count:** 1827,826
 
 Greywake sounded different when nobody was screaming. Hammers had replaced alarm horns. Not everywhere.
 
@@ -75,11 +75,11 @@ That mattered. Everyone else’s consequences did not disappear because his heal
 
 Sela looked at him before he answered. Apparently the treatment house had better intelligence than the militia.
 
-“I was considering it.”
+“he was considering it.”
 
 “You were considering it yesterday.”
 
-“I consider things slowly.”
+“he consider things slowly.”
 
 “No, you act quickly and explain it slowly.”
 
@@ -91,7 +91,7 @@ That was not a question. He knew what he meant. After the backflow.
 
 After his injury. After everything had become more difficult than breaking one bad thing.
 
-“I did.”
+“he did.”
 
 He nodded once.
 
@@ -101,11 +101,11 @@ Coming from him, it did. Then he picked up another route sketch. Conversation ov
 
 Sela handed him a small wrapped packet of bandages.
 
-“I am not taking those.”
+“he am not taking those.”
 
 “You are.”
 
-“I regenerate.”
+“he regenerate.”
 
 “You bleed first.”
 
@@ -129,9 +129,9 @@ She said it without pretending not to care. That was progress too. Her siblings 
 
 The Guild was being restructured around her. Doing the right thing had not created a better salary out of the air. Maelis closed one ledger.
 
-“My formal report will take longer.”
+“his formal report will take longer.”
 
-“Because I am complicated?”
+“Because he am complicated?”
 
 “Because Greywake is complicated.”
 
@@ -141,7 +141,7 @@ That was almost flattering. She pulled a smaller packet from the pile.
 
 Less flattering.
 
-“What did I do?”
+“What did he do?”
 
 “Exist.”
 
@@ -165,13 +165,13 @@ That stopped him. Maelis had spent most of their first conversations trying to m
 
 Maybe he had learned a few things too. He did not say that.
 
-“I’m not staying for examinations.”
+“he was not staying for examinations.”
 
-“I know.”
+“he know.”
 
 “You may ask later.”
 
-“I know.”
+“he know.”
 
 “No surprise cages.”
 
@@ -199,7 +199,7 @@ Growth continued to be unpleasant. When he turned, he looked at the pack over hi
 
 “You are leaving.”
 
-“I was hoping to make it more mysterious.”
+“he was hoping to make it more mysterious.”
 
 “You packed food.”
 
@@ -211,13 +211,13 @@ Suspicious.
 
 “What restriction?”
 
-“The one that let us keep an unverified person inside Greywake while we determined whether he was a public-safety threat.”
+“The one that let them keep an unverified person inside Greywake while they determined whether he was a public-safety threat.”
 
 “Oh. That.”
 
 “You were informed.”
 
-“Was I?”
+“Was he?”
 
 “Yes.”
 
@@ -231,7 +231,7 @@ No official answer to what he was. Just no immediate reason for Greywake to say 
 
 Tavian looked toward the road outside the gate.
 
-“I will be north for a while.”
+“he will be north for a while.”
 
 “Broken North?”
 
@@ -249,7 +249,7 @@ Red looked at Tavian. There was probably a farewell available somewhere. Neither
 
 He had already said something similar. Apparently this was the expanded edition.
 
-“Careful. I might develop a reputation.”
+“Careful. He might develop a reputation.”
 
 “You already have one.”
 
@@ -297,7 +297,7 @@ Several. None of them had become a decision. That was how he wanted it.
 
 At the market edge, people noticed the pack. A woman who had thanked him after the council session asked if he was coming back.
 
-“I have no idea.”
+“he have no idea.”
 
 A Guild worker he had seen during repairs told him he still owed him for a broken pry bar. He did not remember breaking it. That did not mean he had not.
 

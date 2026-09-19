@@ -1,7 +1,7 @@
 # Volume 1 Knowledge State — Greywake Arc
 
 **Owners:** A100 Continuity Director + A102 Knowledge-State Editor  
-**Status:** CANON SUPPORT RECORD — PRE-CHAPTER
+**Status:** CANON SUPPORT RECORD — GREYWAKE ARC COMPLETE
 
 This file defines the maximum knowledge each active Volume 1 character may possess during Greywake Arc architecture. It does not assign chapter timing.
 

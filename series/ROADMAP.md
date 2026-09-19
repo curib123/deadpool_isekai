@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-025 CANON — CH-026 SCENE ARCHITECTURE AUTHORIZED
+**Status:** CH-025 CANON — CH-026 SCENE ARCHITECTURE PASSED / CH-026 MANUSCRIPT AUTHORIZED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -72,6 +72,7 @@ CH-024 Scene Architecture: **PASS — GATE 8**
 CH-024 Manuscript: **CANON — GATE 9 PASS / SERIOUS CLIMAX MODE LOCKED**  
 CH-025 Scene Architecture: **PASS — GATE 8**  
 CH-025 Manuscript: **CANON — GATE 9 PASS / AFTERMATH MODE LOCKED**  
+CH-026 Scene Architecture: **PASS — GATE 8**  
 Red Jackal Series Voice: **LOCKED — DRY/DEADPAN INTERNAL HUMOR + RESTRAINED FOURTH-WALL STANDARD**  
 Red Jackal Anti-Villain Expression: **LOCKED**  
 Red Jackal Reputation / Fear Progression: **LOCKED — R0 TO R6**  
@@ -81,9 +82,9 @@ Aura Evolution: **MANUFACTURED → EARNED → REPUTATION-SUPPORTED**
 
 The project is now authorized to proceed to:
 
-1. **Build CH-026 — Before They Decide What I Am Detailed Scene Architecture only**
+1. **Draft CH-026 — Before They Decide What I Am manuscript only**
 
-CH-025 has passed Gate 9 and is CANON. Greywake survives with lasting injury, infrastructure and trade cost; Hesk is formally removed from Roadmaster authority; Road Guild emergency-diversion power is no longer unilateral; route-safety records gain civic oversight; and the Outer Homestead Compact has enforceable participation in emergency-route decisions. CH-026 — Before They Decide What I Am is now authorized for Detailed Scene Architecture only. It must close the Greywake Arc through reconstruction, farewells, Red's refusal of assigned roles, and departure into an unnamed wider world. Volume 2 remains unselected.
+CH-026 Pre-Manuscript Scene QA has passed. The studio may now draft the final Greywake Arc manuscript — Before They Decide What I Am. The chapter must show active reconstruction, partial recovery, independent supporting-character obligations, Red's release from emergency restriction, contradictory role expectations, no combat/Play Logic, no next destination, and a physical departure from Greywake by choice. Volume 2 remains unselected.
 
 ## Destination Naming Law
 
@@ -99,7 +100,7 @@ This table is intentionally empty.
 
 | Volume | Destination ID | Arc Name | Local Conflict | Main Antagonist | Major Mystery Contribution | Status |
 |---|---|---|---|---|---|---|
-| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-025 CANON — CH-026 SCENE ARCHITECTURE AUTHORIZED |
+| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-026 SCENE ARCHITECTURE PASS — CH-026 MANUSCRIPT AUTHORIZED |
 
 ## Lock
 

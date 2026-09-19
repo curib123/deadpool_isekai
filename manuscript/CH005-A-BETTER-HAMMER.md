@@ -115,7 +115,7 @@ Then at the iron pin. Then at his hands. The thought came before he invited it. 
 
 Something had appeared. Later, when he tried to make it happen again, nothing. At the time he had assumed fear mattered. Maybe it did. But the first thought had also been specific.
 
-He need something between them. Not shield. Not weapon. A function. He looked at the bridge pin again.
+He needed something between them. Not a shield. Not a weapon. A function. He looked at the bridge pin again.
 
 The crew needed a hammer. That was simple. Possibly too simple. He should probably have tested this somewhere private. Not beside six workers, two guards, a damaged bridge, and several waiting caravans. It was a poor testing environment. He knew that before he tried anyway.
 
@@ -133,7 +133,7 @@ He frowned. He held out one hand. He remembered the feeling from the forest. Not
 
 There had been no spell. No words. Just need. He focused. A hammer.
 
-He need a hammer. Nothing happened. He kept the thought steady. Hammer. Something solid.
+He needed a hammer. Nothing happened. He kept the thought steady. Hammer. Something solid.
 
 Something he could use. For a second, he felt the strange pressure again. Reality seemed to catch on something. Then an object dropped into his hand. He almost lost it.
 

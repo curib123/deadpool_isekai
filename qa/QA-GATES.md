@@ -205,36 +205,37 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO SCENE ARCHITECT AND R
 - Is the ending earned?
 
 ## Red Jackal
-- Does Red remain recognizable through behavior, choices, and spoken voice?
-- Is he theatrical/playful only when the moment fits?
-- Does his dialogue carry teasing, pauses, fake innocence, arrogance, or threat naturally rather than constantly?
-- When he becomes serious, does performance drop away?
+- Does Red sound like the Character Bible version of Red: theatrical by choice, shameless, curious, teasing, lightly arrogant, and capable of sudden seriousness?
+- Does his personality come through behavior, dialogue, timing, and close-third filtering rather than constant internal commentary?
+- Are his spoken lines natural rather than endlessly witty?
 - Is behavior character-driven rather than plot-driven?
-- Are quiet emotional moments allowed to remain quiet?
+- Is seriousness used deliberately?
+- If humor drops during fear, guilt, grief, horror, or tenderness, does the quieter tone feel natural?
 
 ## POV / Prose
 - close third-person limited centered on Red throughout?
 - no first-person narrator?
 - no head-hopping?
-- no omniscient knowledge?
+- no omniscient information Red could not know?
 - simple, natural English?
-- no unnecessary literary or technical wording?
+- technical or literary wording used only when necessary?
 - internal thoughts short and selective?
 - dialogue distinct and human?
-- interruptions, pauses, incomplete answers, callbacks, and subtext used naturally where appropriate?
-- personality-filtered description without narrator performance?
+- interruptions, pauses, incomplete answers, callbacks, and subtext used where natural?
+- personality-filtered description preferred over detached exposition?
 - paragraphs normally multi-sentence?
-- one-line paragraphs reserved for real impact?
+- one-line paragraphs reserved for real impact, danger, realization, important System output, emotional exposure, quiet emphasis, or a genuinely effective comic beat?
 - no robotic/excessively fragmented prose?
-- no direct reader-talk unless a future M-006 scene explicitly authorizes it?
 
 ## Comedy / References
-- does comedy come from character and situation?
-- are forced setup/punchline patterns avoided?
-- can other characters ignore or reject Red's humor?
-- serious consequences preserved?
+- does comedy come from character and situation rather than forced joke construction?
+- are repeated setup/punchline patterns avoided?
+- does Red's humor emerge naturally from his choices, dialogue, timing, failed coolness, and friction with practical people?
+- are serious consequences preserved?
+- are danger and emotional moments allowed to become quiet?
 - no requirement to joke in every scene?
-- references brief, transformed, situational, and understandable without recognition?
+- references brief, transformed and situational?
+- scene understandable without recognizing a reference?
 
 ## Power
 - Does Play Logic preserve the already-overpowered / no-progression writer truth?

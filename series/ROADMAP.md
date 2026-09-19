@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-015 CANON — CH-016 MANUSCRIPT DRAFT / GATE 9 PENDING
+**Status:** CH-016 CANON — CH-017 SCENE ARCHITECTURE AUTHORIZED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -53,7 +53,7 @@ CH-014 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**
 CH-015 Scene Architecture: **PASS — GATE 8**  
 CH-015 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
 CH-016 Scene Architecture: **PASS — GATE 8**  
-CH-016 Manuscript: **DRAFT — GATE 9 PENDING**  
+CH-016 Manuscript: **CANON — GATE 9 PASS / SERIOUS MODE LOCKED**  
 Red Jackal Series Voice: **LOCKED — DRY/DEADPAN INTERNAL HUMOR + RESTRAINED FOURTH-WALL STANDARD**  
 Red Jackal Anti-Villain Expression: **LOCKED**  
 Red Jackal Reputation / Fear Progression: **LOCKED — R0 TO R6**  
@@ -63,9 +63,9 @@ Aura Evolution: **MANUFACTURED → EARNED → REPUTATION-SUPPORTED**
 
 The project is now authorized to proceed to:
 
-1. **Run CH-016 Gate 9 — Chapter QA only**
+1. **Detailed Scene Architecture — CH-017 The Price of Being Right only**
 
-CH-016 manuscript draft now exists and is awaiting Gate 9 Chapter QA. No new F-ID is authorized in CH-016; F-001 through F-004 remain in their existing planted states. The draft uses the first bounded M-007 tonal hint without naming or explaining Fate, delivers the observed backflow, uses one rescue-only Stage I manifestation, severely injures Kellan without resolving his prognosis, destroys the CH-008 seasonal-cut bridge as an operational route, and ends with migration pressure turning toward Greywake. CH-017 still owns Kellan's formal medical assessment, Hesk's emergency-authority argument, Maelis's legal response, and Red's fuller accountability decision. CH-017 planning remains blocked until CH-016 passes Gate 9 and is canonized, and no later destination has been selected.
+CH-016 Chapter QA has passed and CH-016 is canon. No F-ID changed state in CH-016; F-001 through F-004 remain in their existing planted states. The first bounded M-007 tonal hint is now canon. Observed backflow, the single rescue-only Stage I barrier, Kellan's severe but not-yet-formally-diagnosed injury, loss of the CH-008 seasonal-cut bridge/route, and Greywake-facing migration pressure are canon. CH-017 — The Price of Being Right may now proceed to Detailed Scene Architecture only. CH-017 owns Kellan's formal medical assessment, Hesk's emergency-authority argument, Maelis's legal response, and Red's responsibility-without-ownership decision. CH-017 manuscript remains blocked until its Gate 8 Pre-Manuscript Scene QA passes, and no later destination has been selected.
 
 ## Destination Naming Law
 
@@ -81,7 +81,7 @@ This table is intentionally empty.
 
 | Volume | Destination ID | Arc Name | Local Conflict | Main Antagonist | Major Mystery Contribution | Status |
 |---|---|---|---|---|---|---|
-| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-016 DRAFT — GATE 9 PENDING |
+| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CH-016 CANON — CH-017 SCENE ARCHITECTURE AUTHORIZED |
 
 ## Lock
 
@@ -91,4 +91,4 @@ Do not add a row until:
 - Destination Inventory exists; **PASS**
 - Destination Selection QA approves an existing world location; **PASS — DEST-001 Greywake**
 
-Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-015 are canon. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. CH-016 manuscript draft exists and Gate 9 Chapter QA is the only authorized next step; CH-017 planning and all later-route selection remain deferred.
+Volume 1 destination, local conflict, antagonist, architecture, mystery ceiling, and 26-chapter roadmap are locked. CH-001 through CH-016 are canon. F-001 is planted in CH-002, F-002 in CH-003, F-004 in CH-005, and F-003 in CH-007. CH-017 Detailed Scene Architecture is authorized; CH-017 manuscript prose and all later-route selection remain deferred.

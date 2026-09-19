@@ -1,4 +1,4 @@
-# Chapter 23 — Greywake Holds
+Chapter 23 — Greywake Holds
 
 The largest territorial predator in the migration had arrived.
 

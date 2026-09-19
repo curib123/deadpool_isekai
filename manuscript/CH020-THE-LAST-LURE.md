@@ -535,7 +535,7 @@ Jessa glanced at him. He kept his eyes on Hesk. Not because she needed permissio
 
 Because she had already chosen. One of the loyalists did not care about reputation. He moved around the side and grabbed for the ledger.
 
-Maelis pulled it back. The man caught her sleeve. He caught him.
+Maelis pulled it back. The man caught her sleeve. Red caught him by the wrist.
 
 Not hard enough to break anything. Hard enough to remove his hand. Another loyalist shoved one of the militia guards.
 

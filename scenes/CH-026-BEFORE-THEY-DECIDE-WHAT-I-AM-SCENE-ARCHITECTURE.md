@@ -4,7 +4,7 @@
 **Chapter:** CH-026 — Before They Decide What I Am  
 **Movement:** VII — What Greywake Counts  
 **Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-026 MANUSCRIPT AUTHORIZED  
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-026 MANUSCRIPT CANON  
 **Final Scene Count:** 6  
 **POV:** Red Jackal first person  
 **Primary Cast:** Red Jackal, Maelis Orra, Tavian Rook, Captain Brynn Alder, Sela Arven, Kellan Dorr, Jessa Vale  

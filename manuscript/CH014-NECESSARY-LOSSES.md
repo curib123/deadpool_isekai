@@ -206,7 +206,7 @@ Kellan's eyes hardened.
 
 There it was. The sentence beneath everything. The road.
 
-The records. The outer routes. him.
+The records. The outer routes. Red.
 
 He folded his arms.
 

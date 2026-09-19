@@ -7,9 +7,25 @@
 **Status:** GATE 6 PASS — VOLUME ARCHITECTURE LOCKED / CHAPTER ROADMAP AUTHORIZED  
 **Scope:** Complete volume architecture only. No chapter roadmap, scene list, or manuscript prose.
 
+# Power-Model Retcon Override
+
+The authorial retcon in `planning/RED-JACKAL-OVERPOWERED-RETCON.md` supersedes all Stage I / progression-ceiling language in this architecture.
+
+Volume 1 now treats Red as already overwhelmingly powerful.
+
+Any prior statement that he “cannot” solve a physical problem because of raw power must be reinterpreted or revised as one of:
+- voluntary restraint;
+- lack of information;
+- simultaneous objectives;
+- concern for collateral;
+- social/political/evidentiary constraints;
+- Red playing with the situation too long.
+
+Supporting characters remain necessary for knowledge, logistics, evidence, evacuation, judgment, and local authority—not because Red lacks enough force.
+
 # 1. Volume Purpose
 
-Greywake Arc introduces Red Jackal, Veyr's everyday frontier reality, the World System's inability to define him, Stage I Play Logic, abnormal regeneration, and the consequence difference between someone who can heal and everyone around him who cannot.
+Greywake Arc introduces Red Jackal, Veyr's everyday frontier reality, the World System's inability to define him, his deliberately under-revealed unbounded Play Logic, abnormal self-restoration, and the consequence difference between someone overwhelmingly hard to stop and everyone around him who is not.
 
 The volume's local story must stand on its own.
 
@@ -863,9 +879,7 @@ Red Jackal confronts Hesk, but defeating Hesk physically is not sufficient.
 
 The migration solution succeeds because multiple people contribute competencies Red Jackal does not have.
 
-Red Jackal's Stage I Play Logic buys time or stabilizes one failing part of the plan.
-
-He cannot simply imagine the migration away.
+Red Jackal deliberately uses only a bounded-looking portion of Play Logic while the local plan unfolds. He could apply vastly greater force, but doing so would not automatically solve evacuation, evidence, route choice, or the consequences already in motion.
 
 ### Serious Red Jackal Beat
 

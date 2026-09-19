@@ -273,3 +273,34 @@ The previous close-third revisions remain historical artifacts only.
 **Official next step:** CH-001 — Wrong Forest, Wrong World → Soul-Drift / First-Person Manuscript Revision → Gate 9 Revalidation.
 
 **CH-028 remains PAUSED.**
+
+## Final Story-Engine Synchronization — 2026-09-20
+
+The Soul-Drift retcon is now tightened by the final story-engine lock.
+
+Authoritative sources:
+- `planning/RED-JACKAL-SOUL-DRIFT-MASTER-RETCON.md`
+- `planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md`
+- `series/NATIVE-STORY-FRAMEWORK.md`
+- `characters/CHARACTER-BIBLE.md`
+- `manuscript/WRITING-RULES.md`
+- `qa/RED-JACKAL-FINAL-STORY-ENGINE-RETCON-QA.md`
+
+Additional locked interpretation:
+- Red is the series focal protagonist, but not Veyr's registered chosen Hero;
+- the conventional otherworld Hero and Hero Party remain genuine and competent;
+- Red repeatedly creates a false-main-character effect by stealing presentation and attention;
+- Red's intrusion may change the flow, but it must reroute later causality instead of deleting the sequence;
+- unexpected situations must grow from Red's personality and leave lasting consequences;
+- Red has no conventional moral/personality-development arc;
+- Red has no raw-power progression arc;
+- aura farming, enemy-play, voluntary restraint, Fourth-Wall Pause, Play Logic, and regeneration are available as established traits rather than unlocks.
+
+Preservation remains absolute unless the author explicitly changes it:
+- world map/geography;
+- Greywake destination and 26-chapter order;
+- Merrowgate destination and 24-chapter order;
+- major reversal/climax placement;
+- one major volume = one destination arc.
+
+**Production priority remains:** synchronize CH-001 → CH-027 under the final Soul-Drift / close-first-person / story-intruder engine, revalidate Gate 9 sequentially, then resume CH-028.

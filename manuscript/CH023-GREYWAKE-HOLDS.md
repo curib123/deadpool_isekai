@@ -1,14 +1,20 @@
 # Chapter 23 — Greywake Holds
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** STUDIO CINEMATIC RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 2,663
 **Retcon QA:** `qa/CH-023-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
-The largest territorial predator in the migration had arrived.
+The predator stepped into Broken North.
 
 For one second, nobody moved.
 
-The animal filled the broken approach without needing magic, titles, or glowing eyes. It was simply too large for the road, too close to frightened prey, and too angry at everything pressing around it. Thick shoulders forced through brush and young trees. Mud streaked its hide. One side of its face carried old scars that had nothing to do with them.
+The animal filled the broken approach.
+
+Too large for the road.
+
+Too close to frightened prey.
+
+Too angry to care about either. Thick shoulders forced through brush and young trees. Mud streaked its hide. One side of its face carried old scars that had nothing to do with them.
 
 Then the prey behind it surged.
 
@@ -592,7 +598,7 @@ Brynn’s voice hit him like a thrown rock.
 
 He stopped.
 
-Good.
+The militia man stopped.
 
 The predator was not the objective.
 
@@ -602,11 +608,9 @@ The next wave entered Broken North.
 
 The road held.
 
-Not beautifully.
+Barely.
 
-Not safely.
-
-But it held.
+It held.
 
 He returned to the inner shelf.
 
@@ -652,11 +656,9 @@ He was already pointing.
 
 “Do nothing.”
 
-That took effort.
+Red's hands tightened.
 
-Not because holding back hurt.
-
-Because the answer was obvious.
+The answer was obvious.
 
 He saw his expression.
 
@@ -678,11 +680,13 @@ The herd spread.
 
 Pressure dropped.
 
+The herd spread.
+
+Pressure dropped.
+
 Tavian was right.
 
-Again.
-
-Power remained a terrible substitute for knowing what problem he was solving.
+Power had never been the missing information.
 
 The next minutes blurred into movement.
 
@@ -694,9 +698,9 @@ Brynn sent runners before people asked for them.
 
 Tavian changed the guide angles twice as the prey behavior changed.
 
-He carried a broken post out of the route, caught one worker who slipped, and did absolutely nothing spectacular for nearly five consecutive minutes.
+Red carried a broken post out of the route and caught one worker who slipped.
 
-Personal growth.
+For several minutes, nothing about him needed to be spectacular.
 
 Then a ridge-hound broke toward an injured militia man.
 
@@ -718,9 +722,7 @@ The hound twisted in outrage.
 
 He stared at it.
 
-That had not been the plan.
-
-Tavian stared too.
+Tavian stared at the floating hound.
 
 “Put it down north.”
 
@@ -744,7 +746,7 @@ She considered it.
 
 “Fine.”
 
-High praise.
+Red took it.
 
 The physical line stabilized by degrees.
 
@@ -766,13 +768,11 @@ His hands were not shaking.
 
 That was what Tavian noticed.
 
-His eyes went from them to the road support he had expanded, then to him.
+Tavian's eyes went from Red's steady hands to the road support.
 
 He said nothing.
 
-Good.
-
-He could keep that thought for later.
+Red preferred that.
 
 Brynn followed the main movement north.
 

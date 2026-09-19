@@ -19,7 +19,7 @@ He understood exactly none of it. So much for the entrance. He pointed at himsel
 
 Then he pointed through the gate. The guards exchanged a look that required no translation. He repeated the gesture more slowly, because apparently that was how language worked when confidence failed. The younger guard called toward a booth built into the gate. A tired-looking attendant emerged carrying a round brass token on a cord, held it between them, and pressed his thumb to its center.
 
-A faint pressure passed through the air. Not quite sound. Not quite vibration. More like the instant before someone spoke close to your ear.
+A faint pressure passed through the air. Not quite sound. Not quite vibration. More like the instant before someone spoke close to his ear.
 
 “Try again,” the attendant said. He blinked. The sounds coming from his mouth still were not English, but the meaning arrived anyway. He looked at the brass token, then at him.
 

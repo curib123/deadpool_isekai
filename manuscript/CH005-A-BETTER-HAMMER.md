@@ -267,7 +267,7 @@ Dark material formed along the surface in uneven planes, more solid than the fir
 
 The guard beside the road looked over. Again, no sigil. No spell. No preparation. Just him holding something that had not existed a second earlier.
 
-He did not have time to think about what that meant. The hammer had started to distort at the edges, not from strain so much as from the fact that he had imagined the result more clearly than the proportions. He stepped toward the pin. The foreman looked at the hammer, then the brace, then him.
+He did not have time to think about what that meant. The hammer had started to distort at the edges, not from strain so much as from the fact that he had imagined the result more clearly than the proportions. He stepped toward the pin. The foreman looked at the hammer, then the brace, then Red.
 
 “Can you control it?”
 

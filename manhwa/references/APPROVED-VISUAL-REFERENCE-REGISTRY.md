@@ -11,7 +11,7 @@ This is the authoritative list of visual references approved for repeated manhwa
 
 | ID | Subject | Status | File/Asset | Approved Against | Notes |
 |---|---|---|---|---|---|
-| RJ-REF-001 | Red Jackal primary model sheet | PENDING | `manhwa/references/assets/characters/red-jackal/RJ-REF-001-primary-neutral-model-sheet-candidate.jpg` | Red Jackal textual lock v1.0 | **REVISION REQUIRED** — secondary belt asymmetry is reversed; close-up neutral expression should be softened; repository binary must be replaced/verified before approval |
+| RJ-REF-001 | Red Jackal primary model sheet | **APPROVED** | `manhwa/references/assets/characters/red-jackal/RJ-REF-001-R2-verified.svg` | Red Jackal textual lock v1.0 + R2 visual-lock review | R2 approved; R1 superseded |
 | RJ-REF-002 | Red Jackal turnaround | PENDING | — | Turnaround specification v1.0 | not generated |
 | RJ-REF-003 | Red Jackal face sheet | PENDING | — | Face lock v1.0 | not generated |
 | RJ-REF-004 | Red Jackal expression sheet | PENDING | — | Expression lock v1.0 | not generated |
@@ -32,4 +32,4 @@ To become APPROVED it must:
 5. contain no unexplained accessories or design drift;
 6. have a stable repository asset/path or other approved production reference.
 
-No Red Jackal image reference is APPROVED at this stage.
+RJ-REF-001 is APPROVED as the primary Red Jackal identity anchor. Overall Red Jackal image lock remains incomplete until RJ-REF-002 through RJ-REF-007 pass their own review gates.

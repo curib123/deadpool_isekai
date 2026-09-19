@@ -4,7 +4,13 @@
 
 Sela had said rest. I had interpreted that as avoid getting torn open again before lunch. This seemed reasonable. My ribs disagreed. Every step down Greywake's western approach pulled faintly along my left side, not enough to stop me, just enough to remind me that the previous day had happened and my body had not filed it under resolved.
 
-The Road Guild had found me another job anyway. Of course they had. Apparently being medically confusing did not remove you from the labor pool. A charged Wayfarer Tongue Token hung from the side of the small work cart beside me. Two men walked ahead with axes and hand tools over their shoulders. A third pushed a narrow wheelbarrow loaded with iron straps, nails, rope, and pieces of reused timber.
+The Road Guild had found me another job anyway. Of course they had. Apparently being medically confusing did not remove you from the labor pool.
+
+I had taken it for three reasons. It paid. It got me out of Sela's treatment house before she could decide rest required supervision. And after seeing how much attention the Main Caravan Road received, I wanted to know what “less protected” actually looked like when nobody was summarizing it for me.
+
+None of those reasons were charity. That suited me.
+
+A charged Wayfarer Tongue Token hung from the side of the small work cart beside me. Two men walked ahead with axes and hand tools over their shoulders. A third pushed a narrow wheelbarrow loaded with iron straps, nails, rope, and pieces of reused timber.
 
 The man leading them had introduced himself as Kellan Dorr. He had looked me over once, noticed how carefully I was turning my torso, and asked, “Can you lift?” Not who are you. Not what happened to you.
 
@@ -198,7 +204,13 @@ He hit the strap once with the hammer.
 
 There it was. Not a speech. Just arithmetic. I looked down at the bridge again. The Guild crew on the Main Caravan Road had not been lazy.
 
-These people were not lazy either. One group had better material. That was the difference. By late morning, the first half of the supplies had crossed by hand. The cart remained on the near side.
+These people were not lazy either. One group had better material. That was the difference.
+
+I had not come out here to save the Outer Homesteads. I had come because the job paid, because I was bored of being treated like a patient, and because the difference between the roads had started bothering me.
+
+Unfortunately, problems became harder to ignore once they had faces, broken bridges, and people still working through them.
+
+By late morning, the first half of the supplies had crossed by hand. The cart remained on the near side.
 
 Kellan crouched at the approach and pressed his boot into the packed stone. It held. Then shifted. Not much. Enough.
 
@@ -474,4 +486,12 @@ Again.
 
 I stepped closer to the Guild post. The writing still meant nothing. But I did not need it. I knew the claw pictogram. I knew fresh paint from old.
 
-I knew five new cuts when I saw them. Yesterday, Tavian had told me the animals were moving wrong. Today, the people living outside the lantern line were already marking that movement themselves. The official warning had not caught up.
+I knew five new cuts when I saw them. Yesterday, Tavian had told me the animals were moving wrong. Today, the people living outside the lantern line were already marking that movement themselves.
+
+The bridge job was finished. I could have collected my pay, gone back to Greywake, and decided the warning board belonged to somebody with a title.
+
+The mismatch annoyed me.
+
+Curiosity had caused worse decisions.
+
+The official warning had not caught up.

@@ -424,9 +424,9 @@ Primary pacing goals:
 - expand CH-023 into the clear physical battle peak;
 - preserve CH-025 and CH-026 as separate aftermath and departure functions.
 
-**Current authorial revision step:** CH-009 — Wrong Tracks → Pacing Revision Pass → Gate 9 Revalidation.
+**Revision track:** COMPLETE — incorporated into the overpowered-retcon manuscripts and revalidated through Gate 10/Gate 11.
 
-The previously authorized CH-028 Gate 8 step is paused, not cancelled, while Volume 1 revision is active.
+CH-028 Gate 8 is active again.
 
 
 # 7. Volume 1 Power-Retcon Manuscript Audit
@@ -462,7 +462,9 @@ After all 13 changed chapters pass:
 
 **Current canon total:** 75,157 words.
 
-**Official next step:** regenerate publication copies for the 13 revised chapters → Gate 11 revalidation.
+**Gate 11 refresh:** COMPLETE — 13 revised publication copies regenerated and individually revalidated; aggregate Volume 1 Gate 11 PASS.
+
+**Official next step:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.
 
 
 # 8. Volume 1 Overpowered Retcon Completion
@@ -481,4 +483,4 @@ Volume-level Gate 10:
 Authoritative Gate 10:
 `qa/VOLUME-001-GREYWAKE-OVERPOWERED-RETCON-GATE-10-REVALIDATION.md`
 
-CH-028 remains paused until the changed reader-facing Volume 1 copies complete Gate 11 refresh.
+CH-028 is unpaused. The Volume 1 publication refresh has passed Gate 11.

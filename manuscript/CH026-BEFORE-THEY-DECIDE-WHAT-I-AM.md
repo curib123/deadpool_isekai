@@ -1,6 +1,6 @@
 # Chapter 26 — Before They Decide What I Am
 
-**Status:** DRAFT — GATE 9 NOT YET RUN  
+**Status:** CANON — GATE 9 PASS / ARC-CLOSURE VOICE LOCKED  
 **Word Count:** 1,826
 
 Greywake sounded different when nobody was screaming. Hammers had replaced alarm horns. Not everywhere.

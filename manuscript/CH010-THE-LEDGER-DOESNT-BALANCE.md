@@ -605,7 +605,7 @@ Maelis did not flinch.
 
 “Good.”
 
-He looked at him once more. The look was different now. Not fear. Not yet. Calculation. Then he left. Jessa kept staring at the doorway. He removed his hand from the ledger.
+Hesk looked at Red once more. The look was different now. Not fear. Not yet. Calculation. Then Hesk left. Jessa kept staring at the doorway. Red removed his hand from the ledger.
 
 “You can go,” he said.
 

@@ -5070,7 +5070,7 @@ No CH-017 outcome is canon before its manuscript passes Gate 9.
 # CH-017 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-017 — The Price of Being Right  
-**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+**Status:** SUPERSEDED BY CH-017 CANON CHECKPOINT
 
 ## Opening State
 
@@ -5254,3 +5254,224 @@ He does not:
 - leave Greywake to escape responsibility.
 
 CH-018 then owns the actual no-acceptable-loss plan.
+
+# CH-017 Canon Checkpoint
+
+**Chapter:** CH-017 — The Price of Being Right  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH017-THE-PRICE-OF-BEING-RIGHT.md`  
+**QA:** `qa/CH-017-GATE-9-CHAPTER-QA.md`
+
+## Kellan Medical State — CANON
+
+Sela canonically establishes:
+
+- severe lower-leg crush/fracture;
+- more than one break remains possible;
+- major soft-tissue damage;
+- meaningful blood loss;
+- rib/shoulder impact;
+- circulation remains present;
+- Kellan cannot bear weight;
+- his leg requires continued stabilization/treatment;
+- exact long-term prognosis remains uncertain.
+
+Treatment remains bounded:
+- bleeding control;
+- limited healing mana;
+- splinting/stabilization;
+- continued observation.
+
+Not canon:
+- amputation;
+- permanent disability;
+- guaranteed full recovery;
+- exact recovery timetable.
+
+## Red / Kellan Recovery Contrast — CANON
+
+Red's CH-015/016 injuries continue abnormal correction.
+
+Canonically:
+- Red remains sore/fatigued;
+- Red's bleeding has stopped;
+- his side continues closing;
+- he recovers materially faster than Kellan.
+
+Kellan's body does not share Red's regeneration.
+
+This asymmetry is now a visible moral/physical consequence.
+
+## Kellan Agency — CANON
+
+Kellan canonically confirms:
+
+- he wanted the local lure stopped;
+- he helped Red;
+- he blocked Guild interference;
+- he did not know the network-wide result;
+- Red made the final physical choice;
+- Hesk still built the underlying system.
+
+Kellan explicitly refuses to become either:
+- Red's excuse;
+- Hesk's proof that the sacrificial system was entirely right.
+
+Red cannot transfer responsibility to Kellan.
+
+## Hesk Emergency-Authority Demand — CANON
+
+Hesk canonically argues:
+
+- Red violated the active hold order;
+- backflow followed;
+- the seasonal-cut bridge is lost;
+- Greywake-facing approaches are threatened;
+- fragmented authority is too slow;
+- strongest remaining outer lures should return to full operation;
+- Road Guild lure operations should be centralized temporarily under his emergency authority.
+
+This is now Hesk's strongest post-reversal political position.
+
+It does not erase:
+- deliberate diversion;
+- manipulated loss reporting;
+- known outer exposure;
+- prior hidden-sacrifice policy.
+
+## Maelis Orra — Actionable Accountability CANON
+
+Maelis canonically:
+
+- preserves Hesk's admissions and route/loss evidence;
+- preserves Red's unauthorized-action record separately;
+- states:
+  **“Separate responsibility does not cancel previous responsibility.”**
+- splits key original/copy custody between Ledger and militia control;
+- prevents one office from controlling both emergency operations and the evidentiary record.
+
+This is the transition from investigation to actionable accountability.
+
+Hesk's final legal defeat remains unresolved.
+
+## Tavian Rook — Post-CH-017 State
+
+Tavian canonically confirms:
+
+- backflow is still developing;
+- doing nothing is dangerous;
+- blind restoration/strengthening of remaining lures may trigger another redistribution problem;
+- updated route information is required;
+- controlled intervention may be necessary.
+
+He does not:
+- absolve Red;
+- endorse Hesk's acceptable-loss logic;
+- design the CH-018 final solution early.
+
+Red's willingness to report facts and accept correction becomes the first post-mistake evidence that Tavian can work with him again.
+
+## Captain Brynn Alder — Shared Emergency Governance CANON
+
+Brynn canonically establishes:
+
+- militia command remains under her authority;
+- Road Guild technical crews may still be used;
+- Hesk does not receive sole hidden operational control;
+- no lure change may proceed without:
+  - Guild technical participation;
+  - militia witness;
+  - current route confirmation from Tavian or delegate;
+  - recorded service action.
+
+This is temporary emergency shared oversight.
+
+Permanent Guild/governance reform remains unresolved.
+
+## Red Jackal — Responsibility Without Ownership CANON
+
+Red canonically recognizes:
+
+- he was right that Hesk's system treated outer communities as expendable;
+- he was wrong to pull the lure before understanding the wider network;
+- being right about Hesk did not make his CH-015 action right;
+- his own freedom does not remove the consequences of his choices.
+
+Red chooses:
+
+**to remain and help repair what he worsened.**
+
+He does not:
+- submit to Hesk;
+- accept Greywake ownership;
+- claim command;
+- become conventionally lawful;
+- accept the acceptable-loss policy.
+
+His action is self-chosen.
+
+Locked final state:
+
+**Red joins Brynn, Tavian, and Maelis in shared emergency planning and asks what they need from him.**
+
+## Public Knowledge State After CH-017
+
+Greywake's public may know:
+
+- migration pressure is worsening;
+- the outer bridge failed;
+- Red interfered with a lure;
+- movement changed afterward;
+- people were injured.
+
+The public does not yet uniformly know:
+
+- full lure-network structure;
+- every falsified record;
+- exact lure count/locations;
+- Hesk's complete hidden policy documentation.
+
+## Power / Mystery State After CH-017
+
+CH-017 contains:
+- no Play Logic;
+- no manifestation;
+- no combat.
+
+F-ID state remains:
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+M-007 does not advance beyond its CH-016 tonal state.
+
+No Fate/Great Design/Eidrathi/System-origin/Play-Logic-origin material is introduced.
+
+## CH-018 Handoff
+
+The authoritative next chapter is:
+
+**CH-018 — No Acceptable Loss**
+
+CH-018 may now begin with:
+
+- Greywake under continuing migration pressure;
+- shared emergency oversight active;
+- Hesk denied unilateral authority but still controlling useful Guild expertise/resources;
+- Tavian needing current migration redirection;
+- Maelis holding protected evidence;
+- Brynn commanding militia/defense;
+- Red committed to cooperation rather than solo improvisation;
+- Kellan available only in a medically limited advisory role if needed;
+- Jessa able to re-enter through records/operational knowledge.
+
+CH-018 owns:
+
+- building the actual third option;
+- coalition planning;
+- selecting Broken North as the redirection corridor;
+- defining each specialist's role;
+- identifying where temporary Stage I manifestations may buy time.
+
+Broken North is not canonically selected as the solution until CH-018 architecture/manuscript establishes it.

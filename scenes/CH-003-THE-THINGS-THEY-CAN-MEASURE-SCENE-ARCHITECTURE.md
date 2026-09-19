@@ -121,6 +121,23 @@ He still cannot read Veyran writing or written System output.
 
 Maelis, Jessa, and the Greywake clerk communicate with him through the token whenever spoken translation is required.
 
+# 4B. Reader-Companion Voice Lock
+
+The CH-003 manuscript must follow the permanent Red Jackal voice standard in:
+
+- `characters/CHARACTER-BIBLE.md` sections 2.10–2.13;
+- revised canon CH-001;
+- revised canon CH-002.
+
+Required manuscript feel:
+- Red Jackal is telling the story to **us**;
+- direct reader-talk recurs naturally when the scene permits;
+- self-talk remains distinct from reader-talk;
+- Maelis's precision creates situational comedy without making the investigation unserious;
+- reader-talk may reduce when the physical-vs-identity contradiction becomes genuinely unsettling;
+- no joke quota;
+- multi-sentence paragraphs remain the prose default.
+
 # 5. Scene Architecture
 
 ## SC-003-01 — Terms of Measurement

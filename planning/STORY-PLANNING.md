@@ -486,48 +486,11 @@ Authoritative Gate 10:
 CH-028 is unpaused. The Volume 1 publication refresh has passed Gate 11.
 
 
-# 9. Superseded Close-Third POV / Style Retcon — Historical
+# 9. Superseded POV / Style Retcon — Historical
 
-**Status:** STUDIO CINEMATIC PROSE REVISION COMPLETE — GATE 9 REVALIDATION PENDING.
+The previous POV/style conversion is historical only and has no current authority.
 
-The author has replaced first-person narration with:
-
-**close third-person limited centered on Red Jackal.**
-
-All current manuscripts in scope have now been revised to the new standard:
-**CH-001 through CH-027 — 27 / 27 COMPLETE.**
-
-Revision preserves:
-- chapter plot;
-- titles;
-- chronology;
-- mystery timing;
-- F-ID planting;
-- Red's already-overpowered writer truth;
-- injuries/consequences;
-- chapter endings unless grammar requires third-person conversion.
-
-Revision changes:
-- POV;
-- prose texture;
-- dialogue naturalness;
-- internal-thought density;
-- Red's voice delivery;
-- comedy placement;
-- emotional quiet.
-
-Production order remains chronological for revalidation.
-
-Current revision state:
-- CH-001→CH-027: **STUDIO CINEMATIC RETCON REVISED**
-- Gate 9 under new style: **PENDING**
-- prior canon events/plot remain the continuity source while the revised prose is revalidated;
-- Volume 1 Gate 10 / Gate 11 must be refreshed after chapter revalidation.
-
-**Official next production step:** CH-001 → Studio Cinematic Gate 9 Revalidation, then continue chapter-by-chapter through CH-027.
-
-**CH-028 is paused until CH-001→CH-027 finish Gate 9 revalidation.**
-
+Current manuscript authority begins in Section 10 and `manuscript/WRITING-RULES.md`.
 
 # 10. Soul-Drift / Story-Intruder Retcon
 

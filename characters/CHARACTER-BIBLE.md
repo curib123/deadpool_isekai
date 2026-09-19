@@ -125,6 +125,83 @@ He should sometimes joke to hide fear, but sometimes he jokes because he actuall
 
 He should sometimes aura farm strategically, but sometimes he simply enjoys being ridiculous.
 
+## 2.4A Overpowered Role-Player Lock — AUTHORIAL RETCON
+
+Red Jackal is an **original overpowered role-player archetype**.
+
+He is not a copy of any existing franchise character. The intended high-level appeal is:
+- absurd hidden strength;
+- theatrical role-play;
+- deliberate underestimation;
+- self-amusement;
+- treating enemies as participants in a scene he is staging;
+- switching instantly from harmless or ridiculous to overwhelming;
+- letting other people misunderstand him because the misunderstanding is entertaining.
+
+His defining difference is that Red Jackal does not dream of becoming powerful.
+
+**He already is.**
+
+He does not have a conventional power climb.
+
+He does not need:
+- levels;
+- classes;
+- stat growth;
+- training arcs to unlock raw output;
+- Stage I → Stage II → Stage III → Stage IV advancement;
+- an endgame form that makes him finally overpowered.
+
+His power is already available in principle from the beginning.
+
+What changes across the story is:
+- what he chooses to reveal;
+- what he bothers to imagine;
+- how creatively he uses it;
+- how much of the situation he understands;
+- how far he is willing to take the performance;
+- how other people interpret what they have witnessed.
+
+This creates a **revelation arc, not a power-progression arc**.
+
+### The Game
+
+Red Jackal often treats a hostile encounter as a game or improvised scene.
+
+He may:
+- pretend to be weaker than he is;
+- let an enemy explain their technique;
+- deliberately use an unnecessarily specific counter;
+- allow an attack to land because the reaction interests him;
+- fight at the opponent's apparent level for entertainment;
+- invent a persona or rule for the encounter;
+- let enemies believe they have discovered a weakness;
+- give an opponent several chances simply because ending the fight immediately would be boring;
+- stage an entrance, disappearance, false retreat, or dramatic reveal;
+- end the game instantly when he becomes bored, angry, or when someone crosses a line.
+
+The enemy can be dangerous to **other people, plans, secrets, cities, relationships, or objectives** even when they are not a credible raw-power threat to Red.
+
+### Serious Switch
+
+When Red stops playing, the tonal shift must be obvious.
+
+He does not need a transformation or power-up.
+
+The frightening part is that the overwhelming power was already there.
+
+Serious Red:
+- becomes simpler;
+- speaks less;
+- stops offering openings;
+- stops pretending to struggle;
+- uses the shortest solution;
+- may end a fight in a single decisive action.
+
+The story must never frame this as a newly unlocked form.
+
+It is **restraint being removed**.
+
 ## 2.5 Core Psychological Engine
 
 ### Primary Desire
@@ -372,308 +449,113 @@ Sometimes it backfires spectacularly.
 
 All four outcomes are valid.
 
-## 2.9A Reputation, Fear, and Threat Perception — LOCKED SERIES PROGRESSION
+## 2.9A Reputation, Fear, and Threat Perception — LOCKED REVELATION MODEL
 
-Red Jackal's reputation must grow from **observed contradictions**, not from the story announcing that he has enormous potential.
+Red Jackal's reputation grows through **discovery**, not power progression.
 
-Characters are allowed to recognize:
+Writer truth:
 
-- that the System cannot classify him;
-- that normal appraisal/registry tools fail around him;
-- that he can create temporary physical effects without normal spellcasting structure;
-- that his manifestations do not behave exactly like standard magic;
-- that he can survive and recover from trauma that should incapacitate ordinary people;
-- that conventional healing does not cleanly explain his recovery;
-- that he learns how to use his anomaly through experience;
-- that normal threat-estimation methods are unreliable when applied to him.
+**Red is already overwhelmingly powerful. Other characters simply do not know it.**
 
-Characters must **not** automatically know:
+The frightening progression is therefore:
 
-- the true source of Play Logic;
-- the true source of regeneration;
-- his theoretical endgame ceiling;
-- that he can eventually bend higher-order rules;
-- protected Fate / Great Design / Exterior truth;
-- that every apparent limitation is temporary.
+**“He is strange.” → “He is stronger than we thought.” → “He was holding back.” → “How much has he never shown us?”**
 
-The frightening question should develop as:
-
-**“What can he do?” → “What actually limits him?” → “Are the limits we have seen fundamental, or only things he has not learned yet?”**
+Characters must still react only to evidence they actually possess.
 
 ### Reputation Stages
 
 #### R0 — Unknown Stranger
-
-Red Jackal is:
-- undocumented;
-- strange;
-- socially unimportant;
-- easy to underestimate.
-
-No reputation exists yet.
+Red is undocumented, socially unimportant, and easy to underestimate.
 
 #### R1 — Unclassifiable
+People learn that the System cannot produce a valid identity for him.
 
-People learn that:
-- registry tools fail;
-- identity fields return UNDEFINED;
-- ordinary categories do not fit.
+This creates bureaucratic suspicion, not automatic fear.
 
-Reaction:
-- suspicion;
-- bureaucratic concern;
-- curiosity;
-- disbelief.
+#### R2 — Strange but Apparently Bounded
+People see unusual manifestations, impossible survival, or abnormal recovery while Red deliberately presents himself as limited, inconsistent, unserious, or inexperienced.
 
-This is **not** fear of power yet.
+The apparent limits may be real choices, incomplete understanding of the local situation, or deliberate performance.
 
-#### R2 — Anomalous but Limited
-
-People observe:
-- temporary impossible objects;
-- unusual recovery;
-- nonstandard magic behavior;
-- clear exhaustion and mistakes.
-
-Reaction:
-- fascination;
-- cautious respect;
-- rumors;
-- concern.
-
-Important:
-his limitations remain highly visible.
+They are **not** a writer-truth power ceiling.
 
 #### R3 — Dangerous Wildcard
+Competent people realize normal threat assessment does not work.
 
-Enough evidence accumulates that competent people conclude:
+They begin to suspect that some earlier “limits” were choices.
 
-**Red Jackal cannot be evaluated safely using normal assumptions.**
+#### R4 — Hidden Monster
+Witnesses see Red casually perform something that should have required far more effort than he showed.
 
-Possible reactions:
-- Tavian worries about judgment more than raw strength;
-- Maelis worries about classification and institutional blind spots;
-- Sela worries that expected medical outcomes do not apply cleanly;
-- Kellan respects usefulness but refuses to worship spectacle;
-- antagonists begin planning around uncertainty rather than known statistics.
+The important realization becomes:
 
-At this stage, some characters may fear him.
-
-Not everyone must.
-
-#### R4 — Feared Potential
-
-Later, knowledgeable characters may realize that the disturbing part is no longer his current strength.
-
-It is his **growth direction**.
-
-Allowed conclusion:
-
-**“What frightens me is not what he can do now. It is that every new thing we learn makes the old limits look less certain.”**
-
-This stage must be earned through repeated evidence across arcs.
-
-Do not reach it in early Greywake merely because the Character Bible says his ceiling is enormous.
+**“He was never struggling as much as we thought.”**
 
 #### R5 — Reputation Precedes Him
+Stories arrive before Red does.
 
-Later-series Red Jackal may enter places where:
-- people have already heard contradictory stories;
-- allies know which stories are exaggerated;
-- enemies prepare for abilities he may not even have;
-- ordinary people may recognize the name before the man.
+Enemies overprepare for the wrong abilities because nobody has a complete account.
 
-Rumors may describe him as:
-- anomaly;
-- monster;
-- savior;
-- criminal;
-- impossible mage;
-- unregistered thing;
-- man who does not stay dead;
-- liar;
-- hero;
-- disaster.
-
-No single label is fully authoritative.
+Red may enjoy using the rumors as props.
 
 #### R6 — Existential Exception
+Very late-series experts may understand that Veyr does not possess a meaningful conventional scale for him.
 
-Very late-series experts may recognize that Red Jackal is not merely an unusual user of the world's rules.
+This is a revelation of what was always true, not a late power-up.
 
-They may begin to suspect that **the rules themselves fail to describe him completely**.
+### Perception Rules
 
-This stage belongs to protected late-series development.
+- nobody becomes omniscient about Red because they witnessed one feat;
+- one spectacular display does not reveal the full truth;
+- competent skeptics remain allowed;
+- some people may think the stories are exaggerated;
+- some may believe he uses artifacts, forbidden magic, divine protection, or deception;
+- Red may intentionally reinforce a false explanation because he likes the role.
 
-Do not accelerate it.
+### Antagonist Experience
 
-### Perception by Character Type
+A good Red Jackal antagonist does not need to be physically stronger than Red.
 
-#### Tavian Rook
+They remain dangerous by threatening:
+- civilians;
+- institutions;
+- information;
+- reputations;
+- political outcomes;
+- people Red cares about;
+- simultaneous objectives;
+- irreversible choices;
+- situations Red does not yet understand.
 
-Preferred progression:
+During direct combat, Red may deliberately play at their level.
 
-**reckless stranger → dangerous anomaly → capable ally → person whose future strength requires judgment and restraint**
-
-Tavian should not be impressed merely by spectacle.
-
-His eventual fear, if it develops, is:
-
-**what Red Jackal could become if enormous survivability and expanding anomaly control were paired with bad judgment.**
-
-Trust and fear may coexist.
-
-#### Maelis Orra
-
-Preferred progression:
-
-**registry irregularity → impossible classification case → institutional blind spot → potentially unprecedented anomaly**
-
-Her concern is intellectual and procedural first.
-
-She should be among the earliest characters to understand that the inability to classify Red Jackal may be more important than any single feat.
-
-#### Sela Arven
-
-Preferred progression:
-
-**strange patient → medically abnormal recovery → person whose lethal thresholds cannot be assumed normally**
-
-She must never jump directly to immortality.
-
-Her discomfort comes from losing confidence in predictable medical outcomes.
-
-#### Kellan Dorr
-
-Preferred progression:
-
-**unusual laborer → useful strange man → dangerous but practical ally**
-
-Kellan remains resistant to hype.
-
-Even impressive manifestations are secondary to:
-- whether Red Jackal shows up;
-- whether he listens;
-- whether his power solves the real problem;
-- whether other people pay for his mistakes.
-
-Kellan helps prevent universal protagonist worship.
-
-#### Minor Characters / Civilians / Workers
-
-Their knowledge should be fragmented.
-
-Rumors may develop from partial truths:
-
-- “The gate could not identify him.”
-- “He made a wall appear.”
-- “He was torn open and walked back.”
-- “He is not a mage.”
-- “Then what is he?”
-
-Rumors may contradict one another.
-
-Minor characters are allowed to:
-- fear him;
-- admire him;
-- dismiss the stories;
-- exaggerate them;
-- misunderstand them.
-
-#### Antagonists
-
-Minor antagonists may initially underestimate him because:
-- he has no level;
-- no class;
-- no registered combat status;
-- no formal political protection.
-
-Fear should grow when they discover that:
-- normal threat appraisal fails;
-- injury does not stop him normally;
-- his abilities are difficult to predict;
-- he does not reliably obey institutional pressure.
-
-Competent antagonists adapt.
-
-They do not become stupid because they are afraid.
-
-#### Rovan Hesk — Greywake Progression
-
-Hesk's preferred perception path:
-
-**undocumented disposable labor → useful irregular asset → unpredictable complication → dangerous wildcard → threat to operational control**
-
-Hesk should not fear Red Jackal first because of raw combat strength.
-
-Hesk's deeper fear is that Red Jackal cannot be:
-- reliably classified;
-- threatened through normal employment status;
-- placed cleanly inside Guild procedure;
-- convinced that assigned sacrifice is necessary;
-- predicted through ordinary institutional incentives.
-
-By the late Greywake Arc, Hesk should understand that Red Jackal's unpredictability and refusal of imposed roles are operational threats even before Red Jackal becomes conventionally overpowering.
-
-### Aura-Farming Reputation Evolution
-
-Aura farming itself evolves.
-
-#### Early
-
-Red Jackal **tries to manufacture aura**.
-
-Results vary:
-- success;
-- partial success;
-- indifference;
-- embarrassing failure.
-
-#### Middle
-
-Some aura becomes earned because people have actually seen:
-- impossible survival;
-- strange manifestations;
-- refusal to panic;
-- dangerous decisions;
-- successful rescues;
-- unlawful defiance.
-
-At this point, deliberate silence or positioning works better because reputation supports it.
-
-#### Later
-
-Red Jackal may stop trying in some scenes and still produce aura because other characters already know the stories.
-
-The evolution is:
-
-**manufactured aura → mixed reputation → earned presence → reputation precedes him**
-
-This must never become universal admiration.
+If the antagonist interprets that performance as equality, that misunderstanding belongs to the story.
 
 ### Threat-Perception QA
 
-Whenever another character calls Red Jackal terrifying, dangerous, impossible, powerful, monstrous, or potentially catastrophic, verify:
+Whenever somebody concludes Red is terrifying or powerful, verify:
 
-1. What evidence does this character personally know?
-2. What credible reports have they received?
-3. Are they reacting to current power, uncertainty, growth potential, or reputation?
-4. Does the reaction fit their profession and personality?
-5. Is at least one competent character present who reacts differently?
-6. Are Red Jackal's real limits still visible?
-7. Is the scene avoiding universal worship?
+1. What have they actually seen?
+2. What reports do they trust?
+3. Are they reacting to demonstrated power, hidden-power suspicion, unpredictability, or reputation?
+4. Is Red intentionally misleading them?
+5. Is at least one credible person interpreting the evidence differently?
+6. Does the scene avoid universal worship?
 
 ### Core Rule
 
-**Red Jackal's eventual fear factor comes from uncertainty plus demonstrated growth—not from a numerical power level.**
+**Red Jackal does not become overpowered. He starts overpowered.**
 
-The ideal late-series fear is not:
+The series reveals that truth gradually.
 
-**“His level is too high.”**
+The ideal fear is not:
+
+**“He keeps leveling up.”**
 
 It is:
 
-**“We still do not know what the rules are when he is involved.”**
+**“Every time we think we found his limit, we discover he was choosing where to stop.”**
 
 ## 2.10 Comedy — LOCKED DEADPAN STANDARD
 
@@ -909,33 +791,66 @@ See `systems/SYSTEMS-BIBLE.md` for mechanics.
 
 Character-relevant ability identity:
 - unregistered existence;
-- abnormal regeneration;
-- Play Logic;
-- conventional learning despite no System progression;
-- ability to use knowledge, tactics, tools, and learned magic without becoming a normal registered class.
+- unbounded Play Logic;
+- extreme/near-immediate self-restoration;
+- total absence of conventional level/class progression;
+- raw output that is not meaningfully ranked by Veyr's normal power hierarchy;
+- voluntary restraint and theatrical self-limitation;
+- ordinary knowledge gaps despite extraordinary power.
 
 ### Ability Personality
-He often chooses the most interesting solution rather than the most efficient one.
 
-This is a strength when creativity matters and a flaw when efficiency matters.
+Red usually chooses the **most interesting** solution rather than the fastest one.
+
+He may solve a problem with:
+- an absurdly specific object;
+- an unnecessarily elegant counter;
+- an invented rule for the scene;
+- a humiliatingly small amount of force;
+- a deliberately excessive display;
+- no power at all because he wants to see how ordinary people solve it.
+
+His refusal to use maximum force is a personality choice, not evidence that maximum force is unavailable.
 
 ## 2.15 Combat Personality
 
-Red Jackal fights as an improviser.
+Red Jackal treats combat as controlled play until he decides it is not.
 
 He:
-- studies reactions;
-- changes plans quickly;
-- weaponizes terrain;
-- bluffs;
-- uses Play Logic unexpectedly;
-- tolerates pain more than is healthy;
-- may let an opponent think they understand him before changing the rules;
-- sometimes takes unnecessary damage because regeneration makes him reckless.
+- studies reactions for entertainment;
+- bluffs even when bluffing is unnecessary;
+- lets enemies believe they are adapting;
+- may deliberately fight using the enemy's preferred range or style;
+- invents restrictions for himself;
+- uses terrain because it looks better or makes the encounter more interesting;
+- may allow harmless or recoverable hits to sell the performance;
+- may pretend a coincidence or improvised idea was part of a master plan;
+- enjoys an opponent who keeps trying after realizing something is wrong.
 
-He is not automatically the best swordsman, mage, tactician, or martial artist in Veyr.
+He is **not** required to be the best conventional swordsman, mage, or martial artist.
 
-Specialists can outclass him in their disciplines.
+That distinction does not create a meaningful combat ceiling because Play Logic can overwhelm the conventional contest entirely.
+
+A specialist may be better at swordsmanship.
+
+Red can still end the fight.
+
+### Fight Tension Rule
+
+Do not build suspense around:
+
+**“Can Red become strong enough to beat this enemy?”**
+
+Build suspense around:
+- what game is Red playing;
+- what is he trying to learn;
+- what is he refusing to reveal;
+- who else is in danger;
+- whether he understands the real objective;
+- what his performance accidentally changes;
+- whether he will stop playing in time.
+
+When Red becomes serious, raw combat should usually end quickly.
 
 ## 2.16 Social Behavior
 
@@ -961,13 +876,24 @@ With people who refuse to be impressed: fascinated or annoyed.
 
 ## 2.18 Long-Term Development Boundary
 
-Potential development directions:
+Red Jackal has **no required power progression**.
+
+Long-term development is about personality, responsibility, relationships, knowledge, and revelation.
+
+Potential directions:
 - persona and self becoming less distinguishable;
+- deciding when a game has gone too far;
 - learning accountability without obedience;
 - choosing loyalty without treating it as ownership;
-- admitting fear without losing humor;
-- accepting that consequences can define responsibility without defining identity;
-- confronting whether freedom without restraint becomes another form of domination.
+- admitting fear without pretending fear means weakness;
+- accepting that overwhelming power does not make every choice correct;
+- confronting whether freedom without restraint becomes another form of domination;
+- learning when not to manipulate a situation merely because he can;
+- deciding what kind of person he wants to be when nobody can physically force him to be better.
+
+The audience may discover larger and larger demonstrations of his power.
+
+Those demonstrations are **reveals, not upgrades**.
 
 No volume/arc assignment is attached to these directions.
 
@@ -994,14 +920,21 @@ If a proposed scene or plan makes him:
 - generically noble;
 - purely evil;
 - constantly joking;
-- constantly cool;
-- incapable of fear;
-- omniscient;
-- effortlessly omnipotent;
-- indifferent to all consequences;
 - a direct copy of an existing franchise character;
+- dependent on conventional levels/classes for strength;
+- locked behind a mandatory power-progression stage;
+- genuinely outclassed in raw combat merely to manufacture shonen-style progression;
+- omniscient;
+- omnipresent;
+- able to solve every information, relationship, political, or moral problem automatically;
 
 then it fails Red Jackal Character QA.
+
+Overpowered is **not** a failure condition.
+
+The required distinction is:
+
+**combat dominance does not equal narrative omniscience or perfect judgment.**
 
 # 3. Reusable Cast Pool
 

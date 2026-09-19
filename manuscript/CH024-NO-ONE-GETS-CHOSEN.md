@@ -1,6 +1,6 @@
 # Chapter 24 — No One Gets Chosen
 
-**Status:** DRAFT — GATE 9 NOT YET RUN  
+**Status:** CANON — GATE 9 PASS / SERIOUS CLIMAX MODE LOCKED  
 **Word Count:** 1,945
 
 The physical line was holding. That should have felt like victory. Instead, Tavian pointed toward the lower fork.

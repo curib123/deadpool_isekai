@@ -129,7 +129,7 @@ Tavian rolled the map halfway closed.
 
 “No.”
 
-He looked at him. He looked back. This was why talking to Tavian could be exhausting. He kept refusing to become less correct for the sake of momentum.
+Red looked at Tavian. Tavian looked back. This was why talking to him could be exhausting. He kept refusing to become less correct for the sake of momentum.
 
 “What can you tell me?”
 

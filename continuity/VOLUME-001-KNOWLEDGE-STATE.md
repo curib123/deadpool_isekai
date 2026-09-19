@@ -1998,3 +1998,248 @@ CH-010 — **The Ledger Doesn't Balance** may now move into the locked documenta
 - Hesk may begin managing access and pressure.
 
 Do not reveal the first march-lure before CH-011.
+
+# CH-010 Pre-Manuscript Knowledge Boundary
+
+**Chapter:** CH-010 — The Ledger Doesn't Balance  
+**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+
+## Red Jackal — Opening CH-010
+
+Red Jackal begins CH-010 with the CH-009 canon checkpoint.
+
+He knows:
+- his System identity remains undefined;
+- his physical existence and mana interaction are measurable;
+- Hesk authorized him as irregular private labor;
+- his CH-004 arrangement records payment, supplies, and work without creating a normal identity-bound guild contract;
+- standard registered-worker protections do not attach to that arrangement;
+- Jessa understands Road Guild records and irregular labor procedure;
+- Outer Homestead warnings and protections are weaker/slower than on the Main Caravan Road;
+- current clean field evidence shows predator and prey movement repeatedly trending away from the Main Caravan Road and toward old northern paths;
+- artificial/deliberate influence is possible but not proven;
+- no march-lure or physical manipulation mechanism has been discovered.
+
+He does not know:
+- Road Guild casualty/certification records are deliberately falsified;
+- Hesk is deliberately redirecting migration;
+- march-lures exist;
+- a lure network exists;
+- outer communities are being intentionally selected as acceptable loss;
+- protected series truth.
+
+## Maelis Orra — Opening CH-010
+
+Maelis begins CH-010 knowing:
+- Red Jackal's identity anomaly is real and repeatable;
+- his physical existence is measurable while identity fields remain undefined;
+- her independent Ledger assignment already concerns inconsistent Greywake Road Guild records;
+- active-worker, certification, liability, casualty, and incomplete-identity records do not always reconcile;
+- field incidents can be used to test whether documentary inconsistencies are random or route-specific;
+- Red Jackal's irregular labor arrangement provides a useful example of real activity without normal identity-bound worker accounting.
+
+Maelis does not know:
+- march-lures exist;
+- Hesk's full hidden policy;
+- the physical cause of the migration drift;
+- why Red Jackal is undefined;
+- protected series truth.
+
+## Jessa Vale — Opening CH-010
+
+Jessa begins CH-010 knowing:
+- Red Jackal's irregular labor arrangement and how it is filed;
+- Guild route schedules, certification procedure, supply logging, casualty paperwork, and irregular labor procedure;
+- some route paperwork is irregular;
+- some reports are altered, omitted, reclassified, or remain outside normal identity-linked casualty counting;
+- enough is wrong for her to feel complicit;
+- she needs the job and income for her family.
+
+Jessa does not know:
+- the entire migration geometry;
+- the complete march-lure network;
+- every decision Hesk made;
+- why Red Jackal is undefined;
+- protected series mysteries.
+
+## Rovan Hesk — Opening CH-010
+
+Hesk canonically knows his own preexisting scheme.
+
+He may also know through ordinary Guild operations and credible reports that:
+- Red Jackal remains unregistered;
+- Red Jackal has completed several Guild-linked assignments;
+- Red Jackal survived serious frontier danger;
+- Red Jackal has attracted sustained Ledger interest;
+- Red Jackal has been involved with Tavian's route investigation;
+- Red Jackal is no longer merely a disposable stranger.
+
+Hesk may not know:
+- Red Jackal's true anomaly origin;
+- Play Logic's writer-truth mechanism;
+- regeneration's mechanism;
+- Fate/Great Design truth.
+
+He must not reveal the march-lure scheme in CH-010.
+
+## Allowed CH-010 Discoveries — Red Jackal
+
+By the end of an approved CH-010 manuscript, Red Jackal may know:
+- his irregular labor file correctly tracks money/work while still failing to create normal identity-bound worker/casualty status;
+- if he vanished, the Guild could retain an expense/route trace without counting him like a normal registered worker casualty;
+- some missing, unconfirmed, irregular, or incomplete-identity people do not enter the same casualty totals used to describe route safety;
+- outer-route incidents are disproportionately represented in weaker/unconfirmed categories;
+- the Main Caravan Road's recorded safety improves during periods when outer-route losses rise;
+- this pattern repeats enough to justify suspicion of intentional record management;
+- Hesk is actively monitoring/managing Maelis's access.
+
+He may not conclude:
+- Hesk personally ordered all falsification;
+- march-lures exist;
+- the migration is proven deliberately redirected;
+- outer communities are proven to be intentionally selected for death.
+
+## Allowed CH-010 Discoveries — Maelis
+
+Maelis may learn:
+- valid individual records can still produce a misleading aggregate picture;
+- Red Jackal is an institutional blind spot whose activity can be recorded without normal person-linked safeguards;
+- internal filing practice separates some irregular/unconfirmed people from certified casualty totals;
+- the discrepancy is route-patterned rather than random;
+- outer-route losses rise when Main Caravan Road safety improves;
+- intentional reporting manipulation is now a serious hypothesis.
+
+Maelis may not yet prove:
+- Hesk's authorship;
+- the march-lure mechanism;
+- deliberate migration redirection;
+- the CH-013 midpoint truth.
+
+## Allowed CH-010 Discoveries — Jessa
+
+Jessa may voluntarily clarify:
+- how irregular/missing/unconfirmed cases are filed;
+- that not all people lost on routes enter the same casualty total;
+- one procedural/category fact Maelis misunderstood;
+- that some corrections/reclassifications have made her uncomfortable.
+
+Jessa may not:
+- reveal the full conspiracy;
+- explain march-lures;
+- identify the complete migration scheme;
+- be forced to testify.
+
+## Hesk CH-010 Action Boundary
+
+Hesk may:
+- monitor the audit;
+- require supervised original-file access;
+- insist on certified copies;
+- invoke privacy/charter procedure;
+- limit unrelated/restricted file access pending formal request;
+- tell clerks to answer facts rather than speculate;
+- try to return Jessa to normal duties.
+
+He may not:
+- destroy evidence on-page;
+- confess;
+- reveal a lure;
+- threaten Jessa's family;
+- become omniscient about Red Jackal.
+
+## Anti-Villain / Jessa Agency Boundary
+
+If Red Jackal intervenes when Hesk pressures Jessa:
+
+- Red Jackal's motive must be personal/selfish first;
+- Jessa is useful because she understands the records;
+- Red Jackal resents Hesk deciding whether she speaks;
+- intimidation is allowed;
+- Red Jackal may not force testimony;
+- Jessa makes the final choice.
+
+Preferred CH-010 outcome:
+
+**Jessa voluntarily supplies one bounded factual clarification despite fear.**
+
+## Reputation / Threat Boundary
+
+### Maelis
+
+Maelis may now begin treating Red Jackal as an:
+
+**institutional blind spot**
+
+based on established anomaly evidence plus his irregular-worker file.
+
+### Hesk
+
+Hesk may move from:
+
+**useful irregular asset**
+
+toward:
+
+**irregular asset becoming operationally inconvenient.**
+
+Do not advance fully to CH-012's **unpredictable complication** yet.
+
+### Jessa
+
+Jessa may know rumors about Red Jackal's unusual survival/manifests but does not know mechanisms or ceiling.
+
+## Play Logic Boundary
+
+CH-010 contains:
+
+**no Play Logic attempt and no manifestation.**
+
+F-004 remains **PLANTED — CH-005**.
+
+## Regeneration / M-005 Boundary
+
+CH-010 contains no regeneration event and no new M-005 clue.
+
+F-003 remains **PLANTED — CH-007**.
+
+## F-ID Boundary
+
+No new F-ID is authorized.
+
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+## M-007 Boundary
+
+M-007 remains inactive.
+
+No Fate/prophecy/destiny/causal-wake material.
+
+## Documentary / Conspiracy Boundary
+
+CH-010 may establish:
+- accounting/category imbalance;
+- undercounting of irregular/unconfirmed people;
+- route-patterned discrepancy;
+- serious suspicion of intentional record management.
+
+CH-010 may not establish:
+- march-lure evidence;
+- physical manipulation device;
+- Hesk's guilt as proven fact;
+- deliberate migration redirection as proven fact;
+- intentional sacrifice policy as proven fact.
+
+## CH-011 Boundary
+
+CH-010 may end with the repeating inverse record pattern.
+
+Do not begin:
+- Broken North field expedition;
+- Guild closure trespass;
+- hidden equipment discovery;
+- first march-lure stake.
+
+Those belong to CH-011.

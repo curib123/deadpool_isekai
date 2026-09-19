@@ -1,15 +1,19 @@
 # Chapter 20 — The Last Lure
 
-**Status:** STYLE RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
+**Status:** STUDIO CINEMATIC RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
 **Word Count:** 3,111  
 **Chapter QA:** `qa/CH-020-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-020-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
-By the time he got back from Broken North, mud had dried on his boots, his shoulders hurt from carrying half a road, and somebody had finally put a cup in his hand.
+Mud had dried on Red's boots by the time he got back from Broken North.
 
-That was the good news.
+Someone put a cup in his hand.
 
-The bad news was that Maelis put a ledger in front of him instead.
+Maelis put a ledger beside it.
+
+Red looked at the ledger.
+
+Then at her.
 
 He stared at it. She stared at him.
 
@@ -21,9 +25,15 @@ He stared at it. She stared at him.
 
 “It is not for you.”
 
-That improved nothing. Jessa sat across the table with three stacks of Guild records arranged in front of her. She had already separated them by date and type. Issue forms on the left. Service records in the middle. Returns on the right.
+Across the table, Jessa had arranged three stacks.
 
-His contribution was apparently to remain nearby while people who could actually read turned inventory into a weapon against its owner. Maelis pushed another record toward Jessa.
+Issue forms.
+
+Service records.
+
+Returns.
+
+Red's contribution was apparently to stand nearby while literate people weaponized inventory. Maelis pushed another record toward Jessa.
 
 “Again.”
 
@@ -35,11 +45,9 @@ Then forward. Then back again. Maelis noticed.
 
 Jessa did not answer immediately. She pulled a second sheet from the issue stack. Then a third.
 
-Her face changed.
+Her finger stopped.
 
-Not dramatically.
-
-That made it worse.
+Then her face did.
 
 “These were issued together.”
 
@@ -101,17 +109,15 @@ Maelis asked, “How much?” Jessa counted again. Her mouth tightened.
 
 Jessa looked at her. Maelis waited. Jessa counted one more time.
 
-Then she said, “Enough for multiple high-strength services. If the matching housings are still usable, enough for one emergency sequence.” The room became quieter.
+Then she said, “Enough for multiple high-strength services. If the matching housings are still usable, enough for one emergency sequence.” The room went quiet.
 
-Broken North did not need every lure in Greywake. It needed the known ones timed carefully enough that the migrating animals found the abandoned corridor easier than the farms and lower road. Multiple high-strength services hidden outside that plan could ruin the whole thing.
+That much hidden compound could ruin the Broken North sequence.
 
-Maelis said, “Where would material like that go if the Roadmaster wanted it held outside ordinary inventory?” Jessa did not move. That answer was different from the others.
+Maelis said, “Where would material like that go if the Roadmaster wanted it held outside ordinary inventory?” Jessa did not move. Jessa did not answer.
 
-Not technical.
+Maelis waited.
 
-Personal.
-
-Maelis did not push. He did not either. Jessa looked down at the ledger again.
+So did Red. Jessa looked down at the ledger again.
 
 “There is a contingency class.”
 
@@ -171,11 +177,11 @@ Maelis did not soften the answer.
 
 “I know.”
 
-Jessa looked toward him. He kept his mouth shut. That took effort.
+Jessa looked toward Red.
 
-She had two younger siblings. She had taken the Guild job because debt had already taught her what unemployment meant. Hesk had given her stable work.
+He kept his mouth shut.
 
-Hesk had also built a system that treated people like adjustable losses. Both things could be true. Apparently Greywake specialized in that.
+For once, that was the useful thing.
 
 Jessa looked down at the reconciliation sheet.
 
@@ -211,9 +217,11 @@ Good.
 
 Neither would he.
 
-The room sat with her decision. Outside, someone ran past the records office. A militia horn sounded once from the lower quarter.
+Footsteps passed outside.
 
-Not alarm. Signal. Still close enough to remind them that the migration had not stopped while paperwork developed a conscience.
+A militia horn sounded from the lower quarter.
+
+The migration had not stopped for her decision.
 
 Jessa picked up the pen. Her hand shook. She wrote anyway.
 
@@ -255,9 +263,9 @@ No pause this time.
 
 “I do.”
 
-That was her choice.
+Jessa signed.
 
-Only then did he move away from the wall.
+Only then did Red move away from the wall.
 
 “If someone decides they dislike that choice,” he said, “they can dislike it from a safe distance.”
 
@@ -331,7 +339,9 @@ The storekeeper looked between them. Hesk said, “Do not.” Jessa spoke.
 
 Hesk turned toward her. For the first time since he entered, something changed in his face. Not surprise.
 
-Disappointment. That was worse.
+Disappointment.
+
+Jessa saw it too.
 
 “What is there?”
 
@@ -373,7 +383,9 @@ Jessa’s face went pale. He watched Hesk.
 
 “There are people behind these walls too.”
 
-He said it without cruelty. That was always the problem with him. He did not need cruelty.
+Hesk said it without cruelty.
+
+He did not need cruelty.
 
 He had arithmetic. Maelis said, “The shared plan exists specifically because that pattern is no longer authorized.”
 
@@ -451,9 +463,9 @@ That hit. She looked at him.
 
 Maelis started to speak. Jessa raised one hand. Maelis stopped.
 
-Good.
+Red stayed still.
 
-This part belonged to her. Hesk continued.
+This part belonged to Jessa. Hesk continued.
 
 “I signed your position when no one else wanted another debt family on permanent payroll.”
 
@@ -513,13 +525,15 @@ He stepped between them. That was all. He stopped.
 
 So did the other two. Nobody asked why.
 
-Good reputation was strange.
+The Guild men stopped.
 
-Red had spent weeks trying to look dangerous and mostly annoyed clerks. Then people remembered he had walked away from things that should have killed him, ignored Guild orders in public, and made objects appear where objects had no business being. Suddenly standing still did some of the work.
+Red had not touched a weapon.
 
-The first man looked at his hands. They were trembling. He still did not move.
+He did not need to.
 
-Smart man.
+One of them looked at his hands and decided not to move.
+
+Good.
 
 Hesk looked at him.
 
@@ -553,17 +567,19 @@ Hesk took it. Then moved for the side passage. He could have gone after him imme
 
 He did not. One loyalist was trying to pull the cage key from the storekeeper. Another had grabbed the edge of the record stack.
 
-Too many things.
+Too many things moved at once.
 
-For half a second, the obvious answer came to him. Smash the cage. Smash the stock.
+Red could have smashed the cage.
 
-Smash the records. No reserve. No evidence problem.
+The stock.
 
-No lure problem. Also no controlled lure sequence. No proof.
+The records.
 
-No record of what Jessa had risked her job to explain. That would have been satisfying. It would also have destroyed the plan, the proof, and the meaning of Jessa's choice.
+Easy.
 
-So he did not do it.
+It would also destroy the plan and the proof.
+
+He did not.
 
 “Do not destroy anything!” Maelis shouted.
 
@@ -617,13 +633,13 @@ He looked back once.
 
 Distance was not the problem.
 
-That realization arrived with several answers he did not use. He could cross the yard faster than he expected. He could put something in front of the gate. Under his feet. Around him. He could make the chase end before it became one.
+Red could have ended the chase.
 
-Instead, he hesitated.
+He hesitated.
 
-He had taken the control book and was running toward the service lanes. Part of him wanted to know what a man like Hesk did when his hidden reserve stopped being hidden.
+One stupid second of curiosity.
 
-That part won for one second too long.
+Hesk vanished behind a wagon shed.
 
 He disappeared behind a wagon shed.
 
@@ -633,11 +649,13 @@ He looked at the empty gate, then back toward the storehouse where Jessa, the re
 
 He went back.
 
-He told himself it was prioritization.
+The storehouse still held Jessa, the records, the stock, and three Guild men.
 
-It was.
+Red went back.
 
-It was also curiosity.
+Prioritization.
+
+And curiosity had still cost him the second.
 
 The storehouse floor had become quieter. Jessa sat on an empty crate with the reconciliation sheet in both hands. The stock had been moved out of the cage and counted under militia witness.
 
@@ -671,7 +689,7 @@ Maelis did not lie.
 
 “I don't know.”
 
-Jessa nodded. That hurt more than a reassuring answer would have. He leaned against the records table.
+Jessa nodded. Jessa nodded and looked down. He leaned against the records table.
 
 The militia guard returned from the outer yard before he had finished deciding whether letting Hesk run had been clever or merely interesting.
 

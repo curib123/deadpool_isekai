@@ -6809,7 +6809,7 @@ CH-022 first-wave action remains protected.
 # CH-021 Pre-Manuscript Knowledge Boundary
 
 **Chapter:** CH-021 — Before the Herd  
-**Status:** SCENE ARCHITECTURE SUPPORT — NOT YET MANUSCRIPT CANON
+**Status:** SUPERSEDED BY CH-021 CANON CHECKPOINT
 
 ## Opening State
 
@@ -7007,3 +7007,252 @@ The CH-021 manuscript, if later approved, must end with:
 This sighting is the threshold only.
 
 The first-wave action itself belongs to CH-022.
+
+# CH-021 Canon Checkpoint
+
+**Chapter:** CH-021 — Before the Herd  
+**Status:** CANON — GATE 9 PASS  
+**Manuscript:** `manuscript/CH021-BEFORE-THE-HERD.md`  
+**QA:** `qa/CH-021-GATE-9-CHAPTER-QA.md`
+
+## Greywake Evacuation / Staging — CANON
+
+The migration surge is close enough that remaining preparation is measured in **hours**, not days.
+
+No exact arrival time is known.
+
+Brynn canonically activates full settlement-wide emergency staging.
+
+Greywake prioritizes:
+- non-mobile injured;
+- people needing assistance;
+- exposed outer households;
+- civilians without safe shelter;
+- property/supplies only after people.
+
+Limited carts remain a real constraint.
+
+Outer residents are not designated expendable.
+
+Core militia and outer-homestead workers visibly cooperate.
+
+## Kellan Dorr / Sela Arven — CANON
+
+Kellan remains:
+- splinted;
+- non-weight-bearing;
+- in pain;
+- unable to return to field repair work.
+
+He is transported with other non-mobile injured civilians.
+
+He contributes only local route/household knowledge:
+- one damaged cart route is avoided;
+- a safer connecting path is identified;
+- an isolated household check is flagged.
+
+Sela canonically controls:
+- medical transport priority;
+- treatment-supply priority;
+- non-mobile patient loading;
+- Red's immediate fatigue assessment.
+
+Sela explicitly tells Red not to spend manifestation capacity before the surge unless a life immediately requires it.
+
+## Captain Brynn Alder — CANON
+
+Brynn owns settlement-wide crisis command.
+
+She coordinates:
+- evacuation;
+- militia;
+- work crews;
+- carts;
+- fallback points;
+- warning runners;
+- Broken North support;
+- lure-team protection;
+- the bounded Hesk search/check effort.
+
+Brynn does not strip evacuation defenses for a full Hesk manhunt.
+
+A small check/search team is sent toward the vulnerable older-service lure site.
+
+By chapter end:
+- Hesk remains unaccounted for;
+- no secure all-clear has been received for the vulnerable site.
+
+## Tavian Rook — CANON
+
+Tavian provides a bounded ecological estimate:
+- surge close enough that major preparation cannot wait;
+- exact arrival remains uncertain.
+
+He defines lure activation through **observed movement thresholds**, not clock time.
+
+Canon threshold logic includes:
+- continuous prey movement;
+- lead-animal commitment to the approach;
+- abort/revise if movement bunches or turns across the wrong side.
+
+He does not activate the full lure sequence in CH-021.
+
+He does not guarantee Broken North will work.
+
+## Maelis Orra / Jessa Vale — CANON
+
+Maelis preserves witnessed emergency lure custody and dispatch records.
+
+Jessa:
+- cross-checks technician/site/service assignments;
+- catches one routine staging mismatch;
+- corrects the mismatch before dispatch;
+- remains worried about unresolved job/family consequences;
+- receives no promotion or security guarantee.
+
+The mismatch is ordinary staging error, not sabotage evidence.
+
+Approved lure teams leave for known positions under shared oversight.
+
+No coordinated lure activation occurs.
+
+## Broken North Final Readiness — CANON
+
+Broken North remains **barely viable**.
+
+Canon final state:
+- CH-019 timber support still holds;
+- rough footing remains usable but poor;
+- drainage still runs;
+- repair timber/rope/stone/tools are staged;
+- militia positions leave the intended animal corridor open;
+- civilian fallback movement remains separated from the intended migration line;
+- one fallen branch is cleared through ordinary tools/teamwork.
+
+Broken North is not upgraded to safe or finished.
+
+## Red Jackal — Restraint / Exhaustion CANON
+
+Red accepts evacuation/logistics work without claiming ownership of the plan.
+
+He remains self-directed:
+**he is helping because he chose Greywake's crisis as his problem too.**
+
+Red has two explicit power-conservation decisions.
+
+### Cart Axle
+
+Red considers a temporary manifestation-compatible brace/lift.
+
+He instead uses:
+- jack;
+- lever;
+- rope;
+- timber;
+- manpower.
+
+### Broken North Branch
+
+Red is directly asked whether he can create a cutter.
+
+He chooses:
+- ordinary axe;
+- rope;
+- teamwork.
+
+Actual CH-021 Play Logic manifestations:
+
+**0**
+
+This non-use is deliberate discipline, not passivity.
+
+CH-019/020 exhaustion remains active:
+- hand tremor;
+- headache;
+- shoulder pain;
+- leg strain;
+- physical fatigue.
+
+A minor hand scrape closes abnormally.
+
+Regeneration does not refill stamina.
+
+## Hesk / Vulnerable Site State After CH-021
+
+Hesk remains unaccounted for.
+
+Known:
+- he still has one Roadmaster field-service key;
+- one older-service lure site remains vulnerable;
+- a bounded check team reached the approach;
+- no secure all-clear exists by chapter end.
+
+Not yet established:
+- active tampering;
+- active sabotage;
+- one route pulling wrong;
+- Hesk's current exact position.
+
+Those remain available to CH-022.
+
+## Pre-Wave Sign — CANON
+
+Before the main mass arrives, three displaced prey animals cross an outer route.
+
+This is explicitly treated as scattered displacement, not the first sustained wave.
+
+## Power / Mystery State After CH-021
+
+F-ID state remains:
+- F-001 — PLANTED — CH-002
+- F-002 — PLANTED — CH-003
+- F-003 — PLANTED — CH-007
+- F-004 — PLANTED — CH-005
+
+No F-ID changes state.
+
+M-007 does not advance.
+
+No Fate, Great Design, Eidrathi, System-origin, Play-Logic-origin or future-destination material is introduced.
+
+## Locked Ending State
+
+The first mass of fleeing prey appears beyond Greywake's lantern line.
+
+Canonical final line:
+
+**“Beyond Greywake’s last lanterns, the first mass of fleeing prey came out of the trees.”**
+
+This is the threshold only.
+
+No lure outcome, route failure, predator exploitation or first-wave combat occurs in CH-021.
+
+## CH-022 Handoff
+
+The authoritative next chapter is:
+
+**CH-022 — First Wave**
+
+CH-022 may now proceed to **Detailed Scene Architecture only**.
+
+CH-022 begins with:
+- the first mass movement visually confirmed beyond the lantern line;
+- exposed civilian evacuation largely cleared;
+- lure teams staged but not yet proven successful;
+- Broken North barely viable with emergency repair crews ready;
+- Red still tired but with CH-021 manifestation capacity conserved;
+- Hesk still unaccounted for;
+- the vulnerable older-service site still lacking a secure all-clear.
+
+CH-022 owns:
+- sustained first-wave action;
+- barricade/route failures;
+- scattered animals;
+- predator exploitation;
+- repeated Stage I rescue/route support within the roadmap ceiling;
+- first evidence that one route is pulling wrong;
+- evidence of Hesk's active intervention;
+- the largest territorial predator reveal at the locked ending.
+
+Do not draft CH-022 manuscript before CH-022 Scene Architecture and Gate 8 Pre-Manuscript Scene QA pass.
+

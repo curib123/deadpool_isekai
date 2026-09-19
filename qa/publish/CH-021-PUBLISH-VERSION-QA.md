@@ -1,41 +1,25 @@
 # CH-021 Publish Version QA
 
 **Canon Source:** `manuscript/CH021-BEFORE-THE-HERD.md`  
-**Canon Source SHA:** `dbef39b80cdb5f8b8d186d3b5589193100812581`  
+**Canon Source SHA:** `f1581bcf860c3cc61b856abce6b41fe3612a218e`  
 **Publication Copy:** `published/volume-001/CH021-BEFORE-THE-HERD.md`  
 **Target Platform:** WebNovel-compatible reader-facing copy  
 **Review Date:** 2026-09-19  
-**Status:** PUBLISH-READY — GATE 11 PASS
+**Status:** PUBLISH-READY — GATE 11 PASS / OVERPOWERED RETCON REFRESH
 
 # Source Integrity
-- Canon / Gate 9 prerequisite: **PASS**
-- Latest fetched canon source used: **PASS**
-- Title/opening/final paragraph/order: **PASS**
-- Canon body paragraphs: **302**
-- Missing/duplicated/reordered prose: **NONE**
+- latest source is CANON — OVERPOWERED RETCON GATE 9 PASS;
+- publication copy regenerated directly from current canon;
+- only production metadata removed;
+- title preserved: **Chapter 21 — Before the Herd**;
+- final nonblank line preserved: **Beyond Greywake’s last lanterns, the first mass of fleeing prey came out of the trees.**;
+- no scene or prose block reordered.
 
-# Semantic Equivalence
-Reader-facing body is byte-equivalent to canon after repository-only metadata removal. Construction, evidence, evacuation, power-conservation, and chapter-ending states remain unchanged.
+# Canon Equivalence
+**PASS.** Power reveal/restraint logic, dialogue, consequences, mystery state and ending exactly follow canon.
 
-**Semantic Diff:** PASS — PRESENTATION ONLY
-
-# Platform QA
-- production metadata: **REMOVED**
-- raw code fences/emphasis markers: **NONE**
-- paragraph rhythm/order: **PRESERVED**
-- dialogue/self-talk/reader-talk: **PRESERVED**
-- title duplication: **NO**
-- mobile/plain-text readability: **PASS**
-- future spoiler/reference expansion: **NONE**
-
-# Findings
-CRITICAL: None.  
-MAJOR: None.  
-MINOR: None.
+# Formatting
+**PASS.** Metadata removed; paragraph rhythm, one-line impact beats and dialogue preserved; WebNovel-compatible.
 
 # Decision
-# PASS
-
-**CH-021 is PUBLISH-READY — GATE 11 PASS.**
-
-Canon manuscript remains authoritative.
+**PUBLISH-READY — GATE 11 PASS.**

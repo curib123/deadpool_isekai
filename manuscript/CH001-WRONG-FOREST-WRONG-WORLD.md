@@ -1,7 +1,8 @@
 # Chapter 1 — Wrong Forest, Wrong World
 
-**Status:** CANON — VOICE REVISION UNDER GATE 9 REVIEW  
-**Revision Scope:** Voice/comedy/fourth-wall only; story canon unchanged
+**Status:** CANON — GATE 9 PASS / READER-COMPANION VOICE LOCKED  
+**Word Count:** 2,451  
+**Voice QA:** `qa/CH-001-VOICE-REVISION-GATE-9-QA.md`
 
 The first thing I noticed was that I was breathing. That may sound like a very low standard for a successful morning, but the last thing I remembered was rain exploding across a windshield, white headlights where they absolutely should not have been, and several tons of metal making a persuasive argument against my continued existence.
 

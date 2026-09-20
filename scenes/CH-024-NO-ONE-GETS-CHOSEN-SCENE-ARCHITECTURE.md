@@ -24,6 +24,26 @@ Red is already overwhelmingly powerful. Any bounded-looking manifestation in thi
 
 All chapter-specific mystery, reveal, supporting-character agency, scene order, and later-chapter firewalls remain locked.
 
+# Battle / Scene QA Amplification Override — 2026-09-20
+
+**Battle ID:** V1-B09  
+**Scale:** CLIMAX — human/tactical second half  
+**Core matchup:** Red + Brynn + Tavian + Maelis + Jessa vs Hesk's active lure intervention while migration remains live  
+**Human topology:** 5-person coalition vs 1 non-superhuman antagonist with operational access  
+**Environmental topology:** coalition vs wrong-route branch still being pulled toward outer homesteads  
+**Required role ownership:**
+- Red: physical interception of Hesk + one Tavian-called temporary fork guide.
+- Brynn: emergency authority, key seizure, detention.
+- Tavian: branch recoverability, timing, route geometry.
+- Jessa: service-state identification and neutralization procedure.
+- Maelis: evidence/custody protection.
+- Hesk: attempts to retain service access long enough for route commitment.
+**Topology change:** Hesk at housing → Brynn orders stand-down → Hesk attempts final adjustment → Red physically stops access → Brynn secures him → Red leaves personal confrontation to handle route → Jessa neutralizes at Tavian timing → wrong branch recovers.
+**Decisive rule:** no single participant can complete the resolution alone.
+**Ending:** migration commits to Broken North, outer homesteads are not deliberately sacrificed, Hesk loses operational control.
+
+Final-engine correction: Red is not exhausted into a one-use ceiling. The one fork guide is the only manifestation needed by this scene design, not his maximum.
+
 # 1. Chapter Purpose Lock
 
 CH-024 is the final human/route climax of the Greywake Arc.

@@ -950,8 +950,8 @@ He knows:
 - private irregular Guild work remains available to him;
 - the Main Caravan Road is heavily maintained;
 - intentional manifestation is possible;
-- clear purpose worked better than vague wishing in CH-005;
-- the CH-005 hammer expressions were temporary; the oversized hammer caused ordinary physical strain while swung;
+- in CH-005, changing from a vague category to a clear functional role changed the manifested expression in a more task-aligned way;
+- the CH-005 hammer expressions were temporary in that scene without proving a universal duration ceiling; the oversized hammer caused ordinary physical strain while swung;
 - his effect does not resemble ordinary prepared Guild sigilcraft;
 - he still cannot read Veyran writing;
 - he does not know why local animal movement is changing.
@@ -1093,7 +1093,7 @@ After CH-006, Red Jackal canonically knows:
 - the same kind of abnormal movement can produce immediate road-safety problems;
 - Tavian does not know the cause;
 - the road can be operationally safe while the surrounding ecology is becoming wrong;
-- Tavian's safety instructions are worth following when his expertise is better than Red Jackal's improvisation.
+- Tavian's safety instructions are worth following when his local movement/rescue expertise gives him the better read of the scene; this does not imply reduced Red capability or a character-development requirement.
 
 Red Jackal has begun to respect Tavian's competence.
 

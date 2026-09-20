@@ -10,6 +10,20 @@
 **Primary Cast:** Red Jackal, Tavian Rook, Maelis Orra, Kellan Dorr; Captain Brynn Alder enters later  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
+# Soul-Drift / Final Story-Engine Override
+
+The locked CH-012 event sequence remains authoritative.
+
+Current final-engine interpretation supersedes any legacy wording below that implies:
+- Stage I/II or mastery-tier progression;
+- a finite Play Logic use count, stamina pool, cooldown, recovery gate, or exhaustion-based precision ceiling;
+- raw-power growth, awakening, or unlocks;
+- conventional moral/obedience character development.
+
+Red is already overwhelmingly powerful. Any bounded-looking manifestation in this chapter occurs because that specific scene needs that specific tool or geometry, not because the manifestation count defines his maximum. Pain, injury, soreness, or ordinary physical exertion can remain consequential without reducing his underlying Play Logic capacity. When Red remembers earlier consequences or follows specialist information, that is tactical/informational continuity, not a moral-progression requirement.
+
+All chapter-specific mystery, reveal, supporting-character agency, scene order, and later-chapter firewalls remain locked.
+
 # 1. Chapter Purpose Lock
 
 CH-012 examines the first march-lure discovered in CH-011 without jumping directly to CH-013's moral/causal midpoint conclusion.

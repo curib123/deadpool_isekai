@@ -100,10 +100,10 @@ The following remain protected from premature explanation in Arc 2: M-001 arriva
 | Allowed M-IDs | M-007, M-008, and M-012 only when their prerequisites are ready |
 | Allowed F-IDs | F-017, F-019, and F-020 in their authorized payoff windows |
 | Required reader-facing change | The difference between System, Fate, Great Design, and personal choice becomes actionable; the final choice creates real consequences |
-| Writer truth still protected until the final arc | The complete Great Design mechanism, the full choice structure, and M-012's final resolution |
+| Writer truth still protected until the final arc | The complete Great Design mechanism, the full choice structure, and M-012's final choice state |
 | False beliefs that may grow | Fate immunity, Great Design as a speaking god, or assimilation as harmless help |
 | Knowledge-state handoff | Final-arc characters possess enough evidence to choose, but no option is presented as consequence-free |
-| Disallowed shortcut | M-012 cannot be marked resolved in a planning record; no final answer may appear before the final arc's approved manuscript |
+| Disallowed shortcut | M-012 must retain protected status in a planning record; no final answer may appear before the final arc's approved manuscript |
 
 **FINAL CHOICE: READY ONLY AFTER** the endgame prerequisites are proven in the endgame-readiness record and the final destination/arc passes its owning gates.
 
@@ -140,5 +140,5 @@ Gate 9 evidence required:
 
 **Mystery-window schedule:** PASS as a provisional planning control.  
 **Future F-ID planting:** NONE authorized by this document.  
-**M-012:** PROTECTED / NOT RESOLVED.  
+**M-012:** PROTECTED / NO PAYOFF STATUS.
 **Next evidence-bearing task:** CH-027 synchronization and Gate 9 revalidation, followed by the locked Merrowgate sequence.

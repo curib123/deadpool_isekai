@@ -1,625 +1,359 @@
 Chapter 21 — Before the Herd
 
-By the time Greywake decided Hesk was missing, we had already run out of time to make finding him everyone’s problem. The militia yard had become a map with people standing on it. Carts waited along one wall. Runners moved between the route board and the gates. Bundles of rope, tools, medical cloth, sealed Guild cases, and ordinary food had been separated into piles that apparently made perfect sense to everyone except me.
+By the time Greywake decided Hesk was officially missing, there was no longer enough spare settlement to make finding him everyone's job. The militia yard had become a map with people standing on it. Carts lined one wall. Runners moved between route boards and gates. Rope, tools, medical cloth, sealed Guild cases, and ordinary food had been separated into piles that apparently made sense to everyone except me.
 
-I had learned not to take that personally. Mostly. Tavian came through the yard with mud up one boot and a strip of broken brush caught on his coat. Brynn looked up before he reached the table.
+I had learned not to take that personally. Mostly. Tavian came through the yard with mud up one boot.
 
-“How close?”
+Brynn looked up. "How close?"
 
-“Hours.”
+"Hours."
 
-The yard got quieter. Tavian put both hands on the route board.
+The yard quieted. "Not an exact number," Tavian added. "Terrain is breaking the front unevenly. Scattered movement can arrive earlier. Sustained mass movement follows when enough of the pressure catches up."
 
-“Not an exact number. The front movement is faster than yesterday, but the terrain is breaking it unevenly. We may see scattered animals earlier. The first sustained mass could follow soon after.”
+"Can anything major wait until next watch?"
 
-“Can anything major wait until the next watch?” Brynn asked.
+"No."
 
-“No.”
+That answered the useful question. Brynn turned to the runners. "Full outer evacuation. People who need help moving first. Then the exposed households nearest spill routes. Militia escorts stay with the routes. Work crews finish Broken North staging and fallback junctions."
 
-That answered the important part. Brynn turned to the runners.
+Orders left before she finished speaking. Maelis stood beside a locked case with two militia witnesses. Jessa held copied dispatch sheets against her chest. "Hesk?" Maelis asked.
 
-“Full outer evacuation. Start with anyone who cannot move safely without help. Then the exposed households nearest the spill routes. Militia escorts stay with the routes. Work crews finish staging at Broken North and the fallback junctions.”
+Brynn shook her head. "Not in the Guild hall. Not at his quarters. No confirmed sighting."
 
-Orders moved outward before she finished speaking. Maelis stood beside a locked case with two militia witnesses. Jessa had a stack of copied dispatch sheets against her chest and looked like she had slept even less than I had.
+"He has the field-service key," Jessa said.
 
-“Hesk?” Maelis asked.
+"I know."
 
-Brynn shook her head.
+"And the older housing—"
 
-“Not in the Guild hall. Not at his quarters. No confirmed sighting in the Core.”
+"I know."
 
-“He has the field-service key,” Jessa said.
+Brynn pointed to one route. "Small check team only." A militia officer frowned. "If he reaches it first—"
 
-“I know.”
+"If I strip evacuation routes to chase one man, people die even if we catch him."
 
-“And the older housing—”
+Nobody argued. Tavian tapped three marks. "I handle movement thresholds and lure timing. Nobody activates because a clock says so. You activate because the animals are doing what the route plan expects."
 
-“I know.”
+Brynn pointed at Maelis. "Custody, records, witnesses." Maelis nodded.
 
-Brynn pointed to one route on the board.
+Then Jessa. "Crew assignments and service codes. Anything mismatched stops before leaving the yard."
 
-“I’m sending a small check team. That is all I can spare.”
+Jessa swallowed. "Understood." Brynn looked at me last. "Evacuation and logistics."
 
-One militia officer frowned. “If he reaches it first—”
+I waited. "That's it?"
 
-“If I empty the evacuation routes to chase one man, people die even if we catch him.”
+"That is a lot."
 
-Nobody argued after that. Tavian tapped three marks on the map.
+"I was expecting a more impressive title."
 
-“I handle movement thresholds and lure timing. Nobody activates on a clock. You activate on what the animals are actually doing.”
+"You carry whatever is too heavy and go where people are short."
 
-Brynn pointed at Maelis.
+My great promotion. Emergency Furniture. I almost said it.
 
-“Custody, records, witnesses.”
+Then someone outside shouted for another cart. The joke stopped being worth the time. "Fine."
 
-Maelis nodded. Then Jessa.
+Brynn waited for the argument. There wasn't one. I did not own the plan.
 
-“Crew assignments. Service codes. If anything does not match, you stop it before it leaves the yard.”
+Tavian knew the animals. Brynn knew the settlement. Maelis knew what had to remain provable after the crisis.
 
-Jessa swallowed once. “Understood.” Brynn looked at me last.
+Jessa knew how Guild operations actually moved. I knew I could do impossible things. That did not mean every ordinary system should become dependent on me.
 
-“Evacuation and logistics.”
+The outer road looked different when people were leaving it on purpose. Carts that once brought goods toward Greywake now pointed inward loaded with blankets, children, injured people, food, tools, cages, and one alarming quantity of kitchen equipment. A militia woman stopped that cart. "People first."
 
-I waited.
+The owner stared at her. "Those are our winter stores."
 
-“That’s it?”
+"And the next cart has a woman who cannot walk."
 
-“That is a lot.”
+"We lose this and we lose half the season."
 
-“I was expecting something with a more impressive title.”
+"I know."
 
-“You carry whatever is too heavy and go where people are short.”
+Worst answer. It did not pretend he was wrong. He started unloading sacks.
 
-There it was. My great promotion. Emergency Furniture.
+Nobody cheered. People helped. That was most of the evacuation.
 
-I almost said it. Then someone outside shouted for another cart, and the joke stopped being worth the time.
+Arguments over property. Arguments over carts. Outer workers helping Core guards lift people who could not walk.
 
-“Fine.”
+Disaster had forced cooperation without requiring anybody to like each other. Efficient. I was helping push a loaded cart through a rut when the left wheel dropped hard.
 
-Brynn studied me for half a second, probably waiting for the argument. There wasn’t one. I did not own the plan. Tavian knew the animals. Brynn knew the settlement. Maelis knew what could survive an investigation. Jessa knew the Guild machinery from inside it.
+Wood cracked. The cart stopped. So did three behind it. "Axle."
 
-I knew how to lift things, ignore bad ideas, and make impossible objects when I decided reality needed assistance. Today, apparently, the useful part was doing what the plan required instead of proving I could replace it.
+Of course. I crouched beside the wheel. Split near the hub.
 
-Good.
+Not completely. Enough that full weight would finish it. The solution appeared in my head immediately.
 
-My head still hurt from ordinary lack of sleep, impact, and several days of bad decisions. The outer road looked different when people were leaving it on purpose. The last time I had crossed some of those approaches, carts had been bringing supplies toward Greywake. Now they were pointed inward, loaded with blankets, children, injured people, sacks of food, tools, cages, boxes, and in one case enough kitchen equipment to establish a second civilization.
+A perfect support. Done. Then a road worker dropped a jack beside me. "Lift here."
 
-A militia woman stopped that cart.
+I looked at the jack. Right. The driver needed something that would still exist when I was somewhere else making poor decisions.
 
-“People first.”
+We used the jack. Two people held the wheel. I levered the frame.
 
-A man beside it stared at her. “Those are our winter stores.”
+Another worker wrapped rope around the split. A farmer brought spare timber. "Higher."
 
-“And the next cart has a woman who cannot walk.”
+"I am lifting."
 
-“We lose this and we lose half the season.”
+"Higher."
 
-“I know.”
+I lifted higher. The timber brace slid under. Rope tightened.
 
-That was the worst answer because it did not pretend he was wrong. He looked at the cart, then at his house, then started unloading sacks. Nobody cheered for him.
+A wooden pin went through the binding. Slow. Ordinary.
 
-They just helped. That was how most of the evacuation went. People argued because they were being asked to leave things they had spent years building. Militia argued back because there were fewer carts than frightened households. Outer workers who had spent days accusing Greywake Core of forgetting them were now helping Core guards lift an old man into a wagon.
+It worked. When the cart came down, the wheel held well enough for walking speed. The worker slapped the side. "Inner gate only. Unload there."
 
-Apparently disaster was capable of forcing cooperation without making anyone suddenly like each other. I respected the efficiency. I was helping push a loaded cart through a rutted section when the left wheel dropped hard.
+The driver nodded. I looked at the repair. Rope.
 
-Wood cracked. The cart stopped. So did the three carts behind it.
+Timber. Jack. Five people.
 
-“Axle,” someone said.
+Nothing impossible. Good. Movement flickered across the field.
 
-Of course. I crouched beside the wheel. The axle had split near the hub. Not completely. Enough that putting full weight on it would finish the job.
+Everyone froze. Three grazing animals broke from the brush at a frantic run and vanished through another tree line. A runner came down the road. "Keep moving! Scattered displacement only. Not the main mass."
 
-The thought came automatically. A brace. Small. Ugly. I could have put one under the cart before the road worker finished swearing.
+Useful. Not comforting. The carts moved again.
 
-Then he dropped a jack beside me.
+Sela's treatment house had expanded into the road. Stretchers filled the covered side area. Medical helpers carried boxes toward waiting carts while Sela stood in the middle deciding who moved first and making everyone unhappy with professional consistency.
 
-“Lift here.”
+"No."
 
-I looked at the jack.
+A man holding a crate stopped. "It's medicine."
 
-Right.
+"It's lamp oil."
 
-The point was not whether I could make the repair faster. The point was that this cart needed something the driver could still trust after I walked away.
+"For the treatment room."
 
-We used the jack. Two people held the wheel. I worked a lever beneath the frame while another worker fed rope around the split wood. A farmer brought a short length of spare timber from the next cart.
+"The woman on that stretcher cannot walk."
 
-“Higher.”
+He looked at the crate. Sela pointed at the cart. "Her first."
 
-“I am lifting.”
+He put the crate down. Kellan lay on a low cot near the loading point with his injured leg splinted from thigh to ankle. He looked better than when we pulled him from the bridge.
 
-“Higher than that.”
+Better was not good. His face tightened every time the cot shifted. He saw me. "You look terrible."
 
-“My shoulder has submitted a complaint.”
+"You're lying down."
 
-“Tell it later.”
+"I have perspective."
 
-I lifted higher. The replacement brace went under the frame. Rope tightened around the axle. Someone drove a wooden pin through the binding.
+"Your perspective has straps."
 
-It was slow. It was ordinary. It worked.
+Sela appeared beside me. "Lift the rear." Kellan frowned. "I can direct outer crews from here."
 
-When we lowered the cart, the wheel held well enough to move at walking speed. The road worker slapped the side.
+"No."
 
-“Inner gate only. Then unload.”
+"I know the routes."
 
-The driver nodded. I stared at the repaired axle for a second.
+"You can describe them while being transported."
 
-No pale-grey object.
+"I can do that from a horse."
 
-Just rope, timber, a jack, and five people who knew what they were doing.
+"You cannot bear weight."
 
-A strange amount of my recent life had improved after I discovered that being able to replace ordinary solutions did not make replacing them useful. Movement flickered across the field beyond the road. Everyone nearest me froze.
+"The horse does the walking."
 
-Three grazing animals broke from the brush, crossed the open ground at a frantic run, and vanished through another line of trees. Nobody moved for a breath. Then a runner came down the road.
+Sela looked at him. Kellan stopped. I took the handles. "Strong attempt."
 
-“Keep moving! Tavian says scattered displacement only. Not the main mass.”
+"Shut up."
 
-That was not comforting. It was useful. The carts started again.
+We lifted. He hissed through his teeth. Humor ended there.
 
-By the time the exposed households nearest that route were moving inward, my shoulder had gone from sore to angry. My leg tightened whenever I stepped wrong. A shallow scrape across one hand had already closed enough that I could barely see where it had been.
+Before loading him, Brynn's runner arrived with households not confirmed clear. Kellan held out a hand. "Give me that."
 
-My body could repair damage faster than it could make a day stop being long. Sela’s treatment house had expanded into the road. Stretchers filled the covered side area. Medical helpers carried boxes toward two waiting carts while Sela stood in the middle of all of it, deciding who moved first and making everyone unhappy with professional consistency.
+The runner hesitated. Sela said, "Give it to him." Kellan scanned the marks. "These two on the lower approach will try the cart cut."
 
-“No.”
+"Problem?"
 
-A man holding a crate stopped.
+"Bank gave way yesterday. Loaded cart makes it worse."
 
-“It’s medicine.”
+"Alternate?"
 
-“It’s lamp oil.”
+"North fence line to the outer fallback road. Longer. Firmer."
 
-“For the treatment room.”
+He pointed to another entry. "And check the house beyond the old drainage bend. They may not hear the first horn indoors."
 
-“The woman on that stretcher cannot walk.”
+The runner repeated the directions and left. Kellan tried to lift himself higher. "See? Useful."
 
-He looked at the crate. Sela pointed at the cart.
+Sela tightened a transport strap. "Useful while lying down." Unfair.
 
-“Her first. Oil after.”
+Medical. We loaded him with two other non-mobile patients. Treatment supplies went beneath the benches.
 
-He put the crate down. Kellan was on a low cot near the loading point with his injured leg splinted from thigh to ankle. He looked better than when we had dragged him out after the backflow.
+Everything else waited. Sela caught my wrist before I left. "Hold it out."
 
-Better did not mean good. His face tightened every time someone shifted the cot. He saw me.
+I did. She watched my hand. "Steady."
 
-“You look terrible.”
+It was. She checked my eyes. "Headache?"
 
-“You are lying down.”
+"Lack of sleep."
 
-“I have perspective.”
+"Shoulder?"
 
-“Your perspective has straps.”
+"Fine enough."
 
-Sela appeared beside me.
+"Leg?"
 
-“Good. You’re here.”
+"Fine."
 
-“That sounded less like concern than I hoped.”
+She released my wrist. "Good. Then listen with full capability."
 
-“It was not concern. Lift the rear of his cot.”
+That phrasing got my attention. "If a wheel breaks, use the repair everyone understands unless impossible help is actually needed. If a route needs clearing, use tools. Not because I think you cannot do something absurd."
 
-Kellan frowned.
+She pointed toward the road. "Because everyone needs to know what remains after you leave and what the plan actually depends on." I had no argument. "And if the world ends?"
 
-“I can help direct the outer crews from here.”
+"Be useful before becoming interesting."
 
-“No,” Sela said.
+Cruel. She pointed toward another stretcher. "Carry."
 
-“I know the routes.”
+Medical authority remained Greywake's strongest institution. Back in the Core, Hesk's reserve had become paperwork again. Maelis arranged sealed components on two heavy dispatch tables.
 
-“You can tell us the routes while being transported.”
+Every transfer had a witness. Every packet had a tag. Every technician had a copied assignment.
 
-“I can do that from a horse.”
+Jessa stood between tables checking dispatch sheets. "Stop." A technician froze with a packet. "What?"
 
-“You cannot put weight on the leg.”
+"Not yours."
 
-“The horse does the walking.”
+"It has my team mark."
 
-Sela looked at him. Kellan stopped. I took the rear handles.
+"Outer tie has your team mark. Inner service code is the other site."
 
-“That was a strong attempt.”
+The second technician checked his own case. "Swapped?"
 
-“Shut up.”
+"During staging."
 
-We lifted. He hissed through his teeth despite trying not to. That killed the humor.
+Maelis looked to the witness. "Record the correction." He did.
 
-We moved him toward the cart slowly. Before we loaded him, Brynn’s runner arrived with a list of households not yet confirmed clear. Kellan held out a hand.
+Jessa exchanged packets and checked both again. Her hands were steady while working. Her face was not.
 
-“Give me that.”
+Nobody mentioned her job. Nobody promised she still had one. She worked anyway.
 
-The runner hesitated. Sela said, “Give it to him.” Kellan scanned the marks.
+Tavian gathered the lure teams. "You do not activate because another team has. You watch your corridor."
 
-“These two on the lower approach will try the cart cut.”
+He pointed along marked routes. "When prey movement becomes continuous and lead animals commit toward the approach, first signal. If they bunch before the corridor or turn wrong-side, abort and wait."
 
-“Problem?” the runner asked.
+A technician asked, "What if we wait too long?" "Pressure reaches farms before redirection."
 
-“Bank gave way yesterday. A loaded cart will make it worse.”
+"Too early?"
 
-“Alternate?”
+"You gather frightened animals before enough movement is behind them to carry through the corridor."
 
-“Take the north fence line until it joins the outer fallback road. Longer, but firm enough.”
+Nobody looked happier. Tavian did not try. "Observe. Signal. Confirm. Act."
 
-He pointed to another entry.
+Maelis finished the last custody mark. "The older Roadmaster-service site remains restricted to the assigned check team." Jessa looked toward the gate. "No report?"
 
-“And check the house beyond the old drainage bend. They may not hear the first horn from inside.”
+"Not yet," Brynn said from behind us.
 
-The runner repeated the directions and left. Kellan tried to push himself higher on the cot.
+"The check team has not confirmed Hesk. They have not given an all-clear."
 
-“See? Useful.”
+"You still send teams?" someone asked.
 
-Sela tightened one of the transport straps.
+"We cannot leave every other position empty waiting on one site."
 
-“You were useful while lying down.”
+Nothing important became safe before the next important thing needed doing. The lure teams left. No activation.
 
-“That seems unfair.”
+No flash. Just people carrying ordinary dangerous equipment toward places where terrified animals would soon be asked to prefer one bad road over another. Broken North still looked terrible.
 
-“It is medicine.”
+Reassuring. Timber support held under the cracked shelf. Rough footing remained ugly but usable.
 
-We got him onto the cart with two other non-mobile patients. Treatment supplies went beneath the benches. Everything else waited.
+Water moved through the reopened drainage. Workers had stacked timber, rope, stone, shovels, axes, and pry bars behind the marked repair line. Militia stood along the edges.
 
-Sela caught my wrist before I stepped away. She watched my hand.
+Not the center. A worker waved me over. "Branch came down."
 
-“Hold it out.”
+A heavy limb lay across part of the drainage edge. He looked at my hands. "You can make a cutter, right?"
 
-“I am holding it out.”
+"Yes."
 
-“Still.”
+"Then—"
 
-I tried. The tremor showed itself. She pressed two fingers against my wrist, then looked at my eyes.
+I picked up the axe. "Because this exists." The branch did not deserve a revelation.
 
-“Headache?”
+I swung. A worker pried. Another cut from the other side.
 
-“Yes.”
+I pulled with rope when told. Slower. Clear.
 
-“Shoulder?”
+Everyone knew exactly what had changed. Tavian passed, looked at the axe, and kept walking. Good.
 
-“Yes.”
+A runner came hard down the outer path. Brynn met him. "Report."
 
-“Leg?”
+"No Hesk in Core. Search checked service lanes and lower yard."
 
-“Yes.”
+"Vulnerable site?"
 
-“Good.”
+"Check team reached the approach. No secure all-clear."
 
-I stared at her.
+"Tampering?"
 
-“That is a disturbing medical conclusion.”
+"No report."
 
-“It means you are noticing the damage.”
+"Hesk?"
 
-She released my wrist.
+"No."
 
-“Listen carefully. Do not turn the evacuation into another experiment.”
+Brynn's jaw tightened. Tavian looked toward the forest. "We are out of time for wider search."
 
-“I already passed one broken axle without becoming architecture.”
+Brynn nodded. "Militia stays on evacuation and assigned positions. Nobody abandons a route for an unconfirmed sighting."
 
-“Congratulations.”
+The runner left. Tavian returned from the upper bend. "Drainage moving. Footing holding. Entrance and exit clear enough."
 
-There was no warmth in it. I liked Sela.
+"That sounded dangerously like optimism."
 
-“If a wheel is inconvenient, use a lever. If a crate is heavy, get another person. If a route needs clearing, use tools. Not because I think you cannot do something absurd.”
+"It was not."
 
-She pointed toward the road.
+Good. Brynn joined us. "Outer evacuation?"
 
-“Because everyone else needs to know what is real, what stays when you leave, and what the plan is built on.”
+"Last exposed carts are moving. Medical transport is inside fallback line."
 
-That was annoyingly better than a medical order.
+"Hesk?"
 
-“And if the world ends?”
+"No."
 
-“Then be useful before you become interesting.”
+Tavian looked at me. "You understand your role?"
 
-“Cruel.”
+"Carry things. Follow route plan. Resist becoming the route plan."
 
-She pointed at another stretcher.
+"Good."
 
-“Carry.”
+"That sounded like trust."
 
-Medical authority remained the strongest power in Greywake. By the time I returned to the Core, the lure stock from Hesk’s reserve had been turned into paperwork again. Maelis had arranged the sealed components on two heavy tables in the dispatch yard. Every transfer had a witness. Every packet had a tag. Every technician received a copied instruction sheet and had to confirm the site assignment before touching anything.
+"It was not."
 
-Hesk would have hated it. That was not why it was being done. Mostly.
+Reasonable. We went to the lantern line. Greywake's outer lanterns had always looked too small for the dark around them.
 
-Jessa stood between the tables, checking one dispatch sheet against the tags.
+Now they looked smaller. The road beyond descended through open ground before bending toward the tree line. Militia watched marked positions.
 
-“Stop.”
+Runners waited beside fresh horses. Farther behind us, the last carts moved toward protected routes. One carried medical supplies.
 
-A technician already holding a sealed packet froze.
+Another carried people. Nobody carried furniture anymore. Lure teams waited at assigned sites.
 
-“What?”
+Broken North crews stood with tools. Maelis's custody copies were separated from field stock. Jessa remained in the Core with dispatch logs.
 
-“That is not yours.”
+Everyone had something to do. My job, for the moment, was standing still. Brynn checked the route. "Outer civilian line?"
 
-“It has my team mark.”
+"Clear enough. One final cart inbound."
 
-“It has your team mark on the outer tie.”
+"Fallback junction?"
 
-Jessa turned the packet.
+"Open."
 
-“The service code is for the other site.”
+"Broken North?"
 
-The second technician checked his own case.
+"Ready for repair response."
 
-“So these were swapped?”
+Tavian did not correct the word ready. That worried me more than if he had. Brynn looked at him. "Threshold?"
 
-“During staging, yes.”
+"Not yet."
 
-Maelis looked at the witness beside her.
+No clock. No countdown. Road.
 
-“Record the correction.”
+Trees. Hesk was still out there. Maybe near the vulnerable housing.
 
-The man did. Jessa exchanged the packets, checked both inner tags, then checked them again. Her hands were steady while she worked.
+Maybe elsewhere. We could not stop Greywake to discover which. I flexed my fingers.
 
-Her face was not. Nobody mentioned her job. Nobody told her everything would be fine.
+The impossible answer was still there. It had always been there. Using it would be a choice.
 
-It probably would not be. She kept working anyway. Maelis handed me a sealed box.
+So would not using it. No contract held me here. No Guild order.
 
-“Move this to the west dispatch stack.”
+I stayed because I chose to. Brynn raised one hand. Nearby conversation stopped.
 
-I looked at the symbols painted on it.
+Tavian went completely still. At first I saw nothing. Then birds lifted from distant trees.
 
-“Which one is west?”
+Brush moved along the forest edge. One shape broke through. Then another.
 
-She pointed.
+Then ten. The dark between the trunks shifted behind them. No one cheered.
 
-“Excellent system.”
-
-“You could learn to read.”
-
-“I have been busy.”
-
-“With what?”
-
-I lifted the box.
-
-“Developing upper-body resentment.”
-
-That earned me exactly no reaction. Good. We were all tired.
-
-Tavian gathered the lure teams around the route board before they departed.
-
-“You do not activate because a runner says it is late,” he said. “You do not activate because another team has activated. You watch the movement assigned to your corridor.”
-
-He pointed along the marked routes.
-
-“When prey movement becomes continuous and the lead animals commit toward the approach, use the first signal. If they bunch before the corridor or begin turning across the wrong side, abort and wait for revision.”
-
-One technician asked, “What if we wait too long?”
-
-“Then pressure reaches the farms before we redirect it.”
-
-“And too early?”
-
-“You gather frightened animals before there is enough movement behind them to carry through the corridor.”
-
-Nobody looked happier. Tavian did not try to make them happier.
-
-“Observe. Signal. Confirm. Then act.”
-
-Maelis finished the last custody mark.
-
-“The older Roadmaster-service site remains restricted to the assigned team and militia check.”
-
-Jessa looked toward the yard gate.
-
-“No report?”
-
-“Not yet,” Brynn said from behind us.
-
-She had arrived without anyone noticing. That was becoming a habit.
-
-“The check team has not confirmed Hesk. They have not given an all-clear either.”
-
-Jessa pressed her lips together. Brynn looked at the assembled technicians.
-
-“You still go.”
-
-One of them asked, “Even with the site unsecured?”
-
-“We cannot leave every other position empty while we wait.”
-
-That was the shape of the day. Nothing important became safe before the next important thing needed doing. The lure teams left.
-
-No activation. No dramatic flash. Just people carrying sealed equipment toward places where, if everyone had done the work correctly, they would soon ask terrified animals to choose one dangerous road instead of another.
-
-Broken North still looked terrible. That reassured me. If I had arrived and found a clean road, reinforced walls, perfect footing, and tasteful decorative stonework, I would have assumed someone had replaced it while I was gone.
-
-The timber support from our earlier work still held beneath the cracked shelf. The rough footing remained ugly but usable. Water still moved through the reopened drainage instead of under the road.
-
-Workers had stacked spare timber, rope, stone, shovels, axes, and pry bars behind the marked repair line. Militia stood along the edges. Not across the road.
-
-The center stayed open. Tavian walked the corridor one last time while Brynn checked the civilian fallback junction farther downslope. Cloth markers separated the evacuation route from the line we wanted the animals to follow.
-
-A worker waved me over.
-
-“Branch came down.”
-
-A heavy limb had fallen across part of the drainage edge and caught against brush. It did not block the whole corridor. It would become a problem if everyone ignored it.
-
-The worker looked at my hands.
-
-“You can make a cutter, right?”
-
-“Yes.”
-
-“Then why—”
-
-I picked up the axe.
-
-“Because this exists.”
-
-I could have made something sharper. Faster. More impressive.
-
-The branch did not deserve a reveal.
-
-I swung. My shoulder objected immediately. The branch remained offensive.
-
-Two workers joined me. One cut. One pried. I took the other side with a rope and pulled when they told me.
-
-It took longer than making something impossible.
-
-It also left three workers knowing exactly how the route had been cleared.
-
-We dragged the branch free.
-
-The worker looked at the axe. Then at me.
-
-“Huh.”
-
-“Try not to sound shocked. I contain several ordinary skills.”
-
-Tavian passed us. His eyes moved from the cleared drainage to the axe in my hand. He said nothing.
-
-That was enough. A runner came hard down the outer path before we finished restacking the tools. Brynn met him at the junction.
-
-“Report.”
-
-“No Hesk in the Core. Guild search checked the service lanes and lower yard.”
-
-“The vulnerable site?”
-
-“The check team reached the approach. No secure all-clear yet.”
-
-“Did they find tampering?”
-
-“No report of it.”
-
-“Did they find Hesk?”
-
-“No.”
-
-Brynn’s jaw tightened. Tavian looked toward the forest.
-
-“We are out of time for a wider search.”
-
-Brynn nodded once. She did not like it. That did not make it wrong.
-
-“Militia stays on evacuation and assigned positions,” she said. “Nobody abandons a route to chase an unconfirmed sighting.”
-
-The runner left with the order. I looked down Broken North. Timber.
-
-Mud. Old stone. Rope.
-
-People. A road Greywake had abandoned because it was too unreliable now had workers waiting beside it with spare materials, hoping it would fail slowly enough for them to keep it alive. There was something almost respectable about that.
-
-Almost. Tavian returned from the upper bend.
-
-“Drainage is moving. Footing is holding. Entrance and exit are clear enough.”
-
-“That sounded dangerously close to optimism,” I said.
-
-“It was not.”
-
-Good. Brynn joined us.
-
-“Outer evacuation?”
-
-“Last exposed carts are moving,” she said. “Medical transport is already inside the fallback line.”
-
-“Hesk?”
-
-“No.”
-
-Tavian looked at me.
-
-“You understand your role?”
-
-“Carry things. Follow the route plan. Resist becoming the route plan.”
-
-“Good.”
-
-“That sounded dangerously like trust.”
-
-“It is not.”
-
-“I was planning to save my terrible judgment for later.”
-
-“That would be new.”
-
-There it was. Tiny. Dry.
-
-Then gone. Tavian looked past me toward the road.
-
-“We have done what we can before movement begins.”
-
-Nobody said it was enough. We went to the lantern line. Greywake’s outer lanterns had always looked too small for the dark around them.
-
-Now they looked smaller. The road beyond the last posts descended through open ground before bending toward the tree line. Militia watched from marked positions. Runners waited beside fresh horses. Farther behind us, the last carts continued toward the protected routes.
-
-One carried medical supplies. Another carried people. No one was carrying furniture anymore.
-
-The lure teams were already at their assigned sites. Broken North crews waited with tools. Maelis’s copies of the custody records had been separated from the field stock. Jessa was back in the Core with the dispatch logs.
-
-Everyone had something to do. Even me. Mine, for the moment, was to stand still.
-
-Brynn checked the route one more time.
-
-“Outer civilian line?”
-
-“Clear enough,” a runner said. “One final cart inbound.”
-
-“Fallback junction?”
-
-“Open.”
-
-“Broken North?”
-
-“Ready for repair response.”
-
-Tavian did not correct the word ready. That worried me more than if he had. Brynn looked at him.
-
-“Threshold?”
-
-“Not yet.”
-
-No clock. No perfect countdown. Just the road, the trees, and whatever was coming through them.
-
-Hesk was still somewhere out there. Maybe already near the vulnerable lure housing. Maybe moving somewhere else.
-
-Maybe watching Greywake prepare a plan he still believed should fail. We could not stop the settlement to find out. I flexed my fingers.
-
-The ability behind my thoughts was still there.
-
-Not preserved.
-
-Not recharged.
-
-There.
-
-Exactly as available as it had been before the broken axle, the fallen branch, and every ordinary problem I had chosen to solve ordinarily.
-
-That mattered for a different reason.
-
-If I did something impossible when the herd arrived, it would be because I chose that answer.
-
-If I did not, that would be a choice too. No one had ordered me to care about Greywake.
-
-No contract was holding me here now. No Guild had successfully classified me into civic responsibility. I was here because I had decided this mess was mine too.
-
-That was different.
-
-Brynn raised one hand.
-
-Every nearby conversation stopped.
-
-Tavian had gone completely still.
-
-At first I saw nothing.
-
-Then birds lifted from the distant trees.
-
-Not many.
-
-Enough.
-
-Brush moved along the lower edge of the forest.
-
-One shape broke through.
-
-Then another.
-
-Then ten.
-
-The dark between the trunks seemed to shift behind them.
-
-There was no cheer.
-
-No joke.
-
-No speech.
-
-Beyond Greywake’s last lanterns, the first mass of fleeing prey came out of the trees.
+No one spoke. Beyond Greywake's last lanterns, the first mass of fleeing prey came out of the trees.

@@ -1,481 +1,531 @@
 Chapter 6 — The Road That Works
 
-The second job sounded easier. That should have worried me. I reported to the caravan yard the morning after the bridge repair with fewer illusions about frontier work and slightly more money in my pocket. The Road Guild had apparently decided that surviving one assignment without breaking anything important qualified me for another.
+Five wagons rolled out of Greywake after sunrise. I walked beside the third one. That had not been my choice.
 
-This time, there was no damaged bridge waiting for me. No broken hammer. No repair crew staring at wet timber. I was attached to a caravan movement on the Main Caravan Road. In practical terms, that meant walking beside wagons and helping the road guards if something went wrong.
+Apparently one completed bridge job qualified me to look useful near a caravan without qualifying me to choose where I looked useful. No repair crew today. No broken hammer. Two Road Guild guards, five wagons, several drivers, a handful of passengers, and me doing an excellent impression of an armed escort without the weapon.
 
-In less practical terms, I had been promoted from temporary road worker to armed-looking person without a weapon.
+Progress. A charged Wayfarer Tongue Token hung inside the lead wagon. As long as I stayed near the caravan, the guards' instructions reached me clearly. The written schedule pinned beside it remained meaningless.
 
-Progress.
+Some problems were loyal. One guard pointed toward the middle of the caravan.
 
-A charged Wayfarer Tongue Token hung inside the lead wagon, close enough that the guards' instructions reached me clearly while we prepared to leave. The written schedule pinned beside it remained meaningless. Some traditions survived every chapter.
+"You stay beside the third wagon."
 
-One of the road guards pointed toward the middle of the caravan.
+I looked toward the front. The first wagon had a clear view of the road ahead. Better light. Better sightline. Considerably stronger entrance potential.
 
-“You stay beside the third wagon.”
+"I was thinking front-left."
 
-I looked toward the front. The first wagon had a clear view of the road ahead. Better light. Better positioning. Much stronger entrance potential.
+"You're not the lead guard."
 
-“I was thinking front-left.”
+"Not officially."
 
-“You're not the lead guard.”
+He stared at me. I moved beside the third wagon. So much for the opening shot.
 
-“Not officially.”
+The caravan started forward. Nobody seemed especially interested in yesterday's impossible hammer. Either the story had not traveled yet, or Greywake had discovered the rare and valuable skill of minding its own business.
 
-He stared at me. I moved beside the third wagon. So much for proving I did not need supervision. The caravan rolled out after sunrise. Five wagons.
+The Main Caravan Road looked different now that I knew what keeping it alive cost. Fresh gravel filled low spots. Drainage cuts had been cleared since the last rain. Brush had been cut back far enough that anything large approaching the road would have to announce itself first. Repaired culverts broke the roadside at intervals. Timber edges had been replaced where runoff chewed at the packed surface.
 
-Two Road Guild guards. Several drivers and passengers. Me. Nobody seemed particularly interested in the fact that I had produced a hammer from nothing yesterday. Either the story had not traveled yet, or Greywake had healthier priorities than I expected.
+Every few hundred paces, newer work crossed older damage. The road worked. Not because the frontier had agreed to behave.
 
-The Main Caravan Road looked even more deliberate now that I knew what maintaining it required. Fresh gravel had been packed into low spots. Drainage channels had been cleared since the last rain. Brush had been cut back far enough from the road that nothing large could reach the wagons without being seen first.
+Because people kept spending wood, iron, time, money, and irritation on forcing it to. Annoyingly competent. We passed merchants heading toward Greywake, a supply wagon loaded with grain sacks, and a covered passenger cart moving the other direction.
 
-Every so often, we passed repaired culverts or reinforced timber sections where water crossed beneath the road. There were marker posts too. I could not read them.
+Drivers exchanged signals. Guards watched the shoulders. Nobody looked heroic.
 
-Naturally.
+Everything kept moving. That might have been more important. Our first stop was a toll marker built beside a wide drainage channel.
 
-But I could see the difference between a post that had been repainted recently and one left to rot. Traffic moved in both directions. Merchants. Supply wagons. A smaller passenger cart with canvas stretched over the top.
+Two Guild workers checked wagon tags while one of our guards asked about traffic farther ahead. I stepped away from the third wagon to stretch my legs. That was when I noticed a man crouched beside the road.
 
-The road worked. Not because it was safe by default. Because people kept spending time, money, wood, iron, and attention to make it stay that way.
+Dark travel coat. Worn boots. A polearm rested on the ground within easy reach.
 
-Annoyingly competent.
+He was staring at mud as if it had confessed to something. Naturally, I went to investigate. I was one step away when he raised a hand without looking at me.
 
-Our first stop was a toll marker built beside a wide drainage channel. Two Guild workers checked wagon tags while one of the guards spoke with them about traffic farther ahead. I stepped away from the third wagon to stretch my legs.
+"Don't step there."
 
-That was when I noticed the man crouched beside the road. Dark travel coat. Worn boots. A polearm rested on the ground within reach. He was not looking at the toll station.
+I stopped with one foot in the air. There were better first impressions. I lowered the boot behind me.
 
-He was looking at mud. More specifically, he was looking at a patch of mud as though it had personally offended him. I moved closer. He raised one hand without looking up.
+He pointed. Only then did I see the tracks. Several broad impressions crossed the damp edge of the drainage channel and disappeared toward the forest. Split-hooved. Deep pressure toward the front.
 
-“Don't step there.”
+Another trail cut across them. Clawed. Four toes.
 
-I stopped with one foot half-raised. There are many ways to meet someone. Being told your foot is the problem is not the best one. I lowered it behind me. The man pointed to the ground.
+Longer stride. The man stood. Around thirty, maybe older. Hard to tell with people who spent their lives outdoors and looked personally acquainted with weather. Nothing flashy about him. No polished armor. No decorative cape begging to get caught on a branch.
 
-Only then did I see the tracks. Several wide impressions crossed the drainage edge and disappeared toward the forest. Larger than deer tracks from Earth, split-hooved, with deep pressure near the front. A second trail cut across them.
+A small metal insignia sat near his shoulder. Unreadable, obviously. One of the road guards walked over.
 
-Clawed. Four toes. Long stride. The man stood. He was around thirty, maybe a little older, with the kind of posture that made standing still look intentional. Nothing flashy about him. No polished armor. No unnecessary decoration.
-
-A small metal insignia rested near his shoulder. I could not read whatever markings were on it. One of the road guards came over.
-
-“Rook.”
+"Rook."
 
 The man looked at him.
 
-“You're holding traffic.”
+"You're holding traffic."
 
-“For less than a minute.”
+"For less than a minute."
 
-“We're on schedule.”
+"We're on schedule."
 
-“So are the animals.”
+"So are the animals."
 
-The guard exhaled. That did not sound promising. He noticed me.
+The guard exhaled through his nose. Interesting. He finally looked at me.
 
-“This is Tavian Rook. Crownspine Warden liaison.”
+The guard gestured between us.
 
-Tavian looked at me once. Then back at the tracks. Apparently I had not made the immediate list of interesting environmental problems. I decided to fix that.
+"Tavian Rook. Crownspine Warden liaison."
 
-“Red Jackal.”
+Tavian gave me one brief look, then returned to the tracks. Apparently I had not made the list of important environmental problems. I decided to correct the oversight.
 
-“Tavian Rook.”
+"Red Jackal."
 
-No reaction. I adjusted my coat slightly and moved toward the forest edge where the light hit better. Tavian pointed at the ground again.
+"Tavian Rook."
 
-“Not there either.”
+That was it. No recognition. No alarm.
 
-I looked down. Another faint print sat less than half a step from my boot. I moved.
+No question about why the System could not define me. He moved closer to the forest edge where the light hit the ground better. I adjusted position.
 
-Very dignified.
+"Not there either," he said.
 
-If you're wondering whether this weakened my case for not needing supervision, yes. I had noticed.
+I looked down. Another faint print sat less than half a step from my boot. I moved again.
 
-“What are you looking for?” I asked.
+Very dignified. The world paused. A toll worker froze with a wagon tag halfway toward a driver. One of the horses stopped mid-chew. Tavian remained bent toward the track line, completely unaware that the universe had temporarily become my private complaint department.
 
-“Direction.”
+I looked toward you.
 
-“They crossed the road.”
+"I have now been repositioned twice by a man who has not asked a single interesting question about me."
 
-“Yes.”
+I glanced down at the print I had almost stepped on.
 
-“That seems obvious.”
+"Unfortunately, he is correct."
 
-“It is.”
+Time resumed. The horse finished chewing. Tavian pointed at the ground.
 
-He crouched again and pressed two fingers beside one of the deeper prints.
+"What are you looking for?" I asked.
 
-“This one came from the south-east. Large browser. Moving quickly, but not running.”
+"Direction."
 
-He pointed to the clawed track.
+"They crossed the road."
 
-“This crossed later. North-west to south.”
+"Yes."
 
-“Predator?”
+"That seems obvious."
 
-“Likely.”
+"It is."
 
-“So one animal crossed. Then another.”
+He crouched and pressed two fingers beside one of the deeper prints without touching the impression itself.
 
-Tavian looked at me.
+"This came from the southeast. Large browser. Moving quickly, but not running."
 
-“Yes.”
+He pointed toward the clawed trail.
 
-I waited. He waited longer. I was beginning to understand why the guard had sighed.
+"This crossed later. Northwest to south."
 
-“What is unusual?”
+"Predator?"
 
-“The browser should be farther east this time of year.”
+"Likely."
 
-He traced the edge of the print without touching it.
+"So one animal crossed. Then another."
 
-“The predator usually ranges north of this road before the late rains.”
+"Yes."
 
-“Usually.”
+I waited. He did not rescue the conversation.
 
-“Usually matters.”
+"What is unusual?"
+
+"The browser should be farther east this time of year."
+
+He traced the edge of the print.
+
+"The predator usually ranges north of this road before the late rains."
+
+"Usually."
+
+"Usually matters."
 
 That was annoyingly reasonable. The road guard folded his arms.
 
-“Could be weather.”
+"Could be weather."
 
-“Could be.”
+"Could be."
 
-“Or a chase.”
+"Or a chase."
 
-“Could be.”
+"Could be."
 
-The guard looked at me as if expecting support. I had none. Tavian stood and looked toward the forest.
+The guard looked at me as if I had been invited to vote. I had not. Tavian stood and looked toward the trees.
 
-“One crossing means very little. Two means slightly more. I've seen six like this in three days.”
+"One crossing means very little. Two means slightly more. I've seen six like this in three days."
 
-The guard's expression changed only a little.
+The guard's expression tightened.
 
-“On the main road?”
+"On the main road?"
 
-“Near it. Side approaches too.”
+"Near it. Side approaches too."
 
-“Our patrols haven't reported anything serious.”
+"Our patrols haven't reported anything serious."
 
-“I didn't say serious.”
+"I didn't say serious."
 
-He picked up his polearm.
+Tavian picked up his polearm.
 
-“I said unusual.”
+"I said unusual."
 
-The toll workers finished checking the last wagon. The guard waved everyone forward. Tavian started walking in the same direction as the caravan. I looked at him.
+The toll workers finished checking the last wagon. Our guard waved the caravan forward. Tavian started walking in the same direction.
 
-“You're joining us?”
+I looked at him.
 
-“No.”
+"You're joining us?"
 
-“You're walking beside us.”
+"No."
 
-“My next survey point is the rest post.”
+"You're walking beside us."
 
-“So you're joining us temporarily.”
+"My next survey point is the rest post."
 
-“No.”
+"So you're joining us temporarily."
 
-I decided not to spend energy on the distinction. The caravan moved again. Tavian walked near the drainage edge instead of with the guards. Every few hundred paces, he stopped briefly to inspect disturbed soil, broken brush, droppings, or marks on tree bark.
+"No."
 
-He did not stop long enough to delay us. That made it harder to call him obsessive. I tried anyway.
+I decided the distinction was important to him in ways I did not yet deserve to understand. The caravan moved on. Tavian stayed near the drainage edge, never quite inside our formation. Every few hundred paces he stopped for a few seconds to inspect disturbed soil, broken brush, droppings, bark marks, or some tiny insult to nature that I would have walked over without noticing.
 
-“You always inspect dirt this carefully?”
+He never delayed us enough to justify complaining. That made him harder to dismiss. I tried anyway.
 
-“Only when the dirt is useful.”
+"You always inspect dirt this carefully?"
 
-“Comforting answer.”
+"Only when the dirt is useful."
 
-“You asked.”
+"Comforting answer."
 
-He was going to be difficult. Worse, he was probably going to be useful. The guarded rest post appeared before noon. It sat where the road widened beside a shallow well and a roofed shelter. Two guards were stationed there. Water barrels stood beneath an awning. Fresh timber had been stacked beside a repair shed.
+"You asked."
 
-The sightlines around the post had been cleared far into the brush. A board displayed route notices. I could not read those either. At this point, written information was becoming a personal insult. Our drivers watered the animals while passengers stretched their legs.
+Tavian was going to be difficult. Worse, he was going to be useful. The guarded rest post appeared before noon where the road widened beside a shallow well and a roofed shelter.
 
-Tavian walked past the shelter. Not toward the well. Toward a narrow road branching west. The difference was immediate. The Main Caravan Road had gravel, drainage, cleared brush, painted posts, and guards.
+Two guards were stationed there. Water barrels stood under an awning. Fresh timber sat beside a repair shed. The brush had been cleared back far enough that the forest seemed to respect a property line.
 
-The side route had ruts. Grass grew through the center. One drainage ditch had collapsed under mud and leaves. Brush pressed close enough to the road that branches reached over it. A marker leaned at an angle near the entrance, its painted face faded.
+A board displayed route notices. Unreadable. At this point, written information felt personal.
 
-I did not need literacy for that comparison.
+Drivers watered the animals while passengers climbed down and stretched. Tavian ignored the well. He walked toward a narrow road branching west.
 
-“What is down there?” I asked.
+The difference was immediate. The Main Caravan Road had gravel, drainage, cut brush, painted posts, guards, water, and people whose jobs existed specifically to keep it functioning. The side route had ruts.
+
+Grass grew through the middle. One drainage ditch had collapsed under mud and leaves. Brush pressed close enough that branches reached over the road.
+
+A marker leaned beside the entrance, its painted face faded nearly blank. I did not need literacy for this one.
+
+"What is down there?" I asked.
 
 Tavian glanced at the old marker.
 
-“Small farms. Wood camps. A few connecting tracks farther west.”
+"Small farms. Wood camps. Connecting tracks farther west."
 
-One of our road guards heard him.
+One of our guards heard him.
 
-“Not our route.”
+"Not our route."
 
-Tavian looked back toward the main road.
+Tavian looked back toward the maintained road.
 
-“I know.”
+"I know."
 
-“The caravan stays here.”
+"The caravan stays here."
 
-“I know.”
+"I know."
 
-“You planning to hold us again?”
+"You planning to hold us again?"
 
-“No.”
+"No."
 
-The guard relaxed slightly. Tavian stepped toward the side spur. I followed. The guard did not. That said enough.
+The guard relaxed. Tavian stepped toward the side spur. I followed.
 
-Tavian crouched beside another set of tracks. I stayed two full steps back this time. Growth. He pointed toward a broad hoof print near the edge of the rut.
+The guard did not. That told me something. Tavian crouched beside another track bed.
 
-“Same kind as the toll marker.”
+This time I stayed two full steps back without being told. Personal growth was a dangerous phrase. Let's call it tactical memory.
 
-“Fresh?”
+He pointed toward a broad hoof print at the edge of the rut.
 
-“Yesterday. Maybe late the night before.”
+"Same kind as the toll marker."
 
-A narrower clawed print crossed it. Then another. Then, beneath both, older impressions ran almost parallel to the road. Tavian scraped loose dirt from one edge with the back of a finger.
+"Fresh?"
 
-“Older layer.”
+"Yesterday. Maybe late the night before."
 
-I looked. I could see the shapes now that he showed me where to look. Not well. Enough.
+A narrower clawed print crossed it. Then another. Beneath both, older impressions ran almost parallel to the road.
 
-“So they keep crossing here.”
+Tavian scraped loose dirt from one edge with the back of a finger.
 
-“Yes.”
+"Older layer."
 
-“Predators follow prey.”
+I leaned in. Once he showed me where to look, I could see the shapes. Not well.
 
-“Sometimes.”
+Enough.
 
-“That sounds normal.”
+"So they keep crossing here."
 
-“One crossing would be normal.”
+"Yes."
+
+"Predators follow prey."
+
+"Sometimes."
+
+"That sounds normal."
+
+"One crossing would be normal."
 
 He pointed to the older hoof marks.
 
-“These move west.”
+"These move west."
 
-Then to the newer set.
+Then the newer set.
 
-“Those move north-east.”
+"Those move northeast."
 
 Then the clawed trail.
 
-“Predator moves south.”
+"Predator moves south."
 
 He stood.
 
-“Different directions. Same narrow approach. Repeated.”
+"Different directions. Same narrow approach. Repeated."
 
 The road guard called from behind us.
 
-“Rook.”
+"Rook."
 
 Tavian looked over.
 
-“We're leaving in five.”
+"We're leaving in five."
 
-“I heard.”
+"I heard."
 
 The guard nodded toward the maintained road.
 
-“Main route is clear.”
+"Main route is clear."
 
-“Currently.”
+"Currently."
 
-“That is the job.”
+"That is the job."
 
-“For you.”
+"For you."
 
-The guard did not like that. He also did not argue. That interested me more than an argument would have. I looked from the maintained rest post to the side route. One had water.
+The guard did not like that answer. He also did not argue. I looked from the staffed rest post to the side spur.
 
-Guards. Fresh repairs. Clear sightlines. The other had brush growing into the road.
+One had clean water, guards, repairs, and open sightlines. The other had brush growing into the road.
 
-“Lower priority?” I asked.
+"Lower priority?" I asked.
 
-The road guard answered.
+The guard answered.
 
-“Lower traffic.”
+"Lower traffic."
 
-“Same thing?”
+"Same thing?"
 
-“No.”
+"No."
 
-Tavian said nothing. Which somehow made the answer less convincing.
+Tavian said nothing. Somehow that made the answer feel more incomplete. Not false.
 
-Not false.
+Incomplete. We moved again after the rest stop. Tavian continued in the same direction, still refusing to admit he was traveling with us.
 
-Just incomplete.
+The road followed the forest edge before bending around a low ridge. One guard rode ahead. The other stayed behind the second wagon.
 
-The caravan started moving again. Tavian walked with us. Still not joining us, apparently. I had learned to respect technical definitions. The road beyond the rest post followed the forest edge for another mile before bending around a low ridge. The wagons spread slightly where the ground flattened.
+I remained beside the third. A position selected entirely for utility. Offensive, but survivable.
 
-One of the guards rode ahead. The other stayed behind the second wagon. I was still beside the third. A position chosen entirely for utility and therefore offensive to my instincts. Tavian moved near the front-right edge, watching the tree line.
+Tavian walked near the front-right edge, watching the tree line. Then he stopped. Not dramatically.
 
-I noticed him stop. Not dramatically. Just enough.
+Just enough. I noticed.
 
-“What?”
+"What?"
 
-He lifted one hand. Everyone behind him slowed. The lead guard turned. Then something crashed through the brush. A large four-legged animal burst from the trees.
+He lifted one hand. The people behind him slowed. The lead guard turned.
 
-Not a predator. At least not immediately. It had heavy shoulders, a long narrow head, and two swept-back horns. Mud streaked its flank. It crossed the drainage ditch badly and hit the road at an angle.
+Something crashed through the brush. A large four-legged animal burst from the trees. Not a predator.
 
-The drivers started shouting. The animal saw the wagons. Changed direction. That was when the second shape appeared behind it. Lean.
+At least not the first one. Heavy shoulders. Long narrow head.
 
-Clawed. Fast. The predator came through the brush lower to the ground and committed to the chase before it noticed the caravan. The road suddenly contained too many moving parts. The prey animal.
+Two horns swept backward from the skull. Mud streaked one flank. It crossed the drainage ditch badly and hit the road at an angle.
 
-The predator. Five wagons. Drivers. Passengers. Two guards.
+Drivers shouted. The animal saw the wagons and changed direction. Then the second shape came through the trees.
+
+Lean. Clawed. Fast.
+
+The predator committed to the chase before it seemed to notice the caravan. The road suddenly had too many moving parts. Prey.
+
+Predator. Five wagons. Drivers.
+
+Passengers. Two guards. Tavian.
 
 Me. Tavian moved first.
 
-“Drivers, hold the wagons.”
+"Drivers, hold the wagons."
 
-The lead guard hesitated for half a second. Then repeated the order. The wagons stopped.
+The lead guard hesitated for half a second, read the same situation, then repeated the order louder. The wagons stopped.
 
-“Passengers behind the wagon line,” Tavian said.
+"Passengers behind the wagon line," Tavian said.
 
-People moved. The prey animal veered toward the open gap between the second and third wagons. I stepped forward. Perfect angle. If I blocked the gap, the predator would have to deal with me.
+People moved. The prey animal veered toward the opening between the second and third wagons. I stepped forward.
 
-Simple. Possibly impressive. Tavian's voice cut across the road.
+Perfect angle. If it came through there, I could plant myself in the gap and make the predator deal with me. Simple.
 
-“Not there.”
+Clean. Visually excellent.
 
-I looked at him. He pointed hard to my right.
+"Not there."
 
-“Move.”
+Tavian's voice cut across the road. I looked at him. He pointed hard to my right.
 
-“I've got the line.”
+"Move."
 
-“You're closing its escape.”
+"I've got the line."
 
-The horned animal was already turning. If I stayed where I was, it could not pass between the wagons. It would have only one open direction. Toward the passengers sheltering behind the third wagon.
+"You're closing its escape."
 
-Right.
+The horned animal was already turning. I saw it. If I held the gap, I would block the cleanest route away from the wagons.
 
-That would have been bad. I moved. Not because I enjoyed being ordered around. Because he was correct quickly enough that arguing would have been stupid. Tavian pointed toward the drainage ditch.
+That would leave the frightened animal with one easier direction. Toward the passengers sheltering behind the third wagon. Annoying.
 
-“Keep that side open.”
+Correct. I moved. Tavian pointed toward the drainage ditch.
 
-The guards shifted. The lead guard angled his spear toward the predator without advancing. The second moved closer to the passengers. Nobody chased. Nobody crowded the animals.
+"Keep that side open."
 
-The prey animal saw the gap. It took it. It crossed the road in front of me, hooves striking packed gravel, then dropped into the ditch on the other side. The predator followed. Too close.
+The guards shifted with him. The lead guard angled his spear toward the predator without advancing. The second moved closer to the passengers.
 
-I stepped into its line after the prey had passed. This time Tavian did not stop me.
+Nobody chased. Nobody crowded the animals. The prey saw the opening.
 
-Better.
+It took it. Hooves struck packed gravel in front of me, then dropped into the ditch on the opposite side. The predator followed.
 
-The predator saw me. It slowed. I had no weapon. That seemed unfair. For half a second, I thought about the hammer.
+Too close. I stepped into its line after the prey had cleared. This time Tavian did not stop me.
 
-Clear purpose. Something between us. A weapon. No. I wanted to see whether Tavian's method actually worked when I stopped trying to turn every problem into my entrance scene.
+Better. The predator saw me. Slowed.
 
-More importantly, I did not need to reveal another impossible object for a situation the guards already understood. The lead guard was moving into position. So was Tavian. I planted one foot and spread my arms slightly.
+I could have made something. A wall. A weapon.
 
-“Come on.”
+Something huge and embarrassing. I did not need to. Tavian's geometry was already doing the important work, and the guards knew exactly where they belonged.
 
-The predator lowered its head. Tavian said, very calmly, “Don't chase it.”
+Using the impossible here would not solve a problem. It would just make sure everybody remembered I had impossible things. Different objective.
 
-“I wasn't planning to.”
+I planted one foot and widened my stance.
 
-I had absolutely been planning to. The animal darted left. I matched it. Not attacking. Just taking space.
+"Come on."
 
-The guard closed the other side. The predator checked again. Its prey was already disappearing into the brush beyond the opposite ditch. That changed the calculation. Good.
+The predator lowered its head. Tavian's voice stayed calm.
 
-The animal snapped once in frustration. I kicked gravel toward its face. Not heroic. Effective. It recoiled.
+"Don't chase it."
 
-The lead guard drove his spear point into the ground ahead of it with a hard metallic crack. The predator turned. Tavian opened the line behind it instead of closing in. The animal ran. No one followed.
+"I wasn't planning to."
 
-For several seconds, the road stayed quiet. Then one of the wagon animals made a nervous sound. A driver swore. I looked at Tavian. He was already checking the passengers.
+I had absolutely considered it. The animal darted left. I matched the movement without advancing.
 
-“Anyone down?”
+The lead guard closed the other side. The predator checked again. Its prey was already disappearing into the brush.
 
-No one was.
+That changed its decision. Good. It snapped once, frustrated.
 
-“Anyone hit?”
+I kicked gravel toward its face. Not heroic. Effective.
 
-No. Only after that did he look toward where the animals had disappeared.
+It recoiled. The guard drove his spear point hard into the road ahead of it. Crack.
 
-Rescue first.
+Tavian opened the retreat line behind the animal instead of closing it. The predator turned. Ran.
 
-Then the problem.
+Nobody followed. For several seconds, the road stayed quiet. Then a wagon animal made a nervous sound.
 
-I understood him a little better. I also disliked that he had been right twice in one morning. There should be limits. The road guard walked over.
+Somebody swore. I looked at Tavian. He was already checking the passengers.
 
-“That could happen anywhere.”
+"Anyone down?"
+
+No.
+
+"Anyone hit?"
+
+No. Only after that did he turn toward the tracks. People first.
+
+Evidence second. Interesting. He crouched at the roadside.
+
+The road guard came over.
+
+"That could happen anywhere."
 
 Tavian nodded.
 
-“Yes.”
+"Yes."
 
-The guard looked surprised. I probably did too. Tavian stepped toward the edge of the road.
+The guard looked surprised. So did I. Tavian stepped toward the fresh tracks.
 
-“That's not the problem.”
+"That isn't the problem."
 
-He crouched beside the fresh tracks. The prey animal's hooves had torn through older marks near the ditch. The predator's prints crossed behind them. Tavian looked farther down the soft ground.
+The prey animal's hooves had torn through older marks near the ditch. The predator's prints crossed behind them. Tavian moved farther along the soft ground.
 
-“Here.”
+"Here."
 
-I moved closer. Carefully. He pointed to a faded track beneath the fresh ones. Another broad hoof mark. Older.
+I joined him. Carefully. He pointed to a faded print beneath the fresh pursuit line.
 
-Then another clawed line crossing from the opposite direction. The road guard leaned over.
+Another broad hoof mark. Older. Then a separate clawed line crossing from the opposite direction.
 
-“You're saying the same animals came through before?”
+The road guard leaned closer.
 
-“Not the same animals.”
+"You're saying the same animals came through before?"
 
-“How do you know?”
+"Not the same animals."
 
-“Stride. Weight. Toe spread.”
+"How do you know?"
 
-Of course he had an answer. Tavian stood and walked several paces along the edge. He pointed to another disturbed patch.
+"Stride. Weight. Toe spread."
 
-“More there.”
+Of course he had an answer. Tavian walked several paces along the edge and pointed again.
 
-I looked from the fresh pursuit line to the older tracks. One incident could be bad luck. Two could still be bad luck. Repeated crossings from different animals moving in conflicting directions started to look less like luck and more like a pattern.
+"More there."
 
-The road guard still looked unconvinced.
+I looked from the fresh pursuit trail to the older crossings. One incident could be bad luck. Two could still be bad luck.
 
-“The road is open.”
+Repeated tracks from different animals moving in directions they apparently should not be moving started to look less like bad luck and more like a pattern. The guard remained unconvinced.
+
+"The road is open."
 
 Tavian looked at him.
 
-“Yes.”
+"Yes."
 
-“No attacks on the caravan.”
+"No attacks on the caravan."
 
-“Yes.”
+"Yes."
 
-“Then we continue.”
+"Then we continue."
 
-Tavian nodded once.
+Tavian nodded.
 
-“We should.”
+"We should."
 
-The guard walked back toward the wagons. That was it. No accusation. No argument. He had a caravan to move.
+The guard returned to the wagons. No accusation. No argument.
 
-Tavian had something else to worry about. I looked at the forest edge.
+He had travelers to move. Tavian had a different job. I looked at the forest edge.
 
-“What should they be doing?”
+"What should they be doing?"
 
-He did not answer immediately. He studied the tracks again.
+He studied the tracks before answering.
 
-“The browsers should be shifting east toward wetter ground.”
+"The browsers should be shifting east toward wetter ground."
 
-He pointed to the clawed prints.
+He pointed to the claw marks.
 
-“Those hunters should be ranging north along the ridge.”
+"Those hunters should be ranging north along the ridge."
 
-“And instead?”
+"And instead?"
 
-“They're crossing the same corridor.”
+"They're crossing the same corridor."
 
-“Why?”
+"Why?"
 
-“I don't know.”
+"I don't know."
 
-That was the first answer from him I liked. Not because it was useful. Because he did not pretend it was more than he knew. The caravan drivers started calling people back into position. I looked at Tavian.
+He said it immediately. No theory dressed as certainty. No dramatic explanation because the scene needed one.
 
-“You coming?”
+Just the boundary of what he knew. Useful. The drivers started calling people back into position.
 
-“My survey continues north.”
+I looked at Tavian.
 
-“That sounds like yes.”
+"You coming?"
 
-“It isn't.”
+"My survey continues north."
 
-I sighed. Technical definitions again. He picked up his polearm and looked once more at the layered tracks beside the road. The humor had gone out of his face. Not that there had been much to begin with.
+"That sounds like yes."
 
-When he spoke, his voice was quiet.
+"It isn't."
 
-“The animals are moving wrong.”
+Technical definitions again. He picked up his polearm and looked toward the layered tracks. I had met people who could tell me whether the System recognized me.
+
+People who could tell me whether my body had mass. People who could tell me whether a bridge brace was aligned. Tavian, apparently, could tell me when the wilderness itself was behaving incorrectly.
+
+That made him worth listening to. The humor left his face. Not that there had been much available.
+
+He looked toward the trees.
+
+"The animals are moving wrong."

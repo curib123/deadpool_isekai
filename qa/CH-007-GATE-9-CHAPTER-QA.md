@@ -1,346 +1,296 @@
 # CH-007 Gate 9 — Chapter QA
 
+**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
+**Volume:** 1 — Greywake Arc  
 **Chapter:** CH-007 — You Should Be Dead  
-**Manuscript:** `manuscript/CH007-YOU-SHOULD-BE-DEAD.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 4,117
-
-**Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A096 Imagination Scene Designer, A097 Prose Editor, A037 Power Balance Editor, A042 Character Arc Editor, A044 Supporting Character Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A111 Logic Editor
+**Review Date:** 2026-09-20  
+**Revision Track:** Soul-Drift / Close First-Person / Final Story Engine  
+**Status:** PASS — CURRENT CANON REVALIDATED  
+**Word Count:** 4,174
 
 # Scope
 
-Gate 9 reviewed the complete CH-007 manuscript against:
+Gate 9 reviewed the rewritten CH-007 manuscript against the current Soul-Drift master retcon, final story-engine rules, locked five-scene event sequence, CH-001 through CH-006 current canon, F-003 planting requirements, F-004 protection, Tavian/Sela knowledge boundaries, regeneration interpretation, and the CH-008 handoff.
 
-- locked CH-007 Scene Architecture;
-- CH-001 through CH-006 canon;
-- deadpan Red Jackal voice standard;
-- Tavian Rook continuity;
-- Sela Arven character/knowledge limits;
-- Stage I Play Logic limits;
-- regeneration/M-005 boundaries;
-- F-003 planned clue requirements;
-- M-007 inactivity;
-- CH-008 boundary;
-- Gate 9 requirements.
+Legacy Stage, use-count, regeneration-cost, and conventional-character-development language is superseded by the current final-story-engine interpretation.
 
-# CRITICAL
+# Severity Review
 
+## CRITICAL
 **None.**
 
-# MAJOR
+## MAJOR
+**None unresolved.**
 
-**None.**
+### Regeneration as Resource/Progression — RESOLVED
 
-# MINOR — RESOLVED BEFORE FINAL PASS
+The current manuscript does not frame regeneration as:
+- a new unlock;
+- a stronger stage;
+- a finite stamina pool;
+- a healing reserve;
+- a recovery meter;
+- a cooldown;
+- a universal healing-rate ceiling.
 
-## Manifestation Attempt Count
+Instead:
+- the severe injury is medically revealing;
+- correction begins autonomously before Sela treats Red;
+- the process remains painful;
+- Red's body keeps rejecting the damaged state without asking for mana or a resource check;
+- nothing about Red's raw capacity increases during the chapter.
 
-The draft initially said Red Jackal “tried again” after pain disrupted the rescue manifestation image.
+**Resolution:** PASS.
 
-Because CH-007 permits only one manifestation attempt total, that wording could imply a second attempt.
+### Conventional Moral-Development Framing — RESOLVED
 
-**Resolution:** the passage now makes the sequence continuous:
+The worker's injury remains a real consequence of Red's choice.
 
-- pain disrupts the forming image;
-- Red Jackal nearly loses the thread;
-- he holds onto the same clear purpose instead of restarting;
-- one temporary barrier forms.
+However, the manuscript does not convert that consequence into a conventional moral-growth checkpoint.
 
-Final result:
+Red explicitly remains:
+- curious;
+- theatrical;
+- capable of making similar bad decisions later;
+- fundamentally the same character.
 
-**one manifestation attempt, one manifestation success.**
+What changes is his information: he now has direct evidence that pricing danger according to his own survivability can redirect risk onto people who do not share it.
 
-# Story
+**Resolution:** PASS.
 
-| Check | Result |
-|---|---|
-| Routine near-Greywake task established | PASS |
-| Displaced pack escalation feels earned | PASS |
-| Red Jackal's mistake is character-driven | PASS |
-| Worker danger is causally linked to his positioning | PASS |
-| Severe injury changes the chapter objective | PASS |
-| Tavian shifts immediately to rescue/extraction | PASS |
-| Sela enters through real triage work | PASS |
-| Responsibility consequence lands | PASS |
-| Ending earned | PASS |
-| CH-008 does not begin | PASS |
+### Paragraph Cadence — RESOLVED
 
-# Red Jackal Voice
+Current saved manuscript:
+- 417 total prose/dialogue paragraphs;
+- 223 non-dialogue narrative paragraphs;
+- 43 single-sentence non-dialogue paragraphs (~19.3%);
+- standalone dialogue remains separated for speaker clarity.
 
-| Check | Result |
-|---|---|
-| First person throughout | PASS |
-| Dry/deadpan baseline preserved | PASS |
-| Humor drops naturally under serious danger | PASS |
-| No jokes over the worker's serious injury | PASS |
-| Reader-talk restrained | PASS |
-| Self-talk remains immediate/practical in combat | PASS |
-| Serious Red Jackal appears without becoming a different character | PASS |
+Multi-sentence narration is the strong default.
 
-The manuscript explicitly drops humor during the severe hit and worker endangerment.
+**Resolution:** PASS.
 
-# POV / Prose
+# Gate 9 Review
 
-| Check | Result |
-|---|---|
-| No invisible third-person narrator | PASS |
-| Personality-filtered description | PASS |
-| Dialogue distinct | PASS |
-| Multi-sentence narrative default | PASS |
-| One-line beats used for impact/dialogue | PASS |
-| No robotic fragmentation | PASS |
+| Check | Result | Evidence |
+|---|---|---|
+| Close first-person POV | PASS | Red narrates as I/me/my; no third-person Red action narration |
+| Soul-Drift compatibility | PASS | no restored Earth biography or traffic-crash residue |
+| Chosen Red Jackal persona preserved | PASS | no identity contradiction |
+| Movie-like English | PASS | immediate physical action/dialogue/reaction |
+| Humor restrained during danger | PASS | attack and worker injury are not undercut |
+| Reader-talk restrained | PASS | one direct audience aside |
+| Audience address freezes time | PASS | explicit Fourth-Wall Pause and exact resumption |
+| Pause not tactically abused | PASS | treatment-room commentary only |
+| CH-006 handoff respected | PASS | migration concern and Tavian friction already established |
+| Route genuinely routine | PASS | near-Greywake service/maintenance task |
+| Pack appearance is escalation | PASS | workers treat serious pack pressure as unexpected |
+| Pack remains ordinary | PASS | no new creature canon or anomaly species |
+| No artificial cause discovered | PASS | migration cause remains unknown |
+| Red's overcommitment is personality-driven | PASS | he wants the predator to commit to him |
+| Red knows his own survivability differs | PASS | his decision is priced around what he can absorb |
+| Tavian warns against overcommitment | PASS | field geometry warning precedes Red's move |
+| Worker danger is causally linked | PASS | Red's forward move opens wagon-side angle |
+| Worker injury not random | PASS | second predator uses the opened lane |
+| Red does not intentionally sacrifice worker | PASS | collateral follows from his game, not intent |
+| Severe injury present | PASS | deep lower-rib/flank tearing with heavy blood loss |
+| Injury would threaten ordinary patient | PASS | Sela explicitly states ordinary patient could die |
+| Regeneration begins before healer | PASS | wound shrinks/bleeding slows during extraction/transport |
+| Regeneration is autonomous | PASS | continues without spell, potion, mana or conscious resource use |
+| Regeneration remains painful | PASS | deep heat, contractions and rib pain remain explicit |
+| Regeneration not a power-up | PASS | manuscript states capacity did not change |
+| No finite regeneration resource | PASS | correction continues independently of tiredness/mana |
+| Tavian prioritizes worker extraction | PASS | worker first, retreat rather than kill pack |
+| Red could overpower physical threat | PASS | prose makes clear he could end the encounter much more decisively |
+| Tension comes from people/consequence | PASS | injured worker, extraction, transport and treatment remain the objective |
+| One rescue manifestation occurs | PASS | task-aligned temporary barricade |
+| One manifestation is not a capability cap | PASS | Red explicitly could make more |
+| Rescue manifestation introduces no new rule | PASS | applies existing CH-005 task-framing observation only |
+| No manifestation resource cost | PASS | barrier ends because its job is finished, not depletion |
+| F-004 unchanged | PASS | remains PLANTED — CH-005 |
+| Sela enters through triage | PASS | worker is treated first |
+| Ordinary healing baseline established | PASS | structured healing knit used on worker |
+| Local healing resources finite | PASS | crystals/mana/time are communal local constraints |
+| Red's regeneration not equated with those limits | PASS | no shared resource model inferred |
+| F-003 component A | PASS | severe trauma self-corrects before healer intervention |
+| F-003 component B | PASS | diagnostic/healing knit encounters moving wound boundary |
+| No standard external healing residue | PASS | explicitly checked |
+| Sela cannot explain mechanism | PASS | hypotheses remain possibilities only |
+| No immortality conclusion | PASS | "should be dead" is medical observation, not universal claim |
+| F-003 planted | PASS | both approved manuscript components present |
+| No raw-power progression | PASS | no Stage, awakening, level-up, mastery or capacity increase |
+| Stable flaw preserved | PASS | Red remains capable of similar future overcommitment |
+| No moral-completion arc | PASS | causality is logged as useful information, not reform |
+| Tavian remains independent | PASS | field expertise and rescue priorities remain his own |
+| Sela remains independent | PASS | triage/diagnostic decisions are medically grounded |
+| M-007 inactive | PASS | no Fate/prophecy/destiny/causal-wake material |
+| Hesk conspiracy protected | PASS | no lure, casualty falsification or sacrifice-policy evidence |
+| No protected writer truth | PASS | no Soul Drift/self-model/Great Design explanation |
+| Wayfarer Tongue Token used | PASS | spoken field communication remains institutional |
+| No silent literacy | PASS | treatment sheet remains unreadable |
+| CH-008 boundary protected | PASS | no Kellan, outer-homestead bridge work or next chapter event |
+| Ending lands on consequence | PASS | survivability is separated from scene safety without reforming Red |
 
-Final cadence:
-- 344 prose/dialogue paragraphs;
-- 171 narrative paragraphs;
-- 119 narrative paragraphs contain two or more sentences;
-- 52 narrative paragraphs are single-sentence;
-- dialogue turns account for most remaining short paragraphs.
+# Fourth-Wall Pause Audit
 
-# Language / Literacy
+## Pause 1 — Sela's Medical Conclusion
+
+Red addresses the audience immediately before Sela states the title-line conclusion.
+
+Frozen:
+- treatment assistant;
+- steam above boiled water;
+- Sela's hand over the wound.
+
+Red comments only.
+
+Time resumes at the same causal instant.
 
 **PASS.**
 
-- Wayfarer Tongue Token supports spoken work communication.
-- Patrol cart has its own token.
-- Red Jackal still cannot read road markers or treatment paperwork.
-- No language or literacy gain occurs.
+# F-003 Revalidation
 
-# Attack / Ecology
+## Component A — Autonomous Correction
 
-**PASS.**
+The manuscript establishes:
+- a severe flank/lower-rib injury;
+- heavy blood loss;
+- autonomous wound contraction beginning during extraction;
+- visible reduction in wound size before professional treatment;
+- no healer, potion or spell responsible for the correction.
 
-The pack:
-- consists of multiple ordinary predators;
-- appears on a route locals considered routine;
-- is ecologically unexpected because of the ongoing migration drift;
-- is not assigned a new CREATURE-ID;
-- is not linked explicitly to a march-lure or Hesk.
-
-The chapter does not discover the cause.
-
-# Recklessness / Consequence
+The correction is painful but not framed as spending a finite power resource.
 
 **PASS.**
 
-Red Jackal's logic is explicit:
+## Component B — Healing-Magic Mismatch
 
-- he believes he can take the lead predator's hit;
-- he evaluates the risk primarily using his own survivability;
-- he moves too far forward;
-- Tavian has to shift toward him;
-- the right-side wagon lane opens;
-- the second predator uses that gap;
-- the ordinary worker is injured.
+Sela first demonstrates normal treatment on the injured worker.
 
-The worker's danger is therefore a direct tactical consequence of Red Jackal's choice, not random punishment.
+She then performs a diagnostic knit on Red.
 
-# Tavian Rook
+Observed mismatch:
+- Red's tissue changes while she maps it;
+- wound boundaries move during the knit;
+- the structured spell cannot treat the wound as a stable ordinary trauma state;
+- Sela stops instead of forcing a standard pattern;
+- no standard external healing residue is detected.
 
+Sela offers only tentative possibilities and does not explain the mechanism.
+
+**PASS.**
+
+Therefore:
+
+**F-003 — PLANTED — CH-007**
+
+# Regeneration / Final Story-Engine Audit
+
+**PASS.**
+
+CH-007 reveals what was already true.
+
+It does not establish:
+- a regeneration Stage;
+- a new durability tier;
+- a healing-rate level-up;
+- a limited number of recoveries;
+- a mana dependency;
+- a cooldown;
+- an exhaustion meter.
+
+The body simply continues correcting toward Red's persistent embodied state.
+
+The writer-truth mechanism remains protected from all in-world characters.
+
+# Red / Tavian / Sela Agency Review
+
+## Red Jackal
+**PASS.**
+
+His stable flaw drives the chapter:
+- danger becomes personally interesting;
+- his own survivability makes the risk look cheap;
+- he overcommits;
+- somebody else pays for the opened angle.
+
+Afterward he recognizes the causal chain without becoming conventionally reformed.
+
+## Tavian Rook
 **PASS.**
 
 Tavian:
-- warns against overcommitment before the mistake;
-- immediately prioritizes the worker after the line breaks;
-- coordinates extraction;
-- preserves the injured worker as the first priority;
-- does not lecture during active danger;
-- becomes more distrustful of Red Jackal's judgment without becoming irrationally hostile.
+- warns from field geometry;
+- rescues the worker first;
+- prioritizes extraction;
+- does not waste time moralizing during danger;
+- states the causal facts afterward without becoming Red's moral tutor.
 
-He does not know the regeneration mechanism.
-
-# Severe Injury / Regeneration
-
+## Sela Arven
 **PASS.**
 
-Red Jackal suffers:
-- deep flank/torso trauma below the ribs;
-- heavy bleeding;
-- possible rib/internal damage;
-- trauma that Sela later states could kill an ordinary patient.
+Sela:
+- triages the ordinary worker first;
+- uses limited local healing resources appropriately;
+- recognizes Red's recovery as medically abnormal;
+- refuses to invent a mechanism;
+- explains the practical group-risk consequence without claiming Red has become better.
 
-Regeneration:
-- begins autonomously;
-- is painful;
-- causes heat/pressure;
-- worsens exhaustion;
-- reduces coordination;
-- slows bleeding but does not instantly reset the fight;
-- does not restore full combat ability.
+# Knowledge Boundary
 
-No exact universal healing rate is established.
+By the end of CH-007, Red may know:
+- a severe wound can begin correcting itself without an external healing spell;
+- a professional healer considers his recovery medically abnormal;
+- conventional diagnostic/healing structure does not meet his body like an ordinary untreated wound;
+- Sela cannot identify the mechanism;
+- his survivability can distort how he prices danger around ordinary people;
+- Tavian's geometry warning was correct;
+- one worker was injured because Red's overcommitment opened the safe lane.
 
-No immortality conclusion is made.
-
-# Play Logic
-
-**PASS.**
-
-CH-007 uses exactly:
-
-**one Stage I rescue/defense manifestation attempt total.**
-
-The manifestation:
-- uses the already-known clear-purpose principle;
-- forms temporary cover;
-- is crooked/imperfect;
-- is unstable;
-- buys seconds for extraction;
-- collapses;
-- worsens Red Jackal's exhaustion.
-
-No:
-- new Play Logic rule;
-- Stage II behavior;
-- repeat attempt;
-- power triumph over consequence.
-
-F-004 remains **PLANTED — CH-005**.
-
-# Sela Arven / Treatment House
-
-**PASS.**
-
-Sela is introduced through:
-- triage;
-- bleeding control;
-- wound cleaning;
-- limited healing magic;
-- medicine allocation;
-- resource management.
-
-The treatment house establishes:
-- finite healing crystals/mana;
-- finite medicine;
-- practical bandaging/splinting;
-- priority-based care.
-
-The ordinary injured worker is treated first.
-
-Red Jackal's anomaly does not steal immediate care from the more vulnerable patient.
-
-# F-003 — Component A
-
-**PASS.**
-
-Before healer intervention:
-
-- Red Jackal has a life-threatening injury;
-- his body begins correcting it autonomously;
-- wound edges move closer together;
-- bleeding slows disproportionately;
-- pain and exhaustion remain severe.
-
-This supplies the first half of F-003.
-
-# F-003 — Component B
-
-**PASS.**
-
-Sela first demonstrates ordinary healing on the worker.
-
-She then examines Red Jackal and finds:
-
-- tissue changing during examination;
-- wound boundaries moving while the diagnostic knit is setting;
-- standard healing behavior no longer matching an ordinary untreated wound;
-- no standard external healing residue.
-
-Sela stops the spell rather than forcing a normal closure pattern.
-
-She can only hypothesize:
-- innate recovery;
-- racial trait;
-- unknown regeneration/anomaly.
-
-She cannot explain the mechanism.
-
-This satisfies the planned clue:
-
-**healing magic encounters an already-correcting body.**
-
-# M-005 Boundary
-
-**PASS.**
-
-M-005 advances observationally only.
-
-The manuscript establishes:
-- regeneration is real;
-- regeneration is medically abnormal;
-- regeneration does not behave like ordinary healing magic;
-- regeneration is painful/exhausting.
-
-The manuscript does **not** reveal:
+He still does not know:
 - self-model reassertion;
-- continuity mechanics;
-- shared root with Play Logic;
-- universal survivability.
-
-# M-007 / Fate
+- Soul Drift as the regeneration root;
+- any universal regeneration ceiling;
+- Hesk's role;
+- march-lures;
+- Fate/Great Design truth.
 
 **PASS.**
+
+# Scene Compliance
+
+## SC-007-01 — Too Close to Greywake
+**PASS.** Routine near-Greywake maintenance and Tavian's concern establish the false safety baseline.
+
+## SC-007-02 — The Hit He Can Take
+**PASS.** Red overcommits, receives severe trauma, and opens the secondary attack lane that injures the worker.
+
+## SC-007-03 — Get Them Home
+**PASS.** Objective shifts to extraction; one task-aligned barricade buys distance without becoming a capability limit.
+
+## SC-007-04 — You Should Be Dead
+**PASS.** Sela establishes normal healing, encounters the moving wound boundary and delivers F-003's full medical clue.
+
+## SC-007-05 — Surviving Is Not the Same as Safe
+**PASS.** The causal consequence is stated clearly while Red's stable personality/flaw remains intact.
+
+# F-ID State
+
+- **F-001 — PLANTED — CH-002**
+- **F-002 — PLANTED — CH-003**
+- **F-003 — PLANTED — CH-007**
+- **F-004 — PLANTED — CH-005**
 
 M-007 remains inactive.
 
-No:
-- Fate;
-- destiny;
-- prophecy;
-- causal-wake language;
-- Great Design clue.
+# Canonization Decision
 
-# Mystery / Conspiracy Protection
+# GATE 9 — PASS
 
-**PASS.**
+**CH-007 — You Should Be Dead** is current canon under the Soul-Drift / close-first-person / final story-engine standard.
 
-No:
-- march-lure clue;
-- Hesk accusation;
-- falsified-record clue;
-- scapegoat clue;
-- protected writer truth.
+**Official next production step:**
 
-The pack remains an unexplained displaced consequence.
+**CH-008 — Outside the Lanterns → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**
 
-# Responsibility Ending
-
-**PASS.**
-
-The chapter does not end on:
-- regeneration triumph;
-- power reveal;
-- medical spectacle.
-
-It ends on the practical lesson:
-
-**surviving damage and making a safe decision are not the same thing.**
-
-This also preserves Tavian's growing distrust of reckless talent.
-
-# F-ID State Before Canonization
-
-- F-001 — PLANTED — CH-002
-- F-002 — PLANTED — CH-003
-- F-003 — PLANNED — NOT YET PLANTED
-- F-004 — PLANTED — CH-005
-
-# Gate 9 Decision
-
-# PASS
-
-CH-007 is approved for canonization.
-
-After canonization:
-- CH-007 becomes CANON;
-- F-003 becomes **PLANTED — CH-007**;
-- F-004 remains **PLANTED — CH-005**;
-- M-007 remains inactive;
-- the CH-007 continuity checkpoint may be recorded;
-- residual exhaustion must carry into CH-008;
-- the next authorized production step becomes **CH-008 — Outside the Lanterns: Detailed Scene Architecture only**.
-
-Do not draft CH-008 manuscript before its Scene Architecture and Gate 8 Pre-Manuscript Scene QA pass.
-
-Do not select Volume 2.
+CH-028 remains paused until CH-001 through CH-027 complete this synchronization cycle.

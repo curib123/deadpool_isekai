@@ -1294,7 +1294,7 @@ The pack remains an unexplained displaced consequence.
 
 ## CH-008 Boundary
 
-CH-007 may establish residual exhaustion.
+CH-007 may establish recent-injury pain/soreness and treatment observation, but no magical depletion or recovery gate.
 
 Do not begin:
 - the Outer Homestead work assignment;
@@ -1318,8 +1318,8 @@ After CH-007, Red Jackal canonically knows:
 - moving into a position because he can survive the likely hit can redirect danger toward people who cannot;
 - he suffered severe flank/torso trauma that would likely kill or critically disable an ordinary person without urgent treatment;
 - his body began correcting that trauma autonomously before healer intervention;
-- the correction is painful, exhausting, and destabilizing rather than an instant combat reset;
-- regeneration reduces bleeding and changes tissue state but does not preserve full coordination or focus;
+- the correction is painful and autonomous; the severe trauma itself is disruptive, but regeneration does not consume a finite resource;
+- regeneration reduces bleeding and changes tissue state while ordinary pain/shock from the severe trauma can still disrupt the immediate scene;
 - Sela Arven considers the process medically abnormal;
 - a conventional diagnostic/healing knit encountered wound boundaries that were already changing beneath it;
 - no standard external healing residue explained the recovery;
@@ -1345,7 +1345,7 @@ Tavian canonically knows:
 - Red Jackal's high-risk positioning directly exposed an ordinary worker;
 - Red Jackal can remain conscious and mobile after severe trauma;
 - Red Jackal's body changes unusually during extraction;
-- Red Jackal can still choose rescue responsibility after making a bad decision;
+- Red Jackal shifts to extraction once the worker is endangered;
 - Red Jackal's raw survivability makes field judgment more important, not less.
 
 Tavian still does not know the regeneration mechanism.
@@ -1394,7 +1394,7 @@ M-005 advances observationally only.
 Established observation:
 - Red Jackal's regeneration is medically abnormal;
 - it does not behave like ordinary conventional healing magic;
-- it is painful and exhausting.
+- it is painful, with no finite regeneration-resource cost established.
 
 The mechanism remains protected.
 
@@ -1408,7 +1408,7 @@ No Fate/prophecy/causal-wake clue was introduced.
 
 CH-008 may begin with:
 
-- Red Jackal still physically depleted from CH-007;
+- Red Jackal may retain ordinary soreness from the recent CH-007 trauma, while his regeneration has no magical depletion state;
 - Sela's warning and treatment restrictions still relevant;
 - Tavian's distrust of reckless positioning increased;
 - F-003 already planted;
@@ -1416,7 +1416,7 @@ CH-008 may begin with:
 - no march-lure knowledge;
 - the Outer Homestead work assignment beginning beyond the protected main-route system.
 
-Residual exhaustion must limit how casually Red Jackal uses Play Logic in CH-008.
+CH-008 must not treat CH-007 as creating a Play Logic cooldown, stamina debt, use-count ceiling, or regeneration recovery gate.
 
 
 
@@ -1431,8 +1431,8 @@ Red Jackal begins CH-008 with the CH-007 canon checkpoint.
 
 He knows:
 - his regeneration is medically abnormal;
-- he remains sore and physically depleted after CH-007;
-- using Play Logic while badly hurt worsened his exhaustion;
+- he may retain ordinary soreness after CH-007, without reduced underlying capability;
+- the CH-007 rescue barrier did not establish a magical stamina cost or reduced future capability;
 - his own survivability cannot be used as the only risk standard around ordinary people;
 - the Main Caravan Road is heavily protected;
 - outer/service routes receive less attention;
@@ -1531,13 +1531,9 @@ CH-008 introduces **no new F-ID**.
 
 ## Play Logic Boundary
 
-Maximum CH-008 use:
+CH-008 scene design contains **one terrain/bridge-assist manifestation** and no additional public test. This is a chapter event choice, not a capability maximum or Stage limit.
 
-**one Stage I terrain/bridge-assist manifestation attempt and one success total.**
-
-No retry.
-
-No new rule.
+No new Play Logic rule.
 
 ## Regeneration / M-005 Boundary
 

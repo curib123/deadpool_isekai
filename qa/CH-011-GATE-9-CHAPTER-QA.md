@@ -1,460 +1,335 @@
 # CH-011 Gate 9 — Chapter QA
 
+**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
+**Volume:** 1 — Greywake Arc  
 **Chapter:** CH-011 — Broken North  
-**Manuscript:** `manuscript/CH011-BROKEN-NORTH.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 2,869
-
-**Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A096 Imagination Scene Designer, A097 Prose Editor, A037 Power Balance Editor, A042 Character Arc Editor, A044 Supporting Character Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A111 Logic Editor
+**Review Date:** 2026-09-20  
+**Revision Track:** Soul-Drift / Close First-Person / Final Story Engine  
+**Status:** PASS — CURRENT CANON REVALIDATED  
+**Word Count:** 3,241
 
 # Scope
 
-Gate 9 reviewed the complete CH-011 manuscript against:
+Gate 9 reviewed the rewritten CH-011 manuscript against the current Soul-Drift master retcon, final story-engine rules, the locked five-scene event sequence, CH-001 through CH-010 current canon, Broken North closure/trespass logic, supporting-character independence, Play Logic interpretation, F-ID protections, and the first physical march-lure discovery boundary.
 
-- locked CH-011 Scene Architecture;
-- CH-001 through CH-010 canon;
-- CH-009 ecological-evidence handoff;
-- CH-010 documentary-evidence handoff;
-- Red Jackal's locked deadpan first-person voice;
-- locked Anti-Villain Expression Check;
-- Tavian Rook's tactical/ecological authority;
-- Maelis Orra's evidence/attribution discipline;
-- Kellan Dorr's infrastructure/community role;
-- Broken North location architecture;
-- current closure/trespass boundary;
-- exactly-one-Stage-I-manifestation restriction;
-- no-new-regeneration-clue restriction;
-- no-new-F-ID restriction;
-- first-march-lure discovery ownership;
-- CH-012 detailed-lure-analysis boundary;
-- CH-013 midpoint-revelation boundary;
-- Gate 9 requirements.
+Legacy Stage/use-cap, manifestation-strain, and power-limit language is superseded.
 
-# CRITICAL
+# Severity Review
 
+## CRITICAL
 **None.**
 
-# MAJOR
+## MAJOR
+**None unresolved.**
 
-**None.**
+### Play Logic Use-Cap / Strain Interpretation — RESOLVED
 
-# MINOR
+CH-011 contains one structural support manifestation because Kellan identifies one structural gap and Tavian needs one safe crossing line.
 
-**None requiring manuscript revision.**
+The manuscript establishes:
+- Red could create a much larger solution;
+- he deliberately follows Kellan's geometry;
+- the support remains stable through the complete crossing;
+- no hidden limit, stamina pool, or strain counter appears;
+- nothing about Red's capacity changes;
+- Red releases the support after the final crossing.
 
-The manuscript uses a relatively high number of short narrative beats, but the normalized version retains multi-sentence narration as a regular mode and reserves many short beats for dialogue rhythm, field pressure, realization, or Red Jackal's deadpan cadence. It does not cross into the earlier prohibited sentence-per-line style.
+This is selective expression inside a competent plan, not a Stage ceiling.
 
-# Story
+**Resolution:** PASS.
 
-| Check | Result |
-|---|---|
-| CH-009 ecology and CH-010 records converge naturally | PASS |
-| Broken North becomes the justified physical target | PASS |
-| Kellan has an independent reason to join | PASS |
-| Current closure is real and plausibly safety-related | PASS |
-| Red Jackal knowingly trespasses | PASS |
-| Trespass remains unauthorized | PASS |
-| Maelis and Tavian object independently | PASS |
-| Supporting characters continue for independent reasons | PASS |
-| Road abandonment is physically established | PASS |
-| Recent use/servicing is established before the lure | PASS |
-| Predator pressure follows the abnormal ecology | PASS |
-| Group competencies remain complementary | PASS |
-| First march-lure discovery is earned | PASS |
-| Chapter ends before CH-012 analysis begins | PASS |
+### Trespass / Evidence Legitimacy — RESOLVED
 
-# Red Jackal Voice
+Broken North's closure is genuinely plausible:
+- unstable road;
+- washout/collapse danger;
+- elevated monster activity.
 
-| Check | Result |
-|---|---|
-| First person throughout | PASS |
-| Dry/deadpan baseline preserved | PASS |
-| Immediate experience remains primary | PASS |
-| Humor comes from practical annoyance and contradiction | PASS |
-| Reader-facing performance remains restrained | PASS |
-| Humor drops naturally once evidence becomes physical | PASS |
-| Trespass motive is personal/anti-control rather than heroic | PASS |
-| Red Jackal does not claim legal or moral authority | PASS |
-| No conventional-hero conversion | PASS |
+Red knowingly crosses anyway.
 
-Important anti-villain execution:
+The manuscript does not retroactively legalize the entry because useful evidence is later found.
 
-Red Jackal explicitly accepts that the closure may be legitimate and still chooses to cross it because he refuses to let the institution controlling access decide whether the evidence can be inspected.
+Maelis explicitly records the entry as unauthorized.
 
-He does not pretend the method is lawful.
+**Resolution:** PASS.
 
-# POV / Prose
+### Paragraph Cadence — RESOLVED
 
-| Check | Result |
-|---|---|
-| No invisible third-person narrator | PASS |
-| Personality-filtered description | PASS |
-| Dialogue distinct | PASS |
-| Natural multi-sentence prose remains present | PASS |
-| Short beats serve emphasis, tension, or deadpan rhythm | PASS |
-| No detached lore-dump narration | PASS |
-| Action geography remains understandable | PASS |
+Current saved manuscript:
+- 301 total prose/dialogue paragraphs;
+- 142 non-dialogue narrative paragraphs;
+- 24 single-sentence non-dialogue paragraphs (~16.9%);
+- standalone dialogue remains separated for speaker clarity.
 
-Final cadence check:
-- 251 total prose/dialogue paragraphs;
-- 100 narrative paragraphs;
-- 43 narrative paragraphs contain two or more sentences;
-- 57 narrative paragraphs are single-sentence/fragments used primarily for dialogue rhythm, emphasis, movement, field tension, or deadpan effect;
-- 151 dialogue-led paragraphs.
+Multi-sentence narration is the strong default.
 
-# Scene Realization
+**Resolution:** PASS.
+
+# Gate 9 Review
+
+| Check | Result | Evidence |
+|---|---|---|
+| Close first-person POV | PASS | Red narrates as I/me/my; no third-person Red action narration |
+| Soul-Drift compatibility | PASS | no restored Earth biography or old traffic-death residue |
+| Chosen Red Jackal persona preserved | PASS | anti-control/self-authored identity remains stable |
+| Movie-like English | PASS | immediate scene/action/dialogue rhythm |
+| Reader-talk restrained | PASS | one direct audience aside |
+| Audience address freezes time | PASS | explicit Fourth-Wall Pause and exact resumption |
+| Pause not tactically abused | PASS | commentary only |
+| CH-009 ecological evidence carried forward | PASS | north/northeast multi-age drift |
+| CH-010 documentary evidence carried forward | PASS | outer-loss/main-road-safety inverse pattern |
+| Correlation remains non-causal | PASS | no authorship/mechanism inferred at opening |
+| Tavian independent role | PASS | Warden/ecology investigation points north independently |
+| Maelis independent role | PASS | physical verification needed for Ledger audit |
+| Kellan independent role | PASS | outer-route/community/infrastructure stake |
+| Red does not become universal expert | PASS | relies on all three specialists |
+| Wayfarer Tongue Token present | PASS | spoken communication remains supported |
+| Red remains illiterate | PASS | closure text must be read aloud |
+| Broken North closure current | PASS | fresh posts, chain, covered notice |
+| Closure safety basis plausible | PASS | unstable road/collapse/monster danger visible |
+| Red knowingly trespasses | PASS | crosses after notice is translated |
+| Red does not claim legality | PASS | explicitly concedes no legal/procedural argument |
+| Maelis objects independently | PASS | evidence/procedure concern |
+| Tavian objects independently | PASS | safety/operational concern |
+| Kellan follows independently | PASS | outer-community route stake |
+| Maelis records unauthorized entry | PASS | method remains evidence liability |
+| Abandoned infrastructure established | PASS | old road, drainage, retaining walls, watch structure |
+| Recent use established before lure | PASS | moved stone, boot sign, cut branch, abrasion, replaced pin, wax |
+| Kellan owns infrastructure judgment | PASS | ages collapse, moved marker, structural crossing |
+| Tavian owns ecology/tactics | PASS | track direction, predator positioning, crossing order |
+| Maelis owns evidence handling | PASS | documents site before touching |
+| Compact predator pressure | PASS | limited displaced ridge-hounds |
+| Predator pressure tied to ecology | PASS | animals are displaced in same abnormal corridor |
+| No major later-layer set piece | PASS | short terrain-pressure encounter only |
+| One utility manifestation occurs | PASS | temporary structural brace |
+| One use not a capability maximum | PASS | Red considers replacing road/bridge/terrain |
+| No stamina/resource cost | PASS | no strain/depletion model |
+| No Stage/progression framing | PASS | no Stage I/II, mastery, unlock, level language |
+| Brace follows Kellan geometry | PASS | exact placement defined by structural expert |
+| Brace supports Tavian plan | PASS | crossing order/timing remains Tavian's |
+| Brace remains stable | PASS | holds all four crossings |
+| Brace released by choice | PASS | removed after its role ends |
+| Manifestation does not defeat predators | PASS | hounds remain separate tactical pressure |
+| No new Play Logic rule | PASS | F-004 unchanged |
+| Earned trust limited/practical | PASS | Tavian gives one concise acknowledgment |
+| Kellan remains anti-hype anchor | PASS | calls construct ugly but useful |
+| Maelis records rather than admires | PASS | observation preserved |
+| No new regeneration clue | PASS | no meaningful injury/healing analysis |
+| F-003 unchanged | PASS | PLANTED — CH-007 |
+| F-004 unchanged | PASS | PLANTED — CH-005 |
+| No new F-ID | PASS | none |
+| M-007 inactive | PASS | no Fate/prophecy/destiny/causal-wake material |
+| Lure absent before final scene | PASS | first "march-lure" occurs at ending |
+| Concealed service pocket established | PASS | old maintenance recess with recent disturbance |
+| Device not old infrastructure | PASS | Kellan confirms |
+| Device manufactured | PASS | metal bands, ceramic chamber, reservoir, etched fittings |
+| Recent servicing present | PASS | fresh tool marks and new sealing wax |
+| General diversion purpose only | PASS | short-term animal diversion category |
+| Legal status deferred | PASS | not determined |
+| Active strength deferred | PASS | not determined |
+| Radius/orientation deferred | PASS | not determined |
+| Network inference deferred | PASS | absent |
+| Ownership/authorship deferred | PASS | no Hesk/Guild attribution |
+| Entire migration cause not proven | PASS | manuscript explicitly preserves uncertainty |
+| CH-013 deliberate-sacrifice truth protected | PASS | no victim-routing conclusion |
+| CH-012 does not begin | PASS | no detailed lure examination/removal/effect mapping |
+| Final reveal preserved | PASS | chapter ends on "A march-lure." |
+
+# Fourth-Wall Pause Audit
+
+## Pause 1 — The Closure
+
+After Red knowingly crosses Broken North's active closure and Maelis explains the legal/evidentiary problem, Red addresses the audience.
+
+Frozen:
+- chain link still turning;
+- falling leaf;
+- Tavian at the closure.
+
+Red comments only.
+
+Time resumes at the same causal instant.
+
+**PASS.**
+
+# Broken North / Trespass Audit
+
+**PASS.**
+
+The chapter preserves the intended anti-villain method:
+
+**personally important truth + distrust of controlled access + knowingly unauthorized entry.**
+
+Red:
+- accepts that the closure may be legitimate;
+- does not pretend it is fraudulent;
+- does not claim authority;
+- crosses anyway because he refuses to let the institution controlling access decide whether the converging evidence can be inspected.
+
+The others do not become followers:
+- Tavian proceeds for the ecological investigation and safety concern;
+- Kellan proceeds for the outer communities/route;
+- Maelis proceeds to document and preserve the evidence chain while explicitly recording the unauthorized entry.
+
+# Supporting-Character Competence Review
+
+## Tavian Rook
+**PASS.**
+
+Tavian owns:
+- ecological interpretation;
+- displaced-predator identification;
+- formation;
+- crossing order;
+- tactical timing.
+
+He retains early R3 Dangerous Wildcard caution toward Red.
+
+His increased trust is limited to one demonstrated behavior:
+Red can wait for positioning and fit his anomaly into a competent field plan.
+
+## Maelis Orra
+**PASS.**
+
+Maelis owns:
+- evidence discipline;
+- documentation;
+- attribution boundaries;
+- physical-site recording;
+- manufactured/recent-service observations.
+
+She does not infer authorship.
+
+## Kellan Dorr
+**PASS.**
+
+Kellan owns:
+- old-road infrastructure knowledge;
+- structural age;
+- moved/serviced hardware recognition;
+- crossing geometry;
+- identification that the hidden installed object does not belong to the old watch structure.
+
+He remains unimpressed by Red's persona while acknowledging practical usefulness.
+
+# Play Logic / Final Story-Engine Audit
+
+**PASS.**
+
+The manifestation is:
+- one brace;
+- simple;
+- task-aligned;
+- stable for the crossing;
+- released after the task.
+
+Red explicitly considers much larger solutions but chooses the exact support Kellan requested.
+
+Therefore the chapter does not infer:
+- finite power;
+- limited use count;
+- Stage progression;
+- exhaustion-based precision;
+- magical stamina;
+- cooldown.
+
+# March-Lure Discovery Audit
+
+CH-011 correctly owns the first physical march-lure discovery.
+
+Discovery order:
+1. recent activity inside the abandoned road is established;
+2. Kellan identifies the recently disturbed maintenance recess;
+3. Maelis records before disturbance;
+4. installed manufactured equipment is exposed;
+5. Kellan confirms it is not original road hardware;
+6. Maelis identifies magical/alchemical manufacture and recent servicing;
+7. Tavian recognizes the general animal-diversion category;
+8. the device is named a **march-lure**.
+
+Allowed knowledge:
+- march-lures are animal-diversion tools;
+- this one is installed at Broken North;
+- this one was serviced recently.
+
+Still unknown:
+- legal status;
+- active strength;
+- exact radius;
+- exact direction/orientation;
+- duration of operation;
+- number of other lures;
+- network structure;
+- installer;
+- owner;
+- Hesk/Guild authorization;
+- whether it explains all migration drift;
+- deliberate-sacrifice intent.
+
+**PASS.**
+
+# Knowledge Boundary
+
+By the end of CH-011, Red may know:
+- ecology and records independently point to Broken North;
+- Broken North is genuinely unsafe and currently closed;
+- he entered without authorization;
+- recent maintenance exists inside the abandoned corridor;
+- animal movement around the site remains abnormal;
+- hidden installed animal-diversion equipment exists;
+- it is a march-lure;
+- the device was serviced recently.
+
+Red still does not know:
+- whether this lure is illegal;
+- how strong it is;
+- how it is oriented;
+- how long it has operated;
+- whether more lures exist;
+- who installed/owns it;
+- whether Hesk/Guild authorized it;
+- whether it caused the full migration pattern;
+- whether outer communities were intentionally selected for sacrifice;
+- protected cosmology.
+
+**PASS.**
+
+# Scene Compliance
 
 ## SC-011-01 — Two Lines Point North
-
-**PASS.**
-
-The manuscript:
-- opens with Tavian's field map and Maelis's record comparison;
-- keeps ecology and documentary evidence independently sourced;
-- lets Kellan identify Broken North as the practical route overlap;
-- prevents Red Jackal from becoming the expert in tracking, records, or road infrastructure;
-- begins Maelis/Tavian mutual respect through convergent evidence.
+**PASS.** Ecology, records, and infrastructure independently converge on Broken North.
 
 ## SC-011-02 — Closed Road
-
-**PASS.**
-
-The closure:
-- is current;
-- is Guild-authorized;
-- cites unstable roadworks, collapse risk, and monster activity;
-- is visibly reasonable because the road beyond is genuinely unstable.
-
-Red Jackal:
-- cannot read the notice;
-- has it read aloud;
-- knowingly crosses;
-- admits the choice is not a legal or procedural argument.
-
-Maelis explicitly records that entry is unauthorized.
-
-The useful investigation does not retroactively legalize the trespass.
+**PASS.** A legitimate current closure creates a knowingly unlawful anti-villain entry choice.
 
 ## SC-011-03 — Abandoned, Recently Used
-
-**PASS.**
-
-The old route is clearly abandoned through:
-- roots;
-- broken road surface;
-- collapsed retaining structures;
-- eroded drainage;
-- ruined watch infrastructure.
-
-Recent use is separately established through:
-- moved stone;
-- moss-line mismatch;
-- boot marks;
-- cut vegetation;
-- fresh abrasion;
-- replaced metal hardware.
-
-Kellan owns old-versus-recent infrastructure judgment.
-
-Tavian confirms continuing abnormal animal movement.
-
-Maelis records observation without assigning ownership.
+**PASS.** Old deterioration is separated from recent human servicing without premature attribution.
 
 ## SC-011-04 — Useful Under Pressure
-
-**PASS.**
-
-The physical-pressure sequence remains compact.
-
-Tavian:
-- identifies the predators;
-- controls formation;
-- prevents Red Jackal from charging ahead;
-- chooses crossing order.
-
-Kellan:
-- identifies the failing structure;
-- determines where support is needed;
-- validates whether the temporary brace can hold.
-
-Maelis:
-- uses her crossbow defensively;
-- remains an evidence specialist rather than displacing Tavian as tactical lead.
-
-Red Jackal:
-- waits for specialist positioning;
-- performs exactly one useful manifestation;
-- does not attack the predators with it;
-- does not retry.
-
-The earned-aura beat is properly restrained.
-
-Tavian's:
-
-**“You waited for the position.”**
-
-followed by:
-
-**“It was.”**
-
-shows increased practical trust without admiration inflation.
-
-Kellan immediately remains the anti-hype anchor by calling the construct ugly but useful.
+**PASS.** Tavian/Kellan own tactics/structure; Red supplies one selective support without creating a power ceiling.
 
 ## SC-011-05 — The Stake
+**PASS.** First march-lure is discovered and named; detailed analysis remains deferred.
 
-**PASS.**
+# F-ID State
 
-The hidden maintenance recess is reached only after:
-- evidence convergence;
-- trespass;
-- recent-use trail;
-- ecological pressure;
-- coordinated movement.
+No F-ID changes in CH-011.
 
-Kellan establishes the recess and moved stones are infrastructure-related.
-
-Maelis prevents uncontrolled handling and recognizes the manufactured magical/alchemical features.
-
-Tavian recognizes the general animal-diversion design.
-
-The chapter names the object only on the final line:
-
-**“A march-lure.”**
-
-No CH-012 examination follows.
-
-# Supporting Character Independence
-
-## Maelis Orra — PASS
-
-Maelis:
-- joins because physical verification is required for her audit;
-- objects to unauthorized access;
-- records the trespass;
-- preserves attribution discipline;
-- does not infer ownership from suspicion;
-- continues because evidence preservation matters.
-
-## Tavian Rook — PASS
-
-Tavian:
-- joins because the ecology independently points toward Broken North;
-- objects on safety grounds;
-- follows because Red Jackal going alone would create a preventable rescue problem and the route is already part of his investigation;
-- remains tactical lead;
-- gives limited trust only when Red Jackal follows the plan.
-
-## Kellan Dorr — PASS
-
-Kellan:
-- joins because Broken North affects outer-community routes;
-- owns infrastructure judgment;
-- distinguishes old collapse from recent disturbance;
-- remains skeptical and practical;
-- does not become Red Jackal's admirer.
-
-# Anti-Villain Expression
-
-**PASS.**
-
-CH-011 realizes the locked pattern:
-
-**personally important truth + distrust of controlled access + unlawful method + supporting-character disagreement + real procedural risk.**
-
-Key safeguards preserved:
-- Red Jackal does not claim the closure is fake;
-- he does not claim trespass is lawful;
-- he does not frame himself as a civic hero;
-- useful evidence does not excuse the method;
-- Maelis records the unauthorized entry.
-
-# Power
-
-**PASS.**
-
-CH-011 contains exactly one successful Stage I utility manifestation.
-
-Function:
-**temporary structural brace/support.**
-
-The manifestation:
-- is simple;
-- appears imperfectly;
-- is short-lived;
-- costs concentration/stamina;
-- supports the group's plan;
-- does not defeat the predators;
-- fails after completing its single purpose;
-- is not repeated.
-
-No new Play Logic rule is revealed.
-
-F-004 remains **PLANTED — CH-005**.
-
-# Regeneration / M-005
-
-**PASS.**
-
-CH-011 contains:
-- no meaningful injury requiring regeneration;
-- no healing observation;
-- no new M-005 clue.
-
-F-003 remains **PLANTED — CH-007**.
-
-# Reputation / Aura
-
-**PASS.**
-
-The chapter earns one controlled aura beat without changing Red Jackal's reputation ceiling.
-
-Tavian's trust increases specifically because Red Jackal:
-- waits for positioning;
-- uses a limited effect where requested;
-- does not override specialist judgment.
-
-Maelis records the effect rather than praising it.
-
-Kellan acknowledges usefulness while undercutting spectacle.
-
-Tavian remains at early **R3 — Dangerous Wildcard**.
-
-# Language / Literacy
-
-**PASS.**
-
-- Red Jackal remains unable to read Veyran.
-- Maelis reads the closure notice aloud.
-- A charged Wayfarer Tongue Token supports field conversation.
-- The token does not translate writing.
-- No literacy gain occurs.
-
-# Location / Worldbuilding
-
-**PASS.**
-
-Broken North is distinguished from the Main Caravan Road through:
-- neglected road surface;
-- forest encroachment;
-- collapsed works;
-- ruined watch infrastructure;
-- old service recesses.
-
-No old stonework is identified as Eidrathi.
-
-No protected ancient-world claim is introduced.
-
-# Mystery / Knowledge Boundary
-
-**PASS.**
-
-CH-011 canonically establishes only:
-
-- ecological and documentary evidence independently point to Broken North;
-- the route is officially closed;
-- the route is genuinely abandoned/dangerous overall;
-- someone has recently used/serviced part of the abandoned zone;
-- animal movement remains abnormal near the deeper site;
-- manufactured animal-diversion equipment is installed there;
-- the equipment is identifiable as a march-lure;
-- the device shows recent servicing.
-
-The manuscript does **not** establish:
-
-- illegal lure strength;
-- exact operating strength;
-- exact radius;
-- effect orientation;
-- duration of long-term use;
-- number of other lures;
-- network existence;
-- ownership;
-- Guild authorship;
-- Hesk authorship;
-- deliberate sacrifice policy;
-- the CH-013 midpoint truth;
-- Fate;
-- Great Design;
-- Eidrathi origin.
-
-# March-Lure Reveal Timing
-
-**PASS.**
-
-The term **march-lure** appears exactly once in the manuscript.
-
-It appears on the final line.
-
-The chapter performs no detailed examination afterward.
-
-CH-012 retains ownership of:
-- isolated-versus-network analysis;
-- legality/strength questions;
-- effect mapping;
-- route overlay;
-- Guild property-reclamation pressure.
-
-# CH-013 Midpoint Protection
-
-**PASS.**
-
-CH-011 does not establish:
-
-**someone in Greywake has been deliberately deciding where the monster migration kills people.**
-
-The evidence now proves artificial equipment exists in the suspicious corridor.
-
-It does not yet prove who placed it, why, or how the danger is directed.
-
-# F-ID / Mystery State
-
-No new F-ID is planted in CH-011.
-
-After CH-011:
-- F-001 — PLANTED — CH-002
-- F-002 — PLANTED — CH-003
-- F-003 — PLANTED — CH-007
-- F-004 — PLANTED — CH-005
-
-M-005 receives no new clue.
+- **F-001 — PLANTED — CH-002**
+- **F-002 — PLANTED — CH-003**
+- **F-003 — PLANTED — CH-007**
+- **F-004 — PLANTED — CH-005**
 
 M-007 remains inactive.
 
-# Ending
+# Canonization Decision
 
-**PASS.**
+# GATE 9 — PASS
 
-The ending is structurally precise.
+**CH-011 — Broken North** is current canon under the Soul-Drift / close-first-person / final story-engine standard.
 
-The chapter closes immediately after the device category is identified:
+**Official next production step:**
 
-**“A march-lure.”**
+**CH-012 — Someone Put This Here → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**
 
-This creates a clean transition into CH-012 without stealing CH-012's analytical work.
-
-# Gate 9 Decision
-
-# PASS
-
-CH-011 is approved for canonization.
-
-After canonization:
-- CH-011 becomes CANON;
-- no F-ID changes state;
-- first physical march-lure discovery becomes canon;
-- Red Jackal's unauthorized Broken North entry becomes canon;
-- Tavian gains limited evidence-based trust in Red Jackal's ability to follow a competent plan under pressure;
-- Maelis retains the trespass/evidence concern;
-- Kellan has direct physical evidence that the outer-route problem is more than poor maintenance or bad luck;
-- no lure-network conclusion exists yet;
-- no Hesk/Guild authorship is proven yet;
-- CH-012 — **Someone Put This Here** becomes the next authorized Detailed Scene Architecture step;
-- CH-013 remains the locked midpoint truth owner.
-
-Do not draft CH-012 manuscript before its Scene Architecture and Gate 8 Pre-Manuscript Scene QA pass.
-
-Do not establish the full lure network or deliberate-sacrifice truth during CH-012 Scene Architecture.
-
-Do not select Volume 2.
+CH-028 remains paused until CH-001 through CH-027 complete this synchronization cycle.

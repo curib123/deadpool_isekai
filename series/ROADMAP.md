@@ -19,9 +19,9 @@ Mystery Foundation: **PASS**
 Destination Inventory: **PASS**  
 Volume 1 Architecture: **PASS**  
 Chapter Roadmap: **PASS — 26 chapters**  
-Volume 1 Canon Revalidation: **STALE AFTER SOUL-DRIFT RETCON — NEW GATE 10 REQUIRED AFTER CH-001→CH-026 REWRITE**  
+Volume 1 Canon Revalidation: **PASS — CURRENT SOUL-DRIFT CANON REVALIDATED / GATE 10**
 Publish Version QA Standard: **ACTIVE — GATE 11**  
-Volume 1 Publish Version QA: **STALE AFTER SOUL-DRIFT RETCON — NEW GATE 11 REQUIRED**  
+Volume 1 Publish Version QA: **PASS — CURRENT ARC 1 RELEASE / GATE 11 / 26 OF 26 PUBLISH-READY**
 Volume 1 Pacing Revision v2: **COMPLETE — MERGED WITH OVERPOWERED RETCON**  
 Red Jackal Overpowered Retcon: **ACTIVE — NO POWER PROGRESSION / UNBOUNDED PLAY LOGIC / REVELATION MODEL**  
 Volume 1 Power-Retcon Manuscript Audit: **COMPLETE — 26/26 AUDITED / 13 REVISED + GATE 9 PASS / 13 KEEP**  
@@ -95,8 +95,8 @@ Aura Evolution: **MANUFACTURED → EARNED → REPUTATION-SUPPORTED**
 
 The project publication state is now:
 
-1. **Volume 1 / Greywake Arc — EVENT/STRUCTURE CANON PRESERVED / CURRENT PROSE STALE UNDER SOUL-DRIFT RETCON**
-2. **Previous Volume 1 Gate 10/Gate 11 — HISTORICAL / MUST BE RERUN AFTER NEW MANUSCRIPTS**
+1. **Volume 1 / Greywake Arc — CURRENT CANON THROUGH CH-026 / GATE 9 AND GATE 11 PASS**
+2. **Volume 1 Gate 10/Gate 11 — CURRENT REFRESHED RELEASE RECORD AFTER SOUL-DRIFT RETCON**
 
 The 13 changed reader-facing copies have been regenerated from current canon and individually revalidated. The aggregate refreshed release set now passes Gate 11. Volume 2 is locked as DEST-002 — Merrowgate / Merrowgate Arc through Gate 7. CH-027 through CH-050 are roadmap-locked. CH-027 has passed Gate 9 and is CANON at 2,108 words. CH-028 Detailed Scene Architecture / Gate 8 is the next authorized production step.
 
@@ -114,7 +114,7 @@ This table contains only volumes whose destination has passed the required selec
 
 | Volume | Destination ID | Arc Name | Local Conflict | Main Antagonist | Major Mystery Contribution | Status |
 |---|---|---|---|---|---|---|
-| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | STRUCTURE/EVENT SEQUENCE LOCKED — CH-001→026 PROSE REWRITE ACTIVE |
+| 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CURRENT CANON — CH-001→026 / GATE 9 PASS / GATE 11 PASS |
 | 2 | DEST-002 | Merrowgate Arc | Engineered port instability used to force private harbor-security consolidation | Cassian Venn | M-002 cross-jurisdictional reinforcement; bounded M-011; F-010 PLANNED FOR CH-038 — NOT YET PLANTED | CH-027 PROSE STALE — CH-028 PAUSED |
 
 ## Lock
@@ -171,7 +171,7 @@ Foundation changes:
 
 All older Stage-I ceiling language is legacy until revised.
 
-**Current production priority:** rewrite CH-001→CH-027 under the locked Soul-Drift close-first-person / Fourth-Wall Pause / stable-Red standard, then Gate 9 revalidate sequentially before refreshing Volume 1 Gate 10/Gate 11 and resuming CH-028.
+**Current production priority:** rewrite/revalidate CH-027 under the locked Soul-Drift close-first-person / Fourth-Wall Pause / stable-Red standard, then resume CH-028.
 
 
 ## Volume 1 Power-Retcon Manuscript Audit Result
@@ -208,7 +208,7 @@ Result:
 - 26 / 26 chapters CANON;
 - 13 / 13 retcon-targeted chapters revised and Gate 9 revalidated;
 - 13 / 13 compatible chapters retained;
-- current canon total: **75,157 words**;
+- current canon total: **63,671 words**;
 - Greywake Arc outcome, F-ID placements, M-007 ceiling, aftermath, and departure preserved;
 - CH-023 is now the main hidden-power physical reveal;
 - CH-024 is the institutional/human climax under the rule: **power is not the same thing as being right**.

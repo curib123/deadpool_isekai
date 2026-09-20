@@ -554,8 +554,18 @@ Old Gate 9 approvals remain historical for event continuity but are **not curren
 
 **Production order:** CH-001 → CH-027 sequential rewrite + Gate 9.
 
-**Current synchronization state:** CH-001 through CH-011 COMPLETE — current Soul-Drift / close-first-person / final story-engine manuscripts have passed Gate 9.
+**Current synchronization state:** CH-001 through CH-026 COMPLETE — current Soul-Drift / close-first-person / final story-engine manuscripts have passed Gate 9.
 
-**Official next step:** CH-012 — Someone Put This Here → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.
+**Official next step:** CH-027 — Salt in the Air → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.
 
 **CH-028 remains paused until completion.**
+
+
+# Current Soul-Drift Synchronization Authority — 2026-09-20
+
+This section supersedes any historical pre-reset production-status statements elsewhere in this file.
+
+- **CH-001→CH-026:** CURRENT CANON — Soul-Drift / close first-person / final story engine — Gate 9 PASS.
+- **CH-027 — Salt in the Air:** event/scene sequence preserved, prose STALE — Soul-Drift rewrite + Gate 9 revalidation REQUIRED.
+- **CH-028 — The Man on the Manifest:** PAUSED until CH-027 completes the synchronization cycle.
+- **Official next step:** **CH-027 — Salt in the Air → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**

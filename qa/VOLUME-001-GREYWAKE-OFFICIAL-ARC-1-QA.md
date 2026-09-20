@@ -7,8 +7,8 @@
 **Audit date:** 2026-09-20  
 **Source checklist:** User-provided revised Official Arc 1 QA Checklist, 40 sections  
 **Canon authority:** Current close first-person Greywake manuscripts; CH-027 / Volume 2 excluded  
-**Status:** NARRATIVE AUDIT COMPLETE — PUBLICATION RECORD SYNCHRONIZATION REQUIRED  
-**Final gate:** Pending Task 2 / Task 4 / Task 5 synchronization
+**Status:** PASS — 40-SECTION CHECKLIST COMPLETE AFTER REVALIDATION
+**Final gate:** 10/10 ✅ — READY FOR FINAL QA / CURRENT GATE 11 PASS
 
 ## Status contract
 
@@ -29,7 +29,7 @@ Every `WEAK` or `MISSING` result has an immediately adjacent `FIX:` line. The re
 - CH-027 is excluded because it remains a separate first-person synchronization task.
 - No protected writer-truth or forbidden progression terms were found in the Arc 1 manuscript scan for `Soul Drift`, `Great Design`, `Savael`, `Exterior Needle`, `Eidrathi`, staged progression, or finite manifestation resources.
 - The existing Greywake battle audit contains nine distinct action entries and a continuous CH-022 → CH-023 → CH-024 climax.
-- The only starting weakness found in this checklist pass is stale aggregate publication-status language and missing current copy metadata for CH-017 through CH-026. This is documentation/release QA, not a reader-facing prose defect.
+- The starting weakness found in this checklist pass—stale aggregate publication-status language and missing current copy metadata for CH-017 through CH-026—was repaired and re-QA'd without changing reader-facing prose.
 
 ## 1. Opening Hook — MANDATORY
 
@@ -338,8 +338,9 @@ The arc naturally includes 1v1, uneven team, evidence defense, rescue/evacuation
 
 ## 37. Mandatory 10-Point Gate
 
-**Status: WEAK**
-**FIX:** Problem: the production gate's reader-facing evidence is narratively complete but its aggregate/current publication records are stale or under-metadata'd → Cause: the first-person synchronization happened after historical POV-retcon records were written, and CH-017–CH-026 publication records were not refreshed with current Git object IDs → Best Chapter: N/A — volume publication records → Smallest Effective Fix: synchronize aggregate Gate 10/Gate 11 authority notices, refresh CH-017–CH-026 source/copy metadata, and rerun body-equivalence/Gate 11 → Continuity Check: compare all CH-001–CH-026 publication bodies and ensure no prose/meaning changes → Re-QA: Task 5 aggregate Gate 11 and this 10-point gate.
+**Status: PASS**
+
+**Repair result:** The aggregate Gate 10/Gate 11 authority notices now identify the current first-person canon; CH-017–CH-026 have current source and publication-copy Git object IDs; 26/26 publication bodies remain canon-equivalent; individual and aggregate Gate 11 checks pass.
 
 | Gate | Result | Evidence |
 |---|---|---|
@@ -354,7 +355,7 @@ The arc naturally includes 1v1, uneven team, evidence defense, rescue/evacuation
 | 9. Resolution | ✅ | CH-024 → CH-026 resolves the Greywake promise and preserves consequences |
 | 10. Continuation | ✅ | CH-026 departure, reputation, anomaly, and unexplored world |
 
-Narrative score: **10/10**. Release-record state is not yet final because the aggregate Gate 10/Gate 11 records contain stale historical/current wording and CH-017–CH-026 individual publication records lack current copy revision metadata.
+Narrative and release score: **10/10**. Current Gate 10 and Gate 11 records are synchronized.
 
 ## 38. Repair Rule
 
@@ -378,10 +379,10 @@ Narrative score: **10/10**. Release-record state is not yet final because the ag
 
 - The checklist identifies an actual release-record weakness without forcing the story to add material it does not need.
 - Mandatory narrative requirements pass; optional battle forms are intentionally not forced; documentation/release defects are routed to the smallest effective repair.
-- Final publication-ready status remains gated on the synchronization and re-QA tasks recorded in Section 37.
+- Final publication-ready status is supported by the completed synchronization and 26/26 Gate 11 re-QA.
 
 ## Initial decision
 
 **NARRATIVE CHECKLIST: PASS**  
-**DOCUMENTATION / RELEASE QA: repair required — repair chain in Section 37**  
-**Arc 1 may not be called final publication-ready until Tasks 2, 4, and 5 are complete.**
+**DOCUMENTATION / RELEASE QA: PASS**
+**Arc 1 official checklist: PASS — 10/10 gate; current Gate 10 PASS; current Gate 11 PASS for CH-001→CH-026.**

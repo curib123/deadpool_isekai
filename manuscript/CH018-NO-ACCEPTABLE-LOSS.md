@@ -1,874 +1,911 @@
 # Chapter 18 — No Acceptable Loss
 
-**Status:** STUDIO CINEMATIC RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
-**Word Count:** 3,219  
+**Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
+**Revision Date:** 2026-09-20
+**Word Count:** 2322
 **Chapter QA:** `qa/CH-018-GATE-9-CHAPTER-QA.md`
 
 The emergency route board was crowded with markers.
 
-Tavian stood over it with both hands on the table. Brynn moved another militia token. Maelis added a second stack of copied records.
+Tavian stood over it with both hands on the table.
+
+Brynn moved a militia token.
+
+Maelis added another stack of copied records.
 
 Hesk watched from the opposite side.
 
-Red stayed where Tavian had told him to stay.
+I stayed where Tavian had told me to stand.
 
-That was new.
+Not obedience.
 
-A militia runner finished describing movement near the lower approach. Tavian asked three questions, changed one marker, and sent him back out. Brynn looked at the map.
+Positioning.
 
-“We cannot keep pulling people inward.”
+There was a difference.
 
-“No,” Tavian said.
+A runner finished describing movement near the lower approach. Tavian asked three questions, changed one marker, and sent him back out.
+
+Brynn looked at the map.
+
+"We cannot keep pulling people inward."
+
+"No," Tavian said.
 
 Hesk folded his arms.
 
-“Then restore the outer pressure.”
+"Then restore the outer pressure."
 
-Maelis did not look up from the record in front of her.
+Maelis did not look up.
 
-“We already discussed that.”
+"We discussed that."
 
-“We discussed it before another route report came in.”
+"We discussed it before another route report came in."
 
-“The answer did not become safer because the situation became worse.”
+"The answer did not become safer because the situation became worse."
 
 Hesk looked at Brynn.
 
-“The strongest remaining lures can keep the main road and lower approach clear.”
+"The strongest remaining lures can keep the main road and lower approach clear."
 
-Kellan’s bridge was gone. Greywake’s lower road now had movement on it. People were already being shifted away from places they had used yesterday without thinking.
+Kellan's bridge was gone.
 
-Hesk had a point. That did not make it a good one. Brynn tapped the outer homestead markers.
+Greywake's lower road already had movement.
 
-“If we restore the old pattern, where does the pressure go?”
+People were being told to leave places they had trusted yesterday.
 
-Hesk answered without hesitation.
+Hesk had a point.
 
-“Away from the core.”
+That did not make it a good one.
 
-“That was not my question.”
+Brynn tapped the outer markers.
 
-He looked at the map.
+"If we restore the old pattern, where does the pressure go?"
 
-“Into less critical approaches.”
+"Away from the core."
 
-The room changed slightly. Nobody needed Kellan present to hear what that meant. Maelis set down her paper.
+"That was not my question."
 
-“Occupied approaches.”
+Hesk looked at the map.
 
-“Some.”
+"Into less critical approaches."
 
-“Outer homesteads.”
+The room changed slightly.
 
-“Some.”
+Maelis set down her paper.
 
-Brynn’s voice stayed flat.
+"Occupied approaches."
 
-“No.”
+"Some."
 
-Hesk’s jaw tightened.
+"Outer homesteads."
 
-“You are choosing the settlement over the margin either way. The only question is whether you admit it before the walls are under pressure.”
+"Some."
 
-“No,” Brynn said. “The question is whether the only plan we are capable of making is the same one that caused this.”
+Brynn's voice stayed flat.
+
+"No."
+
+Hesk's jaw tightened.
+
+"You are choosing the settlement over the margin either way. The only question is whether you admit it before the walls are under pressure."
+
+"No," Brynn said. "The question is whether the only plan we can make is the same one that caused this."
 
 Tavian pointed toward the outer sectors.
 
-“Restoring every known lure to the old pattern would also assume the current movement matches the old movement.”
+"Restoring every known lure to the old pattern also assumes current movement matches old movement."
 
-Hesk looked at him.
+"The network worked before Red removed a component."
 
-“The network worked before Red removed a component.”
+"It worked at redirecting pressure."
 
-“It worked at redirecting pressure.”
+"It kept the main road open."
 
-“It kept the main road open.”
-
-“It also changed the routes for years.”
+"It also reshaped movement for years."
 
 Hesk leaned forward.
 
-“And doing nothing?”
+"And doing nothing?"
 
 Tavian looked at the latest markers.
 
-“Also unacceptable.”
+"Also unacceptable."
 
-Three bad answers sat on the map.
+Three bad answers sat on the table.
 
 Pull everyone inward.
 
-Restore the old lure pattern.
+Restore Hesk's sacrificial pattern.
 
-Wait for perfect information they did not have time to get.
+Wait for perfect information until the migration made the choice for us.
 
-Red looked at the markers.
+I looked at the markers.
 
-For once, he did not suggest breaking anything. Tavian noticed. He looked at him once.
+For once, I did not suggest breaking something.
 
-Then back at the map.
+Tavian noticed.
 
-“We need somewhere for the pressure to go.”
+He did not comment.
+
+Good instincts.
+
+"We need somewhere for the pressure to go," he said.
 
 Brynn nodded.
 
-“Not through farms.”
+"Not through farms."
 
-“Not through Greywake.”
+"Not through Greywake."
 
-Hesk said, “There is no empty road large enough.” Tavian’s eyes moved across the older route lines.
+Hesk said, "There is no empty road large enough."
 
-“Then we find the least occupied one that can be made usable.”
+Tavian's eyes moved across older route lines.
 
-Maelis turned toward the record stacks.
+"Then we find the least occupied route we can make usable."
 
-“For that, we need current Guild information we can actually trust.”
+Maelis turned toward the records.
+
+"For that, we need current Guild information we can trust."
 
 Hesk gave her a hard look.
 
-“You have the route packets.”
+"You have the route packets."
 
-“We have packets.”
+"We have packets."
 
-“Those are the operational records.”
+"Those are operational records."
 
-“Some of them.”
+"Some of them."
 
-He did not answer. Maelis looked toward the militia clerk near the door.
+Maelis looked toward the militia clerk.
 
-“Bring Jessa Vale.”
+"Bring Jessa Vale."
 
-Hesk’s head turned.
+Hesk's head turned.
 
-“Why?”
+"Why?"
 
-“Because she knows which parts of your paperwork mean what.”
+"Because she knows which parts of your paperwork mean what."
 
-Hesk opened his mouth.
+Jessa arrived with two guards and the expression of someone whose day had not improved by being summoned again.
 
-Then closed it. Jessa arrived with two guards and no confidence that being summoned to another emergency table would improve her life. She paused when she saw Hesk.
+She paused when she saw Hesk.
 
-Then Maelis. Then him. Her shoulders tightened.
+Then Maelis.
 
-Maelis pointed to the empty chair beside the record stack.
+Then me.
 
-“You are not under accusation in this room.”
+Her shoulders tightened.
 
-Jessa looked at Hesk. Maelis added, “And you are not answering through him.” That helped only slightly.
+Maelis pointed to the empty chair.
 
-Jessa sat. Maelis opened the first route packet.
+"You are not under accusation."
 
-“We need current service information.”
+Jessa looked at Hesk.
 
-Jessa nodded.
+"And you are not answering through him."
 
-“What kind?”
+That helped slightly.
 
-“Known lure sites. Recent service. Crew assignment. Compound issue records. Which entries are current enough to matter.”
+She sat.
 
-Jessa looked at the papers.
+Maelis opened the first packet.
 
-“That is several logs.”
+"We need current service information. Known lure sites. Recent service. Crew assignment. Compound issue records. Which entries are current enough to matter."
 
-“I know.”
+"That is several logs."
 
-“Some are filed by sector. Some by crew. Some by supply type.”
+"I know."
 
-“I know.”
+"Some are filed by sector. Some by crew. Some by supply type."
+
+"I know."
 
 Jessa glanced at her.
 
-“You already looked?”
+"You already looked?"
 
-“Yes.”
+"Yes."
 
-“Then why am I here?”
+"Then why am I here?"
 
-Maelis slid the first sheet toward her.
+Maelis slid the sheet toward her.
 
-“Because you can do it faster.”
+"Because you can do it faster."
 
-Jessa stared at her for a second. Then started reading. That was probably the nicest thing Maelis had said to anyone all day.
+Jessa stared for a second.
 
-Jessa separated the records into three piles.
+Then started sorting.
 
-“Current.”
+Probably the nicest thing Maelis had said all day.
 
-“Old.”
+Three piles.
 
-“Uncertain.”
+"Current."
+
+"Old."
+
+"Uncertain."
 
 Tavian moved beside her.
 
-“What counts as current?”
+"What counts as current?"
 
-“For routine lure service, the last scheduled charge or inspection window.”
+"For routine lure service, the last scheduled charge or inspection window."
 
-“Not the actual state.”
+"Not actual field state."
 
-“No.”
+"No."
 
-“Good.”
+"Good."
 
-Jessa looked at him.
+Jessa looked confused.
 
-“Good?”
+"Good?"
 
-“Good that you said what the record proves instead of what we wish it proved.”
+"Good that you said what the record proves instead of what we wish it proved."
 
-Maelis’s mouth moved slightly. Not a smile. Close enough.
+Maelis's mouth almost moved.
 
 Jessa continued.
 
-“North service sector has a recent crew dispatch.”
+"North service sector has a recent crew dispatch."
 
 Tavian marked it.
 
-“East outer?”
+"East outer?"
 
-“Recent issue record. No matching return confirmation.”
+"Recent issue record. No return confirmation."
 
-“Meaning?”
+"Meaning?"
 
-“The compound was issued. I cannot prove it was used.”
+"Compound issued. I cannot prove it was used."
 
 Maelis nodded.
 
-“Recorded fact: compound issued. Current lure state: unknown.”
+"Recorded fact: compound issued. Current state: unknown."
 
-Jessa moved to another page.
+Another page.
 
-“South-east timber has a completed maintenance entry.”
+"South-east timber has completed maintenance."
 
-Hesk said, “That unit should still be active.” Maelis looked at him.
-
-“Should?”
-
-“The charge duration—”
-
-“Recorded fact or estimate?”
-
-Hesk’s expression tightened.
-
-“Estimate based on standard load.”
-
-Maelis wrote it in a separate column.
-
-Known site.
-
-Recent service.
-
-Unknown charge.
-
-Confirmed active.
-
-Field report pending.
-
-The board became slower.
-
-And more honest. Jessa pointed to two sector marks.
-
-“These entries use the same crew code.”
-
-Tavian looked at the map.
-
-“Same day?”
-
-“Two days apart.”
-
-“Travel time?”
-
-Jessa traced the road.
-
-“They could have done both if they used the service connector.”
-
-Hesk said, “They did.” Jessa looked at him.
-
-“Then there should be a wagon issue entry.”
-
-She searched the supply log. There was one. Tavian marked both sectors.
-
-Brynn leaned over the table.
-
-“So those two sites are likely part of the same operational sequence.”
-
-“Likely,” Maelis said.
-
-Hesk exhaled.
-
-“We are discussing a crisis, not auditing grammar.”
+Hesk said, "That unit should still be active."
 
 Maelis looked at him.
 
-“We are discussing a crisis caused partly by people treating likely as certain when it was convenient.”
+"Should?"
 
-No one answered.
+"Estimate based on standard load."
 
-Jessa kept working.
+She wrote it in a different column.
 
-Soon the table held something more useful than certainty:
+The board became slower.
 
-an incomplete map that admitted it was incomplete. Known lure sectors. Recent route sightings.
+More honest.
 
-Greywake-facing pressure. Blocked or damaged roads. Outer settlements.
+Jessa pointed to two marks.
 
-Current militia positions. Tavian stepped back.
+"Same crew code."
 
-“Now corridors.”
+Tavian looked at the map.
+
+"Same day?"
+
+"Two days apart."
+
+"Travel time?"
+
+"They could have done both using the service connector."
+
+Hesk said, "They did."
+
+Jessa searched.
+
+"Then there should be a wagon issue entry."
+
+There was.
+
+Tavian marked both sectors.
+
+Brynn leaned over the table.
+
+"Likely part of the same operational sequence."
+
+"Likely," Maelis said.
+
+Hesk exhaled.
+
+"We are discussing a crisis, not auditing grammar."
+
+Maelis looked at him.
+
+"We are discussing a crisis caused partly by people treating likely as certain when it was convenient."
+
+Nobody answered.
+
+Soon the table held something better than certainty.
+
+An incomplete map that admitted it was incomplete.
+
+Known lure sectors.
+
+Recent sightings.
+
+Greywake-facing pressure.
+
+Damaged roads.
+
+Outer settlements.
+
+Militia positions.
+
+Tavian stepped back.
+
+"Now corridors."
 
 Brynn moved three wooden route markers.
 
-“The western farm route is out.”
+"The western farm route is out."
 
-Jessa looked up.
+"Why?" Jessa asked.
 
-“Why?”
+"Too many civilians still using it."
 
-“Too many civilians still using it.”
+Tavian added, "Current prey movement crosses it."
 
-Tavian added, “And current prey movement crosses it.” Brynn removed it from consideration. The south connector went next.
+Gone.
 
-Too narrow. Too many sheds and livestock enclosures. One northern route depended on the seasonal-cut bridge.
+South connector.
 
-Nobody needed to explain why that was not useful anymore. Another old road ended in a slope break with no continuing route beyond it. Hesk watched the list shrink.
+Too narrow.
 
-“You are proving my point.”
+Too many sheds.
+
+One northern route depended on Kellan's seasonal-cut bridge.
+
+Nobody needed to explain why that was unavailable.
+
+Another old road ended at a slope break.
+
+Hesk watched the options disappear.
+
+"You are proving my point."
 
 Brynn did not look at him.
 
-“Which one?”
+"Which one?"
 
-“That there is no clean alternative.”
+"There is no clean alternative."
 
-“No one said clean.”
+"No one said clean."
 
-Tavian’s finger stopped on an older line north of the active routes. He recognized it before he spoke.
+Tavian's finger stopped on an older northern line.
+
+I recognized it.
 
 Broken North.
 
-Red saw the old road in his head.
+Old road.
 
-Broken drainage. Roots under stone. The washout. The hidden march-lure.
+Bad washout.
 
-Tavian traced the route.
+Ruined watch point.
 
-“Old connector here.”
+One hidden lure.
+
+Tavian traced it.
+
+"Old connector here."
 
 Jessa leaned closer.
 
-“That used to join three minor routes.”
+"Used to join three minor routes."
 
-Kellan had said the same thing. One toward old timber access. One toward smaller northern cuts.
+Kellan had said the same thing.
 
-One that had stopped being worth maintaining after repeated washouts. Brynn looked at the settlement markers.
+Brynn looked at the settlement markers.
 
-“Current habitation?”
+"Current habitation?"
 
-“Very little,” Jessa said.
+"Very little on the route itself. Active homesteads are farther off."
 
-“Confirmed?”
+Tavian looked at field markers.
 
-“On the route itself, yes. There are old work points and abandoned road structures. Active homesteads are farther off.”
+"Migration drift already crossed this corridor before we found the lure."
 
-Tavian looked at the field markers.
+Maelis opened an old sheet.
 
-“Migration drift already crossed this corridor before we found the lure.”
+"The earlier field notes agree."
 
-Maelis opened one of the old investigation sheets.
+Hesk stepped closer.
 
-“The earlier field notes and the Broken North survey agree.”
+"The road is broken."
 
-Hesk finally stepped closer.
+"Yes."
 
-“The road is broken.”
+"It was closed because sections are unsafe."
 
-“Yes,” Tavian said.
+"Yes."
 
-“It was closed because sections are unsafe.”
+"One washout cannot carry a surge."
 
-“Yes.”
+"Yes."
 
-“One washout cannot carry a surge.”
-
-“Yes.”
-
-“Then stop pretending you found a solution.”
+"Then stop pretending you found a solution."
 
 Tavian looked at him.
 
-“I found a direction.”
+"I found a direction."
 
-Red looked at Tavian.
+Direction.
 
-A direction.
-
-Not a solution.
-
-Hesk pointed at Broken North.
-
-“If you send pressure into a damaged road, it will bottleneck. Then it will spill into whatever route is easiest next.”
-
-Tavian nodded.
-
-“Yes.”
-
-Hesk paused. He had expected an argument. Tavian continued.
-
-“That is why it cannot be used as it is.”
+Not solution.
 
 Brynn studied the route.
 
-“How much work?”
+"How much work?"
 
-Tavian looked at him. He shook his head.
+Tavian looked at me.
 
-“Do not ask me.”
+I raised both hands.
 
-Red kept his mouth shut.
+"Do not ask me."
 
 Progress.
 
-“We need Kellan.”
+"We need Kellan."
 
-Sela objected before Kellan did. That happened ten minutes later at a covered staging shed beside the treatment house. Kellan had been moved there on a low wheeled cot because Sela refused to let seven people crowd the treatment room around a map.
+Sela objected before Kellan did.
 
-His injured leg stayed elevated in the splint. He looked exhausted. Sela looked ready to injure anyone who forgot that.
+Ten minutes later, we stood in a covered staging shed beside the treatment house.
 
-“You have a short window,” she said.
+Kellan lay on a low wheeled cot with his injured leg elevated.
+
+Sela looked ready to injure anyone who forgot why.
+
+"You have a short window."
 
 Kellan looked at her.
 
-“I heard you the first three times.”
+"I heard you."
 
-“Then surprise me by obeying.”
+"Then surprise me."
 
-No one laughed. The line was not funny enough to risk it. Brynn placed a copied route sketch on the board beside him.
+Brynn placed a copied route sketch beside him.
 
-“Broken North.”
+"Broken North."
 
-Kellan stared at the map. Then at Tavian.
+Kellan stared at it.
 
-“You are serious.”
+Then Tavian.
 
-“Yes.”
+"You are serious."
 
-“The upper washout is still bad.”
+"Yes."
 
-“We know.”
+"The upper washout is bad."
 
-“The retaining lip near the old watch point?”
+"We know."
 
-“Still damaged.”
+"The retaining lip near the watch point?"
 
-“The north drainage?”
+"Still damaged."
 
-“Partly blocked last time.”
+"North drainage?"
 
-Kellan looked at him.
+"Partly blocked."
 
-“You crossed the washout.”
+He looked at me.
 
-“With assistance.”
+"You crossed the washout."
 
-“You were the assistance.”
+"With assistance."
 
-“Temporary assistance.”
+"You were the assistance."
 
-He nodded once. At least they agreed on the adjective. Kellan pointed to the old route line.
+"Temporary assistance."
 
-“This connector used to split here.”
+Kellan pointed to the route line.
 
-Jessa confirmed the sector mark.
+"This connector used to split here."
 
-“One toward timber.”
+Jessa confirmed the sector.
 
-“Old timber. Not the active sheds.”
+"One toward old timber access."
 
-She nodded. Kellan moved his finger farther north.
+"Not the active sheds."
 
-“This one fed a hunter road before the slope went.”
+"Correct."
 
-Tavian asked, “Continuous enough for movement?”
+Kellan moved farther north.
 
-“On foot? Probably. For animals? Depends how much collapsed.”
+"This fed a hunter road before the slope failed."
 
-“Could workers reach it from the inner side?”
+Tavian asked, "Continuous enough for movement?"
 
-“Yes. If the lower drainage is cleared first.”
+"On foot? Probably. For animals? Depends how much collapsed."
 
-Brynn wrote that down. Kellan tapped the cracked section where he had used the temporary brace.
+"Workers can reach it?"
 
-“This is the first real problem.”
+"Yes, if lower drainage gets cleared."
 
-“How bad?”
+Brynn wrote that down.
 
-“Bad enough that four people crossing it was stupid.”
+Kellan tapped the cracked section.
 
-He looked at him.
+"This is the first real problem. Clear drainage below. Timber brace on surviving side. Fill under the approach. Rope line for workers. Then inspect the next cut."
 
-“You crossed it.”
+"Materials?"
 
-“I was having a bad week.”
+"Timber. Rope. Stone. Aggregate. Tools."
 
-Red almost smiled.
+"People?"
 
-Sela looked at both of them.
+"Road workers who listen."
 
-He stopped. Kellan continued.
+I raised one hand.
 
-“You cannot ask that lip to take sustained traffic.”
+Kellan looked at me.
 
-Tavian said, “What does it need?”
+"No."
 
-“Not one thing.”
+"I hadn't said anything."
 
-He pointed.
+"You were about to offer to become a bridge."
 
-“Clear drainage below so water stops eating the bed. Timber brace on the surviving side. Fill under the approach. Rope line for workers until the edge is stable. Then check the next cut.”
+"I was going to offer temporary support."
 
-Brynn asked, “Materials?”
+"That is becoming a bridge with more words."
 
-“Timber. Rope. Stone. Aggregate. Tools.”
+Sela looked at me.
 
-“People?”
+"He is right."
 
-“Road workers who listen.”
+Apparently cooperation meant specialists correcting me from several directions.
 
-He raised one hand slightly. Kellan looked at him.
+Sela checked Kellan's pulse.
 
-“No.”
+"Enough."
 
-“I had not said anything.”
+"We are not done."
 
-“You were about to volunteer to become a bridge.”
-
-“I was going to offer temporary support.”
-
-“That is becoming a bridge with more words.”
-
-Sela looked at him.
-
-“He is right.”
-
-Red looked around.
-
-Apparently cooperation meant being corrected by specialists from several directions at once. Sela came around the cot and checked Kellan’s pulse.
-
-“That is enough.”
-
-“We are not done.”
-
-“You are.”
+"You are."
 
 Kellan looked at Brynn.
 
-“The road can be made usable enough to try.”
+"The road can be made usable enough to try."
 
 Sela started moving the cot.
 
-“Wonderful. You have now contributed. Stop contributing.”
+"Wonderful. Stop contributing."
 
-He did not resist. Not because he agreed. Because pain had already taken most of the argument out of him.
+He did not resist.
 
-Before Sela moved him away, she looked at him.
+Pain had already won that argument.
 
-“You too.”
+Before they went inside, Sela looked at me.
 
-“I am standing.”
+"You too."
 
-“You are recovering.”
+"I'm standing."
 
-“Yes.”
+"You are recovering."
 
-“Not the same thing.”
+"That isn't a power limit."
 
-“I know.”
+"I did not say it was. I said stop making recent trauma somebody else's planning problem."
 
-“Then plan as if you know.”
+Fair.
 
-She took Kellan back inside. They returned to the militia yard with his notes. Broken North was possible.
+We returned to the militia yard.
 
-That was not the same as safe. Tavian redrew the route from the current pressure lines toward the old corridor.
+Broken North was possible.
 
-“We cannot force the migration to take it.”
+Not safe.
 
-Hesk said, “Finally.” Tavian ignored him.
+Tavian redrew the route from current pressure toward the old corridor.
 
-“We can change what is easier.”
+"We cannot force migration to take it."
+
+Hesk said, "Finally."
+
+Tavian ignored him.
+
+"We can change which options are easier."
 
 He marked three known lure sectors.
 
-“Selected known sites only. Controlled windows. Not maximum charge.”
+"Selected known sites only. Controlled windows. Not maximum charge."
 
 Jessa checked the service list.
 
-“This one has a recent maintenance record.”
+"This one has recent maintenance."
 
-“Field confirmation first.”
+"Field confirmation first."
 
-She nodded.
+"This one has current crew availability."
 
-“This one has current crew availability.”
+Brynn looked at the timing markers.
 
-Brynn looked at the clock marker beside the table.
+"How fast?"
 
-“How fast?”
+"They can reach it before the next patrol cycle."
 
-“Crew can reach it before the next patrol cycle if they leave now.”
+Maelis said, "No change without militia witness and route confirmation."
 
-Maelis said, “No change until a militia witness and route confirmation are present.” Hesk looked at her.
+Hesk looked at her.
 
-“That costs time.”
+"That costs time."
 
-“Yes.”
+"Yes."
 
 Tavian continued.
 
-“We use the known sites to make populated approaches less attractive.”
+"We make populated approaches less attractive."
 
-Hesk said, “Pressure does not understand ethics.”
+Hesk said, "Pressure does not understand ethics."
 
-“No.”
+"No."
 
 Tavian pointed to Broken North.
 
-“That is why the alternative has to be physically easier.”
+"That is why the alternative must be physically easier."
 
-The plan took shape on the table.
+The plan formed.
 
-Clear brush and drainage.
+Clear brush.
 
-Brace the washout.
+Clear drainage.
 
-Open the old connectors.
+Brace washout.
 
-Use short lure windows only where field teams confirmed the route.
+Open old connectors.
+
+Use short lure windows only where field teams confirm the route.
 
 Watch the animals.
 
-Change the plan when the animals changed theirs. Brynn divided the work.
+Revise when animals revise.
 
-“Militia protects the crews and controls civilian routes.”
+Brynn divided roles.
 
-She pointed to two junctions.
+"Militia protects crews and controls civilian routes. Warning runners here and here. Fallback evacuation stays open."
 
-“Warning runners here and here.”
+Maelis added:
 
-Then another.
+"Every lure adjustment gets written authorization."
 
-“Fallback evacuation stays open. Nobody closes the last civilian route just because the animal plan looks good.”
+"During the surge?" Hesk asked.
 
-Maelis added her own layer.
+"During the surge."
 
-“Every lure adjustment gets written authorization.”
+"One Guild technician," Brynn said.
 
-Hesk’s expression tightened.
+"One militia witness," Maelis added.
 
-“During the surge?”
+"Tavian or his delegate confirms field state before activation," Tavian said. "And after."
 
-“During the surge.”
+Jessa wrote the sequence.
 
-“One Guild technician,” Brynn said.
+Hesk looked at the controls.
 
-“One militia witness,” Maelis added.
-
-“Tavian or his route delegate confirms the current field state before activation.”
-
-“And afterward,” Tavian said.
-
-Jessa wrote the sequence. Hesk looked at the growing list of controls.
-
-“You have built a committee into every lure.”
+"You built a committee into every lure."
 
 Brynn looked at him.
 
-“Yes.”
+"Yes."
 
-“It will be slower.”
+"It will be slower."
 
-“Yes.”
+"Yes."
 
-“If Broken North fails—”
+"If Broken North fails—"
 
-“We revise.”
+"We revise."
 
-“If you run out of time?”
+"If you run out of time?"
 
-Brynn did not answer immediately. Hesk’s gaze moved across the table.
+Brynn did not answer immediately.
 
-“The main road cannot be allowed to collapse because you are afraid to make an ugly choice.”
+Hesk looked across the table.
 
-That was his real position. Still there. Still coherent.
+"The main road cannot be allowed to collapse because you are afraid to make an ugly choice."
 
-Still unacceptable. Tavian pointed to the corridor.
+Tavian pointed at Broken North.
 
-“This is an ugly choice.”
+"This is an ugly choice."
 
 Hesk looked at him.
 
-“We are sending workers into an abandoned monster route to rebuild it under active migration pressure. We are using incomplete field data to bias animals toward a corridor that may fail. We are keeping evacuation open because we expect parts of the plan to be wrong.”
+"We are sending workers into an abandoned monster route under active migration pressure. We are using incomplete field data to bias animals toward a corridor that may fail. We are keeping evacuation open because we expect parts of the plan to be wrong."
 
-Tavian’s voice did not change.
+His voice did not change.
 
-“The difference is that the failure zone is not a village we decided could absorb it.”
+"The difference is that the failure zone is not a village we already decided could absorb it."
 
-The room went quiet. Brynn looked at the map.
+Silence.
 
-“Red.”
+Brynn looked at me.
 
-He looked at her.
+"Red."
 
-“There are several damaged points where temporary support could buy work crews time.”
+"Yes?"
+
+"There are damaged points where temporary support could buy work crews time."
 
 Finally.
 
-A job he understood.
+A job I understood.
 
 Tavian held up one finger.
 
-“Temporary.”
+"Temporary."
 
-“I know.”
+"I know."
 
-“One brace does not become the road.”
+"Inside Kellan's engineering plan."
 
-“I know.”
+"I know."
 
-“No oversized structure.”
+"No improvising a replacement road just because you can."
 
-“I know.”
+I looked at him.
 
-“No second use just because the first one looks useful.”
+There it was.
 
-He looked at him.
+The correct version.
 
-“Do you want me on the plan or not?”
+Could I make a road?
 
-“Yes.”
+Probably something much more ridiculous.
 
-“Then you can stop listing everything I did wrong before breakfast.”
+Should I?
 
-Jessa looked down at the papers. Maelis kept writing. Brynn almost smiled.
+Not if the whole point was creating infrastructure ordinary people could still use after I left.
 
-Almost. Tavian did not.
+"Fine."
 
-“Can you support a damaged lip long enough for workers to place a real brace?”
+"Can you support a damaged lip long enough for workers to place real bracing?"
 
-“Yes.”
+"Yes."
 
-“A short ramp over a narrow break?”
+"A short crossing over a narrow break?"
 
-“Probably.”
+"Yes."
 
-“A barrier to bend local movement for seconds?”
+"A local barrier to bend movement for seconds?"
 
-“Yes.”
+"Yes."
 
-“A whole road?”
+"Good."
 
-“No.”
+No demonstration.
 
-That answer mattered more than the others. Tavian marked three possible support points with a different symbol.
+No new rule.
 
-“Then these are options. Not promises.”
+No need.
 
-He nodded. No manifestation. No demonstration.
+Hesk looked at the map.
 
-No attempt to prove he could do more than he asked. His side was nearly closed, but his shoulder still hurt. His leg still tightened if he moved too fast. Sela’s point had survived the walk back.
-
-Recovering was not recovered. Hesk looked at the map.
-
-“You are weakening main-road resources for this.”
+"You are weakening main-road resources for this."
 
 Brynn answered.
 
-“We are reallocating crews.”
+"We are reallocating crews."
 
-“From the protected corridor.”
+"From the protected corridor."
 
-“Some.”
+"Some."
 
-“If trade protection fails—”
+"If trade protection fails—"
 
-“Then we deal with that.”
+"Then we deal with that."
 
 His eyes hardened.
 
-“You are willing to risk the road.”
+"You are willing to risk the road."
 
-Brynn looked toward the outer markers.
+Brynn looked at the outer markers.
 
-“I am willing to stop pretending only one road counts as Greywake.”
+"I am willing to stop pretending only one road counts as Greywake."
 
-Nobody improved that either. Jessa finished the schedule draft. Maelis checked the authorization blocks.
+Nobody improved that.
 
-Tavian reviewed the movement reports again. Brynn counted crews. He stood at the edge of the table and did not touch anything unless someone asked him to.
+Jessa finished the schedule draft.
 
-Red said nothing.
+Maelis checked authorizations.
 
-Annoyingly, that was helping. The final decision came when Tavian placed one marker at the entrance to Broken North and another at the far connector.
+Tavian reviewed movement reports.
 
-“If we can make this continuous enough,” he said, “and keep the populated approaches under controlled pressure, the animals have somewhere else to go.”
+Brynn counted crews.
+
+I stayed at the edge of the table and touched nothing unless asked.
+
+Annoyingly, that helped.
+
+Tavian placed one marker at Broken North's entrance and another at the far connector.
+
+"If we can make this continuous enough and keep populated approaches under controlled pressure, the animals have somewhere else to go."
 
 Hesk looked at the route.
 
-“And if they refuse it?”
+"And if they refuse?"
 
-“We abort the timing and fall back to evacuation.”
+"We abort timing and fall back to evacuation."
 
-“Which loses the outer roads.”
+"Which loses the outer roads."
 
-“Possibly.”
+"Possibly."
 
 Hesk looked at Brynn.
 
-“You are approving this?”
+"You approve this?"
 
-Brynn studied every marker one more time. Then she looked at Maelis.
+Brynn checked every marker.
 
-“Authority structure?”
+Then Maelis.
 
-“Recorded. Shared copies. No sole Guild control.”
+"Authority structure?"
 
-“Jessa?”
+"Recorded. Shared copies. No sole Guild control."
 
-“Schedules are incomplete but usable. I can cross-check crew movement as reports come in.”
+"Jessa?"
 
-“Tavian?”
+"Incomplete schedules, but usable. I can cross-check crew movement as reports arrive."
 
-“Risky.”
+"Tavian?"
+
+"Risky."
 
 Brynn waited.
 
-“So is every other option.”
+"So is every other option."
 
 She looked toward the treatment house.
 
-“Kellan?”
+"Kellan?"
 
-He answered before thinking.
+I answered before thinking.
 
-“He said it can be made usable enough to try.”
+"He said it can be made usable enough to try."
 
-Brynn looked at him. He stopped.
+Brynn looked at me.
 
-“His words. Not mine.”
+I stopped.
 
-That earned the smallest nod. Then she looked at Hesk.
+"His words. Not mine."
 
-“Your objection is recorded.”
+Small nod.
 
-He said nothing. Finally, Brynn put her hand on the Broken North marker.
+Then Hesk.
 
-“We prepare it.”
+"Your objection is recorded."
 
-The room moved immediately. Runners took assignments. Jessa started copying schedules.
+He said nothing.
 
-Maelis separated authorization sheets. Tavian began listing the first route confirmations he needed. Hesk stepped away from the table without accepting the plan.
+Brynn put one hand on the Broken North marker.
 
-He did not need to. He just needed to obey the limits around it. He stayed where he was until Tavian pushed the copied Broken North sketch toward him.
+"We prepare it."
 
-Three marks had been drawn along Broken North.
+The room moved immediately.
+
+Runners took assignments.
+
+Jessa copied schedules.
+
+Maelis separated authorization sheets.
+
+Tavian listed route confirmations.
+
+Hesk stepped back from the table without accepting the plan.
+
+He did not need to accept it.
+
+He needed to obey the limits around it.
+
+Tavian pushed the copied Broken North sketch toward me.
+
+Three marks.
 
 Temporary support points.
 
@@ -878,6 +915,6 @@ Not the solution.
 
 Support.
 
-Red picked up the copied sketch.
+I picked up the sketch.
 
 This time, the plan was to make somewhere else for the danger to go.

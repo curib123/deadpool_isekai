@@ -1,851 +1,437 @@
 Chapter 14 — Necessary Losses
 
-Proving someone had been deciding where people were allowed to die turned out not to make the next decision easier. I found that rude. The council chamber was fuller than the map room had been. Two long benches had been pulled against the walls, council representatives occupied most of the chairs, and three different stacks of records sat in front of Maelis like paperwork had started breeding.
+The council chamber was full before I arrived. Representatives filled most of the chairs. Two benches had been dragged against the walls. Three stacks of records waited in front of Maelis.
 
-A charged Wayfarer Tongue Token hung near the central table. Brynn stood beside it. Hesk sat instead of standing this time.
+Hesk sat at the central table. Yesterday he had stood through every argument. Today he looked tired.
 
-That somehow made him look more dangerous. Kellan had refused a chair. Tavian stood near the route map with both hands resting on the edge of the table.
+I trusted that less. Kellan had refused a chair. Tavian stood near the route map with both hands resting on the table.
 
-Nobody looked rested. Maelis opened with the part no one could argue around anymore.
+Nobody looked rested. Maelis opened with the part nobody could argue around anymore. "The evidence from yesterday remains unchanged."
 
-“The evidence from yesterday remains unchanged.”
+One council representative shifted in his seat. "No one is disputing it." Kellan looked at him. "You were yesterday."
 
-One of the council representatives, an older man with a wool collar and tired eyes, shifted in his seat.
+"I said no one is disputing it now."
 
-“No one is disputing the evidence.”
+"Comforting."
 
-Kellan looked at him.
+Brynn raised a hand. "Enough." Mostly worked.
 
-“You were yesterday.”
+Maelis continued. "The diversion system exists. Multiple deployments were maintained. The Main Caravan Road was protected at the cost of increased pressure elsewhere. Those facts remain recorded whether this council likes the consequences or not."
 
-“I said no one is disputing it now.”
+Hesk did not answer. A councilwoman leaned forward. "What happens if the lures stop today?"
 
-“Comforting.”
+There it was. Not what happened. What happens next. "You're asking whether we keep doing it."
 
-Brynn raised a hand.
+Brynn looked at me. "No. She asked what happens if it stops."
 
-“Enough.”
+"That distinction sounds expensive."
 
-The room settled. Mostly. Maelis continued.
+"It probably is."
 
-“The diversion system exists. The Road Guild maintained multiple deployments. The Main Caravan Road was protected at the cost of increased pressure elsewhere. That is the factual position.”
+Maelis folded her hands. "Evidence tells us what occurred. It does not tell us how to reverse it safely."
 
-She looked at Hesk.
+I looked at her. "Deeply disappointing."
 
-“Those facts remain recorded whether this council likes the consequences or not.”
+"I assumed you would feel that way."
 
-Hesk did not answer. A second council representative leaned forward.
+Kellan stepped closer to the table. "Whatever happens next, the outer homesteads are in the room this time." One representative nodded.
 
-“What happens if the lures stop today?”
+Another did not. Brynn looked at Hesk. "No lure is altered without shared authorization."
 
-That was the question.
+Hesk's gaze sharpened. "Then the Guild retains operational control until another structure exists."
 
-Not whether they should have existed. Not whether Hesk had lied. Not whether the outer routes had paid for the main road.
+"No."
 
-What happened next. I looked at the man.
+Fast answer. "You do not resume secret control because the council has not finished arguing."
 
-“You're asking if we should keep doing it.”
+"I am the Roadmaster."
 
-“No,” Brynn said before he could answer.
+"You are also the person whose hidden policy created this dispute."
 
-I glanced at her. She met my eyes.
+His face barely moved. Brynn continued. "Sites remain preserved. Militia receives route-risk information. Tavian maps migration effects. Maelis keeps the records accessible. Kellan's people get warning access."
 
-“He asked what happens if it stops.”
+"And the Guild?"
 
-“That distinction sounds expensive.”
+"You answer questions."
 
-“It probably is.”
+That almost made him smile. Almost. A councilwoman tapped the table. "If we suspend the system, I want the operational risk stated plainly."
 
-Maelis folded her hands.
+Kellan turned on her. "People are already dying under it."
 
-“Evidence tells us what occurred. It does not tell us how to reverse it safely.”
+"I know."
 
-I looked at her.
+"Then what more do you need?"
 
-“That is deeply disappointing.”
+"I need to know whether stopping it kills more."
 
-“I assumed you would feel that way.”
+The room went quiet. Hesk finally spoke. "That is the first useful question this council has asked since yesterday."
 
-Minimal sympathy. Very on brand. Kellan stepped closer to the table.
+Kellan's shoulders tightened. "Careful." Hesk looked at him. "You wanted the truth."
 
-“Whatever happens next, the outer homesteads are in the room this time.”
+"I got it."
 
-One council member nodded. Another did not. Hesk watched all of us.
+"And now you want a simpler one."
 
-Brynn spoke.
+That irritated me because it sounded too accurate. Brynn looked at Hesk. "Explain."
 
-“No lure is altered without shared authorization.”
+He did not begin with the lures. He began with winter. "Eleven years ago, the first snow came before the migration cleared."
 
-Hesk's gaze moved to her.
+Several people in the room went still. Greywake remembered. "The northern road failed after two days of freezing rain. The river crossing iced hard enough to stop cargo and not hard enough to trust."
 
-“Then the Guild retains operational control until another structure exists.”
+Hesk's voice stayed even. "No caravan reached Greywake for weeks. Two supply wagons disappeared. One relief caravan turned back. Another never left because officials had not decided whether reopening the route was worth the cost."
 
-“No.”
+Kellan stopped moving. Hesk continued. "The outer farms failed first."
 
-The answer came fast.
+Kellan's jaw tightened. "Do not use them for this."
 
-“You do not resume secret control because the council has not finished arguing.”
+"I am telling you what happened."
 
-“I am the Roadmaster.”
+"I know what happened."
 
-“You are also the person whose hidden policy created this dispute.”
+"Then you know people came inside the walls carrying what they could."
 
-Hesk's face did not move. Brynn continued.
+He looked back to the council. "Storehouses emptied. Medicine ran short. Lamp oil ran short. Salt ran short."
 
-“Sites remain preserved. The militia receives route-risk information. Tavian maps migration effects. Maelis keeps the records accessible. Kellan's people get warning access.”
+No dramatic pause. "People froze." Another. "People starved."
 
-“And the Guild?”
+Nobody moved. I wished the story had been easier to dismiss. Hesk rested both hands on the table. "I was on the crews that reopened the road. We cut through frozen debris. We buried two workers beside an old marker because the ground was too hard to bring them home. When relief finally reached Greywake, the officials who signed the release papers asked whether this settlement still justified maintaining the route."
 
-“You get to answer questions.”
+His voice remained calm. "I learned something that winter." I already knew I would hate it. "A frontier does not survive by saving everyone."
 
-That one almost made me smile. Almost. A councilwoman near the far end of the table tapped the wood with two fingers.
+Kellan's eyes hardened. "It survives by deciding what cannot be allowed to die." There it was.
 
-“If we are going to suspend the system, I want the operational risk stated plainly.”
+The road. The records. The outer routes.
 
-Kellan turned on her.
+Me. I folded my arms. "So you decided the road mattered more than the people beside it."
 
-“People are already dying under it.”
+Hesk looked at me. "I decided the road was how everyone inside Greywake stayed alive."
 
-“I know.”
+"Very neat."
 
-“Then what more do you need?”
+"No."
 
-“I need to know whether stopping it kills more.”
+For the first time, something sharpened in his voice. "It was not neat." Silence. "There is no version of Greywake where every route receives equal protection."
 
-The room went quiet. Hesk finally spoke.
+Kellan stepped forward. "That does not mean you get to feed mine to the forest."
 
-“That is the first useful question this council has asked since yesterday.”
+"I did not say it did."
 
-Kellan's shoulders tightened. I pushed off the wall.
+"You did it anyway."
 
-“Careful.”
+"Yes."
 
-Hesk looked at me.
+No excuse. No denial. That almost made it worse.
 
-“You wanted the truth.”
+Hesk looked at him. "You think I chose between good and evil."
 
-“I got it.”
+"I think you chose for people who never got asked."
 
-“And now you want a simpler one.”
+"I chose between routes."
 
-That irritated me because it sounded too accurate. Brynn looked at Hesk.
+"Routes have people on them."
 
-“Explain.”
+"Yes."
 
-He did not begin with the lures. He began with winter.
+He knew. That was the problem. We moved to the route board because apparently moral collapse still required inventory.
 
-“Eleven years ago, the first snow came before the migration cleared.”
+The board covered most of one wall. Colored tags marked caravans, cargo, closures, work crews, expected arrivals. I could read none of the writing.
 
-The room changed. Not visibly at first. A few council members looked down.
+Naturally. A Guild logistics clerk had been brought in only to answer supply questions. Maelis pointed to the board. "Read the categories relevant to settlement dependence."
 
-Brynn's expression went still. Kellan stopped moving. Apparently this was not a story Greywake had forgotten.
+The clerk swallowed. "Grain and preserved food. Salt. Medicine. Metal stock. Tool replacement. Lamp oil. Cloth. Dry goods."
 
-Hesk continued.
+"Primary heavy route?"
 
-“The northern road failed after two days of freezing rain. The river crossing iced over hard enough to stop cargo and not hard enough to trust.”
+"Main Caravan Road."
 
-His voice stayed even.
+"Alternates?"
 
-“No caravan reached Greywake for weeks.”
+"Minor south road. River access when conditions allow. Outer connectors for local production."
 
-I watched him. There was no performance in it. That made it harder to dismiss.
+Kellan looked at him. "Local production." The clerk nodded. "Outer farms, timber, livestock, repair stock, local grain."
 
-“Two supply wagons disappeared before anyone outside Greywake understood the road was gone. One relief caravan turned back. Another never left because Valedorn officials had not agreed whether reopening the route was worth the cost.”
+"Say that again when somebody calls us replaceable."
 
-Someone at the council table closed their eyes. Hesk kept going.
+Hesk did not react. Brynn pointed to another set of markers. "And if the Main Caravan Road closes?"
 
-“The outer farms failed first.”
+The clerk looked uncomfortable. "Caravans reroute or stop."
 
-Kellan's jaw tightened.
+"For how long?"
 
-“Don't use them for this.”
+"I cannot give an exact time."
 
-“I am telling you what happened.”
+"Good," Tavian said.
 
-“I know what happened.”
+Everyone looked at him. "An invented number would not help." I respected that.
 
-“Then you know people came inside the walls carrying what they could carry.”
+Hesk gestured toward the board. "This is why the road matters." Kellan's expression sharpened. "The outer roads matter too."
 
-Kellan did not answer. Hesk looked back to the council.
+"Yes."
 
-“Storehouses emptied. Medicine ran short. Lamp oil ran short. Salt ran short.”
+"Then stop talking like only one thing keeps Greywake alive."
 
-No dramatic pause.
+Hesk turned. "The outer homesteads feed Greywake. Timber. Livestock. Labor. Repair crews. Local grain."
 
-“People froze.”
+Kellan blinked. Hesk continued. "But losing the Main Caravan Road isolates all of us."
 
-Another.
+Kellan laughed once. "While losing a few farms at a time stays affordable." Hesk did not answer.
 
-“People starved.”
+Silence answered for him. Maelis raised another set of papers. "The charter support request."
 
-Nobody moved. I had wanted to dislike the story. That would have been easier.
+Hesk looked at her. "What about it?"
 
-Hesk rested both hands on the table.
+"You used route-performance records in the support request."
 
-“I was on the crews that reopened the road.”
+"Yes."
 
-One councilman nodded once. Hesk continued.
+"Records now proven to omit or weaken some outer losses."
 
-“We cut through frozen debris. We buried two workers beside the old marker because the ground was too hard to bring them home. When relief finally reached Greywake, the officials who signed the release papers asked whether this settlement still justified maintaining the route.”
+His jaw tightened. "Yes." One council representative looked sharply at him.
 
-His voice stayed calm. That was the worst part.
+Maelis continued. "You intended to secure expanded Valedorn support using safety data that did not fully represent the cost of that safety."
 
-“I learned something that winter.”
+"I intended to secure permanent funding before Greywake was abandoned the next time officials decided we cost more than we returned."
 
-I already knew what was coming. He looked around the room.
+"That is not a denial."
 
-“A frontier does not survive by saving everyone.”
+"No."
 
-Kellan's eyes hardened.
+Again. No. "A stronger charter means road funding. Defensive support. More reliable patrol allocation. Better maintenance."
 
-“It survives by deciding what cannot be allowed to die.”
+"And more authority for the Guild?" Kellan asked.
 
-There it was. The sentence beneath everything. The road.
+"Yes."
 
-The records. The outer routes. Me.
+Kellan made a disgusted sound. Hesk ignored it. "The road has to remain viable long enough for anyone outside Greywake to care about strengthening it."
 
-I folded my arms.
+Maelis's voice stayed level. "And manipulated reporting may invalidate the credibility of the request entirely."
 
-“So you decided the road mattered more than the people beside it.”
+"I know."
 
-Hesk looked at me.
+For the first time, Hesk looked tired instead of controlled. That almost made him easier to hate. Almost.
 
-“I decided the road was how the people inside this settlement stayed alive.”
+Brynn turned to Tavian. "We know why he wants the system maintained. What happens if it changes?"
 
-“Very neat.”
+Tavian moved back to the map. "Partly answerable." He removed several track stones and replaced them with markers for known or suspected influence points. "These lures do not command animals."
 
-“No.”
+"We know."
 
-For the first time, something sharpened in his voice.
+"They change choices."
 
-“It was not neat.”
+That phrasing mattered. He traced a route northeast. "An animal avoids one pressure zone. It enters another territory. Prey movement changes. Predators respond. Herds shift. Scavengers follow."
 
-The room went silent again. Hesk looked toward the map.
+He moved another marker. "Repeat that long enough and routes adapt to the pressure." Kellan stared at the map. "The routes stop being natural."
 
-“There is no version of Greywake where every route receives equal protection. There never has been.”
+"They become shaped by the system."
 
-Kellan stepped forward.
+Hesk spoke. "Which is why shutting it down blindly is dangerous." Tavian looked at him. "That is not permission."
 
-“That does not mean you get to feed mine to the forest.”
+Hesk stopped. Tavian pointed to the map. "It is a field problem."
 
-“I did not say it did.”
+Good. He continued. "The system has been active long enough that several movement corridors overlap where they should not. We have already seen predator and prey species using the same broad drift."
 
-“You did it anyway.”
+Wrong tracks. Wrong direction. Not madness.
 
-“Yes.”
+Adaptation. Tavian moved the Broken North marker away. "If one influence disappears, what happens?"
 
-No excuse.
+A councilman answered. "They go back." Tavian shook his head. "To what?"
 
-No denial.
+Nobody said anything. "The old route? The one now blocked by territory changes? The one occupied by a different predator population? The one pushed against the service road?"
 
-Just yes.
+He looked around. "We do not know." I looked at the map. "So they spill somewhere else."
 
-That answer landed harder than another argument would have. Hesk looked at me again.
+"Possibly."
 
-“You think I chose between good and evil.”
+"Toward Greywake?"
 
-“I think you chose for people who never got asked.”
+"Possibly."
 
-“I chose between routes.”
+"Toward the outer farms?"
 
-“Routes have people on them.”
+"Possibly."
 
-“Yes.”
+"Terrible word."
 
-There was no way to make him misunderstand that. He knew. That was the problem.
+"Correct word."
 
-One council representative cleared his throat.
+Hesk gestured at the map. "And this is why the system must remain in place." Tavian's face hardened. "No."
 
-“We need the supply figures.”
+"You just explained—"
 
-Maelis looked at him.
+"I explained why removing it blindly is dangerous."
 
-“Operational facts, not justification.”
+"That is the same conclusion."
 
-“Yes.”
+"No."
 
-That distinction mattered now. The discussion moved from the chamber to the adjoining route board because apparently serious moral collapse also required inventory. The board covered most of one wall.
+Tavian did not raise his voice. "You are arguing that because the system cannot be removed safely today, you were right to create and conceal it." Hesk said nothing. "That does not follow."
 
-Colored tags marked caravans, supply categories, road closures, work crews, and expected arrivals. I could read none of the writing. Naturally.
+Professional disagreement remained beautiful. Tavian pointed toward the unconfirmed points. "We need the full deployment map."
 
-One of the Guild logistics clerks had been brought in only to answer supply questions. Brynn made it clear he was not being asked about the lure policy. Maelis pointed to the board.
+"We do not have one," Maelis said.
 
-“Read the categories relevant to settlement dependence.”
+"Then we build one."
 
-The clerk swallowed.
+Hesk folded his arms. "And while you do?" Tavian looked at him. "No changes."
 
-“Grain and preserved food. Salt. Medicine. Metal stock. Tool replacement. Lamp oil. Cloth. Dry goods.”
+Kellan's head snapped around. "You want us to leave the lures running?"
 
-“Primary heavy route?”
+"I want nobody changing a system we do not understand while people are standing inside the consequences."
 
-“Main Caravan Road.”
+"My people already are."
 
-“Alternates?”
+"I know."
 
-“Minor south road. River access when conditions allow. Outer connectors for local production.”
+"Then every hour matters."
 
-Kellan looked at him.
+"I know."
 
-“Local production.”
+"Doesn't sound like it."
 
-The clerk nodded.
+Tavian did not flinch. "If I tell you to break one now and the pressure moves into another homestead, did I help you?" Kellan opened his mouth.
 
-“Outer farms, timber, repair stock, livestock.”
+Stopped. That silence hurt. Brynn stepped to the table. "Temporary position. No lure altered without shared authorization."
 
-“Say that again when someone calls us replaceable.”
+Kellan's jaw tightened. "Brynn—"
 
-Hesk did not react. The clerk continued.
+"Listen first."
 
-“The minor roads cannot carry the same wagon volume. Not safely. Not with current monster pressure.”
+He did. "Guild servicing cannot change settings, reservoirs, strength, or orientation without witnesses. Militia gets every route-risk report. Ledger gets copies of deployment and service records. Field teams map confirmed and suspected influence points. Outer communities get warnings."
 
-Brynn pointed to another set of markers.
+Kellan stared at her. "All of them?"
 
-“And if the Main Caravan Road closes?”
+"All we can reach."
 
-The clerk looked uncomfortable.
+"Evacuated?"
 
-“Caravans reroute or stop.”
+"Where risk justifies it."
 
-“For how long?”
+He hated the answer. That did not mean he disagreed. Maelis gathered several papers. "This temporary hold does not erase yesterday's findings."
 
-“I cannot give an exact time.”
+A council member rubbed his forehead. "No one said it did."
 
-“Good,” Tavian said.
+"I am saying it now so no one says otherwise later."
 
-Everyone looked at him. He shrugged slightly.
+Also very Maelis. Hesk looked at the table. "You are freezing the system in place."
 
-“An invented number would not help.”
+"For now," Brynn said.
 
-I respected that. Hesk stepped closer to the board.
+"And if migration shifts before mapping is complete?"
 
-“This is why the road matters.”
+"We respond."
 
-Kellan's expression sharpened.
+"You cannot respond everywhere."
 
-“The outer roads matter too.”
+"No."
 
-“Yes.”
+His gaze moved around the room. "That is the part none of you want to say." I pushed away from the wall. "No. We just don't enjoy saying it as much as you do."
 
-“Then stop talking like only one thing keeps Greywake alive.”
+His eyes settled on me. "You still think there is a version where no one chooses."
 
-Hesk turned toward him.
+"I think there is a difference between choosing under pressure and quietly deciding somebody else counts less."
 
-“The outer homesteads feed Greywake.”
+"The forest does not care."
 
-Kellan blinked. Apparently he had expected a fight. Hesk continued.
+"I do."
 
-“They provide timber, livestock, labor, repair crews, local grain.”
+"That will not move a migration."
 
-“Then why were we the side you kept exposing?”
+"No."
 
-“Because losing the Main Caravan Road isolates all of us.”
+I looked at Tavian's map. "But neither does pretending your choice is the only possible one." Hesk leaned forward. "You want to break the lures."
 
-Kellan laughed once. Not because it was funny.
+"Yes."
 
-“While losing a few farms at a time stays affordable.”
+Too fast. Everybody noticed. Tavian definitely noticed.
 
-Hesk did not answer. He did not have to. The silence was the answer.
+I continued anyway. "I want the part where people get secretly designated as acceptable loss gone."
 
-Maelis pointed to another set of papers.
+"So do I," Brynn said.
 
-“The charter.”
+I looked at her. She pointed at the map. "But if you destroy one and pressure hits another settlement, what did you designate them as?"
 
-Hesk's attention shifted.
+There it was. Annoying. Accurate.
 
-“What about it?”
+If I broke the wrong lure and another settlement paid for it, the motive would matter very little to the people getting hurt. That was not moral growth. That was geometry.
 
-“You have used route-performance records in the support request.”
+Useful information. Maelis watched me. I pointed at her. "Do not look pleased."
 
-“Yes.”
+"I am not."
 
-“Records now proven to omit or weaken some outer losses.”
+"You have an evidence face."
 
-Hesk's jaw tightened.
+"I have one face."
 
-“Yes.”
+Debatable. Kellan exhaled. "I hate this plan."
 
-One council representative looked sharply at him. Maelis continued.
+Brynn nodded. "So do I."
 
-“You intended to secure expanded Valedorn support using safety data that did not fully represent the cost of that safety.”
+"Not reassuring."
 
-“I intended to secure permanent funding before Greywake was abandoned the next time officials decided we cost more than we returned.”
+"Not supposed to be."
 
-“That is not a denial.”
+Then someone knocked hard enough to change the room. A militia runner entered with mud up one leg. "Captain."
 
-“No.”
+Brynn turned. "What happened?" The runner crossed to the route board and pointed.
 
-Again.
+Outer road. Farther east than Kellan's bridge. "Two patrol markers changed since morning. Fresh predator movement near the east outer homesteads. More than the local watch expected."
 
-Just no.
+Kellan was already moving. "Which homesteads?"
 
-Hesk looked at the council.
+"Farms above the timber-road junction."
 
-“A stronger charter means road funding. Defensive support. More reliable patrol allocation. Better maintenance.”
+"How close?"
 
-“And more authority for the Guild?” Kellan asked.
+"Tracks on the upper approach. Livestock scattered. No confirmed attack yet."
 
-“Yes.”
+Brynn looked at Tavian. "Known lure sector?"
 
-Kellan made a disgusted sound. Hesk ignored it.
+"One of Jessa's service entries was near that corridor."
 
-“The road has to remain viable long enough for anyone outside Greywake to care about strengthening it.”
+"Confirmed site?"
 
-Maelis's voice stayed level.
+"No."
 
-“And falsifying the human cost may invalidate the credibility of the request entirely.”
+Hesk stood. "Send Guild handlers." Brynn turned on him. "No unauthorized servicing."
 
-“I know.”
+"The homesteads are already exposed."
 
-For the first time, Hesk looked tired. Not guilty. Not defeated.
+"We warn them and send militia support."
 
-Tired. That almost made him easier to hate. Almost.
+"The lure may need adjustment."
 
-Brynn turned to Tavian.
+"Then we confirm the site and risk first."
 
-“We know why Hesk wants the system maintained.”
+Kellan hit the table with the side of his fist. "My people are there now."
 
-Tavian nodded.
+"I know."
 
-“We still do not know what happens if it changes.”
+"We do not have three days."
 
-“Can you answer that?”
+"I know."
 
-“Partly.”
+Heat climbed through my chest. Wait. Map.
 
-We went back to the map room. Because apparently the map was where everything terrible eventually became understandable. Tavian removed several of the old track stones and replaced them with different markers.
+Confirm. Meanwhile somebody else's road got teeth. I looked at Tavian.
 
-One for Broken North. Others for the service sectors Jessa had identified. A few remained unmarked.
+He was already watching me. "Red."
 
-“Those are unknown?” Brynn asked.
+"I haven't done anything."
 
-“Unconfirmed.”
+"Not yet."
 
-“Possible sites?”
-
-“Possible influence points. Not the same thing.”
-
-Maelis nodded approvingly. He pointed to the lines between them.
-
-“These lures do not command animals.”
-
-“We know,” I said.
-
-“They change the choices available.”
-
-That phrasing made me pay attention. Tavian traced a route north-east.
-
-“An animal avoids one pressure zone. It enters another territory. That changes prey movement. Predators respond. Herds shift. Scavengers follow.”
-
-He moved another marker.
-
-“Now repeat that for years.”
-
-Kellan stared at the map.
-
-“The routes stop being natural.”
-
-“They become adapted to the pressure.”
-
-Hesk spoke.
-
-“Which is why shutting it down blindly is dangerous.”
-
-Tavian looked at him.
-
-“That is not permission.”
-
-Hesk stopped. Tavian pointed to the map.
-
-“It is a field problem.”
-
-Good.
-
-Very Tavian.
-
-He continued.
-
-“The system has been active long enough that several movement corridors overlap where they should not. We have already seen predator and prey species using the same broad drift.”
-
-I remembered CH-009. Wrong tracks. Wrong direction.
-
-A pattern that had looked like the forest losing its mind. It had not been losing its mind. It had been adapting.
-
-Tavian shifted the Broken North marker away from the table.
-
-“If this influence disappears, what happens?”
-
-One council representative answered.
-
-“They go back.”
-
-Tavian shook his head.
-
-“To what?”
-
-Nobody said anything.
-
-“The old route?”
-
-He tapped the map.
-
-“Which one?”
-
-Another tap.
-
-“The one blocked by territory changes?”
-
-Another.
-
-“The one now occupied by a different predator population?”
-
-Another.
-
-“The one pushed against the service road?”
-
-He looked around the room.
-
-“We do not know.”
-
-That was unpleasantly clear. I looked at the map.
-
-“So they spill somewhere else.”
-
-“Possibly.”
-
-“Toward Greywake?”
-
-“Possibly.”
-
-“Toward the outer farms?”
-
-“Possibly.”
-
-“That is a very irritating word.”
-
-“It is also the correct one.”
-
-Hesk gestured toward the map.
-
-“And this is why the system must remain in place.”
-
-Tavian's face hardened.
-
-“No.”
-
-Hesk looked at him.
-
-“You just explained—”
-
-“I explained why removing it blindly is dangerous.”
-
-“That is the same conclusion.”
-
-“No.”
-
-Tavian's voice stayed flat.
-
-“You are arguing that because the current system cannot be removed safely today, you were right to create and conceal it.”
-
-Hesk said nothing.
-
-“That does not follow.”
-
-I almost smiled. Professional disagreement remained beautiful. Tavian pointed toward the unconfirmed areas.
-
-“We need the full deployment map.”
-
-“We do not have one,” Maelis said.
-
-“Then we build one.”
-
-Hesk folded his arms.
-
-“And while you do?”
-
-Tavian looked at him.
-
-“No changes.”
-
-Kellan's head snapped around.
-
-“You want us to leave the lures running?”
-
-“I want nobody changing a system we do not understand while people are standing inside the possible consequences.”
-
-Kellan's face tightened.
-
-“My people are already standing inside the consequences.”
-
-“I know.”
-
-“Then every hour matters.”
-
-“I know.”
-
-“Doesn't sound like it.”
-
-Tavian did not flinch.
-
-“If I tell you to break a lure now, and the pressure moves into another homestead, did I help you?”
-
-Kellan opened his mouth. Stopped. That silence hurt more than shouting.
-
-Brynn stepped to the table.
-
-“Then this is the temporary position.”
-
-Hesk looked at her. She ignored him.
-
-“No lure altered without shared authorization.”
-
-Kellan's jaw tightened.
-
-“Brynn.”
-
-“Listen first.”
-
-He did.
-
-“Guild servicing cannot change settings, strength, reservoirs, or orientation without witnesses.”
-
-Hesk's expression darkened.
-
-“Militia gets every known route-risk report.”
-
-Maelis nodded.
-
-“Ledger copies of all deployment and service records.”
-
-Tavian added, “Field teams map confirmed and suspected influence points.” Kellan looked at Brynn.
-
-“And the outer homesteads?”
-
-“Warned.”
-
-“All of them?”
-
-“All we can reach.”
-
-“Evacuated?”
-
-“Where the risk justifies it.”
-
-Kellan looked unhappy. That did not mean he disagreed. Maelis gathered several papers.
-
-“This does not suspend the findings from yesterday.”
-
-One council member rubbed his forehead.
-
-“No one said it did.”
-
-“I am saying it now so no one says otherwise later.”
-
-Also very Maelis. Hesk looked at the table.
-
-“You are freezing the system in place.”
-
-“For the moment,” Brynn said.
-
-“And if the migration shifts before your mapping is complete?”
-
-“We respond.”
-
-“You cannot respond everywhere.”
-
-“No.”
-
-Hesk's gaze moved across the room.
-
-“That is the part none of you want to say.”
-
-I pushed away from the wall.
-
-“No, we just don't enjoy saying it as much as you do.”
-
-His eyes settled on me.
-
-“You still think there is a version where no one chooses.”
-
-“I think there is a difference between choosing under pressure and quietly deciding someone else counts less.”
-
-“The forest does not care about that distinction.”
-
-“I do.”
-
-“That will not move a migration.”
-
-“No.”
-
-I looked at Tavian's map.
-
-“But apparently neither does pretending your choice is the only possible one.”
-
-Hesk leaned forward.
-
-“You want to break the lures.”
-
-“Yes.”
-
-The answer came too quickly. Everyone noticed. Tavian definitely noticed.
-
-I continued anyway.
-
-“I want the part where people get secretly designated as acceptable loss gone.”
-
-“So do I,” Brynn said.
-
-I looked at her. She pointed at the map.
-
-“But if you destroy one and the pressure hits another settlement, what did you designate them as?”
-
-That landed.
-
-I hated it.
-
-Which usually meant it deserved attention. I looked back at the map. If I broke the wrong thing because I was angry, and someone else paid for it, then I had still made a choice for them.
-
-Different motive. Same problem.
-
-Annoying.
-
-Maelis watched me. I pointed at her.
-
-“Do not look pleased.”
-
-“I am not.”
-
-“You have an evidence face.”
-
-“I have one face.”
-
-Debatable. Kellan exhaled.
-
-“I hate this plan.”
-
-Brynn nodded.
-
-“So do I.”
-
-“That is not reassuring.”
-
-“It is not supposed to be.”
-
-Kellan looked at Tavian.
-
-“You actually think waiting is safer?”
-
-“I think mapping first gives us a chance to change the system without guessing where the danger goes.”
-
-“And if people get hit while we wait?”
-
-Tavian was quiet.
-
-“That is the problem.”
-
-Nobody solved it. That was worse than every answer we had found so far. A knock hit the chamber door.
-
-Not polite. Urgent. Brynn turned.
-
-One of the militia runners entered, breathing hard. Mud covered one boot to the knee.
-
-“Captain.”
-
-“What happened?”
-
-The runner crossed to the route board and pointed. I recognized the shape. Outer road.
-
-Not Kellan's bridge. Farther east.
-
-“Two patrol markers changed since morning,” the runner said. “Fresh predator movement near the east outer homesteads. More than the local watch expected.”
-
-Kellan was already moving toward the map.
-
-“Which homesteads?”
-
-“The farms above the timber-road junction.”
-
-“How close?”
-
-“Tracks on the upper approach. Livestock scattered. No confirmed attack yet.”
-
-Brynn looked at Tavian.
-
-“Known lure sector?”
-
-He studied the position.
-
-“One of Jessa's service entries was near that corridor.”
-
-“Confirmed site?”
-
-“No.”
-
-Hesk stood.
-
-“Then send Guild handlers.”
-
-Brynn turned on him.
-
-“No unauthorized servicing.”
-
-“The east outer homesteads are already exposed.”
-
-“So we warn them and send militia support.”
-
-“The lure may need adjustment.”
-
-“Then we confirm the site and the risk first.”
-
-Kellan hit the table with the side of his fist.
-
-“My people are there now.”
-
-“I know,” Brynn said.
-
-“We do not have time for three days of maps.”
-
-“I know.”
-
-Red heat climbed into my chest. There it was again. Wait.
-
-Map. Confirm. Meanwhile somebody else's road got teeth.
-
-I looked at Tavian. He looked back. He knew exactly what I was thinking.
-
-Good for him.
-
-“Red.”
-
-“I haven't done anything.”
-
-“Not yet.”
-
-That was unfairly accurate. Brynn began issuing orders to the runner.
-
-“Warn the east outer homesteads. Move two militia teams to the outer approach. No one touches any suspected lure without Tavian or an approved field team.”
+Unfairly accurate. Brynn issued orders. "Warn the east outer homesteads. Move two militia teams to the outer approach. No one touches any suspected lure without Tavian or an approved field team."
 
 The runner nodded and left. Kellan looked at me. Not asking.
 
-Not yet.
+Not yet. Hesk watched both of us. That was worse.
 
-Hesk watched both of us. That was worse. Tavian stepped closer.
+Tavian stepped closer. His voice dropped. "We still do not know the full network."
 
-His voice was quiet enough that the room had to listen.
+I said nothing. "We do not know which pressure lines overlap there." Still nothing. "If you change a lure now, the animals may not go where you think."
 
-“We still do not know the full network.”
+"I heard you."
 
-I said nothing.
+"I need you to understand me."
 
-“We do not know which pressure lines overlap there.”
-
-Still nothing.
-
-“If you change a lure now, the animals may not go where you think they will.”
-
-“I heard you.”
-
-“I need you to understand me.”
-
-I looked at him. He held my gaze.
-
-“Changing any lure before we map the full network could cause a backflow.”
+I met his eyes. "Changing any lure before we map the full network could cause a backflow."

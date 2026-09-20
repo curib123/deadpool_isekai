@@ -171,12 +171,12 @@ Add a table containing exactly these IDs and assignments:
 | ID | Chapter | Classification | Matchup / action identity | Scale | Topology | Primary objective |
 |---|---|---|---|---|---|---|
 | V2-A01 | CH-033 | HAZARD ACTION | Red + workers vs warehouse/infrastructure emergency while cargo and injured people are protected | MINOR ACTION | split objective; hazard changes the available route | clear the immediate hazard and protect people/cargo |
-| V2-B01 | CH-031 | BATTLE/ACTION | Red + Samir + shipwright crew vs shifting load/repair hazard | MINOR | uneven team vs one structural hazard; rescue/repair | complete the repair without making the yard less safe |
-| V2-B02 | CH-036 | BATTLE/ACTION | Red + Samir + workers vs failing dry-dock system, water, and secondary collapse | MAJOR RESCUE | rescue under attack; split rescue points | extract trapped workers and prevent a second collapse |
-| V2-B03 | CH-042 | BATTLE/ACTION | Red + Iria + Samir + dockworkers vs cargo-transfer failure and contested access/perimeter | MAJOR REVERSAL | multi-front rescue with public response opposed by private control | save people and stop cascade; the initial death cannot be undone |
-| V2-B04 | CH-045 | BATTLE/ACTION | Red + Samir + trusted workers vs four private-security contractors | MINOR HOSTILE INTERCEPTION | 2v4 interception that becomes a Red 1v4 delay while the others withdraw | protect the inspection and avoid exposing the counter-plan |
-| V2-B05 | CH-047 | BATTLE/ACTION | Harbor Watch, workers, and Red vs infrastructure/weather failures plus private-security seizure attempts | MAJOR / GREAT-BATTLE BUILD | multi-front defensive hold with reinforcement and route changes | keep public routes open and prevent private takeover |
-| V2-B06 | CH-048 | BATTLE/ACTION | Split coalition fronts vs harbor failures, private security, and evidence seizure | CLIMAX | split-party/multi-front battle with changing objectives | preserve harbor function, secure evidence, and retain public command |
+| V2-B01 | CH-031 | BATTLE | Red + Samir + shipwright crew vs shifting load/repair hazard | MINOR | uneven team vs one structural hazard; rescue/repair | complete the repair without making the yard less safe |
+| V2-B02 | CH-036 | BATTLE | Red + Samir + workers vs failing dry-dock system, water, and secondary collapse | MAJOR RESCUE | rescue under attack; split rescue points | extract trapped workers and prevent a second collapse |
+| V2-B03 | CH-042 | BATTLE | Red + Iria + Samir + dockworkers vs cargo-transfer failure and contested access/perimeter | MAJOR REVERSAL | multi-front rescue with public response opposed by private control | save people and stop cascade; the initial death cannot be undone |
+| V2-B04 | CH-045 | BATTLE | Red + Samir + trusted workers vs four private-security contractors | MINOR HOSTILE INTERCEPTION | 2v4 interception that becomes a Red 1v4 delay while the others withdraw | protect the inspection and avoid exposing the counter-plan |
+| V2-B05 | CH-047 | BATTLE | Harbor Watch, workers, and Red vs infrastructure/weather failures plus private-security seizure attempts | MAJOR / GREAT-BATTLE BUILD | multi-front defensive hold with reinforcement and route changes | keep public routes open and prevent private takeover |
+| V2-B06 | CH-048 | BATTLE | Split coalition fronts vs harbor failures, private security, and evidence seizure | CLIMAX | split-party/multi-front battle with changing objectives | preserve harbor function, secure evidence, and retain public command |
 ```
 
 - [ ] **Step 3: Write the seven encounter cards**
@@ -250,7 +250,7 @@ git commit -m "docs: map Merrowgate battle and scene OA"
 Add a `Battle / Scene OA` field adjacent to each chapter's existing `Action Progression` field:
 
 ```markdown
-**Battle / Scene OA:** V2-B01 — BATTLE/ACTION; uneven team vs one structural hazard; repair objective changes into rescue/weight-transfer objective; detailed scene architecture deferred to Gate 8.
+**Battle / Scene OA:** V2-B01 — BATTLE; uneven team vs one structural hazard; repair objective changes into rescue/weight-transfer objective; detailed scene architecture deferred to Gate 8.
 ```
 
 Use these exact assignments:

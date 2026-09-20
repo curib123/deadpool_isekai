@@ -2,11 +2,20 @@
 
 **Chapter:** CH-018 — No Acceptable Loss  
 **Manuscript:** `manuscript/CH018-NO-ACCEPTABLE-LOSS.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 3,219
+**Review Date:** 2026-09-20  
+**Status:** PASS — CURRENT CANON REVALIDATED  
+**Word Count:** 2322
 
 **Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A097 Prose Editor, A037 Power Balance Editor, A042 Character Arc Editor, A044 Supporting Character Editor, A045 Antagonist Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A111 Logic Editor
+
+# Soul-Drift / Final Story-Engine Revalidation
+
+- close first-person narration confirmed;
+- Broken North third-option planning remains specialist-led;
+- Red does not have a conventional power ceiling: he deliberately agrees not to replace permanent engineering with arbitrary reality-bending;
+- no actual manifestation occurs;
+- recent soreness is continuity only, not magical depletion;
+- CH-019 construction and CH-020 hidden-stock conflict remain protected.
 
 # Scope
 
@@ -79,7 +88,7 @@ No additional Gate 9 manuscript edit was required.
 | No aura farming | PASS |
 | Red does not seize the planning room | PASS |
 | Red accepts correction from specialists | PASS |
-| Red accurately limits his own capacity | PASS |
+| Red accurately limits what he will substitute for permanent engineering | PASS |
 | Red's cooperation feels self-chosen | PASS |
 
 The chapter's practical development is clear:
@@ -375,14 +384,11 @@ Planned uses remain Stage I-scale:
 - local barrier;
 - temporary support.
 
-Red explicitly answers **“No”** when asked about supporting a whole road.
+Red could produce a much larger intervention, but agrees that replacing the whole road would defeat the permanent-engineering objective.
 
 Regeneration remains background physical recovery.
 
-Red is still:
-- sore;
-- limited;
-- not an unlimited labor/power resource.
+Red may still be sore from recent trauma, but no reduced Play Logic capacity or finite power resource is established.
 
 # Mystery / Foreshadowing
 

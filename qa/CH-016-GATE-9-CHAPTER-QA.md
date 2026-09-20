@@ -2,11 +2,21 @@
 
 **Chapter:** CH-016 — Backflow  
 **Manuscript:** `manuscript/CH016-BACKFLOW.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 2,682
+**Review Date:** 2026-09-20  
+**Status:** PASS — CURRENT CANON REVALIDATED  
+**Word Count:** 2099
 
 **Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A097 Prose Editor, A096 Imagination Scene Designer, A037 Power Balance Editor, A042 Character Arc Editor, A044 Supporting Character Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A111 Logic Editor
+
+# Soul-Drift / Final Story-Engine Revalidation
+
+- close first-person narration confirmed;
+- backflow remains an information/coordination crisis, not a raw-power ceiling;
+- Red could overwhelm local threats but cannot know every safe route or undo simultaneous consequences by force alone;
+- rescue manifestation is one chosen local guide, not a Stage/use limit;
+- regeneration remains autonomous and does not reduce future capability;
+- Kellan's severe injury, bridge loss and Greywake-facing reversal remain locked;
+- M-007 stays tonal only.
 
 # Scope
 
@@ -18,7 +28,7 @@ Gate 9 reviewed CH-016 against:
 - major-reversal requirements;
 - Kellan Dorr injury lock;
 - CH-008 seasonal-cut bridge continuity;
-- exactly-one Stage I rescue-manifestation restriction;
+- one rescue manifestation by scene design;
 - regeneration pain/exhaustion limits;
 - no-comedy requirement;
 - first M-007 tonal-hint ceiling;
@@ -269,11 +279,11 @@ Kellan:
 
 **PASS.**
 
-CH-016 contains exactly one Stage I rescue manifestation.
+CH-016 contains one rescue manifestation.
 
 No second major manifestation occurs.
 
-No Stage II behavior occurs.
+No mastery-tier/progression behavior occurs.
 
 Play Logic cannot solve the ecological crisis.
 
@@ -281,21 +291,7 @@ Play Logic cannot solve the ecological crisis.
 
 **PASS.**
 
-CH-015 injuries carry forward.
-
-CH-016 adds:
-- reopened side injury;
-- shoulder impact;
-- exhaustion;
-- shaking/weakness;
-- reduced precision.
-
-Regeneration:
-- preserves function;
-- does not restore stamina;
-- does not eliminate pain;
-- does not protect civilians;
-- does not heal Kellan.
+CH-015 injuries may remain painful while Red's body continues autonomous correction. The chapter establishes no stamina debt, precision ceiling or finite regeneration resource. Red's self-restoration does not heal Kellan or solve the evacuation geometry.
 
 # M-007 Review
 

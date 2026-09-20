@@ -1459,7 +1459,7 @@ By the end of an approved CH-008 manuscript, Red Jackal may know:
 - local residents have updated monster-warning information themselves;
 - the current local warning pictogram/tag does not match the official Guild warning information he was given;
 - Kellan interprets this as neglect, stale information, and trade-first priorities;
-- one temporary Stage I support can help only when used inside a sound engineering plan.
+- one temporary support expression can help inside a sound engineering plan without creating a Stage or capability ceiling.
 
 Red Jackal may begin feeling personally invested in the outer communities.
 
@@ -1539,7 +1539,7 @@ No new Play Logic rule.
 
 No new clue.
 
-Residual soreness/exhaustion only.
+Recent-injury soreness only; no magical depletion.
 
 ## M-007 Boundary
 
@@ -1583,9 +1583,9 @@ After CH-008, Red Jackal canonically knows:
 - Kellan Dorr is a competent practical engineer and informal community representative whose judgment is based on whether work actually helps;
 - Kellan's bridge has required repeated repair and replacement material from central support has arrived incompletely;
 - the bridge approach and decking can remain usable through careful load management, ordinary repair, and reused material;
-- one temporary Stage I support manifestation can help inside a competent engineering plan but cannot replace permanent repair;
-- his CH-007 injury still reduces carrying capacity, stamina, and manifestation precision;
-- Play Logic use while depleted can worsen his pain and fatigue;
+- one temporary support manifestation can help inside a competent engineering plan but cannot replace permanent repair in that scene;
+- his recent CH-007 injury can make ordinary lifting/twisting painful, but it does not reduce underlying Play Logic capacity;
+- the CH-008 support does not establish a Play Logic stamina cost, precision penalty, or depletion state;
 - the official Guild hazard marker at an outer junction did not match the fresher local warning information;
 - local residents had recorded five recent predator sightings across four days using a fresh supplemental warning strip;
 - the sightings had been reported, while the last patrol passed before those new sightings;
@@ -1610,8 +1610,8 @@ Kellan canonically knows:
 - Red Jackal was still recovering from a serious recent injury;
 - Red Jackal will perform ordinary labor rather than only appear for spectacle;
 - Red Jackal can create at least one unusual temporary physical support effect;
-- the effect is imperfect, short-lived, and physically taxing;
-- Red Jackal could not safely repeat it again that day;
+- the effect is temporary and somewhat rough in shape, but Kellan's placement makes it useful;
+- Red Jackal can manifest again; he simply has no reason to do so in CH-008;
 - the effect is useful when placed inside a real engineering plan;
 - Red Jackal helped move the supply load but did not replace permanent repair work.
 
@@ -1648,13 +1648,13 @@ No F-ID changed state in CH-008.
 
 ## Play Logic State After CH-008
 
-Red Jackal has now used Stage I Play Logic for practical terrain support under residual injury.
+Red Jackal has now used Play Logic for practical terrain support inside Kellan's engineering plan.
 
 Established observations:
 - clear functional purpose remains important;
 - output can still be uneven/imperfect;
 - external engineering judgment can determine whether the manifestation is actually safe/useful;
-- physical and mental exhaustion reduce control;
+- CH-008 does not establish exhaustion-based control loss;
 - the manifestation is temporary and not a substitute for permanent infrastructure.
 
 No new Play Logic rule was revealed.
@@ -1663,7 +1663,7 @@ No new Play Logic rule was revealed.
 
 No new M-005 clue was introduced.
 
-CH-007 residual pain/exhaustion remains materially relevant.
+CH-007 recent-injury soreness remains available as physical continuity, not as a power-limit mechanic.
 
 The regeneration mechanism remains protected.
 
@@ -1691,7 +1691,7 @@ This does not yet prove:
 
 CH-009 may begin with:
 
-- Red Jackal physically tired but functional after CH-008;
+- Red Jackal physically functional after CH-008, with no magical depletion state;
 - the official/local warning mismatch fresh in his mind;
 - Tavian's earlier statement that the animals are moving wrong;
 - Red Jackal now personally familiar with the cost of weak outer-route protection;
@@ -1728,7 +1728,7 @@ He knows:
 - official warning information can therefore lag behind lived outer-route conditions;
 - none of this proves deliberate suppression or deliberate monster redirection;
 - he remains unable to read Veyran writing;
-- his body is still recovering from CH-007/008 strain, though CH-009 does not require a new regeneration event.
+- recent CH-007 soreness may still be referenced, though CH-009 does not require a new regeneration event or recovery gate.
 
 He does not know:
 - march-lures exist;

@@ -1,10 +1,11 @@
 # CH-018 Publish Version QA
 
 **Canon Source:** `manuscript/CH018-NO-ACCEPTABLE-LOSS.md`  
-**Canon Source SHA:** `b8b28145444d1fd2fb3172e12f1bde50cb624b41`  
+**Canon Source SHA:** `fd1343f3465c801dbe16636a3d35b2b36c925357`
 **Publication Copy:** `published/volume-001/CH018-NO-ACCEPTABLE-LOSS.md`  
+**Publication Copy SHA:** `45960ea4d32c3569d78feabdf76e5edac6f7a2fa`
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-19  
+**Review Date:** 2026-09-20
 **Status:** PUBLISH-READY — GATE 11 PASS
 
 # Source Integrity

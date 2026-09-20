@@ -1,10 +1,11 @@
 # CH-017 Publish Version QA
 
 **Canon Source:** `manuscript/CH017-THE-PRICE-OF-BEING-RIGHT.md`  
-**Canon Source SHA:** `f88f868535c493d044d5f994ec1921ea96055016`  
+**Canon Source SHA:** `709ecd47b7b47f7c2a2596657fe1abadebe2cdfb`
 **Publication Copy:** `published/volume-001/CH017-THE-PRICE-OF-BEING-RIGHT.md`  
+**Publication Copy SHA:** `043fd3e71e175ae79a802afdfa814ed2702f3255`
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-19  
+**Review Date:** 2026-09-20
 **Status:** PUBLISH-READY — GATE 11 PASS
 
 # Source Integrity

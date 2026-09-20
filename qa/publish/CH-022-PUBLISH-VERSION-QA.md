@@ -1,10 +1,11 @@
 # CH-022 Publish Version QA
 
 **Canon Source:** `manuscript/CH022-FIRST-WAVE.md`  
-**Canon Source SHA:** `c44d340d4236a8cd1760d64a98a75015cbaf3c8b`  
+**Canon Source SHA:** `287e3244b35aca29f4b94169aa2e422dfffe823a`
 **Publication Copy:** `published/volume-001/CH022-FIRST-WAVE.md`  
+**Publication Copy SHA:** `a86b3fe9c835e344037968cb9f9f602ecb5067f8`
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-19  
+**Review Date:** 2026-09-20
 **Status:** PUBLISH-READY — GATE 11 PASS / OVERPOWERED RETCON REFRESH
 
 # Source Integrity

@@ -1,10 +1,11 @@
 # CH-021 Publish Version QA
 
 **Canon Source:** `manuscript/CH021-BEFORE-THE-HERD.md`  
-**Canon Source SHA:** `f1581bcf860c3cc61b856abce6b41fe3612a218e`  
+**Canon Source SHA:** `19a8a87e24a2f132b314b0a1d5efbc3c9408cbf4`
 **Publication Copy:** `published/volume-001/CH021-BEFORE-THE-HERD.md`  
+**Publication Copy SHA:** `02c2ce95a1572af2be4516bccf010a70e3474998`
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-19  
+**Review Date:** 2026-09-20
 **Status:** PUBLISH-READY — GATE 11 PASS / OVERPOWERED RETCON REFRESH
 
 # Source Integrity

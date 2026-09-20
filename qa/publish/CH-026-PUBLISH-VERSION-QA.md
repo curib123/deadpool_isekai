@@ -1,10 +1,11 @@
 # CH-026 Publish Version QA
 
 **Canon Source:** `manuscript/CH026-BEFORE-THEY-DECIDE-WHAT-I-AM.md`  
-**Canon Source SHA:** `38c0cd79a4291369788f71146a18be2af4e94715`  
+**Canon Source SHA:** `c6fc9a7d388adfbbb771036314d212f39480967f`
 **Publication Copy:** `published/volume-001/CH026-BEFORE-THEY-DECIDE-WHAT-I-AM.md`  
+**Publication Copy SHA:** `dc0562d23e0ea4fec2595070aecbf17fd20926d2`
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-19  
+**Review Date:** 2026-09-20
 **Status:** PUBLISH-READY — GATE 11 PASS
 
 # Source Integrity

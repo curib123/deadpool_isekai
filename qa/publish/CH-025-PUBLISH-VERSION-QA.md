@@ -1,10 +1,11 @@
 # CH-025 Publish Version QA
 
 **Canon Source:** `manuscript/CH025-WHAT-GREYWAKE-COUNTS.md`  
-**Canon Source SHA:** `7b742fb0afa1fb25bbcddc643dc31e1bb613fd89`  
+**Canon Source SHA:** `42bdd9bd26814b825168915663c3360317f27e8f`
 **Publication Copy:** `published/volume-001/CH025-WHAT-GREYWAKE-COUNTS.md`  
+**Publication Copy SHA:** `a7cceb6b2252a00b7c31b23cd5c03f0cd584b16a`
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-19  
+**Review Date:** 2026-09-20
 **Status:** PUBLISH-READY — GATE 11 PASS
 
 # Source Integrity

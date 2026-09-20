@@ -1,10 +1,11 @@
 # CH-024 Publish Version QA
 
 **Canon Source:** `manuscript/CH024-NO-ONE-GETS-CHOSEN.md`  
-**Canon Source SHA:** `3de95a85781214d13ed9152234d4cd3c68f09f47`  
+**Canon Source SHA:** `1bf9f2b850546e35597dc66d80b4c6b1e3a44253`
 **Publication Copy:** `published/volume-001/CH024-NO-ONE-GETS-CHOSEN.md`  
+**Publication Copy SHA:** `74a11a16263ad73325b49f580ef3c796e172cce8`
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-19  
+**Review Date:** 2026-09-20
 **Status:** PUBLISH-READY — GATE 11 PASS / OVERPOWERED RETCON REFRESH
 
 # Source Integrity

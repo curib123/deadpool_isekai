@@ -1,10 +1,11 @@
 # CH-023 Publish Version QA
 
 **Canon Source:** `manuscript/CH023-GREYWAKE-HOLDS.md`  
-**Canon Source SHA:** `aacd142ffb12eefa70133ebfaf89623c9d8e219e`  
+**Canon Source SHA:** `af765023e4579dac26b77de83ab6063b56b4aee9`
 **Publication Copy:** `published/volume-001/CH023-GREYWAKE-HOLDS.md`  
+**Publication Copy SHA:** `f317bdb81bd3c845974a91beb56a83b631bf171e`
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-19  
+**Review Date:** 2026-09-20
 **Status:** PUBLISH-READY — GATE 11 PASS / OVERPOWERED RETCON REFRESH
 
 # Source Integrity

@@ -1,10 +1,11 @@
 # CH-020 Publish Version QA
 
 **Canon Source:** `manuscript/CH020-THE-LAST-LURE.md`  
-**Canon Source SHA:** `74606bc50c8cce307f153fb9761f0f1fbc5e70dd`  
+**Canon Source SHA:** `1274d115c9dde321501349c8d7b092f0685de68d`
 **Publication Copy:** `published/volume-001/CH020-THE-LAST-LURE.md`  
+**Publication Copy SHA:** `bb250422fa2fad706167a44668c2132a8c6a44be`
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-19  
+**Review Date:** 2026-09-20
 **Status:** PUBLISH-READY — GATE 11 PASS / OVERPOWERED RETCON REFRESH
 
 # Source Integrity

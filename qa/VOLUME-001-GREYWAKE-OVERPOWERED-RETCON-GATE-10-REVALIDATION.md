@@ -1,10 +1,10 @@
-# POV / Style Retcon Notice
+# Historical POV / Style Retcon Notice
 
-This file remains the valid Gate 10 record for the already-overpowered power retcon, but it is no longer the current final volume approval.
+This file records the historical overpowered-retcon review. It is not the current final Volume 1 approval record.
 
-The series prose standard changed afterward from first-person to **close third-person limited**.
+The active canon is now **close first-person limited**, and CH-001→CH-026 have current individual Gate 9 records. Current Arc 1 authority is `qa/VOLUME-001-GREYWAKE-GATE-10-CANON-REVALIDATION.md` together with `qa/VOLUME-001-GREYWAKE-OFFICIAL-ARC-1-QA.md`.
 
-All CH-001→CH-026 manuscripts must be rewritten and individually Gate 9 revalidated before a new Volume 1 Gate 10 can pass.
+The historical third-person conversion language below remains context for the earlier production state and must not be read as a current rewrite request.
 
 ---
 
@@ -17,7 +17,7 @@ All CH-001→CH-026 manuscripts must be rewritten and individually Gate 9 revali
 **Audit Date:** 2026-09-19  
 **Scope:** CH-001 through CH-026 after Red Jackal overpowered retcon  
 **Gate:** Gate 10 — Series QA / Volume-Level Canon Revalidation  
-**Final Result:** STALE AFTER SERIES POV/STYLE RETCON — HISTORICAL PASS
+**Final Result:** HISTORICAL OVERPOWERED-RETCON PASS — SUPERSEDED AS CURRENT VOLUME AUTHORITY
 
 # 1. Revalidation Basis
 
@@ -363,10 +363,10 @@ The 13 revised chapters have individual overpowered-retcon Gate 9 PASS records.
 
 The pre-retcon Gate 10 file remains a historical record only.
 
-# 20. Next Required Gate
+# 20. Historical Next-Gate Note
 
-Because 13 canon manuscripts changed semantically, their old reader-facing publication copies are stale.
+The original publication-regeneration instruction below is historical and has been completed. Current reader-facing release state is governed by `qa/publish/VOLUME-001-PUBLISH-VERSION-QA.md` and the individual CH-001→CH-026 Gate 11 records.
 
-Next production step:
+Historical instruction retained for audit context:
 
 **Regenerate publication copies for CH-005, CH-006, CH-007, CH-009, CH-011, CH-015, CH-016, CH-019, CH-020, CH-021, CH-022, CH-023, CH-024 → Gate 11 revalidation.**

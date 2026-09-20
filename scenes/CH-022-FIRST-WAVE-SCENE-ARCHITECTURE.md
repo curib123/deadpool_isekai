@@ -26,6 +26,26 @@ Red is already overwhelmingly powerful. Any bounded-looking manifestation in thi
 
 All chapter-specific mystery, reveal, supporting-character agency, scene order, and later-chapter firewalls remain locked.
 
+# Battle / Scene QA Amplification Override — 2026-09-20
+
+**Battle ID:** V1-B07  
+**Scale:** MAJOR — first half of continuous Greywake climax  
+**Matchup:** Greywake coalition vs first migration wave  
+**Initial topology:** distributed defenders vs layered prey mass + following predators  
+**Topology changes:** civilian lane at risk → outer guide failure → ridge-hound spill → Hesk's unauthorized lure creates wrong-route branch → Broken North compression → territorial predator arrives  
+**Protected targets:** last civilian cart, militia/workers, Broken North work crews, route infrastructure  
+**Red's role:** local impossible corrections only at Tavian/Brynn calls; no solo herd control  
+**Tavian:** threshold, animal-read, route geometry  
+**Brynn:** command, withdrawals, worker/civilian protection  
+**Opposing force objective:** animals seek escape/open routes; predators exploit prey movement; Hesk's off-screen lure biases one branch  
+**Terrain:** lantern line, open approach, failed outer guide, drainage cut, Broken North entrance  
+**Turning point:** Hesk's unauthorized old-service lure pull becomes visible in animal behavior  
+**Ending:** largest territorial predator emerges into compressed corridor
+
+Battle QA requires at least three simultaneously legible pressure points in the chapter and at least one clear topology change before the ending.
+
+Final-engine correction: old Stage/use-count/exhaustion language below is superseded. Manifestation count is scene design, never Red's capability ceiling.
+
 # 1. Chapter Purpose Lock
 
 CH-022 is the first sustained migration-action chapter.

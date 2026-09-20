@@ -1,331 +1,529 @@
 Chapter 2 — Undefined
 
-Civilization announced itself with smoke, wagon wheels, and a wall tall enough to make me reconsider how dangerous the forest behind me actually was. The road curved down through thinning trees toward a timber palisade, its watch platforms half-hidden in river fog while carts waited in two slow-moving lines outside the gate.
+Civilization announced itself with smoke, wagon wheels, and a wall tall enough to make the forest behind me look like it had been somebody else's problem all along. The road curved down through thinning trees toward a timber palisade. River fog drifted between the watch platforms. Two lines of carts waited outside the gate while drivers checked harnesses, guards inspected loads, and merchants argued with the confidence of people whose morning had apparently not included being bitten by an unidentified forest animal.
 
-People were everywhere. Drivers checked harnesses, guards inspected loads, merchants argued over crates, and somewhere beyond the wall somebody was hammering metal with the steady confidence of a person who had not been attacked by an unidentified forest animal before breakfast.
+People. Walls. Food, hopefully.
 
-People. Walls. Probably food. Also rules. That part was less exciting. I stopped at the edge of the road and took a moment to compose myself. My sleeve was torn, dried blood marked my forearm, and mud had formed what I can only describe as a political alliance with the rest of my clothes.
+Rules, definitely. I stopped where the trees gave way to the road and looked down at myself. Dried blood marked my torn left sleeve. Mud covered one knee, both boots, and enough of my coat to damage the mysterious-stranger aesthetic I had been cultivating for almost an hour.
 
-First impressions still mattered. I straightened my back, rolled one shoulder, and walked toward the gate as if I knew where I was going. Looking uncertain usually invites more questions.
+Almost. I straightened my back anyway. Nobody had to know how much effort the entrance required.
 
-Looking composed does not prevent the questions either, but it is slightly better for morale. Two guards noticed me before I reached the first wagon. One was broad enough to make the spear in his hand look decorative. The other was younger, narrower, and already staring at the blood on my sleeve.
+The world paused. A wagon wheel stopped halfway through a turn. Fog froze in pale ribbons above the ditch. A horse held one hoof in the air.
 
-The broad guard raised one hand and said something I did not understand. I gave him my most reasonable expression. “I'm going to assume that means welcome.” His frown deepened while the younger guard replied in the same unfamiliar language.
+I looked toward you.
 
-I understood exactly none of it. So much for the entrance. I pointed at myself. “Red Jackal.”
+"First impressions matter."
 
-Then I pointed through the gate. The guards exchanged a look that required no translation. I repeated the gesture more slowly, because apparently that was how language worked when confidence failed. The younger guard called toward a booth built into the gate. A tired-looking attendant emerged carrying a round brass token on a cord, held it between us, and pressed his thumb to its center.
+I glanced down at the mud again.
 
-A faint pressure passed through the air. Not quite sound. Not quite vibration. More like the instant before someone spoke close to your ear.
+"We are currently working with limited resources."
 
-“Try again,” the attendant said. I blinked. The sounds coming from his mouth still were not English, but the meaning arrived anyway. I looked at the brass token, then at him.
+Time resumed. The horse finished its step. I walked toward the gate like I belonged in the line.
 
-“That is either very useful or extremely invasive.”
+Two guards noticed me before I reached the nearest wagon. One was broad enough to make the spear in his hand look decorative. The other was younger, narrower, and staring at the dried blood on my sleeve.
 
-“Wayfarer tongue token,” he said, glancing at it as if I had complimented a spoon. “It carries ordinary speech. Not thoughts.”
+The broad guard raised a hand and said something. I stopped. The sentence was definitely language.
 
-“Good distinction.”
+It was not any language I understood. I gave him a polite smile. "I'm going to assume that meant welcome." His expression suggested it had not.
 
-“It does not translate writing either.” I glanced at the boards beside the gate, all covered in the same symbols I had failed to read on the road.
+The younger guard said something else, slower this time, as if unfamiliar words became international when spoken with disappointment. I pointed at myself. That created a new problem.
 
-“Less good distinction.” The attendant ignored that with the calm professionalism of a man who had clearly dealt with travelers before.
+Name. I knew what names were. I knew I should have one. I knew there had once been a person attached to the missing pieces in my head.
 
-“Name?”
+But when I reached backward for the answer, I got white light and empty space. The guards waited. I looked at my dark coat, the dried blood, the forest behind me, and the general state of my life.
 
-“Red Jackal.” He waited. I waited back.
+"Red Jackal."
 
-“Your name,” he repeated.
+The name arrived because I needed one. Not remembered. Chosen.
 
-“That was the answer.” The younger guard made a sound the token translated mostly as disbelief. The attendant rubbed his forehead. Apparently saying it once was not enough. Fair.
+The broad guard frowned harder. I pointed through the gate. He said something to the younger guard. The younger one called toward a booth built into the palisade, and a tired-looking attendant came out carrying a round brass token on a cord.
 
-“Fine,” he said. “Claimed name: Red Jackal. Origin?” That was a much worse question.
+He held the token between us and pressed his thumb into its center. A faint pressure brushed past my ears. Not exactly sound. More like the moment before someone spoke very close to me.
 
-I could have said Earth. I could have said another world. I could have explained that my last memory involved rain, headlights, and an argument with physics that I had apparently lost.
+"Try again," the attendant said.
 
-Instead, I glanced toward the forest behind me. “Complicated.”
+I blinked. The sounds leaving his mouth were still unfamiliar, but the meaning reached me cleanly.
 
-“That is not an origin.”
+"That," I said, "is either extremely useful or the beginning of a privacy lawsuit."
 
-“I noticed.” He continued. Travel party? None.
+"Wayfarer Tongue Token."
 
-Papers? None. Guild seal? No.
+He said it with the enthusiasm of a man naming a spoon.
 
-Local sponsor? Not yet. Each answer removed another small piece of his remaining optimism. The broad guard pointed at my torn sleeve and asked whether I was armed.
+"It carries ordinary speech inside its range. Not thoughts."
 
-“Currently? No.” It was true, which seemed sufficient.
+"Important distinction."
 
-The attendant looked me over. “You came out of the north road alone, with no papers, guild mark, or recognized sponsor, and you're injured.”
+"It does not translate writing."
 
-“Yes to most of that.” I glanced at my forearm. The cuts were still visible, but compared with what they had been less than an hour earlier, they looked insultingly minor. They remained sore and tight when I flexed my hand. Whatever had healed them had not bothered with comfort.
+I looked at the boards beside the gate. Same unfamiliar script as the road sign.
 
-“It's improving.” The guard did not look reassured.
+"Less important distinction. Much more disappointing."
 
-“It's healing,” I added. Nobody looked reassured.
+The attendant ignored that. Professional.
 
-The attendant pointed toward the gate. “This is Greywake. Entry is controlled. If you have no papers, we check registry.”
+"Name?"
 
-Greywake.
+"Red Jackal."
 
-There it was. A name. I looked past him at the fog-softened roofs beyond the palisade. “Greywake.” It fit the weather.
+He waited. I waited.
 
-“Do you want to enter or review the naming?”
+"Your name."
 
-“Enter.”
+"That was the answer."
 
-“Then stand on the seal.” Set into the stone beside the gate was a circular metal plate I had assumed was decoration. Thin geometric grooves crossed its surface, and a smaller indicator plate sat beside the gatepost.
+The younger guard made a sound the token translated mostly as disbelief. The attendant rubbed the bridge of his nose. "Claimed name: Red Jackal."
 
-A merchant ahead of me stepped onto it. The grooves lit faintly, the attendant glanced at the indicator, and the man was waved through without ceremony.
+"See? We're making progress."
 
-Routine.
+"Origin?"
 
-That part mattered. Nobody reacted beyond checking the result. So this was routine.
+That one was worse. Explosion. White light.
 
-Whatever this thing was, these people used it the way normal people used identification. I stepped onto the seal. The grooves brightened beneath my boots. Then they stopped.
+Forest. Everything before those things existed mostly as missing doors in my head. I glanced toward the road behind me. "Complicated."
 
-The attendant frowned and tapped the indicator. “Stay there.”
+"That is not an origin."
 
-“All right.” He reset the seal and tried again. Same pale light. Same incomplete pattern.
+"I noticed."
 
-Same sudden stop. A mark flashed on the side indicator. The attendant's expression changed. The younger guard leaned closer.
+He continued anyway. Travel party? None.
 
-The broad one shifted his grip on his spear. I waited for someone to explain what that meant.
+Papers? None. Guild seal?
 
-“Something unusual?” I asked. The attendant gave me a flat look that damaged the performance immediately.
+No. Local sponsor? Also no.
 
-“System Recognition: Failed.”
+Each answer removed another small piece of the attendant's optimism. The broad guard pointed at my torn sleeve. "Armed?"
 
-System.
+"Currently? No."
 
-Finally.
+He did not seem comforted by the word currently. The attendant looked me over. "You came out of the north road alone, with no papers, no guild mark, no recognized sponsor, and blood on your clothes."
 
-I had been waiting for something like this since I woke up in the forest. If this world had a System, I had finally found it. It just did not seem to know what to do with me.
+"That sounds worse when you organize it."
 
-The attendant checked the indicator again. “World Registry: No Record.” The broad guard's shoulders tightened. I folded my arms, then regretted it when the healing cuts pulled.
+"It was already organized."
 
-“So the world itself has no record of me.”
+Fair. I glanced at my left forearm. The cuts from the forest were still visible beneath the torn fabric, but they had closed enough to make the dried blood look dishonest. The skin remained sore and tight when I flexed my hand.
 
-“It means I cannot finish the entry form.” The attendant seemed less interested in the existential implications than in the unfinished form. Reasonable, unfortunately. The younger guard watched me more carefully now.
+"It's improving."
 
-Not terrified. Just less willing to assume I was ordinary.
+The younger guard looked at the wound, then at me. I added, "Apparently." That did not help.
 
-At least the guards were taking me seriously now. That was something. “What does it normally say?”
+The attendant pointed toward the gate. "This is Greywake. Entry is controlled. If you have no papers, we check registry."
 
-“Recognized. Then it returns the entry categories we need.”
+Greywake. I looked past him at timber roofs fading into river fog. The name meant nothing to me.
 
-“And if it doesn't?”
+At least now the place had one.
 
-“We verify separately.” The attendant motioned me off the seal. “Could be the ward. Could be damaged relation data, interference, unusual registration, fraud. We don't decide from one failed gate check.”
+"Greywake," I repeated.
 
-That was reasonable. It also meant I could not dismiss the result as a broken gate and move on.
+"Yes."
 
-They moved me into a narrow intake room built beside the gate. A single desk divided the space, blank wooden tags hung from hooks along one wall, and more unreadable writing covered the other.
+"I was hoping civilization would have a less judgmental entrance."
 
-Still unreadable. The Wayfarer token was hung from a peg between us, its faint hum carrying the conversation while the attendant disappeared through a side door. He returned with a woman in a grey-brown clerk's coat and a rectangular slate framed in metal.
+"It does not."
 
-She set it on the desk. “Certified identity slate. Separate query from the gate ward.”
+I liked him a little more.
 
-“So if this fails too, we stop blaming the gate?” She paused.
+"Do you want to enter?"
 
-“That is one way to phrase it.” I liked her already.
+"Very much."
 
-The clerk gestured above the center panel. “Hand here. Don't touch the frame.” I obeyed.
+"Then stand on the seal."
 
-The panel clouded. Symbols filled the surface. I could not read a single one. The clerk could.
+A circular metal plate had been set into the stone beside the gate. Thin geometric grooves crossed its surface. A smaller indicator plate sat on the post nearby.
 
-Her eyes moved across the display once, then returned to the first line. She read it again more slowly. “What?” I asked.
+A merchant ahead of me stepped onto it. The grooves lit. The attendant checked the indicator.
 
-She did not answer immediately. The guard behind me shifted his weight. Nobody said anything for a few seconds. I could either panic or continue pretending this was manageable. I straightened slightly.
+The merchant was waved through. Routine. Nobody stared. Nobody reached for a weapon. Nobody reconsidered metaphysics.
 
-“I assume that is not normal.” The clerk looked up.
+Then it was my turn. I stepped onto the seal. The grooves brightened beneath my boots.
 
-“I've discovered your form is unusable.”
+Then stopped. The attendant frowned. He tapped the indicator.
 
-That was clear enough.
+"Stay there."
 
-She looked back down. “Claimed name?”
+"Wasn't planning a dramatic escape."
 
-“Red Jackal.”
+He reset the seal. The light ran again. It stopped in exactly the same place.
 
-“I can record that manually. The System Name field is undefined.” My smile stayed where it was. Something underneath it did not.
+A mark flashed on the indicator. The younger guard leaned closer. The broad guard shifted his grip on his spear.
 
-“Undefined how?”
+That was the point where silence stopped feeling decorative.
 
-“The slate cannot return a valid defined value.”
+"Something unusual?" I asked.
 
-“Hidden?”
+The attendant gave me a flat look.
 
-“No.”
+"System Recognition: Failed."
 
-“Blocked?”
+System. Finally. Some part of my brain had been waiting for that word since the forest.
 
-“No.”
+The world paused. The gate lane froze. A driver stopped with his mouth open mid-argument. Fog hung motionless beyond the palisade. The broad guard's hand remained locked around his spear.
 
-“Restricted?”
+I looked toward you.
 
-“No.” That answer landed harder than I wanted it to. The clerk continued, more carefully now.
+"There it is."
 
-“Race: undefined. Class: undefined. Level: undefined. HP and MP are also undefined. Progression unavailable.”
+I pointed down at the glowing seal.
 
-The guard stopped pretending not to listen. I stared at the slate even though the symbols meant nothing to me. Watching someone read information about me while I could not understand the writing was uncomfortable.
+"The System."
 
-It got worse. “System Recognition failed,” she said. “Classification: anomaly. World Registry: no record.”
+I waited a beat.
 
-She hesitated before the last line. “Soul Registry: no record.” The room became very quiet. For once, I did not help.
+"It belongs to everyone except me."
 
-I had a few comments ready. I did not use them. The first device had failed.
+Time resumed. The driver's argument continued from the exact syllable where it had stopped. The attendant checked the indicator again. "World Registry: No Record."
 
-Fine. Machines fail. Magic circles fail. People hit things and try again.
+I folded my arms and immediately regretted it when my forearm pulled.
 
-This was different. A separate tool had asked a deeper question through a different process and produced the same absence in greater detail. Not hidden. Not sealed.
+"So the world itself has no record of me."
 
-Not above their authority.
+"It means I cannot finish the entry form."
 
-Undefined.
+There are moments when existence becomes very small. Apparently one of them is when an existential crisis is reduced to incomplete paperwork.
 
-No record.
+"What does it normally say?"
 
-I was standing in the room. I was breathing. My arm hurt. I had walked here under my own power.
+"Recognized. Then it returns the legal screening state."
 
-And according to whatever structure these people trusted to define such things, I apparently lacked the courtesy to exist correctly. It did not feel liberating. Mostly it felt inconvenient in ways I did not understand yet. The clerk looked at me. “Do you know why this is happening?”
+"And when it doesn't?"
 
-“No.” That answer needed no performance. She studied me for a moment, then pulled a paper form closer and wrote by hand. I could not read the script, but she said the entry aloud.
+"We verify separately. The seal may be damaged. There may be interference, corrupted relation data, unusual registration, fraud."
 
-“Claimed name or alias: Red Jackal.”
+"Fraud feels ambitious. I don't even have money."
 
-“Alias?”
+The attendant motioned me off the seal. "We do not decide from one failed gate check." Reasonable.
 
-“Unless the System recognizes it as your Name, yes.” I leaned back.
+Annoyingly reasonable. They took me into a narrow intake room beside the gate. A desk divided the space. Blank wooden tags hung from hooks along one wall. The other wall was covered in writing I still could not read.
 
-“So I can tell you who I am, but the System cannot confirm it.”
+The Wayfarer token was hung from a peg between us. Its faint pressure remained at the edge of my hearing. The attendant disappeared through a side door and returned with a woman in a grey-brown clerk's coat carrying a rectangular slate framed in metal.
 
-“The System is not the universe.” Good to know.
+She placed it on the desk.
 
-“Then your System refuses to sign the paperwork.”
+"Certified Identity Slate. Separate authorization from the gate seal."
 
-“That is closer.” I filed the correction away. The door opened behind us. The woman who entered was not dressed like the gate guards, but the way both of them straightened told me she did not need matching armor to outrank them.
+"So if this fails too, we stop blaming the gate?"
 
-Practical coat. Reinforced boots. Short weapon at her side. Nothing ornamental.
+She looked at me for half a second.
 
-Her eyes went first to the clerk, then the slate, then me. Efficient order. “Captain Alder,” the clerk said. So.
+"That is one way to phrase it."
 
-Authority. Captain Brynn Alder took in the room without rushing. “Summary.” The clerk gave it to her in less than half a minute: no papers, unknown origin, cooperative, gate seal failed, certified slate failed separately, claimed alias Red Jackal, no registry relation, standard fields undefined.
+I liked her immediately.
 
-Brynn looked at me. “You understand me?” I glanced at the brass token.
+"Hand over the center. Do not touch the frame."
 
-“With assistance.”
+I obeyed. The slate clouded beneath my palm. Lines of symbols spread across its surface.
 
-“Good. Where did you enter the north road?”
+Still unreadable. The clerk's eyes moved over them. Then back to the first line.
 
-“I found an older road in the forest and followed it until it became a better road.”
+She read it again. The guard behind me stopped pretending not to watch.
 
-“Before that?”
+"What?"
 
-“Forest.” Her expression did not change.
+She did not answer immediately. That silence was different from the one outside. Outside, a machine had failed.
 
-“Yes. I heard that part.” I considered how much truth would improve my position. Not much.
+This looked like the machine had answered. Just not correctly.
 
-“I woke up there.”
+"I assume that face means I am winning."
 
-“After what?”
+"No."
 
-“A very bad night.” Not technically false. Brynn's gaze dropped to the blood on my sleeve.
+"Good. I hate easy games."
 
-“You were attacked?”
+Her eyes returned to the slate. "Claimed name?"
 
-“Yes.”
+"Red Jackal."
 
-“By what?”
+"I can enter that manually."
 
-“I'd love to know.”
+She tapped the edge of the slate.
 
-“You need a healer?” My forearm hurt enough that the answer was probably yes. I ignored it.
+"The System Name field is undefined."
 
-“I can move it. Bleeding stopped.” She studied the visible marks briefly, then returned her attention to my face. She did not ask why the injury looked better than the dried blood suggested it should.
+My smile stayed in place. Something underneath it did not.
 
-Good. One mystery at a time. Another woman stood near the far side of the room, close enough to have heard the summary. I had noticed her earlier only as someone holding papers, but she was watching the slate instead of me.
+"Undefined how?"
 
-Dark practical clothing. Neat posture. No visible weapon. She looked like someone reviewing a result she did not trust yet.
+"The slate cannot produce a valid defined value."
 
-Brynn noticed her. “You have a question, Orra?”
+"Hidden?"
 
-“One.” The woman looked at the clerk.
+"No."
 
-“The gate seal and identity slate were separate authorized interfaces?”
+"Blocked?"
 
-“Yes.”
+"No."
 
-“Separate local query paths?”
+"Restricted?"
 
-“Yes.”
+"No."
 
-“And neither produced a valid registry relation?”
+That answer landed harder than the others. The clerk continued.
 
-“Correct.” Only then did she look at me. Not frightened. Interested.
+"Race: undefined. Class: undefined. Level: undefined."
 
-I preferred the guards' suspicion. Interest usually led to more questions. “Maelis Orra,” she said. “Ledger of Measures.”
+The room became quieter with every field.
 
-“Red Jackal. Apparently.” One corner of her mouth almost moved. Almost.
+"HP: undefined. MP: undefined. Progression unavailable."
 
-Brynn looked between us. “This is still my gate.” Maelis dipped her head.
+The guard looked at me as though I had personally insulted mathematics. I looked at the slate. I could not read a single symbol.
 
-“I know.”
+That made it worse. Someone else was reading the definition of me aloud while I stood there unable to verify the words.
 
-“Good.” I liked Brynn too. She rested one hand on the desk.
+"System Recognition failed," the clerk said. "Classification: anomaly. World Registry: no record."
 
-“Here's the problem, Red Jackal. The System doesn't identify you. That means the gate can't verify your history, entry category, guild standing, legal notices, or travel relation.”
+She paused before the last one.
 
-“I don't have any of those.”
+"Soul Registry: no record."
 
-“That does not improve the problem.” Fair.
+Nobody spoke. For once, I did not rescue the silence. The first seal had failed.
 
-“You've cooperated,” she continued. “You haven't threatened anyone. You came in on foot, you're unarmed, and I don't have grounds to put you in a cell because a registry tool failed.” The younger guard relaxed slightly.
+Fine. Devices failed. Wards malfunctioned.
 
-Brynn continued before I could make too much of that. “I also don't have grounds to treat you like a verified traveler.” Being outside the classification system sounded useful until someone explained what the classification system actually did. Apparently protections and restrictions came together. “So what's the compromise?” Brynn looked at the clerk.
+People kicked things and tried again. But this was a second tool. Different purpose.
 
-“Unverified entrant.” The clerk took one of the blank wooden tags hanging beside the desk. She stamped it with a simple gate emblem, added a manual mark, threaded a dark cord through the top, and slid it toward me.
+Different place. Same absence. Not hidden.
 
-“Temporary,” Brynn said. “Keep it with you.” I picked it up. It was just wood, cord, and a stamp. For the moment, that was enough to represent me. “Temporary, then.”
+Not sealed. Not too powerful to read. Undefined.
 
-“It should be.” Brynn explained the restrictions without ceremony. If militia or gate staff challenged me, I had to show the token. I could enter the settlement, buy ordinary goods, rent a room if somebody was willing to take my money—which introduced the exciting new problem that I had no money—and move through unrestricted public areas.
+No record. I looked down at my hand. It was real enough to cast a shadow on the slate.
 
-I could not accept normal registered guild contracts. I could not use identity-bound gate or travel services. I would not receive standard registered-traveler guarantees or insurance. And at the next intake cycle, I had to return for a controlled follow-up identity check.
+My arm still hurt. I was breathing. I had walked here.
 
-“That last one with her?” I asked, glancing at Maelis.
+Something in the forest had tried to eat me with great confidence. Whatever structure these people trusted to describe a person had looked directly at me twice and failed to construct an answer. The clerk looked up. "Do you know why this is happening?"
 
-“I'd like to observe it,” Maelis said. “And verify the result.”
+"No."
 
-“That sounds less relaxing.”
+No joke came with it. Just the truth. She studied me for another moment, then pulled a paper form closer and began writing by hand.
 
-“It isn't intended to be relaxing.” Brynn gave Maelis a brief look, then returned to me.
+I could not read that either.
 
-“You report back. You cooperate. If you cause trouble, the token makes it easier for my people to know which unverified stranger they're looking for.” I held up the wooden tag.
+"Claimed name or alias: Red Jackal."
 
-“So this is not a badge of honor.”
+"Alias?"
 
-“No.”
+"Unless the System recognizes it as your Name, yes."
 
-“Special access?”
+I leaned back slightly. "So I can tell you who I am, but the System doesn't agree."
 
-“No.”
+"The System is not the universe."
 
-“Mysterious exemption from local law?”
+That sentence mattered. I filed it away.
 
-“No.” I looked at the token again. “So I keep this and try not to become a problem.”
+"So your System refuses to sign the paperwork."
 
-“That would help,” Brynn said. The clerk almost smiled. Some of the tension left the room. The clerk gathered the failed forms into a separate stack. One copy went into a gate file. Another, she explained, would pass through normal guild administration because my restrictions prevented ordinary contract processing.
+"That is closer."
 
-I did not know who would read it. At the time, I did not care. I had more immediate problems: food, money, a roof, and some explanation for why every official tool seemed unable to decide what I was. The gate opened to the inner lane.
+The door opened behind us. The woman who entered wore no gate uniform, but both guards straightened before she said a word. Practical coat. Reinforced boots. Short weapon at her side. Nothing ornamental.
 
-I stepped through. Greywake was not grand. That was the first thing I noticed. It was alive.
+Her eyes went to the clerk first, then the slate, then me. Efficient order.
 
-Timber buildings leaned close along packed-earth streets. Lantern bridges crossed narrow drainage channels. Carts creaked through river mist while somebody hammered metal nearby and somebody else cooked something that smelled unfairly good.
+"Captain Alder," the clerk said.
 
-People moved with the practical speed of a place that expected work to be finished before the weather changed its mind. Nobody stopped to welcome me. Good enough. For the first time since waking in the forest, I was surrounded by people.
+Captain Brynn Alder. Authority had arrived.
 
-I should have felt safer. Instead, the wooden token in my hand suddenly felt heavier than it had any right to. The forest had tried to eat me. Greywake had done something stranger.
+"Summary."
 
-It had asked the world who I was. The world had answered:
+The clerk gave it cleanly. No papers. Unknown origin. Cooperative. Gate Registry Seal failed. Certified Identity Slate failed independently. Claimed alias Red Jackal. Standard identity fields undefined. No registry relation.
 
-No record.
+Brynn looked at me.
 
-From a distance, it probably sounded mysterious. Standing there with the token in my hand, it mostly felt like a problem I could not file away.
+"You understand me?"
+
+I pointed at the brass token hanging from the peg. "With assistance."
+
+"Where did you enter the north road?"
+
+"I found an old road in the forest and followed it until it became a better road."
+
+"Before that?"
+
+"Forest."
+
+Her expression did not change.
+
+"Yes. I heard that part."
+
+I considered whether the full truth would improve the situation. I woke up after an explosion I could barely remember, reality froze when I talked to an invisible audience, and yesterday's version of me had apparently misplaced his entire biography. No.
+
+Not an improvement.
+
+"I woke up there."
+
+"After what?"
+
+I looked at her.
+
+"A very bright problem."
+
+Her gaze dropped to the blood on my sleeve.
+
+"You were attacked?"
+
+"Yes."
+
+"By what?"
+
+"I was hoping your people had a brochure."
+
+"You need a healer?"
+
+My forearm was sore, but the wounds had already done enough impossible work for one day.
+
+"I can move it. The bleeding stopped."
+
+Brynn studied the visible marks for a moment. Then she let it go. Good captain.
+
+One mystery at a time. Another woman stood near the far side of the room with papers under one arm. I had noticed her earlier without paying attention.
+
+Dark practical clothes. Neat posture. No visible weapon.
+
+She was watching the slate. Not me. That was somehow more concerning.
+
+Brynn noticed her too. "You have a question, Orra?"
+
+"One."
+
+The woman looked at the clerk. "The gate seal and the identity slate were separate authorized interfaces?"
+
+"Yes."
+
+"Separate local query paths?"
+
+"Yes."
+
+"And neither produced a valid registry relation?"
+
+"Correct."
+
+Only then did she look at me. Not afraid. Interested.
+
+I preferred fear. Interest generated paperwork.
+
+"Maelis Orra," she said. "Ledger of Measures."
+
+"Red Jackal."
+
+I paused.
+
+"Apparently."
+
+One corner of her mouth almost moved. Almost. Brynn looked between us. "This is still my gate."
+
+Maelis dipped her head. "I know."
+
+"Good."
+
+I liked Brynn. She rested one hand on the desk. "Here's the problem, Red Jackal. The System does not identify you. That means the gate cannot verify your history, entry category, guild standing, legal notices, or travel relation."
+
+"I don't have any of those."
+
+"That does not improve the problem."
+
+Fair.
+
+"You've cooperated. You haven't threatened anyone. You came in on foot, you're unarmed, and I don't have grounds to put you in a cell because a registry tool failed."
+
+The younger guard relaxed slightly. I did too, internally. Brynn continued before I could celebrate.
+
+"I also don't have grounds to treat you like a verified traveler."
+
+There it was. Being outside the classification system sounded much cooler before someone explained what the classification system provided. The world paused.
+
+Brynn froze with one hand on the desk. Maelis's eyes remained fixed on me. The brass token's faint hum vanished.
+
+I looked toward you.
+
+"Anomaly."
+
+I let the word sit there.
+
+"Very dramatic."
+
+Then I pointed at the unfinished form.
+
+"Apparently not a VIP category."
+
+Time resumed. Brynn had noticed nothing.
+
+"So what's the compromise?" I asked.
+
+The clerk reached for one of the blank wooden tags hanging beside the desk.
+
+"Unverified entrant."
+
+She stamped it with a simple gate emblem, added a manual mark, threaded a dark cord through the top, and slid it toward me. Brynn tapped the tag once.
+
+"Temporary. Keep it with you."
+
+I picked it up. Wood. Cord. Ink.
+
+After two magical devices had failed to prove I existed, Greywake's solution was a piece of wood. I respected that.
+
+"What does it get me?"
+
+"Entry."
+
+"Excellent start."
+
+"If militia or gate staff challenge you, show it. You may buy ordinary goods, rent a room if someone accepts you, and move through unrestricted public areas."
+
+Money. Right. A problem for later.
+
+Brynn continued.
+
+"You cannot accept normal registered guild contracts. You cannot use identity-bound gate or travel services. You do not receive standard registered-traveler guarantees or insurance."
+
+"Less excellent."
+
+"You will return for a controlled follow-up identity check at the next intake cycle."
+
+I looked toward Maelis. She answered before I asked. "I want to observe the re-check."
+
+"That sounds relaxing."
+
+"It isn't intended to be."
+
+Brynn gave her a brief look, then returned to me.
+
+"You report back. You cooperate. If you cause trouble, the token makes it easier for my people to know which unverified stranger they're looking for."
+
+I held up the wooden tag.
+
+"So this isn't a badge of honor."
+
+"No."
+
+"Special access?"
+
+"No."
+
+"Mysterious exemption from local law?"
+
+"No."
+
+I studied the tag. "You're really committed to ruining the branding." The clerk looked down quickly.
+
+I was almost certain she had smiled.
+
+"So I keep this and try not to become a problem."
+
+"That would help," Brynn said.
+
+The tension in the room eased just enough for everyone to remember they had other jobs. The clerk gathered the failed forms into a separate stack. One copy went into a gate file. Another, she explained, would pass through normal guild administration because my restrictions prevented ordinary contract processing.
+
+I watched the page disappear into the pile. Somewhere beyond this room, Greywake had its own work, arguments, problems, and people who had no idea I existed. Good.
+
+A whole town already had a story before I arrived. I preferred arriving late. Less setup.
+
+The inner gate opened. I stepped through. Greywake was not grand.
+
+It was alive. Timber buildings leaned close along packed-earth streets. Lantern bridges crossed narrow drainage channels. Carts creaked through the river mist. Somebody hammered metal deeper inside the settlement while steam rolled from a food stall and attacked my empty stomach with more effectiveness than the forest predator had managed.
+
+Nobody stopped to welcome me. Nobody bowed. Nobody whispered prophecy.
+
+Excellent. I looked down at the wooden token hanging from my fingers. The forest had tried to eat me.
+
+Greywake had asked the world who I was. The world had answered twice. Undefined.
+
+No record. I closed my hand around the token and walked farther into town. For now, Red Jackal would do.

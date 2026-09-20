@@ -1110,14 +1110,14 @@ CH-008 introduces **no new F-ID**.
 
 ## Play Logic
 
-Maximum:
-- one Stage I terrain/bridge-assist manifestation total.
+Scene design:
+- one terrain/bridge-assist manifestation occurs.
 
 No retry is needed.
 
 No new rule.
 
-No Stage II.
+No Stage/progression interpretation.
 
 ## Regeneration / M-005
 
@@ -1143,7 +1143,7 @@ The official/local warning mismatch establishes an information problem only.
 
 # 16. Chapter Emotional Curve
 
-**sore practicality → curiosity → respect for Kellan's competence → frustration with unequal resources → strained useful contribution → quiet personal investment → suspicion at the warning mismatch**
+**sore practicality → curiosity → respect for Kellan's competence → frustration with unequal resources → useful contribution → quiet personal investment → suspicion at the warning mismatch**
 
 The chapter should feel more grounded and work-focused than CH-007.
 
@@ -1153,7 +1153,7 @@ Pre-Manuscript Scene QA must verify:
 
 - five scenes are necessary and causally linked;
 - CH-007 canon checkpoint is respected;
-- residual injury/exhaustion remains active;
+- recent-injury soreness may remain active without magical depletion;
 - Sela does not appear;
 - Tavian does not appear;
 - Kellan enters through practical engineering work;
@@ -1165,9 +1165,9 @@ Pre-Manuscript Scene QA must verify:
 - outer workers remain competent;
 - bridge problem is environmental/infrastructural, not a monster battle;
 - supplies/people need the bridge/crossing;
-- Red Jackal's CH-007 responsibility lesson affects his choices;
-- exactly one Play Logic manifestation attempt/success maximum;
-- manifestation is Stage I, temporary, imperfect, and tiring;
+- CH-007's causal consequence informs Red Jackal's scene awareness without completing a moral-development arc;
+- exactly one Play Logic manifestation occurs because the bridge plan requires one temporary support;
+- manifestation is temporary and somewhat rough in shape, with no Stage or stamina-cost interpretation;
 - Kellan's engineering determines where/how the temporary support is useful;
 - Red Jackal does not permanently repair the bridge with magic;
 - no new Play Logic rule appears;

@@ -8,6 +8,24 @@
 **POV:** Red Jackal first person  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
+# Soul-Drift / Final Story-Engine Override
+
+The five-scene CH-007 event sequence remains locked, but legacy Stage/progression, regeneration-cost, and conventional-development language below is superseded by the final story engine.
+
+Current interpretation:
+- Red is already overwhelmingly powerful; CH-007 is not a regeneration unlock, durability upgrade, Stage transition, or mastery step.
+- Red's regeneration is an already-existing extreme self-restoration phenomenon. The chapter reveals it medically; it does not strengthen it.
+- severe injury remains painful and can create immediate physical shock/disorientation, but regeneration does **not** spend a finite stamina pool or impose a magical recovery budget.
+- CH-007 contains one rescue manifestation because one task-aligned barrier is enough for the scene. This is an authorial/event choice, not Red's maximum use count.
+- the rescue manifestation applies the already-planted CH-005 framing observation and introduces no new Play Logic rule.
+- Red could end the physical predator problem much more decisively; the chapter's tension comes from the worker already being injured, extraction geometry, treatment access, and consequences of Red's game.
+- the worker's injury is caused by Red's stable flaw—letting a dangerous situation become personally interesting—not by lack of power.
+- the aftermath provides causal information and social consequence, not a conventional moral-development checkpoint. Red remains Red and may make comparable bad choices later.
+- Sela's finite healing resources belong to local medicine and do not imply any comparable limit on Red's regeneration.
+- F-003 must plant only the observational clue: autonomous correction + conventional healing/diagnostic mismatch. The self-model mechanism remains protected.
+- genuine audience address invokes Fourth-Wall Pause every time.
+- M-007 remains inactive.
+
 # 1. Chapter Purpose Lock
 
 CH-007 must move Red Jackal from:
@@ -26,9 +44,9 @@ The chapter must also:
 4. make that same choice increase danger to another person;
 5. give Tavian a rescue-first response that preserves his CH-006 character authority;
 6. force Red Jackal to prioritize extraction over looking impressive;
-7. permit one short-lived Stage I Play Logic rescue/defense aid without introducing a new power rule;
+7. use one task-aligned Play Logic rescue/defense aid without introducing a new power rule or capability ceiling;
 8. inflict a severe injury on Red Jackal that would be life-threatening to an ordinary person;
-9. make regeneration painful, exhausting, and tactically costly rather than empowering;
+9. make the severe injury painful and consequential while showing that regeneration is already extreme and autonomous rather than a resource-limited upgrade;
 10. introduce Sela Arven through active triage at Greywake's treatment house;
 11. show the material cost and prioritization pressure of frontier medicine;
 12. plant F-003 observationally: conventional healing magic encounters a body already correcting itself in a nonstandard way;
@@ -53,7 +71,7 @@ Red Jackal begins CH-007 knowing:
 - the animals are “moving wrong,” but neither Red Jackal nor Tavian knows why;
 - Red Jackal's private Road Guild work remains available;
 - Red Jackal can intentionally manifest temporary objects when he has a clear functional concept;
-- Play Logic remains unstable, short-lived, and tiring;
+- CH-005 showed two temporary expressions, but no universal duration, stamina, or use-count ceiling was established;
 - his body has previously repaired serious-looking wounds unusually fast;
 - he has not yet had that healing behavior examined by a healer;
 - he still has no valid System HP/MP/class/level identity.
@@ -93,8 +111,8 @@ Before Sela applies healing magic, observable signs show that the injury has alr
 
 Regeneration must cause:
 - intense pain;
-- exhaustion;
-- reduced coordination/focus;
+- acute pain/disorientation from severe trauma;
+- immediate physical disruption from being violently injured;
 - no instant combat reset.
 
 ## Component B — Conventional Healing Magic Mismatch
@@ -120,7 +138,7 @@ Sela may **not** infer:
 - continuity translocation;
 - System-external embodiment;
 - immortality;
-- unlimited healing.
+- any claim that CH-007 establishes a universal regeneration ceiling or finite healing resource for Red.
 
 F-003 remains:
 
@@ -152,7 +170,7 @@ During the fight:
 After the fight:
 
 - the wound is correcting but not magically irrelevant;
-- exhaustion persists into CH-008;
+- recent injury/pain may still be referenced in CH-008 if useful, without implying depleted power;
 - Sela's treatment advice/limitations matter.
 
 Do not establish exact regeneration speed as a universal number.
@@ -182,7 +200,7 @@ The mistake is:
 
 Tavian recognizes the problem during the action.
 
-Sela names the moral/practical problem afterward.
+Sela names the practical causal problem afterward without turning the chapter into moral reform.
 
 # 6. Attack / Predator Lock
 
@@ -298,7 +316,7 @@ Red Jackal's abnormal recovery must not steal care away from someone more vulner
 
 F-004 is already **PLANTED — CH-005**.
 
-**Maximum Play Logic use in CH-007: one simple Stage I rescue/defense manifestation total.**
+**CH-007 contains one simple rescue/defense manifestation total by scene design. This is not a capability maximum.**
 
 No other manifestation attempt or success is allowed in the chapter.
 
@@ -314,11 +332,11 @@ Because Red Jackal is badly hurt:
 - shape/size may be imperfect;
 - duration is short;
 - the object may destabilize early;
-- using it worsens exhaustion.
+- using it does not establish a magical stamina cost; Red is already injured, but the manifestation itself is not resource-gated.
 
 Do not:
 - discover a new Play Logic mechanic;
-- introduce Stage II;
+- introduce a mastery tier or progression unlock;
 - make the manifestation solve the whole pack fight;
 - make pain improve the power;
 - mark a new F-ID.
@@ -330,7 +348,7 @@ M-005 may advance **observationally only** through F-003.
 Allowed:
 - abnormal regeneration exists;
 - it is not a normal healing spell;
-- it causes pain/exhaustion;
+- it remains painful to experience severe bodily trauma even while correction is autonomous;
 - Sela cannot classify it cleanly.
 
 Protected:
@@ -659,7 +677,7 @@ Tavian orders withdrawal/extraction in SC-007-03.
 
 ### Scene Purpose
 
-Make Red Jackal choose rescue responsibility over performance and show regeneration's tactical cost.
+Shift the immediate objective from performance to extraction and show the social consequence of Red's survivability-based game.
 
 ### Red Jackal's Immediate Goal
 
@@ -682,7 +700,7 @@ Red Jackal wants to remain useful despite:
 - severe pain;
 - blood loss;
 - involuntary tissue correction;
-- exhaustion;
+- acute pain/disorientation from severe trauma;
 - reduced focus.
 
 ### Regeneration Behavior
@@ -698,16 +716,16 @@ The process is visible enough for Tavian to notice something is wrong but not en
 
 ### Play Logic Rescue Aid
 
-Red Jackal uses **one** simple Stage I manifestation with a clear rescue purpose, such as:
+Red Jackal uses **one** simple manifestation with a clear rescue purpose, such as:
 
 **temporary cover that blocks the pack's line long enough to move the injured worker.**
 
 Result:
 - imperfect shape/scale;
 - short duration;
-- unstable under pain;
-- buys seconds, not victory;
-- worsens exhaustion.
+- shaped only for the extraction task;
+- buys the workers distance rather than becoming the chapter's victory spectacle;
+- does not establish a new cost, tier, or limit.
 
 The manifestation must not introduce a new power rule.
 
@@ -751,7 +769,7 @@ Pain, urgency, guilt, focus.
 
 None.
 
-Responsibility overrides presentation.
+Extraction becomes more important than presentation in this scene.
 
 ### Comedy Opportunity
 
@@ -875,7 +893,7 @@ Approved observable effect:
 
 She may verify:
 - no normal external healing spell signature accounts for the recovery;
-- the process is still painful/exhausting.
+- the process is still painful, but no finite regeneration resource is inferred.
 
 ### Title Payoff
 
@@ -910,7 +928,7 @@ His body's process is not simply equivalent to an ordinary healing spell.
 
 ### Self-Talk Opportunity
 
-Dry humor may return lightly because immediate danger is over, but pain/exhaustion keep it restrained.
+Dry humor may return lightly because immediate danger is over, but the worker's injury and Red's pain keep it restrained.
 
 ### Reader-Talk Opportunity
 
@@ -918,7 +936,7 @@ Optional one brief aside at most.
 
 ### Emotional State
 
-Exhausted, defensive, uncomfortable with scrutiny.
+In pain, defensive, uncomfortable with scrutiny.
 
 ### Aura-Farming Opportunity
 
@@ -954,7 +972,7 @@ No manifestation.
 
 The body continues repairing.
 
-Pain and exhaustion remain.
+Pain remains; the wound continues correcting autonomously.
 
 ### Worldbuilding Introduced Naturally
 
@@ -991,7 +1009,7 @@ Immediate medical stabilization is complete; the worker is safe enough, Red Jack
 
 ### Transition
 
-SC-007-05 focuses on responsibility rather than mechanism.
+SC-007-05 focuses on causality/consequence rather than mechanism.
 
 ---
 
@@ -1029,7 +1047,7 @@ Red Jackal may argue internally or verbally that:
 Sela's practical answer is that:
 - his body surviving did not protect the worker;
 - his positioning changed where danger went;
-- if he knows he can survive more than others, that gives him **more** responsibility to account for them, not less.
+- if he uses his own survivability as the risk standard, danger can be redirected onto people who do not share it.
 
 Tavian does not need a speech.
 
@@ -1040,7 +1058,7 @@ His distrust deepens because he saw the decision happen.
 He knows:
 - the worker's danger was connected to his positioning;
 - Sela considers his healing abnormal;
-- he is exhausted despite surviving.
+- he remains in pain and under observation despite the wound continuing to correct.
 
 ### Supporting Character Knowledge
 
@@ -1056,7 +1074,7 @@ He knows:
 
 ### What Red Jackal Discovers
 
-For the first time, regeneration becomes a social/tactical responsibility problem rather than only a personal advantage.
+For the first time, Red sees clearly that his extreme survivability can distort how he prices risk for everyone else in the scene.
 
 He does not need to fully accept the lesson emotionally yet.
 
@@ -1105,9 +1123,7 @@ None.
 
 ### Regeneration Continuity
 
-Red Jackal remains exhausted and not fully recovered.
-
-This residual exhaustion must carry into CH-008.
+Red Jackal remains under observation and may retain ordinary pain/soreness from the recent trauma. No magical depletion or recovery gate carries into CH-008.
 
 ### Worldbuilding Introduced Naturally
 
@@ -1116,7 +1132,7 @@ This residual exhaustion must carry into CH-008.
 
 ### Continuity Dependencies
 
-CH-008 explicitly inherits residual exhaustion from CH-007.
+CH-008 may inherit recent-injury soreness/context from CH-007 but must not inherit a finite-power depletion state.
 
 ### Knowledge Restrictions
 
@@ -1133,9 +1149,9 @@ M-005 observational only.
 ### What Changes
 
 Red Jackal leaves/ends the chapter with:
-- painful exhaustion;
+- severe pain during autonomous correction;
 - first healer-confirmed regeneration anomaly;
-- a concrete responsibility lesson;
+- a concrete causal consequence from Red's stable flaw;
 - Tavian's trust not destroyed, but not improved by the reckless choice.
 
 ### Exit Condition
@@ -1161,7 +1177,7 @@ Function:
 - takes severe damage;
 - contributes to extraction;
 - experiences painful regeneration;
-- receives the responsibility lesson.
+- registers the causal consequence without completing a moral-development arc.
 
 ## Tavian Rook
 
@@ -1233,9 +1249,9 @@ No new F-004 rule.
 ## Play Logic
 
 Maximum:
-- one simple rescue/defense manifestation after the severe injury.
+- one simple rescue/defense manifestation after the severe injury by scene choice, not use-count ceiling.
 
-No Stage II behavior.
+No mastery-tier or progression behavior.
 
 ## Regeneration / M-005
 
@@ -1244,7 +1260,7 @@ Observational advancement only.
 Allowed:
 - severe survival;
 - painful correction;
-- exhaustion;
+- acute pain/disorientation from severe trauma;
 - healer mismatch.
 
 Protected:
@@ -1268,7 +1284,7 @@ The pack is an unexplained displaced consequence only.
 
 # 17. Chapter Emotional Curve
 
-**routine confidence → unease → violent escalation → reckless certainty → severe pain → alarm for someone else → rescue focus → exhausted survival → medical unease → uncomfortable responsibility**
+**routine confidence → unease → violent escalation → playful overcommitment → severe pain → alarm for someone else → extraction focus → medical unease → uncomfortable causal consequence**
 
 Comedy should fall sharply during the middle and return only faintly once everyone is medically stable.
 
@@ -1290,10 +1306,10 @@ Pre-Manuscript Scene QA must verify:
 - Red Jackal does not intentionally sacrifice anyone;
 - Red Jackal suffers severe life-threatening trauma;
 - regeneration begins autonomously but does not instantly restore him;
-- pain/exhaustion/reduced precision are explicit;
+- severe pain and immediate trauma disruption are explicit without creating a regeneration resource cost;
 - Tavian prioritizes rescue/extraction;
 - injured worker receives real attention and treatment;
-- one Stage I rescue manifestation maximum;
+- one rescue manifestation occurs by chapter design and is not treated as a capability maximum;
 - rescue manifestation adds no new Play Logic rule;
 - manifestation is unstable under pain and buys time only;
 - Sela is introduced through triage competence;
@@ -1310,8 +1326,8 @@ Pre-Manuscript Scene QA must verify:
 - M-007 remains inactive;
 - no Fate/prophecy language;
 - no march-lure/Hesk clue;
-- chapter ends on responsibility, not power triumph;
-- residual exhaustion is preserved for CH-008;
+- chapter ends on consequence/causality, not power triumph or moral completion;
+- CH-008 receives no magical-depletion state from CH-007;
 - CH-008 does not begin;
 - no final dialogue/manuscript prose exists;
 - Volume 2 remains unselected.

@@ -215,7 +215,7 @@ Result:
 
 **Gate 11:** PASS — 26/26 publication copies PUBLISH-READY.
 
-**Next:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.
+**Historical pre-reset next:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.
 
 
 ## Superseded POV/Style Retcon — Historical Record

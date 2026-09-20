@@ -10,6 +10,24 @@
 **Primary Cast:** Red Jackal, Tavian Rook  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
+# Soul-Drift / Final Story-Engine Override
+
+The five-scene CH-009 event sequence remains locked, but legacy Stage/use-cap, visible-power-limit, and conventional-responsibility-development language below is superseded by the final story engine.
+
+Current interpretation:
+- Red is already overwhelmingly powerful; CH-009 is not a power test, Stage boundary, endurance check, or control progression chapter.
+- Tavian does **not** know Red's true ceiling. He may classify Red as a Dangerous Wildcard because Red combines unknown-scale anomaly capability, abnormal survivability, curiosity, and voluntarily unpredictable judgment.
+- the one utility obstruction occurs because Tavian needs one tactical gap closed. It is not Red's manifestation maximum.
+- Red could end the predator encounter much more decisively; he instead works inside Tavian's field geometry because the immediate objective is to contain a complication Red himself created without destroying the evidence corridor.
+- the barrier is temporary because Red releases it after its assigned role, not because it fails from strain or a resource limit.
+- recent rib soreness may be referenced as ordinary physical continuity only; it does not reduce Play Logic or regeneration capacity.
+- Red's CH-007 experience supplies remembered causality, not a moral-development milestone. He remains willing to make an unnecessary experiment in CH-009 because curiosity wins.
+- Tavian's method matters because expertise produces trustworthy evidence, not because Red lacks raw power.
+- CH-009 introduces no new F-ID, no new Play Logic rule, and no new regeneration clue.
+- deliberate/artificial influence remains a hypothesis only.
+- genuine audience address invokes Fourth-Wall Pause every time.
+- M-007 remains inactive.
+
 # 1. Chapter Purpose Lock
 
 CH-009 begins the investigative movement of Volume 1.
@@ -33,7 +51,7 @@ The chapter must also:
 7. make Red Jackal perform one deliberate, unnecessary curiosity test after Tavian explicitly prefers observation first;
 8. make that test contaminate the observation and create a localized complication;
 9. include one displaced-pack encounter that follows causally from the disturbance rather than appearing as random combat;
-10. allow no more than one small Stage I utility manifestation;
+10. use one small utility manifestation because one tactical gap needs to be closed;
 11. keep regeneration out of focus and avoid a new injury/recovery clue;
 12. move Tavian's perception of Red Jackal toward **R3 — Dangerous Wildcard** for evidence-based reasons;
 13. end with repeated field evidence showing movement away from the profitable Main Caravan Road and toward old northern paths;
@@ -73,7 +91,7 @@ Tavian begins CH-009 knowing:
 - Red Jackal is reckless under uncertainty;
 - Red Jackal can remain functional after severe injury in medically abnormal ways;
 - Red Jackal can produce temporary nonstandard physical manifestations;
-- Red Jackal accepted responsibility after CH-007 but remains difficult to predict.
+- Red Jackal knows the causal cost of bad positioning from CH-007 but remains difficult to predict and is not morally reformed;
 
 Tavian does **not** know:
 
@@ -272,15 +290,13 @@ Tavian has personally seen or credibly established that Red Jackal:
 - can produce temporary nonstandard physical effects;
 - can be useful under pressure;
 - can also choose an unnecessary experiment in a dangerous environment because curiosity interests him;
-- still has visible limits, pain, imperfect judgment, and temporary manifestations.
+- has an unknown capability ceiling, abnormal survivability, imperfect judgment, and deliberately selective displays;
 
 Tavian's concern is therefore:
 
 **uncertainty + unusual survivability + nonstandard power + incomplete judgment.**
 
-It is not:
-
-**“Red Jackal is overwhelmingly strong.”**
+Tavian is not required to infer the writer-level truth of Red's overwhelming power. What matters is that he cannot safely assume a known ceiling.
 
 No universal fear.
 
@@ -288,9 +304,9 @@ No worship.
 
 # 10. Play Logic Lock
 
-Maximum CH-009 Play Logic use:
+CH-009 scene-design Play Logic use:
 
-**one small Stage I utility manifestation attempt and one success total.**
+**one small utility manifestation occurs because Tavian needs one gap closed.**
 
 Preferred use during the displaced-pack encounter:
 
@@ -300,12 +316,11 @@ Preferred use during the displaced-pack encounter:
 - or similarly small physical utility that helps Tavian control positioning.
 
 The effect must:
-- be temporary;
-- be simple;
-- not kill the pack automatically;
-- not replace Tavian's combat/tracking competence;
+- be released after its tactical role;
+- remain simple in presentation;
+- not erase Tavian's combat/tracking contribution;
 - not reveal a new Play Logic rule;
-- not escalate beyond Stage I.
+- not be framed as a mastery tier or capacity test.
 
 No manifestation is required for the curiosity test itself.
 
@@ -316,7 +331,7 @@ F-004 remains **PLANTED — CH-005**.
 CH-009 does not need a meaningful new injury.
 
 Allowed:
-- residual soreness/fatigue from CH-007/008;
+- ordinary recent rib/flank soreness from CH-007/008 without magical depletion;
 - Red Jackal choosing positioning with more care than CH-007;
 - Tavian remembering that Red Jackal's body does not respond normally to injury.
 
@@ -748,7 +763,7 @@ It is consequence, not a new climax.
 
 ### Play Logic Maximum
 
-Exactly one attempt / one success maximum if used.
+One utility manifestation occurs if used; no second one is needed by the locked encounter.
 
 Preferred result:
 - low temporary obstruction;
@@ -763,11 +778,11 @@ No severe injury required.
 
 If Red Jackal takes a minor impact/scratch, do not use it to add a regeneration clue.
 
-### Red Jackal Development
+### Red Jackal Stable-Character Beat
 
-He applies CH-007's lesson by respecting Tavian's field positioning once actual danger begins.
+He remembers the CH-007 causal geometry and chooses not to repeat that exact mistake once the pack arrives.
 
-This does not erase the fact that Red Jackal caused the complication.
+This is tactical memory, not a conventional development arc, and it does not erase the fact that Red Jackal caused the complication.
 
 ### Tavian Development
 
@@ -887,7 +902,7 @@ He need not become patient overnight.
 
 Red Jackal does not excuse the test as necessary.
 
-He may accept responsibility in his own style while remaining curious.
+He may admit causality in his own style while remaining curious and fundamentally unchanged.
 
 ### Reputation Beat
 
@@ -980,9 +995,9 @@ Before manuscript drafting, verify:
 - the test causally contributes to the pack encounter;
 - one displaced-pack encounter only;
 - Red Jackal follows Tavian's tactical positioning during actual danger;
-- CH-007 responsibility learning is therefore retained but not perfected;
-- one Stage I utility manifestation maximum;
-- no Stage II behavior;
+- CH-007 causal memory is available without implying an obedience or moral-growth arc;
+- one utility manifestation occurs by scene design;
+- no Stage/mastery progression interpretation;
 - no new Play Logic rule;
 - no new regeneration clue;
 - F-001 through F-004 remain unchanged;
@@ -993,7 +1008,7 @@ Before manuscript drafting, verify:
 - no casualty-record clue;
 - deliberate/artificial influence remains hypothesis only;
 - Tavian's R3 shift is based on personally known evidence;
-- Tavian still sees Red Jackal's limits;
+- Tavian still lacks reliable knowledge of Red Jackal's true capability ceiling;
 - ending points away from Main Caravan Road and toward old northern paths;
 - CH-010 does not begin;
 - no final dialogue/manuscript prose;

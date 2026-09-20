@@ -376,4 +376,4 @@ Canonical final line:
 
 **“Merrowgate would do.”**
 
-**Official next step:** CH-006→CH-027 Soul-Drift / close-first-person / final story-engine manuscript rewrite/revalidation cycle. CH-001 through CH-005 are complete and Gate 9 PASS. CH-028 remains paused.
+**Official next step:** CH-007→CH-027 Soul-Drift / close-first-person / final story-engine manuscript rewrite/revalidation cycle. CH-001 through CH-006 are complete and Gate 9 PASS. CH-028 remains paused.

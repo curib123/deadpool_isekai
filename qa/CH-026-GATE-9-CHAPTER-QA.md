@@ -2,9 +2,18 @@
 
 **Chapter:** CH-026 — Before They Decide What I Am  
 **Manuscript:** `manuscript/CH026-BEFORE-THEY-DECIDE-WHAT-I-AM.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 1,826
+**Review Date:** 2026-09-20  
+**Status:** PASS — CURRENT CANON REVALIDATED  
+**Word Count:** 1512
+
+# Soul-Drift / Final Story-Engine Revalidation
+
+- close first-person departure narration confirmed;
+- no conventional character-development completion is claimed;
+- Red remains self-centered, freedom-focused and capable of future bad choices; he simply carries accumulated information, attachments and consequences;
+- departure is driven by self-authorship and refusal of assigned permanent roles, not rejection of Greywake;
+- no Play Logic, no new regeneration mechanism, no new F-ID, no protected cosmology;
+- no named next destination and no automatic companion.
 
 # Severity Review
 
@@ -25,7 +34,7 @@ CH-026:
 
 - shows Greywake actively reconstructing rather than reset;
 - preserves damaged roads and reduced trade;
-- preserves Red's partial recovery;
+- preserves ordinary recent-injury continuity without magical depletion;
 - preserves Kellan's ongoing injury;
 - closes Sela, Kellan, Maelis, Jessa, Tavian and Brynn relationships without converting them into permanent companions;
 - confirms Red is free to leave by choice;
@@ -51,13 +60,7 @@ He leaves because:
 - he refuses ownership, sainthood, permanent duty and institutional definition;
 - movement remains his choice.
 
-This correctly completes the Volume 1 development from:
-
-**“I decide what happens to me.”**
-
-toward:
-
-**accepting responsibility for consequences without surrendering authorship of his own identity.**
+This closes Volume 1 without a conventional development arc: Red remains himself, but leaves with more information, relationships and remembered consequences while preserving authorship of his identity.
 
 # POV / Prose Review
 

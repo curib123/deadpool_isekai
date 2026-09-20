@@ -1,203 +1,833 @@
 # Chapter 23 — Greywake Holds
 
-**Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
+**Status:** SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GREAT BATTLE QA REVISION — GATE 9 REVALIDATION PENDING
 **Revision Date:** 2026-09-20
-**Word Count:** 1311
+**Word Count:** 1991
 **Chapter QA:** `qa/CH-023-GATE-9-CHAPTER-QA.md`
-**Retcon QA:** `qa/CH-023-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
+**Battle QA:** `qa/VOLUME-001-GREYWAKE-BATTLE-SCENE-AUDIT.md`
 
-The predator stepped into Broken North. For one second, nobody moved. Too large for the road.
+The predator stepped into Broken North.
 
-Too close to frightened prey. Too territorial to care. Then the herd behind it surged. "Do not close on it!" Tavian shouted.
+For one second, nobody moved.
 
-Three militia had started inward. They stopped. "North line back two steps," Brynn ordered. "Spears low. Workers off the edge."
+Too large for the road.
 
-The formation changed around the animal. Fast enough. The predator hit a guide frame with one shoulder.
+Too close to frightened prey.
 
-Timber exploded sideways. Prey split around it and compressed again. I had answers.
+Too territorial to care.
 
-Too many. A wall. A trench.
+Then the herd behind it surged.
 
-A cage. A hole where the animal used to be. The dangerous part was not whether I could end the predator.
+"Do not close on it!" Tavian shouted.
 
-I could. The dangerous part was ending it in a way that made several hundred frightened animals choose a worse direction. "Not yet," Tavian said.
+Three militia had already started inward.
 
-He watched the animal. "It wants space." Brynn kept her eyes on the line. "Where?"
+They stopped.
 
-"Not here. Not while the front is crossing."
+Brynn's voice hit immediately after.
 
-Every escape route the animal tested was currently another body, worker, slope, or prey line. If I solved only the predator, I would choose where the rest of the disaster moved. A work crew near the lower repair point got a gap. "Move!" Brynn called.
+"North line back two steps. Spears low. Workers off the inner edge."
 
-Four workers ran with timber and rope. The predator turned. "Back!"
+The formation changed around the animal.
 
-Three reached the marked line. The fourth slipped beside the road shelf. The predator moved.
+Fast enough.
 
-I was already there. I pulled the worker upright. The predator lunged.
+The predator swung its head left.
 
-This time the game stopped being interesting. I caught it. One hand against the side of its head.
+Then right.
 
-One against the shoulder ridge. The charge drove my boots backward through gravel. Then stopped.
+It was looking for space.
 
-The predator pushed. It got nowhere. For one second the militia line forgot to breathe.
+Unfortunately, we had filled every useful piece of space with frightened animals, damaged road, militia, workers, rope, timber, and bad decisions.
 
-I looked at the animal. "No." I turned.
+A browser slammed into the outer guide.
 
-Several hundred kilograms of bad judgment changed direction because I decided it would. It stumbled sideways, recovered, and stared at me. There were easier ways to finish this.
+Wood snapped.
 
-Tavian shouted: "Do not kill it!"
+The predator flinched toward the sound.
 
-"I wasn't—"
+Prey compressed behind it.
 
-"You were thinking about it."
+My first useful thought was simple.
 
-Fair. He pointed toward the upper brush. "It wants that service cut. Clear it."
+Remove predator.
 
-Brynn moved the crew immediately. "Upper team! Clear the service cut. Lower shields keep it off the workers."
+I could.
 
-Good. A solution that did not require making the migration react to a corpse, explosion, or theatrical crater. Then Broken North made a worse sound.
+Throw it uphill.
 
-Stone grinding. The inner shelf dropped. Fill spilled into the drainage.
+Drop it somewhere else.
 
-One timber support shifted. The usable lane narrowed while prey were still crossing. "Brace slipped!" the foreman shouted.
+Put it in a box.
 
-Brynn looked at him. "Can you reset?"
+Make the road forget it existed.
 
-"Not with this load!"
+The problem was that several hundred animals were currently reading every opening, obstacle, noise, and body as information.
 
-The road moved again. A browser stumbled and shoved smaller animals outward. Tavian looked from road to herd. "That shelf goes, we lose the inside line."
+If I erased one enormous problem carelessly, I could create five smaller disasters in directions Tavian had not planned.
 
-Then he pointed. "Hold that." Specific.
+"Not yet," he said.
 
-Good. I looked at the failing shelf. I could have replaced the entire road.
+He did not look at me.
 
-Perfect stone. Wide corridor. Strong enough for anything.
+He knew anyway.
 
-But a sudden perfect road would change animal choices in ways Tavian had not planned. So I gave him what he asked for. At first.
+"Where does it want to go?"
 
-Pale-grey support appeared under the shelf. Workers moved. Then the crack spread farther than the original failure point.
+"Anywhere with less pressure."
 
-The foreman went pale. "Whole inner lip!" Workers backed away.
+"Helpful."
 
-The road started to go. I looked at it. "No."
+"It is."
 
-The same instruction expanded. Hold the road. Pale-grey support extended beneath the failing lip along the old retaining line.
+A work crew near the lower repair point got a gap.
 
-Not a new power. Not an upgrade. Not a desperate higher stage.
+Brynn saw it.
 
-I had always been capable of more. I had simply been choosing small shapes because small shapes were usually enough. Now more road needed holding.
+"Move! Timber team through!"
 
-So more road was held. The entire failing edge stopped falling. Instantly.
+Four workers ran with rope and a bracing beam.
 
-Brynn recovered first. "Repair crew! Move!"
+The predator turned.
 
-Workers crawled under the protected side with timber, wedges, stone, and rope. I stepped away from the support. It remained.
+"Back!" Tavian shouted.
 
-The foreman looked at me. He had assumed I needed to stand there concentrating. Reasonable.
+Three workers reached the marked line.
 
-Wrong. The predator charged toward the workers. I met it before they did.
+The fourth slipped beside the road shelf.
 
-This time I did not let it touch me. I caught the ridge of its skull and put it into the road hard enough to shake loose dust. Not dead.
+The predator moved.
 
-Tavian had asked for an exit. The animal came up furious. I stepped close. "Wrong direction."
+I was already there.
 
-I shoved its head north. It resisted. Briefly.
+I caught the worker by the back of his coat and pulled him upright.
 
-Militia backed away. Smart. Tavian pointed toward the service cut. "Almost open! Keep it facing north!"
+The predator lunged.
 
-"I am."
+This time, the game stopped being interesting.
 
-"You are antagonizing it."
+I caught it.
 
-"Also north-facing."
+One hand against the side of its skull.
 
-No one appreciated the distinction. Behind us: "First timber set!"
+One against the heavy shoulder ridge.
 
-"Second brace coming!"
+The charge drove my boots backward through gravel.
 
-Another prey group entered. Brynn turned a ridge-hound away with the flat of her sword while a militia spear blocked the other angle. Nobody needed me.
+Then stopped.
 
-Good. The large predator circled. I circled with it.
+Completely.
 
-It started looking confused. Understandable. Tavian watched the prey. "Not yet."
+The predator pushed.
 
-The service cut was open enough for the predator. Not enough for the smaller animals crossing in front of it. So we waited.
+It got nowhere.
 
-The predator and I stood three paces apart while a migration passed between us. Then the foreman shouted: "Load test!" Workers eased weight onto permanent timber.
+For one strange second, the militia line forgot to breathe.
 
-The road settled. My support stayed where it was. "Again!"
+The animal's claws tore grooves through packed earth.
 
-More load. Timber creaked. "Primary holds!"
+Mine did not.
 
-The foreman crawled out. "Release the outer third." Specific again.
-
-I withdrew part of the support. Real timber took the load. "Next third."
-
-I removed more. Still held. He pointed at the worst crack. "Keep that."
-
-Then Tavian raised one hand. The prey line thinned. He looked at the service cut. "Now."
-
-Brynn shouted. "Upper line open! Lower shields forward! Give it the lane!"
-
-The predator saw space. It lunged north. Nobody blocked it.
-
-It tore through the service cut and vanished uphill. One militia man started after it. Brynn's voice stopped him. "No chase!"
-
-Correct. The predator was not the objective. Greywake was.
-
-The next wave entered. The road held. Barely.
-
-The foreman checked his braces. "Release." I withdrew the final impossible support.
-
-Ordinary timber, stone, rope, and old masonry took the road back. It settled. Stopped.
-
-Then the upper guide failed. Prey spilled toward a work crew. Brynn shouted. "Left line!"
-
-I looked at Tavian. He was already pointing. "Do nothing."
-
-My hands tightened. The obvious answer was available. "If you put a wall there, they bunch," he said.
-
-"I know."
-
-"If you move them, the rear follows the new visual line."
-
-"I know."
-
-"Then trust the workers."
-
-I hated that sentence. The workers cut the failed rope and dragged the broken panel flat. They opened space instead of closing it.
-
-The herd spread. Pressure dropped. Tavian was right.
-
-Again. Power had never been the missing information. The next minutes became movement.
-
-Militia shifted. Workers replaced markers only during gaps. Brynn sent runners before people asked.
-
-Tavian changed guide angles as behavior changed. I carried broken timber and pulled one worker upright. Then a ridge-hound broke toward an injured militia man.
-
-I was closer. A pale-grey platform appeared under the hound's chest and lifted it just high enough that its legs stopped touching ground. The animal twisted in outrage.
-
-Tavian stared. "Put it down north."
-
-"Obviously."
-
-The platform moved three paces. Lowered. Vanished.
-
-The hound landed and ran after the herd. Brynn looked at me. "Necessary?"
+I looked at it.
 
 "No."
 
-"Useful?"
+Then I turned its head.
+
+The entire body followed because anatomy had opinions.
+
+The predator stumbled sideways, recovered, and snapped at empty air where my arm had been.
+
+Not because it was faster.
+
+Because I let go.
+
+Tavian shouted.
+
+"Do not kill it!"
+
+"I wasn't going to."
+
+He looked at me.
+
+I looked at him.
+
+"Fine. I was considering options."
+
+He pointed uphill.
+
+"Service cut. It wants that."
+
+Brynn turned.
+
+"Upper team! Clear the service cut. Everything loose out of the lane."
+
+Two workers ran uphill.
+
+One militia pair followed, shields facing the road.
+
+The predator watched them move.
+
+Good.
+
+Bad.
+
+It changed objectives.
+
+Instead of charging me again, it lunged toward the workers.
+
+Adaptation.
+
+Finally.
+
+I stepped between them.
+
+The predator stopped short enough that its muzzle hit my chest.
+
+I did not move.
+
+It recoiled.
+
+Confusion was not a human monopoly.
+
+"Wrong target."
+
+It swiped.
+
+I caught the forelimb before the claws reached me.
+
+For a heartbeat, we stood like that.
+
+Very intimate.
+
+Very stupid.
+
+I pushed.
+
+The limb went down.
+
+The predator went with it.
+
+Not crushed.
+
+Pinned.
+
+Tavian shouted from the side.
+
+"Let it turn."
+
+"Why?"
+
+"Because if you keep it flat, the herd behind it cannot read the exit."
+
+Right.
+
+I released.
+
+The predator twisted free and backed toward the center.
+
+Behind it, prey were already bunching.
+
+The road made a deep grinding sound.
+
+Everybody heard it.
+
+The foreman looked down.
+
+"Inner shelf!"
+
+Stone shifted.
+
+Fill spilled into the drainage.
+
+One permanent timber brace moved half a handspan.
+
+That was enough.
+
+"Workers clear!" Brynn ordered.
+
+The predator was no longer the only front.
+
+Tavian looked from the animal to the road.
+
+"If that shelf drops, the inside lane closes."
+
+The foreman crouched near the crack.
+
+"Primary timber is still carrying."
+
+Another crack ran farther up.
+
+"Not for long."
+
+Brynn pointed at me.
+
+"Can you hold it?"
+
+Specific.
+
+Good.
+
+I looked at the failing edge.
+
+A pale-grey support appeared beneath the original weak point.
+
+Workers moved instantly.
+
+No awe.
+
+No questions.
+
+The foreman had been through this before.
+
+"Set timber beside it! Stone behind!"
+
+The crew dragged permanent braces into position.
+
+Then the crack spread.
+
+Farther than the first support.
+
+The road lip began to sag in a line.
+
+The foreman went pale.
+
+"Whole inner edge!"
+
+Fine.
+
+The same job got bigger.
+
+Hold the road.
+
+The pale-grey support extended beneath the failing lip along the old retaining line.
+
+No ceremony.
+
+No new stage.
+
+No unlocking sound.
+
+No hidden reserve appearing because the plot finally respected me.
+
+I had always been able to do more.
+
+I had simply been choosing small answers because small answers usually damaged less.
+
+Now more road needed holding.
+
+So more road was held.
+
+The entire failing inner edge stopped falling.
+
+Instantly.
+
+Dust continued dropping from the old stone.
+
+The support did not care.
+
+The foreman stared for half a second.
+
+Then remembered he had a job.
+
+"Permanent braces! Move!"
+
+Workers crawled into the protected zone.
+
+Timber.
+
+Wedges.
+
+Stone.
+
+Rope.
+
+Actual engineering went under the impossible structure because the impossible structure was not supposed to be the thing everyone depended on tomorrow.
+
+Brynn reallocated the militia.
+
+"Four stay with repair crew. North pair move to service cut. Everyone else keep the herd center open."
+
+A runner arrived from the lower line.
+
+"East branch still pulling."
+
+Tavian did not turn.
+
+"How many?"
+
+"Growing."
+
+"Compared with five minutes ago?"
+
+"Twice."
+
+That was bad enough to qualify as information.
+
+Hesk's lure was still working.
+
+We were now holding three problems at once.
+
+The predator.
+
+The road.
+
+The wrong-route pull.
+
+Good climax design.
+
+Terrible morning.
+
+The territorial predator charged again.
+
+This time not at me.
+
+At the militia pair beside the service cut.
+
+It had learned something.
+
+I was the bad direction.
+
+So it chose another.
+
+One militia guard planted his shield.
+
+Brave.
+
+Incorrect.
+
+I moved before impact.
+
+I caught the predator behind the jaw and shoulder, redirected the charge, and drove it into the road hard enough to shake loose dust from the retaining stones.
+
+The militia guard stumbled back.
+
+Alive.
+
+The predator hit, rolled, and came up furious.
+
+It did not look impressed.
+
+That was refreshing.
+
+Tavian pointed.
+
+"Keep it facing north."
+
+"I am trying."
+
+"You are antagonizing it."
+
+"Also true."
+
+The upper workers pulled the last brush bundle out of the service cut.
+
+One shouted.
+
+"Open!"
+
+Not enough.
+
+Tavian looked at the flow.
+
+"Not yet."
+
+A line of prey crossed between us and the opening.
+
+The predator saw freedom.
+
+Tried to take it.
+
+I blocked.
+
+It snapped.
+
+I held its head at arm's length.
+
+It shoved.
+
+Nothing happened.
+
+One of the workers laughed once.
+
+Then stopped because the herd slammed the guide frame behind him.
+
+Rope snapped.
+
+"Outer spill!" Brynn shouted.
+
+Fourth problem.
+
+A cluster of smaller prey broke around the damaged guide and cut toward the repair crew.
+
+Militia shifted.
+
+Too slow.
+
+I almost made another wall.
+
+Tavian shouted.
+
+"Do not close them!"
+
+He pointed downhill.
+
+"Open their exit!"
+
+Brynn understood first.
+
+"Drop the broken guide!"
+
+Two workers cut the remaining rope.
+
+The panel fell flat.
+
+What had been an obstacle became open ground.
+
+The prey spread instead of bunching.
+
+Pressure dropped.
+
+No impossible object required.
+
+Important.
+
+The predator tried to use my attention shift.
+
+It lunged.
+
+I caught it by the neck ridge and turned it away from the workers.
+
+"You're making this personal."
+
+It tried to bite me.
+
+"Fair."
+
+The foreman shouted from the shelf.
+
+"First permanent brace set!"
+
+Another worker answered.
+
+"Second coming!"
+
+My support held the entire failing edge without changing.
+
+No wobble.
+
+No strain.
+
+No countdown.
+
+The only clock was everyone else.
+
+Tavian watched the herd.
+
+Brynn watched the line.
+
+The foreman watched the road.
+
+I watched the predator.
+
+Different jobs.
+
+Same battle.
+
+A ridge-hound broke from behind the prey and went after a militia runner.
+
+The runner tripped.
+
+A militia woman intercepted with her spear.
+
+The hound twisted around the point.
+
+Another came behind it.
+
+Brynn moved herself.
+
+Sword flat.
+
+Not trying to kill.
+
+She struck the first across the muzzle, kicked the second off the runner's path, and hauled the runner upright by his collar.
+
+"Back to signal line."
+
+He ran.
+
+Brynn turned immediately.
+
+No pose.
+
+No applause.
+
+That was command.
+
+The predator finally stopped trying to reach me.
+
+It looked at the service cut again.
+
+Tavian saw.
+
+"Almost."
+
+"Define almost."
+
+"Two more prey clusters."
+
+"I hate ecology."
+
+"No, you hate waiting."
+
+"Also true."
+
+The next cluster crossed.
+
+Then another.
+
+Tavian raised one hand.
+
+"Now."
+
+Brynn shouted.
+
+"Upper line open! Lower shields forward! Give it the lane!"
+
+Militia moved as one.
+
+The predator saw space.
+
+This time nobody occupied it.
+
+It lunged north.
+
+I did not stop it.
+
+It tore through the service cut, clipped one sapling, and vanished uphill.
+
+One militia man started after it.
+
+Brynn's voice stopped him.
+
+"No chase!"
+
+He froze.
+
+Correct.
+
+The predator was never the objective.
+
+Greywake was.
+
+The road still was.
+
+The herd still was.
+
+The wrong lure still was.
+
+The foreman called:
+
+"Load transfer!"
+
+Workers eased weight from my support into timber.
+
+The inner lip settled.
+
+Stopped.
+
+"Again!"
+
+More weight.
+
+Timber groaned.
+
+Stone compressed.
+
+"Primary holds!"
+
+The foreman crawled out.
+
+"Release outer third."
+
+I withdrew one section.
+
+Real braces took the load.
+
+"Next."
+
+I removed another.
+
+Still held.
+
+He pointed to the worst crack.
+
+"Keep that until we set the stone wedge."
+
+Good.
+
+My support remained only where the actual road still needed it.
+
+A heavy browser hit the outer shoulder.
+
+Stone broke.
+
+One worker slipped.
+
+I moved.
+
+He caught the edge himself.
+
+Another worker grabbed his belt.
+
+They pulled him up before I reached them.
+
+Also good.
+
+I did not need to be every rescue.
+
+The stone wedge went in.
+
+The foreman struck it twice.
+
+Then looked at me.
+
+"Release."
+
+I withdrew the final impossible support.
+
+The road settled onto timber, stone, rope, and old masonry.
+
+Ordinary things.
+
+It held.
+
+For about six seconds, the battlefield looked almost manageable.
+
+Then a group of ridge-hounds broke into the worker line.
+
+Not one.
+
+Four.
+
+Finally, a number the day had apparently been saving.
+
+Two militia intercepted.
+
+One hound cut left.
+
+One right.
+
+The other two went straight through the opening.
+
+I could have ended all four before anyone blinked.
+
+Instead I looked at the actual problem.
+
+Workers behind them.
+
+Tools underfoot.
+
+A herd still moving five paces away.
+
+Tavian shouted.
+
+"Drive them north. Do not scatter them."
+
+So I stepped into the center.
+
+The first hound lunged.
+
+I caught it by the chest and tossed it three paces north.
+
+The second snapped at my arm.
+
+I let it bite long enough to grab the scruff and move it after the first.
+
+Pain.
+
+Blood.
+
+Already closing.
+
+The third militia guard used his shield to turn another.
+
+Brynn cut off the last one's escape toward workers.
+
+Four hounds became one moving direction.
+
+They followed the predator path uphill.
+
+No kill.
+
+No chaos.
+
+The bite in my arm closed under blood.
+
+The worker beside me stared.
+
+I pointed north.
+
+"Please admire later."
+
+He went back to work.
+
+The main prey body kept flowing.
+
+Broken North kept holding.
+
+Not because I won.
+
+Because Tavian read the movement.
+
+Brynn kept people where they mattered.
+
+Workers repaired the road while it was being used.
+
+Militia protected gaps instead of chasing trophies.
+
+I made impossible things where the plan needed them.
+
+That was different.
+
+Better? Maybe.
+
+More effective? Definitely.
+
+Then Tavian looked toward the lower fork.
+
+His face changed.
+
+I followed his sightline.
+
+A trailing branch of prey was bending outward.
+
+Toward the outer homestead road.
+
+One group.
+
+Then another.
+
+Then another.
+
+Not random.
+
+Hesk.
+
+Brynn saw it.
+
+"The physical line is holding."
+
+Tavian nodded.
 
 "Yes."
 
-She considered. "Fine." I accepted the ruling.
+"Then why are they leaving it?"
 
-By degrees, the physical line stabilized. The main body committed more strongly to Broken North. Prey stopped testing every side opening.
+He pointed toward the wrong branch.
 
-Ridge-hounds followed movement instead of workers. The repaired shelf held. Then Tavian looked toward the lower fork.
+"The lure."
 
-His face changed. I followed his sightline. A trailing branch of prey was bending outward.
+Greywake had won the physical battle.
 
-Toward the outer homestead route. Another group followed. Then another.
-
-The physical line was holding. Greywake had done its part. Hesk's lure was pulling them away from it again.
+Hesk was still trying to decide who paid for it.

@@ -1,43 +1,35 @@
 # CH-010 Publish Version QA
 
 **Canon Source:** `manuscript/CH010-THE-LEDGER-DOESNT-BALANCE.md`  
-**Canon Source SHA:** `580c3bbff82bb0655a44b467358a110c3eef0498`  
+**Canon Source SHA:** `7158cac45bc3af87311dd0d7d0c32fd5a231d422`  
 **Publication Copy:** `published/volume-001/CH010-THE-LEDGER-DOESNT-BALANCE.md`  
+**Publication Copy SHA:** `05cf14ca20d8738542c6c25a9c4b53bc48bbbd57`  
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-19  
+**Review Date:** 2026-09-20  
 **Status:** PUBLISH-READY — GATE 11 PASS
 
 # Source Integrity
-- Canon source / Gate 9 prerequisite: **PASS**
-- Latest canon source used: **PASS**
-- Title/opening/final paragraph/order: **PASS**
-- Canon body paragraphs: **387**
+- Current CANON / Gate 9 source: **PASS**
+- Title/body/order equivalence: **PASS**
 - Missing/duplicated/reordered prose: **NONE**
+- Repository metadata removed: **PASS**
 
 # Semantic Equivalence
-Publication prose body is byte-equivalent to canon after removal of repository-only header metadata.
-
-No story, dialogue, narration, clue, injury, power, continuity, knowledge-state, ending, or final-line change.
+Publication copy is exactly the reader-facing title plus current canon body.
 
 **Semantic Diff:** PASS — PRESENTATION ONLY
 
-# Platform QA
-- internal status/word-count/QA metadata: **REMOVED**
-- raw code fences/emphasis markup in prose: **NONE**
-- paragraph rhythm: **PRESERVED**
-- dialogue/self-talk/reader-talk: **PRESERVED**
-- title duplication: **NO**
-- mobile/plain-text readability: **PASS**
-- future spoiler/reference expansion: **NONE**
-
-# Findings
-CRITICAL: None.  
-MAJOR: None.  
-MINOR: None.
+# Preservation
+- POV/voice/dialogue: **PRESERVED**
+- paragraph order/rhythm: **PRESERVED**
+- Fourth-Wall Pause where present: **PRESERVED**
+- Play Logic/regeneration meaning: **PRESERVED**
+- battle/scene geography where applicable: **PRESERVED**
+- mystery/F-ID wording: **PRESERVED**
+- final beat: **PRESERVED**
+- publication-only story edits: **NONE**
 
 # Decision
 # PASS
 
 **CH-010 is PUBLISH-READY — GATE 11 PASS.**
-
-Canon manuscript remains authoritative.

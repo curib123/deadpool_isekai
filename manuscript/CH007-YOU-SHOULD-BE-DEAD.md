@@ -1,774 +1,1516 @@
 # Chapter 7 — You Should Be Dead
 
-**Status:** STUDIO CINEMATIC RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
-**Word Count:** 4,150  
+**Status:** SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE REVISION — GATE 9 REVALIDATION PENDING
+**Revision Date:** 2026-09-20
+**Word Count:** 4178
 **Chapter QA:** `qa/CH-007-GATE-9-CHAPTER-QA.md`
-**Retcon QA:** `qa/CH-007-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
 One road worker kicked the leaning marker post.
 
-“Replace.”
+"Replace."
 
-The older man beside him shoved it upright with both hands.
+The older man beside him grabbed it with both hands and shoved it upright.
 
-“Straighten.”
+"Straighten."
 
-They both looked at Tavian.
+They looked at Tavian.
 
-Tavian was crouched in the opposite ditch, staring at mud.
+Tavian was crouched in the opposite ditch, studying mud with the concentration of a priest receiving difficult scripture.
 
-Red leaned against the supply wagon. A Wayfarer Tongue Token hung from its side, carrying the argument clearly.
+I leaned against the supply wagon. A Wayfarer Tongue Token hung from its side, carrying the argument clearly.
 
-“You two may have to develop independent judgment.”
+"You two may have to develop independent judgment."
 
-Neither worker looked at him.
+Neither worker looked at me.
 
-Good team. Tavian was crouched near the opposite ditch, studying the ground. Neither answer arrived. He leaned against the wagon. “You two may have to develop independent judgment.”
+Good team.
 
-They ignored him. Good team. The task was simple. Check three warning markers. Replace damaged supply boxes used by road crews. Clear one drainage obstruction. Return to Greywake.
+The job was supposed to be simple.
 
-No bridge. No caravan full of civilians. No predator tracks crossing six ways through the mud. At least, that had been the plan. Tavian had come because one of the track lines he was following crossed near the connector. He was not officially part of the maintenance crew, which he had explained twice without being asked.
+Check three warning markers. Replace two damaged supply boxes used by Road Guild crews. Clear one drainage obstruction. Return to Greywake before the afternoon traffic changed.
 
-He was beginning to suspect independence was important to him.
+No bridge.
 
-“You're staring at dirt again,” he said.
+No caravan full of civilians.
 
-“Tracks.”
+No reason for anybody to say the phrase unusual migration pattern.
 
-“Dirt with paperwork.”
+At least that had been the sales pitch.
 
-He looked at him. He took that as a successful conversation. One of the workers laughed quietly. Tavian stood and wiped mud from his glove. “Nothing fresh.”
+Tavian had come because one of the track lines from yesterday crossed near this connector road. He had also explained, twice and without being asked, that he was not part of the maintenance crew.
 
-“That sounds good.”
+Independence mattered to him.
 
-“It sounds temporary.”
+I understood the instinct.
+
+"You are staring at dirt again," I said.
+
+"Tracks."
+
+"Dirt with paperwork."
+
+He looked at me.
+
+I counted that as a conversation.
+
+One worker made a sound that might have been a laugh.
+
+Tavian stood and wiped mud from his glove.
+
+"Nothing fresh."
+
+"That sounds good."
+
+"It sounds temporary."
 
 There it was.
 
-He looked toward the brush beyond the drainage ditch. The road here was close enough to Greywake that the workers moved like men doing ordinary work rather than people expecting something to jump from the trees. That mattered.
+I looked toward the brush beyond the ditch.
 
-Yesterday, Tavian had shown him animals crossing places they should not. Today, the Guild had sent people here anyway. Not because they were stupid. Because this route had been ordinary for years. Greywake could not stop using every road because the forest might be developing opinions.
+We were close enough to Greywake that the workers moved like men doing a familiar job instead of prey pretending not to be nervous. Their wagon was old. Their tools were scratched. One man complained about the marker post. Another complained about the first man complaining.
 
-They finished the first marker and moved on. The second supply box had a cracked lid. One worker replaced it while another cleared leaves from the drainage channel. He carried a bundle of treated stakes from the wagon because apparently his mysterious status had not exempted him from lifting things.
+Normal work.
 
-Tavian moved ahead of them by a few paces. He stopped. He noticed because he did not usually stop without a reason.
+Yesterday, Tavian had shown me animals crossing routes they should not be crossing.
 
-“What?”
+Today, Greywake still sent people outside the wall.
 
-He raised one hand. Nobody spoke. The older road worker set down his shovel. Tavian pointed toward the brush. For several seconds, there was nothing.
+Reasonable.
 
-Then a low rustle. Another. Too far apart. Tavian's posture changed. Not panic.
+A settlement could not shut down every road because the wilderness had begun behaving suspiciously.
+
+We finished the first marker.
+
+At the second stop, one worker replaced the cracked lid of a supply box while another pulled wet leaves from a drainage cut. I carried a bundle of treated stakes from the wagon.
+
+My undefined class remained powerless against manual labor.
+
+Tavian moved a few paces ahead.
+
+Then stopped.
+
+Not dramatically.
+
+That was how I knew it mattered.
+
+"What?"
+
+He raised one hand.
+
+Nobody spoke.
+
+The older worker lowered his shovel.
+
+Tavian pointed toward the brush.
+
+For several seconds, there was nothing.
+
+Then a rustle.
+
+Another answered farther left.
+
+A third came from somewhere deeper.
+
+Too far apart.
+
+Tavian's posture changed.
+
+No panic.
 
 Preparation.
 
-“Back to the wagon.”
+"Back to the wagon."
 
-One worker frowned. “Why?”
+One worker frowned.
 
-“Multiple.”
+"Why?"
 
-That was enough. The workers moved. He stepped away from the wagon instead. Tavian looked at him.
+"Multiple."
 
-“Jackal.”
+That was enough for the workers.
 
-“I heard you.”
+They moved.
 
-“Then move with them.”
+I stepped away from the wagon.
 
-“I can hold this side.”
+Tavian looked at me.
 
-“You don't know what's coming.”
+"Jackal."
 
-“Neither do you.”
+"I heard you."
 
-“I know there is more than one.”
+"Then move with them."
 
-That was fair. Then the first predator broke through the brush. It was low-bodied and heavy through the chest, with long forelimbs and a jaw built for holding onto things that wanted very badly not to be held. Grey-brown hide. Scarred muzzle. Larger than the animals from yesterday.
+"I can hold this side."
 
-A second shape moved behind it. Then a third.
+"You don't know what's coming."
+
+"Neither do you."
+
+"I know there's more than one."
+
+Fair.
+
+The first predator broke through the brush before I could improve my argument.
+
+Low body. Heavy chest. Long forelimbs. Grey-brown hide dark with old mud. A scar split the fur along its muzzle, and its jaw looked designed around the idea that letting go was optional.
+
+Larger than yesterday's animals.
+
+A second shape moved behind it.
+
+Then a third.
 
 Pack.
 
-The workers knew it too. One of them swore. Tavian pulled his polearm free.
+One of the workers swore.
 
-“Wagon behind you. Stay together.”
+Tavian pulled his polearm free.
 
-The predators spread instead of charging directly. That was worse. The lead animal watched Tavian. The second angled toward the far side of the wagon. The third remained in the brush.
+"Wagon behind you. Stay together."
 
-Tavian moved left.
-
-“Keep the center open.”
-
-He saw what he was doing. The wagon protected one side. The drainage ditch narrowed the other. If they held the road without closing it completely, the workers could retreat toward the main route while Tavian and Red discouraged anything that tried to follow.
-
-Simple. Except the lead predator was already too close. It moved toward the center. He stepped into the lane. Tavian's voice sharpened.
-
-“Don't overcommit.”
-
-“I've got it.”
-
-“Hold the line. Don't chase the front.”
-
-He understood. He also saw a more interesting answer.
-
-The obvious answer was another impossible object. Wall. Spear. Cage. Something large enough that the animal would discover philosophy before it discovered him.
-
-He did not choose any of those.
-
-Tavian had told him to hold the line.
-
-Red stepped forward anyway.
-
-He wanted to see what happened if the animal committed to him.
-
-Tavian swore.
-
-The predator committed immediately. It crossed the distance fast enough that an ordinary person would have called his decision suicidal.
-
-He turned enough that the jaws missed his throat.
-
-They did not miss the rest of him.
-
-Something hit his side with enough force to lift one foot from the road. Teeth or claws—he could not tell which—tore across his flank below the ribs. The world went white.
-
-There was no clever thought. No joke. No observation worth keeping.
-
-Only pain.
-
-He hit the ground hard. The predator came with him. He jammed his forearm against its neck and felt warm blood spreading under his coat.
-
-Then he pushed.
-
-Not a desperate shove. Not really.
-
-The animal left him faster than it should have.
-
-Its paws scraped across the road and its shoulder struck the wagon wheel hard enough to make the frame jump. For one stupid second, the predator stared at him.
-
-He stared back.
-
-That had been easier than expected.
-
-He could have ended the encounter there.
-
-Then someone screamed behind him.
-
-He looked back. The lane. He had left it. By stepping forward, he had pulled Tavian toward the lead animal and opened the right side of the wagon. The second predator had used the gap.
-
-One of the workers had been backing away with the others.
-
-Now he was on the ground beside the rear wheel, the second predator locked onto his lower leg.
-
-Tavian changed direction instantly.
-
-Not toward Red.
-
-Toward the worker.
-
-Red understood why before the thought finished forming.
-
-“Tavian—”
-
-“I see him.”
-
-He drove the butt of the polearm into the animal's shoulder, forcing its jaw loose. The worker dragged himself backward. The third predator came out of the brush. Everything had become too wide. Too many angles.
-
-The lead animal lunged at him again.
-
-This time he did not play with the timing.
-
-He caught it high along the neck and shoulder and redirected the charge sideways. The movement should have required leverage he did not have. Instead, the predator hit the road, rolled once, and came up several paces away looking offended by physics.
-
-Good.
-
-His side still felt like someone had opened it with farm equipment. Pain remained aggressively real. Under the blood, though, his body was already doing something to the wound. He could feel damaged tissue pulling itself back toward the shape it remembered.
-
-Red looked at the animal several paces away.
-
-He could do more than he had shown.
-
-Behind Tavian, the worker was still bleeding.
-
-That was the part that mattered.
-
-Tavian shouted.
-
-“Jackal, back!”
-
-The worker with the injured leg was conscious. Another worker had him under the arms. The third worker was holding a long-handled shovel like a spear. The pack had not expected this much resistance. Neither had they.
-
-The lead predator feinted toward him. He did not follow. Lesson learned slightly late. He moved backward instead, keeping himself between it and the workers without leaving the line. Tavian saw it.
-
-“Good. Keep moving.”
-
-He hated that word. The injured worker tried to stand. His leg folded. He cried out. Blood soaked through his trouser leg below the knee.
-
-Not his.
-
-That mattered more.
-
-“We need to leave,” Tavian said.
-
-The older worker looked at the pack.
-
-“They'll follow.”
-
-“For a while.”
-
-“That helps.”
-
-“It is not supposed to.”
-
-Tavian pointed toward the main-road direction.
-
-“You two carry him. Wagon stays. We can replace supplies.”
-
-Nobody argued. That told him how serious the situation was. He looked at the wagon. Then at the road behind them. The connector narrowed thirty paces back where a drainage cut and stacked stone forced anything following into a tighter approach.
-
-A barrier there would buy time.
-
-Something between the workers and the pack.
-
-Clear purpose.
-
-This time he was not testing anything.
-
-“I can close the narrowing.”
-
-Tavian looked at his side.
-
-“You're bleeding.”
-
-“I noticed.”
-
-“Do not make another decision because you think bleeding only matters when it belongs to you.”
-
-That one landed.
-
-“I won't.”
-
-The lead predator moved forward. He backed toward the narrowing with everyone else. The workers lifted the injured man between them. He bit down on his sleeve to stop himself from shouting every time his leg moved.
-
-Red did not look away.
-
-He had stepped out because danger to him felt negotiable.
-
-The worker had paid for the space he opened behind him.
-
-They reached the narrow section.
-
-He turned. The pack followed at a distance. Testing.
-
-He pictured exactly what Tavian needed from the terrain: a temporary obstruction across the narrow lane, high enough to discourage the pack and no wider than necessary.
-
-Something dark formed from empty air.
-
-Crooked, because apparently he had developed a style. Too thick on one side. Offensively practical.
-
-The lead predator hit it.
-
-The barrier did not care.
-
-The animal recoiled. A second tried the low edge and found that the low edge had stopped being low.
-
-He had not consciously changed it.
-
-Interesting.
-
-Not now.
-
-“Go,” he said.
-
-The workers moved. Tavian stayed beside him.
-
-“I said go.”
-
-“I heard you.”
-
-The pack paced behind the obstruction instead of committing. He could have left it there. He could have made it taller. Wider. Permanent-looking.
-
-He did none of those things.
-
-The goal was not to kill animals or redesign the road. It was to get one injured man back to Greywake.
-
-Once the workers had enough distance, he let the barrier disappear.
-
-“Move,” Tavian said.
-
-This time he listened.
-
-They moved fast.
-
-Calling Red's part of it running was generous. Pain made every step unpleasant, but the pack was no longer a problem of strength. The workers carried the injured man between them. Tavian stayed rear-left. He stayed rear-right and, for once, did not invent a new rule for the situation.
-
-The wound kept tightening in pulses. Every pulse burned. The bleeding slowed.
-
-The pack followed after the barrier vanished, but with more distance and considerably less enthusiasm. Tavian guided them toward a low stone maintenance marker near the junction with the main road.
-
-“Past that marker,” he said. “Open ground.”
-
-The predators knew it too. They slowed at the clearing. One came farther. Tavian turned on it.
-
-Red started forward.
-
-Tavian saw him.
-
-“Don't.”
-
-“I can handle it.”
-
-“I know.”
-
-That stopped him more effectively than an argument.
-
-Tavian kept the polearm across his body. The older worker joined him with the shovel.
-
-“Then why—”
-
-“Because we are leaving.”
-
-Right.
-
-The predator paced at the edge of the cleared ground, decided the meal had become too organized, and backed away.
-
-The others followed. Nobody chased. For a long moment, all he heard was breathing. His sounded bad. The injured worker sounded worse.
-
-Tavian turned.
-
-“Him first.”
-
-Correct again. The worker was pale. Sweat covered his face. His lower leg had two deep puncture wounds and a tearing injury where the animal had dragged him. The blood was controlled badly, but controlled.
-
-One of the others tightened a cloth wrap above the wound. Tavian checked it.
-
-“Not tighter.”
-
-“We need a cart.”
-
-“The main road post is close.”
-
-He looked toward Greywake.
-
-“How far?”
-
-“Far enough.”
-
-Useful. They got the worker to the maintained road. A patrol cart reached them before they made it much farther. The Guild workers flagged it down, and after a short explanation the injured man was loaded first. He climbed in after him because riding hurt less and he had no reason to turn walking into another demonstration.
-
-The Wayfarer Token from the service wagon was gone with the abandoned supplies, but the patrol cart carried another. Its translation field settled over the voices around him. Someone asked what happened. Tavian answered.
-
-“Pack attack.”
-
-“Here?”
-
-“Yes.”
-
-“That close?”
-
-“Yes.”
-
-The patrol driver looked toward the connector. Tavian did not add anything else. No theory. No accusation. Just the fact.
-
-The injured worker groaned. He looked down at his side. His coat was soaked dark. The tear beneath it had been deep enough that he could remember seeing something pale between blood and muscle before he stopped looking.
-
-Now the edges were closer together. Not closed. Closer. The bleeding had slowed more than it should have. Tavian noticed him checking.
-
-His eyes narrowed.
-
-“What?”
-
-“Nothing.”
-
-“That is not nothing.”
-
-“I've had worse.”
-
-He had not. He knew it. He knew he knew it. The worker beside them made a sound through clenched teeth. The joke died before it reached his mouth.
-
-Good. The ride back to Greywake was rough. Every rut pulled at his side. The strange internal pressure continued in waves. The pain was not fading with the repair. It was changing.
-
-Sharp tearing became deep heat. Deep heat became crushing soreness. Keeping his eyes open started taking effort, whether from blood loss, pain, shock, or his body's deeply antisocial repair process. Surviving remained unpleasant even when survival itself was becoming less impressive. The treatment house stood near the inner road, close enough to the gate that injured travelers could be brought in without crossing half the settlement.
-
-The patrol cart rolled into the treatment yard with blood on the floorboards.
-
-A woman with dark river-blue markings along her neck stepped out before it fully stopped.
-
-She took one look at them.
-
-“Who is losing blood now?”
-
-The injured worker raised a shaking hand. She pointed at a treatment table inside.
-
-“Him first. Leg elevated. Cut the trouser fabric, don't pull it.”
-
-People moved. No introduction. No questions about him. Good. She was already pressing clean cloth around the worker's wound before Tavian said her name.
-
-“Sela.”
-
-“I know what a bite looks like.”
-
-“Multiple predators.”
-
-“That I did not know.”
-
-Her hands did not stop. The treatment house smelled like boiled cloth, bitter herbs, and something sharp enough to make his nose hurt. Shelves held sealed jars, folded bandages, splints, metal instruments, and three pale crystals set into a wooden rack.
-
-One of the crystals was already dim. Limited resources. Sela cleaned the worker's wound while an assistant held his leg still.
-
-“Deep punctures. Tendon spared, maybe. Don't celebrate yet.”
-
-The worker did not look interested in celebrating. She placed two fingers above the torn area. A thin blue-white pattern formed between them and the wound. Not dramatic. Controlled.
-
-The torn tissue tightened slightly. Bleeding slowed. Sela stopped after only a few seconds. The crystal on the rack dimmed further.
-
-“That is enough.”
-
-The assistant looked at the wound.
-
-“Only one pass?”
-
-“We still have afternoon.”
-
-That explained the crystal. Healing magic had a budget. Of course it did. Sela packed the wound, wrapped it, and secured the leg.
-
-“Pain tonic. Small dose.”
-
-The assistant reached for a bottle. Only then did Sela look at him. Her eyes went to the blood on his coat.
-
-“Table.”
-
-“The other patient—”
-
-“Is stable enough for me to look away for two minutes. Table.”
-
-He sat. That was easier than arguing. Tavian stayed near the wall. Sela cut the side seam of his coat before he could object.
-
-“I liked that coat.”
-
-“You are welcome to bleed on a different one next time.”
-
-Fair. She pulled the fabric aside. Then stopped. Not dramatically. Just completely.
-
-“How long ago?”
-
-“The attack?”
-
-“The injury.”
-
-“Maybe an hour.”
-
-Tavian answered before he could improve the estimate.
-
-“Less than two.”
-
-Sela looked at him.
-
-“What hit him?”
-
-“Large pack predator.”
-
-“Where?”
-
-Tavian pointed along his own lower ribs and flank. Sela looked back at his wound. The skin had drawn together unevenly around the deepest tear. The edges were still raw. Dried blood covered half his side. But the opening was smaller than it had been on the road.
-
-Much smaller. Sela pressed lightly near the ribs. He nearly came off the table.
-
-“Don't.”
-
-“You have at least one cracked rib.”
-
-“Good to know.”
-
-“Possibly more.”
-
-“Less good.”
-
-Her expression did not change. She checked his breathing. Then his abdomen. Then the wound again.
-
-“Did anyone heal this?”
-
-“No.”
-
-“Potion?”
-
-“No.”
-
-“Spell?”
-
-“No.”
-
-She looked at Tavian. He shook his head.
-
-“I saw the wound after the attack. No healer.”
-
-Sela's eyes narrowed. She held one hand above the injury. A small structured pattern appeared between her fingers. Different from what she had used on the worker. Thinner.
-
-More delicate. The magic settled over his side. For a second, nothing happened. Then Sela's expression changed. The pattern flickered.
-
-She moved her hand slightly. It flickered again.
-
-“What?”
-
-“Quiet.”
-
-He was quiet. Mostly because he was tired. The magic traced the damaged area. Then the wound shifted beneath it. A deep pulling sensation twisted through his side.
-
-He gasped. The spell's light split around one edge of the injury instead of following the line Sela had set. She stopped immediately. The pattern vanished.
-
-“That is unpleasant.”
-
-“I noticed.”
-
-She stared at the wound. Then placed two fingers against uninjured skin nearby. No spell. Just checking.
-
-“What did it do?” Tavian asked.
-
-Sela did not answer immediately. She looked at him.
-
-“Your tissue is changing while I examine it.”
-
-“That sounds positive.”
-
-“No.”
-
-Less positive. She touched the wound edge again.
-
-“It is closing.”
-
-“I had gathered that.”
-
-“Not like this.”
-
-The room became quieter. The worker on the other table was breathing steadily now. The assistant changed one of his bandages. Sela looked at his side, then at the dim crystals on the rack.
-
-“I started a diagnostic knit. It should map the damage and follow the wound boundaries.”
-
-“And?”
-
-“The boundary moved.”
-
-He looked down.
-
-“Yes.”
-
-“While the spell was setting.”
-
-“Yes.”
-
-She looked annoyed by his agreement.
-
-“Normal healing magic does not do that unless another active healing effect is already working on the tissue.”
-
-“I don't have one.”
-
-“I know.”
-
-“You just asked.”
-
-“And I checked.”
-
-She ran her thumb over a small metal disk beside the table. A faint line appeared across its surface, then faded.
-
-“No standard healing residue.”
-
-Tavian folded his arms.
-
-“So what is it?”
-
-Sela looked at him.
-
-“If I knew, I would have said.”
-
-He liked her. Possibly because she was too tired to pretend certainty. She looked back at him.
-
-“An innate recovery trait. A racial trait I have not seen. Some kind of anomalous regeneration. Those are guesses.”
-
-“Good guesses?”
-
-“Better than calling it magic and hoping the word solves something.”
-
-Also fair. She examined his side once more, but she did not cast again.
-
-“You're not continuing?”
-
-“Not until I know whether forcing a normal closure pattern will interfere with whatever your body is already doing.”
-
-That got his attention.
-
-“So healing magic could make it worse?”
-
-“I said I don't know.”
-
-“Very reassuring.”
-
-“You are conscious after a wound that should have put you into shock before you reached the gate. Reassurance is not the problem I am solving.”
-
-She checked the worker again. Then came back.
-
-“What did the wound look like at the road?”
-
-Tavian described it. He kept it clinical. Deep tearing below the ribs. Heavy bleeding. Difficulty standing. Reduced coordination.
-
-Sela listened. Then looked at him for a long moment.
-
-“You should be dead.”
-
-There it was.
-
-Not dramatic. Not mystical.
-
-Medical.
-
-He leaned back against the wall.
-
-“I'm getting that a lot today.”
-
-“No, you're not.”
-
-Sela pointed toward the other table.
-
-“He had a predator tear his leg. We controlled the bleeding, cleaned the wound, used healing mana, medicine, bandages, and a treatment table. He still has days of pain and risk ahead of him.”
-
-Her finger moved toward his side.
-
-“You were opened below the ribs badly enough that an ordinary patient could bleed out or lose organ function before transport. You arrived conscious, and the wound was already closing before I touched it.”
-
-He had no useful answer. Tavian did.
-
-“He moved after the hit.”
-
-Sela looked at him.
-
-“How much?”
-
-“Too much.”
-
-That sounded personal. Sela turned back to him.
-
-“Lie down.”
-
-“I am sitting.”
-
-“Congratulations. Lie down.”
-
-He did. The treatment-house ceiling was plain wood. For a while, nobody spoke to him. That was probably intentional. Sela worked.
-
-She checked the worker's circulation again. Adjusted the wrap. Sent the assistant to boil more cloth. Wrote something on a treatment sheet he could not read. Checked the remaining healing crystal.
-
-The entire room moved around the fact that supplies were finite. Every bandage used had to be replaced. Every dose came from somewhere. Every healing spell spent mana that could not be spent twice. He understood the lecture before it arrived.
-
-He just did not like where it was going. By late afternoon, the worker was stable. Not fine. Stable. His leg was wrapped and splinted. He had stopped shaking.
-
-Sela finally sat on the stool beside his table. Tavian remained near the wall. He had hoped he would leave. Apparently this was not his day. Sela looked at him.
-
-“Tell me exactly what you did.”
-
-“That sounds accusatory.”
-
-“It is.”
-
-He considered improving the story. Maybe he had heroically occupied the strongest attacker while the others escaped. Technically true. Incomplete enough to be useless.
-
-“Tavian told me not to move too far forward.”
-
-Tavian said nothing.
-
-“I knew I could take the hit.”
-
-Sela's expression changed very slightly.
+The animals spread instead of rushing us.
 
 That was worse.
 
-“And you wanted to prove it?”
+The lead predator watched Tavian. Another moved toward the far side of the wagon. The third stayed inside the brush where I could see only pieces of it between branches.
 
-He looked down at his side. The wound had closed further. It still hurt enough that breathing deeply was a bad idea.
+Tavian shifted left.
 
-“I wanted to see what happened.”
+"Keep the center open."
 
-“No.”
+I saw the geometry.
 
-He looked at her. She nodded toward the worker.
+Wagon on one side.
 
-“Could he afford your experiment?”
+Drainage ditch on the other.
 
-That landed.
+Workers retreat through the middle.
 
-He said nothing. Tavian pushed away from the wall.
+Tavian and I discourage anything that tries to close that lane.
 
-“When you moved forward, I had to cover your left. That opened the wagon side.”
+Simple.
 
-“I know.”
+Good plan.
 
-“The second animal took it.”
+The lead predator started forward.
 
-“I know.”
+I stepped into its path.
 
-“The worker moved because the safe lane stopped being safe.”
+Tavian's voice sharpened.
 
-“I know.”
+"Don't overcommit."
 
-His voice stayed controlled. That was worse than shouting. He looked toward the other table. The worker was asleep. Or unconscious.
+"I've got it."
 
-He was not sure which. Sela folded her arms.
+"Hold the line. Don't chase the front."
 
-“You are thinking about this as damage.”
+I understood him.
 
-“What?”
+I also understood something else.
 
-“How much damage you can survive.”
+The animal was looking at me now.
 
-She pointed at him.
+Good.
 
-“That is not the useful question.”
+I knew what it wanted.
 
-He waited.
+I knew what would happen if it committed.
 
-“The useful question is what your decision does to everyone standing near you.”
+And I knew something Tavian did not.
 
-He looked away.
+Getting hit was not the same kind of problem for me that it was for everyone else.
 
-“You lived. Fine.”
+The obvious answer was to make something impossible.
 
-She nodded toward the sleeping worker.
+Wall.
 
-“He does not heal like you.”
+Spear.
 
-No joke came.
+Cage.
 
-Nothing useful, anyway.
+A giant red sign reading BAD DOG.
 
-Sela continued.
+I did none of those.
 
-“If your body lets you survive things other people cannot, then you have more reason to think about where the danger goes when you choose to take a hit.”
+I wanted the animal to choose me.
 
-That was irritatingly precise. Tavian looked at him.
+There are moments when curiosity and ego wear the same coat.
 
-“Courage is not the problem.”
+I stepped forward.
 
-“Good.”
+Tavian swore.
 
-“Judgment is.”
+The predator committed.
 
-Less good.
+Fast.
 
-He closed his eyes. His side throbbed. Every part of him felt heavy. The strange repair inside the wound was still happening, slower now. The sensation came in deep pulses that made his muscles tighten.
+Too fast for an ordinary person to reconsider.
 
-Tomorrow was going to be unpleasant. Possibly several tomorrows. Sela stood.
+I turned enough to keep the jaws away from my throat.
 
-“You are staying here until I am satisfied you are not about to collapse.”
+That was the good news.
 
-“I have lodging.”
+The rest of me received the bad news.
 
-“You have a treatment table.”
+Impact lifted one foot from the road.
 
-“I paid for the lodging.”
+Something tore into my side below the ribs.
 
-“Then consider this a poor financial decision.”
+Teeth.
+
+Claws.
+
+Maybe both.
+
+The world went white.
+
+No joke.
+
+No clever narration.
+
+Pain erased the need to be interesting.
+
+I hit the road hard with the animal on me.
+
+My forearm jammed against its throat.
+
+Warm blood spread under my coat.
+
+Mine.
+
+Then I pushed.
+
+I did not need leverage.
+
+That was becoming increasingly obvious.
+
+The predator left me hard enough to scrape across the road and slam shoulder-first into the wagon wheel.
+
+The frame jumped.
+
+The animal stared at me.
+
+I stared back.
+
+For one stupid second, I enjoyed the expression.
+
+I could have ended it.
+
+All of it.
+
+The pack.
+
+The road.
+
+The argument.
+
+I could feel that certainty sitting behind the pain like a loaded joke I had not told yet.
+
+Then someone screamed behind me.
+
+The center lane.
+
+I had left it.
+
+Tavian had shifted toward the lead animal because I had gone forward.
+
+That opened the wagon side.
+
+The second predator had used the space.
+
+One of the workers was down beside the rear wheel.
+
+The animal had his lower leg in its jaws.
 
 There it was.
 
-A little humor. Very little. Enough. He looked at the ceiling again. He had survived the hit.
+Not a mystery.
 
-That part was true. The worker had survived too. That did not make the choice good. Sela adjusted the cloth over his side and gave him one final look.
+Not bad luck.
 
-“Surviving damage and making a safe decision are not the same thing.”
+Geometry.
+
+Mine.
+
+Tavian changed direction instantly.
+
+Not toward me.
+
+Toward the worker.
+
+I understood why before the thought finished.
+
+"Tavian—"
+
+"I see him."
+
+He drove the butt of his polearm into the predator's shoulder.
+
+The jaw released.
+
+The worker dragged himself backward.
+
+The third predator came out of the brush.
+
+The encounter widened.
+
+Too many angles.
+
+The lead animal lunged at me again.
+
+I stopped playing with it.
+
+I caught it high along the neck and shoulder and threw the charge sideways.
+
+Not redirected.
+
+Threw.
+
+Its body hit the road, rolled once, and skidded several paces.
+
+The workers saw it.
+
+Tavian saw it.
+
+Nobody had time to ask.
+
+My side felt like somebody had opened it with farm equipment.
+
+The pain remained vicious.
+
+Under it, something else had already started.
+
+The wound did not feel like it was healing.
+
+Healing sounded gentle.
+
+This felt like my body refusing an edit.
+
+Torn muscle pulled.
+
+Heat burned deep beneath the skin.
+
+Something inside me tightened toward a shape it apparently considered non-negotiable.
+
+Blood still ran down my side, but slower.
+
+The damage was moving backward.
+
+I did not know why.
+
+I had no time to care.
+
+The worker on the ground was still bleeding.
+
+That was the part the regeneration could not solve.
+
+"Jackal, back!" Tavian shouted.
+
+Another worker had the injured man under the arms.
+
+The third held a long-handled shovel like a spear.
+
+The lead predator feinted toward me.
+
+I almost followed.
+
+Almost.
+
+Then I saw the open side again.
+
+I moved backward instead.
+
+Stayed on the line.
+
+Tavian noticed.
+
+"Keep moving."
+
+I hated being praised for doing what I should have done thirty seconds earlier.
+
+The injured worker tried to stand.
+
+His leg folded.
+
+He cried out.
+
+Blood soaked the cloth below his knee.
+
+Not my blood.
+
+That mattered.
+
+"We leave," Tavian said.
+
+The older worker looked at the pack.
+
+"They'll follow."
+
+"For a while."
+
+"That helps."
+
+"It isn't supposed to."
+
+Tavian pointed toward the main-road direction.
+
+"You two carry him. Wagon stays."
+
+Nobody argued.
+
+That told me more than shouting would have.
+
+The connector narrowed behind us where stacked stone and a drainage cut squeezed the road.
+
+I looked at the geometry.
+
+A temporary obstruction there would buy the workers distance.
+
+Not a test.
+
+Not a performance.
+
+A job.
+
+"I can close the narrowing."
+
+Tavian's eyes dropped to my side.
+
+"You are bleeding."
+
+"I noticed."
+
+"Then notice him too."
+
+He nodded toward the worker.
+
+That landed harder than I wanted it to.
+
+I looked.
+
+The worker had his jaw locked against the pain while two men lifted him.
+
+I had stepped forward because danger to me felt negotiable.
+
+He had paid for the space I abandoned.
+
+Important distinction.
+
+Not transformative.
+
+I was still me.
+
+But useful information deserved to survive.
+
+"I notice him," I said.
+
+The lead predator moved.
+
+We backed toward the narrowing.
+
+The pack followed slowly.
+
+Testing.
+
+At the stone pinch point, I turned.
+
+I pictured exactly what the retreat needed.
+
+Not a weapon.
+
+Not a victory.
+
+A barricade across this lane.
+
+High enough to make the pack stop.
+
+Narrow enough not to destroy the drainage cut.
+
+Solid long enough for the injured worker to get away.
+
+The air in front of me changed.
+
+Dark material folded into existence across the road.
+
+Crooked.
+
+Thick.
+
+Ugly enough to be mine.
+
+It braced between stone and ditch like the world had decided architecture was optional as long as the instruction was clear.
+
+The lead predator hit it.
+
+The barricade did not move.
+
+The animal recoiled.
+
+A second paced along the edge, looking for a way around.
+
+I could have made more.
+
+Higher walls.
+
+Spikes.
+
+A ceiling.
+
+A giant hand flicking the pack back into the forest.
+
+I did not need any of that.
+
+The objective was leaving.
+
+"Go," I said.
+
+The workers moved.
+
+Tavian stayed beside me.
+
+"I said go."
+
+"I heard you."
+
+"You're very difficult."
+
+"You are injured."
+
+"Unrelated."
+
+"It rarely is."
+
+The pack paced behind the barricade.
+
+The worker group gained distance.
+
+When they reached the next bend, I stopped sustaining the obstruction.
+
+It softened at the edges and folded away into nothing.
+
+Not because I had run out of anything.
+
+Its job was finished.
+
+So was the scene.
+
+"Move," Tavian said.
+
+This time I did.
+
+We retreated fast.
+
+Calling my movement graceful would have been criminal.
+
+Every step pulled at my ribs.
+
+The wound kept correcting itself in deep, burning contractions.
+
+The process did not ask permission.
+
+It did not make the pain smaller.
+
+It only made death increasingly inconvenient.
+
+Tavian stayed rear-left.
+
+I stayed rear-right.
+
+The pack followed after the barrier vanished, but with more distance now.
+
+We reached a low stone maintenance marker near the junction with the Main Caravan Road.
+
+"Past that marker," Tavian said. "Open ground."
+
+The predators slowed at the clearing.
+
+One came farther.
+
+Tavian turned on it.
+
+I started forward.
+
+He saw me.
+
+"Don't."
+
+"I can handle it."
+
+"I know."
+
+That stopped me.
+
+Not because I needed permission.
+
+Because he was not questioning whether I could kill it.
+
+He was questioning why we were still spending time on it.
+
+Tavian held the polearm across his body.
+
+The older worker joined him with the shovel.
+
+"Then why—"
+
+"Because we're leaving."
+
+Right.
+
+The predator paced at the edge of the cleared ground.
+
+Too many people.
+
+Too much open space.
+
+No easy target.
+
+It backed away.
+
+The others followed.
+
+Nobody chased them.
+
+For several seconds, all I heard was breathing.
+
+Mine sounded bad.
+
+The worker's sounded worse.
+
+Tavian turned.
+
+"Him first."
+
+Correct.
+
+The injured worker had two deep punctures in the lower leg and a tearing wound where the animal had dragged him.
+
+One of the others tightened a cloth wrap.
+
+Tavian checked it.
+
+"Not tighter."
+
+"We need a cart."
+
+"The main-road post is close."
+
+I looked toward Greywake.
+
+"How close?"
+
+"Close enough to matter. Not close enough to relax."
+
+I appreciated the precision.
+
+We reached the maintained road.
+
+A patrol cart found us before we made it much farther.
+
+The workers flagged it down.
+
+The injured man went on first.
+
+I climbed in after him because riding hurt less and I had no need to make walking theatrical.
+
+The service wagon—and its Wayfarer Token—was still back on the connector, but the patrol cart carried another.
+
+Meaning returned to the voices around me.
+
+The driver looked at Tavian.
+
+"What happened?"
+
+"Pack attack."
+
+"Here?"
+
+"Yes."
+
+"That close?"
+
+"Yes."
+
+The driver looked toward the connector.
+
+Tavian gave him nothing else.
+
+No theory.
+
+No accusation.
+
+Only what he knew.
+
+The injured worker groaned beside me.
+
+I looked down at my coat.
+
+Dark with blood.
+
+The tear beneath it had been deep enough that I remembered seeing pale structure between the blood and muscle before deciding I did not need that memory.
+
+Now the wound was smaller.
+
+Much smaller.
+
+The edges had pulled together unevenly.
+
+Bleeding had slowed to a wet line.
+
+Tavian caught me checking.
+
+His eyes narrowed.
+
+"What?"
+
+"Nothing."
+
+"That is not nothing."
+
+"I've had worse."
+
+I had not.
+
+The worker beside me made a sound through clenched teeth.
+
+The joke I had been building died before it reached my mouth.
+
+Good.
+
+The ride back to Greywake was rough.
+
+Every rut pulled at my ribs.
+
+The repair process continued.
+
+Not slower because I was tired.
+
+Not waiting for mana.
+
+Not asking whether I had enough of anything left.
+
+It simply continued because my body had apparently rejected the proposal that I remain torn open.
+
+The sensations changed as it worked.
+
+Sharp tearing.
+
+Deep heat.
+
+Pressure.
+
+Bone pain.
+
+Then the unpleasant feeling of structures moving where structures should not normally move while a person was conscious.
+
+I stayed conscious anyway.
+
+That did not make it pleasant.
+
+The treatment house stood near the inner road, close enough to the gate that injured travelers did not need a tour of Greywake before receiving help.
+
+The patrol cart rolled into the yard with blood on the floorboards.
+
+A woman with dark river-blue markings along her neck stepped outside before the wheels fully stopped.
+
+She took one look at us.
+
+"Who is losing blood now?"
+
+The injured worker raised a shaking hand.
+
+She pointed inside.
+
+"Him first. Leg elevated. Cut the trouser fabric. Don't pull it."
+
+People moved.
+
+No introduction.
+
+No curiosity about me.
+
+Excellent priorities.
+
+She was already pressing clean cloth around the worker's leg before Tavian said her name.
+
+"Sela."
+
+"I know what a bite looks like."
+
+"Multiple predators."
+
+"That I did not know."
+
+Her hands did not stop.
+
+The treatment room smelled like boiled cloth, bitter herbs, and something sharp enough to make my nose object.
+
+Shelves held sealed jars, folded bandages, splints, metal instruments, and three pale crystals set into a wooden rack.
+
+One crystal was already dim.
+
+Sela cleaned the worker's wound while an assistant held his leg.
+
+"Deep punctures. Tendon spared, maybe. Don't celebrate."
+
+The worker did not look tempted.
+
+Sela held two fingers above the torn tissue.
+
+A thin blue-white pattern formed between them and the wound.
+
+Structured.
+
+Deliberate.
+
+The tissue tightened beneath it.
+
+Bleeding slowed.
+
+After several seconds, Sela stopped.
+
+The crystal on the rack dimmed further.
+
+"That's enough."
+
+The assistant looked at the wound.
+
+"Only one pass?"
+
+"We still have afternoon."
+
+There it was.
+
+Local healing magic had limits because local healers had resources, patients, time, and apparently the misfortune of living in a world where people kept getting bitten.
+
+Sela packed the wound, wrapped it, and secured the leg.
+
+"Pain tonic. Small dose."
+
+The assistant moved.
+
+Only then did Sela look at me.
+
+Her eyes went to the blood on my coat.
+
+"Table."
+
+"The other patient—"
+
+"Is stable enough for me to look away for two minutes. Table."
+
+I sat.
+
+Arguing seemed inefficient.
+
+Tavian remained near the wall.
+
+Sela cut the side seam of my coat before I could object.
+
+"I liked that coat."
+
+"You are welcome to bleed on a different one next time."
+
+Fair.
+
+She pulled the fabric aside.
+
+Then stopped.
+
+Completely.
+
+"How long ago?"
+
+"The attack?"
+
+"The injury."
+
+"Less than two hours," Tavian said.
+
+Sela looked at him.
+
+"What hit him?"
+
+"Large pack predator."
+
+"Where?"
+
+Tavian traced a line along his own lower ribs and flank.
+
+Sela looked back at me.
+
+The wound had changed again during the ride.
+
+The deepest tear had drawn mostly closed.
+
+Raw tissue still showed.
+
+Dried blood covered half my side.
+
+But what should have been an open, life-threatening injury was becoming a vicious-looking seam.
+
+Sela touched near my ribs.
+
+I nearly left the table.
+
+"Don't."
+
+"At least one cracked rib."
+
+"Good to know."
+
+"Possibly more."
+
+"Less good."
+
+She checked my breathing.
+
+My abdomen.
+
+The wound again.
+
+"Did anyone heal this?"
+
+"No."
+
+"Potion?"
+
+"No."
+
+"Spell?"
+
+"No."
+
+She looked at Tavian.
+
+He shook his head.
+
+"I saw the injury immediately after the attack. No healer."
+
+Sela's eyes narrowed.
+
+She held one hand above my side.
+
+A smaller pattern appeared between her fingers.
+
+Different from the worker's treatment.
+
+Thinner.
+
+More precise.
+
+"What is that?"
+
+"Diagnostic knit."
+
+The light settled over the injury.
+
+For half a second, everything behaved.
+
+Then the wound changed underneath it.
+
+A deep contraction pulled through my side.
+
+I sucked in air.
+
+The spell's light flickered.
+
+One line split around tissue that had not been in that position when Sela started.
+
+Her expression changed.
+
+She moved her hand.
+
+The pattern tried to follow.
+
+My body corrected again.
+
+Sela stopped immediately.
+
+The light vanished.
+
+"That felt terrible."
+
+"I noticed."
+
+She placed two bare fingers against uninjured skin near the wound.
+
+No magic.
+
+Just examination.
+
+Tavian folded his arms.
+
+"What happened?"
+
+Sela watched my side.
+
+"His tissue changed while I was mapping it."
+
+"That sounds productive."
+
+"No."
+
+Less productive.
+
+"It is closing," she said.
+
+"I had gathered that."
+
+"Not like this."
+
+The room became quieter.
+
+The worker on the other table breathed steadily while the assistant adjusted his bandage.
+
+Sela looked at the dim crystals.
+
+Then at me.
+
+"The diagnostic should map the damage and follow a stable wound boundary."
+
+"And?"
+
+"The boundary moved."
+
+I looked down.
+
+"Yes."
+
+"While the knit was setting."
+
+"Also yes."
+
+She looked annoyed by my cooperation.
+
+"Normal healing does not do that unless another active recovery effect is already working on the tissue."
+
+"I don't have one."
+
+"I know."
+
+"You asked."
+
+"And I checked."
+
+She picked up a small metal disk from the tray and passed it over my side.
+
+A faint line appeared.
+
+Then faded.
+
+"No standard external healing residue."
+
+Tavian looked at her.
+
+"So what is it?"
+
+"If I knew, I would have said."
+
+I liked her immediately.
+
+Possibly because she had no patience for theories pretending to be facts.
+
+She looked at the wound again.
+
+"Innate recovery. A racial trait I've never seen. Some anomalous regenerative process. Those are possibilities, not answers."
+
+"Good possibilities?"
+
+"Better than naming it and pretending the name explains it."
+
+Fair.
+
+She did not cast again.
+
+"You're stopping?"
+
+"Yes."
+
+"Concerned you'll interrupt it?"
+
+"Concerned I don't know what I would be interrupting."
+
+That got my attention.
+
+"So normal healing could make it worse."
+
+"I said I don't know."
+
+"Very reassuring."
+
+"You are conscious after a wound that should have put an ordinary patient into shock before reaching the gate. Reassurance is not today's problem."
+
+She looked at Tavian.
+
+"What did the original injury look like?"
+
+He described it clinically.
+
+Deep tearing below the ribs.
+
+Heavy bleeding.
+
+Trouble standing.
+
+Enough trauma that he expected me to collapse during extraction.
+
+Sela listened.
+
+Then looked at my side.
+
+The world paused.
+
+The assistant froze with a folded bandage in both hands.
+
+Steam stopped above a bowl of boiled water.
+
+Sela's fingers hovered above the edge of my wound.
+
+I looked toward you.
+
+"This is the part where the healer says something medically upsetting."
+
+I considered Sela.
+
+"She has the face for accuracy."
+
+Time resumed.
+
+The steam moved again.
+
+Sela spoke.
+
+"You should be dead."
+
+There it was.
+
+Not prophecy.
+
+Not destiny.
+
+Not a title.
+
+Medical opinion.
+
+I leaned back on one hand.
+
+"I'm getting that impression."
+
+"No. Listen."
+
+She pointed toward the other table.
+
+"He had a predator tear his leg. We controlled the bleeding, cleaned the wound, used healing mana, medicine, bandages, and a treatment table. He still has days of pain and risk ahead of him."
+
+Her finger moved toward my side.
+
+"You were opened below the ribs badly enough that an ordinary patient could bleed out or lose organ function before transport. You arrived conscious. Your wound was already closing before I touched you. Now it is changing faster than my diagnostic can hold a stable map."
+
+I looked down.
+
+No useful joke arrived.
+
+Tavian supplied something worse.
+
+"He kept moving after the hit."
+
+Sela looked at him.
+
+"How much?"
+
+"Too much."
+
+That sounded personal.
+
+Sela pointed at the table.
+
+"Lie down."
+
+"I am sitting."
+
+"Congratulations. Lie down."
+
+I did.
+
+The ceiling was plain wood.
+
+For a while, nobody talked to me.
+
+Good.
+
+Sela worked.
+
+She checked the road worker's circulation again.
+
+Adjusted the wrap.
+
+Sent the assistant to boil more cloth.
+
+Wrote something on a treatment sheet I could not read.
+
+Checked the remaining healing crystal.
+
+The room ran on finite local supplies.
+
+Bandages.
+
+Medicine.
+
+Healing mana.
+
+Hands.
+
+Time.
+
+My regeneration did not make any of those infinite for everyone else.
+
+By late afternoon, the worker was stable.
+
+Not fine.
+
+Stable.
+
+His leg was wrapped and splinted.
+
+He had stopped shaking.
+
+Sela finally sat on a stool beside my table.
+
+Tavian remained near the wall.
+
+I had hoped he would become busy somewhere else.
+
+Apparently not.
+
+Sela looked at me.
+
+"Tell me exactly what you did."
+
+"That sounds accusatory."
+
+"It is."
+
+I considered improving the story.
+
+Heroically holding the strongest predator while everyone escaped.
+
+Technically true.
+
+Also useless.
+
+"Tavian told me not to move too far forward."
+
+Tavian said nothing.
+
+"I knew the hit wasn't going to decide the encounter for me."
+
+Sela's expression changed slightly.
+
+That was worse than surprise.
+
+"And?"
+
+"I wanted the animal committed to me."
+
+"Why?"
+
+"Because I wanted to see what it would do."
+
+"No."
+
+I looked at her.
+
+She nodded toward the sleeping worker.
+
+"Why did you think you could afford that?"
+
+Ah.
+
+Different question.
+
+I looked down at my side.
+
+The wound was almost closed now.
+
+Still raw.
+
+Still aching.
+
+Still real.
+
+But it was not going to kill me.
+
+That had been true before I stepped forward.
+
+At least some part of me had known it.
+
+"I could take the hit."
+
+Sela nodded once.
+
+"Could he?"
+
+I looked toward the worker.
+
+No.
+
+Tavian pushed away from the wall.
+
+"When you moved forward, I had to cover your left."
+
+"I know."
+
+"That opened the wagon side."
+
+"I know."
+
+"The second animal took it."
+
+"I know."
+
+"The worker moved because the safe lane stopped being safe."
+
+"I know."
+
+His voice stayed level.
+
+No speech.
+
+No accusation beyond the facts.
+
+That made the facts harder to dodge.
+
+Sela folded her arms.
+
+"You keep describing this as damage."
+
+"What?"
+
+"How much damage you can survive."
+
+She pointed at me.
+
+"That isn't the useful measurement."
+
+I waited.
+
+"The useful measurement is what your choice does to the people who cannot survive the same mistake."
+
+There it was.
+
+A sensible argument.
+
+I hated those.
+
+"You lived," she said. "Fine."
+
+She nodded toward the worker.
+
+"He does not heal like you."
+
+No joke came.
+
+That did not mean I had transformed into a responsible citizen.
+
+It meant the joke had nowhere useful to land.
+
+Important difference.
+
+Sela continued.
+
+"If your body lets you treat lethal damage like a personal inconvenience, then using your own body as the standard for risk is going to get other people hurt."
+
+Tavian looked at me.
+
+"Courage isn't the problem."
+
+"Good."
+
+"Judgment is."
+
+"Less good."
+
+My side pulsed.
+
+The body kept correcting.
+
+No dramatic recovery meter.
+
+No moment where I became stronger.
+
+Just the same refusal to stay broken.
+
+I looked at the sleeping worker again.
+
+The geometry from the road replayed easily.
+
+I had wanted the lead predator.
+
+I had stepped forward.
+
+Tavian had shifted.
+
+The second angle opened.
+
+The worker had paid for it.
+
+That was not a moral revelation.
+
+It was causality.
+
+Causality was worth remembering even when I remained perfectly capable of ignoring it later.
+
+Sela stood.
+
+"You're staying here until I'm satisfied nothing inside you is doing something worse than the outside."
+
+"I have lodging."
+
+"You have a treatment table."
+
+"I paid for the lodging."
+
+"Then consider this a poor financial decision."
+
+There it was.
+
+Tiny.
+
+Dry.
+
+Allowed.
+
+I looked at the ceiling.
+
+I had survived the hit.
+
+That remained true.
+
+The worker had survived too.
+
+Also true.
+
+Neither fact made my positioning good.
+
+Sela adjusted the cloth over my side.
+
+"Surviving damage and making a safe decision are not the same thing."
+
+I looked toward Tavian.
+
+He did not look triumphant.
+
+That helped.
+
+Then I looked back at the ceiling.
+
+I was still Red Jackal.
+
+Still curious.
+
+Still entirely capable of making the same kind of bad decision for a different reason tomorrow.
+
+But now I knew exactly what it could cost someone standing behind me.
+
+Useful information.

@@ -1947,7 +1947,7 @@ He does not know Red Jackal's true ceiling and therefore treats his capability a
 
 CH-009 canonically establishes:
 
-**curiosity → unnecessary interference → real localized consequence → self-chosen responsibility.**
+**curiosity → unnecessary interference → real localized consequence → self-chosen consequence handling.**
 
 The curiosity test was not secretly heroic, necessary, or perfectly predicted.
 
@@ -1959,11 +1959,10 @@ CH-009 contains one utility manifestation:
 
 - a low temporary obstruction used to narrow a tactical gap;
 - simple purpose;
-- physically imperfect;
-- cracks under pressure;
-- lasts only seconds;
+- simple/rough in presentation;
+- held only for the tactical interval Tavian needed;
 - supports Tavian's positioning rather than replacing his competence;
-- disappears without creating a permanent effect.
+- is released after its assigned role without creating a permanent effect.
 
 No new Play Logic rule was revealed.
 

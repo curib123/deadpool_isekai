@@ -1,10 +1,29 @@
+# Battle / Scene QA Revalidation — 2026-09-20
+
+**Battle ID:** V1-B07  
+**Standards:** `qa/BATTLE-SCENE-QA-STANDARD.md` + `qa/SCENE-QA-STANDARD.md`
+
+Distributed first-wave battle: last civilian lane, guide failure, ridge-hound spill, unauthorized Hesk pull, drainage rescue and Broken North compression remain simultaneously legible. Tavian owns ecology/geometry; Brynn owns command; Red supplies local impossible corrections. Territorial predator remains the ending handoff.
+
+- matchup identity/topology — **PASS**
+- action geography — **PASS**
+- opponent/hostile-force objective — **PASS**
+- topology/objective escalation — **PASS**
+- supporting-character competence — **PASS**
+- Red final-story-engine power model — **PASS**
+- no Stage/use-count/stamina ceiling — **PASS**
+- scene turns / causal handoffs — **PASS**
+- battle consequence — **PASS**
+- prose cadence after line-edit normalization — **PASS**
+- no protected-cosmology leakage — **PASS**
+
 # CH-022 Gate 9 — Chapter QA
 
 **Chapter:** CH-022 — First Wave  
 **Manuscript:** `manuscript/CH022-FIRST-WAVE.md`  
-**Review Date:** 2026-09-20  
-**Status:** PASS — CURRENT CANON REVALIDATED  
-**Word Count:** 1352
+**Review Date:** 2026-09-20
+**Status:** PASS — CURRENT CANON REVALIDATED / BATTLE QA PASS
+**Word Count:** 1690
 
 **Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A097 Prose Editor, A096 Imagination Scene Designer, A037 Power Balance Editor, A042 Character Arc Editor, A044 Supporting Character Editor, A045 Antagonist Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A111 Logic Editor
 

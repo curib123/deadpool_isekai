@@ -5,29 +5,17 @@
 **Word Count:** 2713
 **Chapter QA:** `qa/CH-006-GATE-9-CHAPTER-QA.md`
 
-Five wagons rolled out of Greywake after sunrise.
+Five wagons rolled out of Greywake after sunrise. I walked beside the third one. That had not been my choice.
 
-I walked beside the third one.
+Apparently one completed bridge job qualified me to look useful near a caravan without qualifying me to choose where I looked useful. No repair crew today. No broken hammer. Two Road Guild guards, five wagons, several drivers, a handful of passengers, and me doing an excellent impression of an armed escort without the weapon.
 
-That had not been my choice.
+Progress. A charged Wayfarer Tongue Token hung inside the lead wagon. As long as I stayed near the caravan, the guards' instructions reached me clearly. The written schedule pinned beside it remained meaningless.
 
-Apparently one completed bridge job qualified me to look useful near a caravan without qualifying me to choose where I looked useful.
-
-No repair crew today. No broken hammer. Two Road Guild guards, five wagons, several drivers, a handful of passengers, and me doing an excellent impression of an armed escort without the weapon.
-
-Progress.
-
-A charged Wayfarer Tongue Token hung inside the lead wagon. As long as I stayed near the caravan, the guards' instructions reached me clearly. The written schedule pinned beside it remained meaningless.
-
-Some problems were loyal.
-
-One guard pointed toward the middle of the caravan.
+Some problems were loyal. One guard pointed toward the middle of the caravan.
 
 "You stay beside the third wagon."
 
-I looked toward the front.
-
-The first wagon had a clear view of the road ahead. Better light. Better sightline. Considerably stronger entrance potential.
+I looked toward the front. The first wagon had a clear view of the road ahead. Better light. Better sightline. Considerably stronger entrance potential.
 
 "I was thinking front-left."
 
@@ -35,91 +23,37 @@ The first wagon had a clear view of the road ahead. Better light. Better sightli
 
 "Not officially."
 
-He stared at me.
+He stared at me. I moved beside the third wagon. So much for the opening shot.
 
-I moved beside the third wagon.
+The caravan started forward. Nobody seemed especially interested in yesterday's impossible hammer. Either the story had not traveled yet, or Greywake had discovered the rare and valuable skill of minding its own business.
 
-So much for the opening shot.
+The Main Caravan Road looked different now that I knew what keeping it alive cost. Fresh gravel filled low spots. Drainage cuts had been cleared since the last rain. Brush had been cut back far enough that anything large approaching the road would have to announce itself first. Repaired culverts broke the roadside at intervals. Timber edges had been replaced where runoff chewed at the packed surface.
 
-The caravan started forward.
+Every few hundred paces, newer work crossed older damage. The road worked. Not because the frontier had agreed to behave.
 
-Nobody seemed especially interested in yesterday's impossible hammer. Either the story had not traveled yet, or Greywake had discovered the rare and valuable skill of minding its own business.
+Because people kept spending wood, iron, time, money, and irritation on forcing it to. Annoyingly competent. We passed merchants heading toward Greywake, a supply wagon loaded with grain sacks, and a covered passenger cart moving the other direction.
 
-The Main Caravan Road looked different now that I knew what keeping it alive cost.
+Drivers exchanged signals. Guards watched the shoulders. Nobody looked heroic.
 
-Fresh gravel filled low spots. Drainage cuts had been cleared since the last rain. Brush had been cut back far enough that anything large approaching the road would have to announce itself first. Repaired culverts broke the roadside at intervals. Timber edges had been replaced where runoff chewed at the packed surface.
+Everything kept moving. That might have been more important. Our first stop was a toll marker built beside a wide drainage channel.
 
-Every few hundred paces, newer work crossed older damage.
+Two Guild workers checked wagon tags while one of our guards asked about traffic farther ahead. I stepped away from the third wagon to stretch my legs. That was when I noticed a man crouched beside the road.
 
-The road worked.
+Dark travel coat. Worn boots. A polearm rested on the ground within easy reach.
 
-Not because the frontier had agreed to behave.
-
-Because people kept spending wood, iron, time, money, and irritation on forcing it to.
-
-Annoyingly competent.
-
-We passed merchants heading toward Greywake, a supply wagon loaded with grain sacks, and a covered passenger cart moving the other direction.
-
-Drivers exchanged signals.
-
-Guards watched the shoulders.
-
-Nobody looked heroic.
-
-Everything kept moving.
-
-That might have been more important.
-
-Our first stop was a toll marker built beside a wide drainage channel.
-
-Two Guild workers checked wagon tags while one of our guards asked about traffic farther ahead. I stepped away from the third wagon to stretch my legs.
-
-That was when I noticed a man crouched beside the road.
-
-Dark travel coat.
-
-Worn boots.
-
-A polearm rested on the ground within easy reach.
-
-He was staring at mud as if it had confessed to something.
-
-Naturally, I went to investigate.
-
-I was one step away when he raised a hand without looking at me.
+He was staring at mud as if it had confessed to something. Naturally, I went to investigate. I was one step away when he raised a hand without looking at me.
 
 "Don't step there."
 
-I stopped with one foot in the air.
+I stopped with one foot in the air. There were better first impressions. I lowered the boot behind me.
 
-There were better first impressions.
+He pointed. Only then did I see the tracks. Several broad impressions crossed the damp edge of the drainage channel and disappeared toward the forest. Split-hooved. Deep pressure toward the front.
 
-I lowered the boot behind me.
+Another trail cut across them. Clawed. Four toes.
 
-He pointed.
+Longer stride. The man stood. Around thirty, maybe older. Hard to tell with people who spent their lives outdoors and looked personally acquainted with weather. Nothing flashy about him. No polished armor. No decorative cape begging to get caught on a branch.
 
-Only then did I see the tracks.
-
-Several broad impressions crossed the damp edge of the drainage channel and disappeared toward the forest. Split-hooved. Deep pressure toward the front.
-
-Another trail cut across them.
-
-Clawed.
-
-Four toes.
-
-Longer stride.
-
-The man stood.
-
-Around thirty, maybe older. Hard to tell with people who spent their lives outdoors and looked personally acquainted with weather. Nothing flashy about him. No polished armor. No decorative cape begging to get caught on a branch.
-
-A small metal insignia sat near his shoulder.
-
-Unreadable, obviously.
-
-One of the road guards walked over.
+A small metal insignia sat near his shoulder. Unreadable, obviously. One of the road guards walked over.
 
 "Rook."
 
@@ -133,51 +67,27 @@ The man looked at him.
 
 "So are the animals."
 
-The guard exhaled through his nose.
-
-Interesting.
-
-He finally looked at me.
+The guard exhaled through his nose. Interesting. He finally looked at me.
 
 The guard gestured between us.
 
 "Tavian Rook. Crownspine Warden liaison."
 
-Tavian gave me one brief look, then returned to the tracks.
-
-Apparently I had not made the list of important environmental problems.
-
-I decided to correct the oversight.
+Tavian gave me one brief look, then returned to the tracks. Apparently I had not made the list of important environmental problems. I decided to correct the oversight.
 
 "Red Jackal."
 
 "Tavian Rook."
 
-That was it.
+That was it. No recognition. No alarm.
 
-No recognition.
-
-No alarm.
-
-No question about why the System could not define me.
-
-He moved closer to the forest edge where the light hit the ground better.
-
-I adjusted position.
+No question about why the System could not define me. He moved closer to the forest edge where the light hit the ground better. I adjusted position.
 
 "Not there either," he said.
 
-I looked down.
+I looked down. Another faint print sat less than half a step from my boot. I moved again.
 
-Another faint print sat less than half a step from my boot.
-
-I moved again.
-
-Very dignified.
-
-The world paused.
-
-A toll worker froze with a wagon tag halfway toward a driver. One of the horses stopped mid-chew. Tavian remained bent toward the track line, completely unaware that the universe had temporarily become my private complaint department.
+Very dignified. The world paused. A toll worker froze with a wagon tag halfway toward a driver. One of the horses stopped mid-chew. Tavian remained bent toward the track line, completely unaware that the universe had temporarily become my private complaint department.
 
 I looked toward you.
 
@@ -187,11 +97,7 @@ I glanced down at the print I had almost stepped on.
 
 "Unfortunately, he is correct."
 
-Time resumed.
-
-The horse finished chewing.
-
-Tavian pointed at the ground.
+Time resumed. The horse finished chewing. Tavian pointed at the ground.
 
 "What are you looking for?" I asked.
 
@@ -221,9 +127,7 @@ He pointed toward the clawed trail.
 
 "Yes."
 
-I waited.
-
-He did not rescue the conversation.
+I waited. He did not rescue the conversation.
 
 "What is unusual?"
 
@@ -237,9 +141,7 @@ He traced the edge of the print.
 
 "Usually matters."
 
-That was annoyingly reasonable.
-
-The road guard folded his arms.
+That was annoyingly reasonable. The road guard folded his arms.
 
 "Could be weather."
 
@@ -249,11 +151,7 @@ The road guard folded his arms.
 
 "Could be."
 
-The guard looked at me as if I had been invited to vote.
-
-I had not.
-
-Tavian stood and looked toward the trees.
+The guard looked at me as if I had been invited to vote. I had not. Tavian stood and looked toward the trees.
 
 "One crossing means very little. Two means slightly more. I've seen six like this in three days."
 
@@ -271,11 +169,7 @@ Tavian picked up his polearm.
 
 "I said unusual."
 
-The toll workers finished checking the last wagon.
-
-Our guard waved the caravan forward.
-
-Tavian started walking in the same direction.
+The toll workers finished checking the last wagon. Our guard waved the caravan forward. Tavian started walking in the same direction.
 
 I looked at him.
 
@@ -291,17 +185,9 @@ I looked at him.
 
 "No."
 
-I decided the distinction was important to him in ways I did not yet deserve to understand.
+I decided the distinction was important to him in ways I did not yet deserve to understand. The caravan moved on. Tavian stayed near the drainage edge, never quite inside our formation. Every few hundred paces he stopped for a few seconds to inspect disturbed soil, broken brush, droppings, bark marks, or some tiny insult to nature that I would have walked over without noticing.
 
-The caravan moved on.
-
-Tavian stayed near the drainage edge, never quite inside our formation. Every few hundred paces he stopped for a few seconds to inspect disturbed soil, broken brush, droppings, bark marks, or some tiny insult to nature that I would have walked over without noticing.
-
-He never delayed us enough to justify complaining.
-
-That made him harder to dismiss.
-
-I tried anyway.
+He never delayed us enough to justify complaining. That made him harder to dismiss. I tried anyway.
 
 "You always inspect dirt this carefully?"
 
@@ -311,41 +197,19 @@ I tried anyway.
 
 "You asked."
 
-Tavian was going to be difficult.
-
-Worse, he was going to be useful.
-
-The guarded rest post appeared before noon where the road widened beside a shallow well and a roofed shelter.
+Tavian was going to be difficult. Worse, he was going to be useful. The guarded rest post appeared before noon where the road widened beside a shallow well and a roofed shelter.
 
 Two guards were stationed there. Water barrels stood under an awning. Fresh timber sat beside a repair shed. The brush had been cleared back far enough that the forest seemed to respect a property line.
 
-A board displayed route notices.
+A board displayed route notices. Unreadable. At this point, written information felt personal.
 
-Unreadable.
+Drivers watered the animals while passengers climbed down and stretched. Tavian ignored the well. He walked toward a narrow road branching west.
 
-At this point, written information felt personal.
+The difference was immediate. The Main Caravan Road had gravel, drainage, cut brush, painted posts, guards, water, and people whose jobs existed specifically to keep it functioning. The side route had ruts.
 
-Drivers watered the animals while passengers climbed down and stretched.
+Grass grew through the middle. One drainage ditch had collapsed under mud and leaves. Brush pressed close enough that branches reached over the road.
 
-Tavian ignored the well.
-
-He walked toward a narrow road branching west.
-
-The difference was immediate.
-
-The Main Caravan Road had gravel, drainage, cut brush, painted posts, guards, water, and people whose jobs existed specifically to keep it functioning.
-
-The side route had ruts.
-
-Grass grew through the middle.
-
-One drainage ditch had collapsed under mud and leaves.
-
-Brush pressed close enough that branches reached over the road.
-
-A marker leaned beside the entrance, its painted face faded nearly blank.
-
-I did not need literacy for this one.
+A marker leaned beside the entrance, its painted face faded nearly blank. I did not need literacy for this one.
 
 "What is down there?" I asked.
 
@@ -369,23 +233,11 @@ Tavian looked back toward the maintained road.
 
 "No."
 
-The guard relaxed.
+The guard relaxed. Tavian stepped toward the side spur. I followed.
 
-Tavian stepped toward the side spur.
+The guard did not. That told me something. Tavian crouched beside another track bed.
 
-I followed.
-
-The guard did not.
-
-That told me something.
-
-Tavian crouched beside another track bed.
-
-This time I stayed two full steps back without being told.
-
-Personal growth was a dangerous phrase.
-
-Let's call it tactical memory.
+This time I stayed two full steps back without being told. Personal growth was a dangerous phrase. Let's call it tactical memory.
 
 He pointed toward a broad hoof print at the edge of the rut.
 
@@ -395,21 +247,13 @@ He pointed toward a broad hoof print at the edge of the rut.
 
 "Yesterday. Maybe late the night before."
 
-A narrower clawed print crossed it.
-
-Then another.
-
-Beneath both, older impressions ran almost parallel to the road.
+A narrower clawed print crossed it. Then another. Beneath both, older impressions ran almost parallel to the road.
 
 Tavian scraped loose dirt from one edge with the back of a finger.
 
 "Older layer."
 
-I leaned in.
-
-Once he showed me where to look, I could see the shapes.
-
-Not well.
+I leaned in. Once he showed me where to look, I could see the shapes. Not well.
 
 Enough.
 
@@ -461,15 +305,9 @@ The guard nodded toward the maintained road.
 
 "For you."
 
-The guard did not like that answer.
+The guard did not like that answer. He also did not argue. I looked from the staffed rest post to the side spur.
 
-He also did not argue.
-
-I looked from the staffed rest post to the side spur.
-
-One had clean water, guards, repairs, and open sightlines.
-
-The other had brush growing into the road.
+One had clean water, guards, repairs, and open sightlines. The other had brush growing into the road.
 
 "Lower priority?" I asked.
 
@@ -481,127 +319,55 @@ The guard answered.
 
 "No."
 
-Tavian said nothing.
+Tavian said nothing. Somehow that made the answer feel more incomplete. Not false.
 
-Somehow that made the answer feel more incomplete.
-
-Not false.
-
-Incomplete.
-
-We moved again after the rest stop.
-
-Tavian continued in the same direction, still refusing to admit he was traveling with us.
+Incomplete. We moved again after the rest stop. Tavian continued in the same direction, still refusing to admit he was traveling with us.
 
 The road followed the forest edge before bending around a low ridge. One guard rode ahead. The other stayed behind the second wagon.
 
-I remained beside the third.
+I remained beside the third. A position selected entirely for utility. Offensive, but survivable.
 
-A position selected entirely for utility.
+Tavian walked near the front-right edge, watching the tree line. Then he stopped. Not dramatically.
 
-Offensive, but survivable.
-
-Tavian walked near the front-right edge, watching the tree line.
-
-Then he stopped.
-
-Not dramatically.
-
-Just enough.
-
-I noticed.
+Just enough. I noticed.
 
 "What?"
 
-He lifted one hand.
+He lifted one hand. The people behind him slowed. The lead guard turned.
 
-The people behind him slowed.
+Something crashed through the brush. A large four-legged animal burst from the trees. Not a predator.
 
-The lead guard turned.
+At least not the first one. Heavy shoulders. Long narrow head.
 
-Something crashed through the brush.
+Two horns swept backward from the skull. Mud streaked one flank. It crossed the drainage ditch badly and hit the road at an angle.
 
-A large four-legged animal burst from the trees.
+Drivers shouted. The animal saw the wagons and changed direction. Then the second shape came through the trees.
 
-Not a predator.
+Lean. Clawed. Fast.
 
-At least not the first one.
+The predator committed to the chase before it seemed to notice the caravan. The road suddenly had too many moving parts. Prey.
 
-Heavy shoulders.
+Predator. Five wagons. Drivers.
 
-Long narrow head.
+Passengers. Two guards. Tavian.
 
-Two horns swept backward from the skull.
-
-Mud streaked one flank.
-
-It crossed the drainage ditch badly and hit the road at an angle.
-
-Drivers shouted.
-
-The animal saw the wagons and changed direction.
-
-Then the second shape came through the trees.
-
-Lean.
-
-Clawed.
-
-Fast.
-
-The predator committed to the chase before it seemed to notice the caravan.
-
-The road suddenly had too many moving parts.
-
-Prey.
-
-Predator.
-
-Five wagons.
-
-Drivers.
-
-Passengers.
-
-Two guards.
-
-Tavian.
-
-Me.
-
-Tavian moved first.
+Me. Tavian moved first.
 
 "Drivers, hold the wagons."
 
-The lead guard hesitated for half a second, read the same situation, then repeated the order louder.
-
-The wagons stopped.
+The lead guard hesitated for half a second, read the same situation, then repeated the order louder. The wagons stopped.
 
 "Passengers behind the wagon line," Tavian said.
 
-People moved.
+People moved. The prey animal veered toward the opening between the second and third wagons. I stepped forward.
 
-The prey animal veered toward the opening between the second and third wagons.
+Perfect angle. If it came through there, I could plant myself in the gap and make the predator deal with me. Simple.
 
-I stepped forward.
-
-Perfect angle.
-
-If it came through there, I could plant myself in the gap and make the predator deal with me.
-
-Simple.
-
-Clean.
-
-Visually excellent.
+Clean. Visually excellent.
 
 "Not there."
 
-Tavian's voice cut across the road.
-
-I looked at him.
-
-He pointed hard to my right.
+Tavian's voice cut across the road. I looked at him. He pointed hard to my right.
 
 "Move."
 
@@ -609,131 +375,55 @@ He pointed hard to my right.
 
 "You're closing its escape."
 
-The horned animal was already turning.
+The horned animal was already turning. I saw it. If I held the gap, I would block the cleanest route away from the wagons.
 
-I saw it.
+That would leave the frightened animal with one easier direction. Toward the passengers sheltering behind the third wagon. Annoying.
 
-If I held the gap, I would block the cleanest route away from the wagons.
-
-That would leave the frightened animal with one easier direction.
-
-Toward the passengers sheltering behind the third wagon.
-
-Annoying.
-
-Correct.
-
-I moved.
-
-Tavian pointed toward the drainage ditch.
+Correct. I moved. Tavian pointed toward the drainage ditch.
 
 "Keep that side open."
 
-The guards shifted with him.
+The guards shifted with him. The lead guard angled his spear toward the predator without advancing. The second moved closer to the passengers.
 
-The lead guard angled his spear toward the predator without advancing. The second moved closer to the passengers.
+Nobody chased. Nobody crowded the animals. The prey saw the opening.
 
-Nobody chased.
+It took it. Hooves struck packed gravel in front of me, then dropped into the ditch on the opposite side. The predator followed.
 
-Nobody crowded the animals.
+Too close. I stepped into its line after the prey had cleared. This time Tavian did not stop me.
 
-The prey saw the opening.
+Better. The predator saw me. Slowed.
 
-It took it.
+I could have made something. A wall. A weapon.
 
-Hooves struck packed gravel in front of me, then dropped into the ditch on the opposite side.
+Something huge and embarrassing. I did not need to. Tavian's geometry was already doing the important work, and the guards knew exactly where they belonged.
 
-The predator followed.
-
-Too close.
-
-I stepped into its line after the prey had cleared.
-
-This time Tavian did not stop me.
-
-Better.
-
-The predator saw me.
-
-Slowed.
-
-I could have made something.
-
-A wall.
-
-A weapon.
-
-Something huge and embarrassing.
-
-I did not need to.
-
-Tavian's geometry was already doing the important work, and the guards knew exactly where they belonged.
-
-Using the impossible here would not solve a problem.
-
-It would just make sure everybody remembered I had impossible things.
-
-Different objective.
+Using the impossible here would not solve a problem. It would just make sure everybody remembered I had impossible things. Different objective.
 
 I planted one foot and widened my stance.
 
 "Come on."
 
-The predator lowered its head.
-
-Tavian's voice stayed calm.
+The predator lowered its head. Tavian's voice stayed calm.
 
 "Don't chase it."
 
 "I wasn't planning to."
 
-I had absolutely considered it.
+I had absolutely considered it. The animal darted left. I matched the movement without advancing.
 
-The animal darted left.
+The lead guard closed the other side. The predator checked again. Its prey was already disappearing into the brush.
 
-I matched the movement without advancing.
+That changed its decision. Good. It snapped once, frustrated.
 
-The lead guard closed the other side.
+I kicked gravel toward its face. Not heroic. Effective.
 
-The predator checked again.
+It recoiled. The guard drove his spear point hard into the road ahead of it. Crack.
 
-Its prey was already disappearing into the brush.
+Tavian opened the retreat line behind the animal instead of closing it. The predator turned. Ran.
 
-That changed its decision.
+Nobody followed. For several seconds, the road stayed quiet. Then a wagon animal made a nervous sound.
 
-Good.
-
-It snapped once, frustrated.
-
-I kicked gravel toward its face.
-
-Not heroic.
-
-Effective.
-
-It recoiled.
-
-The guard drove his spear point hard into the road ahead of it.
-
-Crack.
-
-Tavian opened the retreat line behind the animal instead of closing it.
-
-The predator turned.
-
-Ran.
-
-Nobody followed.
-
-For several seconds, the road stayed quiet.
-
-Then a wagon animal made a nervous sound.
-
-Somebody swore.
-
-I looked at Tavian.
-
-He was already checking the passengers.
+Somebody swore. I looked at Tavian. He was already checking the passengers.
 
 "Anyone down?"
 
@@ -741,17 +431,9 @@ No.
 
 "Anyone hit?"
 
-No.
+No. Only after that did he turn toward the tracks. People first.
 
-Only after that did he turn toward the tracks.
-
-People first.
-
-Evidence second.
-
-Interesting.
-
-He crouched at the roadside.
+Evidence second. Interesting. He crouched at the roadside.
 
 The road guard came over.
 
@@ -761,33 +443,17 @@ Tavian nodded.
 
 "Yes."
 
-The guard looked surprised.
-
-So did I.
-
-Tavian stepped toward the fresh tracks.
+The guard looked surprised. So did I. Tavian stepped toward the fresh tracks.
 
 "That isn't the problem."
 
-The prey animal's hooves had torn through older marks near the ditch.
-
-The predator's prints crossed behind them.
-
-Tavian moved farther along the soft ground.
+The prey animal's hooves had torn through older marks near the ditch. The predator's prints crossed behind them. Tavian moved farther along the soft ground.
 
 "Here."
 
-I joined him.
+I joined him. Carefully. He pointed to a faded print beneath the fresh pursuit line.
 
-Carefully.
-
-He pointed to a faded print beneath the fresh pursuit line.
-
-Another broad hoof mark.
-
-Older.
-
-Then a separate clawed line crossing from the opposite direction.
+Another broad hoof mark. Older. Then a separate clawed line crossing from the opposite direction.
 
 The road guard leaned closer.
 
@@ -799,21 +465,13 @@ The road guard leaned closer.
 
 "Stride. Weight. Toe spread."
 
-Of course he had an answer.
-
-Tavian walked several paces along the edge and pointed again.
+Of course he had an answer. Tavian walked several paces along the edge and pointed again.
 
 "More there."
 
-I looked from the fresh pursuit trail to the older crossings.
+I looked from the fresh pursuit trail to the older crossings. One incident could be bad luck. Two could still be bad luck.
 
-One incident could be bad luck.
-
-Two could still be bad luck.
-
-Repeated tracks from different animals moving in directions they apparently should not be moving started to look less like bad luck and more like a pattern.
-
-The guard remained unconvinced.
+Repeated tracks from different animals moving in directions they apparently should not be moving started to look less like bad luck and more like a pattern. The guard remained unconvinced.
 
 "The road is open."
 
@@ -831,17 +489,9 @@ Tavian nodded.
 
 "We should."
 
-The guard returned to the wagons.
+The guard returned to the wagons. No accusation. No argument.
 
-No accusation.
-
-No argument.
-
-He had travelers to move.
-
-Tavian had a different job.
-
-I looked at the forest edge.
+He had travelers to move. Tavian had a different job. I looked at the forest edge.
 
 "What should they be doing?"
 
@@ -861,17 +511,9 @@ He pointed to the claw marks.
 
 "I don't know."
 
-He said it immediately.
+He said it immediately. No theory dressed as certainty. No dramatic explanation because the scene needed one.
 
-No theory dressed as certainty.
-
-No dramatic explanation because the scene needed one.
-
-Just the boundary of what he knew.
-
-Useful.
-
-The drivers started calling people back into position.
+Just the boundary of what he knew. Useful. The drivers started calling people back into position.
 
 I looked at Tavian.
 
@@ -883,23 +525,11 @@ I looked at Tavian.
 
 "It isn't."
 
-Technical definitions again.
+Technical definitions again. He picked up his polearm and looked toward the layered tracks. I had met people who could tell me whether the System recognized me.
 
-He picked up his polearm and looked toward the layered tracks.
+People who could tell me whether my body had mass. People who could tell me whether a bridge brace was aligned. Tavian, apparently, could tell me when the wilderness itself was behaving incorrectly.
 
-I had met people who could tell me whether the System recognized me.
-
-People who could tell me whether my body had mass.
-
-People who could tell me whether a bridge brace was aligned.
-
-Tavian, apparently, could tell me when the wilderness itself was behaving incorrectly.
-
-That made him worth listening to.
-
-The humor left his face.
-
-Not that there had been much available.
+That made him worth listening to. The humor left his face. Not that there had been much available.
 
 He looked toward the trees.
 

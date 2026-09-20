@@ -1,544 +1,877 @@
 # Chapter 11 — Broken North
 
-**Status:** STUDIO CINEMATIC RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
-**Word Count:** 2,846  
+**Status:** SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE REVISION — GATE 9 REVALIDATION PENDING
+**Revision Date:** 2026-09-20
+**Word Count:** 2750
 **Chapter QA:** `qa/CH-011-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-011-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
-Tavian spread a map across a low supply crate at Greywake's north road yard.
+Tavian spread a map across a low supply crate in Greywake's north road yard.
 
-Maelis set a field sheet beside it. Kellan dropped a coil of rope and a short pry bar onto the crate.
+Maelis placed a field sheet beside it. Kellan dropped a coil of rope and a short pry bar onto the crate.
 
-Red arrived with breakfast.
+I arrived with breakfast.
 
-One of them had prepared correctly.
+One of us had prepared correctly.
 
-Beyond the yard, maintained stone gave way to old packed earth and the roofs thinned toward the tree line. A charged Wayfarer Tongue Token hung from Tavian's belt.
+A charged Wayfarer Tongue Token hung from Tavian's belt, close enough that everyone around the crate came through clearly. The map itself remained a collection of useful lines covered in letters that continued refusing diplomatic relations with me.
 
-“This is the clean track set.”
+Tavian marked three points with charcoal.
 
-He marked three points with a piece of charcoal.
+"Older prey sign here. Predator sign here. Mixed crossing here."
 
-“Older prey sign here, predator sign here, mixed crossing here. Different ages. Same general drift.”
+He drew a line through them.
 
-“North-east,” he said.
+"Different ages. Same broad drift."
 
-“Yes.”
+"Northeast," I said.
 
-Maelis set her own sheet beside it.
+"Yes."
 
-“These are the reporting periods I compared yesterday. Main-road certified losses decrease here, here, and here.”
+Maelis placed her own sheet beside his map.
 
-Kellan looked at the marks.
+"These are the reporting periods I compared yesterday. Main-road certified losses decrease here, here, and here."
 
-“And the outer routes?”
+Kellan leaned over the crate.
 
-“Increase in unresolved, irregular, or incomplete-identity losses during the same periods.”
+"And the outer routes?"
+
+"Unresolved, irregular, and incomplete-identity losses increase during the same periods."
 
 Kellan's mouth tightened.
 
-“That's a lot of words for people going missing where nobody important has to count them.”
-
-Maelis did not object to the anger. She objected to the conclusion.
-
-“It is a reporting pattern. It is not yet proof of cause.”
-
-Kellan gave her a look.
-
-“You always talk like that?”
-
-“Yes.”
-
-“I'd hate to argue with you after dark.”
-
-“She gets stronger around paperwork,” he said.
-
-Maelis ignored him. Tavian traced the line of his field marks farther north.
-
-“If the movement continues through this corridor, it crosses the old road here.”
-
-Kellan leaned over the map.
-
-“Broken North.”
-
-That was the first time the name had sounded less like a road and more like a warning. He pointed at the charcoal line.
-
-“That is the abandoned road?”
-
-“Partly abandoned,” Kellan said. “Partly collapsed. Partly swallowed by trees because Greywake stopped paying people to fight roots for ownership.”
-
-“Efficient.”
-
-“It was never efficient.”
-
-He tapped a point farther east.
-
-“This connector used to feed three smaller routes before the northern washouts got bad. There's an old watch point above the bend. Drainage cut below it. If anything is still moving through there, that's where I'd look.”
-
-Maelis glanced from his finger to Tavian's marks.
-
-“The location also falls inside the outer-loss cluster.”
-
-Tavian nodded once.
-
-Tavian's charcoal mark and Maelis's loss cluster sat on the same part of the map.
-
-Red looked at it.
-
-“That's relaxing.”
-
-“So we go look,” he said.
-
-Maelis folded her field sheet.
-
-“We verify.”
-
-“That is what I said.”
-
-“No. You said it with less discipline.”
-
-Kellan picked up his rope.
-
-“Can we argue about the exact verb while walking?”
-
-He liked him. Broken North began as a road and then slowly stopped earning the word. The first stretch still had enough surface left to show old wagon cuts. Farther on, roots had lifted whole slabs of packed stone. One drainage trench had collapsed into a muddy groove deep enough to catch a wheel. Moss covered the broken edge of an old retaining wall. Then they reached the closure. It was new. That mattered because almost nothing around it was. Two fresh timber posts had been driven into the roadside and linked by a chain. A square Guild board hung between them beneath a waxed cover. The wood still showed pale cuts where the saw had passed. He looked at the writing. The writing continued its long-standing policy of refusing to become useful.
-
-“What does it say?”
-
-Maelis read it aloud.
-
-“Broken North corridor closed by authority of the Greywake Chartered Road Guild. Passage restricted due to unstable roadworks, collapse risk, and elevated monster activity. Unauthorized entry prohibited until further inspection.”
-
-He looked past it. The road immediately beyond the chain had lost half its outer edge to a slope.
-
-“Well,” he said. “That is annoyingly reasonable.”
-
-Tavian crouched near the base of one post.
-
-“The slope is unstable. The closure itself is justified.”
-
-Kellan ran a thumb over the cut timber.
-
-“Posts are recent.”
-
-“How recent?” Maelis asked.
-
-“Weeks. Maybe less. Hard to tell with weather.”
-
-“Does that prove anything?”
-
-“No.”
-
-Kellan looked at the collapsed road.
-
-“But somebody cared enough about an abandoned route to put up a fresh closure.”
-
-Maelis took out her pencil.
-
-He stepped over the chain.
-
-Three people spoke at once.
-
-“Red Jackal.”
-
-“Don't.”
-
-“Of course.”
-
-He turned around from the other side. It was almost impressive how differently they could communicate the same disappointment. Maelis pointed at the chain.
-
-“You just crossed an active Guild closure.”
-
-“I noticed.”
-
-“You cannot later claim you misunderstood it.”
-
-“I asked you to read it.”
-
-“That makes this worse.”
-
-Tavian stood.
-
-“The problem is not only the rule. The road is genuinely unstable.”
-
-“Then it is fortunate I brought three people who enjoy telling me where not to step.”
-
-Kellan snorted. Tavian did not. Maelis crossed her arms.
-
-“If we find evidence after entering without authorization, the Guild can challenge how it was obtained.”
-
-“The Guild is already controlling your access to records.”
-
-“That does not make every access restriction fraudulent.”
-
-“No.”
-
-He looked back toward the fresh posts.
-
-“That is why I'm not claiming this one is.”
-
-That got a pause. He continued.
-
-“But I'm also not asking the people controlling the records whether I'm allowed to check the road the records point toward.”
-
-Maelis's expression hardened.
-
-“That is not a legal argument.”
-
-“I know.”
-
-“Or a procedural one.”
-
-“I know.”
-
-Tavian looked down the broken road.
-
-“If you go alone, I will have to come after you when you do something preventable.”
-
-“That sounded almost affectionate.”
-
-“It wasn't.”
-
-He stepped over the chain. Maelis stared at him. Tavian adjusted the strap on his field pack.
-
-“My investigation also points north. I was going to inspect this corridor with or without him. I would have preferred authorization.”
-
-“Preferred,” Red repeated.
-
-“Do not make me regret using that word.”
-
-Kellan ducked under the chain next. Maelis looked at him.
-
-“My people use the routes this one used to connect,” he said. “If something out here is pushing danger toward them, I don't need him to tell me I care.”
-
-That left Maelis. She closed her eyes for one second. Then she wrote something on her field sheet.
-
-“What are you doing?” he asked.
-
-“Recording that entry was unauthorized.”
-
-“You could have lied.”
-
-“No.”
-
-She stepped over the chain. Of course she did it after documenting the crime. Some people had standards. Beyond the closure, Broken North became honest about being abandoned. The road narrowed under brush. Old marker stones leaned at different angles, some cracked through the middle. A section of retaining wall had fallen outward and scattered square-cut blocks down the slope. The remains of a watch structure appeared through the trees farther ahead, only one corner standing high enough to resemble architecture. Kellan stopped often. Not because he was unsure. Because he noticed things none of them did.
-
-“That collapse is old,” he said at one broken drainage cut. “See the roots through the stone? Years.”
-
-A few minutes later he crouched near a fallen marker.
-
-“This was moved.”
-
-Maelis came closer.
-
-“How can you tell?”
-
-Kellan pointed with the pry bar.
-
-“Moss line.”
-
-One side of the marker was green and dark. The underside showed pale stone.
-
-“It sat the other way long enough for that face to weather. Somebody rolled it recently.”
-
-Tavian scanned the ground beside it.
-
-“Boot marks.”
-
-He looked. Mud. Leaves. A few shallow impressions. He could now recognize enough to know they existed. He did not pretend that made him Tavian.
-
-“How recent?”
-
-“After the last rain.”
-
-Kellan glanced toward the road ahead.
-
-“There's no reason to move that marker if nobody uses the road.”
-
-Maelis wrote it down.
-
-“Reason unknown.”
-
-Kellan looked at her.
-
-“You think someone came out here to improve the scenery?”
-
-“I think we record what happened before deciding why.”
-
-He shook his head but kept walking. The recent signs repeated. A branch cut cleanly instead of broken by weather. A narrow strip through the brush with less leaf litter than the ground around it. Fresh abrasion on an old iron fitting mounted into the ruined wall. Then Kellan found wax. He rubbed one finger along a metal pin half-hidden under ivy. The surrounding iron was orange with rust. The pin was not.
-
-“Replaced.”
-
-Maelis leaned closer without touching it.
-
-“Recently?”
-
-“Yes.”
-
-Tavian had moved several paces off the road. He crouched beside a patch of churned soil and studied the edges.
-
-“More tracks.”
-
-“Predator?” he asked.
-
-“And prey.”
-
-“Still north?”
-
-He looked toward the ruined watch point.
-
-“Not exactly.”
-
-That was not reassuring. Tavian stood and pointed.
-
-“They're bending around this slope. Several species.”
-
-Kellan frowned.
-
-“There's nothing up there.”
-
-“Food?”
-
-“No.”
-
-“Water?”
-
-“Drainage is below us.”
-
-Tavian looked back at the tracks.
-
-“Then the route choice is wrong.”
-
-Again. Maelis came beside him.
-
-“Wrong in the same way as yesterday?”
-
-“Different geometry. Same problem.”
-
-She wrote that down too. He looked at the road ahead. Old stone. New boot marks. Fresh hardware. Animals behaving badly. Yesterday they had paper. Before that, tracks. Now the forest had started leaving receipts. They followed the narrow used path away from the old road. It climbed toward the watch point through a section where the hillside had collapsed years ago. The original stone stair was mostly gone. Only three steps remained attached to the slope before ending above a washout. Kellan stopped them.
-
-“No.”
-
-He looked at him.
-
-“That sounded final.”
-
-“That ledge won't hold four people.”
-
-He pointed to a cracked stone lip running across the washout.
-
-“The retaining bed under it is gone. One person might cross if they're light and lucky.”
-
-Maelis looked down the slope.
-
-“How far?”
-
-“Enough.”
-
-Useful measurement. Tavian raised one hand. They stopped. He was staring into the brush below them.
-
-“What?”
-
-“Movement.”
-
-The answer came as a low scrape. Then another. Two lean shapes appeared between the trees beneath the old road. Long-backed. Grey-brown. Smaller than the pack from the service road, but large enough that he did not want either one testing whether his arm counted as lunch. Tavian drew his sword.
-
-“Displaced ridge-hounds.”
-
-Kellan moved closer to the surviving wall.
-
-“Those don't normally come this high.”
-
-“I know.”
-
-One hound climbed onto a fallen block. The second circled below. Tavian pointed.
-
-“Maelis, wall side. Kellan behind her.”
-
-Maelis already had her compact crossbow out. He started forward. Tavian looked at him. He stopped.
-
-Progress.
-
-“Where?”
-
-“Here.”
-
-Tavian positioned Red beside the narrowest part of the washout. The first hound lunged up the slope. Maelis fired. The bolt struck dirt in front of it and forced it sideways instead of dropping it. Tavian moved at once, using the opening to drive the animal back with the flat line of his blade rather than chasing. The second hound came from the other side. Kellan swore.
-
-“Outer edge is moving.”
-
-A section of stone cracked under his boot. He shifted back. More gravel slid down the washout. Tavian did not look away from the hounds.
-
-“Can we cross?”
-
-“Not like this,” Kellan said. “Need a brace under the lip or another way around.”
-
-The ridge-hounds climbed again. Going around suddenly felt less elegant. Tavian looked at him.
-
-“Can you support that edge?”
-
-That was new. Tavian was not asking for something strange or telling him to stop. He was asking for a specific solution. He looked where Kellan had pointed. One broken stone shelf. One gap beneath it. One stable chunk of old retaining wall on the inner side. Simple. For once, simple was good.
-
-“I can give you exactly the brace you asked for.”
-
-Kellan looked at him.
-
-“Exactly?”
-
-“Do not sound so frightened.”
-
-“That was not reassurance.”
-
-He looked at the gap.
-
-Not a bridge. Not a staircase. Not because those were beyond him.
-
-Because Kellan had asked for a brace.
-
-Short. Wide. Ugly.
-
-Something appeared beneath the broken lip with a pale-grey flicker. The first shape tried to become more elaborate than necessary, so he stripped the idea back before it could turn the road crossing into a monument to his taste.
-
-Hold.
-
-That was all.
-
-The temporary support wedged itself between the surviving wall and the underside of the cracked road shelf. Kellan stared at the brace for half a second. Then he crouched and slapped one hand against the stone above it.
-
-“It'll hold.”
-
-“You sound surprised.”
-
-“I'll insult it later. Move.”
-
-Beautiful. Tavian backed toward them.
-
-“Kellan first. Maelis. Red Jackal. I cross last.”
-
-The ridge-hounds climbed again. Kellan crossed the damaged section quickly, putting his feet exactly where he had said the old structure remained sound. Maelis followed.
-
-“Still holding,” Kellan called.
-
-“It had one job.”
-
-He crossed. Tavian moved last. One ridge-hound lunged close enough that he turned, struck its muzzle with the guard of his sword, and stepped backward onto the supported section without looking down. For one brief second, Tavian trusted Red's impossible piece of bad masonry more than the actual road.
-
-Then he was across.
-
-He let the brace break apart behind them.
-
-Pale fragments vanished before they reached the bottom of the washout.
-
-No reason to leave an impossible bridge under an abandoned road for somebody else to explain.
-
-The ridge-hounds paced on the far side. The broken gap had become their problem. Tavian watched them for several breaths.
-
-“They won't jump that.”
-
-Kellan rested one hand on his knee.
-
-“That thing was ugly.”
-
-He looked at him.
-
-“You crossed it.”
-
-“I said ugly. I didn't say useless.”
-
-That might have been the nicest thing he had ever said to him. Maelis lowered her crossbow. She looked at the empty space where the brace had been.
-
-“One manifestation. Temporary. Structural support. Dismissed after load.”
-
-“Thank you for preserving the magic.”
-
-“I am preserving the observation.”
-
-Tavian sheathed his sword. Then he looked at him.
-
-“You waited for the position.”
-
-He almost ruined the moment. Almost.
-
-“Seemed efficient.”
-
-“It was.”
-
-No applause. No awe.
-
-Just Tavian giving him one short nod before turning back to the road.
-
-Red decided that was enough. They continued toward the ruined watch point. The structure had once overlooked the bend where Broken North curved around the slope. Now half the roof was gone and trees grew through one side. The lower stonework remained, including a narrow drainage channel and several maintenance recesses built into the retaining wall. Kellan walked straight to one.
-
-“Old road crews stored wedges, lamp oil, spare pins, sometimes emergency rope in these.”
-
-He stopped. The opening had been covered by three flat stones. The stones looked old. The arrangement did not. Kellan pointed to a scrape across the lower edge.
-
-“Moved recently.”
-
-Maelis stepped forward.
-
-“Don't touch it.”
-
-Kellan withdrew his hand. She crouched and inspected the stones, the ground, and the narrow path leading toward them.
-
-“Boot traffic.”
-
-Tavian looked downslope. The ridge-hounds had stopped pacing. They were not following. He studied the surrounding brush instead.
-
-“Tracks curve away from this point.”
+"That is a lot of words for people disappearing where the clean numbers do not have to count them."
 
 Maelis looked at him.
 
-“Multiple species?”
+"It is a reporting pattern. It is not proof of cause."
 
-“Yes.”
+"You always talk like that?"
 
-“How close?”
+"Yes."
 
-“Close enough that I want to see what is behind those stones.”
+"I would hate to argue with you after dark."
 
-Kellan glanced at her.
+I took another bite of breakfast.
 
-“Now can I touch it?”
+"She gets stronger around paperwork."
 
-“Slowly.”
+Maelis ignored me.
 
-He used the pry bar. The first stone shifted. Then the second. Behind them was a shallow service pocket cut into the retaining wall. Something had been installed inside it. Not stored. Installed. A dark stake rose from a fitted socket in the stone floor, roughly the length of his forearm above the mount. Thin metal bands wrapped its upper section around a narrow ceramic chamber. A capped reservoir sat beneath a small vented housing. Faint etched lines ran from the mounting collar into a metal plate fixed against the back of the recess. The old watch stone was dark with age.
+Tavian traced the field marks farther north.
+
+"If the movement continues through this corridor, it crosses the old road here."
+
+Kellan looked at the point.
+
+"Broken North."
+
+The name sounded less like infrastructure and more like somebody had already reviewed the project.
+
+"That is the abandoned road?" I asked.
+
+"Partly abandoned," Kellan said. "Partly collapsed. Mostly losing an argument with roots."
+
+"Efficient."
+
+"It was never efficient."
+
+He tapped farther east.
+
+"This connector used to feed three smaller outer routes before the northern washouts got bad. Old watch point above the bend. Drainage cut below it. If something is still moving through there, that is where I would look."
+
+Maelis compared the spot with her sheet.
+
+"The location also falls inside the outer-loss cluster."
+
+Tavian nodded once.
+
+Two different investigations had reached the same ugly patch of map.
+
+Mud from Tavian.
+
+Paper from Maelis.
+
+Kellan supplied the road.
+
+I supplied breakfast and emotional stability.
+
+"That is relaxing."
+
+"So we verify," Maelis said.
+
+"So we go look."
+
+"We verify."
+
+"That is what I said."
+
+"No. You said it with less discipline."
+
+Kellan picked up the rope.
+
+"Can we argue about the verb while walking?"
+
+I liked him.
+
+Broken North began as a road and slowly stopped earning the word.
+
+The first stretch still carried old wagon cuts. Farther north, roots had lifted slabs of packed stone until sections tilted like bad teeth. One drainage trench had collapsed into a muddy groove deep enough to trap a wheel. Moss covered the broken edge of an old retaining wall.
+
+There were still signs the route had mattered once.
+
+Old fitted stone.
+
+Iron rings in retaining blocks.
+
+A faded distance marker.
+
+The remains of a side turnout swallowed by brush.
+
+Then we reached the closure.
+
+It was new.
+
+That mattered because almost nothing around it was.
+
+Two fresh timber posts had been driven beside the old road and linked by a chain. A square Guild board hung between them beneath a waxed cover. Pale saw marks still showed along the wood.
+
+I looked at the writing.
+
+The writing maintained its traditional commitment to being useless.
+
+"What does it say?"
+
+Maelis read it aloud.
+
+"Broken North corridor closed by authority of the Greywake Chartered Road Guild. Passage restricted due to unstable roadworks, collapse risk, and elevated monster activity. Unauthorized entry prohibited until further inspection."
+
+I looked beyond the chain.
+
+Half the road had fallen away ten paces ahead.
+
+"Annoyingly reasonable."
+
+Tavian crouched near one post and studied the slope.
+
+"The road is unstable. The closure itself is justified."
+
+Kellan rubbed a thumb along the cut timber.
+
+"Posts are recent."
+
+"How recent?" Maelis asked.
+
+"Weeks. Maybe less. Weather makes exact dating difficult."
+
+"Does that prove anything?"
+
+"No."
+
+He looked past the closure.
+
+"But somebody cared enough about an abandoned road to put up a current barrier."
+
+Maelis wrote it down.
+
+I stepped over the chain.
+
+Three voices hit me at once.
+
+"Red Jackal."
+
+"Don't."
+
+"Of course."
+
+I turned around from the other side.
+
+It was impressive how differently three competent people could communicate disappointment.
+
+Maelis pointed at the chain.
+
+"You knowingly crossed an active Guild closure."
+
+"I asked you to read it first."
+
+"That makes the intent easier to prove."
+
+Fair.
+
+Tavian stood.
+
+"The problem is not just authority. The road is actually dangerous."
+
+"Which is why I brought people who enjoy telling me where not to step."
+
+Kellan snorted.
+
+Tavian did not.
+
+Maelis folded her arms.
+
+"If we recover evidence after entering without authorization, the Guild can challenge how it was obtained."
+
+"The Guild is already controlling your access to records."
+
+"That does not make every restriction fraudulent."
+
+"No."
+
+I looked at the fresh posts.
+
+"I am not claiming this one is."
+
+That stopped her for half a second.
+
+"But I am also not asking the same institution managing access whether I may inspect the road both your evidence streams point toward."
+
+"That is not a legal argument."
+
+"I know."
+
+"Or a procedural argument."
+
+"I know."
+
+The world paused.
+
+The chain froze with one link still turning from where my boot had brushed it. A leaf stopped halfway to the road. Tavian stood motionless with one hand near his field pack.
+
+I looked toward you.
+
+"Somewhere, a lawyer has just developed a headache without knowing why."
+
+I glanced at the very real washout behind me.
+
+"To be fair, the sign has excellent evidence."
+
+Time resumed.
+
+The chain finished turning.
+
+Tavian looked down Broken North.
+
+"If you continue alone, I will have to come after you when you do something preventable."
+
+"That sounded almost affectionate."
+
+"It was not."
+
+He stepped across.
+
+Then he looked directly at me.
+
+"My investigation points north. I was going to inspect this corridor. I would have preferred authorization."
+
+"Preferred."
+
+"Do not make me regret using that word."
+
+Kellan ducked under the chain next.
+
+Maelis looked at him.
+
+"My people still use the routes this road used to connect," he said. "If something here is pushing danger toward them, I have my own reason to see it."
+
+Good.
+
+Nobody was following me.
+
+They were following their own problems.
+
+That mattered.
+
+Maelis closed her eyes for one second, then wrote on the field sheet.
+
+"What are you writing?"
+
+"Entry was unauthorized."
+
+"You could simplify that."
+
+"No."
+
+Then she stepped over.
+
+Of course she documented the trespass before joining it.
+
+Some people had standards.
+
+Beyond the closure, Broken North became honest about abandonment.
+
+Brush narrowed the road. Old marker stones leaned at strange angles. One retaining wall had fallen outward, scattering square-cut blocks down the slope. The remains of a watch structure appeared through the trees farther ahead, only one corner still high enough to resemble architecture.
+
+Kellan stopped at a broken drainage cut.
+
+"This collapse is old."
+
+"How old?"
+
+He pointed to roots growing through the stonework.
+
+"Years."
+
+A little farther on, he crouched near a fallen route marker.
+
+"This was moved."
+
+Maelis came closer.
+
+"How can you tell?"
+
+Kellan pointed with the pry bar.
+
+"Moss line."
+
+One face of the stone was dark green.
+
+The underside was pale.
+
+"It sat the other way long enough for that side to weather. Somebody rolled it recently."
+
+Tavian scanned the ground.
+
+"Boot sign."
+
+I looked.
+
+Mud.
+
+Leaves.
+
+Several shallow impressions.
+
+A few days ago, I would have seen dirt.
+
+Now I could at least recognize that I was looking at evidence I was not qualified to interpret.
+
+Progress of the least glamorous kind.
+
+"How recent?"
+
+"After the last rain."
+
+Kellan looked farther north.
+
+"No maintenance crew should be moving markers inside an abandoned road without a reason."
+
+Maelis wrote.
+
+"Reason unknown."
+
+Kellan looked at her.
+
+"You think someone came here to improve the scenery?"
+
+"I think we establish what happened before deciding why."
+
+He shook his head.
+
+Kept walking.
+
+The signs continued.
+
+A branch cut cleanly instead of broken by weather.
+
+A narrow strip through the brush with less leaf litter than the ground around it.
+
+Fresh abrasion on an old iron fitting.
+
+Then Kellan found wax.
+
+He rubbed one finger along a metal pin half-hidden beneath ivy.
+
+The surrounding fitting was orange with rust.
+
+The pin was not.
+
+"Replaced."
+
+Maelis leaned closer without touching.
+
+"Recently?"
+
+"Yes."
+
+Tavian had moved off the old road.
+
+He crouched beside churned soil near the slope.
+
+"More tracks."
+
+"Predator?"
+
+"And prey."
+
+"North again?"
+
+He studied the direction.
+
+"Not exactly."
+
+I had learned to dislike that kind of answer.
+
+Tavian stood and pointed around the slope.
+
+"They bend around this section. Several species."
+
+Kellan frowned.
+
+"There is nothing up there."
+
+"Food?"
+
+"No."
+
+"Water?"
+
+"Drainage is below us."
+
+Tavian looked at the sign again.
+
+"Then the route choice is wrong."
+
+Again.
+
+Maelis joined him.
+
+"Same problem as yesterday?"
+
+"Different terrain. Same contradiction."
+
+She wrote that too.
+
+Yesterday we had paper.
+
+Before that, tracks.
+
+Now the abandoned road itself had started leaving receipts.
+
+We followed the narrow used path toward the ruined watch point.
+
+The hillside had collapsed years ago. Three old stone steps remained attached to the slope before ending above a washout where the original road bed had disappeared.
+
+Kellan stopped so abruptly I nearly walked into him.
+
+"No."
+
+"Strong opening."
+
+He pointed at the cracked stone lip along the washout.
+
+"The retaining bed under that is gone."
+
+He crouched, examined the exposed edge, then tapped a surviving inner wall.
+
+"One person might cross. Four people should not."
+
+"How bad is the drop?"
+
+"Bad enough."
+
+Excellent engineering unit.
+
+Tavian raised one hand.
+
+We stopped.
+
+He was looking into the brush below.
+
+"What?"
+
+"Movement."
+
+A low scrape came from beneath the ruined road.
+
+Then another.
+
+Two lean shapes appeared between the trees.
+
+Long-backed.
+
+Grey-brown.
+
+Narrow heads.
+
+They were smaller than the pack from the service road, but not small enough to become charming.
+
+Tavian drew his blade.
+
+"Ridge-hounds. Displaced."
+
+Kellan moved closer to the surviving wall.
+
+"They do not normally climb this high."
+
+"I know."
+
+One hound stepped onto a fallen block.
+
+The second circled lower along the washout.
+
+Tavian pointed without looking away.
+
+"Maelis, inner wall. Kellan behind her."
+
+Maelis already had her compact crossbow out.
+
+I shifted forward.
+
+Tavian looked at me.
+
+I stopped.
+
+Useful memory remained cheaper than repeating old mistakes.
+
+"Where?"
+
+"Here."
+
+He placed me beside the narrowest section of the broken approach.
+
+The first hound climbed.
+
+Maelis fired into the ground ahead of it.
+
+The bolt struck dirt and stone.
+
+The animal veered.
+
+Tavian used the movement to drive it back with the flat line of his blade instead of chasing downhill.
+
+The second hound came up from the other side.
+
+Kellan swore.
+
+"Outer edge is moving."
+
+A cracked section of road shifted under his boot.
+
+Gravel slid into the washout.
+
+Tavian kept his eyes on the animals.
+
+"Can we cross?"
+
+"Not safely. We need support under the lip or another route."
+
+The hounds climbed again.
+
+Another route would take time.
+
+The hounds had declined to offer any.
+
+Tavian looked at me.
+
+"Can you support that edge?"
+
+That was new.
+
+No warning.
+
+No request to avoid doing something strange.
+
+A specific problem.
+
+I followed Kellan's pointing hand.
+
+Broken stone shelf.
+
+Empty space beneath it.
+
+Stable inner retaining wall.
+
+The need was simple.
+
+"I can give you the support."
+
+Kellan looked at me.
+
+"Exactly where I marked it."
+
+"Your trust is beautiful."
+
+"My trust has measurements."
+
+Fair.
+
+I looked at the gap.
+
+I could have replaced the missing road.
+
+Built a bridge.
+
+Raised a wall between us and the hounds.
+
+Turned the slope into a staircase wide enough for a parade nobody had requested.
+
+None of that was the problem Tavian and Kellan had given me.
+
+One brace.
+
+Hold the lip.
+
+That was all.
+
+Pale-grey material appeared beneath the cracked road shelf.
+
+Short.
+
+Wide.
+
+Ugly.
+
+It wedged between the surviving retaining wall and the underside of the broken stone.
+
+Kellan stared for half a second.
+
+Then dropped to one knee and tested the road above it with his hand and pry bar.
+
+"It will hold."
+
+"You sound surprised."
+
+"I will insult it after we cross."
+
+Tavian backed toward us.
+
+"Kellan first. Maelis second. Jackal third. I cross last."
+
+The ridge-hounds climbed again.
+
+Kellan moved across the damaged section exactly along the line he had identified.
+
+Maelis followed.
+
+"Stable," Kellan called.
+
+"It has one job."
+
+I crossed.
+
+The support remained where I wanted it.
+
+No strain counter.
+
+No hidden resource warning.
+
+No reason for it to fail because the scene had become inconvenient.
+
+Tavian moved last.
+
+One hound lunged close enough that he struck its muzzle with the guard of his blade and stepped backward onto the supported lip without looking down.
+
+For one brief second, Tavian trusted something impossible because Kellan had told him where it needed to be and I had put it there.
+
+Then he was across.
+
+I released the brace.
+
+The pale material folded away from the stone and disappeared.
+
+The road remained broken.
+
+The hounds paced on the far side.
+
+Now the washout was their problem.
+
+Tavian watched them for several breaths.
+
+"They will not jump that."
+
+Kellan rested one hand on his knee.
+
+"That thing was ugly."
+
+"You crossed it."
+
+"I said ugly. I did not say useless."
+
+Possibly the nicest thing he had ever said to me.
+
+Maelis lowered the crossbow.
+
+"Temporary structural support. One placement. Released after crossing."
+
+"Thank you for preserving the magic."
+
+"I am preserving the observation."
+
+Tavian sheathed his blade.
+
+Then looked at me.
+
+"You waited for the position."
+
+I almost ruined it.
+
+"Seemed efficient."
+
+"It was."
+
+That was all.
+
+No awe.
+
+No speech.
+
+Just practical trust earned for one specific action.
+
+I preferred it more than I expected.
+
+Not enough to become humble.
+
+That would have been irresponsible.
+
+We continued toward the ruined watch point.
+
+Half the roof was gone.
+
+Trees grew through one wall.
+
+The lower stonework remained, including a drainage channel and several shallow recesses built into the retaining structure.
+
+Kellan went directly to one.
+
+"Old road crews kept wedges, lamp oil, spare pins, emergency rope in these."
+
+He stopped.
+
+Three flat stones covered the recess.
+
+The stones were old.
+
+Their arrangement was not.
+
+Kellan pointed to a scrape along the lower edge.
+
+"Moved recently."
+
+Maelis stepped forward.
+
+"Do not touch it yet."
+
+Kellan withdrew his hand.
+
+She crouched and documented the stones, ground, and path leading to them.
+
+"Boot traffic."
+
+Tavian looked downslope.
+
+The ridge-hounds had stopped pacing.
+
+He ignored them and studied the brush around the watch point.
+
+"Tracks turn away from this location."
+
+Maelis looked at him.
+
+"One species?"
+
+"Several."
+
+"How close?"
+
+"Close enough that I want to know what is behind those stones."
+
+Kellan lifted the pry bar.
+
+"Now?"
+
+Maelis finished one last note.
+
+"Slowly."
+
+He worked the first stone free.
+
+Then the second.
+
+Behind them was a shallow maintenance pocket cut into the old retaining wall.
+
+Something stood inside it.
+
+Not stored.
+
+Installed.
+
+A dark stake rose from a fitted socket in the stone floor, roughly the length of my forearm above the mount. Thin metal bands wrapped the upper section around a narrow ceramic chamber. A capped reservoir sat beneath a vented housing. Etched lines ran from the mounting collar into a plate secured against the rear of the recess.
+
+The surrounding watch stone was weathered.
 
 The device was not.
 
-Fresh tool marks cut across one fastening strap. New wax shone along the reservoir seam.
+Fresh tool marks crossed one fastening strap.
 
-Maelis stopped at the edge of the recess. Kellan did the same.
+New sealing wax shone along the reservoir seam.
 
-Tavian leaned closer.
+Nobody joked.
 
-His face went still.
+Maelis stopped at the edge.
 
-“You recognize it,” Maelis said.
+Kellan stared at the mounting.
 
-“I recognize the design.”
+"That was not part of the old road."
 
-Kellan looked between them.
+"Certain?" Maelis asked.
 
-“What is it?”
+"Completely."
 
-Tavian studied the vent, the reservoir, the fitted stake.
+She nodded and kept her hands away.
 
-“Animal diversion equipment.”
+"Manufactured assembly. Magical or alchemical components. Recently serviced."
 
-Maelis's eyes moved across the etched channels.
+Tavian leaned closer without touching it.
 
-“Alchemical scent delivery with a mana-guided component.”
+His face changed.
 
-He looked at the thing hidden inside the abandoned road.
+Not surprise.
+
+Recognition.
+
+Maelis noticed.
+
+"You know the design."
+
+"I know the category."
+
+Kellan looked at him.
+
+"What does it do?"
+
+Tavian studied the vent, reservoir, and fitted stake.
+
+"Animal diversion. Usually short-term route pressure."
+
+Usually.
+
+Useful word.
+
+I looked at the hidden equipment.
 
 Recently serviced.
 
-Exactly where the tracks and records had both pointed.
+Inside an abandoned road.
 
-“What is it called?”
+Exactly where the tracks had bent.
+
+Exactly where the records had pointed.
+
+Not proof of who installed it.
+
+Not proof of how long it had been operating.
+
+Not proof that it explained everything.
+
+But no longer mud.
+
+No longer paperwork.
+
+A physical thing.
+
+"What is it called?"
 
 Tavian's answer was quiet.
 
-“A march-lure.”
+"A march-lure."

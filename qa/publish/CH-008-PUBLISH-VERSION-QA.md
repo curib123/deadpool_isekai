@@ -1,42 +1,35 @@
 # CH-008 Publish Version QA
 
 **Canon Source:** `manuscript/CH008-OUTSIDE-THE-LANTERNS.md`  
-**Canon Source SHA:** `0584c30a547734b0c5ae62da50b4992b9875c8b6`  
+**Canon Source SHA:** `b7e6d95dd9cc83bc2eb90bf6389aaa25e895c329`  
 **Publication Copy:** `published/volume-001/CH008-OUTSIDE-THE-LANTERNS.md`  
+**Publication Copy SHA:** `aa0353fedab28b0d583cee89687cef08868c24ad`  
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-19  
+**Review Date:** 2026-09-20  
 **Status:** PUBLISH-READY — GATE 11 PASS
 
 # Source Integrity
-- Canon source: **CANON / PASS**
-- Gate 9 / Volume 1 Gate 10 prerequisite: **PASS**
-- Latest fetched source used: **PASS**
-- Title/opening/final paragraph/order: **PASS**
-- Canon body paragraphs: **247**
-- Missing/duplicated prose: **NONE**
+- Current CANON / Gate 9 source: **PASS**
+- Title/body/order equivalence: **PASS**
+- Missing/duplicated/reordered prose: **NONE**
+- Repository metadata removed: **PASS**
 
 # Semantic Equivalence
-Publication prose body is byte-equivalent to canon after repository-only header metadata removal. No semantic story/prose change.
+Publication copy is exactly the reader-facing title plus current canon body.
 
 **Semantic Diff:** PASS — PRESENTATION ONLY
 
-# Platform QA
-- status/word count/internal QA metadata: **REMOVED**
-- raw code fences / raw emphasis markers: **NONE**
-- paragraph rhythm/order: **PASS**
-- dialogue/self-talk/reader-talk: **PRESERVED**
-- title duplication: **NO**
-- plain-text/mobile readability: **PASS**
-- spoiler/reference expansion: **NONE**
-
-# Findings
-CRITICAL: None.  
-MAJOR: None.  
-MINOR: None.
+# Preservation
+- POV/voice/dialogue: **PRESERVED**
+- paragraph order/rhythm: **PRESERVED**
+- Fourth-Wall Pause where present: **PRESERVED**
+- Play Logic/regeneration meaning: **PRESERVED**
+- battle/scene geography where applicable: **PRESERVED**
+- mystery/F-ID wording: **PRESERVED**
+- final beat: **PRESERVED**
+- publication-only story edits: **NONE**
 
 # Decision
 # PASS
 
 **CH-008 is PUBLISH-READY — GATE 11 PASS.**
-
-Canon manuscript remains the source of truth.

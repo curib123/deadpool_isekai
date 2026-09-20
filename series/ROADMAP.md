@@ -314,3 +314,22 @@ This section supersedes any historical pre-reset production-status statements el
 - **CH-027 — Salt in the Air:** event/scene sequence preserved, prose STALE — Soul-Drift rewrite + Gate 9 revalidation REQUIRED.
 - **CH-028 — The Man on the Manifest:** PAUSED until CH-027 completes the synchronization cycle.
 - **Official next step:** **CH-027 — Salt in the Air → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**
+
+# Flexible Future Arc Architecture Authority — 2026-09-20
+
+This latest series-level planning authority adds a quality-first route from the locked Merrowgate Arc toward the eventual final arc without fixing an artificial number of future arcs.
+
+- **Flexible Future Arc Architecture:** ACTIVE / QUALITY-FIRST / VARIABLE ARC COUNT
+- **Registry:** `planning/FLEXIBLE-FUTURE-ARC-REGISTRY.md`
+- **Mystery windows:** `planning/FUTURE-MYSTERY-WINDOW-SCHEDULE.md`
+- **Consequence ledger:** `continuity/SERIES-CONSEQUENCE-LEDGER.md`
+- **Battle topology ledger:** `planning/BATTLE-TOPOLOGY-LEDGER.md`
+- **Endgame readiness:** `qa/FLEXIBLE-ARC-ENDGAME-READINESS.md`
+- **Future destinations:** no later destination is selected or canon.
+- **Immediate next step:** **CH-027 rewrite/revalidation → Gate 9.**
+
+The existing rule remains active: no fixed destination order is canon beyond the approved Greywake and Merrowgate records, and Volume 3 destination selection remains unauthorized until its required gates pass. The flexible registry defines story-function slots and stop/merge rules; it does not promote an inventory entry into an arc.
+
+Future production still follows:
+
+**Destination Selection Gate 5 → Volume/Arc Gate 6 → Chapter Roadmap Gate 7 → Scene Gate 8 → Manuscript Gate 9 → Canon Gate 10 → Publish Version Gate 11.**

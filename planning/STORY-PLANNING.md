@@ -560,6 +560,26 @@ Old Gate 9 approvals remain historical for event continuity but are **not curren
 
 **CH-028 remains paused until completion.**
 
+# 11. Flexible Future Arc Architecture
+
+The series now uses a quality-first flexible route after the locked Merrowgate Arc. The number of future arcs remains variable; a story-function slot may be admitted, merged, shortened, or cut only under its registry rules.
+
+Authoritative records:
+
+- `planning/FLEXIBLE-FUTURE-ARC-REGISTRY.md`
+- `planning/FUTURE-MYSTERY-WINDOW-SCHEDULE.md`
+- `continuity/SERIES-CONSEQUENCE-LEDGER.md`
+- `planning/BATTLE-TOPOLOGY-LEDGER.md`
+- `qa/FLEXIBLE-ARC-ENDGAME-READINESS.md`
+
+Future work must proceed through:
+
+**Destination Selection Gate 5 → Volume/Arc Gate 6 → Chapter Roadmap Gate 7 → Scene Gate 8 → Manuscript Gate 9 → Canon Gate 10 → Publish Gate 11.**
+
+Exact future destination selection remains deferred until Gate 5. The registry's provisional identity/registration, anomaly-consequence, ancient-history, exploitation/Savael, and endgame-choice slots are not Volume 3 assignments and do not authorize future manuscripts.
+
+The current active production step remains CH-027 Soul-Drift / close-first-person / final-story-engine synchronization and Gate 9 revalidation. This future-arc architecture does not unpause later chapter work or alter Arc 1 publication state.
+
 
 # Current Soul-Drift Synchronization Authority — 2026-09-20
 

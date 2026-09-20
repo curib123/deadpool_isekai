@@ -1,29 +1,35 @@
 # CH-009 Publish Version QA
 
 **Canon Source:** `manuscript/CH009-WRONG-TRACKS.md`  
-**Canon Source SHA:** `da7a8c430df515f45ec8aae583e990e6d488e1ab`  
+**Canon Source SHA:** `d9944ce156f03e1166335053dd02e037a6ba67ea`  
 **Publication Copy:** `published/volume-001/CH009-WRONG-TRACKS.md`  
+**Publication Copy SHA:** `d676d42986b4e43d757e136f95d9e2af40db5f17`  
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-19  
-**Status:** PUBLISH-READY — GATE 11 PASS / OVERPOWERED RETCON REFRESH
+**Review Date:** 2026-09-20  
+**Status:** PUBLISH-READY — GATE 11 PASS
 
 # Source Integrity
+- Current CANON / Gate 9 source: **PASS**
+- Title/body/order equivalence: **PASS**
+- Missing/duplicated/reordered prose: **NONE**
+- Repository metadata removed: **PASS**
 
-- source manuscript is CANON — OVERPOWERED RETCON GATE 9 PASS;
-- publication copy regenerated from latest canon source;
-- only production metadata removed;
-- title preserved: **Chapter 9 — Wrong Tracks**;
-- final nonblank line preserved: **North.**;
-- no prose block omitted, duplicated, or reordered.
+# Semantic Equivalence
+Publication copy is exactly the reader-facing title plus current canon body.
 
-# Canon Equivalence
+**Semantic Diff:** PASS — PRESENTATION ONLY
 
-**PASS.** Events, dialogue, characterization, injuries, power behavior, mystery state, and ending are canon-equivalent.
-
-# Reader-Facing / Formatting
-
-**PASS.** Production metadata removed; paragraph rhythm and dialogue preserved; no code-fence/HTML artifacts; WebNovel-compatible plain-text flow.
+# Preservation
+- POV/voice/dialogue: **PRESERVED**
+- paragraph order/rhythm: **PRESERVED**
+- Fourth-Wall Pause where present: **PRESERVED**
+- Play Logic/regeneration meaning: **PRESERVED**
+- battle/scene geography where applicable: **PRESERVED**
+- mystery/F-ID wording: **PRESERVED**
+- final beat: **PRESERVED**
+- publication-only story edits: **NONE**
 
 # Decision
+# PASS
 
-**PUBLISH-READY — GATE 11 PASS.**
+**CH-009 is PUBLISH-READY — GATE 11 PASS.**

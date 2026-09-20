@@ -1,407 +1,291 @@
 # CH-009 Gate 9 — Chapter QA
 
+**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
+**Volume:** 1 — Greywake Arc  
 **Chapter:** CH-009 — Wrong Tracks  
-**Manuscript:** `manuscript/CH009-WRONG-TRACKS.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 3,684
-
-**Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A096 Imagination Scene Designer, A097 Prose Editor, A037 Power Balance Editor, A042 Character Arc Editor, A044 Supporting Character Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A111 Logic Editor
+**Review Date:** 2026-09-20  
+**Revision Track:** Soul-Drift / Close First-Person / Final Story Engine  
+**Status:** PASS — CURRENT CANON REVALIDATED  
+**Word Count:** 2,991
 
 # Scope
 
-Gate 9 reviewed the complete CH-009 manuscript against:
+Gate 9 reviewed the rewritten CH-009 manuscript against the current Soul-Drift master retcon, final story-engine rules, the locked five-scene event sequence, CH-001 through CH-008 current canon, Tavian Rook's character/knowledge boundary, the anti-villain curiosity-test lock, Play Logic interpretation, F-ID protections, local-investigation limits, and the CH-010 handoff.
 
-- locked CH-009 Scene Architecture;
-- CH-001 through CH-008 canon;
-- CH-008 warning-marker handoff;
-- Tavian Rook character/knowledge boundaries;
-- Red Jackal's locked deadpan first-person voice;
-- locked Anti-Villain Expression Check;
-- Stage I Play Logic limits;
-- regeneration/M-005 boundaries;
-- reputation/threat-perception progression;
-- no-new-F-ID restriction;
-- first-march-lure discovery protection for CH-011;
-- CH-010 boundary;
-- Gate 9 requirements.
+Legacy Stage/use-cap, visible-power-limit, and conventional-responsibility-development language is superseded.
 
-# CRITICAL
+# Severity Review
 
+## CRITICAL
 **None.**
 
-# MAJOR
+## MAJOR
+**None unresolved.**
 
-**None.**
+### Play Logic Use-Cap Interpretation — RESOLVED
 
-# MINOR
+CH-009 contains one small utility obstruction because Tavian needs one tactical gap closed.
 
-**None requiring manuscript revision.**
+The current manuscript establishes:
+- Red could solve the physical encounter much more aggressively;
+- he deliberately limits the display to the tactical role;
+- the obstruction is released when that role ends;
+- no stamina drain or use-count ceiling appears;
+- a second manifestation is unnecessary, not unavailable.
 
-The chapter communicates Tavian's early R3 shift behaviorally rather than by having him label Red Jackal “dangerous.” His questions after the experiment, his focus on whether Red Jackal anticipated the pack, and his statement that Red Jackal's limits are useful “to everyone around you” establish the correct concern: unpredictability plus incomplete judgment, not overwhelming strength.
+**Resolution:** PASS.
 
-# Story
+### Character-Development Framing — RESOLVED
 
-| Check | Result |
-|---|---|
-| Tavian reconnects through independent Warden work | PASS |
-| CH-008 warning mismatch enters the investigation naturally | PASS |
-| Official expectation and field evidence are compared | PASS |
-| Hollow March tracking gains real narrative function | PASS |
-| Red Jackal must rely on Tavian's expertise | PASS |
-| Curiosity test is deliberate and unnecessary | PASS |
-| Curiosity test contaminates the live observation | PASS |
-| Pack complication follows causally from the disturbance | PASS |
-| Red Jackal helps contain the consequence | PASS |
-| Clean older evidence is separated from contaminated evidence | PASS |
-| Northbound directional pattern is earned | PASS |
-| Ending advances investigation without solving cause | PASS |
-| CH-010 does not begin | PASS |
+Red remembers the causal geometry of CH-007 and avoids repeating that exact positioning error during the pack encounter.
 
-# Red Jackal Voice
+This is tactical memory, not a conventional moral-development arc.
 
-| Check | Result |
-|---|---|
-| First person throughout | PASS |
-| Dry/deadpan baseline preserved | PASS |
-| Immediate experience remains primary | PASS |
-| Humor comes from practical annoyance/contradiction | PASS |
-| Reader-talk is not overused | PASS |
-| Seriousness increases naturally once the pack appears | PASS |
-| Self-awareness does not erase the mistake | PASS |
-| No conventional-hero conversion | PASS |
+The same chapter also proves that Red remains Red:
+- he knowingly contaminates a clean observation;
+- Tavian explicitly told him not to interfere;
+- the test was not necessary;
+- Red admits he did it because he wanted the answer.
 
-The voice remains consistent with the locked standard through lines/functions such as:
-- annoyance that Tavian finds him before breakfast;
-- irritation that tracking expertise keeps being useful;
-- understated frustration with Tavian's repeated “maybe”;
-- recognizing that his own curiosity won despite knowing the observation would be contaminated;
-- accepting “Too soon” after a joke fails during the consequence discussion.
+**Resolution:** PASS.
 
-# POV / Prose
+### Paragraph Cadence — RESOLVED
 
-| Check | Result |
-|---|---|
-| No invisible third-person narrator | PASS |
-| Personality-filtered description | PASS |
-| Dialogue distinct | PASS |
-| Multi-sentence narrative is the normal prose mode | PASS |
-| One-line paragraphs are reserved for dialogue/impact/deadpan beats | PASS |
-| No robotic sequencing | PASS |
-| Investigation exposition is embedded in action/dialogue | PASS |
+Current saved manuscript:
+- 377 total prose/dialogue paragraphs;
+- 165 non-dialogue narrative paragraphs;
+- 32 single-sentence non-dialogue paragraphs (~19.4%);
+- standalone dialogue remains separated for speaker clarity.
 
-Final cadence:
-- 310 prose/dialogue paragraphs;
-- 82 narrative paragraphs;
-- 50 narrative paragraphs contain two or more sentences;
-- 32 narrative paragraphs are single-sentence/fragments used mainly for emphasis, transitions, or deadpan impact;
-- 228 dialogue-led paragraphs.
+Multi-sentence narration is the strong default.
 
-# Language / Literacy
+**Resolution:** PASS.
 
-**PASS.**
+# Gate 9 Review
 
-- Tavian carries a charged Wayfarer Tongue Token.
-- Red Jackal still cannot read Veyran writing.
-- Tavian identifies the relevant map routes and expected crossings aloud.
-- Red Jackal understands relative geography through Tavian's pointing/explanation rather than a literacy gain.
+| Check | Result | Evidence |
+|---|---|---|
+| Close first-person POV | PASS | Red narrates as I/me/my; no third-person Red action narration |
+| Soul-Drift compatibility | PASS | no restored Earth biography or old traffic-death residue |
+| Chosen Red Jackal persona preserved | PASS | no identity contradiction |
+| Movie-like English | PASS | immediate scene/action/dialogue rhythm |
+| Reader-talk restrained | PASS | one direct audience aside |
+| Audience address freezes time | PASS | explicit Fourth-Wall Pause and exact resumption |
+| Pause not tactically abused | PASS | commentary only |
+| CH-008 warning mismatch carried forward | PASS | five sightings/four-day context informs Tavian |
+| Warning mismatch not overread | PASS | Tavian distinguishes stale warning from deliberate falsehood |
+| Tavian initiates investigation | PASS | Warden route check originates from his own work |
+| Tavian owns tracking expertise | PASS | direction, freshness, stride, species-role overlap and route choice |
+| Red does not become tracking expert | PASS | he learns through Tavian's evidence sequence |
+| Wayfarer Tongue Token present | PASS | field conversation remains understandable |
+| No silent literacy | PASS | map text remains unreadable |
+| Expected migration route established | PASS | easier/seasonal route lies west |
+| Current track drift established | PASS | repeated prey/predator sign trends northeast/north |
+| Multiple track ages present | PASS | older/fresher layers across multiple days |
+| Different ecological roles overlap | PASS | prey and predators share broad directional drift |
+| Natural alternatives considered | PASS | food, water, predator pressure, fire, flood, larger predator |
+| No premature cause conclusion | PASS | Tavian preserves alternatives |
+| Curiosity test explicitly unnecessary | PASS | Red answers "No" when asked |
+| Tavian warned against interference | PASS | clean observation requested |
+| Red interferes anyway | PASS | moves into prey sightline |
+| Motive explicitly selfish/curious | PASS | "I wanted the answer." |
+| Live observation contaminated | PASS | panic destroys route-choice evidence |
+| Test does not produce clean proof | PASS | Tavian refuses to count panicked movement |
+| Pack complication causally follows | PASS | fleeing prey activate/draw nearby predators |
+| Red did not anticipate pack | PASS | explicit |
+| No fake heroism | PASS | Red does not recast test as necessary |
+| Pack encounter shorter than CH-007 | PASS | contained tactical consequence |
+| Tavian controls field geometry | PASS | line, gap and timing instructions |
+| Red uses Tavian's information | PASS | follows tactical positioning once danger begins |
+| This is tactical memory, not reform | PASS | manuscript explicitly rejects moral-growth interpretation |
+| One utility obstruction occurs | PASS | low pale-grey gap closure |
+| One obstruction is not capability maximum | PASS | Red considers much larger options and no hidden limit appears |
+| Obstruction released by choice | PASS | role completed, then released |
+| No manifestation stamina cost | PASS | none |
+| No Stage/progression framing | PASS | no Stage I/II, mastery, unlock or level language |
+| No new Play Logic rule | PASS | F-004 unchanged |
+| No new regeneration clue | PASS | recent soreness only |
+| F-003 unchanged | PASS | remains PLANTED — CH-007 |
+| F-004 unchanged | PASS | remains PLANTED — CH-005 |
+| No new F-ID | PASS | none |
+| Tavian Dangerous Wildcard shift earned | PASS | curiosity + survivability + anomaly + unknown ceiling |
+| Tavian does not know power ceiling | PASS | current architecture/continuity explicitly preserve uncertainty |
+| Tavian not frightened into submission | PASS | remains corrective and evidence-led |
+| Older evidence recovered after contamination | PASS | clean protected track layer found farther north |
+| Older evidence predates Red's test | PASS | explicitly not from today's disturbance |
+| Repeated northward pattern established | PASS | different ages/sizes, same drift |
+| Movement away from Main Caravan Road | PASS | map/sign comparison |
+| Movement toward old northern paths | PASS | clean ending evidence |
+| Artificial influence only hypothesis | PASS | "Possible." |
+| Deliberate influence only hypothesis | PASS | "Possible." |
+| Tavian remains uncertain | PASS | "I am not certain." |
+| No march-lure discovery | PASS | absent |
+| No Hesk accusation | PASS | absent |
+| No casualty-record investigation | PASS | absent |
+| No protected writer truth | PASS | no Soul Drift/Great Design/Eidrathi explanation |
+| M-007 inactive | PASS | no Fate/prophecy/destiny/causal-wake material |
+| CH-010 does not begin | PASS | no Maelis/Jessa/ledger investigation |
+| Directional ending preserved | PASS | wrong tracks → wrong direction → north |
 
-# Tavian Rook / Specialist Authority
+# Fourth-Wall Pause Audit
 
-**PASS.**
+## Pause 1 — Dirt Expertise
 
-Tavian:
-- initiates the route check through independent Warden responsibilities;
-- uses Guild records, Warden surveys, hunter reports, and field notes as comparison data;
-- distinguishes track age, direction, gait, repeated use, and predator/prey relationships;
-- refuses conclusions that exceed the evidence;
-- rejects Red Jackal's contaminated observation as proof;
-- controls the pack response tactically;
-- returns to older uncontaminated tracks afterward;
-- allows artificial/deliberate influence only as a hypothesis.
+When Tavian stops Red from stepping into track evidence, Red addresses the audience.
 
-He does not become Red Jackal's subordinate or admirer.
+Frozen:
+- water droplet;
+- Tavian's extended arm;
+- small flying insect.
 
-The chapter gives Tavian clear narrative authority without making Red Jackal passive.
+Red comments only.
 
-# Tracking / Ecology
-
-**PASS.**
-
-The manuscript teaches tracking through:
-- collapsed versus sharp track rims;
-- rain effects;
-- track direction;
-- stride length;
-- track depth;
-- track age;
-- predator versus prey sign;
-- repeated route use;
-- easier alternate terrain;
-- multiple track layers across several days.
-
-The key anomaly is correctly framed as:
-
-**repeated predator and prey movement crossing expected route boundaries in the same broad direction.**
-
-The chapter does not invent a new cosmic ecology mechanism.
-
-# Anti-Villain Curiosity Test
-
-**PASS.**
-
-The manuscript explicitly establishes that Red Jackal:
-- understands Tavian wants uncontaminated observation;
-- knows his interference will contaminate the observation;
-- still moves into the prey animals' sight/scent line;
-- acts because he wants to know what will happen;
-- does not know a predator pack is nearby;
-- does not believe the test is necessary.
-
-Afterward he states:
-
-**“I wanted to see what they would do.”**
-
-When asked whether the test was necessary, he answers:
-
-**“No.”**
-
-This is the required anti-villain expression:
-
-**curiosity → unnecessary interference → real complication → self-chosen responsibility.**
-
-The manuscript does not secretly convert the act into heroism or brilliance.
-
-# Evidence Contamination
+Time resumes at the same causal instant.
 
 **PASS.**
 
-This safeguard lands clearly.
+# Anti-Villain Curiosity Test Audit
 
-The prey reaction after Red Jackal interferes is treated as unusable proof.
+The locked unnecessary field test remains intact.
 
-Tavian explicitly rejects the inference because Red Jackal changed the conditions.
+Sequence:
+1. Tavian identifies a live crossing.
+2. Tavian wants untouched observation.
+3. Red asks about pressuring the north side.
+4. Tavian explicitly refuses because it contaminates the observation.
+5. Red knowingly interferes anyway.
+6. Prey panic.
+7. Their route choice becomes unusable as clean evidence.
+8. Nearby predators react to the fleeing prey.
+9. Red helps contain the complication.
+10. Red admits the test was unnecessary and curiosity motivated it.
 
-The chapter then moves away from today's disturbed crossing and relies on:
-- older track layers;
-- multiple ages;
-- protected soil;
-- repeated directional sign;
-- evidence predating Red Jackal's experiment.
-
-Therefore:
-
-**Red Jackal does not manufacture evidence and then solve the mystery using his own interference.**
-
-# Pack Encounter / Consequence
-
-**PASS.**
-
-The pack encounter is not random filler.
-
-Causal chain:
-1. Tavian establishes a live observation point.
-2. Red Jackal deliberately interferes.
-3. prey panic and bolt;
-4. nearby/displaced predators react to the fleeing prey/disturbance;
-5. the pack converges on the crossing.
-
-The chapter does not claim Red Jackal created the migration problem itself.
-
-He creates the **localized complication** only.
-
-# CH-007 Responsibility Continuity
+The test is not rewritten as brilliant, heroic, necessary, or secretly safe.
 
 **PASS.**
 
-Red Jackal's behavior under actual danger shows incomplete but real learning:
-- Tavian tells him not to advance;
-- CH-007's injured worker flashes through Red Jackal's memory;
-- he stops himself from crossing Tavian's tactical line;
-- he obeys the assigned gap-control role;
-- he steps backward rather than recklessly charging the lunging predator;
-- he does not chase the pack.
-
-This does not erase the curiosity mistake that caused the encounter.
-
-The chapter therefore preserves growth without making him suddenly disciplined.
-
-# Play Logic
+# Tavian Rook Review
 
 **PASS.**
 
-CH-009 contains exactly:
+Tavian retains independent narrative authority through:
+- Warden route-check initiation;
+- field-reading competence;
+- ecological alternatives;
+- evidence contamination standards;
+- tactical geometry during the pack encounter;
+- recovery of older clean sign after Red ruins the live observation;
+- refusal to turn suspicion into certainty.
 
-**one Stage I utility manifestation attempt and one manifestation success.**
+His Dangerous Wildcard assessment is based on Red's decision unpredictability plus unknown anomaly capability.
 
-The low obstruction:
-- has one simple purpose;
-- closes a tactical gap temporarily;
-- is physically imperfect;
-- cracks under pressure;
-- lasts only seconds;
-- helps Tavian control positioning;
-- disappears;
-- does not defeat the pack itself;
-- does not introduce a new mechanic.
+It is not based on an invented fixed power ceiling.
 
-No second manifestation occurs.
-
-F-004 remains **PLANTED — CH-005**.
-
-# Regeneration / Injury Continuity
+# Play Logic / Final Story-Engine Audit
 
 **PASS.**
 
-The chapter carries only residual injury/exhaustion:
-- left-side guarding remains visible;
-- manifestation use produces aching/tightness;
-- Tavian checks whether Red Jackal can continue;
-- Red Jackal confirms he cannot use a second “trick.”
+The chapter makes clear that Red can physically overwhelm the predator problem.
+
+He deliberately does less because:
+- the complication needs containment, not spectacle;
+- Tavian needs one tactical gap closed;
+- preserving the investigative corridor matters.
+
+The obstruction therefore represents selective expression, not limited capacity.
 
 No:
-- severe new injury;
-- healing event;
-- new regeneration behavior;
-- exact healing rate;
-- immortality implication;
-- new M-005 clue.
+- Stage system;
+- cooldown;
+- manifestation quota;
+- stamina pool;
+- progression step.
 
-F-003 remains **PLANTED — CH-007**.
-
-# Reputation / Threat Perception
-
-**PASS — EARLY R3 FOR TAVIAN.**
-
-Tavian's threat assessment advances because he personally knows that Red Jackal:
-- cannot be normally classified;
-- survived severe trauma abnormally;
-- can create temporary nonstandard physical effects;
-- has useful tactical capacity;
-- has visible limits;
-- can knowingly interfere with a dangerous unknown because curiosity interests him;
-- can still follow specialist direction once consequences become immediate.
-
-The manuscript keeps the correct threat basis:
-
-**uncertainty + survivability + nonstandard ability + incomplete judgment.**
-
-It does not present Red Jackal as overwhelmingly powerful.
-
-Tavian does not worship, submit to, or universally fear him.
-
-This satisfies the roadmap's early **R3 — Dangerous Wildcard** movement.
-
-# Mystery / Investigation Boundary
+# Investigation / Mystery Audit
 
 **PASS.**
 
-By the ending, clean evidence establishes:
-- older track layers predate today's disturbance;
-- different animals crossed across multiple days;
-- prey and predator movement share the same broad directional drift;
-- expected food/water routes lie farther west;
-- movement repeatedly trends away from the Main Caravan Road;
-- movement trends toward old northern paths.
+Clean evidence by chapter end establishes:
+- multiple track ages;
+- prey and predator drift in the same broad direction;
+- expected seasonal route lies west;
+- actual drift trends north/northeast;
+- the pattern existed before Red interfered;
+- old northern paths are receiving unexpected traffic.
 
-Tavian may reasonably state:
+Allowed hypothesis:
+- something may be pushing, pulling, or otherwise influencing the pattern;
+- artificial/deliberate influence is possible.
 
-**“Something is influencing the movement.”**
-
-He allows:
-- pushing;
-- pulling;
-- artificial influence;
-- deliberate influence
-
-only as possibilities/hypotheses.
-
-The manuscript does **not** reveal:
+Not established:
+- human authorship;
+- Guild authorship;
 - march-lures;
-- a lure network;
-- Guild equipment causing migration;
-- Hesk's involvement;
+- Hesk involvement;
+- fraud;
+- deliberate sacrifice.
+
+# Knowledge Boundary
+
+By the end of CH-009, Red may know:
+- Tavian's Warden investigation overlaps his recent encounters;
+- repeated track direction matters more than one unusual sighting;
+- field evidence can distinguish isolated panic from a recurring migration pattern;
+- his own curiosity can contaminate evidence;
+- he caused today's localized complication;
+- older track layers prove the pattern predates his interference;
+- prey and predators repeatedly trend away from the Main Caravan Road;
+- old northern paths receive unexpected traffic;
+- artificial or deliberate influence is possible but unproven.
+
+Red still does not know:
+- the cause;
+- march-lures;
+- Hesk's role;
+- Guild manipulation;
 - casualty-record fraud;
-- deliberate sacrifice policy;
-- Fate;
-- Great Design;
-- protected writer truth.
+- protected cosmology;
+- Play Logic's true mechanism;
+- regeneration's true mechanism.
 
-# F-ID / Mystery State
+**PASS.**
 
-No new F-ID is planted in CH-009.
+# Scene Compliance
 
-After CH-009:
-- F-001 — PLANTED — CH-002
-- F-002 — PLANTED — CH-003
-- F-003 — PLANTED — CH-007
-- F-004 — PLANTED — CH-005
+## SC-009-01 — The Map Says Elsewhere
+**PASS.** Tavian initiates the Warden check and bounds the CH-008 warning mismatch.
 
-M-005 remains observational from CH-007.
+## SC-009-02 — Dirt With Evidence
+**PASS.** Tracking logic, natural alternatives and repeated directional contradiction are established.
+
+## SC-009-03 — Leave It Alone
+**PASS.** Red knowingly contaminates the live observation for curiosity and causes the localized complication.
+
+## SC-009-04 — Bad Field Method
+**PASS.** Tavian owns tactical geometry; Red contributes one selective utility obstruction without a power ceiling.
+
+## SC-009-05 — Northbound
+**PASS.** Older sign recovers clean evidence, artificial/deliberate influence stays hypothetical, and the ending points north.
+
+# F-ID State
+
+No F-ID changes in CH-009.
+
+- **F-001 — PLANTED — CH-002**
+- **F-002 — PLANTED — CH-003**
+- **F-003 — PLANTED — CH-007**
+- **F-004 — PLANTED — CH-005**
 
 M-007 remains inactive.
 
-# CH-011 First March-Lure Discovery Protection
+# Canonization Decision
 
-**PASS.**
+# GATE 9 — PASS
 
-CH-009 contains:
-- no march-lure;
-- no hidden equipment;
-- no physical manipulation device;
-- no causal mechanism discovery.
+**CH-009 — Wrong Tracks** is current canon under the Soul-Drift / close-first-person / final story-engine standard.
 
-CH-011 remains the owner of the first physical march-lure discovery.
+**Official next production step:**
 
-# Ending
+**CH-010 — The Ledger Doesn't Balance → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**
 
-**PASS.**
-
-The final sequence returns to clean evidence, not Red Jackal's contaminated live test.
-
-The closing conclusion is:
-
-- repeated movement;
-- away from the profitable Main Caravan Road;
-- toward old northern paths;
-- cause unknown.
-
-The final word:
-
-**“North.”**
-
-lands as the locked directional handoff without beginning CH-010.
-
-# CH-010 Boundary
-
-**PASS.**
-
-The manuscript does not begin:
-- Maelis's casualty/certification comparison;
-- Jessa's documentary pressure;
-- Hesk's record-access management;
-- the repeating outer-loss/main-road-safety record pattern.
-
-Those remain reserved for CH-010.
-
-# Gate 9 Decision
-
-# PASS
-
-CH-009 is approved for canonization.
-
-After canonization:
-- CH-009 becomes CANON;
-- no F-ID changes state;
-- Tavian may now treat Red Jackal as an early **R3 Dangerous Wildcard**;
-- repeated northbound migration drift becomes canon field evidence;
-- artificial/deliberate influence remains a hypothesis only;
-- march-lures remain undiscovered;
-- CH-011 remains the first physical march-lure discovery;
-- the next authorized production step becomes **CH-010 — The Ledger Doesn't Balance: Detailed Scene Architecture only**.
-
-Do not draft CH-010 manuscript before its Scene Architecture and Gate 8 Pre-Manuscript Scene QA pass.
-
-Do not reveal the march-lure before CH-011.
-
-Do not select Volume 2.
+CH-028 remains paused until CH-001 through CH-027 complete this synchronization cycle.

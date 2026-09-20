@@ -1,760 +1,1113 @@
 # Chapter 10 — The Ledger Doesn't Balance
 
-**Status:** STUDIO CINEMATIC RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
-**Word Count:** 3,201  
+**Status:** SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE REVISION — GATE 9 REVALIDATION PENDING
+**Revision Date:** 2026-09-20
+**Word Count:** 3042
 **Chapter QA:** `qa/CH-010-GATE-9-CHAPTER-QA.md`
 
-Three stacks of paper waited for Red when he entered the Ledger room.
+Three stacks of paper were waiting for me when I entered the Ledger room.
 
-Maelis sat behind them with a pen in hand. A charged Wayfarer Tongue Token hung near her elbow.
+Maelis sat behind them with a pen in one hand and a charged Wayfarer Tongue Token beside her elbow.
 
 She did not look up.
 
-“Sit.”
+"Sit."
 
-Red sat.
+I sat.
 
-The pen kept moving for another few seconds before she closed the folder in front of her. She finished marking something, closed one folder, then pulled a blank sheet toward herself.
+The pen continued moving.
 
-“Tavian reported that yesterday's route check found repeated north-east movement across multiple track ages.”
+Scratch.
 
-“He does make dirt sound official.”
+Pause.
 
-“Did it?”
+Scratch.
 
-“Did what?”
+Apparently I had arrived before the paperwork had finished becoming disappointed in me.
 
-“Show repeated north-east movement across multiple track ages.”
+Maelis marked one final line, closed the folder, and pulled a blank sheet toward herself.
 
-“Yes.”
+"Tavian reported that yesterday's route check found repeated northeast movement across multiple track ages."
 
-She dipped her pen.
+"He does make dirt sound official."
 
-“Start with the first location.”
+"Did it?"
 
-He leaned back.
+"Did what?"
 
-“There were old wagon cuts through the forest, half-eaten by roots, mud everywhere, predators using the same—”
+"Show repeated northeast movement across multiple track ages."
 
-“Location.”
+"Yes."
 
-He looked at her.
+She dipped the pen.
 
-“Forest edge between the Main Caravan Road and the old north connector.”
+"First location."
 
-“Closer to which road marker?”
+I leaned back.
 
-“I don't read the markers.”
+"Picture an old road being slowly murdered by roots—"
 
-“You can describe them.”
+"Location."
 
-That was unfairly practical. He did. Maelis wrote it down. Then she wanted the date. Then the time of day. Then the track direction. Then which tracks were older. Then which animals had been observed directly and which had only left sign. Then whether Tavian had called the movement deliberate.
+I looked at her.
 
-“He said something was influencing it.”
+"Forest edge between the Main Caravan Road and the old northern connector."
 
-“Exact wording?”
+"Closer to which road marker?"
 
-“Something is influencing the movement.”
+"I still cannot read the markers."
 
-“Did he say someone?”
+"You can describe one."
 
-“No.”
+That was unfairly practical.
 
-“Did he say Guild?”
+So I did.
 
-“No.”
+Shape.
 
-“Did he identify a mechanism?”
+Paint.
 
-“No.”
+Nearby drainage.
 
-Maelis wrote again.
+Which direction the road bent.
 
-By the time she finished, the mystery had lost most of its drama and gained three useful nouns.
+Then she wanted the time.
 
-“What about the live crossing?” she asked.
+Then weather.
 
-He knew where this was going.
+Then track direction.
 
-“Three grazers approached. Tavian wanted to observe which route they chose.”
+Then which signs were old.
 
-“And?”
+Which were fresh.
 
-“I adjusted the experiment.”
+Which animals we had actually seen.
+
+Which existed only as prints.
+
+Then whether Tavian had said the movement was deliberate.
+
+"He said something might be influencing it."
+
+"Exact wording."
+
+I thought back.
+
+"Something may be influencing the movement."
+
+"Did he say someone?"
+
+"No."
+
+"Did he say Guild?"
+
+"No."
+
+"Did he identify a mechanism?"
+
+"No."
+
+Maelis wrote.
+
+By the time she finished with that section, my mysterious northern migration problem had lost most of its atmosphere and gained a date, two locations, three route references, and a very clear distinction between evidence and me being interesting.
+
+"What about the live crossing?"
+
+There it was.
+
+I looked at the ceiling for support.
+
+The ceiling remained institutionally neutral.
+
+"Three grazers approached the split. Tavian wanted to watch which route they chose."
+
+"And?"
+
+"I improved the research."
 
 Her pen stopped.
 
-“Meaning?”
+I corrected myself.
 
-“I stepped into their sight line.”
+"I interfered."
 
-“After Tavian asked you not to?”
+"How?"
 
-“Yes.”
+"I stepped into their northern sightline."
 
-“Why?”
+"After Tavian told you not to."
 
-He considered improving the answer. Maelis looked at him. He decided against it.
+"Yes."
 
-“I wanted to see what they would do.”
+"Why?"
 
-“Did your interference change their movement?”
+Several better answers existed.
 
-“Yes.”
+None were true.
 
-“So that observation is contaminated.”
+"I wanted to know what they would do."
 
-“Tavian used the same word.”
+"Did your presence alter their movement?"
 
-“Because it is the correct word.”
+"Violently."
 
-He disliked how often competence agreed with itself. She crossed out one small note and moved on.
+"So the observation is contaminated."
 
-“The older tracks afterward?”
+"Tavian also used that word."
 
-“Clean. Different ages. Same broad direction. North-east.”
+"Because it is the correct word."
 
-“Predator and prey?”
+Competence kept forming alliances against me.
 
-“Yes.”
+She crossed out one note.
 
-“Toward the old northern routes?”
+"The older tracks afterward?"
 
-“Yes.”
+"Clean. Different ages. Different animals. Same broad direction. Northeast."
 
-“Away from the main road?”
+"Predator and prey?"
 
-“Yes.”
+"Yes."
+
+"Toward the old northern routes?"
+
+"Yes."
+
+"Away from the Main Caravan Road?"
+
+"Yes."
 
 She put the pen down.
 
-“Good.”
+"Good."
 
-“That sounded almost encouraging.”
+"That sounded dangerously close to praise."
 
-“It means the evidence is usable.”
+"It means I can use the evidence."
 
-Naturally. He gave her the rest. The displaced pack near the service road from two days earlier. The worker who had been injured because he had made a bad decision about positioning. The outer junction where the Guild warning still showed a lower hazard level while the locals had added five recent predator sightings themselves. Maelis asked whether the sightings had been reported.
+Of course.
 
-“Yes.”
+I gave her the rest.
 
-“Before the last patrol?”
+The displaced pack from the service road.
 
-“No. Patrol passed first.”
+The worker injured during that encounter.
 
-“So the official marker may simply have been stale.”
+The outer warning marker beyond Kellan's bridge.
 
-“Yes.”
+Five local predator sightings carved beneath an official low-warning symbol.
 
-“Not falsified.”
+Four days.
 
-“Not from that alone.”
+Last patrol before those sightings.
 
-Her eyes lifted. He noticed the small pause.
+Maelis stopped me there.
 
-“You're learning.”
+"So the official marker may simply have been older than the new sightings."
 
-“I've been accused of that recently.”
+"Yes."
 
-She ignored the comment and pulled one of the existing folders toward them. The top page was covered in writing he still could not read. Several colored marks ran down one side. Route symbols he recognized sat beside some of the entries. She pointed to one shaped like a forked road.
+"That alone does not prove deliberate suppression."
 
-“This is the service-road incident.”
+"No."
 
-“The pack attack?”
+Her eyes lifted.
 
-“The route report.”
+A tiny pause.
 
-He leaned closer.
+"You are becoming less exhausting to interview."
 
-“Where am I?”
+"I reject the allegation."
 
-“You aren't.”
+She ignored that and pulled one of the existing folders toward us.
 
-That improved his attention. Maelis pointed to another line.
+The top sheet was covered in writing I could not read.
 
-“The report records four certified workers assigned to the route movement. One suffered a leg injury. The incident was classified as predator contact during routine service travel.”
+Colored marks ran down one side.
 
-“That happened.”
+Several route symbols I recognized sat beside the entries.
 
-“Yes.”
+Maelis pointed at one shaped like a forked road.
 
-She moved her finger lower.
+"This is the service-road incident."
 
-“It also records assistance from irregular labor.”
+"The pack attack?"
 
-“That sounds like me.”
+"The route report."
 
-“It is likely you.”
+I leaned closer.
 
-“Likely?”
+"Where am I?"
 
-“You do not have a valid identity record to attach.”
+"You are not."
 
-He looked at the page. The attack existed. The injured worker existed. The route existed. Apparently he existed as a grammatical inconvenience.
+That improved my concentration.
 
-“Does it say I was injured?”
+She indicated one line.
 
-“No.”
+"Four certified workers assigned. One lower-leg injury. Predator contact during routine service travel."
 
-“I was very injured.”
+"That happened."
 
-“I know.”
+"Yes."
 
-“Sela was extremely committed to that fact.”
+Her finger moved.
 
-“The Guild report does not carry a registered injury claim for you.”
+"Assistance from irregular labor."
 
-“Because I'm not registered.”
+"That sounds familiar."
 
-“Yes.”
+"It is probably you."
 
-He looked at the route page again. Nothing on it was necessarily false. That was the unpleasant part. Maelis reached for another file.
+"Probably?"
 
-“This is your irregular labor record.”
+"You still do not have a valid identity record that can be attached to the incident."
 
-He stared at the stack.
+I looked at the page.
 
-“I have a record?”
+The route existed.
 
-“You have several.”
+The workers existed.
 
-“That feels dishonest. I was promised off the books.”
+The injured man existed.
 
-“You were not promised that.”
+The pack existed.
 
-He thought back. She was right. Hesk had said not entirely. Jessa had explained it. Apparently he had been betrayed by his own memory choosing the more dramatic phrase. Maelis laid the papers in a row.
+I apparently existed as a grammatical condition.
 
-“This is the discretionary payment approval.”
+"Does it record my injury?"
 
-She tapped the next.
+"No."
 
-“Supply issue.”
+"I was opened below the ribs."
 
-Then another.
+"I know."
 
-“Route assignment.”
+"Sela expressed strong opinions."
 
-Another.
+"The Guild has no registered injury claim for you."
 
-“Completion acknowledgment.”
+"Because I am not registered."
 
-He looked across the table.
+"Correct."
 
-“So Greywake can record my money, my food, where I worked, and whether I finished.”
+Nothing on the page needed to be false.
 
-“Yes.”
+That was the unpleasant part.
 
-“But not me.”
+Maelis opened another folder.
 
-“It can record the name you use.”
+"This is your irregular labor trail."
 
-“Red Jackal.”
+I stared at the stack.
 
-“Yes.”
+"I have a trail?"
 
-“Very official.”
+"Several records."
 
-“It is not identity-bound.”
+"That feels dishonest. I was promised off the books."
 
-There it was again. Maelis moved one page beside the service-road report.
+"You were not."
 
-“If you disappeared on one of these assignments, the Guild could close the expense.”
+I thought back to Hesk.
 
-He waited.
+Private labor.
 
-“The assignment could remain in the route log,” she continued. “Supplies would remain issued. Payment would remain accounted for.”
+Discretionary expense.
 
-“And the worker?”
+Irregular, not undocumented.
 
-“You would not enter the certified-worker casualty record in the same way.”
+Jessa had explained the whole thing aloud because I could not read the forms.
 
-He stopped smiling. There were several ways to describe that. None improved with style.
+My memory had apparently edited the arrangement for genre.
 
-“So if I vanish, the silver still balances.”
+Maelis laid the pages in a row.
 
-“Yes.”
+"Payment approval."
 
-“The food balances.”
+Tap.
 
-“Yes.”
+"Supply issue."
 
-“The road assignment balances.”
+Tap.
 
-“Yes.”
+"Route assignment."
 
-“And I don't.”
+Tap.
 
-Maelis looked at the page rather than him.
+"Completion record."
 
-“Not inside the same system.”
+I looked from one page to the next.
 
-That was worse. He had liked being hard to classify when it meant gates failed, tests broke, and people with official stamps had to invent temporary rules around him. Being difficult to own had advantages. Being difficult to count was apparently the same feature viewed from the other side. He tapped the payment sheet.
+"So Greywake can record my money, my food, where I worked, and whether I finished."
 
-“Hesk could pay me, send me somewhere, lose me, and still have clean books.”
+"Yes."
 
-“Clean is not the word I would use.”
+"But not me."
 
-“Balanced?”
+"It can record the name you use."
 
-“Potentially.”
+"Red Jackal."
 
-“That is more annoying.”
+"Yes."
+
+"Very official."
+
+"It is not identity-bound."
+
+There it was again.
+
+Maelis placed the payment record beside the route incident.
+
+"If you disappeared on one of these assignments, the expense could still be closed."
+
+I waited.
+
+"The route assignment could remain in the log. Supplies would remain issued. Payment would remain accounted for."
+
+"And the worker?"
+
+"You would not enter the certified-worker casualty system in the normal way."
+
+The joke I had been preparing disappeared.
+
+"So if I vanish, the silver balances."
+
+"Yes."
+
+"The food balances."
+
+"Yes."
+
+"The assignment balances."
+
+"Yes."
+
+"And I don't."
+
+Maelis looked at the records.
+
+"Not inside the same structure."
+
+The world paused.
+
+The Wayfarer Token's faint vibration stopped.
+
+A page Maelis had just released remained bent halfway toward the table.
+
+Dust hung inside a beam of window light.
+
+I looked toward you.
+
+"Turns out being impossible to classify is very liberating right up until somebody needs to count your corpse."
+
+I looked at my payment sheet.
+
+"Administrative freedom has terrible customer support."
+
+Time resumed.
+
+The page settled.
+
+I tapped the record.
+
+"Hesk can pay me, send me somewhere, lose me, and still have balanced accounts."
+
+"Balanced, possibly."
+
+"Clean?"
+
+"No."
+
+"Good. I would hate to accuse accounting of having standards."
 
 Maelis gathered the pages.
 
-“This is why I asked you here.”
+"This is why your case matters."
 
-“Because I'm administratively disposable.”
+"Because I am administratively disposable."
 
-“Because your case makes the separation obvious.”
+"Because the separation is visible with you."
 
-Much better. She continued before he could object.
+Somehow less comforting.
 
-“Your work is real. The expenses are real. The routes are real. But the worker identity field remains unresolved. That creates a gap between activity and personhood.”
+"Your work is real," she said. "Your payment is real. Your route activity is real. But the worker identity field never resolves."
 
-“That sounds expensive enough to be philosophy.”
+"Activity without personhood."
 
-“It is accounting.”
+"Do not make it philosophical."
 
-Somehow worse. Maelis opened another folder.
+"I was going to make it insulting."
 
-“These cases are less obvious.”
+"It is accounting."
 
-Several route symbols repeated down the page. Some matched outer roads. Others he did not recognize.
+Worse.
 
-“What am I looking at?”
+She opened another folder.
 
-“People who appear in one record system and not another.”
+"These cases are less obvious."
 
-“Like me.”
+Repeated route symbols ran down the page.
 
-“Similar. Not identical.”
+Some were outer routes I recognized.
 
-She pointed to one sequence.
+Others meant nothing to me.
 
-“Supply issue. Route assignment. Certification active. Then no completion entry.”
+"What am I looking at?"
 
-“Dead?”
+"People who exist in one record set and disappear in another."
 
-“Unknown.”
+"Like me."
 
-“Missing?”
+"Similar problem. Different cause."
 
-“In one record.”
+She traced one sequence.
 
-She pointed to another page.
+"Supply issue. Route assignment. Certification active. No completion."
 
-“Not in the certified casualty summary.”
+"Dead?"
 
-He looked from one to the other.
+"Unknown."
 
-“Why?”
+"Missing?"
 
-“That is what I am trying to establish.”
+"In this record."
+
+She moved to another sheet.
+
+"Not in the certified casualty summary."
+
+I looked between them.
+
+"Why?"
+
+"That is what I am trying to establish."
 
 She stood.
 
-“We need the Guild's internal filing structure.”
+"We need the Guild's internal filing categories."
 
-He looked at the stacks.
+I stared at the stacks.
 
-“More paperwork.”
+"More paper."
 
-“Yes.”
+"Yes."
 
-He sighed. There were monsters in the forest with teeth the length of his fingers. Accounting was beginning to feel less honest. The Road Guild records office smelled like old paper, lamp oil, and damp wool. Jessa Vale was behind a narrow counter sorting route packets into wooden slots when they entered. She looked up at Maelis, then at him. Her expression changed slightly. Not surprise. Concern. That was interesting. The public hall beyond the records office remained busy. Workers crossed the caravan yard carrying rope, axle parts, food crates, and sealed packets. Wheels rattled over the packed ground outside. Normal work. Normal day. Maelis set a written request on the counter.
+There were predators in the forest with jaws built to hold struggling prey.
 
-“I need the corresponding route-loss categories for these entries.”
+Somehow the paperwork was becoming less honest.
 
-Jessa took the page. Her eyes moved down it once. Then again.
+The Road Guild records office smelled like damp wool, lamp oil, and old paper.
 
-“You already have the casualty summaries.”
+Jessa Vale stood behind a narrow counter sorting route packets into wooden slots.
 
-“I have the certified casualty summaries.”
+The public hall beyond her remained busy.
 
-Jessa's fingers tightened slightly on the paper.
+Workers carried rope.
 
-“Yes.”
+Axle parts.
 
-“I also have route incidents with missing completion records, irregular labor expenses, and active certifications that do not reconcile with those totals.”
+Food crates.
 
-Jessa looked at him. He was becoming accustomed to being used as evidence. It was not his favorite reputation. Maelis continued.
+Sealed packets.
 
-“I need to understand where those cases go.”
+Wagon wheels rattled across the yard.
+
+The Guild continued functioning while we arrived to ask whether some of the people who made it function had gone missing between categories.
+
+Jessa looked at Maelis.
+
+Then at me.
+
+Her expression changed slightly.
+
+Concern.
+
+Maelis placed a written request on the counter.
+
+"I need the route-loss categories corresponding to these entries."
+
+Jessa read the request.
+
+Once.
+
+Then again.
+
+"You already have the casualty summaries."
+
+"I have the certified casualty summaries."
+
+Jessa's fingers tightened around the paper.
+
+"Yes."
+
+"I also have route incidents with missing completion records, irregular labor expenses, and active certifications that do not reconcile with those totals."
+
+Jessa looked at me.
+
+I was becoming accustomed to being evidence.
+
+Still did not like it.
+
+Maelis continued.
+
+"I need to know where those cases go."
 
 Jessa lowered her voice.
 
-“They don't all go to the same place.”
+"They do not all go to the same place."
 
-There it was. Maelis did not react visibly.
+Maelis did not react.
 
-“Show me.”
+"Show me."
 
-Jessa hesitated. The hesitation lasted long enough to have weight. Then she turned and walked toward the back shelving. They followed. She pulled down a narrow ledger bound in dark cloth, then another thinner packet of route reports.
+Jessa hesitated.
 
-“This one is unresolved route loss.”
+Not confusion.
+
+Decision.
+
+Then she turned toward the rear shelving.
+
+We followed.
+
+She pulled down a narrow ledger bound in dark cloth and a thinner packet tied with cord.
+
+"This is unresolved route loss."
 
 Maelis took the ledger.
 
-“And these?”
+"And this?"
 
-“Irregular labor and incomplete identity incidents.”
+"Irregular labor and incomplete-identity incidents."
 
-“Separate from casualty?”
+"Separate from casualties?"
 
-“Yes.”
+"Yes."
 
-“Why?”
+"Why?"
 
 Jessa swallowed.
 
-“Because casualty certification requires a confirmed identity or recognized worker record.”
+"Casualty certification needs a confirmed identity or recognized worker record."
 
-He looked at Maelis. She was already reading. Or doing whatever people did when written language had chosen to cooperate with them. Jessa pointed to the route packet.
+Maelis began reading.
 
-“If someone is missing and there's no body, they can stay unresolved. If the worker wasn't registered properly, they can stay under irregular incident. If a route report closes without a liability claim, it may never move into the certified casualty count.”
+Jessa pointed at the packet.
 
-“Even if everyone involved believes the person died?” Maelis asked.
+"If someone disappears and no body is recovered, the case can remain unresolved. If the worker was never registered correctly, it can remain under irregular incident. If no liability claim attaches to the route report, it may never enter the certified casualty total."
 
-Jessa looked toward the front office.
+"Even if the team believes the person died?" Maelis asked.
 
-“Belief isn't certification.”
+Jessa glanced toward the front office.
 
-That sounded like something she had been told more than once. Maelis turned a page.
+"Belief is not certification."
 
-“These are mostly outer routes.”
+That sounded practiced.
 
-Jessa said nothing. Maelis looked up.
+Maelis turned a page.
 
-“Is that because the outer routes use more irregular labor?”
+"Most of these are outer routes."
 
-“Partly.”
+Jessa said nothing.
 
-“Partly?”
+"Is that because outer work uses more irregular labor?"
 
-Jessa's eyes moved to him again. He did not speak. She had to decide whether this was her answer. After a moment, she said, “Outer work also has more incomplete recoveries. Missing teams. No body. Damaged markers. People hired locally instead of through full certification.”
+"Partly."
 
-“Does the main road use the same categories?”
+"Partly?"
 
-“Yes.”
+Her eyes moved to me.
 
-“Frequently?”
+I stayed quiet.
 
-Jessa did not answer immediately. That answer was apparently more expensive.
+Whatever she said next had to belong to her.
 
-“I need the records,” Maelis said, not unkindly.
+"Outer routes also have more incomplete recoveries," she said. "Missing teams. No body. Damaged markers. Local hires who never entered full certification."
 
-Jessa looked at the ledger in her hands.
+"Does the Main Caravan Road use the same categories?"
 
-“I've copied corrections where an incident moved from casualty to unresolved because identity could not be confirmed.”
+"Yes."
+
+"As often?"
+
+Jessa did not answer.
+
+That answer cost more.
+
+Maelis's voice stayed even.
+
+"I need the filing rule, not an accusation."
+
+Jessa looked down at the ledger.
+
+"I have copied corrections where an incident was moved from casualty to unresolved because identity could not be confirmed."
 
 Maelis went still.
 
-“Moved after initial filing?”
+"After the initial filing?"
 
-“Sometimes.”
+"Sometimes."
 
-“Who authorizes that?”
+"Who authorizes the reclassification?"
 
-Jessa's face closed. Not completely. Enough.
+Jessa's face closed.
 
-“I process forms. I don't approve the final categories.”
+Not completely.
 
-Important distinction. Also not an answer. Before Maelis could ask again, a voice came from the doorway.
+Enough.
 
-“Jessa.”
+"I process forms. I do not approve final categories."
 
-Hesk. He stood just inside the records office with one hand resting against the doorframe. No guards. No dramatic entrance. Just the Roadmaster finding three people in his records room discussing exactly the sort of thing Roadmasters probably preferred not to discover casually. Jessa straightened.
+Important.
 
-“Roadmaster.”
+Also not an answer.
+
+Before Maelis could continue, a voice came from the doorway.
+
+"Jessa."
+
+Rovan Hesk stood there with one hand against the frame.
+
+No guards.
+
+No dramatic timing.
+
+Just a Roadmaster discovering that an independent Ledger auditor, an anxious clerk, and the least classifiable employee he had ever hired were standing around his unresolved-loss records.
+
+Jessa straightened.
+
+"Roadmaster."
 
 Hesk looked at Maelis first.
 
-“Ledger Orra.”
+"Ledger Orra."
 
-“Roadmaster.”
+"Roadmaster."
 
-Then Hesk looked at Red.
+Then me.
 
-“Red Jackal.”
+"Red Jackal."
 
-“Still difficult to file.”
+"Still difficult to file."
 
-His expression did not change. He almost respected the consistency. Hesk stepped inside.
+His expression did not move.
 
-“What records are being requested?”
+Consistency deserved respect.
 
-Maelis handed him the written request. He read it.
+He stepped inside.
 
-“These include restricted worker files.”
+"What records are being requested?"
 
-“They include route-loss records relevant to my audit.”
+Maelis handed him the written request.
 
-“Some contain private identity and liability details.”
+He read it.
 
-“I can work from certified copies.”
+"Some of these are restricted worker files."
 
-“That can be arranged.”
+"They contain route-loss information relevant to my audit."
 
-He handed the request back. Calm. Reasonable. Annoying. Hesk looked toward the dark ledger.
+"They also contain private identity and liability details."
 
-“Original unresolved-loss books remain in Guild custody.”
+"I can work from certified copies."
 
-“I am not removing them,” Maelis said.
+"That can be arranged."
 
-“You may inspect them with a Guild clerk present.”
+Calm.
 
-“I already have one.”
+Reasonable.
+
+Annoying.
+
+Hesk handed the request back.
+
+"Original unresolved-loss books remain in Guild custody."
+
+"I am not removing them."
+
+"You may inspect them with a Guild clerk present."
+
+"I already have one."
 
 His eyes moved to Jessa.
 
-“Jessa has route assignments to finish.”
+"Jessa has route certifications to finish."
 
-There it was. Nothing threatening in the words. Jessa still went pale. Hesk continued.
+There it was.
 
-“Another clerk can supervise Ledger access.”
+Nothing threatening in the sentence.
 
-Maelis's voice stayed level.
+Jessa still went pale.
 
-“I am asking her procedural questions about categories she personally processes.”
+"Another clerk can supervise access," Hesk said.
 
-“She can answer factual questions during assigned audit time.”
+Maelis did not shift.
 
-“Which is now.”
+"I am asking her procedural questions about categories she personally processes."
+
+"She can answer factual questions during assigned audit time."
+
+"Which is now."
 
 Hesk looked at Jessa.
 
-“You have caravan certifications due before afternoon departure.”
+"You have caravan certifications due before afternoon departure."
 
 Jessa lowered her eyes.
 
-“Yes, Roadmaster.”
+"Yes, Roadmaster."
 
-Her hand stayed on the ledger. “I need this job. My younger siblings depend on what I earn here.” Hesk's expression did not change.
+Her hand stayed on the dark ledger.
 
-“I know.”
+"I need this job," she said quietly. "My younger siblings depend on what I earn here."
 
-She reached for the unresolved ledger. He put his hand on it first. Not hard. Just enough. Hesk looked at his hand. Then at him.
+Hesk's expression did not change.
 
-“No,” he said.
+"I know."
 
-Jessa froze. Maelis's head turned slightly. Hesk remained calm.
+He reached for the ledger.
 
-“No?”
+I put my hand on it first.
 
-“She hasn't decided she's done answering.”
+Not hard.
 
-“That is not your decision.”
+No threat.
 
-“Exactly.”
+Just occupied territory.
 
-That changed the room. Only a little. Enough. Hesk's gaze sharpened.
+Hesk looked at my hand.
 
-“Jessa works for the Guild.”
+Then at me.
 
-“I know. That's why she's useful.”
+"No."
 
-Jessa looked at him. He continued because pretending this was noble would have been insulting to everyone present.
+Jessa froze.
 
-“She knows where your categories go. I want the answer. Maelis wants the answer. You want her back at a desk.”
+Maelis turned slightly.
 
-“That is called employment.”
+Hesk remained calm.
 
-“Sometimes.”
+"No?"
 
-Maelis spoke carefully.
+"She hasn't decided she is finished."
 
-“Red Jackal.”
+"That is not your decision."
 
-“I am not making her talk.”
+"Exactly."
 
-He looked at Jessa.
+The room changed by half a degree.
 
-“If you want to leave, leave.”
+Enough.
 
-Then he looked back at Hesk.
+Hesk's gaze sharpened.
 
-“If you want to decide for her, that's the part I object to.”
+"Jessa works for the Guild."
 
-Hesk's eyes narrowed by the smallest amount.
+"I know. That is why she is useful."
 
-“You're here because this Guild gave you work when nobody could process you.”
+Jessa looked at me.
 
-“I remember.”
+I continued because pretending this was noble would have been insulting.
 
-“Then remember the arrangement.”
+"She knows how your categories actually move. Maelis wants that information. I want that information. You want her back at her desk."
 
-Red smiled.
+"That is called employment."
 
-The old irritation settled into place.
+"Sometimes."
 
-“I remember it very well.”
+"Red Jackal," Maelis said.
 
-Irregular labor. No normal protection. No appeal. Useful when needed. Easy to separate from the person attached.
+"I am not making her talk."
 
-“I took bad work because it paid,” he said. “That didn't make me yours.”
+I looked at Jessa.
 
-The room went quiet.
+"If you want to leave, leave."
 
-Red did not fill it. Hesk looked at him for another second, then at Jessa.
+Then I looked at Hesk.
 
-“Answer factual questions if you choose. No speculation. Restricted originals stay here.”
+"If you want to decide for her, that is the part I dislike."
 
-That was a retreat small enough to deny. Maelis nodded.
+"You believe you have authority here?"
 
-“Agreed.”
+"No."
 
-Hesk turned to leave, then stopped.
+That answer made him pause.
 
-“Ledger Orra.”
+"I have preferences."
 
-“Yes?”
+"Preferences."
 
-“Frontier records are imperfect because the frontier is imperfect. Missing is not dead. Unregistered is not certified. No body means no confirmed casualty. If you combine unlike categories carelessly, you'll create a lie while trying to find one.”
+"Strong ones."
+
+His expression stayed controlled.
+
+Good.
+
+So did mine.
+
+Hesk said, "You are standing in Guild records because this Guild gave you work when nobody could process you."
+
+"I remember."
+
+"Then remember the arrangement."
+
+That irritation returned immediately.
+
+Private labor.
+
+No standard protection.
+
+No normal appeal.
+
+Useful because I fit into a gap.
+
+"I remember it perfectly."
+
+I leaned a little closer to the ledger.
+
+"I took bad work because it paid. That did not assign you ownership of me."
+
+Silence.
+
+"And it does not assign you ownership of her answer."
+
+Jessa stared at the ledger.
+
+Hesk stared at me.
+
+I let the silence remain.
+
+This was not my testimony.
+
+Hesk finally looked at Jessa.
+
+"Answer factual questions if you choose. No speculation. Restricted originals remain here."
+
+A retreat small enough to call procedure.
+
+Maelis nodded.
+
+"Agreed."
+
+Hesk turned toward the door.
+
+Then stopped.
+
+"Ledger Orra."
+
+"Yes?"
+
+"Frontier records are imperfect because the frontier is imperfect. Missing is not dead. Unregistered is not certified. No recovered body means no confirmed casualty. Combine unlike categories carelessly and you will create a false picture while trying to correct one."
 
 Maelis did not flinch.
 
-“That is why I am keeping the categories separate.”
+"That is why I am keeping the categories separate."
 
-“Good.”
+"Good."
 
-Hesk looked at Red once more.
+He looked at me once more.
 
-Calculation. Nothing warmer.
+Calculation.
+
+Nothing theatrical.
 
 Then he left.
 
-Jessa kept staring at the doorway.
+Jessa remained still.
 
-Red took his hand off the ledger.
+I removed my hand from the ledger.
 
-“You can go,” he said.
+"You can go."
 
-She looked at him.
+She looked at me.
 
-“I know.”
+"I know."
 
-Good. That mattered. Maelis waited. So did he. Jessa breathed out slowly. Then she opened the dark ledger again.
+Good.
 
-“There is one thing.”
+That mattered more than the answer.
+
+Maelis waited.
+
+I waited.
+
+Jessa breathed out slowly.
+
+Then she reopened the dark ledger.
+
+"There is one thing."
 
 Her choice.
 
-He said nothing. Maelis said, “Go on.” Jessa pointed to a column near the edge.
+I said nothing.
 
-“When unresolved cases are used in the main route summary, they are counted as route incidents, not certified casualties.”
+Maelis said, "Go on."
+
+Jessa pointed to a narrow column.
+
+"When unresolved cases appear in the Main Caravan Road summary, they are counted as route incidents. Not certified casualties."
 
 Maelis leaned closer.
 
-“And outer-route safety reports?”
+"And outer-route safety reports?"
 
-“Those include more of the unresolved notes internally.”
+"Internally, more of the unresolved notes remain attached."
 
-“But the headline main-road casualty figure doesn't.”
+"But the main-road headline casualty figure does not include them."
 
-Jessa looked sick.
+Jessa's mouth tightened.
 
-“No.”
+"No."
 
-“Is that written policy?”
+"Written policy?"
 
-“No.”
+"No."
 
-“Then what is it?”
+"Then what?"
 
-“Practice.”
+"Practice."
 
-“Practice.”
+Maelis repeated it softly.
 
-Maelis's pen stopped.
+"Practice."
 
-Her face barely changed, but the room felt colder.
+Her pen stopped.
 
-“Who taught you that practice?”
+"Who taught you that practice?"
 
 Jessa closed the ledger.
 
-“I said I would explain the category.”
+"I said I would explain the category."
 
-Boundary. Maelis recognized it.
+Boundary.
 
-“All right.”
+Maelis recognized it immediately.
 
-She did not push. Neither did he. Jessa had given them something. It was enough for now. Back in the Ledger room, Maelis laid the same pages across the table.
+"All right."
 
-Same ink. Same stamps.
+No pressure.
 
-They no longer looked harmless. Maelis arranged the records into columns. He watched. Mostly because he could not read any of them and had run out of useful ways to pretend otherwise. She used route symbols, dates, and marks he recognized well enough to follow when she pointed.
+No demand.
 
-“Main Caravan Road,” she said.
+Jessa had chosen the line.
 
-One stack.
+We left it there.
 
-“Outer routes.”
+Back in the Ledger room, Maelis arranged the records into three columns.
 
-Second stack.
+Same paper.
 
-“Unresolved and irregular losses associated with the same reporting periods.”
+Same stamps.
 
-Third stack. He looked at the table.
+Different meaning now.
 
-“This is either going to become very interesting or very boring.”
+I watched because I could not read any of it and pretending otherwise had lost its entertainment value.
 
-“It is already interesting.”
+She pointed as she worked.
 
-“That is what worries me.”
+"Main Caravan Road."
 
-Maelis ignored him. She compared one reporting period. Then another. Then a third. Each time she copied totals onto a fresh sheet. He could not read the numbers. He could read her face. That was enough.
+First stack.
 
-“What?”
+"Outer routes."
 
-She did not answer. She checked the first set again. Then the second. Then she stood and moved to the window facing the caravan yard. Outside, workers were preparing two wagons beneath a Main Caravan Road route marker. The road beyond the gate was busy. Guarded. Maintained. Successful. Maelis returned to the table.
+Second.
 
-“During this period, certified casualties on the Main Caravan Road decreased.”
+"Unresolved and irregular losses from the same reporting periods."
 
-“Good.”
+Third.
 
-“Yes.”
+I looked at the table.
+
+"This is about to become either extremely interesting or catastrophically boring."
+
+"It is already interesting."
+
+"That is what I was afraid of."
+
+Maelis compared one reporting period.
+
+Then another.
+
+Then a third.
+
+She copied totals onto a fresh sheet.
+
+I could not read the numbers.
+
+I could read her face.
+
+That was enough.
+
+"What?"
+
+No answer.
+
+She checked the first group again.
+
+Then the second.
+
+Then walked to the window overlooking the caravan yard.
+
+Outside, workers prepared two wagons beneath the Main Caravan Road marker.
+
+The road beyond the gate was busy.
+
+Guarded.
+
+Maintained.
+
+Successful.
+
+Maelis returned.
+
+"During this period, certified casualties on the Main Caravan Road decreased."
+
+"Good."
+
+"Yes."
 
 She pointed to the outer-route stack.
 
-“Unresolved and irregular losses increased.”
+"Unresolved and irregular losses increased."
 
-He stopped.
+I stopped.
 
-“Same period?”
+"Same period?"
 
-“Yes.”
+"Yes."
 
-She moved to the next.
+Next set.
 
-“Main-road certified losses decreased again.”
+"Main-road certified losses decreased again."
 
-“Outer?”
+"Outer routes?"
 
-“Increased.”
+"Increased."
 
-Another page.
+Another.
 
-“Again?”
+"Again?"
 
-“Yes.”
+"Yes."
 
-That was no longer a good word. He looked at the stacks.
+The word was no longer pleasant.
 
-“Could be more people using the outer routes.”
+I looked across the records.
 
-“I checked assignment volume.”
+"Could be more people using outer routes."
 
-“Bad weather?”
+"I checked assignment volume."
 
-“Not consistently.”
+"Weather?"
 
-“Different season?”
+"Not consistently."
 
-“These periods are comparable.”
+"Different seasonal conditions?"
 
-Red thought of Tavian's tracks in the mud.
+"Comparable periods."
+
+I thought about Tavian's mud.
 
 Food west.
 
@@ -762,53 +1115,109 @@ Water west.
 
 Tracks north.
 
-Different evidence. Same ugly shape. Maelis sat down.
+Different evidence.
 
-“The documents are not all false.”
+Same unpleasant shape.
 
-“That seems important.”
+Maelis sat.
 
-“It is.”
+"The documents are not all false."
 
-“Then what are we looking at?”
+"Important."
 
-“A reporting structure where the main road can become safer on paper while losses rise somewhere else without entering the same headline count.”
+"Very."
 
-He looked at his irregular labor sheet. A person. An expense. A route. No normal place for the body if the person disappeared. Jessa's voice came back to him.
+"Then what are we looking at?"
+
+"A reporting structure where the Main Caravan Road can become safer in the official summary while losses rise elsewhere without entering the same headline casualty count."
+
+I looked at my own irregular-labor record.
+
+Payment.
+
+Food.
+
+Route.
+
+Completion.
+
+A person reduced to activity because the identity field would not accept him.
+
+Jessa's word came back.
 
 Practice.
 
-“Intentional?” he asked.
+"Intentional?"
 
-Maelis was quiet for a long moment.
+Maelis stayed quiet.
 
-“I don't know.”
+Then:
 
-That answer again. Different person. Same discipline.
+"I do not know."
 
-“But?”
+Same answer Tavian gave when the evidence stopped.
 
-“But I no longer think random clerical error is a sufficient explanation.”
+Different expert.
 
-There it was. Not proof. Not a confession. Not the shape of the thing causing animals to move. Just a pattern. Maelis turned the final sheet toward herself and drew two lines across separate columns. One for the road Greywake protected best. One for the places beyond it. When one improved, the other worsened. Not once. Repeatedly. She looked at the pages, then at him.
+Same discipline.
 
-“The Main Caravan Road gets safer.”
+"But random clerical error is no longer a sufficient explanation."
 
-He already knew the rest.
+There it was.
 
-“The outer routes pay for it,” he said.
+Not a confession.
 
-Maelis looked at him.
+Not a culprit.
 
-“The records show correlation, not cause.”
+Not a physical mechanism hiding in the woods.
+
+A pattern.
+
+Maelis turned the final sheet and drew two lines through separate columns.
+
+One for the road Greywake protected best.
+
+One for the routes outside it.
+
+When one improved, the other worsened.
+
+Repeatedly.
+
+"The Main Caravan Road gets safer," she said.
+
+I already knew the shape.
+
+"The outer routes pay for it."
+
+Maelis looked at me.
+
+"The records show correlation. Not cause."
 
 Right.
 
-Still Tavian's lesson, just with ink instead of mud. Her eyes returned to the totals.
+Tavian's lesson again.
 
-“Recorded outer-route losses rise whenever the main road's recorded safety improves.”
+Mud or ink.
 
-There was nothing funny left in the room.
+Evidence did not care how dramatic the conclusion would be.
+
+Maelis looked back at the totals.
+
+"Recorded outer-route losses rise whenever the Main Caravan Road's recorded safety improves."
+
+There was nothing useful to joke about.
+
+The Guild's records could account for silver.
+
+Supplies.
+
+Assignments.
+
+Routes.
+
+Categories.
+
+They could even remain individually defensible while the people between them disappeared.
 
 The ledger balanced.
 

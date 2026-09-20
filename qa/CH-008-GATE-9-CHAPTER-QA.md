@@ -1,320 +1,293 @@
 # CH-008 Gate 9 — Chapter QA
 
+**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
+**Volume:** 1 — Greywake Arc  
 **Chapter:** CH-008 — Outside the Lanterns  
-**Manuscript:** `manuscript/CH008-OUTSIDE-THE-LANTERNS.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 2,965
-
-**Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A096 Imagination Scene Designer, A097 Prose Editor, A037 Power Balance Editor, A042 Character Arc Editor, A044 Supporting Character Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A111 Logic Editor
+**Review Date:** 2026-09-20  
+**Revision Track:** Soul-Drift / Close First-Person / Final Story Engine  
+**Status:** PASS — CURRENT CANON REVALIDATED  
+**Word Count:** 2,818
 
 # Scope
 
-Gate 9 reviewed the complete CH-008 manuscript against:
+Gate 9 reviewed the rewritten CH-008 manuscript against the current Soul-Drift master retcon, final story-engine rules, locked five-scene event sequence, CH-001 through CH-007 current canon, Kellan Dorr's character/knowledge boundaries, Outer Homestead infrastructure canon, F-ID protections, warning-marker mystery ceiling, language/literacy rules, and the CH-009 handoff.
 
-- locked CH-008 Scene Architecture;
-- CH-001 through CH-007 canon;
-- CH-007 residual injury/exhaustion;
-- Red Jackal's locked deadpan first-person voice;
-- locked Anti-Villain Expression Check;
-- Kellan Dorr character and knowledge boundaries;
-- Outer Homestead infrastructure/protection contrast;
-- Stage I Play Logic limits;
-- language/literacy continuity;
-- warning-marker information boundary;
-- no-new-F-ID restriction;
-- CH-009 boundary;
-- Gate 9 requirements.
+Legacy Stage/progression and exhaustion-as-power-limit interpretations are superseded.
 
-# CRITICAL
+# Severity Review
 
+## CRITICAL
 **None.**
 
-# MAJOR
+## MAJOR
+**None unresolved.**
 
-**None.**
+### CH-007 Injury Carryover — RESOLVED
 
-# MINOR
+CH-008 preserves recent rib/flank soreness from CH-007.
 
-**None requiring manuscript revision.**
-
-Kellan's roadmap/scene-architecture standard—judging Red Jackal by practical usefulness rather than spectacle—is expressed primarily through behavior rather than a direct explanatory speech. This preserves the intended character function without over-explaining it.
-
-# Story
-
-| Check | Result |
-|---|---|
-| Outer Homesteads become a lived place rather than an abstraction | PASS |
-| Lantern-line transition is clear and non-magical | PASS |
-| Kellan enters through active practical work | PASS |
-| Outer infrastructure disparity is shown through material conditions | PASS |
-| CH-007 residual injury affects the entire chapter | PASS |
-| Bridge problem creates real but non-epic pressure | PASS |
-| Temporary manifestation supports rather than replaces engineering | PASS |
-| Permanent repair continues after Play Logic ends | PASS |
-| Official/local warning mismatch is concrete and earned | PASS |
-| Ending motivates investigation without beginning CH-009 | PASS |
-
-# Red Jackal Voice
-
-| Check | Result |
-|---|---|
-| First person throughout | PASS |
-| Dry/deadpan baseline preserved | PASS |
-| Humor comes from practical annoyance and contradiction | PASS |
-| Reader-talk remains restrained | PASS |
-| Serious attention increases naturally near the final warning beat | PASS |
-| No forced punchline structure | PASS |
-| No humor mocks neglected communities | PASS |
-
-Examples of the chapter's voice function include:
-- annoyance that medical mystery still leads to manual labor;
-- irritation at Kellan's competence;
-- understated embarrassment when workers treat the impossible manifestation as merely useful;
-- humor receding when the warning discrepancy becomes meaningful.
-
-# POV / Prose
-
-| Check | Result |
-|---|---|
-| No invisible third-person narrator | PASS |
-| Personality-filtered description | PASS |
-| Dialogue distinct | PASS |
-| Multi-sentence narrative remains the default | PASS |
-| One-line beats are reserved for dialogue, emphasis, or deadpan impact | PASS |
-| No robotic/excessively fragmented prose | PASS |
-
-Final cadence:
-- 247 prose/dialogue paragraphs;
-- 126 narrative paragraphs;
-- 82 narrative paragraphs contain two or more sentences;
-- 44 narrative paragraphs are single-sentence;
-- 121 dialogue-led paragraphs.
-
-# Anti-Villain Expression
-
-**PASS.**
-
-CH-008 preserves the locked rule that useful action does not automatically equal pure altruism.
-
-Red Jackal explicitly takes the job because:
-- it pays;
-- he wants to get away from treatment-house supervision;
-- he wants to see what “less protected” actually means.
-
-The manuscript explicitly rejects a charity framing.
-
-His investment in the Outer Homesteads grows only after:
-- seeing repeated local repairs;
-- seeing inadequate replacement material;
-- watching ordinary traffic depend on the bridge;
-- seeing the warning-information mismatch.
-
-This satisfies the CH-008 roadmap requirement:
-
-**personal/selfish motive first → meaningful concern grows from direct experience.**
-
-He does not become a conventional hero.
-
-# Kellan Dorr
-
-**PASS.**
-
-Kellan:
-- immediately notices Red Jackal guarding his injured side;
-- changes his work assignment based on actual condition;
-- demonstrates practical bridge knowledge;
-- treats Play Logic as a temporary material with a failure mode;
-- gives exact placement/loading instructions;
-- refuses to confuse temporary support with permanent repair;
-- returns immediately to ordinary work after the manifestation;
-- grounds his criticism in maintenance and warning delays rather than conspiracy claims.
-
-Kellan is not:
-- awed into admiration;
-- a generic anti-Guild revolutionary;
-- omniscient about Hesk;
-- aware of march-lures;
-- aware of Play Logic's mechanism.
-
-The intended “useful where it is needed” challenge is delivered through conduct rather than exposition.
-
-# Outer Homestead Worldbuilding
-
-**PASS.**
-
-The manuscript establishes:
-- farms, workshops, storage and work traffic beyond the lantern line;
-- outer communities remain economically connected to Greywake;
-- infrastructure is patched locally rather than abandoned;
-- reused materials are normal because replacements are incomplete;
-- the bridge has required repeated repair;
-- local labor keeps ordinary movement functioning.
-
-The protected/outer route contrast is cumulative rather than melodramatic.
-
-No single broken structure is presented as proof of conspiracy.
-
-# Language / Literacy
-
-**PASS.**
-
-- A charged Wayfarer Tongue Token supports spoken communication.
-- Red Jackal still cannot read Veyran writing.
-- The final hazard discrepancy is understandable through pictograms, fresh paint, physical cuts/tallies and marker condition.
-- No literacy gain occurs.
-
-# Play Logic
-
-**PASS.**
-
-CH-008 contains exactly:
-
-**one Stage I manifestation attempt and one manifestation success.**
-
-The temporary footing:
-- has one clear practical purpose;
-- is physically imperfect;
-- is uneven;
-- cracks under load;
-- requires Kellan's engineering judgment;
-- lasts only for the controlled wheel crossing;
-- disappears afterward;
-- does not repair the road or bridge;
-- increases Red Jackal's pain/exhaustion.
-
-Red Jackal nearly changes the manifestation while under strain but explicitly does not restart or create a second attempt.
-
-No:
-- Stage II behavior;
-- new Play Logic mechanic;
-- repeat manifestation;
-- permanent conjured infrastructure;
-- effortless solution.
-
-F-004 remains **PLANTED — CH-005**.
-
-# Regeneration / Injury Continuity
-
-**PASS.**
-
-CH-007 consequences remain active through:
-- guarded torso movement;
-- rib/flank pain;
-- reduced carrying capacity;
-- noticeable breathing/fatigue;
+It does **not** treat that soreness as:
+- reduced raw capability;
+- Play Logic depletion;
+- a cooldown;
+- a stamina debt;
 - reduced manifestation precision;
-- worsened pain after Play Logic use.
+- a regeneration recovery gate.
 
-No:
-- new regeneration mechanic;
-- exact healing rate;
-- healer analysis;
-- instant reset.
+Red remains fully capable.
 
-F-003 remains **PLANTED — CH-007**.
+The physical soreness exists because the trauma was recent, not because his anomaly has a finite resource pool.
 
-# Mystery / Antagonist Boundary
+**Resolution:** PASS.
+
+### Stage / Manifestation-Cap Interpretation — RESOLVED
+
+The bridge support occurs once because Kellan's plan requires one temporary footing.
+
+The manuscript explicitly establishes:
+- Red can manifest again;
+- the footing does not make his pain worse;
+- no second manifestation is needed;
+- the temporary support is released after its job is complete.
+
+This is a scene-design choice, not a use-count ceiling.
+
+**Resolution:** PASS.
+
+### Paragraph Cadence — RESOLVED
+
+Current saved manuscript:
+- 301 total prose/dialogue paragraphs;
+- 159 non-dialogue narrative paragraphs;
+- 34 single-sentence non-dialogue paragraphs (~21.4%);
+- standalone dialogue remains separated for speaker clarity.
+
+Multi-sentence narration is the default.
+
+**Resolution:** PASS.
+
+# Gate 9 Review
+
+| Check | Result | Evidence |
+|---|---|---|
+| Close first-person POV | PASS | Red narrates as I/me/my; no third-person Red action narration |
+| Soul-Drift compatibility | PASS | no restored Earth biography or old traffic-death residue |
+| Chosen Red Jackal persona preserved | PASS | no identity contradiction |
+| Movie-like English | PASS | immediate dialogue/action/reaction rhythm |
+| Reader-talk restrained | PASS | one direct audience aside |
+| Audience address freezes time | PASS | explicit Fourth-Wall Pause and exact resumption |
+| Pause not tactically abused | PASS | commentary only |
+| CH-007 injury continuity | PASS | recent rib/flank soreness remains physically noticeable |
+| No magical depletion | PASS | soreness is explicitly separated from weakness/power loss |
+| Red remains fully capable | PASS | underlying capability never reduced |
+| Outer Homesteads feel inhabited | PASS | farms, workshops, storage, family/work compounds and traffic |
+| Lantern-line meaning literal/social | PASS | regular Greywake-maintained lamps end before people/roads do |
+| Lantern line not magical barrier | PASS | infrastructure transition only |
+| Outer road not abandoned | PASS | patched and locally maintained |
+| Main/outer disparity deepened | PASS | material availability, repeated repairs and warning latency |
+| Kellan enters through work | PASS | first concern is whether Red can lift safely |
+| Kellan engineering competence | PASS | material selection, load distribution, brace and approach judgment |
+| Kellan independent authority | PASS | workers follow his repair plan before Red contributes |
+| Kellan not impressed by spectacle | PASS | judges usefulness and placement |
+| Kellan suspects neglect only | PASS | no lure/redirection theory |
+| Outer workers competent | PASS | hauling, shoring, stone packing and permanent repairs remain theirs |
+| Red does not replace workers | PASS | one temporary support only |
+| Red does not replace Kellan | PASS | Kellan determines safe placement and crossing geometry |
+| Bridge stakes practical | PASS | supply movement/light-cart access between homesteads |
+| One support manifestation occurs | PASS | pale-grey footing under weak wheel path |
+| One support is not a capability maximum | PASS | Red explicitly answers that he can do it again |
+| No manifestation stamina cost | PASS | footing does not worsen pain/capability |
+| No Stage/progression framing | PASS | no Stage I/II, mastery, unlock or level language |
+| No new Play Logic rule | PASS | applies existing task-framing behavior only |
+| Support remains temporary | PASS | released after wheel clears |
+| Support does not permanently repair road | PASS | damaged approach remains and receives normal repair |
+| F-004 unchanged | PASS | remains PLANTED — CH-005 |
+| No new regeneration clue | PASS | F-003 not reopened |
+| F-003 unchanged | PASS | remains PLANTED — CH-007 |
+| No new F-ID | PASS | none |
+| M-007 inactive | PASS | no Fate/prophecy/destiny/causal-wake vocabulary |
+| Wayfarer Tongue Token used | PASS | spoken communication remains institutional |
+| No silent literacy | PASS | written boards remain unreadable |
+| Warning mismatch visually legible | PASS | pictograms, fresh red strip and tally cuts |
+| Five recent sightings established | PASS | five local marks |
+| Four-day window preserved | PASS | Kellan gives four days |
+| Sightings reported | PASS | Kellan confirms reports |
+| Patrol timing preserved | PASS | last patrol was five days ago |
+| Official/local mismatch concrete | PASS | old low-warning marker vs fresh local warning |
+| Mismatch proves staleness only | PASS | manuscript explicitly rejects stronger conclusions |
+| No deliberate suppression conclusion | PASS | absent |
+| No Hesk accusation | PASS | no named accusation |
+| No march-lure clue | PASS | absent |
+| No casualty-record clue | PASS | absent |
+| No protected writer truth | PASS | no Soul Drift/Great Design/self-model explanation |
+| CH-009 does not begin | PASS | no Tavian route check, track comparison or artificial-influence theory |
+| Final line preserved | PASS | "The official warning had not caught up." |
+
+# Fourth-Wall Pause Audit
+
+## Pause 1 — Workplace Accommodations
+
+After Kellan assigns Red a lighter crate because of recent rib soreness, Red addresses the audience.
+
+Frozen:
+- worker pulling a rope;
+- dust over the road;
+- Kellan at the bridge approach.
+
+Red comments only.
+
+Time resumes at the same causal instant.
 
 **PASS.**
 
-The manuscript establishes only that:
-- outer warnings can become stale;
-- local residents update danger information themselves;
-- recent predator sightings exceed what the official marker communicates;
-- the sightings were reported;
-- the most recent patrol preceded the new sightings.
+# Kellan Dorr Review
 
-The chapter does **not** establish:
+**PASS.**
+
+Kellan is established as:
+- a carpenter/bridge repairer;
+- a practical engineer;
+- a locally trusted work coordinator;
+- someone who evaluates Red by whether he contributes usefully;
+- irritated by material/warning disparity rather than by abstract politics.
+
+He does not know:
+- march-lures;
+- deliberate migration manipulation;
+- Hesk's hidden policy;
+- casualty falsification;
+- Red's anomaly mechanism;
+- protected writer truth.
+
+# Outer Homestead Review
+
+**PASS.**
+
+The chapter establishes that the Outer Homesteads are not a single symbolic poor settlement.
+
+They include:
+- farms;
+- workshops;
+- storage structures;
+- households;
+- wood/carpentry activity;
+- local roads;
+- ordinary trade and supply movement.
+
+Their infrastructure is not abandoned.
+
+It is kept usable through local labor, reused material and delayed/incomplete support.
+
+# Play Logic / Final Story-Engine Audit
+
+**PASS.**
+
+Red could trivially make a larger solution.
+
+He does not.
+
+He follows Kellan's requested geometry:
+- one wheel path;
+- one weak approach edge;
+- transfer load to packed stone/root shelf;
+- release the support when the crossing is complete.
+
+The support is only one tool inside a competent repair plan.
+
+The scene does not infer:
+- limited power;
+- reduced capacity from CH-007;
+- a manifestation quota;
+- Stage progression;
+- exhaustion-based precision loss.
+
+# Warning-Marker Mystery Audit
+
+**PASS.**
+
+Red can understand the contradiction without literacy:
+- official low-hazard pictogram;
+- fresh local red warning strip;
+- five fresh sighting marks;
+- report timing;
+- patrol timing.
+
+The chapter explicitly limits the conclusion to:
+
+**the official information has not caught up with current local conditions.**
+
+This does **not** prove:
 - intentional suppression;
-- deliberate monster redirection;
-- march-lure existence;
+- deliberate redirection;
 - Hesk's guilt;
-- casualty-record fraud;
-- protected cosmology truth.
+- fraud;
+- sabotage.
 
-Kellan's conclusion remains grounded in practical neglect and delayed response.
+The contradiction is therefore correctly handed to CH-009 as investigation fuel rather than solved mystery.
 
-# Warning-Marker Ending
+# Knowledge Boundary
+
+By the end of CH-008, Red may know:
+- the Outer Homesteads extend beyond Greywake's regular lantern/maintenance line;
+- those communities remain economically/socially active;
+- locals maintain roads and bridges with reused materials and partial support;
+- Kellan is a competent engineer/community representative;
+- outer infrastructure receives thinner or slower official support than the main road;
+- one temporary Play Logic support can assist a competent engineering plan without replacing permanent work;
+- Red can manifest again and is not power-depleted from CH-007;
+- the official Guild warning marker is behind current local observations;
+- five recent predator sightings occurred over four days;
+- those sightings were reported;
+- the last patrol preceded them.
+
+Red still does not know:
+- whether anyone deliberately suppressed the warning;
+- march-lures;
+- Hesk's hidden policy;
+- casualty falsification;
+- deliberate monster redirection;
+- Play Logic's true mechanism;
+- regeneration's true mechanism;
+- Fate/Great Design truth.
 
 **PASS.**
 
-Red Jackal can compare:
-- the official low-warning pictogram;
-- a fresh local red-painted warning strip;
-- multiple new claw marks/tallies;
-- freshness and physical condition.
+# Scene Compliance
 
-He does not need to read the written marker.
+## SC-008-01 — Past the Last Lantern
+**PASS.** Title meaning, Kellan introduction, recent soreness and lived outer communities are established.
 
-The final realization is correctly limited to:
+## SC-008-02 — The Bridge They Keep Fixing
+**PASS.** Reused material, delayed replacement stock and Kellan's engineering make disparity physical.
 
-**official warning information has not caught up with current outer-route conditions.**
+## SC-008-03 — Useful Where It Is Needed
+**PASS.** Cart/approach problem creates a real load-management issue and Kellan defines the temporary-support geometry.
 
-The chapter does not solve why.
+## SC-008-04 — Temporary Footing
+**PASS.** One task-aligned manifestation assists the crossing without becoming a power ceiling or permanent repair.
 
-# F-ID / Mystery State
+## SC-008-05 — The Warning Does Not Match
+**PASS.** Fresh local observations contradict the older official hazard marker without solving the cause.
 
-No new F-ID is planted in CH-008.
+# F-ID State
 
-After CH-008:
-- F-001 — PLANTED — CH-002
-- F-002 — PLANTED — CH-003
-- F-003 — PLANTED — CH-007
-- F-004 — PLANTED — CH-005
+No F-ID changes in CH-008.
 
-M-005 remains observationally established from CH-007.
+- **F-001 — PLANTED — CH-002**
+- **F-002 — PLANTED — CH-003**
+- **F-003 — PLANTED — CH-007**
+- **F-004 — PLANTED — CH-005**
 
 M-007 remains inactive.
 
-No protected mystery truth is exposed.
+# Canonization Decision
 
-# Reputation / Threat Perception
+# GATE 9 — PASS
 
-**PASS — R2 remains appropriate.**
+**CH-008 — Outside the Lanterns** is current canon under the Soul-Drift / close-first-person / final story-engine standard.
 
-Kellan and the workers witness:
-- a useful impossible temporary support;
-- clear exhaustion;
-- imperfect control;
-- the need for ordinary engineering around the effect.
+**Official next production step:**
 
-Their reaction is practical rather than worshipful.
+**CH-009 — Wrong Tracks → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**
 
-CH-008 therefore reinforces **R2 — anomalous but limited** without prematurely advancing the informed-character reputation ceiling.
-
-# CH-009 Boundary
-
-**PASS.**
-
-CH-009 does not begin.
-
-The manuscript ends with:
-- a concrete field-information contradiction;
-- Red Jackal's renewed curiosity;
-- no investigation of track geometry;
-- no Tavian re-entry;
-- no deliberate field test;
-- no lure discovery.
-
-Those remain available to CH-009.
-
-# Gate 9 Decision
-
-# PASS
-
-CH-008 is approved for canonization.
-
-After canonization:
-- CH-008 becomes CANON;
-- no F-ID changes state;
-- residual pain/exhaustion remains active;
-- Red Jackal now has direct experience of Outer Homestead infrastructure inequality;
-- Kellan has witnessed one limited Play Logic manifestation;
-- Red Jackal knows official outer-route warning information can lag behind current local observations;
-- deliberate manipulation remains unknown;
-- the next authorized production step becomes **CH-009 — Wrong Tracks: Detailed Scene Architecture only**.
-
-Do not draft CH-009 manuscript before its Scene Architecture and Gate 8 Pre-Manuscript Scene QA pass.
-
-Do not select Volume 2.
+CH-028 remains paused until CH-001 through CH-027 complete this synchronization cycle.

@@ -2,9 +2,18 @@
 
 **Chapter:** CH-024 — No One Gets Chosen  
 **Manuscript:** `manuscript/CH024-NO-ONE-GETS-CHOSEN.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 1,945
+**Review Date:** 2026-09-20  
+**Status:** PASS — CURRENT CANON REVALIDATED  
+**Word Count:** 1371
+
+# Soul-Drift / Final Story-Engine Revalidation
+
+- close first-person narration confirmed;
+- Red explicitly states that he could stop/move the migration physically; the limitation is ecological knowledge and consequences, not power;
+- one low fork guide occurs because one front-edge correction is required, not because Red is at an endurance floor;
+- guide remains stable and is released after route commitment;
+- Jessa/Brynn/Maelis/Tavian retain distinct essential roles;
+- Hesk loses operational control without ideological simplification.
 
 # Severity Review
 
@@ -126,22 +135,7 @@ Brynn:
 
 **PASS.**
 
-Actual CH-024 manifestations:
-
-**exactly 1**
-
-Function:
-
-**temporary low fork guide/deflector.**
-
-It:
-- redirects only the lead edge of the wrong branch;
-- buys seconds;
-- remains unstable;
-- fades after the route commits;
-- does not control the full herd;
-- does not become Stage II;
-- does not neutralize the lure itself.
+CH-024 uses one temporary low fork guide because Tavian needs one lead-edge correction while Jessa neutralizes the lure through established procedure. The guide does not imply a use ceiling, tier or stamina limit.
 
 # Regeneration / Exhaustion Review
 
@@ -149,12 +143,7 @@ It:
 
 No recovery reset occurs.
 
-Red remains:
-- flank-injured;
-- rib-limited;
-- shoulder/leg strained;
-- tremor-impaired;
-- near his current Stage I endurance floor.
+Recent wounds may still hurt, but Red's underlying capability remains unchanged and no finite endurance/precision floor is established.
 
 No new regeneration mechanism is introduced.
 

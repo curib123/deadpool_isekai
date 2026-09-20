@@ -10,6 +10,22 @@
 **Primary Cast:** Red Jackal, Maelis Orra, Jessa Vale, Rovan Hesk  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
+# Soul-Drift / Final Story-Engine Override
+
+The five-scene CH-010 event sequence remains locked.
+
+Current interpretation:
+- Red is already overwhelmingly powerful; CH-010 deliberately contains no Play Logic or regeneration event because raw force cannot answer a documentary/evidentiary problem.
+- Maelis matters because she can distinguish record layers, categories, correlation, and proof. Red cannot replace that expertise by being stronger.
+- Jessa's information must remain voluntary. Red may create room for her choice through uncomfortable social pressure on Hesk, but he may not choose her testimony for her.
+- Hesk must remain procedurally credible. His access-management can be self-protective without becoming an on-page confession.
+- Red's personal hostility to being categorized/erased is a stable agency reaction, not a conventional moral-development arc.
+- CH-010 adds information, suspicion, relationship pressure, and reputation change; it does not make Red morally better or more obedient.
+- the inverse main-road/outer-loss pattern is correlation and reporting imbalance, not yet proof of physical redirection, Hesk authorship, or intentional sacrifice.
+- no new F-ID is planted.
+- M-007 remains inactive.
+- genuine audience address invokes Fourth-Wall Pause every time.
+
 # 1. Chapter Purpose Lock
 
 CH-010 shifts the investigation from ecological evidence to documentary evidence.
@@ -835,11 +851,11 @@ Not allowed:
 - monster migration was deliberately redirected;
 - outer communities were intentionally chosen for death.
 
-### Red Jackal Development
+### Red Jackal Stable-Character / Information Beat
 
 He recognizes that his own off-book status is structurally similar to the people missing from the clean safety narrative.
 
-His concern remains personal and agency-focused:
+His concern remains personal and agency-focused rather than becoming a generic justice conversion:
 
 **someone else can decide which version of your existence gets counted.**
 

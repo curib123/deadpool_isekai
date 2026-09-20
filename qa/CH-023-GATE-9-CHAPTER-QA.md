@@ -2,9 +2,19 @@
 
 **Chapter:** CH-023 — Greywake Holds  
 **Manuscript:** `manuscript/CH023-GREYWAKE-HOLDS.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 2,036
+**Review Date:** 2026-09-20  
+**Status:** PASS — CURRENT CANON REVALIDATED  
+**Word Count:** 1311
+
+# Soul-Drift / Final Story-Engine Revalidation
+
+- close first-person narration confirmed;
+- Red can physically dominate the territorial predator and demonstrates it;
+- the major structural support is not the structural support, an unlock, or a difficult higher tier: it is the same task concept expanded because more road needs holding;
+- no injury/exhaustion reduces capability;
+- support persists without active strain and is withdrawn in sections as permanent engineering takes load;
+- route ecology and simultaneous civilian/worker geometry remain the real tension;
+- final Hesk pull remains CH-024 handoff.
 
 # Severity Review
 
@@ -45,7 +55,7 @@ The chapter ends exactly where the roadmap requires:
 
 Red:
 
-- begins injured and exhausted;
+- begins physically capable despite recent impacts;
 - does not manifest early;
 - does not create a combat weapon;
 - physically protects a trapped worker;
@@ -81,7 +91,7 @@ No comedy routine is inserted during:
 
 - predator attacks;
 - Red's serious injury;
-- PL-4;
+- the structural support;
 - structural failure;
 - final Hesk-pull reveal.
 
@@ -89,28 +99,7 @@ No comedy routine is inserted during:
 
 **PASS.**
 
-Actual CH-023 manifestations:
-
-**exactly 1**
-
-Function:
-
-**PL-4 temporary structural reinforcement.**
-
-It is:
-
-- one continuous construct;
-- used only after the critical shelf begins failing;
-- simplified rather than retried as a second use;
-- temporary;
-- load-bearing;
-- not an attack;
-- not herd control;
-- not a permanent road repair.
-
-Work crews perform the lasting timber/rope/stone reinforcement while it holds.
-
-No second manifestation occurs.
+CH-023 uses selective manifestations as needed: one structural support concept that expands to match the failing shelf, plus one small hound-relocation platform. Neither implies a tier, cooldown or use ceiling.
 
 # Regeneration / Injury Review
 
@@ -133,7 +122,7 @@ Regeneration:
 - does not restore precision;
 - does not erase pain.
 
-PL-4 remains difficult because of accumulated injury/exhaustion.
+the structural support remains difficult because of accumulated injury/exhaustion.
 
 # Tavian Rook Review
 

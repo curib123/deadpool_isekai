@@ -5,6 +5,26 @@
 
 This file defines the maximum knowledge each active Volume 1 character may possess during Greywake Arc architecture. It does not assign chapter timing.
 
+# CH-012→CH-026 Final Story-Engine Synchronization Override
+
+**Status:** CURRENT — 2026-09-20
+
+CH-012 through CH-026 are now synchronized to the Soul-Drift / close-first-person / final story engine.
+
+For these chapters, any older continuity wording that implies:
+- Stage I/II or mastery-tier progression;
+- finite manifestation counts as capability ceilings;
+- Play Logic stamina, cooldown, recharge, exhaustion debt, or injury-based precision loss;
+- regeneration as a finite recovery resource;
+- conventional moral/obedience character development;
+
+is **superseded**.
+
+The event sequence, knowledge boundaries, mystery reveals, supporting-character agency, consequences, route geography, Hesk conflict, Greywake governance outcome, and chapter-to-chapter causality remain authoritative unless explicitly changed by the current manuscripts/Gate 9 records.
+
+Red remains overwhelmingly powerful throughout. Bounded-looking manifestations are scene/task choices. Injury can hurt without lowering underlying capability. Specialist expertise remains necessary because information, ecology, engineering, evidence, timing, civilians and irreversible consequences cannot be replaced by raw force without changing the problem.
+
+
 # Soul-Drift Continuity Override
 
 The authorial retcon in `planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md` supersedes conflicting origin, memory, POV, fourth-wall, and character-growth wording in this record.

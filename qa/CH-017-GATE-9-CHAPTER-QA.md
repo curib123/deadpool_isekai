@@ -2,11 +2,19 @@
 
 **Chapter:** CH-017 — The Price of Being Right  
 **Manuscript:** `manuscript/CH017-THE-PRICE-OF-BEING-RIGHT.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 3,042
+**Review Date:** 2026-09-20  
+**Status:** PASS — CURRENT CANON REVALIDATED  
+**Word Count:** 2356
 
 **Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A097 Prose Editor, A037 Power Balance Editor, A042 Character Arc Editor, A044 Supporting Character Editor, A045 Antagonist Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A111 Logic Editor
+
+# Soul-Drift / Final Story-Engine Revalidation
+
+- close first-person serious-mode narration confirmed;
+- Red/Kellan recovery asymmetry preserved without treating Red as power-depleted;
+- responsibility is factual causality, not surrender to Hesk or conventional moral reform;
+- no Play Logic/combat/new mystery clue;
+- CH-018 third-option planning remains protected.
 
 # Scope
 
@@ -317,7 +325,7 @@ CH-017 contains:
 Regeneration appears only as consequence contrast:
 - Red is visibly recovering;
 - Kellan remains badly injured;
-- Red is still fatigued and sore.
+- Red may still be sore, but no magical depletion or reduced capability is established.
 
 # Mystery / Foreshadowing
 

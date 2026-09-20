@@ -2485,7 +2485,7 @@ Tavian begins CH-011 knowing:
 - artificial/deliberate influence is a reasonable hypothesis;
 - Red Jackal is an early R3 Dangerous Wildcard;
 - Red Jackal can follow tactical direction when consequences become immediate;
-- Red Jackal's manifestations remain temporary and limited.
+- Red Jackal's public manifestations have been selective/temporary in observed scenes, while Tavian does not know the true ceiling.
 
 Tavian does not know:
 - the physical mechanism;
@@ -2576,21 +2576,20 @@ Each supporting character must independently choose to continue for their own ev
 
 CH-011 contains exactly:
 
-**one Stage I utility manifestation attempt and one success.**
+**one utility manifestation occurs by scene design; this is not a capability maximum.**
 
 Preferred function:
 
 **temporary brace / foothold / step.**
 
 Requirements:
-- simple;
-- temporary;
-- imperfect;
+- simple in presentation;
+- temporary for the scene's need;
 - supports group movement/survival;
 - does not defeat the predators;
-- no retry;
+- no second use is needed;
 - no new rule;
-- visible concentration/stamina cost.
+- no stamina/capacity cost is established.
 
 F-004 remains **PLANTED — CH-005**.
 
@@ -2725,8 +2724,8 @@ Tavian canonically knows:
 - recent servicing exists inside the officially abandoned corridor;
 - the animal sign near the site remains abnormal;
 - a march-lure is installed in the concealed maintenance recess;
-- Red Jackal can wait for tactical positioning and use a limited manifestation as requested;
-- Red Jackal remains a dangerous wildcard but can be reliable under immediate pressure.
+- Red Jackal can wait for tactical positioning and use a selectively bounded manifestation as requested;
+- Red Jackal remains a dangerous wildcard with an unknown ceiling but can be reliable under immediate pressure.
 
 Tavian does **not** know:
 
@@ -2768,7 +2767,7 @@ Kellan canonically knows:
 - some infrastructure inside the closed zone has been disturbed/serviced recently;
 - the outer-route problem now has physical evidence beyond bad maintenance and delayed warnings;
 - a march-lure is installed at the ruined watch site;
-- Red Jackal's strange manifestation can be practically useful when used inside a competent plan.
+- Red Jackal's strange manifestation can be practically useful when he chooses to fit it inside a competent plan.
 
 Kellan still does **not** know:
 

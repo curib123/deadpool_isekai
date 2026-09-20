@@ -1,58 +1,35 @@
 # CH-005 Publish Version QA
 
 **Canon Source:** `manuscript/CH005-A-BETTER-HAMMER.md`  
-**Canon Source SHA:** `3c039594bcc6b4c946c0f6d7132ced64e34772cf`  
+**Canon Source SHA:** `b16e5aeae3d0033a313a282b33aef2b1d3baa2f3`  
 **Publication Copy:** `published/volume-001/CH005-A-BETTER-HAMMER.md`  
+**Publication Copy SHA:** `6a3d24b2601dcec5bdb54b5cd4857fbfa95c29a8`  
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-19  
-**Status:** PUBLISH-READY — GATE 11 PASS / OVERPOWERED RETCON REFRESH
+**Review Date:** 2026-09-20  
+**Status:** PUBLISH-READY — GATE 11 PASS
 
 # Source Integrity
+- Current CANON / Gate 9 source: **PASS**
+- Title/body/order equivalence: **PASS**
+- Missing/duplicated/reordered prose: **NONE**
+- Repository metadata removed: **PASS**
 
-- source manuscript is CANON — OVERPOWERED RETCON GATE 9 PASS;
-- publication copy regenerated from the latest canon source;
-- only production metadata was removed;
-- chapter title preserved: **Chapter 5 — A Better Hammer**;
-- final nonblank line preserved: **A clear purpose got me something useful. That was not an explanation. It was enough to work with. Frontier employment was beginning to look more interesting. Mostly because the tools occasionally came from nowhere.**;
-- no scene, dialogue block, event, or paragraph order changed.
+# Semantic Equivalence
+Publication copy is exactly the reader-facing title plus current canon body.
 
-# Canon Equivalence
+**Semantic Diff:** PASS — PRESENTATION ONLY
 
-**PASS.**
-
-The publication copy is a presentation-only derivation of the current canon manuscript.
-
-No semantic changes were made to:
-- Red Jackal characterization;
-- Play Logic behavior;
-- injuries/consequences;
-- mystery/foreshadowing;
-- dialogue meaning;
-- chapter ending.
-
-# Reader-Facing Cleanup
-
-**PASS.**
-
-Removed:
-- Status;
-- Word Count;
-- Chapter QA;
-- Retcon QA;
-- other production metadata when present.
-
-No internal Gate/QA text remains inside reader prose.
-
-# Formatting
-
-**PASS.**
-
-- paragraph sequence preserved;
-- dialogue quotation marks preserved;
-- intentional one-line beats preserved;
-- no code fences or broken HTML;
-- plain-text/WebNovel copy-paste compatible.
+# Preservation
+- POV/voice/dialogue: **PRESERVED**
+- paragraph order/rhythm: **PRESERVED**
+- Fourth-Wall Pause where present: **PRESERVED**
+- Play Logic/regeneration meaning: **PRESERVED**
+- battle/scene geography where applicable: **PRESERVED**
+- mystery/F-ID wording: **PRESERVED**
+- final beat: **PRESERVED**
+- publication-only story edits: **NONE**
 
 # Decision
+# PASS
 
-**PUBLISH-READY — GATE 11 PASS.**
+**CH-005 is PUBLISH-READY — GATE 11 PASS.**

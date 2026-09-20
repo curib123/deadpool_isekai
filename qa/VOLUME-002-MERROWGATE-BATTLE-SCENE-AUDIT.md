@@ -23,12 +23,12 @@ Red remains overwhelmingly powerful. He may end an ordinary physical confrontati
 | ID | Chapter | Classification | Matchup / action identity | Scale | Topology | Terrain | Primary objective |
 |---|---|---|---|---|---|---|---|
 | V2-A01 | CH-033 | HAZARD ACTION | Red + workers vs warehouse/infrastructure emergency while cargo and injured people are protected | MINOR ACTION | split objective; hazard changes the available route | independent warehouse district, damaged storage platform, cargo quay | clear the immediate hazard and protect people/cargo |
-| V2-B01 | CH-031 | BATTLE/ACTION | Red + Samir + shipwright crew vs shifting load/repair hazard | MINOR | uneven team vs one structural hazard; rescue/repair | Kesran dry dock, crane platform, wet repair berth | complete the repair without making the yard less safe |
-| V2-B02 | CH-036 | BATTLE/ACTION | Red + Samir + workers vs failing dry-dock system, water, and secondary collapse | MAJOR RESCUE | rescue under attack; split rescue points | independent dry dock, adjacent cargo lane, waterline supports | extract trapped workers and prevent a second collapse |
-| V2-B03 | CH-042 | BATTLE/ACTION | Red + Iria + Samir + dockworkers vs cargo-transfer failure and contested access/perimeter | MAJOR REVERSAL | multi-front rescue with public response opposed by private control | major cargo-transfer lift, chain-bridge approach, emergency perimeter | save people and stop cascade; the initial death cannot be undone |
-| V2-B04 | CH-045 | BATTLE/ACTION | Red + Samir + trusted workers vs four private-security contractors | MINOR HOSTILE INTERCEPTION | 2v4 interception that becomes a Red 1v4 delay while the others withdraw | cargo-basin crane network, chain-bridge service works, concealed inspection route | protect the inspection and avoid exposing the counter-plan |
-| V2-B05 | CH-047 | BATTLE/ACTION | Harbor Watch, workers, and Red vs infrastructure/weather failures plus private-security seizure attempts | MAJOR / GREAT-BATTLE BUILD | multi-front defensive hold with reinforcement and route changes | main cargo basin, active berths, chain-bridge approaches, command routes | keep public routes open and prevent private takeover |
-| V2-B06 | CH-048 | BATTLE/ACTION | Split coalition fronts vs harbor failures, private security, and evidence seizure | CLIMAX | split-party/multi-front battle with changing objectives | evidence route, cargo basin, service bridge, emergency berth | preserve harbor function, secure evidence, and retain public command |
+| V2-B01 | CH-031 | BATTLE | Red + Samir + shipwright crew vs shifting load/repair hazard | MINOR | uneven team vs one structural hazard; rescue/repair | Kesran dry dock, crane platform, wet repair berth | complete the repair without making the yard less safe |
+| V2-B02 | CH-036 | BATTLE | Red + Samir + workers vs failing dry-dock system, water, and secondary collapse | MAJOR RESCUE | rescue under attack; split rescue points | independent dry dock, adjacent cargo lane, waterline supports | extract trapped workers and prevent a second collapse |
+| V2-B03 | CH-042 | BATTLE | Red + Iria + Samir + dockworkers vs cargo-transfer failure and contested access/perimeter | MAJOR REVERSAL | multi-front rescue with public response opposed by private control | major cargo-transfer lift, chain-bridge approach, emergency perimeter | save people and stop cascade; the initial death cannot be undone |
+| V2-B04 | CH-045 | BATTLE | Red + Samir + trusted workers vs four private-security contractors | MINOR HOSTILE INTERCEPTION | 2v4 interception that becomes a Red 1v4 delay while the others withdraw | cargo-basin crane network, chain-bridge service works, concealed inspection route | protect the inspection and avoid exposing the counter-plan |
+| V2-B05 | CH-047 | BATTLE | Harbor Watch, workers, and Red vs infrastructure/weather failures plus private-security seizure attempts | MAJOR / GREAT-BATTLE BUILD | multi-front defensive hold with reinforcement and route changes | main cargo basin, active berths, chain-bridge approaches, command routes | keep public routes open and prevent private takeover |
+| V2-B06 | CH-048 | BATTLE | Split coalition fronts vs harbor failures, private security, and evidence seizure | CLIMAX | split-party/multi-front battle with changing objectives | evidence route, cargo basin, service bridge, emergency berth | preserve harbor function, secure evidence, and retain public command |
 
 The great battle sequence is **CH-047 → CH-048**. It is one continuous port-scale crisis with a chapter handoff, not two unrelated fights.
 
@@ -61,7 +61,7 @@ The great battle sequence is **CH-047 → CH-048**. It is one continuous port-sc
 ### V2-B01 — CH-031 — Load-Bearing Reputation
 
 **Chapter / Scene ID:** CH-031 / Kesran dry dock repair
-**Classification:** BATTLE/ACTION
+**Classification:** BATTLE
 **Battle / Action ID:** V2-B01
 **Scale:** MINOR
 **Matchup identity:** Red + Samir + shipwright crew vs shifting suspended load and wet structural footing
@@ -85,7 +85,7 @@ The great battle sequence is **CH-047 → CH-048**. It is one continuous port-sc
 ### V2-B02 — CH-036 — Somebody Else's Accident
 
 **Chapter / Scene ID:** CH-036 / independent dry-dock rescue
-**Classification:** BATTLE/ACTION
+**Classification:** BATTLE
 **Battle / Action ID:** V2-B02
 **Scale:** MAJOR RESCUE
 **Matchup identity:** Red + Samir + workers vs failing dock equipment, rising water, and secondary structural collapse
@@ -109,7 +109,7 @@ The great battle sequence is **CH-047 → CH-048**. It is one continuous port-sc
 ### V2-B03 — CH-042 — Dangerous by Contract
 
 **Chapter / Scene ID:** CH-042 / cargo-transfer failure
-**Classification:** BATTLE/ACTION
+**Classification:** BATTLE
 **Battle / Action ID:** V2-B03
 **Scale:** MAJOR REVERSAL
 **Matchup identity:** Red + Iria + Samir + dockworkers vs altered cargo-transfer brakes, moving load, structural cascade, and contested response access
@@ -133,7 +133,7 @@ The great battle sequence is **CH-047 → CH-048**. It is one continuous port-sc
 ### V2-B04 — CH-045 — The Weak Point
 
 **Chapter / Scene ID:** CH-045 / covert infrastructure inspection
-**Classification:** BATTLE/ACTION
+**Classification:** BATTLE
 **Battle / Action ID:** V2-B04
 **Scale:** MINOR HOSTILE INTERCEPTION
 **Matchup identity:** Red + Samir + trusted workers vs four private-security contractors interrupting an infrastructure inspection
@@ -157,7 +157,7 @@ The great battle sequence is **CH-047 → CH-048**. It is one continuous port-sc
 ### V2-B05 — CH-047 — Harbor Closed
 
 **Chapter / Scene ID:** CH-047 / first climax chapter
-**Classification:** BATTLE/ACTION
+**Classification:** BATTLE
 **Battle / Action ID:** V2-B05
 **Scale:** MAJOR / GREAT-BATTLE BUILD
 **Matchup identity:** Harbor Watch, workers, and Red vs simultaneous infrastructure/weather failures and private-security seizure attempts
@@ -181,7 +181,7 @@ The great battle sequence is **CH-047 → CH-048**. It is one continuous port-sc
 ### V2-B06 — CH-048 — Keep It Moving
 
 **Chapter / Scene ID:** CH-048 / final climax convergence
-**Classification:** BATTLE/ACTION
+**Classification:** BATTLE
 **Battle / Action ID:** V2-B06
 **Scale:** CLIMAX
 **Matchup identity:** split coalition fronts vs continuing harbor failures, private security, and evidence seizure

@@ -248,7 +248,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Supporting Development:** Samir's competence, pride, and hostility toward merchant-finance pressure.  
 **Antagonist Pressure:** The yard is already paying rising security/assurance costs linked indirectly to Venn influence.  
 **Action Progression:** Structural work → load shift → rescue/repair pressure.  
-**Battle / Scene OA:** V2-B01 — BATTLE/ACTION; uneven team versus one structural hazard; repair objective changes into rescue/weight-transfer objective; detailed scene architecture deferred to Gate 8.
+**Battle / Scene OA:** V2-B01 — BATTLE; uneven team versus one structural hazard; repair objective changes into rescue/weight-transfer objective; detailed scene architecture deferred to Gate 8.
 **Play Logic:** Up to two simple work/rescue manifestations; neither may replace Samir's engineering.  
 **Regeneration Consequence:** A minor impact may heal, but fatigue from repeated manifestation remains.  
 **Aura-Farming Opportunity:** One attempt succeeds because the timing genuinely looks impressive.  
@@ -378,7 +378,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Supporting Development:** Iria begins linking incident methods; Samir's technical suspicion gains weight.  
 **Antagonist Pressure:** Venn-linked assurance/debt representatives approach the damaged operator quickly after the crisis.  
 **Action Progression:** Major rescue set-piece.  
-**Battle / Scene OA:** V2-B02 — BATTLE/ACTION; rescue under attack with split rescue points; trapped-worker objective; detailed scene architecture deferred to Gate 8.
+**Battle / Scene OA:** V2-B02 — BATTLE; rescue under attack with split rescue points; trapped-worker objective; detailed scene architecture deferred to Gate 8.
 **Play Logic:** Up to two rescue utilities permitted.  
 **Regeneration Consequence:** Red may take a serious but non-disabling impact; regeneration hurts and drains him during extraction.  
 **Aura-Farming Opportunity:** Suppressed by the seriousness of the injuries.  
@@ -536,7 +536,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Supporting Development:** Samir's expertise identifies deliberate modification; Nessa sees her plausible-deniability logic collapse; Iria must command rescue while preserving evidence.  
 **Antagonist Pressure:** Cassian's allies immediately frame the event as proof the port cannot tolerate irregular actors and fragmented security.  
 **Action Progression:** Major reversal rescue set-piece.  
-**Battle / Scene OA:** V2-B03 — BATTLE/ACTION; multi-front rescue with contested perimeter/access; casualty-prevention and evidence-preservation objectives; detailed scene architecture deferred to Gate 8.
+**Battle / Scene OA:** V2-B03 — BATTLE; multi-front rescue with contested perimeter/access; casualty-prevention and evidence-preservation objectives; detailed scene architecture deferred to Gate 8.
 **Play Logic:** One bounded defensive/rescue manifestation permitted after the failure; it cannot stop the initial casualty or restore the infrastructure.  
 **Regeneration Consequence:** Red may take severe impact or laceration during rescue; healing is painful and leaves him depleted. One dockworker dies and several are injured despite the rescue.  
 **Aura-Farming Opportunity:** None.  
@@ -616,7 +616,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Supporting Development:** Iria learns to rely on Samir's non-state expertise; Samir accepts operational secrecy he normally dislikes.  
 **Antagonist Pressure:** Venn security contractors increase patrol presence under emergency authority.  
 **Action Progression:** Technical suspense; possible short interference confrontation.  
-**Battle / Scene OA:** V2-B04 — BATTLE/ACTION; natural 2v4 hostile interception becoming a Red 1v4 delay; protect inspection/evidence objective; detailed scene architecture deferred to Gate 8.
+**Battle / Scene OA:** V2-B04 — BATTLE; natural 2v4 hostile interception becoming a Red 1v4 delay; protect inspection/evidence objective; detailed scene architecture deferred to Gate 8.
 **Play Logic:** One controlled engineering test permitted. It must remain temporary, imperfect, and tiring.  
 **Regeneration Consequence:** No new major injury.  
 **Aura-Farming Opportunity:** Red tries to name the test dramatically; Samir keeps using the practical description.  
@@ -668,7 +668,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Supporting Development:** Iria establishes public command legitimacy; Dalen keeps evacuation/cargo lanes moving; Samir directs structural response.  
 **Antagonist Pressure:** Cassian's contractors push to take control of closures and evidence sites.  
 **Action Progression:** First climax chapter: stabilization and route preservation.  
-**Battle / Scene OA:** V2-B05 — BATTLE/ACTION; multi-front defensive hold with infrastructure/weather/private-security conflict; detailed scene architecture deferred to Gate 8.
+**Battle / Scene OA:** V2-B05 — BATTLE; multi-front defensive hold with infrastructure/weather/private-security conflict; detailed scene architecture deferred to Gate 8.
 **Play Logic:** **Exactly two separate manifestations:** one temporary access/bridge utility and one bounded brace/anchor/obstruction utility. They are sequential, not a persistent complex system.  
 **Regeneration Consequence:** Red takes physical punishment and accumulates fatigue; healing does not restore focus.  
 **Aura-Farming Opportunity:** One genuinely effective visual moment may enhance his reputation, but it occurs because the practical solution works.  
@@ -694,7 +694,7 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 **Supporting Development:** Nessa risks her future charter to expose broker routes; Dalen keeps commercial evacuation functioning; Samir holds the physical plan together; Iria uses lawful authority against private seizure.  
 **Antagonist Pressure:** Cassian's political and commercial plan is exposed while still dangerous. He adapts rather than collapsing into stupidity.  
 **Action Progression:** Final climax convergence: infrastructure + evidence + authority.  
-**Battle / Scene OA:** V2-B06 — BATTLE/ACTION; split-party/multi-front climax; evidence, evacuation, and public-command objectives; detailed scene architecture deferred to Gate 8.
+**Battle / Scene OA:** V2-B06 — BATTLE; split-party/multi-front climax; evidence, evacuation, and public-command objectives; detailed scene architecture deferred to Gate 8.
 **Play Logic:** **Exactly three separate manifestations:** one catch/deflection utility, one temporary anchor/brace, and one short-lived barrier/access utility. None is permanent; no Stage II behavior.  
 **Regeneration Consequence:** Red ends the crisis hurt and severely depleted; regeneration keeps him functional but does not reset him.  
 **Aura-Farming Opportunity:** A planned dramatic action may succeed, but the chapter must make clear that the harbor survives because everyone completed their own function.  

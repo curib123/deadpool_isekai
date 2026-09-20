@@ -3,8 +3,29 @@
 **Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
 **Volume:** 1 — Greywake Arc  
 **Chapter:** CH-024 — No One Gets Chosen  
-**Review Date:** 2026-09-19  
-**Status:** PASS
+**Review Date:** 2026-09-20
+**Status:** PASS — BATTLE / SCENE QA REVALIDATED
+
+# Battle / Scene QA Revalidation — 2026-09-20
+
+**Battle ID:** V1-B09  
+**Standard:** `qa/BATTLE-SCENE-QA-STANDARD.md` + `qa/SCENE-QA-STANDARD.md`
+
+CH-024 is the human/tactical climax: the coalition must stop Hesk's service access and recover a live wrong-route branch. Red may physically intercept Hesk, but Brynn owns detention, Jessa owns neutralization, Tavian owns timing and Maelis owns evidence.
+
+Checks:
+- matchup participants and topology explicitly defined — **PASS**
+- terrain / action geography defined — **PASS**
+- protected targets and non-combat objectives defined — **PASS**
+- supporting-character decisive roles preserved — **PASS**
+- opponent/hostile-force behavior and adaptation defined — **PASS**
+- at least one topology or objective change during the battle — **PASS**
+- Red's overwhelming power does not erase the actual problem — **PASS**
+- no Stage/use-count/stamina ceiling — **PASS**
+- battle turn, consequence and next-chapter handoff defined — **PASS**
+- scene purpose / turn / handoff standard — **PASS**
+
+Any older Gate 8 wording that treats manifestation count, fatigue, injury, precision loss or Stage labels as raw-capacity limits is superseded by this revalidation.
 
 # Severity Review
 

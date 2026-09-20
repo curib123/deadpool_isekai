@@ -1,777 +1,443 @@
 Chapter 17 — The Price of Being Right
 
-Sela did not look at me when we carried Kellan in. She looked at the stretcher.
+Sela saw the stretcher and pointed. "Table." Two assistants moved before the word finished.
 
-“Table.”
+Kellan went onto the wide treatment bed near the back wall. His face had gone pale under dirt and blood. The lower part of one leg was wrapped badly because badly had been all we had time for on the road. Blood had soaked through the splint. His shoulder sat too low on one side. Every breath was shallow.
 
-Two assistants moved before the word finished. Kellan was transferred onto the wider treatment bed near the back wall, the one with leather straps, side supports, and enough room for three people to work around him without colliding. His face had gone pale under the dirt and blood.
+I stood beside the bed with dried blood stiff on my shirt. My side was closing. My leg was already better than it had any right to be.
 
-The lower part of one leg was wrapped badly because badly had been all we had time for on the road. Blood had soaked through around the splint. His shoulder sat too low on one side, and every breath came shallow.
+My shoulder hurt. Kellan was not improving nearly fast enough. Sela cut through the field wrap. "Who splinted this?"
 
-I was still standing.
+"Tavian and militia."
 
-That felt wrong.
+"Good enough to move him."
 
-My shirt had dried against the wound along my ribs. The tear had narrowed again during the walk back. My leg still hurt where the ridge-hound had bitten me. My shoulder ached from being thrown into the road.
+Not praise. Assessment. She pressed two fingers against Kellan's foot. "Kellan. Can you feel that?"
 
-Everything hurt. Everything was also improving.
+His eyes opened halfway. "Yes."
 
-Kellan was not.
+"This?"
 
-Sela cut through the field wrap without looking up.
+A pause. "Yes."
 
-“Who splinted this?”
+"Move your toes."
 
-“Tavian and militia,” I said.
+He tried. Two moved. Sela watched carefully. "Again."
 
-“Good enough to move him.”
+He did. She turned to one assistant. "Keep pressure above the worst bleeding. Do not tighten the lower wrap more."
 
-Not praise. Classification.
+Then she examined the crush point. Swollen. Darkening.
 
-She pressed two fingers against Kellan’s foot, then higher along the injured leg.
+Bent wrong. Her expression did not change. "Crush fracture. More than one break is possible. Soft tissue badly damaged. Circulation is still present."
 
-“Kellan. Can you feel that?”
+Kellan opened his eyes again. "That good?"
 
-His eyes opened halfway.
+"Circulation is still there. That matters."
 
-“Yes.”
+He closed them. She checked ribs and shoulder next. He inhaled sharply. "Rib damage. Shoulder took impact. I need swelling down before I say more."
 
-“This?”
+She looked toward the rack of pale healing crystals. Fewer than before. Another patient already had one in use.
 
-A pause.
+Sela took the smallest bright crystal. "Bleeding first. Then stabilization."
 
-“Yes.”
+An assistant asked, "Bone?" "Not with this much swelling and tissue damage. We do not force a full repair we cannot control."
 
-“Move your toes.”
+Blue-white healing structure formed between her hands. The crystal dimmed. Kellan's jaw tightened.
 
-He tried. Two moved. Sela watched carefully.
+Bleeding slowed. Only slowed. Sela stopped. "Enough."
 
-“Again.”
+"For now?" the assistant asked.
 
-He did. She turned to one assistant.
+"For this pass."
 
-“Keep pressure above the worst bleeding. Do not tighten the lower wrap more.”
+She began preparing a better splint. Then she looked at me. Her eyes went to my side.
 
-Then she looked at the leg itself. The skin around the crush point was swollen and darkening. The lower leg sat at an angle no leg should have.
+My leg. My shoulder. "Sit."
 
-Sela’s expression did not change.
+"I'm fine."
 
-“Crush fracture. More than one break is possible. Soft tissue is badly damaged. Circulation is still present.”
+"No."
 
-Kellan opened his eyes again.
+I sat. She pressed near the wound under my ribs. Pain flashed. "Still correcting."
 
-“That good?”
+"Yes."
 
-“Circulation is still there. That matters.”
+"Dizziness?"
 
-He closed them. Sela checked his ribs next, pressing carefully along one side of his chest and shoulder. He inhaled sharply.
+"Some."
 
-“Rib damage. Maybe more than one. Shoulder took impact too.”
+"Vision changes?"
 
-She turned toward the rack of pale healing crystals. There were fewer than I remembered. Two assistants were already using one on another patient across the room.
+"No."
 
-Sela took the smallest remaining bright crystal and set it beside Kellan.
+"Breathing?"
 
-“Bleeding first. Then stabilization.”
+"Mostly."
 
-One assistant asked, “Bone?”
+She touched my shoulder. I flinched. "Bruised badly. Nothing obviously displaced."
 
-“Not with this much swelling and tissue damage. We do not force a full repair we cannot control.”
+Then she stepped away. "That is all you get." I looked at the crystal rack. "I wasn't asking."
 
-That sounded like Sela. She placed her hands around the worst part of the leg without touching the broken section directly. A blue-white pattern formed between her fingers, thin and controlled.
+"I know."
 
-Kellan’s jaw tightened. The pattern brightened. The crystal dimmed.
+She returned to Kellan. "You are already restoring yourself." Across the room, three people worked around him.
 
-The bleeding slowed.
+My bleeding had stopped. His had not. That was the difference.
 
-Only slowed.
+Sela tightened the upper strap on the splint. "Kellan cannot put weight on this leg." His eyes opened. "For how long?"
 
-Sela stopped.
+"I do not know yet."
 
-“That is enough.”
+No promise. No dramatic final prognosis. Just not yet. "We need swelling down. We need circulation monitored. We keep the fractures stable."
 
-The assistant looked at the leg.
+Kellan swallowed. "And shoulder?"
 
-“For now?”
+"Not enough information yet."
 
-“For this pass.”
-
-She started preparing a better splint. I moved closer. Sela finally looked at me.
-
-Her eyes went to my side. Then my leg. Then my shoulder.
-
-“Sit.”
-
-“I’m fine.”
-
-“No.”
-
-I sat. She pressed two fingers against the wound under my ribs. Pain flashed through me.
-
-I did not move. She watched the edges.
-
-“Still closing.”
-
-“Yes.”
-
-“Any dizziness?”
-
-“Some.”
-
-“Vision changes?”
-
-“No.”
-
-“Can you breathe fully?”
-
-I tried. It hurt.
-
-“Mostly.”
-
-She touched the shoulder. I flinched.
-
-“Probably bruised badly. Maybe strained. Nothing is obviously displaced.”
-
-Then she stepped away.
-
-“That is all you get.”
-
-I looked at the crystal rack.
-
-“I wasn’t asking.”
-
-“I know.”
-
-She started wrapping Kellan’s leg into the new splint.
-
-“You are already repairing.”
-
-The words were neutral. The contrast was not. Across the room, Kellan lay still while three people worked around him.
-
-My side had already closed enough that the bleeding had stopped. Sela tightened the upper strap on the splint.
-
-“Kellan cannot put weight on this leg.”
-
-His eyes opened again.
-
-“For how long?”
-
-“I do not know yet.”
-
-That answer mattered.
-
-No promise.
-
-No dramatic sentence about walking again.
-
-Just not yet.
-
-“We need the swelling down,” she continued. “We need to see how the tissue responds. We need to watch circulation. We need to keep the fractures stable.”
-
-Kellan swallowed.
-
-“And the shoulder?”
-
-“Badly bruised. Possibly strained. I need the swelling down before I say more.”
-
-He closed his eyes again. Sela looked at me.
-
-“Your body recovering does not reduce any of that.”
+He closed his eyes. Sela looked at me. "Your recovery changes none of that."
 
 I did not answer. She did not need one. For the next hour, I stayed out of the way.
 
-That was harder than it sounded. People moved through the treatment house with blood on their clothes and mud on their boots. Some had animal bites. Some had cuts from carts, fences, tools, broken roadwork. One militia guard had a torn hand from dragging someone across a collapsed approach.
+Harder than it sounded. People moved through the treatment house with blood and mud on their clothes. Animal bites.
 
-Nobody had time to ask who had started what. Kellan drifted in and out. When the pain tonic started working, his breathing finally deepened.
+Cuts from carts. Broken fences. Collapsed roadwork.
 
-Sela changed the dressing once. The bleeding held. The leg stayed where she put it.
+One militia guard had a torn hand from dragging somebody off a failed approach. Nobody had time to ask who started what. Kellan drifted in and out.
 
-That was the success.
+Pain tonic finally slowed his breathing. Sela changed the dressing once. The bleeding held.
 
-Not healed.
+The leg stayed where she put it. That was success. Not healed.
 
-Stable.
+Stable. I sat near the wall and watched my own wounds disappear faster than his. That asymmetry did not make me weaker.
 
-I sat beside the wall and watched my own hands stop shaking.
+It made his injury more real. When Kellan woke properly, he turned his head toward me. "You still here?"
 
-That was the difference.
+"Yes."
 
-My body kept taking things from the problem. His did not. When Kellan woke properly, Sela was checking another patient.
+He looked at my side. "You look better."
 
-He turned his head toward me.
+"I am."
 
-“You still here?”
+Silence. Then: "I wanted the stake stopped."
 
-“Yes.”
+"I know."
 
-He looked at my side.
+"I helped you."
 
-“You look better.”
+"Yes."
 
-“I am.”
+"I blocked the Guild man."
 
-He stared at the ceiling for a moment.
+"Yes."
 
-I said nothing. After a moment, he looked back at me.
+His mouth tightened. "Do not use that."
 
-“I wanted the stake stopped.”
+"I wasn't going to."
 
-“I know.”
+"Good."
 
-“I helped you.”
+He shifted and stopped when pain moved through him. "I wanted that thing gone because it was pushing danger at our farms."
 
-“Yes.”
+"I know."
 
-“I blocked the Guild man.”
+"I still do."
 
-“Yes.”
+Sela looked over. "Kellan."
 
-His mouth tightened.
+"I am talking."
 
-“Do not use that.”
+"You are supposed to rest."
 
-“I wasn’t going to.”
+"I can do both."
 
-“Good.”
+"No."
 
-He shifted slightly and immediately stopped. Pain moved through his face.
+He ignored her. Barely. His eyes stayed on me. "I did not know what the rest of the network would do."
 
-“I wanted that thing gone because it was pushing danger at our farms.”
+"Neither did I."
 
-“I know.”
+"You knew enough to know it could go bad."
 
-“I still do.”
+"Yes."
 
-Sela looked over from the next table.
+"So did I."
 
-“Kellan.”
+No relief. Then: "But you pulled it."
 
-“I am talking.”
+"Yes."
 
-“You are supposed to be resting.”
+"Not me."
 
-“I can do both.”
+"No."
 
-“No.”
+He breathed carefully. "And Hesk built the damned system."
 
-He ignored her. Barely. His eyes stayed on me.
+"Yes."
 
-“I did not know what the rest of the network would do.”
+"Do not give him my leg."
 
-“Neither did I.”
+I looked at him. "Do not make this proof that he was right about everything."
 
-“You knew enough to know it could go bad.”
+"I won't."
 
-“Yes.”
+"And do not make me proof that you were."
 
-“So did I.”
+That landed harder. "I won't." He closed his eyes. "Good."
 
-That did not feel like relief. He continued.
+Sela crossed over and adjusted the blanket. "You are done now." Kellan did not argue.
 
-“But you pulled it.”
+A militia runner had already brought Brynn's summons. Sela looked at me. "Council?"
 
-“Yes.”
+"Yes."
 
-“Not me.”
+"Then go."
 
-“No.”
+I looked at Kellan. Sela followed my gaze. "He is alive."
 
-He breathed carefully.
+"I know."
 
-“And Hesk built the damned system.”
+"That is not the same as fine."
 
-“Yes.”
+"I know."
 
-“Do not give him my leg.”
+Outside, Greywake sounded different. More horns. More boots.
 
-I looked at him. He held my eyes.
+Wagons moving in the wrong direction. The lower approach had been cleared for militia traffic. Workers hauled barriers toward the gate.
 
-“Do not make this proof that he was right about everything.”
+Someone had marked one road with red cloth I could understand without literacy. The council house doors stood open. Inside, maps covered the emergency table.
 
-“I won’t.”
+Maelis stood with copied record packets. Tavian stood at the map. Brynn still wore her field coat.
 
-“And do not make me proof that you were.”
-
-That landed harder.
-
-“I won’t.”
-
-He closed his eyes.
-
-“Good.”
-
-Sela crossed the room and adjusted the blanket over him.
-
-“You are done now.”
-
-Kellan did not argue this time. I stood. Sela looked at me.
-
-“You leaving?”
-
-“Council.”
-
-A militia runner had arrived ten minutes earlier with Brynn’s summons. Sela nodded once.
-
-“Then go.”
-
-I looked at Kellan. His eyes remained closed. Sela followed my gaze.
-
-“He is alive.”
-
-“I know.”
-
-“That is not the same as fine.”
-
-“I know.”
-
-She turned back to her work. I left. Greywake sounded different outside.
-
-More horns. More boots. Wagons moving in the wrong direction.
-
-People being told to leave roads they normally trusted. The lower approach had been partially cleared for militia traffic. Workers were hauling barriers toward the gate. Someone had marked one road with a red cloth warning I could understand without reading.
-
-The council house doors were open. Two guards stood outside. Neither stopped me.
-
-Inside, the emergency chamber had lost the careful stillness of earlier meetings. Maps covered the table. Markers had been moved since morning.
-
-Maelis stood on one side with three copied record packets. Tavian stood at the map. Brynn had not removed her field coat.
-
-Hesk stood opposite them. He looked rested compared to the rest of us. Not because he was calm.
-
-Because he had not spent the last several hours under a bridge. One council representative spoke as I entered.
-
-“We cannot leave the outer pressure uncontrolled.”
-
-Hesk answered.
-
-“We cannot leave any of it uncontrolled.”
+Hesk stood opposite them. A representative was saying: "We cannot leave outer pressure uncontrolled." Hesk answered. "We cannot leave any of it uncontrolled."
 
 His eyes moved to me. No smile. No satisfaction.
 
-That would have made things easier. Instead, he looked like a man whose argument had just been given bodies.
+That would have been easier. Instead he looked like a man whose argument had just been given bodies. "The hold order was clear."
 
-“The hold order was clear,” he said.
+I stopped near the table. "Yes."
 
-I stopped near the table.
+"You violated it."
 
-“Yes.”
+"Yes."
 
-“You violated it.”
+"The lure failed."
 
-“Yes.”
+"I removed it."
 
-“The lure failed.”
+"Backflow followed."
 
-“I removed it.”
+"Yes."
 
-“Backflow followed.”
+Quiet room. Hesk did not need to raise his voice. "The seasonal crossing is gone. Outer routes are collapsing into each other. Movement reached the lower Greywake approach."
 
-“Yes.”
+Brynn said, "We know." "Then stop debating whether centralized control is offensive and start using it." Maelis's expression hardened.
 
-The room stayed quiet. Hesk did not need to raise his voice.
+Hesk placed one hand on the map. "The strongest remaining outer lures should be brought back to full operation." I saw Kellan's leg again.
 
-“The seasonal crossing is gone. Outer routes are collapsing into each other. Movement has reached the lower Greywake approach.”
+Hesk continued. "Restore pressure away from Greywake. Reopen the protected corridor. Guild handlers know the equipment. I have route records, crews, compounds, and people who can operate them before the next movement line reaches the walls."
 
-Brynn said, “We know.”
+Brynn looked at him. "Under whose authority?"
 
-“Then we should stop debating whether centralized control is offensive and start using it.”
+"Mine."
 
-Maelis’s expression hardened. Hesk placed one hand on the map.
+There it was. "Emergency authority over Road Guild lure operations until the migration stabilizes." One council member looked to Brynn.
 
-“The strongest remaining outer lures should be brought back to full operation.”
+Another to Maelis. Hesk kept going. "This is not theoretical anymore."
 
-Kellan’s leg flashed through my head. Not as an argument. Just there.
+He pointed toward me. "Uncontrolled individual judgment already showed us the alternative." Nobody defended me.
 
-Hesk continued.
+They should not. Hesk looked directly at me. "You wanted the choice removed from my hands."
 
-“We restore pressure away from Greywake. We reopen the protected corridor. Guild handlers know the equipment. I have the route records, the crews, the compounds, and the people who can operate them before the next movement line reaches the walls.”
+"Yes."
 
-Brynn looked at him.
+"Now people are hurt because you acted before understanding what those choices were holding back."
 
-“Under whose authority?”
+"Yes."
 
-“Mine.”
+A few eyes moved my way. I did not argue. "You still think no one should choose?"
 
-There it was. Hesk did not hesitate.
+"No."
 
-“Emergency authority over Road Guild lure operations until the migration is stabilized.”
+That made him pause. I looked at the map. "Someone always chooses."
 
-One council member looked toward Brynn. Another looked toward Maelis. Hesk kept going.
+Kellan chose to support me. Tavian chose to warn me. Brynn chose to hold.
 
-“This is not theoretical anymore.”
+I chose to pull the stake. Hesk had chosen for years. The question had never been whether choices existed.
 
-He pointed toward me.
+It was who knew. Who paid. Who could challenge them.
 
-“Uncontrolled individual judgment has already shown us the alternative.”
+Hesk straightened. "Then you understand why authority must be centralized."
 
-No one defended me.
+"No."
 
-Good.
+His face hardened. There it was. Use my mistake.
 
-He was not wrong about that part. Hesk looked directly at me.
+Turn responsibility into obedience. Maelis spoke before I did. "CH-016 does not erase CH-013."
 
-“You wanted the choice removed from my hands.”
+Hesk looked at her. She opened one copied packet. "Your admission of deliberate diversion remains recorded."
 
-“Yes.”
+A second. "Repeated outer pressure remains documented." A third. "Manipulated reporting remains documented."
 
-“And now people are hurt because you acted before understanding what those choices were holding back.”
+Hesk said, "And Red Jackal's unauthorized alteration is documented." "Yes." Maelis looked at me. "It will be."
 
-“Yes.”
+Then Hesk. "Separate responsibility does not cancel previous responsibility." His jaw tightened. "This is not a hearing."
 
-A small shift in the room. Maybe they expected me to argue. I did not.
+"No."
 
-Hesk’s gaze narrowed.
+Maelis flattened the records. "That is why I am preserving evidence before emergency necessity becomes an excuse to erase it." Brynn looked at the copies. "Originals?"
 
-“You still think no one should choose.”
+"Split between Ledger and militia custody."
 
-“No.”
+Hesk's expression changed by almost nothing. Maelis saw it. "No single office controls the record."
 
-That made him pause. I looked at the map.
+"You are fragmenting command during a crisis."
 
-“Someone always chooses.”
+Brynn answered. "I am preventing one office from controlling both the crisis and the evidence." Hesk leaned forward. "While you preserve paperwork, migration is moving."
 
-Kellan had chosen to support me. Tavian had chosen to warn me. Brynn had chosen to hold.
+Tavian finally spoke. "He is right about that." Everyone looked at him. "Backflow is still developing."
 
-I had chosen to pull the stake. Hesk had chosen for years. The difference was not whether choices existed.
+He moved two markers. "Restoring pressure may be necessary." Hesk looked at him. "Then we agree."
 
-The difference was who paid, who knew, and whether anyone could challenge them. Hesk straightened.
+"No."
 
-“Then you understand why authority has to be centralized.”
+Tavian pointed to the map. "We do not have current geometry for every remaining lure. Strengthening the wrong sites can redirect pressure again."
 
-“No.”
+"Doing nothing also redirects pressure."
 
-His face hardened. There it was again. The part he wanted.
+"Yes."
 
-Take the mistake. Turn it into obedience. Maelis spoke before he could answer.
+"So use the system that already held the road."
 
-“CH-016 does not erase CH-013.”
+"We use current information."
 
-Hesk looked at her. She opened one of the copied packets.
+Another marker. "Not the network state from before one influence was removed." Hesk's expression went flat. "You do not have time to map everything."
 
-“Your admission of deliberate diversion remains recorded.”
+"I know."
 
-A second packet.
+"Then you are choosing delay."
 
-“Repeated outer pressure remains documented.”
+"I am choosing not to repeat Red's mistake with more equipment."
 
-A third.
+That landed. Tavian did not look at me. He did not need to.
 
-“Loss-report manipulation remains documented.”
+Brynn stepped closer. "Here is what happens now." Nobody interrupted. "Militia command remains with me. Guild technical crews operate under shared emergency tasking."
 
-Hesk said, “And Red Jackal’s unauthorized alteration is now documented too.”
+Hesk's mouth tightened. "Shared with whom?"
 
-“Yes.”
+"Militia witness. Guild technician. Route confirmation from Tavian or someone he designates."
 
-No hesitation. Maelis looked at me.
+Maelis added, "Every service action recorded." "You are putting four hands on every decision."
 
-“It will be.”
+"Yes."
 
-Then back to Hesk.
+"We do not have time."
 
-“Separate responsibility does not cancel previous responsibility.”
+"We also do not have time for another hidden decision no one understands."
 
-Hesk’s jaw tightened.
+Hesk looked at the map. "How long?" Tavian answered. "Not long."
 
-“This is not a hearing.”
+"That is not a number."
 
-“No.”
+"No."
 
-Maelis placed the records flat on the table.
+"But route reports are arriving now. Give me every current lure site, current charge state, and service history you still control."
 
-“That is why I am preserving the evidence before emergency necessity becomes an excuse to destroy it.”
+Hesk did not answer. Brynn's voice turned colder. "Not optional."
 
-Brynn looked at the copied packets.
+He looked around the table. Then: "You will have them." Not surrender.
 
-“Where are the originals?”
+Not defeat. Temporary shift. One representative asked, "And the strongest outer lures?"
 
-“Split.”
+Brynn answered. "Not reactivated until we know what they push into."
 
-“Between?”
+"People may die while you wait," Hesk said.
 
-“Ledger custody and militia custody.”
+Brynn looked at him. "Yes." No one pretended otherwise. "People may also die if we restore them wrong."
 
-Hesk’s expression changed. Barely. Maelis saw it.
+The next report arrived before anyone could make the argument cleaner. A runner entered. "Movement on the lower western approach."
 
-“So no single office can alter the record.”
+Tavian moved before the runner finished. "Species?"
 
-Hesk looked at Brynn.
+"Mixed. Mostly smaller herd animals. Predator calls behind."
 
-“You approved that?”
+"Distance?"
 
-“I did.”
+The runner answered. Tavian started moving markers. Brynn started giving orders.
 
-“You are fragmenting command during a crisis.”
+Maelis gathered records. Hesk moved to the Guild packets. Everyone had something to do.
 
-“I am preventing one office from controlling the crisis and the evidence about how we got here.”
+I stood there. That was when being right about Hesk stopped giving me anywhere to hide. I had been right.
 
-He leaned forward.
+He hid the lures. Manipulated the reports. Decided which roads could absorb danger.
 
-“And while you preserve paperwork, the migration is moving.”
+Treated outer communities as something Greywake could spend. All true. I had still been wrong to pull the stake when I did.
 
-Tavian finally spoke.
+Also true. Both fit in the same room. I did not like that.
 
-“He is right about that.”
-
-Everyone looked at him. Tavian pointed to the map.
-
-“Backflow is still developing.”
-
-He moved two markers.
-
-“Restoring pressure may be necessary.”
-
-Hesk looked at him.
-
-“Then we agree.”
-
-“No.”
-
-Tavian did not raise his voice.
-
-“We do not have current geometry for every remaining lure. Strengthening the wrong sites can redirect pressure again.”
-
-Hesk said, “Doing nothing will also redirect pressure.”
-
-“Yes.”
-
-“So we use the system that already held the main road.”
-
-“We use information.”
-
-Tavian tapped the map.
-
-“Updated information.”
-
-Another point.
-
-“Not the network state from before one of its influences was removed.”
-
-Hesk’s expression went flat.
-
-“You do not have time to map everything.”
-
-“I know.”
-
-“Then you are choosing delay.”
-
-“I am choosing not to repeat Red’s mistake with more equipment.”
-
-That landed. On me too. Tavian did not look at me.
-
-He kept his attention on the map.
-
-“Controlled intervention may be necessary. Blind restoration is not controlled intervention.”
-
-Brynn stepped closer.
-
-“Here is what happens now.”
-
-Nobody interrupted.
-
-“Militia command remains with me.”
-
-Hesk’s mouth tightened.
-
-“Guild technical crews can operate under emergency tasking.”
-
-“Under my authority?”
-
-“No.”
-
-“Then whose?”
-
-“Shared.”
-
-Hesk gave a short breath through his nose. Brynn continued.
-
-“No lure changes without one Guild technician, one militia witness, and route confirmation from Tavian or someone he designates.”
-
-Maelis added, “And the service action is recorded.” Hesk looked between them.
-
-“You are putting four hands on every decision.”
-
-“Yes.”
-
-“We do not have time for that.”
-
-Brynn pointed toward the doors.
-
-“We also do not have time for another hidden decision no one else understands.”
-
-Hesk looked at the map again.
-
-“How long?”
-
-Brynn glanced at Tavian. He answered.
-
-“Not long.”
-
-“That is not a number.”
-
-“No.”
-
-Tavian moved another marker.
-
-“But we have route reports coming in now. Give me every current lure site, current charge state, and service history you still control.”
-
-Hesk did not answer immediately. Brynn’s voice went colder.
-
-“That was not optional.”
-
-He looked at her. Then at Maelis. Then at me.
-
-Finally back to Tavian.
-
-“You will have them.”
-
-Not surrender. Not defeat. A temporary shift.
-
-That was all anyone had time for. One of the council representatives asked, “And the strongest outer lures?” Brynn answered.
-
-“Not reactivated until we know what they would push into.”
-
-Hesk said, “People may die while you wait.” Brynn looked at him.
-
-“Yes.”
-
-No one in the room pretended otherwise. She continued.
-
-“People may also die if we restore them wrong.”
-
-That ended the argument for now. Not because anyone had won. Because the next report arrived.
-
-A militia runner entered with mud up both legs.
-
-“Movement on the lower western approach.”
-
-Tavian was at the map before the runner finished.
-
-“Species?”
-
-“Mixed. Mostly smaller herd animals. Predator calls behind.”
-
-“Distance?”
-
-The runner answered. Tavian started moving markers. Brynn began giving orders.
-
-Maelis gathered her records. Hesk stepped toward his side of the table where the Guild route packets were kept. Everyone had something to do.
-
-I stood there. That was when being right about Hesk stopped offering anywhere to hide. I had been right about Hesk.
-
-He had hidden the lures. He had manipulated the reports. He had decided which roads could absorb danger.
-
-He had treated the outer homesteads as the part of Greywake that could be spent. All of that was still true. And I had still been wrong to pull the stake when I did.
-
-Both things fit in the same room. I did not like that. It did not matter.
-
-Tavian looked up from the map.
-
-“We need route observations from the disabled site.”
+It did not matter. Tavian looked up. "We need route observations from the disabled site."
 
 I had them. Every track. Every call.
 
 Which side had been screened. Where the first herd crossed. Where the ridge-hounds appeared.
 
-I knew because I had been there. Because I had caused the change. I stepped toward the table.
+I knew because I had been there. Because I caused the change. I stepped toward the table.
 
-Hesk looked at me.
+Hesk looked at me. "You have contributed enough improvisation." I stopped.
 
-“You have already contributed enough improvisation.”
+Not because he told me. Because part of me wanted to hit the sentence instead of answer it. Brynn noticed. "So don't improvise."
 
-I stopped. Not because he told me to. Because part of me wanted to hit the sentence instead of answer it.
+I looked at her. "Then what?"
 
-Brynn noticed.
+"Report what you saw."
 
-“So don't improvise.”
+Maelis added, "Only what you saw." Tavian said nothing. He was waiting.
 
-I looked at her.
+I gave them the route. First herd from the screened side. Ridge-hounds from another angle.
 
-“Then what?”
+Smaller animals through lower brush. Calls shifted before visible movement. Tavian moved markers while I spoke.
 
-“Report what you saw.”
+He corrected one directional estimate. I let him. Maelis wrote.
 
-Maelis added, “Only what you saw.” Tavian said nothing. That was worse than being ordered.
-
-He was waiting to see what I did. I gave them the route. The first herd came from the screened side.
-
-Ridge-hounds followed from another angle. Then smaller animals crossed the lower brush. Calls shifted before visible movement.
-
-I described where. Tavian moved markers while I spoke. He corrected one of my directional estimates.
-
-I let him. Maelis wrote. Brynn listened.
-
-Hesk did not interrupt. When I finished, Tavian looked at the map.
-
-“This helps.”
+Brynn listened. Hesk did not interrupt. When I finished, Tavian looked at the map. "This helps."
 
 Not forgiveness. Not approval. Useful.
 
-That was enough. Another runner entered. Brynn turned away.
+Enough. Outside, the air felt colder. From the council steps I could see people moving barricades toward the lower road.
 
-The room moved again. I stepped outside. The air was colder than it had been that morning.
+A cart rolled toward Sela's treatment house carrying supplies instead of patients. For now. The bridge was gone.
 
-From the council steps, I could see people moving barricades toward the lower road. A cart rolled toward the treatment house carrying supplies instead of patients. For now.
+Kellan was in a splint. My wounds were almost gone. That did not make the consequences disappear.
 
-The bridge was gone. Kellan was in a splint. My side had almost closed.
+Hesk had been right about one thing. Someone had to choose. He turned that sentence into ownership.
 
-I flexed my hand. Still weak. Still mine.
+I had made the opposite mistake and acted as if choosing for myself could never choose for anyone else. Neither version worked. Brynn came out. "We are moving the emergency route board to the militia yard."
 
-That mattered too. Hesk had been right about one thing. Someone had to choose.
+"Tavian?"
 
-He had made that sentence into a claim of ownership. I had made the opposite mistake. I had treated choosing for myself as if it could not choose for anyone else.
+"Coming."
 
-Neither version worked anymore. Brynn came out behind me.
+"Maelis?"
 
-“We are moving the emergency route board to the militia yard.”
+"Records."
 
-I looked at her.
+"Hesk?"
 
-“Tavian?”
+"Guild inventories."
 
-“Coming.”
+Not in charge. Still useful. Complicated.
 
-“Maelis?”
+I looked toward the treatment house. Then the militia yard. Leaving would have been easier.
 
-“Records.”
-
-“Hesk?”
-
-“Guild inventories.”
-
-Not in charge.
-
-Still necessary.
-
-Complicated.
-
-I looked toward the treatment house. Then toward the militia yard. Leaving would have been easier.
-
-I could have told myself Greywake had its experts now. That I had made things worse once already. That staying would only give Hesk more reasons to point at me.
+I could have told myself Greywake had experts now. That I had made things worse already. That staying gave Hesk one more reason to point at me.
 
 All true enough to hide inside. I did not move toward the gate. I went with Brynn.
 
-At the militia yard, Tavian had already spread a fresh route map across a work table. Maelis arrived with copied service records. Two militia runners waited for assignments.
+At the militia yard, Tavian spread a fresh route map across a work table. Maelis arrived with copied service records. Two runners waited.
 
-I put my hands on the edge of the table.
+I put my hands on the table. No performance. No claim to command. "What do you need from me?"
 
-No performance.
+Tavian looked at me for a long second. Then pointed beside the map. "Everything you remember from the disabled site. Exact order."
 
-No claim to command.
+I stayed. Not because Hesk was right. Not because Greywake owned me.
 
-No attempt to decide the whole thing alone.
-
-“What do you need from me?”
-
-Tavian looked at me for a long second. Then pointed to the empty space beside the map.
-
-“Everything you remember from the disabled site. Exact order.”
-
-I stayed.
-
-Not because Hesk was right.
-
-Not because Greywake owned me.
-
-Because I had helped break this.
-
-I was going to help repair it.
+Because I had helped break this. I was going to help repair it.

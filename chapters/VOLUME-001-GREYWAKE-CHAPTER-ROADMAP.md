@@ -328,14 +328,14 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Primary Objective:** Determine why predators/prey are crossing incompatible routes.  
 **Conflict:** Evidence contradicts Guild migration maps.  
 **Exploration Purpose:** Deepen Hollow March ecology and teach readers how local experts read monster movement.  
-**Character Beat:** Red Jackal must follow someone else's expertise instead of improvising everything.  
-**Red Jackal Stable-Character Beat:** Not knowing the local rules makes his rule-breaking less useful, so he follows Tavian's information for this scene without becoming more obedient.  
+**Character Beat:** Tavian's expertise provides information Red cannot obtain by raw force; Red chooses to use that expertise while remaining self-directed.  
+**Red Jackal Stable-Character Beat:** Not knowing the local rules makes raw capability irrelevant to the evidence problem, so he uses Tavian's information without becoming more obedient.  
 **Anti-Villain Expression:** Curiosity pushes him to make one deliberate, unnecessary field test/probe of the abnormal route pattern despite Tavian preferring observation first. The test creates a localized complication that feeds the planned displaced-pack pressure. Red Jackal must admit he did it because he wanted to know what would happen, not because it was necessary.  
-**Reputation / Threat Perception:** Tavian shifts from “reckless anomaly” toward **dangerous wildcard**. The concern is not raw strength; it is that Red Jackal combines unusual survivability, nonstandard manifestations, curiosity, and incomplete judgment. Tavian still sees clear limits and does not treat him as overpowered.  
+**Reputation / Threat Perception:** Tavian shifts from “reckless anomaly” toward **dangerous wildcard**. The concern is that Red Jackal combines abnormal survivability, nonstandard manifestations, an unknown capability ceiling, curiosity, and incomplete judgment. Tavian does not know the writer-level truth of Red's power and cannot safely assume a fixed limit.  
 **Supporting Development:** Tavian gains narrative authority through competence.  
 **Antagonist Pressure:** Guild-post data and physical evidence disagree.  
 **Action Progression:** Tracking suspense with one displaced pack encounter.  
-**Play Logic Display Choice:** Small utility only.  
+**Play Logic Display Choice:** One small utility obstruction by scene choice; not a capability maximum.  
 **Regeneration Consequence:** None required.  
 **Aura-Farming Opportunity:** Minimal; this chapter privileges observation.  
 **Comedy Opportunity:** Red Jackal is annoyed by how useful careful tracking is.  

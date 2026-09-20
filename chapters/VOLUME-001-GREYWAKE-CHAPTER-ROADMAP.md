@@ -39,8 +39,8 @@ Power interpretation changes to:
 - specialists remain necessary for knowledge, evidence, evacuation, logistics, and judgment;
 - climax spectacle may reveal far more power without calling it a power-up.
 
-**Soul-Drift Synchronization:** CH-001→CH-011 CURRENT — Gate 9 PASS (2026-09-20); CH-012→CH-026 prose remains pending sequential synchronization.  
-**Next Rewrite:** CH-012 — Someone Put This Here.
+**Soul-Drift Synchronization:** CH-001→CH-026 CURRENT — Gate 9 PASS (2026-09-20); Greywake manuscript synchronization COMPLETE.  
+**Next Rewrite / Volume 2 Handoff:** CH-027 — Salt in the Air.
 
 # 1. Roadmap Principles
 
@@ -1036,3 +1036,13 @@ The only authorized next planning step is:
 **CH-001 — Wrong Forest, Wrong World: Detailed Scene Architecture**
 
 No final manuscript prose or final dialogue is authorized by this roadmap.
+
+
+# Current Soul-Drift Synchronization Authority — 2026-09-20
+
+This section supersedes any historical pre-reset production-status statements elsewhere in this file.
+
+- **CH-001→CH-026:** CURRENT CANON — Soul-Drift / close first-person / final story engine — Gate 9 PASS.
+- **CH-027 — Salt in the Air:** event/scene sequence preserved, prose STALE — Soul-Drift rewrite + Gate 9 revalidation REQUIRED.
+- **CH-028 — The Man on the Manifest:** PAUSED until CH-027 completes the synchronization cycle.
+- **Official next step:** **CH-027 — Salt in the Air → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**

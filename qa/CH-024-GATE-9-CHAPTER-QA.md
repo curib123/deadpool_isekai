@@ -2,9 +2,9 @@
 
 **Chapter:** CH-024 — No One Gets Chosen  
 **Manuscript:** `manuscript/CH024-NO-ONE-GETS-CHOSEN.md`  
-**Review Date:** 2026-09-20  
-**Status:** PASS — CURRENT CANON REVALIDATED  
-**Word Count:** 1371
+**Review Date:** 2026-09-20
+**Status:** PASS — CURRENT CANON REVALIDATED / BATTLE QA PASS
+**Word Count:** 1960
 
 > **Final-engine authority note (2026-09-20):** Any legacy wording below that treats Stage labels, manifestation counts, fatigue, injury, or regeneration as a raw-capacity/progression limit is superseded by the current manuscript, current scene-architecture override, and Soul-Drift / Final Story-Engine revalidation. Event/reveal/knowledge checks remain authoritative.
 
@@ -16,6 +16,25 @@
 - guide remains stable and is released after route commitment;
 - Jessa/Brynn/Maelis/Tavian retain distinct essential roles;
 - Hesk loses operational control without ideological simplification.
+
+# Battle / Scene QA Revalidation — 2026-09-20
+
+**Battle ID:** V1-B09  
+**Standards:** `qa/BATTLE-SCENE-QA-STANDARD.md` + `qa/SCENE-QA-STANDARD.md`
+
+Human/tactical climax: Red/Brynn/Tavian/Maelis/Jessa vs Hesk's active lure intervention while the migration remains live. Red physically intercepts Hesk but does not own detention or neutralization; Brynn, Jessa, Tavian and Maelis each provide indispensable independent actions.
+
+- matchup identity/topology — **PASS**
+- action geography — **PASS**
+- opponent/hostile-force objective — **PASS**
+- topology/objective escalation — **PASS**
+- supporting-character competence — **PASS**
+- Red final-story-engine power model — **PASS**
+- no Stage/use-count/stamina ceiling — **PASS**
+- scene turns / causal handoffs — **PASS**
+- battle consequence — **PASS**
+- prose cadence after line-edit normalization — **PASS**
+- no protected-cosmology leakage — **PASS**
 
 # Severity Review
 

@@ -147,6 +147,8 @@ If any critical requirement fails: **FAIL — RESELECT OR RETURN TO DESTINATION 
 - Is the following volume still unselected?
 - Are chapter count, chapter titles, scene order, dialogue, and manuscript prose still deferred?
 
+Gate 6 must also include the arc Battle Composition Map required by `qa/BATTLE-SCENE-QA-STANDARD.md` whenever the destination conflict supports combat.
+
 If any CRITICAL or MAJOR item fails: **FAIL — RETURN TO THE OWNING AGENT AND RE-RUN GATE 6.**
 
 # Gate 7 — Chapter Roadmap QA
@@ -173,6 +175,8 @@ If any CRITICAL or MAJOR item fails: **FAIL — RETURN TO THE OWNING AGENT AND R
 - Are continuity and knowledge-state dependencies explicit enough for later scene planning?
 - Is the following volume still unselected?
 - Are detailed scenes, final dialogue, and manuscript prose still deferred?
+
+Gate 7 must identify the planned matchup topology for every battle/action chapter and verify arc-level variety against `qa/BATTLE-SCENE-QA-STANDARD.md`.
 
 If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO CHAPTER ARCHITECT AND RE-RUN ROADMAP QA.**
 
@@ -203,6 +207,8 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO CHAPTER ARCHITECT AND
 - Are final dialogue and manuscript prose still absent?
 - Is the next chapter's Scene Architecture still deferred until this chapter passes its own manuscript QA?
 
+Each scene must also pass `qa/SCENE-QA-STANDARD.md`. Any scene containing meaningful hostile action must include a Battle Matchup Card and pass `qa/BATTLE-SCENE-QA-STANDARD.md`.
+
 Each chapter's dedicated Gate 8 QA record must add its chapter-specific checks (for example language handling, System intake, combat limits, a planned F-ID, or a particular cast boundary).
 
 If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO SCENE ARCHITECT AND RE-RUN PRE-MANUSCRIPT QA.**
@@ -211,6 +217,8 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO SCENE ARCHITECT AND R
 **Owner:** A120 with specialists.
 
 ## Story
+- Did every scene pass Scene QA purpose/turn/handoff requirements?
+- If battle/action occurs, did it pass Battle QA matchup/action-geography/topology/consequence requirements?
 - Did something meaningful change?
 - Did conflict, character, exploration, mystery or relationships advance?
 - Is the ending earned?
@@ -333,3 +341,8 @@ A CANON chapter is not automatically PUBLISH-READY.
 External release requires a derived publication copy and Gate 11 PASS.
 
 The canon manuscript remains the single source of truth.
+
+
+## Gate 10 Battle Variety Requirement
+
+Volume/arc revalidation must include the Battle Variety Audit from `qa/BATTLE-SCENE-QA-STANDARD.md`: matchup topology, objectives, terrain, participant sets, Red's role, supporting-character decisive actions, results and lasting consequences. A climax may not pass by scale alone if it repeats earlier fight structure.

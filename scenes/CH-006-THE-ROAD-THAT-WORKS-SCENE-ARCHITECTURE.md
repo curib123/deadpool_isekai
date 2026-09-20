@@ -8,6 +8,20 @@
 **POV:** Red Jackal first person  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
+# Soul-Drift / Final Story-Engine Override
+
+The five-scene CH-006 event sequence remains locked.
+
+Current interpretation:
+- Red is already overwhelmingly powerful; CH-006 contains no raw-power progression, recovery gate, Stage system, cooldown, or manifestation-resource limit.
+- CH-005 taught Red an observational framing clue, not a new capacity tier.
+- CH-006 intentionally contains **no Play Logic manifestation** because the situation does not require one and Red does not need to display the anomaly merely to dominate a scene.
+- Red's choice to follow Tavian's positioning is tactical respect for superior local expertise, not weakness, obedience, moral growth, or reduced capability.
+- Tavian remains independently competent and useful because knowledge, route geometry, rescue judgment, and ecology matter even when Red could overwhelm a physical threat.
+- any old reference below to Stage I, tiring manifestation, costly anomaly use, or power recovery is superseded by this override.
+- genuine audience address invokes Fourth-Wall Pause every time.
+- CH-006 introduces no new F-ID, does not advance F-004, protects F-003, and leaves M-007 inactive.
+
 # 1. Chapter Purpose Lock
 
 CH-006 must move Red Jackal from:
@@ -51,8 +65,8 @@ Red Jackal begins CH-006 knowing:
 - the Main Caravan Road is heavily maintained because Greywake depends on it;
 - intentional manifestation is possible;
 - vague category-thinking produced a poor result in CH-005;
-- clear functional framing produced a better result;
-- manifestation remains temporary, unstable, and tiring;
+- clear functional framing produced a materially different, more task-aligned result in CH-005;
+- the two CH-005 hammer expressions were temporary in that scene; no universal duration or resource ceiling was established;
 - his ability does not look like ordinary prepared Guild sigilcraft;
 - he still cannot read Veyran writing;
 - his Unverified Entrant status remains active;
@@ -193,14 +207,14 @@ Reason:
 - Tavian's introduction should be won through specialist competence;
 - Red Jackal should learn that not every problem needs his anomaly;
 - CH-005 already established the new power rule;
-- withholding use prevents an early impression of reliable manifestation spam.
+- withholding use keeps the focus on Tavian's expertise and avoids unnecessary public display; it is not evidence that Red cannot manifest again.
 
 Red Jackal may briefly consider using the CH-005 working rule during danger, but Tavian's practical positioning/guard response solves the immediate problem before a manifestation is necessary.
 
 Do not:
 - add a new manifestation mechanic;
 - improve duration/control;
-- introduce Stage II behavior;
+- introduce any mastery-tier or progression behavior;
 - give a System Skill result.
 
 # 8. Regeneration / F-003 Lock
@@ -304,7 +318,7 @@ He knows:
 - the Main Caravan Road is profitable and heavily maintained;
 - Guild road workers/guards are competent;
 - private jobs can pay;
-- his anomaly is useful but costly.
+- his anomaly is useful, but he does not need to display it when ordinary positioning already solves the problem.
 
 ### Supporting Character Knowledge
 
@@ -381,7 +395,7 @@ No focus.
 
 ### Continuity Dependencies
 
-CH-005 job payment and Stage I fatigue are already resolved enough for ordinary work; no new power recovery statement required.
+CH-005 is complete; CH-006 requires no power-recovery statement because no magical resource depletion was established.
 
 ### Knowledge Restrictions
 

@@ -30,7 +30,7 @@
 **PASS** — CH-021–CH-024 remain the climax range, with CH-020 functioning only as ignition.
 
 ## Power
-**PASS** — Stage I ceiling remains; no extra climax tier or automatic manifestation increase is authorized.
+**PASS** — Red is already overwhelmingly powerful; no Stage ceiling or automatic progression is authorized. Manifestation counts remain scene-design choices rather than capability maxima.
 
 ## Mystery
 **PASS** — all existing F-ID planting locations and the bounded M-007 placement remain unchanged.

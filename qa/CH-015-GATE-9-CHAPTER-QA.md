@@ -2,11 +2,20 @@
 
 **Chapter:** CH-015 — One Stake Too Many  
 **Manuscript:** `manuscript/CH015-ONE-STAKE-TOO-MANY.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 2,846
+**Review Date:** 2026-09-20  
+**Status:** PASS — CURRENT CANON REVALIDATED  
+**Word Count:** 2001
 
 **Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A097 Prose Editor, A096 Imagination Scene Designer, A037 Power Balance Editor, A042 Character Arc Editor, A044 Supporting Character Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A111 Logic Editor
+
+# Soul-Drift / Final Story-Engine Revalidation
+
+- close first-person narration confirmed;
+- Red acts after fully understanding Tavian's warning; the choice remains an informed anti-villain mistake;
+- regeneration is autonomous/painful but has no finite resource model;
+- the single pry-tool manifestation is task selection, not a Stage/use ceiling;
+- Red could use greater force but avoids rupturing unknown alchemical hardware;
+- CH-016 retains ownership of the large backflow reversal.
 
 # Scope
 
@@ -20,7 +29,7 @@ Gate 9 reviewed the complete CH-015 manuscript against:
 - Kellan Dorr's bounded local-support role;
 - Road Guild personnel's legitimate safety/evidence role;
 - Red Jackal's informed anti-villain choice;
-- exactly-one-Stage-I-utility restriction;
+- one task-specific utility manifestation by scene design;
 - regeneration pain/fatigue limits;
 - no-new-F-ID restriction;
 - M-007 inactivity;
@@ -67,7 +76,7 @@ No canon event, scene order, character decision, power use, or ending was change
 | Red personally owns the final decision | PASS |
 | Red knowingly violates the order | PASS |
 | Red knowingly accepts incomplete-network risk | PASS |
-| One Stage I utility manifestation physically disrupts the lure | PASS |
+| One bounded-looking utility utility manifestation physically disrupts the lure | PASS |
 | No second manifestation occurs | PASS |
 | Lure shutdown is mechanical/physical, not magical cancellation | PASS |
 | Ending shows only first consequence signal | PASS |
@@ -220,7 +229,7 @@ Red:
 - does not seriously injure Tavian or Guild personnel;
 - does not pretend the action is authorized.
 
-Exactly one Stage I utility manifestation appears:
+Exactly one bounded-looking utility utility manifestation appears:
 
 - simple hooked pry/wedge;
 - physical;
@@ -229,7 +238,7 @@ Exactly one Stage I utility manifestation appears:
 - shaped around immediate leverage;
 - no network control;
 - no remote effect;
-- no Stage II behavior.
+- no bounded-looking utilityI behavior.
 
 The technician's emergency guidance about where not to apply force is consistent with minimizing additional damage once Red has already forced the situation. It is not approval of the alteration.
 
@@ -319,7 +328,7 @@ Red's action is not secretly rewritten as unquestionably heroic.
 
 **PASS.**
 
-The manuscript contains one Stage I manifestation only.
+The manuscript contains one task-specific manifestation only.
 
 Properties:
 
@@ -331,7 +340,7 @@ Properties:
 - no magical deactivation command;
 - no second major attempt.
 
-Volume 1 remains Stage I.
+Volume 1 remains bounded-looking utility.
 
 # Regeneration Review
 
@@ -429,7 +438,7 @@ After canonization:
 - Tavian's opposition and warning become canon;
 - Kellan's bounded support becomes canon;
 - Road Guild personnel's legitimate opposition becomes canon;
-- one Stage I hooked pry/wedge manifestation becomes canon;
+- one bounded-looking utility hooked pry/wedge manifestation becomes canon;
 - Red's injury/abnormal recovery during the action becomes canon;
 - one east-outer march-lure becomes physically disabled;
 - distant monster calls changing direction becomes canon;

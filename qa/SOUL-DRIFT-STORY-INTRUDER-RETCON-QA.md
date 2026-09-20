@@ -213,7 +213,7 @@ Older historical files may contain legacy wording only where explicitly marked s
 
 CH-001→CH-027 event structures remain continuity references.
 
-CH-001 through CH-011 prose are now **CURRENT** under this retcon. CH-012→CH-027 prose remains **STALE** because the new standard changes:
+CH-001 through CH-026 prose are now **CURRENT** under this retcon. CH-027 prose remains **STALE** because the new standard changes:
 - first-person POV;
 - memory/origin;
 - Fourth-Wall Pause;
@@ -234,7 +234,7 @@ CH-001 through CH-011 synchronization are COMPLETE — Gate 9 PASS.
 
 Then continue sequentially from CH-012:
 
-**CH-012 → CH-013 → … → CH-027**
+**CH-027**
 
 After CH-001→CH-026:
 - rerun Volume 1 Gate 10;
@@ -245,3 +245,16 @@ After CH-027 passes the new Gate 9:
 - unpause CH-028.
 
 **CH-028 remains PAUSED until then.**
+
+
+CH-001 through CH-026 synchronization are COMPLETE — Gate 9 PASS.
+
+
+# Current Soul-Drift Synchronization Authority — 2026-09-20
+
+This section supersedes any historical pre-reset production-status statements elsewhere in this file.
+
+- **CH-001→CH-026:** CURRENT CANON — Soul-Drift / close first-person / final story engine — Gate 9 PASS.
+- **CH-027 — Salt in the Air:** event/scene sequence preserved, prose STALE — Soul-Drift rewrite + Gate 9 revalidation REQUIRED.
+- **CH-028 — The Man on the Manifest:** PAUSED until CH-027 completes the synchronization cycle.
+- **Official next step:** **CH-027 — Salt in the Air → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**

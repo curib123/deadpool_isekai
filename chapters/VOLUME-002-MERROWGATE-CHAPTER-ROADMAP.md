@@ -859,4 +859,14 @@ Do not build detailed scenes for a later chapter before the active chapter passe
 
 **CH-027 Manuscript:** EVENT SEQUENCE PRESERVED / PROSE STALE UNDER SOUL-DRIFT RETCON.
 
-**Official next step:** CH-012→CH-027 Soul-Drift / close-first-person / final story-engine manuscript rewrite/revalidation cycle. CH-001 through CH-011 are complete and Gate 9 PASS. CH-028 remains paused.
+**Official next step:** CH-027 — Salt in the Air → Soul-Drift / close-first-person / final story-engine manuscript rewrite/revalidation. CH-001 through CH-026 are complete and Gate 9 PASS. CH-028 remains paused.
+
+
+# Current Soul-Drift Synchronization Authority — 2026-09-20
+
+This section supersedes any historical pre-reset production-status statements elsewhere in this file.
+
+- **CH-001→CH-026:** CURRENT CANON — Soul-Drift / close first-person / final story engine — Gate 9 PASS.
+- **CH-027 — Salt in the Air:** event/scene sequence preserved, prose STALE — Soul-Drift rewrite + Gate 9 revalidation REQUIRED.
+- **CH-028 — The Man on the Manifest:** PAUSED until CH-027 completes the synchronization cycle.
+- **Official next step:** **CH-027 — Salt in the Air → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**

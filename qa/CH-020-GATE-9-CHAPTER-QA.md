@@ -2,11 +2,21 @@
 
 **Chapter:** CH-020 — The Last Lure  
 **Manuscript:** `manuscript/CH020-THE-LAST-LURE.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 3,014
+**Review Date:** 2026-09-20  
+**Status:** PASS — CURRENT CANON REVALIDATED  
+**Word Count:** 2136
 
 **Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A097 Prose Editor, A096 Imagination Scene Designer, A037 Power Balance Editor, A042 Character Arc Editor, A044 Supporting Character Editor, A045 Antagonist Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A111 Logic Editor
+
+# Soul-Drift / Final Story-Engine Revalidation
+
+- close first-person narration confirmed;
+- Jessa's disclosure remains voluntary and precedes Red's protection;
+- reputation-based intimidation remains social uncertainty, not magical aura;
+- one gate wedge occurs because one gate needs blocking, not because one use is Red's ceiling;
+- no CH-019 magical depletion/precision penalty carries forward;
+- Red lets Hesk gain distance because curiosity and prioritization compete, preserving the stable flaw;
+- CH-021 mass-surging action remains protected.
 
 # Scope
 
@@ -20,7 +30,7 @@ Gate 9 reviewed CH-020 against:
 - Rovan Hesk's retained-reserve/fallback logic;
 - Red Jackal's protection-without-coercion requirement;
 - earned R3 intimidation ceiling;
-- one-maximum Stage I manifestation ceiling;
+- one utility manifestation by scene design;
 - CH-019 exhaustion carryover;
 - short human-confrontation ceiling;
 - CH-021 surge-preparation firewall;
@@ -80,7 +90,7 @@ No additional Gate 9 manuscript edit was required.
 | Red's earned intimidation uses reputation first | PASS |
 | No universal-fear inflation | PASS |
 | Red refuses the simple destructive option | PASS |
-| Red remains exhausted from CH-019 | PASS |
+| Red carries no magical depletion state from CH-019 | PASS |
 
 The chapter's Red development is clear:
 
@@ -224,7 +234,7 @@ He explicitly refuses because that would destroy:
 - documentary proof;
 - the value of Jessa's choice.
 
-Exactly one Stage I manifestation occurs:
+One utility manifestation occurs:
 
 **small temporary wedge at the inner gate.**
 
@@ -329,19 +339,12 @@ It is:
 - Stage I;
 - utility-only;
 - short-lived;
-- degraded by exhaustion;
-- nonlethal;
+- - nonlethal;
 - subordinate to human action.
 
 No second use occurs.
 
-CH-019 fatigue carries forward:
-- headache;
-- tremor;
-- slower pursuit;
-- leg/shoulder limitation.
-
-Regeneration does not refill stamina.
+CH-019 creates no magical stamina debt. Ordinary physical exertion may remain, but Red's underlying capability is unchanged.
 
 # Mystery / Foreshadowing
 

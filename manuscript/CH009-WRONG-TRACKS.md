@@ -2,20 +2,12 @@
 
 **Status:** SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE REVISION — GATE 9 REVALIDATION PENDING
 **Revision Date:** 2026-09-20
-**Word Count:** 2987
+**Word Count:** 2991
 **Chapter QA:** `qa/CH-009-GATE-9-CHAPTER-QA.md`
 
-I stepped out of my rented room and found Tavian waiting at the end of the lane.
+I stepped out of my rented room and found Tavian waiting at the end of the lane. Polearm over one shoulder. Field pack at his side.
 
-Polearm over one shoulder.
-
-Field pack at his side.
-
-A charged Wayfarer Tongue Token hung from one strap.
-
-No breakfast.
-
-Suspicious immediately.
+A charged Wayfarer Tongue Token hung from one strap. No breakfast. Suspicious immediately.
 
 "No."
 
@@ -31,11 +23,7 @@ Tavian stopped.
 
 "I prefer that when I speak to people."
 
-Reasonable.
-
-Still suspicious.
-
-He looked at my left side.
+Reasonable. Still suspicious. He looked at my left side.
 
 "You are still guarding it."
 
@@ -51,31 +39,17 @@ He looked at my left side.
 
 "Good."
 
-He turned.
+He turned. Apparently that was the invitation. I followed because competent people became more annoying when allowed to leave with information I wanted.
 
-Apparently that was the invitation.
+My ribs still complained if I twisted too quickly. They were allowed to complain. They had been broken recently.
 
-I followed because competent people became more annoying when allowed to leave with information I wanted.
-
-My ribs still complained if I twisted too quickly.
-
-They were allowed to complain.
-
-They had been broken recently.
-
-Complaints were not authority.
-
-We reached the western edge of Greywake without much conversation.
-
-Tavian did not ask about Kellan's bridge.
+Complaints were not authority. We reached the western edge of Greywake without much conversation. Tavian did not ask about Kellan's bridge.
 
 I told him anyway.
 
 "The outer warning marker was wrong."
 
-That got his attention.
-
-He slowed.
+That got his attention. He slowed.
 
 "Wrong how?"
 
@@ -95,47 +69,25 @@ He looked forward again.
 
 "It was wrong while I was standing in front of it."
 
-"That is not the same as falsified."
+"That is not the same as deliberately false."
 
-"I did not say falsified."
+"I did not say deliberately false."
 
 "You sounded like you were preparing to."
 
-I considered denying it.
-
-That would have been dishonest.
+I considered denying it. That would have been dishonest.
 
 "Maybe a little."
 
-Tavian grunted.
+Tavian grunted. The Main Caravan Road was already busy. Two wagons rolled toward Greywake under light guard.
 
-The Main Caravan Road was already busy.
+Mounted couriers passed the other direction. Drainage channels had been cleared after the last rain. The nearest hazard post had fresh paint.
 
-Two wagons rolled toward Greywake under light guard.
+Everything worked. That had started bothering me. Tavian left the road beside a shallow marker ditch and stopped near a flat stone where several older route cuts met the forest edge.
 
-Mounted couriers passed the other direction.
+He unfastened a rolled sheet of treated cloth and spread it over the stone. A map. Probably.
 
-Drainage channels had been cleared after the last rain.
-
-The nearest hazard post had fresh paint.
-
-Everything worked.
-
-That had started bothering me.
-
-Tavian left the road beside a shallow marker ditch and stopped near a flat stone where several older route cuts met the forest edge.
-
-He unfastened a rolled sheet of treated cloth and spread it over the stone.
-
-A map.
-
-Probably.
-
-The lines suggested roads and water.
-
-The writing suggested the world remained committed to excluding me from paperwork.
-
-I leaned over it.
+The lines suggested roads and water. The writing suggested the world remained committed to excluding me from paperwork. I leaned over it.
 
 "I recognize none of this."
 
@@ -155,11 +107,7 @@ Another farther out.
 
 "Outer junction near Kellan's bridge."
 
-Once he placed them, I could understand the shape.
-
-Not the labels.
-
-Shape was enough.
+Once he placed them, I could understand the shape. Not the labels. Shape was enough.
 
 He tapped several small marks along the forest edge.
 
@@ -201,19 +149,13 @@ Tavian rolled the map halfway closed.
 
 "No."
 
-I stared at him.
-
-He stared back.
-
-The man refused to become less correct for the sake of conversation.
+I stared at him. He stared back. The man refused to become less correct for the sake of conversation.
 
 "What can you tell me?"
 
 "That I want to look."
 
-Finally.
-
-He tapped the map once.
+Finally. He tapped the map once.
 
 "This is a Warden route check. You were present at two overlap points. I want what you remember from the ground, not what somebody copied into a report."
 
@@ -221,55 +163,27 @@ He tapped the map once.
 
 "A witness."
 
-Less flattering.
+Less flattering. More accurate. We left the maintained road.
 
-More accurate.
+The forest edge looked ordinary for the first ten minutes. Trees. Wet ground.
 
-We left the maintained road.
+Ferns. Mud making a determined effort to become footwear. Tavian moved slowly.
 
-The forest edge looked ordinary for the first ten minutes.
+Not fearfully. Deliberately. He stopped beside a shallow depression between two low ridges.
 
-Trees.
-
-Wet ground.
-
-Ferns.
-
-Mud making a determined effort to become footwear.
-
-Tavian moved slowly.
-
-Not fearfully.
-
-Deliberately.
-
-He stopped beside a shallow depression between two low ridges.
-
-I started to step closer.
-
-His arm blocked me.
+I started to step closer. His arm blocked me.
 
 "Don't."
 
-I looked down.
-
-Mud.
+I looked down. Mud.
 
 "Terrifying."
 
 "Tracks."
 
-Of course.
+Of course. The world paused. A drop of water hung from a fern tip.
 
-The world paused.
-
-A drop of water hung from a fern tip.
-
-Tavian froze with his arm still extended.
-
-A small flying insect stopped in the shaft of light beside his shoulder.
-
-I looked toward you.
+Tavian froze with his arm still extended. A small flying insect stopped in the shaft of light beside his shoulder. I looked toward you.
 
 "There are entire professions built around pointing at dirt until everyone else feels underqualified."
 
@@ -277,21 +191,11 @@ I looked down at the mud.
 
 "The irritating part is that he keeps proving the business model."
 
-Time resumed.
+Time resumed. The droplet fell. I moved back.
 
-The droplet fell.
+Tavian crouched at the edge of the depression. Once I knew tracks were there, the ground became crowded with them. Before that, it had been mud.
 
-I moved back.
-
-Tavian crouched at the edge of the depression.
-
-Once I knew tracks were there, the ground became crowded with them.
-
-Before that, it had been mud.
-
-Expertise was offensive that way.
-
-He pointed at two narrow impressions.
+Expertise was offensive that way. He pointed at two narrow impressions.
 
 "See those?"
 
@@ -307,17 +211,9 @@ He looked up.
 
 "Small hoofed grazer."
 
-I crouched beside him without touching the ground.
+I crouched beside him without touching the ground. The marks split down the middle. Fine.
 
-The marks split down the middle.
-
-Fine.
-
-The first set had softened rims.
-
-Older.
-
-A sharper set beside it pointed northeast.
+The first set had softened rims. Older. A sharper set beside it pointed northeast.
 
 Four-toed predator sign crossed later.
 
@@ -333,35 +229,21 @@ Four-toed predator sign crossed later.
 
 "Yes."
 
-I believed him.
-
-He moved to the other edge.
+I believed him. He moved to the other edge.
 
 "There."
 
-A second hoofed trail cut through the mud at another angle.
+A second hoofed trail cut through the mud at another angle. Older. Then a fresher set.
 
-Older.
+Both turned toward the same break in the northern brush. I looked west. The ground there was flatter.
 
-Then a fresher set.
-
-Both turned toward the same break in the northern brush.
-
-I looked west.
-
-The ground there was flatter.
-
-Fewer roots.
-
-Wider opening.
+Fewer roots. Wider opening.
 
 "Why not that way?"
 
 "Exactly."
 
-That was irritatingly satisfying.
-
-Tavian pointed with the butt of his polearm.
+That was irritatingly satisfying. Tavian pointed with the butt of his polearm.
 
 "Animals change movement for ordinary reasons. Food. Water. Weather. Predators. Fire. Breeding. Human activity."
 
@@ -369,9 +251,7 @@ Tavian pointed with the butt of his polearm.
 
 "Yes."
 
-He indicated one long-stride trail.
-
-Then another shorter one.
+He indicated one long-stride trail. Then another shorter one.
 
 "Different pace. Same drift."
 
@@ -383,29 +263,13 @@ He looked at me.
 
 "I hate that you keep earning it."
 
-We followed the crossing north.
+We followed the crossing north. Broken stems. Hair caught on bark.
 
-Broken stems.
+Mud pressed deep where several animals had forced themselves through a narrow opening even though easier ground lay twenty paces west. I stopped when Tavian stopped. Without being told.
 
-Hair caught on bark.
+I chose not to celebrate publicly. The signs kept pointing northeast. Prey.
 
-Mud pressed deep where several animals had forced themselves through a narrow opening even though easier ground lay twenty paces west.
-
-I stopped when Tavian stopped.
-
-Without being told.
-
-I chose not to celebrate publicly.
-
-The signs kept pointing northeast.
-
-Prey.
-
-Predator.
-
-Different ages.
-
-Different movement.
+Predator. Different ages. Different movement.
 
 Same broad direction.
 
@@ -427,17 +291,9 @@ I sighed.
 
 "They would be wrong."
 
-The old trail appeared gradually.
+The old trail appeared gradually. Not a road anymore. Two shallow parallel depressions marked where wagon wheels had once passed often enough to reshape the ground.
 
-Not a road anymore.
-
-Two shallow parallel depressions marked where wagon wheels had once passed often enough to reshape the ground.
-
-Roots had lifted sections.
-
-Brush filled the center.
-
-A weathered stone marker stood beside it under moss.
+Roots had lifted sections. Brush filled the center. A weathered stone marker stood beside it under moss.
 
 Tavian checked the lower edge.
 
@@ -451,41 +307,17 @@ Tavian checked the lower edge.
 
 "Sections washed out. Patrol traffic shifted south. Maintenance stopped."
 
-I looked along the old trail.
+I looked along the old trail. The animals had not received the closure notice. Tavian raised one hand.
 
-The animals had not received the closure notice.
+I stopped. This time before he blocked me. Not personal development.
 
-Tavian raised one hand.
+Pattern recognition. He pointed into the brush. At first, nothing.
 
-I stopped.
+Then movement. Three small hoofed animals stood beyond a shallow crossing. Lean bodies.
 
-This time before he blocked me.
+Dark backs. Long ears moving independently. They had not noticed us.
 
-Not personal development.
-
-Pattern recognition.
-
-He pointed into the brush.
-
-At first, nothing.
-
-Then movement.
-
-Three small hoofed animals stood beyond a shallow crossing.
-
-Lean bodies.
-
-Dark backs.
-
-Long ears moving independently.
-
-They had not noticed us.
-
-Tavian lowered himself behind a fallen trunk.
-
-I followed.
-
-The Wayfarer Token kept our whispers clear.
+Tavian lowered himself behind a fallen trunk. I followed. The Wayfarer Token kept our whispers clear.
 
 "Don't move."
 
@@ -497,39 +329,17 @@ The Wayfarer Token kept our whispers clear.
 
 "Which side they choose."
 
-The crossing split around exposed roots.
+The crossing split around exposed roots. West was open. Easy.
 
-West was open.
+The northeast side narrowed into brush along the old trail. The animals approached. Stopped.
 
-Easy.
+Sniffed. One took two steps toward the northern gap. A second followed.
 
-The northeast side narrowed into brush along the old trail.
+The third hesitated. I looked west. Open ground.
 
-The animals approached.
+Then north. Brush. Narrow trail.
 
-Stopped.
-
-Sniffed.
-
-One took two steps toward the northern gap.
-
-A second followed.
-
-The third hesitated.
-
-I looked west.
-
-Open ground.
-
-Then north.
-
-Brush.
-
-Narrow trail.
-
-The question arrived immediately.
-
-If the north side became unpleasant, would they still choose it?
+The question arrived immediately. If the north side became unpleasant, would they still choose it?
 
 "What if we pressure the north side?"
 
@@ -547,85 +357,37 @@ If the north side became unpleasant, would they still choose it?
 
 "It is not."
 
-The first grazer took another step northeast.
+The first grazer took another step northeast. Tavian was right. I knew he was right.
 
-Tavian was right.
-
-I knew he was right.
-
-I also wanted the answer now.
-
-Those facts coexisted comfortably.
-
-I slipped around the fallen trunk.
+I also wanted the answer now. Those facts coexisted comfortably. I slipped around the fallen trunk.
 
 Tavian caught the movement.
 
 "Jackal."
 
-Too late.
+Too late. I stepped into the northern sightline. The nearest grazer's head snapped up.
 
-I stepped into the northern sightline.
+The others froze. I took one more step. They exploded into motion.
 
-The nearest grazer's head snapped up.
+No measured choice. No elegant behavioral proof. Panic.
 
-The others froze.
+One broke west. The second crashed through the northern brush. The third followed north, cut sideways, nearly hit the western animal, then turned north again.
 
-I took one more step.
-
-They exploded into motion.
-
-No measured choice.
-
-No elegant behavioral proof.
-
-Panic.
-
-One broke west.
-
-The second crashed through the northern brush.
-
-The third followed north, cut sideways, nearly hit the western animal, then turned north again.
-
-Branches snapped.
-
-Leaves flew.
-
-For half a second, I felt vindicated.
+Branches snapped. Leaves flew. For half a second, I felt vindicated.
 
 Then Tavian stood.
 
 "Back."
 
-His voice had changed.
+His voice had changed. Not anger. Danger.
 
-Not anger.
+Something moved beyond the fleeing grazers. Low. Fast.
 
-Danger.
+Another shape crossed left. Then another. Broad-chested predators pushed through the brush.
 
-Something moved beyond the fleeing grazers.
+Same general kind as the service-road pack. They had been close enough to react to the sudden run. Maybe stalking.
 
-Low.
-
-Fast.
-
-Another shape crossed left.
-
-Then another.
-
-Broad-chested predators pushed through the brush.
-
-Same general kind as the service-road pack.
-
-They had been close enough to react to the sudden run.
-
-Maybe stalking.
-
-Maybe passing nearby.
-
-Did not matter.
-
-I had rung the dinner bell.
+Maybe passing nearby. Did not matter. I had rung the dinner bell.
 
 Tavian moved past me.
 
@@ -637,25 +399,13 @@ I counted.
 
 "Four."
 
-A fourth moved behind the old trail bank.
-
-Of course.
-
-Tavian planted the butt of his polearm and angled the blade toward the nearest animal.
+A fourth moved behind the old trail bank. Of course. Tavian planted the butt of his polearm and angled the blade toward the nearest animal.
 
 "Do not go forward."
 
-The memory arrived immediately.
+The memory arrived immediately. Road worker beside the wagon. Blood below his knee.
 
-Road worker beside the wagon.
-
-Blood below his knee.
-
-The opened lane.
-
-Not a lesson in becoming good.
-
-A remembered consequence.
+The opened lane. Not a lesson in becoming good. A remembered consequence.
 
 Useful.
 
@@ -663,91 +413,39 @@ Useful.
 
 "Then stay on the line."
 
-The first predator crossed the brush edge.
+The first predator crossed the brush edge. Tavian stepped into its path and struck across the muzzle. Not a killing blow.
 
-Tavian stepped into its path and struck across the muzzle.
-
-Not a killing blow.
-
-A correction.
-
-It veered.
-
-Another circled west.
+A correction. It veered. Another circled west.
 
 I shifted to block it, then stopped before crossing Tavian's position.
 
 "Gap behind you."
 
-I looked.
-
-Between the fallen trunk and an exposed root wall, a narrow opening curved behind our right side.
-
-The fourth predator was already taking it.
+I looked. Between the fallen trunk and an exposed root wall, a narrow opening curved behind our right side. The fourth predator was already taking it.
 
 "Close it."
 
-Simple.
+Simple. I could have closed the entire crossing. The trail.
 
-I could have closed the entire crossing.
+The forest. I could have made the pack's tactical options somebody else's philosophical problem. None of that was necessary.
 
-The trail.
+Tavian needed one gap gone. So one gap disappeared. A low pale-grey obstruction formed between the trunk and the roots.
 
-The forest.
+Thick. Ugly. More bunker than barrier.
 
-I could have made the pack's tactical options somebody else's philosophical problem.
-
-None of that was necessary.
-
-Tavian needed one gap gone.
-
-So one gap disappeared.
-
-A low pale-grey obstruction formed between the trunk and the roots.
-
-Thick.
-
-Ugly.
-
-More bunker than barrier.
-
-The fourth predator checked its stride and hit the edge with one foreleg.
-
-The obstruction held.
-
-Tavian moved immediately.
+The fourth predator checked its stride and hit the edge with one foreleg. The obstruction held. Tavian moved immediately.
 
 "Left."
 
-I shifted left.
+I shifted left. The circling predator lunged when I entered its path. I stepped backward instead of meeting it.
 
-The circling predator lunged when I entered its path.
+Its jaws closed on empty air. I kicked it in the shoulder as it passed. Hard enough to spoil the turn.
 
-I stepped backward instead of meeting it.
+Not hard enough to make the encounter about me. Tavian pushed the first predator away from the crossing with two controlled strikes. The second hesitated.
 
-Its jaws closed on empty air.
+The pack had expected fleeing prey. Instead it found two irritating objects refusing to behave correctly. The fourth hit my barrier again.
 
-I kicked it in the shoulder as it passed.
-
-Hard enough to spoil the turn.
-
-Not hard enough to make the encounter about me.
-
-Tavian pushed the first predator away from the crossing with two controlled strikes.
-
-The second hesitated.
-
-The pack had expected fleeing prey.
-
-Instead it found two irritating objects refusing to behave correctly.
-
-The fourth hit my barrier again.
-
-It stayed exactly where Tavian needed it.
-
-One purpose.
-
-Close the gap.
+It stayed exactly where Tavian needed it. One purpose. Close the gap.
 
 "Three breaths," he said.
 
@@ -759,61 +457,27 @@ The nearest predator feinted.
 
 "Two."
 
-Tavian struck the ground with the polearm shaft.
-
-The crack made the animal jump back.
+Tavian struck the ground with the polearm shaft. The crack made the animal jump back.
 
 "Three."
 
 "Done."
 
-I released the obstruction.
+I released the obstruction. It folded out of the world. No cracking from strain.
 
-It folded out of the world.
+No hidden limit had appeared. Its job was finished. The fourth predator pushed into the reopened gap.
 
-No cracking from strain.
+Tavian was already there. He slammed the polearm shaft across its chest and redirected it toward the open west side. The encirclement broke.
 
-No depleted reserve.
+That changed the animals' calculation. Dangerous did not mean suicidal. One backed into brush.
 
-Its job was finished.
+Another followed. The one I had kicked watched me with flattened ears, then retreated. The last stayed near the old trail until Tavian advanced two measured steps.
 
-The fourth predator pushed into the reopened gap.
+It disappeared north. Leaves settled. The grazers were gone.
 
-Tavian was already there.
+So was the clean observation. Tavian lowered his polearm. Then looked at me.
 
-He slammed the polearm shaft across its chest and redirected it toward the open west side.
-
-The encirclement broke.
-
-That changed the animals' calculation.
-
-Dangerous did not mean suicidal.
-
-One backed into brush.
-
-Another followed.
-
-The one I had kicked watched me with flattened ears, then retreated.
-
-The last stayed near the old trail until Tavian advanced two measured steps.
-
-It disappeared north.
-
-Leaves settled.
-
-The grazers were gone.
-
-So was the clean observation.
-
-Tavian lowered his polearm.
-
-Then looked at me.
-
-I knew that look.
-
-Sela had a medical version.
-
-Kellan had an engineering version.
+I knew that look. Sela had a medical version. Kellan had an engineering version.
 
 Tavian had the original.
 
@@ -835,11 +499,7 @@ Tavian had the original.
 
 "I noticed."
 
-His jaw tightened.
-
-I wisely did not improve the moment.
-
-He looked north.
+His jaw tightened. I wisely did not improve the moment. He looked north.
 
 "Did you know the pack was there?"
 
@@ -851,15 +511,11 @@ He looked north.
 
 "Was the test necessary?"
 
-Several answers existed.
-
-Only one was true.
+Several answers existed. Only one was true.
 
 "No."
 
-Tavian looked at me.
-
-I shrugged carefully.
+Tavian looked at me. I shrugged carefully.
 
 "I wanted the answer."
 
@@ -867,11 +523,7 @@ I shrugged carefully.
 
 "Now we know frightened animals are terrible research assistants."
 
-Nothing.
-
-Too early.
-
-I looked at the trail.
+Nothing. Too early. I looked at the trail.
 
 "Two still went north."
 
@@ -885,21 +537,11 @@ I looked at the trail.
 
 "You changed the conditions."
 
-I stopped.
+I stopped. Repetition became annoying when correct. Tavian crouched where the grazers had started.
 
-Repetition became annoying when correct.
+Fresh hoof marks now cut the mud in several directions. Predator tracks crossed them. My own boot print sat where no useful boot print needed to be.
 
-Tavian crouched where the grazers had started.
-
-Fresh hoof marks now cut the mud in several directions.
-
-Predator tracks crossed them.
-
-My own boot print sat where no useful boot print needed to be.
-
-Almost artistic.
-
-He pointed.
+Almost artistic. He pointed.
 
 "This tells me they panicked."
 
@@ -909,29 +551,15 @@ He pointed.
 
 "So we find tracks from before I ruined everything."
 
-He looked up.
-
-That paused him.
+He looked up. That paused him.
 
 "Yes."
 
-We left the crossing.
+We left the crossing. Tavian said nothing for several minutes. I allowed the silence.
 
-Tavian said nothing for several minutes.
+Not because I had become patient. I was curious what he would do with it. My ribs began aching from the walking.
 
-I allowed the silence.
-
-Not because I had become patient.
-
-I was curious what he would do with it.
-
-My ribs began aching from the walking.
-
-Ordinary soreness.
-
-Nothing about the morning had reduced what I could do.
-
-Tavian noticed anyway.
+Ordinary soreness. Nothing about the morning had reduced what I could do. Tavian noticed anyway.
 
 "Can you walk?"
 
@@ -947,17 +575,9 @@ He looked at me.
 
 "I was not reassuring you."
 
-Accurate communication.
+Accurate communication. We followed the old trail northeast without walking in its center. Tavian searched softer ground along the old wheel depressions.
 
-We followed the old trail northeast without walking in its center.
-
-Tavian searched softer ground along the old wheel depressions.
-
-The recent pack tracks were obvious now.
-
-Even I could see them.
-
-He ignored most.
+The recent pack tracks were obvious now. Even I could see them. He ignored most.
 
 "Those are ours," I said.
 
@@ -967,33 +587,15 @@ He ignored most.
 
 "They are from today. I need older sign."
 
-We found the first clean layer about fifty paces farther on.
+We found the first clean layer about fifty paces farther on. Runoff had exposed dark soil beneath an overhanging bank. Protected from direct rain.
 
-Runoff had exposed dark soil beneath an overhanging bank.
+Tavian crouched. I stayed back without being told. He glanced at me.
 
-Protected from direct rain.
+I chose to interpret that as admiration. Poorly supported conclusion. The bank held several older impressions.
 
-Tavian crouched.
+Hoof marks. Then larger paw prints. Not fresh.
 
-I stayed back without being told.
-
-He glanced at me.
-
-I chose to interpret that as admiration.
-
-Poorly supported conclusion.
-
-The bank held several older impressions.
-
-Hoof marks.
-
-Then larger paw prints.
-
-Not fresh.
-
-Not from our disturbance.
-
-Tavian traced the direction in the air.
+Not from our disturbance. Tavian traced the direction in the air.
 
 "Northeast."
 
@@ -1001,23 +603,13 @@ Tavian traced the direction in the air.
 
 "Again."
 
-Farther down the bank, another set.
+Farther down the bank, another set. Different depth. Smaller hoof.
 
-Different depth.
-
-Smaller hoof.
-
-Same broad direction.
-
-Clawed sign crossed later.
-
-Tavian checked the edges.
+Same broad direction. Clawed sign crossed later. Tavian checked the edges.
 
 "Two days apart. Maybe three."
 
-I smiled.
-
-He noticed.
+I smiled. He noticed.
 
 "What?"
 
@@ -1025,27 +617,13 @@ He noticed.
 
 "I regret teaching you language."
 
-We continued.
+We continued. The connector bent farther north around a fallen tree. The tracks bent with it.
 
-The connector bent farther north around a fallen tree.
+Not one group. Layers. Different sizes.
 
-The tracks bent with it.
+Different ages. Same drift. Tavian stood.
 
-Not one group.
-
-Layers.
-
-Different sizes.
-
-Different ages.
-
-Same drift.
-
-Tavian stood.
-
-Through gaps in the trees, brighter open ground showed southwest toward the Main Caravan Road.
-
-Then he looked north, where the abandoned trail disappeared under brush.
+Through gaps in the trees, brighter open ground showed southwest toward the Main Caravan Road. Then he looked north, where the abandoned trail disappeared under brush.
 
 "Expected crossing is west."
 
@@ -1079,17 +657,9 @@ He looked at the sign.
 
 "Possible."
 
-I waited.
+I waited. That required effort. Not moral effort.
 
-That required effort.
-
-Not moral effort.
-
-Boredom management.
-
-Eventually Tavian said, "Something may be influencing the movement."
-
-Stronger than anything he had said earlier.
+Boredom management. Eventually Tavian said, "Something may be influencing the movement." Stronger than anything he had said earlier.
 
 "Pushing?"
 
@@ -1119,45 +689,19 @@ I smiled.
 
 "Preferably."
 
-I looked back at the tracks.
+I looked back at the tracks. My experiment had been faster. It had also destroyed the observation and invited a pack into the conversation.
 
-My experiment had been faster.
+Tavian's method was slower. It was also still evidence. Annoying.
 
-It had also destroyed the observation and invited a pack into the conversation.
+Useful. He unrolled the map on another flat stone and held one edge beneath his glove. I still could not read the labels.
 
-Tavian's method was slower.
+I understood the roads now. Main Caravan Road southwest. Outer routes farther west.
 
-It was also still evidence.
+Old northern connector beneath us. Tavian drew one charcoal line beside the existing route marks. Then another.
 
-Annoying.
+Then another. Each represented sign from a different place. All leaned away from the profitable road.
 
-Useful.
-
-He unrolled the map on another flat stone and held one edge beneath his glove.
-
-I still could not read the labels.
-
-I understood the roads now.
-
-Main Caravan Road southwest.
-
-Outer routes farther west.
-
-Old northern connector beneath us.
-
-Tavian drew one charcoal line beside the existing route marks.
-
-Then another.
-
-Then another.
-
-Each represented sign from a different place.
-
-All leaned away from the profitable road.
-
-All pointed toward the older northern paths.
-
-I stared at the pattern.
+All pointed toward the older northern paths. I stared at the pattern.
 
 "So the main road is safe because the animals are not using it."
 
@@ -1181,41 +725,19 @@ I looked at him.
 
 "I am suspicious."
 
-That surprised me.
-
-Tavian rolled the map partway closed.
+That surprised me. Tavian rolled the map partway closed.
 
 "I am not certain."
 
-There it was.
+There it was. The difference. Suspicion was allowed.
 
-The difference.
+Certainty had to earn its way into the room. I looked north. The old trail vanished into wet trees.
 
-Suspicion was allowed.
+No machine. No villain waiting behind a tree. No convenient explanation.
 
-Certainty had to earn its way into the room.
+Only old tracks. Different ages. Different animals.
 
-I looked north.
-
-The old trail vanished into wet trees.
-
-No machine.
-
-No villain waiting behind a tree.
-
-No convenient explanation.
-
-Only old tracks.
-
-Different ages.
-
-Different animals.
-
-All made before my experiment.
-
-All trending away from the Main Caravan Road.
-
-Toward the north.
+All made before my experiment. All trending away from the Main Caravan Road. Toward the north.
 
 "Broken North?" I asked.
 
@@ -1229,22 +751,10 @@ Tavian looked along the abandoned connector.
 
 "No promises."
 
-He packed the map away.
+He packed the map away. We stood for another moment. The road behind us worked.
 
-We stood for another moment.
+The old northern trail did not. Yet the animals kept choosing the broken direction. That was not proof of who or what was causing it.
 
-The road behind us worked.
-
-The old northern trail did not.
-
-Yet the animals kept choosing the broken direction.
-
-That was not proof of who or what was causing it.
-
-It was enough to know the pattern was real.
-
-Wrong tracks.
-
-Wrong direction.
+It was enough to know the pattern was real. Wrong tracks. Wrong direction.
 
 North.

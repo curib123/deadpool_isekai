@@ -39,8 +39,8 @@ Power interpretation changes to:
 - specialists remain necessary for knowledge, evidence, evacuation, logistics, and judgment;
 - climax spectacle may reveal far more power without calling it a power-up.
 
-**Soul-Drift Synchronization:** CH-001→CH-010 CURRENT — Gate 9 PASS (2026-09-20); CH-011→CH-026 prose remains pending sequential synchronization.  
-**Next Rewrite:** CH-011 — Broken North.
+**Soul-Drift Synchronization:** CH-001→CH-011 CURRENT — Gate 9 PASS (2026-09-20); CH-012→CH-026 prose remains pending sequential synchronization.  
+**Next Rewrite:** CH-012 — Someone Put This Here.
 
 # 1. Roadmap Principles
 

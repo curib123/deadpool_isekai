@@ -8,6 +8,8 @@
 
 **Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A097 Prose Editor, A037 Power Balance Editor, A042 Character Arc Editor, A044 Supporting Character Editor, A045 Antagonist Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A111 Logic Editor
 
+> **Final-engine authority note (2026-09-20):** Any legacy wording below that treats Stage labels, manifestation counts, fatigue, injury, or regeneration as a raw-capacity/progression limit is superseded by the current manuscript, current scene-architecture override, and Soul-Drift / Final Story-Engine revalidation. Event/reveal/knowledge checks remain authoritative.
+
 # Soul-Drift / Final Story-Engine Revalidation
 
 - close first-person narration confirmed;

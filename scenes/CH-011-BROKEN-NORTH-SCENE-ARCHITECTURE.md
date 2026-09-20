@@ -10,6 +10,23 @@
 **Primary Cast:** Red Jackal, Tavian Rook, Maelis Orra, Kellan Dorr  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
+# Soul-Drift / Final Story-Engine Override
+
+The five-scene CH-011 event sequence remains locked, but legacy Stage/use-cap, strain, fatigue-as-power-limit, and conventional-development language below is superseded by the final story engine.
+
+Current interpretation:
+- Red is already overwhelmingly powerful; CH-011 is not a Stage test, endurance gate, or manifestation-limit chapter.
+- the single brace manifestation occurs because Kellan identifies one structural gap and Tavian needs one crossing solution. It is not Red's maximum number of uses.
+- Red could create a much larger solution, but deliberately follows Kellan's geometry and Tavian's tactical plan because preserving the site/evidence and the supporting cast's expertise matters more than spectacle.
+- the brace remains physically reliable for the requested crossing and is released by Red afterward. It does not fail from exhaustion, strain, or depleted capacity.
+- recent injury may be absent or exist only as ordinary physical continuity; it does not reduce Play Logic capacity.
+- Tavian's practical trust comes from Red choosing to fit his power into a competent plan, not from Red discovering a new control tier.
+- Red's unlawful entry remains a stable anti-control choice, not a moral-growth step.
+- CH-011 introduces no new F-ID and no new regeneration clue.
+- CH-011 owns only the first physical march-lure discovery. Legal status, active strength, orientation, network structure, ownership, and deliberate-sacrifice causality remain protected for later chapters.
+- genuine audience address invokes Fourth-Wall Pause every time.
+- M-007 remains inactive.
+
 # 1. Chapter Purpose Lock
 
 CH-011 converts the separate ecological and documentary investigations into the first physical evidence that the abnormal migration has an artificial component.
@@ -39,7 +56,7 @@ CH-011 must:
 9. distinguish abandoned road infrastructure from recent maintenance activity;
 10. establish signs that someone has recently used/serviced the abandoned zone;
 11. include one terrain-and-predator pressure sequence;
-12. give Red Jackal exactly one successful Stage I utility manifestation;
+12. give Red Jackal one utility manifestation because the group needs one temporary structural support;
 13. make the manifestation support group movement/survival rather than defeat the encounter alone;
 14. allow one earned-aura moment based on competent action rather than theatrical self-promotion;
 15. keep Kellan available as an anti-hype/practicality anchor;
@@ -398,11 +415,9 @@ Maelis may use her disciplined crossbow defensively if needed.
 
 Red Jackal follows specialist instructions sufficiently to show CH-007/009 learning.
 
-# 11. Stage I Play Logic Lock
+# 11. Play Logic Scene-Use Lock
 
-CH-011 contains exactly:
-
-**one Stage I utility manifestation attempt and one success.**
+CH-011 contains **one utility manifestation** because the locked crossing problem requires one temporary support. This is not a capability maximum.
 
 Preferred function:
 
@@ -413,12 +428,12 @@ The manifestation must:
 - solve one concrete spatial/structural problem;
 - be simple;
 - be temporary;
-- show visible imperfection or strain;
+- remain simple/rough in presentation without implying reduced capacity;
 - not kill the predators;
 - not reveal a new Play Logic rule;
 - not bypass the entire site;
 - support the group rather than replace Tavian/Kellan competence;
-- cost Red Jackal concentration/stamina.
+- not establish a concentration/stamina resource cost.
 
 Preferred sequence:
 
@@ -428,9 +443,9 @@ Preferred sequence:
 4. Red Jackal creates one temporary support/step;
 5. Kellan/Tavian trust the utility enough to use it;
 6. the group gets through;
-7. the construct fails/fades after serving its single purpose.
+7. Red releases the construct after its single purpose is complete.
 
-No retry.
+No retry is needed because no second structural problem is introduced in the locked scene.
 
 F-004 remains **PLANTED — CH-005**.
 
@@ -496,7 +511,7 @@ He may be right to investigate and still wrong about method.
 
 Remains at early **R3 — Dangerous Wildcard**.
 
-CH-011 may improve Tavian's trust in Red Jackal under immediate pressure because Red Jackal uses a limited manifestation to support a competent plan.
+CH-011 may improve Tavian's trust in Red Jackal under immediate pressure because Red Jackal deliberately uses a bounded-looking manifestation to support a competent plan; Tavian still does not know Red's true ceiling.
 
 Tavian still disapproves of unilateral trespass.
 
@@ -855,7 +870,7 @@ Red Jackal:
 - does not charge ahead;
 - solves one spatial problem the others cannot solve quickly enough.
 
-### Play Logic — Exactly One Attempt / One Success
+### Play Logic — One Scene-Design Utility Use
 
 Red Jackal creates:
 
@@ -865,12 +880,11 @@ between a failing road/watch-point section and stable support.
 
 Requirements:
 - simple geometry;
-- visibly imperfect;
-- short duration;
-- strain/fatigue;
-- no second attempt;
+- rough/functional presentation;
+- maintained for the crossing interval;
+- no second attempt is needed;
 - no new rule;
-- no predator killed by the manifestation.
+- no predator is killed by the manifestation.
 
 The group uses it to reposition/escape the unstable section.
 
@@ -1041,11 +1055,10 @@ Before manuscript drafting, verify:
 - Kellan owns structural judgment;
 - Maelis owns evidence handling;
 - Red Jackal follows specialist instructions during danger;
-- exactly one Play Logic attempt;
-- exactly one Play Logic success;
+- one Play Logic utility use occurs by scene design;
 - manifestation is temporary brace/foothold/step;
 - manifestation does not defeat predators;
-- no second manifestation/retry;
+- no second manifestation is needed in the locked sequence;
 - no new Play Logic rule;
 - earned aura comes from useful controlled action;
 - Kellan remains anti-hype anchor;

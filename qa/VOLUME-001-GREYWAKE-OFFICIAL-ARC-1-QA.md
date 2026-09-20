@@ -361,7 +361,7 @@ Narrative and release score: **10/10**. Current Gate 10 and Gate 11 records are 
 
 **Status: PASS**
 
-- The only non-PASS finding is recorded with the complete required repair chain immediately above.
+- No non-PASS findings remain. The original release-record weakness and its completed repair are documented in Section 37.
 - No random scene, filler chapter, artificial battle, new power, or new tragedy is proposed.
 - Any later `WEAK` or `MISSING` result must use the same adjacent repair format before the record can close.
 
@@ -381,7 +381,7 @@ Narrative and release score: **10/10**. Current Gate 10 and Gate 11 records are 
 - Mandatory narrative requirements pass; optional battle forms are intentionally not forced; documentation/release defects are routed to the smallest effective repair.
 - Final publication-ready status is supported by the completed synchronization and 26/26 Gate 11 re-QA.
 
-## Initial decision
+## Final decision
 
 **NARRATIVE CHECKLIST: PASS**  
 **DOCUMENTATION / RELEASE QA: PASS**

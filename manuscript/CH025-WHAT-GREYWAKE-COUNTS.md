@@ -5,49 +5,21 @@
 **Word Count:** 1494
 **Chapter QA:** `qa/CH-025-GATE-9-CHAPTER-QA.md`
 
-Sela looked at my side.
+Sela looked at my side. Then at me. "No."
 
-Then at me.
-
-"No."
-
-I had not said anything.
-
-"That feels unfair."
+I had not said anything. "That feels unfair."
 
 "It is preventative."
 
-She pushed me back onto the treatment bench before I could stand.
+She pushed me back onto the treatment bench before I could stand. The room was full enough that arguing would only create another patient. Militia.
 
-The room was full enough that arguing would only create another patient.
+Workers. Outer-route residents. Cuts.
 
-Militia.
+Crushed fingers. Broken bones. Animal impacts.
 
-Workers.
+My flank had already closed. The bruising underneath still felt like somebody had stored a hammer between my ribs. That did not make me depleted.
 
-Outer-route residents.
-
-Cuts.
-
-Crushed fingers.
-
-Broken bones.
-
-Animal impacts.
-
-My flank had already closed.
-
-The bruising underneath still felt like somebody had stored a hammer between my ribs.
-
-That did not make me depleted.
-
-It made bruising unpleasant.
-
-Sela pressed two fingers near the healed line.
-
-I stopped breathing.
-
-"Good."
+It made bruising unpleasant. Sela pressed two fingers near the healed line. I stopped breathing. "Good."
 
 "That was not my word."
 
@@ -55,33 +27,15 @@ I stopped breathing.
 
 "Yes."
 
-She looked toward the rest of the room.
+She looked toward the rest of the room. "That does not make anyone else's injury cheaper." Across from me, Kellan sat with his leg splinted and raised.
 
-"That does not make anyone else's injury cheaper."
-
-Across from me, Kellan sat with his leg splinted and raised.
-
-My body followed its own unreasonable rules.
-
-His did not.
-
-He noticed me looking.
-
-"Still attached?"
+My body followed its own unreasonable rules. His did not. He noticed me looking. "Still attached?"
 
 "The important parts."
 
-Sela gave me a look.
+Sela gave me a look. Enough humor. Brynn entered near midday with dried mud on her boots.
 
-Enough humor.
-
-Brynn entered near midday with dried mud on her boots.
-
-Tavian followed.
-
-Neither looked rested.
-
-"Migration?" Kellan asked.
+Tavian followed. Neither looked rested. "Migration?" Kellan asked.
 
 "Past the critical line," Tavian said. "Trailing movement remains scattered, but the main surge is through."
 
@@ -89,185 +43,79 @@ Neither looked rested.
 
 "Standing."
 
-Brynn added:
-
-"Damaged enough that I will arrest anyone who calls it open for normal traffic."
-
-Reasonable.
-
-"Hesk?"
+Brynn added: "Damaged enough that I will arrest anyone who calls it open for normal traffic." Reasonable. "Hesk?"
 
 "Guarded. No Road Guild command access. Key and final housing secured."
 
-Sela folded clean cloth onto a tray.
-
-"And now?"
+Sela folded clean cloth onto a tray. "And now?"
 
 "Council," Brynn said.
 
-Sela looked at me.
-
-"No."
-
-Brynn looked at her.
-
-"He needs to be there."
+Sela looked at me. "No." Brynn looked at her. "He needs to be there."
 
 "I am sitting right here."
 
-Both ignored me.
-
-Kellan leaned back.
-
-"I think this is good for you."
+Both ignored me. Kellan leaned back. "I think this is good for you."
 
 "Which part?"
 
 "Being irrelevant."
 
-I considered throwing something.
+I considered throwing something. Sela had removed anything useful from reach. Brynn eventually won under conditions.
 
-Sela had removed anything useful from reach.
+Sit whenever possible. Return if bleeding started. No treating abnormal recovery as a reason to make another crisis cheaper.
 
-Brynn eventually won under conditions.
+Fine. Before council, Tavian wanted Broken North inspected. So did I.
 
-Sit whenever possible.
+The road looked worse in daylight. Temporary guides were gone or broken. Mud covered everything.
 
-Return if bleeding started.
+Fresh timber braced old stone. The inner shelf held on worker-built support. The road was still closed.
 
-No treating abnormal recovery as a reason to make another crisis cheaper.
+Good. It should be. A worker caught Tavian crouching near the repaired shelf. "Do not touch that."
 
-Fine.
-
-Before council, Tavian wanted Broken North inspected.
-
-So did I.
-
-The road looked worse in daylight.
-
-Temporary guides were gone or broken.
-
-Mud covered everything.
-
-Fresh timber braced old stone.
-
-The inner shelf held on worker-built support.
-
-The road was still closed.
-
-Good.
-
-It should be.
-
-A worker caught Tavian crouching near the repaired shelf.
-
-"Do not touch that."
-
-Tavian stood.
-
-"Wasn't planning to."
-
-The worker looked at me.
-
-"You either."
+Tavian stood. "Wasn't planning to." The worker looked at me. "You either."
 
 "I wasn't."
 
-He kept looking.
+He kept looking. Fair. Brynn read from a damage sheet. "Three guide points destroyed. Lower detour unusable until rebuilt. Broken North restricted. Two outer sheds damaged. Livestock losses still being counted. Four caravan departures delayed."
 
-Fair.
-
-Brynn read from a damage sheet.
-
-"Three guide points destroyed. Lower detour unusable until rebuilt. Broken North restricted. Two outer sheds damaged. Livestock losses still being counted. Four caravan departures delayed."
-
-Tavian added:
-
-"Animal movement will remain unstable."
+Tavian added: "Animal movement will remain unstable."
 
 "How long?"
 
 "Longer than Greywake wants."
 
-Specific.
+Specific. "We changed a pattern forced for years. Stopping the lures does not make animals immediately forget the routes they adapted to."
 
-"We changed a pattern forced for years. Stopping the lures does not make animals immediately forget the routes they adapted to."
+The consequences had inertia. Of course they did. Tavian looked at the road.
 
-The consequences had inertia.
+Then at me. "You were useful yesterday." I stopped.
 
-Of course they did.
+Brynn looked at him too. Tavian continued without making it ceremonial. "You waited when waiting mattered. Acted when action mattered."
 
-Tavian looked at the road.
-
-Then at me.
-
-"You were useful yesterday."
-
-I stopped.
-
-Brynn looked at him too.
-
-Tavian continued without making it ceremonial.
-
-"You waited when waiting mattered. Acted when action mattered."
-
-That was the whole statement.
-
-I gave him time to reconsider.
-
-He did not.
-
-"Are you feeling all right?"
+That was the whole statement. I gave him time to reconsider. He did not. "Are you feeling all right?"
 
 "Yes."
 
 "Disappointing."
 
-Better.
+Better. The evidence room was quieter than the treatment house. More dangerous in a different way.
 
-The evidence room was quieter than the treatment house.
+Maelis had covered two tables with copied documents. Jessa sat at one end with both hands around an untouched cup. The Roadmaster key rested inside a sealed evidence box.
 
-More dangerous in a different way.
+Beside it: reserve records. route-loss entries. service references.
 
-Maelis had covered two tables with copied documents.
+Jessa's signed explanation. Hesk was not in the room. Two militia guards stood outside the adjoining holding chamber.
 
-Jessa sat at one end with both hands around an untouched cup.
-
-The Roadmaster key rested inside a sealed evidence box.
-
-Beside it:
-
-reserve records.
-
-route-loss entries.
-
-service references.
-
-Jessa's signed explanation.
-
-Hesk was not in the room.
-
-Two militia guards stood outside the adjoining holding chamber.
-
-Maelis looked up.
-
-"You are late."
+Maelis looked up. "You are late."
 
 "Medical detention."
 
 "I know."
 
-Of course she did.
+Of course she did. Maelis tapped a sheet. "We can establish the reserve existed. It was withheld from shared emergency inventory. The older-service site was altered outside the coalition sequence. The Roadmaster key was recovered from Hesk there."
 
-Maelis tapped a sheet.
-
-"We can establish the reserve existed. It was withheld from shared emergency inventory. The older-service site was altered outside the coalition sequence. The Roadmaster key was recovered from Hesk there."
-
-Jessa nodded.
-
-Maelis looked at her.
-
-"Statement unchanged?"
+Jessa nodded. Maelis looked at her. "Statement unchanged?"
 
 "Yes."
 
@@ -277,37 +125,17 @@ Maelis looked at her.
 
 "You can request that it be read."
 
-Jessa's grip tightened.
+Jessa's grip tightened. "No." Maelis waited.
+
+Jessa looked up. "If I lose the job, I am not losing it because somebody says I misunderstood my own records." Nobody promised she would be fine.
+
+Good. Lying kindly was still lying. I asked: "Do you know if you still have the job?"
 
 "No."
 
-Maelis waited.
+No reward. No promotion. Consequences did not arrange themselves into satisfying endings.
 
-Jessa looked up.
-
-"If I lose the job, I am not losing it because somebody says I misunderstood my own records."
-
-Nobody promised she would be fine.
-
-Good.
-
-Lying kindly was still lying.
-
-I asked:
-
-"Do you know if you still have the job?"
-
-"No."
-
-No reward.
-
-No promotion.
-
-Consequences did not arrange themselves into satisfying endings.
-
-Maelis closed the evidence box.
-
-"What we can prove is enough."
+Maelis closed the evidence box. "What we can prove is enough."
 
 "What can't we prove?"
 
@@ -317,238 +145,86 @@ Maelis closed the evidence box.
 
 "Not mine."
 
-Good.
+Good. One less expert pretending expertise was ownership. The council hall was full.
 
-One less expert pretending expertise was ownership.
+Kellan had been brought in on a wheeled chair. Leg elevated. Sela stood nearby because apparently injured people attending politics required armed medical supervision.
 
-The council hall was full.
+Hesk sat under guard. No Roadmaster coat. No key.
 
-Kellan had been brought in on a wheeled chair.
+Still Hesk. The room did not hate him unanimously. That mattered.
 
-Leg elevated.
+One caravan representative stood. "The main road stayed open for years." Kellan looked at him. "So did the graves."
 
-Sela stood nearby because apparently injured people attending politics required armed medical supervision.
-
-Hesk sat under guard.
-
-No Roadmaster coat.
-
-No key.
-
-Still Hesk.
-
-The room did not hate him unanimously.
-
-That mattered.
-
-One caravan representative stood.
-
-"The main road stayed open for years."
-
-Kellan looked at him.
-
-"So did the graves."
-
-The man flinched.
-
-Another council member raised a hand.
-
-"No one is arguing the records should have been falsified."
+The man flinched. Another council member raised a hand. "No one is arguing the records should have been falsified."
 
 "Some of you are getting close."
 
-Brynn cut in.
+Brynn cut in. "We are not deciding whether Greywake needs roads. It does. We are deciding whether one office gets to choose which inhabited routes absorb danger without recorded authority or representation."
 
-"We are not deciding whether Greywake needs roads. It does. We are deciding whether one office gets to choose which inhabited routes absorb danger without recorded authority or representation."
+Hesk spoke. "You will discover recorded authority does not make hard decisions easier." Maelis answered. "No. It makes them visible."
 
-Hesk spoke.
+Quiet room. His policy had survived inside secrecy. The secrecy was gone.
 
-"You will discover recorded authority does not make hard decisions easier."
+Tavian gave the ecological report. No drama. Migration routes remained disturbed.
 
-Maelis answered.
+Broken North needed monitoring. The old diversion pattern could not simply restart without recreating unequal pressure. The main road would remain limited until repairs and movement stabilized.
 
-"No. It makes them visible."
-
-Quiet room.
-
-His policy had survived inside secrecy.
-
-The secrecy was gone.
-
-Tavian gave the ecological report.
-
-No drama.
-
-Migration routes remained disturbed.
-
-Broken North needed monitoring.
-
-The old diversion pattern could not simply restart without recreating unequal pressure.
-
-The main road would remain limited until repairs and movement stabilized.
-
-A council member asked:
-
-"Was Hesk wrong that Greywake needed the main road protected?"
+A council member asked: "Was Hesk wrong that Greywake needed the main road protected?"
 
 "No," Tavian said.
 
-Hesk looked at him.
+Hesk looked at him. Tavian continued. "He was wrong that secret control over who absorbed the danger was the only workable protection."
 
-Tavian continued.
+Jessa gave her statement next. Her voice shook. It kept shaking.
 
-"He was wrong that secret control over who absorbed the danger was the only workable protection."
+She finished anyway. Reserve codes. Control book.
 
-Jessa gave her statement next.
+Service key. Older housing. Unauthorized setting.
 
-Her voice shook.
+She did not call Hesk a monster. Facts did not need help. Maelis confirmed the documentary chain.
 
-It kept shaking.
+Brynn confirmed detention and seizure. Then someone asked me: "What do you think should happen to Hesk?" Every face turned toward me.
 
-She finished anyway.
+Uncomfortable. I looked at Hesk. He looked back. "I think you should stop asking the least qualified person in the room to run your legal system."
 
-Reserve codes.
+A few people laughed. I let it stop. "He saw a real problem. Then he decided some people counted less because sacrificing them was convenient."
 
-Control book.
+Hesk's expression did not change. "I am not deciding his sentence." Good boundary.
 
-Service key.
+The council formally removed Hesk from Roadmaster authority. Not temporary suspension. Removed.
 
-Older housing.
+Longer legal disposition would follow evidence review and whatever authority Greywake handed upward. He remained under guard. The argument survived him.
 
-Unauthorized setting.
+During recess, I heard three versions of myself. In one, I had held a road in the air while fighting a monster. In another, I caused the backflow and then helped repair my mistake.
 
-She did not call Hesk a monster.
+Both had enough truth to be irritating. A third said I threatened Hesk with an invisible execution spell. Creative.
 
-Facts did not need help.
+A market woman thanked me. A caravan driver blamed me for his delay. A militia recruit stared at my hands.
 
-Maelis confirmed the documentary chain.
+An older man moved away when someone said I was still undefined. A child asked if I could make a horse. "Probably not a good one."
 
-Brynn confirmed detention and seizure.
+His mother removed him before negotiations started. Greywake had apparently classified me as hero, criminal, monster, useful idiot, miracle worker, road hazard, and administrative headache. I preferred road hazard.
 
-Then someone asked me:
+Honest. The final order took longer than fighting Hesk. Naturally.
 
-"What do you think should happen to Hesk?"
+The clerk read every section aloud. The Chartered Road Guild would no longer hold unilateral authority to activate or alter dangerous diversion systems affecting inhabited routes. Such decisions required recorded civic emergency authority.
 
-Every face turned toward me.
+Militia received notice and operational oversight. Route-loss and route-safety records would be copied outside exclusive Guild control. Then came the part Kellan had waited years for.
 
-Uncomfortable.
+The Outer Homestead Compact would receive formal representation in emergency-route decisions affecting outer settlements. Not courtesy. Not comment afterward.
 
-I looked at Hesk.
+Participation before the choice. Written into the order. Kellan read the copy twice.
 
-He looked back.
-
-"I think you should stop asking the least qualified person in the room to run your legal system."
-
-A few people laughed.
-
-I let it stop.
-
-"He saw a real problem. Then he decided some people counted less because sacrificing them was convenient."
-
-Hesk's expression did not change.
-
-"I am not deciding his sentence."
-
-Good boundary.
-
-The council formally removed Hesk from Roadmaster authority.
-
-Not temporary suspension.
-
-Removed.
-
-Longer legal disposition would follow evidence review and whatever authority Greywake handed upward.
-
-He remained under guard.
-
-The argument survived him.
-
-During recess, I heard three versions of myself.
-
-In one, I had held a road in the air while fighting a monster.
-
-In another, I caused the backflow and then helped repair my mistake.
-
-Both had enough truth to be irritating.
-
-A third said I threatened Hesk with an invisible execution spell.
-
-Creative.
-
-A market woman thanked me.
-
-A caravan driver blamed me for his delay.
-
-A militia recruit stared at my hands.
-
-An older man moved away when someone said I was still undefined.
-
-A child asked if I could make a horse.
-
-"Probably not a good one."
-
-His mother removed him before negotiations started.
-
-Greywake had apparently classified me as hero, criminal, monster, useful idiot, miracle worker, road hazard, and administrative headache.
-
-I preferred road hazard.
-
-Honest.
-
-The final order took longer than fighting Hesk.
-
-Naturally.
-
-The clerk read every section aloud.
-
-The Chartered Road Guild would no longer hold unilateral authority to activate or alter dangerous diversion systems affecting inhabited routes.
-
-Such decisions required recorded civic emergency authority.
-
-Militia received notice and operational oversight.
-
-Route-loss and route-safety records would be copied outside exclusive Guild control.
-
-Then came the part Kellan had waited years for.
-
-The Outer Homestead Compact would receive formal representation in emergency-route decisions affecting outer settlements.
-
-Not courtesy.
-
-Not comment afterward.
-
-Participation before the choice.
-
-Written into the order.
-
-Kellan read the copy twice.
-
-Then looked at Brynn.
-
-"This stays after the emergency?"
+Then looked at Brynn. "This stays after the emergency?"
 
 "The order stays until replaced by something stronger."
 
 "Put that in the record."
 
-The clerk did.
+The clerk did. Hesk sat under guard while the institution he had controlled lost the unilateral power he had used in secret. The vote did not clean Greywake.
 
-Hesk sat under guard while the institution he had controlled lost the unilateral power he had used in secret.
+Broken North remained broken. Main-road traffic remained restricted. Caravans waited.
 
-The vote did not clean Greywake.
+People were injured. Jessa's employment remained uncertain. Kellan could not walk.
 
-Broken North remained broken.
-
-Main-road traffic remained restricted.
-
-Caravans waited.
-
-People were injured.
-
-Jessa's employment remained uncertain.
-
-Kellan could not walk.
-
-But when the clerk finished reading, the outer communities were no longer something Greywake could legally count around.
-
-For the first time, they were written into the decision before the next emergency arrived.
+But when the clerk finished reading, the outer communities were no longer something Greywake could legally count around. For the first time, they were written into the decision before the next emergency arrived.

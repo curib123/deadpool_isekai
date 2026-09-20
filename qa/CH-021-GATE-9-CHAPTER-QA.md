@@ -2,11 +2,20 @@
 
 **Chapter:** CH-021 — Before the Herd  
 **Manuscript:** `manuscript/CH021-BEFORE-THE-HERD.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 3,301
+**Review Date:** 2026-09-20  
+**Status:** PASS — CURRENT CANON REVALIDATED  
+**Word Count:** 2123
 
 **Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A097 Prose Editor, A096 Imagination Scene Designer, A037 Power Balance Editor, A042 Character Arc Editor, A044 Supporting Character Editor, A045 Antagonist Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A111 Logic Editor
+
+# Soul-Drift / Final Story-Engine Revalidation
+
+- close first-person narration confirmed;
+- actual Play Logic use remains zero by choice, not because Red is conserving a finite capacity;
+- ordinary methods are selected when persistent shared infrastructure matters;
+- Red has full underlying capability; recent pain/lack of sleep do not create magical depletion or precision loss;
+- Sela's instruction is plan-legibility/persistence, not power conservation;
+- Hesk remains unlocated and CH-022 action begins only after the final prey sighting.
 
 # Scope
 
@@ -23,7 +32,7 @@ Gate 9 reviewed CH-021 against:
 - Maelis custody/evidence boundary;
 - Jessa site/service cross-check boundary;
 - zero-manifestation requirement;
-- CH-019/020 exhaustion carryover;
+- ordinary recent physical/lack-of-sleep continuity without magical depletion;
 - Broken North barely-viable state;
 - Hesk search/resource-allocation logic;
 - CH-022 first-wave/action firewall;
@@ -247,7 +256,7 @@ Sela prevents him from converting knowledge into field return.
 
 Red physically carries stretchers/cots and remains fatigued.
 
-Sela explicitly orders him to conserve manifestation capacity unless a life immediately requires it.
+Sela explicitly orders him to avoid making ordinary logistics depend on temporary impossible objects unless the situation actually requires them.
 
 ## SC-021-04 — Every Lure Has a Witness
 
@@ -457,17 +466,7 @@ This demonstrates:
 
 **power discipline rather than power absence.**
 
-Recent exhaustion remains visible through:
-
-- hand tremor;
-- headache;
-- shoulder pain;
-- leg strain;
-- physical fatigue.
-
-A minor hand scrape closes abnormally.
-
-Regeneration does not restore stamina or precision.
+No finite Play Logic or regeneration resource is established. Red's ordinary physical state does not reduce his underlying capability.
 
 # Broken North Review
 
@@ -564,7 +563,7 @@ After canonization:
 - full coordinated Greywake evacuation/staging becomes canon;
 - people-before-property evacuation priority becomes canon;
 - Kellan's non-mobile transport/local-knowledge role becomes canon;
-- Sela's medical authority/power-conservation warning becomes canon;
+- Sela's medical authority/plan-legibility/persistence warning becomes canon;
 - Maelis's witnessed lure-stock distribution becomes canon;
 - Jessa's dispatch cross-check/mismatch correction becomes canon;
 - Tavian's observational activation thresholds become canon;

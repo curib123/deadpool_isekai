@@ -1,673 +1,465 @@
 Chapter 12 — Someone Put This Here
 
-“A march-lure.”
+"A march-lure."
 
-Tavian's words stayed in the little stone recess longer than they should have. I looked at the stake again. It had not become more evil-looking now that it had a name. That was mildly disappointing. The dark shaft was fixed into a socket cut through old watch-stone. Metal bands held a narrow ceramic chamber near the top. The vented cap faced slightly away from the ruined road, while thin etched channels ran from the base toward the rear plate. Maelis lifted one hand before Kellan could lean closer.
+The name changed nothing about the thing hidden in the wall. Dark stake. Ceramic chamber. Vented cap. Fresh service marks inside an abandoned watch point.
 
-“Don't touch it.”
+I had expected evil to look more cooperative. Maelis lifted one hand before Kellan could lean closer. "Don't touch it."
 
-Kellan stopped.
+Kellan stopped. "I wasn't."
 
-“I wasn't.”
+"You were thinking about it with your hand."
 
-“You were thinking about it with your hand.”
+"That is not a crime."
 
-“That is not a crime.”
+"Yet."
 
-“Yet.”
+I looked between them. "So this is normal?" Tavian gave me a flat look. "The existence of march-lures is normal."
 
-I looked between them.
+"That sentence had a second half."
 
-“So this is normal?”
+"It does."
 
-Tavian gave me a flat look.
+Maelis opened her field case. Paper. Charcoal. Measuring cord. Two small metal markers.
 
-“The existence of march-lures is normal.”
+No glowing lens. No convenient answer. Naturally.
 
-“That sentence had a second half.”
+She began with the stone recess. "Old road structure?" Kellan crouched beside her without crossing the markers she had placed. "The wall is old. The pocket is old. The socket isn't original."
 
-“It does.”
+"How certain?"
 
-Maelis crouched at the edge of the recess and opened her field case. She took out paper, charcoal, a measuring cord, and two small metal markers. No dramatic magical lens. No glowing sphere that immediately announced the villain's name. Apparently evidence preferred office supplies too. She began with the recess itself.
+"Very."
 
-“Old road structure?”
+He pointed with the pry bar instead of touching. "Different cut. Old road crews used pockets like this for tools and supplies. They didn't drill narrow anchors through the floor unless they were mounting something meant to stay."
 
-Kellan crouched beside her, careful not to cross the stones she had marked.
+"Permanent?" Maelis asked.
 
-“The wall is old. The pocket is old. The socket isn't original.”
+Kellan frowned. "Fixed. Not necessarily forever."
 
-“How certain?”
+"Better."
 
-“Very.”
+She wrote it down. Words became dangerous around Maelis. She handled them like loaded crossbows.
 
-He pointed with the end of his pry bar instead of touching.
+Tavian studied the vent and the angle of the capped chamber. "March-lures are used around temporary camps, livestock routes, and some road repairs. They bias animal movement away from a protected approach."
 
-“Different cut. Old road crews fitted storage pockets into the wall. They didn't drill a narrow anchor through the floor unless they were mounting something permanent enough to matter.”
+"Bias," I said.
 
-“Permanent?” Maelis asked.
+"Not control."
 
-Kellan frowned.
+"So it doesn't tell a wolf, 'Please go eat the people over there.'"
 
-“Fixed. Not necessarily forever.”
+"No."
 
-“Better.”
+Kellan's expression darkened anyway. Tavian continued. "Animals pick up the alchemical scent. The mana-guided component reinforces a direction. Different species respond differently. Terrain, weather, hunger, territory, and competing signals all matter."
 
-I watched her write that down. Words mattered more around Maelis than they did around most people. She treated them like loaded crossbows. Tavian studied the cap and the direction of the vent.
+Maelis looked at the stake. "And the danger does not disappear."
 
-“March-lures are used around temporary camps, livestock routes, some road repairs. They bias movement away from a protected approach.”
+"No. It shifts pressure."
 
-“Bias,” I said.
+That sounded less magical. Also worse. I pointed at the chamber. "Illegal?"
 
-“Not control.”
+Maelis and Tavian answered together. "No." I stared at them.
 
-“So it doesn't tell a wolf, ‘Please go eat the people over there.’”
+Kellan actually smiled. "Sorry," I said. "I thought finding the hidden monster-moving device inside the abandoned road might simplify things."
 
-“No.”
+"It rarely does," Maelis said.
 
-Kellan's expression darkened anyway. Tavian continued.
+Tavian gestured toward the lure. "The tool has legitimate uses."
 
-“Animals pick up the alchemical scent. The mana-guided component reinforces the direction. Different species respond differently. Terrain, weather, hunger, territory, and competing signals all matter.”
+"The installation might not," Maelis added. "Authorization, output, duration, location, reporting. We do not have those records."
 
-Maelis looked at the stake.
+"So the suspicious hidden stake may technically be compliant paperwork."
 
-“And the danger does not disappear.”
+"We do not know."
 
-“No,” Tavian said. “You move pressure away from one place. It goes somewhere else.”
+"Of course we don't."
 
-That was less magical. Also worse. I pointed at the ceramic chamber.
+Kellan leaned toward the base. "This part has been opened before." Maelis stopped writing. "What do you see?"
 
-“Illegal?”
+"Wear around the socket. Tool contact."
 
-Maelis and Tavian answered together.
+Several shallow arcs marked the collar. "Someone adjusted or serviced this more than once." Maelis shifted her attention to the upper fastening band. "The resin here is newer."
 
-“No.”
+"And that pin was replaced," Kellan said. "Different metal. Less corrosion."
 
-I stared at them. Kellan actually smiled.
+Tavian touched nothing. He only watched. "So not one forgotten device."
 
-“Sorry,” I said. “I thought finding the hidden monster-moving device inside the abandoned road would simplify things.”
+Kellan shook his head. "No." Maelis wrote for several seconds. "Repeated servicing is supportable. Exact duration is not."
 
-“It rarely does,” Maelis said.
+Kellan looked at her. "You really enjoy making every sentence less satisfying."
 
-Tavian gestured toward the lure.
+"I enjoy making it true."
 
-“The tool has legitimate uses.”
+That was the problem with competent people. They kept making boring distinctions useful. We spent the next part of the morning reading the site without disturbing it.
 
-“The installation might not,” Maelis added. “Authorization, output, duration, location, reporting requirements. We do not have those records.”
+Tavian circled the ruined watch point and followed animal sign. Kellan traced the old roadwork and drainage cuts. Maelis measured the lure angle and copied the visible markings.
 
-“So the mysterious hidden stake may technically be paperwork-compliant.”
+I kept my hands to myself. A historic achievement. Tavian stopped near the slope where the ridge-hounds had refused to follow us. "Here."
 
-“We do not know.”
+I joined him. The ground held several track sets. I could recognize the obvious shapes now.
 
-“Of course we don't.”
+That still did not make me Tavian. He pointed toward the watch point. "See how they approach?"
 
-Kellan leaned toward the base.
+"Poorly?"
 
-“This part has been here longer than the new seal.”
+"They bend before the recess."
 
-Maelis stopped writing.
+He traced the direction with two fingers. "Not all at the same distance. Not all at the same angle. But the pressure is consistent."
 
-“What do you see?”
+Maelis came closer. "Consistent with the vent orientation?"
 
-“Wear around the socket. Not weather. Tool contact.”
+"Yes."
 
-He showed us where several shallow arcs marked the metal collar.
+Kellan looked toward the old road. "And the opposite side?"
 
-“Someone's opened or adjusted this more than once.”
+"Less avoidance."
 
-Maelis shifted her attention to the upper band.
+Maelis returned to the lure and studied the metal plate behind the socket. "These channels are directional." Tavian nodded. "The screened side should be southwest."
 
-“The resin on this fastener is newer.”
+"And displacement?"
 
-“And that pin was replaced,” Kellan said. “Different metal. Less corrosion.”
+"Generally northeast to east from this position. Terrain will distort it."
 
-Tavian touched nothing. He only watched.
+Kellan's jaw set. "That is outer-road country." Maelis looked at him. "It is a direction."
 
-“So not one forgotten device.”
+"It is where people live."
 
-Kellan's mouth tightened.
+"Both can be true."
 
-“No.”
+He did not like that answer. Neither did I. Tavian crouched again. "One lure could influence this immediate corridor."
 
-Maelis wrote for several seconds.
+"Could it explain the tracks from yesterday?" I asked.
 
-“Repeated servicing is supportable. Exact duration is not.”
+"Some."
 
-Kellan looked at her.
+"All?"
 
-“You really enjoy making every sentence less satisfying.”
+"No."
 
-“I enjoy making it true.”
+That answer came quickly. He stood. "The movement we found covers too much ground, too many species, and too many separate track ages for me to explain all of it with one ordinary short-term lure."
 
-That ended the argument. We spent the next stretch learning that a march-lure could be very informative while refusing to answer the question I actually cared about. Tavian moved around the ruined watch point, checking the tracks without crossing Maelis's marked evidence line. Kellan followed the stonework and drainage cut. Maelis measured the lure's mounting angle and copied the visible sigils. I mostly tried not to touch anything.
+There it was. Not proof. Just a larger question becoming heavier.
 
-Growth.
+Maelis opened the field sheet from her audit. "The record pattern also spans more than this corridor." Kellan looked at her. "So there are more."
 
-Tavian stopped near the slope where the ridge-hounds had refused to follow us.
+She did not blink. "I did not say that."
 
-“Here.”
+"You were about to."
 
-I joined him. The ground held several different track sets. I recognized the obvious ones now, but that only meant I could tell where feet had existed. Tavian could tell a story from them. He pointed toward the watch point.
+"I was not."
 
-“See how they approach?”
+I pointed between them. "For the record, I heard her not say it very clearly." Maelis ignored me. "One known lure is evidence of artificial influence. It is not evidence of a complete network."
 
-“Poorly?”
+Tavian nodded. "But if this is the only one, we still need another explanation for the rest."
 
-“They bend before the recess.”
+"Exactly."
 
-He traced the direction with two fingers.
+Kellan looked back toward the stake. "So we look for more." Maelis folded the paper. "We preserve what we have first."
 
-“Not all at the same distance. Not all at the same angle. But the pressure is consistent.”
+On the way down from Broken North, the trees opened enough to show three old connector roads crossing the slope. Kellan stopped and pointed. "That one feeds the outer bridge."
 
-Maelis came closer.
+I knew that bridge. I had held part of it together. He pointed farther south. "That side road joins the service route before Greywake."
 
-“Consistent with the vent orientation?”
+I knew that road too. I had bled on it. Tavian looked from the terrain to the lure direction we had recorded.
 
-“Yes.”
+Maelis unfolded a smaller route sheet from the audit. I still could not read the labels. I no longer needed to.
 
-Kellan looked back toward the old road.
+The shapes had become familiar. She indicated one line. "Your first paid road assignment after Hesk's private arrangement was here."
 
-“And the other side?”
+Main Caravan Road. Protected side. Another line. "The later service-road incident was here."
 
-“Less avoidance.”
+Closer to the edge. Kellan pointed farther out. "And my bridge."
 
-Maelis returned to the lure and studied the etched plate.
+Inside the displacement side. Then Tavian's track route. North again.
 
-“These channels are directional.”
+Nobody spoke for a moment. I looked at the map. Main-road job on one side.
 
-Tavian nodded.
+Pack attack closer to the line. Kellan's bridge farther into the outer route. My jobs had felt random when I accepted them.
 
-“The screened side should be there.”
+Now they sat on the same piece of paper. "Interesting." My voice came out flatter than I intended.
 
-He pointed south-west.
+Maelis glanced at me. "Do not jump past the evidence."
 
-“And displacement?”
+"I haven't said anything."
 
-“Generally north-east to east from this position, depending on terrain.”
+"You were about to."
 
-Kellan's jaw set.
+Annoying woman. I tapped the route sheet. "Someone had an undocumented worker who survives things badly."
 
-“That is outer-road country.”
+Kellan looked at me. "That is one way to describe yourself."
 
-Maelis looked at him.
+"And that worker kept getting sent near routes taking abnormal pressure."
 
-“It is a direction.”
+Maelis held my gaze. "That overlap is real."
 
-“It is where people live.”
+"But?"
 
-“Both can be true.”
+"We do not know who knew the lure geometry when those assignments were made."
 
-He did not like that answer. Neither did I. Tavian crouched again.
+I looked toward Greywake. "Hesk gave me the arrangement."
 
-“One lure could influence this immediate corridor.”
+"Yes."
 
-“Could it explain the tracks from yesterday?” I asked.
+"He controls Guild route work."
 
-“Some of them.”
+"Yes."
 
-“All of them?”
+"And somehow those facts are not allowed to meet."
 
-“No.”
+"They are allowed to meet," she said. "They are not allowed to marry without witnesses."
 
-That came quickly. He stood.
+Kellan made a noise that might have been a laugh. I did not. The idea had settled somewhere unpleasant.
 
-“The movement we found covered too much ground, too many species, and too many separate track ages for me to be comfortable explaining all of it with one ordinary short-term lure.”
+Maybe Hesk knew. Maybe someone under him knew. Maybe nobody assigning me understood the exact risk and the overlap came from the same priorities chewing through everyone else.
 
-There it was.
+Kellan pointed toward the outer homestead route. "Don't make this only about you." That landed. "You can survive being sent somewhere stupid."
 
-Not proof.
+Not always. But I understood what he meant. "Most people out there can't."
 
-Just a larger question getting heavier. Maelis opened her field sheet from the audit.
+I looked at the map again. The anger stayed. It just stopped being neat.
 
-“The record pattern also spans more than this corridor.”
+We reached Greywake's outer approach before the Guild reached us. That lasted about three minutes. Four Road Guild personnel came down from the core side.
 
-Kellan looked at her.
+Two wore road-guard gear. One carried a document case. The fourth was an older route supervisor I had seen in the caravan yard.
 
-“So there are more.”
+The Wayfarer Token on Tavian's belt caught their speech. The supervisor raised one hand. "Maelis Orra?"
 
-She did not even blink.
+Maelis stepped forward. "Yes."
 
-“I did not say that.”
+"I have instructions from Roadmaster Hesk regarding the Broken North site."
 
-“You were about to.”
+There it was. Property law had finally caught up with us. Faster than answers.
 
-“I was not.”
+The supervisor opened his case and removed a sealed paper. I looked at the writing. Still useless.
 
-I pointed between them.
+Maelis asked him to read the relevant part aloud. Broken North remained under Guild charter. Installed road equipment within the corridor fell under Guild custody pending inspection.
 
-“For the record, I heard her not say it very clearly.”
+Unauthorized persons were prohibited from interfering with, removing, or retaining Guild equipment. Related route records were temporarily restricted during review. It sounded extremely reasonable.
 
-Maelis ignored me.
+I hated that. Maelis held out her hand. "I need to inspect the order."
 
-“One known lure is evidence of artificial influence. It is not evidence of a complete network.”
+The supervisor passed it over. Tavian spoke next. "No one should alter the lure until we understand what it is doing to current animal movement."
 
-Tavian nodded.
+The supervisor looked at him. "You identified it?"
 
-“But if this is the only one, we still need an explanation for the rest.”
+"Yes."
 
-“Exactly.”
+"Then you know the Guild has procedures for handling road-diversion equipment."
 
-Kellan looked back toward the stake.
+"I also know movement in this region is abnormal."
 
-“So we look for more.”
+Kellan folded his arms. "Funny how procedure arrived right after we found it." The supervisor's expression tightened. "I am not here to debate the Guild with you."
 
-Maelis folded the paper.
+"Convenient."
 
-“We first preserve what we have.”
+Maelis finished reading. "The custody claim is not proof of ownership of that specific installation."
 
-That was when the investigation became personal. It happened on the way back toward Greywake. The path down from Broken North gave us a view across several older connector roads. Kellan stopped at a bare patch of slope and pointed toward three lines cutting through the trees.
+"It is installed on Guild-chartered infrastructure."
 
-“That one feeds the outer bridge.”
+"That establishes a claim."
 
-I knew that bridge. I had held part of it together. He pointed farther south.
+The supervisor paused. "Is there another?"
 
-“That side road joins the service route before Greywake.”
+"It is physical evidence connected to an active Ledger audit."
 
-I knew that road too. I had bled on it. Tavian looked from the terrain to the direction we had recorded at the lure. Maelis took out the smaller route sheet she had used during the audit. I could not read the labels. I did not need to. The shapes were enough. Maelis indicated one line.
+That changed his expression. Not guilt. Calculation. "We were instructed to secure the equipment."
 
-“Your first paid road assignment after the private arrangement was here.”
+"After independent documentation is complete."
 
-Main Caravan Road. Protected side. Another line.
+"Roadmaster Hesk's order is immediate."
 
-“The later service-road incident was here.”
+"No."
 
-Closer to the edge. Kellan pointed toward the outer connector.
+Everyone looked at me. I had been allowing the professionals to work. I had done very well for almost a full minute.
 
-“And my bridge.”
+The supervisor studied me. "You are one of the unauthorized entrants."
 
-Farther into the side Tavian had called displacement. Then the track route from yesterday. North again. For a few seconds nobody said anything. I looked at the map. My jobs had felt random when I took them. Bad work for good-enough money. No registry. No certification. No normal protections.
+"I prefer uninvited investigator."
 
-Convenient.
+"No one else does," Maelis said.
 
-I had liked that part. Freedom from forms was still freedom. It also meant there was no clean place in the records where someone had to explain why I kept ending up in bad places.
+Fair. "You have no standing in this matter."
 
-“Interesting,” I said.
+"There it is."
 
-My voice sounded flatter than I intended. Maelis glanced at me.
+"What?"
 
-“Do not jump past the evidence.”
+"Standing."
 
-“I haven't said anything.”
+I stepped between the Guild party and the road back toward Broken North. Not close enough to start a fight. Close enough to make the next choice inconvenient.
 
-“You are about to.”
+The guards shifted. Tavian noticed. So did Maelis. "Red Jackal," she said.
 
-Annoying woman. I tapped the route sheet.
+"I know."
 
-“Someone had an undocumented worker who survives things badly.”
+The supervisor's voice cooled. "Move."
 
-Kellan looked at me.
+"No."
 
-“That is one way to describe yourself.”
+"This is Guild property."
 
-“And that worker kept getting sent near routes taking abnormal pressure.”
+"Maybe."
 
-Maelis held my gaze.
+"It is installed on a Guild road."
 
-“That overlap is real.”
+"Also maybe relevant evidence."
 
-“But?”
+"That is not your determination."
 
-“But we do not know who knew the lure geometry when your assignments were made.”
+I smiled without much humor. "Good thing I'm not asking to keep it." That made him hesitate.
 
-I looked toward Greywake in the distance.
+I pointed toward Maelis. "She documents it." Then Tavian. "He decides whether touching it will make the animal problem worse."
 
-“Hesk gave me the arrangement.”
+Then Kellan. "He knows the road." Finally myself. "And I am the person saying the group claiming sole custody does not get to collect the interesting object before everybody else finishes looking."
 
-“Yes.”
+Maelis exhaled slowly. "That is not how neutral custody works."
 
-“He controls Guild route work.”
+"I know. I am creating motivation to find some."
 
-“Yes.”
+One guard put a hand near his weapon. Tavian's voice changed. "Don't."
 
-“And somehow those facts are not allowed to meet.”
+The guard looked at him. Tavian did not reach for his own blade. "Nothing here requires steel."
 
-“They are allowed to meet,” she said. “They are not allowed to marry without witnesses.”
+The hand moved away. Good. I was angry.
 
-Kellan made a noise that might have been a laugh. I did not. The thought had already settled somewhere unpleasant.
+I was not interested in becoming stupid for symmetry. The supervisor looked at Maelis. "Are you supporting this?"
 
-Maybe Hesk knew.
+"No."
 
-Maybe someone under him knew.
+I turned my head. She continued. "I support preserving the site from unilateral alteration by any interested party until evidence handling is established."
 
-Maybe nobody assigning me understood the exact risk and the overlap came from the same bad route priorities that had been chewing up everyone else.
+I smiled. "Suspiciously similar."
 
-Kellan looked at the outer roads.
+"It isn't."
 
-“Don't make this only about you.”
+"Of course."
 
-That landed harder than I expected. I turned to him. He pointed toward the homestead route.
+Kellan stepped beside her. "If you take that thing behind Guild doors, the outer homesteads will never trust whatever report comes out."
 
-“You can survive being sent somewhere stupid.”
+"The Compact does not control road equipment."
 
-Not always, I thought. But I understood him.
+"And the Guild does not control whether we believe you."
 
-“Most people out there can't.”
+Boots sounded behind the Guild group. Captain Brynn Alder arrived with two militia members. Her eyes moved across the scene.
 
-I looked back at the map. The anger stayed. It just stopped being neat. We reached Greywake's outer approach before the Guild reached us. That lasted about three minutes. Four Road Guild personnel came down the road from the core side. Two wore road-guard gear. One carried a document case. The fourth was an older route supervisor I had seen around the caravan yard but never spoken to. The Wayfarer Token at Tavian's belt caught their speech as they approached. The supervisor raised one hand.
+Guild. Maelis. Tavian.
 
-“Maelis Orra?”
+Kellan. Me. She stopped there. "Why are you in the middle?"
 
-Maelis stepped forward.
+"Natural leadership."
 
-“Yes.”
+"No."
 
-“I have instructions from Roadmaster Hesk regarding the Broken North site.”
+"Worth trying."
 
-There it was. Property law had caught up with us. Faster than answers. The supervisor opened his case and removed a sealed paper. I looked at the writing. Still useless. He read the relevant part aloud after Maelis asked. Broken North remained under Guild charter. Installed road equipment within the corridor fell under Guild custody pending inspection. Unauthorized persons were prohibited from interfering with, removing, or retaining Guild equipment. Related route records were temporarily restricted while the matter was reviewed. It sounded extremely reasonable. I hated that. Maelis held out her hand.
+"Move two steps back."
 
-“I need to inspect the order.”
+I considered it. Then did it. Tavian noticed.
 
-The supervisor passed it to her. Tavian spoke next.
+I pretended he did not. Brynn faced the supervisor. "Start from the beginning."
 
-“No one should alter the lure until we understand what it is doing to current animal movement.”
+He gave the Guild version. Maelis gave the evidence version. Tavian explained the animal-movement risk.
 
-The supervisor looked at him.
+Kellan explained the road and recent servicing. Brynn asked questions without looking impressed by anyone. One of her better qualities.
 
-“You identified it?”
+When they finished, she looked toward Broken North. "The device is still in place?"
 
-“Yes.”
+"Yes," Maelis said.
 
-“Then you know the Guild has procedures for handling road-diversion equipment.”
+"Undamaged?"
 
-“I also know movement in this region is already abnormal.”
+"Yes."
 
-Kellan folded his arms.
+"Disabled?"
 
-“Funny how the procedures appeared after we found it.”
+"No."
 
-The supervisor's expression tightened.
+Brynn looked at Tavian. "Should it be?"
 
-“I am not here to debate the Road Guild with you.”
+"Not until we understand the route effect."
 
-“Convenient.”
+"Good."
 
-Maelis finished reading.
+The Guild supervisor stepped forward. "Captain, the Roadmaster's order—"
 
-“The custody claim is not the same as proof of ownership of that specific installation.”
+"I heard the order."
 
-“It is installed on Guild-chartered road infrastructure.”
+"It is Guild property."
 
-“That establishes a claim.”
+"It may be."
 
-The supervisor paused.
+His jaw tightened. Brynn continued. "It is also a device capable of changing monster movement near settlement roads. That makes its current state a militia concern."
 
-“Is there another?”
+"The militia does not have authority over Guild equipment."
 
-“It is physical evidence connected to an active Ledger audit.”
+"I am not claiming it."
 
-That changed his expression. Not guilt. Calculation.
+She looked at Maelis. "Your documentation stays with you." Then Tavian. "No one changes the device without a field-risk assessment."
 
-“We were instructed to secure the equipment.”
+Then Kellan. "You provide the route and infrastructure statement." Then the Guild supervisor. "You can submit the custody claim to the council and Ledger."
 
-“After independent documentation is complete.”
+Finally me. "You do not own it."
 
-“Roadmaster Hesk's order is immediate.”
+"I was doing so well until that part."
 
-“No,” I said.
+"You will continue not owning it."
 
-Everyone looked at me. I had been trying to let the professionals do their jobs. I had done very well for almost a full minute. The supervisor studied me.
+"Fine."
 
-“You are one of the unauthorized entrants.”
+Brynn ignored me. "I am posting militia witnesses at the outer closure and the watch approach. No one removes, opens, drains, disables, or services the lure until review."
 
-“I prefer uninvited investigator.”
+The supervisor's face hardened. "You are obstructing Guild operations."
 
-“No one else does,” Maelis said.
+"I am preventing a public-safety device from being altered during an active dispute."
 
-Fair. The supervisor continued.
+That was a very Maelis sentence. Maelis seemed to approve. "If Hesk objects, he knows where to find me."
 
-“You have no standing in this matter.”
+Nobody drew a weapon. The lure stayed exactly where we had found it. For once, leaving something alone counted as progress.
 
-“There it is.”
+We ended the day at a militia road table near Greywake's outer post. Neutral enough that the Guild did not own the room. Public enough that nobody could quietly make the papers disappear.
 
-“What?”
+Maelis spread three maps across the table. I could not read a single label. I was becoming extremely skilled at being offended by maps.
 
-“Standing.”
+Tavian placed small stones where he had recorded track concentrations. Kellan marked old connectors, bridges, and homestead approaches. Brynn added militia routes and maintained approaches.
 
-I stepped between the Guild group and the road leading back toward Broken North. Not close enough to start a fight. Close enough to make the next choice inconvenient. The two guards shifted. Tavian noticed. So did Maelis.
+Maelis drew the provisional line from the lure's mount. "Again," she said. "This is directional effect, not proof of intent."
 
-“Red Jackal,” she said.
+Kellan pointed southwest. "Main road." Brynn leaned closer. "Main Caravan Road and the protected approach."
 
-“I know.”
+Tavian nodded. "That fits the screened side." Maelis marked it.
 
-The supervisor's voice cooled.
+Then she extended the opposite line. Northeast. Across older roads.
 
-“Move.”
+Past minor connectors. Toward the homestead routes. Nobody spoke for several seconds.
 
-“No.”
+I found my old assignments without reading names. Main-road job on the safe side. Side-road attack closer to the line.
 
-“This is Guild property.”
+Kellan's bridge beyond it. Tavian's track route followed the same ugly direction. I tapped one point. "So either someone was very lucky when they installed that stake—"
 
-“Maybe.”
+"Careful," Maelis said.
 
-“It is installed on a Guild road.”
+I looked at her. She pointed to the map. "We can say the placement is directional."
 
-“Also maybe relevant evidence.”
+Tavian added, "We can say the direction is consistent with reducing animal pressure toward the main-road corridor." Kellan's finger landed on the other side. "And making it worse here."
 
-“That is not your determination.”
+"Making movement more likely there," Tavian corrected.
 
-I smiled without feeling much humor in it.
+Kellan looked at him. "That distinction is getting expensive."
 
-“Good thing I'm not asking to keep it.”
+"It still matters."
 
-That made him hesitate. I pointed toward Maelis.
+Brynn stared at the outer routes. "Can one lure do all of this?"
 
-“She documents it.”
+"No," Tavian said. "Not comfortably. Not under ordinary use."
 
-Then toward Tavian.
+Maelis nodded. "One device does not prove more devices."
 
-“He decides whether touching it is likely to make the animal problem worse.”
+"But it gives us somewhere to look," I said.
 
-Then toward Kellan.
+"Yes."
 
-“He knows the road.”
+I looked at the line Maelis had drawn. One side touched the Main Caravan Road. The other cut through old routes toward the outer settlements.
 
-Finally I tapped my chest.
+No name. No order. No proof of a network.
 
-“And I am the person standing here saying the group that wants sole custody doesn't get to collect the interesting object before everybody else finishes looking.”
-
-Maelis exhaled slowly.
-
-“That is not how neutral custody works.”
-
-“I know. I am creating motivation to find some.”
-
-One guard put a hand near his weapon. Tavian's voice changed.
-
-“Don't.”
-
-The guard looked at him. Tavian did not reach for his sword. He did not need to.
-
-“Nothing here requires steel.”
-
-The guard's hand moved away.
-
-Good.
-
-I was angry. I was not interested in becoming stupid for symmetry. The Guild supervisor looked at Maelis.
-
-“Are you supporting this?”
-
-“No.”
-
-I turned my head. She continued.
-
-“I support preserving the site from unilateral alteration by any interested party until evidence handling is established.”
-
-I smiled.
-
-“That sounds suspiciously similar.”
-
-“It isn't.”
-
-“Of course.”
-
-Kellan stepped beside her.
-
-“If you take that thing back behind Guild doors, the outer homesteads will never trust whatever report comes out.”
-
-The supervisor looked at him.
-
-“The Compact does not control road equipment.”
-
-“And the Guild doesn't control whether we believe you.”
-
-That was when Captain Brynn Alder arrived. She came with two militia members and the expression of someone who had been told there was a possible armed dispute involving me and had immediately regretted waking up. Her eyes moved across the group. Guild. Maelis. Tavian. Kellan. Me. She stopped on me.
-
-“Why are you in the middle?”
-
-“Natural leadership.”
-
-“No.”
-
-“Worth trying.”
-
-“Move two steps back.”
-
-I considered the request. Then did it. Tavian noticed. I pretended he did not. Brynn addressed the supervisor.
-
-“Start from the beginning.”
-
-He gave her the Guild version. Maelis gave her the evidence version. Tavian explained the animal-movement risk. Kellan explained the route and the recent servicing. Brynn asked questions without looking impressed by anyone. That was one of her better qualities. When they finished, she looked toward Broken North.
-
-“The device is still in place?”
-
-“Yes,” Maelis said.
-
-“Undamaged?”
-
-“Yes.”
-
-“Disabled?”
-
-“No.”
-
-Brynn looked at Tavian.
-
-“Should it be?”
-
-“Not until we understand the route effect.”
-
-“Good.”
-
-The Guild supervisor stepped forward.
-
-“Captain, the Roadmaster's order—”
-
-“I heard the order.”
-
-“It is Guild property.”
-
-“It may be.”
-
-His jaw tightened. Brynn continued before he could object.
-
-“It is also a device capable of changing monster movement near settlement roads. That makes its current state a militia concern.”
-
-“The militia does not have authority over Guild equipment.”
-
-“I am not claiming the equipment.”
-
-She looked at Maelis.
-
-“Your documentation stays with you.”
-
-Then at Tavian.
-
-“No one changes the device without a field-risk assessment.”
-
-At Kellan.
-
-“You will provide the route location and infrastructure statement.”
-
-Then at the Guild supervisor.
-
-“You can submit the custody claim to the council and the Ledger representative.”
-
-Finally she looked at me.
-
-“You do not own it.”
-
-“I was doing so well until that part.”
-
-“You will continue not owning it.”
-
-“Fine.”
-
-Brynn ignored me.
-
-“I am posting militia witnesses at the outer closure and the watch approach. No one removes, opens, drains, disables, or services the lure until this is reviewed.”
-
-The supervisor's face hardened.
-
-“You are obstructing Guild operations.”
-
-“I am preventing a public-safety device from being altered during an active dispute.”
-
-That was a very Maelis sentence. Maelis seemed to approve. Brynn's gaze stayed on the supervisor.
-
-“If Hesk objects, he knows where to find me.”
-
-Nobody drew a weapon.
-
-Nobody won.
-
-That was probably why it worked. The first lure stayed where we found it. For once, leaving something alone felt like progress. We ended the day at a militia road table near Greywake's outer post. Neutral enough that the Guild did not own the room. Public enough that nobody could quietly make the papers disappear. Maelis spread three maps across the table. I could not read a single label. I was becoming very good at being offended by maps. Tavian placed small stones where he had recorded track concentrations. Kellan marked old connectors, outer bridges, and homestead approaches. Brynn added militia routes and the maintained approaches to Greywake. Maelis drew the line we had recorded from the lure's mount.
-
-“Again,” she said. “This is a provisional directional effect.”
-
-Kellan pointed to the south-west side.
-
-“Main road.”
-
-Brynn leaned over the map.
-
-“Main Caravan Road and the protected approach.”
-
-Tavian nodded.
-
-“That fits the screened side.”
-
-Maelis marked it. Then she extended the opposite direction. North-east. Across the older roads. Past the minor connectors. Toward the homestead routes. Nobody spoke for a few seconds. I found my old assignments without reading the names. The main-road job sat on the safe side. The side-road attack sat closer to the line. Kellan's bridge sat beyond it. The track route from yesterday followed the same ugly direction. I tapped one point.
-
-“So either someone was very lucky when they put that stake there—”
-
-“Careful,” Maelis said.
-
-I looked at her. She pointed at the map.
-
-“We can say the placement is directional.”
-
-Tavian added, “We can say the direction is consistent with reducing animal pressure toward the main-road corridor.” Kellan's finger landed on the other side.
-
-“And increasing it here.”
-
-“Making movement more likely there,” Tavian corrected.
-
-Kellan looked at him.
-
-“That distinction is getting expensive.”
-
-“It still matters.”
-
-Brynn stared at the outer routes.
-
-“Can one lure do all of this?”
-
-“No,” Tavian said. “Not comfortably. Not under ordinary use.”
-
-Maelis nodded.
-
-“One device does not prove more devices.”
-
-“But it gives us somewhere to look,” I said.
-
-“Yes.”
-
-I studied the map again. The pattern did not tell us who had ordered anything. It did not tell us how many stakes existed. It did not tell us whether Hesk had known exactly where I was being sent. It did not tell us who had decided the rules.
-
-Not yet.
-
-But the road finally admitted what direction the pressure moved.
-
-The lure's protected side favored the Main Caravan Road.
-
-Its danger side pointed toward the outer settlements.
+Not yet. But the direction was finally visible.

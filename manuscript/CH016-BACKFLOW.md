@@ -6,209 +6,85 @@
 **Chapter QA:** `qa/CH-016-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-016-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
-The march-lure lay dead in the stone recess.
+The march-lure lay dead in the stone recess. Rear plate dark. Vent silent.
 
-Rear plate dark.
+The forest was not. A call rolled in from the northeast. Another answered from lower ground.
 
-Vent silent.
+Tavian stood still and listened. Then brush moved west of the upper approach. Not one animal.
 
-The forest was not.
+Several. Branches shook in a line crossing the road instead of following it. Kellan turned toward the farms. "What is that?"
 
-A call rolled in from the northeast.
+Tavian raised one hand. We waited. A group of long-legged browsing animals broke from the trees and crossed the upper road at a run.
 
-Another answered from lower ground.
+Heavy bodies. Narrow heads. Built to eat plants and avoid trouble.
 
-Tavian stood still and listened.
+They were doing badly at the second part. They came from the screened side of the dead lure. Straight across the road.
 
-Then brush moved west of the upper approach.
+One stumbled against drainage stone, recovered, and kept moving. Then came the sound I knew. Ridge-hounds.
 
-Not one animal.
+Not the two from before. More. Tavian moved immediately. "Downhill. Now."
 
-Several.
-
-Branches shook in a line crossing the road instead of following it.
-
-Kellan turned toward the farms.
-
-"What is that?"
-
-Tavian raised one hand.
-
-We waited.
-
-A group of long-legged browsing animals broke from the trees and crossed the upper road at a run.
-
-Heavy bodies.
-
-Narrow heads.
-
-Built to eat plants and avoid trouble.
-
-They were doing badly at the second part.
-
-They came from the screened side of the dead lure.
-
-Straight across the road.
-
-One stumbled against drainage stone, recovered, and kept moving.
-
-Then came the sound I knew.
-
-Ridge-hounds.
-
-Not the two from before.
-
-More.
-
-Tavian moved immediately.
-
-"Downhill. Now."
-
-Kellan looked at him.
-
-"Back to the farms?"
+Kellan looked at him. "Back to the farms?"
 
 "No. Off this line."
 
-I looked into the trees.
-
-"How many?"
+I looked into the trees. "How many?"
 
 "Doesn't matter."
 
-That answer mattered.
+That answer mattered. The hounds were not charging us. They were following moving prey.
 
-The hounds were not charging us.
+One crossed where the browsers had crossed. Another appeared farther south. A third call sounded beyond both.
 
-They were following moving prey.
-
-One crossed where the browsers had crossed.
-
-Another appeared farther south.
-
-A third call sounded beyond both.
-
-Tavian grabbed my arm and pulled me from the road center.
-
-"Do not engage unless they turn on people."
+Tavian grabbed my arm and pulled me from the road center. "Do not engage unless they turn on people."
 
 "They are moving toward people."
 
 "Then we move the people."
 
-I looked back at the dead lure.
+I looked back at the dead lure. For one second I wanted one more thing to break. There was nothing left to blame locally.
 
-For one second I wanted one more thing to break.
+Another line of movement cut through lower brush. Smaller animals. Fast.
 
-There was nothing left to blame locally.
+Scattered. Crossing routes that had been screened an hour ago. Tavian watched them.
 
-Another line of movement cut through lower brush.
+His face changed. Recognition. "Backflow."
 
-Smaller animals.
-
-Fast.
-
-Scattered.
-
-Crossing routes that had been screened an hour ago.
-
-Tavian watched them.
-
-His face changed.
-
-Recognition.
-
-"Backflow."
-
-Kellan looked at him.
-
-"You're sure?"
+Kellan looked at him. "You're sure?"
 
 "Enough."
 
-That word settled harder than certainty.
+That word settled harder than certainty. Tavian pointed downhill. "These routes were being suppressed. They're not returning neatly to some old natural path. They're spilling into whatever remains open."
 
-Tavian pointed downhill.
+The hounds crossed again. Not one route. Several.
 
-"These routes were being suppressed. They're not returning neatly to some old natural path. They're spilling into whatever remains open."
+My side tightened when I started moving. Pain came with it. The bite in my leg had stopped bleeding.
 
-The hounds crossed again.
+My body was correcting itself because that was apparently what it did. None of that told me where the next road would fail. We ran.
 
-Not one route.
+The first farm approach was already emptying. People carried what they could. Not everything.
 
-Several.
+Nobody ever carried everything. A woman dragged sacks toward a cart. Another person pulled a child away from a livestock pen.
 
-My side tightened when I started moving.
+Someone cut the pen gate open instead of trying to lead every animal out. Good choice. The livestock scattered anyway.
 
-Pain came with it.
+Kellan shouted. "Lower connector. Leave the north track."
 
-The bite in my leg had stopped bleeding.
+People listened to him. That mattered more than anything I could announce. Tavian climbed onto a low stone edge and looked across the fields. "Do not use the tree-line path."
 
-My body was correcting itself because that was apparently what it did.
-
-None of that told me where the next road would fail.
-
-We ran.
-
-The first farm approach was already emptying.
-
-People carried what they could.
-
-Not everything.
-
-Nobody ever carried everything.
-
-A woman dragged sacks toward a cart.
-
-Another person pulled a child away from a livestock pen.
-
-Someone cut the pen gate open instead of trying to lead every animal out.
-
-Good choice.
-
-The livestock scattered anyway.
-
-Kellan shouted.
-
-"Lower connector. Leave the north track."
-
-People listened to him.
-
-That mattered more than anything I could announce.
-
-Tavian climbed onto a low stone edge and looked across the fields.
-
-"Do not use the tree-line path."
-
-Kellan turned.
-
-"Why?"
+Kellan turned. "Why?"
 
 "Movement behind it."
 
-At first I saw nothing.
+At first I saw nothing. Then the brush folded. Small predators crossed a side track that had been clear before.
 
-Then the brush folded.
+Another road gone. We reached the next junction as three militia riders came from Greywake. The lead rider pulled up hard. "Captain's coming."
 
-Small predators crossed a side track that had been clear before.
-
-Another road gone.
-
-We reached the next junction as three militia riders came from Greywake.
-
-The lead rider pulled up hard.
-
-"Captain's coming."
-
-Tavian stepped into the road.
-
-"Reports?"
+Tavian stepped into the road. "Reports?"
 
 "North farm approach. East timber connector. One movement line near the lower Greywake road."
 
-Kellan went still.
-
-"The lower road?"
+Kellan went still. "The lower road?"
 
 "Yes."
 
@@ -216,85 +92,31 @@ Kellan went still.
 
 "Not now."
 
-Tavian looked toward Greywake.
+Tavian looked toward Greywake. Then the farms. The rider continued. "Patrol markers are changing faster than we can update them."
 
-Then the farms.
+A second rider pointed behind. "Brynn is bringing two squads." Tavian nodded. "Tell her this is backflow. Multiple corridors. Predator and prey movement overlapping."
 
-The rider continued.
+The rider turned and left. Another horn sounded beyond the farms. I looked north.
 
-"Patrol markers are changing faster than we can update them."
+Then south. Then toward Greywake. Too many roads.
 
-A second rider pointed behind.
+Too many people. Too many moving animals. Could I make a wall?
 
-"Brynn is bringing two squads."
+Of course. Could I make ten? Yes.
 
-Tavian nodded.
+Could I erase every predator I could see? Easily. Would that tell me which of six frightened herds should be redirected without trampling another road full of civilians?
 
-"Tell her this is backflow. Multiple corridors. Predator and prey movement overlapping."
+No. Power was not the missing information. Brynn arrived with militia on foot and horseback.
 
-The rider turned and left.
-
-Another horn sounded beyond the farms.
-
-I looked north.
-
-Then south.
-
-Then toward Greywake.
-
-Too many roads.
-
-Too many people.
-
-Too many moving animals.
-
-Could I make a wall?
-
-Of course.
-
-Could I make ten?
-
-Yes.
-
-Could I erase every predator I could see?
-
-Easily.
-
-Would that tell me which of six frightened herds should be redirected without trampling another road full of civilians?
-
-No.
-
-Power was not the missing information.
-
-Brynn arrived with militia on foot and horseback.
-
-She dismounted before the horse fully settled.
-
-"What moved?"
-
-Tavian answered.
-
-"Several prey lines. Ridge-hounds behind at least one. Smaller predators using side routes. Pressure is redistributing."
+She dismounted before the horse fully settled. "What moved?" Tavian answered. "Several prey lines. Ridge-hounds behind at least one. Smaller predators using side routes. Pressure is redistributing."
 
 "Cause?"
 
-His eyes flicked toward me.
+His eyes flicked toward me. "Disabled lure is part of it." Brynn looked at me once.
 
-"Disabled lure is part of it."
+Nothing in her face. Not now. She turned to her people. "Split squads. One to the lower Greywake approach. One with me."
 
-Brynn looked at me once.
-
-Nothing in her face.
-
-Not now.
-
-She turned to her people.
-
-"Split squads. One to the lower Greywake approach. One with me."
-
-Kellan stepped forward.
-
-"The seasonal-cut bridge."
+Kellan stepped forward. "The seasonal-cut bridge."
 
 "What about it?"
 
@@ -308,197 +130,73 @@ Kellan stepped forward.
 
 "Enough if they don't crowd it."
 
-Tavian looked toward the forest.
+Tavian looked toward the forest. "They will crowd it." Brynn nodded. "Then we control the crossing."
 
-"They will crowd it."
+We moved. The road toward the bridge filled before we reached it. People came from two directions.
 
-Brynn nodded.
+Packs. Children. Tools.
 
-"Then we control the crossing."
+Water. A frightened mule twisted across the road. A militia woman cut its harness free.
 
-We moved.
+The cart stayed. The people moved. A low thunder came from the trees.
 
-The road toward the bridge filled before we reached it.
+Many feet. Tavian turned. "Clear the road."
 
-People came from two directions.
+Nobody needed more. Civilians moved toward the ditch and low field wall. I stayed in the road.
 
-Packs.
-
-Children.
-
-Tools.
-
-Water.
-
-A frightened mule twisted across the road.
-
-A militia woman cut its harness free.
-
-The cart stayed.
-
-The people moved.
-
-A low thunder came from the trees.
-
-Many feet.
-
-Tavian turned.
-
-"Clear the road."
-
-Nobody needed more.
-
-Civilians moved toward the ditch and low field wall.
-
-I stayed in the road.
-
-Tavian grabbed my shoulder.
-
-"Not a fight."
+Tavian grabbed my shoulder. "Not a fight."
 
 "I know."
 
 "Then move."
 
-A herd broke through the brush.
+A herd broke through the brush. Larger than the first. Not charging us.
 
-Larger than the first.
+Running from something behind them. That distinction meant very little if you stood in front of several tons of frightened animal. Two militia dragged an older man over the field wall.
 
-Not charging us.
+A cart wheel dropped into a rut. Three people kept pulling. The herd thundered closer.
 
-Running from something behind them.
+I ran toward them. The cart moved half a foot. Not enough.
 
-That distinction meant very little if you stood in front of several tons of frightened animal.
+Tavian shouted. "Leave it." One person did.
 
-Two militia dragged an older man over the field wall.
+Two did not. I looked at the herd. Not a fortress.
 
-A cart wheel dropped into a rut.
+Not a cage. A guide. Something low and broad, angled toward open ground.
 
-Three people kept pulling.
+Pale-grey material formed across the road exactly where I wanted it. The first animal checked. The next crowded its shoulder.
 
-The herd thundered closer.
+The front of the herd bent. Half spilled toward the field. The rest followed the easier line long enough for militia to pull the last two civilians clear.
 
-I ran toward them.
+One animal clipped me as it passed. Impact spun me into the road. My shoulder hit stone. "Move!"
 
-The cart moved half a foot.
+Tavian. I rolled toward the ditch. The civilians were clear.
 
-Not enough.
+The guide had done its job. I released it before the next group could bunch against an obstacle nobody needed anymore. Seconds.
 
-Tavian shouted.
+Enough. Another horn sounded ahead. I stood.
 
-"Leave it."
+My shoulder hurt. My side had reopened and was already closing again. None of that changed what I could do.
 
-One person did.
-
-Two did not.
-
-I looked at the herd.
-
-Not a fortress.
-
-Not a cage.
-
-A guide.
-
-Something low and broad, angled toward open ground.
-
-Pale-grey material formed across the road exactly where I wanted it.
-
-The first animal checked.
-
-The next crowded its shoulder.
-
-The front of the herd bent.
-
-Half spilled toward the field.
-
-The rest followed the easier line long enough for militia to pull the last two civilians clear.
-
-One animal clipped me as it passed.
-
-Impact spun me into the road.
-
-My shoulder hit stone.
-
-"Move!"
-
-Tavian.
-
-I rolled toward the ditch.
-
-The civilians were clear.
-
-The guide had done its job.
-
-I released it before the next group could bunch against an obstacle nobody needed anymore.
-
-Seconds.
-
-Enough.
-
-Another horn sounded ahead.
-
-I stood.
-
-My shoulder hurt.
-
-My side had reopened and was already closing again.
-
-None of that changed what I could do.
-
-It changed how pleasant doing it felt.
-
-Kellan caught my arm.
-
-"Can you walk?"
+It changed how pleasant doing it felt. Kellan caught my arm. "Can you walk?"
 
 "Yes."
 
 "Then walk."
 
-We did.
+We did. Ahead, another militia runner came from the bridge. "Crossing is open. Too many people coming from west."
 
-Ahead, another militia runner came from the bridge.
+Kellan swore. We ran harder. Every time one route cleared, another report pointed to pressure where people were already trying to survive.
 
-"Crossing is open. Too many people coming from west."
+Roads connected farms. Animals followed open ground. Predators followed prey.
 
-Kellan swore.
+People fled toward bridges. Ordinary reasons. Bad combination.
 
-We ran harder.
+The bridge appeared beyond the timber sheds. Four supports. Plank deck.
 
-Every time one route cleared, another report pointed to pressure where people were already trying to survive.
+Repairs on repairs. Kellan's bridge. Far too many people on it.
 
-Roads connected farms.
-
-Animals followed open ground.
-
-Predators followed prey.
-
-People fled toward bridges.
-
-Ordinary reasons.
-
-Bad combination.
-
-The bridge appeared beyond the timber sheds.
-
-Four supports.
-
-Plank deck.
-
-Repairs on repairs.
-
-Kellan's bridge.
-
-Far too many people on it.
-
-Kellan pushed ahead.
-
-"Stop the carts."
-
-A driver shouted.
-
-"We need them across."
+Kellan pushed ahead. "Stop the carts." A driver shouted. "We need them across."
 
 "No."
 
@@ -510,341 +208,123 @@ A driver shouted.
 
 "Then leave the cart."
 
-A militia guard repeated it.
+A militia guard repeated it. "Leave the cart." That worked.
 
-"Leave the cart."
+People pulled sacks, children, tools, water free. Some things stayed behind. Kellan stepped onto the bridge. "Six at a time."
 
-That worked.
-
-People pulled sacks, children, tools, water free.
-
-Some things stayed behind.
-
-Kellan stepped onto the bridge.
-
-"Six at a time."
-
-Brynn arrived with the second militia group.
-
-"Kellan?"
+Brynn arrived with the second militia group. "Kellan?"
 
 "Six. No more."
 
-She pointed.
+She pointed. "Control both sides. Keep spacing."
 
-"Control both sides. Keep spacing."
-
-Tavian stayed off the bridge and watched the road.
-
-Pressure was coming.
-
-Kellan kept calling crossings.
-
-"Next six."
+Tavian stayed off the bridge and watched the road. Pressure was coming. Kellan kept calling crossings. "Next six."
 
 "Wait."
 
 "Next."
 
-The bridge flexed.
+The bridge flexed. Kellan felt it before I saw it. "Slow."
 
-Kellan felt it before I saw it.
+A cart animal screamed behind us. Everyone turned. Prey animals broke onto the road from the timber side.
 
-"Slow."
+Ridge-hounds followed. Militia lowered spears. Tavian shouted. "Do not close the road in front of the herd. Give them the field."
 
-A cart animal screamed behind us.
+Brynn pointed. "Open the west fence." Two militia ran.
 
-Everyone turned.
+The first prey animal turned into the opening. Most followed. One hit an abandoned cart.
 
-Prey animals broke onto the road from the timber side.
+The cart lurched sideways. Its wheel climbed the bridge approach. Kellan saw it. "Get that off."
 
-Ridge-hounds followed.
+People grabbed the frame. Another animal struck from behind. The cart moved farther onto the approach.
 
-Militia lowered spears.
+Kellan jumped down. "Leave it." The driver reached for the harness.
 
-Tavian shouted.
+Kellan shoved him away. "Leave it." The wheel jammed against the approach stone.
 
-"Do not close the road in front of the herd. Give them the field."
+The bridge shifted. Wood cracked deep underneath. Kellan looked down. "Everybody off."
 
-Brynn pointed.
+Brynn repeated him. "Clear the bridge." People ran.
 
-"Open the west fence."
+That made loading worse. Kellan stepped onto the deck. "Not together. Space."
 
-Two militia ran.
+Panic ignored him. He grabbed one man and stopped him physically. "You wait. You three go."
 
-The first prey animal turned into the opening.
+The bridge shifted again. One support tilted. Tavian looked at the road. "More movement."
 
-Most followed.
-
-One hit an abandoned cart.
-
-The cart lurched sideways.
-
-Its wheel climbed the bridge approach.
-
-Kellan saw it.
-
-"Get that off."
-
-People grabbed the frame.
-
-Another animal struck from behind.
-
-The cart moved farther onto the approach.
-
-Kellan jumped down.
-
-"Leave it."
-
-The driver reached for the harness.
-
-Kellan shoved him away.
-
-"Leave it."
-
-The wheel jammed against the approach stone.
-
-The bridge shifted.
-
-Wood cracked deep underneath.
-
-Kellan looked down.
-
-"Everybody off."
-
-Brynn repeated him.
-
-"Clear the bridge."
-
-People ran.
-
-That made loading worse.
-
-Kellan stepped onto the deck.
-
-"Not together. Space."
-
-Panic ignored him.
-
-He grabbed one man and stopped him physically.
-
-"You wait. You three go."
-
-The bridge shifted again.
-
-One support tilted.
-
-Tavian looked at the road.
-
-"More movement."
-
-Brynn did not turn.
-
-"How long?"
+Brynn did not turn. "How long?"
 
 "Not long."
 
-Three people remained on the bridge.
+Three people remained on the bridge. A child. A woman.
 
-A child.
+One militia guard. Kellan moved toward them. I followed to the approach.
 
-A woman.
-
-One militia guard.
-
-Kellan moved toward them.
-
-I followed to the approach.
-
-He looked back.
-
-"Stay off."
+He looked back. "Stay off."
 
 "No."
 
 "You're heavy."
 
-That stopped me.
+That stopped me. He was right. The woman crossed.
 
-He was right.
+The child froze halfway. Kellan reached him. The bridge shifted hard.
 
-The woman crossed.
+The militia guard grabbed the child from the far side. Kellan pushed him forward. The child cleared.
 
-The child froze halfway.
+Then the abandoned cart broke loose. Not toward the bridge. Sideways.
 
-Kellan reached him.
+A timber beam strapped to its side swung out. Someone shouted. Kellan turned.
 
-The bridge shifted hard.
+The beam hit the near rail. The rail broke. Impact traveled through the deck.
 
-The militia guard grabbed the child from the far side.
+One repaired support snapped. The bridge dropped on one side. Kellan fell.
 
-Kellan pushed him forward.
+I moved before I knew where. Near planks tore loose. Kellan hit the lower edge of the seasonal cut.
 
-The child cleared.
+A section of deck came down after him. Then part of the cart frame. The sound was wrong.
 
-Then the abandoned cart broke loose.
+Wood. Stone. A body under both.
 
-Not toward the bridge.
+I jumped down. Kellan was conscious. Barely.
 
-Sideways.
+One leg was trapped beneath a broken beam and part of the cart frame. His other shoulder lay at a wrong angle. Blood ran along his face and sleeve.
 
-A timber beam strapped to its side swung out.
+I grabbed the beam. Tavian dropped beside me. "Together."
 
-Someone shouted.
+A militia guard joined. We lifted. I could have thrown the whole wreckage aside.
 
-Kellan turned.
+I did not know which broken piece was supporting what around Kellan's trapped leg. Again: power was not the missing information. Tavian and the militia guard told me where to lift.
 
-The beam hit the near rail.
+I followed it exactly. The beam rose. Kellan made a sound through his teeth.
 
-The rail broke.
+Not a scream. Worse. "Higher," Tavian said.
 
-Impact traveled through the deck.
+We lifted. Another militia member pulled the cart frame away. Brynn climbed down and got both hands under Kellan. "Now."
 
-One repaired support snapped.
+We moved him. His leg came free. It did not look right.
 
-The bridge dropped on one side.
+I wanted to look away. I did not. Kellan was bleeding.
 
-Kellan fell.
+Just bleeding. I put pressure where Tavian told me. My hands turned red.
 
-I moved before I knew where.
+Kellan opened his eyes. "Bridge?" Nobody answered.
 
-Near planks tore loose.
+Above us, another support failed. The remaining deck twisted and dropped into the cut. The crossing was gone.
 
-Kellan hit the lower edge of the seasonal cut.
+Not damaged. Gone. Brynn looked at Tavian. "Can he be moved?"
 
-A section of deck came down after him.
-
-Then part of the cart frame.
-
-The sound was wrong.
-
-Wood.
-
-Stone.
-
-A body under both.
-
-I jumped down.
-
-Kellan was conscious.
-
-Barely.
-
-One leg was trapped beneath a broken beam and part of the cart frame.
-
-His other shoulder lay at a wrong angle.
-
-Blood ran along his face and sleeve.
-
-I grabbed the beam.
-
-Tavian dropped beside me.
-
-"Together."
-
-A militia guard joined.
-
-We lifted.
-
-I could have thrown the whole wreckage aside.
-
-I did not know which broken piece was supporting what around Kellan's trapped leg.
-
-Again: power was not the missing information.
-
-Tavian and the militia guard told me where to lift.
-
-I followed it exactly.
-
-The beam rose.
-
-Kellan made a sound through his teeth.
-
-Not a scream.
-
-Worse.
-
-"Higher," Tavian said.
-
-We lifted.
-
-Another militia member pulled the cart frame away.
-
-Brynn climbed down and got both hands under Kellan.
-
-"Now."
-
-We moved him.
-
-His leg came free.
-
-It did not look right.
-
-I wanted to look away.
-
-I did not.
-
-Kellan was bleeding.
-
-Just bleeding.
-
-I put pressure where Tavian told me.
-
-My hands turned red.
-
-Kellan opened his eyes.
-
-"Bridge?"
-
-Nobody answered.
-
-Above us, another support failed.
-
-The remaining deck twisted and dropped into the cut.
-
-The crossing was gone.
-
-Not damaged.
-
-Gone.
-
-Brynn looked at Tavian.
-
-"Can he be moved?"
-
-Tavian checked quickly.
-
-"Yes. Carefully."
+Tavian checked quickly. "Yes. Carefully."
 
 "Stretcher."
 
-Two militia climbed back to the road.
+Two militia climbed back to the road. I stayed beside Kellan. My own side kept closing.
 
-I stayed beside Kellan.
+His leg did not. That difference sat between us like an accusation that did not need words. The stretcher arrived.
 
-My own side kept closing.
+We lifted him. He lost consciousness halfway. Tavian checked his breathing. "Still with us."
 
-His leg did not.
-
-That difference sat between us like an accusation that did not need words.
-
-The stretcher arrived.
-
-We lifted him.
-
-He lost consciousness halfway.
-
-Tavian checked his breathing.
-
-"Still with us."
-
-Brynn looked at the road.
-
-"What do we have left?"
-
-A militia runner answered.
-
-"Lower farm track is open on foot."
+Brynn looked at the road. "What do we have left?" A militia runner answered. "Lower farm track is open on foot."
 
 "For how long?"
 
@@ -852,31 +332,13 @@ A militia runner answered.
 
 "Use it. No carts. Leave anything that slows the line."
 
-People started moving again.
+People started moving again. Around the broken bridge. Away from the road that had been carrying them home.
 
-Around the broken bridge.
+We climbed out of the cut. I looked back once. The bridge deck lay broken below.
 
-Away from the road that had been carrying them home.
+Supports split. Cart half on its side. The road ended there.
 
-We climbed out of the cut.
-
-I looked back once.
-
-The bridge deck lay broken below.
-
-Supports split.
-
-Cart half on its side.
-
-The road ended there.
-
-A horn sounded farther east.
-
-Then another toward Greywake.
-
-A rider came hard along the connector.
-
-"Captain."
+A horn sounded farther east. Then another toward Greywake. A rider came hard along the connector. "Captain."
 
 "What?"
 
@@ -886,26 +348,10 @@ A rider came hard along the connector.
 
 "Several lines. Not just predators."
 
-Tavian stepped closer.
+Tavian stepped closer. "Direction?" The rider pointed toward Greywake.
 
-"Direction?"
+Nobody spoke. Another horn answered nearer the settlement. The backflow was moving inward.
 
-The rider pointed toward Greywake.
+Kellan lay on the stretcher behind me. The bridge was gone. I had not built Hesk's system.
 
-Nobody spoke.
-
-Another horn answered nearer the settlement.
-
-The backflow was moving inward.
-
-Kellan lay on the stretcher behind me.
-
-The bridge was gone.
-
-I had not built Hesk's system.
-
-I had still pulled one piece out after being warned that I did not understand the rest.
-
-My choice was in this chain.
-
-Ahead of us, the migration was turning toward Greywake.
+I had still pulled one piece out after being warned that I did not understand the rest. My choice was in this chain. Ahead of us, the migration was turning toward Greywake.

@@ -2791,7 +2791,7 @@ Red Jackal:
 
 ## Play Logic State After CH-011
 
-CH-011 contains one Stage I utility manifestation:
+CH-011 contains one utility manifestation:
 
 - temporary structural brace/support;
 - simple purpose;

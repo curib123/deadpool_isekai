@@ -480,7 +480,7 @@ No new M-005 clue is authorized.
 Preferred:
 - no meaningful new injury;
 - scratches/bruises or ordinary fatigue only if needed;
-- manifestation strain/cumulative tiredness is allowed.
+- ordinary physical exertion is allowed, but the manifestation establishes no stamina/resource cost.
 
 If a minor injury occurs:
 - nobody studies the healing;
@@ -1019,7 +1019,7 @@ Do not begin CH-012.
 9. Recent-use signs prove someone has nevertheless been servicing something inside it.
 10. Animal sign remains abnormal near the serviced corridor.
 11. Predator/terrain pressure forces coordinated action.
-12. Red Jackal uses one limited Stage I support manifestation inside Tavian/Kellan's plan.
+12. Red Jackal uses one selectively bounded-looking support manifestation inside Tavian/Kellan's plan; this does not define his capability ceiling.
 13. The group reaches the ruined watch-point maintenance pocket.
 14. Recent servicing becomes undeniable.
 15. They uncover and identify the first march-lure stake.

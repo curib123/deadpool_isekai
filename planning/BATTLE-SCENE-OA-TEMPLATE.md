@@ -1,8 +1,8 @@
 # Battle / Scene OA Template
 
-**Arc:**  
-**Destination:**  
-**Status:** PLANNING ONLY / GATE 6 / GATE 7 / GATE 8 / GATE 9 / GATE 10  
+**Arc:**
+**Destination:**
+**Status:** PLANNING ONLY / GATE 6 / GATE 7 / GATE 8 / GATE 9 / GATE 10
 **Governing standards:** `qa/BATTLE-SCENE-QA-STANDARD.md`; `qa/SCENE-QA-STANDARD.md`
 
 ## 1. Arc Battle Composition Map
@@ -12,25 +12,25 @@
 
 ## 2. Chapter Assignment
 
-**Chapter / Scene ID:**  
-**Classification:** BATTLE / HAZARD ACTION / NO BATTLE  
-**Battle / Action ID:**  
-**Scale:** MINOR / MAJOR / CLIMAX / NOT APPLICABLE  
-**Matchup identity:**  
-**Protected targets / non-combatants:**  
-**Initial numerical topology:**  
-**Topology changes:**  
-**Terrain / action geography:**  
-**Primary objective:**  
-**Secondary objective:**  
-**Why immediate overwhelming force is not the actual objective:**  
-**Red's role:**  
-**Decisive supporting roles:**  
-**Opponent / hazard behavior:**  
-**Turning point:**  
-**Resolution:**  
-**Cost / irreversible consequence:**  
-**Handoff:**  
+**Chapter / Scene ID:**
+**Classification:** BATTLE / HAZARD ACTION / NO BATTLE
+**Battle / Action ID:**
+**Scale:** MINOR / MAJOR / CLIMAX / NOT APPLICABLE
+**Matchup identity:**
+**Protected targets / non-combatants:**
+**Initial numerical topology:**
+**Topology changes:**
+**Terrain / action geography:**
+**Primary objective:**
+**Secondary objective:**
+**Why immediate overwhelming force is not the actual objective:**
+**Red's role:**
+**Decisive supporting roles:**
+**Opponent / hazard behavior:**
+**Turning point:**
+**Resolution:**
+**Cost / irreversible consequence:**
+**Handoff:**
 
 ## 3. Scene Beat Order
 

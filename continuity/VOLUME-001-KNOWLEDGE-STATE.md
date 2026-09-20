@@ -1748,7 +1748,7 @@ Tavian begins CH-009 knowing:
 - Red Jackal can survive severe trauma in medically abnormal ways;
 - Red Jackal can produce temporary nonstandard physical effects;
 - Red Jackal has demonstrated both useful tactical behavior and dangerous overconfidence;
-- Red Jackal accepted responsibility after CH-007 but remains difficult to predict.
+- Red Jackal understands the CH-007 causal mistake but remains difficult to predict and is not conventionally reformed.
 
 Tavian does not know:
 - march-lure existence;
@@ -1792,11 +1792,13 @@ Tavian may move toward:
 
 for evidence-based reasons only.
 
-He must still see Red Jackal's:
-- temporary power limits;
+He may still see Red Jackal's:
 - knowledge gaps;
 - judgment errors;
-- dependence on specialist competence.
+- selective/small public displays;
+- dependence on specialist information when the problem is epistemic rather than physical.
+
+He does not know Red Jackal's true power ceiling.
 
 ## Anti-Villain Curiosity Boundary
 
@@ -1812,13 +1814,11 @@ The test:
 
 ## Play Logic Boundary
 
-Maximum CH-009 use:
+CH-009 scene design contains **one small utility manifestation** because one tactical gap needs to be closed.
 
-**one small Stage I utility manifestation attempt and one success total.**
+No second manifestation is needed.
 
-No retry.
-
-No new rule.
+No new rule or capability ceiling is established.
 
 F-004 remains **PLANTED — CH-005**.
 
@@ -1923,8 +1923,8 @@ Tavian canonically knows:
 - Red Jackal admits the test was unnecessary;
 - once immediate danger begins, Red Jackal can follow specialist positioning and avoid repeating CH-007's forward overextension;
 - Red Jackal can produce a small temporary obstruction under pressure;
-- the manifestation remains imperfect, short-lived, and limited;
-- Red Jackal cannot simply repeat the effect indefinitely;
+- the manifestation is simple in presentation and released after its tactical role;
+- Red Jackal can manifest again; CH-009 simply has no second tactical need for it;
 - Red Jackal's usefulness and danger coexist;
 - older track layers establish that the northbound pattern predates today's disturbance;
 - repeated predator/prey movement toward old northern routes is real field evidence;
@@ -1939,9 +1939,9 @@ His concern is based on:
 - nonstandard temporary manifestations;
 - incomplete judgment;
 - voluntary experimentation under uncertainty;
-- visible power/knowledge limits.
+- visible knowledge/judgment limits alongside an unknown capability ceiling.
 
-He does not treat Red Jackal as overwhelmingly powerful or limitless.
+He does not know Red Jackal's true ceiling and therefore treats his capability as uncertain rather than safely bounded.
 
 ## Anti-Villain Expression State After CH-009
 
@@ -1955,7 +1955,7 @@ Red Jackal does not deny why he did it.
 
 ## Play Logic State After CH-009
 
-CH-009 contains one Stage I utility manifestation:
+CH-009 contains one utility manifestation:
 
 - a low temporary obstruction used to narrow a tactical gap;
 - simple purpose;

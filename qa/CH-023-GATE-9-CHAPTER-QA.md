@@ -2,9 +2,9 @@
 
 **Chapter:** CH-023 — Greywake Holds  
 **Manuscript:** `manuscript/CH023-GREYWAKE-HOLDS.md`  
-**Review Date:** 2026-09-20  
-**Status:** PASS — CURRENT CANON REVALIDATED  
-**Word Count:** 1311
+**Review Date:** 2026-09-20
+**Status:** PASS — CURRENT CANON REVALIDATED / BATTLE QA PASS
+**Word Count:** 1991
 
 > **Final-engine authority note (2026-09-20):** Any legacy wording below that treats Stage labels, manifestation counts, fatigue, injury, or regeneration as a raw-capacity/progression limit is superseded by the current manuscript, current scene-architecture override, and Soul-Drift / Final Story-Engine revalidation. Event/reveal/knowledge checks remain authoritative.
 
@@ -17,6 +17,25 @@
 - support persists without active strain and is withdrawn in sections as permanent engineering takes load;
 - route ecology and simultaneous civilian/worker geometry remain the real tension;
 - final Hesk pull remains CH-024 handoff.
+
+# Battle / Scene QA Revalidation — 2026-09-20
+
+**Battle ID:** V1-B08  
+**Standards:** `qa/BATTLE-SCENE-QA-STANDARD.md` + `qa/SCENE-QA-STANDARD.md`
+
+Primary physical climax: Red Jackal vs the territorial predator is embedded inside a three-front coalition hold—predator containment, failing inner-road structure, and herd/worker protection. The predator adapts after Red first dominates it. Workers complete permanent load transfer; Brynn/Tavian retain decisive command and geometry.
+
+- matchup identity/topology — **PASS**
+- action geography — **PASS**
+- opponent/hostile-force objective — **PASS**
+- topology/objective escalation — **PASS**
+- supporting-character competence — **PASS**
+- Red final-story-engine power model — **PASS**
+- no Stage/use-count/stamina ceiling — **PASS**
+- scene turns / causal handoffs — **PASS**
+- battle consequence — **PASS**
+- prose cadence after line-edit normalization — **PASS**
+- no protected-cosmology leakage — **PASS**
 
 # Severity Review
 

@@ -2,9 +2,19 @@
 
 **Chapter:** CH-025 — What Greywake Counts  
 **Manuscript:** `manuscript/CH025-WHAT-GREYWAKE-COUNTS.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 2,135
+**Review Date:** 2026-09-20  
+**Status:** PASS — CURRENT CANON REVALIDATED  
+**Word Count:** 1494
+
+# Soul-Drift / Final Story-Engine Revalidation
+
+- close first-person aftermath narration confirmed;
+- Red's rapid recovery is preserved without fatigue/depletion mechanics;
+- Red does not claim ownership of Hesk's sentence or Greywake's governance reform;
+- public reputation remains contradictory rather than resolving into hero worship;
+- supporting characters keep independent consequences and roles;
+- no Play Logic, no new F-ID, no protected cosmology;
+- CH-026 departure motive remains unspent.
 
 # Severity Review
 
@@ -24,7 +34,7 @@ Initial prose formatting was too fragment-heavy for the locked aftermath style. 
 CH-025:
 
 - begins in immediate aftermath rather than after a reset;
-- preserves Red's injuries/exhaustion;
+- preserves physical aftermath without magical depletion;
 - preserves Kellan's non-weight-bearing injury;
 - makes preparation pay off without erasing cost;
 - shows damaged roads, delayed trade and continuing ecological instability;
@@ -67,12 +77,7 @@ The chapter advances:
 
 **PASS.**
 
-Sela observes:
-- rapid wound closure;
-- persistent bruising/pain;
-- continued fatigue.
-
-No M-005 mechanism is explained.
+Sela observes Red's abnormal rapid recovery and remaining ordinary bruising/pain. No finite regeneration resource or M-005 mechanism is explained.
 
 Kellan remains:
 - splinted;

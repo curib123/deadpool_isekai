@@ -25,6 +25,29 @@ Red is already overwhelmingly powerful. Any bounded-looking manifestation in thi
 
 All chapter-specific mystery, reveal, supporting-character agency, scene order, and later-chapter firewalls remain locked.
 
+# Battle / Scene QA Amplification Override — 2026-09-20
+
+**Battle ID:** V1-B08  
+**Scale:** CLIMAX — primary physical battle  
+**Core matchup:** Red Jackal vs territorial predator, embedded inside Greywake defenders vs sustained migration pressure  
+**Initial topology:** Red + coalition vs one major predator + herd compression  
+**Required simultaneous fronts:**
+1. Red / militia contain the territorial predator without turning the corridor into a kill zone.
+2. Workers/foreman repair the failing Broken North inner lip under live load.
+3. Tavian/Brynn manage prey/predator flow and protect workers/militia from side spills.
+**Topology change:** predator tests service cut → road structure begins failing → Red expands structural support → predator adapts/re-engages from a new angle → workers transfer load → service cut opens → predator exits → trailing herd branch reveals Hesk pull.
+**Red's role:** physically overwhelming against the predator; selectively restrained because killing/throwing it into the wrong route can worsen migration geometry.
+**Tavian:** ecology and timing.
+**Brynn:** command/reallocation.
+**Foreman/workers:** permanent structural solution.
+**Militia:** line protection, extraction, spill control.
+**Decisive rule:** coalition wins the battlefield; Red does not win the arc alone.
+**Ending:** physical line holds, but Hesk's lure pulls trailing movement toward outer homesteads.
+
+The predator must adapt at least once after Red first dominates it. Action geography must remain clear throughout.
+
+Final-engine correction: any PL-4/Stage/exhaustion/precision-ceiling wording below is superseded. Larger support is not a new tier; Red simply uses more of already-present capability.
+
 # 1. Chapter Purpose Lock
 
 CH-023 is the physical climax chapter of Greywake's migration defense.

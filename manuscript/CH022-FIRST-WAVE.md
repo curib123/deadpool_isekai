@@ -1,197 +1,589 @@
 # Chapter 22 — First Wave
 
-**Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
+**Status:** SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — BATTLE QA REVISION — GATE 9 REVALIDATION PENDING
 **Revision Date:** 2026-09-20
-**Word Count:** 1352
+**Word Count:** 1690
 **Chapter QA:** `qa/CH-022-GATE-9-CHAPTER-QA.md`
-**Retcon QA:** `qa/CH-022-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
+**Battle QA:** `qa/VOLUME-001-GREYWAKE-BATTLE-SCENE-AUDIT.md`
 
-The first mass did not charge us. It came out of the trees in layers. Small, narrow-bodied prey first.
+The first mass did not charge us.
 
-Larger browsers behind them. Then movement filling the tree line without becoming one clean shape. Too many bodies.
+It came out of the trees in layers.
 
-Too many decisions being made at once. My first thought was a wall. Easy.
+Small prey first—thin-legged things built for speed. Larger browsers followed, bodies shouldering through brush. Behind them, the tree line kept moving even where I could not yet see individual animals.
 
-Also stupid. "Not yet," Tavian said. He was not looking at me.
+Too many bodies. Too many frightened decisions happening at once.
 
-His eyes stayed on the lead animals. The first line crossed the open ground beyond the lantern posts. They spread across the approach, following slope and pressure instead of any road we had drawn for them.
+My first thought was a wall.
 
-Brynn's hand dropped. "Hold positions." Nobody stepped into the route.
+Easy.
 
-A young militia man shifted his spear forward. Brynn saw. "Back."
+Also stupid.
 
-He stepped back. "Do not challenge the movement," Tavian said. "Let them choose."
+"Not yet," Tavian said.
 
-Terrified animals still had choices. The last civilian cart was still moving behind us, wheels hammering over inner stones. Too close.
+He was not looking at me. His eyes stayed on the lead animals as they crossed the open ground beyond Greywake's last lanterns.
 
-Still moving. The lead prey crossed the first marked line. Tavian raised two fingers.
+Brynn held one hand up.
 
-Nothing happened. More followed. Scattered movement became continuous.
+Nobody advanced.
 
-One group angled left. Corrected. Another took the same bend. "Wait."
+A militia recruit shifted his spear forward.
 
-I could have made walls. Trenches. Cages.
+"Back," she said.
 
-Anything. Tavian needed information before geometry. So I waited.
+He obeyed.
 
-The first browsers reached the cleared approach that made Broken North look easier than the alternatives. One slowed. Turned its head.
+"Do not challenge the front," Tavian added. "Let them choose."
 
-Another followed. Then the front of the mass began drifting north. Tavian closed his hand. "Signal."
+Terrified animals still had choices. That was apparently the entire plan.
 
-One horn. Then another farther out. Then another.
+Behind us, one final civilian cart rattled toward the inner fallback road. Two militia escorts ran beside it. A woman sat in the back holding a wrapped bundle to her chest while the driver fought to keep one damaged wheel straight.
 
-No magical line told us the plan worked. The animals simply changed by degrees. The front bent toward Broken North.
+Too close.
 
-People around me started breathing again. Tavian did not. "Do not celebrate the front before the body follows."
+Still moving.
 
-The body followed. For half a minute, our plan looked like a plan. Then the outer guide failed.
+The first prey crossed Tavian's painted threshold marker.
 
-A large browser struck the timber-and-rope section sideways. Rope snapped. Two posts folded.
+He raised two fingers.
 
-The animal stumbled through. Everything behind saw the opening. "South spill!"
+Nothing happened.
 
-The gap pointed toward the fallback opening. Toward the final cart. Brynn moved first. "Cart through! Everyone else off the lane!"
+More animals came.
 
-Militia pulled back. The draft animal panicked. The cart lurched.
+One group angled north.
 
-The spill widened from three animals to ten. Then more. Tavian pointed at a strip between the broken guide and the ditch. "Low. Angle north."
+Another hesitated.
 
-Enough. A pale-grey guide formed along his line. Low.
+A third tried the same line.
 
-Thick. Sloped. The first animals checked and chose the easier angle.
+"Wait."
 
-One jumped it. The rest followed the turn. "Move!" Brynn shouted.
+I could have made the choice for them.
 
-The cart cleared. A broken fence rail spun from the moving mass and hit my shoulder hard enough to turn me. Pain.
+Barrier left. Barrier right. Funnel. Pit. Bridge. Giant glowing arrow labeled PLEASE PANIC RESPONSIBLY.
 
-My feet stayed under me. The guide stayed where I put it. "Clear!" Brynn called.
+Tavian needed to know what they were already trying to do before we changed anything.
 
-I released it as soon as the cart and workers were safe. No reason to leave more geometry inside a moving herd. My shoulder hurt.
+So I waited.
 
-The scrape on my arm had already started closing. That was background. The route was the problem.
+The first browsers reached the cleared approach toward Broken North.
 
-For a while, most movement still followed north. Then Tavian stopped. A prey cluster broke toward the outer side road.
+One lowered its head and slowed.
 
-One group meant nothing. A second took the same angle. Then a third.
+A second took the same opening.
 
-Ridge-hounds followed the opening. "Tavian?"
+Then a third.
+
+The front began drifting north.
+
+Tavian closed his hand.
+
+"Signal."
+
+One horn sounded from the outer marker.
+
+Another answered farther up.
+
+Then a third.
+
+Across the approach, workers pulled light guide panels into their final positions. Militia stepped away from the center lane. Tavian watched the animals, not the people.
+
+The first sequence worked.
+
+Not beautifully.
+
+Nothing that large did anything beautifully.
+
+The lead prey committed to the wider northern approach. The mass behind them copied movement before understanding it. Smaller animals slipped between larger bodies. Ridge-hound calls followed from deeper in the trees.
+
+Brynn looked over her shoulder.
+
+"Final cart?"
+
+A runner answered.
+
+"Still clearing lower fallback."
+
+"How long?"
+
+"Moments."
+
+Bad unit. Accurate enough.
+
+For half a minute, Greywake's plan looked competent.
+
+Then the first guide failed.
+
+A large browser struck the outer timber-and-rope frame sideways instead of following the opening.
+
+Wood snapped.
+
+One post folded.
+
+The animal stumbled through the gap.
+
+Everything behind it saw a new route.
+
+Three became six.
+
+Six became ten.
+
+The spill widened toward the fallback lane.
+
+Toward the cart.
+
+"South spill!" somebody shouted.
+
+Brynn's hand cut down.
+
+"Cart through! Workers off the lane! Militia give them space!"
+
+The driver whipped the draft animal forward.
+
+Wrong choice.
+
+The animal panicked harder.
+
+The wheel bounced in the rut.
+
+The spill widened.
+
+Tavian pointed at a strip between the failed guide and the drainage ditch.
+
+"Low. Angle north. Do not close the road."
+
+Specific.
+
+Good.
+
+A pale-grey guide formed along his line.
+
+Not a wall.
+
+A suggestion with mass.
+
+The first browser checked.
+
+The next crowded its shoulder.
+
+The front bent.
+
+One animal jumped the guide and nearly clipped a militia guard, but the next three took the easier northern angle.
+
+Momentum did the rest.
+
+"Move!" Brynn shouted.
+
+The cart cleared the fallback line.
+
+A broken fence rail spun from the moving mass and hit my shoulder hard enough to turn me.
+
+Pain flashed.
+
+My feet stayed under me.
+
+The guide stayed where I wanted it.
+
+"Clear!" Brynn called.
+
+I released it immediately.
+
+No reason to leave fresh geometry inside a moving herd after the people were safe.
+
+The last cart disappeared toward Greywake.
+
+Good.
+
+Civilian front mostly done.
+
+Which left everything else.
+
+A ridge-hound burst from the broken guide gap and snapped at a worker carrying rope.
+
+The worker dropped flat.
+
+A militia woman drove the hound sideways with her shield.
+
+Another hound followed.
+
+Then a third.
+
+They were not hunting us.
+
+They were following prey and taking opportunities.
+
+That distinction did not help the worker on the ground.
+
+"Do not chase!" Tavian shouted.
+
+Brynn repeated him.
+
+"Hold the lane. Drive them off workers only."
+
+The militia formed around the retreating crew instead of turning the road into a hunt.
+
+One hound darted left.
+
+A spear turned it.
+
+Another crossed right.
+
+A homesteader with a road hook struck its shoulder and shoved it back into the open lane.
+
+The first worker got up.
+
+Then the herd shifted again.
+
+A line of smaller prey cut too far east.
+
+Tavian's face changed.
+
+"That is wrong."
+
+Brynn looked at him.
+
+"Random spill?"
 
 "Watch."
 
-More animals took the wrong side. His face tightened. "The pull is strengthening."
+A second group followed the same angle.
 
-A runner came from the eastern marker. "Old service site." Brynn turned. "What?"
+Then a third.
 
-"Housing was active when the check team got line of sight."
+Ridge-hounds used the opening behind them.
 
-Tavian faced him. "Assigned team activated it?"
+Tavian pointed.
+
+"Approved sequence should be weakening that route."
+
+"So something is pulling."
+
+"Yes."
+
+A runner came hard from the eastern marker.
+
+"Old service site!"
+
+Brynn turned.
+
+"What about it?"
+
+"Active when the check team got line of sight."
+
+Tavian stared at him.
+
+"Assigned team?"
 
 "No."
 
-"Changed it?"
+"Changed by them?"
 
 "No."
 
-"Hesk?"
+"Who has access?"
 
-"No visual."
+Nobody needed to answer.
 
-There it was. I looked toward the old service route. I could reach it.
+Hesk.
 
-I could reach Hesk if he was there. For one satisfying second, I wanted to leave this mess and solve the human-sized problem personally. My body shifted.
+Of course.
 
-Tavian saw. "Don't." He pointed at the herd. "Leave now and this route opens before you reach him."
+I looked toward the eastern service route.
 
-Correct. Annoying. Correct.
+I could reach him.
 
-A scream came from the lower detour. Decision made. We ran.
+The thought came hot and clean.
 
-The old seasonal-cut crossing was already gone, forcing movement through a narrower broken roadside. Its light guide had collapsed. Three workers were retreating.
+Find him.
 
-A fourth had fallen into the drainage cut behind a rail. His leg was pinned. Ridge-hounds moved through the gap behind prey. "Do not chase them!" Brynn shouted.
+Stop him.
 
-Militia turned hounds away from workers instead of trying to kill the pack. The trapped worker tried to climb. The edge collapsed under his hand.
+Make the human-sized problem regret being human-sized.
 
-No clean path down. No time to build one normally. This needed one thing.
+My body shifted.
 
-A handhold. A pale-grey rail extended from the road edge down toward him. "Grab it!"
+Tavian saw.
 
-He did. Two workers pulled. His leg came free.
+"Don't."
 
-A ridge-hound hit the road edge beside me and clipped my side before continuing after the prey. Stone hit my ribs. Breathing disappeared for a second.
+I looked at him.
 
-Then returned badly. The worker was clear. I released the rail. "Fall back!" Brynn ordered.
+He pointed toward the herd.
 
-We abandoned the failed guide. Correct choice. The wrong lure pull was squeezing two movement lines together now.
+"You leave now, this line opens before you reach the site."
 
-The main mass still bent toward Broken North. The side pull dragged enough across the lower edge to compress everything behind it. Tavian saw it. "We are bunching them."
+Correct.
 
-"Can we widen?" Brynn asked.
+Infuriating.
 
-"Not without opening the homestead side."
+Correct.
+
+A scream came from the lower detour.
+
+Decision made for me.
+
+We ran.
+
+The old seasonal-cut crossing had already failed in CH-016, forcing workers and militia through a narrow roadside bypass. One light guide had collapsed under the first wave.
+
+Three workers were retreating.
+
+A fourth was below road level in the drainage cut.
+
+His leg was pinned behind a broken rail.
+
+Ridge-hounds moved through the gap behind fleeing prey.
+
+Brynn reached the edge.
+
+"Two with me. Keep the road open."
+
+Tavian pointed at the trapped worker.
+
+"Do not drop more weight on that bank."
+
+The worker tried to climb.
+
+The soil sheared under his hand.
+
+No clean path down.
+
+No time for lumber.
+
+This needed one thing.
+
+A handhold.
+
+A pale-grey rail extended from the road edge toward him.
+
+"Grab it!"
+
+He did.
+
+Two workers pulled.
+
+His leg came free.
+
+A ridge-hound hit the upper edge beside me.
+
+I turned.
+
+Too late to avoid the impact.
+
+Its shoulder slammed into my ribs and threw me against stone.
+
+Breathing disappeared.
+
+Then came back badly.
+
+The hound kept moving after prey.
+
+Good.
+
+The trapped worker cleared the cut.
+
+I released the rail.
+
+"Fall back!" Brynn ordered.
+
+Nobody defended the failed detour because it had already stopped being useful.
+
+That was the kind of command Hesk never seemed to understand.
+
+Not everything had to be held forever.
+
+We retreated toward Broken North.
+
+The wrong pull had not stopped.
+
+Worse, it was compressing two flows against each other.
+
+Most prey still tried to follow the northern route.
+
+The unauthorized lure dragged a side branch east.
+
+Animals behind them saw both openings and hesitated.
+
+Hesitation became bunching.
+
+Bunching became pressure.
+
+Tavian stopped.
+
+"We are creating a crush point."
+
+Brynn looked across the lane.
+
+"Can we widen?"
+
+"Only toward the homestead side."
 
 "So no."
 
-A horn sounded from Broken North. Repair pressure. We ran again.
+A horn sounded from Broken North.
 
-My ribs hurt. That did not change my capability. It changed my mood.
+Three short notes.
 
-Broken North was already receiving movement faster than we planned. The old timber support held. The rough footing held.
+Repair pressure.
 
-A light upper guide bowed inward. Workers stayed behind marked lines with pry bars and rope. Tavian pointed. "That branch. Outside edge."
+We ran again.
 
-I followed his hand. Prey were drifting toward the weakest shoulder. If enough took it, some would fall and everything behind would bunch. "What do you need?"
+My ribs hurt.
 
-"Turn the front only."
+The pain had nothing to do with capability.
 
-Good. I could have dominated the whole route. That would also make every animal behind the front react to me instead of Tavian's corridor.
+It did make running less charming.
 
-Wrong objective. Brynn cleared the workers. I placed a low guide exactly at Tavian's angle.
+Broken North was already carrying more load than planned.
 
-The lead browser cut inward. The next followed. Then another.
+Workers at the entrance fought to keep loose timber and stone out of the moving lane. Militia stood along the margins, not the center. One section of the upper guide bowed inward.
 
-Workers pulled loose timber from the corrected lane. For several seconds, the branch flowed where we needed. No one cheered.
+Tavian pointed.
 
-Good. I released the guide once the front had committed. A large animal clipped the outside edge.
+"That outside branch. Turn only the front."
 
-Stone broke under my boot. I went down. Workers dragged me behind the line before the next cluster crossed.
+I followed his line.
 
-My thigh hurt where something had hit it. A cut was already closing. Tavian came over. "No more guessing."
+A group of heavy browsers was drifting toward the weakest shoulder.
 
-I looked at him. "Every shape you add changes their choices. I give you geometry."
+If they broke it, the animals behind them would see another opening toward people.
 
-I nodded. Not a power limit. Information.
+"What do you need?"
 
-Broken North remained open. Barely. The wrong pull had not stopped.
+"Low guide. Here to here. Nothing higher."
 
-More prey arrived compressed. Ridge-hounds used the same pressure corridors. Workers cleared debris only when the flow gave them room.
+Good.
 
-A runner reached Brynn. "Lower signal changed again."
+I could have made a canyon wall.
 
-"Authorized?"
+Wrong objective.
 
-"No."
+A pale-grey deflector appeared at Tavian's angle.
 
-Tavian looked at the animals. He did not need the paperwork. "Withdraw the outer marker team. They become obstacles if they stay."
+The first browser cut inward.
 
-Brynn sent the order. Then the animals changed. A prey cluster entering the upper bend turned so violently that two collided.
+The next followed.
 
-One went down. The rest split around it. The ridge-hounds behind them stopped.
+Then a third.
 
-Actually stopped. One backed away. Another abandoned the road and climbed the slope.
+The guide took one hard impact and did not move.
 
-Tavian's face changed. He looked past the prey. Into the trees. "What?" Brynn asked.
+Workers used the seconds to drag broken material out of the lane.
 
-The road edge shook. Not from the herd. Something farther back moved through young trees without going around them.
+Brynn shifted two militia to cover the now-open shoulder.
 
-Branches bent. One snapped. Prey nearest the sound surged sideways.
+"West pair, back three paces. Keep the exit visible."
 
-Workers retreated. Militia lowered spears without advancing. I shifted toward the line.
+They moved.
 
-The impossible answer was still available. So was the lack of information. The brush opened.
+A ridge-hound broke toward the workers.
 
-First I saw height. Then a massive shoulder forcing through branches. A head rising above the fleeing prey.
+One militia guard intercepted it.
 
-A body far too large for the narrow approach entered the compressed corridor. Behind it, Broken North groaned under the first wave. Ahead of it, our line was beginning to fail.
+Another hound came behind.
 
-The largest territorial predator in the migration had arrived.
+A homesteader slammed a road hook into the dirt between them, forcing both to choose the open lane instead of the people.
+
+Nobody waited for me.
+
+Good.
+
+The guide had done its job.
+
+I released it.
+
+The third pressure point was not the animals.
+
+It was the road itself.
+
+The repaired entrance groaned.
+
+Not failure.
+
+Warning.
+
+The foreman shouted from farther up.
+
+"Inside footing settling!"
+
+Tavian's eyes moved from the road to the herd.
+
+"Can you keep traffic light?"
+
+Brynn laughed once.
+
+No humor.
+
+"Ask them."
+
+A new prey cluster entered.
+
+Large.
+
+Fast.
+
+The wrong-route pull tightened again.
+
+One group veered east hard enough to collide with another.
+
+Two animals went down.
+
+The rest split around them.
+
+Ridge-hounds behind stopped.
+
+Actually stopped.
+
+One backed away.
+
+Another abandoned the road entirely and climbed the slope.
+
+Tavian went still.
+
+I saw it a second later.
+
+Brush moved behind the prey.
+
+Not like a herd.
+
+Like something that did not care the trees were there.
+
+A sapling bent.
+
+Snapped.
+
+Then another.
+
+The prey nearest the sound surged sideways.
+
+Workers retreated to marked lines.
+
+Brynn raised her hand.
+
+"Nobody closes center."
+
+I shifted forward.
+
+The impossible answer was still there.
+
+So was the lack of information.
+
+The brush opened.
+
+First came height.
+
+Then a shoulder forcing through branches.
+
+Then a head rising above fleeing prey.
+
+The thing entered the compressed corridor like the road had been designed too small on purpose.
+
+Everything smaller made room.
+
+Broken North groaned under the first wave.
+
+The unauthorized lure kept pulling east.
+
+And the largest territorial predator in the migration stepped into our line.

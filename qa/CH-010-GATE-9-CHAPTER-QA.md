@@ -1,423 +1,301 @@
 # CH-010 Gate 9 — Chapter QA
 
+**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
+**Volume:** 1 — Greywake Arc  
 **Chapter:** CH-010 — The Ledger Doesn't Balance  
-**Manuscript:** `manuscript/CH010-THE-LEDGER-DOESNT-BALANCE.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 3,201
-
-**Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A097 Prose Editor, A037 Power Balance Editor, A042 Character Arc Editor, A044 Supporting Character Editor, A045 Antagonist Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A111 Logic Editor
+**Review Date:** 2026-09-20  
+**Revision Track:** Soul-Drift / Close First-Person / Final Story Engine  
+**Status:** PASS — CURRENT CANON REVALIDATED  
+**Word Count:** 3,563
 
 # Scope
 
-Gate 9 reviewed the complete CH-010 manuscript against:
+Gate 9 reviewed the rewritten CH-010 manuscript against the current Soul-Drift master retcon, final story-engine rules, the locked five-scene event sequence, CH-001 through CH-009 current canon, Maelis/Jessa/Hesk knowledge boundaries, CH-004 irregular-labor terms, documentary logic, F-ID protections, and the CH-011 handoff.
 
-- locked CH-010 Scene Architecture;
-- CH-001 through CH-009 canon;
-- CH-009 field-evidence handoff;
-- CH-003 Maelis audit continuity;
-- CH-004 irregular-labor contract continuity;
-- Red Jackal's locked deadpan first-person voice;
-- locked Anti-Villain Expression Check;
-- Maelis Orra's procedural/evidentiary role;
-- Jessa Vale's complicity, fear, family dependency, and agency;
-- Rovan Hesk's antagonist knowledge and procedural-pressure boundary;
-- no-Play-Logic and no-regeneration restrictions;
-- no-new-F-ID restriction;
-- CH-011 first-march-lure discovery protection;
-- CH-013 midpoint-revelation protection;
-- Gate 9 requirements.
+# Severity Review
 
-# CRITICAL
-
+## CRITICAL
 **None.**
 
-# MAJOR
+## MAJOR
+**None unresolved.**
 
-**None.**
+### Documentary Expertise / Raw-Power Boundary — PASS
 
-# MINOR
+CH-010 contains no Play Logic and no regeneration event.
 
-**None requiring manuscript revision.**
+This is correct.
 
-The manuscript lets Red Jackal briefly phrase the pattern as “the outer routes pay for it,” which is stronger than the evidence alone proves. Maelis immediately corrects the inference with **“The records show correlation, not cause.”** This preserves Red Jackal's personality-filtered suspicion while keeping the chapter's formal knowledge state inside the locked boundary.
+The chapter's problem is evidentiary and institutional:
+- Maelis must distinguish record categories;
+- Jessa must explain filing practice;
+- Red supplies firsthand event/location context;
+- Hesk manages access procedurally;
+- raw force cannot establish what the records prove.
 
-# Story
+Red's overwhelming capability therefore remains compatible with the chapter without requiring a physical display.
 
-| Check | Result |
-|---|---|
-| CH-009 field evidence enters CH-010 naturally | PASS |
-| Maelis converts field narrative into auditable facts | PASS |
-| Red Jackal's contaminated CH-009 experiment is excluded as evidence | PASS |
-| CH-004 irregular-labor setup receives meaningful payoff | PASS |
-| Documentary conflict replaces physical action appropriately | PASS |
-| Jessa supplies a bounded procedural key | PASS |
-| Hesk begins managing audit access | PASS |
-| Red Jackal's intervention creates room rather than forced testimony | PASS |
-| Jessa voluntarily chooses to continue | PASS |
-| Final inverse record pattern is earned from multiple data sets | PASS |
-| Ending advances investigation without beginning CH-011 | PASS |
+### Jessa Agency — PASS
 
-# Red Jackal Voice
+Red intervenes against Hesk deciding when Jessa is finished speaking.
 
-| Check | Result |
-|---|---|
-| First person throughout | PASS |
-| Dry/deadpan baseline preserved | PASS |
-| Immediate experience remains primary | PASS |
-| Humor arises from bureaucracy, practical annoyance, and contradiction | PASS |
-| Reader-facing performance remains restrained | PASS |
-| Seriousness increases naturally as missing workers become concrete | PASS |
-| Anti-control instinct remains character-driven | PASS |
-| No conventional-hero conversion | PASS |
+He does **not**:
+- compel Jessa to testify;
+- claim legal authority over her;
+- threaten her;
+- threaten her family;
+- put words in her mouth.
 
-The chapter's humor recedes correctly once the audit stops being abstract paperwork and becomes about people who can disappear from the clean institutional count.
+He explicitly tells her she may leave.
 
-# POV / Prose
+Jessa then voluntarily chooses to provide one bounded filing clarification.
 
-| Check | Result |
-|---|---|
-| No invisible third-person narrator | PASS |
-| Personality-filtered description | PASS |
-| Dialogue distinct | PASS |
-| Multi-sentence narrative is a normal prose mode | PASS |
-| Single-line beats are used for emphasis, deadpan impact, or emotional weight | PASS |
-| No excessive robotic sequencing after cadence normalization | PASS |
-| Documentary explanation remains embedded in character interaction | PASS |
-
-Final cadence check:
-- 387 total prose/dialogue paragraphs;
-- 119 narrative paragraphs;
-- 61 narrative paragraphs contain two or more sentences;
-- 58 narrative paragraphs are single-sentence/fragments used mainly for emphasis, transitions, or deadpan impact;
-- 268 dialogue-led paragraphs.
-
-# Scene Realization
-
-## SC-010-01 — Dates, Not Atmosphere
-
-**PASS.**
-
-The manuscript:
-- opens in the Ledger audit room;
-- reintroduces Maelis through independent audit work;
-- forces Red Jackal to supply location, timing, sequence, and observation rather than dramatic summary;
-- explicitly excludes his contaminated CH-009 live test from usable evidence;
-- carries forward Tavian's “something may be influencing movement” conclusion without upgrading it to proof.
-
-## SC-010-02 — A Person, An Expense
-
-**PASS.**
-
-Red Jackal's CH-004 irregular-labor arrangement is used exactly as locked:
-- payment exists;
-- supply records exist;
-- route assignment exists;
-- completion/activity records exist;
-- no normal identity-bound worker status exists.
-
-The personal realization lands clearly:
-
-**the institution can account for the money, supplies, and work while failing to count the person through the same casualty structure.**
-
-No CH-004 term is retconned.
-
-## SC-010-03 — The Other Ledger
-
-**PASS.**
-
-Jessa:
-- owns procedural knowledge;
-- explains category separation;
-- identifies unresolved route loss and irregular/incomplete-identity incidents;
-- clarifies that not every route loss becomes a certified casualty;
-- shows discomfort with reclassification practice;
-- does not claim knowledge of the full conspiracy.
-
-Her competence remains independent of Red Jackal.
-
-## SC-010-04 — Answer What You Know
-
-**PASS.**
+### Hesk Credibility — PASS
 
 Hesk:
-- stays calm;
-- invokes privacy, restricted records, certified copies, frontier uncertainty, identity uncertainty, and category distinctions;
+- invokes restricted worker files;
+- accepts certified copies;
+- requires Guild custody of originals;
+- distinguishes missing from dead;
+- distinguishes unregistered from certified;
+- frames frontier records as legitimately imperfect;
 - does not confess;
-- does not reveal the migration mechanism;
-- begins actively managing access.
+- does not mention the hidden physical mechanism.
 
-Red Jackal:
-- intervenes because Jessa is useful and because he rejects Hesk deciding her role/silence;
-- uses social/intimidating pressure;
-- explicitly states that Jessa can leave;
-- does not force her to answer;
-- does not threaten her or her family;
-- states that accepting Hesk's bad work did not make him Hesk's property.
+His behavior can reasonably be read as both legitimate procedure and self-protective access management.
 
-Jessa:
-- explicitly states that her younger siblings depend on her income;
-- understands the employment risk;
-- chooses to remain;
-- voluntarily provides one bounded procedural fact;
-- sets a boundary when Maelis asks who taught the practice;
-- has that boundary respected.
+### Paragraph Cadence — PASS
 
-This is a strong execution of the locked anti-villain protection model.
+Current saved manuscript:
+- 445 total prose/dialogue paragraphs;
+- 168 non-dialogue narrative paragraphs;
+- 7 single-sentence non-dialogue paragraphs (~4.2%);
+- standalone dialogue remains separated for speaker clarity.
 
-## SC-010-05 — The Balance
+Multi-sentence narration is the strong default.
+
+# Gate 9 Review
+
+| Check | Result | Evidence |
+|---|---|---|
+| Close first-person POV | PASS | I/me/my narration; no third-person Red action narration |
+| Soul-Drift compatibility | PASS | no restored Earth biography or old traffic-death residue |
+| Chosen Red Jackal persona preserved | PASS | no identity contradiction |
+| Movie-like English | PASS | direct dialogue/action/reaction rhythm |
+| Reader-talk restrained | PASS | one direct audience aside |
+| Audience address freezes time | PASS | explicit Fourth-Wall Pause and exact resumption |
+| Pause not tactically abused | PASS | commentary only |
+| CH-009 field handoff accurate | PASS | clean older track evidence separated from contaminated live test |
+| Red admits CH-009 contamination | PASS | Maelis rejects live panic observation as evidence |
+| Maelis owns audit method | PASS | requests exact location/time/observation/inference distinctions |
+| Red does not become auditor | PASS | provides firsthand facts and personal reactions |
+| Red remains illiterate | PASS | route/ledger text remains unreadable |
+| Wayfarer Tongue Token present | PASS | spoken communication remains supported |
+| CH-004 irregular-labor terms preserved | PASS | payment, supplies, route work, no identity-bound worker status |
+| Red's expense trail exists | PASS | payment/supply/assignment/completion records |
+| Personhood gap established | PASS | activity can be recorded without normal casualty identity |
+| Off-book vulnerability becomes personal | PASS | money/job can balance while Red fails normal casualty count |
+| Structural vulnerability not proof of fraud | PASS | valid documents can still produce misleading totals |
+| Unresolved/missing category explained | PASS | distinct from certified casualty |
+| Irregular/incomplete identity category explained | PASS | Jessa identifies separate filing route |
+| Outer routes disproportionately affected | PASS | incomplete recovery/local hire patterns discussed |
+| Jessa procedural competence | PASS | knows filing categories and reclassifications |
+| Jessa employment fear preserved | PASS | younger siblings depend on her income |
+| Jessa not mastermind | PASS | only partial procedural knowledge |
+| Jessa not forced | PASS | Red explicitly says she may leave |
+| Jessa chooses bounded disclosure | PASS | voluntary "Practice" clarification |
+| Red's intervention motive personal | PASS | usefulness + hostility to imposed silence/ownership |
+| Red does not become civic hero | PASS | no generic justice conversion |
+| Hesk remains calm/credible | PASS | procedural access/privacy/certification arguments |
+| Hesk does not confess | PASS | hidden scheme remains protected |
+| Hesk begins access management | PASS | originals, supervision, copies, Jessa's duties |
+| Maelis keeps evidence discipline | PASS | correlation separated from cause |
+| Main-road certified losses decrease | PASS | repeated reporting periods |
+| Outer unresolved/irregular losses increase | PASS | inverse pattern repeated |
+| Assignment volume checked | PASS | simple traffic-volume explanation tested |
+| Weather/season alternatives checked | PASS | not sufficient |
+| Random clerical error insufficient | PASS | Maelis states it explicitly |
+| Intentional management only suspicion | PASS | no authorship proof |
+| Correlation not cause | PASS | explicitly stated |
+| No Play Logic | PASS | none |
+| No regeneration event | PASS | none |
+| No new F-ID | PASS | none |
+| F-001 unchanged | PASS | PLANTED — CH-002 |
+| F-002 unchanged | PASS | PLANTED — CH-003 |
+| F-003 unchanged | PASS | PLANTED — CH-007 |
+| F-004 unchanged | PASS | PLANTED — CH-005 |
+| M-007 inactive | PASS | no Fate/prophecy/destiny/causal-wake material |
+| No march-lure discovery | PASS | CH-011 protected |
+| No physical migration mechanism | PASS | absent |
+| Hesk guilt not proven | PASS | suspicion only |
+| Deliberate redirection not proven | PASS | absent |
+| CH-013 midpoint truth protected | PASS | no proven "choosing where people die" conclusion |
+| CH-011 does not begin | PASS | no Broken North field expedition/lure stake |
+| Locked inverse ending preserved | PASS | outer losses rise as main-road recorded safety improves |
+| Final thematic line preserved | PASS | "The ledger balanced. The people didn't." |
+
+# Fourth-Wall Pause Audit
+
+## Pause 1 — Administrative Freedom
+
+After Maelis explains that Red's assignment/payment can remain fully recorded while he would not enter the certified casualty structure normally, Red directly addresses the audience.
+
+Frozen:
+- Wayfarer Token vibration;
+- a settling page;
+- dust in window light.
+
+Red comments only.
+
+Time resumes to the same causal instant.
+
+**PASS.**
+
+# Maelis Orra Review
 
 **PASS.**
 
 Maelis:
-- compares Main Caravan Road certified safety/casualty data with outer-route unresolved/irregular losses;
-- checks assignment volume and comparable periods;
-- finds the pattern repeating;
-- states that the evidence is correlation, not cause;
-- rejects random clerical error as a sufficient explanation without proving authorship or mechanism.
+- reestablishes evidence-first methodology;
+- rejects dramatic language when dates/locations are needed;
+- separates observation from inference;
+- uses Red's own file as a clean institutional example;
+- recognizes category-level reporting distortion;
+- does not abandon procedure;
+- does not overclaim cause or authorship.
 
-The locked ending is realized:
+Her conclusion remains evidence-bounded:
 
-**recorded outer-route losses rise whenever the Main Caravan Road's recorded safety improves.**
+**random clerical error is no longer a sufficient explanation.**
 
-# Maelis Orra
-
-**PASS.**
-
-Maelis remains pro-evidence and pro-procedure.
-
-She does not conclude that procedure itself is worthless.
-
-Her development is correctly framed through a harder problem:
-
-**valid-looking records and defensible categories can still fail to count vulnerable people accurately.**
-
-She also gains enough evidence to treat Red Jackal functionally as an **institutional blind spot**:
-- his activity is recordable;
-- his identity remains unresolved;
-- normal safeguards do not map cleanly onto him;
-- his own file exposes the difference between recording work and recording personhood.
-
-The manuscript does not need her to use the literal label aloud.
-
-# Jessa Vale
+# Jessa Vale Review
 
 **PASS.**
 
-Jessa remains:
-- competent;
-- conflict-avoidant;
-- economically dependent on Guild employment;
-- responsible for younger siblings;
-- uncomfortable with filing practices;
-- partially complicit without being a mastermind;
-- afraid without becoming passive.
+Jessa:
+- understands the filing structure;
+- has processed uncomfortable reclassifications;
+- remains economically vulnerable;
+- does not suddenly become fearless;
+- provides one important procedural fact by choice;
+- sets a boundary when Maelis asks who taught the practice;
+- retains agency after Red creates room for her decision.
 
-Her disclosure is self-directed and bounded.
-
-She does not become a fearless whistleblower.
-
-# Rovan Hesk
+# Rovan Hesk Review
 
 **PASS.**
 
-Hesk remains credible.
+Hesk's pressure remains plausible and institutionally grounded.
 
-His arguments are effective because several are procedurally defensible:
-- missing is not automatically dead;
-- unregistered is not certified;
-- unrecovered bodies create uncertainty;
-- unlike categories should not be combined carelessly.
+He learns that Red is no longer behaving like a contained irregular worker, but CH-010 does not push him prematurely into the later full "unpredictable complication" state.
 
-He uses those truths to control scope and access without exposing his hidden scheme.
-
-His Red Jackal assessment advances appropriately from:
-
-**useful irregular asset**
-
-toward:
-
-**irregular asset becoming operationally inconvenient.**
-
-The manuscript does not advance him prematurely to CH-012's locked **unpredictable complication** state.
-
-# Anti-Villain Expression
+# Red Jackal Stable-Character Review
 
 **PASS.**
 
-The chapter does not turn Red Jackal's protection of Jessa into pure altruism.
+Red:
+- remains self-centered and agency-focused;
+- is personally angered by the idea that a system can use a person while deciding whether that person counts;
+- protects Jessa's choice because Hesk assigning her silence offends his autonomy logic and because her information is useful;
+- does not become a conventional reforming hero;
+- does not become obedient to procedure;
+- accumulates information and personal investment without requiring personality growth.
 
-His motive remains visibly mixed:
-- Jessa has information he wants;
-- he dislikes Hesk assigning whether she is allowed to speak;
-- Hesk's reminder about the work arrangement activates Red Jackal's hostility toward imposed ownership/roles.
-
-The line:
-
-**“I took bad work because it paid. That didn't make me yours.”**
-
-directly reinforces the locked anti-villain/agency theme.
-
-Jessa's autonomy remains intact.
-
-# Documentary Logic
+# Documentary Logic Audit
 
 **PASS.**
 
-The manuscript successfully shows how institutional erasure can happen without every individual document being forged.
+The chapter correctly distinguishes:
+- route assignment/work records;
+- certification;
+- liability/injury claims;
+- certified casualties;
+- irregular labor;
+- unresolved/missing/incomplete-identity incidents.
 
-Canonically demonstrated:
-- route activity can exist;
-- payment can exist;
-- supplies can exist;
-- certification/casualty identity can still fail to reconcile;
-- missing/unconfirmed/irregular cases can sit outside the certified casualty headline;
-- category separation can produce a cleaner Main Caravan Road safety picture.
+The central mechanism remains:
 
-This is understandable without unnecessary invented accounting jargon.
+**individually defensible records + category separation = misleading aggregate safety picture.**
 
-# Language / Literacy
+No invented magical accounting mechanism is introduced.
 
-**PASS.**
-
-- Red Jackal does not read Veyran records.
-- Maelis and Jessa interpret written material.
-- Route symbols and prior location knowledge allow Red Jackal to follow comparisons.
-- A charged Wayfarer Tongue Token supports spoken communication.
-- No literacy gain occurs.
-
-# Power
+# Mystery / Causality Audit
 
 **PASS.**
 
-CH-010 contains:
-- no combat;
-- no Play Logic attempt;
-- no manifestation;
-- no Stage progression;
-- no regeneration event;
-- no new M-005 observation.
+CH-010 establishes:
+- outer-route undercounting;
+- repeated inverse safety/loss pattern;
+- active access management by Hesk;
+- serious suspicion of intentional record management.
 
-F-003 and F-004 remain unchanged.
-
-# Mystery / Knowledge Boundary
-
-**PASS.**
-
-CH-010 canonically establishes only:
-- some real people/incidents fall outside certified casualty counting;
-- irregular/off-book labor is especially vulnerable to administrative erasure;
-- outer-route losses are disproportionately represented in weaker categories;
-- the Main Caravan Road's recorded safety improves during periods when outer-route losses increase;
-- the inverse pattern repeats;
-- random clerical error is no longer a sufficient comfortable explanation;
-- intentional record management is a reasonable suspicion.
-
-The manuscript does **not** establish:
-- a march-lure;
-- a lure network;
-- physical manipulation equipment;
+It does not establish:
+- march-lures;
+- human authorship of migration drift;
 - Hesk's guilt as proven fact;
-- deliberate migration redirection as proven fact;
-- intentional sacrifice policy as proven fact;
-- Fate;
-- Great Design;
-- protected writer truth.
+- physical redirection;
+- intentional sacrifice policy as proven fact.
 
-# Correlation / Causation Safeguard
+The chapter therefore hands clean documentary evidence into CH-011 without stealing CH-011 or CH-013's reveals.
+
+# Knowledge Boundary
+
+By the end of CH-010, Red may know:
+- his irregular labor file records activity without normal identity-bound casualty status;
+- some missing/irregular/incomplete-identity people do not enter headline casualty totals;
+- outer routes contain more of those weaker categories;
+- some incidents are reclassified;
+- Jessa has processed those categories;
+- Hesk is monitoring/managing audit access;
+- Main Caravan Road recorded safety improves during periods when outer losses increase;
+- random clerical error is no longer a comfortable explanation.
+
+Red still does not know:
+- the physical cause of migration drift;
+- march-lures;
+- Hesk's full policy;
+- deliberate migration redirection as fact;
+- intentional sacrifice as proven fact;
+- protected cosmology.
 
 **PASS.**
 
-Red Jackal says:
+# Scene Compliance
 
-**“The outer routes pay for it.”**
+## SC-010-01 — Dates, Not Atmosphere
+**PASS.** Maelis converts CH-009 field evidence into auditable location/time facts and rejects contaminated evidence.
 
-Maelis immediately answers:
+## SC-010-02 — A Person, An Expense
+**PASS.** Red's CH-004 irregular-labor trail demonstrates activity without normal identity-bound casualty representation.
 
-**“The records show correlation, not cause.”**
+## SC-010-03 — The Other Ledger
+**PASS.** Jessa explains category separation and unresolved/irregular filing without revealing the whole scheme.
 
-This prevents the manuscript from stealing CH-013's midpoint conclusion.
+## SC-010-04 — Answer What You Know
+**PASS.** Hesk manages access procedurally; Red creates room for Jessa's choice; Jessa supplies one bounded fact voluntarily.
 
-The final canonical evidence remains:
+## SC-010-05 — The Balance
+**PASS.** Maelis identifies the repeated inverse pattern and explicitly preserves correlation-versus-cause discipline.
 
-**an inverse documentary pattern, not yet the proved causal mechanism.**
+# F-ID State
 
-# F-ID / Mystery State
+No F-ID changes in CH-010.
 
-No new F-ID is planted in CH-010.
-
-After CH-010:
-- F-001 — PLANTED — CH-002
-- F-002 — PLANTED — CH-003
-- F-003 — PLANTED — CH-007
-- F-004 — PLANTED — CH-005
-
-M-005 receives no new clue.
+- **F-001 — PLANTED — CH-002**
+- **F-002 — PLANTED — CH-003**
+- **F-003 — PLANTED — CH-007**
+- **F-004 — PLANTED — CH-005**
 
 M-007 remains inactive.
 
-# CH-011 First March-Lure Discovery Protection
+# Canonization Decision
 
-**PASS.**
+# GATE 9 — PASS
 
-CH-010 contains:
-- no lure terminology;
-- no hidden device;
-- no physical migration-control equipment;
-- no Broken North expedition;
-- no ruined watch-point discovery.
+**CH-010 — The Ledger Doesn't Balance** is current canon under the Soul-Drift / close-first-person / final story-engine standard.
 
-CH-011 — **Broken North** remains the owner of:
-- the field verification;
-- trespass/closure pressure;
-- hidden maintained equipment;
-- the first march-lure stake.
+**Official next production step:**
 
-# CH-013 Midpoint Protection
+**CH-011 — Broken North → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**
 
-**PASS.**
-
-CH-010 does not establish the locked midpoint truth:
-
-**someone in Greywake is choosing where the migration kills people.**
-
-It establishes a documentary pattern that justifies further investigation.
-
-CH-013 retains ownership of the causal/moral midpoint revelation.
-
-# Ending
-
-**PASS.**
-
-The final movement:
-- synthesizes field and documentary evidence;
-- preserves uncertainty about cause;
-- lands on the inverse record pattern;
-- closes with a strong thematic image:
-
-**“The ledger balanced. The people didn't.”**
-
-The line summarizes institutional erasure without revealing the physical mechanism.
-
-# Gate 9 Decision
-
-# PASS
-
-CH-010 is approved for canonization.
-
-After canonization:
-- CH-010 becomes CANON;
-- no F-ID changes state;
-- Maelis may treat Red Jackal as an institutional blind spot;
-- Hesk may treat Red Jackal as an irregular asset becoming operationally inconvenient;
-- Jessa has taken one bounded, voluntary step away from passive complicity;
-- intentional record management is a serious suspicion, not a proven causal conclusion;
-- CH-011 remains the first physical march-lure discovery;
-- CH-013 remains the midpoint truth owner;
-- the next authorized production step becomes **CH-011 — Broken North: Detailed Scene Architecture only**.
-
-Do not draft CH-011 manuscript before its Scene Architecture and Gate 8 Pre-Manuscript Scene QA pass.
-
-Do not reveal the march-lure before CH-011's approved manuscript.
-
-Do not select Volume 2.
+CH-028 remains paused until CH-001 through CH-027 complete this synchronization cycle.

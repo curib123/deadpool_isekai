@@ -9,6 +9,7 @@
 **POV:** Close first-person Red Jackal  
 **Battle QA:** PASS — `qa/VOLUME-001-GREYWAKE-BATTLE-SCENE-AUDIT.md`  
 **Studio Audit:** PASS — `qa/CH001-027-STUDIO-CINEMATIC-RETCON-AUDIT.md`
+**Official Arc 1 Checklist:** `qa/VOLUME-001-GREYWAKE-OFFICIAL-ARC-1-QA.md`
 
 # Current Authority Notice
 

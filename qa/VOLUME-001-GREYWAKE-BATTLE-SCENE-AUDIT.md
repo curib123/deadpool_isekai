@@ -157,7 +157,7 @@ The sequence is causally correct but compressed.
 
 **PASS — climax scene depth and matchup clarity corrected.**
 
-# 9. Required Revision
+# 9. Historical Required Revision — Completed
 
 Revise only where needed.
 
@@ -200,7 +200,7 @@ Required human/tactical climax amplification:
 - Red may own the immediate physical stop/guide;
 - preserve final migration commitment and Hesk loss of authority.
 
-# 10. Gate Decision
+# 10. Historical Gate Decision — Superseded by Post-Revision Verification
 
 # PASS — GREYWAKE BATTLE / SCENE QA
 
@@ -212,9 +212,9 @@ Greywake passes:
 - supporting-cast design;
 - consequence structure.
 
-Greywake does **not yet pass the new Great Battle QA** because CH-022→CH-024 are too compressed relative to their role.
+Historical pre-amplification decision: Greywake did **not yet pass the new Great Battle QA** because CH-022→CH-024 were too compressed relative to their role. The required amplification was completed and is superseded by Section 11 below.
 
-After amplification:
+Historical next steps, now completed:
 1. rerun CH-022 Gate 8 Battle/Scene QA;
 2. rerun CH-022 Gate 9;
 3. repeat CH-023;

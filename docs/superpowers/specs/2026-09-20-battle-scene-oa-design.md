@@ -61,6 +61,8 @@ Create `qa/VOLUME-002-MERROWGATE-BATTLE-SCENE-AUDIT.md` as the current arc's Bat
 | V2-B05 | CH-047 | Harbor Watch, workers, and Red vs simultaneous infrastructure/weather failures plus private-security seizure attempts | MAJOR / GREAT-BATTLE BUILD | Stabilize routes, preserve public response, and prevent emergency authority from becoming a private takeover |
 | V2-B06 | CH-048 | Split coalition fronts vs continuing harbor failures, private security, and evidence seizure | CLIMAX | Complete the multi-front harbor crisis; secure evidence and public control while the port keeps functioning |
 
+CH-033 receives a separate `HAZARD ACTION` card (`V2-A01`) for its short warehouse/infrastructure emergency. It is part of action coverage but is not counted as a combat topology or as one of the arc's battle IDs.
+
 The map will identify CH-047→CH-048 as the great battle sequence. Its planned topology changes are:
 
 1. distributed defensive response against environmental/infrastructure failure;

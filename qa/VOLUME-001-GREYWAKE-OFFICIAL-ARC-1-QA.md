@@ -10,6 +10,10 @@
 **Status:** PASS — 40-SECTION CHECKLIST COMPLETE AFTER REVALIDATION
 **Final gate:** 10/10 ✅ — READY FOR FINAL QA / CURRENT GATE 11 PASS
 
+**Chapter-level QA standard:** `qa/ARC-1-CHAPTER-QA-CHECKLIST.md`
+**Chapter-level QA rollup:** `qa/ARC-1-CHAPTER-QA-SUMMARY.md`
+**Chapter-level records:** `qa/CH-001-OFFICIAL-ARC-1-CHAPTER-QA.md` → `qa/CH-026-OFFICIAL-ARC-1-CHAPTER-QA.md`
+
 ## Status contract
 
 - **PASS** — current manuscript, scene, continuity, or QA evidence satisfies the item.

@@ -753,7 +753,7 @@ Red Jackal must follow instructions rather than chase the most dramatic target.
 - pack converges;
 - Tavian identifies the safest line;
 - Red Jackal obeys a positioning instruction;
-- one small Stage I utility manifestation may close/narrow a gap for seconds;
+- one small utility manifestation may close/narrow a gap for the needed tactical interval;
 - Tavian uses the opening to redirect, drive off, or defeat the immediate attackers;
 - Red Jackal contributes materially but does not solve the encounter alone.
 
@@ -761,16 +761,16 @@ The encounter should be shorter and more controlled than CH-007.
 
 It is consequence, not a new climax.
 
-### Play Logic Maximum
+### Play Logic Scene Use
 
 One utility manifestation occurs if used; no second one is needed by the locked encounter.
 
 Preferred result:
 - low temporary obstruction;
-- imperfect;
-- short-lived;
+- simple/rough presentation;
+- maintained only for the needed tactical interval;
 - enough to shape movement;
-- no new mechanic.
+- no new mechanic or capability ceiling.
 
 ### Regeneration Boundary
 

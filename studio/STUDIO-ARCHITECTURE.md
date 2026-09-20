@@ -91,7 +91,7 @@ No destination becomes an arc before this selection gate passes.
 Arc Architect → Volume Editor → Pacing Editor → Character Arc Editor → Mystery Editor → Power Balance Editor → Volume/Arc QA.
 
 ### Phase 6 Chapter
-Chapter Architect → Scene Architect → Continuity precheck → Knowledge-state check → Foreshadowing check → plan approval.
+Chapter Architect → Scene Architect → Scene QA → Battle Composition/Matchup QA where hostile action exists → Continuity precheck → Knowledge-state check → Foreshadowing check → plan approval.
 
 ### Phase 7 Manuscript
 Manuscript Author → Red Jackal Voice → Dialogue → Comedy → Action → Imagination Scene Design → Reference → Prose.
@@ -110,7 +110,7 @@ For the active series style, Phase 7 must enforce:
 - preservation of independent native hero/villain storylines that Red may intrude upon.
 
 ### Phase 8 QA
-Canon Conflict → Continuity → Power → Mystery → Character → Paragraph → Reference → Chapter QA.
+Canon Conflict → Continuity → Power → Mystery → Character → Scene QA → Battle QA where applicable → Action Geography → Paragraph → Reference → Chapter QA.
 
 ### Phase 9 Canonization
 Lead Editor approval → Series Director approval if high-level canon changed → Canon Librarian updates authoritative records.
@@ -129,10 +129,19 @@ If a requested release edit changes story meaning, it must return to Manuscript 
 Major ideas may not jump directly from idea to prose. Route them through the department that owns the affected canon.
 
 ## QA Escalation
-Prose/cinematic-flow issue → A097. Dialogue → A092. Red voice/POV → A091/A043. Comedy → A093. Action geography → A095. Play Logic staging → A096/A036. Character → A040/A043. Power → A031-A037. World → A010. Arc → A061. Publication formatting/canon-equivalence → A124. Major series contradiction → A001.
+Prose/cinematic-flow issue → A097. Dialogue → A092. Red voice/POV → A091/A043. Comedy → A093. Scene purpose/turn/handoff → A081/A120. Battle matchup/topology/action geography → A095/A081. Play Logic staging → A096/A036. Character → A040/A043. Power → A031-A037. World → A010. Arc → A061. Publication formatting/canon-equivalence → A124. Major series contradiction → A001.
 
 ## Canon States
 LOCKED, CANON, PROVISIONAL, PLANNED, DRAFT, PUBLISH DRAFT, PUBLISH-READY, PUBLISHED, DEPRECATED.
 
 ## Single Source of Truth
 Each canon domain has one authoritative Bible. Other documents reference it; they do not redefine it.
+
+
+## Mandatory Scene / Battle Standards
+
+All scene architecture must pass `qa/SCENE-QA-STANDARD.md`.
+
+Any scene containing meaningful hostile action must additionally pass `qa/BATTLE-SCENE-QA-STANDARD.md`.
+
+Every destination arc must maintain a Battle Composition Map with minor/major battle distribution, matchup topology variety, supporting-cast ownership, terrain/objective variation, and climax escalation.

@@ -210,3 +210,42 @@ Expected result: the checklist passes its structural validation, the final QA ev
 git add -- 'qa/VOLUME-001-GREYWAKE-OFFICIAL-ARC-1-QA.md' 'qa/publish/VOLUME-001-PUBLISH-VERSION-QA.md' 'qa/publish/CH-001-PUBLISH-VERSION-QA.md' 'qa/publish/CH-002-PUBLISH-VERSION-QA.md' 'qa/publish/CH-003-PUBLISH-VERSION-QA.md' 'qa/publish/CH-004-PUBLISH-VERSION-QA.md' 'qa/publish/CH-005-PUBLISH-VERSION-QA.md' 'qa/publish/CH-006-PUBLISH-VERSION-QA.md' 'qa/publish/CH-007-PUBLISH-VERSION-QA.md' 'qa/publish/CH-008-PUBLISH-VERSION-QA.md' 'qa/publish/CH-009-PUBLISH-VERSION-QA.md' 'qa/publish/CH-010-PUBLISH-VERSION-QA.md' 'qa/publish/CH-011-PUBLISH-VERSION-QA.md' 'qa/publish/CH-012-PUBLISH-VERSION-QA.md' 'qa/publish/CH-013-PUBLISH-VERSION-QA.md' 'qa/publish/CH-014-PUBLISH-VERSION-QA.md' 'qa/publish/CH-015-PUBLISH-VERSION-QA.md' 'qa/publish/CH-016-PUBLISH-VERSION-QA.md' 'qa/publish/CH-017-PUBLISH-VERSION-QA.md' 'qa/publish/CH-018-PUBLISH-VERSION-QA.md' 'qa/publish/CH-019-PUBLISH-VERSION-QA.md' 'qa/publish/CH-020-PUBLISH-VERSION-QA.md' 'qa/publish/CH-021-PUBLISH-VERSION-QA.md' 'qa/publish/CH-022-PUBLISH-VERSION-QA.md' 'qa/publish/CH-023-PUBLISH-VERSION-QA.md' 'qa/publish/CH-024-PUBLISH-VERSION-QA.md' 'qa/publish/CH-025-PUBLISH-VERSION-QA.md' 'qa/publish/CH-026-PUBLISH-VERSION-QA.md'
 git -c user.name='John Paul Cajes Curib' -c user.email='109894757+curib123@users.noreply.github.com' commit -m 'qa: close Greywake Arc 1 official checklist'
 ```
+
+## Authorized Scope Addendum — Chapter-by-Chapter Checklist
+
+The user supplied a separate 35-section chapter checklist and authorized both actions: preserve it as a reusable studio standard and apply it to every Arc 1 chapter. This addendum does not change the arc-level checklist, does not force conditional genre elements into every chapter, and does not authorize prose changes without an evidence-backed weakness.
+
+### Task 6: Add the chapter QA standard
+
+**Files:**
+- Create: `qa/ARC-1-CHAPTER-QA-CHECKLIST.md`
+
+**Interfaces:**
+- Consumes: user attachment `d5cb75ce-8029-4c12-a9f2-5e2d6c214c27/pasted-text.txt`.
+- Produces: the complete reusable 35-section chapter checklist with PASS/WEAK/MISSING/N/A rules and final chapter-result rules.
+
+- [ ] Copy all 35 section headings and conditional guidance into the standard.
+- [ ] Preserve mandatory labels on Sections 1, 2, 4, 15, 27, 29, 30, and 35.
+- [ ] State that conditional battle, comedy, dark-fantasy, isekai, OP, mystery, adventure, emotional, and shounen checks may be `N/A` when they do not belong in that chapter.
+- [ ] State the adjacent `FIX:` requirement for every `WEAK` or `MISSING` result.
+- [ ] Validate that the standard contains exactly 35 numbered sections and no placeholder text.
+
+### Task 7: Apply the standard to every Arc 1 chapter
+
+**Files:**
+- Create: `qa/ARC-1-CHAPTER-QA-SUMMARY.md`
+- Create: `qa/CH-001-OFFICIAL-ARC-1-CHAPTER-QA.md` through `qa/CH-026-OFFICIAL-ARC-1-CHAPTER-QA.md`
+- Modify: `qa/VOLUME-001-GREYWAKE-OFFICIAL-ARC-1-QA.md`
+
+**Interfaces:**
+- Consumes: the chapter standard, current CH-001–CH-026 manuscripts, scene records, Gate 9 records, continuity record, battle audit, and arc-level checklist.
+- Produces: 26 evidence-backed chapter records, a rollup, and an arc-level link to the chapter QA set.
+
+- [ ] Give each chapter record all 35 numbered sections, one exact status per section, and direct chapter/scene evidence.
+- [ ] Use `N/A` only for conditional material absent by design; do not mark a chapter weak because it lacks a battle, joke, dark scene, power reveal, or hype moment that the checklist says is optional.
+- [ ] If any section is `WEAK` or `MISSING`, place an adjacent `FIX:` line with the six-part repair rule; do not leave an unresolved bare status.
+- [ ] Record the chapter's “What is different now?” progression result, intentional ending type, next-chapter reason, and final result.
+- [ ] Keep CH-027 and Volume 2 out of the chapter set.
+- [ ] Build the summary with 26/26 records, per-chapter result, conditional N/A count, and key evidence.
+- [ ] Link the standard, summary, and 26 records from the arc-level official QA.
+- [ ] Validate 26 records × 35 section statuses, 26 final results, no unresolved WEAK/MISSING, no protected-truth/progression leaks, and no manuscript changes unless a repair is explicitly recorded.

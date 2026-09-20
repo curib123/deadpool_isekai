@@ -1,7 +1,8 @@
 # Chapter 19 — Build the Wrong Road
 
-**Status:** STUDIO CINEMATIC RETCON REVISED — CLOSE THIRD-PERSON / GATE 9 REVALIDATION PENDING
-**Word Count:** 2,668  
+**Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
+**Revision Date:** 2026-09-20
+**Word Count:** 1560
 **Chapter QA:** `qa/CH-019-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-019-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
@@ -11,93 +12,111 @@ Before, it had been evidence.
 
 Now it had to become a road again.
 
-Brynn had brought militia, road workers, two carts of ordinary materials, and more people from the outer homesteads than Greywake had officially requested. Tavian brought route notes and the expression of a man who expected the forest to disagree with them personally. He carried timber.
+Brynn brought militia, road workers, two carts of ordinary materials, and more people from the outer homesteads than Greywake had officially requested.
 
-A lot of timber. Red put one beam over his shoulder.
+Tavian brought route notes and the expression of a man expecting the forest to disagree personally.
+
+I carried timber.
+
+A lot of timber.
+
+I put one beam over my shoulder.
 
 A woman from the outer farms pointed at the other end.
 
-“Higher. You're dragging it.”
+"Higher. You're dragging it."
 
-Red looked back.
+I looked back.
 
 She was right.
 
-That ended the performance. Practical labor remained resistant to reputation. They passed the old Guild closure just after first light.
+That ended the performance.
 
-The chain had been removed under Brynn's emergency authorization. The sign still hung from one post, warning everyone that the road beyond was unstable, dangerous, and closed. It was still correct.
+Practical labor remained resistant to reputation.
 
-Brynn read out the work zones while militia runners marked withdrawal routes with strips of cloth.
+We passed the old Guild closure just after first light.
 
-“Lower drainage first. Washout team stages here. Second road break gets materials but no work until the lip is secured.”
+The chain had been removed under Brynn's emergency authorization.
 
-A road worker unfolded Kellan's copied notes across a cart board. He had marked the drainage, the cracked shelf, the old retaining line, and the connector farther north. The worker looked at the actual ground.
+The sign still warned that the road beyond was unstable and dangerous.
 
-“Kellan was right about the water.”
+Still correct.
 
-Another man crouched beside the ditch.
+Brynn read out work zones while runners marked withdrawal routes with cloth.
 
-“He was optimistic about the roots.”
+"Lower drainage first. Washout team stages here. Second break gets materials but no work until the lip is secured."
 
-That seemed fair. Tavian walked the center of the old road slowly, watching the road itself and the edges.
+A foreman unfolded Kellan's notes across a cart board.
 
-“Do not clear this section too narrow.”
+He looked at the ground.
 
-One worker looked up from his axe.
+"Kellan was right about the water."
 
-“It's brush.”
+Another worker crouched beside the ditch.
 
-“It is also the line we want large animals to keep using.”
+"He was optimistic about the roots."
 
-“We could clear the middle faster.”
+Fair.
 
-“And teach them to spill around the sides when the road closes on them.”
+Tavian walked the road center slowly, watching both surface and edges.
 
-The worker looked at the trees, then widened the planned cut. Tavian moved on. Nobody argued with him twice.
+"Do not clear this section too narrow."
 
-Brynn came over while he was helping unload stone.
+A worker looked up from his axe.
 
-“The Guild shipment is short.”
+"It's brush."
 
-“How short?”
+"It is also the line we want large animals to keep using."
 
-“Timber and rope.”
+"We can clear the middle faster."
 
-“Hesk?”
+"And teach them to spill around the sides when the center closes."
 
-“Hesk argued the main road cannot be stripped.”
+The worker widened the planned cut.
 
-“That sounds like Hesk.”
+Nobody argued with Tavian twice.
 
-“It is also true.”
+Brynn came over while I unloaded stone.
 
-He stopped. She looked at him.
+"Guild shipment is short."
 
-“We still need the caravan route standing tomorrow.”
+"How short?"
+
+"Timber and rope."
+
+"Hesk?"
+
+"Hesk argued the main road cannot be stripped."
+
+"Sounds like Hesk."
+
+"It is also true."
 
 Right.
 
-Complicated things continued refusing to become simple when he wanted them to.
+Complicated things continued refusing simplification.
 
-“How much did we get?”
+Two homestead carts arrived behind her.
 
-“Enough to work. Not enough to work badly.”
+Old fence timber.
 
-Two homestead carts arrived behind her. Old fence timber. Reused planks.
+Reused planks.
 
-Rope that had seen better years. One of the drivers jumped down.
+Rope with a long history.
 
-“Kellan said you'd be short.”
+One driver jumped down.
+
+"Kellan said you'd be short."
 
 Brynn looked at the load.
 
-“He sent you?”
+"He sent you?"
 
-“No. He told us yesterday what the road would need. We can think without him.”
+"No. He told us yesterday what the road would need. We can think without him."
 
 Also fair.
 
-Soon the lower road filled with overlapping work.
+Soon Broken North filled with overlapping work.
 
 Militia cleared space.
 
@@ -105,530 +124,506 @@ Homesteaders cut roots.
 
 Guild workers argued over drainage angles.
 
-Tavian kept the future animal path wide.
+Tavian preserved the future movement corridor.
 
-Brynn kept people out of exposed ground.
+Brynn kept people off exposed ground.
 
-Red moved whatever someone pointed at.
+I moved whatever somebody pointed at.
 
 No manifestation.
 
-Just work. The drainage cut below the old watch point had collapsed inward years ago. Mud, stones, roots, and dead branches had turned it into a shallow wall that pushed water under the road instead of away from it.
+Just work.
 
-Kellan had marked it first. Water before weight. It was not dramatic.
+The drainage below the watch point had collapsed inward years ago.
 
-That was probably why it mattered. They dug. The mud came out in heavy clumps.
+Mud, stone, roots, and dead branches had turned the ditch into a wall that pushed water under the road instead of away.
 
-He carried baskets of stone away from the ditch until his shoulder started reminding him about the road impact from two days ago. The skin along his ribs had closed. The deeper ache had not.
+Kellan's note was simple.
 
-His leg was better than it had been after the ridge-hound bite, but long hours on uneven ground made it tighten. Regeneration was useful. It was not rest.
+Water before weight.
 
-A worker handed him a pry bar.
+We dug.
 
-“Root.”
+Mud came out in heavy clumps.
 
-He looked at the thick section buried under one side of the old drain.
+I carried stone baskets until the ditch finally started moving water again.
 
-“You want it out?”
+Not repaired.
 
-“Yes.”
-
-“Finally. A problem with a clear moral structure.”
-
-He stared at him.
-
-“Pull.”
-
-He pulled. The root did not care about moral structure. Three people joined him.
-
-They got it out. Water that had been trapped above the blockage began moving through the opened channel. Not much.
+Open.
 
 Enough.
 
-The road worker nearest the drainage knelt and watched the flow.
+Then the washout.
 
-“Keep widening that side. If it backs up under the fill, we lose the lip again.”
+I knew the cracked lip.
 
-Tavian crouched beside a line of fresh prints near the far edge. He saw him stop.
+I had held it once with impossible support while ridge-hounds made the experience unnecessarily interactive.
 
-“What?”
+The road had not improved.
 
-“Recent.”
+If anything, one section had settled farther.
 
-He pointed. Small split tracks. Several.
+The foreman checked Kellan's notes.
 
-“Prey?”
+Then the ground.
 
-“Yes.”
+"Brace point is still usable."
 
-“How recent?”
+Tavian said, "Temporary support only."
 
-“Hours.”
+The foreman looked at him.
 
-Brynn heard him.
+"I know what temporary means."
 
-“Pressure?”
+Then me.
 
-“Closer.”
+"Do you?"
 
-Nobody stopped working. They just worked faster. By midmorning, the drainage had a path again.
+"I have recently received lectures."
 
-Not repaired. Open. Water left the road instead of going through it.
-
-Workers packed stone into two weak spots and cleared enough root growth that the old road surface became visible. Then they reached the washout. He knew the place.
-
-The cracked outer lip still hung over the slope where he had once shoved a temporary brace underneath it while ridge-hounds tried to make the whole situation worse. The road had not improved from memory. One section had settled farther.
-
-Gravel slid when a worker tested the edge. Nobody stepped closer. The road foreman looked at Kellan's notes.
-
-Then at the ground. Then at him.
-
-“Brace point is still possible.”
-
-Tavian said, “Temporary only.” The foreman looked at him.
-
-“I know what temporary means.”
-
-His eyes moved to him.
-
-“Do you?”
-
-“I have recently received several lectures.”
-
-“Good.”
+"Good."
 
 He pointed beneath the cracked shelf.
 
-“I need support there. Not wider. Not higher. Hold that section while we seat the timber.”
+"I need support there. Not wider. Not higher. Hold the section while we seat timber."
 
-“Simple.”
+"Simple."
 
-“Make it ugly.”
+"Make it ugly."
 
-He looked at the gap.
+"Everyone asks for that."
 
-“Everyone keeps asking for that.”
+"Pretty does not hold stone better."
 
-“Because pretty does not hold stone better.”
+No answer to that.
 
-There was no answer to that. He focused. One broken shelf.
+I looked at the gap.
 
-One surviving section of old retaining wall. One gap between them.
+I could have replaced the whole roadbed.
 
-A brace.
+That was not the job.
 
-Nothing more.
+The job was letting ordinary engineering become the thing that remained after I left.
 
-The pale-grey shape appeared beneath the lip exactly where the foreman had pointed.
+A pale-grey brace appeared beneath the lip exactly where the foreman marked.
 
 Short.
 
 Wide.
 
-Wedged against the remaining wall.
+Functional.
 
-He could have made more.
+Workers moved immediately.
 
-More was not the assignment.
+Two timbers went beside it.
 
-The foreman crouched.
+Stone.
 
-“Hold.”
+Packed aggregate.
 
-“I was planning to.”
+Rope lines kept people away from the drop.
 
-“Then stop talking.”
+I held the impossible support exactly where it belonged.
 
-Workers moved. Two timbers went into the gap beside the manifestation. Stone followed, then packed aggregate. Rope lines held workers away from the drop while they worked the supports into place.
+That part was easy.
 
-He kept the brace exactly where it was.
+Not interfering with people who understood roads was harder.
 
-Holding the impossible brace was easy.
+The foreman watched the physical brace take load.
 
-Not interfering with the people who understood roads was harder.
+"Transfer."
 
-A worker drove the timber deeper. Another packed stone behind it. Brynn kept the approach clear. Tavian watched both the road and the forest.
+Workers eased weight into timber and stone.
 
-Minutes stretched.
+The shelf settled.
 
-The brace did not.
+Then stopped.
 
-“Transfer,” the foreman said.
+"Again."
 
-Workers eased the physical support into load. The timber creaked. Stone shifted.
-
-Nobody moved. Then the cracked shelf stopped moving. The foreman put one hand on the new support.
-
-“Again.”
-
-They increased the load.
+More load.
 
 Still held.
 
-“Release it.”
+"Release yours."
 
-He looked at him.
+I looked at him.
 
-“You sure?”
+"You sure?"
 
-“Yes.”
+"Yes."
 
-“That is a lot of trust in wood.”
+"That is a lot of trust in wood."
 
-“It is more trust than I have in your face right now.”
+"It is more trust than I have in your face right now."
 
-He dismissed the manifestation. The pale-grey brace broke apart and disappeared. The timber remained.
+I released the manifestation.
 
-The road shelf remained.
+The pale-grey support folded away.
+
+Timber remained.
+
+Stone remained.
+
+Road remained.
 
 No magic under it.
 
-Just wood, stone, and people who knew where to put both.
+Good.
 
-The timber stayed.
+The next break was farther north.
 
-Red sat down long enough to drink water. Brynn handed him another cup.
+Not as deep.
 
-“You're shaking.”
+More irritating.
 
-“A little.”
-
-“Eat.”
-
-“I did.”
-
-“When?”
-
-He thought about it. She handed him bread. He ate.
-
-The next break was farther north. Not as deep as the main washout. More irritating.
-
-A section of the old roadbed had been eaten out from one side until the remaining footing narrowed into a rough shelf above a drainage cut. Workers could cross it one at a time. Materials could not.
+A drainage cut had eaten one side of the roadbed until workers could cross one at a time, but materials could not.
 
 The foreman looked at the gap.
 
-“We can fill from both sides if we get planks across.”
+"We need planks across long enough to fill from both sides."
 
-A worker pointed at him.
+A worker pointed at me.
 
-“He can make the temporary bit.”
+"He can make the temporary bit."
 
-He looked at him.
+I looked at him.
 
-“Good to know I have become equipment.”
+"Good to know I have become equipment."
 
-“Equipment gets maintained.”
+"Equipment gets maintained."
 
-That was probably not the direction he wanted the conversation to go. Tavian came over.
+Dangerous direction.
 
-“Short.”
+Tavian came over.
 
-“Yes.”
+"Short."
 
-“Not a bridge.”
+"Yes."
 
-He looked at the gap.
+"Inside the work line."
 
-“It is barely a ditch with ambition.”
+"Yes."
 
-The foreman said, “Ramp.”
+"Not a replacement road."
 
-“Fine.”
+"I know."
 
-He pictured the near edge and the surviving road surface beyond it.
+The foreman said, "Ramp."
 
-Short. Rough. Enough for boots and material.
+"Fine."
 
-A pale-grey ramp settled into place.
+I pictured exactly that.
 
-Crooked because the road was crooked. Usable because that was the only part that mattered.
+A short rough ramp settled across the break.
 
-The foreman tested it with one foot.
+Workers crossed with planks first.
 
-“Move.”
+Then stone baskets.
 
-Workers moved. Planks first. Then stone baskets.
+Then fill.
 
-Then fill. Nobody lingered. The ramp stayed where he had put it.
+The ramp stayed.
 
-Tavian watched the workers instead of him.
+No wobble.
 
-Good.
+No strain ritual.
 
-The foreman shouted from the far side.
+No resource meter.
 
-“Last load.”
+Just a temporary object doing its assigned job.
 
-They crossed. Workers placed the planks over the weakest section and packed fill beneath them. More stone.
+When the permanent footing began carrying load, the foreman called:
 
-More fill. A rough physical footing took shape.
+"Drop it."
 
-Not good.
+"There is one more basket."
 
-Real.
-
-The foreman looked at him.
-
-“Drop it.”
-
-“There is one more basket.”
-
-“The permanent footing is carrying load now. Drop it.”
+"The physical footing carries now."
 
 That was the point.
 
-He dismissed the ramp. The last basket stayed on the near side.
+I released the ramp.
 
-A worker picked it up and carried it across the new planks by hand. Apparently civilization survived without making the impossible part permanent.
+A worker carried the last basket across the new planks by hand.
 
-He drank water and ate the rest of the bread Brynn had forced on him. His shoulder throbbed from the ordinary work, and the old wound at his side still pulled when he bent.
+Civilization survived.
 
-Tavian crouched near a patch of disturbed soil.
+Tavian stopped beside fresh tracks farther north.
 
-He stopped.
-
-“Brynn.”
+"Brynn."
 
 She came over.
 
-“What?”
+"What?"
 
-He pointed toward the trees. Fresh tracks. More than before.
+He pointed toward the trees.
 
-“Prey line crossed here.”
+"Prey line crossed here. Very recent."
 
-“How recent?”
+A call sounded down the corridor.
 
-“Very.”
+High.
 
-A call sounded farther down the corridor. High. Short.
+Short.
 
-Another answered behind it. Workers looked up. Tavian stood.
+Another answered behind it.
 
-“Clear the tools from the center.”
+Workers looked up.
+
+Tavian stood.
+
+"Clear tools from the center."
 
 Brynn raised her voice.
 
-“Work crews off the road. Militia to the marked edges.”
+"Crews off the road. Militia to marked edges."
 
-Nobody argued. The forest moved before the last wheelbarrow cleared. Three browsing animals broke through the brush.
+The forest moved before the last wheelbarrow cleared.
 
-They were smaller than the herd from the backflow. Still large enough to ruin a person. They crossed Broken North at a run.
+Three browsing animals broke through the brush.
 
-Tavian watched their direction.
+Smaller than the backflow herd.
 
-“Do not push them east.”
+Still large enough to turn workers into problems.
+
+Tavian watched direction.
+
+"Do not push them east."
 
 A militia guard shifted.
 
-“Why?”
+"Why?"
 
-“Farm connector.”
+"Farm connector."
 
-The guard moved back. The animals continued north. Then the ridge-hound calls came.
+The guard moved back.
 
-Closer. Tavian looked at the side road.
+The animals continued north.
 
-“They're following.”
+Then ridge-hound calls came closer.
+
+"They're following," Tavian said.
 
 Brynn drew her sword.
 
-“Workers behind the retaining line.”
+"Workers behind retaining line."
 
-Militia spread along the road edge. No charge. No pursuit.
+Militia spread along the edge.
 
-Just a boundary. The first ridge-hound came through the brush low and fast. A spear point turned it away from the workers.
+No charge.
 
-The second appeared farther left. Tavian shouted.
+No pursuit.
 
-“Leave the center open.”
+Boundary.
 
-Brynn repeated it. The militia gave ground instead of closing. The hounds wanted the prey.
+The first ridge-hound came low and fast.
 
-They wanted them to keep wanting the prey. One worker tripped over a pile of cut roots. Another went back for him.
+A spear point turned it away from workers.
 
-A third ridge-hound came in from the side.
+The second appeared left.
+
+Tavian shouted.
+
+"Leave center open."
+
+Brynn repeated it.
+
+The militia gave ground.
+
+One worker tripped over cut roots.
+
+Another went back for him.
+
+A third hound came from the side.
 
 Wrong angle.
 
-Straight toward the work group.
+Straight toward them.
 
-He moved.
+I moved.
 
-The workday had made his leg sore, but soreness was not the problem in front of him.
+Tavian wanted the hounds following prey north, not fighting beside crews.
 
-He planted himself between the workers and the side cut.
+So I gave the bad angle a worse option.
 
-Low barrier.
+A low pale barrier appeared across the side cut.
 
-Nothing else.
+The hound hit it, checked, and chose the open road instead.
 
-Not because nothing else was possible.
+The workers cleared.
 
-Because Tavian wanted the hounds following prey north, not trapped in a fight beside the work crews.
+The hounds followed prey north.
 
-A low pale barrier appeared across the bad angle.
+I released the barrier.
 
-The hound hit it, found the route inconvenient, and turned along the road instead.
+No fourth manifestation followed.
 
-“Move!”
+Not because there was a ceiling.
 
-Brynn's voice. The workers cleared the line. The second hound followed the first.
+Because there was no fourth problem that needed impossible help.
 
-The workers cleared the line.
+Tavian watched the tree line until the calls moved farther away.
 
-He dismissed the barrier.
-
-The hounds kept running north after the prey. Militia did not chase.
-
-Tavian watched the tree line until the calls moved farther away. Then he lowered his blade.
+Then lowered his blade.
 
 Nobody cheered.
 
-A worker came back for the dropped tools. Another checked the rough footing. Brynn looked at him.
+A worker went back for tools.
 
-“You done improvising?”
+Another checked the footing.
 
-“For now.”
+Brynn looked at me.
 
-“Actually?”
+"Done improvising?"
 
-“Yes.”
+"For now."
 
-She pointed toward the road.
+"Actually?"
 
-“Good. They need hands more than spectacle.”
+"Yes."
 
-That was not a suggestion.
+She pointed at the road.
 
-A small cut along his forearm had already started closing. He picked up a dropped tool and went back to the work line. Tavian walked the section the animals had used. He looked at the route.
+"Good. They need hands."
 
-Then at the side spill.
+So I went back to carrying things.
 
-“Barrier there.”
+Late afternoon made Broken North look almost worse.
 
-A road worker frowned.
+Fresh cuts in brush.
 
-“Magic?”
+Mud everywhere.
 
-“Wood.”
+Timber braces under old stone.
 
-He pointed.
+Rough planks over washed ground.
 
-“Physical. Angle it away from the farm connector.”
+New earth against ancient edges.
 
-Two homesteaders were already dragging old fence timber into place.
+A reclaimed timber barrier redirecting one dangerous side opening.
 
-Work resumed.
+Ugly.
 
-The animals passed.
+Kellan would approve.
 
-Militia lowered their weapons.
+Tavian and I walked the corridor.
 
-Red's barrier was gone.
+Brynn followed with runners.
 
-Then everyone went back to work.
+At the lower drainage, water still moved through the reopened cut.
 
-No one mistook survival for completion. By late afternoon, Broken North looked almost worse than before.
+At the washout, permanent support held without my brace.
 
-Fresh cuts in the brush. Mud everywhere. Timber braces under old stone.
+The foreman stepped onto the repaired lip.
 
-Rough planks over washed ground. New earth piled against old road edges. A line of reclaimed fence timber redirected one dangerous side opening.
+"Still settling."
 
-It was ugly. Kellan would probably approve. He walked the corridor with Tavian because he refused to decide from the map alone.
+"Too much?" Tavian asked.
 
-Brynn followed with two militia runners. The work crews stayed behind them, finishing small corrections. At the lower drainage, water still moved through the reopened cut.
+"Not yet."
 
-At the main washout, the physical timber support held without his brace. Tavian stepped across the repaired lip and looked down.
+Useful, not comforting.
 
-“Still settling.”
+At the second gap, planks and fill held our weight.
 
-The foreman behind them said, “It will.”
+Not a cart.
 
-“Too much?”
+Not a caravan.
 
-“Not yet.”
+Us.
 
-That was not comforting. It was useful. At the second gap, the planks and fill held their weight.
+Farther north, brush had been cleared enough that the old route no longer disappeared into roots.
 
-Not a cart. Not a caravan. Just them.
+One connector was visible again.
 
-Farther north, cleared brush opened the old route enough that the road did not simply disappear into roots. One of the older connector lines was visible again. Another remained rough but passable.
+Another rough but passable.
 
-The third had enough room for movement if nothing panicked at the wrong place. Which was a large condition. Tavian stopped near the old watch point.
+The third had enough room if nothing panicked at exactly the wrong point.
 
-He looked back south. Then north. Then along the side cuts.
+Large condition.
+
+Tavian stopped near the old watch point.
+
+Looked south.
+
+Then north.
+
+Then side cuts.
 
 Brynn waited.
 
-“Well?”
+"Well?"
 
-“Not safe.”
+"Not safe."
 
 Nobody expected safe.
 
-“Not stable.”
+"Not stable."
 
 The foreman nodded.
 
-“Not finished.”
+"Not finished."
 
-He looked at the road. That one was obvious. Tavian continued.
+Obvious.
 
-“But continuous.”
+"But continuous."
 
 Brynn's shoulders lowered slightly.
 
-“Enough?”
+"Enough?"
 
-He took time before answering.
+Tavian took time.
 
-“Enough to attempt the redirection.”
+"Enough to attempt redirection."
 
 That was the win.
 
 The road still looked terrible.
 
-Workers stood in mud to their knees.
+Workers stood in mud.
 
-Red's shoulder hurt. His hands were dirty.
+My clothes had lost a war with earth.
 
-Broken North went somewhere again. Brynn looked at the far connector.
+Broken North went somewhere again.
 
-“What else?”
+Brynn looked toward the far connector.
 
-“Timing.”
+"What else?"
 
-Tavian pointed back toward the south.
+"Timing."
 
-“If the remaining known lures pressure the populated routes too early, the movement bunches before this corridor is ready to receive it.”
+Tavian pointed south.
 
-“And too late?”
+"If known lures pressure populated routes too early, movement bunches before Broken North can receive it."
 
-“It reaches the farms and lower Greywake approaches before Broken North becomes the easier path.”
+"And too late?"
+
+"It reaches farms and lower approaches first."
 
 Brynn nodded.
 
-“So the road is ready.”
+"So road ready?"
 
 Tavian looked at her.
 
-“Barely.”
+"Barely."
 
-He looked at the timber supports, the rough footing, the opened drainage, and the corridor they had spent the day forcing back into existence.
+I looked at the timber supports, rough footing, reopened drainage, and the corridor people had forced back into existence.
 
-“Physical work alone does not make this succeed.”
+They had built something real.
 
-He leaned against a tree because standing without support had become optional.
+Now came the part I disliked.
 
-“What does?”
+Making animals choose it.
 
-He looked toward Greywake.
+Tavian looked toward Greywake.
 
-“The lure sequence.”
+"The lure sequence."
 
 Of course.
 
-They had built the wrong road.
+We had built the wrong road.
 
-Now they had to make the migration choose it.
+Now we had to make the migration choose it.

@@ -2,11 +2,22 @@
 
 **Chapter:** CH-012 — Someone Put This Here  
 **Manuscript:** `manuscript/CH012-SOMEONE-PUT-THIS-HERE.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 3,078
+**Review Date:** 2026-09-20  
+**Status:** PASS — CURRENT CANON REVALIDATED  
+**Word Count:** 2,704
 
 **Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A097 Prose Editor, A037 Power Balance Editor, A042 Character Arc Editor, A044 Supporting Character Editor, A045 Antagonist Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A111 Logic Editor
+
+# Soul-Drift / Final Story-Engine Revalidation
+
+- close first-person Red narration confirmed;
+- no Play Logic or regeneration event occurs;
+- lure legality/strength/network/authorship remain bounded;
+- directional overlay is evidence, not yet CH-013 deliberate-sacrifice proof;
+- Red's prior-job overlap increases suspicion without making him the audit/ecology expert;
+- no Stage/progression, power-resource or protected-series truth is introduced.
+
+Any legacy Stage, use-count, exhaustion-as-power-limit, or conventional-development wording elsewhere in this QA is superseded by this revalidation.
 
 # Scope
 

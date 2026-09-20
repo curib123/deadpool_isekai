@@ -5,7 +5,7 @@
 **Audit Date:** 2026-09-20  
 **Standards:** `qa/BATTLE-SCENE-QA-STANDARD.md` + `qa/SCENE-QA-STANDARD.md`  
 **Owners:** A095 Action Choreographer, A081 Scene Architect, A072 Pacing Editor, A043 Red Jackal Guardian, A044 Supporting Cast Editor, A045 Antagonist Editor, A036 Imagination Power Designer, A037 Power Balance Editor, A100 Continuity Director, A111 Logic Editor, A120 Chapter QA Editor, A121 Volume QA Editor  
-**Status:** CONDITIONAL FAIL — CLIMAX BATTLE AMPLIFICATION REQUIRED
+**Status:** PASS — BATTLE / SCENE QA REVALIDATED
 
 # 1. Arc Battle Composition Map
 
@@ -88,7 +88,7 @@ The current prose contains the correct events but does not yet give enough page-
 - make the territorial predator encounter feel like a true battle rather than a compressed obstacle;
 - create a satisfying physical-climax → human-climax progression.
 
-**FAIL — MAJOR: CH-022→CH-024 require battle amplification.**
+**PASS — CH-022→CH-024 battle amplification completed and revalidated.**
 
 # 5. Red Jackal Battle Engine
 
@@ -155,7 +155,7 @@ Weakest area:
 
 The sequence is causally correct but compressed.
 
-**FAIL — MAJOR for climax scene depth, not event logic.**
+**PASS — climax scene depth and matchup clarity corrected.**
 
 # 9. Required Revision
 
@@ -202,7 +202,7 @@ Required human/tactical climax amplification:
 
 # 10. Gate Decision
 
-# CONDITIONAL FAIL — RETURN TO A095 + A081 + A120
+# PASS — GREYWAKE BATTLE / SCENE QA
 
 Greywake passes:
 - battle distribution;
@@ -222,3 +222,27 @@ After amplification:
 5. rerun Volume 1 Battle Variety Audit;
 6. rerun Gate 10;
 7. refresh publication copies/Gate 11.
+
+
+# 11. Post-Revision Verification — 2026-09-20
+
+Revised canon:
+- CH-022 — First Wave — **1,690 words** — distributed first-wave battle;
+- CH-023 — Greywake Holds — **1,991 words** — primary physical great battle;
+- CH-024 — No One Gets Chosen — **1,960 words** — human/tactical climax.
+
+Verified:
+- CH-022 has multiple simultaneous pressure points and explicit wrong-route topology change;
+- CH-023 contains Red Jackal vs territorial predator inside a three-front coalition battle;
+- the predator adapts after Red first dominates it;
+- workers/militia/Brynn/Tavian remain independently decisive;
+- CH-024 gives Red a bounded physical interception of Hesk without converting Hesk into a combat boss;
+- Jessa owns technical neutralization;
+- Brynn owns detention;
+- Maelis owns evidence/custody;
+- Tavian owns route timing;
+- no Stage/progression/resource-limit language survives in manuscript prose;
+- no battle is won solely by Red;
+- the climax progresses physical battle → human/tactical battle → release without a reset.
+
+**Gate result: PASS.**

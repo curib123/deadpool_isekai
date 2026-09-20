@@ -6,6 +6,8 @@
 **Status:** PASS — CURRENT CANON REVALIDATED  
 **Word Count:** 1311
 
+> **Final-engine authority note (2026-09-20):** Any legacy wording below that treats Stage labels, manifestation counts, fatigue, injury, or regeneration as a raw-capacity/progression limit is superseded by the current manuscript, current scene-architecture override, and Soul-Drift / Final Story-Engine revalidation. Event/reveal/knowledge checks remain authoritative.
+
 # Soul-Drift / Final Story-Engine Revalidation
 
 - close first-person narration confirmed;

@@ -221,11 +221,14 @@ By local resolution, public knowledge may include:
 
 # Foreshadowing Knowledge Boundary
 
-F-001 through F-004 are selected for planning but remain:
+Current Volume 1 foreshadowing state:
 
-**PLANNED — NOT YET PLANTED**
+- **F-001 — PLANTED — CH-002**
+- **F-002 — PLANTED — CH-003**
+- **F-003 — PLANTED — CH-007**
+- **F-004 — PLANTED — CH-005**
 
-No character may behave as though those clues have occurred until the future Chapter Roadmap assigns and manuscript prose actually contains them.
+Characters may only act on the direct evidence they personally witnessed or were validly told. Planting a clue does not grant any character its writer-truth meaning.
 
 # Continuity Lock
 

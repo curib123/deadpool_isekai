@@ -2,11 +2,21 @@
 
 **Chapter:** CH-022 — First Wave  
 **Manuscript:** `manuscript/CH022-FIRST-WAVE.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 3,004
+**Review Date:** 2026-09-20  
+**Status:** PASS — CURRENT CANON REVALIDATED  
+**Word Count:** 1352
 
 **Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A097 Prose Editor, A096 Imagination Scene Designer, A037 Power Balance Editor, A042 Character Arc Editor, A044 Supporting Character Editor, A045 Antagonist Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A111 Logic Editor
+
+# Soul-Drift / Final Story-Engine Revalidation
+
+- close first-person narration confirmed;
+- Red retains overwhelming physical/anomaly capability throughout;
+- three manifestations occur because three discrete route/rescue corrections require them, not because three is a maximum;
+- injury does not reduce Play Logic capacity or precision;
+- Tavian's geometry remains essential because each impossible object changes animal choices;
+- Red stays with the live route instead of chasing Hesk by choice;
+- large territorial predator remains the exact CH-022/CH-023 boundary.
 
 # Scope
 
@@ -14,12 +24,12 @@ Gate 9 reviewed CH-022 against:
 
 - locked CH-022 six-scene Scene Architecture;
 - CH-001 through CH-021 canon;
-- CH-021 handoff: first mass beyond lantern line, most evacuation complete, Broken North barely viable, Red tired but power conserved;
+- CH-021 handoff: first mass beyond lantern line, most evacuation complete, Broken North barely viable, Red fully capable and selectively restrained;
 - Tavian ecological-threshold authority;
 - Brynn live-defense authority;
-- exactly-three-Stage-I manifestation lock;
-- repeated injury / worsening precision lock;
-- regeneration non-restoration rule;
+- three scene-design route/rescue manifestations;
+- injury continuity without capability reduction;
+- regeneration autonomous-correction rule;
 - Hesk off-screen field-lure intervention logic;
 - no-new-F-ID / M-007 no-escalation restrictions;
 - CH-023 large-predator-combat / PL-4 firewall;
@@ -414,25 +424,13 @@ Hesk is not located or confronted.
 
 **PASS.**
 
-Actual CH-022 manifestations:
-
-**exactly 3**
+Actual CH-022 manifestations: **3 by scene need, not capability ceiling**
 
 1. spill guide;
 2. rescue rail/support;
 3. route deflector.
 
-All three are:
-
-- Stage I;
-- temporary;
-- simple;
-- physical;
-- small-scale;
-- increasingly unstable;
-- dependent on external tactical/ecological direction.
-
-No fourth manifestation occurs.
+All three are temporary, physical and subordinate to Tavian's route geometry. No fourth manifestation is needed in CH-022.
 
 No PL-4 use occurs.
 
@@ -442,24 +440,7 @@ The migration is not controlled by Red.
 
 **PASS.**
 
-Red enters already tired from previous chapters despite CH-021 conservation.
-
-CH-022 adds:
-
-1. shoulder/forearm damage;
-2. rib/side impact;
-3. thigh/leg damage plus worsening strain.
-
-Regeneration:
-
-- begins closing open wounds;
-- keeps Red moving;
-- hurts;
-- does not refill stamina;
-- does not restore precision;
-- does not erase rib/leg/shoulder pain.
-
-By chapter end Red is materially worse than at opening.
+Red takes painful impacts and his body continues autonomous correction. These injuries do not create a finite stamina pool, reduce Play Logic precision, or lower his underlying capability.
 
 This correctly hands consequence into CH-023.
 

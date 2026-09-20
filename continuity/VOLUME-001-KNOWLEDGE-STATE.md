@@ -1186,7 +1186,7 @@ He knows:
 - animal movement near Greywake is abnormal;
 - he does not know the cause;
 - his body has healed unusually fast before;
-- intentional manifestation remains temporary and tiring;
+- CH-005's observed manifestations were temporary in that scene, with no universal use-count, duration, or stamina ceiling established;
 - he still has no valid System HP/MP/class/level identity.
 
 He does not know:
@@ -1203,11 +1203,11 @@ By the end of an approved CH-007 manuscript, Red Jackal may know:
 - a displaced predator pack appeared on a route locals considered unusually safe;
 - his own willingness to absorb danger can redirect danger toward other people;
 - a severe wound can begin correcting itself without a healing spell;
-- the correction is painful, exhausting, and tactically disruptive;
+- the correction is painful and can coexist with immediate trauma/shock, but it is autonomous and not governed by a finite regeneration resource;
 - Sela considers the process medically abnormal;
 - conventional healing magic does not meet his wound as though it were an ordinary untreated injury;
 - Sela cannot explain the mechanism;
-- surviving a hit does not make the decision that caused it safe.
+- using his own survivability as a risk standard can redirect danger onto people who do not share it.
 
 He may not know:
 - the self-model explanation;
@@ -1230,7 +1230,7 @@ During CH-007 he may learn:
 
 Tavian may conclude:
 - Red Jackal has an abnormal recovery capability;
-- this makes reckless choices more dangerous socially, not less.
+- this means Red's survivability can distort group-risk decisions even though his own body can recover.
 
 Tavian may not infer the mechanism.
 
@@ -1274,7 +1274,7 @@ F-003 is now **PLANTED — CH-007** after approved manuscript prose contained bo
 
 F-004 remains **PLANTED — CH-005**.
 
-CH-007 may use the existing clear-purpose observation for one simple rescue manifestation but introduces no new Play Logic rule.
+CH-007 uses the existing framing observation for one simple rescue manifestation by scene choice; this introduces no new Play Logic rule or capability ceiling.
 
 ## M-007 Boundary
 

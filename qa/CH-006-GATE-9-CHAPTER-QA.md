@@ -1,315 +1,268 @@
 # CH-006 Gate 9 — Chapter QA
 
+**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
+**Volume:** 1 — Greywake Arc  
 **Chapter:** CH-006 — The Road That Works  
-**Manuscript:** `manuscript/CH006-THE-ROAD-THAT-WORKS.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 2,787
-
-**Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A097 Prose Editor, A042 Character Arc Editor, A037 Power Balance Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A111 Logic Editor
+**Review Date:** 2026-09-20  
+**Revision Track:** Soul-Drift / Close First-Person / Final Story Engine  
+**Status:** PASS — CURRENT CANON REVALIDATED  
+**Word Count:** 2,713
 
 # Scope
 
-Gate 9 reviewed the complete CH-006 manuscript against:
+Gate 9 reviewed the rewritten CH-006 manuscript against the current Soul-Drift master retcon, final story-engine rules, locked five-scene event sequence, CH-001 through CH-005 current canon, Tavian Rook's character/knowledge boundaries, local ecology logic, F-ID protections, language/literacy rules, and the CH-007 handoff.
 
-- locked CH-006 Scene Architecture;
-- CH-001 through CH-005 canon;
-- Red Jackal's deadpan first-person voice lock;
-- Tavian Rook character lock;
-- Volume 1 chapter roadmap;
-- continuity knowledge boundaries;
-- F-003/F-004 status;
-- M-007 boundary;
-- Gate 9 requirements.
+Older Stage/fatigue-limit wording is superseded by the current final-story-engine overlay.
 
-# CRITICAL
+# Severity Review
 
+## CRITICAL
 **None.**
 
-# MAJOR
+## MAJOR
+**None unresolved.**
 
-**None.**
+### Power-Limit Interpretation — RESOLVED
 
-# MINOR — RESOLVED BEFORE GATE 9
+CH-006 contains no manifestation.
 
-## Prose Cadence
+The manuscript explicitly makes Red's choice situational:
+- Tavian's positioning already solves the real safety problem;
+- the guards already understand the immediate threat;
+- Red does not need to display the anomaly merely to dominate the scene.
 
-The initial draft was excessively fragmented.
+This is not:
+- exhaustion;
+- cooldown;
+- Stage limitation;
+- depleted manifestation reserve;
+- reduced raw capability.
 
-**Resolution:** narrative prose was normalized before Gate 9.
+**Resolution:** PASS.
 
-Final cadence:
-- 240 prose/dialogue paragraphs;
-- 117 narrative paragraphs;
-- 79 narrative paragraphs contain two or more sentences;
-- 38 narrative paragraphs are single-sentence;
-- multi-sentence narrative paragraphs are the default.
+### Paragraph Cadence — RESOLVED
 
-Most remaining single-sentence paragraphs are dialogue or deliberate deadpan/impact beats.
+Current saved manuscript:
+- 265 total prose/dialogue paragraphs;
+- 139 non-dialogue narrative paragraphs;
+- 35 single-sentence non-dialogue paragraphs (~25.2%);
+- standalone dialogue remains separated for speaker clarity.
 
-# Story
+Multi-sentence narration is the default.
 
-| Check | Result |
-|---|---|
-| Second paid job established | PASS |
-| Main Caravan Road shown as functional through maintenance and procedure | PASS |
-| Tavian introduced through active field work | PASS |
-| Repeated abnormal track pattern established | PASS |
-| Main-road/side-route contrast established | PASS |
-| Short defense encounter validates Tavian's judgment | PASS |
-| Red Jackal adapts to better specialist advice | PASS |
-| Ending is earned | PASS |
-| CH-007 does not begin | PASS |
+**Resolution:** PASS.
 
-# Red Jackal Voice
+# Gate 9 Review
 
-| Check | Result |
-|---|---|
-| First person throughout | PASS |
-| Dry/deadpan internal humor | PASS |
-| Immediate experience primary | PASS |
-| Reader-talk restrained | PASS |
-| Self-talk primary | PASS |
-| Aura-farming instinct preserved | PASS |
-| He can accept specialist correction without becoming passive | PASS |
+| Check | Result | Evidence |
+|---|---|---|
+| Close first-person POV | PASS | I/me/my narration; no third-person Red action narration |
+| Soul-Drift compatibility | PASS | no restored Earth biography or traffic-crash residue |
+| Chosen Red Jackal persona preserved | PASS | no identity contradiction |
+| Movie-like English | PASS | immediate scene/action/dialogue rhythm |
+| Reader-talk restrained | PASS | one direct audience aside |
+| Audience address freezes time | PASS | explicit Fourth-Wall Pause and exact resumption |
+| Pause not tactically abused | PASS | commentary only |
+| Morning-after CH-005 timing | PASS | second Guild job begins after prior bridge job |
+| Red's irregular-worker status preserved | PASS | attached to caravan support, not certified guard |
+| Main Caravan Road maintained | PASS | gravel, drainage, brush control, repairs, toll and rest infrastructure |
+| Road works through systems, not magic plot armor | PASS | repeated labor/resources/traffic control emphasized |
+| Tavian enters independently | PASS | already conducting Warden migration survey |
+| Tavian not subordinate to Red | PASS | own assignment, own priorities |
+| Tavian not Red's supervisor | PASS | he gives field corrections based on expertise only |
+| Tavian track-reading competence | PASS | direction, stride, age, species/range and repeated crossings |
+| Tavian rescue-first mentality | PASS | passengers protected and escape geometry kept open |
+| Tavian correction demonstrably right | PASS | Red's first position would block safe prey escape |
+| Red accepts useful correction | PASS | tactical adaptation, not obedience arc |
+| No moral-development requirement | PASS | Red's stable personality remains intact |
+| Red retains theatrical instinct | PASS | chooses dramatic intercept position before correction |
+| Aura farming can fail | PASS | Tavian treats positioning as geometry, not performance |
+| Red still contributes meaningfully | PASS | helps pressure predator after correct repositioning |
+| Guards remain competent | PASS | wagon safety, spear angles and traveler protection |
+| Guards are not conspirators | PASS | concern is immediate road duty/schedule |
+| Main/side route contrast | PASS | staffed maintained route vs rutted/overgrown lower-priority spur |
+| Resource disparity not overinterpreted | PASS | no deliberate-sacrifice conclusion |
+| Repeated ecological pattern | PASS | older/fresher browser and predator crossings in conflicting directions |
+| Tavian does not know cause | PASS | explicit "I don't know" |
+| Local ecological mystery only | PASS | no artificial-redirection conclusion |
+| No Play Logic manifestation | PASS | none |
+| No new F-004 rule | PASS | CH-005 clue remains unchanged |
+| No raw-power progression | PASS | no Stage, awakening, level-up or mastery language |
+| No finite manifestation budget | PASS | none |
+| Red declines display by choice | PASS | says impossible display would not solve the problem |
+| F-003 protected | PASS | no serious injury, healing magic, healer or abnormal healing |
+| F-004 unchanged | PASS | remains PLANTED — CH-005 |
+| No new F-ID | PASS | none |
+| M-007 inactive | PASS | no Fate, prophecy, destiny or causal-wake clue |
+| Hesk conspiracy protected | PASS | no lure, falsified records or sacrifice-policy evidence |
+| No protected writer truth | PASS | no Soul Drift/Great Design/cosmology leakage |
+| Wayfarer Tongue Token used | PASS | spoken caravan instructions remain institutional |
+| No silent literacy | PASS | schedules, markers, notices and insignia remain unreadable |
+| CH-007 boundary protected | PASS | no displaced-pack attack, severe injury, Sela or treatment house |
+| Final line preserved | PASS | "The animals are moving wrong." |
 
-Direct reader address remains limited to one restrained aside.
+# Fourth-Wall Pause Audit
 
-# POV / Prose
+## Pause 1 — Tavian Repositions Red
 
-| Check | Result |
-|---|---|
-| No invisible third-person narrator | PASS |
-| Personality-filtered description | PASS |
-| Dialogue distinct | PASS |
-| Multi-sentence narrative default | PASS |
-| One-line beats selective | PASS |
-| No robotic fragmentation | PASS |
+Red directly addresses the audience after Tavian prevents him from stepping on track evidence.
 
-# Language / Literacy
+Frozen:
+- toll worker;
+- horse mid-chew;
+- Tavian at the track line.
+
+Red only comments.
+
+Time resumes at the same instant.
 
 **PASS.**
 
-- a charged Wayfarer Tongue Token supports spoken instructions;
-- Red Jackal still cannot read the written schedule;
-- road markers remain unreadable;
-- Tavian's insignia markings remain unreadable;
-- rest-post route notices remain unreadable;
-- no literacy is gained.
-
-# Main Caravan Road
+# Tavian Rook Review
 
 **PASS.**
 
-The manuscript shows:
-- fresh gravel;
-- cleared drainage;
-- cut-back brush;
-- repaired culverts;
-- maintained markers;
-- toll operation;
-- guarded rest post;
-- scheduled traffic;
-- road guards.
+Tavian is established through useful independent expertise rather than exposition or instant friendship.
 
-The title meaning is supported by the text:
+He demonstrates:
+- track preservation;
+- species-range knowledge;
+- direction/stride judgment;
+- repeated-pattern recognition;
+- safe movement geometry;
+- civilian-first response;
+- restraint from claiming a cause he cannot prove.
 
-**the road works because people keep spending resources and performing competent routine work to keep it working.**
+He remains serious without becoming a joke-proof robot or generic authority figure.
 
-# Side-Route Contrast
+# Red / Tavian Dynamic
 
 **PASS.**
 
-The side spur visibly contains:
+The chapter establishes friction through priorities:
+- Red wants the strongest presentation;
+- Tavian wants the safest and most informative position.
+
+When Tavian is correct, Red adjusts because the geometry is obviously better.
+
+This is not character reform.
+
+It is Red recognizing a useful specialist.
+
+# Road / Ecology Review
+
+## Main Caravan Road
+**PASS.**
+
+The road works because Greywake continually spends:
+- labor;
+- guards;
+- repair material;
+- drainage maintenance;
+- toll/traffic administration;
+- sightline clearing;
+- rest-post infrastructure.
+
+## Side Spur
+**PASS.**
+
+The adjacent route visibly has:
 - ruts;
 - grass encroachment;
 - collapsed drainage;
 - close brush;
 - faded/leaning marker;
-- no equivalent staffed protection.
+- weaker visible protection.
 
-The manuscript does not conclude that the disparity proves deliberate sacrifice.
+The chapter does not convert this into conspiracy proof.
 
-# Tavian Rook
+## Movement Pattern
+**PASS.**
+
+Tavian distinguishes:
+- one random crossing;
+- a possible ordinary chase;
+- repeated layered crossings from animals whose expected seasonal/range movement does not align.
+
+The live pursuit validates his concern without proving the cause.
+
+# Play Logic / Final Story-Engine Audit
 
 **PASS.**
 
-Tavian enters while already performing his independent Crownspine Warden liaison assignment.
+Red briefly considers using the anomaly.
 
-He demonstrates:
-- track reading;
-- species-range knowledge;
-- track-age judgment;
-- repeated-pattern recognition;
-- live movement prediction;
-- rescue-first positioning;
-- calm field command.
+He does not.
 
-He is:
-- not Red Jackal's supervisor;
-- not Red Jackal's subordinate;
-- not a Road Guild employee;
-- not instantly friendly;
-- not hostile without reason.
+Reason:
+- the situation is already being solved correctly through Tavian's movement read and guard positioning;
+- another impossible display would be unnecessary.
 
-His correction of Red Jackal is practical rather than mocking.
+This preserves Red's overwhelming capability while allowing specialists to matter through information and judgment.
 
-# Tavian Knowledge Boundary
+No recovery gate, resource ceiling, Stage model or capability loss is introduced.
 
-**PASS.**
+# Knowledge Boundary
 
-Tavian knows:
-- migration drift is abnormal;
-- repeated incompatible crossings matter;
-- the Main Caravan Road is heavily observed and maintained;
-- side-route observation is weaker.
+By the end of CH-006, Red may know:
+- Tavian Rook is a Crownspine Warden liaison;
+- Tavian is highly competent at tracks, migration judgment, rescue positioning and field safety;
+- the Main Caravan Road is safe because people continually invest resources into it;
+- a nearby lower-priority route is visibly less maintained/protected;
+- repeated browser/predator crossings are occurring in incompatible directions;
+- one incident can be ordinary, but repeated layered crossings matter;
+- Tavian's concern is ecological pattern, not simply "monsters exist";
+- Tavian does not know the cause;
+- the immediate road can remain open while the wider movement pattern is wrong;
+- Tavian's local field expertise is worth using when it gives the better read.
 
-He does not know:
+Red still does not know:
 - march-lures;
-- Hesk's role;
-- falsified casualty records;
-- protected anomaly truth;
+- Hesk's hidden migration policy;
+- casualty falsification;
+- why the System cannot define him;
+- why regeneration works;
+- Play Logic's true mechanism;
 - Fate/Great Design truth.
 
-# Road Guild Guards
-
 **PASS.**
 
-The guards remain competent at their actual task:
-- caravan movement;
-- immediate traveler safety;
-- road procedure.
+# Scene Compliance
 
-Their dismissal of Tavian's broader concern comes from operational scope, not deliberate corruption.
+## SC-006-01 — Second Job
+**PASS.** Routine caravan support, Guild procedures and protected-road operation are established.
 
-No guard knowingly conceals conspiracy evidence.
+## SC-006-02 — Do Not Step There
+**PASS.** Tavian enters through track evidence and immediately demonstrates practical expertise.
 
-# Track / Ecology Logic
+## SC-006-03 — The Road That Works
+**PASS.** Main-road investment and side-route disparity become physically visible without conspiracy overreach.
 
-**PASS.**
+## SC-006-04 — Not There
+**PASS.** Tavian's rescue geometry corrects Red's theatrical position; Red then contributes effectively without Play Logic.
 
-The manuscript establishes:
-- browser tracks where they should not normally be;
-- predator tracks from an incompatible range/direction;
-- multiple similar crossings over three days;
-- repeated older/fresher layers;
-- live prey/predator movement consistent with Tavian's concern.
-
-Tavian explicitly does **not** know the cause.
-
-# Action / Rescue
-
-**PASS.**
-
-During the short pursuit/defense:
-- Tavian keeps the prey animal's escape lane open;
-- civilians are moved behind wagon cover;
-- guards maintain useful angles rather than chasing blindly;
-- Red Jackal's first dramatic position would close the safe escape path;
-- Red Jackal accepts the correction because it is clearly correct;
-- Red Jackal then contributes usefully;
-- guards handle the wider safety problem.
-
-This establishes Tavian's rescue-first mentality without making Red Jackal incompetent.
-
-# Play Logic
-
-**PASS.**
-
-F-004 remains:
-
-**PLANTED — CH-005**
-
-CH-006 contains:
-- no manifestation;
-- no new power rule;
-- no control improvement;
-- no Stage II behavior;
-- no System Skill output.
-
-Red Jackal briefly considers the CH-005 hammer lesson and chooses not to manifest because the situation does not require it.
-
-# F-003 / Regeneration
-
-**PASS.**
-
-F-003 remains:
-
-**PLANNED — NOT YET PLANTED**
-
-CH-006 contains:
-- no major Red Jackal injury;
-- no abnormal healing;
-- no healing magic;
-- no healer analysis;
-- no regeneration discussion.
-
-# M-007 / Fate
-
-**PASS.**
-
-M-007 remains inactive.
-
-No:
-- Fate terminology;
-- prophecy;
-- destiny disturbance;
-- causal-wake clue;
-- Great Design clue;
-- plot-armor framing.
-
-# Mystery / Conspiracy Protection
-
-**PASS.**
-
-No:
-- march-lure clue;
-- Hesk migration accusation;
-- casualty-record clue;
-- scapegoat clue;
-- protected writer truth.
-
-The chapter establishes only:
-
-**local animal movement is behaving abnormally.**
+## SC-006-05 — Moving Wrong
+**PASS.** Fresh pursuit evidence is connected to older crossings; Tavian refuses unsupported causation and delivers the locked final line.
 
 # F-ID State
 
-No F-ID changes status in CH-006.
+No F-ID changes in CH-006.
 
-- F-001 — PLANTED — CH-002
-- F-002 — PLANTED — CH-003
-- F-003 — PLANNED — NOT YET PLANTED
-- F-004 — PLANTED — CH-005
+- **F-001 — PLANTED — CH-002**
+- **F-002 — PLANTED — CH-003**
+- **F-003 — PLANNED — NOT YET PLANTED**
+- **F-004 — PLANTED — CH-005**
 
-# CH-007 Boundary
+M-007 remains inactive.
 
-**PASS.**
+# Canonization Decision
 
-CH-006 does not begin:
-- the displaced predator-pack attack;
-- severe Red Jackal injury;
-- Sela Arven's treatment-house material;
-- F-003 planting.
+# GATE 9 — PASS
 
-Final line:
+**CH-006 — The Road That Works** is current canon under the Soul-Drift / close-first-person / final story-engine standard.
 
-**“The animals are moving wrong.”**
+**Official next production step:**
 
-# Gate 9 Decision
+**CH-007 — You Should Be Dead → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**
 
-# PASS
-
-CH-006 is approved for canonization.
-
-After canonization:
-- CH-006 becomes CANON;
-- no F-ID changes status;
-- the CH-006 continuity checkpoint may be recorded;
-- the next authorized production step becomes **CH-007 — You Should Be Dead: Detailed Scene Architecture only**.
-
-Do not draft CH-007 manuscript before its Scene Architecture and Gate 8 Pre-Manuscript Scene QA pass.
-
-Do not plant F-003 before CH-007 manuscript prose passes Gate 9.
-
-Do not select Volume 2.
+CH-028 remains paused until CH-001 through CH-027 complete this synchronization cycle.

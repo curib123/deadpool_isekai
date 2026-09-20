@@ -1,555 +1,605 @@
 Chapter 4 — Off the Books
 
-By the time I reached the Road Guild hall, I had a working theory about Greywake. Everything important eventually became paperwork. Road access. Food shipments. Caravan schedules. Identity. Apparently even being an unexplained problem required a form.
+The Road Guild hall opened straight onto Greywake's caravan yard, which meant the first thing I learned about local employment was that nobody here believed in quiet workplaces. Wagons rolled through mud outside. Workers carried rope, wheel rims, boxed tools, and stamped cargo tags between two wide doors. Someone shouted a route number from behind a counter. Somebody else shouted back from halfway across the yard. A clerk moved colored markers across a wall map while three caravan guards argued over an escort roster.
 
-The Guild hall sat close to the caravan yard, where the road widened enough for wagons to turn without taking out a wall. The building was larger than the Ledger office and much busier. Drivers came and went through two open doors. Workers carried coils of rope, replacement wheel rims, boxed tools, and bundles of stamped tags. A board near the entrance was covered in notices I could not read.
+The entire place looked like paperwork had discovered manual labor and decided to become dangerous. I stopped beneath the entrance awning and looked at the notice board beside me. Still unreadable.
 
-That last part was becoming familiar. Jessa Vale was waiting near one of the public desks. She noticed me before I reached her and lifted a hand.
+At least Greywake was consistent. Jessa Vale waited near one of the public desks with a thin stack of forms tucked against her chest. She noticed me and raised a hand.
 
-“Red Jackal.”
+"Red Jackal."
 
-“Still me.”
+"Still me."
 
-A Wayfarer Tongue Token hung from a brass stand between the counters. The faint pressure settled around the words as I came closer. Good. I had no interest in negotiating employment through hand gestures.
+A Wayfarer Tongue Token hung from a brass stand between the contract counters. As I stepped closer, the familiar pressure settled around the words. Good.
 
-Jessa held a thin stack of forms against her chest. “Roadmaster Hesk is finishing a route meeting.”
+Negotiating pay through hand gestures would have lowered the dignity of the occasion.
 
-“So I was invited before he was free.”
+"Roadmaster Hesk is finishing a route meeting," Jessa said.
 
-“He expected the meeting to end earlier.”
+"So I was invited before he was free."
 
-“Reasonable mistake.”
+"He expected the meeting to end earlier."
 
-She looked past me toward the yard, where two men were arguing over a wagon axle.
+"Bold man."
 
-“Road meetings usually run long.”
+She glanced toward the closed office door. "Road meetings usually run long." I looked around while we waited.
 
-I followed her gaze. A clerk behind the nearest desk called out a route number. Three caravan guards stepped forward. Another worker moved colored markers across a wall map while someone else checked a list against crates being loaded outside.
+The Guild was busy in the boring way important places tended to be. A worker changed three route markers on the wall map. Two clerks compared crate seals. A repair crew collected timber braces from a supply window. Outside, a wagon was pulled aside so somebody could inspect a cracked wheel.
 
-This was not a small organization pretending to matter. The Road Guild was busy because Greywake needed it to be busy.
+"Most caravans go through here?" I asked.
 
-“Every caravan goes through here?” I asked.
+"Most scheduled road traffic."
 
-“Not every one. Most scheduled road traffic does.”
+"Escorts?"
 
-“Escorts too?”
+"Yes."
 
-“Yes. Bridge crews, maintenance teams, supply movements, emergency closures, route certifications.”
+"Bridge crews?"
 
-So Hesk was not just a man with a title. He sat in the middle of the thing keeping Greywake connected to everywhere else. That made the private invitation more interesting. Also more concerning.
+"Yes."
 
-A door opened at the far side of the hall. The conversation around it did not stop, but several people looked up. The man who stepped through was broad through the shoulders without being especially large. Late forties, maybe. Dark hair cut short, grey beginning at the sides. His coat had been repaired more than once, and the leather at the cuffs looked worn rather than decorative.
+"Supply movements?"
 
-He carried a rolled map under one arm. Nothing about him suggested he needed to remind people who he was. Jessa straightened slightly.
+"Also yes."
 
-“Roadmaster.”
+I looked toward the office again. So Hesk was not merely a man with a title. If Greywake needed roads open, bridges repaired, escorts assigned, or cargo moved, decisions passed through this building.
 
-Rovan Hesk looked at her first, then at me. His eyes paused on the wooden Unverified Entrant Token hanging near my coat.
+Useful authority. The most dangerous kind, usually. The office door opened.
 
-“Red Jackal.”
+Three conversations nearby softened without anyone being told to lower their voices. Rovan Hesk stepped into the hall with a rolled map under one arm. He was broad through the shoulders, dark hair greying at the sides, coat repaired at one elbow and faded at the cuffs. No polished insignia. No ceremonial weapon. Nothing designed to announce importance.
 
-“That seems to be what everyone is calling me.”
+People made space for him anyway. That told me more. Jessa straightened. "Roadmaster."
 
-“I was told it's what you call yourself.”
+Hesk looked at her first, then at me. His eyes paused on the wooden Unverified Entrant Token near my coat.
 
-“Also true.”
+"Red Jackal."
 
-He did not smile, but he did not look annoyed either.
+"That seems to be the name surviving the paperwork."
 
-“Hesk.”
+"I was told it's the name you gave."
 
-“I gathered.”
+"Also true."
 
-His gaze moved once over my clothes, my boots, my hands, then returned to my face. It was not the kind of look that searched for an explanation. Hesk looked at people like resources. I had met enough managers in my first life to recognize the difference.
+He neither smiled nor challenged it.
 
-“You came through the north road alone,” he said.
+"Hesk."
 
-“That is what happened.”
+"I gathered."
 
-“No papers.”
+His gaze moved once over my boots, hands, coat, and the fading damage to my sleeve. Assessment. Not fascination.
 
-“No.”
+I preferred that.
 
-“No guild record.”
+"You came through the north road alone."
 
-“Apparently I'm difficult to file.”
+"Eventually."
 
-“You survived the road anyway.”
+"No papers."
 
-I waited. That sounded like the part he cared about. Hesk handed the rolled map to a nearby clerk. “Come with me.” Confidence is easier when nobody has asked your price yet.
+"No."
 
-I followed. His office was not much more impressive than the public hall. A large working table filled most of the room. Route maps covered one wall. Wooden markers sat in shallow trays beside wax tablets, sealed packets, and two cups that looked like someone had forgotten them hours ago.
+"No guild record."
 
-Jessa came in behind us and set her papers on the table. Another Wayfarer Token hung from a hook near the door. Hesk stayed standing.
+"The world and I are having administrative differences."
 
-“So,” he said. “You need work.”
+"You survived the road anyway."
 
-Direct. I appreciated that.
+There it was. That was the fact he cared about. The world paused.
 
-“I need money.”
+A worker crossing the yard froze with a coil of rope over one shoulder. Mud hung beneath the heel of a boot that had not yet come down. A clerk's pointing hand stopped over the wall map.
 
-“That usually means work.”
+I looked toward you.
 
-“Sometimes people are generous.”
+"Notice what he didn't ask."
 
-“Not often enough to plan around.”
+I nodded toward Hesk.
 
-Fair. He pulled one sheet from Jessa's stack and looked at it. I could not read a word.
+"Not what I am."
 
-“Your registry failure prevents standard certification,” he said. “No valid identity means no normal guild contract, no registered escort assignment, no insured route work.”
+A beat.
 
-“I've heard the list.”
+"What I can do."
 
-“Then I won't repeat it.”
+Time resumed. The worker's boot hit the mud. Hesk handed the rolled map to a nearby clerk. "Come with me."
+
+Confidence was easier before anyone asked my price. His office was smaller than I expected. A large working table occupied most of it. Route maps covered one wall. Wooden markers sat in shallow trays beside wax tablets, sealed packets, and two abandoned cups.
+
+Another Wayfarer Tongue Token hung near the door. Jessa entered behind me and placed her forms on the table. Hesk stayed standing.
+
+"So," he said. "You need work."
+
+Direct.
+
+"I need money."
+
+"That usually means work."
+
+"Sometimes people are generous."
+
+"Not often enough to plan around."
+
+Fair. He pulled one page from Jessa's stack and looked over it. I could not read a single mark.
+
+"Your registry failure prevents normal certification. No valid identity means no standard Guild contract, no registered escort assignment, and no insured route work."
+
+"I've heard the list."
+
+"Then I won't waste your time repeating it."
 
 Better. He set the page down.
 
-“I can still pay you.”
+"I can still pay you."
 
-That was the first useful sentence of the meeting.
+Finally. A sentence with nutritional value.
 
-“How?”
+"How?"
 
-“Private labor. Discretionary road expense.”
+"Private labor under Road Guild discretionary expense."
 
-Jessa shifted slightly beside the table. Not enough to interrupt. Enough that I noticed. Hesk continued.
+I looked at Jessa. She did not react much, but one hand tightened slightly around the edge of her papers. Hesk continued.
 
-“The Guild records the money. We record supplies issued. We record the work performed. What we do not create is a registered contract tied to an identity the System cannot recognize.”
+"The Guild records the money. We record supplies issued. We record the work performed. What we do not create is a registered contract tied to an identity the System cannot recognize."
 
-“So off the books.”
+"So off the books."
 
-“Not entirely.”
+"Not entirely."
 
-I looked at the page. Of course not. Apparently even avoiding paperwork required paperwork. Hesk tapped the form. “You would be recorded as irregular private labor under my authority.”
+Of course not. Apparently even escaping paperwork required paperwork.
 
-“And the difference?”
+"You would be recorded as irregular private labor under my authority," Hesk said.
 
-“No certification. No registered-worker status. No standard injury guarantee. No traveler guarantee attached to the job. No formal contract appeal through the guild registry.”
+"And the difference?"
 
-There it was. The useful part and the dangerous part sitting next to each other.
+"No certification. No registered-worker status. No standard injury guarantee. No traveler guarantee attached to the assignment. No formal contract appeal through the Guild registry."
 
-“What do I get?”
+There it was. Useful and bad in the same breath.
 
-“Marks.”
+"What do I get?"
 
-Finally. Money I also did not understand. Hesk must have seen something in my face.
+"Marks."
 
-“You know what a Mark is?”
+Money. Still the strongest magic demonstrated in Greywake.
 
-“Silver coin.”
+"First job is simple," Hesk said. "Main Caravan Road. A bridge approach was damaged after the last rain. A repair crew is going out at first light. Timber, tools, supply wagon. They need another worker and somebody capable of handling trouble if the road becomes unpleasant."
 
-That much I had learned from listening.
+"What kind of trouble?"
 
-“Do you know what one buys?”
+"Animals. Theft. Broken axles. Flooded ground. Fallen timber. Frontier roads are creative."
 
-“No.”
+"How far?"
 
-Jessa looked down at the table. Hesk nodded once.
+"Close enough to return if the repair finishes on schedule."
 
-“At least you're honest about that.”
+"And if it doesn't?"
 
-“I try it occasionally.”
+"You remain with the crew."
 
-He ignored the comment.
+"Comforting."
 
-“First job is simple. Repair crew on the Main Caravan Road. A bridge approach took damage after the last rain. They have timber, tools, and a supply wagon. They need another set of hands and someone who can deal with trouble if the road gets unpleasant.”
+"They have shelter gear."
 
-“What kind of trouble?”
+Slightly more comforting. Hesk leaned one hand against the table.
 
-“Animals. Theft. A broken axle. Flooded ground. Frontier roads are creative.”
+"You travel with them. Protect workers and material if required. Help at the site if the foreman needs you. Return with them or report completion here."
 
-That sounded believable. Also vague.
+"That's it?"
 
-“How far?”
+"That's the assignment."
 
-“Close enough to return if the work finishes on time.”
+No forbidden temple. No cursed relic. No dramatic suicide mission.
 
-“And if it doesn't?”
+Almost suspiciously disappointing.
 
-“You stay with the crew.”
+"And why me?"
 
-“Comforting.”
-
-“They've done it before.”
-
-Hesk leaned one hand against the table.
-
-“You travel with them. Help protect the workers and material. Help with the site if the foreman needs it. You return with them or report completion here.”
-
-“That is the job?”
-
-“That is the job.”
-
-No monster nest. No forbidden ruin. No ritual sacrifice. Almost disappointing. Almost.
-
-“And why me?”
-
-Hesk answered without hesitation.
-
-“Because you're available.”
+"Because you're available."
 
 I looked at him.
 
-“That is less flattering than I expected.”
+"That was brutally ordinary."
 
-“You want flattering or paid?”
+"You want flattering or paid?"
 
-“Paid.”
+"Paid."
 
-“Then we're making progress.”
+"Then we're making progress."
 
-That was probably the first thing he had said that I liked. He pushed the form toward Jessa.
+I liked him a little. That was probably dangerous. Hesk pushed the form toward Jessa. "Explain the terms."
 
-“Explain the terms.”
+Then he looked back at me.
 
-Then he looked at me.
+"If the risk is not worth the pay, walk away. I can find someone else."
 
-“If you decide the risk isn't worth it, walk away. I can find someone else.”
+No threat. No pressure. That made the offer harder to dismiss.
 
-That mattered. No pressure. No threat. No attempt to trap me in the room. Which made it harder to treat the offer like one.
+"I'll decide after I understand what the money is worth."
 
-“I'll decide after I understand the money.”
+"Reasonable."
 
-“Reasonable.”
+Hesk left us with the paperwork and returned to the larger hall. I watched him go. He had not tried to impress me.
 
-Hesk left us with the form. That was either confidence or very good sales technique. Possibly both. Jessa picked up the page.
+He had not threatened me. He had not pretended the arrangement was good. He had simply found a place where my problem was useful.
 
-“Do you want the short version or the complete version?”
+I respected the efficiency. Jessa picked up the page. "Short version or complete version?"
 
-“Complete enough that I don't discover later I agreed to donate a kidney.”
+"Complete enough that I don't discover tomorrow I sold an organ."
 
-She blinked. The token carried the meaning.
+She blinked. The token carried the sentence perfectly.
 
-“I don't think that translated correctly.”
+"I don't think that is part of Guild procedure."
 
-“Probably for the best.”
+"Excellent. Continue."
 
-We moved back toward the public contract desks. The market lane outside was visible through the open doors, busy with late-afternoon traffic. Jessa placed the form beside the Guild token.
+We moved back toward the public contract desks where the market lane was visible through the open doors. Jessa set the form beside the Wayfarer token.
 
-“This is not a standard employment contract.”
+"This is not employment in the registered sense."
 
-“I noticed.”
+"Very comforting opening."
 
-“It records an irregular service payment authorized by the Roadmaster. The Guild can issue supplies and pay you, but the registry does not recognize you as a contracted worker.”
+"It records an irregular service payment authorized by the Roadmaster. The Guild can issue supplies and release approved money. The registry does not recognize you as a contracted worker."
 
-“So if I get hurt?”
+"So if I get hurt?"
 
-“No standard injury payment.”
+"No standard injury payment."
 
-“If someone refuses to pay?”
+"If somebody refuses to pay?"
 
-“The disbursement is recorded, so the Guild still has an internal obligation to release approved funds.”
+"The disbursement is recorded. The Guild still has an internal obligation to release approved funds."
 
-“That sounds almost normal.”
+"Almost normal."
 
-“Almost.”
+"Almost."
 
-“And if I dispute the job?”
+"And if I dispute the job?"
 
-“No identity-bound contract appeal.”
+"No identity-bound contract appeal."
 
-I looked at the writing again. It remained completely unhelpful.
+I looked down at the writing. Still useless.
 
-“What exactly am I being paid?”
+"What exactly am I being paid?"
 
-She told me the amount. It meant nothing. I stared at her for a second. Jessa understood.
+She told me the amount. I understood every word. The number meant nothing.
 
-“Right.”
+I stared at her. Jessa understood the problem almost immediately.
 
-She pointed toward the market outside.
+"Right."
 
-“That would cover several ordinary meals. Basic lodging for more than one night. Some simple road supplies if you don't spend carelessly.”
+She pointed through the open doors toward the market.
 
-“Everything at once?”
+"It would cover several ordinary meals. Basic lodging for more than one night. Some simple road supplies if you spend carefully."
 
-“No.”
+"All at once?"
 
-Good. I was beginning to get a sense of the local economy. Mostly that being alive remained expensive.
+"No."
 
-“And the Guild supplies?”
+"Shame."
 
-“For this assignment: travel food during the work period, a waterskin if needed, basic weather covering, access to shared tools, and anything the foreman marks as job equipment.”
+That was enough to make the amount real. Not wealth. Not even comfort.
 
-“Weapon?”
+But food, a roof, and the beginning of independence. That mattered.
 
-“No.”
+"And the Guild supplies?"
 
-“Worth asking.”
+"Travel food during the work period. Waterskin if needed. Weather covering. Shared tools. Anything the foreman marks as necessary job equipment."
 
-“You said you were unarmed at the gate.”
+"Weapon?"
 
-“I was.”
+"No."
 
-She looked at me. I looked back. She decided not to ask. That was probably wise for both of us.
+"Worth checking."
 
-“There's also an advance,” she said.
+"You said you were unarmed at the gate."
 
-Now we were talking. She opened a small drawer beneath the desk and took out several silver coins. Marks. They were slightly larger than the coins I remembered from home, stamped with a crown shape on one side and a river motif on the other.
+"I was."
 
-My first money in another world. I had expected that moment to feel more significant. Mostly I was hungry. Jessa kept the coins on the desk.
+She looked at me for a moment. I smiled. She decided against the follow-up question.
 
-“You receive these only if you accept.”
+Smart woman.
 
-“Cruel.”
+"There's also an advance."
 
-“Procedure.”
+Now we were talking. Jessa opened a small drawer beneath the desk and took out several silver coins. Marks.
 
-“Worse.”
+They were a little larger than coins I half-remembered from somewhere else, stamped with a crown shape on one face and a river motif on the other. My first local money. Technically not mine yet.
 
-Her mouth moved slightly before she looked back at the form.
+Emotionally, we had bonded.
 
-“The advance comes out of the final payment.”
+"You receive these if you accept," Jessa said.
 
-“Of course it does.”
+"Cruel."
 
-“It is an advance.”
+"Procedure."
 
-“I understand the concept.”
+"Worse."
 
-“I'm checking.”
+"The advance is deducted from final payment."
 
-She was good at this. That was becoming obvious.
+"Of course."
 
-“What do I need to bring?”
+"It is an advance."
 
-“Yourself. Your entrant token. Clothing suitable for the road. Anything personal you don't want to leave behind.”
+"I understand the concept."
 
-“So everything I own.”
+"I'm checking."
+
+She was good at this.
+
+"What do I need to bring?"
+
+"Your entrant token. Clothing suitable for the road. Anything personal you do not want to leave behind."
+
+"So everything I own."
 
 She looked at me again.
 
-“You really have nothing?”
+"You really have nothing?"
 
-“I have a wooden token and a very complicated administrative history.”
+"I have a wooden token, a coat, and an administrative history that has already required multiple specialists."
 
-That was not entirely true. I also had the clothes I was wearing. Things were improving. Jessa lowered her voice a little.
+That was almost an inventory. Progress. Jessa lowered her voice slightly.
 
-“You should understand something else.”
+"You should understand one more thing."
 
-There it was. The sentence people use right before explaining why the good part was not actually free.
+I stopped playing with one of the coins.
 
-“Go on.”
+"Go on."
 
-“A registered road worker would have a certification record. If something happens, the Guild knows who they are, who receives notice, which protections apply, which claims can be filed.”
+"A registered road worker has a certification record. If something happens, the Guild knows who they are, who receives notice, what protections apply, and which claims can be filed."
 
-“And me?”
+"And me?"
 
-“We know what you call yourself.”
+"We know what you call yourself."
 
-Simple. Accurate. Not especially comforting.
+Simple. Accurate. Not especially warm.
 
-“If you disappear,” she continued, “there is still an expense record. There would be a route report. But the normal identity-linked protections don't exist.”
+"If you disappear," she continued, "there will still be an expense record. There will be a route report. But the normal identity-linked protections do not exist."
 
-I looked at the silver coins. The deal was bad. Not secretly bad. Openly bad. That was almost refreshing.
+I looked at the coins. The deal was bad. Not secretly bad.
 
-The problem was that the alternative was currently no deal at all. I could refuse and preserve protections I did not have access to. Very safe. Very unemployed. I picked up one of the Marks and turned it between my fingers.
+Openly bad. That was almost refreshing. The alternative was preserving protections I could not access while remaining hungry and unemployed.
 
-“Does Hesk do this often?”
+Very safe. Very hungry.
 
-Jessa's expression changed only slightly.
+"Does Hesk use irregular labor often?"
 
-“Irregular labor?”
+Jessa's face changed by maybe half a degree.
 
-“Yes.”
-
-“When normal certification isn't practical.”
+"When normal certification isn't practical."
 
 Careful answer. Not necessarily dishonest.
 
-“How often is that?”
+"How often is that?"
 
-“Greywake is a frontier settlement.”
+"Greywake is a frontier settlement."
 
 Also an answer. I handed the coin back.
 
-“For the record, I'm learning the value of the money after negotiating for it.”
+"For the record, I'm learning the value of money after negotiating for it."
 
-“You haven't negotiated yet.”
+"You haven't negotiated yet."
 
-Good point.
+"Good point. What if I want more?"
 
-“What if I want more?”
+"You can ask."
 
-“You can ask.”
+"Will I get more?"
 
-“Will I get more?”
+"Probably not."
 
-“Probably not.”
+I appreciated the honesty. Before I could decide whether to ask anyway, Captain Brynn Alder crossed the caravan yard outside. She saw me at the desk.
 
-I liked her honesty. Before I could decide whether to make the attempt anyway, Captain Brynn Alder crossed the open yard outside. She saw me at the desk. Then Jessa. Then the form.
+Then Jessa. Then the form. Her route changed.
 
-Her direction changed. Of course it did. Brynn stopped just inside the Guild entrance.
+Of course it did. Brynn stepped inside the Guild hall.
 
-“You took the offer.”
+"You took the offer."
 
-“I'm considering it.”
+"I'm considering it."
 
-“Hesk's private work?”
+"Hesk's private work?"
 
-“Apparently.”
+"Apparently."
 
-Her eyes went to Jessa.
+Her eyes moved to Jessa. "Registered?"
 
-“Registered?”
+"No," Jessa said.
 
-“No,” Jessa said.
+Brynn looked back at me. "You understand what that means?"
 
-Brynn looked back at me.
+"Everyone has been aggressively educational."
 
-“You understand what that means?”
+"Good."
 
-“Everyone has been very committed to making sure I do.”
+Hesk appeared from his office carrying another map.
 
-“Good.”
+"Alder."
 
-Hesk appeared from the office behind us, carrying another map.
+"Hesk."
 
-“Alder.”
+Nothing hostile in either voice. Nothing friendly either. Brynn nodded toward the form.
 
-“Hesk.”
+"He stays an Unverified Entrant."
 
-Nothing hostile in the greeting. Nothing warm either. Brynn nodded toward the form.
+"I know," Hesk said.
 
-“He stays an Unverified Entrant.”
+"This does not change his gate restrictions."
 
-“I know.”
+"I know."
 
-“This doesn't change his gate restrictions.”
+"The militia is not guaranteeing Guild work outside registered contracts."
 
-“I know.”
+"I didn't ask you to."
 
-“The militia isn't guaranteeing Guild work outside registered contracts.”
+Hesk remained calm. Brynn did too. That made the disagreement sharper.
 
-“I didn't ask you to.”
+I looked between them.
 
-Hesk's tone remained calm. Brynn's did too. That somehow made the disagreement clearer. I looked between them.
+"So nobody is responsible for me."
 
-“So nobody is responsible for me.”
+Brynn met my eyes.
+
+"You are."
+
+There it was. Short. Clean.
+
+Hard to argue with. The world paused. Brynn froze beside the contract desk. Hesk stopped with the map halfway to the counter. Outside, a horse's tail hung in the air mid-swish.
+
+I looked toward you.
+
+"Freedom."
+
+I lifted one of the unsigned forms.
+
+"Apparently it comes without insurance."
+
+Time resumed. The horse finished swatting at a fly. Hesk placed the map down.
+
+"He's choosing the work."
+
+"I can see that," Brynn said.
+
+"You object?"
+
+"I object to people confusing private arrangements with protection."
+
+"I haven't confused them."
 
 Brynn looked at me.
 
-“You are.”
+"Have you?"
 
-There it was. Short answer. Hard to argue with. Hesk set the map on the counter. “He's choosing the work.”
+"No."
 
-“I can see that.”
+And I had not. That was the important part. Hesk was using my legal gap.
 
-“You object?”
+I was using his willingness to pay me through it. Neither fact cancelled the other. Brynn studied me for another second.
 
-“I object to people confusing private arrangements with protection.”
+"Keep your entrant token on you. If the assignment takes you outside the wall and back, gate staff will still require it."
 
-“I haven't confused them.”
+"Understood."
 
-Brynn looked at me again.
+She looked at Hesk.
 
-“Have you?”
+"Don't make him the militia's problem."
 
-“No.”
+Hesk's expression did not change. "I don't plan to." Brynn left.
 
-That was true. I knew exactly what I was getting. Money. Work. Access.
+Nobody had rescued me from my own decision. Good. I had not asked them to.
 
-Risk. The order was negotiable. Brynn seemed satisfied enough with that.
+Hesk looked back at me. "Still interested?" I considered the Marks.
 
-“Then keep your token with you. If the assignment carries you outside the wall and back, gate staff still need it.”
+Food. Lodging. Supplies.
 
-“Understood.”
+Road access. A reason to move through Greywake without begging anyone for permission to be useful. And risk.
 
-She looked once at Hesk.
+That part had been explained repeatedly enough to qualify as a local tradition.
 
-“Don't make him the militia's problem.”
+"Yes."
 
-Hesk's expression did not move.
+Hesk nodded once. No smile. No triumph.
 
-“I don't plan to.”
+Just business.
 
-That sentence would probably matter more later. For now, it sounded ordinary. Brynn left. Hesk watched her go, then turned back to me.
+"Good."
 
-“You still interested?”
+I had expected questionable frontier employment to feel more dramatic. Instead Jessa pulled the form toward herself and started writing. Naturally.
 
-I looked at the Marks. Then at the Guild workers moving supplies through the yard. Then at Jessa, who had just spent several minutes explaining why the offer was bad and still had not told me not to take it.
+"What are you putting down?"
 
-“Yes.”
+"Private labor accepted. Advance issued. Supply access approved. Assignment pending completion."
 
-Hesk nodded once. No triumph. No smile. Just business.
+"I can't read any of that."
 
-“Good.”
+"I know."
 
-That was almost disappointing. I had expected accepting questionable frontier employment to feel more dramatic. Instead, Jessa pulled the form back toward herself and started writing. Naturally.
+"So the agreement is based on the spoken terms."
 
-“What exactly are you putting down?” I asked.
+"Yes."
 
-“Private labor accepted. Advance issued. Supply access approved. Assignment pending completion.”
+"Then say them once more."
 
-“I can't read any of that.”
+Jessa did. Payment in Marks. Advance deducted from final payment.
 
-“I know.”
+Basic assignment supplies provided. Main Caravan Road repair support. No registered-worker injury guarantee.
 
-“So this is based on spoken terms.”
+No identity-bound traveler protection. No normal contract appeal. Return or report completion.
 
-“Yes.”
+I listened to the entire list. No surprises.
 
-“Good.”
+"Accepted."
 
-Jessa finished the entry, stamped the page, and placed the silver Marks in my hand. They were heavier than they looked. My first local income. Technically an advance against future work, but I was not going to ruin the moment for myself.
+Jessa stamped the form. Then she placed the Marks in my palm. They were heavier than they looked.
+
+My first income in this world. Technically an advance against work I had not done. I decided not to insult the moment with accounting.
 
 Hesk tapped the map.
 
-“Report here at first light.”
+"Report here at first light."
 
-Jessa turned it so I could see. Lines crossed the parchment in several directions. Most meant nothing to me, but some markers used simple shapes instead of writing. A gate. A road post.
+Jessa turned the map toward me. Lines crossed the parchment in several directions. Most meant nothing, but some locations used simple shapes.
 
-A bridge symbol. Jessa pointed to each one.
+A gate. A road post. A bridge.
 
-“Main gate. North-east road marker. Guild repair post. You'll meet the crew here.”
+She pointed to each one.
 
-I studied the shapes.
+"Main gate. North-east road marker. Guild repair post. The crew gathers here."
 
-“That I can remember.”
+I traced the sequence with one finger.
 
-“The written sheet has the same route.”
+"That I can remember."
 
-“Less useful.”
+"The written sheet has the same route."
 
-“I assumed.”
+"Then the sheet is decorative."
 
-She separated a smaller card from the stack. The writing was still unreadable, but the bridge symbol had been stamped clearly at the top.
+"I assumed you would say that."
 
-“Show this to the crew foreman. The symbol and Guild seal identify the assignment.”
+She separated a smaller card from the stack. The writing remained unreadable, but the bridge symbol at the top was large and obvious.
 
-“Finally. Paperwork designed for me.”
+"Show this to the crew foreman. The Guild seal and bridge mark identify the assignment."
 
-“It was designed for workers who can't read.”
+"Finally. Paperwork designed for me."
 
-“That is less special.”
+"It was designed for workers who cannot read."
 
-“Still useful.”
+"Less special."
 
-Fair enough. She moved to a supply counter and returned with a rolled weather sheet, a filled waterskin, and a small cloth bundle.
+"Still useful."
 
-“Travel food. Basic covering. The crew has tools.”
+Fair. Jessa moved to the supply counter and came back with a rolled weather sheet, a filled waterskin, and a small cloth bundle of travel food.
 
-I took them.
+"The crew carries the tools."
 
-“What about lodging tonight?”
+"What about lodging tonight?"
 
-Jessa pointed through the open door toward the market lane.
+She pointed toward the market lane.
 
-“With the advance, you can afford something basic.”
+"With the advance, you can afford something basic."
 
-“Something with a roof?”
+"Roof?"
 
-“Yes.”
+"Yes."
 
-“Luxury.”
+"Door?"
 
-She did not answer. Dry humor did not always survive translation. Hesk was already speaking with another clerk. The meeting was over. Just like that.
+"Probably."
 
-No oath. No magical contract. No dramatic warning. I had entered the Guild with no recognized identity and no money. I was leaving with silver in my pocket, food in my hand, a place to sleep if I did not choose badly, and a job waiting at first light.
+I considered that.
 
-The arrangement was not good. The arrangement was useful. Those were not the same thing. I knew that. I took it anyway.
+"Luxury."
 
-At the edge of the caravan yard, I looked back once. Hesk had not watched me leave. He was bent over another route map with two workers, already dealing with something else.
+Jessa looked down quickly. I caught the edge of a smile. Hesk was already speaking to another clerk.
 
-That made sense. To him, I was a solution to a small problem. For now, that worked both ways. Tomorrow I had my first road assignment. A damaged bridge.
+The meeting was over. Just like that. No oath.
 
-A repair crew. A little risk. And, if Greywake was feeling generous, payment at the end. Simple enough. I had stopped trusting that phrase several hours ago.
+No magical contract. No dramatic warning. No one asked me to swear loyalty to the Guild, the Roadmaster, Greywake, destiny, or any other institution that might eventually become annoying.
+
+That part I liked. I tucked the Marks away and stepped into the caravan yard with food under one arm and the bridge-marked card in my hand. The arrangement was bad.
+
+It was also useful. I had taken it because I wanted what it gave me now. That was enough.
+
+At the edge of the yard, I looked back. Hesk had not watched me leave. He was bent over another route map with two workers, already dealing with something else.
+
+That made him more convincing than if he had stood in the doorway looking mysterious. Tomorrow I had a damaged bridge, a repair crew, a little risk, and payment waiting at the end. Simple enough.
+
+I had already learned not to trust that phrase.

@@ -270,3 +270,87 @@ This section is authoritative wherever older language is ambiguous.
 - Play Logic / imagination authority and extreme regeneration are available from the beginning.
 - Geography, world map, locked destination order, Greywake pacing spine, and Merrowgate pacing spine remain preserved.
 - Unexpected situations must be earned from Red's personality and must leave consequences.
+
+
+# 12. Battle Composition Law
+
+Every destination arc must contain battle/action variety appropriate to its local conflict.
+
+Required:
+- at least one **major / great battle** that materially changes the arc;
+- multiple **minor battles or hostile action scenes** when the destination naturally supports combat;
+- at least three distinct action/matchup structures across a full arc;
+- at least one battle where Red is not the only decisive actor;
+- at least one battle where defeating the opponent is not the primary objective;
+- at least one battle complicated by terrain, civilians, evidence, infrastructure, escort, timing, politics, ecology, simultaneous objectives, or another non-HP problem.
+
+Possible battle topology includes:
+- 1v1;
+- 2v1;
+- 1v2;
+- 1v3 / 1v4 / 1vMany;
+- 2v2;
+- uneven teams;
+- rotating opponents;
+- split-party combat;
+- escort defense;
+- pursuit/interception;
+- rescue under attack;
+- defensive hold;
+- multi-front battle;
+- three-sided conflict;
+- battle with reinforcement changing the numbers.
+
+Topology must come from the situation, not from a quota.
+
+Red may be physically capable of ending an ordinary opponent immediately. Battle tension therefore comes from what he chooses to do, what he does not know, what else is happening at the same time, and what an instant solution would damage or reroute.
+
+A serious Red battle beat means **restraint dropping**, never a new power stage.
+
+# 13. Battle Scene QA Law
+
+Every meaningful battle must have an explicit matchup identity such as:
+
+**Red Jackal vs [opponent]**  
+**Red + [ally] vs [opponent]**  
+**[team] vs [team/pack/force]**
+
+and must pass:
+
+`qa/BATTLE-SCENE-QA-STANDARD.md`
+
+Every scene, including non-combat scenes, must pass:
+
+`qa/SCENE-QA-STANDARD.md`
+
+A battle is not approved merely because its prose is exciting.
+
+It must preserve:
+- clear action geography;
+- participant roles;
+- opponent objectives;
+- supporting-cast competence;
+- matchup/topology logic;
+- escalation;
+- consequence;
+- continuity;
+- mystery boundaries;
+- Red's final story engine.
+
+# 14. Arc Battle Variety Law
+
+At Gate 10, every completed arc must publish an internal Battle Composition Map listing:
+- Battle ID;
+- chapter;
+- matchup;
+- scale;
+- topology;
+- terrain;
+- objective;
+- Red's role;
+- decisive supporting characters;
+- turning point;
+- outcome;
+- lasting consequence.
+
+If the map reveals repeated battle structure, Red-only solutions, weak supporting-cast agency, or a climax that gains scale only by adding more enemies, the arc returns to Battle/Scene revision.

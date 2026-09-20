@@ -2,11 +2,19 @@
 
 **Chapter:** CH-014 — Necessary Losses  
 **Manuscript:** `manuscript/CH014-NECESSARY-LOSSES.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 3,124
+**Review Date:** 2026-09-20  
+**Status:** PASS — CURRENT CANON REVALIDATED  
+**Word Count:** 2456
 
 **Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A097 Prose Editor, A037 Power Balance Editor, A042 Character Arc Editor, A044 Supporting Character Editor, A045 Antagonist Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A111 Logic Editor
+
+# Soul-Drift / Final Story-Engine Revalidation
+
+- close first-person narration confirmed;
+- Hesk's strongest necessity case preserved without absolution;
+- Red treats blind intervention as a causality problem, not a moral-conversion beat;
+- no Play Logic/regeneration/progression event occurs;
+- Tavian's backflow warning remains bounded and CH-015 action remains separate.
 
 # Scope
 

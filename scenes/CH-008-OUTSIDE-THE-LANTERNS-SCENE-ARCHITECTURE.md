@@ -8,6 +8,24 @@
 **POV:** Red Jackal first person  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
+# Soul-Drift / Final Story-Engine Override
+
+The five-scene CH-008 event sequence remains locked, but legacy Stage/progression and exhaustion-as-power-limit language below is superseded by the final story engine.
+
+Current interpretation:
+- Red is already overwhelmingly powerful; CH-008 is not a recovery gate, Stage test, control tier, or reduced-capacity chapter.
+- recent CH-007 trauma may leave ordinary rib/flank soreness because the injury was recent, but this does not reduce Red's underlying Play Logic capacity.
+- the single bridge-support manifestation occurs because Kellan's plan needs one temporary support, not because Red has a one-use maximum.
+- the support may be visually imperfect because Red's expression is theatrical/approximate, not because exhaustion has reduced his power.
+- Red can manifest again if he chooses; CH-008 simply does not require another public display.
+- Kellan matters because engineering placement, load distribution, material judgment, and permanent repair remain real problems that raw power does not automatically answer unless Red chooses to erase the entire situation.
+- Red intentionally works inside Kellan's plan because the practical solution interests him and because replacing the whole bridge would erase the people/problem he is observing.
+- CH-007's consequence informs Red's awareness of group risk but does not create a moral-development arc.
+- F-003 and F-004 receive no new clue in CH-008.
+- the warning-marker mismatch proves only stale/incomplete official information relative to fresh local observation.
+- genuine audience address invokes Fourth-Wall Pause every time.
+- M-007 remains inactive.
+
 # 1. Chapter Purpose Lock
 
 CH-008 must move Red Jackal from:
@@ -24,12 +42,12 @@ The chapter must also:
 2. introduce Kellan Dorr through practical bridge/road work already in progress;
 3. establish that Kellan and the Outer Homestead Compact maintain infrastructure because waiting for central support is often too slow;
 4. contrast the protected Main Caravan Road with a minor outer road without repeating CH-006 exactly;
-5. carry CH-007 residual pain/exhaustion forward visibly;
-6. keep Red Jackal useful but not physically or magically dominant;
+5. carry recent CH-007 rib/flank soreness forward visibly without treating it as magical depletion;
+6. keep Red Jackal from erasing the engineering problem by choice so Kellan and the workers retain meaningful expertise;
 7. make Kellan judge Red Jackal by whether he works where protection is weakest, not by anomaly spectacle;
 8. use environmental/repair pressure rather than a major monster fight;
-9. allow one simple Stage I terrain/bridge-assist manifestation maximum;
-10. make the manifestation temporary, imperfect, and more difficult because of CH-007 exhaustion;
+9. use one terrain/bridge-assist manifestation because the scene requires one temporary support;
+10. make the manifestation temporary and somewhat imperfect without implying reduced raw capacity or exhaustion-based control loss;
 11. preserve the fact that Kellan suspects neglect and unequal priorities, not deliberate lure manipulation;
 12. end with Red Jackal noticing that official Guild monster-warning information does not match the outer residents’ current physical warning markers;
 13. plant no new F-ID and explain no protected mystery.
@@ -54,8 +72,8 @@ Red Jackal begins CH-008 knowing:
 - a displaced pack has already appeared unusually close to Greywake;
 - Red Jackal's regeneration is medically abnormal;
 - Sela warned that conventional healing should not be forced casually over his unknown recovery process;
-- his severe CH-007 injury is correcting, but he remains physically depleted;
-- using Play Logic while badly hurt worsened his exhaustion;
+- his severe CH-007 injury has corrected dramatically, with ordinary recent-injury soreness still possible;
+- CH-007 established no Play Logic stamina debt, use-count ceiling, or magical recovery gate;
 - his reckless positioning in CH-007 endangered an ordinary worker.
 
 He still does **not** know:
@@ -69,30 +87,30 @@ He still does **not** know:
 - any Fate/Great Design truth;
 - any protected writer truth.
 
-# 3. Residual Injury / Exhaustion Lock
+# 3. Recent-Injury Continuity Lock
 
 CH-008 begins after Red Jackal has been released from immediate treatment-house observation.
 
 Sela does not appear.
 
-Red Jackal is functional enough to walk and perform ordinary work, but he is **not fully recovered**.
+Red Jackal is functional and fully capable, while recent rib/flank soreness can still make ordinary lifting or twisting unpleasant.
 
 Required residual effects:
 
 - deep flank/rib soreness;
-- reduced stamina;
+- no reduced underlying capability;
 - discomfort with twisting/lifting;
-- fatigue after sustained physical effort;
-- lower tolerance for Play Logic strain.
+- ordinary discomfort after sustained physical labor may occur;
+- no Play Logic strain ceiling is inferred.
 
 Do not:
 - reopen F-003;
 - perform a second healer analysis;
 - make the injury vanish between chapters;
 - make regeneration a joke;
-- let Red Jackal work at full pre-CH-007 capacity.
+- treat recent soreness as evidence that Play Logic or regeneration is depleted.
 
-CH-008 must leave him improved enough to function but still depleted enough that CH-007 has lasting consequence.
+CH-008 preserves CH-007's consequence through memory, recent soreness, and changed scene awareness—not through a magical depletion state.
 
 # 4. Kellan Dorr Lock
 
@@ -227,9 +245,9 @@ Do not grant literacy.
 
 F-004 remains **PLANTED — CH-005**.
 
-Maximum CH-008 Play Logic use:
+CH-008 scene-design Play Logic use:
 
-**one simple Stage I terrain/bridge-assist manifestation total.**
+**one terrain/bridge-assist manifestation occurs because one support is sufficient for the planned crossing.**
 
 Preferred function:
 
@@ -240,18 +258,18 @@ The manifestation must:
 - use an already-known clear practical purpose;
 - be temporary;
 - be visibly imperfect;
-- destabilize under load;
+- remain physically real enough for the controlled load crossing;
 - require Kellan's engineering judgment to place/use correctly;
-- worsen Red Jackal's residual exhaustion.
+- not establish any magical stamina/resource cost.
 
 It must not:
 - repair the bridge permanently;
 - replace Kellan or the workers;
 - introduce a new Play Logic mechanic;
-- become a larger/more reliable Stage II effect;
+- introduce any mastery-tier or progression claim;
 - solve the entire route problem.
 
-No second manifestation attempt or success is allowed.
+No second manifestation occurs because no second one is needed in the locked scene sequence; this is not a capability limit.
 
 # 10. Regeneration / M-005 Lock
 
@@ -311,7 +329,7 @@ Natural CH-008 humor sources:
 - Red Jackal expecting a more interesting assignment and receiving timber/lifting work while still sore;
 - Kellan's complete lack of interest in “mysterious anomaly” reputation;
 - homestead workers reacting more strongly to whether Red Jackal can carry a beam than to whether he can create one;
-- Red Jackal discovering that exhausted practical labor is extremely resistant to aura farming.
+- Red Jackal discovering that practical labor is extremely resistant to aura farming.
 
 Avoid:
 - mocking poverty or neglected communities;
@@ -337,7 +355,7 @@ Complete a paid outer-road repair assignment without proving Sela correct about 
 
 ### Opposing Goal
 
-His own residual injury limits what he can comfortably do.
+Recent rib/flank soreness makes some ordinary lifting/twisting uncomfortable.
 
 Kellan wants useful labor, not a demonstration.
 
@@ -355,7 +373,7 @@ He adjusts what Red Jackal is assigned based on what can actually be done safely
 
 He knows:
 - outer roads receive less protection;
-- he is still depleted from CH-007;
+- he still has recent-injury soreness from CH-007 without reduced underlying capability;
 - reckless risk can transfer danger to others.
 
 ### Supporting Character Knowledge
@@ -594,7 +612,7 @@ SC-008-03 puts the repair under real environmental/load pressure.
 
 ### Scene Purpose
 
-Deliver Kellan's character challenge and force Red Jackal to contribute under ordinary, non-heroic pressure while depleted.
+Deliver Kellan's character challenge and make Red Jackal contribute inside an ordinary engineering plan rather than erasing it.
 
 ### Red Jackal's Immediate Goal
 
@@ -638,7 +656,7 @@ Do not turn this into a long speech.
 
 He knows:
 - clear-purpose manifestation works better than vague wishing;
-- severe exhaustion destabilizes focus;
+- Red's manifestation can be approximate in shape without implying exhaustion-based precision loss;
 - other people's safety must enter his risk calculation.
 
 ### Supporting Character Knowledge
@@ -694,7 +712,7 @@ No manifestation until SC-008-04.
 
 ### Regeneration Continuity
 
-Exhaustion makes focus less reliable.
+No exhaustion-based Play Logic precision penalty is established.
 
 ### Worldbuilding Introduced Naturally
 
@@ -735,7 +753,7 @@ SC-008-04 contains the single allowed manifestation.
 
 ### Scene Purpose
 
-Use Stage I Play Logic as practical terrain assistance while preserving exhaustion, instability, and Kellan's engineering authority.
+Use Play Logic as practical terrain assistance while preserving Kellan's engineering authority and the need for permanent conventional repair.
 
 ### Red Jackal's Immediate Goal
 
@@ -760,11 +778,11 @@ The resulting support is:
 - not an elegant engineered component;
 - useful because Kellan positions the load around it.
 
-### Maximum Play Logic Use
+### Scene-Design Play Logic Use
 
-**One manifestation attempt total. One manifestation success total.**
+**One manifestation occurs in this scene because one temporary support is sufficient.**
 
-No retry.
+No retry is needed.
 
 If focus wavers, Red Jackal must hold the same attempt or accept the result.
 
@@ -772,19 +790,17 @@ If focus wavers, Red Jackal must hold the same attempt or accept the result.
 
 The support:
 - bears the required load briefly;
-- begins cracking/warping before the crossing fully clears;
-- forces Kellan/workers to keep the movement controlled;
-- disappears/fails only after the critical load has passed;
+- bears the controlled wheel load while Kellan/workers manage the crossing;
+- remains temporary and is released after the critical load has passed;
 - leaves no permanent repair.
 
-### Cost
+### Cost / Consequence
 
-Afterward Red Jackal experiences:
-- increased flank/rib pain;
-- shaking/fatigue;
-- reduced willingness/ability to manifest again.
+No magical resource cost is established.
 
-No second manifestation occurs.
+Red may still have ordinary rib/flank soreness from recent trauma and physical labor, but the manifestation does not reduce his future capability.
+
+No second manifestation occurs because the scene does not require one.
 
 ### Knowledge Entering Scene — Red Jackal
 
@@ -810,7 +826,7 @@ None required.
 
 ### Emotional State
 
-Focused, strained, satisfied but exhausted.
+Focused, mildly amused, satisfied.
 
 ### Aura-Farming Opportunity
 
@@ -835,7 +851,7 @@ None.
 
 ### Play Logic Restrictions
 
-Stage I only.
+No Stage or mastery-tier interpretation.
 
 No new rule.
 
@@ -843,7 +859,7 @@ No increased duration/control claim.
 
 ### Regeneration Continuity
 
-Residual CH-007 exhaustion worsens after manifestation.
+CH-007 does not create a Play Logic depletion state, and the manifestation does not worsen one.
 
 ### Worldbuilding Introduced Naturally
 
@@ -852,7 +868,7 @@ Residual CH-007 exhaustion worsens after manifestation.
 
 ### Continuity Dependencies
 
-F-004 already planted; CH-007 exhaustion active.
+F-004 already planted; CH-007 recent-injury context remains available without magical depletion.
 
 ### Knowledge Restrictions
 
@@ -992,7 +1008,7 @@ No further manifestation.
 
 ### Regeneration Continuity
 
-Red Jackal ends the chapter more exhausted than he began.
+Red Jackal ends the chapter attentive to the warning mismatch; no magical depletion state is created.
 
 ### Worldbuilding Introduced Naturally
 
@@ -1097,7 +1113,7 @@ CH-008 introduces **no new F-ID**.
 Maximum:
 - one Stage I terrain/bridge-assist manifestation total.
 
-No retry.
+No retry is needed.
 
 No new rule.
 
@@ -1107,7 +1123,7 @@ No Stage II.
 
 No new clue.
 
-Residual exhaustion only.
+Recent-injury soreness only; no magical depletion.
 
 ## M-007
 

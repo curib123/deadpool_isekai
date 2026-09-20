@@ -52,7 +52,7 @@ The revision may not change:
 - chapter titles;
 - first-person Red Jackal POV;
 - Greywake as the Volume 1 destination;
-- Stage I Play Logic ceiling;
+- final-story-engine Play Logic rule: Red is already overwhelmingly powerful; no Stage ceiling;
 - existing F-001 / F-002 / F-003 / F-004 planting chapters;
 - bounded M-007 material in CH-016 only;
 - Hesk as the local antagonist;
@@ -248,7 +248,7 @@ Preferred length:
 
 ## CH-022 — First Wave
 
-Keep exactly the locked Stage I manifestation count.
+Keep the locked scene-design manifestation beats, but do not interpret the count as a capability ceiling.
 
 Amplify through:
 - clearer simultaneous objectives;
@@ -280,7 +280,7 @@ Expand through:
 - Tavian's ecology read changing real-time decisions;
 - Brynn coordinating people rather than merely reacting;
 - workers/militia physically maintaining the route;
-- Red's single locked PL-4 structural utility having a major but bounded effect;
+- Red's major structural support having a large but task-bounded effect without implying a higher tier or ceiling;
 - Red taking physical cost;
 - the defense surviving because multiple competencies hold together.
 
@@ -362,7 +362,7 @@ Battle spectacle should come from:
 - weather/terrain where already canon-compatible;
 - coordinated militia/workers;
 - predators exploiting chaos;
-- physical fatigue;
+- physical pain/exertion that does not reduce Red's underlying Play Logic capacity;
 - Red being unable to know/attend every front at once;
 - choices about what must be saved first;
 - the danger of him treating a serious crisis like a game for too long.

@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** SOUL-DRIFT / STORY-INTRUDER RETCON ACTIVE — CH-001→CH-011 CURRENT / CH-012→CH-027 FIRST-PERSON SYNCHRONIZATION REQUIRED / CH-028 PAUSED
+**Status:** SOUL-DRIFT / STORY-INTRUDER RETCON ACTIVE — CH-001→CH-026 CURRENT / CH-027 FIRST-PERSON SYNCHRONIZATION REQUIRED / CH-028 PAUSED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -57,35 +57,35 @@ CH-010 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL S
 CH-011 Scene Architecture: **PASS — GATE 8**  
 CH-011 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
 CH-012 Scene Architecture: **PASS — GATE 8**  
-CH-012 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
+CH-012 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
 CH-013 Scene Architecture: **PASS — GATE 8**  
-CH-013 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
+CH-013 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
 CH-014 Scene Architecture: **PASS — GATE 8**  
-CH-014 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
+CH-014 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
 CH-015 Scene Architecture: **PASS — GATE 8**  
-CH-015 Manuscript: **CANON — OVERPOWERED RETCON GATE 9 PASS**  
+CH-015 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
 CH-016 Scene Architecture: **PASS — GATE 8**  
-CH-016 Manuscript: **CANON — OVERPOWERED RETCON GATE 9 PASS**  
+CH-016 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
 CH-017 Scene Architecture: **PASS — GATE 8**  
-CH-017 Manuscript: **CANON — GATE 9 PASS / SERIOUS MODE LOCKED**  
+CH-017 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
 CH-018 Scene Architecture: **PASS — GATE 8**  
-CH-018 Manuscript: **CANON — GATE 9 PASS / DEADPAN VOICE LOCKED**  
+CH-018 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
 CH-019 Scene Architecture: **PASS — GATE 8**  
-CH-019 Manuscript: **CANON — OVERPOWERED RETCON GATE 9 PASS**  
+CH-019 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
 CH-020 Scene Architecture: **PASS — GATE 8**  
-CH-020 Manuscript: **CANON — OVERPOWERED RETCON GATE 9 PASS**  
+CH-020 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
 CH-021 Scene Architecture: **PASS — GATE 8**  
-CH-021 Manuscript: **CANON — OVERPOWERED RETCON GATE 9 PASS**  
+CH-021 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
 CH-022 Scene Architecture: **PASS — GATE 8**  
-CH-022 Manuscript: **CANON — OVERPOWERED RETCON GATE 9 PASS**  
+CH-022 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
 CH-023 Scene Architecture: **PASS — GATE 8**  
-CH-023 Manuscript: **CANON — OVERPOWERED RETCON GATE 9 PASS**  
+CH-023 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
 CH-024 Scene Architecture: **PASS — GATE 8**  
-CH-024 Manuscript: **CANON — OVERPOWERED RETCON GATE 9 PASS**  
+CH-024 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
 CH-025 Scene Architecture: **PASS — GATE 8**  
-CH-025 Manuscript: **CANON — GATE 9 PASS / AFTERMATH MODE LOCKED**  
+CH-025 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
 CH-026 Scene Architecture: **PASS — GATE 8**  
-CH-026 Manuscript: **CANON — GATE 9 PASS / ARC-CLOSURE VOICE LOCKED**  
+CH-026 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
 Red Jackal Series Voice: **LOCKED — CLOSE FIRST-PERSON / CINEMATIC MOVIE-LIKE ENGLISH / FOURTH-WALL PAUSE**  
 Red Jackal Anti-Villain Expression: **LOCKED**  
 Red Jackal Reputation / Fear Progression: **LOCKED — REVELATION MODEL / UNKNOWN → UNDERESTIMATED → HIDDEN MONSTER**  
@@ -266,11 +266,11 @@ Preserved:
 - Merrowgate 24-chapter pacing/order;
 - local antagonists and destination outcomes unless later chapter-specific QA requires wording changes.
 
-**Manuscript state:** CH-001 through CH-011 are CURRENT CANON under the Soul-Drift/final story-engine retcon; CH-012→CH-027 remain STALE pending sequential revision.
+**Manuscript state:** CH-001 through CH-026 are CURRENT CANON under the Soul-Drift/final story-engine retcon; CH-027 remains STALE pending sequential revision.
 
 The previous close-third revisions remain historical artifacts only.
 
-**Official next step:** CH-012 — Someone Put This Here → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.
+**Official next step:** CH-027 — Salt in the Air → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.
 
 **CH-028 remains PAUSED.**
 
@@ -303,4 +303,14 @@ Preservation remains absolute unless the author explicitly changes it:
 - major reversal/climax placement;
 - one major volume = one destination arc.
 
-**Production priority remains:** CH-001 through CH-011 synchronization are complete and Gate 9 PASS; continue CH-012 → CH-027 under the final Soul-Drift / close-first-person / story-intruder engine, revalidate Gate 9 sequentially, then resume CH-028.
+**Production priority remains:** CH-001 through CH-026 synchronization are complete and Gate 9 PASS; rewrite/revalidate CH-027 next, then resume CH-028.
+
+
+# Current Soul-Drift Synchronization Authority — 2026-09-20
+
+This section supersedes any historical pre-reset production-status statements elsewhere in this file.
+
+- **CH-001→CH-026:** CURRENT CANON — Soul-Drift / close first-person / final story engine — Gate 9 PASS.
+- **CH-027 — Salt in the Air:** event/scene sequence preserved, prose STALE — Soul-Drift rewrite + Gate 9 revalidation REQUIRED.
+- **CH-028 — The Man on the Manifest:** PAUSED until CH-027 completes the synchronization cycle.
+- **Official next step:** **CH-027 — Salt in the Air → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**

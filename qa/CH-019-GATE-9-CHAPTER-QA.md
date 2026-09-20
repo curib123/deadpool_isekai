@@ -2,11 +2,20 @@
 
 **Chapter:** CH-019 — Build the Wrong Road  
 **Manuscript:** `manuscript/CH019-BUILD-THE-WRONG-ROAD.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 2,748
+**Review Date:** 2026-09-20  
+**Status:** PASS — CURRENT CANON REVALIDATED  
+**Word Count:** 1560
 
 **Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A097 Prose Editor, A096 Imagination Scene Designer, A037 Power Balance Editor, A042 Character Arc Editor, A044 Supporting Character Editor, A045 Antagonist Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A111 Logic Editor
+
+# Soul-Drift / Final Story-Engine Revalidation
+
+- close first-person narration confirmed;
+- three utility manifestations occur because three discrete work/rescue problems need them, not because three is a capability ceiling;
+- every manifestation remains subordinate to permanent engineering/tactical geometry;
+- no exhaustion, tremor or reduced-precision power mechanic is retained;
+- no fourth manifestation occurs because no fourth task requires one;
+- Broken North remains barely viable, not magically repaired.
 
 # Scope
 
@@ -18,7 +27,7 @@ Gate 9 reviewed CH-019 against:
 - Broken North physical continuity from CH-011/012/018;
 - Kellan Dorr's no-field-work medical boundary;
 - ordinary resource-scarcity rule;
-- three-maximum Stage I manifestation ceiling;
+- three scene-design utility manifestations;
 - cumulative exhaustion/regeneration limits;
 - localized-monster-pressure ceiling;
 - Tavian/Brynn/worker role ownership;
@@ -75,7 +84,7 @@ No additional Gate 9 manuscript edit was required.
 | Red accepts worker/Tavian limits | PASS |
 | Red does unglamorous labor | PASS |
 | Red does not seize engineering authority | PASS |
-| Red explicitly accepts the no-fourth-use limit | PASS |
+| Red accepts the no-replacement-road engineering boundary | PASS |
 
 The practical development is clear:
 
@@ -207,7 +216,7 @@ It:
 
 Militia/Tavian manage the real threat.
 
-No fourth manifestation occurs.
+No fourth manifestation is needed.
 
 Red explicitly states:
 
@@ -294,7 +303,7 @@ CH-020 remains protected.
 
 **PASS.**
 
-Exactly three actual Stage I manifestations occur:
+Three actual utility manifestations occur by scene design:
 
 1. temporary brace;
 2. short ramp/footing;
@@ -310,7 +319,7 @@ All are:
 
 No fourth major manifestation occurs.
 
-No Stage II behavior occurs.
+No mastery-tier/progression behavior occurs.
 
 # Regeneration / Exhaustion Review
 
@@ -323,7 +332,7 @@ Regeneration:
 - does not erase headache/tremor/strain;
 - does not restore precision after the third manifestation.
 
-Red ends materially exhausted.
+Red ends physically worked and dirty, but no magical depletion or reduced capability is established.
 
 # Comedy / Aura Review
 

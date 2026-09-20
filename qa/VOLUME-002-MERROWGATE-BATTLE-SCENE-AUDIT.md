@@ -229,7 +229,7 @@ The great battle is **CH-047 → CH-048**.
 - **Irreversible consequences:** the worker death and injuries from CH-042 remain; CH-047/048 add infrastructure, trade, fatigue, and political costs that are not reset.
 - **Environment matters:** tide, weather, cranes, chain bridges, cargo, berths, water, workers, and restricted routes determine what actions are safe.
 - **Opposing force objective:** Cassian's network wants a real emergency to become proof that only centralized private authority can run the harbor.
-- **Primary objective is not defeat:** the coalition must keep people, routes, evidence, and public control alive; eliminating every guard or confronting Cassian physically is insufficient.
+- **Non-defeat objective:** defeating the opposing force is not the primary objective; the coalition must keep people, routes, evidence, and public control alive, because eliminating every guard or confronting Cassian physically is insufficient.
 - **Red-only solution prohibited:** Red's manifestations are bounded supports, and the harbor survives only when each specialist completes an independent function.
 
 **Great Battle QA status:** READY FOR GATE 8 DESIGN; not prose-approved.

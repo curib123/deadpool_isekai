@@ -6,111 +6,43 @@
 **Chapter QA:** `qa/CH-024-GATE-9-CHAPTER-QA.md`
 **Battle QA:** `qa/VOLUME-001-GREYWAKE-BATTLE-SCENE-AUDIT.md`
 
-The physical line was holding.
+The physical line was holding. Hesk's pull was not. Tavian pointed toward the lower fork.
 
-Hesk's pull was not.
-
-Tavian pointed toward the lower fork.
-
-The trailing branch peeling away from Broken North had grown since the last report.
-
-Not the main body.
-
-Too large to ignore.
+The trailing branch peeling away from Broken North had grown since the last report. Not the main body. Too large to ignore.
 
 Browsers at the front took the same outer angle. Smaller prey followed. Ridge-hounds used the movement because predators were apparently loyal to bad logistics.
 
-That route led toward the outer homesteads.
+That route led toward the outer homesteads. Brynn saw it. "How long?"
 
-Brynn saw it.
+Tavian watched three groups cross the split before answering. "Not long enough." Behind us, Broken North still carried most of the migration. Workers and militia were holding the physical choke without me standing over them.
 
-"How long?"
+Good. The road had become a system instead of one impossible person. Maelis and Jessa came from the opposite approach with two militia witnesses.
 
-Tavian watched three groups cross the split before answering.
+Maelis carried copied records in a wrapped packet. Jessa carried the old-service route sheet. Brynn did not waste time. "Site?"
 
-"Not long enough."
+Jessa pointed downslope. "Same housing. Same sector code from the reserve records."
 
-Behind us, Broken North still carried most of the migration. Workers and militia were holding the physical choke without me standing over them.
+Tavian took the sheet. He compared it with the wrong-moving branch. "That is the pull."
 
-Good.
+Maelis lifted her packet. "Custody entries, service references, Jessa's signed explanation. Originals remain secured."
 
-The road had become a system instead of one impossible person.
+Good. Evidence had survived the battle. Now we had to survive the evidence owner.
 
-Maelis and Jessa came from the opposite approach with two militia witnesses.
+The old-service housing sat inside a shallow stone recess beside the fork. Hesk stood beside it. The Roadmaster key was already inserted.
 
-Maelis carried copied records in a wrapped packet.
+The vent assembly had been opened farther than the coalition setting allowed. One directional plate had been turned toward the outer road. Jessa saw it immediately. "He changed the output."
 
-Jessa carried the old-service route sheet.
+Tavian looked through the brush. "Yes." Brynn stepped forward. "Hands away from the housing."
 
-Brynn did not waste time.
-
-"Site?"
-
-Jessa pointed downslope.
-
-"Same housing. Same sector code from the reserve records."
-
-Tavian took the sheet.
-
-He compared it with the wrong-moving branch.
-
-"That is the pull."
-
-Maelis lifted her packet.
-
-"Custody entries, service references, Jessa's signed explanation. Originals remain secured."
-
-Good.
-
-Evidence had survived the battle.
-
-Now we had to survive the evidence owner.
-
-The old-service housing sat inside a shallow stone recess beside the fork.
-
-Hesk stood beside it.
-
-The Roadmaster key was already inserted.
-
-The vent assembly had been opened farther than the coalition setting allowed.
-
-One directional plate had been turned toward the outer road.
-
-Jessa saw it immediately.
-
-"He changed the output."
-
-Tavian looked through the brush.
-
-"Yes."
-
-Brynn stepped forward.
-
-"Hands away from the housing."
-
-Hesk looked at her.
-
-"Captain."
+Hesk looked at her. "Captain."
 
 "Now."
 
-He did not move.
+He did not move. The migration kept moving behind us. That mattered.
 
-The migration kept moving behind us.
+This was not a courtroom. It was a route fight with paperwork. Maelis came to the edge of the recess. "We have the reserve records, issue entries, witnesses, your storehouse acknowledgment, and Jessa's signed explanation."
 
-That mattered.
-
-This was not a courtroom.
-
-It was a route fight with paperwork.
-
-Maelis came to the edge of the recess.
-
-"We have the reserve records, issue entries, witnesses, your storehouse acknowledgment, and Jessa's signed explanation."
-
-Hesk looked at the packet.
-
-"Then you have paperwork."
+Hesk looked at the packet. "Then you have paperwork."
 
 "We have enough that destroying this housing changes nothing."
 
@@ -118,19 +50,9 @@ Hesk looked at the packet.
 
 "No," Maelis said. "You are using it."
 
-Another prey group took the outer angle.
+Another prey group took the outer angle. Tavian raised one hand. "Pull increasing."
 
-Tavian raised one hand.
-
-"Pull increasing."
-
-Brynn's voice hardened.
-
-"Hesk."
-
-He looked toward the migration.
-
-"Broken North is damaged."
+Brynn's voice hardened. "Hesk." He looked toward the migration. "Broken North is damaged."
 
 "It is holding."
 
@@ -142,13 +64,7 @@ He looked toward the migration.
 
 "No. This is."
 
-She pointed toward the outer road.
-
-"Stop sending the cost there."
-
-Hesk's expression tightened.
-
-"The Main Caravan Road is Greywake's lifeline."
+She pointed toward the outer road. "Stop sending the cost there." Hesk's expression tightened. "The Main Caravan Road is Greywake's lifeline."
 
 "We know."
 
@@ -166,195 +82,71 @@ Hesk's expression tightened.
 
 "Then act like you know."
 
-His voice finally sharpened.
-
-"The corridor you built is a gamble. Broken North is old stone, emergency timber and optimism."
+His voice finally sharpened. "The corridor you built is a gamble. Broken North is old stone, emergency timber and optimism."
 
 "Mostly timber," I said.
 
-Nobody appreciated it.
+Nobody appreciated it. Fair. Hesk looked at me. "You understand risk better than they do."
 
-Fair.
+I said nothing. "You survive consequences they cannot. You take wounds that kill ordinary people. You act because you can afford to be wrong."
 
-Hesk looked at me.
+Partly true. He continued. "Do not pretend you are different from me."
 
-"You understand risk better than they do."
+I looked at the housing. The outer road. My bloodstained sleeve from the ridge-hounds. "I'm not."
 
-I said nothing.
-
-"You survive consequences they cannot. You take wounds that kill ordinary people. You act because you can afford to be wrong."
-
-Partly true.
-
-He continued.
-
-"Do not pretend you are different from me."
-
-I looked at the housing.
-
-The outer road.
-
-My bloodstained sleeve from the ridge-hounds.
-
-"I'm not."
-
-His eyes narrowed.
-
-"But there is a difference."
+His eyes narrowed. "But there is a difference."
 
 "What?"
 
-I pointed toward the homestead route.
+I pointed toward the homestead route. "I don't get to choose them either." His hand moved toward the key.
 
-"I don't get to choose them either."
+Jessa saw it. "He's rotating the plate." Hesk turned the key.
 
-His hand moved toward the key.
+I crossed the gap before the next click. My hand closed around his wrist. He pulled.
 
-Jessa saw it.
-
-"He's rotating the plate."
-
-Hesk turned the key.
-
-I crossed the gap before the next click.
-
-My hand closed around his wrist.
-
-He pulled.
-
-Nothing happened.
-
-For the first time since I met him, Rovan Hesk looked at me like he had remembered I was not an employee.
-
-Good.
-
-"You had your turn."
+Nothing happened. For the first time since I met him, Rovan Hesk looked at me like he had remembered I was not an employee. Good. "You had your turn."
 
 "Let go."
 
 "No."
 
-Brynn stepped closer.
+Brynn stepped closer. "Release the key." Hesk did not.
 
-"Release the key."
+His free hand came up. Not a weapon. He shoved at my shoulder.
 
-Hesk did not.
+Nothing happened. I looked down at the hand. Then at him. "This is not going to become the version where you win a fistfight."
 
-His free hand came up.
+He knew that. He changed tactics. Instead of fighting me, he twisted toward the service housing and tried to use his body weight to finish the turn.
 
-Not a weapon.
+Smart. I let go of his wrist. He almost reached it.
 
-He shoved at my shoulder.
+Then I caught the back of his coat and moved him three steps away. Not threw. Moved.
 
-Nothing happened.
+Like furniture with political opinions. Brynn stepped into the space. "Jessa. Housing."
 
-I looked down at the hand.
+Jessa moved. Hesk lunged back toward the key. Brynn intercepted.
 
-Then at him.
+This time the human fight belonged to her. He grabbed her forearm. She turned under it, drove his wrist against the stone lip, and pinned him there.
 
-"This is not going to become the version where you win a fistfight."
+He was not helpless. He was a road official who had spent years in frontier operations. He knew how to move.
 
-He knew that.
+He tried to hook her leg. Brynn shifted. He tried to wrench free.
 
-He changed tactics.
+She changed grip. Not elegant. Practical.
 
-Instead of fighting me, he twisted toward the service housing and tried to use his body weight to finish the turn.
+Militia command apparently included knowing how to put a stubborn Roadmaster on the ground. "Key," Brynn said. Jessa reached for it.
 
-Smart.
+Hesk twisted again. One of the militia witnesses moved to help. Brynn snapped: "Watch the road."
 
-I let go of his wrist.
+Good. Everyone kept their job. Tavian was already at the fork. "Branch still widening!"
 
-He almost reached it.
+That mattered more than Hesk's pride. Jessa got the key. Hesk's hand closed around her wrist.
 
-Then I caught the back of his coat and moved him three steps away.
+She froze. Not because he was stronger. Because he was Hesk.
 
-Not threw.
+Employer. Roadmaster. The person who had signed her job.
 
-Moved.
-
-Like furniture with political opinions.
-
-Brynn stepped into the space.
-
-"Jessa. Housing."
-
-Jessa moved.
-
-Hesk lunged back toward the key.
-
-Brynn intercepted.
-
-This time the human fight belonged to her.
-
-He grabbed her forearm.
-
-She turned under it, drove his wrist against the stone lip, and pinned him there.
-
-He was not helpless.
-
-He was a road official who had spent years in frontier operations.
-
-He knew how to move.
-
-He tried to hook her leg.
-
-Brynn shifted.
-
-He tried to wrench free.
-
-She changed grip.
-
-Not elegant.
-
-Practical.
-
-Militia command apparently included knowing how to put a stubborn Roadmaster on the ground.
-
-"Key," Brynn said.
-
-Jessa reached for it.
-
-Hesk twisted again.
-
-One of the militia witnesses moved to help.
-
-Brynn snapped:
-
-"Watch the road."
-
-Good.
-
-Everyone kept their job.
-
-Tavian was already at the fork.
-
-"Branch still widening!"
-
-That mattered more than Hesk's pride.
-
-Jessa got the key.
-
-Hesk's hand closed around her wrist.
-
-She froze.
-
-Not because he was stronger.
-
-Because he was Hesk.
-
-Employer.
-
-Roadmaster.
-
-The person who had signed her job.
-
-His voice dropped.
-
-"Jessa."
-
-Her face changed.
-
-"You know what happens if this road fails."
+His voice dropped. "Jessa." Her face changed. "You know what happens if this road fails."
 
 "I know."
 
@@ -364,105 +156,35 @@ Her face changed.
 
 "Then stop helping them gamble with Greywake."
 
-For one second, she did not move.
+For one second, she did not move. Maelis stepped closer. Did not touch her.
 
-Maelis stepped closer.
+Did not answer for her. Jessa looked at Hesk. Then at the route sheet.
 
-Did not touch her.
+Then at the key in her hand. "My brothers also live on roads you counted around." She pulled free.
 
-Did not answer for her.
+Brynn forced Hesk's arm behind him. Good. Jessa's choice stayed hers.
 
-Jessa looked at Hesk.
+Maelis pointed to the housing. "Document current position first." Jessa nodded.
 
-Then at the route sheet.
+She read the plate mark aloud. Maelis recorded it. Another prey group bent outward.
 
-Then at the key in her hand.
+Tavian shouted. "Thirty seconds before the lead edge commits too far." Probably not a literal number.
 
-"My brothers also live on roads you counted around."
+Close enough to be terrifying. Brynn looked at me. "Go."
 
-She pulled free.
+Hesk looked up. "You leave this site and she changes that wrong—" I stopped. Tavian shouted again. "Red!"
 
-Brynn forced Hesk's arm behind him.
+There it was. The emotionally satisfying option: Stay. Make Hesk understand.
 
-Good.
+Maybe break something he valued. Maybe his face. The useful option: Leave him to the people whose job this actually was.
 
-Jessa's choice stayed hers.
+Annoying. I looked at Hesk. "You keep assuming I need to win against you."
 
-Maelis pointed to the housing.
+Then I turned my back on him. That felt better than hitting him. Mostly.
 
-"Document current position first."
+The fork was chaos. Prey at the front had begun choosing the outer road before reaching the main split. Once enough bodies committed, momentum would make the lure unnecessary.
 
-Jessa nodded.
-
-She read the plate mark aloud.
-
-Maelis recorded it.
-
-Another prey group bent outward.
-
-Tavian shouted.
-
-"Thirty seconds before the lead edge commits too far."
-
-Probably not a literal number.
-
-Close enough to be terrifying.
-
-Brynn looked at me.
-
-"Go."
-
-Hesk looked up.
-
-"You leave this site and she changes that wrong—"
-
-I stopped.
-
-Tavian shouted again.
-
-"Red!"
-
-There it was.
-
-The emotionally satisfying option:
-
-Stay.
-
-Make Hesk understand.
-
-Maybe break something he valued.
-
-Maybe his face.
-
-The useful option:
-
-Leave him to the people whose job this actually was.
-
-Annoying.
-
-I looked at Hesk.
-
-"You keep assuming I need to win against you."
-
-Then I turned my back on him.
-
-That felt better than hitting him.
-
-Mostly.
-
-The fork was chaos.
-
-Prey at the front had begun choosing the outer road before reaching the main split.
-
-Once enough bodies committed, momentum would make the lure unnecessary.
-
-Tavian pointed to the inside edge.
-
-"Here."
-
-I looked.
-
-"Low?"
+Tavian pointed to the inside edge. "Here." I looked. "Low?"
 
 "Low."
 
@@ -470,235 +192,81 @@ I looked.
 
 "Until the front changes."
 
-Specific.
+Specific. Good. A pale-grey guide rose along the fork.
 
-Good.
+Long enough to influence the lead animals. Low enough that nothing became trapped against it. The first browser reached the guide.
 
-A pale-grey guide rose along the fork.
+Turned. The next collided with its shoulder. Recovered.
 
-Long enough to influence the lead animals.
+Followed north. Three smaller prey copied them. The branch hesitated. "Hold," Tavian said.
 
-Low enough that nothing became trapped against it.
+Behind us, Jessa worked the housing. "Vent first." Maelis stayed beside her with the record sheet.
 
-The first browser reached the guide.
+Brynn held Hesk under control. One militia witness watched the road. The other watched the evidence.
 
-Turned.
+Nobody was spare. The branch pressed against my guide. It did not wobble.
 
-The next collided with its shoulder.
+It did not crack. It stayed exactly where I wanted. A browser hit it hard enough to shake dirt.
 
-Recovered.
+The guide remained. No exhaustion drama. No final-use limit.
 
-Followed north.
+Just a tool doing its job. Tavian watched the rear movement. "Not yet."
 
-Three smaller prey copied them.
+Jessa called: "Vent closed." Metal clicked. The animals did not instantly change.
 
-The branch hesitated.
+Of course. Bodies already moving remained bodies already moving. Hesk laughed once from behind us. "You think turning one plate fixes years?"
 
-"Hold," Tavian said.
+Nobody answered. Tavian pointed at Jessa. "Neutral next. Wait for my signal."
 
-Behind us, Jessa worked the housing.
+She kept one hand on the service plate. Another herd segment reached the fork. The front saw north-moving bodies.
 
-"Vent first."
+Some followed them. Others still took the outer line. Tavian watched. "Now."
 
-Maelis stayed beside her with the record sheet.
+Jessa rotated the plate toward neutral. Click. No light.
 
-Brynn held Hesk under control.
+No explosion. No convenient magical confession. Just mechanism.
 
-One militia witness watched the road.
+The outer branch weakened. Not enough. A ridge-hound pack came behind the prey and chose the open outer angle.
 
-The other watched the evidence.
+Four animals. Then six. Tavian swore.
 
-Nobody was spare.
-
-The branch pressed against my guide.
-
-It did not wobble.
-
-It did not crack.
-
-It stayed exactly where I wanted.
-
-A browser hit it hard enough to shake dirt.
-
-The guide remained.
-
-No exhaustion drama.
-
-No final-use limit.
-
-Just a tool doing its job.
-
-Tavian watched the rear movement.
-
-"Not yet."
-
-Jessa called:
-
-"Vent closed."
-
-Metal clicked.
-
-The animals did not instantly change.
-
-Of course.
-
-Bodies already moving remained bodies already moving.
-
-Hesk laughed once from behind us.
-
-"You think turning one plate fixes years?"
-
-Nobody answered.
-
-Tavian pointed at Jessa.
-
-"Neutral next. Wait for my signal."
-
-She kept one hand on the service plate.
-
-Another herd segment reached the fork.
-
-The front saw north-moving bodies.
-
-Some followed them.
-
-Others still took the outer line.
-
-Tavian watched.
-
-"Now."
-
-Jessa rotated the plate toward neutral.
-
-Click.
-
-No light.
-
-No explosion.
-
-No convenient magical confession.
-
-Just mechanism.
-
-The outer branch weakened.
-
-Not enough.
-
-A ridge-hound pack came behind the prey and chose the open outer angle.
-
-Four animals.
-
-Then six.
-
-Tavian swore.
-
-That was new.
-
-"Predator momentum."
-
-Brynn looked over while keeping Hesk down.
-
-"Problem?"
+That was new. "Predator momentum." Brynn looked over while keeping Hesk down. "Problem?"
 
 "If they take outer, prey behind may follow."
 
-I looked at the hounds.
+I looked at the hounds. This was the moment a normal fight would become Red vs six. Easy.
 
-This was the moment a normal fight would become Red vs six.
+Wrong. Killing them at the fork would create blood, panic and a new obstacle. Tavian pointed north. "Give them something easier."
 
-Easy.
+The guide already did. Not enough. The hounds were reading prey, not walls.
 
-Wrong.
+So I stepped into the outer route. Every hound looked at me. Good.
 
-Killing them at the fork would create blood, panic and a new obstacle.
-
-Tavian pointed north.
-
-"Give them something easier."
-
-The guide already did.
-
-Not enough.
-
-The hounds were reading prey, not walls.
-
-So I stepped into the outer route.
-
-Every hound looked at me.
-
-Good.
-
-I clapped once.
-
-"Hello."
-
-Tavian stared.
-
-"What are you doing?"
+I clapped once. "Hello." Tavian stared. "What are you doing?"
 
 "Becoming interesting."
 
-The lead hound changed direction.
+The lead hound changed direction. Toward me. Then another.
 
-Toward me.
+Excellent. I backed north along the inside of the guide. The pack followed.
 
-Then another.
+Not because of magic. Because I had made myself the loudest bad idea in the area. One lunged.
 
-Excellent.
-
-I backed north along the inside of the guide.
-
-The pack followed.
-
-Not because of magic.
-
-Because I had made myself the loudest bad idea in the area.
-
-One lunged.
-
-I caught its muzzle, turned its whole body north, and let it go.
-
-The others followed the moving packmate.
-
-Tavian looked at me.
-
-"That was reckless."
+I caught its muzzle, turned its whole body north, and let it go. The others followed the moving packmate. Tavian looked at me. "That was reckless."
 
 "That was ecology."
 
 "Do not say that."
 
-Fair.
+Fair. The hounds cleared the fork. Prey behind them followed the visible movement.
 
-The hounds cleared the fork.
+The branch narrowed again. Tavian raised his hand. "Keep neutral."
 
-Prey behind them followed the visible movement.
+Jessa did. Maelis checked every step against the service record. "Locking pin."
 
-The branch narrowed again.
+Jessa found it. Brynn shifted Hesk to one knee. He stopped resisting physically.
 
-Tavian raised his hand.
-
-"Keep neutral."
-
-Jessa did.
-
-Maelis checked every step against the service record.
-
-"Locking pin."
-
-Jessa found it.
-
-Brynn shifted Hesk to one knee.
-
-He stopped resisting physically.
-
-His argument was still alive.
-
-"You are choosing the outer road now."
-
-Brynn looked at him.
-
-"No."
+His argument was still alive. "You are choosing the outer road now." Brynn looked at him. "No."
 
 "You are choosing Broken North."
 
@@ -714,106 +282,36 @@ Brynn looked at him.
 
 "And you call that better?"
 
-Brynn's expression did not change.
+Brynn's expression did not change. "I call it shared." That silenced him longer than anything I had said.
 
-"I call it shared."
+Jessa set the service catch. Removed the key. Passed it to Brynn.
 
-That silenced him longer than anything I had said.
+Then drove the locking pin through the housing. The lure stopped being Hesk's private decision. Tavian watched the split. "Hold."
 
-Jessa set the service catch.
+More prey took Broken North. The outer angle weakened. Another group approached.
 
-Removed the key.
+Followed north. Another. North.
 
-Passed it to Brynn.
+He lowered his hand. "Release." I let the guide disappear.
 
-Then drove the locking pin through the housing.
+Nothing replaced it. The herd kept turning. That mattered.
 
-The lure stopped being Hesk's private decision.
+Not my wall. Not Hesk's lure. Momentum through a road Greywake had chosen together.
 
-Tavian watched the split.
+The wrong branch emptied by degrees. Tavian waited another full cycle of movement. Then: "Committed."
 
-"Hold."
+Brynn bound Hesk's wrists. "Rovan Hesk, you are under emergency detention pending council and Ledger review." No victory speech.
 
-More prey took Broken North.
+No dramatic execution. No one needed me to stand over him. Maelis sealed the current-setting record.
 
-The outer angle weakened.
+Jessa kept the service key out of Guild custody. Tavian kept watching the migration because unlike the rest of us, he understood that winning an argument did not make animals stop moving. I looked toward Broken North.
 
-Another group approached.
+The main body continued through. The outer homestead road stayed clear of the mass Hesk had tried to send there. Greywake had not solved every future road problem.
 
-Followed north.
+Kellan still could not walk. The seasonal bridge was still gone. Trade would still pay for damaged infrastructure.
 
-Another.
+The migration would still leave ecology confused. My power changed none of those facts because they had already happened. But the final choice was visible.
 
-North.
+Recorded. Shared. No private ledger.
 
-He lowered his hand.
-
-"Release."
-
-I let the guide disappear.
-
-Nothing replaced it.
-
-The herd kept turning.
-
-That mattered.
-
-Not my wall.
-
-Not Hesk's lure.
-
-Momentum through a road Greywake had chosen together.
-
-The wrong branch emptied by degrees.
-
-Tavian waited another full cycle of movement.
-
-Then:
-
-"Committed."
-
-Brynn bound Hesk's wrists.
-
-"Rovan Hesk, you are under emergency detention pending council and Ledger review."
-
-No victory speech.
-
-No dramatic execution.
-
-No one needed me to stand over him.
-
-Maelis sealed the current-setting record.
-
-Jessa kept the service key out of Guild custody.
-
-Tavian kept watching the migration because unlike the rest of us, he understood that winning an argument did not make animals stop moving.
-
-I looked toward Broken North.
-
-The main body continued through.
-
-The outer homestead road stayed clear of the mass Hesk had tried to send there.
-
-Greywake had not solved every future road problem.
-
-Kellan still could not walk.
-
-The seasonal bridge was still gone.
-
-Trade would still pay for damaged infrastructure.
-
-The migration would still leave ecology confused.
-
-My power changed none of those facts because they had already happened.
-
-But the final choice was visible.
-
-Recorded.
-
-Shared.
-
-No private ledger.
-
-No hidden acceptable loss.
-
-No one had been chosen to lose.
+No hidden acceptable loss. No one had been chosen to lose.

@@ -31,3 +31,21 @@ One major volume is one destination arc, and every arc is named after its place:
 13. `series/ROADMAP.md` — authoritative production/release state.
 
 Old generic event/theme arc plans are deprecated.
+
+
+5382a-6d232 
+02209-7d415 
+d5b51-b6f71 
+29fd0-567d2 
+a9f1e-524f0 
+97d1d-e4e5c 
+7acff-00242 
+fc8b2-12784 
+18d68-c92e3 
+1532e-5723f 
+46d4e-984b3 
+42b7f-634d7 
+830fd-8d266 
+a2b15-e12ad 
+15f93-967c6 
+217d4-190c5

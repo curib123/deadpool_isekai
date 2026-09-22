@@ -32,7 +32,6 @@ One major volume is one destination arc, and every arc is named after its place:
 
 Old generic event/theme arc plans are deprecated.
 
-
 <body
     class="min-vh-100 bg-cover"
     style="background-image: url('<?= base_url('assets/images/login-bg.jpg'); ?>');">

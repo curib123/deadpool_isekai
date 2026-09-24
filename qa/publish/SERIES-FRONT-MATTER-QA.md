@@ -1,49 +1,65 @@
 # Series Front-Matter Publication QA
 
-**Scope:** Whole-series synopsis and prologue.  
-**Review Date:** 2026-09-20  
-**Status:** PUBLISH-READY — SERIES FRONT-MATTER PACKAGE  
-**Chapter Gate 11:** Not applicable to the synopsis; chapter publication QA remains attached to each canon chapter.
+**Scope:** Public title, WebNovel synopsis, and optional prologue handling.  
+**Review Date:** 2026-09-25  
+**Status:** **PUBLISH-READY — PRIMARY WEBNOVEL FRONT-MATTER PACKAGE**
 
-## Prologue — The World Was Waiting for Someone Else
+## Public Title
 
-**Canon Source:** manuscript/SERIES-PROLOGUE-THE-WRONG-PERSON.md  
-**Publication Copy:** published/PROLOGUE-THE-WRONG-PERSON.md  
+**This Isekai Has a Bug. Unfortunately, It's Me.**
 
-- Reader-facing title: **PASS**
-- Close first-person Red Jackal voice: **PASS**
-- Source/publication body equivalence after metadata removal: **PASS**
-- Publication metadata removed: **PASS**
-- Series opening bridge into CH-001: **PASS**
-- Protected mystery boundary: **PASS**
-- Word count: **446**
+- memorable / premise-forward — PASS
+- genre/tone compatible — PASS
+- no direct franchise branding — PASS
+- opening delivers the promised anomaly/comedy/isekai premise — PASS
 
-## Synopsis — Whole Series
+## Synopsis — Primary Storefront Copy
 
-**Publication Copy:** published/SYNOPSIS.md
+**Publication Copy:** `published/SYNOPSIS.md`
 
-- Reader-facing format: **PASS**
-- Whole-series premise: **PASS**
-- Native Hero / independent-world premise: **PASS**
-- Red's stable overpowered identity: **PASS**
-- Arc-spanning mystery hook: **PASS**
-- Protected writer-truth boundary: **PASS**
-- Internal production metadata removed: **PASS**
+The synopsis was revised on 2026-09-25 into a shorter storefront version.
+
+It now:
+- opens directly on Red's death / System anomaly;
+- gives the UNDEFINED / NO RECORD hook immediately;
+- establishes that Red is already overwhelmingly powerful;
+- establishes Veyr already has its own hero/story;
+- removes detailed Greywake and Merrowgate arc summaries;
+- ends on the core collision question.
+
+- reader-facing format — PASS
+- mobile scan efficiency — PASS
+- premise clarity — PASS
+- protagonist clarity — PASS
+- power/anomaly promise — PASS
+- larger-story hook — PASS
+- protected mystery boundary — PASS
+- internal production metadata removed — PASS
+
+## Prologue — Optional / Not Primary Release
+
+**File retained:** `published/PROLOGUE-THE-WRONG-PERSON.md`
+
+The prologue remains a valid optional/bonus artifact, but it is **excluded from the primary WebNovel opening sequence**.
+
+Reason:
+- it overlaps CH-001's explosion;
+- white transition;
+- missing-memory setup;
+- no-goddess/tutorial expectation;
+- first audience-address/time-stop behavior;
+- forest arrival.
+
+Primary release therefore begins:
+
+**Synopsis → CH-001 — Wrong Forest, Wrong World**
+
+This avoids duplicate opening material while preserving the optional prologue for alternate editions or bonus use.
 
 ## Decision
 
-**PASS — Whole-series synopsis and prologue are ready in the publication workspace.**
+# PASS
 
-The synopsis and prologue do not replace chapter canon or authorize future chapter publication. Arc and chapter production continue through their existing gates.
+The current primary WebNovel front-matter package is publication-ready.
 
-
-## Commercial-Readiness Separation
-
-This file verifies publication correctness, not market conversion.
-
-WebNovel contract/readership readiness is governed separately by:
-- `qa/WEBNOVEL-COMMERCIAL-READINESS-QA-STANDARD.md`
-- `qa/WEBNOVEL-COMMERCIAL-READINESS-AUDIT.md`
-- Gate 12 in `qa/QA-GATES.md`
-
-A synopsis or prologue can be technically PUBLISH-READY while still receiving a Gate 12 WEAK result for click-through, duplication, pacing, or early-reader retention.
+Publication correctness remains Gate 11 territory. Commercial reader-acquisition/retention readiness is separately governed by Gate 12.

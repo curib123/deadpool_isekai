@@ -82,6 +82,12 @@ Travel matters. Use roads, ships, caravans, magical routes, passes, wilderness, 
 - Location:
 - Opening situation:
 - Primary goal:
+- Primary Engagement Beat (combat or equivalent):
+- Engagement type:
+- Engagement stakes:
+- Engagement turn / escalation:
+- What changes because of the Engagement Beat:
+- Why the Engagement Beat cannot be removed:
 - Native story baseline before Red interferes:
 - Who owns the original objective:
 - Conflict:
@@ -104,6 +110,35 @@ Travel matters. Use roads, ships, caravans, magical routes, passes, wilderness, 
 - Continuity dependencies:
 - Knowledge dependencies:
 - Ending beat:
+
+
+
+# 4B. Mandatory Chapter Engagement Rule
+
+Every future chapter must pass:
+
+`qa/CHAPTER-ENGAGEMENT-QA-STANDARD.md`
+
+A literal battle is not required every chapter. A meaningful engagement event is required every chapter.
+
+Valid substitutes for combat include:
+- confrontation;
+- dangerous task;
+- pursuit;
+- discovery;
+- mystery contradiction;
+- countdown;
+- plan failure;
+- political collision;
+- emergency decision;
+- consequence under pressure;
+- relationship conflict;
+- irreversible choice.
+
+No roadmap chapter may be approved if its function is only exposition, travel, calm planning, or passive aftermath.
+
+Volume 1 audit:
+`qa/VOLUME-001-ENGAGEMENT-BEAT-AUDIT.md` — **PASS 26/26**.
 
 # 4A. Active Chapter Roadmap
 

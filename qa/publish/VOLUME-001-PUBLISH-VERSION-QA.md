@@ -13,7 +13,7 @@ Current Arc 1 authority is `qa/VOLUME-001-GREYWAKE-OFFICIAL-ARC-1-QA.md` plus th
 **Target:** Reader-facing publication version  
 **Primary Platform:** WebNovel-compatible release copy  
 **Gate:** 11 — Publish Version QA  
-**Review Date:** 2026-09-20
+**Review Date:** 2026-09-25
 **Status:** PUBLISH-READY — GATE 11 PASS — CURRENT ARC 1 RELEASE RECORD
 **Canon Revalidation:** PASS — `qa/VOLUME-001-GREYWAKE-GATE-10-CANON-REVALIDATION.md`
 **Official Arc 1 Checklist:** `qa/VOLUME-001-GREYWAKE-OFFICIAL-ARC-1-QA.md`
@@ -54,6 +54,27 @@ The other 13 chapter manuscripts did not change and retain their existing valid 
 - CH-025
 - CH-026
 
+
+
+# 1A. 2026-09-25 Commercial-Retention Refresh
+
+CH-003 was subsequently revised and revalidated after the earlier publication refresh.
+
+- old CH-003: 2,512 words
+- current CH-003: 1,608 words
+- Gate 9: PASS
+- Volume Gate 10: PASS
+- publication copy regenerated: PASS
+- individual Gate 11: PASS
+- F-002 placement unchanged: PASS
+- downstream Greywake events unchanged: PASS
+
+The primary WebNovel opening sequence is now:
+
+**Synopsis → CH-001 → CH-002 → CH-003 → ...**
+
+The optional series prologue is not part of the primary WebNovel release sequence.
+
 # 2. Volume Decision
 
 # PASS
@@ -75,7 +96,7 @@ All changed publication copies:
 |---|---|---|---|
 | CH-001 | Wrong Forest, Wrong World | retained canon | Gate 11 PASS |
 | CH-002 | Undefined | retained canon | Gate 11 PASS |
-| CH-003 | The Things They Can Measure | retained canon | Gate 11 PASS |
+| CH-003 | The Things They Can Measure | commercial-retention revised | refreshed Gate 11 PASS |
 | CH-004 | Off the Books | retained canon | Gate 11 PASS |
 | CH-005 | A Better Hammer | retcon revised | refreshed Gate 11 PASS |
 | CH-006 | The Road That Works | retcon revised | refreshed Gate 11 PASS |
@@ -154,7 +175,7 @@ Canonical final line remains:
 
 Authoritative manuscript total:
 
-**75,157 words**
+**62,767 words**
 
 Current Volume 1 state:
 

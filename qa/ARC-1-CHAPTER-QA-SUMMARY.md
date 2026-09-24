@@ -3,7 +3,7 @@
 **Standard:** `qa/ARC-1-CHAPTER-QA-CHECKLIST.md`  
 **Applied records:** `qa/CH-001-OFFICIAL-ARC-1-CHAPTER-QA.md` through `qa/CH-026-OFFICIAL-ARC-1-CHAPTER-QA.md`  
 **Scope:** Greywake Arc / CH-001 through CH-026  
-**Status:** PASS — 26/26 chapter records complete  
+**Status:** PASS — 26/26 chapter records complete + 26/26 engagement overlay PASS  
 **Excluded:** CH-027 and Volume 2
 
 ## Rollup
@@ -46,6 +46,26 @@
 - **Conditional N/A use:** limited to chapters where the attached checklist explicitly permits the element to be absent, including non-battle chapters and chapters without a new power display.
 - **Manuscript changes from this chapter-QA application:** none; the existing Gate 9 and arc-level evidence already supports the results.
 - **Protected mystery/progression scan:** no Arc 1 manuscript or publication-copy leaks.
+
+
+
+## Mandatory Engagement Overlay
+
+Series-wide standard:
+
+`qa/CHAPTER-ENGAGEMENT-QA-STANDARD.md`
+
+Volume 1 audit:
+
+`qa/VOLUME-001-ENGAGEMENT-BEAT-AUDIT.md`
+
+**Result: PASS — 26/26.**
+
+Every chapter contains either:
+- combat/hostile action; or
+- a strong non-combat equivalent such as confrontation, dangerous work, discovery, countdown, political pressure, consequence, or irreversible decision.
+
+This overlay is mandatory in addition to the existing 35-section chapter QA.
 
 ## Individual record contract
 

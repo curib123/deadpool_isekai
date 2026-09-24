@@ -208,7 +208,7 @@ Result:
 - 26 / 26 chapters CANON;
 - 13 / 13 retcon-targeted chapters revised and Gate 9 revalidated;
 - 13 / 13 compatible chapters retained;
-- current canon total: **63,671 words**;
+- current canon total: **62,767 words**;
 - Greywake Arc outcome, F-ID placements, M-007 ceiling, aftermath, and departure preserved;
 - CH-023 is now the main hidden-power physical reveal;
 - CH-024 is the institutional/human climax under the rule: **power is not the same thing as being right**.
@@ -333,3 +333,5 @@ The existing rule remains active: no fixed destination order is canon beyond the
 Future production still follows:
 
 **Destination Selection Gate 5 → Volume/Arc Gate 6 → Chapter Roadmap Gate 7 → Scene Gate 8 → Manuscript Gate 9 → Canon Gate 10 → Publish Version Gate 11.**
+
+**2026-09-25 commercial-retention refresh:** CH-003 was tightened and revalidated through Gates 9–12 without changing F-ID placement or downstream Greywake events.

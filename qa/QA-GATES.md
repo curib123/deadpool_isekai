@@ -174,6 +174,9 @@ If any CRITICAL or MAJOR item fails: **FAIL — RETURN TO THE OWNING AGENT AND R
 - Are protected writer truths absent from chapter knowledge?
 - Are continuity and knowledge-state dependencies explicit enough for later scene planning?
 - Is the following volume still unselected?
+- Does every chapter declare a primary Engagement Beat under `qa/CHAPTER-ENGAGEMENT-QA-STANDARD.md`?
+- Does every non-combat chapter still contain confrontation, danger, discovery, countdown, risky work, consequence, or another strong active turn?
+- Are low-energy clusters prevented rather than compensated for only at the climax?
 - Are detailed scenes, final dialogue, and manuscript prose still deferred?
 
 Gate 7 must identify the planned matchup topology for every battle/action chapter and verify arc-level variety against `qa/BATTLE-SCENE-QA-STANDARD.md`.
@@ -203,6 +206,8 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO CHAPTER ARCHITECT AND
 - Are planned F-IDs still **PLANNED — NOT YET PLANTED** before manuscript prose exists?
 - Are non-selected F-IDs prevented from being accidentally introduced early?
 - Are protected mystery truths absent from actual scene discoveries?
+- Is the chapter's required Engagement Beat assigned to a concrete scene with setup → escalation → turn → consequence → handoff?
+- If there is no combat, is the non-combat event strong enough to carry reader attention without filler action?
 - Does the final scene land on the chapter's locked ending beat without beginning the next chapter?
 - Are final dialogue and manuscript prose still absent?
 - Is the next chapter's Scene Architecture still deferred until this chapter passes its own manuscript QA?
@@ -217,6 +222,7 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO SCENE ARCHITECT AND R
 **Owner:** A120 with specialists.
 
 ## Story
+- Did the chapter PASS `qa/CHAPTER-ENGAGEMENT-QA-STANDARD.md`?
 - Did every scene pass Scene QA purpose/turn/handoff requirements?
 - If battle/action occurs, did it pass Battle QA matchup/action-geography/topology/consequence requirements?
 - Did something meaningful change?
@@ -290,6 +296,8 @@ Periodically verify:
 - System/Magic/Fate/Great Design remain distinct,
 - mysteries are paced,
 - consequences persist,
+- every chapter retains a meaningful Engagement Beat rather than passive exposition,
+- combat/non-combat engagement types vary enough to avoid repetitive rhythm,
 - returning places evolve,
 - the legitimate Hero/Hero Party/Main-Villain storyline continues independently of Red,
 - Red's interference reroutes native story beats instead of lazily deleting them,

@@ -346,3 +346,52 @@ The canon manuscript remains the single source of truth.
 ## Gate 10 Battle Variety Requirement
 
 Volume/arc revalidation must include the Battle Variety Audit from `qa/BATTLE-SCENE-QA-STANDARD.md`: matchup topology, objectives, terrain, participant sets, Red's role, supporting-character decisive actions, results and lasting consequences. A climax may not pass by scale alone if it repeats earlier fight structure.
+
+
+# Gate 12 — WebNovel Commercial Readiness QA
+**Owners:** A002 Lead Editor, A072 Pacing Editor, A080 Chapter Architect, A123 Series QA Board, A124 Publish Version QA Editor.
+
+Gate 12 is a **commercial-reader / contract-submission overlay**, not a canon gate.
+
+It runs after the reader-facing title, synopsis, prologue decision, and opening publication copies exist.
+
+It verifies:
+- title click/premise strength;
+- synopsis storefront conversion;
+- dramatic opening event;
+- prologue necessity and non-duplication;
+- first-three-chapter retention funnel;
+- series and destination-level inciting incidents;
+- early delivery of the advertised genre promise;
+- memorable MC and recurring relationship engine;
+- visible antagonist/environment/institutional pressure;
+- information-dump and repetition firewalls;
+- suspense/reader expectation;
+- chapter-ending / next-click momentum;
+- first-five and first-ten promise delivery;
+- mobile serial rhythm;
+- trend awareness without copying;
+- originality/reference safety.
+
+For this male-led action/comedy isekai, FL-specific romance expectations are **not mandatory** unless the public metadata actually markets romance/harem. Genre-appropriate central conflict, relationship friction, rival/antagonist pressure, mystery, action, and character chemistry are used instead.
+
+Gate 12 outcomes:
+- **PASS — WEBNOVEL COMMERCIAL READINESS**
+- **PASS WITH TARGETED REVISION**
+- **FAIL — RETURN TO FRONT MATTER / EARLY CHAPTER REVISION**
+
+A Gate 12 failure does **not** mean the book is bad and does not revoke canon. It means the current reader-acquisition/retention package has commercial risks for the intended pay-by-chapter platform.
+
+Passing Gate 12 does not guarantee a contract, revenue, ranking, or popularity.
+
+Detailed standard:
+
+`qa/WEBNOVEL-COMMERCIAL-READINESS-QA-STANDARD.md`
+
+Current opening audit:
+
+`qa/WEBNOVEL-COMMERCIAL-READINESS-AUDIT.md`
+
+# Commercial Submission Rule
+
+A chapter or volume may be CANON after its story gates pass and may be PUBLISH-READY after Gate 11, but a contract-focused WebNovel submission package should not be treated as commercially optimized until Gate 12 has been run on the public title, synopsis, opening sequence, and early chapters.

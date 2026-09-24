@@ -12,6 +12,12 @@ A battle exists because the story situation creates one.
 
 Do **not** force combat into every chapter.
 
+However, every chapter must pass `qa/CHAPTER-ENGAGEMENT-QA-STANDARD.md`.
+
+That means every chapter requires either:
+- a meaningful minor/major combat or hostile-action beat; **or**
+- an equally strong non-combat engagement event such as confrontation, discovery, danger, countdown, failed plan, risky work, political collision, consequence, or irreversible decision.
+
 When a chapter contains battle, the battle must be designed as an actual matchup with identifiable participants and objectives rather than generic action noise.
 
 Every arc must contain:

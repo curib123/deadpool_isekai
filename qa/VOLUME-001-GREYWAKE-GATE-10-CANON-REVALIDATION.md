@@ -2,10 +2,10 @@
 
 **Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
 **Volume:** 1 — Greywake Arc  
-**Review Date:** 2026-09-20  
+**Review Date:** 2026-09-25  
 **Status:** PASS — CURRENT SOUL-DRIFT / FINAL STORY-ENGINE CANON REVALIDATED  
 **Chapters:** CH-001→CH-026  
-**Current Manuscript Total:** 63,671 words  
+**Current Manuscript Total:** 62,767 words  
 **POV:** Close first-person Red Jackal  
 **Battle QA:** PASS — `qa/VOLUME-001-GREYWAKE-BATTLE-SCENE-AUDIT.md`  
 **Studio Audit:** PASS — `qa/CH001-027-STUDIO-CINEMATIC-RETCON-AUDIT.md`
@@ -388,6 +388,29 @@ No current Volume 1 manuscript requires copied franchise dialogue, exact set pie
 
 Red's influences remain transformed into an original series engine.
 
+# 20A. CH-003 Commercial-Retention Canon Revalidation — 2026-09-25
+
+**PASS.**
+
+CH-003 was revised from 2,512 to 1,608 words to reduce consecutive procedural density after CH-002.
+
+The revision preserves:
+- the locked five-scene architecture;
+- F-002 in CH-003;
+- physical measurement / mana interaction / identity-absence logic;
+- Maelis's evidence-first role;
+- Jessa as a brief Road Guild records bridge;
+- Hesk off-page until CH-004;
+- all later Greywake causality.
+
+It strengthens early-volume momentum by:
+- compressing repeated measurement explanation;
+- moving faster to the practical consequence of Red's undefined status;
+- surfacing ordinary Road Guild repair pressure through Jessa's paperwork;
+- ending on a sharper reason to enter CH-004.
+
+No later chapter requires event revision.
+
 # Gate 10 Decision
 
 # PASS — VOLUME 1 / GREYWAKE ARC CURRENT CANON REVALIDATED
@@ -396,12 +419,11 @@ All current CH-001→CH-026 manuscripts pass the Soul-Drift / close-first-person
 
 ## Next Production Requirement
 
-Current publication copies were generated from older manuscript revisions and are stale.
+The 2026-09-25 CH-003 retention revision has completed:
+1. Gate 9 revalidation;
+2. Volume 1 Gate 10 revalidation;
+3. publication regeneration;
+4. Gate 11 revalidation;
+5. Gate 12 commercial-readiness revalidation.
 
-Required:
-1. regenerate `published/volume-001/CH001→CH026` from current canon;
-2. rerun per-chapter Gate 11;
-3. rerun aggregate Volume 1 Gate 11;
-4. then resume CH-027 Soul-Drift synchronization.
-
-**CH-028 remains PAUSED.**
+Volume 1 remains CANON and PUBLISH-READY. Further production follows the current series roadmap.

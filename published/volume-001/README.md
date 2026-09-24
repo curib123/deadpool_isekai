@@ -44,3 +44,12 @@ If a substantive edit is needed, edit/re-QA/recanonize the manuscript first, the
 26. CH026 — Before They Decide What I Am
 
 **Volume 2 remains unselected.**
+
+
+## WebNovel Opening Rule
+
+For the primary WebNovel release, CH-001 is the first story chapter. Do not place the optional series prologue before it.
+
+Recommended public flow:
+
+**Synopsis → CH-001 → CH-002 → CH-003 → ... → CH-026**

@@ -29,6 +29,7 @@ Passing this gate does not guarantee a contract, revenue, ranking, or popularity
 | First-five promise | PASS | Voice, isekai, System anomaly, regeneration, Play Logic, practical consequence, recurring cast and action payoff are delivered. |
 | First-ten promise | PASS | Road/ecology mystery, institutional pressure, investigation and larger destination conflict are active. |
 | Mobile serial rhythm | PASS | CH-003 compression removes the main early procedural-density risk. |
+| Chapter-by-chapter engagement continuity | PASS | Volume 1 engagement audit confirms 26/26 chapters contain combat or an equivalent active pressure event. |
 | Romance requirement | N/A | The book is not marketed as romance/harem; ML action/comedy conflict and relationship pressure are used instead. |
 | Originality / reference safety | PASS | Public branding sells Red Jackal's independent premise rather than Deadpool/Marvel/Eminence branding. |
 
@@ -158,3 +159,15 @@ No trend-copy rewrite is authorized.
 No change to Red's stable anti-villain/comedic identity is authorized.
 
 Future front-matter or CH-001→CH-010 revisions must rerun Gate 12.
+
+
+## Engagement Continuity Revalidation — 2026-09-25
+
+**PASS — 26/26 Greywake chapters.**
+
+Audit:
+`qa/VOLUME-001-ENGAGEMENT-BEAT-AUDIT.md`
+
+The commercial-readiness result now also requires every chapter to contain combat or an equivalent active engagement event.
+
+No random filler fights were added to chapters whose political, mystery, consequence, or relationship pressure already performs that function.

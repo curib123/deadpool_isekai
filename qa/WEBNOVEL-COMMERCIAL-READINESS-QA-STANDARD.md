@@ -208,6 +208,24 @@ The book should have delivered:
 - [ ] Each chapter contains one or more memorable beats.
 - [ ] The reader is not asked to wait many chapters for the advertised premise to begin.
 
+
+
+# 16A. Chapter-by-Chapter Engagement Continuity — CRITICAL
+
+Every chapter in the commercial release must pass:
+
+`qa/CHAPTER-ENGAGEMENT-QA-STANDARD.md`
+
+The book must not rely only on strong CH-001/CH-005/climax action while allowing intervening chapters to become passive.
+
+Each chapter needs either:
+- combat/hostile action; or
+- an equally strong confrontation, discovery, danger, countdown, risky task, failure, political collision, consequence, or irreversible choice.
+
+A quiet chapter may pass.
+
+An exposition-only or filler chapter may not.
+
 # 17. Trend Awareness Without Copying
 
 - [ ] Book uses recognizable market language/tropes where helpful.

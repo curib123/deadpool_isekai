@@ -35,3 +35,15 @@
 **PASS — Whole-series synopsis and prologue are ready in the publication workspace.**
 
 The synopsis and prologue do not replace chapter canon or authorize future chapter publication. Arc and chapter production continue through their existing gates.
+
+
+## Commercial-Readiness Separation
+
+This file verifies publication correctness, not market conversion.
+
+WebNovel contract/readership readiness is governed separately by:
+- `qa/WEBNOVEL-COMMERCIAL-READINESS-QA-STANDARD.md`
+- `qa/WEBNOVEL-COMMERCIAL-READINESS-AUDIT.md`
+- Gate 12 in `qa/QA-GATES.md`
+
+A synopsis or prologue can be technically PUBLISH-READY while still receiving a Gate 12 WEAK result for click-through, duplication, pacing, or early-reader retention.

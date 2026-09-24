@@ -589,3 +589,5 @@ This section supersedes any historical pre-reset production-status statements el
 - **CH-027 — Salt in the Air:** event/scene sequence preserved, prose STALE — Soul-Drift rewrite + Gate 9 revalidation REQUIRED.
 - **CH-028 — The Man on the Manifest:** PAUSED until CH-027 completes the synchronization cycle.
 - **Official next step:** **CH-027 — Salt in the Air → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**
+
+**2026-09-25 CH-003 retention revision:** CANON — Gate 9 revalidated; F-002 remains PLANTED — CH-003; no downstream event order changed. Current Soul-Drift Volume 1 manuscript total: **62,767 words**.

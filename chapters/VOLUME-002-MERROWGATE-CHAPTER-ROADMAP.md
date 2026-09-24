@@ -499,26 +499,26 @@ These chapter notes do not forbid larger power in principle. Any larger display 
 ## CH-041 — Receipt With My Name On It
 
 **Movement:** V — The Useful Suspect  
-**Location:** broker registry office, unbonded warehouse, Harbor Watch interview room.  
-**Characters Present:** Red Jackal, Nessa Quill, Iria Voss, Dalen Marr, Harbor Watch investigators.  
+**Location:** broker registry office, unbonded warehouse, Harbor Watch interview room / transfer lane.  
+**Characters Present:** Red Jackal, Nessa Quill, Iria Voss, Dalen Marr, Harbor Watch investigators, one unnamed evidence-runner/intermediary.  
 **Opening Situation:** Iria obtains surviving broker and payment fragments connected to the CH-035 delivery.  
 **Primary Objective:** Determine exactly what Red and Nessa moved before Cassian's faction can define the story publicly.  
-**Conflict:** The evidence proves Red knowingly bypassed ordinary inspection but not that he knew the sabotage purpose.  
-**Exploration Purpose:** Demonstrate how informal commerce still leaves human witnesses, payments, route tokens, and liability traces.  
+**Conflict:** The evidence proves Red knowingly bypassed ordinary inspection but not that he knew the sabotage purpose. During evidence transfer, an intermediary attempts to seize/destroy one surviving payment fragment and escape into normal port traffic.  
+**Exploration Purpose:** Demonstrate how informal commerce still leaves human witnesses, payments, route tokens, and liability traces—and how fragile that evidence becomes once it matters.  
 **Character Beat:** Red cannot honestly claim complete innocence because the suspicious part of the job was obvious.  
-**Red Jackal Stable-Character Beat:** Responsibility shifts from abstract lesson to concrete admission: he chose not to know.  
-**Supporting Development:** Nessa's broker ambitions are directly threatened; Iria refuses to destroy evidence simply because she now suspects Cassian.  
-**Antagonist Pressure:** Venn-aligned council members demand Red's detention and Nessa's broker suspension.  
-**Action Progression:** Investigation/legal pressure.  
-**Battle / Scene OA:** NO BATTLE — investigation and legal pressure only.
-**Play Logic:** None required.  
+**Red Jackal Stable-Character Beat:** Responsibility shifts from abstract lesson to concrete admission: he chose not to know. During the interception he protects the evidence instead of simply threatening everyone who dislikes him.  
+**Supporting Development:** Nessa's broker ambitions are directly threatened; Iria refuses to destroy evidence simply because she now suspects Cassian and owns the lawful evidence recovery.  
+**Antagonist Pressure:** Venn-aligned council members demand Red's detention and Nessa's broker suspension. The fleeing intermediary proves someone wants the paper trail gone, but the chapter does **not** prove Cassian personally ordered the attempt.  
+**Action Progression:** Investigation/legal pressure → short evidence-seizure attempt → pursuit/interception → evidence preserved → component identification.  
+**Battle / Scene OA:** V2-A02 — HOSTILE ACTION; short evidence-protection interception/pursuit, not a full battle. Objective is preserve the payment fragment and stop escape without destroying the evidence. Detailed scene architecture deferred to Gate 8.  
+**Play Logic:** None required; Red does not need spectacle to stop one runner.  
 **Regeneration Consequence:** None.  
-**Aura-Farming Opportunity:** Red has no useful performance that can make the record disappear.  
+**Aura-Farming Opportunity:** Red has no useful performance that can make the record disappear; trying to look impressive is secondary to keeping the evidence intact.  
 **Comedy Opportunity:** Very limited.  
-**Mystery / Foreshadowing:** None.  
+**Mystery / Foreshadowing:** No new F-ID. The interference confirms risk around the evidence, not mastermind identity.  
 **Continuity Dependencies:** CH-035 delivery; CH-039/040 evidence.  
-**Knowledge Dependencies:** Iria knows Red's role but not yet where the components were installed.  
-**Ending Beat:** Samir identifies the component type from the surviving description: counterweight brake assemblies used in heavy cargo-lift systems.
+**Knowledge Dependencies:** Iria knows Red's role but not yet where the components were installed. The runner does not reveal protected conspiracy truth.  
+**Ending Beat:** Samir identifies the component type from the preserved description: counterweight brake assemblies used in heavy cargo-lift systems.
 
 ---
 

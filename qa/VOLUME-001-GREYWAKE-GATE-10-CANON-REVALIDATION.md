@@ -411,6 +411,34 @@ It strengthens early-volume momentum by:
 
 No later chapter requires event revision.
 
+
+
+## 20B. Mandatory Engagement Beat Audit — 2026-09-25
+
+**Standard:** `qa/CHAPTER-ENGAGEMENT-QA-STANDARD.md`  
+**Audit:** `qa/VOLUME-001-ENGAGEMENT-BEAT-AUDIT.md`
+
+**PASS — 26/26 chapters.**
+
+Every Greywake chapter now has a documented primary engagement event.
+
+This does **not** mean every chapter contains combat.
+
+Combat/action chapters are supported by non-combat chapters using:
+- System failure;
+- authority confrontation;
+- dangerous work;
+- field danger;
+- mystery discovery;
+- political conflict;
+- tactical countdown;
+- medical consequence;
+- identity/relationship decisions.
+
+No chapter is allowed to remain only exposition, passive travel, calm planning, or filler aftermath.
+
+No prose revision was required solely to add random combat. Existing engagement functions already support the chapter purposes; CH-003's earlier retention revision remains the only opening compression required.
+
 # Gate 10 Decision
 
 # PASS — VOLUME 1 / GREYWAKE ARC CURRENT CANON REVALIDATED

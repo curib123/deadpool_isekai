@@ -498,9 +498,32 @@ Gate 7 does not create:
 
 **Result:** PASS
 
+
+
+# Engagement Beat Revalidation — 2026-09-25
+
+**Standard:** `qa/CHAPTER-ENGAGEMENT-QA-STANDARD.md`  
+**Plan QA:** `qa/VOLUME-002-ENGAGEMENT-BEAT-PLAN-QA.md`
+
+**Result: PASS — 24/24 chapters.**
+
+The roadmap now explicitly prevents passive/filler chapters.
+
+CH-041 was strengthened with a short hostile evidence-protection interception to break the long investigation/politics run before CH-042.
+
+Continuity protections:
+- CH-039 remains the midpoint proof;
+- CH-042 remains the deadly major reversal;
+- Cassian is not prematurely proven to have personally ordered CH-041 interference;
+- F-010 remains CH-038 only;
+- CH-047→CH-048 remain the climax;
+- CH-049 remains aftermath;
+- CH-050 remains departure.
+
+
 # Final Gate 7 Decision
 
-**PASS — VOLUME 2 / MERROWGATE ARC CHAPTER ROADMAP LOCKED.**
+**PASS — VOLUME 2 / MERROWGATE ARC CHAPTER ROADMAP LOCKED / ENGAGEMENT OVERLAY REVALIDATED.**
 
 **Locked Range:** CH-027 through CH-050  
 **Locked Count:** 24 chapters  

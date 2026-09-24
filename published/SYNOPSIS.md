@@ -1,22 +1,23 @@
 # This Isekai Has a Bug. Unfortunately, It's Me.
 
-Red Jackal died in a mysterious explosion and woke in Veyr, a world of Systems, heroes, villains, prophecies, monsters, wars, and stories that were already moving without him.
+Red Jackal died in a mysterious explosion and woke in Veyr, a world whose System can identify almost everyone.
 
-The problem is that Veyr cannot identify him.
+Almost.
 
-His name, race, class, level, history, and soul registry all return some version of **UNDEFINED**, **FAILED**, or **NO RECORD**. The world can see that Red exists, but it cannot explain what he is. Worse, Red is not a weak outsider waiting to unlock his potential. He is overwhelmingly powerful from the beginning, with impossible regeneration, reality-bending Play Logic, and a genuine fourth-wall pause that stops Veyran time whenever he addresses the audience.
+**Name: UNDEFINED. Race: UNDEFINED. Class: UNDEFINED. World Registry: NO RECORD.**
 
-Red does not want to become a proper hero. He wants freedom, interesting problems, enough money to keep moving, and the chance to enjoy the absurdity of a life that should not exist.
+That should make him powerless.
 
-Unfortunately, Veyr already has a real hero, a real party, real villains, and real conflicts that do not need Red's permission. Every time he walks into one of their scenes, he steals the attention, breaks the expected rules, and reroutes the consequences without erasing the story underneath.
+Instead, Red regenerates from impossible wounds, can force imagination into reality, and can stop Veyran time whenever he addresses an audience only he can sense.
 
-In Greywake, Red becomes entangled in a monster-migration crisis and discovers that overwhelming power cannot replace information, judgment, or responsibility. In Merrowgate, his reputation and undefined identity become valuable commodities inside a port-wide scheme designed to turn manufactured danger into private control.
+Red has no interest in becoming a chosen hero. Good—because Veyr already has one. It already has villains, prophecies, wars, monsters, and a story moving perfectly well without him.
 
-Across roads, settlements, ports, ruins, battlefields, and future destinations, Red keeps asking the wrong questions in the most entertaining way possible.
+Red is the mistake that walked in anyway.
 
-What happens when an unregistered anomaly walks into a world built around prophecy?
+Every place he enters, the System struggles to explain him, enemies underestimate the wrong man, and ordinary people are left dealing with the consequences when an unregistered anomaly decides to improvise.
 
-What happens when the strongest person in the room is also the least informed?
+The question is not whether Red can become strong enough.
 
-And what happens when the story keeps trying to make Red the main character—only for Red to discover that somebody else was already supposed to be there?
+He already is.
 
+The question is what happens when someone the world never planned for starts interfering with a story that belonged to somebody else.

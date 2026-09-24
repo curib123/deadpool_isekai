@@ -13,6 +13,8 @@
 - **N/A** — the section or conditional element is intentionally unnecessary for this chapter.
 - Every `WEAK` or `MISSING` result must have an immediately adjacent `FIX:` line using: `Problem → Cause → Best Chapter → Smallest Effective Fix → Continuity Check → Re-QA`.
 - Conditional sections do not require every chapter to contain a battle, joke, dark scene, power reveal, mystery, travel, emotional beat, or hype moment. Do not force genre material into a chapter only to turn a checkbox green.
+- **Mandatory engagement overlay:** every chapter must separately pass `qa/CHAPTER-ENGAGEMENT-QA-STANDARD.md`. Combat is optional, but an active engagement event is not.
+- A chapter that passes these 35 sections but fails the engagement overlay cannot be marked FINAL.
 
 ## 1. Chapter Purpose — MANDATORY
 
@@ -400,6 +402,19 @@ Before marking a chapter FINAL:
 - [ ] Chapter contributes to Arc 1.
 - [ ] No obvious filler.
 - [ ] Genre tone remains consistent.
+
+## Mandatory Engagement Overlay
+
+Before `Chapter Result` is finalized, verify the chapter's primary engagement event in:
+
+`qa/CHAPTER-ENGAGEMENT-QA-STANDARD.md`
+
+Allowed final overlay results:
+- PASS — COMBAT ENGAGEMENT
+- PASS — NON-COMBAT ENGAGEMENT
+- PASS — HYBRID ENGAGEMENT
+
+WEAK/FAIL blocks final chapter approval.
 
 ## Chapter Result
 

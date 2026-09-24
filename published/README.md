@@ -95,3 +95,16 @@ Chapter QA records belong under:
 `qa/publish/`
 
 A completed volume also receives a volume-level Publish Version QA.
+
+
+# Primary WebNovel Opening Sequence
+
+For contract-focused / reader-acquisition release, use:
+
+1. `published/SYNOPSIS.md`
+2. `published/volume-001/CH001-WRONG-FOREST-WRONG-WORLD.md`
+3. continue CH-002 onward in numbered order.
+
+The existing `published/PROLOGUE-THE-WRONG-PERSON.md` is retained as an **optional alternate/bonus prologue**, but it must **not** precede CH-001 in the primary WebNovel sequence because its explosion/white-space/arrival material overlaps CH-001.
+
+This keeps CH-001 as the first dramatic reading unit and avoids making a new reader experience the opening twice.

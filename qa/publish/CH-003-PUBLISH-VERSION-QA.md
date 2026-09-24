@@ -1,39 +1,40 @@
 # CH-003 Publish Version QA
 
 **Canon Source:** `manuscript/CH003-THE-THINGS-THEY-CAN-MEASURE.md`  
-**Canon Source SHA:** `f0aa4198bd5a7e5b5179a240543606f63af1f90c`  
+**Canon Source SHA:** `551a9a3c50a5b0e563d8a849cae09c8f90430989`  
 **Publication Copy:** `published/volume-001/CH003-THE-THINGS-THEY-CAN-MEASURE.md`  
-**Publication Copy SHA:** `52d74ad4394cdf3fda813e8e85bf218b982047df`  
+**Publication Copy SHA:** `f6429ed214efcab07388de41b7b4060e75b6634b`  
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-20  
-**Status:** PUBLISH-READY — GATE 11 PASS
+**Review Date:** 2026-09-25  
+**Status:** **PUBLISH-READY — GATE 11 PASS**
 
 # Source Integrity
-- Canon / Gate 9 prerequisite: **PASS**
-- Current canon source used: **PASS**
-- Reader-facing title matches canon title: **PASS**
-- Canon body paragraphs: **223**
-- Missing/duplicated/reordered prose: **NONE**
-- Repository metadata removed: **PASS**
+- current Gate 9 canon source used — PASS
+- reader-facing title matches canon — PASS
+- manuscript metadata removed — PASS
+- prose order preserved — PASS
+- dialogue preserved — PASS
+- Fourth-Wall Pause wording preserved — PASS
+- F-002 evidence preserved — PASS
+- Jessa/Hesk handoff preserved — PASS
+- no later spoiler introduced — PASS
+- final line/ending beat preserved — PASS
 
 # Semantic Equivalence
-Publication copy equals the current canon chapter body after removal of manuscript-only metadata and Markdown heading marker.
 
-**Semantic Diff:** PASS — PRESENTATION ONLY
+The publication copy equals the 2026-09-25 canon chapter body after removal of manuscript-only metadata and Markdown heading syntax.
 
-# Platform / Battle / Scene Preservation
-- paragraph order: **PRESERVED**
-- dialogue: **PRESERVED**
-- Fourth-Wall Pause wording: **PRESERVED**
-- Play Logic/regeneration wording: **PRESERVED**
-- Battle/scene geography and participant actions where applicable: **PRESERVED**
-- mystery/F-ID wording: **PRESERVED**
-- final line/ending beat: **PRESERVED**
-- added spoilers/editorial notes: **NONE**
+**Semantic Diff: PASS — PRESENTATION ONLY**
+
+# Mobile / Platform Check
+- clean paragraph breaks — PASS
+- no internal QA metadata — PASS
+- no raw code/HTML artifacts — PASS
+- short impact paragraphs retained intentionally — PASS
+- opening and ending verified — PASS
 
 # Decision
+
 # PASS
 
-**CH-003 is PUBLISH-READY — GATE 11 PASS.**
-
-Canon manuscript remains authoritative.
+**CH-003 is PUBLISH-READY — GATE 11 PASS after its commercial-retention revision.**

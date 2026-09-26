@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 2778
+**Word Count:** 2,802
 
 The Road Guild hall opened straight onto Greywake's caravan yard, which meant the first thing I learned about local employment was that nobody here believed in quiet workplaces. Wagons rolled through mud outside. Workers carried rope, wheel rims, boxed tools, and stamped cargo tags between two wide doors. Someone shouted a route number from behind a counter. Somebody else shouted back from halfway across the yard. A clerk moved colored markers across a wall map while three caravan guards argued over an escort roster.
 
@@ -212,9 +212,15 @@ I liked him a little. That was probably dangerous. Hesk pushed the form toward J
 
 Then he looked back at me.
 
-"If the risk is not worth the pay, walk away. I can find someone else."
+"If the risk is not worth the pay, walk away. The road still needs fixing. I'll put somebody else on it."
 
-No threat. No pressure. That made the offer harder to dismiss.
+There it was.
+
+Not a challenge. Not a threat. A road, a vacancy, a cost.
+
+Hesk could make exploitation sound like weather.
+
+That made the offer harder to dismiss.
 
 "I'll decide after I understand what the money is worth."
 

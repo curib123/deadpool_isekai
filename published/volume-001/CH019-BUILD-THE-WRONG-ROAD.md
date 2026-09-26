@@ -136,7 +136,7 @@ A short rough ramp settled across the break. Workers crossed with planks first. 
 
 Then fill. The ramp stayed. No wobble.
 
-No strain ritual. No resource meter. Just a temporary object doing its assigned job.
+Boring. Dependable. Exactly what the foreman needed.
 
 When the permanent footing began carrying load, the foreman called: "Drop it."
 

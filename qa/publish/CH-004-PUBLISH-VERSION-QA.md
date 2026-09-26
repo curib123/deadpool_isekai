@@ -1,11 +1,11 @@
 # CH-004 Publish Version QA
 
 **Canon Source:** `manuscript/CH004-OFF-THE-BOOKS.md`  
-**Canon Source SHA:** `475550df5e90dbc999f8e463349650e4dc79498c`  
+**Canon Source SHA:** `9090c1491c7ab779e3e5fa2e6bdd44d4a2c16f05`  
 **Publication Copy:** `published/volume-001/CH004-OFF-THE-BOOKS.md`  
-**Publication Copy SHA:** `2443e63cb880bc1f6b933a14432fb0db9f59995f`  
+**Publication Copy SHA:** `103453cfebc8d886c1cc0be7efc9f807b813a89d`  
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-20  
+**Review Date:** 2026-09-26
 **Status:** PUBLISH-READY — GATE 11 PASS
 
 # Source Integrity
@@ -37,3 +37,13 @@ Publication copy equals the current canon chapter body after removal of manuscri
 **CH-004 is PUBLISH-READY — GATE 11 PASS.**
 
 Canon manuscript remains authoritative.
+
+
+# Arc 1 Recheck Publish Revalidation
+
+**Result:** PASS — 2026-09-26
+
+- current canon source vs publication prose: **EXACT MATCH**
+- character-voice cleanup synchronized: **PASS**
+- no publication-only semantic change: **PASS**
+- Gate 11 status remains **PUBLISH-READY**

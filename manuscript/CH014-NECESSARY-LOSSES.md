@@ -107,7 +107,9 @@ Kellan's eyes hardened. "It survives by deciding what cannot be allowed to die."
 
 The road. The records. The outer routes.
 
-him. Red folded his arms. "So you decided the road mattered more than the people beside it."
+Red.
+
+He folded his arms. "So you decided the road mattered more than the people beside it."
 
 Hesk looked at him. "I decided the road was how everyone inside Greywake stayed alive."
 
@@ -137,7 +139,7 @@ Hesk looked at him. "You think I chose between good and evil."
 
 "Yes."
 
-He knew. That was the problem. they moved to the route board because apparently moral collapse still required inventory.
+He knew. That was the problem. They moved to the route board because apparently moral collapse still required inventory.
 
 The board covered most of one wall. Colored tags marked caravans, cargo, closures, work crews, expected arrivals. Red could read none of the writing.
 

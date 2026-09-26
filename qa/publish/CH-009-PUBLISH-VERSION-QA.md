@@ -1,11 +1,11 @@
 # CH-009 Publish Version QA
 
 **Canon Source:** `manuscript/CH009-WRONG-TRACKS.md`  
-**Canon Source SHA:** `d9944ce156f03e1166335053dd02e037a6ba67ea`  
+**Canon Source SHA:** `081d1cf798088b01d017fc4c50a4e086fc4c5563`  
 **Publication Copy:** `published/volume-001/CH009-WRONG-TRACKS.md`  
-**Publication Copy SHA:** `d676d42986b4e43d757e136f95d9e2af40db5f17`  
+**Publication Copy SHA:** `6e8f0a0d2b0b51878191405e374ed8ea2b1ff25d`  
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-20  
+**Review Date:** 2026-09-26
 **Status:** PUBLISH-READY — GATE 11 PASS
 
 # Source Integrity
@@ -33,3 +33,11 @@ Publication copy is exactly the reader-facing title plus current canon body.
 # PASS
 
 **CH-009 is PUBLISH-READY — GATE 11 PASS.**
+
+
+# Repeated-Recheck Publish Revalidation
+
+**Result:** PASS — 2026-09-26
+
+- current canon vs publication prose: **EXACT MATCH**
+- no publication-only semantic change: **PASS**

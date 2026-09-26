@@ -43,13 +43,13 @@ Tavian stood and wiped mud from his glove.
 
 "It sounds temporary."
 
-Temporary. Red looked toward the brush beyond the ditch. they were close enough to Greywake that the workers moved like men doing a familiar job instead of prey pretending not to be nervous. Their wagon was old. Their tools were scratched. One man complained about the marker post. Another complained about the first man complaining.
+Temporary. Red looked toward the brush beyond the ditch. They were close enough to Greywake that the workers moved like men doing a familiar job instead of prey pretending not to be nervous. Their wagon was old. Their tools were scratched. One man complained about the marker post. Another complained about the first man complaining.
 
 Normal work. Yesterday, Tavian had shown him animals crossing routes they should not be crossing. Today, Greywake still sent people outside the wall.
 
-Reasonable. A settlement could not shut down every road because the wilderness had begun behaving suspiciously. they finished the first marker.
+Reasonable. A settlement could not shut down every road because the wilderness had begun behaving suspiciously. They finished the first marker.
 
-At the second stop, one worker replaced the cracked lid of a supply box while another pulled wet leaves from a drainage cut. Red carried a bundle of treated stakes from the wagon. his undefined class remained powerless against manual labor.
+At the second stop, one worker replaced the cracked lid of a supply box while another pulled wet leaves from a drainage cut. Red carried a bundle of treated stakes from the wagon. His undefined class remained powerless against manual labor.
 
 Tavian moved a few paces ahead. Then stopped. Not dramatically.
 
@@ -141,9 +141,11 @@ Claws. Maybe both. The world went white.
 
 No joke. No clever narration. Pain erased the need to be interesting.
 
-Red hit the road hard with the animal on him. his forearm jammed against its throat. Warm blood spread under his coat.
+Red hit the road hard with the animal on him. His forearm jammed against its throat. Warm blood spread under his coat.
 
-his. Then Red pushed. He did not need leverage.
+*Mine.*
+
+Then Red pushed. He did not need leverage.
 
 That was becoming increasingly obvious. The predator left him hard enough to scrape across the road and slam shoulder-first into the wagon wheel. The frame jumped.
 
@@ -161,7 +163,9 @@ One of the workers was down beside the rear wheel. The animal had his lower leg 
 
 Not a mystery. Not bad luck. Geometry.
 
-his. Tavian changed direction instantly. Not toward him.
+*Mine.*
+
+Tavian changed direction instantly. Not toward him.
 
 Toward the worker. Red understood why before the thought finished.
 
@@ -179,7 +183,7 @@ Not redirected. Threw. Its body hit the road, rolled once, and skidded several p
 
 The workers saw it. Tavian saw it. Nobody had time to ask.
 
-his side felt like somebody had opened it with farm equipment. The pain remained vicious. Under it, something else had already started.
+His side felt like somebody had opened it with farm equipment. The pain remained vicious. Under it, something else had already started.
 
 The wound did not feel like it was healing. Healing sounded gentle. This felt like his body refusing an edit.
 
@@ -247,7 +251,7 @@ But useful information deserved to survive.
 
 "I notice him," Red said.
 
-The lead predator moved. they backed toward the narrowing. The pack followed slowly.
+The lead predator moved. They backed toward the narrowing. The pack followed slowly.
 
 Testing. At the stone pinch point, Red turned. He pictured exactly what the retreat needed.
 
@@ -291,13 +295,13 @@ So was the scene.
 
 "Move," Tavian said.
 
-This time Red did. they retreated fast. Calling his movement graceful would have been criminal.
+This time Red did. They retreated fast. Calling his movement graceful would have been criminal.
 
 Every step pulled at his ribs. The wound kept correcting itself in deep, burning contractions. The process did not ask permission.
 
 It did not make the pain smaller. It only made death increasingly inconvenient. Tavian stayed rear-left.
 
-Red stayed rear-right. The pack followed after the barrier vanished, but with more distance now. they reached a low stone maintenance marker near the junction with the Main Caravan Road.
+Red stayed rear-right. The pack followed after the barrier vanished, but with more distance now. They reached a low stone maintenance marker near the junction with the Main Caravan Road.
 
 "Past that marker," Tavian said. "Open ground."
 
@@ -325,7 +329,7 @@ Too much open space. No easy target. It backed away.
 
 The others followed. Nobody chased them. For several seconds, all Red heard was breathing.
 
-his sounded bad. The worker's sounded worse. Tavian turned.
+His sounded bad. The worker's sounded worse. Tavian turned.
 
 "Him first."
 
@@ -345,7 +349,7 @@ Red looked toward Greywake.
 
 "Close enough to matter. Not close enough to relax."
 
-Red appreciated the precision. they reached the maintained road. A patrol cart found them before they made it much farther.
+Red appreciated the precision. They reached the maintained road. A patrol cart found them before they made it much farther.
 
 The workers flagged it down. The injured man went on first. Red climbed in after him because riding hurt less and he had no need to make walking theatrical.
 
@@ -491,7 +495,7 @@ But what should have been an open, life-threatening injury was becoming a viciou
 
 "Less good."
 
-She checked his breathing. his abdomen. The wound again.
+She checked his breathing. His abdomen. The wound again.
 
 "Did anyone heal this?"
 
@@ -523,7 +527,7 @@ A deep contraction pulled through his side. Red sucked in air. The spell's light
 
 One line split around tissue that had not been in that position when Sela started. Her expression changed. She moved her hand.
 
-The pattern tried to follow. his body corrected again. Sela stopped immediately.
+The pattern tried to follow. His body corrected again. Sela stopped immediately.
 
 The light vanished.
 
@@ -687,7 +691,7 @@ Checked the remaining healing crystal. The room ran on finite local supplies. Ba
 
 Medicine. Healing mana. Hands.
 
-Time. his body restoration did not make any of those infinite for everyone else. By late afternoon, the worker was stable.
+Time. His body restoration did not make any of those infinite for everyone else. By late afternoon, the worker was stable.
 
 Not fine. Stable. His leg was wrapped and splinted.
 
@@ -801,7 +805,7 @@ Tavian looked at him.
 
 "Less good."
 
-his side pulsed. The body kept correcting. No dramatic turning point.
+His side pulsed. The body kept correcting. No dramatic turning point.
 
 Nothing about his capacity changed. Just the same refusal to stay broken. Red looked at the sleeping worker again.
 

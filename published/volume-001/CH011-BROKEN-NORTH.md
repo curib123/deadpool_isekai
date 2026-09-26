@@ -456,7 +456,7 @@ Tavian backed toward us. He kept the ridge-hounds in front of him.
 
 The ridge-hounds climbed again. Kellan moved across the damaged section exactly along the line he had identified. Maelis followed.
 
-"Stable," Kellan called.
+"Stable enough. One at a time," Kellan called.
 
 "It has one job."
 

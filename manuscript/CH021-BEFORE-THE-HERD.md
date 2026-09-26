@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 2123
+**Word Count:** 2,133
 **Chapter QA:** `qa/CH-021-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-021-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
@@ -354,7 +354,9 @@ The impossible answer was still there. It had always been there. Using it would 
 
 So would not using it. No contract held me here. No Guild order.
 
-I stayed because I chose to. Brynn raised one hand. Nearby conversation stopped.
+I stayed because the interesting part had finally arrived.
+
+Leaving now would have been terrible timing. Brynn raised one hand. Nearby conversation stopped.
 
 Tavian went completely still. At first I saw nothing. Then birds lifted from distant trees.
 

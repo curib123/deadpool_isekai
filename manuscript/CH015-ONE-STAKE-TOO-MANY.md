@@ -16,6 +16,8 @@ Fair. A charged Wayfarer Tongue Token hung from the technician's strap. Brynn's 
 
 Find the influence point. Map it. Do not touch it.
 
+*Simple enough.*
+
 Apparently everyone thought the last part needed special emphasis around him. No idea why. "Tracks," Tavian said.
 
 Red moved closer. He pointed to the mud beside the drainage cut. "Small herd animal. Running."
@@ -184,11 +186,11 @@ The animal twisted away. The second came around the stone cut. Toward him.
 
 Red moved. Not far enough. Claws ripped across his lower ribs.
 
-Pain opened hot and immediate. his back hit the retaining wall. The hound came again.
+Pain opened hot and immediate. His back hit the retaining wall. The hound came again.
 
 Tavian drove it sideways with the butt of his polearm. "Red. Move."
 
-Red moved. Warm blood spread under his shirt. his body had already begun refusing the damage.
+Red moved. Warm blood spread under his shirt. The same impossible logic that made objects from nothing had already begun refusing the damage.
 
 That did not make the claws less painful. The first hound snapped at Kellan. The guard stepped in.
 
@@ -210,7 +212,7 @@ Polearm. Shoulder. Turn.
 
 The animal lost the road and dropped toward lower brush. The first followed when Kellan and the guard pressed it away from the upper approach. Nobody pursued.
 
-For several seconds, all Red heard was breathing. his was ugly. Tavian looked at his side. "You are bleeding."
+For several seconds, all Red heard was breathing. His was ugly. Tavian looked at his side. "You are bleeding."
 
 "I noticed."
 
@@ -244,7 +246,7 @@ Kellan looked at him. "I wasn't talking to you."
 
 His eyes moved to him. Mostly him. Tavian stepped between them. "Red."
 
-his side kept correcting beneath the pain. That mattered because surviving the next bad choice was not the same thing as making it safe. "You heard me in Greywake."
+The same impossible logic kept correcting the damage beneath the pain. That mattered because surviving the next bad choice was not the same thing as making it safe. "You heard me in Greywake."
 
 "Yes."
 
@@ -326,7 +328,7 @@ Tavian put an arm across his path. "Red."
 
 "Then don't."
 
-his side hurt. his leg hurt. The calls came again.
+His side hurt. His leg hurt. The calls came again.
 
 Red looked toward the farms. "No." Tavian's eyes narrowed.
 

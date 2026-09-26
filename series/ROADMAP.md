@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** SOUL-DRIFT / STORY-INTRUDER RETCON ACTIVE — CH-001→CH-026 CURRENT / CH-027 FIRST-PERSON SYNCHRONIZATION REQUIRED / CH-028 PAUSED
+**Status:** SOUL-DRIFT / STORY-INTRUDER RETCON ACTIVE — CH-001→CH-027 CURRENT / CH-028 AUTHORIZED
 
 Phase 1 Foundation passed on **2026-09-18**.
 
@@ -29,8 +29,8 @@ Volume 2 Destination Selection: **PASS — GATE 5 / DEST-002 MERROWGATE**
 Volume 2 Architecture: **PASS — GATE 6 / MERROWGATE ARC LOCKED**  
 Volume 2 Chapter Roadmap: **PASS — GATE 7 / 24 CHAPTERS / CH-027 THROUGH CH-050 LOCKED**  
 CH-027 Scene Architecture: **PASS — GATE 8 / 5 SCENES LOCKED**  
-CH-027 Manuscript: **HISTORICAL CANON EVENT SEQUENCE / PROSE STALE — SOUL-DRIFT FIRST-PERSON REWRITE REQUIRED**  
-CH-028 Scene Architecture: **PAUSED — SOUL-DRIFT MANUSCRIPT RESET MUST FINISH THROUGH CH-027 FIRST**  
+CH-027 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
+CH-028 Scene Architecture: **AUTHORIZED NEXT STEP — GATE 8 PENDING**  
 CH-001 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
 CH-002 Scene Architecture: **PASS — GATE 8**  
 CH-002 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
@@ -98,7 +98,7 @@ The project publication state is now:
 1. **Volume 1 / Greywake Arc — CURRENT CANON THROUGH CH-026 / GATE 9 AND GATE 11 PASS**
 2. **Volume 1 Gate 10/Gate 11 — CURRENT REFRESHED RELEASE RECORD AFTER SOUL-DRIFT RETCON**
 
-The 13 changed reader-facing copies have been regenerated from current canon and individually revalidated. The aggregate refreshed release set now passes Gate 11. Volume 2 is locked as DEST-002 — Merrowgate / Merrowgate Arc through Gate 7. CH-027 through CH-050 are roadmap-locked. CH-027 has passed Gate 9 and is CANON at 2,108 words. CH-028 Detailed Scene Architecture / Gate 8 is the next authorized production step.
+The 13 changed reader-facing copies have been regenerated from current canon and individually revalidated. The aggregate refreshed release set now passes Gate 11. Volume 2 is locked as DEST-002 — Merrowgate / Merrowgate Arc through Gate 7. CH-027 through CH-050 are roadmap-locked. CH-027 has passed Gate 9 and is CURRENT CANON at 1,869 words. CH-028 Detailed Scene Architecture / Gate 8 is the next authorized production step.
 
 ## Destination Naming Law
 
@@ -115,7 +115,7 @@ This table contains only volumes whose destination has passed the required selec
 | Volume | Destination ID | Arc Name | Local Conflict | Main Antagonist | Major Mystery Contribution | Status |
 |---|---|---|---|---|---|---|
 | 1 | DEST-001 | Greywake Arc | Manipulated monster migration through illegal march-lures | Roadmaster Rovan Hesk | M-002; observational M-005; limited M-007; F-001 PLANTED in CH-002; F-002 PLANTED in CH-003; F-003 PLANTED in CH-007; F-004 PLANTED in CH-005 | CURRENT CANON — CH-001→026 / GATE 9 PASS / GATE 11 PASS |
-| 2 | DEST-002 | Merrowgate Arc | Engineered port instability used to force private harbor-security consolidation | Cassian Venn | M-002 cross-jurisdictional reinforcement; bounded M-011; F-010 PLANNED FOR CH-038 — NOT YET PLANTED | CH-027 PROSE STALE — CH-028 PAUSED |
+| 2 | DEST-002 | Merrowgate Arc | Engineered port instability used to force private harbor-security consolidation | Cassian Venn | M-002 cross-jurisdictional reinforcement; bounded M-011; F-010 PLANNED FOR CH-038 — NOT YET PLANTED | CH-027 CURRENT CANON — CH-028 AUTHORIZED |
 
 ## Lock
 
@@ -266,13 +266,13 @@ Preserved:
 - Merrowgate 24-chapter pacing/order;
 - local antagonists and destination outcomes unless later chapter-specific QA requires wording changes.
 
-**Manuscript state:** CH-001 through CH-026 are CURRENT CANON under the Soul-Drift/final story-engine retcon; CH-027 remains STALE pending sequential revision.
+**Manuscript state:** CH-001 through CH-027 are CURRENT CANON under the Soul-Drift/final story-engine retcon.
 
 The previous close-third revisions remain historical artifacts only.
 
-**Official next step:** CH-027 — Salt in the Air → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.
+**Official next step:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.
 
-**CH-028 remains PAUSED.**
+**CH-028 is AUTHORIZED.**
 
 ## Final Story-Engine Synchronization — 2026-09-20
 
@@ -303,17 +303,17 @@ Preservation remains absolute unless the author explicitly changes it:
 - major reversal/climax placement;
 - one major volume = one destination arc.
 
-**Production priority remains:** CH-001 through CH-026 synchronization are complete and Gate 9 PASS; rewrite/revalidate CH-027 next, then resume CH-028.
+**Production priority remains:** CH-001 through CH-027 synchronization are complete and Gate 9 PASS; proceed to CH-028 Detailed Scene Architecture / Gate 8.
 
 
 # Current Soul-Drift Synchronization Authority — 2026-09-20
 
 This section supersedes any historical pre-reset production-status statements elsewhere in this file.
 
-- **CH-001→CH-026:** CURRENT CANON — Soul-Drift / close first-person / final story engine — Gate 9 PASS.
-- **CH-027 — Salt in the Air:** event/scene sequence preserved, prose STALE — Soul-Drift rewrite + Gate 9 revalidation REQUIRED.
-- **CH-028 — The Man on the Manifest:** PAUSED until CH-027 completes the synchronization cycle.
-- **Official next step:** **CH-027 — Salt in the Air → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**
+- **CH-001→CH-027:** CURRENT CANON — Soul-Drift / close first-person / final story engine — Gate 9 PASS.
+- **CH-027 — Salt in the Air:** rewritten in close first-person and revalidated on 2026-09-26.
+- **CH-028 — The Man on the Manifest:** AUTHORIZED NEXT STEP — Gate 8 pending.
+- **Official next step:** **CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.**
 
 # Flexible Future Arc Architecture Authority — 2026-09-20
 
@@ -326,7 +326,7 @@ This latest series-level planning authority adds a quality-first route from the 
 - **Battle topology ledger:** `planning/BATTLE-TOPOLOGY-LEDGER.md`
 - **Endgame readiness:** `qa/FLEXIBLE-ARC-ENDGAME-READINESS.md`
 - **Future destinations:** no later destination is selected or canon.
-- **Immediate next step:** **CH-027 rewrite/revalidation → Gate 9.**
+- **Immediate next step:** **CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.**
 
 The existing rule remains active: no fixed destination order is canon beyond the approved Greywake and Merrowgate records, and Volume 3 destination selection remains unauthorized until its required gates pass. The flexible registry defines story-function slots and stop/merge rules; it does not promote an inventory entry into an arc.
 

@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 2,015
+**Word Count:** 2,019
 **Chapter QA:** `qa/CH-015-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-015-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
@@ -200,7 +200,7 @@ He struck low to force the hound away from the farms. The guard did the same. I 
 
 Something deep in my side tightened and pulled. Correction. Automatic.
 
-Unpleasant. Not a meter. Not a resource.
+Unpleasant enough to make me personally offended by my own ribs.
 
 The second hound feinted at Tavian. I stepped into its side and drove it off-line. It hit the ground, scrambled, and snapped at my leg.
 

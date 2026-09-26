@@ -48,7 +48,7 @@ The Guild was busy in the boring way important places tended to be. A worker cha
 
 Red looked toward the office again. So Hesk was not merely a man with a title. If Greywake needed roads open, bridges repaired, escorts assigned, or cargo moved, decisions passed through this building.
 
-Useful authority. The most dangerous kind, usually. The office door opened.
+*Useful authority. The most dangerous kind, usually.* The office door opened.
 
 Three conversations nearby softened without anyone being told to lower their voices. Rovan Hesk stepped into the hall with a rolled map under one arm. He was broad through the shoulders, dark hair greying at the sides, coat repaired at one elbow and faded at the cuffs. No polished insignia. No ceremonial weapon. Nothing designed to announce importance.
 
@@ -238,7 +238,7 @@ She blinked. The token carried the sentence perfectly.
 
 "Excellent. Continue."
 
-they moved back toward the public contract desks where the market lane was visible through the open doors. Jessa set the form beside the Wayfarer token.
+They moved back toward the public contract desks where the market lane was visible through the open doors. Jessa set the form beside the Wayfarer token.
 
 "This is not employment in the registered sense."
 
@@ -308,7 +308,7 @@ Smart woman.
 
 Now they were talking. Jessa opened a small drawer beneath the desk and took out several silver coins. Marks.
 
-They were a little larger than coins Red half-remembered from somewhere else, stamped with a crown shape on one face and a river motif on the other. his first local money. Technically not his yet.
+They were a little larger than coins Red half-remembered from somewhere else, stamped with a crown shape on one face and a river motif on the other. His first local money. Technically not his yet.
 
 Emotionally, they had bonded.
 
@@ -538,7 +538,7 @@ Red listened to the entire list. No surprises.
 
 Jessa stamped the form. Then she placed the Marks in his palm. They were heavier than they looked.
 
-his first income in this world. Technically an advance against work Red had not done. He decided not to insult the moment with accounting.
+His first income in this world. Technically an advance against work Red had not done. He decided not to insult the moment with accounting.
 
 Hesk tapped the map.
 

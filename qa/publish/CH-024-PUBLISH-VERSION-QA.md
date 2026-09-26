@@ -1,9 +1,9 @@
 # CH-024 Publish Version QA
 
 **Canon Source:** `manuscript/CH024-NO-ONE-GETS-CHOSEN.md`  
-**Canon Source SHA:** `a8564ea603b5db2ccce3a98e9461ee9768d3861c`
+**Canon Source SHA:** `8d376a067e527346b070fe57769dd807481b1aa3`
 **Publication Copy:** `published/volume-001/CH024-NO-ONE-GETS-CHOSEN.md`  
-**Publication Copy SHA:** `6ac0261b6ec6c88479a567cccbe6486faa853101`
+**Publication Copy SHA:** `b7990f9f69af76cbb45f7c0c232d8a7958ca7ab6`
 **Target Platform:** WebNovel-compatible reader-facing copy  
 **Review Date:** 2026-09-26
 **Status:** PUBLISH-READY — GATE 11 PASS / OVERPOWERED RETCON REFRESH
@@ -48,3 +48,11 @@ The reader-facing copy was synchronized after the final Red Jackal personality-m
 - title/body/order equivalence: **PASS**
 - no publication-only semantic edits: **PASS**
 - final personality lock preserved: **PASS**
+
+
+# Repeated-Recheck Publish Revalidation
+
+**Result:** PASS — 2026-09-26
+
+- current canon vs publication prose: **EXACT MATCH**
+- no publication-only semantic change: **PASS**

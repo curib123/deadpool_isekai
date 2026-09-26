@@ -894,7 +894,7 @@ Required Greywake Arc behavioral evidence:
 - **CH-011/012:** Red Jackal may trespass, ignore restrictions, or retain evidence when he considers lawful control illegitimate;
 - **CH-013/014:** conflict with Hesk centers on imposed roles and chosen sacrifice, not merely legality;
 - **CH-015:** Red Jackal knowingly takes an unauthorized action for personally compelling reasons and causes the CH-016 reversal;
-- **CH-017:** he accepts responsibility without accepting institutional ownership;
+- **CH-017:** he acknowledges his causal involvement without accepting institutional ownership, heroic duty, or moral possession;
 - **CH-024:** he can protect Greywake without accepting the identity of “Greywake's hero”;
 - **CH-025/026:** contradictory public labels remain unresolved; Red Jackal keeps authorship of his identity.
 
@@ -902,7 +902,7 @@ Do not add random cruelty to satisfy this control.
 
 The required tension is:
 
-**selfish/personal motive + morally useful outcome + uncomfortable or unlawful method + real consequence + self-chosen responsibility.**
+**selfish/personal motive + potentially useful outcome + uncomfortable or unlawful method + real consequence + self-chosen consequence handling.**
 
 Not every chapter needs every element.
 
@@ -914,10 +914,10 @@ Volume 1 must build Red Jackal's reputation from **evidence, rumor, and uncertai
 
 - **CH-002 / R1:** gate and registry failures establish Red Jackal as unclassifiable.
 - **CH-003 / R1:** Maelis confirms that multiple institutional verification methods fail in unusual ways.
-- **CH-005 / R2:** witnesses see a temporary object appear without normal prepared spell structure, but also see instability/exhaustion.
+- **CH-005 / R2:** witnesses see a temporary object appear without normal prepared spell structure; its bounded-looking use is a scene choice, not evidence of instability or depletion.
 - **CH-006 / R2:** Tavian sees Red Jackal as capable but less competent than a specialist in field judgment; no manifestation occurs.
 - **CH-007 / R2:** Tavian and Sela witness survival/recovery from severe trauma; Sela confirms the process is medically abnormal and not explained by standard healing.
-- **CH-008 / R2:** Kellan/workers may see one useful impossible support effect while also seeing Red Jackal's exhaustion and practical limitations.
+- **CH-008 / R2:** Kellan/workers see that Red can produce an impossible practical solution, while Kellan still values ordinary work, injury awareness, and route knowledge more than spectacle.
 
 ## Greywake Forward Progression
 

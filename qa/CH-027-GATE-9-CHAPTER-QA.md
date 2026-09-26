@@ -6,7 +6,7 @@
 **Manuscript:** `manuscript/CH027-SALT-IN-THE-AIR.md`  
 **Review Date:** 2026-09-26  
 **Status:** **PASS — CURRENT CANON REVALIDATED**  
-**Canonical Word Count:** **1,869**
+**Canonical Word Count:** **1,843**
 
 # Revision Scope
 
@@ -235,7 +235,7 @@ CH-027 does not begin:
 
 CH-027 is now synchronized with the locked Soul-Drift / close-first-person / final-story-engine standard.
 
-**Canonical Word Count:** 1,869  
+**Canonical Word Count:** 1,843  
 **Play Logic Uses:** 0  
 **New F-ID:** 0  
 **M-ID Advancement:** 0  

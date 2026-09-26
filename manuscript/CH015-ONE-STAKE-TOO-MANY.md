@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 2001
+**Word Count:** 2,015
 **Chapter QA:** `qa/CH-015-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-015-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
@@ -32,7 +32,7 @@ The Guild guard shifted his spear. "Patrol found more sign farther down."
 
 Tavian frowned. "Probably is not useful." The guard took that better than most people took Tavian.
 
-Kellan followed the retaining stones. "This section was rebuilt." The technician joined him. "Guild repair?"
+Kellan followed the retaining stones and brushed moss from a joint. "This section was rebuilt after the original road. Look at the seam." The technician joined him. "Guild repair?"
 
 "Old road crew first. Later patching."
 

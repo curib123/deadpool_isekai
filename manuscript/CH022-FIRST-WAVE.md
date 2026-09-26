@@ -8,7 +8,7 @@
 
 The first mass did not charge us. It came out of the trees in layers. Small prey first—thin-legged things built for speed. Larger browsers followed, bodies shouldering through brush. Behind them, the tree line kept moving even where I could not yet see individual animals.
 
-Too many bodies. Too many frightened decisions happening at once. his first thought was a wall.
+Too many bodies. Too many frightened decisions happening at once. His first thought was a wall.
 
 Easy. Also stupid. "Not yet," Tavian said.
 
@@ -20,7 +20,7 @@ He obeyed. "Do not challenge the front," Tavian added. "Let them choose."
 
 Terrified animals still had choices. That was apparently the entire plan. Behind them, one final civilian cart rattled toward the inner fallback road. Two militia escorts ran beside it. A woman sat in the back holding a wrapped bundle to her chest while the driver fought to keep one damaged wheel straight.
 
-Too close. Still moving. The first prey crossed Tavian's painted threshold marker.
+*Too close. Still moving.* The first prey crossed Tavian's painted threshold marker.
 
 He raised two fingers. Nothing happened. More animals came.
 
@@ -74,7 +74,7 @@ Momentum did the rest. "Move!" Brynn shouted.
 
 The cart cleared the fallback line. A broken fence rail spun from the moving mass and hit his shoulder hard enough to turn him. Pain flashed.
 
-his feet stayed under him. The guide stayed where Red wanted it. "Clear!" Brynn called.
+His feet stayed under him. The guide stayed where Red wanted it. "Clear!" Brynn called.
 
 Red released it immediately. No reason to leave fresh geometry inside a moving herd after the people were safe. The last cart disappeared toward Greywake.
 
@@ -126,13 +126,13 @@ Red looked toward the eastern service route. He could reach him. The thought cam
 
 Find him. Stop him. Make the human-sized problem regret being human-sized.
 
-his body shifted. Tavian saw. "Don't."
+His body shifted. Tavian saw. "Don't."
 
 Red looked at him. He pointed toward the herd. "You leave now, this line opens before you reach the site."
 
 Correct. Infuriating. Correct.
 
-A scream came from the lower detour. Decision made for him. they ran.
+A scream came from the lower detour. Decision made for him. They ran.
 
 The old seasonal-cut crossing had already failed in CH-016, forcing workers and militia through a narrow roadside bypass. One light guide had collapsed under the first wave. Three workers were retreating.
 
@@ -158,7 +158,7 @@ Red released the rail. "Fall back!" Brynn ordered.
 
 Nobody defended the failed detour because it had already stopped being useful. That was the kind of command Hesk never seemed to understand. Not everything had to be held forever.
 
-they retreated toward Broken North. The wrong pull had not stopped. Worse, it was compressing two flows against each other.
+They retreated toward Broken North. The wrong pull had not stopped. Worse, it was compressing two flows against each other.
 
 Most prey still tried to follow the northern route. The unauthorized lure dragged a side branch east. Animals behind them saw both openings and hesitated.
 
@@ -172,7 +172,7 @@ Brynn looked across the lane. "Can we widen?"
 
 A horn sounded from Broken North. Three short notes. Repair pressure.
 
-they ran again. his ribs hurt. The pain had nothing to do with capability.
+They ran again. His ribs hurt. The pain had nothing to do with capability.
 
 It did make running less charming. Broken North was already carrying more load than planned. Workers at the entrance fought to keep loose timber and stone out of the moving lane. Militia stood along the margins, not the center. One section of the upper guide bowed inward.
 

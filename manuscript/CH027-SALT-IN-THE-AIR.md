@@ -5,7 +5,7 @@
 **Word Count:** 1,876
 **Volume:** 2 — Merrowgate Arc
 
-Freedom, I discovered, had expenses. Food. Beds. River crossings. Even his bag had somehow become a paying passenger.
+Freedom, Red discovered, had expenses. Food. Beds. River crossings. Even his bag had somehow become a paying passenger.
 
 Several days out from Greywake, the road no longer looked like something the forest tolerated by accident. Traffic came from both directions. Covered wagons rolled past with painted merchant marks on their sides. Roadside shelters had feed troughs, cooking fires, fenced yards, and boards full of writing that remained personally committed to excluding him.
 

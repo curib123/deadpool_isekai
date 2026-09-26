@@ -14,7 +14,7 @@ A lot of timber. Red put one beam over his shoulder. A woman from the outer farm
 
 Red looked back. She was right. That ended the performance.
 
-Practical labor remained resistant to reputation. they passed the old Guild closure just after first light. The chain had been removed under Brynn's emergency authorization.
+Practical labor remained resistant to reputation. They passed the old Guild closure just after first light. The chain had been removed under Brynn's emergency authorization.
 
 The sign still warned that the road beyond was unstable and dangerous. Still correct. Brynn read out work zones while runners marked withdrawal routes with cloth. "Lower drainage first. Washout team stages here. Second break gets materials but no work until the lip is secured."
 
@@ -44,7 +44,7 @@ The worker widened the planned cut. Nobody argued with Tavian twice. Brynn came 
 
 "It is also true."
 
-Right. Complicated things continued refusing simplification. Two homestead carts arrived behind her.
+*Right. Complicated things continued refusing simplification.* Two homestead carts arrived behind her.
 
 Old fence timber. Reused planks. Rope with a long history.
 
@@ -60,7 +60,7 @@ Brynn kept people off exposed ground. Red moved whatever somebody pointed at. No
 
 Just work. The drainage below the watch point had collapsed inward years ago. Mud, stone, roots, and dead branches had turned the ditch into a wall that pushed water under the road instead of away.
 
-Kellan's note was simple. Water before weight. they dug.
+Kellan's note was simple. Water before weight. They dug.
 
 Mud came out in heavy clumps. Red carried stone baskets until the ditch finally started moving water again. Not repaired.
 
@@ -236,7 +236,7 @@ Obvious. "But continuous." Brynn's shoulders lowered slightly. "Enough?"
 
 Tavian took time. "Enough to attempt redirection." That was the win.
 
-The road still looked terrible. Workers stood in mud. his clothes had lost a war with earth.
+The road still looked terrible. Workers stood in mud. His clothes had lost a war with earth.
 
 Broken North went somewhere again. Brynn looked toward the far connector. "What else?"
 
@@ -254,4 +254,4 @@ Red looked at the timber supports, rough footing, reopened drainage, and the cor
 
 Making animals choose it. Tavian looked toward Greywake. "The lure sequence."
 
-Of course. they had built the wrong road. Now they had to make the migration choose it.
+Of course. They had built the wrong road. Now they had to make the migration choose it.

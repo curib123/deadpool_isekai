@@ -4,379 +4,245 @@
 **Volume:** 2 — Merrowgate Arc  
 **Chapter:** CH-027 — Salt in the Air  
 **Manuscript:** `manuscript/CH027-SALT-IN-THE-AIR.md`  
-**Review Date:** 2026-09-19  
-**Status:** PASS  
-**Word Count:** 2,108
+**Review Date:** 2026-09-26  
+**Status:** **PASS — CURRENT CANON REVALIDATED**  
+**Canonical Word Count:** **1,869**
 
-# Severity Review
+# Revision Scope
 
-## CRITICAL
-**None.**
+CH-027 was rewritten because the repository contained a stale close-third-person manuscript while current series authority requires:
 
-## MAJOR
-**None.**
+- close first-person Red Jackal POV;
+- Soul-Drift origin continuity;
+- stable Red personality;
+- no conventional power progression;
+- cinematic/simple English;
+- no forced fourth-wall quota;
+- Merrowgate event sequence preserved.
 
-## MINOR
-The initial manuscript draft was too fragment-heavy for the locked prose standard.
+The rewrite preserves the approved chapter events while replacing the superseded third-person prose.
 
-Initial cadence audit:
-- 183 body paragraphs;
-- 157 narrative paragraphs;
-- 126 one-sentence narrative paragraphs;
-- 79 very short narrative paragraphs.
+# Gate 9 Result
 
-The manuscript was normalized before the final Gate 9 decision without changing:
-- scene order;
-- plot events;
-- dialogue meaning;
-- travel route;
-- injury state;
-- power use;
-- mystery state;
-- cast boundaries;
-- ending beat.
+## POV / Voice — PASS
 
-Post-correction cadence:
-- 95 body paragraphs;
-- 74 narrative paragraphs;
-- 47 multi-sentence narrative paragraphs;
-- 27 one-sentence narrative paragraphs;
-- 18 very short narrative paragraphs.
+The manuscript now stays in close first person throughout.
 
-Remaining short paragraphs are concentrated around dialogue, danger, realization, and effective deadpan beats.
+Red narrates only what he:
+- sees;
+- hears;
+- remembers;
+- guesses;
+- feels;
+- notices;
+- chooses to joke about.
 
-# Story Review
+The prose no longer uses the stale third-person `Red/he/his` narrative frame.
 
-**PASS.**
-
-CH-027 meaningfully advances the story by:
-
-- moving Red physically away from Greywake through ordinary travel;
-- establishing that several travel days have passed;
-- making money/resource pressure real;
-- preserving Red's partial physical recovery;
-- preserving his inability to read Veyran;
-- showing increasing trade and transport scale;
-- giving him one bounded ordinary travel hazard;
-- demonstrating that he can contribute by following competent crew direction rather than becoming the entire solution;
-- establishing the Brasswater/coastal transition;
-- revealing Merrowgate as the next destination;
-- giving Red a practical reason to enter: work, information, and future passage;
-- stopping before CH-028's formal intake conflict.
-
-The ending is earned through the chapter's resource pressure and environmental build.
-
-# Red Jackal Review
-
-**PASS.**
-
-Red remains recognizably Red Jackal:
-
-- first-person;
-- dry/deadpan;
-- self-amused;
-- opportunistic;
-- resistant to unnecessary authority;
-- willing to follow competence when it is obviously useful;
-- still interested in presentation/aura;
-- not converted into a conventional hero.
-
-His motivation is personal and practical:
-- he needs money;
-- he wants mobility;
-- he wants somewhere large enough to offer work and onward travel.
-
-He does not arrive because he wants to save Merrowgate.
-
-His small development beat is correctly bounded:
-**he can contribute without needing to become the plan.**
-
-# POV / Prose Review
-
-**PASS after cadence correction.**
-
-- first person throughout;
-- no invisible third-person narrator;
-- immediate sensory experience leads description;
-- dry internal observation follows naturally;
-- no constant reader-address;
-- no artificial quota of fourth-wall comments;
-- dialogue remains distinct;
-- description is filtered through Red's personality;
-- multi-sentence narration is now the dominant normal mode;
-- short isolated beats remain mainly for impact/deadpan/danger;
-- no robotic scene-by-scene sequencing;
-- no scene headings appear in manuscript prose.
-
-Canonical opening line:
+Canonical opening:
 
 **“Freedom, I discovered, had expenses.”**
 
-Canonical final line:
+Canonical ending:
 
 **“Merrowgate would do.”**
 
-# Comedy Review
+Red remains:
+- dry;
+- theatrical;
+- self-amused;
+- opportunistic;
+- presentation-conscious;
+- resistant to imposed roles;
+- capable of following competent instructions when useful.
 
-**PASS.**
+No conventional moral conversion is written into the chapter.
 
-Humor comes from:
+## Story Function — PASS
 
+CH-027 performs the intended Volume 2 transition:
+
+1. Red has physically left Greywake.
+2. Several days of ordinary travel have passed.
+3. Money/resource pressure becomes active again.
+4. Greywake injury continuity remains present without becoming a power limitation.
+5. A river-transfer hazard demonstrates teamwork and judgment.
+6. Trade scale increases progressively.
+7. Salt triggers a fragmentary Earth memory without restoring autobiography.
+8. Merrowgate is revealed through lived arrival rather than exposition.
+9. Red enters because he needs work, information and mobility.
+10. The chapter stops before formal Merrowgate intake.
+
+The chapter does not prematurely begin CH-028.
+
+## Action / Engagement — PASS
+
+Primary engagement event:
+
+**Loaded handcart slipping on a wet boarding ramp after a passing vessel wake.**
+
+Resolution uses:
+- experienced crew behavior;
+- rope;
+- wheel wedge;
+- body positioning;
+- direct instruction;
+- Red contributing one useful task.
+
+Red does not become the entire solution.
+
+This continues the series rule that supporting people remain competent even when Red is overwhelmingly powerful.
+
+## Power Continuity — PASS
+
+**Play Logic uses:** 0  
+**Combat:** 0  
+**Power progression:** 0  
+**New ability unlocks:** 0
+
+Red's regeneration remains established background continuity through residual soreness and recovery.
+
+The chapter does not frame:
+- pain;
+- fatigue;
+- shoulder soreness;
+- travel discomfort
+
+as evidence of a raw-power ceiling.
+
+## Fourth-Wall Continuity — PASS
+
+No genuine Fourth-Wall Pause occurs in CH-027.
+
+This is intentional and valid.
+
+The Fourth-Wall Pause is available to Red from the beginning but is not subject to a per-chapter quota. The quieter transition benefits from allowing Red's ordinary first-person voice to carry the humor.
+
+## Earth-Memory Continuity — PASS
+
+The salt-air beat produces only sensory fragments:
+
+- coastline;
+- wind;
+- salt;
+- sunlight on water.
+
+It does not restore:
+- family;
+- chronology;
+- Earth location;
+- career;
+- personal relationships;
+- the protected cause of the explosion.
+
+This matches Soul-Drift memory erosion.
+
+## Language / Literacy — PASS
+
+Red still cannot read Veyran.
+
+Wayfarer Tongue Tokens:
+- translate ordinary nearby speech;
+- do not translate writing;
+- do not permanently teach language;
+- do not interact with his identity anomaly.
+
+No literacy progression is invented.
+
+## Comedy — PASS
+
+Comedy comes from:
 - ordinary travel expenses;
 - baggage fees;
+- the bag being treated as a paid passenger;
 - unreadable fare boards;
-- Sela's bandages;
-- a clerk refusing to react to Red's attempted banter;
-- transport workers treating Red's useful contribution as ordinary;
-- port traffic ignoring his attempt at a controlled entrance.
+- Sela's excessive bandages;
+- workers refusing to treat Red as special;
+- his failed attempt at a dramatic port entrance;
+- Veyr interrupting a rare emotional memory beat with muddy water.
 
-The humor is based on practical annoyance, contradiction, and understated self-awareness.
+The humor remains situational rather than reference-dependent.
 
-No:
-- joke quota;
-- repeated audience jokes;
-- repeated branding jokes;
-- excessive performance meta-commentary;
-- reference-dependent humor.
+## Merrowgate Introduction — PASS
 
-# Travel / Worldbuilding Review
+Merrowgate is established visually through:
 
-**PASS.**
-
-The manuscript preserves the approved route logic:
-
-Greywake departure
-→ multiple days of ordinary Avarran road/river travel
-→ larger commercial transfer point
-→ Brasswater-facing approach
-→ Merrowgate outer arrival staging.
-
-It does not invent:
-- an exact unsupported Greywake–Merrowgate distance;
-- a new named intermediary city;
-- teleportation;
-- gate travel.
-
-Merrowgate is introduced through:
-- docks;
-- ships;
+- masts;
+- coastal vessels;
+- cargo ships;
 - cranes;
 - warehouses;
-- chain bridges;
 - dry docks;
+- chain bridges;
 - porters;
-- cargo traffic;
-- multilingual commerce.
+- merchants;
+- multilingual commerce;
+- passenger intake.
 
-No local political exposition appears early.
+No political or antagonist exposition is front-loaded.
 
-# Language / Literacy Review
+## Supporting-Cast Boundary — PASS
 
-**PASS.**
+No named Merrowgate arc character appears.
 
-Red remains unable to read Veyran.
+CH-027 does not introduce:
+- Iria Voss;
+- Samir Kesran;
+- Nessa Quill;
+- Dalen Marr;
+- Cassian Venn.
 
-The manuscript explicitly preserves:
-- unreadable signs;
-- unreadable fare boards;
-- inability to understand ordinary speech away from translation support.
+No Greywake character accompanies Red.
 
-Wayfarer Tongue Tokens are used only as established institutional trade tools.
+Sela is referenced only through already-canonized bandages.
 
-They:
-- translate ordinary speech;
-- do not translate writing;
-- do not grant permanent language knowledge;
-- do not interact with Red's System identity.
+## Antagonist Boundary — PASS
 
-Red does not receive a personal permanent translation device.
-
-# Injury / Regeneration Review
-
-**PASS.**
-
-Greywake injury continuity persists through:
-- shoulder pain;
-- rib/side soreness;
-- stiffness;
-- travel fatigue;
-- Sela's bandages.
-
-Regeneration is not used as a spectacle or reset.
-
-No new major injury is introduced.
-
-# Action Review
-
-**PASS.**
-
-The only action escalation is the locked ordinary cargo-transfer hazard.
-
-Cause:
-- passing vessel wake;
-- wet ramp;
-- shifting handcart.
-
-Resolution:
-- crew skill;
-- rope;
-- wedge;
-- body positioning;
-- Red following a direct instruction.
+Cassian Venn and the Merrowgate conspiracy remain outside Red's current knowledge.
 
 No:
-- sabotage;
-- supernatural failure;
-- monster attack;
-- combat.
-
-# Power Review
-
-**PASS.**
-
-Play Logic manifestations:
-
-**0**
-
-The manuscript contains no Stage I manifestation and no Stage II behavior.
-
-The transport problem is solved without power.
-
-This correctly reinforces judgment rather than raw progression.
-
-# Aura / Reputation Review
-
-**PASS.**
-
-Aura attempt:
-- Red adjusts coat/posture and tries to enter the trade zone with controlled presence.
-
-Outcome:
-- porters do not slow;
-- a cart driver redirects him;
-- the port is too busy to care.
-
-This is a valid **indifference/backfire-lite** result.
-
-CH-029 remains the major Greywake-rumor/reputation introduction.
-
-No reputation plot is prematurely started here.
-
-# Supporting Cast Boundary Review
-
-**PASS.**
-
-No named Merrowgate arc cast appears:
-
-- no Iria Voss;
-- no Samir Kesran;
-- no Nessa Quill;
-- no Dalen Marr;
-- no Cassian Venn.
-
-Sela is referenced only through previously canonized bandages/medical continuity and does not appear in the chapter.
-
-No Greywake character travels with Red.
-
-# Antagonist Review
-
-**PASS.**
-
-Cassian Venn and Venn Maritime House remain completely outside Red's CH-027 experience.
-
-No:
-- Cassian appearance;
-- Venn name;
-- suspicious symbol;
-- charter argument;
 - sabotage clue;
-- conspiracy framing.
+- Venn branding;
+- suspicious charter exposition;
+- conspiracy hint;
+- antagonist cameo
 
-The antagonist remains independently active at the volume-architecture level without artificial early signaling.
+is added merely to force suspense.
 
-# Continuity / Knowledge Review
+## Mystery Boundary — PASS
 
-**PASS.**
+**New F-ID planted:** 0  
+**M-ID advancement:** 0  
+**F-010:** remains planned for CH-038 / not planted.
 
-At CH-027 end Red has earned only practical knowledge that:
+No protected Soul-Drift truth is revealed.
 
-- ordinary road/river travel is expensive;
-- the route reaches the Brasswater trade sphere;
-- trade-heavy locations use Wayfarer Tongue Tokens;
-- Merrowgate is a major port;
-- Merrowgate visibly offers work and onward passage;
-- his remaining money makes earning again necessary.
+## CH-028 Handoff — PASS
 
-He does not yet know:
+The final movement is toward the passenger intake lane.
 
-- Merrowgate's identity-verification result;
-- Harbor Watch politics;
-- Harbor Council structure;
-- Venn Maritime House;
-- Unified Harbor Security Charter;
-- sabotage pattern;
-- Cassian;
-- the named supporting cast.
-
-# Mystery / Foreshadowing Review
-
-**PASS.**
-
-New F-ID planted:
-
-**0**
-
-M-ID advancement:
-
-**0**
-
-F-010 remains:
-
-**PLANNED — CH-038 / NOT YET PLANTED**
-
-CH-027 does not advance M-002.
-
-The independent Merrowgate identity failure is correctly reserved for CH-028.
-
-No protected truth appears:
-- Savael;
-- Exterior Needle;
-- Exterior Echo;
-- Great Design;
-- continuity translocation;
-- self-model origin;
-- technical Fate model;
-- Exception Covenant;
-- Eidrathi endgame truth.
-
-# CH-028 Boundary Review
-
-**PASS.**
-
-CH-027 ends while Red is approaching the passenger intake lane.
-
-It does not begin:
+CH-027 does not begin:
 - registry verification;
-- identity appraisal;
-- Iria's introduction;
-- Dalen's rumor recognition;
-- any CH-028 conflict.
+- Merrowgate identity appraisal;
+- Harbor Watch conflict;
+- named-cast introductions;
+- formal employment;
+- antagonist investigation.
 
-The handoff is clean.
+# Final Decision
 
-# Final Gate 9 Decision
+# **PASS — CH-027 CURRENT CANON**
 
-# PASS
+CH-027 is now synchronized with the locked Soul-Drift / close-first-person / final-story-engine standard.
 
-CH-027 — Salt in the Air is approved for canonization.
-
-**Canonical Word Count:** 2,108  
+**Canonical Word Count:** 1,869  
 **Play Logic Uses:** 0  
 **New F-ID:** 0  
 **M-ID Advancement:** 0  
 **Named Merrowgate Cast Introduced:** 0  
+**Canonical Opening:** “Freedom, I discovered, had expenses.”  
 **Canonical Final Line:** “Merrowgate would do.”
 
-After canonization, the only authorized next production step is:
+**Authorized next production step:**
 
 **CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.**

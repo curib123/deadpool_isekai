@@ -26,7 +26,7 @@ Tavian took the sheet. He compared it with the wrong-moving branch. "That is the
 
 Maelis lifted her packet. "Custody entries, service references, Jessa's signed explanation. Originals remain secured."
 
-Good. Evidence had survived the battle. Now they had to survive the evidence owner.
+*Good. Evidence had survived the battle. Now they had to survive the evidence owner.*
 
 The old-service housing sat inside a shallow stone recess beside the fork. Hesk stood beside it. The Roadmaster key was already inserted.
 
@@ -92,7 +92,7 @@ Red said nothing. "You survive consequences they cannot. You take wounds that ki
 
 Partly true. He continued. "Do not pretend you are different from me."
 
-Red looked at the housing. The outer road. his bloodstained sleeve from the ridge-hounds. "I'm not."
+Red looked at the housing. The outer road. His bloodstained sleeve from the ridge-hounds. "I'm not."
 
 His eyes narrowed. "But there is a difference."
 
@@ -106,7 +106,7 @@ His hand moved toward the key.
 
 Jessa saw it. "He's rotating the plate." Hesk turned the key.
 
-Red crossed the gap before the next click. his hand closed around his wrist. He pulled.
+Red crossed the gap before the next click. His hand closed around his wrist. He pulled.
 
 Nothing happened. For the first time since Red met him, Rovan Hesk looked at him like he had remembered he was not an employee. Good. "You had your turn."
 
@@ -316,7 +316,7 @@ The main body continued through. The outer homestead road stayed clear of the ma
 
 Kellan still could not walk. The seasonal bridge was still gone. Trade would still pay for damaged infrastructure.
 
-The migration would still leave ecology confused. his power changed none of those facts because they had already happened. But the final choice was visible.
+The migration would still leave ecology confused. His power changed none of those facts because they had already happened. But the final choice was visible.
 
 Recorded. Shared. No private ledger.
 

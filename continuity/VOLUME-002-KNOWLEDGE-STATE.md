@@ -3,7 +3,7 @@
 **Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
 **Volume:** 2  
 **Destination:** DEST-002 — Merrowgate  
-**Status:** CANON SUPPORT RECORD — SOUL-DRIFT RETCON ACTIVE / CH-027 PROSE STALE / CH-028 PAUSED
+**Status:** CANON SUPPORT RECORD — SOUL-DRIFT RETCON ACTIVE / CH-027 CURRENT CANON / CH-028 AUTHORIZED
 
 # 0. Soul-Drift / Story-Intruder Knowledge Override
 
@@ -15,7 +15,7 @@ Writer truth:
 - Red retains deep meta-comedic/media cognitive residue;
 - Fourth-Wall Pause is available from the beginning;
 - Red has no power progression and no conventional moral-development arc;
-- CH-027's event sequence remains planned/canon-compatible, but its current prose is stale and must be rewritten.
+- CH-027's event sequence and prose are synchronized to the Soul-Drift close-first-person standard and Gate 9 PASS.
 
 # 0A. Overpowered Retcon Knowledge Override
 
@@ -376,7 +376,7 @@ Canonical final line:
 
 **“Merrowgate would do.”**
 
-**Official next step:** CH-027 — Salt in the Air → Soul-Drift / close-first-person / final story-engine manuscript rewrite/revalidation. CH-001 through CH-026 are complete and Gate 9 PASS. CH-028 remains paused.
+**Official next step:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8. CH-001 through CH-027 are complete and Gate 9 PASS.
 
 
 # Current Soul-Drift Synchronization Authority — 2026-09-20

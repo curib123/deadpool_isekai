@@ -25,7 +25,7 @@ This audit does not claim every reader will find every chapter equally exciting.
 | CH-014 | Red vs Hesk ideological/operational confrontation over necessary losses | Social confrontation | PASS — NON-COMBAT |
 | CH-015 | Active lure-site defense + Red's informed mistake | Combat / Decision | PASS — HYBRID |
 | CH-016 | Backflow disaster, route loss, Kellan injury, danger turns toward Greywake | Disaster / Combat pressure | PASS — HYBRID |
-| CH-017 | Emergency treatment, blame, responsibility, and Red choosing to stay | Consequence / Character conflict | PASS — NON-COMBAT |
+| CH-017 | Emergency treatment, blame, causal consequence, and Red staying because the mess is now personally his problem | Consequence / Character conflict | PASS — NON-COMBAT |
 | CH-018 | Coalition plans a third option under time/ecology pressure | Tactical conflict / Countdown | PASS — NON-COMBAT |
 | CH-019 | Broken North construction under hostile pressure | Dangerous work / Action | PASS — HYBRID |
 | CH-020 | Evidence operation + Hesk escape with the final key | Pursuit / Operational conflict | PASS — HYBRID |

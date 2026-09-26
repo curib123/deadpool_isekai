@@ -31,11 +31,11 @@ The Main Caravan Road looked different now that Red knew what keeping it alive c
 
 Every few hundred paces, newer work crossed older damage. The road worked. Not because the frontier had agreed to behave.
 
-Because people kept spending wood, iron, time, money, and irritation on forcing it to. Annoyingly competent. they passed merchants heading toward Greywake, a supply wagon loaded with grain sacks, and a covered passenger cart moving the other direction.
+Because people kept spending wood, iron, time, money, and irritation on forcing it to. Annoyingly competent. They passed merchants heading toward Greywake, a supply wagon loaded with grain sacks, and a covered passenger cart moving the other direction.
 
 Drivers exchanged signals. Guards watched the shoulders. Nobody looked heroic.
 
-Everything kept moving. That might have been more important. their first stop was a toll marker built beside a wide drainage channel.
+Everything kept moving. That might have been more important. Their first stop was a toll marker built beside a wide drainage channel.
 
 Two Guild workers checked wagon tags while one of their guards asked about traffic farther ahead. Red stepped away from the third wagon to stretch his legs. That was when he noticed a man crouched beside the road.
 
@@ -177,7 +177,7 @@ Tavian picked up his polearm.
 
 "I said unusual."
 
-The toll workers finished checking the last wagon. their guard waved the caravan forward. Tavian started walking in the same direction.
+The toll workers finished checking the last wagon. Their guard waved the caravan forward. Tavian started walking in the same direction.
 
 Red looked at him.
 
@@ -329,7 +329,7 @@ The guard answered.
 
 Tavian said nothing. Somehow that made the answer feel more incomplete. Not false.
 
-Incomplete. they moved again after the rest stop. Tavian continued in the same direction, still refusing to admit he was traveling with them.
+Incomplete. They moved again after the rest stop. Tavian continued in the same direction, still refusing to admit he was traveling with them.
 
 The road followed the forest edge before bending around a low ridge. One guard rode ahead. The other stayed behind the second wagon.
 
@@ -357,9 +357,9 @@ The predator committed to the chase before it seemed to notice the caravan. The 
 
 Predator. Five wagons. Drivers.
 
-Passengers. Two guards. Tavian.
+Passengers. Two guards. Tavian. Red.
 
-him. Tavian moved first.
+Tavian moved first.
 
 "Drivers, hold the wagons."
 

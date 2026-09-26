@@ -2,7 +2,7 @@
 
 **Owners:** A100 Continuity Director + A102 Knowledge-State Editor  
 **Phase:** 3 — Mystery Foundation  
-**Status:** CANON SUPPORT RECORD — SOUL-DRIFT / CLOSE FIRST-PERSON / FOURTH-WALL-PAUSE SYNCHRONIZED  
+**Status:** CANON SUPPORT RECORD — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FOURTH-WALL-PAUSE SYNCHRONIZED  
 **Revalidated:** 2026-09-26
 
 This file tracks who is allowed to know long-term mystery information.
@@ -19,7 +19,7 @@ If an older file says Savael, a god, the Exterior Needle, Fate, or the World Sys
 
 1. A character cannot act on writer truth unless the knowledge path is explicitly earned.
 2. Writer truth is never automatically narration truth.
-3. Canon Red prose is **close first-person limited**.
+3. Canon Red prose is **distant third-person limited**; Red remains the focal character but not the narrator.
 4. Red may narrate only what he perceives, remembers, guesses, misunderstands, invents, or chooses to tell.
 5. Native factions may possess fragments, evidence, or false models without possessing the correct explanation.
 6. A genuine direct reader/audience address triggers **Fourth-Wall Pause from CH-001 onward**.
@@ -323,7 +323,7 @@ Arc 1 does **not** reveal:
 - all 12 M-IDs have explicit knowledge partitions;
 - current origin is natural far Soul Drift;
 - Savael/Exterior Needle summoning is explicitly prohibited;
-- close first-person Red narration is locked;
+- distant third-person limited Red focalization is locked;
 - Fourth-Wall Pause is available from CH-001;
 - Red does not begin with writer-only metaphysical truth;
 - native characters cannot remember genuine reader-address pauses;

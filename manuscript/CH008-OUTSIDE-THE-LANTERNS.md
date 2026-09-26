@@ -15,9 +15,13 @@ Not why a man who had been opened below the ribs yesterday was already walking d
 
 "How much?"
 
-That answer deserved thought. his side was mostly closed now. Mostly.
+That answer deserved thought.
 
-Sela had released him from immediate observation with several instructions, two warnings, and the expression of a woman who expected him to interpret all of them creatively. his ribs still hurt when Red twisted too far. That did not mean he was weak.
+*Mostly.*
+
+His side was mostly closed now.
+
+Sela had released him from immediate observation with several instructions, two warnings, and the expression of a woman who expected him to interpret all of them creatively. His ribs still hurt when Red twisted too far. That did not mean he was weak.
 
 It meant ribs were dramatic. Kellan waited. Red pointed at the work cart.
 
@@ -37,7 +41,7 @@ No follow-up. No opportunity to explain how medically upsetting Red had become. 
 
 A charged Wayfarer Tongue Token hung from the side of the cart, keeping everyone's spoken Valic understandable. Two workers walked ahead carrying axes and hand tools. A third pushed a narrow wheelbarrow loaded with iron straps, nails, rope, and pieces of reused timber.
 
-Red picked up the short boards. Being an anomaly remained surprisingly compatible with lumber. they left the better road behind before he found a way to object.
+Red picked up the short boards. Being an anomaly remained surprisingly compatible with lumber. They left the better road behind before he found a way to object.
 
 The change was not dramatic. No gate. No warning bell.
 
@@ -75,7 +79,7 @@ It was maintained differently. A rut had been filled with loose stone near one f
 
 Someone had reopened a drainage channel with a shovel and left the fresh mud piled beside it. Everything looked patched. Used.
 
-Repeatedly saved from becoming worse. they passed a cart carrying sacks toward Greywake. Another came the other direction with iron tools and salt.
+Repeatedly saved from becoming worse. They passed a cart carrying sacks toward Greywake. Another came the other direction with iron tools and salt.
 
 A woman outside a workshop called to Kellan.
 
@@ -87,7 +91,7 @@ A woman outside a workshop called to Kellan.
 
 "It isn't."
 
-She nodded like that answer belonged to a familiar language. Nobody asked who Red was. his reputation continued to fail spectacularly outside centralized administration.
+She nodded like that answer belonged to a familiar language. Nobody asked who Red was. His reputation continued to fail spectacularly outside centralized administration.
 
 The bridge appeared beyond a cluster of timber sheds. Calling it a bridge was generous. But correct.
 
@@ -101,7 +105,7 @@ Another levered up a warped board. The third stacked stone near the soft approac
 
 He put down his axe and crouched at the edge. Everyone else kept working. Authority confirmed.
 
-Red set the short boards down. his ribs complained. He ignored them.
+Red set the short boards down. His ribs complained. He ignored them.
 
 Kellan ran one hand along the exposed support. Tapped twice. Looked underneath.
 
@@ -181,7 +185,7 @@ A reminder that his body had been rebuilt recently and the nerves had apparently
 
 "You're still doing it."
 
-Red set it down. his dignity survived. Barely.
+Red set it down. His dignity survived. Barely.
 
 He pointed toward a lighter crate.
 
@@ -417,7 +421,7 @@ He picked up his shovel. That was the review. Red looked at Kellan.
 
 "Exactly."
 
-He handed him a waterskin. Red drank. his ribs still hurt from the earlier lifting.
+He handed him a waterskin. Red drank. His ribs still hurt from the earlier lifting.
 
 The manifestation had not made the pain worse. Why would it? The support had been easier than carrying four bad crates.
 
@@ -477,7 +481,7 @@ Then he drew a wheel symbol beneath it and crossed out a larger wagon pictogram.
 
 "Because everyone understands a broken wagon."
 
-Reasonable. The supply cart continued west. they walked with it toward the next junction.
+Reasonable. The supply cart continued west. They walked with it toward the next junction.
 
 This road was worse. Not unusable. Tired.
 

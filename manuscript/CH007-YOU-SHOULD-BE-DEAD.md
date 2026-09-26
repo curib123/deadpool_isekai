@@ -191,7 +191,7 @@ Torn muscle pulled. Heat burned deep beneath the skin. Something inside him tigh
 
 Blood still ran down his side, but slower. The damage was moving backward. Red did not know why.
 
-Red had no time to care. The worker on the ground was still bleeding. That was the part the body restoration could not solve.
+Red had no time to care. The worker on the ground was still bleeding. That was the part the same impossible logic inside Red could not solve for somebody else.
 
 "Jackal, back!" Tavian shouted.
 

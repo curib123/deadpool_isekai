@@ -296,9 +296,9 @@ He did not resist. Pain had already won that argument. Before they went inside, 
 
 "You are recovering."
 
-"That isn't a power limit."
+"I'm still functional."
 
-"I did not say it was. I said stop making recent trauma somebody else's planning problem."
+"I know. Stop making recent trauma somebody else's planning problem."
 
 Fair. We returned to the militia yard. Broken North was possible.
 

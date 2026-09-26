@@ -4,7 +4,7 @@
 **Manuscript:** `manuscript/CH023-GREYWAKE-HOLDS.md`  
 **Review Date:** 2026-09-20
 **Status:** PASS — CURRENT CANON REVALIDATED / BATTLE QA PASS
-**Word Count:** 1991
+**Word Count:** 1,973
 
 > **Final-engine authority note (2026-09-20):** Any legacy wording below that treats Stage labels, manifestation counts, fatigue, injury, or regeneration as a raw-capacity/progression limit is superseded by the current manuscript, current scene-architecture override, and Soul-Drift / Final Story-Engine revalidation. Event/reveal/knowledge checks remain authoritative.
 
@@ -244,3 +244,13 @@ CH-023 — Greywake Holds is approved for canonization.
 After canonization, the only authorized next production step is:
 
 **CH-024 — No One Gets Chosen → Detailed Scene Architecture → Gate 8.**
+
+
+# Repeated-Recheck Natural-Prose Revalidation — 2026-09-26
+
+**Status:** PASS — CURRENT CANON
+
+- author-facing anti-retcon wording removed from reader prose;
+- final Red power/personality model preserved through natural scene behavior;
+- plot, mystery, battle outcome and continuity unchanged;
+- publication copy synchronized exactly.

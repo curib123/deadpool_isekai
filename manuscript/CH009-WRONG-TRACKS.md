@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 2,998
+**Word Count:** 3,000
 **Chapter QA:** `qa/CH-009-GATE-9-CHAPTER-QA.md`
 
 I stepped out of my rented room and found Tavian waiting at the end of the lane. Polearm over one shoulder. Field pack at his side.
@@ -463,9 +463,9 @@ Tavian struck the ground with the polearm shaft. The crack made the animal jump 
 
 "Done."
 
-I released the obstruction. It folded out of the world. No cracking from strain.
+I released the obstruction. It folded out of the world because I was done with it.
 
-No hidden limit had appeared. Its job was finished. The fourth predator pushed into the reopened gap.
+Three breaths. That was all Tavian had asked for. The fourth predator pushed into the reopened gap.
 
 Tavian was already there. He slammed the polearm shaft across its chest and redirected it toward the open west side. The encirclement broke.
 

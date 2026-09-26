@@ -26,7 +26,7 @@
 | CH-014 | Middle → late | PASS | Hesk's necessary-loss argument and operational stakes |
 | CH-015 | Late middle | PASS | Active lure defense and Red's informed mistake |
 | CH-016 | Dark turn | PASS | Backflow, Kellan's injury, bridge loss, danger toward Greywake |
-| CH-017 | Late middle | PASS | Medical aftermath and Red's factual responsibility |
+| CH-017 | Late middle | PASS | Medical aftermath and Red accepting causal involvement without hero-duty conversion |
 | CH-018 | Late middle | PASS | Third-option coalition plan |
 | CH-019 | Late middle | PASS | Broken North construction under hostile pressure |
 | CH-020 | Pre-climax | PASS | Evidence secured, Hesk escapes with one key |

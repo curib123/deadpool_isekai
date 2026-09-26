@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-26
-**Word Count:** 1843
+**Word Count:** 1,880
 **Volume:** 2 — Merrowgate Arc
 
 Freedom, I discovered, had expenses.
@@ -201,9 +201,15 @@ The Wayfarer Token caught one instruction cleanly.
 
 My hand was already moving toward the cart.
 
-I stopped.
+Something impossible would have been easy.
 
-Grabbed the rope instead.
+Probably.
+
+I had never bothered to find out what "easy" meant at the upper end of anything.
+
+The crew already had a plan, though, and I wanted to see if it worked.
+
+I grabbed the rope instead.
 
 Then planted one boot against the raised edge of the ramp.
 

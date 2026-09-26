@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 2,468
+**Word Count:** 2,471
 **Chapter QA:** `qa/CH-014-GATE-9-CHAPTER-QA.md`
 
 The council chamber was full before I arrived. Representatives filled most of the chairs. Two benches had been dragged against the walls. Three stacks of records waited in front of Maelis.
@@ -41,7 +41,7 @@ I looked at her. "Deeply disappointing."
 
 Kellan stepped closer to the table. "Whatever happens next, the outer homesteads are in the room this time." One representative nodded.
 
-Another did not. Brynn looked at Hesk. "No lure is altered without shared authorization."
+Another did not. Brynn looked at Hesk. "No lure moves without shared authorization. Militia watches the sites."
 
 Hesk's gaze sharpened. "Then the Guild retains operational control until another structure exists."
 

@@ -24,10 +24,11 @@ Red is:
 - permanently overpowered from the opening;
 - System UNDEFINED / NO RECORD / FAILED / UNAVAILABLE;
 - without levels, classes, XP, stages, awakenings, or power progression;
-- extreme-regeneration capable;
+- capable of automatic Play Logic body restoration;
 - capable of unbounded imagination-based Play Logic;
+- possesses passive Jackal Luck that bends coincidence/probability;
 - an active fourth-wall breaker;
-- a first-person narrator;
+- the focal character of distant third-person limited narration;
 - self-centered;
 - theatrical;
 - aura-farming;

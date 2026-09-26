@@ -68,13 +68,21 @@ The guard gestured between us.
 
 "Tavian Rook. Crownspine Warden liaison."
 
-Tavian gave me one brief look, then returned to the tracks. Apparently I had not made the list of important environmental problems. I decided to correct the oversight.
+Tavian gave me one brief look, then returned to the tracks.
+
+Apparently I ranked below mud.
+
+Unacceptable.
 
 "Red Jackal."
 
 "Tavian Rook."
 
-That was it. No recognition. No alarm.
+Then he went back to the tracks.
+
+No recognition. No alarm. No respectful pause while he reconsidered every life choice that had led him to this meeting.
+
+I decided his standards required work.
 
 No question about why the System could not define me. He moved closer to the forest edge where the light hit the ground better. I adjusted position.
 

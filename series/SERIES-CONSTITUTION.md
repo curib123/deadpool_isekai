@@ -113,24 +113,34 @@ He may discover a practical behavior by accident and immediately treat it as nor
 
 The world is more interested in measuring Red than Red is interested in measuring himself.
 
-## 3A.2 World-On-His-Side Effect
+## 3A.2 Jackal Luck
 
-Red often behaves as though the world is his stage.
+Red possesses a real passive probability-distortion ability called **Jackal Luck**.
 
-This does **not** mean Fate literally guarantees his success.
+It bends:
+- coincidence;
+- timing;
+- ordinary chance;
+- who arrives at the wrong/right moment;
+- where an uncontrolled object lands;
+- which tiny failure matters;
+- which random choice becomes suspiciously useful.
 
-The narrative effect is created through:
-- outrageous confidence;
-- absurd luck at socially perfect moments;
-- other people overinterpreting what he did;
-- coincidences that make nonsense look intentional;
-- enemies assuming restraint means hidden strategy;
-- witnesses connecting unrelated facts into a legend;
-- Red improvising after everyone has already decided he planned it.
+Red does not consciously command exact outcomes.
 
-This may produce the recurring impression that reality itself is helping his performance.
+He often behaves first and discovers afterward that reality has arranged an absurdly convenient detail around him.
 
-Sometimes it should backfire.
+Jackal Luck does not guarantee victory.
+
+It may:
+- save Red while creating a worse problem;
+- produce the funniest useful outcome instead of the safest one;
+- help only Red;
+- make witnesses believe he planned something he absolutely did not plan.
+
+It is not direct control over Fate.
+
+It is Red's own anomaly bending probability around his causal presence.
 
 ## 3A.3 Accidental Legend / Misinterpretation Law
 
@@ -211,7 +221,7 @@ Red's three signature anomaly expressions share the Soul-Drift root:
 ## 5.1 Play Logic
 Imagination-driven reality manipulation with no known intrinsic ceiling.
 
-Its visual/comedic language may use:
+Its expressions may include:
 - impossible props;
 - cartoon-like physics;
 - transformations;
@@ -220,16 +230,38 @@ Its visual/comedic language may use:
 - symbolic effects;
 - absurd weapons;
 - environment edits;
-- conceptual interactions.
+- conceptual interactions;
+- automatic body restoration;
+- impossible survival;
+- reconstitution toward Red's persistent self-concept.
 
-This may evoke the freedom of live-action cartoon reality without copying any specific copyrighted scene or design.
+**Body restoration is not a separate regeneration power.**
 
-## 5.2 Self-Restoration
-Extreme regeneration. Ordinary lethal damage is not a meaningful long-term threat to Red.
+When Red's body repairs impossible damage, Play Logic is forcing reality back toward the version of Red his foreign self-model accepts as himself.
 
-Pain may still be funny, annoying, dramatic, or briefly serious.
+Pain, blood and temporary injury can still happen.
 
-Other people remain vulnerable.
+Other people and external consequences do not rewind.
+
+## 5.2 Jackal Luck
+Passive probability distortion.
+
+Jackal Luck makes the possible become suspiciously convenient around Red.
+
+It can affect:
+- coincidence;
+- timing;
+- random choices;
+- ordinary mechanical failures;
+- accidental discoveries;
+- social interruptions;
+- where uncontrolled events happen to land.
+
+Red cannot reliably order a specific lucky result.
+
+It is strongest as a story/comedy engine when he improvises and the world appears to support the performance afterward.
+
+Jackal Luck is not guaranteed victory and is not direct Fate control.
 
 ## 5.3 Fourth-Wall Pause
 Whenever Red genuinely breaks the fourth wall to address the reader/audience, local Veyran time stops.
@@ -358,7 +390,7 @@ This section is authoritative wherever older language is ambiguous.
 - His raw anomaly power has no progression arc.
 - Soul Drift remains a natural phenomenon, not a chooser or god.
 - Fourth-Wall Pause freezes Veyran time during genuine audience address.
-- Play Logic / imagination authority and extreme regeneration are available from the beginning.
+- Play Logic, Jackal Luck, and Fourth-Wall Pause are available from the beginning; impossible body restoration is a Play Logic expression.
 - Geography, world map, locked destination order, Greywake pacing spine, and Merrowgate pacing spine remain preserved.
 - Unexpected situations must be earned from Red's personality and must leave consequences.
 

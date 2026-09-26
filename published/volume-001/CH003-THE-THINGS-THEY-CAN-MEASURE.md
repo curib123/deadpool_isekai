@@ -436,9 +436,13 @@ Interesting.
 
 "Legal?"
 
-Jessa hesitated for half a second.
+Jessa hesitated for half a second. Her fingers tightened around the route packets.
 
 "Work that can be arranged privately."
+
+She had very carefully not called it legal.
+
+I respected professional survival instincts.
 
 Not the same answer.
 

@@ -54,7 +54,7 @@ Red waited. "That's it?"
 
 "You carry whatever is too heavy and go where people are short."
 
-his great promotion. Emergency Furniture. Red almost said it.
+His great promotion. Emergency Furniture. Red almost said it.
 
 Then someone outside shouted for another cart. The joke stopped being worth the time. "Fine."
 
@@ -74,7 +74,7 @@ The owner stared at her. "Those are our winter stores."
 
 "I know."
 
-Worst answer. It did not pretend he was wrong. He started unloading sacks.
+*Worst answer. It did not pretend he was wrong.* He started unloading sacks.
 
 Nobody cheered. People helped. That was most of the evacuation.
 
@@ -92,7 +92,7 @@ A perfect support. Done. Then a road worker dropped a jack beside him. "Lift her
 
 Red looked at the jack. Right. The driver needed something that would still exist when he was somewhere else making poor decisions.
 
-they used the jack. Two people held the wheel. Red levered the frame.
+They used the jack. Two people held the wheel. Red levered the frame.
 
 Another worker wrapped rope around the split. A farmer brought spare timber. "Higher."
 
@@ -158,7 +158,7 @@ Sela looked at him. Kellan stopped. Red took the handles. "Strong attempt."
 
 "Shut up."
 
-they lifted. He hissed through his teeth. Humor ended there.
+They lifted. He hissed through his teeth. Humor ended there.
 
 Before loading him, Brynn's runner arrived with households not confirmed clear. Kellan held out a hand. "Give me that."
 
@@ -178,7 +178,7 @@ The runner repeated the directions and left. Kellan tried to lift himself higher
 
 Sela tightened a transport strap. "Useful while lying down." Unfair.
 
-Medical. they loaded him with two other non-mobile patients. Treatment supplies went beneath the benches.
+Medical. They loaded him with two other non-mobile patients. Treatment supplies went beneath the benches.
 
 Everything else waited. Sela caught his wrist before Red left. "Hold it out."
 
@@ -318,7 +318,7 @@ Tavian looked at him. "You understand your role?"
 
 "It was not."
 
-Reasonable. they went to the lantern line. Greywake's outer lanterns had always looked too small for the dark around them.
+Reasonable. They went to the lantern line. Greywake's outer lanterns had always looked too small for the dark around them.
 
 Now they looked smaller. The road beyond descended through open ground before bending toward the tree line. Militia watched marked positions.
 
@@ -328,7 +328,7 @@ Another carried people. Nobody carried furniture anymore. Lure teams waited at a
 
 Broken North crews stood with tools. Maelis's custody copies were separated from field stock. Jessa remained in the Core with dispatch logs.
 
-Everyone had something to do. his job, for the moment, was standing still. Brynn checked the route. "Outer civilian line?"
+Everyone had something to do. His job, for the moment, was standing still. Brynn checked the route. "Outer civilian line?"
 
 "Clear enough. One final cart inbound."
 
@@ -348,7 +348,7 @@ No clock. No countdown. Road.
 
 Trees. Hesk was still out there. Maybe near the vulnerable housing.
 
-Maybe elsewhere. they could not stop Greywake to discover which. Red flexed his fingers.
+Maybe elsewhere. They could not stop Greywake to discover which. Red flexed his fingers.
 
 The impossible answer was still there. It had always been there. Using it would be a choice.
 

@@ -41,9 +41,9 @@ Reasonable. Still suspicious. He looked at his left side.
 
 He turned. Apparently that was the invitation. Red followed because competent people became more annoying when allowed to leave with information he wanted.
 
-his ribs still complained if Red twisted too quickly. They were allowed to complain. They had been broken recently.
+His ribs still complained if Red twisted too quickly. They were allowed to complain. They had been broken recently.
 
-Complaints were not authority. they reached the western edge of Greywake without much conversation. Tavian did not ask about Kellan's bridge.
+Complaints were not authority. They reached the western edge of Greywake without much conversation. Tavian did not ask about Kellan's bridge.
 
 Red told him anyway.
 
@@ -163,7 +163,7 @@ Finally. He tapped the map once.
 
 "A witness."
 
-Less flattering. More accurate. they left the maintained road.
+Less flattering. More accurate. They left the maintained road.
 
 The forest edge looked ordinary for the first ten minutes. Trees. Wet ground.
 
@@ -263,7 +263,7 @@ He looked at him.
 
 "I hate that you keep earning it."
 
-they followed the crossing north. Broken stems. Hair caught on bark.
+They followed the crossing north. Broken stems. Hair caught on bark.
 
 Mud pressed deep where several animals had forced themselves through a narrow opening even though easier ground lay twenty paces west. Red stopped when Tavian stopped. Without being told.
 
@@ -539,7 +539,7 @@ Nothing. Too early. Red looked at the trail.
 
 Red stopped. Repetition became annoying when correct. Tavian crouched where the grazers had started.
 
-Fresh hoof marks now cut the mud in several directions. Predator tracks crossed them. his own boot print sat where no useful boot print needed to be.
+Fresh hoof marks now cut the mud in several directions. Predator tracks crossed them. His own boot print sat where no useful boot print needed to be.
 
 Almost artistic. He pointed.
 
@@ -555,9 +555,9 @@ He looked up. That paused him.
 
 "Yes."
 
-they left the crossing. Tavian said nothing for several minutes. Red allowed the silence.
+They left the crossing. Tavian said nothing for several minutes. Red allowed the silence.
 
-Not because Red had become patient. He was curious what he would do with it. his ribs began aching from the walking.
+Not because Red had become patient. He was curious what he would do with it. His ribs began aching from the walking.
 
 Ordinary soreness. Nothing about the morning had reduced what Red could do. Tavian noticed anyway.
 
@@ -575,7 +575,7 @@ He looked at him.
 
 "I was not reassuring you."
 
-Accurate communication. they followed the old trail northeast without walking in its center. Tavian searched softer ground along the old wheel depressions.
+Accurate communication. They followed the old trail northeast without walking in its center. Tavian searched softer ground along the old wheel depressions.
 
 The recent pack tracks were obvious now. Even Red could see them. He ignored most.
 
@@ -587,7 +587,7 @@ The recent pack tracks were obvious now. Even Red could see them. He ignored mos
 
 "They are from today. I need older sign."
 
-they found the first clean layer about fifty paces farther on. Runoff had exposed dark soil beneath an overhanging bank. Protected from direct rain.
+They found the first clean layer about fifty paces farther on. Runoff had exposed dark soil beneath an overhanging bank. Protected from direct rain.
 
 Tavian crouched. Red stayed back without being told. He glanced at him.
 
@@ -617,7 +617,7 @@ Red smiled. He noticed.
 
 "I regret teaching you language."
 
-they continued. The connector bent farther north around a fallen tree. The tracks bent with it.
+They continued. The connector bent farther north around a fallen tree. The tracks bent with it.
 
 Not one group. Layers. Different sizes.
 
@@ -689,7 +689,7 @@ Red smiled.
 
 "Preferably."
 
-Red looked back at the tracks. his experiment had been faster. It had also destroyed the observation and invited a pack into the conversation.
+Red looked back at the tracks. His experiment had been faster. It had also destroyed the observation and invited a pack into the conversation.
 
 Tavian's method was slower. It was also still evidence. Annoying.
 
@@ -751,7 +751,7 @@ Tavian looked along the abandoned connector.
 
 "No promises."
 
-He packed the map away. they stood for another moment. The road behind them worked.
+He packed the map away. They stood for another moment. The road behind them worked.
 
 The old northern trail did not. Yet the animals kept choosing the broken direction. That was not proof of who or what was causing it.
 

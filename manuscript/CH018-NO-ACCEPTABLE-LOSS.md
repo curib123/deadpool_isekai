@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 2,330
+**Word Count:** 2,322
 **Chapter QA:** `qa/CH-018-GATE-9-CHAPTER-QA.md`
 
 The emergency route board was crowded with markers. Tavian stood over it with both hands on the table. Brynn moved a militia token.
@@ -301,9 +301,9 @@ He did not resist. Pain had already won that argument. Before they went inside, 
 
 "You are recovering."
 
-"That isn't a power limit."
+"I'm still functional."
 
-"I did not say it was. I said stop making recent trauma somebody else's planning problem."
+"I know. Stop making recent trauma somebody else's planning problem."
 
 Fair. We returned to the militia yard. Broken North was possible.
 

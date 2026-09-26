@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 4,208
+**Word Count:** 4,198
 **Chapter QA:** `qa/CH-007-GATE-9-CHAPTER-QA.md`
 
 One road worker kicked the leaning marker post.
@@ -43,7 +43,7 @@ Tavian stood and wiped mud from his glove.
 
 "It sounds temporary."
 
-There it was. I looked toward the brush beyond the ditch. We were close enough to Greywake that the workers moved like men doing a familiar job instead of prey pretending not to be nervous. Their wagon was old. Their tools were scratched. One man complained about the marker post. Another complained about the first man complaining.
+Temporary. I looked toward the brush beyond the ditch. We were close enough to Greywake that the workers moved like men doing a familiar job instead of prey pretending not to be nervous. Their wagon was old. Their tools were scratched. One man complained about the marker post. Another complained about the first man complaining.
 
 Normal work. Yesterday, Tavian had shown me animals crossing routes they should not be crossing. Today, Greywake still sent people outside the wall.
 
@@ -157,7 +157,7 @@ Then someone screamed behind me. The center lane. I had left it.
 
 Tavian had shifted toward the lead animal because I had gone forward. That opened the wagon side. The second predator had used the space.
 
-One of the workers was down beside the rear wheel. The animal had his lower leg in its jaws. There it was.
+One of the workers was down beside the rear wheel. The animal had his lower leg in its jaws. Clear enough.
 
 Not a mystery. Not bad luck. Geometry.
 
@@ -435,7 +435,7 @@ The assistant looked at the wound.
 
 "We still have afternoon."
 
-There it was. Local healing magic had limits because local healers had resources, patients, time, and apparently the misfortune of living in a world where people kept getting bitten. Sela packed the wound, wrapped it, and secured the leg.
+That explained the dim crystal. Local healing magic had limits because local healers had resources, patients, time, and apparently the misfortune of living in a world where people kept getting bitten. Sela packed the wound, wrapped it, and secured the leg.
 
 "Pain tonic. Small dose."
 
@@ -643,7 +643,7 @@ Time resumed. The steam moved again. Sela spoke.
 
 "You should be dead."
 
-There it was. Not mystical. Not ceremonial.
+Not mystical. Not ceremonial.
 
 Medical opinion. I leaned back on one hand.
 
@@ -777,7 +777,7 @@ I waited.
 
 "The useful measurement is what your choice does to the people who cannot survive the same mistake."
 
-There it was. A sensible argument. I hated those.
+A sensible argument. I hated those.
 
 "You lived," she said. "Fine."
 
@@ -823,7 +823,7 @@ Sela stood.
 
 "Then consider this a poor financial decision."
 
-There it was. Tiny. Dry.
+Tiny. Dry.
 
 Allowed. I looked at the ceiling. I had survived the hit.
 

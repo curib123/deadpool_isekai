@@ -1,11 +1,11 @@
 # CH-019 Publish Version QA
 
 **Canon Source:** `manuscript/CH019-BUILD-THE-WRONG-ROAD.md`  
-**Canon Source SHA:** `e71e25a7c4e2e5eb2df9c4a286a46203369c6a69`
+**Canon Source SHA:** `247595f2413be1a55a7c0f4b72f0c3f94decee5a`
 **Publication Copy:** `published/volume-001/CH019-BUILD-THE-WRONG-ROAD.md`  
-**Publication Copy SHA:** `7a04da45735b7aaa90c6a09616bc0fd698d3e4cf`
+**Publication Copy SHA:** `461138ea72e18cf9f4ab59589ca07812116c81ce`
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-20
+**Review Date:** 2026-09-26
 **Status:** PUBLISH-READY — GATE 11 PASS / OVERPOWERED RETCON REFRESH
 
 # Source Integrity
@@ -24,3 +24,11 @@
 
 # Decision
 **PUBLISH-READY — GATE 11 PASS.**
+
+
+# Repeated-Recheck Publish Revalidation
+
+**Result:** PASS — 2026-09-26
+
+- current canon vs publication prose: **EXACT MATCH**
+- no publication-only semantic change: **PASS**

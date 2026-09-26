@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 2259
+**Word Count:** 2,264
 **Chapter QA:** `qa/CH-013-GATE-9-CHAPTER-QA.md`
 
 The council map table had disappeared under evidence. Route ledgers. Guild work orders. Tavian's field notes. Kellan's road sketches. Maelis's rubbing from the Broken North lure.
@@ -65,7 +65,7 @@ Maelis checked another page. "Before the Broken North closure."
 
 "Yes."
 
-Kellan pointed to another packet. "And that?" Jessa hesitated before opening it. "Replacement reservoir. Vent housing. Two anchoring collars."
+Kellan pointed to another packet. "And that?" Jessa hesitated, glanced once at Hesk, then opened it anyway. "Replacement reservoir. Vent housing. Two anchoring collars."
 
 "Location?"
 

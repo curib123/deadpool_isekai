@@ -19,7 +19,7 @@ He handed the card back.
 
 "Foreman."
 
-No name. Just foreman. Efficient.
+*No name. Just foreman. Efficient.*
 
 He pointed at a stack of iron clamps beside the wagon. "Carry those." Red looked at the clamps.
 
@@ -31,7 +31,7 @@ No questions about his missing class. No concern about his undefined level. No p
 
 Red had two arms, had arrived on time, and could carry metal. For road maintenance, that was enough. He liked the Guild a little more.
 
-they left Greywake just after sunrise: six workers, two road guards, the foreman, one repair wagon, and him. The Wayfarer Tongue Token stayed hooked beneath the wagon roof so the crew could speak to him when they needed to. Outside its reach, their Valic went back to unfamiliar sound. The painted route boards remained unreadable too.
+They left Greywake just after sunrise: six workers, two road guards, the foreman, one repair wagon, and him. The Wayfarer Tongue Token stayed hooked beneath the wagon roof so the crew could speak to him when they needed to. Outside its reach, their Valic went back to unfamiliar sound. The painted route boards remained unreadable too.
 
 Consistency. The Main Caravan Road was wider than Red had realized on his first walk into Greywake. Outside the gate, the packed surface had been raised above the surrounding ground with gravel, timber reinforcement, and drainage cuts along both sides. Stone markers stood at regular intervals. Fresh fill crossed older ruts. Replaced boards sat beside weathered ones. Brush had been cut back from the shoulders.
 
@@ -43,7 +43,7 @@ Every few hundred paces, newer repairs crossed older damage. Keeping the road op
 
 He stared at him. The token translated the silence perfectly. Red decided to conserve material.
 
-they passed two caravans heading toward Greywake. Both slowed near their wagon. Drivers exchanged quick words with the foreman, then moved on.
+They passed two caravans heading toward Greywake. Both slowed near their wagon. Drivers exchanged quick words with the foreman, then moved on.
 
 Grain. Tools. Cloth.
 
@@ -337,7 +337,7 @@ That simplified things.
 
 "Hold it," Red said.
 
-The workers braced. Red raised the hammer. his shoulders immediately filed a complaint.
+The workers braced. Red raised the hammer. His shoulders immediately filed a complaint.
 
 One strike. Drive the pin. That was all.
 
@@ -359,7 +359,7 @@ The predator near the wagon chose that moment to come closer. Red was still hold
 
 It lowered itself. Red turned the shaft and let the oversized head drop between the animal and the workers. The creature stopped.
 
-So did Red. they considered each other. He pushed forward.
+So did Red. They considered each other. He pushed forward.
 
 The hammer head hit the ground, threw mud, and forced the animal back without turning it into a stain. The guard stepped in immediately and drove it away with his spear. The rest of the small pack withdrew once the worksite stopped looking easy.
 
@@ -369,9 +369,9 @@ Now that the pin was driven and the threat had backed away, the unnecessary part
 
 The shaft blurred before it touched the ground. The head folded into nothing. Gone.
 
-his arms still remembered the weight. That was less mysterious. Red had swung something enormous.
+His arms still remembered the weight. That was less mysterious. Red had swung something enormous.
 
-his shoulders hurt because shoulders are tragically committed to physics. The foreman looked at him.
+His shoulders hurt because shoulders are tragically committed to physics. The foreman looked at him.
 
 "You standing?"
 
@@ -379,7 +379,7 @@ his shoulders hurt because shoulders are tragically committed to physics. The fo
 
 "Sit down."
 
-Red sat on a timber stack. his hands shook slightly from the impact. Not some magical meter running empty.
+Red sat on a timber stack. His hands shook slightly from the impact. Not some magical meter running empty.
 
 Just the ordinary consequence of putting his entire body behind a hammer built from terrible judgment. Red looked at the repaired brace. The first hammer had not been weak because he was weak.
 
@@ -429,7 +429,7 @@ Nobody asked him to create anything else. Probably wise. The foreman walked the 
 
 The wagon crossed slowly. The bridge held. Only then did the workers relax.
 
-his impossible hammer had driven one pin. The crew had repaired the bridge. That distinction mattered.
+His impossible hammer had driven one pin. The crew had repaired the bridge. That distinction mattered.
 
 On the return trip, they gave him less to carry. Red chose to interpret this as professional recognition rather than concern that he would invent construction equipment again. The Wayfarer Tongue Token swung beneath the wagon roof while the crew talked around him.
 
@@ -459,7 +459,7 @@ Outside Greywake, the first loaded wagons were already moving across the repaire
 
 Red put the Marks away. The foreman was already discussing the next day's traffic with another worker. To him, the impossible hammer was less important than whether six wagons could cross before dark.
 
-Reasonable priorities. Red stepped back into the yard. his shoulders still ached.
+Reasonable priorities. Red stepped back into the yard. His shoulders still ached.
 
 The idea of making something else crossed his mind.
 

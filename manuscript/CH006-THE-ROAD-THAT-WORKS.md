@@ -33,15 +33,11 @@ Every few hundred paces, newer work crossed older damage. The road worked. Not b
 
 Because people kept spending wood, iron, time, money, and irritation on forcing it to. Annoyingly competent. They passed merchants heading toward Greywake, a supply wagon loaded with grain sacks, and a covered passenger cart moving the other direction.
 
-Drivers exchanged signals. Guards watched the shoulders. Nobody looked heroic.
-
-Everything kept moving. That might have been more important. Their first stop was a toll marker built beside a wide drainage channel.
+Drivers exchanged signals. Guards watched the shoulders. Nobody looked heroic. Everything kept moving. That might have been more important. Their first stop was a toll marker built beside a wide drainage channel.
 
 Two Guild workers checked wagon tags while one of their guards asked about traffic farther ahead. Red stepped away from the third wagon to stretch his legs. That was when he noticed a man crouched beside the road.
 
-Dark travel coat. Worn boots. A polearm rested on the ground within easy reach.
-
-He was staring at mud as if it had confessed to something. Naturally, Red went to investigate. He was one step away when he raised a hand without looking at him.
+Dark travel coat. Worn boots. A polearm rested on the ground within easy reach. He was staring at mud as if it had confessed to something. Naturally, Red went to investigate. He was one step away when he raised a hand without looking at him.
 
 "Don't step there."
 
@@ -49,9 +45,7 @@ Red stopped with one foot in the air. There were better first impressions. He lo
 
 He pointed. Only then did Red saw the tracks. Several broad impressions crossed the damp edge of the drainage channel and disappeared toward the forest. Split-hooved. Deep pressure toward the front.
 
-Another trail cut across them. Clawed. Four toes.
-
-Longer stride. The man stood. Around thirty, maybe older. Hard to tell with people who spent their lives outdoors and looked personally acquainted with weather. Nothing flashy about him. No polished armor. No decorative cape begging to get caught on a branch.
+Another trail cut across them. Clawed. Four toes. Longer stride. The man stood. Around thirty, maybe older. Hard to tell with people who spent their lives outdoors and looked personally acquainted with weather. Nothing flashy about him. No polished armor. No decorative cape begging to get caught on a branch.
 
 A small metal insignia sat near his shoulder. Unreadable, obviously. One of the road guards walked over.
 
@@ -67,9 +61,7 @@ The man looked at him.
 
 "So are the animals."
 
-The guard exhaled through his nose. Interesting. He finally looked at him.
-
-The guard gestured between them.
+The guard exhaled through his nose. Interesting. He finally looked at him. The guard gestured between them.
 
 "Tavian Rook. Crownspine Warden liaison."
 
@@ -81,13 +73,9 @@ Tavian gave him one brief look, then returned to the tracks.
 
 "Tavian Rook."
 
-Then he went back to the tracks.
+Then he went back to the tracks. No recognition. No alarm. No respectful pause while he reconsidered every life choice that had led him to this meeting.
 
-No recognition. No alarm. No respectful pause while he reconsidered every life choice that had led him to this meeting.
-
-Red decided his standards required work.
-
-No question about why the System could not define him. He moved closer to the forest edge where the light hit the ground better. Red adjusted position.
+Red decided his standards required work. No question about why the System could not define him. He moved closer to the forest edge where the light hit the ground better. Red adjusted position.
 
 "Not there either," he said.
 
@@ -207,9 +195,7 @@ Tavian was going to be difficult. Worse, he was going to be useful. The guarded 
 
 Two guards were stationed there. Water barrels stood under an awning. Fresh timber sat beside a repair shed. The brush had been cleared back far enough that the forest seemed to respect a property line.
 
-A board displayed route notices. Unreadable. At this point, written information felt personal.
-
-Drivers watered the animals while passengers climbed down and stretched. Tavian ignored the well. He walked toward a narrow road branching west.
+A board displayed route notices. Unreadable. At this point, written information felt personal. Drivers watered the animals while passengers climbed down and stretched. Tavian ignored the well. He walked toward a narrow road branching west.
 
 The difference was immediate. The Main Caravan Road had gravel, drainage, cut brush, painted posts, guards, water, and people whose jobs existed specifically to keep it functioning. The side route had ruts.
 
@@ -239,11 +225,7 @@ Tavian looked back toward the maintained road.
 
 "No."
 
-The guard relaxed. Tavian stepped toward the side spur. Red followed.
-
-The guard did not. That told him something. Tavian crouched beside another track bed.
-
-This time Red stayed two full steps back without being told. Personal growth was a dangerous phrase. Let's call it tactical memory.
+The guard relaxed. Tavian stepped toward the side spur. Red followed. The guard did not. That told him something. Tavian crouched beside another track bed. This time Red stayed two full steps back without being told. Personal growth was a dangerous phrase. Let's call it tactical memory.
 
 He pointed toward a broad hoof print at the edge of the rut.
 
@@ -325,39 +307,25 @@ The guard answered.
 
 "No."
 
-Tavian said nothing. Somehow that made the answer feel more incomplete. Not false.
-
-Incomplete. They moved again after the rest stop. Tavian continued in the same direction, still refusing to admit he was traveling with them.
+Tavian said nothing. Somehow that made the answer feel more incomplete. Not false. Incomplete. They moved again after the rest stop. Tavian continued in the same direction, still refusing to admit he was traveling with them.
 
 The road followed the forest edge before bending around a low ridge. One guard rode ahead. The other stayed behind the second wagon.
 
-Red remained beside the third. A position selected entirely for utility. Offensive, but survivable.
-
-Tavian walked near the front-right edge, watching the tree line. Then he stopped. Not dramatically.
+Red remained beside the third. A position selected entirely for utility. Offensive, but survivable. Tavian walked near the front-right edge, watching the tree line. Then he stopped. Not dramatically.
 
 Just enough. Red noticed.
 
 "What?"
 
-He lifted one hand. The people behind him slowed. The lead guard turned.
+He lifted one hand. The people behind him slowed. The lead guard turned. Something crashed through the brush. A large four-legged animal burst from the trees. Not a predator.
 
-Something crashed through the brush. A large four-legged animal burst from the trees. Not a predator.
-
-At least not the first one. Heavy shoulders. Long narrow head.
-
-Two horns swept backward from the skull. Mud streaked one flank. It crossed the drainage ditch badly and hit the road at an angle.
+At least not the first one. Heavy shoulders. Long narrow head. Two horns swept backward from the skull. Mud streaked one flank. It crossed the drainage ditch badly and hit the road at an angle.
 
 Drivers shouted. The animal saw the wagons and changed direction. Then the second shape came through the trees.
 
-Lean. Clawed. Fast.
+Lean. Clawed. Fast. The predator committed to the chase before it seemed to notice the caravan. The road suddenly had too many moving parts. Prey.
 
-The predator committed to the chase before it seemed to notice the caravan. The road suddenly had too many moving parts. Prey.
-
-Predator. Five wagons. Drivers.
-
-Passengers. Two guards. Tavian. Red.
-
-Tavian moved first.
+Predator. Five wagons. Drivers. Passengers. Two guards. Tavian. Red. Tavian moved first.
 
 "Drivers, hold the wagons."
 
@@ -391,17 +359,11 @@ Correct. Red moved. Tavian pointed toward the drainage ditch.
 
 The guards shifted with him. The lead guard angled his spear toward the predator without advancing. The second moved closer to the passengers.
 
-Nobody chased. Nobody crowded the animals. The prey saw the opening.
-
-It took it. Hooves struck packed gravel in front of him, then dropped into the ditch on the opposite side. The predator followed.
+Nobody chased. Nobody crowded the animals. The prey saw the opening. It took it. Hooves struck packed gravel in front of him, then dropped into the ditch on the opposite side. The predator followed.
 
 Too close. Red stepped into its line after the prey had cleared. This time Tavian did not stop him.
 
-Better. The predator saw him. Slowed.
-
-Red could have made something. A wall. A weapon.
-
-Something huge and embarrassing. Red did not need to. Tavian's geometry was already doing the important work, and the guards knew exactly where they belonged.
+Better. The predator saw him. Slowed. Red could have made something. A wall. A weapon. Something huge and embarrassing. Red did not need to. Tavian's geometry was already doing the important work, and the guards knew exactly where they belonged.
 
 Using the impossible here would not solve a problem. It would just make sure everybody remembered Red had impossible things. Different objective.
 
@@ -419,11 +381,7 @@ Red had absolutely considered it. The animal darted left. He matched the movemen
 
 The lead guard closed the other side. The predator checked again. Its prey was already disappearing into the brush.
 
-That changed its decision. Good. It snapped once, frustrated.
-
-Red kicked gravel toward its face. Not heroic. Effective.
-
-It recoiled. The guard drove his spear point hard into the road ahead of it. Crack.
+That changed its decision. Good. It snapped once, frustrated. Red kicked gravel toward its face. Not heroic. Effective. It recoiled. The guard drove his spear point hard into the road ahead of it. Crack.
 
 Tavian opened the retreat line behind the animal instead of closing it. The predator turned. Ran.
 
@@ -437,11 +395,7 @@ No.
 
 "Anyone hit?"
 
-No. Only after that did he turn toward the tracks. People first.
-
-Evidence second. Interesting. He crouched at the roadside.
-
-The road guard came over.
+No. Only after that did he turn toward the tracks. People first. Evidence second. Interesting. He crouched at the roadside. The road guard came over.
 
 "That could happen anywhere."
 
@@ -495,9 +449,7 @@ Tavian nodded.
 
 "We should."
 
-The guard returned to the wagons. No accusation. No argument.
-
-He had travelers to move. Tavian had a different job. Red looked at the forest edge.
+The guard returned to the wagons. No accusation. No argument. He had travelers to move. Tavian had a different job. Red looked at the forest edge.
 
 "What should they be doing?"
 

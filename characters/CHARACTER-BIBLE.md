@@ -1349,6 +1349,82 @@ Red Jackal represents everything Aren fears about charismatic power without acco
 
 Neither is automatically morally correct in every conflict.
 
+# 3A. Dialogue and Scene-Presence Fingerprints — LOCKED
+
+These fingerprints are mandatory whenever the character appears. They define **how the character thinks under pressure**, not catchphrases.
+
+## Maelis Orra
+**Speech rhythm:** precise, complete, low-emotion, evidence-first.  
+**Default move:** separates observation from conclusion.  
+**Humor:** nearly invisible dry correction.  
+**Never:** melodramatic speculation, vague reassurance, instant emotional certainty.  
+**Pressure behavior:** becomes even more exact; protects chain of evidence and wording.  
+**Red friction:** refuses to reward performance with the interpretation he wants.
+
+## Tavian Rook
+**Speech rhythm:** short operational statements; terrain, timing, movement, risk.  
+**Default move:** asks what the environment is doing before what people want it to mean.  
+**Humor:** rare, dry, usually accidental.  
+**Never:** long speeches in active danger, theatrical praise, abstract moralizing.  
+**Pressure behavior:** gives one clear instruction at a time and watches whether people follow it.  
+**Red friction:** does not care whether Red looks impressive; cares whether Red changes the geometry safely.
+
+## Captain Brynn Alder
+**Speech rhythm:** command language, compact questions, concrete assignments.  
+**Default move:** converts argument into responsibility: who moves, who guards, who decides, who answers later.  
+**Humor:** restrained and situational.  
+**Never:** lose command presence through excessive exposition.  
+**Pressure behavior:** cuts through debate, assigns roles, protects civilian movement.  
+**Red friction:** treats Red as a dangerous resource she cannot own.
+
+## Sela Arven
+**Speech rhythm:** blunt medical imperatives and uncomfortable facts.  
+**Default move:** body first, ego second.  
+**Humor:** dry enough to sound like an insult even when it is care.  
+**Never:** romanticize pain, praise reckless endurance, speculate beyond evidence.  
+**Pressure behavior:** triage, prioritize, stop people from making injuries worse.  
+**Red friction:** regeneration buys him no exemption from being annoying.
+
+## Kellan Dorr
+**Speech rhythm:** direct, practical, physical; roads, timber, water, people, distance.  
+**Default move:** asks who actually pays for a decision outside the walls.  
+**Humor:** rough, irritated, worker humor.  
+**Never:** bureaucratic abstractions when a physical consequence can be named.  
+**Pressure behavior:** argues from lived outer-road cost, then gets his hands on the problem.  
+**Red friction:** respects useful work more than impossible spectacle.
+
+## Jessa Vale
+**Speech rhythm:** cautious procedural language early; increasingly direct once she chooses a side.  
+**Default move:** knows how records actually move through the Guild, including what people pretend not to know.  
+**Humor:** nervous, small, emerging as confidence grows.  
+**Never:** become fearless overnight or forget that wages and siblings matter.  
+**Pressure behavior:** hesitates at the personal cost, then becomes exact when she commits.  
+**Red friction:** knows he is dangerous but is more afraid of losing ordinary stability.
+
+## Rovan Hesk
+**Speech rhythm:** controlled, economical, logistical.  
+**Default move:** converts morality into supply, route, winter, capacity, and survival tradeoffs.  
+**Humor:** almost none.  
+**Never:** villain monologue for its own sake, sadistic gloating, irrational hatred of Red.  
+**Pressure behavior:** becomes more certain that somebody must choose what survives.  
+**Red friction:** sees Red first as useful irregular labor, later as an uncontrollable variable who refuses assigned cost.
+
+## Group Dialogue Law
+
+When several of these characters share a scene, they must not all speak in the same neutral competent voice.
+
+A useful contrast pattern is:
+- Maelis asks what can be proven;
+- Tavian asks what the field is doing;
+- Brynn asks what action happens now;
+- Sela asks what the body can survive;
+- Kellan asks who on the margins pays;
+- Jessa asks what the records/job actually allow;
+- Hesk asks what Greywake cannot afford to lose;
+- Red asks, implicitly or explicitly, whether any of this can be made more interesting.
+
+Do not force every character to state their role in every scene. The fingerprint should emerge through choices, interruptions, priorities, and sentence rhythm.
+
 # 4. Recurring Antagonist Characters
 
 These characters exist independently of destination planning. Their future appearances are not assigned.

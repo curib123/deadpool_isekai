@@ -168,7 +168,15 @@ Pale-grey material formed across the road exactly where Red wanted it. The first
 
 The front of the herd bent. Half spilled toward the field. The rest followed the easier line long enough for militia to pull the last two civilians clear.
 
-One animal clipped him as it passed. Impact spun him into the road. His shoulder hit stone. "Move!"
+One animal clipped him as it passed. Impact spun him into the road. His shoulder hit stone.
+
+A second animal followed, hit the churned mud at exactly the wrong angle, and slid just wide of his legs.
+
+Red watched it pass.
+
+*That was suspiciously generous.*
+
+"Move!"
 
 Tavian. Red rolled toward the ditch. The civilians were clear.
 

@@ -4,7 +4,7 @@
 **Manuscript:** `manuscript/CH015-ONE-STAKE-TOO-MANY.md`  
 **Review Date:** 2026-09-20  
 **Status:** PASS — CURRENT CANON REVALIDATED  
-**Word Count:** 2001
+**Word Count:** 2,019
 
 **Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A097 Prose Editor, A096 Imagination Scene Designer, A037 Power Balance Editor, A042 Character Arc Editor, A044 Supporting Character Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A111 Logic Editor
 
@@ -461,3 +461,13 @@ CH-016 must own:
 - first allowed M-007 tonal hint.
 
 Do not select Volume 2.
+
+
+# Repeated-Recheck Natural-Prose Revalidation — 2026-09-26
+
+**Status:** PASS — CURRENT CANON
+
+- author-facing anti-retcon wording removed from reader prose;
+- final Red power/personality model preserved through natural scene behavior;
+- plot, mystery, battle outcome and continuity unchanged;
+- publication copy synchronized exactly.

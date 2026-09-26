@@ -1,9 +1,9 @@
 # CH-007 Publish Version QA
 
 **Canon Source:** `manuscript/CH007-YOU-SHOULD-BE-DEAD.md`  
-**Canon Source SHA:** `77b460c6a938c4ca70a88d55e9c5e5b03e6b3ab5`  
+**Canon Source SHA:** `ff6baee5acdbb233d16f4a1ed83f50181cd198f9`  
 **Publication Copy:** `published/volume-001/CH007-YOU-SHOULD-BE-DEAD.md`  
-**Publication Copy SHA:** `548fb11f368c29d59c920fc29f3bd7f0a6b58151`  
+**Publication Copy SHA:** `f645e6a9a1bfdde74d0204f43030e3b68c508631`  
 **Target Platform:** WebNovel-compatible reader-facing copy  
 **Review Date:** 2026-09-26
 **Status:** PUBLISH-READY — GATE 11 PASS
@@ -45,3 +45,13 @@ The reader-facing copy was synchronized after the final Red Jackal personality-m
 - title/body/order equivalence: **PASS**
 - no publication-only semantic edits: **PASS**
 - final personality lock preserved: **PASS**
+
+
+# Arc 1 Recheck Publish Revalidation
+
+**Result:** PASS — 2026-09-26
+
+- current canon source vs publication prose: **EXACT MATCH**
+- character-voice cleanup synchronized: **PASS**
+- no publication-only semantic change: **PASS**
+- Gate 11 status remains **PUBLISH-READY**

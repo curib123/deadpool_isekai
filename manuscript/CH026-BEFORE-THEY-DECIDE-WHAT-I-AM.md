@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 1512
+**Word Count:** 1,510
 **Chapter QA:** `qa/CH-026-GATE-9-CHAPTER-QA.md`
 
 Greywake sounded different without alarm horns. Hammers had taken over. One outer approach still had militia markers blocking normal traffic.
@@ -223,11 +223,15 @@ Kellan could ask for support on roads. People could call me hero. Others could c
 
 Stay long enough and labels became expectations. Expectations became roles. Roles became the kind of thing other people eventually forgot you were allowed to refuse.
 
-I had not become a better man in Greywake. I had not discovered a hidden duty to save everyone. I was still me.
+Greywake had become familiar enough that people were starting to confuse familiarity with access.
 
-I simply knew more people now. More consequences. More roads.
+Dangerous assumption.
 
-More reasons why doing whatever I wanted could be funny right up until someone else paid the bill. That information came with me. It did not own me.
+I knew more names now. More roads. More ways this place could become inconvenient.
+
+That did not make any of it my responsibility.
+
+It just meant I would remember the place after I left, which was already more than most places had managed.
 
 The pack was ordinary. Food. Water.
 

@@ -22,6 +22,167 @@ Do not use:
 - explanations Red cannot know;
 - distant neutral narration that could belong to anyone.
 
+# 1A. Web-Novel Close-Narration Standard — LOCKED
+
+The default prose model is **modern close first-person web-novel narration**.
+
+Every scene should feel like it is happening through Red's body and mind **right now**, not being summarized from a distance.
+
+Use three layers together:
+
+1. **Close narration / action**
+   - what Red sees, hears, feels, smells, touches, notices, misunderstands, or chooses to ignore;
+   - physical movement and immediate scene geography;
+   - descriptions filtered through Red's personality.
+
+2. **Dialogue**
+   - characters should speak whenever conflict, personality, negotiation, humor, tension, or relationship can be shown through speech;
+   - dialogue should change the scene, not repeat narration;
+   - let characters interrupt, pause, dodge, misunderstand, challenge, or answer only part of a question.
+
+3. **Self-thought / internal reaction**
+   - short, immediate Red reactions;
+   - judgments he does not say aloud;
+   - selfish motives;
+   - ridiculous comparisons;
+   - sudden serious observations;
+   - private misunderstandings;
+   - impulses he chooses not to act on.
+
+### Recommended Chapter Mix
+
+This is a flexible target, **not a quota**:
+
+- **45–60%** close narration / action / sensory detail;
+- **25–40%** dialogue;
+- **10–20%** direct internal commentary / self-thought.
+
+Action chapters may use more narration.
+
+Social chapters may use more dialogue.
+
+Quiet mystery chapters may use more internal observation.
+
+No chapter should become:
+- a wall of narration with people barely speaking;
+- a screenplay made almost entirely of dialogue;
+- a diary of uninterrupted internal monologue.
+
+### Internal Thought Style
+
+Because Red already narrates in first person, most thoughts should be written naturally as narration.
+
+Preferred:
+
+I looked at the three armed men.
+
+Wonderful.
+
+Apparently breakfast had become a side quest.
+
+Also valid:
+
+I could break the door.
+
+*Probably shouldn't.*
+
+Use italicized thought only for a **sharp, exact, immediate thought** when the visual emphasis helps.
+
+Do **not** italicize every internal sentence.
+
+Do **not** repeatedly write:
+- I thought;
+- I wondered;
+- I told myself;
+- I realized;
+- I felt like.
+
+Instead, move directly into the thought.
+
+Weak:
+
+I thought that Tavian was probably right.
+
+Better:
+
+Tavian was probably right.
+
+Tragic.
+
+### Close-Narration Distance
+
+Do not write neutral description first and Red's opinion afterward when the opinion can shape the description itself.
+
+Distant:
+
+The room was small and contained a desk, three chairs, and several shelves.
+
+Closer:
+
+The room had one desk, three chairs, and enough shelves to prove paperwork had won a territorial dispute.
+
+The description should sound like **Red noticed it**, not like an invisible narrator catalogued it.
+
+### Dialogue-Narration Weave
+
+Avoid long sequences of floating dialogue.
+
+Between lines, use:
+- gestures;
+- eye movement;
+- silence;
+- physical repositioning;
+- objects being handled;
+- Red's short private reaction;
+- changes in distance or threat.
+
+Preferred rhythm:
+
+Dialogue.
+
+Short physical beat.
+
+Red's internal reaction.
+
+Reply.
+
+Consequence.
+
+This creates the fast visual rhythm common to strong serial web fiction.
+
+### Paragraph Rhythm
+
+For mobile/web reading:
+- prefer 1–4 sentences per paragraph;
+- allow one-line paragraphs for impact, jokes, realizations, threats, or reversals;
+- avoid repeated one-line paragraphs when nothing is being emphasized;
+- break dense exposition with dialogue, action, or reaction;
+- keep combat paragraphs especially clean and directional.
+
+### Exposition Rule
+
+Worldbuilding should enter through:
+- Red needing something;
+- someone correcting him;
+- a conflict;
+- a job;
+- a mistake;
+- an argument;
+- an object being used;
+- a rule becoming inconvenient.
+
+Do not stop the chapter for a textbook explanation if the information can be discovered while the scene moves.
+
+### Scene Feel
+
+A strong Red scene often follows:
+
+**notice → react privately → speak/act → someone responds → Red reinterprets → situation changes**
+
+A strong non-Red exchange often follows:
+
+**character objective → dialogue friction → physical/social consequence → Red's private read → next move**
+
 # 2. Movie-Like English
 
 Use **simple, natural, cinematic English**.

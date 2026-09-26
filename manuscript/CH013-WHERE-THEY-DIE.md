@@ -17,7 +17,7 @@ Jessa entered last carrying two ledgers and several tied route packets. Her eyes
 
 Brynn. Tavian. Kellan.
 
-him. Then Hesk. She stopped for half a second before walking to the table.
+Red. Then Hesk. She stopped for half a second before walking to the table.
 
 Nobody commented. Maelis took the ledgers carefully. "Thank you."
 
@@ -237,7 +237,7 @@ Her voice stayed level. "I am asking whether Greywake has been using them to mov
 
 Maps. Ledgers. Jessa.
 
-him. Then Brynn. "Yes."
+Red. Then Brynn. "Yes."
 
 Jessa lowered her eyes. Kellan's hand flattened against the table. Maelis did not move.
 
@@ -279,7 +279,7 @@ Every head turned toward him. Hesk's eyes narrowed. "She works for the Guild."
 
 "No."
 
-his voice came out quieter than expected. "That stopped working yesterday." Brynn looked at Jessa. "You may answer. You may ask for the question to be narrowed."
+His voice came out quieter than expected. "That stopped working yesterday." Brynn looked at Jessa. "You may answer. You may ask for the question to be narrowed."
 
 Maelis added, "I am asking what you processed. Not what Hesk intended." Jessa looked down.
 

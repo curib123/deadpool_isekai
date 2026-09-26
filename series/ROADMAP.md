@@ -1,3 +1,12 @@
+# Distant Narration Retcon — CURRENT POV AUTHORITY
+
+**Effective 2026-09-26:** `planning/DISTANT-NARRATION-MASTER-RETCON.md` overrides all older close-first-person status wording in this roadmap.
+
+- **CH-001:** DISTANT THIRD-PERSON LIMITED — CURRENT CANON — GATE 9 / GATE 11 PASS.
+- **CH-002→CH-026:** plot/canon events remain current; prose POV synchronization to distant third-person is REQUIRED.
+- **CH-027:** plot/event sequence remains current; distant third-person synchronization is REQUIRED.
+- **CH-028:** do not treat old close-first-person wording as current POV authority.
+
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  

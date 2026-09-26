@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 2136
+**Word Count:** 2,138
 **Chapter QA:** `qa/CH-020-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-020-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
@@ -96,7 +96,7 @@ Jessa looked up. "What happens to my Guild position?" Maelis did not soften it. 
 
 "I do not know."
 
-"My family uses that pay."
+"My siblings eat because of that pay."
 
 "I know."
 

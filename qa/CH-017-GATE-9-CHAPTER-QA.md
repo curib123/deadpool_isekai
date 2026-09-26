@@ -4,7 +4,7 @@
 **Manuscript:** `manuscript/CH017-THE-PRICE-OF-BEING-RIGHT.md`  
 **Review Date:** 2026-09-20  
 **Status:** PASS — CURRENT CANON REVALIDATED  
-**Word Count:** 2356
+**Word Count:** 2,379
 
 **Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A097 Prose Editor, A037 Power Balance Editor, A042 Character Arc Editor, A044 Supporting Character Editor, A045 Antagonist Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A111 Logic Editor
 
@@ -390,3 +390,23 @@ Do not draft CH-018 manuscript before its Scene Architecture and Gate 8 Pre-Manu
 Do not select Broken North before CH-018 architecture.
 
 Do not select Volume 2.
+
+
+# Final Personality Synchronization Revalidation — 2026-09-26
+
+**Status:** PASS — CURRENT CANON
+
+This chapter received a targeted motive/voice synchronization under the final Red Jackal personality lock.
+
+Verified:
+- plot events unchanged;
+- scene order unchanged;
+- mystery state unchanged;
+- battle/action outcome unchanged;
+- no power progression introduced;
+- Red remains overwhelmingly powerful;
+- Red's motive is now personal/self-centered rather than generic heroic responsibility;
+- clueless-power / indifference / effortless-aura behavior remains compatible;
+- no copyrighted dialogue, scene or character copy introduced.
+
+The revision changes interpretation of Red's motive, not the chapter's causal outcome.

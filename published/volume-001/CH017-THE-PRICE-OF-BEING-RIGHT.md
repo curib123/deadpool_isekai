@@ -142,7 +142,7 @@ He shifted and stopped when pain moved through him. "I wanted that thing gone be
 
 "I still do."
 
-Sela looked over. "Kellan."
+Sela looked over. "Kellan. Breathing first, argument second."
 
 "I am talking."
 

@@ -2,203 +2,263 @@
 
 **Owners:** A100 Continuity Director + A102 Knowledge-State Editor  
 **Phase:** 3 — Mystery Foundation  
-**Status:** CANON SUPPORT RECORD
+**Status:** CANON SUPPORT RECORD — SOUL-DRIFT / CLOSE FIRST-PERSON / FOURTH-WALL-PAUSE SYNCHRONIZED  
+**Revalidated:** 2026-09-26
 
-This file tracks who is allowed to know long-term mystery information. It does not redefine the Writer Truth in `mysteries/MYSTERY-BIBLE.md`.
+This file tracks who is allowed to know long-term mystery information.
+
+Authoritative writer truth:
+- `mysteries/MYSTERY-BIBLE.md`
+- `planning/RED-JACKAL-SOUL-DRIFT-MASTER-RETCON.md`
+- `planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md`
+- `series/SERIES-CONSTITUTION.md`
+
+If an older file says Savael, a god, the Exterior Needle, Fate, or the World System deliberately brought Red to Veyr, that statement is superseded.
 
 # Knowledge Rules
 
-1. A character cannot act on a mystery truth unless the knowledge path is recorded here or explicitly earned later.
-2. Writer Truth is never automatically narration truth.
-3. Close third-person narration cannot reveal facts Red Jackal has not learned, perceived, remembered, or reasonably inferred.
-4. Factions may possess fragments, false models, or evidence without possessing the correct explanation.
-5. The Great Design, Savael, Exterior Needle, Exterior Echo, and Exception Covenant are restricted until their reveal windows permit explicit knowledge.
+1. A character cannot act on writer truth unless the knowledge path is explicitly earned.
+2. Writer truth is never automatically narration truth.
+3. Canon Red prose is **close first-person limited**.
+4. Red may narrate only what he perceives, remembers, guesses, misunderstands, invents, or chooses to tell.
+5. Native factions may possess fragments, evidence, or false models without possessing the correct explanation.
+6. A genuine direct reader/audience address triggers **Fourth-Wall Pause from CH-001 onward**.
+7. Native characters do not remember the pause because no Veyran time elapses for them.
+8. Red knows his powers do impossible things but does not begin with their metaphysical explanation or true upper ceiling.
+9. Savael and the Exterior Needle are later mystery material and are **not Red's summoning mechanism**.
+10. Arc 1 may establish observable anomaly evidence without solving the protected cosmology.
 
-# KNOW-M001 — Red Jackal's Arrival
+# KNOW-M001 — Who Brought Red Jackal to Veyr?
 
-**Writer Truth:** Savael reactivated the Exterior Needle and acquired Evan Calder at the threshold of death.
+**Writer Truth:** Nobody deliberately brought him.
 
-**Red Jackal Baseline:** Remembers Earth, a rain-night collision, then Veyr. Does not know who or what caused the transfer.
+Evan Calder dies during a mysterious Earth explosion. A rare natural far Soul Drift carries his dislocated soul across realities and into Veyr.
 
-**Reader Baseline:** Same basic event as Red Jackal unless future approved framing changes it.
+**Red Baseline:**
+- remembers fragmentary white heat/explosion residue;
+- knows he woke in another world;
+- has damaged autobiographical memory;
+- does not know the technical term Soul Drift at the start;
+- has no evidence that a god, System, Savael, or another person selected him.
 
-**Maelis Orra:** No knowledge initially.
+**Reader Baseline:** Same observable facts as Red unless a later authorized reveal expands them.
 
-**Provost Edras Morn:** Knows anomalies and registry failures exist; no knowledge of Red Jackal's true transfer mechanism.
+**Maelis / Greywake:** No origin knowledge.
 
-**Cantor Sivren Pell:** Believes “outside” intervention may be possible in abstract; has no proof of Red Jackal's origin.
+**Savael:** Does not cause Red's arrival. Savael may learn of Red later.
 
-**Ash Choir:** Holds symbolic fragments about outside voices and broken histories.
+**False beliefs allowed in-world:**
+- divine summoning;
+- chosen hero;
+- System accident;
+- curse;
+- Savael/Exterior Needle involvement;
+- deliberate importation.
 
-**Gods / divine experts:** No deity can truthfully claim to have summoned him.
-
-**False holders:** Religions, cults, or officials may falsely claim divine responsibility.
-
-**Unlock path:** M-001 clue/reveal ladder only.
+**Unlock path:** M-001 reveal ladder.
 
 ---
 
-# KNOW-M002 — UNDEFINED Status
+# KNOW-M002 — Why Is Everything About Him UNDEFINED?
 
-**Writer Truth:** Missing native causal/registry roots prevent normal identity construction.
+**Writer Truth:** Veyr lacks the native causal, soul-registry, racial, Fate, and progression roots required to construct a normal identity for Red.
 
-**Red Jackal Baseline:** Knows fields return UNDEFINED/NO RECORD/FAILED/UNAVAILABLE.
+**Red Baseline:** Knows repeated interfaces return UNDEFINED / NO RECORD / FAILED / UNAVAILABLE.
 
-**Maelis:** Can recognize that this exceeds normal appraisal resistance after direct evidence.
+**Maelis:** By direct evidence may conclude the failure exceeds normal anti-appraisal or ordinary registration corruption.
 
-**Morn:** Understands the risk significance of total classification failure once evidence reaches him.
+**Ledger:** May possess partial historic anomaly records but no equivalent complete case.
 
-**Ledger:** Possesses historic partial-failure records but no equivalent complete case.
+**General Public:** May interpret him through curse, fraud, monster, divine exception, artifact, or hidden-class theories.
 
-**General Public:** Likely to interpret the condition through curse, fraud, monster, or divine-exception frameworks.
+**Forbidden early conclusion:** "His level is too high to display."
 
 **Unlock path:** M-002.
 
 ---
 
-# KNOW-M003 — Continuity Translocation
+# KNOW-M003 — Was Red Reincarnated Normally?
 
-**Writer Truth:** Evan did not undergo normal Veyran reincarnation.
+**Writer Truth:** No.
 
-**Red Jackal Baseline:** Uses ordinary isekai/reincarnation language because he lacks technical knowledge.
+Red crosses realities through natural far Soul Drift after death and arrives without passing through a normal Veyran reincarnation/registry route.
 
-**Soul Experts:** May eventually identify missing reincarnation signatures.
+**Red Baseline:** Uses ordinary isekai/reincarnation language casually because he lacks the technical answer.
 
-**Religions:** Competing traditions may offer mutually incompatible interpretations.
+**Soul specialists:** May later identify missing normal reincarnation signatures.
 
-**Forbidden Knowledge:** No modern character may state “continuity translocation” as fact before evidence establishes it.
+**Religions:** May offer competing incorrect explanations.
+
+**Forbidden early knowledge:** No ordinary modern character may state "far Soul Drift" or "continuity translocation" as confirmed fact before evidence supports it.
 
 **Unlock path:** M-003.
 
 ---
 
-# KNOW-M004 — Play Logic Origin
+# KNOW-M004 — Where Did Play Logic Come From?
 
-**Writer Truth:** Missing native schema lets Red Jackal's foreign self-model partially negotiate reality.
+**Writer Truth:** Play Logic is reality negotiation produced by Red's external Soul-Drift identity occupying Veyr without a normal native interpretive definition.
 
-**Red Jackal Baseline:** Knows imagination matters.
+His imagination can substitute for the missing definition layer and force reality to negotiate with what he asserts.
 
-**Maelis:** May classify manifestations as nonstandard and inconsistent with ordinary class data.
+There is no known intrinsic raw-power ceiling.
 
-**Mages:** Can observe that mana interacts with the effects without fully causing them.
+**Red Baseline:**
+- knows impossible things can happen when he wants/pictures them;
+- notices practical behavior when it becomes useful;
+- does not begin knowing the metaphysical cause;
+- does not care about systematically finding a maximum tier;
+- may invent fake explanations because they sound better.
 
-**Savael:** Understands that an external variable could produce schema abnormalities but did not predict Play Logic's exact form before Red Jackal arrived.
+**Maelis:** May observe that effects are nonstandard and not explained by normal class data.
 
-**Forbidden Knowledge:** Nobody should call Play Logic “reader power” or a god-granted skill as factual truth.
+**Mages / specialists:** May observe mana or native matter reacting to the effects without proving mana is their source.
+
+**Forbidden early knowledge:**
+- divine blessing as fact;
+- Savael gift as fact;
+- hidden class as fact;
+- reader belief as fuel;
+- staged power progression.
 
 **Unlock path:** M-004.
 
 ---
 
-# KNOW-M005 — Regeneration Origin
+# KNOW-M005 — Why Can Red Regenerate?
 
-**Writer Truth:** The instantiated body reasserts Red Jackal's foreign self-model.
+**Writer Truth:** Red's body repeatedly reasserts the persistent Soul-Drift identity pattern instead of accepting ordinary lethal damage as final.
 
-**Red Jackal Baseline:** Knows he heals.
+**Red Baseline:** Knows dying has become unreliable and treats regeneration as a useful/annoying fact rather than a progression system.
 
-**Nemi Thalen:** Can eventually distinguish the process from conventional healing through direct examination.
+**Sela Arven:** In Arc 1 may directly observe:
+- autonomous correction before treatment;
+- wound boundaries changing during examination;
+- no normal external healing residue sufficient to explain the recovery.
 
-**System Experts:** May observe missing normal healing-skill signatures.
+She cannot know the Soul-Drift root.
 
-**Forbidden Knowledge:** No one begins knowing regeneration and Play Logic share the same deeper self-model root.
+**Nemi Thalen:** May later distinguish the process from conventional healing through direct specialist examination.
+
+**System experts:** May observe missing normal healing-skill signatures.
+
+**Forbidden early knowledge:** Nobody begins knowing regeneration and Play Logic share the same deeper Soul-Drift identity root.
 
 **Unlock path:** M-005.
 
 ---
 
-# KNOW-M006 — Exterior Echo / Outward Direction
+# KNOW-M006 — Who Is Red Talking To When Time Stops?
 
-**Writer Truth:** The Exterior Needle left a passive outward continuity direction attached to Red Jackal.
+**Writer Truth:** Genuine reader/audience address activates a Soul-Drift exterior relation.
 
-**Red Jackal Baseline:** Does not begin by consciously talking to readers. At most, he may later notice rare feelings of outward attention, directional wrongness, or thoughts that seem to point beyond Veyr when a properly authorized M-006 scene occurs.
+Local Veyran causal time pauses while Red directly addresses the external audience.
 
-**Other Characters:** No baseline concept of an external audience.
+**Available from:** CH-001 onward. It is not a later unlock.
 
-**Maelis / Morn:** No baseline concept of an external audience.
+**Red Baseline:**
+- directly talks to the reader/audience from the opening;
+- notices or accepts that Veyran motion freezes during genuine address;
+- treats the effect as part of his weird normal long before he understands why it exists;
+- does not know the full Soul-Drift/exterior metaphysics.
 
-**Savael:** Can eventually detect that Red Jackal retains an outward continuity signature but does not automatically understand its subjective meaning.
+**Reader Baseline:** Sees the pause happen directly.
 
-**Forbidden Knowledge:** Exterior Echo must not turn narration back into first person or become a conversational audience power.
+**Native Characters:** Experience no elapsed local time and therefore do not remember an interruption.
+
+**Maelis / Morn / ordinary observers:** No baseline concept of an external audience.
+
+**Specialized future instruments:** May eventually detect discontinuities around pause boundaries without perceiving the reader.
+
+**Forbidden interpretations as fact:**
+- invisible familiar;
+- ordinary time spell;
+- reader worship;
+- audience belief as fuel;
+- System-granted skill.
 
 **Unlock path:** M-006.
 
 ---
 
-# KNOW-M007 — Fate Interaction
+# KNOW-M007 — How Does Fate Treat Red?
 
-**Writer Truth:** Red Jackal has a causal wake but no native backward destiny thread.
+**Writer Truth:** Red has no native backward destiny track. Fate can reroute around the causal wake created after his arrival but does not possess a native pre-arrival destiny thread for him.
 
-**Red Jackal Baseline:** May joke about plot armor, flags, tropes, or “the plot,” but does not know actual Fate mechanics.
+**Red Baseline:** May joke about plot armor, flags, tropes, or "the plot." He does not know technical Fate mechanics.
 
-**Fate Specialists:** Can eventually observe displaced convergence patterns.
+**Fate specialists:** May later observe displaced convergence patterns.
 
 **Aren Halvek:** No specialist knowledge by default.
 
-**Pell:** Interprets correction patterns ideologically, not accurately.
+**Pell:** May interpret correction patterns ideologically rather than accurately.
 
-**Forbidden Knowledge:** No character may conclude he is immune to all Fate.
+**Forbidden conclusion:** Red is not automatically immune to every Fate effect.
 
 **Unlock path:** M-007.
 
 ---
 
-# KNOW-M008 — Great Design
+# KNOW-M008 — What Is the Great Design?
 
-**Writer Truth:** Non-personal deep coherence architecture of the Closed Loom.
+**Writer Truth:** A non-personal deep coherence architecture preserving long-horizon world consistency.
 
-**Red Jackal Baseline:** Unknown.
+**Red Baseline:** Unknown. He may jokingly call coincidences "the plot" without knowing this technical truth.
 
 **General Public:** Unknown as a technical concept.
 
-**Religions:** May have symbolic doctrines resembling cosmic order.
+**Religions:** May hold symbolic doctrines resembling cosmic order.
 
-**Gods / high divine experts:** Can perceive fragments or effects, not full omniscient truth.
+**Gods / high experts:** May perceive fragments/effects without omniscience.
 
-**Pell:** Believes reality may deliberately suppress unacceptable histories; this is an incomplete and moralized interpretation.
+**Pell:** Holds an incomplete ideological interpretation.
 
-**Savael:** Knows more than any living modern faction but interprets the Design through grievance and is not neutral.
-
-**Forbidden Knowledge:** Nobody may correctly describe the Great Design as an evil author, supreme god, or talking mastermind.
+**Forbidden explanation:** The Great Design is not a literal author, speaking mastermind, supreme god, or Red's summoner.
 
 **Unlock path:** M-008.
 
 ---
 
-# KNOW-M009 — Eidrathi / First Severance
+# KNOW-M009 — Eidrathi / Exterior Needle / First Severance
 
-**Writer Truth:** Eidrathi Continuance created the Exterior Needle and triggered the First Severance.
+**Writer Truth:** The Eidrathi Continuance studied world boundaries, built the Exterior Needle, and caused the First Severance through artificial boundary experimentation.
 
-**Red Jackal Baseline:** Unknown.
+**Critical retcon boundary:** The Exterior Needle is an ancient artificial analogue to cross-reality boundary manipulation. It did **not** bring Red to Veyr.
 
-**Ledger:** Possesses contradictory anomaly records from later eras.
+**Red Baseline:** None.
 
-**Ash Choir:** Preserves distorted cultural memory.
+**Ledger:** May possess contradictory later anomaly records.
 
-**Daughters of the Last Bell:** Possess evidence that some structures predate accepted history.
+**Ash Choir:** Preserves distorted cultural fragments.
 
-**Edrin Marr:** Has route evidence proving modern mapping assumptions can fail.
+**Daughters of the Last Bell / Edrin Marr:** May possess evidence that accepted history/geography is incomplete.
 
-**Savael:** Holds incomplete first-person-era memory.
-
-**General Historical Scholarship:** Does not possess the unified Eidrathi explanation.
+**Savael:** Holds incomplete ancient-era knowledge.
 
 **Unlock path:** M-009.
 
 ---
 
-# KNOW-M010 — Savael-of-the-Index
+# KNOW-M010 — Who Is Savael-of-the-Index?
 
-**Writer Truth:** Surviving distributed Eidrathi archivist-intelligence and hidden architect of Red Jackal's arrival.
+**Writer Truth:** Savael is a surviving distributed Eidrathi archivist-intelligence who learns of Red **after** Red's natural arrival and becomes interested in exploiting or reproducing the anomaly.
 
-**Red Jackal Baseline:** Unknown.
+**Savael did not:**
+- cause the Earth explosion;
+- choose Evan;
+- summon Red;
+- transport him through the Exterior Needle;
+- grant Play Logic;
+- grant regeneration;
+- create Fourth-Wall Pause.
 
-**Modern Factions:** No one initially knows Savael is active.
+**Red Baseline:** No awareness.
+
+**Modern factions:** No initial knowledge that Savael is active.
 
 **Ash Choir:** May preserve corrupted title/name fragments without understanding identity.
 
-**Great Design:** Does not “know” in a personal sense; Savael's actions create coherence pressure.
-
-**Forbidden Knowledge:** No modern antagonist may secretly work for Savael unless later canon explicitly establishes recruitment/contact.
+**Forbidden early reveal:** No Arc 1 local antagonist may secretly work for Savael without later explicit canon authorization.
 
 **Unlock path:** M-010.
 
@@ -206,15 +266,15 @@ This file tracks who is allowed to know long-term mystery information. It does n
 
 # KNOW-M011 — Quiet Registration
 
-**Writer Truth:** Modern System reliability emerged from synchronized post-Severance registry frameworks rather than direct creation by one god.
+**Writer Truth:** Reliable modern World-System registration emerged through synchronized post-Severance registry frameworks rather than direct creation by one god.
 
 **Ledger:** Has institutional fragments but not full ancient history.
 
-**Religions:** Various traditions credit divine founders.
+**Religions:** Hold differing founder explanations.
 
-**System Scholars:** Know interfaces and standards changed historically.
+**System scholars:** Know standards/interfaces changed historically.
 
-**Red Jackal:** No baseline knowledge.
+**Red:** No baseline knowledge and little initial interest in the historical mechanism.
 
 **Unlock path:** M-011.
 
@@ -222,25 +282,50 @@ This file tracks who is allowed to know long-term mystery information. It does n
 
 # KNOW-M012 — Definition / Exception Covenant
 
-**Writer Truth:** Forced assimilation could define Red Jackal by rewriting foreign continuity; a lawful Exception Covenant is theoretically possible.
+**Writer Truth:** Forced assimilation could define Red only by rewriting part of his foreign continuity. A lawful Exception Covenant is theoretically possible as a new compatible rule.
 
-**Red Jackal Baseline:** Unknown.
+**Red Baseline:** Unknown.
 
-**System Experts:** May eventually propose normalization without understanding the full personal cost.
+**System experts:** May eventually propose normalization without understanding its full personal cost.
 
-**Savael:** Rejects assimilation and initially assumes only rupture can create real freedom.
+**Savael:** May have opinions about exploitation/assimilation but does not control the Great Design.
 
-**Great Design:** Not a speaking negotiator; Exception Covenant would be a new compatible rule, not a verbal agreement with a personality.
+**Great Design:** Not a speaking negotiator.
 
-**Forbidden Knowledge:** No character may present the Exception Covenant as an established known solution before its theoretical basis is earned.
+**Forbidden early knowledge:** No character may present the Exception Covenant as an established solution before the theoretical basis is earned.
 
 **Unlock path:** M-012.
 
+# Arc 1 Knowledge Boundary
+
+Greywake / CH-001→CH-026 may establish only the approved early evidence:
+
+- CH-001 — mysterious explosion residue; impossible manifestation; regeneration; genuine Fourth-Wall Pause;
+- CH-002 — F-001 independent appraisals fail consistently;
+- CH-003 — F-002 physical measurability without identity data;
+- CH-005 — F-004 Play Logic responds to asserted role/meaning;
+- CH-007 — F-003 autonomous regeneration conflicts with ordinary healing assumptions;
+- later Greywake chapters — local migration/lure/Hesk mystery only.
+
+Arc 1 does **not** reveal:
+- the technical name/cause of Soul Drift to Red;
+- the Earth explosion cause;
+- Eidrathi history;
+- the Exterior Needle;
+- active Savael;
+- Great Design mechanics;
+- Exception Covenant;
+- full Play Logic metaphysics;
+- full regeneration metaphysics.
+
 # Knowledge-State QA
 
-- All 12 M-IDs have explicit knowledge partitions.
-- Red Jackal does not begin with writer-only truths.
-- Maelis, Morn, Pell, Edrin, Nemi, Aren, and factions remain within Phase 2 knowledge limits.
-- Savael knows the ancient mechanism and his own actions but is not omniscient about Earth, readers, or Play Logic's exact emergent form.
-- Gods remain powerful but non-omniscient.
-- No future destination, volume, chapter, scene, or manuscript assignment is created here.
+- all 12 M-IDs have explicit knowledge partitions;
+- current origin is natural far Soul Drift;
+- Savael/Exterior Needle summoning is explicitly prohibited;
+- close first-person Red narration is locked;
+- Fourth-Wall Pause is available from CH-001;
+- Red does not begin with writer-only metaphysical truth;
+- native characters cannot remember genuine reader-address pauses;
+- Maelis, Tavian, Brynn, Sela, Kellan, Jessa and Hesk remain within Arc 1 knowledge limits;
+- no Arc 1 manuscript leak was found during the 2026-09-26 recheck.

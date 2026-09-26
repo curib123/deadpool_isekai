@@ -1,6 +1,6 @@
 Chapter 21 — Before the Herd
 
-By the time Greywake decided Hesk was officially missing, there was no longer enough spare settlement to make finding him everyone's job. The militia yard had become a map with people standing on it. Carts lined one wall. Runners moved between route boards and gates. Rope, tools, medical cloth, sealed Guild cases, and ordinary food had been separated into piles that apparently made sense to everyone except me.
+By the time Greywake decided Hesk was officially missing, there was no longer enough spare settlement to make finding him everyone's job. The militia yard had become a map with people standing on it. Carts lined one wall. Runners moved between route boards and gates. Rope, tools, medical cloth, sealed Guild cases, and ordinary food had been separated into piles that apparently made sense to everyone except Red.
 
 Red had learned not to take that personally. Mostly. Tavian came through the yard with mud up one boot.
 

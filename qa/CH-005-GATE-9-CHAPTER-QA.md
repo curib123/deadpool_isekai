@@ -6,7 +6,7 @@
 **Review Date:** 2026-09-20  
 **Revision Track:** Soul-Drift / Close First-Person / Final Story Engine  
 **Status:** PASS — CURRENT CANON REVALIDATED  
-**Word Count:** 3,021
+**Word Count:** 2,996
 
 # Scope
 
@@ -259,3 +259,15 @@ He still does not know:
 **CH-006 — The Road That Works → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**
 
 CH-028 remains paused until CH-001 through CH-027 complete this synchronization cycle.
+
+
+# Arc 1 Recheck Revalidation — 2026-09-26
+
+**Status:** PASS — CURRENT CANON
+
+Targeted Arc 1 recheck confirmed:
+- current character voice lock preserved;
+- no Red power-progression language remains in the revised prose;
+- plot, scene order, battle outcome and mystery state unchanged;
+- repeated narration tic cleanup does not alter causality;
+- current prose word count synchronized above.

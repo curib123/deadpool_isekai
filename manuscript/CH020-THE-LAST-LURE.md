@@ -1,14 +1,14 @@
 # Chapter 20 — The Last Lure
 
-**Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
-**Revision Date:** 2026-09-20
-**Word Count:** 2,138
+**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / PLAY LOGIC + JACKAL LUCK RETCON — GATE 9 REVALIDATION REQUIRED
+**Revision Date:** 2026-09-27
+**Word Count:** 2,110
 **Chapter QA:** `qa/CH-020-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-020-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
 Mud had dried on my boots by the time I got back from Broken North. Someone put a cup in my hand. Maelis put a ledger beside it.
 
-I looked at the ledger. Then at her. "I still cannot read Veyran."
+Red looked at the ledger. Then at her. "I still cannot read Veyran."
 
 "I know."
 
@@ -18,7 +18,7 @@ I looked at the ledger. Then at her. "I still cannot read Veyran."
 
 Across the table, Jessa had arranged three stacks. Issue forms. Service records.
 
-Returns. My contribution was apparently standing nearby while literate people weaponized inventory. Maelis pushed another record toward Jessa. "Again."
+Returns. his contribution was apparently standing nearby while literate people weaponized inventory. Maelis pushed another record toward Jessa. "Again."
 
 Jessa checked the issue entry, then the service ledger. Her finger stopped. Back.
 
@@ -48,7 +48,7 @@ Maelis leaned closer. "Could the service record be incomplete?"
 
 "Yes."
 
-Jessa checked again. "Not like this." I looked between them. "Explain it to the illiterate person."
+Jessa checked again. "Not like this." Red looked between them. "Explain it to the illiterate person."
 
 Jessa swallowed. "When supplies leave Guild storage, there is an issue record. If a crew uses them, there should be a service entry. If they come back, there should be a return. If they are lost, there should be a loss form."
 
@@ -62,7 +62,7 @@ Jessa counted again. "Enough for multiple high-strength services. If matching ho
 
 The room went quiet. That was enough hidden material to wreck the Broken North plan. Maelis said, "Where would material like that go if the Roadmaster held it outside ordinary stock?"
 
-Jessa did not answer. Maelis waited. So did I. "There is a contingency class."
+Jessa did not answer. Maelis waited. So did Red. "There is a contingency class."
 
 "Where recorded?"
 
@@ -100,7 +100,7 @@ Jessa looked up. "What happens to my Guild position?" Maelis did not soften it. 
 
 "I know."
 
-Jessa looked at me. I kept my mouth shut. For once, useful. "If I sign this, he will know."
+Jessa looked at him. Red kept his mouth shut. For once, useful. "If I sign this, he will know."
 
 "Yes," Maelis said.
 
@@ -110,7 +110,7 @@ Jessa looked at me. I kept my mouth shut. For once, useful. "If I sign this, he 
 
 She tapped the blank sheet. "I cannot explain what a Roadmaster contingency code means inside Guild practice as well as you can." Jessa said nothing.
 
-Maelis added: "I will not write your explanation for you." Good. Neither would I.
+Maelis added: "I will not write your explanation for you." Good. Neither would Red.
 
 Footsteps passed outside. A militia horn sounded from the lower quarter. The migration had not paused for her decision.
 
@@ -140,17 +140,17 @@ Maelis folded the copy. "You do not have to come."
 
 "Yes."
 
-No pause. "I do." Only then did I move away from the wall. "If someone dislikes that choice, they can dislike it from a safe distance."
+No pause. "I do." Only then did Red moved away from the wall. "If someone dislikes that choice, they can dislike it from a safe distance."
 
-Jessa looked at me. Maelis did too. "What?"
+Jessa looked at him. Maelis did too. "What?"
 
 "Keep the distance part," Maelis said.
 
-I could work with that. The Road Guild storehouse sat behind the main hall. Two militia guards came with us.
+Red could work with that. The Road Guild storehouse sat behind the main hall. Two militia guards came with them.
 
-Witnesses, not an army. Jessa led us through the receiving floor. Workers stopped when they recognized her.
+Witnesses, not an army. Jessa led them through the receiving floor. Workers stopped when they recognized her.
 
-Then Maelis. Then me. Interesting order.
+Then Maelis. Then him. Interesting order.
 
 The lure-material cage was behind a second interior gate. Jessa pointed. "That one."
 
@@ -162,7 +162,7 @@ The storekeeper looked at the militia. "Roadmaster authorization?" Maelis held u
 
 He looked at Jessa. She held his eyes. "Open it," Maelis said.
 
-The storekeeper reached for the key. A voice behind us said: "Do not." Hesk.
+The storekeeper reached for the key. A voice behind them said: "Do not." Hesk.
 
 He entered with three Guild men. No rush. No drawn weapon.
 
@@ -206,7 +206,7 @@ No denial. Maelis asked, "How much?" "Enough."
 
 Hesk looked at the cage. "If Broken North fails, enough to restore pressure around the main road." Jessa went pale.
 
-I watched him. "You mean push it back toward the outer routes."
+Red watched him. "You mean push it back toward the outer routes."
 
 "I mean keep Greywake's lifeline open."
 
@@ -280,21 +280,21 @@ Hesk's jaw tightened. "Give me the sheet."
 
 "No."
 
-One Guild man moved toward her. I stepped between them. That was all.
+One Guild man moved toward her. Red stepped between them. That was all.
 
-He stopped. The others stopped too. Nobody knew exactly what I would do if they kept moving.
+He stopped. The others stopped too. Nobody knew exactly what Red would do if they kept moving.
 
-Useful uncertainty. Hesk looked at me. "This is a Guild matter."
+Useful uncertainty. Hesk looked at him. "This is a Guild matter."
 
 "No."
 
 "It does not concern you."
 
-I looked at Jessa. "She made it concern me." Not because she needed permission.
+Red looked at Jessa. "She made it concern me." Not because she needed permission.
 
 Because she had already chosen. One loyalist moved around the side anyway and grabbed for the ledger. Maelis pulled it back.
 
-He caught her sleeve. I removed his hand. Not gently.
+He caught her sleeve. Red removed his hand. Not gently.
 
 Not enough to break anything. Another loyalist shoved a militia guard. The room moved.
 
@@ -302,23 +302,23 @@ The storekeeper backed away. Jessa grabbed the stock-reference sheet. Maelis sec
 
 Hesk reached for the storehouse control book on a side desk. Jessa saw it. "That's the contingency book!"
 
-Hesk took it and moved for the side passage. I could have gone after him immediately. I did not.
+Hesk took it and moved for the side passage. Red could have gone after him immediately. He did not.
 
 One loyalist was trying to take the cage key. Another was grabbing records. Too many things moved at once.
 
-I could have destroyed the cage. The stock. The records.
+Red could have destroyed the cage. The stock. The records.
 
-Easy. It would also destroy the plan and the proof. So I did not.
+Easy. It would also destroy the plan and the proof. So Red did not.
 
-The inner metal gate started closing between us and the cage. I pictured a wedge. Small.
+The inner metal gate started closing between them and the cage. Red pictured a wedge. Small.
 
 Simple. A pale-grey block appeared at the lower hinge. The gate slammed into it and stopped.
 
-No strain. No wobble. It simply stayed where I put it. "Now!" Maelis shouted.
+No strain. No wobble. It simply stayed where Red put it. "Now!" Maelis shouted.
 
 The militia guard shoved the gate back. The storekeeper dropped the key. Jessa caught it.
 
-I released the wedge once the gate was clear. One utility. Enough because the problem was solved.
+Red released the wedge once the gate was clear. One utility. Enough because the problem was solved.
 
 Maelis pointed. "Open it." Jessa did.
 
@@ -330,19 +330,19 @@ The storekeeper joined her. One loyalist tried to leave with a packet under his 
 
 The others stopped fighting. Not surrendered. Stopped choosing Hesk over the order.
 
-Hesk was gone. I went through the side passage. The outer yard opened ahead.
+Hesk was gone. Red went through the side passage. The outer yard opened ahead.
 
 He had crossed most of it. A side gate stood open beyond him. He looked back once.
 
-Distance was not the problem. I could have ended the chase. Then curiosity cost me a second.
+Distance was not the problem. Red could have ended the chase. Then curiosity cost him a second.
 
-What was he running toward? Hesk vanished behind a wagon shed. Maelis called my name from inside.
+What was he running toward? Hesk vanished behind a wagon shed. Maelis called his name from inside.
 
-I looked toward the empty gate. Then back toward the storehouse. Jessa.
+Red looked toward the empty gate. Then back toward the storehouse. Jessa.
 
 Records. Stock. Three men who had just tried to seize evidence.
 
-I went back. Prioritization. Curiosity had still cost the second.
+Red went back. Prioritization. Curiosity had still cost the second.
 
 Inside, Jessa sat on a crate with the reconciliation sheet. The stock was being counted under militia witness. The control book was gone.
 
@@ -376,7 +376,7 @@ Jessa stood too fast. "What does it open?"
 
 "Standard Guild lure housings keyed to Roadmaster override."
 
-I looked at her. "Can he activate a lure with that?"
+Red looked at her. "Can he activate a lure with that?"
 
 "Not by itself."
 
@@ -384,7 +384,7 @@ Good. "He still needs a charged unit or a primed site." Less good.
 
 The storekeeper said, "One field site on the active diversion line still uses the older Roadmaster service housing." Maelis looked at him. "Where?"
 
-He named a sector I did not recognize. Jessa did. Her face tightened. "Still inside the active line."
+He named a sector Red did not recognize. Jessa did. Her face tightened. "Still inside the active line."
 
 Not a new network. One existing point. Enough.
 
@@ -394,6 +394,6 @@ The records were here. Jessa's signed explanation was here. Hesk was not.
 
 Outside, another horn sounded. Longer. Closer.
 
-We had the stock. We had the proof. Hesk still had one key.
+they had the stock. they had the proof. Hesk still had one key.
 
 And somewhere ahead of the migration, there was still one lure he could reach.

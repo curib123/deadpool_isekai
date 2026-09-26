@@ -94,7 +94,7 @@ Brynn looked at him. "Random spill?"
 
 A second group followed the same angle. Then a third. Ridge-hounds used the opening behind them.
 
-Tavian pointed. "Approved sequence should be weakening that route."
+Tavian pointed. "That route should be weakening by now."
 
 "So something is pulling."
 

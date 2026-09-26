@@ -40,7 +40,7 @@ Power interpretation changes to:
 - climax spectacle may reveal far more power without calling it a power-up.
 
 **Soul-Drift Synchronization:** CH-001→CH-026 CURRENT — Gate 9 PASS (2026-09-20); Greywake manuscript synchronization COMPLETE.  
-**Next Rewrite / Volume 2 Handoff:** CH-027 — Salt in the Air.
+**Volume 2 Handoff:** CH-027 — Salt in the Air is CURRENT CANON / Gate 9 PASS; CH-028 is the next authorized Volume 2 step.
 
 # 1. Roadmap Principles
 
@@ -303,8 +303,8 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Outer residents receive late warnings, poor road maintenance, and fewer guards despite paying into Greywake's economy.  
 **Exploration Purpose:** Humanize outer homesteads and establish why losing them matters.  
 **Character Beat:** Kellan refuses to be impressed by Red Jackal's power if he only uses it where people are already protected.  
-**Red Jackal Stable-Character Beat:** Begins forming chosen personal investment despite insisting the work is transactional.  
-**Anti-Villain Expression:** He takes the job for pay, to escape patienthood, and because the protection disparity has started bothering his curiosity. His concern for the homesteads grows after he arrives; the chapter must not pretend he came because of pure altruism.  
+**Red Jackal Stable-Character Beat:** The outer-route disparity becomes personally interesting and irritating to him; this is not a duty or moral-growth beat.  
+**Anti-Villain Expression:** He takes the job for pay, to escape patienthood, and because the protection disparity bothers his curiosity and sense of scene ownership. He may become possessive or irritated on behalf of people he knows, but the chapter must not convert that into universal altruism.  
 **Supporting Development:** Kellan's anger at Greywake's priorities becomes understandable rather than abstract.  
 **Antagonist Pressure:** Guild policy visibly favors the core road.  
 **Action Progression:** Environmental danger/repair pressure rather than major combat.  
@@ -543,8 +543,8 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Hesk uses the disaster to demand emergency authority and reactivation of the strongest outer lures.  
 **Exploration Purpose:** Show aftermath inside ordinary medical/civic infrastructure.  
 **Character Beat:** Red Jackal cannot joke away Kellan's injury or claim the outcome was intentional.  
-**Red Jackal Stable-Character Beat:** Accepts responsibility without accepting Hesk's conclusion that sacrifice is therefore necessary.  
-**Anti-Villain Expression:** He accepts blame for what his choice worsened but refuses Hesk's attempt to convert that guilt into obedience or moral ownership. Responsibility does not mean surrendering his agency to the institution he opposed.  
+**Red Jackal Stable-Character Beat:** Accepts the causal connection between his choice and the backflow without accepting a standing duty, moral ownership, or Hesk's conclusion that sacrifice is therefore necessary.  
+**Anti-Villain Expression:** He admits what his choice worsened but refuses Hesk's attempt to convert causality into obedience, guilt-based ownership, or institutional authority over him.  
 **Supporting Development:** Sela forces consequence recognition; Maelis pivots from investigation to making evidence legally actionable.  
 **Antagonist Pressure:** Hesk is strongest politically after Red Jackal's mistake.  
 **Action Progression:** Low physical action; emotional/political pressure.  

@@ -14,7 +14,7 @@ Tavian stood still and listened. Then brush moved west of the upper approach. No
 
 Several. Branches shook in a line crossing the road instead of following it. Kellan turned toward the farms. "What is that?"
 
-Tavian raised one hand. they waited. A group of long-legged browsing animals broke from the trees and crossed the upper road at a run.
+Tavian raised one hand. They waited. A group of long-legged browsing animals broke from the trees and crossed the upper road at a run.
 
 Heavy bodies. Narrow heads. Built to eat plants and avoid trouble.
 
@@ -58,9 +58,9 @@ That word settled harder than certainty. Tavian pointed downhill. "These routes 
 
 The hounds crossed again. Not one route. Several.
 
-his side tightened when Red started moving. Pain came with it. The bite in his leg had stopped bleeding.
+His side tightened when Red started moving. Pain came with it. The bite in his leg had stopped bleeding.
 
-his body was correcting itself because that was apparently what it did. None of that told him where the next road would fail. they ran.
+The same impossible logic that had produced barriers and tools was already correcting the bite. Apparently reality preferred Red in one piece. None of that told him where the next road would fail. They ran.
 
 The first farm approach was already emptying. People carried what they could. Not everything.
 
@@ -78,7 +78,7 @@ Kellan turned. "Why?"
 
 At first Red saw nothing. Then the brush folded. Small predators crossed a side track that had been clear before.
 
-Another road gone. they reached the next junction as three militia riders came from Greywake. The lead rider pulled up hard. "Captain's coming."
+*Another road gone.* They reached the next junction as three militia riders came from Greywake. The lead rider pulled up hard. "Captain's coming."
 
 Tavian stepped into the road. "Reports?"
 
@@ -132,7 +132,7 @@ Kellan stepped forward. "The seasonal-cut bridge."
 
 Tavian looked toward the forest. "They will crowd it." Brynn nodded. "Then we control the crossing."
 
-they moved. The road toward the bridge filled before they reached it. People came from two directions.
+They moved. The road toward the bridge filled before they reached it. People came from two directions.
 
 Packs. Children. Tools.
 
@@ -168,7 +168,7 @@ Pale-grey material formed across the road exactly where Red wanted it. The first
 
 The front of the herd bent. Half spilled toward the field. The rest followed the easier line long enough for militia to pull the last two civilians clear.
 
-One animal clipped him as it passed. Impact spun him into the road. his shoulder hit stone. "Move!"
+One animal clipped him as it passed. Impact spun him into the road. His shoulder hit stone. "Move!"
 
 Tavian. Red rolled toward the ditch. The civilians were clear.
 
@@ -176,7 +176,7 @@ The guide had done its job. Red released it before the next group could bunch ag
 
 Enough. Another horn sounded ahead. Red stood.
 
-his shoulder hurt. his side had reopened and was already closing again. None of that changed what Red could do.
+His shoulder hurt. His side had reopened and was already closing again. None of that changed what Red could do.
 
 It changed how pleasant doing it felt. Kellan caught his arm. "Can you walk?"
 
@@ -184,9 +184,9 @@ It changed how pleasant doing it felt. Kellan caught his arm. "Can you walk?"
 
 "Then walk."
 
-they did. Ahead, another militia runner came from the bridge. "Crossing is open. Too many people coming from west."
+They did. Ahead, another militia runner came from the bridge. "Crossing is open. Too many people coming from west."
 
-Kellan swore. they ran harder. Every time one route cleared, another report pointed to pressure where people were already trying to survive.
+Kellan swore. They ran harder. Every time one route cleared, another report pointed to pressure where people were already trying to survive.
 
 Roads connected farms. Animals followed open ground. Predators followed prey.
 
@@ -292,7 +292,7 @@ One leg was trapped beneath a broken beam and part of the cart frame. His other 
 
 Red grabbed the beam. Tavian dropped beside him. "Together."
 
-A militia guard joined. they lifted. Red could have thrown the whole wreckage aside.
+A militia guard joined. They lifted. Red could have thrown the whole wreckage aside.
 
 Red did not know which broken piece was supporting what around Kellan's trapped leg. Again: power was not the missing information. Tavian and the militia guard told him where to lift.
 
@@ -300,13 +300,13 @@ Red followed it exactly. The beam rose. Kellan made a sound through his teeth.
 
 Not a scream. Worse. "Higher," Tavian said.
 
-they lifted. Another militia member pulled the cart frame away. Brynn climbed down and got both hands under Kellan. "Now."
+They lifted. Another militia member pulled the cart frame away. Brynn climbed down and got both hands under Kellan. "Now."
 
-they moved him. His leg came free. It did not look right.
+They moved him. His leg came free. It did not look right.
 
 Red wanted to look away. He did not. Kellan was bleeding.
 
-Just bleeding. Red put pressure where Tavian told him. his hands turned red.
+Just bleeding. Red put pressure where Tavian told him. His hands turned red.
 
 Kellan opened his eyes. "Bridge?" Nobody answered.
 
@@ -318,11 +318,11 @@ Tavian checked quickly. "Yes. Carefully."
 
 "Stretcher."
 
-Two militia climbed back to the road. Red stayed beside Kellan. his own side kept closing.
+Two militia climbed back to the road. Red stayed beside Kellan. His own side kept closing.
 
 His leg did not. That difference sat between them like an accusation that did not need words. The stretcher arrived.
 
-they lifted him. He lost consciousness halfway. Tavian checked his breathing. "Still with us."
+They lifted him. He lost consciousness halfway. Tavian checked his breathing. "Still with us."
 
 Brynn looked at the road. "What do we have left?" A militia runner answered. "Lower farm track is open on foot."
 
@@ -334,7 +334,7 @@ Brynn looked at the road. "What do we have left?" A militia runner answered. "Lo
 
 People started moving again. Around the broken bridge. Away from the road that had been carrying them home.
 
-they climbed out of the cut. Red looked back once. The bridge deck lay broken below.
+They climbed out of the cut. Red looked back once. The bridge deck lay broken below.
 
 Supports split. Cart half on its side. The road ended there.
 
@@ -354,4 +354,4 @@ Nobody spoke. Another horn answered nearer the settlement. The backflow was movi
 
 Kellan lay on the stretcher behind him. The bridge was gone. Red had not built Hesk's system.
 
-Red had still pulled one piece out after being warned that he did not understand the rest. his choice was in this chain. Ahead of them, the migration was turning toward Greywake.
+Red had still pulled one piece out after being warned that he did not understand the rest. His choice was in this chain. Ahead of them, the migration was turning toward Greywake.

@@ -201,7 +201,7 @@ The world paused. A worker froze halfway through pulling a rope. Dust hung above
 
 Kellan remained bent over the approach with one hand against the timber. Red looked toward the unseen audience.
 
-"I have survived interdimensional administrative rejection, predator attacks, and medically offensive body restoration."
+"I have survived interdimensional administrative rejection, predator attacks, and my body editing injuries out of continuity."
 
 Red lifted the lighter crate.
 

@@ -2,10 +2,10 @@
 
 **Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / PLAY LOGIC + JACKAL LUCK RETCON — GATE 9 REVALIDATION REQUIRED
 **Revision Date:** 2026-09-27
-**Word Count:** 2,710
+**Word Count:** 2,730
 **Chapter QA:** `qa/CH-006-GATE-9-CHAPTER-QA.md`
 
-Five wagons rolled out of Greywake after sunrise. I walked beside the third one. That had not been my choice.
+Five wagons rolled out of Greywake after sunrise. Red walked beside the third one. That had not been his choice.
 
 Apparently one completed bridge job qualified him to look useful near a caravan without qualifying him to choose where Red looked useful. No repair crew today. No broken hammer. Two Road Guild guards, five wagons, several drivers, a handful of passengers, and him doing an excellent impression of an armed escort without the weapon.
 

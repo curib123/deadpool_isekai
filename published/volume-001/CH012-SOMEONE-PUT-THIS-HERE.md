@@ -74,7 +74,7 @@ Tavian gestured toward the lure. "The tool has legitimate uses."
 
 "Of course we don't."
 
-Kellan leaned toward the base. "This part has been opened before." Maelis stopped writing. "What do you see?"
+Kellan leaned toward the base. "Someone's had tools on this more than once." Maelis stopped writing. "What do you see?"
 
 "Wear around the socket. Tool contact."
 

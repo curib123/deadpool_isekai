@@ -214,7 +214,7 @@ Kellan ducked under the chain next. Maelis looked at him. Her expression stayed 
 
 "My people still use the routes this road used to connect," he said. "If something here is pushing danger toward them, I have my own reason to see it."
 
-Good. Nobody was following him. They were following their own problems.
+*Good. Nobody was following him. They were following their own problems.*
 
 That mattered. Maelis closed her eyes for one second, then wrote on the field sheet.
 
@@ -342,7 +342,7 @@ Again. Maelis joined him.
 
 She wrote that too. Yesterday they had paper. Before that, tracks.
 
-Now the abandoned road itself had started leaving receipts. they followed the narrow used path toward the ruined watch point. The hillside had collapsed years ago. Three old stone steps remained attached to the slope before ending above a washout where the original road bed had disappeared.
+Now the abandoned road itself had started leaving receipts. They followed the narrow used path toward the ruined watch point. The hillside had collapsed years ago. Three old stone steps remained attached to the slope before ending above a washout where the original road bed had disappeared.
 
 Kellan stopped so abruptly Red nearly walked into him. His attention had gone to the broken edge under their feet.
 
@@ -362,7 +362,7 @@ He crouched, examined the exposed edge, then tapped a surviving inner wall.
 
 "Bad enough."
 
-Excellent engineering unit. Tavian raised one hand. they stopped.
+Excellent engineering unit. Tavian raised one hand. They stopped.
 
 He was looking into the brush below. Something there had started moving against the slope.
 
@@ -512,7 +512,7 @@ That was all. No awe. No speech.
 
 Just practical trust earned for one specific action. Red preferred it more than he expected. Not enough to become humble.
 
-That would have been irresponsible. they continued toward the ruined watch point. Half the roof was gone.
+That would have been irresponsible. They continued toward the ruined watch point. Half the roof was gone.
 
 Trees grew through one wall. The lower stonework remained, including a drainage channel and several shallow recesses built into the retaining structure. Kellan went directly to one. He knew what the watch crews had built into the wall.
 

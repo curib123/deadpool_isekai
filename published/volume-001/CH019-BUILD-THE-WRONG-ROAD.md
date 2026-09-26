@@ -16,9 +16,9 @@ A foreman unfolded Kellan's notes across a cart board. He looked at the ground. 
 
 Another worker crouched beside the ditch. "He was optimistic about the roots." Fair.
 
-Tavian walked the road center slowly, watching both surface and edges. "Do not clear this section too narrow." A worker looked up from his axe. "It's brush."
+Tavian walked the road center slowly, watching both surface and edges. "Leave the center wide." A worker looked up from his axe. "It's brush."
 
-"It is also the line we want large animals to keep using."
+"If you choke it, they spill east."
 
 "We can clear the middle faster."
 

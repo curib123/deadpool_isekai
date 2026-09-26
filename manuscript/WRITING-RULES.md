@@ -210,9 +210,19 @@ Avoid:
 - technical wording when simple words work;
 - long abstract explanation before something happens.
 
-# 3. Red's Narrative Voice
+# 3. Red's Reader-Facing Voice
 
-Red's first-person voice is:
+Red is **not the standard narrator** under the current distant-third-person rule.
+
+His reader-facing voice must still be unmistakable through:
+- dialogue;
+- selective self-thought;
+- body language;
+- timing;
+- theatrical choices;
+- fourth-wall addresses.
+
+Red is:
 - shameless;
 - playful;
 - theatrical;
@@ -225,7 +235,7 @@ Red's first-person voice is:
 - capable of instant seriousness;
 - frequently amused by his own choices.
 
-His narration can sound like he is telling the story while actively living it.
+The external narrator should not imitate Red in every sentence. Let Red's personality erupt through what he says, does, privately thinks, and refuses to take seriously.
 
 Do not make him emotionally polished.
 
@@ -559,20 +569,22 @@ Do not force all seven beats into every scene.
 
 Use them as the default story-engine logic.
 
-# 12B. Close-Narration Performance Rule
+# 12B. Distant-Focal Performance Rule
 
-Red's narration should stay physically close even when the comedy is loud.
+The narrator stays outside Red, but the scene should remain physically immediate.
 
 Prefer:
-- what is directly in front of me;
-- the exact expression I notice;
-- the sound that interrupts me;
-- the object I touch;
-- the threat I choose not to respect;
-- the ridiculous comparison that flashes through my head;
-- the thing I deliberately do not tell the other character.
+- what is directly in front of Red;
+- visible expressions and reactions;
+- sounds that interrupt action;
+- objects Red handles;
+- threats Red visibly refuses to respect;
+- short selective thoughts when his private wording adds something;
+- things Red chooses not to say, shown through hesitation, behavior, or one brief thought.
 
 Do not float above the scene to explain the author's plan.
+
+Do not slide back into continuous first-person thought-stream narration.
 
 # 12C. Unexpected-Situation Rule
 

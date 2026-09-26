@@ -404,7 +404,7 @@ Excellent priorities. She was already pressing clean cloth around the worker's l
 
 "Sela."
 
-"I know what a bite looks like."
+"I know what a bite looks like. Put him down."
 
 "Multiple predators."
 

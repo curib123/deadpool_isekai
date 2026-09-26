@@ -1,11 +1,11 @@
 # CH-021 Publish Version QA
 
 **Canon Source:** `manuscript/CH021-BEFORE-THE-HERD.md`  
-**Canon Source SHA:** `19a8a87e24a2f132b314b0a1d5efbc3c9408cbf4`
+**Canon Source SHA:** `621706a5b152b9a70ad26efa482bfaea784db3af`
 **Publication Copy:** `published/volume-001/CH021-BEFORE-THE-HERD.md`  
-**Publication Copy SHA:** `02c2ce95a1572af2be4516bccf010a70e3474998`
+**Publication Copy SHA:** `ae074f80c6f95b05fa32770668906b22137cd523`
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-20
+**Review Date:** 2026-09-26
 **Status:** PUBLISH-READY — GATE 11 PASS / OVERPOWERED RETCON REFRESH
 
 # Source Integrity
@@ -24,3 +24,15 @@
 
 # Decision
 **PUBLISH-READY — GATE 11 PASS.**
+
+
+# Final Personality Sync Publish Revalidation
+
+**Result:** PASS — 2026-09-26
+
+The reader-facing copy was synchronized after the final Red Jackal personality-motive revision.
+
+- current canon source vs publication prose: **EXACT MATCH**
+- title/body/order equivalence: **PASS**
+- no publication-only semantic edits: **PASS**
+- final personality lock preserved: **PASS**

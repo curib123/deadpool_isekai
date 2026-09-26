@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS / BATTLE QA PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 1960
+**Word Count:** 1,975
 **Chapter QA:** `qa/CH-024-GATE-9-CHAPTER-QA.md`
 **Battle QA:** `qa/VOLUME-001-GREYWAKE-BATTLE-SCENE-AUDIT.md`
 
@@ -98,7 +98,11 @@ His eyes narrowed. "But there is a difference."
 
 "What?"
 
-I pointed toward the homestead route. "I don't get to choose them either." His hand moved toward the key.
+I pointed toward the homestead route. "You keep turning your choice into everybody else's problem. Eventually that became my problem."
+
+I smiled without humor. "I hate being volunteered."
+
+His hand moved toward the key.
 
 Jessa saw it. "He's rotating the plate." Hesk turned the key.
 

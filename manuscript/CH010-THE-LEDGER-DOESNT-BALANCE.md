@@ -117,7 +117,7 @@ Several better answers existed. None were true.
 
 "Because it is the correct word."
 
-Competence kept forming alliances against him. She crossed out one note.
+*Competence kept forming alliances against him.* She crossed out one note.
 
 "The older tracks afterward?"
 
@@ -235,7 +235,7 @@ Red stared at the stack. The stack did not look apologetic.
 
 Red thought back to Hesk. Private labor. Discretionary expense.
 
-Irregular, not undocumented. Jessa had explained the whole thing aloud because Red could not read the forms. his memory had apparently edited the arrangement for genre.
+Irregular, not undocumented. Jessa had explained the whole thing aloud because Red could not read the forms. His memory had apparently edited the arrangement for genre.
 
 Maelis laid the pages in a row. Each one represented a different part of a worker the system could understand.
 
@@ -433,7 +433,7 @@ Maelis did not react. That was one of her more intimidating professional skills.
 
 Jessa hesitated. Not confusion. Decision.
 
-Then she turned toward the rear shelving. they followed. She pulled down a narrow ledger bound in dark cloth and a thinner packet tied with cord.
+Then she turned toward the rear shelving. They followed. She pulled down a narrow ledger bound in dark cloth and a thinner packet tied with cord.
 
 "This is unresolved route loss."
 
@@ -627,7 +627,7 @@ Red looked at Jessa. This part had to remain hers.
 
 "If you want to leave, leave."
 
-Then Red looked at Hesk. his problem was with him choosing for her.
+Then Red looked at Hesk. His problem was with him choosing for her.
 
 "If you want to decide for her, that is the part I dislike."
 
@@ -749,7 +749,7 @@ Boundary. Maelis recognized it immediately.
 
 No pressure. No demand. Jessa had chosen the line.
 
-they left it there. Back in the Ledger room, Maelis arranged the records into three columns. Same paper.
+They left it there. Back in the Ledger room, Maelis arranged the records into three columns. Same paper.
 
 Same stamps. Different meaning now. Red watched because he could not read any of it and pretending otherwise had lost its entertainment value.
 

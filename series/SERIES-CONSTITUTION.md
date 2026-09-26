@@ -427,6 +427,42 @@ Red may be physically capable of ending an ordinary opponent immediately. Battle
 
 A serious Red battle beat means **restraint dropping**, never a new power stage.
 
+# 12A. Web-Novel Prose Law
+
+All canon Red Jackal chapters use a **close first-person web-novel style**.
+
+The default reading rhythm is:
+
+**close narration → dialogue → private Red reaction → action/consequence**
+
+The exact order may change, but chapters must combine:
+- immediate close narration;
+- active character dialogue;
+- short self-thought/internal commentary;
+- concrete scene movement.
+
+Flexible target by chapter:
+- 45–60% close narration/action;
+- 25–40% dialogue;
+- 10–20% self-thought.
+
+These numbers are guidance, not quotas.
+
+Internal thought is normally integrated directly into first-person narration.
+
+Italics may be used sparingly for one sharp exact thought.
+
+The prose must remain:
+- easy to read on mobile;
+- visually breathable;
+- simple/natural English;
+- cinematic without becoming screenplay format;
+- character-driven rather than exposition-driven.
+
+Every Gate 9 chapter must also pass:
+
+`qa/WEBNOVEL-PROSE-STYLE-STANDARD.md`
+
 # 13. Battle Scene QA Law
 
 Every meaningful battle must have an explicit matchup identity such as:

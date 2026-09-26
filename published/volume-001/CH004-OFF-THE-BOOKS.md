@@ -208,9 +208,15 @@ I liked him a little. That was probably dangerous. Hesk pushed the form toward J
 
 Then he looked back at me.
 
-"If the risk is not worth the pay, walk away. I can find someone else."
+"If the risk is not worth the pay, walk away. The road still needs fixing. I'll put somebody else on it."
 
-No threat. No pressure. That made the offer harder to dismiss.
+There it was.
+
+Not a challenge. Not a threat. A road, a vacancy, a cost.
+
+Hesk could make exploitation sound like weather.
+
+That made the offer harder to dismiss.
 
 "I'll decide after I understand what the money is worth."
 

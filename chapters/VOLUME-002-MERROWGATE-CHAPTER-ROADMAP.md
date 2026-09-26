@@ -5,7 +5,7 @@
 **Destination:** DEST-002 — Merrowgate  
 **Arc:** Merrowgate Arc  
 **Phase:** Chapter Roadmap  
-**Status:** GATE 7 STRUCTURE LOCKED / SOUL-DRIFT OVERLAY ACTIVE / CH-027 PROSE STALE / CH-028 PAUSED  
+**Status:** GATE 7 STRUCTURE LOCKED / SOUL-DRIFT OVERLAY ACTIVE / CH-027 CURRENT CANON / CH-028 AUTHORIZED  
 **Final Chapter Count:** 24  
 **Series Chapter Range:** CH-027 through CH-050  
 **POV:** Red Jackal first person throughout  
@@ -891,7 +891,7 @@ Do not build detailed scenes for a later chapter before the active chapter passe
 
 **CH-027 Manuscript:** EVENT SEQUENCE PRESERVED / PROSE STALE UNDER SOUL-DRIFT RETCON.
 
-**Official next step:** CH-027 — Salt in the Air → Soul-Drift / close-first-person / final story-engine manuscript rewrite/revalidation. CH-001 through CH-026 are complete and Gate 9 PASS. CH-028 remains paused.
+**Official next step:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8. CH-001 through CH-027 are complete and Gate 9 PASS.
 
 
 # Current Soul-Drift Synchronization Authority — 2026-09-20

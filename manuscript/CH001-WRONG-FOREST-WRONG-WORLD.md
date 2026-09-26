@@ -1,8 +1,7 @@
 # Chapter 1 — Wrong Forest, Wrong World
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FINAL STORY-ENGINE — GATE 9 REVALIDATION
+**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / PLAY LOGIC + JACKAL LUCK RETCON / GATE 9 REVALIDATION REQUIRED
 **Revision Date:** 2026-09-26
-**Word Count:** 1,795
 
 White.
 
@@ -67,6 +66,8 @@ No keys.
 He checked for the phone again.
 
 Still no phone.
+
+*Excellent start.*
 
 "Excellent."
 
@@ -208,6 +209,8 @@ Fresh.
 
 His gaze followed them into the brush.
 
+*Of course.*
+
 "Naturally."
 
 Something moved behind him.
@@ -283,6 +286,10 @@ He swung.
 The branch broke across the animal's shoulder.
 
 It barely noticed.
+
+Red looked at the splintered half still in his hand.
+
+*Outstanding equipment.*
 
 "That was the warning shot."
 
@@ -392,7 +399,7 @@ The slab felt wrong in his grip because it had no proper grip.
 
 He had wanted a barrier.
 
-So reality had apparently given him exactly that and nothing more.
+Reality had apparently taken the request personally.
 
 He swung anyway.
 
@@ -410,7 +417,7 @@ The animal backed away.
 
 Red stepped forward.
 
-Confidence was much easier once physics had joined his side.
+Confidence was much easier once physics had agreed to negotiate.
 
 "Go on."
 
@@ -432,11 +439,15 @@ Red saw that.
 
 "Small technical issue."
 
-The animal hesitated.
+The animal tensed.
 
-Then it turned and disappeared into the brush.
+A rotten limb cracked high above them.
 
-Red waited.
+It dropped behind the predator with a violent crash.
+
+The animal flinched, spun, and vanished into the brush.
+
+Red did not move.
 
 Five seconds.
 
@@ -445,6 +456,16 @@ Ten.
 Twenty.
 
 Nothing returned.
+
+His eyes shifted toward the fallen branch.
+
+*That timing was offensively convenient.*
+
+Red cleared his throat and looked toward the empty road.
+
+"Also calculated."
+
+No one challenged him.
 
 Only then did his shoulders drop.
 
@@ -506,15 +527,21 @@ Pain shot to his elbow.
 
 He did not touch it again.
 
-The wound kept closing.
+The wound kept pulling itself closed.
 
 Not instantly.
 
 Not cleanly.
 
-But far too quickly.
+But with the same impossible wrongness as the slab appearing where empty air had been.
 
-Red leaned his head against the stone.
+The injury seemed to be losing an argument with reality.
+
+Red watched the skin draw together beneath dried blood.
+
+*Apparently reality had opinions about how many pieces he was allowed to be in.*
+
+He leaned his head against the stone.
 
 Explosion.
 
@@ -522,11 +549,13 @@ White light.
 
 A forest that froze when he addressed something beyond it.
 
-A shield he had wanted badly enough to make real.
+A barrier he had wanted badly enough to make real.
 
-Skin pulling itself together beneath dried blood.
+A perfectly timed falling branch.
 
-He laughed once.
+Skin correcting damage far too quickly.
+
+Red laughed once.
 
 The sound was not especially healthy.
 
@@ -648,7 +677,7 @@ Nothing clean came back.
 
 His expression barely changed.
 
-That reaction might become a problem later.
+*Future problem.*
 
 For now, he needed food, shelter, information, and a version of himself that could be handed to strangers without sounding insane.
 

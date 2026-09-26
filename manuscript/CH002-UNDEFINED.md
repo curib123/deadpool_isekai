@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 2902
+**Word Count:** 2,914
 
 Civilization announced itself with smoke, wagon wheels, and a wall tall enough to make the forest behind me look like it had been somebody else's problem all along. The road curved down through thinning trees toward a timber palisade. River fog drifted between the watch platforms. Two lines of carts waited outside the gate while drivers checked harnesses, guards inspected loads, and merchants argued with the confidence of people whose morning had apparently not included being bitten by an unidentified forest animal.
 
@@ -418,7 +418,11 @@ Maelis dipped her head. "I know."
 
 "Good."
 
-I liked Brynn. She rested one hand on the desk. "Here's the problem, Red Jackal. The System does not identify you. That means the gate cannot verify your history, entry category, guild standing, legal notices, or travel relation."
+I liked Brynn. She rested one hand on the desk. "Here's what matters, Red Jackal. The gate can't verify your history, entry category, guild standing, legal notices, or travel relation."
+
+She tapped the failed slate.
+
+"So I treat what you've actually done, not what this thing failed to tell me."
 
 "I don't have any of those."
 

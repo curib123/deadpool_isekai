@@ -1,187 +1,150 @@
 # Manuscript Writing Rules
 
 **Owners:** A090-A097  
-**Status:** LOCKED SERIES STANDARD — CLOSE FIRST-PERSON / CINEMATIC MOVIE-LIKE ENGLISH / FOURTH-WALL PAUSE
+**Status:** LOCKED SERIES STANDARD — DISTANT THIRD-PERSON LIMITED / CINEMATIC WEB-NOVEL ENGLISH / FOURTH-WALL PAUSE
 
-# 1. POV — Close First-Person Limited
+# 1. POV — Distant Third-Person Limited
 
-All Red Jackal canon prose uses **close first-person limited** unless a future chapter explicitly authorizes another POV.
+All Red Jackal canon prose uses **distant third-person limited** unless a future chapter explicitly authorizes another POV.
 
 Narration uses:
-- I / me / my;
-- only what Red perceives, remembers, guesses, misunderstands, invents, or chooses to tell;
-- immediate physical experience;
-- short internal commentary;
-- Red's personality directly in the narration.
+- Red / he / him / his;
+- an external narrator positioned outside Red;
+- only information available through Red's scene, observable behavior, established facts, and selectively authorized internal thought;
+- restrained access to Red's mind rather than continuous thought-stream narration;
+- clear physical action, dialogue, setting, and consequence before interpretation.
 
-The prose must feel like the reader is trapped beside Red inside the scene.
+The prose should feel like the reader is **watching Red from a controlled narrative distance**, not trapped inside his head.
+
+The narrator may describe:
+- what Red does;
+- what Red visibly reacts to;
+- what Red likely notices when needed for scene clarity;
+- what the environment is doing;
+- what other characters visibly do;
+- limited Red thoughts when they materially improve the scene.
 
 Do not use:
-- omniscient narration;
-- head-hopping;
-- explanations Red cannot know;
-- distant neutral narration that could belong to anyone.
+- first-person I / me / my narration outside direct speech or Fourth-Wall address;
+- head-hopping into other characters;
+- omniscient disclosure of protected truth;
+- constant explanation of Red's private motives;
+- narrator commentary that solves mysteries before the characters can.
 
-# 1A. Web-Novel Close-Narration Standard — LOCKED
+## 1A. Distant Web-Novel Narration Standard — LOCKED
 
-The default prose model is **modern close first-person web-novel narration**.
+The default prose model is **modern distant third-person limited web-novel narration**.
 
-Every scene should feel like it is happening through Red's body and mind **right now**, not being summarized from a distance.
+Use four layers:
 
-Use three layers together:
-
-1. **Close narration / action**
-   - what Red sees, hears, feels, smells, touches, notices, misunderstands, or chooses to ignore;
-   - physical movement and immediate scene geography;
-   - descriptions filtered through Red's personality.
+1. **External narration / action**
+   - visible movement;
+   - scene geography;
+   - environment;
+   - posture, expression, timing, silence;
+   - consequences.
 
 2. **Dialogue**
-   - characters should speak whenever conflict, personality, negotiation, humor, tension, or relationship can be shown through speech;
-   - dialogue should change the scene, not repeat narration;
-   - let characters interrupt, pause, dodge, misunderstand, challenge, or answer only part of a question.
+   - carries a large share of personality, conflict, comedy, and motive;
+   - lets Red reveal himself through what he says rather than constant internal explanation;
+   - allows supporting characters to remain independently readable.
 
-3. **Self-thought / internal reaction**
-   - short, immediate Red reactions;
-   - judgments he does not say aloud;
-   - selfish motives;
-   - ridiculous comparisons;
-   - sudden serious observations;
-   - private misunderstandings;
-   - impulses he chooses not to act on.
+3. **Selective Red thought**
+   - used only when the scene gains something that action/dialogue cannot show cleanly;
+   - short;
+   - usually one line or one brief paragraph;
+   - may be italicized when presented as an exact thought.
+
+4. **Narrative implication**
+   - the narrator may show that Red is amused, bored, irritated, confused, or interested through behavior without spelling out every thought.
 
 ### Recommended Chapter Mix
 
-This is a flexible target, **not a quota**:
-
-- **45–60%** close narration / action / sensory detail;
+Flexible target, not quota:
+- **55–70%** distant narration / action / scene description;
 - **25–40%** dialogue;
-- **10–20%** direct internal commentary / self-thought.
+- **0–10%** direct internal thought.
 
-Action chapters may use more narration.
+Action chapters may use even less internal thought.
 
-Social chapters may use more dialogue.
+Social chapters may rely heavily on dialogue.
 
-Quiet mystery chapters may use more internal observation.
-
-No chapter should become:
-- a wall of narration with people barely speaking;
-- a screenplay made almost entirely of dialogue;
-- a diary of uninterrupted internal monologue.
+Mystery chapters may allow slightly more limited Red inference, but the narrator should still stay outside his immediate thought-stream.
 
 ### Internal Thought Style
 
-Because Red already narrates in first person, most thoughts should be written naturally as narration.
-
 Preferred:
 
-I looked at the three armed men.
+Red looked at the three armed men.
 
-Wonderful.
+His smile widened.
 
-Apparently breakfast had become a side quest.
+"Breakfast really is getting ambitious."
 
 Also valid:
 
-I could break the door.
+Red looked at the locked door.
 
-*Probably shouldn't.*
+*Could break it.*
 
-Use italicized thought only for a **sharp, exact, immediate thought** when the visual emphasis helps.
+He tried the handle instead.
 
-Do **not** italicize every internal sentence.
+Avoid:
+- pages of internal monologue;
+- repeated direct access to every decision;
+- explaining the joke before Red says it;
+- narrating every emotion he feels.
 
-Do **not** repeatedly write:
-- I thought;
-- I wondered;
-- I told myself;
-- I realized;
-- I felt like.
+### Narrative Distance
 
-Instead, move directly into the thought.
+Preferred distant style:
 
-Weak:
+The room was small: one desk, three chairs, shelves packed to the ceiling.
 
-I thought that Tavian was probably right.
+Red looked around once.
 
-Better:
+"Paperwork won."
 
-Tavian was probably right.
+This is preferred over making every description itself sound like Red's internal voice.
 
-Tragic.
-
-### Close-Narration Distance
-
-Do not write neutral description first and Red's opinion afterward when the opinion can shape the description itself.
-
-Distant:
-
-The room was small and contained a desk, three chairs, and several shelves.
-
-Closer:
-
-The room had one desk, three chairs, and enough shelves to prove paperwork had won a territorial dispute.
-
-The description should sound like **Red noticed it**, not like an invisible narrator catalogued it.
+The narrator may be stylish, but should remain more neutral than Red.
 
 ### Dialogue-Narration Weave
 
-Avoid long sequences of floating dialogue.
-
-Between lines, use:
-- gestures;
-- eye movement;
-- silence;
-- physical repositioning;
-- objects being handled;
-- Red's short private reaction;
-- changes in distance or threat.
-
 Preferred rhythm:
 
-Dialogue.
+Narration establishes movement or setting.
 
-Short physical beat.
+Dialogue exposes character.
 
-Red's internal reaction.
+A physical reaction or silence changes the beat.
 
-Reply.
+Optional brief Red thought.
 
 Consequence.
-
-This creates the fast visual rhythm common to strong serial web fiction.
 
 ### Paragraph Rhythm
 
 For mobile/web reading:
 - prefer 1–4 sentences per paragraph;
-- allow one-line paragraphs for impact, jokes, realizations, threats, or reversals;
-- avoid repeated one-line paragraphs when nothing is being emphasized;
-- break dense exposition with dialogue, action, or reaction;
-- keep combat paragraphs especially clean and directional.
+- use one-line paragraphs for impact;
+- avoid giant blocks;
+- keep battle geography clear;
+- do not make distant narration dense or literary for its own sake.
 
 ### Exposition Rule
 
-Worldbuilding should enter through:
-- Red needing something;
-- someone correcting him;
-- a conflict;
-- a job;
-- a mistake;
-- an argument;
-- an object being used;
-- a rule becoming inconvenient.
+Worldbuilding should still arrive through active scenes.
 
-Do not stop the chapter for a textbook explanation if the information can be discovered while the scene moves.
+Distant narration permits concise setup, but it must not become an encyclopedia.
 
 ### Scene Feel
 
 A strong Red scene often follows:
 
-**notice → react privately → speak/act → someone responds → Red reinterprets → situation changes**
+**situation → Red acts/speaks → others react → narrator shows the consequence → optional brief Red thought → next move**
 
-A strong non-Red exchange often follows:
-
-**character objective → dialogue friction → physical/social consequence → Red's private read → next move**
+The reader should often understand Red from what he does **before** being told what he thinks.
 
 # 2. Movie-Like English
 

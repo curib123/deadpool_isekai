@@ -82,7 +82,9 @@ Arguments over property. Arguments over carts. Outer workers helping Core guards
 
 Disaster had forced cooperation without requiring anybody to like each other. Efficient. Red was helping push a loaded cart through a rut when the left wheel dropped hard.
 
-Wood cracked. The cart stopped. So did three behind it. "Axle."
+Wood cracked.
+
+*Naturally it breaks when I touch it.* The cart stopped. So did three behind it. "Axle."
 
 Of course. Red crouched beside the wheel. Split near the hub.
 

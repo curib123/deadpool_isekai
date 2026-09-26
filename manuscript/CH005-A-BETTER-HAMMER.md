@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 3,012
+**Word Count:** 2,996
 **Chapter QA:** `qa/CH-005-GATE-9-CHAPTER-QA.md`
 
 The sky over Greywake was still grey when I reached the Road Guild yard. A wagon waited near the gate with fresh timber stacked along one side. Workers hauled iron clamps into crates. Two guards checked spearheads under the awning. Somewhere behind the wagon, two men were already arguing about rope with the intensity of people discussing national policy.
@@ -461,10 +461,16 @@ I put the Marks away. The foreman was already discussing the next day's traffic 
 
 Reasonable priorities. I stepped back into the yard. My shoulders still ached.
 
-The idea of trying the anomaly again crossed my mind. I let it pass. Not because I had reached a limit.
+The idea of making something else crossed my mind.
 
-Because testing reality in the middle of a busy Guild yard would reveal more about me than it taught me. There would be better stages. Better timing.
+Then somebody rolled a barrel past me and nearly clipped my boot.
 
-More interesting problems. Marks clicked in my pocket as I headed toward the market. The world had not taught me how to become stronger.
+I stepped aside.
 
-It had taught me something much more useful. If I gave the impossible a role, it listened differently. That was enough for today.
+Right. Busy yard.
+
+Whatever this impossible nonsense was, it worked when I wanted something badly enough and pictured the job clearly enough. Good enough.
+
+I had money in my pocket, breakfast still unresolved, and absolutely no interest in turning the afternoon into a laboratory.
+
+The next ridiculous idea could wait until I actually wanted it.

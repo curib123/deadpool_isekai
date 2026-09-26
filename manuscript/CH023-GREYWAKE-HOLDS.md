@@ -18,7 +18,7 @@ Then right. It was looking for space. Unfortunately, they had filled every usefu
 
 A browser slammed into the outer guide. Wood snapped. The predator flinched toward the sound.
 
-Prey compressed behind it. his first useful thought was simple. Remove predator.
+Prey compressed behind it. His first useful thought was simple. Remove predator.
 
 Red could. Throw it uphill. Drop it somewhere else.
 
@@ -48,7 +48,7 @@ One against the heavy shoulder ridge. The charge drove his boots backward throug
 
 Completely. The predator pushed. It got nowhere.
 
-For one strange second, the militia line forgot to breathe. The animal's claws tore grooves through packed earth. his did not.
+For one strange second, the militia line forgot to breathe. The animal's claws tore grooves through packed earth. His did not.
 
 Red looked at it. "No." Then he turned its head.
 
@@ -66,7 +66,7 @@ Brynn turned. "Upper team! Clear the service cut. Everything loose out of the la
 
 Two workers ran uphill. One militia pair followed, shields facing the road. The predator watched them move.
 
-Good. Bad. It changed objectives.
+*Good. Bad. It changed objectives.*
 
 Instead of charging him again, it lunged toward the workers. Adaptation. Finally.
 
@@ -140,7 +140,7 @@ A runner arrived from the lower line. "East branch still pulling." Tavian did no
 
 "Twice."
 
-That was bad enough to qualify as information. Hesk's lure was still working. they were now holding three problems at once.
+That was bad enough to qualify as information. Hesk's lure was still working. They were now holding three problems at once.
 
 The predator. The road. The wrong-route pull.
 
@@ -192,7 +192,7 @@ Red caught it by the neck ridge and turned it away from the workers. "You're mak
 
 The foreman shouted from the shelf. "First permanent brace set!" Another worker answered. "Second coming!"
 
-his support held the entire failing edge without changing. No wobble. No strain.
+His support held the entire failing edge without changing. No wobble. No strain.
 
 No countdown. The only clock was everyone else. Tavian watched the herd.
 
@@ -248,7 +248,7 @@ Real braces took the load. "Next." Red removed another.
 
 Still held. He pointed to the worst crack. "Keep that until we set the stone wedge."
 
-Good. his support remained only where the actual road still needed it. A heavy browser hit the outer shoulder.
+Good. His support remained only where the actual road still needed it. A heavy browser hit the outer shoulder.
 
 Stone broke. One worker slipped. Red moved.
 

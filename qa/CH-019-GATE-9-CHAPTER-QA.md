@@ -4,7 +4,7 @@
 **Manuscript:** `manuscript/CH019-BUILD-THE-WRONG-ROAD.md`  
 **Review Date:** 2026-09-20  
 **Status:** PASS — CURRENT CANON REVALIDATED  
-**Word Count:** 1560
+**Word Count:** 1,545
 
 **Owners:** A120 Chapter QA Editor, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A097 Prose Editor, A096 Imagination Scene Designer, A037 Power Balance Editor, A042 Character Arc Editor, A044 Supporting Character Editor, A045 Antagonist Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A101 Canon Conflict Detector, A102 Knowledge-State Editor, A111 Logic Editor
 
@@ -439,3 +439,13 @@ Do not draft CH-020 manuscript before its Scene Architecture and Gate 8 Pre-Manu
 Do not begin CH-021 surge preparation early.
 
 Do not select Volume 2.
+
+
+# Repeated-Recheck Natural-Prose Revalidation — 2026-09-26
+
+**Status:** PASS — CURRENT CANON
+
+- author-facing anti-retcon wording removed from reader prose;
+- final Red power/personality model preserved through natural scene behavior;
+- plot, mystery, battle outcome and continuity unchanged;
+- publication copy synchronized exactly.

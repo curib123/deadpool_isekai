@@ -4,7 +4,7 @@
 **Manuscript:** `manuscript/CH026-BEFORE-THEY-DECIDE-WHAT-I-AM.md`  
 **Review Date:** 2026-09-20  
 **Status:** PASS — CURRENT CANON REVALIDATED  
-**Word Count:** 1512
+**Word Count:** 1,510
 
 > **Final-engine authority note (2026-09-20):** Any legacy wording below that treats Stage labels, manifestation counts, fatigue, injury, or regeneration as a raw-capacity/progression limit is superseded by the current manuscript, current scene-architecture override, and Soul-Drift / Final Story-Engine revalidation. Event/reveal/knowledge checks remain authoritative.
 
@@ -226,3 +226,23 @@ After canonization:
 **Volume 1 / Greywake Arc chapter production is complete through CH-026.**
 
 No Volume 2 destination may be selected automatically.
+
+
+# Final Personality Synchronization Revalidation — 2026-09-26
+
+**Status:** PASS — CURRENT CANON
+
+This chapter received a targeted motive/voice synchronization under the final Red Jackal personality lock.
+
+Verified:
+- plot events unchanged;
+- scene order unchanged;
+- mystery state unchanged;
+- battle/action outcome unchanged;
+- no power progression introduced;
+- Red remains overwhelmingly powerful;
+- Red's motive is now personal/self-centered rather than generic heroic responsibility;
+- clueless-power / indifference / effortless-aura behavior remains compatible;
+- no copyrighted dialogue, scene or character copy introduced.
+
+The revision changes interpretation of Red's motive, not the chapter's causal outcome.

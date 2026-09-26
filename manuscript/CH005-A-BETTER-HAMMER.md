@@ -2,10 +2,10 @@
 
 **Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / PLAY LOGIC + JACKAL LUCK RETCON — GATE 9 REVALIDATION REQUIRED
 **Revision Date:** 2026-09-27
-**Word Count:** 2,939
+**Word Count:** 2,998
 **Chapter QA:** `qa/CH-005-GATE-9-CHAPTER-QA.md`
 
-The sky over Greywake was still grey when I reached the Road Guild yard. A wagon waited near the gate with fresh timber stacked along one side. Workers hauled iron clamps into crates. Two guards checked spearheads under the awning. Somewhere behind the wagon, two men were already arguing about rope with the intensity of people discussing national policy.
+The sky over Greywake was still grey when Red reached the Road Guild yard. A wagon waited near the gate with fresh timber stacked along one side. Workers hauled iron clamps into crates. Two guards checked spearheads under the awning. Somewhere behind the wagon, two men were already arguing about rope with the intensity of people discussing national policy.
 
 Red had not found breakfast yet. First light was a cruel phrase. A broad-shouldered man in a weather-dark coat took the bridge-marked assignment card from him, checked the Guild seal, then checked him.
 

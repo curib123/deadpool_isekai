@@ -27,7 +27,7 @@ Red looked between them. "So this is normal?" Tavian gave him a flat look. "The 
 
 Maelis opened her field case. Paper. Charcoal. Measuring cord. Two small metal markers.
 
-No glowing lens. No convenient answer. Naturally.
+*No glowing lens. No convenient answer. Naturally.*
 
 She began with the stone recess. "Old road structure?" Kellan crouched beside her without crossing the markers she had placed. "The wall is old. The pocket is old. The socket isn't original."
 

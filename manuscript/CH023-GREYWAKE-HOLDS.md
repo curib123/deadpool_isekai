@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS / GREAT BATTLE QA PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 1991
+**Word Count:** 1,992
 **Chapter QA:** `qa/CH-023-GATE-9-CHAPTER-QA.md`
 **Battle QA:** `qa/VOLUME-001-GREYWAKE-BATTLE-SCENE-AUDIT.md`
 
@@ -60,7 +60,7 @@ Because I let go. Tavian shouted. "Do not kill it!"
 
 He looked at me. I looked at him. "Fine. I was considering options."
 
-He pointed uphill. "Service cut. It wants that."
+He pointed uphill. "North service cut. That's its exit."
 
 Brynn turned. "Upper team! Clear the service cut. Everything loose out of the lane."
 

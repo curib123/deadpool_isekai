@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / PLAY LOGIC + JACKAL LUCK RETCON — GATE 9 REVALIDATION REQUIRED
 **Revision Date:** 2026-09-27
-**Word Count:** 2,821
+**Word Count:** 2,827
 **Chapter QA:** `qa/CH-008-GATE-9-CHAPTER-QA.md`
 
 "Can you lift?"

@@ -206,7 +206,9 @@ Nobody was spare. The branch pressed against my guide. It did not wobble.
 
 It did not crack. It stayed exactly where I wanted. A browser hit it hard enough to shake dirt.
 
-The guide remained. No exhaustion drama. No final-use limit.
+The guide remained.
+
+Apparently it had not received the memo that this was supposed to be difficult.
 
 Just a tool doing its job. Tavian watched the rear movement. "Not yet."
 

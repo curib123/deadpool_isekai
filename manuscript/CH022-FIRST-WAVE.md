@@ -6,7 +6,7 @@
 **Chapter QA:** `qa/CH-022-GATE-9-CHAPTER-QA.md`
 **Battle QA:** `qa/VOLUME-001-GREYWAKE-BATTLE-SCENE-AUDIT.md`
 
-The first mass did not charge us. It came out of the trees in layers. Small prey first—thin-legged things built for speed. Larger browsers followed, bodies shouldering through brush. Behind them, the tree line kept moving even where I could not yet see individual animals.
+The first mass did not charge us. It came out of the trees in layers. Small prey first—thin-legged things built for speed. Larger browsers followed, bodies shouldering through brush. Behind them, the tree line kept moving even where Red could not yet see individual animals.
 
 Too many bodies. Too many frightened decisions happening at once. His first thought was a wall.
 

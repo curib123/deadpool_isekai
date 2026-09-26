@@ -458,9 +458,9 @@ Tavian struck the ground with the polearm shaft. The crack made the animal jump 
 
 "Done."
 
-I released the obstruction. It folded out of the world. No cracking from strain.
+I released the obstruction. It folded out of the world because I was done with it.
 
-No hidden limit had appeared. Its job was finished. The fourth predator pushed into the reopened gap.
+Three breaths. That was all Tavian had asked for. The fourth predator pushed into the reopened gap.
 
 Tavian was already there. He slammed the polearm shaft across its chest and redirected it toward the open west side. The encirclement broke.
 

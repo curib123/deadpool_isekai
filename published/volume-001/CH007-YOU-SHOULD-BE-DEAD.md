@@ -804,7 +804,7 @@ The geometry from the road replayed easily. I had wanted the lead predator. I ha
 
 Tavian had shifted. The second angle opened. The worker had paid for it.
 
-That was not a moral revelation. It was causality. Causality was worth remembering even when I remained perfectly capable of ignoring it later.
+That was not a moral revelation. It was annoying geometry. I had stepped forward because getting hit was cheap for me. Tavian had shifted. The worker had paid for the empty space. If fragile people could change the shape of my game that easily, remembering it was useful.
 
 Sela stood.
 
@@ -832,4 +832,6 @@ I looked toward Tavian. He did not look triumphant. That helped.
 
 Then I looked back at the ceiling. I was still Red Jackal. Still curious.
 
-Still entirely capable of making the same kind of bad decision for a different reason tomorrow. But now I knew exactly what it could cost someone standing behind me. Useful information.
+Tomorrow I would probably do something equally stupid for a better reason. Now I knew one extra rule: people who could not regenerate changed the board whether I cared about the rule or not.
+
+Useful.

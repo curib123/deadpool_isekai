@@ -1,8 +1,10 @@
 Chapter 18 — No Acceptable Loss
 
+The emergency route board was crowded with markers. Tavian stood over it with both hands on the table. Brynn moved a militia token.
+
 Maelis added another stack of copied records. Hesk watched from the opposite side. Red stayed where Tavian had told him to stand.
 
-Not obedience. Positioning. There was a difference.
+*Not obedience. Positioning. There was a difference.*
 
 A runner finished describing movement near the lower approach. Tavian asked three questions, changed one marker, and sent him back out. Brynn looked at the map. "We cannot keep pulling people inward."
 
@@ -24,9 +26,7 @@ That did not make it a good one. Brynn tapped the outer markers. "If we restore 
 
 "That was not my question."
 
-Hesk looked at the map. "Into less critical approaches." The room changed slightly.
-
-Maelis set down her paper. "Occupied approaches."
+Hesk looked at the map. "Into less critical approaches." The room changed slightly. Maelis set down her paper. "Occupied approaches."
 
 "Some."
 
@@ -48,11 +48,7 @@ Tavian pointed toward the outer sectors. "Restoring every known lure to the old 
 
 "It also reshaped movement for years."
 
-Hesk leaned forward. "And doing nothing?" Tavian looked at the latest markers. "Also unacceptable."
-
-Three bad answers sat on the table. Pull everyone inward. Restore Hesk's sacrificial pattern.
-
-Wait for perfect information until the migration made the choice for them. Red looked at the markers. For once, he did not suggest breaking something.
+Hesk leaned forward. "And doing nothing?" Tavian looked at the latest markers. "Also unacceptable." Three bad answers sat on the table. Pull everyone inward. Restore Hesk's sacrificial pattern. Wait for perfect information until the migration made the choice for them. Red looked at the markers. For once, he did not suggest breaking something.
 
 Tavian noticed. He did not comment. Good instincts. "We need somewhere for the pressure to go," he said.
 
@@ -78,9 +74,7 @@ Jessa arrived with two guards and the expression of someone whose day had not im
 
 Then him. Her shoulders tightened. Maelis pointed to the empty chair. "You are not under accusation."
 
-Jessa looked at Hesk. "And you are not answering through him." That helped slightly.
-
-She sat. Maelis opened the first packet. "We need current service information. Known lure sites. Recent service. Crew assignment. Compound issue records. Which entries are current enough to matter."
+Jessa looked at Hesk. "And you are not answering through him." That helped slightly. She sat. Maelis opened the first packet. "We need current service information. Known lure sites. Recent service. Crew assignment. Compound issue records. Which entries are current enough to matter."
 
 "That is several logs."
 
@@ -118,9 +112,7 @@ Jessa looked confused. "Good?"
 
 "Good that you said what the record proves instead of what we wish it proved."
 
-Maelis's mouth almost moved. Jessa continued. "North service sector has a recent crew dispatch."
-
-Tavian marked it. "East outer?"
+Maelis's mouth almost moved. Jessa continued. "North service sector has a recent crew dispatch." Tavian marked it. "East outer?"
 
 "Recent issue record. No return confirmation."
 
@@ -128,17 +120,13 @@ Tavian marked it. "East outer?"
 
 "Compound issued. I cannot prove it was used."
 
-Maelis nodded. "Recorded fact: compound issued. Current state: unknown."
-
-Another page. "South-east timber has completed maintenance." Hesk said, "That unit should still be active."
+Maelis nodded. "Recorded fact: compound issued. Current state: unknown." Another page. "South-east timber has completed maintenance." Hesk said, "That unit should still be active."
 
 Maelis looked at him. "Should?"
 
 "Estimate based on standard load."
 
-She wrote it in a different column. The board became slower. More honest.
-
-Jessa pointed to two marks. "Same crew code." Tavian looked at the map. "Same day?"
+She wrote it in a different column. The board became slower. More honest. Jessa pointed to two marks. "Same crew code." Tavian looked at the map. "Same day?"
 
 "Two days apart."
 
@@ -146,9 +134,7 @@ Jessa pointed to two marks. "Same crew code." Tavian looked at the map. "Same da
 
 "They could have done both using the service connector."
 
-Hesk said, "They did." Jessa searched. "Then there should be a wagon issue entry."
-
-There was. Tavian marked both sectors. Brynn leaned over the table. "Likely part of the same operational sequence."
+Hesk said, "They did." Jessa searched. "Then there should be a wagon issue entry." There was. Tavian marked both sectors. Brynn leaned over the table. "Likely part of the same operational sequence."
 
 "Likely," Maelis said.
 
@@ -156,21 +142,13 @@ Hesk exhaled. "We are discussing a crisis, not auditing grammar." Maelis looked 
 
 Nobody answered. Soon the table held something better than certainty. An incomplete map that admitted it was incomplete.
 
-Known lure sectors. Recent sightings. Greywake-facing pressure.
-
-Damaged roads. Outer settlements. Militia positions.
-
-Tavian stepped back. "Now corridors." Brynn moved three wooden route markers. "The western farm route is out."
+Known lure sectors. Recent sightings. Greywake-facing pressure. Damaged roads. Outer settlements. Militia positions. Tavian stepped back. "Now corridors." Brynn moved three wooden route markers. "The western farm route is out."
 
 "Why?" Jessa asked.
 
 "Too many civilians still using it."
 
-Tavian added, "Current prey movement crosses it." Gone. South connector.
-
-Too narrow. Too many sheds. One northern route depended on Kellan's seasonal-cut bridge.
-
-Nobody needed to explain why that was unavailable. Another old road ended at a slope break. Hesk watched the options disappear. "You are proving my point."
+Tavian added, "Current prey movement crosses it." Gone. South connector. Too narrow. Too many sheds. One northern route depended on Kellan's seasonal-cut bridge. Nobody needed to explain why that was unavailable. Another old road ended at a slope break. Hesk watched the options disappear. "You are proving my point."
 
 Brynn did not look at him. "Which one?"
 
@@ -178,13 +156,7 @@ Brynn did not look at him. "Which one?"
 
 "No one said clean."
 
-Tavian's finger stopped on an older northern line. Red recognized it. Broken North.
-
-Old road. Bad washout. Ruined watch point.
-
-One hidden lure. Tavian traced it. "Old connector here."
-
-Jessa leaned closer. "Used to join three minor routes." Kellan had said the same thing.
+Tavian's finger stopped on an older northern line. Red recognized it. Broken North. Old road. Bad washout. Ruined watch point. One hidden lure. Tavian traced it. "Old connector here." Jessa leaned closer. "Used to join three minor routes." Kellan had said the same thing.
 
 Brynn looked at the settlement markers. "Current habitation?"
 
@@ -206,13 +178,7 @@ Hesk stepped closer. "The road is broken."
 
 "Then stop pretending you found a solution."
 
-Tavian looked at him. "I found a direction." Direction.
-
-Not solution. Brynn studied the route. "How much work?"
-
-Tavian looked at him. Red raised both hands. "Do not ask me."
-
-Progress. "We need Kellan." Sela objected before Kellan did.
+Tavian looked at him. "I found a direction." Direction. Not solution. Brynn studied the route. "How much work?" Tavian looked at him. Red raised both hands. "Do not ask me." Progress. "We need Kellan." Sela objected before Kellan did.
 
 Ten minutes later, they stood in a covered staging shed beside the treatment house. Kellan lay on a low wheeled cot with his injured leg elevated. Sela looked ready to injure anyone who forgot why. "You have a short window."
 
@@ -220,9 +186,7 @@ Kellan looked at her. "I heard you."
 
 "Then surprise me."
 
-Brynn placed a copied route sketch beside him. "Broken North." Kellan stared at it.
-
-Then Tavian. "You are serious."
+Brynn placed a copied route sketch beside him. "Broken North." Kellan stared at it. Then Tavian. "You are serious."
 
 "Yes."
 
@@ -298,13 +262,9 @@ He did not resist. Pain had already won that argument. Before they went inside, 
 
 "I know. Stop making recent trauma somebody else's planning problem."
 
-Fair. they returned to the militia yard. Broken North was possible.
+Fair. They returned to the militia yard. Broken North was possible. Not safe. Tavian redrew the route from current pressure toward the old corridor. "We cannot force migration to take it."
 
-Not safe. Tavian redrew the route from current pressure toward the old corridor. "We cannot force migration to take it."
-
-Hesk said, "Finally." Tavian ignored him. "We can change which options are easier."
-
-He marked three known lure sectors. "Selected known sites only. Controlled windows. Not maximum charge."
+Hesk said, "Finally." Tavian ignored him. "We can change which options are easier." He marked three known lure sectors. "Selected known sites only. Controlled windows. Not maximum charge."
 
 Jessa checked the service list. "This one has recent maintenance."
 
@@ -324,9 +284,7 @@ Tavian continued. "We make populated approaches less attractive." Hesk said, "Pr
 
 Tavian pointed to Broken North. "That is why the alternative must be physically easier." The plan formed.
 
-Clear brush. Clear drainage. Brace washout.
-
-Open old connectors. Use short lure windows only where field teams confirm the route. Watch the animals.
+Clear brush. Clear drainage. Brace washout. Open old connectors. Use short lure windows only where field teams confirm the route. Watch the animals.
 
 Revise when animals revise. Brynn divided roles. "Militia protects crews and controls civilian routes. Warning runners here and here. Fallback evacuation stays open."
 
@@ -378,11 +336,7 @@ Finally. A job Red understood. Tavian held up one finger. "Temporary."
 
 "No improvising a replacement road just because you can."
 
-Red looked at him. There it was. The correct version.
-
-Could Red made a road? Probably something much more ridiculous. Should he?
-
-Not if the whole point was creating infrastructure ordinary people could still use after Red left. "Fine."
+Red looked at him. There it was. The correct version. Could Red made a road? Probably something much more ridiculous. Should he? Not if the whole point was creating infrastructure ordinary people could still use after Red left. "Fine."
 
 "Can you support a damaged lip long enough for workers to place real bracing?"
 
@@ -398,9 +352,7 @@ Not if the whole point was creating infrastructure ordinary people could still u
 
 "Good."
 
-No demonstration. No new rule. No need.
-
-Hesk looked at the map. "You are weakening main-road resources for this." Brynn answered. "We are reallocating crews."
+No demonstration. No new rule. No need. Hesk looked at the map. "You are weakening main-road resources for this." Brynn answered. "We are reallocating crews."
 
 "From the protected corridor."
 
@@ -412,9 +364,7 @@ Hesk looked at the map. "You are weakening main-road resources for this." Brynn 
 
 His eyes hardened. "You are willing to risk the road." Brynn looked at the outer markers. "I am willing to stop pretending only one road counts as Greywake."
 
-Nobody improved that. Jessa finished the schedule draft. Maelis checked authorizations.
-
-Tavian reviewed movement reports. Brynn counted crews. Red stayed at the edge of the table and touched nothing unless asked.
+Nobody improved that. Jessa finished the schedule draft. Maelis checked authorizations. Tavian reviewed movement reports. Brynn counted crews. Red stayed at the edge of the table and touched nothing unless asked.
 
 Annoyingly, that helped. Tavian placed one marker at Broken North's entrance and another at the far connector. "If we can make this continuous enough and keep populated approaches under controlled pressure, the animals have somewhere else to go."
 
@@ -426,9 +376,7 @@ Hesk looked at the route. "And if they refuse?"
 
 "Possibly."
 
-Hesk looked at Brynn. "You approve this?" Brynn checked every marker.
-
-Then Maelis. "Authority structure?"
+Hesk looked at Brynn. "You approve this?" Brynn checked every marker. Then Maelis. "Authority structure?"
 
 "Recorded. Shared copies. No sole Guild control."
 
@@ -440,24 +388,12 @@ Then Maelis. "Authority structure?"
 
 "Risky."
 
-Brynn waited. "So is every other option." She looked toward the treatment house. "Kellan?"
+Brynn waited. "So is every other option." She looked toward the treatment house. "Kellan?" Red answered before thinking. "He said it can be made usable enough to try." Brynn looked at him.
 
-Red answered before thinking. "He said it can be made usable enough to try." Brynn looked at him.
+Red stopped. "His words. Not mine." Small nod. Then Hesk. "Your objection is recorded." He said nothing. Brynn put one hand on the Broken North marker. "We prepare it."
 
-Red stopped. "His words. Not mine."
-
-Small nod. Then Hesk. "Your objection is recorded."
-
-He said nothing. Brynn put one hand on the Broken North marker. "We prepare it."
-
-The room moved immediately. Runners took assignments. Jessa copied schedules.
-
-Maelis separated authorization sheets. Tavian listed route confirmations. Hesk stepped back from the table without accepting the plan.
+The room moved immediately. Runners took assignments. Jessa copied schedules. Maelis separated authorization sheets. Tavian listed route confirmations. Hesk stepped back from the table without accepting the plan.
 
 He did not need to accept it. He needed to obey the limits around it. Tavian pushed the copied Broken North sketch toward him.
 
-Three marks. Temporary support points. Not the road.
-
-Not the solution. Support. Red picked up the sketch.
-
-This time, the plan was to make somewhere else for the danger to go.
+Three marks. Temporary support points. Not the road. Not the solution. Support. Red picked up the sketch. This time, the plan was to make somewhere else for the danger to go.

@@ -420,6 +420,8 @@ Then she looked at him.
 
 "Paid work."
 
+*Of course the first useful offer arrives right after I become officially unemployable.*
+
 That was the first phrase all afternoon that sounded immediately useful.
 
 "Registered work?"

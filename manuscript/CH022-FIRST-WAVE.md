@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS / BATTLE QA PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 1690
+**Word Count:** 1,691
 **Chapter QA:** `qa/CH-022-GATE-9-CHAPTER-QA.md`
 **Battle QA:** `qa/VOLUME-001-GREYWAKE-BATTLE-SCENE-AUDIT.md`
 
@@ -100,7 +100,7 @@ Brynn looked at him. "Random spill?"
 
 A second group followed the same angle. Then a third. Ridge-hounds used the opening behind them.
 
-Tavian pointed. "Approved sequence should be weakening that route."
+Tavian pointed. "That route should be weakening by now."
 
 "So something is pulling."
 

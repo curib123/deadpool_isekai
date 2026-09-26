@@ -29,7 +29,7 @@ It made bruising unpleasant. Sela pressed two fingers near the healed line. Red 
 
 She looked toward the rest of the room. "That does not make anyone else's injury cheaper." Across from him, Kellan sat with his leg splinted and raised.
 
-His body followed its own unreasonable rules. His did not. He noticed him looking. "Still attached?"
+Red's body followed its own unreasonable rules. Kellan's did not. Kellan noticed Red looking. "Still attached?"
 
 "The important parts."
 

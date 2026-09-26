@@ -589,6 +589,10 @@ The recent pack tracks were obvious now. Even Red could see them. He ignored mos
 
 They found the first clean layer about fifty paces farther on. Runoff had exposed dark soil beneath an overhanging bank. Protected from direct rain.
 
+Red eyed the clean strip.
+
+*Convenient.*
+
 Tavian crouched. Red stayed back without being told. He glanced at him.
 
 Red chose to interpret that as admiration. Poorly supported conclusion. The bank held several older impressions.

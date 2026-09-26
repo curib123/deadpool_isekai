@@ -6,7 +6,7 @@
 **Review Date:** 2026-09-20  
 **Revision Track:** Soul-Drift / Close First-Person / Final Story Engine  
 **Status:** PASS — CURRENT CANON REVALIDATED  
-**Word Count:** 2,295
+**Word Count:** 1,795
 
 ## Reviewed Authority
 
@@ -225,3 +225,25 @@ The old close-third / traffic-collision / Stage-I interpretation is historical a
 **CH-002 — Undefined → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**
 
 CH-028 remains paused until CH-001 through CH-027 complete this synchronization cycle.
+
+
+# Distant Narration Revalidation — 2026-09-26
+
+**Status:** PASS — CURRENT POV CANON
+
+CH-001 has been fully converted to the new distant-third-person-limited standard.
+
+Verified:
+- third-person Red focalization: **PASS**
+- no first-person narration outside direct speech/Fourth-Wall address: **PASS**
+- no head-hopping: **PASS**
+- selective rather than continuous internal access: **PASS**
+- dialogue carries Red's personality: **PASS**
+- Fourth-Wall Pause remains direct audience address: **PASS**
+- explosion/memory/anomaly events unchanged: **PASS**
+- predator fight / first Play Logic manifestation unchanged: **PASS**
+- regeneration evidence unchanged: **PASS**
+- road/civilization handoff unchanged: **PASS**
+- mystery boundaries unchanged: **PASS**
+
+CH-001 is the reference chapter for the distant-narration conversion of CH-002 onward.

@@ -1,11 +1,11 @@
 # CH-005 Publish Version QA
 
 **Canon Source:** `manuscript/CH005-A-BETTER-HAMMER.md`  
-**Canon Source SHA:** `b16e5aeae3d0033a313a282b33aef2b1d3baa2f3`  
+**Canon Source SHA:** `c5d1a63ac4b08df6b1a970365be31a67772c3ca6`  
 **Publication Copy:** `published/volume-001/CH005-A-BETTER-HAMMER.md`  
-**Publication Copy SHA:** `6a3d24b2601dcec5bdb54b5cd4857fbfa95c29a8`  
+**Publication Copy SHA:** `f8f55ce6888a435abe561961ec045254b9ac55be`  
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-20  
+**Review Date:** 2026-09-26
 **Status:** PUBLISH-READY — GATE 11 PASS
 
 # Source Integrity
@@ -33,3 +33,13 @@ Publication copy is exactly the reader-facing title plus current canon body.
 # PASS
 
 **CH-005 is PUBLISH-READY — GATE 11 PASS.**
+
+
+# Arc 1 Recheck Publish Revalidation
+
+**Result:** PASS — 2026-09-26
+
+- current canon source vs publication prose: **EXACT MATCH**
+- character-voice cleanup synchronized: **PASS**
+- no publication-only semantic change: **PASS**
+- Gate 11 status remains **PUBLISH-READY**

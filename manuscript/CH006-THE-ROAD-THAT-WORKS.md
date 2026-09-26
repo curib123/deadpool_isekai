@@ -75,9 +75,7 @@ The guard gestured between them.
 
 Tavian gave him one brief look, then returned to the tracks.
 
-Apparently Red ranked below mud.
-
-Unacceptable.
+*Apparently I ranked below mud. Unacceptable.*
 
 "Red Jackal."
 

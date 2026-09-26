@@ -429,35 +429,45 @@ A serious Red battle beat means **restraint dropping**, never a new power stage.
 
 # 12A. Web-Novel Prose Law
 
-All canon Red Jackal chapters use a **close first-person web-novel style**.
+All canon Red Jackal chapters use a **distant third-person limited web-novel style**.
 
 The default reading rhythm is:
 
-**close narration → dialogue → private Red reaction → action/consequence**
+**external narration → dialogue/action → visible reaction → optional brief Red thought → consequence**
 
-The exact order may change, but chapters must combine:
-- immediate close narration;
+The exact order may change.
+
+The prose must combine:
+- clear external narration;
 - active character dialogue;
-- short self-thought/internal commentary;
-- concrete scene movement.
+- readable scene movement;
+- selective rather than constant access to Red's thoughts.
 
 Flexible target by chapter:
-- 45–60% close narration/action;
-- 25–40% dialogue;
-- 10–20% self-thought.
+- **55–70%** distant narration/action;
+- **25–40%** dialogue;
+- **0–10%** direct Red thought.
 
-These numbers are guidance, not quotas.
+These are guidance, not quotas.
 
-Internal thought is normally integrated directly into first-person narration.
+Red's personality should be shown primarily through:
+- what he says;
+- what he does;
+- what he ignores;
+- how other characters react to him;
+- selective brief internal thought when necessary.
 
-Italics may be used sparingly for one sharp exact thought.
+The narrator must not constantly explain Red.
+
+Fourth-Wall Pause remains an exception: when Red genuinely addresses the external audience, he may speak directly to the reader while Veyran time freezes.
 
 The prose must remain:
-- easy to read on mobile;
-- visually breathable;
+- mobile-readable;
+- cinematic;
 - simple/natural English;
-- cinematic without becoming screenplay format;
-- character-driven rather than exposition-driven.
+- externally observable;
+- character-driven;
+- free of omniscient head-hopping.
 
 Every Gate 9 chapter must also pass:
 

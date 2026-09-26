@@ -60,7 +60,7 @@ Maelis checked another page. "Before the Broken North closure."
 
 "Yes."
 
-Kellan pointed to another packet. "And that?" Jessa hesitated before opening it. "Replacement reservoir. Vent housing. Two anchoring collars."
+Kellan pointed to another packet. "And that?" Jessa hesitated, glanced once at Hesk, then opened it anyway. "Replacement reservoir. Vent housing. Two anchoring collars."
 
 "Location?"
 

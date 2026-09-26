@@ -45,7 +45,7 @@ She pressed near the ribs. Still tender.
 
 Ordinary tissue complaining after extraordinary behavior.
 
-his ribs had apparently decided the danger was over only after the bruising filed a formal objection. Just soreness that had not become irrelevant yet.
+His ribs had apparently decided the danger was over only after the bruising filed a formal objection. Just soreness that had not become irrelevant yet.
 
 Sela checked his shoulder. "Still hurts?"
 
@@ -65,9 +65,9 @@ He waved one. "They moved the northern repair priority."
 
 "Less stupid."
 
-High praise. He had not stood since the injury. He would not stand today.
+*High praise.* He had not stood since the injury. He would not stand today.
 
-his body had already erased damage that would keep him in a splint for much longer. That difference remained unfair. Kellan put the paper down. "You leaving?"
+His body had already erased damage that would keep him in a splint for much longer. That difference remained unfair. Kellan put the paper down. "You leaving?"
 
 Sela looked at him before Red answered. Treatment-house intelligence remained superior to militia intelligence. "I was considering it."
 
@@ -99,7 +99,7 @@ Maelis was in the records room with Jessa. That had become normal enough to be d
 
 Different custody. Different people allowed to question them. Red still could not read any of it.
 
-his administrative development remained nonexistent. Jessa copied service references into a new record set. "Temporary work?" Red asked.
+His administrative development remained nonexistent. Jessa copied service references into a new record set. "Temporary work?" Red asked.
 
 She nodded. "Council records transition."
 

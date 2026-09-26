@@ -17,7 +17,7 @@ Workers. Outer-route residents. Cuts.
 
 Crushed fingers. Broken bones. Animal impacts.
 
-his flank had already closed. The bruising underneath still felt like somebody had stored a hammer between his ribs. That did not make him depleted.
+His flank had already closed. The bruising underneath still felt like somebody had stored a hammer between his ribs. That did not make him depleted.
 
 It made bruising unpleasant. Sela pressed two fingers near the healed line. Red stopped breathing. "Good."
 
@@ -29,11 +29,11 @@ It made bruising unpleasant. Sela pressed two fingers near the healed line. Red 
 
 She looked toward the rest of the room. "That does not make anyone else's injury cheaper." Across from him, Kellan sat with his leg splinted and raised.
 
-his body followed its own unreasonable rules. His did not. He noticed him looking. "Still attached?"
+His body followed its own unreasonable rules. His did not. He noticed him looking. "Still attached?"
 
 "The important parts."
 
-Sela gave him a look. Enough humor. Brynn entered near midday with dried mud on her boots.
+Sela gave him a look. *Enough humor.* Brynn entered near midday with dried mud on her boots.
 
 Tavian followed. Neither looked rested. "Migration?" Kellan asked.
 

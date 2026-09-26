@@ -155,7 +155,7 @@ Jessa pointed. One by one, Tavian moved stones. North.
 
 Northeast. East. Southeast.
 
-Not a perfect circle. Not a neat line. Still a pattern.
+*Not a perfect circle. Not a neat line. Still a pattern.*
 
 He set the Broken North lure rubbing beside the map. "The stake we found screened the main-road side and displaced pressure toward outer approaches." Hesk stayed silent.
 

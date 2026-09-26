@@ -127,14 +127,16 @@ There is no known intrinsic raw-power ceiling.
 
 # KNOW-M005 — Why Can Red Regenerate?
 
-**Writer Truth:** Red's body repeatedly reasserts the persistent Soul-Drift identity pattern instead of accepting ordinary lethal damage as final.
+**Writer Truth:** Red has no separate regeneration power. Play Logic automatically restores his body toward the persistent self-concept his foreign identity accepts as Red.
 
-**Red Baseline:** Knows dying has become unreliable and treats regeneration as a useful/annoying fact rather than a progression system.
+**Red Baseline:** Knows damage has become unreliable and treats his body's impossible recovery as another Play Logic-like fact rather than a separate skill.
 
 **Sela Arven:** In Arc 1 may directly observe:
 - autonomous correction before treatment;
 - wound boundaries changing during examination;
 - no normal external healing residue sufficient to explain the recovery.
+
+She may reasonably call it abnormal healing or regeneration as an observational label, but that label is not writer truth.
 
 She cannot know the Soul-Drift root.
 
@@ -142,7 +144,7 @@ She cannot know the Soul-Drift root.
 
 **System experts:** May observe missing normal healing-skill signatures.
 
-**Forbidden early knowledge:** Nobody begins knowing regeneration and Play Logic share the same deeper Soul-Drift identity root.
+**Forbidden early knowledge:** Nobody begins knowing that apparent regeneration is automatic Play Logic acting on Red's persistent self-concept.
 
 **Unlock path:** M-005.
 
@@ -198,6 +200,28 @@ Local Veyran causal time pauses while Red directly addresses the external audien
 **Unlock path:** M-007.
 
 ---
+
+
+# KNOW-M007 — Jackal Luck / Fate Interaction
+
+**Writer Truth:** Jackal Luck is Red's passive probability-distortion power. It biases nearby possible outcomes around his external causal presence. Native Fate remains a separate world mechanism that reroutes surviving objectives around the facts Red creates.
+
+**Red Baseline:**
+- notices suspiciously good timing;
+- often assumes the universe has taste;
+- may take credit after the coincidence happens;
+- does not know the metaphysical boundary between Luck and Fate.
+
+**Observers may falsely infer:**
+- perfect foresight;
+- prophecy;
+- hidden information;
+- divine favor;
+- strategic genius.
+
+**Forbidden early conclusion:** Red does not consciously control exact probabilities or issue commands to Fate.
+
+**Unlock path:** M-007.
 
 # KNOW-M008 — What Is the Great Design?
 

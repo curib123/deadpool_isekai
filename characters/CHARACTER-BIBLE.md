@@ -61,7 +61,7 @@ No romantic pairing is locked in Phase 2. Attraction or chemistry may be propose
 **Level:** UNDEFINED  
 **Origin:** Earth, outside Veyr's Closed Loom  
 **Current Planning Destination:** DEST-002 — Merrowgate (Volume 2 / Gate 6 locked). CH-026 canon still ends with Red having departed Greywake before any next destination is named in-story.  
-**Narrative Role:** protagonist, close first-person narrator/focal character, anti-villain anomaly, story intruder
+**Narrative Role:** protagonist, distant third-person limited focal character, anti-villain anomaly, story intruder
 
 Red Jackal is not a hidden conventional hero and not a nihilistic murderer. He is a self-centered, theatrical anti-villain who values freedom, spectacle, curiosity, and personal agency more than social approval.
 
@@ -133,7 +133,7 @@ What survives strongly is:
 - genre awareness;
 - jokes under pain;
 - theatrical role-play;
-- self-narration;
+- performative self-commentary;
 - pop-culture fragments;
 - the feeling that a scene should have an audience;
 - the impulse to make danger entertaining.

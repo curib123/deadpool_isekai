@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 2,133
+**Word Count:** 2,127
 **Chapter QA:** `qa/CH-021-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-021-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
@@ -12,9 +12,9 @@ I had learned not to take that personally. Mostly. Tavian came through the yard 
 
 Brynn looked up. "How close?"
 
-"Hours."
+"Hours. Maybe less for scattered animals."
 
-The yard quieted. "Not an exact number," Tavian added. "Terrain is breaking the front unevenly. Scattered movement can arrive earlier. Sustained mass movement follows when enough of the pressure catches up."
+The yard quieted. Tavian looked toward the outer road. "The front is breaking over terrain. The sustained mass comes after."
 
 "Can anything major wait until next watch?"
 

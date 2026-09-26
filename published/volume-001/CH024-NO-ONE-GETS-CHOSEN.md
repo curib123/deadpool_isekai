@@ -92,7 +92,11 @@ His eyes narrowed. "But there is a difference."
 
 "What?"
 
-I pointed toward the homestead route. "I don't get to choose them either." His hand moved toward the key.
+I pointed toward the homestead route. "You keep turning your choice into everybody else's problem. Eventually that became my problem."
+
+I smiled without humor. "I hate being volunteered."
+
+His hand moved toward the key.
 
 Jessa saw it. "He's rotating the plate." Hesk turned the key.
 

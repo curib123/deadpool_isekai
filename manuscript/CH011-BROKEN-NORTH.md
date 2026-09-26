@@ -260,9 +260,7 @@ Tavian scanned the ground. His attention settled on shallow impressions beside t
 
 "Boot sign."
 
-Red looked. Mud. Leaves.
-
-Several shallow impressions. A few days ago, Red would have seen dirt. Now he could at least recognize that he was looking at evidence he was not qualified to interpret.
+Red looked. Mud. Leaves. Several shallow impressions. A few days ago, Red would have seen dirt. Now he could at least recognize that he was looking at evidence he was not qualified to interpret.
 
 Progress of the least glamorous kind.
 
@@ -284,9 +282,7 @@ Kellan looked at her.
 
 "I think we establish what happened before deciding why."
 
-He shook his head. Kept walking. The signs continued.
-
-A branch cut cleanly instead of broken by weather. A narrow strip through the brush with less leaf litter than the ground around it. Fresh abrasion on an old iron fitting.
+He shook his head. Kept walking. The signs continued. A branch cut cleanly instead of broken by weather. A narrow strip through the brush with less leaf litter than the ground around it. Fresh abrasion on an old iron fitting.
 
 Then Kellan found wax. He rubbed one finger along a metal pin half-hidden beneath ivy. The surrounding fitting was orange with rust.
 
@@ -362,9 +358,7 @@ He crouched, examined the exposed edge, then tapped a surviving inner wall.
 
 "Bad enough."
 
-Excellent engineering unit. Tavian raised one hand. They stopped.
-
-He was looking into the brush below. Something there had started moving against the slope.
+Excellent engineering unit. Tavian raised one hand. They stopped. He was looking into the brush below. Something there had started moving against the slope.
 
 "What?"
 
@@ -372,9 +366,7 @@ He was looking into the brush below. Something there had started moving against 
 
 A low scrape came from beneath the ruined road. Then another. Two lean shapes appeared between the trees.
 
-Long-backed. Grey-brown. Narrow heads.
-
-They were smaller than the pack from the service road, but not small enough to become charming. Tavian drew his blade.
+Long-backed. Grey-brown. Narrow heads. They were smaller than the pack from the service road, but not small enough to become charming. Tavian drew his blade.
 
 "Ridge-hounds. Displaced."
 
@@ -390,9 +382,7 @@ One hound stepped onto a fallen block. The second circled lower along the washou
 
 Maelis already had her compact crossbow out. She did not waste time announcing it. Red shifted forward.
 
-Tavian looked at him. Red understood the warning before he spoke. He stopped.
-
-Useful memory remained cheaper than repeating old mistakes.
+Tavian looked at him. Red understood the warning before he spoke. He stopped. Useful memory remained cheaper than repeating old mistakes.
 
 "Where?"
 
@@ -418,13 +408,9 @@ Tavian looked at him. Red understood the warning before he spoke.
 
 "Can you support that edge?"
 
-That was new. No warning. No request to avoid doing something strange.
+That was new. No warning. No request to avoid doing something strange. A specific problem. Red followed Kellan's pointing hand. This time he cared more about the measurement than the entrance.
 
-A specific problem. Red followed Kellan's pointing hand. This time he cared more about the measurement than the entrance.
-
-Broken stone shelf. Empty space beneath it. Stable inner retaining wall.
-
-The need was simple.
+Broken stone shelf. Empty space beneath it. Stable inner retaining wall. The need was simple.
 
 "I can give you the support."
 
@@ -436,17 +422,11 @@ Kellan looked at him. His expression suggested measurements would outrank style.
 
 "My trust has measurements."
 
-Fair. Red looked at the gap. The solution was almost offensively small.
-
-Red could have replaced the missing road. Built a bridge. Raised a wall between them and the hounds.
+Fair. Red looked at the gap. The solution was almost offensively small. Red could have replaced the missing road. Built a bridge. Raised a wall between them and the hounds.
 
 Turned the slope into a staircase wide enough for a parade nobody had requested. None of that was the problem Tavian and Kellan had given him. One brace.
 
-Hold the lip. That was all. Pale-grey material appeared beneath the cracked road shelf.
-
-Short. Wide. Ugly.
-
-It wedged between the surviving retaining wall and the underside of the broken stone. Kellan stared for half a second. Then engineering replaced surprise.
+Hold the lip. That was all. Pale-grey material appeared beneath the cracked road shelf. Short. Wide. Ugly. It wedged between the surviving retaining wall and the underside of the broken stone. Kellan stared for half a second. Then engineering replaced surprise.
 
 Then dropped to one knee and tested the road above it with his hand and pry bar.
 
@@ -508,9 +488,7 @@ Red almost ruined it.
 
 "It was."
 
-That was all. No awe. No speech.
-
-Just practical trust earned for one specific action. Red preferred it more than he expected. Not enough to become humble.
+That was all. No awe. No speech. Just practical trust earned for one specific action. Red preferred it more than he expected. Not enough to become humble.
 
 That would have been irresponsible. They continued toward the ruined watch point. Half the roof was gone.
 
@@ -596,9 +574,7 @@ Tavian studied the vent, reservoir, and fitted stake.
 
 Usually. Useful word. It left room for this device to be something worse than ordinary practice.
 
-Red looked at the hidden equipment. Recently serviced. Inside an abandoned road.
-
-Exactly where the tracks had bent. Exactly where the records had pointed. Not proof of who installed it.
+Red looked at the hidden equipment. Recently serviced. Inside an abandoned road. Exactly where the tracks had bent. Exactly where the records had pointed. Not proof of who installed it.
 
 Not proof of how long it had been operating. Not proof that it explained everything. But no longer mud.
 

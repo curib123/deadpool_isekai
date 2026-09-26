@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS / BATTLE QA PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 1,975
+**Word Count:** 1,983
 **Chapter QA:** `qa/CH-024-GATE-9-CHAPTER-QA.md`
 **Battle QA:** `qa/VOLUME-001-GREYWAKE-BATTLE-SCENE-AUDIT.md`
 
@@ -212,7 +212,9 @@ Nobody was spare. The branch pressed against my guide. It did not wobble.
 
 It did not crack. It stayed exactly where I wanted. A browser hit it hard enough to shake dirt.
 
-The guide remained. No exhaustion drama. No final-use limit.
+The guide remained.
+
+Apparently it had not received the memo that this was supposed to be difficult.
 
 Just a tool doing its job. Tavian watched the rear movement. "Not yet."
 

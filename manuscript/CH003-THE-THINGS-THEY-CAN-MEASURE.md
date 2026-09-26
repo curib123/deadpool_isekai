@@ -18,7 +18,7 @@ A metal balance plate. A pale bead in a clip. A transparent measuring strip. A f
 
 Red recognized that one.
 
-they had history.
+They had history.
 
 A charged Wayfarer Tongue Token hung from a brass stand near the middle of the table. The faint pressure around his ears settled in as soon as Red entered its range.
 
@@ -132,7 +132,7 @@ No questions about how quickly it had closed. No theory. No dramatic declaration
 
 Red noticed.
 
-The material tag was even faster. his wooden entrant token registered as present physical material. So did the edge of his coat.
+The material tag was even faster. His wooden entrant token registered as present physical material. So did the edge of his coat.
 
 Maelis reviewed the page.
 

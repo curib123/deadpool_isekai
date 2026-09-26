@@ -61,11 +61,7 @@ Maelis looked at the stake. "And the danger does not disappear."
 
 "No. It shifts pressure."
 
-That sounded less magical. Also worse. Red pointed at the chamber. "Illegal?"
-
-Maelis and Tavian answered together. "No." Red stared at them.
-
-Kellan actually smiled. "Sorry," Red said. "I thought finding the hidden monster-moving device inside the abandoned road might simplify things."
+That sounded less magical. Also worse. Red pointed at the chamber. "Illegal?" Maelis and Tavian answered together. "No." Red stared at them. Kellan actually smiled. "Sorry," Red said. "I thought finding the hidden monster-moving device inside the abandoned road might simplify things."
 
 "It rarely does," Maelis said.
 
@@ -87,9 +83,7 @@ Several shallow arcs marked the collar. "Someone adjusted or serviced this more 
 
 "And that pin was replaced," Kellan said. "Different metal. Less corrosion."
 
-Tavian touched nothing. He only watched. "So not one forgotten device."
-
-Kellan shook his head. "No." Maelis wrote for several seconds. "Repeated servicing is supportable. Exact duration is not."
+Tavian touched nothing. He only watched. "So not one forgotten device." Kellan shook his head. "No." Maelis wrote for several seconds. "Repeated servicing is supportable. Exact duration is not."
 
 Kellan looked at her. "You really enjoy making every sentence less satisfying."
 
@@ -143,9 +137,7 @@ He did not like that answer. Neither did Red. Tavian crouched again. "One lure c
 
 That answer came quickly. He stood. "The movement we found covers too much ground, too many species, and too many separate track ages for me to explain all of it with one ordinary short-term lure."
 
-There it was. Not proof. Just a larger question becoming heavier.
-
-Maelis opened the field sheet from her audit. "The record pattern also spans more than this corridor." Kellan looked at her. "So there are more."
+There it was. Not proof. Just a larger question becoming heavier. Maelis opened the field sheet from her audit. "The record pattern also spans more than this corridor." Kellan looked at her. "So there are more."
 
 She did not blink. "I did not say that."
 
@@ -171,13 +163,7 @@ Maelis unfolded a smaller route sheet from the audit. Red still could not read t
 
 The shapes had become familiar. She indicated one line. "Your first paid road assignment after Hesk's private arrangement was here."
 
-Main Caravan Road. Protected side. Another line. "The later service-road incident was here."
-
-Closer to the edge. Kellan pointed farther out. "And my bridge."
-
-Inside the displacement side. Then Tavian's track route. North again.
-
-Nobody spoke for a moment. Red looked at the map. Main-road job on one side.
+Main Caravan Road. Protected side. Another line. "The later service-road incident was here." Closer to the edge. Kellan pointed farther out. "And my bridge." Inside the displacement side. Then Tavian's track route. North again. Nobody spoke for a moment. Red looked at the map. Main-road job on one side.
 
 Pack attack closer to the line. Kellan's bridge farther into the outer route. His jobs had felt random when Red accepted them.
 
@@ -219,11 +205,7 @@ Maybe Hesk knew. Maybe someone under him knew. Maybe nobody assigning him unders
 
 Kellan pointed toward the outer homestead route. "Don't make this only about you." That landed. "You can survive being sent somewhere stupid."
 
-Not always. But Red understood what he meant. "Most people out there can't."
-
-Red looked at the map again. The anger stayed. It just stopped being neat.
-
-They reached Greywake's outer approach before the Guild reached them. That lasted about three minutes. Four Road Guild personnel came down from the core side.
+Not always. But Red understood what he meant. "Most people out there can't." Red looked at the map again. The anger stayed. It just stopped being neat. They reached Greywake's outer approach before the Guild reached them. That lasted about three minutes. Four Road Guild personnel came down from the core side.
 
 Two wore road-guard gear. One carried a document case. The fourth was an older route supervisor Red had seen in the caravan yard.
 
@@ -233,17 +215,13 @@ Maelis stepped forward. "Yes."
 
 "I have instructions from Roadmaster Hesk regarding the Broken North site."
 
-There it was. Property law had finally caught up with them. Faster than answers.
-
-The supervisor opened his case and removed a sealed paper. Red looked at the writing. Still useless.
+There it was. Property law had finally caught up with them. Faster than answers. The supervisor opened his case and removed a sealed paper. Red looked at the writing. Still useless.
 
 Maelis asked him to read the relevant part aloud. Broken North remained under Guild charter. Installed road equipment within the corridor fell under Guild custody pending inspection.
 
 Unauthorized persons were prohibited from interfering with, removing, or retaining Guild equipment. Related route records were temporarily restricted during review. It sounded extremely reasonable.
 
-Red hated that. Maelis held out her hand. "I need to inspect the order."
-
-The supervisor passed it over. Tavian spoke next. "No one should alter the lure until we understand what it is doing to current animal movement."
+Red hated that. Maelis held out her hand. "I need to inspect the order." The supervisor passed it over. Tavian spoke next. "No one should alter the lure until we understand what it is doing to current animal movement."
 
 The supervisor looked at him. "You identified it?"
 
@@ -321,13 +299,9 @@ Maelis exhaled slowly. "That is not how neutral custody works."
 
 "I know. I am creating motivation to find some."
 
-One guard put a hand near his weapon. Tavian's voice changed. "Don't."
+One guard put a hand near his weapon. Tavian's voice changed. "Don't." The guard looked at him. Tavian did not reach for his own blade. "Nothing here requires steel."
 
-The guard looked at him. Tavian did not reach for his own blade. "Nothing here requires steel."
-
-The hand moved away. Good. Red was angry.
-
-Red was not interested in becoming stupid for symmetry. The supervisor looked at Maelis. "Are you supporting this?"
+The hand moved away. Good. Red was angry. Red was not interested in becoming stupid for symmetry. The supervisor looked at Maelis. "Are you supporting this?"
 
 "No."
 
@@ -347,9 +321,7 @@ Kellan stepped beside her. "If you take that thing behind Guild doors, the outer
 
 Boots sounded behind the Guild group. Captain Brynn Alder arrived with two militia members. Her eyes moved across the scene.
 
-Guild. Maelis. Tavian.
-
-Kellan. Red. She stopped there. "Why are you in the middle?"
+Guild. Maelis. Tavian. Kellan. Red. She stopped there. "Why are you in the middle?"
 
 "Natural leadership."
 
@@ -359,11 +331,7 @@ Kellan. Red. She stopped there. "Why are you in the middle?"
 
 "Move two steps back."
 
-Red considered it. Then did it. Tavian noticed.
-
-Red pretended he did not. Brynn faced the supervisor. "Start from the beginning."
-
-He gave the Guild version. Maelis gave the evidence version. Tavian explained the animal-movement risk.
+Red considered it. Then did it. Tavian noticed. Red pretended he did not. Brynn faced the supervisor. "Start from the beginning." He gave the Guild version. Maelis gave the evidence version. Tavian explained the animal-movement risk.
 
 Kellan explained the road and recent servicing. Brynn asked questions without looking impressed by anyone. One of her better qualities.
 
@@ -431,13 +399,7 @@ Maelis drew the provisional line from the lure's mount. "Again," she said. "This
 
 Kellan pointed southwest. "Main road." Brynn leaned closer. "Main Caravan Road and the protected approach."
 
-Tavian nodded. "That fits the screened side." Maelis marked it.
-
-Then she extended the opposite line. Northeast. Across older roads.
-
-Past minor connectors. Toward the homestead routes. Nobody spoke for several seconds.
-
-Red found his old assignments without reading names. Main-road job on the safe side. Side-road attack closer to the line.
+Tavian nodded. "That fits the screened side." Maelis marked it. Then she extended the opposite line. Northeast. Across older roads. Past minor connectors. Toward the homestead routes. Nobody spoke for several seconds. Red found his old assignments without reading names. Main-road job on the safe side. Side-road attack closer to the line.
 
 Kellan's bridge beyond it. Tavian's track route followed the same ugly direction. Red tapped one point. "So either someone was very lucky when they installed that stake—"
 
@@ -465,6 +427,4 @@ Maelis nodded. "One device does not prove more devices."
 
 Red looked at the line Maelis had drawn. One side touched the Main Caravan Road. The other cut through old routes toward the outer settlements.
 
-No name. No order. No proof of a network.
-
-Not yet. But the direction was finally visible.
+No name. No order. No proof of a network. Not yet. But the direction was finally visible.

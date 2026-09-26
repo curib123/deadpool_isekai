@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 2295
+**Word Count:** 2,302
 
 White. Heat. A sound so large it stopped being a sound.
 
@@ -186,7 +186,13 @@ Only then did I breathe properly. My arm shook. I looked at the place where the 
 
 Nothing happened. I narrowed my eyes. I tried harder.
 
-Still nothing. That did not prove much except that desperate terror apparently had better creative direction than deliberate concentration. I could live with that conclusion until I had a better one.
+Still nothing.
+
+I considered investigating.
+
+Then my stomach reminded me that metaphysics was not edible.
+
+Apparently panic had priority access to whatever this was. Fine. If reality wanted me to understand the rules, it could have included instructions.
 
 My forearm reminded me that I had another problem. Blood covered my hand. I sat against the old stones and pulled the torn sleeve away from the cuts.
 

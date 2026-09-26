@@ -1,177 +1,163 @@
 # Web-Novel Prose Style Standard
 
 **Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
-**Status:** LOCKED QA STANDARD  
+**Status:** LOCKED QA STANDARD — DISTANT THIRD-PERSON LIMITED  
 **Effective:** 2026-09-26
 
-This standard checks whether a chapter reads like modern serial web fiction rather than distant literary summary, screenplay dialogue, or exposition-heavy draft prose.
+This standard checks whether a chapter reads like modern distant third-person serial web fiction.
 
 # 1. POV Distance
 
 PASS when:
-- Red's first-person narration stays close to immediate perception;
-- description is filtered through Red's personality;
-- narration does not reveal another character's private thoughts;
-- abstract explanations are converted into what Red can observe, infer, misunderstand, or be told.
+- narration uses Red / he / him / his;
+- the narrator remains outside Red rather than continuously speaking as Red;
+- the scene stays limited to information Red could reasonably encounter plus established external facts;
+- other characters' private thoughts are not entered;
+- Red's internal thoughts are selective and brief.
 
 FAIL when:
-- paragraphs read like an omniscient encyclopedia;
-- the narrator knows things Red cannot know;
-- descriptions sound neutral for long stretches.
+- narration uses first-person I / me / my outside dialogue, quoted thought, or genuine Fourth-Wall address;
+- the narrator head-hops;
+- every paragraph is filtered through Red's immediate thoughts;
+- the narrator reveals protected truth nobody in the scene can know.
 
 # 2. Narration / Dialogue / Thought Mix
 
 Flexible target:
-- 45–60% close narration/action;
-- 25–40% dialogue;
-- 10–20% self-thought/internal commentary.
+- **55–70%** distant narration/action;
+- **25–40%** dialogue;
+- **0–10%** direct Red thought.
 
-These are not quotas.
+Not a quota.
 
-PASS when the chapter has a healthy scene rhythm appropriate to its purpose.
-
-FAIL when:
-- narration dominates for pages without interaction;
-- dialogue becomes a script with no physical grounding;
-- internal monologue stalls the scene.
+PASS when the mix fits the scene.
 
 # 3. Dialogue Quality
 
 Dialogue must:
 - sound character-specific;
-- contain interruption, hesitation, subtext, disagreement, avoidance, humor, or pressure where appropriate;
-- change knowledge, position, emotion, risk, or objective;
-- avoid repeating facts already stated in narration.
+- create friction, humor, information, pressure, or change;
+- carry much of Red's personality externally;
+- avoid repeating what narration already explained.
 
-Each recurring character must preserve the fingerprints in `characters/CHARACTER-BIBLE.md`.
+# 4. Internal Thought
 
-# 4. Self-Thought Quality
-
-Red's internal thought should be:
-- short;
-- immediate;
-- personality-rich;
-- selfish, funny, suspicious, dramatic, or suddenly serious when appropriate.
+Red's thought access should be selective.
 
 Preferred:
-- direct free thought inside narration;
-- occasional isolated line for impact;
-- rare italics for exact sharp thoughts.
 
-Avoid repeated:
-- I thought;
-- I wondered;
-- I realized;
-- I told myself;
-- I felt.
+Red watched the locked gate.
 
-# 5. Paragraph Rhythm
+*Could break it.*
+
+He knocked instead.
+
+Avoid:
+- paragraphs of internal monologue;
+- constant italic thoughts;
+- explaining every motive before Red acts;
+- first-person thought-stream narration disguised as third person.
+
+# 5. Narrative Neutrality
+
+The narrator may have style and rhythm, but should be more neutral than Red.
+
+Preferred:
+
+The room was small and overfilled with shelves.
+
+Red looked around once.
+
+"Paperwork won."
+
+Avoid turning every descriptive sentence into a Red joke.
+
+# 6. Paragraph Rhythm
 
 PASS when:
 - most paragraphs are 1–4 sentences;
-- long paragraphs are rare and purposeful;
-- one-line paragraphs are reserved for impact;
-- mobile reading remains visually breathable;
-- action paragraphs preserve clear direction.
+- long blocks are rare;
+- mobile reading remains breathable;
+- action geography is clear;
+- one-line paragraphs are used for impact rather than habit.
 
-# 6. Scene Movement
+# 7. Scene Movement
 
-Every scene must change something.
-
-At least one:
+Every scene must change at least one:
 - objective;
 - knowledge;
 - danger;
 - relationship;
-- social position;
-- route;
+- position;
 - evidence;
 - misunderstanding;
 - reputation;
 - physical condition;
 - immediate plan.
 
-Dialogue and thought cannot replace movement.
-
-# 7. Description
-
-Description should answer what Red notices **because it matters to him now**.
-
-Use:
-- concrete objects;
-- sound;
-- movement;
-- faces;
-- hands;
-- distance;
-- weather;
-- smell/taste when useful;
-- physical discomfort;
-- environmental changes.
-
-Do not inventory every object in a location.
-
 # 8. Exposition
 
-Worldbuilding should be delivered through:
-- use;
-- conflict;
-- correction;
-- work;
-- investigation;
-- consequence;
-- dialogue;
-- mistake.
+Distant narration may summarize efficiently, but must not become an encyclopedia.
 
-A lore explanation longer than the current tension can support must be broken by action/reaction.
+Worldbuilding should still attach to:
+- action;
+- work;
+- travel;
+- conflict;
+- investigation;
+- consequence.
 
 # 9. Action Readability
 
-Combat/action must preserve:
+Combat must preserve:
 - who is where;
-- what each participant wants;
-- what changes after each exchange;
-- Red's immediate physical experience;
-- supporting-character agency;
+- who wants what;
+- visible actions;
+- supporting-cast agency;
 - consequence.
 
-Do not sacrifice geography for speed.
+Do not hide action inside internal commentary.
 
-# 10. Red Jackal Voice
+# 10. Red Jackal Character Test
 
-PASS only if Red's narration remains:
-- self-centered;
-- playful;
-- theatrical;
-- casually arrogant;
-- meta-aware;
-- clueless/uninterested about his true ceiling;
-- capable of short serious switches;
-- not morally sermonizing.
+Even with distant narration, Red must still feel like Red through:
+- dialogue;
+- choices;
+- timing;
+- body language;
+- impossible actions;
+- selective thought;
+- other people's reactions.
 
-# 11. Fourth-Wall Separation
+If removing internal monologue makes him generic, the scene needs stronger dialogue/action characterization.
 
-Normal internal thought is **not** automatically a Fourth-Wall Pause.
+# 11. Fourth-Wall Exception
 
-Only genuine direct address to the external reader/audience activates the pause.
+Normal narration is third-person.
 
-This distinction must remain clear.
+A genuine Fourth-Wall Pause is a deliberate exception.
 
-# 12. Final Chapter Gate
+During a genuine pause:
+- Veyran time freezes;
+- Red may directly address the external reader/audience;
+- first-person speech is allowed because Red is literally speaking;
+- the narration resumes in distant third person when time resumes.
+
+# 12. Final Gate
 
 Before Gate 9 PASS, answer:
 
-1. Does the opening place the reader immediately inside Red's perception?
-2. Does the chapter contain enough dialogue for the scene type?
-3. Do internal thoughts sound like Red rather than author commentary?
-4. Are supporting characters distinguishable by speech?
-5. Are paragraphs comfortable for mobile reading?
-6. Is exposition attached to active scenes?
-7. Does every major dialogue exchange change something?
-8. Does the chapter avoid distant neutral narration?
-9. Does the ending create forward pull?
-10. Would the chapter still feel alive if the jokes were removed?
-11. Would the chapter still sound like Red if the dialogue tags were removed?
-12. Does the prose show the power model naturally instead of explaining canon rules to the reader?
+1. Is narration predominantly third-person?
+2. Does the narrator remain outside Red's constant thought-stream?
+3. Are Red's thoughts selective?
+4. Does dialogue carry personality?
+5. Are other characters distinguishable?
+6. Is mobile readability strong?
+7. Is exposition controlled?
+8. Is action geography readable?
+9. Does the narrator avoid head-hopping?
+10. Is the Fourth-Wall exception clearly separated?
+11. Does Red remain recognizable without continuous inner monologue?
+12. Does the chapter end with forward pull?
 
-If any essential answer is **no**, revise before Gate 9.
+Any essential NO requires revision.

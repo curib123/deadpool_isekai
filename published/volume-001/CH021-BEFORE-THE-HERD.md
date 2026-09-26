@@ -6,9 +6,9 @@ I had learned not to take that personally. Mostly. Tavian came through the yard 
 
 Brynn looked up. "How close?"
 
-"Hours."
+"Hours. Maybe less for scattered animals."
 
-The yard quieted. "Not an exact number," Tavian added. "Terrain is breaking the front unevenly. Scattered movement can arrive earlier. Sustained mass movement follows when enough of the pressure catches up."
+The yard quieted. Tavian looked toward the outer road. "The front is breaking over terrain. The sustained mass comes after."
 
 "Can anything major wait until next watch?"
 

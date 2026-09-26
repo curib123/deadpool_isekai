@@ -9,7 +9,7 @@ The emergency route board was crowded with markers. Tavian stood over it with bo
 
 Maelis added another stack of copied records. Hesk watched from the opposite side. Red stayed where Tavian had told him to stand.
 
-Not obedience. Positioning. There was a difference.
+*Not obedience. Positioning. There was a difference.*
 
 A runner finished describing movement near the lower approach. Tavian asked three questions, changed one marker, and sent him back out. Brynn looked at the map. "We cannot keep pulling people inward."
 
@@ -305,7 +305,7 @@ He did not resist. Pain had already won that argument. Before they went inside, 
 
 "I know. Stop making recent trauma somebody else's planning problem."
 
-Fair. they returned to the militia yard. Broken North was possible.
+Fair. They returned to the militia yard. Broken North was possible.
 
 Not safe. Tavian redrew the route from current pressure toward the old corridor. "We cannot force migration to take it."
 

@@ -17,6 +17,16 @@ Current authority:
 - `mysteries/MYSTERY-BIBLE.md`
 - current CH-001→CH-026 manuscripts and Gate 9 records.
 
+# Distant Narration Override
+
+**Status:** CURRENT — 2026-09-26
+
+`planning/DISTANT-NARRATION-MASTER-RETCON.md` controls POV.
+
+- CH-001 is fully synchronized to distant third-person limited.
+- CH-002→CH-026 retain current plot/continuity but require prose POV conversion.
+- This continuity file tracks knowledge/events; older first-person phrasing is non-authoritative.
+
 # 1. Global Red Jackal Continuity
 
 Red Jackal is:
@@ -27,7 +37,7 @@ Red Jackal is:
 - capable of Play Logic with no known intrinsic raw-power ceiling;
 - capable of extreme self-restoration/regeneration;
 - capable of genuine Fourth-Wall Pause from CH-001;
-- close first-person narrator;
+- distant third-person limited focal character;
 - self-centered;
 - theatrical;
 - meta-comedic;
@@ -527,7 +537,7 @@ No active Arc 1 continuity rule may reintroduce:
 - power progression;
 - regeneration depletion;
 - injury-caused magical lockout;
-- close third-person;
+- first-person or close-third-person POV that conflicts with the current distant narration retcon;
 - delayed Fourth-Wall access;
 - Savael/Exterior Needle as Red's summoner;
 - conventional Red moral-development arc.

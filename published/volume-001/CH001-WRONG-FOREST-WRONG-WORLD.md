@@ -1,269 +1,667 @@
 Chapter 1 — Wrong Forest, Wrong World
 
-White. Heat. A sound so large it stopped being a sound.
+White.
 
-For one broken instant, I remembered light swallowing everything. Then I opened my eyes under a tree. Green leaves overlapped high above me. Rainwater clung to their edges. Damp earth pressed cold against my back, and something with too many legs crawled over a root beside my shoulder.
+Heat.
 
-I stared at the canopy. Nothing exploded.
+A sound so large it stopped being a sound.
 
-That felt like an improvement.
+For one broken instant, there was only light swallowing everything.
 
-I took one breath. Then another. Head attached. Arms attached. Legs attached. No obvious hole through the middle. My ribs did not feel crushed, my skull was not leaking anything important, and breathing only hurt in the normal way breathing hurt when panic was trying to convince you it had medical qualifications.
+Then Red Jackal opened his eyes under a tree.
 
-I sat up slowly. The forest tilted. I caught myself on one hand and waited for the world to stop moving.
+Green leaves overlapped high above him. Rainwater clung to their edges. Damp earth pressed cold against his back, and something with too many legs crawled over a root beside his shoulder.
 
-"Okay." My voice sounded normal. That was almost suspicious.
+He stared at the canopy.
 
-I tried to remember what had happened before the white flash. Explosion. I had that much.
+Nothing exploded.
 
-Heat. Pressure. A violent brightness. Then nothing.
+That was an improvement.
 
-Everything before it was worse. I knew what a hospital was. I knew what a phone was. I knew enough movies, comics, stupid internet jokes, and bad survival advice to recognize exactly how ridiculous my situation looked.
+Red took one breath, then another. Head attached. Arms attached. Legs attached. No obvious hole through the middle.
 
-My own life? That part was full of holes. Names slipped away when I reached for them. Faces refused to sharpen. I could remember the idea of having a past much better than the actual past itself.
+He sat up slowly.
 
-Excellent. Memory loss and wilderness. Very premium package.
+The forest tilted.
 
-I checked my pockets. No wallet. No phone.
+One hand hit the ground before the rest of him followed. He stayed there until the trees stopped moving.
 
-No keys. I checked for the phone again because denial deserves a fair trial. Still no phone.
+"Okay."
 
-There was also no ambulance, no road, no smoke column, no rescue crew, and no helpful supernatural receptionist waiting nearby with a clipboard. I looked up at the branches. "If you're waiting for the goddess, tutorial window, or glowing message, so am I."
+His voice sounded normal.
+
+Almost suspiciously normal.
+
+He tried to remember what had happened before the white flash.
+
+Explosion.
+
+Heat. Pressure. Violent brightness.
+
+Then nothing.
+
+Everything before that came apart when he reached for it.
+
+He knew what a hospital was. He knew what a phone was. Movies, comics, internet jokes, bad survival advice—those were still there somewhere.
+
+His own life was harder.
+
+Names slipped away.
+
+Faces refused to sharpen.
+
+The idea of having a past remained much clearer than the past itself.
+
+Red checked his pockets.
+
+No wallet.
+
+No phone.
+
+No keys.
+
+He checked for the phone again.
+
+Still no phone.
+
+"Excellent."
+
+No ambulance waited beyond the trees. No road. No smoke column. No rescue crew.
+
+No helpful supernatural receptionist stood nearby with a clipboard.
+
+Red looked up through the branches.
+
+"If you're waiting for the goddess, tutorial window, or glowing message, so am I."
 
 The rain stopped.
 
-Not slowed. Stopped. A droplet hung beneath a leaf above my knee.
+Not slowed.
 
-Another floated halfway down beside my shoulder. The forest went completely silent. No insects. No distant calls. No wind in the branches.
+Stopped.
 
-I looked at the suspended water. Then I looked toward the place that felt, for reasons I could not explain, like where you were. "That is new." Nothing answered.
+A droplet hung beneath a leaf above his knee.
 
-"Good talk." I turned back. The droplet hit my knee.
+Another floated beside his shoulder.
 
-Sound returned all at once. I stared at the wet spot on my trousers. There were several possible reactions to that.
+The forest went silent.
 
-I chose postponement. First problem: survive. Second problem: find people.
+Red's expression changed.
 
-Third problem: discover why reality apparently had a pause button when I talked to an audience I could not see. That one could wait until I had food. I pushed myself to my feet.
+No insects.
 
-My body felt wrong. Not damaged. Different.
+No distant calls.
 
-I rose too easily, overcorrected, and nearly stepped straight into a fern. My balance recovered faster than expected. My legs felt lighter. My shoulders moved with more strength than memory insisted they should have.
+No wind.
 
-Whatever memory was worth at this point. I flexed my fingers. Rolled my neck. Checked my ribs, stomach, arms, face, and the back of my head.
+He looked at the suspended water, then turned slightly toward a place that had no reason to feel occupied.
 
-Nothing catastrophic. My clothes were unfamiliar too. Dark fabric. Flexible. A long coat that looked suspiciously better suited for dramatic entrances than wilderness survival.
+And yet it did.
 
-At least whoever dressed me had priorities. A cold drop slid directly down the back of my neck. I flinched hard enough to step on a root.
+"That is new."
 
-The forest remained unimpressed. "Nobody saw that." Technically true.
+Nothing answered.
 
-I started walking uphill. Higher ground meant a better view. Probably. That was one of those survival facts I had absorbed from somewhere without remembering the responsible adult who taught it to me.
+"Good talk."
 
-The slope punished my confidence immediately. Wet leaves slid under my boots. Thorny vines grabbed my sleeves. A tiny winged thing followed my ear for long enough to become personal.
+He looked away.
 
-I climbed ten steps, lost four, and caught myself against a tree. Very cinematic. At the top, the forest opened just enough for me to see farther.
+The droplet hit his knee.
 
-No rooftops. No smoke. No convenient castle on the horizon.
+Sound returned all at once.
 
-But there was stone. A straight line of half-buried blocks crossed the slope beneath moss and roots. I crouched and scraped mud away with my fingers.
+Red stared at the dark spot on his trousers for a moment.
 
-Cut edges. Not natural. A drainage channel, maybe. Old roadwork. Something built by hands.
+Then he stood.
 
-"Beautiful." Civilization had existed here. Past tense was not my favorite part of that sentence, but I would take what I could get.
+Survival first.
 
-I followed the stones. The evidence grew clearer. A rotten timber lay parallel to the route. Brush formed an unnatural corridor where the ground had once been cleared. A low marker leaned beside the path, weathered almost smooth.
+Answers later.
 
-Then I found the tracks. I stopped. Four deep impressions pressed into wet soil.
+The invisible audience could wait until after food.
 
-Each one was wider than my palm. Claws at the front. More tracks disappeared into brush beside the old road.
+His body felt wrong.
+
+Not injured.
+
+Different.
+
+He rose too quickly, overcorrected, and nearly walked into a fern. His balance recovered before the mistake became a fall.
+
+Red flexed his fingers.
+
+His legs felt lighter than memory expected. His shoulders moved with unfamiliar strength.
+
+The clothes were unfamiliar too.
+
+Dark fabric. Flexible. A long coat better suited for dramatic entrances than wilderness survival.
+
+Red looked down at it.
+
+"At least somebody had priorities."
+
+A cold drop slid down the back of his neck.
+
+He flinched hard enough to step on a root.
+
+The forest remained unimpressed.
+
+"Nobody saw that."
+
+Technically true.
+
+He started uphill.
+
+Higher ground offered a better view.
+
+Probably.
+
+Wet leaves immediately punished the decision.
+
+Red climbed ten steps, lost four, caught himself against a tree, and kept going.
+
+At the top, the forest opened just enough to show him more forest.
+
+No rooftops.
+
+No smoke.
+
+No convenient castle.
+
+But there was stone.
+
+A straight line of half-buried blocks crossed the slope beneath moss and roots.
+
+Red crouched and scraped mud away.
+
+Cut edges.
+
+Not natural.
+
+Old roadwork.
+
+"Beautiful."
+
+Civilization had existed here.
+
+Past tense was not ideal, but it was something.
+
+He followed the buried stones.
+
+A rotten timber lay parallel to the route. Brush formed an unnatural corridor. A low marker leaned beside the path.
+
+Then he saw the tracks.
+
+Red stopped.
+
+Four deep impressions pressed into wet soil.
+
+Each was wider than his palm.
+
+Claws at the front.
 
 Fresh.
 
-I slowly lifted my head. "Naturally." Something moved behind me.
+His gaze followed them into the brush.
 
-Leaves whispered. I turned. Nothing.
+"Naturally."
 
-A branch trembled. I kept walking. Not running.
+Something moved behind him.
 
-Running would imply fear, and I was still negotiating with mine. The rustling followed. Closer.
+Leaves whispered.
 
-My pace increased. That was tactical urgency. A dark shape crossed between two trees ahead.
+Red turned.
 
-I stopped again. The animal stepped into the road. Large dog, if someone had designed a dog after hearing dogs described secondhand by a person with a grudge.
+Nothing.
 
-Long front legs. Lean body. Dark coarse fur. Narrow head. Shoulders that rolled when it moved.
+A branch trembled.
 
-It stared at me. I stared back. Neither of us seemed pleased with the casting.
+He started walking again.
 
-"Listen," I said. "I am having a difficult first day." Its lips pulled away from its teeth.
+Not running.
 
-"Strong counterargument." I straightened anyway. Shoulders back. Chin slightly down. Calm expression.
+The rustling followed.
 
-If I was about to be eaten, I could at least look expensive. The animal lowered itself. I held its stare.
+Closer.
 
-It moved first.
+His pace increased.
+
+Tactical urgency.
+
+A dark shape crossed between two trees ahead.
+
+Red stopped.
+
+The animal stepped into the road.
+
+It resembled a large dog only in the broadest possible sense. Long front legs. Lean body. Dark coarse fur. Narrow head.
+
+Its shoulders rolled as it moved.
+
+Red looked at the animal.
+
+The animal looked back.
+
+Neither seemed impressed by the casting choice.
+
+"Listen," Red said. "I am having a difficult first day."
+
+Its lips pulled away from its teeth.
+
+"Strong counterargument."
+
+Red straightened.
+
+Shoulders back.
+
+Chin slightly down.
+
+If something was going to eat him, it could at least work for the privilege.
+
+The predator lowered itself.
+
+Then it moved.
 
 Fast.
 
-I jumped sideways. My body reacted quicker than I expected. My skill did not.
+Red jumped sideways.
 
-One boot hit mud. I dropped to a knee while jaws snapped through the space where my thigh had been. I grabbed a fallen branch and swung.
+His body reacted faster than his skill.
 
-The branch broke across its shoulder. The animal barely noticed. "That was the warning shot." It circled.
+One boot hit mud.
 
-I backed toward the broken stonework, gripping what remained of the branch. It lunged again. I shoved the wood forward.
+He dropped to a knee while jaws snapped through the space where his thigh had been.
 
-The animal twisted around it and slammed into me. Pain opened across my left forearm. Hot.
+A fallen branch came into his hand.
 
-Sharp. Immediate. I hit the ground hard enough to lose my breath.
+He swung.
 
-Blood ran over my wrist. Four ragged cuts split the skin from below my elbow toward my hand.
+The branch broke across the animal's shoulder.
 
-For one second, the comedy department closed.
+It barely noticed.
 
-The animal came around again. I pushed myself up. My heart hammered. My arm burned. The broken branch lay somewhere behind the thing trying to turn me into a meal.
+"That was the warning shot."
 
-No weapon. No room. The old roadside stones boxed me in on one side.
+The predator circled.
 
-The predator lowered its head. I looked for anything useful. Rock.
+Red backed toward the broken stonework, still holding half a branch.
 
-Pole. Board. Shield.
+The animal lunged again.
 
-Something between me and those teeth. The animal sprang. I threw up my bleeding arm.
+He shoved the wood forward.
 
-I did not chant. I did not know any spell. I just wanted something there.
+It twisted around the branch and slammed into him.
+
+Pain opened across his left forearm.
+
+Red hit the ground hard enough to lose his breath.
+
+Blood ran over his wrist.
+
+Four ragged cuts split the skin below his elbow.
+
+For one second, the jokes stopped.
+
+The predator came around again.
+
+Red pushed himself up.
+
+No weapon.
+
+No room.
+
+The broken roadside stones boxed him in on one side.
+
+The animal lowered its head.
+
+Red looked for anything useful.
+
+Rock.
+
+Pole.
+
+Board.
+
+Shield.
+
+Anything between him and those teeth.
+
+The predator sprang.
+
+Red threw up his bleeding arm.
 
 A slab appeared.
 
-One moment, empty air. The next, a thick dark plate covered half my forearm, ugly and rectangular, like a door designed by panic. The predator hit it.
+One moment there was empty air.
 
-The impact drove me backward into the stones. Pain shot through my shoulder.
+The next, a thick dark plate covered half his forearm.
 
-But the teeth stopped.
+Ugly.
 
-I stared over the top edge of the thing. The animal stared back. For one perfect second, we shared the same professional concern.
+Rectangular.
 
-What the hell was that?
+Like a door designed by panic.
 
-It pulled away and growled. I raised the slab. "Calculated." The world stopped.
+The predator hit it.
 
-The growl vanished mid-note. Rain hung in the air. A string of spit stayed suspended between the animal's teeth.
+The impact drove Red backward into the stones.
 
-I looked at you. "No, it was not calculated." I glanced at the slab attached to my arm.
+Pain shot through his shoulder.
 
-"Do not ruin this for me." I looked back at the animal. Time resumed.
+The teeth stopped.
 
-Its growl finished. I shoved forward. The slab felt wrong in my grip because I had not imagined a grip. I had imagined a barrier.
+Red stared over the top edge of the slab.
 
-Apparently details mattered. I swung anyway. The edge struck the animal across the muzzle.
+The animal stared back.
 
-It yelped and stumbled. I swung again. This time the slab warped at one corner as my attention broke between hitting, not dying, and wondering why I had just manufactured construction material from absolutely nothing.
+For one perfect second, both seemed to share the same professional concern.
 
-The strike clipped its shoulder. The animal backed away. I stepped forward because confidence is much easier after physics has joined your side.
+Red lifted the slab slightly.
 
-"Go on." It snarled. I lifted the slab higher.
+"Calculated."
 
-Its surface rippled. I had the sudden thought that I did not need it anymore. The thing folded in on itself like dark wax and vanished.
+The world stopped.
 
-My empty hand remained raised. The predator saw that. I saw that.
+The growl vanished mid-note.
 
-"Small technical issue." It hesitated. Then, for reasons I was happy not to investigate, it turned and disappeared into the brush.
+Rain hung in the air.
 
-I waited. Five seconds. Ten.
+A string of spit remained suspended between the predator's teeth.
+
+Red turned toward the unseen audience.
+
+"No, it was not calculated."
+
+He glanced at the slab attached to his arm.
+
+"Do not ruin this for me."
+
+He looked back.
+
+Time resumed.
+
+The growl finished.
+
+Red shoved forward.
+
+The slab felt wrong in his grip because it had no proper grip.
+
+He had wanted a barrier.
+
+So reality had apparently given him exactly that and nothing more.
+
+He swung anyway.
+
+The edge struck the predator across the muzzle.
+
+It yelped.
+
+Red swung again.
+
+The slab warped at one corner as his attention split between attacking, surviving, and wondering why construction material had appeared from nowhere.
+
+The second strike clipped its shoulder.
+
+The animal backed away.
+
+Red stepped forward.
+
+Confidence was much easier once physics had joined his side.
+
+"Go on."
+
+The predator snarled.
+
+Red raised the slab.
+
+Its surface rippled.
+
+He no longer needed it.
+
+The dark material folded inward and vanished.
+
+His empty hand remained raised.
+
+The predator saw that.
+
+Red saw that.
+
+"Small technical issue."
+
+The animal hesitated.
+
+Then it turned and disappeared into the brush.
+
+Red waited.
+
+Five seconds.
+
+Ten.
 
 Twenty.
 
-Nothing came back.
+Nothing returned.
 
-Only then did I breathe properly. My arm shook. I looked at the place where the slab had been.
+Only then did his shoulders drop.
 
-"All right." I pictured it again. Same shape. Same size. Same ugly door-with-ambition design.
+He looked at the place where the slab had been.
 
-Nothing happened. I narrowed my eyes. I tried harder.
+"All right."
+
+He pictured it again.
+
+Same shape.
+
+Same ugly door-with-ambition design.
+
+Nothing happened.
+
+Red narrowed his eyes.
+
+Tried again.
 
 Still nothing.
 
-I considered investigating.
+His stomach growled.
 
-Then my stomach reminded me that metaphysics was not edible.
+That ended the experiment.
 
-Apparently panic had priority access to whatever this was. Fine. If reality wanted me to understand the rules, it could have included instructions.
+"If reality wants me to understand the rules, it can include instructions."
 
-My forearm reminded me that I had another problem. Blood covered my hand. I sat against the old stones and pulled the torn sleeve away from the cuts.
+His forearm had a more immediate complaint.
 
-They were ugly.
+Red sat against the old stones and pulled the torn sleeve away.
+
+The cuts were ugly.
 
 They were also changing.
 
-I stopped breathing for a moment. The blood flow slowed while I watched. The torn edges drew closer together.
+He went still.
 
-Heat spread beneath the skin. Not comforting heat. The kind that crawled.
+The blood slowed.
 
-Then came the pain. "Ah. Good. Fantastic."
+The torn edges drew closer together.
 
-I clenched my teeth. The deepest cut narrowed another fraction. I touched beside it.
+Heat spread beneath the skin.
 
-Pain shot to my elbow. "That was intelligent." I did not touch it again.
+Then came the pain.
 
-The wound kept closing. Not instantly. Not cleanly.
+"Ah."
 
-But far too fast. I knew enough about bodies to know they were not supposed to do that. I also knew enough about today to stop using the phrase not supposed to.
+Red clenched his teeth.
 
-I leaned my head against the stone. Explosion. White light.
+"Good. Fantastic."
 
-A forest that froze whenever I talked to you. A shield I had wanted badly enough to make real. Skin pulling itself together under dried blood.
+The deepest cut narrowed another fraction.
 
-I laughed once. It did not sound especially healthy. For a few seconds, I let myself be scared.
+He touched beside it.
 
-Not dramatically. No speech. No heroic promise.
+Pain shot to his elbow.
+
+"That was intelligent."
+
+He did not touch it again.
+
+The wound kept closing.
+
+Not instantly.
+
+Not cleanly.
+
+But far too quickly.
+
+Red leaned his head against the stone.
+
+Explosion.
+
+White light.
+
+A forest that froze when he addressed something beyond it.
+
+A shield he had wanted badly enough to make real.
+
+Skin pulling itself together beneath dried blood.
+
+He laughed once.
+
+The sound was not especially healthy.
+
+For a few seconds, he simply sat there.
+
+Scared.
+
+No speech.
+
+No heroic promise.
 
 Just fear.
 
-Then a bug landed on my boot. I looked at it. "You're not helping." It left.
+A bug landed on his boot.
 
-Reasonable creature. I stood. My arm still hurt. The cuts remained visible, but they already looked much older than they were. My body felt shaky from adrenaline, pain, and the general inconvenience of almost becoming lunch.
+Red looked at it.
 
-Whatever the healing was, I was not going to decide it had a limit, a cost, a name, or a convenient menu after watching it once. I had already made enough bad assumptions for one morning. I followed the old road.
+"You're not helping."
 
-More carefully now. I listened at blind turns. I avoided thick brush. I carried a normal stick because reality-bending emergency slabs were currently unreliable as a scheduling tool.
+The bug left.
 
-The route slowly improved. Broken stones became a clearer path. The drainage ditch returned in sections.
+"Reasonable creature."
 
-Then I found fresh wheel marks pressed into the mud. Recent. Rain had softened the edges but had not erased them.
+He stood.
 
-People used this road. Actually used it. I walked faster.
+His arm still hurt, but the cuts already looked older than they were.
 
-A few minutes later, the old route joined a maintained one. Fresh-cut timber reinforced the edge. A metal band wrapped the base of a roadside post. Above it hung a board covered in symbols.
+Red followed the ruined road more carefully now.
 
-I stared at the writing. Nothing. Not one word.
+He listened at blind turns.
 
-I could tell it was writing. I could not tell whether it said settlement ahead or travelers will be eaten by tax officials. Below the text was a carved picture: several roof shapes clustered together.
+Avoided thick brush.
 
-An arrow pointed down the road. I looked in that direction. Trees thinned farther ahead.
+Carried a normal stick.
+
+The route slowly improved.
+
+Broken stones became a clearer path.
+
+The drainage ditch returned in sections.
+
+Then Red found fresh wheel marks pressed into the mud.
+
+Recent.
+
+People used this road.
+
+He walked faster.
+
+A few minutes later, the old route joined a maintained one.
+
+Fresh-cut timber reinforced the edge.
+
+A metal band wrapped the base of a roadside post.
+
+Above it hung a board covered in symbols.
+
+Red stared at the writing.
+
+Nothing.
+
+He could tell it was writing.
+
+He could not tell whether it meant settlement ahead or travelers will be eaten by tax officials.
+
+Below the text was a carved picture of clustered roofs.
+
+An arrow pointed down the road.
+
+Trees thinned farther ahead.
 
 Civilization.
 
-I let out a slow breath. Then I looked toward you. The world paused.
+Red let out a slow breath.
 
-A falling leaf stopped beside my shoulder. "Good news. People." I glanced at my bloodstained sleeve, muddy trousers, unfamiliar clothes, and the road leading toward whoever lived here.
+Then his attention shifted toward the unseen audience.
 
-"Bad news. People." The leaf remained suspended.
+The world paused.
 
-"I can fight a forest animal." I thought about that. "Poorly." Then I looked down the road again.
+A falling leaf stopped beside his shoulder.
 
-"Talking my way past strangers with no money, no papers, no useful memories, and no explanation for any of this?" I smiled. "Now we're entering my natural habitat." Time resumed.
+"Good news. People."
 
-The leaf finished falling. I checked my arm one last time. Still sore. Still cut. Still impossibly better.
+He looked at his bloodstained sleeve, muddy trousers, unfamiliar clothes, and the road ahead.
 
-Then I tried to remember my name. Nothing clean came back. That should have bothered me more than it did.
+"Bad news. People."
 
-Maybe it would later. For now, I needed food, shelter, information, and a version of myself I could hand to strangers without sounding insane. I straightened my coat.
+The leaf remained suspended.
 
-Nobody was watching. That was not the point. If I was going to walk into civilization covered in mud and dried blood, I could at least do it with posture.
+"I can fight a forest animal."
 
-I stepped onto the maintained road and followed the arrow. Whatever waited ahead had answers. Or paperwork.
+A pause.
 
-Probably both. Either way, the forest had already tried to eat me.
+"Poorly."
+
+Red looked down the road again.
+
+"Talking my way past strangers with no money, no papers, no useful memories, and no explanation for any of this?"
+
+A smile appeared.
+
+"Now we're entering my natural habitat."
+
+Time resumed.
+
+The leaf finished falling.
+
+Red checked his arm one last time.
+
+Still sore.
+
+Still cut.
+
+Still impossibly better.
+
+Then he tried to remember his name.
+
+Nothing clean came back.
+
+His expression barely changed.
+
+That reaction might become a problem later.
+
+For now, he needed food, shelter, information, and a version of himself that could be handed to strangers without sounding insane.
+
+Red straightened his coat.
+
+Nobody was watching.
+
+That was not the point.
+
+He stepped onto the maintained road and followed the arrow.
+
+Whatever waited ahead had answers.
+
+Or paperwork.
+
+Probably both.
+
+The forest had already tried to eat him.
 
 People would have to work harder.

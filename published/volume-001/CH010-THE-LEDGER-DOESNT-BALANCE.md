@@ -106,7 +106,7 @@ Several better answers existed. None were true.
 
 "Violently."
 
-"So the observation is contaminated."
+"Then the observation is contaminated. Your presence became part of the result."
 
 "Tavian also used that word."
 

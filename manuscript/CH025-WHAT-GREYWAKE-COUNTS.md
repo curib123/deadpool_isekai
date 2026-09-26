@@ -1,25 +1,25 @@
 # Chapter 25 — What Greywake Counts
 
-**Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
-**Revision Date:** 2026-09-20
-**Word Count:** 1,497
+**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / PLAY LOGIC + JACKAL LUCK RETCON — GATE 9 REVALIDATION REQUIRED
+**Revision Date:** 2026-09-27
+**Word Count:** 1,488
 **Chapter QA:** `qa/CH-025-GATE-9-CHAPTER-QA.md`
 
 Sela looked at my side. Then at me. "No."
 
-I had not said anything. "That feels unfair."
+Red had not said anything. "That feels unfair."
 
 "It is preventative."
 
-She pushed me back onto the treatment bench before I could stand. The room was full enough that arguing would only create another patient. Militia.
+She pushed him back onto the treatment bench before Red could stand. The room was full enough that arguing would only create another patient. Militia.
 
 Workers. Outer-route residents. Cuts.
 
 Crushed fingers. Broken bones. Animal impacts.
 
-My flank had already closed. The bruising underneath still felt like somebody had stored a hammer between my ribs. That did not make me depleted.
+his flank had already closed. The bruising underneath still felt like somebody had stored a hammer between his ribs. That did not make him depleted.
 
-It made bruising unpleasant. Sela pressed two fingers near the healed line. I stopped breathing. "Good."
+It made bruising unpleasant. Sela pressed two fingers near the healed line. Red stopped breathing. "Good."
 
 "That was not my word."
 
@@ -27,13 +27,13 @@ It made bruising unpleasant. Sela pressed two fingers near the healed line. I st
 
 "Yes."
 
-She looked toward the rest of the room. "That does not make anyone else's injury cheaper." Across from me, Kellan sat with his leg splinted and raised.
+She looked toward the rest of the room. "That does not make anyone else's injury cheaper." Across from him, Kellan sat with his leg splinted and raised.
 
-My body followed its own unreasonable rules. His did not. He noticed me looking. "Still attached?"
+his body followed its own unreasonable rules. His did not. He noticed him looking. "Still attached?"
 
 "The important parts."
 
-Sela gave me a look. Enough humor. Brynn entered near midday with dried mud on her boots.
+Sela gave him a look. Enough humor. Brynn entered near midday with dried mud on her boots.
 
 Tavian followed. Neither looked rested. "Migration?" Kellan asked.
 
@@ -51,21 +51,21 @@ Sela folded clean cloth onto a tray. "And now?"
 
 "Council," Brynn said.
 
-Sela looked at me. "No." Brynn looked at her. "He needs to be there."
+Sela looked at him. "No." Brynn looked at her. "He needs to be there."
 
 "I am sitting right here."
 
-Both ignored me. Kellan leaned back. "I think this is good for you."
+Both ignored him. Kellan leaned back. "I think this is good for you."
 
 "Which part?"
 
 "Being irrelevant."
 
-I considered throwing something. Sela had removed anything useful from reach. Brynn eventually won under conditions.
+Red considered throwing something. Sela had removed anything useful from reach. Brynn eventually won under conditions.
 
 Sit whenever possible. Return if bleeding started. No treating abnormal recovery as a reason to make another crisis cheaper.
 
-Fine. Before council, Tavian wanted Broken North inspected. So did I.
+Fine. Before council, Tavian wanted Broken North inspected. So did Red.
 
 The road looked worse in daylight. Temporary guides were gone or broken. Mud covered everything.
 
@@ -73,7 +73,7 @@ Fresh timber braced old stone. The inner shelf held on worker-built support. The
 
 Good. It should be. A worker caught Tavian crouching near the repaired shelf. "Do not touch that."
 
-Tavian stood. "Wasn't planning to." The worker looked at me. "You either."
+Tavian stood. "Wasn't planning to." The worker looked at him. "You either."
 
 "I wasn't."
 
@@ -89,11 +89,11 @@ Specific. "We changed a pattern forced for years. Stopping the lures does not ma
 
 The consequences had inertia. Of course they did. Tavian looked at the road.
 
-Then at me. "Yesterday, you stopped when I told you to." I stopped.
+Then at him. "Yesterday, you stopped when I told you to." Red stopped.
 
 Brynn looked at him too. Tavian continued without making it ceremonial. "Then you moved when the line needed it."
 
-That was the whole statement. I gave him time to reconsider. He did not. "Are you feeling all right?"
+That was the whole statement. Red gave him time to reconsider. He did not. "Are you feeling all right?"
 
 "Yes."
 
@@ -129,7 +129,7 @@ Jessa's grip tightened. "No." Maelis waited.
 
 Jessa looked up. "If I lose the job, I am not losing it because somebody says I misunderstood my own records." Nobody promised she would be fine.
 
-Good. Lying kindly was still lying. I asked: "Do you know if you still have the job?"
+Good. Lying kindly was still lying. Red asked: "Do you know if you still have the job?"
 
 "No."
 
@@ -183,11 +183,11 @@ Service key. Older housing. Unauthorized setting.
 
 She did not call Hesk a monster. Facts did not need help. Maelis confirmed the documentary chain.
 
-Brynn confirmed detention and seizure. Then someone asked me: "What do you think should happen to Hesk?" Every face turned toward me.
+Brynn confirmed detention and seizure. Then someone asked him: "What do you think should happen to Hesk?" Every face turned toward him.
 
-Uncomfortable. I looked at Hesk. He looked back. "I think you should stop asking the least qualified person in the room to run your legal system."
+Uncomfortable. Red looked at Hesk. He looked back. "I think you should stop asking the least qualified person in the room to run your legal system."
 
-A few people laughed. I let it stop. "He saw a real problem. Then he decided some people counted less because sacrificing them was convenient."
+A few people laughed. Red let it stop. "He saw a real problem. Then he decided some people counted less because sacrificing them was convenient."
 
 Hesk's expression did not change. "I am not deciding his sentence." Good boundary.
 
@@ -195,15 +195,15 @@ The council formally removed Hesk from Roadmaster authority. Not temporary suspe
 
 Longer legal disposition would follow evidence review and whatever authority Greywake handed upward. He remained under guard. The argument survived him.
 
-During recess, I heard three versions of myself. In one, I had held a road in the air while fighting a monster. In another, I caused the backflow and then helped repair my mistake.
+During recess, Red heard three versions of himself. In one, he had held a road in the air while fighting a monster. In another, he caused the backflow and then helped repair his mistake.
 
-Both had enough truth to be irritating. A third said I threatened Hesk with an invisible execution spell. Creative.
+Both had enough truth to be irritating. A third said Red threatened Hesk with an invisible execution spell. Creative.
 
-A market woman thanked me. A caravan driver blamed me for his delay. A militia recruit stared at my hands.
+A market woman thanked him. A caravan driver blamed him for his delay. A militia recruit stared at his hands.
 
-An older man moved away when someone said I was still undefined. A child asked if I could make a horse. "Probably not a good one."
+An older man moved away when someone said Red was still undefined. A child asked if he could make a horse. "Probably not a good one."
 
-His mother removed him before negotiations started. Greywake had apparently classified me as hero, criminal, monster, useful idiot, miracle worker, road hazard, and administrative headache. I preferred road hazard.
+His mother removed him before negotiations started. Greywake had apparently classified him as hero, criminal, monster, useful idiot, miracle worker, road hazard, and administrative headache. Red preferred road hazard.
 
 Honest. The final order took longer than fighting Hesk. Naturally.
 

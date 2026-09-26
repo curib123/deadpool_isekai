@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 1,510
+**Word Count:** 1,515
 **Chapter QA:** `qa/CH-026-GATE-9-CHAPTER-QA.md`
 
 Greywake sounded different without alarm horns. Hammers had taken over. One outer approach still had militia markers blocking normal traffic.
@@ -75,7 +75,7 @@ Sela looked at me before I answered. Treatment-house intelligence remained super
 
 "No. You act quickly and explain slowly."
 
-Sela made a sound that might have been agreement. Kellan looked toward the road. "You stayed."
+Sela made a sound that might have been agreement. Kellan looked toward the road. "You stayed when the road went bad."
 
 Not a question. After the backflow. After his injury.
 

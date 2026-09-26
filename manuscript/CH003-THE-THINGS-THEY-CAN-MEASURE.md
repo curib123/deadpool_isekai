@@ -2,9 +2,9 @@
 
 **Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / PLAY LOGIC + JACKAL LUCK RETCON — GATE 9 REVALIDATION REQUIRED
 **Revision Date:** 2026-09-27
-**Word Count:** 1,616
+**Word Count:** 1,647
 
-By early afternoon, the wooden entrant token inside my coat had become the most official thing I owned.
+By early afternoon, the wooden entrant token inside his coat had become the most official thing Red owned.
 
 That was not a high bar.
 

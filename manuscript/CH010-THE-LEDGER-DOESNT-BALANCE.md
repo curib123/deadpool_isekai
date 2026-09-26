@@ -2,10 +2,10 @@
 
 **Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / PLAY LOGIC + JACKAL LUCK RETCON — GATE 9 REVALIDATION REQUIRED
 **Revision Date:** 2026-09-27
-**Word Count:** 3,524
+**Word Count:** 3,562
 **Chapter QA:** `qa/CH-010-GATE-9-CHAPTER-QA.md`
 
-Three stacks of paper were waiting for me when I entered the Ledger room. Maelis sat behind them with a pen in one hand and a charged Wayfarer Tongue Token beside her elbow. She did not look up.
+Three stacks of paper were waiting for him when Red entered the Ledger room. Maelis sat behind them with a pen in one hand and a charged Wayfarer Tongue Token beside her elbow. She did not look up.
 
 "Sit."
 

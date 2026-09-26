@@ -34,8 +34,8 @@ The chapter order, local plot, midpoint, reversal, Hesk conflict, consequences, 
 
 Power interpretation changes to:
 - Red is already overwhelmingly powerful;
-- early small manifestations are deliberate/experimental/reveal choices;
-- apparent struggle may be performance, limited information, or concern for others;
+- early small manifestations are voluntary/improvised/reveal choices;
+- apparent struggle may be performance, lack of information, scene preference, or collateral Red personally does not want;
 - specialists remain necessary for knowledge, evidence, evacuation, logistics, and judgment;
 - climax spectacle may reveal far more power without calling it a power-up.
 
@@ -54,8 +54,8 @@ It preserves:
 - Roadmaster Rovan Hesk as local antagonist;
 - Maelis Orra and Tavian Rook as independently motivated recurring cast;
 - Greywake-local cast and factions;
-- Stage I Play Logic only;
-- regeneration pain/exhaustion and bystander stakes;
+- Play Logic uses remain voluntarily under-revealing; no raw-power ceiling is implied;
+- regeneration pain/inconvenience without depletion; bystander stakes remain real;
 - midpoint revelation that someone is deciding where the migration kills;
 - major reversal caused by Red Jackal disrupting part of the lure network too early;
 - climax requiring combined competencies;
@@ -98,7 +98,7 @@ Key revision rules:
 - CH-021–CH-024 form one continuous climax sequence;
 - CH-023 is expanded as the primary physical battle;
 - CH-024 remains the final human/route climax while physical danger is still active;
-- Stage I power ceiling and locked manifestation counts remain protected;
+- no power ceiling or fixed manifestation count applies; reveal/restraint continuity remains protected;
 - CH-025 and CH-026 retain their slower aftermath/departure functions.
 
 **First revision target:** CH-009 — Wrong Tracks.
@@ -228,11 +228,11 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Conflict:** Conventional equipment is insufficient or breaks at the wrong moment.  
 **Exploration Purpose:** Show the maintained main road and how much effort/resources Greywake spends protecting it.  
 **Character Beat:** Red Jackal discovers Play Logic responds better to a clear mental idea than to vague wishing.  
-**Red Jackal Stable-Character Beat:** First intentional experimentation instead of accidental manifestation.  
+**Red Jackal Stable-Character Beat:** First voluntary practical reuse; Red notices a useful behavior without turning it into a training system.  
 **Supporting Development:** Road workers establish practical frontier competence.  
 **Antagonist Pressure:** The assignment keeps Red Jackal on the protected road and away from outer-route questions.  
 **Action Progression:** Work hazard → small monster pressure → improvisational solution.  
-**Play Logic Display Choice:** Improvised tool / absurd combat object; useful but unstable.  
+**Play Logic Display Choice:** Improvised tool / absurd combat object; excessive, useful, and intentionally under-revealing. It does not imply a ceiling or instability.  
 **Regeneration Consequence:** Minor damage possible; not the focus.  
 **Aura-Farming Opportunity:** He chooses a visually excessive tool when a plain one would work.  
 **Comedy Opportunity:** The manifestation obeys the concept more literally than the imagined aesthetic.  
@@ -705,7 +705,7 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Aura-Farming Opportunity:** One strong, earned aura moment under real pressure. By now, some of the aura comes from reputation rather than deliberate staging: people have seen him survive, manifest, fail, return, and keep acting.  
 **Comedy Opportunity:** None unless an organic manifestation error briefly occurs without undercutting danger.  
 **Mystery / Foreshadowing:** No new mystery explanation.  
-**Continuity Dependencies:** Stage I limits, CH-022 injuries, corridor state.  
+**Continuity Dependencies:** voluntary reveal/restraint continuity, CH-022 injuries, corridor state.  
 **Knowledge Dependencies:** Everyone acts on local plan only.  
 **Ending Beat:** The physical line holds—but Hesk's final lure begins drawing the migration toward the outer homesteads again.
 
@@ -781,8 +781,8 @@ No F-ID becomes PLANTED until approved manuscript prose actually contains the cl
 **Supporting Development:** Maelis/Tavian remain independent people with their own next obligations; nobody automatically joins him.  
 **Antagonist Pressure:** None active; Hesk's local defeat stands.  
 **Action Progression:** None.  
-**Play Logic Display Choice:** Optional tiny non-combat flourish only if it reflects character and does not imply Stage II mastery.  
-**Regeneration Consequence:** Residual fatigue/injuries may remain, though recovery continues.  
+**Play Logic Display Choice:** Optional tiny non-combat flourish only if it reflects character and does not imply progression or a newly unlocked level of control.  
+**Regeneration Consequence:** Residual soreness/injury inconvenience may remain, but this is not depletion or a recovery meter.  
 **Aura-Farming Opportunity:** Departure is the natural place for a controlled theatrical beat, but it may be undercut by a mundane interruption if tonally useful.  
 **Comedy Opportunity:** Light closing humor allowed after consequences are respected.  
 **Mystery / Foreshadowing:** No new F-ID. Do not hint a named next destination.  

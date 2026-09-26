@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 2356
+**Word Count:** 2,379
 **Chapter QA:** `qa/CH-017-GATE-9-CHAPTER-QA.md`
 
 Sela saw the stretcher and pointed. "Table." Two assistants moved before the word finished.
@@ -443,6 +443,8 @@ I put my hands on the table. No performance. No claim to command. "What do you n
 
 Tavian looked at me for a long second. Then pointed beside the map. "Everything you remember from the disabled site. Exact order."
 
-I stayed. Not because Hesk was right. Not because Greywake owned me.
+I stayed. Not because Hesk was right. Not because Greywake owned me. Definitely not because guilt had suddenly discovered recruitment.
 
-Because I had helped break this. I was going to help repair it.
+The mess had my fingerprints on it, Hesk was still irritating, and leaving before I saw how it ended felt like letting somebody else finish my scene.
+
+Unacceptable.

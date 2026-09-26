@@ -73,6 +73,92 @@ Do not make him a secretly conventional hero.
 
 Do not write a moral-development arc into his voice.
 
+# 3A. Final Red Jackal Performance Lock
+
+Red's reader-facing personality must consistently preserve this original four-part engine:
+
+- **elastic reality comedy** — reality can become absurd around his choices;
+- **meta-irritant energy** — he mocks danger, genre logic, pain and dramatic expectations;
+- **effortless dark coolness** — he can look like he planned everything even when he did not;
+- **misinterpretation aura** — other people repeatedly assign genius, menace, prophecy, foresight or strategy to actions Red performed for much simpler reasons.
+
+Do not imitate exact dialogue, scenes, catchphrases, costume language or plot beats from existing copyrighted characters.
+
+The target is an original Red Jackal expression of those broad appeals.
+
+### Clueless-About-His-Power Rule
+
+Red knows he can do impossible things.
+
+He does **not** know, measure or care about his full ceiling.
+
+Avoid making him constantly:
+- test maximum output;
+- analyze metaphysical mechanics;
+- compare tiers;
+- seek training;
+- ask how strong he is;
+- obsess over hidden limits;
+- treat every manifestation like a research result.
+
+He can discover practical behavior accidentally, use it later, and move on.
+
+A strong Red beat is often:
+
+**impossible act → everyone else reacts → Red is confused why they are making it dramatic.**
+
+### Indifference Rule
+
+Red is not driven by universal compassion, duty, justice or responsibility.
+
+He can like people.
+
+He can protect someone.
+
+He can become angry when someone touches something or someone he considers his.
+
+But his first motive should usually be personal:
+- amusement;
+- irritation;
+- ego;
+- convenience;
+- money;
+- curiosity;
+- possession;
+- boredom;
+- spectacle;
+- revenge;
+- freedom;
+- the desire to make the scene more interesting.
+
+Do not write repeated internal reassurance that he is "still not a hero."
+
+Show it through what he chooses to care about and what he ignores.
+
+### Misinterpretation / Accidental-Mastermind Rule
+
+At regular intervals, let Red do something with an incomplete, selfish, aesthetic, lazy or ridiculous motive.
+
+Then allow other characters to interpret it as:
+- calculated strategy;
+- hidden knowledge;
+- terrifying restraint;
+- political intent;
+- prophecy;
+- secret status;
+- tactical genius;
+- confidence backed by impossible power.
+
+Circumstances may accidentally support their interpretation.
+
+Red may:
+- play along;
+- misunderstand what they think;
+- enjoy the reputation;
+- leave before learning what they concluded.
+
+The misunderstanding must create future consequences.
+
 # 4. Deadpool-Fan Residue Rule
 
 Red does not retain a normal complete Earth identity.
@@ -366,6 +452,86 @@ Use one-line paragraphs for:
 
 Do not make the entire chapter one-line prose.
 
+# 16A. Fast Serial Pacing / Chapter-Retention Law
+
+The series should read quickly chapter by chapter.
+
+Every chapter must contain at least one **active retention engine**:
+- danger;
+- combat;
+- hostile movement;
+- discovery;
+- social confrontation;
+- absurd Red escalation;
+- misinterpretation;
+- mystery turn;
+- irreversible choice;
+- reputation consequence;
+- countdown;
+- unexpected arrival;
+- practical problem that becomes stranger.
+
+Do not allow a chapter to exist mainly to explain information already understood.
+
+### Opening Rule
+
+Within the opening section of a chapter, establish at least one of:
+- a problem;
+- a strange image;
+- a confrontation;
+- an unanswered question;
+- an immediate objective;
+- a funny contradiction;
+- a threat;
+- a Red Jackal disruption.
+
+### Middle Rule
+
+The middle must **change the situation**, not merely discuss it.
+
+At least one meaningful variable should change:
+- who has control;
+- what Red knows;
+- what another character believes;
+- where the danger is;
+- what the objective costs;
+- what Red accidentally causes;
+- what rumor/reputation now exists.
+
+### Ending Rule
+
+End with a specific forward pull.
+
+Prefer:
+- a new problem;
+- an arrival;
+- a revealed contradiction;
+- a dangerous misunderstanding;
+- a decision;
+- a target;
+- a consequence;
+- a question the next chapter can answer.
+
+Do not use artificial cliffhangers every chapter.
+
+The ending should make the reader think:
+
+**"I need to see what Red does next."**
+
+### Exposition Rule
+
+If worldbuilding or investigation runs longer than the surrounding tension can support, interrupt it with:
+- character conflict;
+- practical stakes;
+- Red making the wrong assumption;
+- a physical task;
+- a rumor;
+- a discovery;
+- a complication;
+- an absurd but consequential choice.
+
+The chapter should feel like events are happening while information is learned.
+
 # 17. Final Prose Test
 
 Before Gate 9, verify:
@@ -385,5 +551,10 @@ Before Gate 9, verify:
 13. Native storylines still exist independently of Red.
 14. Red's interference reroutes scenes instead of lazily deleting the sequence.
 15. Geography, destination identity, chronology, and locked pacing remain intact.
+16. Red remains casually unaware/uninterested in his true ceiling.
+17. Red's motive is personal rather than generic hero duty.
+18. At least one meaningful retention event changes the chapter.
+19. Red's actions can be misunderstood without making other characters stupid.
+20. The ending creates a concrete reason to continue.
 
 If any answer is no, the chapter is not ready for Gate 9.

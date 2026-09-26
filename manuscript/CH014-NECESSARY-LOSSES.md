@@ -5,7 +5,7 @@
 **Word Count:** 2,440
 **Chapter QA:** `qa/CH-014-GATE-9-CHAPTER-QA.md`
 
-The council chamber was full before I arrived. Representatives filled most of the chairs. Two benches had been dragged against the walls. Three stacks of records waited in front of Maelis.
+The council chamber was full before Red arrived. Representatives filled most of the chairs. Two benches had been dragged against the walls. Three stacks of records waited in front of Maelis.
 
 Hesk sat at the central table. Yesterday he had stood through every argument. Today he looked tired.
 

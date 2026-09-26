@@ -348,7 +348,9 @@ The impossible answer was still there. It had always been there. Using it would 
 
 So would not using it. No contract held me here. No Guild order.
 
-I stayed because I chose to. Brynn raised one hand. Nearby conversation stopped.
+I stayed because the interesting part had finally arrived.
+
+Leaving now would have been terrible timing. Brynn raised one hand. Nearby conversation stopped.
 
 Tavian went completely still. At first I saw nothing. Then birds lifted from distant trees.
 

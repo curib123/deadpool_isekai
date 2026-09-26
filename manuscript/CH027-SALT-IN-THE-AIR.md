@@ -211,7 +211,13 @@ The crew already had a plan, though, and Red wanted to see if it worked.
 
 Red grabbed the rope instead.
 
-Then planted one boot against the raised edge of the ramp.
+His heel found a recessed timber brace he had not noticed before. Perfect leverage.
+
+Red glanced down.
+
+*Of course.*
+
+Then he planted his boot against it.
 
 The line snapped tight across his palm.
 

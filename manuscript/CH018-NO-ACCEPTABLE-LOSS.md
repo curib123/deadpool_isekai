@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 2322
+**Word Count:** 2,330
 **Chapter QA:** `qa/CH-018-GATE-9-CHAPTER-QA.md`
 
 The emergency route board was crowded with markers. Tavian stood over it with both hands on the table. Brynn moved a militia token.
@@ -15,7 +15,7 @@ A runner finished describing movement near the lower approach. Tavian asked thre
 
 "No," Tavian said.
 
-Hesk folded his arms. "Then restore the outer pressure." Maelis did not look up. "We discussed that."
+Hesk folded his arms. "Then restore the outer pressure. We know which routes the old pattern protected." Maelis did not look up. "We discussed that."
 
 "We discussed it before another route report came in."
 

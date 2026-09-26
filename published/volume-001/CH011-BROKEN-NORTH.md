@@ -460,9 +460,11 @@ The ridge-hounds climbed again. Kellan moved across the damaged section exactly 
 
 "It has one job."
 
-I crossed. The broken lip held exactly where Kellan had said it needed to. The support remained where I wanted it.
+I crossed. The broken lip held exactly where Kellan had said it needed to. The support remained exactly where I wanted it.
 
-No hidden limit had appeared. Nothing about my capacity had changed. No reason for it to fail because the scene had become inconvenient.
+Kellan had given me one job: keep that broken lip useful long enough for us to cross.
+
+So it stayed useful.
 
 Tavian moved last. One hound lunged close enough that he struck its muzzle with the guard of his blade and stepped backward onto the supported lip without looking down. For one brief second, Tavian trusted something impossible because Kellan had told him where it needed to be and I had put it there.
 

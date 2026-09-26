@@ -35,17 +35,9 @@ Greywake. Bureaucracy had recovered faster than infrastructure. Red walked far e
 
 New markers beside broken ones. Workers clearing debris from the seasonal-cut detour without pretending it would reopen today. Greywake had survived.
 
-It looked like survival. Mud. Timber.
+It looked like survival. Mud. Timber. Blocked roads. Tired people. Arguments that had not ended. Then Red went to Sela because she had threatened to send someone after him if he did not. She inspected his side. Closed.
 
-Blocked roads. Tired people. Arguments that had not ended.
-
-Then Red went to Sela because she had threatened to send someone after him if he did not. She inspected his side. Closed.
-
-She pressed near the ribs. Still tender.
-
-Ordinary tissue complaining after extraordinary behavior.
-
-His ribs had apparently decided the danger was over only after the bruising filed a formal objection. Just soreness that had not become irrelevant yet.
+She pressed near the ribs. Still tender. Ordinary tissue complaining after extraordinary behavior. His ribs had apparently decided the danger was over only after the bruising filed a formal objection. Just soreness that had not become irrelevant yet.
 
 Sela checked his shoulder. "Still hurts?"
 
@@ -65,9 +57,7 @@ He waved one. "They moved the northern repair priority."
 
 "Less stupid."
 
-*High praise.* He had not stood since the injury. He would not stand today.
-
-The same impossible logic had already erased damage from Red that would keep Kellan in a splint for much longer. That difference remained unfair. Kellan put the paper down. "You leaving?"
+*High praise.* He had not stood since the injury. He would not stand today. The same impossible logic had already erased damage from Red that would keep Kellan in a splint for much longer. That difference remained unfair. Kellan put the paper down. "You leaving?"
 
 Sela looked at him before Red answered. Treatment-house intelligence remained superior to militia intelligence. "I was considering it."
 
@@ -79,13 +69,9 @@ Sela looked at him before Red answered. Treatment-house intelligence remained su
 
 Sela made a sound that might have been agreement. Kellan looked toward the road. "You stayed when the road went bad."
 
-Not a question. After the backflow. After his injury.
+Not a question. After the backflow. After his injury. After the crisis stopped being entertaining and became complicated. "I did." He nodded once. "That counts."
 
-After the crisis stopped being entertaining and became complicated. "I did." He nodded once. "That counts."
-
-Coming from him, it did. No speech followed. Good.
-
-Sela handed him a wrapped packet of bandages. "I'm not taking those."
+Coming from him, it did. No speech followed. Good. Sela handed him a wrapped packet of bandages. "I'm not taking those."
 
 "You are."
 
@@ -93,9 +79,7 @@ Sela handed him a wrapped packet of bandages. "I'm not taking those."
 
 "You bleed first."
 
-Red took the bandages. There were limits to personal agency. Some sounded like Sela.
-
-Maelis was in the records room with Jessa. That had become normal enough to be dangerous. The tables held copied documents from Ledger, militia, Guild, council, and outer-community submissions.
+Red took the bandages. There were limits to personal agency. Some sounded like Sela. Maelis was in the records room with Jessa. That had become normal enough to be dangerous. The tables held copied documents from Ledger, militia, Guild, council, and outer-community submissions.
 
 Different custody. Different people allowed to question them. Red still could not read any of it.
 
@@ -131,9 +115,7 @@ Jessa looked down, hiding something close to a smile. Maelis continued. "The Led
 
 "Want."
 
-Red looked at her. She tapped the packet. "Not own."
-
-That stopped him. When they first met, Maelis had been trying to measure something the System refused to recognize. Now she was distinguishing documentation from possession.
+Red looked at her. She tapped the packet. "Not own." That stopped him. When they first met, Maelis had been trying to measure something the System refused to recognize. Now she was distinguishing documentation from possession.
 
 Useful information had accumulated on both sides. "I'm not staying for examinations."
 
@@ -151,9 +133,7 @@ Useful information had accumulated on both sides. "I'm not staying for examinati
 
 Jessa actually smiled. Maelis ignored her. "If Ledger contacts you again, you can answer or refuse."
 
-Enough. Red left them with work that would continue without him. That mattered.
-
-Tavian stood near the gate reviewing a route marker with two workers. He finished before acknowledging him. Red waited.
+Enough. Red left them with work that would continue without him. That mattered. Tavian stood near the gate reviewing a route marker with two workers. He finished before acknowledging him. Red waited.
 
 Also growth, if you were determined to misunderstand it. He looked at the pack over his shoulder. "So."
 
@@ -165,9 +145,7 @@ Also growth, if you were determined to misunderstand it. He looked at the pack o
 
 "You packed food."
 
-Damaged the effect. Brynn approached from the militia yard. No reports this time.
-
-Suspicious. "The emergency restriction is lifted," she said.
+Damaged the effect. Brynn approached from the militia yard. No reports this time. Suspicious. "The emergency restriction is lifted," she said.
 
 "What restriction?"
 
@@ -183,9 +161,7 @@ Suspicious. "The emergency restriction is lifted," she said.
 
 Probably. Red had been busy being undefined. Brynn folded her arms. "You are free to travel."
 
-No citizenship. No registration. No class.
-
-No answer to what Red was. Just no active claim that he had to remain. That mattered more.
+No citizenship. No registration. No class. No answer to what Red was. Just no active claim that he had to remain. That mattered more.
 
 Tavian looked toward the road outside. "I'll be north for a while."
 
@@ -203,9 +179,7 @@ Neither of them seemed interested in making the farewell larger. "You were relia
 
 "You already have one."
 
-Unfortunately true. Brynn said: "Greywake could use you." Red looked at her.
-
-She continued before Red could react. "That is not an order." Important. "Militia?"
+Unfortunately true. Brynn said: "Greywake could use you." Red looked at her. She continued before Red could react. "That is not an order." Important. "Militia?"
 
 "No."
 
@@ -217,33 +191,19 @@ She continued before Red could react. "That is not an order." Important. "Militi
 
 "Tempting."
 
-Red liked her. That was the problem. Greywake could use him.
-
-Maelis could study him. Sela could treat him. Brynn could call when something impossible needed doing.
+Red liked her. That was the problem. Greywake could use him. Maelis could study him. Sela could treat him. Brynn could call when something impossible needed doing.
 
 Kellan could ask for support on roads. People could call him hero. Others could call him menace.
 
 Stay long enough and labels became expectations. Expectations became roles. Roles became the kind of thing other people eventually forgot you were allowed to refuse.
 
-Greywake had become familiar enough that people were starting to confuse familiarity with access.
-
-Dangerous assumption.
-
-Red knew more names now. More roads. More ways this place could become inconvenient.
-
-That did not make any of it his responsibility.
+Greywake had become familiar enough that people were starting to confuse familiarity with access. Dangerous assumption. Red knew more names now. More roads. More ways this place could become inconvenient. That did not make any of it his responsibility.
 
 It just meant Red would remember the place after he left, which was already more than most places had managed.
 
-The pack was ordinary. Food. Water.
+The pack was ordinary. Food. Water. Bandages Sela forced on him. Coin from work already accounted for. A cloak that had somehow survived better than several roads.
 
-Bandages Sela forced on him. Coin from work already accounted for. A cloak that had somehow survived better than several roads.
-
-No legendary weapon. No sacred map. No glowing arrow pointing toward destiny.
-
-Red did have directions. Several. None had become a decision.
-
-Exactly how Red wanted it. At the market edge, people noticed the pack. A woman who had thanked him after the council asked if he was coming back. "I have no idea."
+No legendary weapon. No sacred map. No glowing arrow pointing toward destiny. Red did have directions. Several. None had become a decision. Exactly how Red wanted it. At the market edge, people noticed the pack. A woman who had thanked him after the council asked if he was coming back. "I have no idea."
 
 A Guild worker told him Red still owed him for a broken pry bar. He did not remember breaking it. That proved nothing.
 
@@ -261,27 +221,15 @@ He looked disappointed in his progression. Reasonable. Jessa appeared near the g
 
 "No."
 
-She looked at him. "That sounds like you." Red chose to take it positively.
+She looked at him. "That sounds like you." Red chose to take it positively. Kellan could not come to the gate. Sela would not leave the treatment house long enough to try. Maelis had records.
 
-Kellan could not come to the gate. Sela would not leave the treatment house long enough to try. Maelis had records.
+Tavian had roads. Brynn had Greywake. Nobody dropped their life to follow him. Good. They had their own stories. Red walked through the gate. Then stopped because a repair wagon was coming in. The driver pointed. "Move." So much for the exit. Red stepped aside while timber rolled toward the damaged approaches. Brynn looked away.
 
-Tavian had roads. Brynn had Greywake. Nobody dropped their life to follow him.
-
-Good. They had their own stories. Red walked through the gate.
-
-Then stopped because a repair wagon was coming in. The driver pointed. "Move."
-
-So much for the exit. Red stepped aside while timber rolled toward the damaged approaches. Brynn looked away.
-
-Definitely hiding a smile. Red waited until the road cleared. Then tried again.
-
-No pose this time. Mostly. Greywake sat behind him in river fog, hammer noise, damaged roads, new rules, unfinished arguments, and people rebuilding things they had already learned could fail.
+Definitely hiding a smile. Red waited until the road cleared. Then tried again. No pose this time. Mostly. Greywake sat behind him in river fog, hammer noise, damaged roads, new rules, unfinished arguments, and people rebuilding things they had already learned could fail.
 
 Hesk was still under guard somewhere inside. Kellan was probably insulting a repair plan from a chair. Maelis was writing facts.
 
-Jessa was copying records. Sela was threatening patients. Tavian was watching roads.
-
-Brynn was preventing the whole settlement from becoming stupid at once. They would continue. So would Red.
+Jessa was copying records. Sela was threatening patients. Tavian was watching roads. Brynn was preventing the whole settlement from becoming stupid at once. They would continue. So would Red.
 
 Red did not know what waited beyond Greywake. For once, nobody had assigned him the answer. He adjusted the pack and walked until the gate disappeared behind the bend.
 

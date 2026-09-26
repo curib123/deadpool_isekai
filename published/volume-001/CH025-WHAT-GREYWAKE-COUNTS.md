@@ -84,9 +84,9 @@ Specific. "We changed a pattern forced for years. Stopping the lures does not ma
 
 The consequences had inertia. Of course they did. Tavian looked at the road.
 
-Then at me. "You were useful yesterday." I stopped.
+Then at me. "Yesterday, you stopped when I told you to." I stopped.
 
-Brynn looked at him too. Tavian continued without making it ceremonial. "You waited when waiting mattered. Acted when action mattered."
+Brynn looked at him too. Tavian continued without making it ceremonial. "Then you moved when the line needed it."
 
 That was the whole statement. I gave him time to reconsider. He did not. "Are you feeling all right?"
 

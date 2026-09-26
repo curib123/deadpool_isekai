@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 4,205
+**Word Count:** 4,208
 **Chapter QA:** `qa/CH-007-GATE-9-CHAPTER-QA.md`
 
 One road worker kicked the leaning marker post.
@@ -409,7 +409,7 @@ Excellent priorities. She was already pressing clean cloth around the worker's l
 
 "Sela."
 
-"I know what a bite looks like."
+"I know what a bite looks like. Put him down."
 
 "Multiple predators."
 

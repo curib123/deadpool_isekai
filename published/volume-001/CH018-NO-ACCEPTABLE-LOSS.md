@@ -10,7 +10,7 @@ A runner finished describing movement near the lower approach. Tavian asked thre
 
 "No," Tavian said.
 
-Hesk folded his arms. "Then restore the outer pressure." Maelis did not look up. "We discussed that."
+Hesk folded his arms. "Then restore the outer pressure. We know which routes the old pattern protected." Maelis did not look up. "We discussed that."
 
 "We discussed it before another route report came in."
 

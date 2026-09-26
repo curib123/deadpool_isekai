@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 2818
+**Word Count:** 2,821
 **Chapter QA:** `qa/CH-008-GATE-9-CHAPTER-QA.md`
 
 "Can you lift?"
@@ -29,7 +29,7 @@ He looked at the cart. Then at me.
 
 "I do many things with style."
 
-"Short boards."
+"Short boards. Lumber doesn't care."
 
 He kept walking. I stared after him. No awe.
 

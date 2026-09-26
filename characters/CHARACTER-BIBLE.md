@@ -287,7 +287,7 @@ A joke that changes the board becomes continuity.
 ## 2.5 Stable Psychological Engine
 
 ### Primary Desire
-**Have fun on his own terms while refusing ownership.**
+**Treat the world like his personal stage, have fun on his own terms, and refuse ownership by anyone or anything.**
 
 ### Secondary Desires
 - spectacle;
@@ -295,11 +295,12 @@ A joke that changes the board becomes continuity.
 - interesting enemies;
 - ridiculous situations;
 - freedom;
-- mystery;
-- reputation;
+- mystery when it is entertaining;
+- effortless-looking reputation;
 - cool entrances;
-- people worth keeping around;
-- opportunities to interfere with something that clearly was not his business.
+- people he finds amusing, useful, or personally interesting;
+- opportunities to interfere with something that clearly was not his business;
+- seeing how far a joke, pose, bluff, or random decision can go before reality catches up.
 
 ### Core Fear
 **Being forced into somebody else's role.**
@@ -399,7 +400,7 @@ Valid motives include:
 - irritation at someone else claiming control;
 - wanting to prove something;
 - refusing to let another person decide who is expendable;
-- genuine care he does not want turned into moral ownership.
+- personal attachment he refuses to treat as duty or moral ownership.
 
 A heroic outcome does not require a heroic motive.
 
@@ -502,14 +503,150 @@ Not every chapter needs all seven.
 - competitive when challenged.
 
 ### Deeper Traits
-- observant;
-- emotionally avoidant;
-- possessive of chosen relationships;
+- observant without being studious;
+- emotionally detached from ordinary social expectations;
+- possessive rather than conventionally nurturing;
 - suspicious of moral certainty;
-- secretly sensitive to rejection;
-- uncomfortable with helplessness;
-- more affected by consequences than he admits;
-- capable of frightening focus.
+- casually narcissistic about presentation;
+- rarely interested in explaining himself;
+- capable of frightening focus when something finally catches his interest;
+- genuinely unconcerned with becoming understandable, respectable, heroic, or morally approved.
+
+## 2.8A Final Personality Synthesis Lock — CLUELESS CHAOS / EFFORTLESS AURA / MISINTERPRETATION ENGINE
+
+This is the authoritative reader-facing personality model for Red Jackal.
+
+Red Jackal combines four original high-level appeals without copying any existing copyrighted character:
+
+1. **Elastic reality comedy** — danger can become absurd because Red treats physical reality as negotiable.
+2. **Meta-comedic irreverence** — he jokes through pain, talks to the audience, and refuses the expected tone.
+3. **Effortless theatrical coolness** — he can look composed, ominous, stylish, or absurdly confident even when he has no plan.
+4. **Accidental legend amplification** — other people repeatedly interpret Red's nonsense, coincidences, half-truths, and selfish decisions as proof of impossible foresight, hidden strategy, terrifying confidence, or secret authority.
+
+### Clueless Power Law
+
+Red does **not** behave like a scientist studying his own powers.
+
+He does not care about:
+- finding a maximum output;
+- calculating a power tier;
+- naming every technique;
+- training toward a final form;
+- proving exactly how Play Logic works;
+- discovering whether he is the strongest;
+- understanding every metaphysical explanation immediately.
+
+He may notice that something works and simply use it again later.
+
+He can accidentally perform something absurdly powerful and react as though the stranger part is everyone else's reaction.
+
+When someone asks how he did something, valid Red responses in spirit are:
+- he does not know;
+- he did not think that far;
+- it seemed funny;
+- it looked useful;
+- he wanted the scene to go that way;
+- he changes the subject;
+- he invents an explanation because the fake explanation sounds cooler.
+
+Do not turn this into repetitive catchphrases.
+
+### Self-Centered Worldview Law
+
+Red does not carry a heroic duty toward Veyr.
+
+He does not wake up thinking:
+- I must save these people;
+- I must fix this country;
+- I must protect the innocent because that is my role;
+- I must become worthy of my power.
+
+He may help because:
+- he feels like it;
+- someone interrupted his fun;
+- the problem is now in his way;
+- he likes a person;
+- he wants money;
+- he wants information;
+- he is bored;
+- he is annoyed;
+- he wants the dramatic version of events;
+- he wants to prove someone wrong;
+- he considers something temporarily "his";
+- letting the disaster continue would ruin the scene he wants.
+
+The result can be heroic.
+
+The motive does not need to be.
+
+He may like people, keep people around, or become possessive of them, but affection never turns into a standing obligation to serve the world.
+
+### Effortless Aura Law
+
+Red may deliberately manufacture coolness, but the strongest aura moments should increasingly look effortless.
+
+He can:
+- say the wrong thing and have others assume it was profound;
+- arrive late and be mistaken for the person everyone was waiting for;
+- improvise nonsense that coincidentally matches hidden facts;
+- act bored in front of overwhelming danger because he genuinely is;
+- walk away before anyone realizes he had no complete plan;
+- accidentally make a correct prediction;
+- use a ridiculous solution that witnesses reinterpret as advanced technique;
+- casually reveal impossible power while thinking about something trivial.
+
+Red does not need to understand why everyone is impressed.
+
+Sometimes he notices and plays along.
+
+Sometimes he assumes their reaction is normal.
+
+Sometimes he completely misunderstands what they think he meant.
+
+### Misinterpretation Engine
+
+A recurring series pleasure is:
+
+**Red does something for a selfish, stupid, funny, lazy, aesthetic, or incomplete reason.  
+Other characters assign a deeper meaning.  
+Circumstances appear to confirm their interpretation.  
+Red's reputation becomes more impressive than his actual plan.**
+
+Use this for:
+- comedy;
+- aura;
+- fear;
+- rumors;
+- political misunderstanding;
+- enemy overreaction;
+- accidental leadership;
+- false prophecy alignment;
+- mistaken tactical genius;
+- legends growing faster than facts.
+
+Do not make every misunderstanding beneficial.
+
+Some should:
+- create enemies;
+- create obligations he refuses;
+- start cult-like rumors he hates;
+- cause allies to overestimate his plan;
+- make institutions react to a mastermind who does not exist;
+- force Red to improvise around a reputation he accidentally created.
+
+### Stable Indifference Rule
+
+Red may learn that a previous action caused damage.
+
+He may remember that fact.
+
+He may even choose differently next time.
+
+But the prose must not frame this as moral maturation.
+
+His default attitude remains:
+
+**The world has problems. Red has interests. Those two things only overlap when Red decides they do.**
 
 ## 2.9 Aura Farming
 

@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 2,802
+**Word Count:** 2,790
 
 The Road Guild hall opened straight onto Greywake's caravan yard, which meant the first thing I learned about local employment was that nobody here believed in quiet workplaces. Wagons rolled through mud outside. Workers carried rope, wheel rims, boxed tools, and stamped cargo tags between two wide doors. Someone shouted a route number from behind a counter. Somebody else shouted back from halfway across the yard. A clerk moved colored markers across a wall map while three caravan guards argued over an escort roster.
 
@@ -88,7 +88,7 @@ I preferred that.
 
 "You survived the road anyway."
 
-There it was. That was the fact he cared about. The world paused.
+That was the fact he cared about. The world paused.
 
 A worker crossing the yard froze with a coil of rope over one shoulder. Mud hung beneath the heel of a boot that had not yet come down. A clerk's pointing hand stopped over the wall map.
 
@@ -156,7 +156,7 @@ Of course not. Apparently even escaping paperwork required paperwork.
 
 "No certification. No registered-worker status. No standard injury guarantee. No traveler guarantee attached to the assignment. No formal contract appeal through the Guild registry."
 
-There it was. Useful and bad in the same breath.
+Useful and bad in the same breath.
 
 "What do I get?"
 
@@ -213,8 +213,6 @@ I liked him a little. That was probably dangerous. Hesk pushed the form toward J
 Then he looked back at me.
 
 "If the risk is not worth the pay, walk away. The road still needs fixing. I'll put somebody else on it."
-
-There it was.
 
 Not a challenge. Not a threat. A road, a vacancy, a cost.
 
@@ -450,7 +448,7 @@ Brynn met my eyes.
 
 "You are."
 
-There it was. Short. Clean.
+Short. Clean.
 
 Hard to argue with. The world paused. Brynn froze beside the contract desk. Hesk stopped with the map halfway to the counter. Outside, a horse's tail hung in the air mid-swish.
 

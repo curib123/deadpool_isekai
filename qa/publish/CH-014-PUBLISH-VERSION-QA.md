@@ -1,11 +1,11 @@
 # CH-014 Publish Version QA
 
 **Canon Source:** `manuscript/CH014-NECESSARY-LOSSES.md`  
-**Canon Source SHA:** `507eeccdb3c01d4ada29cd9c6d0466253d2912d4`  
+**Canon Source SHA:** `65dbbe6d1acdeaf7e0ab9acd5712f8b60021b0ce`  
 **Publication Copy:** `published/volume-001/CH014-NECESSARY-LOSSES.md`  
-**Publication Copy SHA:** `0599d7cf8fdf9b23227425938b36364be9957d88`  
+**Publication Copy SHA:** `b40bb0d4cd311b262ee39b069fc1257062bdcd23`  
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-20  
+**Review Date:** 2026-09-26
 **Status:** PUBLISH-READY — GATE 11 PASS
 
 # Source Integrity

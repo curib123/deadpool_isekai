@@ -194,7 +194,7 @@ He struck low to force the hound away from the farms. The guard did the same. I 
 
 Something deep in my side tightened and pulled. Correction. Automatic.
 
-Unpleasant. Not a meter. Not a resource.
+Unpleasant enough to make me personally offended by my own ribs.
 
 The second hound feinted at Tavian. I stepped into its side and drove it off-line. It hit the ground, scrambled, and snapped at my leg.
 

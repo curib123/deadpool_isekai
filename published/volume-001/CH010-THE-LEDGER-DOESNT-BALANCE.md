@@ -76,7 +76,7 @@ Maelis wrote. By the time she finished with that section, my mysterious northern
 
 "What about the live crossing?"
 
-There it was. I looked at the ceiling for support. The ceiling remained institutionally neutral.
+Of course. I looked at the ceiling for support. The ceiling remained institutionally neutral.
 
 "Three grazers approached the split. Tavian wanted to watch which route they chose."
 
@@ -266,7 +266,7 @@ I looked from one page to the next.
 
 "It is not identity-bound."
 
-There it was again. Maelis placed the payment record beside the route incident.
+Maelis placed the payment record beside the route incident.
 
 "If you disappeared on one of these assignments, the expense could still be closed."
 
@@ -554,7 +554,7 @@ His eyes moved to Jessa. The shift was small enough to look routine.
 
 "Jessa has route certifications to finish."
 
-There it was. Nothing threatening in the sentence. Jessa still went pale.
+Nothing threatening in the sentence. Jessa still went pale.
 
 "Another clerk can supervise access," Hesk said.
 
@@ -860,7 +860,7 @@ Same answer Tavian gave when the evidence stopped. Different expert. Same discip
 
 "But random clerical error is no longer a sufficient explanation."
 
-There it was. Not a confession. Not a culprit.
+Not a confession. Not a culprit.
 
 Not a physical mechanism hiding in the woods. A pattern. Maelis turned the final sheet and drew two lines through separate columns.
 

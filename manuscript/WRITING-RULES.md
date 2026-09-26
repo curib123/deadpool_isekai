@@ -146,6 +146,42 @@ A strong Red scene often follows:
 
 The reader should often understand Red from what he does **before** being told what he thinks.
 
+## Lively Dialogue + Selective Self-Thought Rule
+
+Distant narration must not make scenes emotionally flat.
+
+Use:
+- quick back-and-forth dialogue;
+- interruptions;
+- dry reactions;
+- unfinished answers;
+- teasing;
+- disagreement;
+- awkward pauses;
+- visible body language.
+
+Red's private thoughts should be brief and selective.
+
+Examples:
+
+Red watched the guard drop the key.
+
+*That was suspiciously convenient.*
+
+He picked it up.
+
+"See? Planning."
+
+Or:
+
+Tavian stared at him.
+
+"You guessed."
+
+Red smiled. "I prefer 'anticipated badly.'"
+
+The thought should sharpen the beat, not replace dialogue.
+
 # 2. Movie-Like English
 
 Use **simple, natural, cinematic English**.
@@ -448,15 +484,50 @@ Large effect ≠ upgrade.
 
 No Stage I/II/III/IV language in current prose.
 
-# 11. Regeneration
+# 11. Play Logic Body Restoration
 
-Red can regenerate from ordinary lethal trauma.
+Red does not possess a separate regeneration power.
 
-Pain can remain.
+When his body recovers from impossible damage, treat it as **automatic Play Logic**:
+- reality bends back toward Red's persistent self-concept;
+- wounds may close;
+- tissue may restore;
+- lethal damage may fail to remain final.
 
-He may exaggerate injury, delay visible recovery, or use the injury as part of the performance.
+Do not narrate this as:
+- a healing skill;
+- regeneration activation;
+- HP recovery;
+- a separate energy system.
 
-Never use healing speed as a conventional progression track.
+Pain and blood can remain visible.
+
+External consequences do not reset.
+
+# 11A. Jackal Luck
+
+Jackal Luck is Red's passive probability/coincidence power.
+
+Show it through events rather than labels.
+
+Good examples:
+- a loose object falls exactly where it helps;
+- Red guesses and accidentally chooses the useful path;
+- an interruption arrives at suspiciously perfect timing;
+- an enemy's ordinary mistake becomes devastatingly convenient;
+- a random throw lands absurdly well;
+- witnesses think Red planned a coincidence.
+
+Red should rarely think:
+"My luck power activated."
+
+Prefer:
+- a look;
+- a grin;
+- a short private thought;
+- shamelessly taking credit.
+
+Luck can complicate the scene as easily as simplify it.
 
 # 12. Native Story Intrusion
 
@@ -671,7 +742,7 @@ Before Gate 9, verify:
 9. Enemy play/holding back is voluntary.
 10. Serious switch is restraint removal, not transformation.
 11. Play Logic can use cartoon-reality freedom without copying copyrighted material.
-12. Regeneration does not erase consequences to other people.
+12. Play Logic body restoration does not erase consequences to other people; Jackal Luck does not guarantee safe outcomes.
 13. Native storylines still exist independently of Red.
 14. Red's interference reroutes scenes instead of lazily deleting the sequence.
 15. Geography, destination identity, chronology, and locked pacing remain intact.

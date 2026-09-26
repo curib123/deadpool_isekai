@@ -2,9 +2,9 @@
 
 **Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / PLAY LOGIC + JACKAL LUCK RETCON — GATE 9 REVALIDATION REQUIRED
 **Revision Date:** 2026-09-27
-**Word Count:** 2,710
+**Word Count:** 2,794
 
-The Road Guild hall opened straight onto Greywake's caravan yard, which meant the first thing I learned about local employment was that nobody here believed in quiet workplaces. Wagons rolled through mud outside. Workers carried rope, wheel rims, boxed tools, and stamped cargo tags between two wide doors. Someone shouted a route number from behind a counter. Somebody else shouted back from halfway across the yard. A clerk moved colored markers across a wall map while three caravan guards argued over an escort roster.
+The Road Guild hall opened straight onto Greywake's caravan yard, which meant the first thing Red learned about local employment was that nobody here believed in quiet workplaces. Wagons rolled through mud outside. Workers carried rope, wheel rims, boxed tools, and stamped cargo tags between two wide doors. Someone shouted a route number from behind a counter. Somebody else shouted back from halfway across the yard. A clerk moved colored markers across a wall map while three caravan guards argued over an escort roster.
 
 The entire place looked like paperwork had discovered manual labor and decided to become dangerous. Red stopped beneath the entrance awning and looked at the notice board beside him. Still unreadable.
 

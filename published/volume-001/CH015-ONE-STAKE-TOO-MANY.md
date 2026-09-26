@@ -26,7 +26,7 @@ The Guild guard shifted his spear. "Patrol found more sign farther down."
 
 Tavian frowned. "Probably is not useful." The guard took that better than most people took Tavian.
 
-Kellan followed the retaining stones. "This section was rebuilt." The technician joined him. "Guild repair?"
+Kellan followed the retaining stones and brushed moss from a joint. "This section was rebuilt after the original road. Look at the seam." The technician joined him. "Guild repair?"
 
 "Old road crew first. Later patching."
 

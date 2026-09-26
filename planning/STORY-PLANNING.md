@@ -366,7 +366,7 @@ Gate 8 QA:
 
 `qa/CH-027-PRE-MANUSCRIPT-SCENE-QA.md`
 
-**CH-027 Manuscript:** CANON — GATE 9 PASS — `manuscript/CH027-SALT-IN-THE-AIR.md` — 2,108 words.
+**CH-027 Manuscript:** CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS — `manuscript/CH027-SALT-IN-THE-AIR.md` — 1,869 words.
 
 Gate 9 QA:
 
@@ -420,7 +420,7 @@ Publication work:
 
 If a publication edit changes meaning, return it to Gate 9 and canonization first.
 
-Volume 2 / Merrowgate Arc has passed Gate 7 with CH-027 through CH-050 locked. CH-027 has passed Gate 9 and is CANON at 2,108 words. The active production step is CH-028 Detailed Scene Architecture / Gate 8.
+Volume 2 / Merrowgate Arc has passed Gate 7 with CH-027 through CH-050 locked. CH-027 has passed Gate 9 and is CURRENT CANON at 1,869 words. The active production step is CH-028 Detailed Scene Architecture / Gate 8.
 
 # 5. Scene Sheet
 Each scene has:
@@ -530,7 +530,7 @@ Volume-level Gate 10:
 Authoritative Gate 10:
 `qa/VOLUME-001-GREYWAKE-OVERPOWERED-RETCON-GATE-10-REVALIDATION.md`
 
-CH-028 is unpaused. The Volume 1 publication refresh has passed Gate 11.
+CH-028 is authorized as the next production step. The Volume 1 publication refresh has passed Gate 11.
 
 
 # 9. Superseded POV / Style Retcon — Historical

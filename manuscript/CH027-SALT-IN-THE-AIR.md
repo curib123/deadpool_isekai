@@ -1,8 +1,8 @@
 # Chapter 27 — Salt in the Air
 
-**Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
-**Revision Date:** 2026-09-26
-**Word Count:** 1,880
+**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / PLAY LOGIC + JACKAL LUCK RETCON — GATE 9 REVALIDATION REQUIRED
+**Revision Date:** 2026-09-27
+**Word Count:** 1,876
 **Volume:** 2 — Merrowgate Arc
 
 Freedom, I discovered, had expenses.
@@ -13,35 +13,35 @@ Beds.
 
 River crossings.
 
-Even my bag had somehow become a paying passenger.
+Even his bag had somehow become a paying passenger.
 
-Several days out from Greywake, the road no longer looked like something the forest tolerated by accident. Traffic came from both directions. Covered wagons rolled past with painted merchant marks on their sides. Roadside shelters had feed troughs, cooking fires, fenced yards, and boards full of writing that remained personally committed to excluding me.
+Several days out from Greywake, the road no longer looked like something the forest tolerated by accident. Traffic came from both directions. Covered wagons rolled past with painted merchant marks on their sides. Roadside shelters had feed troughs, cooking fires, fenced yards, and boards full of writing that remained personally committed to excluding him.
 
-My literacy had made no progress whatsoever.
+his literacy had made no progress whatsoever.
 
-I had learned a few symbols through repetition. A mark beside a water barrel usually meant something involving water. A painted wheel near a yard generally meant carts. A large block of text beside a person holding out one hand usually meant money was about to leave mine.
+Red had learned a few symbols through repetition. A mark beside a water barrel usually meant something involving water. A painted wheel near a yard generally meant carts. A large block of text beside a person holding out one hand usually meant money was about to leave his.
 
 That last language appeared to be universal.
 
-I adjusted the strap across my shoulder.
+Red adjusted the strap across his shoulder.
 
-My pack felt heavier than when I left Greywake even though I had eaten part of what was inside. The problem was probably my shoulder, my ribs, or Sela's packet of bandages, which was large enough to support a small military campaign.
+his pack felt heavier than when Red left Greywake even though he had eaten part of what was inside. The problem was probably his shoulder, his ribs, or Sela's packet of bandages, which was large enough to support a small military campaign.
 
-I had considered leaving it behind.
+Red had considered leaving it behind.
 
-Then my side started aching halfway through a long morning.
+Then his side started aching halfway through a long morning.
 
-I kept the bandages.
+Red kept the bandages.
 
 Sela did not need to know she had won from several days away.
 
-The wound itself was closed. Mostly. My body had already done what it apparently considered routine: pull itself back toward functional without asking whether I enjoyed the process.
+The wound itself was closed. Mostly. his body had already done what it apparently considered routine: pull itself back toward functional without asking whether Red enjoyed the process.
 
-I did not.
+Red did not.
 
-Regeneration was an incredible gift with terrible customer service.
+body restoration was an incredible gift with terrible customer service.
 
-By midday, the road dropped toward a river landing bigger than any transfer point I had seen since leaving Greywake.
+By midday, the road dropped toward a river landing bigger than any transfer point Red had seen since leaving Greywake.
 
 Not Greywake big.
 
@@ -49,13 +49,13 @@ Greywake had been a settlement trying very hard to convince the wilderness that 
 
 Covered wagons crowded the yard. Narrow riverboats knocked softly against timber docks. Workers rolled barrels down ramps while merchants argued beside scales and chalkboards.
 
-I understood none of the writing and maybe one word in twenty of the shouting.
+Red understood none of the writing and maybe one word in twenty of the shouting.
 
-Then I stepped closer to the fare counter.
+Then Red stepped closer to the fare counter.
 
-A familiar pressure settled around my ears.
+A familiar pressure settled around his ears.
 
-I looked up.
+Red looked up.
 
 A brass Wayfarer Tongue Token hung from a post beside the clerk.
 
@@ -63,7 +63,7 @@ Beautiful.
 
 Somewhere in Veyr, someone had realized that language barriers were bad for business.
 
-The clerk looked at me, then at my pack.
+The clerk looked at him, then at his pack.
 
 "Passenger?"
 
@@ -81,11 +81,11 @@ Professional audience. Tough room.
 
 "Good. How much?"
 
-He told me.
+He told him.
 
-I stared at him.
+Red stared at him.
 
-Then I checked the painted fare board over his shoulder in case literacy had arrived while I was distracted.
+Then Red checked the painted fare board over his shoulder in case literacy had arrived while he was distracted.
 
 It had not.
 
@@ -93,7 +93,7 @@ It had not.
 
 "Yes."
 
-I lifted the bag slightly.
+Red lifted the bag slightly.
 
 "And this?"
 
@@ -103,9 +103,9 @@ Of course.
 
 "How much for the bag?"
 
-He gave me another number.
+He gave him another number.
 
-I looked down at it.
+Red looked down at it.
 
 The bag offered no financial assistance.
 
@@ -123,23 +123,23 @@ The bag offered no financial assistance.
 
 He said the last one without hesitation.
 
-I respected the discipline.
+Red respected the discipline.
 
-I paid.
+Red paid.
 
-He slid two stamped pieces across the counter, pointed toward a boarding lane, and immediately looked past me to the next traveler.
+He slid two stamped pieces across the counter, pointed toward a boarding lane, and immediately looked past him to the next traveler.
 
-No questions about my origin.
+No questions about his origin.
 
 No magical slate.
 
-No machine trying to decide whether I existed.
+No machine trying to decide whether Red existed.
 
-Just money leaving my hand.
+Just money leaving his hand.
 
 Almost relaxing.
 
-I stepped away from the counter and counted what remained in my purse.
+Red stepped away from the counter and counted what remained in his purse.
 
 Enough to reach the coast.
 
@@ -147,25 +147,25 @@ Enough to eat.
 
 Not enough to keep wandering indefinitely without work.
 
-Future Me had finally caught up.
+Future him had finally caught up.
 
-The boarding area was organized chaos. Cargo went one direction. Passengers went another. Workers somehow moved through both without colliding, which made them more coordinated than most armies I half-remembered from fiction.
+The boarding area was organized chaos. Cargo went one direction. Passengers went another. Workers somehow moved through both without colliding, which made them more coordinated than most armies Red half-remembered from fiction.
 
-A crewman with red cloth tied around one arm checked my first stamp, pointed me toward a low river vessel, then pointed at my pack.
+A crewman with red cloth tied around one arm checked his first stamp, pointed him toward a low river vessel, then pointed at his pack.
 
-I handed him the second stamp.
+Red handed him the second stamp.
 
 He nodded.
 
-Excellent.
+*Excellent.*
 
-I had successfully purchased legal permission for my belongings to remain near me.
+Red had successfully purchased legal permission for his belongings to remain near him.
 
 The vessel sat low in the water under stacked cargo secured with ropes and timber braces. The passenger area offered a bench and a reasonable chance of keeping both feet dry.
 
-My standards had evolved.
+his standards had evolved.
 
-I stepped onto the boarding ramp just as two workers started guiding a loaded handcart toward the cargo section.
+Red stepped onto the boarding ramp just as two workers started guiding a loaded handcart toward the cargo section.
 
 Compact wooden crates were strapped together beneath canvas.
 
@@ -179,7 +179,7 @@ Suspiciously normal.
 
 A larger vessel passed farther out in the channel.
 
-Its wake reached us a few seconds later.
+Its wake reached them a few seconds later.
 
 The riverboat shifted.
 
@@ -199,29 +199,29 @@ The Wayfarer Token caught one instruction cleanly.
 
 "Hold that line!"
 
-My hand was already moving toward the cart.
+his hand was already moving toward the cart.
 
 Something impossible would have been easy.
 
 Probably.
 
-I had never bothered to find out what "easy" meant at the upper end of anything.
+Red had never bothered to find out what "easy" meant at the upper end of anything.
 
-The crew already had a plan, though, and I wanted to see if it worked.
+The crew already had a plan, though, and Red wanted to see if it worked.
 
-I grabbed the rope instead.
+Red grabbed the rope instead.
 
 Then planted one boot against the raised edge of the ramp.
 
-The line snapped tight across my palm.
+The line snapped tight across his palm.
 
-My shoulder objected immediately.
+his shoulder objected immediately.
 
-So did my ribs.
+So did his ribs.
 
 "Not yet!" the crewman shouted.
 
-I held.
+Red held.
 
 The man at the wheel shoved the wedge underneath it while another worker reset his grip.
 
@@ -233,7 +233,7 @@ Settled.
 
 "Now. Pull!"
 
-I pulled.
+Red pulled.
 
 They shoved.
 
@@ -255,11 +255,11 @@ No impossible object appearing because reality felt cooperative.
 
 Five people had kept a load of cargo out of the river by doing one useful thing at the right time.
 
-My shoulder hurt.
+his shoulder hurt.
 
-I suspected that was not the important lesson.
+Red suspected that was not the important lesson.
 
-The crewman took the rope from me, checked the cart, then looked at my stance.
+The crewman took the rope from him, checked the cart, then looked at his stance.
 
 "Good."
 
@@ -269,13 +269,13 @@ He went back to work.
 
 Nobody applauded.
 
-Nobody asked my name.
+Nobody asked his name.
 
 A worker carrying a barrel jerked his chin toward the passenger area.
 
 "You're blocking the ramp."
 
-I moved.
+Red moved.
 
 Humiliatingly practical.
 
@@ -285,15 +285,15 @@ The river widened as the day went on.
 
 Traffic thickened with it.
 
-Barges moved under stacks of timber and sacks. Narrow craft cut between them carrying passengers, baskets, cages, animals, and once a feathered creature that stared at me with enough hostility to suggest we had history in another life.
+Barges moved under stacks of timber and sacks. Narrow craft cut between them carrying passengers, baskets, cages, animals, and once a feathered creature that stared at him with enough hostility to suggest they had history in another life.
 
-I respected the commitment.
+Red respected the commitment.
 
 Away from the Wayfarer Tokens, conversation became sound again.
 
-I could hear differences now.
+Red could hear differences now.
 
-Some voices carried the harder rhythm I associated with Greywake. Others rose and fell in patterns I had never heard before.
+Some voices carried the harder rhythm Red associated with Greywake. Others rose and fell in patterns he had never heard before.
 
 Clothes changed too.
 
@@ -317,15 +317,15 @@ Timber.
 
 Wax-sealed ceramic jars.
 
-Bundles of rope thicker than my wrist.
+Bundles of rope thicker than his wrist.
 
-Greywake had taught me that roads kept people alive.
+Greywake had taught him that roads kept people alive.
 
 Here, movement itself was an industry.
 
-By the time I left the river vessel for the next road transfer, even the air had started changing.
+By the time Red left the river vessel for the next road transfer, even the air had started changing.
 
-At first I thought rain was coming.
+At first Red thought rain was coming.
 
 The wind carried moisture, but there was something sharper beneath it.
 
@@ -335,15 +335,15 @@ Bitter.
 
 Then a stronger gust crossed the road.
 
-I tasted salt.
+Red tasted salt.
 
-I stopped.
+Red stopped.
 
-The traveler behind me nearly walked into my back and said something I did not understand.
+The traveler behind him nearly walked into his back and said something Red did not understand.
 
 The tone translated itself.
 
-I moved aside.
+Red moved aside.
 
 For a moment, Earth returned without a face attached to it.
 
@@ -359,17 +359,17 @@ No name.
 
 No place.
 
-No person beside me.
+No person beside him.
 
 Just the shape of a memory with everything useful missing from the center.
 
-I stood there longer than I meant to.
+Red stood there longer than he meant to.
 
-A cart wheel rolled through a puddle and splashed muddy water over my boot.
+A cart wheel rolled through a puddle and splashed muddy water over his boot.
 
 Veyr remained committed to emotional balance.
 
-I looked down at the mud.
+Red looked down at the mud.
 
 "Thank you."
 
@@ -381,7 +381,7 @@ Merchant wagons passed in both directions. Porters moved beneath long carrying p
 
 Between them, language dissolved into noise again.
 
-I did not mind.
+Red did not mind.
 
 There was too much else to look at.
 
@@ -391,7 +391,7 @@ Then another.
 
 Then enough that counting became pointless.
 
-I slowed.
+Red slowed.
 
 The land dropped beyond the road.
 
@@ -425,7 +425,7 @@ Merchants argued beneath awnings.
 
 Porters threaded between carts with the confidence of people who already knew which newcomer was about to stand in the wrong place.
 
-I adjusted my coat.
+Red adjusted his coat.
 
 Road dust had reduced its authority.
 
@@ -437,19 +437,19 @@ Chin up.
 
 Walk like the arrival had been planned.
 
-Three porters came straight toward me carrying a long crate.
+Three porters came straight toward him carrying a long crate.
 
 They did not slow.
 
-I stepped aside.
+Red stepped aside.
 
-A cart driver pointed sharply at the lane I had almost entered and shouted something that required no translation.
+A cart driver pointed sharply at the lane Red had almost entered and shouted something that required no translation.
 
-I moved again.
+Red moved again.
 
 The mysterious entrance was performing exceptionally.
 
-Near the outer staging area, another Wayfarer Token hung from a tall post painted with several symbols I could not read.
+Near the outer staging area, another Wayfarer Token hung from a tall post painted with several symbols Red could not read.
 
 A worker beside it directed foot traffic.
 
@@ -459,7 +459,7 @@ A worker beside it directed foot traffic.
 
 "Yes."
 
-I looked past him.
+Red looked past him.
 
 More docks disappeared around the curve of the harbor.
 
@@ -467,11 +467,11 @@ More ships waited farther out.
 
 Beyond the warehouses, towers and elevated walkways broke the skyline. Flags snapped above buildings whose owners were presumably important enough to require flags.
 
-I had no idea who any of them were.
+Red had no idea who any of them were.
 
-Perfect.
+*Perfect.*
 
-The worker stared at me.
+The worker stared at him.
 
 "Are you going?"
 
@@ -481,7 +481,7 @@ The worker stared at me.
 
 Less perfect.
 
-I stepped out of the freight path and checked what remained of my money.
+Red stepped out of the freight path and checked what remained of his money.
 
 A port this large meant work.
 
@@ -495,18 +495,18 @@ Information.
 
 Trouble, statistically.
 
-And I did not have enough money left to develop standards.
+And Red did not have enough money left to develop standards.
 
-I tied the purse shut.
+Red tied the purse shut.
 
-No prophecy had brought me here.
+No prophecy had brought him here.
 
 No divine mission waited at the gate.
 
-Nobody had chosen Merrowgate for me.
+Nobody had chosen Merrowgate for him.
 
 There was salt in the air, money running low, and a city large enough to make both problems interesting.
 
-I started toward the passenger intake lane.
+Red started toward the passenger intake lane.
 
 Merrowgate would do.

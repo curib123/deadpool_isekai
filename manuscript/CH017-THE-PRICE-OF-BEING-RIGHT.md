@@ -9,9 +9,9 @@ Sela saw the stretcher and pointed. "Table." Two assistants moved before the wor
 
 Kellan went onto the wide treatment bed near the back wall. His face had gone pale under dirt and blood. The lower part of one leg was wrapped badly because badly had been all they had time for on the road. Blood had soaked through the splint. His shoulder sat too low on one side. Every breath was shallow.
 
-Red stood beside the bed with dried blood stiff on his shirt. his side was closing. his leg was already better than it had any right to be.
+Red stood beside the bed with dried blood stiff on his shirt. His side was closing. His leg was already better than it had any right to be.
 
-his shoulder hurt. Kellan was not improving nearly fast enough. Sela cut through the field wrap. "Who splinted this?"
+His shoulder hurt. Kellan was not improving nearly fast enough. Sela cut through the field wrap. "Who splinted this?"
 
 "Tavian and militia."
 
@@ -57,7 +57,7 @@ Bleeding slowed. Only slowed. Sela stopped. "Enough."
 
 She began preparing a better splint. Then she looked at him. Her eyes went to his side.
 
-his leg. his shoulder. "Sit."
+His leg. His shoulder. "Sit."
 
 "I'm fine."
 
@@ -87,7 +87,9 @@ Then she stepped away. "That is all you get." Red looked at the crystal rack. "I
 
 She returned to Kellan. "You are already restoring yourself." Across the room, three people worked around him.
 
-his bleeding had stopped. His had not. That was the difference.
+Red's bleeding had stopped. Kellan's had not.
+
+*That was the difference.*
 
 Sela tightened the upper strap on the splint. "Kellan cannot put weight on this leg." His eyes opened. "For how long?"
 
@@ -411,7 +413,7 @@ Enough. Outside, the air felt colder. From the council steps Red could see peopl
 
 A cart rolled toward Sela's treatment house carrying supplies instead of patients. For now. The bridge was gone.
 
-Kellan was in a splint. his wounds were almost gone. That did not make the consequences disappear.
+Kellan was in a splint. His wounds were almost gone. That did not make the consequences disappear.
 
 Hesk had been right about one thing. Someone had to choose. He turned that sentence into ownership.
 

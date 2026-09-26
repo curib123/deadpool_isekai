@@ -17,9 +17,7 @@ They looked at Tavian. Tavian was crouched in the opposite ditch, studying mud w
 
 "You two may have to develop independent judgment."
 
-Neither worker looked at him. Good team. The job was supposed to be simple.
-
-Check three warning markers. Replace two damaged supply boxes used by Road Guild crews. Clear one drainage obstruction. Return to Greywake before the afternoon traffic changed.
+Neither worker looked at him. Good team. The job was supposed to be simple. Check three warning markers. Replace two damaged supply boxes used by Road Guild crews. Clear one drainage obstruction. Return to Greywake before the afternoon traffic changed.
 
 No bridge. No caravan full of civilians. No reason for anybody to say the phrase unusual migration pattern.
 
@@ -51,19 +49,11 @@ Reasonable. A settlement could not shut down every road because the wilderness h
 
 At the second stop, one worker replaced the cracked lid of a supply box while another pulled wet leaves from a drainage cut. Red carried a bundle of treated stakes from the wagon. His undefined class remained powerless against manual labor.
 
-Tavian moved a few paces ahead. Then stopped. Not dramatically.
-
-That was how Red knew it mattered.
+Tavian moved a few paces ahead. Then stopped. Not dramatically. That was how Red knew it mattered.
 
 "What?"
 
-He raised one hand. Nobody spoke. The older worker lowered his shovel.
-
-Tavian pointed toward the brush. For several seconds, there was nothing. Then a rustle.
-
-Another answered farther left. A third came from somewhere deeper. Too far apart.
-
-Tavian's posture changed. No panic. Preparation.
+He raised one hand. Nobody spoke. The older worker lowered his shovel. Tavian pointed toward the brush. For several seconds, there was nothing. Then a rustle. Another answered farther left. A third came from somewhere deeper. Too far apart. Tavian's posture changed. No panic. Preparation.
 
 "Back to the wagon."
 
@@ -73,9 +63,7 @@ One worker frowned.
 
 "Multiple."
 
-That was enough for the workers. They moved. Red stepped away from the wagon.
-
-Tavian looked at him.
+That was enough for the workers. They moved. Red stepped away from the wagon. Tavian looked at him.
 
 "Jackal."
 
@@ -93,9 +81,7 @@ Tavian looked at him.
 
 Fair. The first predator broke through the brush before Red could improve his argument. Low body. Heavy chest. Long forelimbs. Grey-brown hide dark with old mud. A scar split the fur along its muzzle, and its jaw looked designed around the idea that letting go was optional.
 
-Larger than yesterday's animals. A second shape moved behind it. Then a third.
-
-Pack. One of the workers swore. Tavian pulled his polearm free.
+Larger than yesterday's animals. A second shape moved behind it. Then a third. Pack. One of the workers swore. Tavian pulled his polearm free.
 
 "Wagon behind you. Stay together."
 
@@ -105,13 +91,9 @@ Tavian shifted left.
 
 "Keep the center open."
 
-Red saw the geometry. Wagon on one side. Drainage ditch on the other.
+Red saw the geometry. Wagon on one side. Drainage ditch on the other. Workers retreat through the middle. Tavian and Red discourage anything that tries to close that lane. Simple.
 
-Workers retreat through the middle. Tavian and Red discourage anything that tries to close that lane. Simple.
-
-Good plan. The lead predator started forward. Red stepped into its path.
-
-Tavian's voice sharpened.
+Good plan. The lead predator started forward. Red stepped into its path. Tavian's voice sharpened.
 
 "Don't overcommit."
 
@@ -121,43 +103,27 @@ Tavian's voice sharpened.
 
 Red understood him. He also understood something else. The animal was looking at him now.
 
-Good. Red knew what it wanted. He knew what would happen if it committed.
+Good. Red knew what it wanted. He knew what would happen if it committed. And Red knew something Tavian did not. Getting hit was not the same kind of problem for him that it was for everyone else. The obvious answer was to make something impossible.
 
-And Red knew something Tavian did not. Getting hit was not the same kind of problem for him that it was for everyone else. The obvious answer was to make something impossible.
-
-Wall. Spear. Cage.
-
-A giant red sign reading BAD DOG. Red did none of those. He wanted the animal to choose him.
+Wall. Spear. Cage. A giant red sign reading BAD DOG. Red did none of those. He wanted the animal to choose him.
 
 There are moments when curiosity and ego wear the same coat. Red stepped forward. Tavian swore.
 
-The predator committed. Fast. Too fast for an ordinary person to reconsider.
-
-Red turned enough to keep the jaws away from his throat. That was the good news. The rest of him received the bad news.
+The predator committed. Fast. Too fast for an ordinary person to reconsider. Red turned enough to keep the jaws away from his throat. That was the good news. The rest of him received the bad news.
 
 Impact lifted one foot from the road. Something tore into his side below the ribs. Teeth.
 
-Claws. Maybe both. The world went white.
-
-No joke. No clever narration. Pain erased the need to be interesting.
-
-Red hit the road hard with the animal on him. His forearm jammed against its throat. Warm blood spread under his coat.
+Claws. Maybe both. The world went white. No joke. No clever narration. Pain erased the need to be interesting. Red hit the road hard with the animal on him. His forearm jammed against its throat. Warm blood spread under his coat.
 
 *Mine.*
 
-Then Red pushed. He did not need leverage.
-
-That was becoming increasingly obvious. The predator left him hard enough to scrape across the road and slam shoulder-first into the wagon wheel. The frame jumped.
+Then Red pushed. He did not need leverage. That was becoming increasingly obvious. The predator left him hard enough to scrape across the road and slam shoulder-first into the wagon wheel. The frame jumped.
 
 The animal stared at him. Red stared back. For one stupid second, he enjoyed the expression.
 
-Red could have ended it. All of it. The pack.
+Red could have ended it. All of it. The pack. The road. The argument. Red could feel that certainty sitting behind the pain like a loaded joke he had not told yet.
 
-The road. The argument. Red could feel that certainty sitting behind the pain like a loaded joke he had not told yet.
-
-Then someone screamed behind him. The center lane. Red had left it.
-
-Tavian had shifted toward the lead animal because Red had gone forward. That opened the wagon side. The second predator had used the space.
+Then someone screamed behind him. The center lane. Red had left it. Tavian had shifted toward the lead animal because Red had gone forward. That opened the wagon side. The second predator had used the space.
 
 One of the workers was down beside the rear wheel. The animal had his lower leg in its jaws. Clear enough.
 
@@ -165,9 +131,7 @@ Not a mystery. Not bad luck. Geometry.
 
 *Mine.*
 
-Tavian changed direction instantly. Not toward him.
-
-Toward the worker. Red understood why before the thought finished.
+Tavian changed direction instantly. Not toward him. Toward the worker. Red understood why before the thought finished.
 
 "Tavian—"
 
@@ -175,15 +139,9 @@ Toward the worker. Red understood why before the thought finished.
 
 He drove the butt of his polearm into the predator's shoulder. The jaw released. The worker dragged himself backward.
 
-The third predator came out of the brush. The encounter widened. Too many angles.
+The third predator came out of the brush. The encounter widened. Too many angles. The lead animal lunged at him again. Red stopped playing with it. He caught it high along the neck and shoulder and threw the charge sideways.
 
-The lead animal lunged at him again. Red stopped playing with it. He caught it high along the neck and shoulder and threw the charge sideways.
-
-Not redirected. Threw. Its body hit the road, rolled once, and skidded several paces.
-
-The workers saw it. Tavian saw it. Nobody had time to ask.
-
-His side felt like somebody had opened it with farm equipment. The pain remained vicious. Under it, something else had already started.
+Not redirected. Threw. Its body hit the road, rolled once, and skidded several paces. The workers saw it. Tavian saw it. Nobody had time to ask. His side felt like somebody had opened it with farm equipment. The pain remained vicious. Under it, something else had already started.
 
 The wound did not feel like it was healing. Healing sounded gentle. This felt like his body refusing an edit.
 
@@ -197,17 +155,13 @@ Red had no time to care. The worker on the ground was still bleeding. That was t
 
 Another worker had the injured man under the arms. The third held a long-handled shovel like a spear. The lead predator feinted toward him.
 
-Red almost followed. Almost. Then he saw the open side again.
-
-Red moved backward instead. Stayed on the line. Tavian noticed.
+Red almost followed. Almost. Then he saw the open side again. Red moved backward instead. Stayed on the line. Tavian noticed.
 
 "Keep moving."
 
 Red hated being praised for doing what he should have done thirty seconds earlier. The injured worker tried to stand. His leg folded.
 
-He cried out. Blood soaked the cloth below his knee. Not his blood.
-
-That mattered.
+He cried out. Blood soaked the cloth below his knee. Not his blood. That mattered.
 
 "We leave," Tavian said.
 
@@ -245,31 +199,21 @@ He nodded toward the worker. That landed harder than Red wanted it to. He looked
 
 The worker had his jaw locked against the pain while two men lifted him. Red had stepped forward because danger to him felt negotiable. He had paid for the space he abandoned.
 
-Important distinction. Not transformative. Red was still him.
-
-But useful information deserved to survive.
+Important distinction. Not transformative. Red was still him. But useful information deserved to survive.
 
 "I notice him," Red said.
 
-The lead predator moved. They backed toward the narrowing. The pack followed slowly.
+The lead predator moved. They backed toward the narrowing. The pack followed slowly. Testing. At the stone pinch point, Red turned. He pictured exactly what the retreat needed.
 
-Testing. At the stone pinch point, Red turned. He pictured exactly what the retreat needed.
-
-Not a weapon. Not a victory. A barricade across this lane.
-
-High enough to make the pack stop. Narrow enough not to destroy the drainage cut. Solid long enough for the injured worker to get away.
+Not a weapon. Not a victory. A barricade across this lane. High enough to make the pack stop. Narrow enough not to destroy the drainage cut. Solid long enough for the injured worker to get away.
 
 The air in front of him changed. Dark material folded into existence across the road. Crooked.
 
 Thick. Ugly enough to be his. It braced between stone and ditch like the world had decided architecture was optional as long as the instruction was clear.
 
-The lead predator hit it. The barricade did not move. The animal recoiled.
+The lead predator hit it. The barricade did not move. The animal recoiled. A second paced along the edge, looking for a way around. Red could have made more. Higher walls.
 
-A second paced along the edge, looking for a way around. Red could have made more. Higher walls.
-
-Spikes. A ceiling. A giant hand flicking the pack back into the forest.
-
-Red did not need any of that. The objective was leaving.
+Spikes. A ceiling. A giant hand flicking the pack back into the forest. Red did not need any of that. The objective was leaving.
 
 "Go," Red said.
 
@@ -305,9 +249,7 @@ Red stayed rear-right. The pack followed after the barrier vanished, but with mo
 
 "Past that marker," Tavian said. "Open ground."
 
-The predators slowed at the clearing. One came farther. Tavian turned on it.
-
-Red started forward. He saw him.
+The predators slowed at the clearing. One came farther. Tavian turned on it. Red started forward. He saw him.
 
 "Don't."
 
@@ -323,13 +265,7 @@ He was questioning why they were still spending time on it. Tavian held the pole
 
 "Because we're leaving."
 
-Right. The predator paced at the edge of the cleared ground. Too many people.
-
-Too much open space. No easy target. It backed away.
-
-The others followed. Nobody chased them. For several seconds, all Red heard was breathing.
-
-His sounded bad. The worker's sounded worse. Tavian turned.
+Right. The predator paced at the edge of the cleared ground. Too many people. Too much open space. No easy target. It backed away. The others followed. Nobody chased them. For several seconds, all Red heard was breathing. His sounded bad. The worker's sounded worse. Tavian turned.
 
 "Him first."
 
@@ -367,15 +303,11 @@ The service wagon—and its Wayfarer Token—was still back on the connector, bu
 
 "Yes."
 
-The driver looked toward the connector. Tavian gave him nothing else. No theory.
-
-No accusation. Only what he knew. The injured worker groaned beside him.
+The driver looked toward the connector. Tavian gave him nothing else. No theory. No accusation. Only what he knew. The injured worker groaned beside him.
 
 Red looked down at his coat. Dark with blood. The tear beneath it had been deep enough that he remembered seeing pale structure between the blood and muscle before deciding he did not need that memory.
 
-Now the wound was smaller. Much smaller. The edges had pulled together unevenly.
-
-Bleeding had slowed to a wet line. Tavian caught him checking. His eyes narrowed.
+Now the wound was smaller. Much smaller. The edges had pulled together unevenly. Bleeding had slowed to a wet line. Tavian caught him checking. His eyes narrowed.
 
 "What?"
 
@@ -387,15 +319,11 @@ Bleeding had slowed to a wet line. Tavian caught him checking. His eyes narrowed
 
 Red had not. The worker beside him made a sound through clenched teeth. The joke he had been building died before it reached his mouth.
 
-Good. The ride back to Greywake was rough. Every rut pulled at his ribs.
-
-The repair process continued. Not slower because Red was tired. Not waiting for mana.
+Good. The ride back to Greywake was rough. Every rut pulled at his ribs. The repair process continued. Not slower because Red was tired. Not waiting for mana.
 
 Not asking whether Red had enough of anything left. It simply continued because his body had apparently rejected the proposal that he remain torn open. The sensations changed as it worked.
 
-Sharp tearing. Deep heat. Pressure.
-
-Bone pain. Then the unpleasant feeling of structures moving where structures should not normally move while a person was conscious. Red stayed conscious anyway.
+Sharp tearing. Deep heat. Pressure. Bone pain. Then the unpleasant feeling of structures moving where structures should not normally move while a person was conscious. Red stayed conscious anyway.
 
 That did not make it pleasant. The treatment house stood near the inner road, close enough to the gate that injured travelers did not need a tour of Greywake before receiving help. The patrol cart rolled into the yard with blood on the floorboards.
 
@@ -407,9 +335,7 @@ The injured worker raised a shaking hand. She pointed inside.
 
 "Him first. Leg elevated. Cut the trouser fabric. Don't pull it."
 
-People moved. No introduction. No curiosity about him.
-
-Excellent priorities. She was already pressing clean cloth around the worker's leg before Tavian said her name.
+People moved. No introduction. No curiosity about him. Excellent priorities. She was already pressing clean cloth around the worker's leg before Tavian said her name.
 
 "Sela."
 
@@ -427,9 +353,7 @@ One crystal was already dim. Sela cleaned the worker's wound while an assistant 
 
 The worker did not look tempted. Sela held two fingers above the torn tissue. A thin blue-white pattern formed between them and the wound.
 
-Structured. Deliberate. The tissue tightened beneath it.
-
-Bleeding slowed. After several seconds, Sela stopped. The crystal on the rack dimmed further.
+Structured. Deliberate. The tissue tightened beneath it. Bleeding slowed. After several seconds, Sela stopped. The crystal on the rack dimmed further.
 
 "That's enough."
 
@@ -451,17 +375,13 @@ The assistant moved. Only then did Sela look at him. Her eyes went to the blood 
 
 "Is stable enough for me to look away for two minutes. Table."
 
-Red sat. Arguing seemed inefficient. Tavian remained near the wall.
-
-Sela cut the side seam of his coat before Red could object.
+Red sat. Arguing seemed inefficient. Tavian remained near the wall. Sela cut the side seam of his coat before Red could object.
 
 "I liked that coat."
 
 "You are welcome to bleed on a different one next time."
 
-Fair. She pulled the fabric aside. Then stopped.
-
-Completely.
+Fair. She pulled the fabric aside. Then stopped. Completely.
 
 "How long ago?"
 
@@ -527,9 +447,7 @@ A deep contraction pulled through his side. Red sucked in air. The spell's light
 
 One line split around tissue that had not been in that position when Sela started. Her expression changed. She moved her hand.
 
-The pattern tried to follow. His body corrected again. Sela stopped immediately.
-
-The light vanished.
+The pattern tried to follow. His body corrected again. Sela stopped immediately. The light vanished.
 
 "That felt terrible."
 
@@ -629,11 +547,7 @@ She looked at Tavian.
 
 "What did the original injury look like?"
 
-He described it clinically. Deep tearing below the ribs. Heavy bleeding.
-
-Trouble standing. Enough trauma that he expected him to collapse during extraction. Sela listened.
-
-Then looked at his side. The world paused. The assistant froze with a folded bandage in both hands.
+He described it clinically. Deep tearing below the ribs. Heavy bleeding. Trouble standing. Enough trauma that he expected him to collapse during extraction. Sela listened. Then looked at his side. The world paused. The assistant froze with a folded bandage in both hands.
 
 Steam stopped above a bowl of boiled water. Sela's fingers hovered above the edge of his wound. Red looked toward the unseen audience.
 
@@ -647,9 +561,7 @@ Time resumed. The steam moved again. Sela spoke.
 
 "You should be dead."
 
-Not mystical. Not ceremonial.
-
-Medical opinion. Red leaned back on one hand.
+Not mystical. Not ceremonial. Medical opinion. Red leaned back on one hand.
 
 "I'm getting that impression."
 
@@ -681,21 +593,11 @@ That sounded personal. Sela pointed at the table.
 
 "Congratulations. Lie down."
 
-Red did. The ceiling was plain wood. For a while, nobody talked to him.
+Red did. The ceiling was plain wood. For a while, nobody talked to him. Good. Sela worked. She checked the road worker's circulation again. Adjusted the wrap. Sent the assistant to boil more cloth. Wrote something on a treatment sheet Red could not read.
 
-Good. Sela worked. She checked the road worker's circulation again.
+Checked the remaining healing crystal. The room ran on finite local supplies. Bandages. Medicine. Healing mana. Hands. Time. His body restoration did not make any of those infinite for everyone else. By late afternoon, the worker was stable.
 
-Adjusted the wrap. Sent the assistant to boil more cloth. Wrote something on a treatment sheet Red could not read.
-
-Checked the remaining healing crystal. The room ran on finite local supplies. Bandages.
-
-Medicine. Healing mana. Hands.
-
-Time. His body restoration did not make any of those infinite for everyone else. By late afternoon, the worker was stable.
-
-Not fine. Stable. His leg was wrapped and splinted.
-
-He had stopped shaking. Sela finally sat on a stool beside his table. Tavian remained near the wall.
+Not fine. Stable. His leg was wrapped and splinted. He had stopped shaking. Sela finally sat on a stool beside his table. Tavian remained near the wall.
 
 Red had hoped he would become busy somewhere else. Apparently not. Sela looked at him.
 
@@ -731,11 +633,7 @@ Red looked at her. She nodded toward the sleeping worker.
 
 "Why did you think you could afford that?"
 
-Ah. Different question. Red looked down at his side.
-
-The wound was almost closed now. Still raw. Still aching.
-
-Still real. But it was not going to kill him. That had been true before Red stepped forward.
+Ah. Different question. Red looked down at his side. The wound was almost closed now. Still raw. Still aching. Still real. But it was not going to kill him. That had been true before Red stepped forward.
 
 At least some part of him had known it.
 
@@ -763,9 +661,7 @@ Red looked toward the worker. No. Tavian pushed away from the wall.
 
 "I know."
 
-His voice stayed level. No speech. No accusation beyond the facts.
-
-That made the facts harder to dodge. Sela folded her arms.
+His voice stayed level. No speech. No accusation beyond the facts. That made the facts harder to dodge. Sela folded her arms.
 
 "You keep describing this as damage."
 
@@ -805,9 +701,7 @@ Tavian looked at him.
 
 "Less good."
 
-His side pulsed. The body kept correcting. No dramatic turning point.
-
-Nothing about his capacity changed. Just the same refusal to stay broken. Red looked at the sleeping worker again.
+His side pulsed. The body kept correcting. No dramatic turning point. Nothing about his capacity changed. Just the same refusal to stay broken. Red looked at the sleeping worker again.
 
 The geometry from the road replayed easily. Red had wanted the lead predator. He had stepped forward.
 
@@ -827,19 +721,11 @@ Sela stood.
 
 "Then consider this a poor financial decision."
 
-Tiny. Dry.
-
-Allowed. Red looked at the ceiling. He had survived the hit.
-
-That remained true. The worker had survived too. Also true.
-
-Neither fact made his positioning good. Sela adjusted the cloth over his side.
+Tiny. Dry. Allowed. Red looked at the ceiling. He had survived the hit. That remained true. The worker had survived too. Also true. Neither fact made his positioning good. Sela adjusted the cloth over his side.
 
 "Surviving damage and making a safe decision are not the same thing."
 
-Red looked toward Tavian. He did not look triumphant. That helped.
-
-Then Red looked back at the ceiling. He was still Red Jackal. Still curious.
+Red looked toward Tavian. He did not look triumphant. That helped. Then Red looked back at the ceiling. He was still Red Jackal. Still curious.
 
 Tomorrow Red would probably do something equally stupid for a better reason. Now he knew one extra rule: people who could not regenerate changed the board whether he cared about the rule or not.
 

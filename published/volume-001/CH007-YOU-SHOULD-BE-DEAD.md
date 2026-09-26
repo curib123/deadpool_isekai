@@ -590,7 +590,7 @@ That sounded personal. Sela pointed at the table.
 
 Red did. The ceiling was plain wood. For a while, nobody talked to him. Good. Sela worked. She checked the road worker's circulation again. Adjusted the wrap. Sent the assistant to boil more cloth. Wrote something on a treatment sheet Red could not read.
 
-Checked the remaining healing crystal. The room ran on finite local supplies. Bandages. Medicine. Healing mana. Hands. Time. His body restoration did not make any of those infinite for everyone else. By late afternoon, the worker was stable.
+Checked the remaining healing crystal. The room ran on finite local supplies. Bandages. Medicine. Healing mana. Hands. Time. Whatever impossible logic kept repairing Red did not make any of those infinite for everyone else. By late afternoon, the worker was stable.
 
 Not fine. Stable. His leg was wrapped and splinted. He had stopped shaking. Sela finally sat on a stool beside his table. Tavian remained near the wall.
 

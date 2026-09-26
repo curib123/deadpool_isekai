@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 3021
+**Word Count:** 3,012
 **Chapter QA:** `qa/CH-005-GATE-9-CHAPTER-QA.md`
 
 The sky over Greywake was still grey when I reached the Road Guild yard. A wagon waited near the gate with fresh timber stacked along one side. Workers hauled iron clamps into crates. Two guards checked spearheads under the awning. Somewhere behind the wagon, two men were already arguing about rope with the intensity of people discussing national policy.
@@ -315,9 +315,11 @@ One worker leaned away from the head.
 
 "Can you actually use it?"
 
-I adjusted my grip. The weight dragged at my shoulders. The thing was physically real enough to demand actual leverage.
+I adjusted my grip. The weight dragged at my shoulders.
 
-That was important. Creating an absurd hammer did not magically teach my joints to enjoy swinging one.
+Apparently reality was willing to provide the ridiculous hammer and leave leverage as my personal problem.
+
+Cheap service.
 
 "Yes."
 

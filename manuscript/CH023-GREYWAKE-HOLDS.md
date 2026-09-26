@@ -48,7 +48,7 @@ One against the heavy shoulder ridge. The charge drove his boots backward throug
 
 Completely. The predator pushed. It got nowhere.
 
-For one strange second, the militia line forgot to breathe. The animal's claws tore grooves through packed earth. His did not.
+For one strange second, the militia line forgot to breathe. The animal's claws tore grooves through packed earth. Red's boots did not.
 
 Red looked at it. "No." Then he turned its head.
 

@@ -36,7 +36,7 @@ I looked at her. "Deeply disappointing."
 
 Kellan stepped closer to the table. "Whatever happens next, the outer homesteads are in the room this time." One representative nodded.
 
-Another did not. Brynn looked at Hesk. "No lure is altered without shared authorization."
+Another did not. Brynn looked at Hesk. "No lure moves without shared authorization. Militia watches the sites."
 
 Hesk's gaze sharpened. "Then the Guild retains operational control until another structure exists."
 

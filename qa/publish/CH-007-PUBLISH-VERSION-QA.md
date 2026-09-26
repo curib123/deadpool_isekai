@@ -1,11 +1,11 @@
 # CH-007 Publish Version QA
 
 **Canon Source:** `manuscript/CH007-YOU-SHOULD-BE-DEAD.md`  
-**Canon Source SHA:** `3aa27a71c3909503340b7ad3648caeb498925cb5`  
+**Canon Source SHA:** `77b460c6a938c4ca70a88d55e9c5e5b03e6b3ab5`  
 **Publication Copy:** `published/volume-001/CH007-YOU-SHOULD-BE-DEAD.md`  
-**Publication Copy SHA:** `a91c285d94d1a2f98932511ac220c63db58c462d`  
+**Publication Copy SHA:** `548fb11f368c29d59c920fc29f3bd7f0a6b58151`  
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-20  
+**Review Date:** 2026-09-26
 **Status:** PUBLISH-READY — GATE 11 PASS
 
 # Source Integrity

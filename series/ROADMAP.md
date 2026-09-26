@@ -98,7 +98,7 @@ The project publication state is now:
 1. **Volume 1 / Greywake Arc — CURRENT CANON THROUGH CH-026 / GATE 9 AND GATE 11 PASS**
 2. **Volume 1 Gate 10/Gate 11 — CURRENT REFRESHED RELEASE RECORD AFTER SOUL-DRIFT RETCON**
 
-The 13 changed reader-facing copies have been regenerated from current canon and individually revalidated. The aggregate refreshed release set now passes Gate 11. Volume 2 is locked as DEST-002 — Merrowgate / Merrowgate Arc through Gate 7. CH-027 through CH-050 are roadmap-locked. CH-027 has passed Gate 9 and is CURRENT CANON at 1,869 words. CH-028 Detailed Scene Architecture / Gate 8 is the next authorized production step.
+The 13 changed reader-facing copies have been regenerated from current canon and individually revalidated. The aggregate refreshed release set now passes Gate 11. Volume 2 is locked as DEST-002 — Merrowgate / Merrowgate Arc through Gate 7. CH-027 through CH-050 are roadmap-locked. CH-027 has passed Gate 9 and is CURRENT CANON at 1,843 words. CH-028 Detailed Scene Architecture / Gate 8 is the next authorized production step.
 
 ## Destination Naming Law
 

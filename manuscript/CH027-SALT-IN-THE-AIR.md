@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-26
-**Word Count:** 1869
+**Word Count:** 1843
 **Volume:** 2 — Merrowgate Arc
 
 Freedom, I discovered, had expenses.

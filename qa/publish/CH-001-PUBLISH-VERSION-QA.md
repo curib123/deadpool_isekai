@@ -1,11 +1,11 @@
 # CH-001 Publish Version QA
 
 **Canon Source:** `manuscript/CH001-WRONG-FOREST-WRONG-WORLD.md`  
-**Canon Source SHA:** `7871883110ea21f17cd5b6a266718ebbb417d5c3`  
+**Canon Source SHA:** `75572570f14e1b69d8896f4a8ae9c683976662f9`  
 **Publication Copy:** `published/volume-001/CH001-WRONG-FOREST-WRONG-WORLD.md`  
-**Publication Copy SHA:** `eefc38aeb32b8d429ab84619a27ff2d66fdc1d84`  
+**Publication Copy SHA:** `6f76046c9d4d0069b0a4dfbbad4551ac389ea1e5`  
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-20  
+**Review Date:** 2026-09-26
 **Status:** PUBLISH-READY — GATE 11 PASS
 
 # Source Integrity
@@ -37,3 +37,13 @@ Publication copy equals the current canon chapter body after removal of manuscri
 **CH-001 is PUBLISH-READY — GATE 11 PASS.**
 
 Canon manuscript remains authoritative.
+
+
+# Distant Narration Publish Revalidation
+
+**Result:** PASS — 2026-09-26
+
+- current distant-third-person canon source vs publication prose: **EXACT MATCH**
+- title/body/order equivalence: **PASS**
+- Fourth-Wall direct-address exception preserved: **PASS**
+- no publication-only semantic edits: **PASS**

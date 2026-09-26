@@ -146,15 +146,52 @@ There is no known intrinsic raw-power ceiling.
 
 Small early effects are restraint, ignorance, performance, comedy, or incomplete revelation—not a weak stage.
 
-## 2.8 Why Regeneration Exists
+## 2.8 Why Red's Body Restores Itself
 
-Red's body repeatedly reasserts the persistent Soul-Drift identity pattern that defines him as a continuing embodied person.
+Red does not possess a separate regeneration power.
 
-Ordinary physical destruction cannot reliably make the body accept “dead” as its stable final state.
+His body restoration is **Play Logic acting automatically on Red's own persistent self-concept**.
 
-This produces extreme self-restoration.
+When injury tries to establish a physical state that Red's foreign identity does not accept as final, Play Logic negotiates reality back toward the version of Red that his self-model recognizes.
 
-It does not automatically restore other people or undo consequences.
+This can produce:
+- impossible wound closure;
+- tissue restoration;
+- reattachment/reconstitution;
+- survival of ordinarily lethal damage.
+
+The restoration does not rewind:
+- other people;
+- destroyed property;
+- evidence;
+- time;
+- trust;
+- political consequences.
+
+## 2.8A Why Jackal Luck Exists
+
+Jackal Luck is a passive probability distortion created by Red's external causal status interacting with Veyr without a native Fate history.
+
+It does not replace Fate.
+
+It does not let Red issue probability commands.
+
+Instead, nearby possible outcomes become slightly biased toward:
+- Red surviving;
+- Red's improvised choice becoming unexpectedly useful;
+- coincidences arriving at theatrically perfect moments;
+- ordinary errors producing extraordinary advantage;
+- circumstances reinforcing the appearance that Red planned more than he did.
+
+The effect is unreliable in exact form.
+
+It may help Red while worsening the larger situation.
+
+This distinction matters:
+
+**Play Logic makes impossible things happen.**
+
+**Jackal Luck makes possible things happen suspiciously well.**
 
 ## 2.9 Why the Fourth Wall Stops Time
 
@@ -356,23 +393,25 @@ Possible endgame questions concern:
 
 ---
 
-## M-005 — Why Can He Regenerate?
+## M-005 — Why Does Damage Refuse to Stay on Red?
 
-**Writer Truth:** His body reasserts the persistent Soul-Drift identity pattern instead of accepting ordinary lethal damage as final.
+**Writer Truth:** There is no separate regeneration ability. Red's body restoration is automatic Play Logic applied to his own persistent self-concept.
 
 **Reader Baseline:** He heals from impossible injuries.
 
-**Red Jackal Baseline:** He knows dying has become unreliable.
+**Red Jackal Baseline:** He knows dying has become unreliable and treats the recovery as one more impossible thing his existence does.
 
 **False Beliefs:**
 - healing skill;
+- regeneration skill;
 - vampire trait;
 - demon body;
-- hidden HP exploit.
+- hidden HP exploit;
+- second secret power.
 
 **Reveal Window:** RW-1 to RW-3.
 
-**Payoff:** Regeneration and Play Logic share a root without becoming the same ability.
+**Payoff:** What looked like a second power is revealed as Play Logic refusing to let ordinary physical damage define Red permanently.
 
 **Status:** ACTIVE WRITER TRUTH.
 
@@ -403,23 +442,27 @@ Possible endgame questions concern:
 
 ---
 
-## M-007 — How Does Fate Treat Him?
+## M-007 — Why Is Red So Absurdly Lucky, and How Does Fate Treat Him?
 
-**Writer Truth:** Red has no native backward destiny track. Fate can only reroute around the causal wake created after his arrival.
+**Writer Truth:** Red has no native backward destiny track. His external causal presence passively distorts nearby probability as **Jackal Luck**, while Veyr's native Fate can only reroute around the causal wake created after his arrival.
 
-**Reader Baseline:** Expected outcomes become unreliable around him.
+Jackal Luck and Fate are not the same mechanism.
 
-**Red Jackal Baseline:** He calls it plot interference because that is funnier.
+**Reader Baseline:** Expected outcomes and coincidences become suspiciously favorable or theatrically timed around Red.
+
+**Red Jackal Baseline:** He notices that ridiculous timing follows him and usually calls it plot interference, good taste, or excellent planning after the fact.
 
 **False Beliefs:**
+- Red consciously controls destiny;
 - complete Fate immunity;
 - automatic victory over prophecy;
-- Red controls destiny;
-- anyone near him becomes fate-free.
+- divine blessing;
+- perfect foresight;
+- anyone near him becomes lucky or fate-free.
 
-**Reveal Window:** RW-2 to RW-4.
+**Reveal Window:** RW-1 behavior / RW-2 to RW-4 explanation.
 
-**Payoff:** Explains why native storylines bend rather than simply vanish when Red interferes.
+**Payoff:** Explains both Red's improbable coincidence streak and why native storylines bend rather than simply vanish around him.
 
 **Status:** ACTIVE WRITER TRUTH.
 
@@ -851,12 +894,12 @@ Each entry below records its current foreshadowing state. New F-IDs begin as **P
 **Eligible window:** RW-2 onward.  
 **Status:** PLANNED — NOT YET PLANTED.
 
-## F-018 — Self-Model Damage Disrupts Both Regeneration and Play Logic
+## F-018 — Self-Model Damage Disrupts Play Logic Body Restoration
 
 **Related:** M-004, M-005  
-**Planned setup:** memory, identity, conceptual, or perception attacks impair both powers more than ordinary physical injury does.  
+**Planned setup:** memory, identity, conceptual, or perception attacks interfere with Play Logic's ability to restore Red's body more effectively than ordinary physical injury does.  
 **First interpretation:** generic weakness to mental attacks.  
-**Hidden meaning:** both abilities depend on foreign self-model persistence.  
+**Hidden meaning:** body restoration is not a second power; it depends on the same foreign self-model that drives Play Logic.  
 **Eligible window:** RW-3 / RW-4.  
 **Status:** PLANNED — NOT YET PLANTED.
 
@@ -886,9 +929,9 @@ Each entry below records its current foreshadowing state. New F-IDs begin as **P
 | M-002 UNDEFINED | Absence is structural, not hidden superiority |
 | M-003 Reincarnation | He arrived through natural far Soul Drift, explaining memory loss and missing native history |
 | M-004 Play Logic | Missing native schema lets his imagination negotiate reality without a progression ladder |
-| M-005 Regeneration | His body reasserts the persistent Soul-Drift identity pattern rather than ordinary mortality |
+| M-005 Body Restoration | Apparent regeneration is automatic Play Logic restoring Red toward his persistent self-concept |
 | M-006 Fourth-Wall Pause | Genuine audience address reveals his incomplete causal anchoring by freezing local Veyran time |
-| M-007 Fate | He is free of a native past-thread, not free of consequences |
+| M-007 Jackal Luck / Fate | Passive probability distortion makes coincidence favor Red while native Fate still reroutes surviving world objectives around him |
 | M-008 Great Design | Coherence is not the same as tyranny, but can become oppressive under pressure |
 | M-009 Ancient History | Modern anomalies share one buried pre-System source |
 | M-010 Savael | The supposed liberator repeats the sin of assigning others a role |
@@ -897,7 +940,7 @@ Each entry below records its current foreshadowing state. New F-IDs begin as **P
 
 # 10. Mystery Foundation QA Summary
 
-**Writer truth:** PASS — arrival, registry failure, Play Logic, regeneration, reincarnation, Fate, fourth wall, Great Design, ancient history, hidden architect, and endgame structural choice are defined.
+**Writer truth:** PASS — arrival, registry failure, Play Logic, Play Logic body restoration, Jackal Luck, reincarnation, Fate, fourth wall, Great Design, ancient history, hidden architect, and endgame structural choice are defined.
 
 **System compatibility:** PASS — System remains descriptive/regulatory and bounded.
 

@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 REVALIDATED / GATE 12 RETENTION REVISION
 **Revision Date:** 2026-09-25
-**Word Count:** 1608
+**Word Count:** 1,628
 
 By early afternoon, the wooden entrant token inside my coat had become the most official thing I owned.
 
@@ -440,9 +440,13 @@ Interesting.
 
 "Legal?"
 
-Jessa hesitated for half a second.
+Jessa hesitated for half a second. Her fingers tightened around the route packets.
 
 "Work that can be arranged privately."
+
+She had very carefully not called it legal.
+
+I respected professional survival instincts.
 
 Not the same answer.
 

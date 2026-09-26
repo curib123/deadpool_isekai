@@ -90,7 +90,7 @@ Jessa looked up. "What happens to my Guild position?" Maelis did not soften it. 
 
 "I do not know."
 
-"My family uses that pay."
+"My siblings eat because of that pay."
 
 "I know."
 

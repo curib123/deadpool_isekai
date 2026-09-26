@@ -1,11 +1,11 @@
 # CH-026 Publish Version QA
 
 **Canon Source:** `manuscript/CH026-BEFORE-THEY-DECIDE-WHAT-I-AM.md`  
-**Canon Source SHA:** `c6fc9a7d388adfbbb771036314d212f39480967f`
+**Canon Source SHA:** `5a6ea25d61cad1c7ce87aabe1ed63acbe791e546`
 **Publication Copy:** `published/volume-001/CH026-BEFORE-THEY-DECIDE-WHAT-I-AM.md`  
-**Publication Copy SHA:** `dc0562d23e0ea4fec2595070aecbf17fd20926d2`
+**Publication Copy SHA:** `5d712e862e6068da24d607915bcaddac9054ab26`
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-20
+**Review Date:** 2026-09-26
 **Status:** PUBLISH-READY — GATE 11 PASS
 
 # Source Integrity
@@ -40,3 +40,15 @@ MINOR: None.
 **CH-026 is PUBLISH-READY — GATE 11 PASS.**
 
 Canon manuscript remains authoritative.
+
+
+# Final Personality Sync Publish Revalidation
+
+**Result:** PASS — 2026-09-26
+
+The reader-facing copy was synchronized after the final Red Jackal personality-motive revision.
+
+- current canon source vs publication prose: **EXACT MATCH**
+- title/body/order equivalence: **PASS**
+- no publication-only semantic edits: **PASS**
+- final personality lock preserved: **PASS**

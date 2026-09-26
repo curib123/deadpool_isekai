@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 2,379
+**Word Count:** 2,383
 **Chapter QA:** `qa/CH-017-GATE-9-CHAPTER-QA.md`
 
 Sela saw the stretcher and pointed. "Table." Two assistants moved before the word finished.
@@ -147,7 +147,7 @@ He shifted and stopped when pain moved through him. "I wanted that thing gone be
 
 "I still do."
 
-Sela looked over. "Kellan."
+Sela looked over. "Kellan. Breathing first, argument second."
 
 "I am talking."
 

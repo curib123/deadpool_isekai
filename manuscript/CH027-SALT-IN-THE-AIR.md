@@ -39,7 +39,7 @@ The wound itself was closed. Mostly. His body had already done what it apparentl
 
 Red did not.
 
-body restoration was an incredible gift with terrible customer service.
+His body's habit of editing damage out of existence was an incredible gift with terrible customer service.
 
 By midday, the road dropped toward a river landing bigger than any transfer point Red had seen since leaving Greywake.
 

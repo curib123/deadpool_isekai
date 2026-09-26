@@ -620,9 +620,9 @@ The current active production step remains CH-027 Soul-Drift / close-first-perso
 
 This section supersedes any historical pre-reset production-status statements elsewhere in this file.
 
-- **CH-001→CH-026:** CURRENT CANON — Soul-Drift / close first-person / final story engine — Gate 9 PASS.
-- **CH-027 — Salt in the Air:** event/scene sequence preserved, prose STALE — Soul-Drift rewrite + Gate 9 revalidation REQUIRED.
-- **CH-028 — The Man on the Manifest:** PAUSED until CH-027 completes the synchronization cycle.
-- **Official next step:** **CH-027 — Salt in the Air → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**
+- **CH-001→CH-027:** CURRENT CANON — Soul-Drift / close first-person / final story engine — Gate 9 PASS.
+- **CH-027 — Salt in the Air:** rewritten and revalidated in close first-person on 2026-09-26.
+- **CH-028 — The Man on the Manifest:** AUTHORIZED NEXT STEP — Gate 8 pending.
+- **Official next step:** **CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.**
 
 **2026-09-25 CH-003 retention revision:** CANON — Gate 9 revalidated; F-002 remains PLANTED — CH-003; no downstream event order changed. Current Soul-Drift Volume 1 manuscript total: **62,767 words**.

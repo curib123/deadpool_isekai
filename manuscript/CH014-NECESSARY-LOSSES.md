@@ -127,7 +127,7 @@ Kellan stepped forward. "That does not mean you get to feed mine to the forest."
 
 "Yes."
 
-No excuse. No denial. That almost made it worse.
+*No excuse. No denial. That almost made it worse.*
 
 Hesk looked at him. "You think I chose between good and evil."
 

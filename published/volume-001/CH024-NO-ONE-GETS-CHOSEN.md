@@ -80,7 +80,7 @@ His voice finally sharpened. "The corridor you built is a gamble. Broken North i
 
 "Mostly timber," I said.
 
-Nobody appreciated it. Fair. Hesk looked at me. "You understand risk better than they do."
+Nobody appreciated it. Fair. Hesk looked at me. "You understand cost better than they do."
 
 I said nothing. "You survive consequences they cannot. You take wounds that kill ordinary people. You act because you can afford to be wrong."
 

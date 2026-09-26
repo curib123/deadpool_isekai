@@ -1,14 +1,12 @@
 Chapter 24 — No One Gets Chosen
 
-The physical line was holding. Hesk's pull was not. Tavian pointed toward the lower fork.
-
 The trailing branch peeling away from Broken North had grown since the last report. Not the main body. Too large to ignore.
 
 Browsers at the front took the same outer angle. Smaller prey followed. Ridge-hounds used the movement because predators were apparently loyal to bad logistics.
 
 That route led toward the outer homesteads. Brynn saw it. "How long?"
 
-Tavian watched three groups cross the split before answering. "Not long enough." Behind us, Broken North still carried most of the migration. Workers and militia were holding the physical choke without me standing over them.
+Tavian watched three groups cross the split before answering. "Not long enough." Behind them, Broken North still carried most of the migration. Workers and militia were holding the physical choke without him standing over them.
 
 Good. The road had become a system instead of one impossible person. Maelis and Jessa came from the opposite approach with two militia witnesses.
 
@@ -20,7 +18,7 @@ Tavian took the sheet. He compared it with the wrong-moving branch. "That is the
 
 Maelis lifted her packet. "Custody entries, service references, Jessa's signed explanation. Originals remain secured."
 
-Good. Evidence had survived the battle. Now we had to survive the evidence owner.
+Good. Evidence had survived the battle. Now they had to survive the evidence owner.
 
 The old-service housing sat inside a shallow stone recess beside the fork. Hesk stood beside it. The Roadmaster key was already inserted.
 
@@ -32,7 +30,7 @@ Hesk looked at her. "Captain."
 
 "Now."
 
-He did not move. The migration kept moving behind us. That mattered.
+He did not move. The migration kept moving behind them. That mattered.
 
 This was not a courtroom. It was a route fight with paperwork. Maelis came to the edge of the recess. "We have the reserve records, issue entries, witnesses, your storehouse acknowledgment, and Jessa's signed explanation."
 
@@ -78,31 +76,31 @@ She pointed toward the outer road. "Stop sending the cost there." Hesk's express
 
 His voice finally sharpened. "The corridor you built is a gamble. Broken North is old stone, emergency timber and optimism."
 
-"Mostly timber," I said.
+"Mostly timber," Red said.
 
-Nobody appreciated it. Fair. Hesk looked at me. "You understand cost better than they do."
+Nobody appreciated it. Fair. Hesk looked at him. "You understand cost better than they do."
 
-I said nothing. "You survive consequences they cannot. You take wounds that kill ordinary people. You act because you can afford to be wrong."
+Red said nothing. "You survive consequences they cannot. You take wounds that kill ordinary people. You act because you can afford to be wrong."
 
 Partly true. He continued. "Do not pretend you are different from me."
 
-I looked at the housing. The outer road. My bloodstained sleeve from the ridge-hounds. "I'm not."
+Red looked at the housing. The outer road. his bloodstained sleeve from the ridge-hounds. "I'm not."
 
 His eyes narrowed. "But there is a difference."
 
 "What?"
 
-I pointed toward the homestead route. "You keep turning your choice into everybody else's problem. Eventually that became my problem."
+Red pointed toward the homestead route. "You keep turning your choice into everybody else's problem. Eventually that became my problem."
 
-I smiled without humor. "I hate being volunteered."
+Red smiled without humor. "I hate being volunteered."
 
 His hand moved toward the key.
 
 Jessa saw it. "He's rotating the plate." Hesk turned the key.
 
-I crossed the gap before the next click. My hand closed around his wrist. He pulled.
+Red crossed the gap before the next click. his hand closed around his wrist. He pulled.
 
-Nothing happened. For the first time since I met him, Rovan Hesk looked at me like he had remembered I was not an employee. Good. "You had your turn."
+Nothing happened. For the first time since Red met him, Rovan Hesk looked at him like he had remembered he was not an employee. Good. "You had your turn."
 
 "Let go."
 
@@ -110,15 +108,15 @@ Nothing happened. For the first time since I met him, Rovan Hesk looked at me li
 
 Brynn stepped closer. "Release the key." Hesk did not.
 
-His free hand came up. Not a weapon. He shoved at my shoulder.
+His free hand came up. Not a weapon. He shoved at his shoulder.
 
-Nothing happened. I looked down at the hand. Then at him. "This is not going to become the version where you win a fistfight."
+Nothing happened. Red looked down at the hand. Then at him. "This is not going to become the version where you win a fistfight."
 
-He knew that. He changed tactics. Instead of fighting me, he twisted toward the service housing and tried to use his body weight to finish the turn.
+He knew that. He changed tactics. Instead of fighting him, he twisted toward the service housing and tried to use his body weight to finish the turn.
 
-Smart. I let go of his wrist. He almost reached it.
+Smart. Red let go of his wrist. He almost reached it.
 
-Then I caught the back of his coat and moved him three steps away. Not threw. Moved.
+Then Red caught the back of his coat and moved him three steps away. Not threw. Moved.
 
 Like furniture with political opinions. Brynn stepped into the space. "Jessa. Housing."
 
@@ -168,21 +166,21 @@ She read the plate mark aloud. Maelis recorded it. Another prey group bent outwa
 
 Tavian shouted. "Thirty seconds before the lead edge commits too far." Probably not a literal number.
 
-Close enough to be terrifying. Brynn looked at me. "Go."
+Close enough to be terrifying. Brynn looked at him. "Go."
 
-Hesk looked up. "You leave this site and she changes that wrong—" I stopped. Tavian shouted again. "Red!"
+Hesk looked up. "You leave this site and she changes that wrong—" Red stopped. Tavian shouted again. "Red!"
 
 There it was. The emotionally satisfying option: Stay. Make Hesk understand.
 
 Maybe break something he valued. Maybe his face. The useful option: Leave him to the people whose job this actually was.
 
-Annoying. I looked at Hesk. "You keep assuming I need to win against you."
+Annoying. Red looked at Hesk. "You keep assuming I need to win against you."
 
-Then I turned my back on him. That felt better than hitting him. Mostly.
+Then Red turned his back on him. That felt better than hitting him. Mostly.
 
 The fork was chaos. Prey at the front had begun choosing the outer road before reaching the main split. Once enough bodies committed, momentum would make the lure unnecessary.
 
-Tavian pointed to the inside edge. "Here." I looked. "Low?"
+Tavian pointed to the inside edge. "Here." Red looked. "Low?"
 
 "Low."
 
@@ -198,13 +196,13 @@ Turned. The next collided with its shoulder. Recovered.
 
 Followed north. Three smaller prey copied them. The branch hesitated. "Hold," Tavian said.
 
-Behind us, Jessa worked the housing. "Vent first." Maelis stayed beside her with the record sheet.
+Behind them, Jessa worked the housing. "Vent first." Maelis stayed beside her with the record sheet.
 
 Brynn held Hesk under control. One militia witness watched the road. The other watched the evidence.
 
-Nobody was spare. The branch pressed against my guide. It did not wobble.
+Nobody was spare. The branch pressed against his guide. It did not wobble.
 
-It did not crack. It stayed exactly where I wanted. A browser hit it hard enough to shake dirt.
+It did not crack. It stayed exactly where Red wanted. A browser hit it hard enough to shake dirt.
 
 The guide remained.
 
@@ -214,7 +212,7 @@ Just a tool doing its job. Tavian watched the rear movement. "Not yet."
 
 Jessa called: "Vent closed." Metal clicked. The animals did not instantly change.
 
-Of course. Bodies already moving remained bodies already moving. Hesk laughed once from behind us. "You think turning one plate fixes years?"
+Of course. Bodies already moving remained bodies already moving. Hesk laughed once from behind them. "You think turning one plate fixes years?"
 
 Nobody answered. Tavian pointed at Jessa. "Neutral next. Wait for my signal."
 
@@ -234,25 +232,25 @@ That was new. "Predator momentum." Brynn looked over while keeping Hesk down. "P
 
 "If they take outer, prey behind may follow."
 
-I looked at the hounds. This was the moment a normal fight would become Red vs six. Easy.
+Red looked at the hounds. This was the moment a normal fight would become Red vs six. Easy.
 
 Wrong. Killing them at the fork would create blood, panic and a new obstacle. Tavian pointed north. "Give them something easier."
 
 The guide already did. Not enough. The hounds were reading prey, not walls.
 
-So I stepped into the outer route. Every hound looked at me. Good.
+So Red stepped into the outer route. Every hound looked at him. Good.
 
-I clapped once. "Hello." Tavian stared. "What are you doing?"
+Red clapped once. "Hello." Tavian stared. "What are you doing?"
 
 "Becoming interesting."
 
-The lead hound changed direction. Toward me. Then another.
+The lead hound changed direction. Toward him. Then another.
 
-Excellent. I backed north along the inside of the guide. The pack followed.
+Excellent. Red backed north along the inside of the guide. The pack followed.
 
-Not because of magic. Because I had made myself the loudest bad idea in the area. One lunged.
+Not because of magic. Because Red had made himself the loudest bad idea in the area. One lunged.
 
-I caught its muzzle, turned its whole body north, and let it go. The others followed the moving packmate. Tavian looked at me. "That was reckless."
+Red caught its muzzle, turned its whole body north, and let it go. The others followed the moving packmate. Tavian looked at him. "That was reckless."
 
 "That was ecology."
 
@@ -282,7 +280,7 @@ His argument was still alive. "You are choosing the outer road now." Brynn looke
 
 "And you call that better?"
 
-Brynn's expression did not change. "I call it shared." That silenced him longer than anything I had said.
+Brynn's expression did not change. "I call it shared." That silenced him longer than anything Red had said.
 
 Jessa set the service catch. Removed the key. Passed it to Brynn.
 
@@ -292,25 +290,25 @@ More prey took Broken North. The outer angle weakened. Another group approached.
 
 Followed north. Another. North.
 
-He lowered his hand. "Release." I let the guide disappear.
+He lowered his hand. "Release." Red let the guide disappear.
 
 Nothing replaced it. The herd kept turning. That mattered.
 
-Not my wall. Not Hesk's lure. Momentum through a road Greywake had chosen together.
+Not his wall. Not Hesk's lure. Momentum through a road Greywake had chosen together.
 
 The wrong branch emptied by degrees. Tavian waited another full cycle of movement. Then: "Committed."
 
 Brynn bound Hesk's wrists. "Rovan Hesk, you are under emergency detention pending council and Ledger review." No victory speech.
 
-No dramatic execution. No one needed me to stand over him. Maelis sealed the current-setting record.
+No dramatic execution. No one needed him to stand over him. Maelis sealed the current-setting record.
 
-Jessa kept the service key out of Guild custody. Tavian kept watching the migration because unlike the rest of us, he understood that winning an argument did not make animals stop moving. I looked toward Broken North.
+Jessa kept the service key out of Guild custody. Tavian kept watching the migration because unlike the rest of them, he understood that winning an argument did not make animals stop moving. Red looked toward Broken North.
 
 The main body continued through. The outer homestead road stayed clear of the mass Hesk had tried to send there. Greywake had not solved every future road problem.
 
 Kellan still could not walk. The seasonal bridge was still gone. Trade would still pay for damaged infrastructure.
 
-The migration would still leave ecology confused. My power changed none of those facts because they had already happened. But the final choice was visible.
+The migration would still leave ecology confused. his power changed none of those facts because they had already happened. But the final choice was visible.
 
 Recorded. Shared. No private ledger.
 

@@ -67,7 +67,7 @@ He waved one. "They moved the northern repair priority."
 
 *High praise.* He had not stood since the injury. He would not stand today.
 
-His body had already erased damage that would keep him in a splint for much longer. That difference remained unfair. Kellan put the paper down. "You leaving?"
+The same impossible logic had already erased damage from Red that would keep Kellan in a splint for much longer. That difference remained unfair. Kellan put the paper down. "You leaving?"
 
 Sela looked at him before Red answered. Treatment-house intelligence remained superior to militia intelligence. "I was considering it."
 

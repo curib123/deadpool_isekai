@@ -1,8 +1,6 @@
 Chapter 18 — No Acceptable Loss
 
-The emergency route board was crowded with markers. Tavian stood over it with both hands on the table. Brynn moved a militia token.
-
-Maelis added another stack of copied records. Hesk watched from the opposite side. I stayed where Tavian had told me to stand.
+Maelis added another stack of copied records. Hesk watched from the opposite side. Red stayed where Tavian had told him to stand.
 
 Not obedience. Positioning. There was a difference.
 
@@ -54,7 +52,7 @@ Hesk leaned forward. "And doing nothing?" Tavian looked at the latest markers. "
 
 Three bad answers sat on the table. Pull everyone inward. Restore Hesk's sacrificial pattern.
 
-Wait for perfect information until the migration made the choice for us. I looked at the markers. For once, I did not suggest breaking something.
+Wait for perfect information until the migration made the choice for them. Red looked at the markers. For once, he did not suggest breaking something.
 
 Tavian noticed. He did not comment. Good instincts. "We need somewhere for the pressure to go," he said.
 
@@ -78,7 +76,7 @@ Maelis looked toward the militia clerk. "Bring Jessa Vale." Hesk's head turned. 
 
 Jessa arrived with two guards and the expression of someone whose day had not improved by being summoned again. She paused when she saw Hesk. Then Maelis.
 
-Then me. Her shoulders tightened. Maelis pointed to the empty chair. "You are not under accusation."
+Then him. Her shoulders tightened. Maelis pointed to the empty chair. "You are not under accusation."
 
 Jessa looked at Hesk. "And you are not answering through him." That helped slightly.
 
@@ -180,7 +178,7 @@ Brynn did not look at him. "Which one?"
 
 "No one said clean."
 
-Tavian's finger stopped on an older northern line. I recognized it. Broken North.
+Tavian's finger stopped on an older northern line. Red recognized it. Broken North.
 
 Old road. Bad washout. Ruined watch point.
 
@@ -212,11 +210,11 @@ Tavian looked at him. "I found a direction." Direction.
 
 Not solution. Brynn studied the route. "How much work?"
 
-Tavian looked at me. I raised both hands. "Do not ask me."
+Tavian looked at him. Red raised both hands. "Do not ask me."
 
 Progress. "We need Kellan." Sela objected before Kellan did.
 
-Ten minutes later, we stood in a covered staging shed beside the treatment house. Kellan lay on a low wheeled cot with his injured leg elevated. Sela looked ready to injure anyone who forgot why. "You have a short window."
+Ten minutes later, they stood in a covered staging shed beside the treatment house. Kellan lay on a low wheeled cot with his injured leg elevated. Sela looked ready to injure anyone who forgot why. "You have a short window."
 
 Kellan looked at her. "I heard you."
 
@@ -240,7 +238,7 @@ Then Tavian. "You are serious."
 
 "Partly blocked."
 
-He looked at me. "You crossed the washout."
+He looked at him. "You crossed the washout."
 
 "With assistance."
 
@@ -270,7 +268,7 @@ Brynn wrote that down. Kellan tapped the cracked section. "This is the first rea
 
 "Road workers who listen."
 
-I raised one hand. Kellan looked at me. "No."
+Red raised one hand. Kellan looked at him. "No."
 
 "I hadn't said anything."
 
@@ -280,7 +278,7 @@ I raised one hand. Kellan looked at me. "No."
 
 "That is becoming a bridge with more words."
 
-Sela looked at me. "He is right." Apparently cooperation meant specialists correcting me from several directions.
+Sela looked at him. "He is right." Apparently cooperation meant specialists correcting him from several directions.
 
 Sela checked Kellan's pulse. "Enough."
 
@@ -290,7 +288,7 @@ Sela checked Kellan's pulse. "Enough."
 
 Kellan looked at Brynn. "The road can be made usable enough to try." Sela started moving the cot. "Wonderful. Stop contributing."
 
-He did not resist. Pain had already won that argument. Before they went inside, Sela looked at me. "You too."
+He did not resist. Pain had already won that argument. Before they went inside, Sela looked at him. "You too."
 
 "I'm standing."
 
@@ -300,7 +298,7 @@ He did not resist. Pain had already won that argument. Before they went inside, 
 
 "I know. Stop making recent trauma somebody else's planning problem."
 
-Fair. We returned to the militia yard. Broken North was possible.
+Fair. they returned to the militia yard. Broken North was possible.
 
 Not safe. Tavian redrew the route from current pressure toward the old corridor. "We cannot force migration to take it."
 
@@ -364,13 +362,13 @@ Tavian pointed at Broken North. "This is an ugly choice." Hesk looked at him. "W
 
 His voice did not change. "The difference is that the failure zone is not a village we already decided could absorb it." Silence.
 
-Brynn looked at me. "Red."
+Brynn looked at him. "Red."
 
 "Yes?"
 
 "There are damaged points where temporary support could buy work crews time."
 
-Finally. A job I understood. Tavian held up one finger. "Temporary."
+Finally. A job Red understood. Tavian held up one finger. "Temporary."
 
 "I know."
 
@@ -380,11 +378,11 @@ Finally. A job I understood. Tavian held up one finger. "Temporary."
 
 "No improvising a replacement road just because you can."
 
-I looked at him. There it was. The correct version.
+Red looked at him. There it was. The correct version.
 
-Could I make a road? Probably something much more ridiculous. Should I?
+Could Red made a road? Probably something much more ridiculous. Should he?
 
-Not if the whole point was creating infrastructure ordinary people could still use after I left. "Fine."
+Not if the whole point was creating infrastructure ordinary people could still use after Red left. "Fine."
 
 "Can you support a damaged lip long enough for workers to place real bracing?"
 
@@ -416,7 +414,7 @@ His eyes hardened. "You are willing to risk the road." Brynn looked at the outer
 
 Nobody improved that. Jessa finished the schedule draft. Maelis checked authorizations.
 
-Tavian reviewed movement reports. Brynn counted crews. I stayed at the edge of the table and touched nothing unless asked.
+Tavian reviewed movement reports. Brynn counted crews. Red stayed at the edge of the table and touched nothing unless asked.
 
 Annoyingly, that helped. Tavian placed one marker at Broken North's entrance and another at the far connector. "If we can make this continuous enough and keep populated approaches under controlled pressure, the animals have somewhere else to go."
 
@@ -444,9 +442,9 @@ Then Maelis. "Authority structure?"
 
 Brynn waited. "So is every other option." She looked toward the treatment house. "Kellan?"
 
-I answered before thinking. "He said it can be made usable enough to try." Brynn looked at me.
+Red answered before thinking. "He said it can be made usable enough to try." Brynn looked at him.
 
-I stopped. "His words. Not mine."
+Red stopped. "His words. Not mine."
 
 Small nod. Then Hesk. "Your objection is recorded."
 
@@ -456,10 +454,10 @@ The room moved immediately. Runners took assignments. Jessa copied schedules.
 
 Maelis separated authorization sheets. Tavian listed route confirmations. Hesk stepped back from the table without accepting the plan.
 
-He did not need to accept it. He needed to obey the limits around it. Tavian pushed the copied Broken North sketch toward me.
+He did not need to accept it. He needed to obey the limits around it. Tavian pushed the copied Broken North sketch toward him.
 
 Three marks. Temporary support points. Not the road.
 
-Not the solution. Support. I picked up the sketch.
+Not the solution. Support. Red picked up the sketch.
 
 This time, the plan was to make somewhere else for the danger to go.

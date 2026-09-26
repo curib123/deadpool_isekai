@@ -1,6 +1,6 @@
 Chapter 20 — The Last Lure
 
-Mud had dried on my boots by the time I got back from Broken North. Someone put a cup in my hand. Maelis put a ledger beside it.
+Mud had dried on Red's boots by the time he got back from Broken North. Someone put a cup in his hand. Maelis put a ledger beside it.
 
 Red looked at the ledger. Then at her. "I still cannot read Veyran."
 

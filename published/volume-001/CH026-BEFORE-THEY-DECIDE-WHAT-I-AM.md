@@ -70,7 +70,7 @@ Sela looked at me before I answered. Treatment-house intelligence remained super
 
 "No. You act quickly and explain slowly."
 
-Sela made a sound that might have been agreement. Kellan looked toward the road. "You stayed."
+Sela made a sound that might have been agreement. Kellan looked toward the road. "You stayed when the road went bad."
 
 Not a question. After the backflow. After his injury.
 

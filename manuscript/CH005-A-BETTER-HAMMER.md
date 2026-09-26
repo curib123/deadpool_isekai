@@ -23,9 +23,7 @@ He handed the card back.
 
 He pointed at a stack of iron clamps beside the wagon. "Carry those." Red looked at the clamps.
 
-Then at him. Then back at the clamps. So much for mysterious frontier employment.
-
-Red picked them up. They were heavier than they looked. The foreman had already moved on.
+Then at him. Then back at the clamps. So much for mysterious frontier employment. Red picked them up. They were heavier than they looked. The foreman had already moved on.
 
 No questions about his missing class. No concern about his undefined level. No philosophical crisis over the fact that the World System had searched for him and apparently found a blank space.
 
@@ -45,27 +43,17 @@ He stared at him. The token translated the silence perfectly. Red decided to con
 
 They passed two caravans heading toward Greywake. Both slowed near their wagon. Drivers exchanged quick words with the foreman, then moved on.
 
-Grain. Tools. Cloth.
-
-Crates Red could not identify. People. Greywake's walls kept danger out.
-
-This road kept everything else coming in. That probably mattered more. The damaged bridge approach appeared around midmorning.
+Grain. Tools. Cloth. Crates Red could not identify. People. Greywake's walls kept danger out. This road kept everything else coming in. That probably mattered more. The damaged bridge approach appeared around midmorning.
 
 The bridge itself crossed a narrow brown river channel. Low timber span. Broad banks. No giant waterfall, no bottomless gorge, no dramatic mist waiting for somebody to fall into it.
 
 The damage was on their side. Recent rain had softened the roadbed and shifted one of the outer approach supports. A heavy timber brace beneath the edge had swollen with water and twisted just far enough to make the surface above it sag.
 
-Not collapsing. Not safe either. The crew went to work before Red finished looking.
+Not collapsing. Not safe either. The crew went to work before Red finished looking. Two workers unloaded replacement boards and wedges. Another dug packed mud away from the support. The foreman checked the brace angle with a long metal bar etched with narrow geometric markings.
 
-Two workers unloaded replacement boards and wedges. Another dug packed mud away from the support. The foreman checked the brace angle with a long metal bar etched with narrow geometric markings.
+The markings gave off a faint blue glow. Red leaned closer. Sigils. Still unreadable. A worker fitted an iron clamp around the swollen brace. More etched lines lit as he tightened it. The timber stopped shifting.
 
-The markings gave off a faint blue glow. Red leaned closer. Sigils.
-
-Still unreadable. A worker fitted an iron clamp around the swollen brace. More etched lines lit as he tightened it. The timber stopped shifting.
-
-So this was ordinary practical magic. Prepared object. Prepared markings.
-
-Specific function. Nobody raised both hands and screamed the name of an attack. Mildly disappointing.
+So this was ordinary practical magic. Prepared object. Prepared markings. Specific function. Nobody raised both hands and screamed the name of an attack. Mildly disappointing.
 
 The foreman caught him watching.
 
@@ -121,23 +109,13 @@ Two workers moved immediately.
 
 "Get the smaller maul."
 
-Nobody panicked. They had a fallback. It was just slower.
+Nobody panicked. They had a fallback. It was just slower. Red looked at the broken hammer head in the mud. Then at the half-driven iron pin. Then at his hands.
 
-Red looked at the broken hammer head in the mud. Then at the half-driven iron pin. Then at his hands.
-
-The memory came back without permission. Forest. Teeth.
-
-Blood. A need so immediate there had been no room to decorate it. Something between him and that animal.
+The memory came back without permission. Forest. Teeth. Blood. A need so immediate there had been no room to decorate it. Something between him and that animal.
 
 And then there had been something. A dark slab where empty air had been. Afterward, Red had tried to reproduce it.
 
-Badly. Nothing useful. At the time, Red had blamed fear.
-
-Maybe fear mattered. Maybe not. The crew needed a hammer.
-
-That was a very simple problem. Which made it dangerous. Simple problems encouraged confidence.
-
-Red stepped away from the brace. The foreman noticed immediately.
+Badly. Nothing useful. At the time, Red had blamed fear. Maybe fear mattered. Maybe not. The crew needed a hammer. That was a very simple problem. Which made it dangerous. Simple problems encouraged confidence. Red stepped away from the brace. The foreman noticed immediately.
 
 "What are you doing?"
 
@@ -149,17 +127,11 @@ His eyes narrowed.
 
 "Strong instinct."
 
-He frowned. Red held out one hand. A hammer.
-
-That was the thought. Just that. A hammer.
-
-For half a second, nothing happened. Then pressure gathered around his palm. Not heat.
+He frowned. Red held out one hand. A hammer. That was the thought. Just that. A hammer. For half a second, nothing happened. Then pressure gathered around his palm. Not heat.
 
 Not mana, at least not in any way Red understood. Just the strange certainty that empty space had become negotiable. Something dropped into his hand.
 
-Red almost fumbled it. Not because it was heavy. Because it was stupid.
-
-It was absolutely a hammer. Technically. The handle was too short. The head was too wide and much too thin. The proportions looked like a child had drawn the concept from memory after seeing one once.
+Red almost fumbled it. Not because it was heavy. Because it was stupid. It was absolutely a hammer. Technically. The handle was too short. The head was too wide and much too thin. The proportions looked like a child had drawn the concept from memory after seeing one once.
 
 Red stared at it. The foreman stared at it. One of the guards stepped closer.
 
@@ -211,9 +183,7 @@ Useful. Still not an explanation. The foreman pointed toward the pin.
 
 There was only one responsible way to find out. Red raised the hammer. The balance was awful.
 
-The head tried to pull sideways. Red hit the pin anyway. Tap.
-
-The pin did not move. The hammer head bent slightly. The worker beside him looked at it.
+The head tried to pull sideways. Red hit the pin anyway. Tap. The pin did not move. The hammer head bent slightly. The worker beside him looked at it.
 
 Then at him.
 
@@ -223,9 +193,7 @@ Then at him.
 
 The surface blurred. The handle softened. A moment later the whole thing collapsed into nothing.
 
-Silence. Red had intentionally made something. That mattered.
-
-The fact that the thing had been embarrassing mattered less. The foreman looked at him.
+Silence. Red had intentionally made something. That mattered. The fact that the thing had been embarrassing mattered less. The foreman looked at him.
 
 "Can you do that again?"
 
@@ -245,9 +213,7 @@ And just like that, the road crew went back to the road. No kneeling. No prophec
 
 No requests for his sacred guidance. Red respected them more every minute. The smaller maul came down.
 
-The pin moved a fraction. Again. Almost nothing.
-
-The brace creaked under the tension.
+The pin moved a fraction. Again. Almost nothing. The brace creaked under the tension.
 
 "Hold it," the foreman said.
 
@@ -261,17 +227,9 @@ Everything changed. The second guard turned toward the trees. The foreman pointe
 
 Nobody argued. People shifted closer to the wagon and work zone. A low shape moved through the brush beyond the drainage ditch.
 
-Then another. Then a third. Lean bodies.
+Then another. Then a third. Lean bodies. Long legs. Grey-brown hides that disappeared easily against wet bark. Ordinary predators. Probably. Red had stopped making confident statements about local wildlife. One guard stepped forward with his spear.
 
-Long legs. Grey-brown hides that disappeared easily against wet bark. Ordinary predators.
-
-Probably. Red had stopped making confident statements about local wildlife. One guard stepped forward with his spear.
-
-The other drew a short blade. The animals did not charge. They circled.
-
-Noise. Food. Workers focused on something else.
-
-Opportunity.
+The other drew a short blade. The animals did not charge. They circled. Noise. Food. Workers focused on something else. Opportunity.
 
 "Stay with the crew," one guard told him.
 
@@ -281,17 +239,11 @@ Not disaster. Just lost work and more delay. The foreman saw the same problem.
 
 "Keep it set."
 
-Two workers held position. The smaller maul came down again. The pin barely moved.
-
-One predator darted toward the supply wagon. A guard intercepted it. Spear point flashed.
-
-The animal twisted away. The second predator moved from the opposite side. The guards shifted.
+Two workers held position. The smaller maul came down again. The pin barely moved. One predator darted toward the supply wagon. A guard intercepted it. Spear point flashed. The animal twisted away. The second predator moved from the opposite side. The guards shifted.
 
 They could handle them. The brace needed one heavy strike. Red looked at the iron pin.
 
-The swollen timber. The workers holding alignment. The broken hammer.
-
-Not a hammer. That was where Red had gone wrong. He had asked for a noun.
+The swollen timber. The workers holding alignment. The broken hammer. Not a hammer. That was where Red had gone wrong. He had asked for a noun.
 
 The job did not need a noun. It needed a result. Something Red could swing.
 
@@ -303,9 +255,7 @@ Red thought about the pin moving. About iron punching through wet timber. About 
 
 Then, because Red had weaknesses, he also imagined the silhouette being unnecessarily dramatic. Something formed between his hands. Long handle.
 
-Dark head. Far too large. The workers stared.
-
-Red stared too. Apparently he had been very clear about "impact" and less responsible about "reasonable." The foreman looked at it.
+Dark head. Far too large. The workers stared. Red stared too. Apparently he had been very clear about "impact" and less responsible about "reasonable." The foreman looked at it.
 
 "That is bigger."
 
@@ -315,9 +265,7 @@ One worker leaned away from the head.
 
 "Can you actually use it?"
 
-Red adjusted his grip. The weight dragged at his shoulders.
-
-Apparently reality was willing to provide the ridiculous hammer and leave leverage as his personal problem.
+Red adjusted his grip. The weight dragged at his shoulders. Apparently reality was willing to provide the ridiculous hammer and leave leverage as his personal problem.
 
 Cheap service.
 
@@ -337,39 +285,25 @@ That simplified things.
 
 "Hold it," Red said.
 
-The workers braced. Red raised the hammer. His shoulders immediately filed a complaint.
-
-One strike. Drive the pin. That was all.
-
-Red swung. The head came down. The sound cracked across the worksite.
+The workers braced. Red raised the hammer. His shoulders immediately filed a complaint. One strike. Drive the pin. That was all. Red swung. The head came down. The sound cracked across the worksite.
 
 The iron pin punched through the swollen timber and slammed against the outer plate. For half a heartbeat, nobody moved. Then the foreman shouted.
 
 "Clamp it!"
 
-The crew reacted immediately. Two workers secured the brace. Another locked the outer plate.
-
-The enchanted clamp flared blue. The timber settled into position. That was the repair.
-
-Not his hammer. Their alignment. Their brace.
-
-Their clamp. Their engineering. Red had contributed one extremely rude solution to one extremely specific problem.
+The crew reacted immediately. Two workers secured the brace. Another locked the outer plate. The enchanted clamp flared blue. The timber settled into position. That was the repair. Not his hammer. Their alignment. Their brace. Their clamp. Their engineering. Red had contributed one extremely rude solution to one extremely specific problem.
 
 The predator near the wagon chose that moment to come closer. Red was still holding the hammer. Convenient.
 
 It lowered itself. Red turned the shaft and let the oversized head drop between the animal and the workers. The creature stopped.
 
-So did Red. They considered each other. He pushed forward.
-
-The hammer head hit the ground, threw mud, and forced the animal back without turning it into a stain. The guard stepped in immediately and drove it away with his spear. The rest of the small pack withdrew once the worksite stopped looking easy.
+So did Red. They considered each other. He pushed forward. The hammer head hit the ground, threw mud, and forced the animal back without turning it into a stain. The guard stepped in immediately and drove it away with his spear. The rest of the small pack withdrew once the worksite stopped looking easy.
 
 Nobody chased them. The guards held position until the brush went still. Red looked down at the hammer.
 
 Now that the pin was driven and the threat had backed away, the unnecessary parts of the image began to soften. Interesting. Red loosened his grip.
 
-The shaft blurred before it touched the ground. The head folded into nothing. Gone.
-
-His arms still remembered the weight. That was less mysterious. Red had swung something enormous.
+The shaft blurred before it touched the ground. The head folded into nothing. Gone. His arms still remembered the weight. That was less mysterious. Red had swung something enormous.
 
 His shoulders hurt because shoulders are tragically committed to physics. The foreman looked at him.
 
@@ -383,15 +317,9 @@ Red sat on a timber stack. His hands shook slightly from the impact. Not some ma
 
 Just the ordinary consequence of putting his entire body behind a hammer built from terrible judgment. Red looked at the repaired brace. The first hammer had not been weak because he was weak.
 
-It had been exactly as useful as the thought Red gave it. Hammer. Fine.
+It had been exactly as useful as the thought Red gave it. Hammer. Fine. There. Hammer. The second had been different because Red had stopped thinking about the label and started thinking about what he wanted the thing to do.
 
-There. Hammer. The second had been different because Red had stopped thinking about the label and started thinking about what he wanted the thing to do.
-
-Drive the pin. One clean strike. The shape followed the role.
-
-Not perfectly. The ridiculous scale proved that. But enough.
-
-Nothing about his capacity had changed. Red had learned something about the response. A dangerous distinction.
+Drive the pin. One clean strike. The shape followed the role. Not perfectly. The ridiculous scale proved that. But enough. Nothing about his capacity had changed. Red had learned something about the response. A dangerous distinction.
 
 The guard who had questioned the first manifestation walked over and stared at the empty patch of mud.
 
@@ -427,9 +355,7 @@ He walked away. The crew finished before noon. Replacement boards went down. The
 
 Nobody asked him to create anything else. Probably wise. The foreman walked the repaired section, checked the glowing alignment bar, and waved the first waiting caravan forward.
 
-The wagon crossed slowly. The bridge held. Only then did the workers relax.
-
-His impossible hammer had driven one pin. The crew had repaired the bridge. That distinction mattered.
+The wagon crossed slowly. The bridge held. Only then did the workers relax. His impossible hammer had driven one pin. The crew had repaired the bridge. That distinction mattered.
 
 On the return trip, they gave him less to carry. Red chose to interpret this as professional recognition rather than concern that he would invent construction equipment again. The Wayfarer Tongue Token swung beneath the wagon roof while the crew talked around him.
 
@@ -451,23 +377,11 @@ Not because Red had mastered local economics overnight. Because counting money i
 
 "Complete," the clerk said.
 
-That was it. No System window. No Skill unlocked.
-
-No class notification. No glowing title declaring him Master of Hammers. Just payment.
-
-Outside Greywake, the first loaded wagons were already moving across the repaired bridge. The Guild cared that the road worked. Red respected that.
+That was it. No System window. No Skill unlocked. No class notification. No glowing title declaring him Master of Hammers. Just payment. Outside Greywake, the first loaded wagons were already moving across the repaired bridge. The Guild cared that the road worked. Red respected that.
 
 Red put the Marks away. The foreman was already discussing the next day's traffic with another worker. To him, the impossible hammer was less important than whether six wagons could cross before dark.
 
-Reasonable priorities. Red stepped back into the yard. His shoulders still ached.
-
-The idea of making something else crossed his mind.
-
-Then somebody rolled a barrel past him and nearly clipped his boot.
-
-Red stepped aside.
-
-Right. Busy yard.
+Reasonable priorities. Red stepped back into the yard. His shoulders still ached. The idea of making something else crossed his mind. Then somebody rolled a barrel past him and nearly clipped his boot. Red stepped aside. Right. Busy yard.
 
 Whatever this impossible nonsense was, it worked when Red wanted something badly enough and pictured the job clearly enough. Good enough.
 

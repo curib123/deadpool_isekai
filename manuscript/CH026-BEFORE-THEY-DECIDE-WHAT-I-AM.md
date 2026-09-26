@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 1,515
+**Word Count:** 1,517
 **Chapter QA:** `qa/CH-026-GATE-9-CHAPTER-QA.md`
 
 Greywake sounded different without alarm horns. Hammers had taken over. One outer approach still had militia markers blocking normal traffic.
@@ -41,9 +41,11 @@ Blocked roads. Tired people. Arguments that had not ended.
 
 Then I went to Sela because she had threatened to send someone after me if I did not. She inspected my side. Closed.
 
-She pressed near the ribs. Still tender. That was ordinary tissue complaining after extraordinary behavior.
+She pressed near the ribs. Still tender.
 
-Not a recovery meter. Not a sign that some hidden reserve was rebuilding. Just consequences that had not yet become irrelevant.
+Ordinary tissue complaining after extraordinary behavior.
+
+My ribs had apparently decided the danger was over only after the bruising filed a formal objection. Just soreness that had not become irrelevant yet.
 
 Sela checked my shoulder. "Still hurts?"
 

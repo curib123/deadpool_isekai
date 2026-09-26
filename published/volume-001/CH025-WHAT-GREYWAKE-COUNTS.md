@@ -1,6 +1,6 @@
 Chapter 25 — What Greywake Counts
 
-Sela looked at my side. Then at me. "No." Red had not said anything. "That feels unfair."
+Sela looked at Red's side, then at his face. "No." Red had not said anything. "That feels unfair."
 
 "It is preventative."
 

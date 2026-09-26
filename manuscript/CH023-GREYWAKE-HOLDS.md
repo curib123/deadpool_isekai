@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS / GREAT BATTLE QA PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 1,992
+**Word Count:** 1,973
 **Chapter QA:** `qa/CH-023-GATE-9-CHAPTER-QA.md`
 **Battle QA:** `qa/VOLUME-001-GREYWAKE-BATTLE-SCENE-AUDIT.md`
 
@@ -112,11 +112,15 @@ The road lip began to sag in a line. The foreman went pale. "Whole inner edge!"
 
 Fine. The same job got bigger. Hold the road.
 
-The pale-grey support extended beneath the failing lip along the old retaining line. No ceremony. No new stage.
+The pale-grey support extended beneath the failing lip along the old retaining line.
 
-No unlocking sound. No hidden reserve appearing because the plot finally respected me. I had always been able to do more.
+Nothing dramatic happened.
 
-I had simply been choosing small answers because small answers usually damaged less. Now more road needed holding. So more road was held.
+The road simply stopped falling.
+
+I had been choosing small answers because small answers usually damaged less. Now more road needed holding.
+
+So more road was held.
 
 The entire failing inner edge stopped falling. Instantly. Dust continued dropping from the old stone.
 

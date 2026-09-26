@@ -1,29 +1,29 @@
 # Chapter 8 — Outside the Lanterns
 
-**Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
-**Revision Date:** 2026-09-20
+**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / PLAY LOGIC + JACKAL LUCK RETCON — GATE 9 REVALIDATION REQUIRED
+**Revision Date:** 2026-09-27
 **Word Count:** 2,821
 **Chapter QA:** `qa/CH-008-GATE-9-CHAPTER-QA.md`
 
 "Can you lift?"
 
-That was Kellan Dorr's first question. Not what happened to me. Not whether the stories were true.
+That was Kellan Dorr's first question. Not what happened to him. Not whether the stories were true.
 
-Not why a man who had been opened below the ribs yesterday was already walking down Greywake's western road. Just whether I could lift. I liked him immediately.
+Not why a man who had been opened below the ribs yesterday was already walking down Greywake's western road. Just whether Red could lift. He liked him immediately.
 
 "I can."
 
 "How much?"
 
-That answer deserved thought. My side was mostly closed now. Mostly.
+That answer deserved thought. his side was mostly closed now. Mostly.
 
-Sela had released me from immediate observation with several instructions, two warnings, and the expression of a woman who expected me to interpret all of them creatively. My ribs still hurt when I twisted too far. That did not mean I was weak.
+Sela had released him from immediate observation with several instructions, two warnings, and the expression of a woman who expected him to interpret all of them creatively. his ribs still hurt when Red twisted too far. That did not mean he was weak.
 
-It meant ribs were dramatic. Kellan waited. I pointed at the work cart.
+It meant ribs were dramatic. Kellan waited. Red pointed at the work cart.
 
 "More than that."
 
-He looked at the cart. Then at me.
+He looked at the cart. Then at him.
 
 "You guard your left side when you breathe."
 
@@ -31,21 +31,21 @@ He looked at the cart. Then at me.
 
 "Short boards. Lumber doesn't care."
 
-He kept walking. I stared after him. No awe.
+He kept walking. Red stared after him. No awe.
 
-No follow-up. No opportunity to explain how medically upsetting I had become. Cruel man.
+No follow-up. No opportunity to explain how medically upsetting Red had become. Cruel man.
 
 A charged Wayfarer Tongue Token hung from the side of the cart, keeping everyone's spoken Valic understandable. Two workers walked ahead carrying axes and hand tools. A third pushed a narrow wheelbarrow loaded with iron straps, nails, rope, and pieces of reused timber.
 
-I picked up the short boards. Being an anomaly remained surprisingly compatible with lumber. We left the better road behind before I found a way to object.
+Red picked up the short boards. Being an anomaly remained surprisingly compatible with lumber. they left the better road behind before he found a way to object.
 
 The change was not dramatic. No gate. No warning bell.
 
-No armored guard pointing at the wilderness and telling us civilization stopped there. The maintained road simply narrowed. Drainage channels grew shallower.
+No armored guard pointing at the wilderness and telling them civilization stopped there. The maintained road simply narrowed. Drainage channels grew shallower.
 
 The packed surface gave way to repairs made from whatever had been available at the time. And the lantern posts grew farther apart. Greywake's regular route lamps stood on thick posts at predictable intervals along the busier approaches.
 
-Then we passed one. Then another. Then one final post.
+Then they passed one. Then another. Then one final post.
 
 After that, there was road. No lantern. The people continued anyway.
 
@@ -57,7 +57,7 @@ No clean line where life stopped. Only fewer things Greywake maintained for them
 
 "Outside the lantern line."
 
-I looked over my shoulder.
+Red looked over his shoulder.
 
 "Official phrase?"
 
@@ -65,7 +65,7 @@ I looked over my shoulder.
 
 "Shame. It has excellent dramatic value."
 
-One worker laughed. Kellan pointed at my boards.
+One worker laughed. Kellan pointed at his boards.
 
 "Carry those to the bridge."
 
@@ -75,7 +75,7 @@ It was maintained differently. A rut had been filled with loose stone near one f
 
 Someone had reopened a drainage channel with a shovel and left the fresh mud piled beside it. Everything looked patched. Used.
 
-Repeatedly saved from becoming worse. We passed a cart carrying sacks toward Greywake. Another came the other direction with iron tools and salt.
+Repeatedly saved from becoming worse. they passed a cart carrying sacks toward Greywake. Another came the other direction with iron tools and salt.
 
 A woman outside a workshop called to Kellan.
 
@@ -87,7 +87,7 @@ A woman outside a workshop called to Kellan.
 
 "It isn't."
 
-She nodded like that answer belonged to a familiar language. Nobody asked who I was. My reputation continued to fail spectacularly outside centralized administration.
+She nodded like that answer belonged to a familiar language. Nobody asked who Red was. his reputation continued to fail spectacularly outside centralized administration.
 
 The bridge appeared beyond a cluster of timber sheds. Calling it a bridge was generous. But correct.
 
@@ -95,13 +95,13 @@ It crossed a seasonal cut where rainwater could apparently become violent enough
 
 Several boards were newer than the rest. Not new. Newer.
 
-I had spent enough time around repaired roads to understand the difference. Three workers were already there. One worked under the bridge with a mallet.
+Red had spent enough time around repaired roads to understand the difference. Three workers were already there. One worked under the bridge with a mallet.
 
 Another levered up a warped board. The third stacked stone near the soft approach. Kellan did not announce himself.
 
 He put down his axe and crouched at the edge. Everyone else kept working. Authority confirmed.
 
-I set the short boards down. My ribs complained. I ignored them.
+Red set the short boards down. his ribs complained. He ignored them.
 
 Kellan ran one hand along the exposed support. Tapped twice. Looked underneath.
 
@@ -117,17 +117,17 @@ The worker below answered.
 
 Kellan leaned farther over. He studied the grain. The moisture.
 
-Old nail holes. Previous repairs. Then pointed at one of my boards.
+Old nail holes. Previous repairs. Then pointed at one of his boards.
 
 "Not that one. Too narrow."
 
 A worker handed him a thicker piece without discussion. No argument. No ceremony.
 
-He knew the bridge. Useful. I looked at the deck.
+He knew the bridge. Useful. Red looked at the deck.
 
 "How many times has this been repaired?"
 
-Kellan glanced at me.
+Kellan glanced at him.
 
 "This season?"
 
@@ -135,7 +135,7 @@ Kellan glanced at me.
 
 "Three."
 
-I looked again. The bridge crew on the Main Caravan Road had arrived with fitted clamps, measured timber, dedicated tools, and enough replacement material to remove what had failed. Here, half the decking had old nail holes.
+Red looked again. The bridge crew on the Main Caravan Road had arrived with fitted clamps, measured timber, dedicated tools, and enough replacement material to remove what had failed. Here, half the decking had old nail holes.
 
 "You reuse boards."
 
@@ -151,7 +151,7 @@ He pointed at three cleaner boards stacked near the approach.
 
 "Some arrived."
 
-I counted them. Ah. The joke was already here.
+Red counted them. Ah. The joke was already here.
 
 Kellan stood.
 
@@ -165,11 +165,11 @@ One worker looked at the supply cart.
 
 The driver sighed. Nobody argued. They had done this before.
 
-I picked up a crate. Then another. On the fourth, the movement pulled at my left ribs.
+Red picked up a crate. Then another. On the fourth, the movement pulled at his left ribs.
 
 Pain. Not weakness. Not depletion.
 
-A reminder that my body had been rebuilt recently and the nerves had apparently kept detailed records. I adjusted my grip. Kellan noticed.
+A reminder that his body had been rebuilt recently and the nerves had apparently kept detailed records. Red adjusted his grip. Kellan noticed.
 
 "Put it down."
 
@@ -181,7 +181,7 @@ A reminder that my body had been rebuilt recently and the nerves had apparently 
 
 "You're still doing it."
 
-I set it down. My dignity survived. Barely.
+Red set it down. his dignity survived. Barely.
 
 He pointed toward a lighter crate.
 
@@ -191,21 +191,21 @@ He pointed toward a lighter crate.
 
 "I assign them by whether I want the work finished today."
 
-I picked up the lighter crate. Kellan returned to the bridge. Conversation over.
+Red picked up the lighter crate. Kellan returned to the bridge. Conversation over.
 
 The world paused. A worker froze halfway through pulling a rope. Dust hung above the road.
 
-Kellan remained bent over the approach with one hand against the timber. I looked toward you.
+Kellan remained bent over the approach with one hand against the timber. Red looked toward the unseen audience.
 
-"I have survived interdimensional administrative rejection, predator attacks, and medically offensive regeneration."
+"I have survived interdimensional administrative rejection, predator attacks, and medically offensive body restoration."
 
-I lifted the lighter crate.
+Red lifted the lighter crate.
 
 "Defeated by workplace accommodations."
 
 Time resumed. The rope snapped taut. Nobody noticed.
 
-The work continued. That was the next thing I learned about the Outer Homesteads. Nobody seemed surprised by inconvenience.
+The work continued. That was the next thing Red learned about the Outer Homesteads. Nobody seemed surprised by inconvenience.
 
 Bridge damaged? Repair it. Boards late?
 
@@ -215,9 +215,9 @@ Drainage clogs? Dig. Nothing heroic.
 
 Everything constant. By midmorning, the workers had lifted two damaged planks, replaced one brace, and packed the soft edge of the approach with stone. Kellan checked every step.
 
-Not because he distrusted them. Because if the bridge failed after a loaded cart crossed, being admired afterward would not improve the dead horse. I leaned against the cart and looked west.
+Not because he distrusted them. Because if the bridge failed after a loaded cart crossed, being admired afterward would not improve the dead horse. Red leaned against the cart and looked west.
 
-There were more homesteads than I expected. Not one poor settlement at the edge of the map. Clusters.
+There were more homesteads than Red expected. Not one poor settlement at the edge of the map. Clusters.
 
 A roof through the trees. Fields beyond a low ridge. A carpentry yard.
 
@@ -225,7 +225,7 @@ Smoke from another compound. People crossed the bridge carrying ordinary things.
 
 Boards. Tools. A rolled hide.
 
-Nothing designed to make history. Everything required to keep living. I nodded toward the traffic.
+Nothing designed to make history. Everything required to keep living. Red nodded toward the traffic.
 
 "How many people use this crossing?"
 
@@ -261,11 +261,11 @@ He looked at the repaired strap.
 
 No speech. No revolution. Arithmetic.
 
-I looked at the bridge again. The Guild workers on the main road had not been lazy. These workers were not lazy either.
+Red looked at the bridge again. The Guild workers on the main road had not been lazy. These workers were not lazy either.
 
 The difference was what arrived with them. Materials. Attention.
 
-Priority. I had not come here to save anyone. I came because the job paid, because sitting on Sela's table had become boring, and because the difference between Greywake's roads had begun irritating me.
+Priority. Red had not come here to save anyone. He came because the job paid, because sitting on Sela's table had become boring, and because the difference between Greywake's roads had begun irritating him.
 
 Unfortunately, problems became harder to ignore after they acquired names, bridges, and people still working through them. Near midday, half the supplies had crossed by hand. The cart remained on the near side.
 
@@ -281,7 +281,7 @@ The driver had already moved the cart forward half a wheel. Kellan crouched and 
 
 "No."
 
-I looked at him.
+Red looked at him.
 
 "No forward. No back."
 
@@ -295,9 +295,9 @@ One worker crouched beside him.
 
 "Not while the wheel is sitting there."
 
-I looked at the gap. Small. Annoyingly small.
+Red looked at the gap. Small. Annoyingly small.
 
-Exactly the kind of problem that became expensive when several hundred kilograms of cart decided gravity deserved a vote. I smiled. Kellan saw it.
+Exactly the kind of problem that became expensive when several hundred kilograms of cart decided gravity deserved a vote. Red smiled. Kellan saw it.
 
 "No."
 
@@ -309,7 +309,7 @@ Exactly the kind of problem that became expensive when several hundred kilograms
 
 "That is different."
 
-Rude. I crouched beside him.
+Rude. Red crouched beside him.
 
 "I can make support."
 
@@ -331,7 +331,7 @@ That got his attention.
 
 "As long as we need it."
 
-He considered me. No amazement. No fear.
+He considered him. No amazement. No fear.
 
 Engineering suspicion. Better.
 
@@ -353,13 +353,13 @@ Fair. He marked the exact line with the tip of the bar.
 
 "Here."
 
-I looked at the geometry. I could have made a stone platform across the entire approach. A new bridge.
+Red looked at the geometry. He could have made a stone platform across the entire approach. A new bridge.
 
 A steel road. A staircase descending directly into Kellan's patience. None of that was the job.
 
 One wheel. One weak strip. Transfer the load from the soft edge to the packed stone and root shelf.
 
-That was all. I held out one hand. The space beneath the wheel changed.
+That was all. Red held out one hand. The space beneath the wheel changed.
 
 Pale-grey material pressed itself against the ground. Flat enough. Wider than necessary on the left.
 
@@ -369,7 +369,7 @@ He pointed immediately.
 
 "Right side is flatter."
 
-I stared at him.
+Red stared at him.
 
 "That is your reaction?"
 
@@ -395,11 +395,11 @@ Kellan watched the contact point.
 
 The cart moved. The support did not crack. It did not flicker.
 
-It simply did the job I had asked it to do. The wheel crossed the weak edge. Reached the bridge deck.
+It simply did the job Red had asked it to do. The wheel crossed the weak edge. Reached the bridge deck.
 
 "Clear."
 
-I let the footing go. It softened. Folded away.
+Red let the footing go. It softened. Folded away.
 
 The damaged approach remained damaged. Of course it did. Kellan was already pointing at the exposed section.
 
@@ -409,7 +409,7 @@ The permanent repair started before the last pale trace disappeared. One worker 
 
 "Useful."
 
-He picked up his shovel. That was the review. I looked at Kellan.
+He picked up his shovel. That was the review. Red looked at Kellan.
 
 "Your people are difficult."
 
@@ -417,7 +417,7 @@ He picked up his shovel. That was the review. I looked at Kellan.
 
 "Exactly."
 
-He handed me a waterskin. I drank. My ribs still hurt from the earlier lifting.
+He handed him a waterskin. Red drank. his ribs still hurt from the earlier lifting.
 
 The manifestation had not made the pain worse. Why would it? The support had been easier than carrying four bad crates.
 
@@ -429,7 +429,7 @@ Different kinds of work. Kellan glanced at the place where it had been.
 
 "Good."
 
-I waited.
+Red waited.
 
 "That's it?"
 
@@ -443,7 +443,7 @@ I waited.
 
 "It is gone now."
 
-I pointed at him.
+Red pointed at him.
 
 "You are ruining this for me."
 
@@ -451,39 +451,39 @@ He looked toward the workers packing stone.
 
 "Your trick moved the cart."
 
-Then he looked back at me.
+Then he looked back at him.
 
 "It didn't fix the road."
 
-I almost laughed.
+Red almost laughed.
 
 "I noticed."
 
 "Good."
 
-He returned to work. That was the end of my supernatural evaluation. The next hour belonged to stone, timber, iron, and mud.
+He returned to work. That was the end of his supernatural evaluation. The next hour belonged to stone, timber, iron, and mud.
 
 Nothing appeared from nowhere. The approach widened around the root shelf. A second brace went under the outer edge.
 
-Two deck boards were flipped and reused because the undersides had more life left in them. I helped. Mostly holding, carrying smaller loads, and passing tools.
+Two deck boards were flipped and reused because the undersides had more life left in them. Red helped. Mostly holding, carrying smaller loads, and passing tools.
 
-Not because I could not do more. Because there was no prize for turning every task into a demonstration. By early afternoon, the crossing could take light carts again.
+Not because Red could not do more. Because there was no prize for turning every task into a demonstration. By early afternoon, the crossing could take light carts again.
 
-Heavy wagons would wait. Kellan marked the restriction on a board beside the bridge. The writing meant absolutely nothing to me.
+Heavy wagons would wait. Kellan marked the restriction on a board beside the bridge. The writing meant absolutely nothing to him.
 
-Then he drew a wheel symbol beneath it and crossed out a larger wagon pictogram. That I understood.
+Then he drew a wheel symbol beneath it and crossed out a larger wagon pictogram. That Red understood.
 
-"You use symbols because not everyone reads?" I asked.
+"You use symbols because not everyone reads?" Red asked.
 
 "Because everyone understands a broken wagon."
 
-Reasonable. The supply cart continued west. We walked with it toward the next junction.
+Reasonable. The supply cart continued west. they walked with it toward the next junction.
 
 This road was worse. Not unusable. Tired.
 
 Different sections had been patched with different materials. Some drainage cuts were lined with stone. Others with split logs. One marker post still carried an old Guild stamp burned into the wood, with a newer local brace nailed around the base.
 
-Kellan touched it as we passed.
+Kellan touched it as they passed.
 
 "Guild post?"
 
@@ -501,21 +501,21 @@ Unreadable. Naturally. Below the writing were simple pictograms.
 
 Cart. Bridge. A claw mark inside a circle.
 
-That one I recognized from earlier Guild route cards. Hazard warning. The official claw symbol carried a small mark beside it.
+That one Red recognized from earlier Guild route cards. Hazard warning. The official claw symbol carried a small mark beside it.
 
-Low warning. Kellan stopped. I pointed at it.
+Low warning. Kellan stopped. Red pointed at it.
 
 "Current?"
 
 "According to Greywake."
 
-Then I saw the strip tied beneath the official marker. Fresh wood. Painted red.
+Then Red saw the strip tied beneath the official marker. Fresh wood. Painted red.
 
 Three claw marks cut deeply into it. Beside them were short tally cuts. One.
 
 Two. Three. Then two more, carved in a slightly different hand.
 
-I looked at Kellan.
+Red looked at Kellan.
 
 "What is that?"
 
@@ -529,7 +529,7 @@ I looked at Kellan.
 
 "Four days."
 
-I looked at the official marker again. Then the red strip. Old official information.
+Red looked at the official marker again. Then the red strip. Old official information.
 
 Fresh local information.
 
@@ -549,7 +549,7 @@ Fresh local information.
 
 "Five days ago."
 
-Before the sightings. I looked down the road.
+Before the sightings. Red looked down the road.
 
 "Normal?"
 
@@ -557,15 +557,15 @@ Kellan gave a short breath through his nose.
 
 "Normal enough."
 
-That phrase again. I disliked it more every time. A worker beside us tightened the cord holding the red warning strip.
+That phrase again. Red disliked it more every time. A worker beside them tightened the cord holding the red warning strip.
 
 No speech. No outrage. Just maintenance.
 
-Even the danger information had become something the people outside the lanterns maintained themselves. I stepped closer to the official marker. I could not read the text.
+Even the danger information had become something the people outside the lanterns maintained themselves. Red stepped closer to the official marker. He could not read the text.
 
-Did not matter. I could recognize the low-warning pictogram. I could see fresh paint.
+Did not matter. Red could recognize the low-warning pictogram. He could see fresh paint.
 
-I could count to five. Yesterday Tavian had told me the animals were moving wrong. Today, the people living beyond Greywake's routine protection were already recording that wrongness themselves.
+Red could count to five. Yesterday Tavian had told him the animals were moving wrong. Today, the people living beyond Greywake's routine protection were already recording that wrongness themselves.
 
 That proved one thing. Only one. The official information had not caught up.
 
@@ -573,9 +573,9 @@ It did not prove someone was hiding anything. It did not prove anyone inside the
 
 It proved the board was behind reality. That was enough to be interesting. The bridge job was finished.
 
-I could go back to Greywake. Collect my pay. Find food.
+Red could go back to Greywake. Collect his pay. Find food.
 
-Possibly avoid Sela long enough that she did not ask what I had lifted. I kept looking at the five fresh marks. Kellan noticed.
+Possibly avoid Sela long enough that she did not ask what Red had lifted. He kept looking at the five fresh marks. Kellan noticed.
 
 "You going to ask something?"
 
@@ -583,11 +583,11 @@ Possibly avoid Sela long enough that she did not ask what I had lifted. I kept l
 
 "What?"
 
-I looked at the official warning. Then the local strip.
+Red looked at the official warning. Then the local strip.
 
 "Who decides when that one changes?"
 
-He followed my eyes.
+He followed his eyes.
 
 "Greywake."
 
@@ -597,11 +597,11 @@ He frowned.
 
 "Why is that good?"
 
-I smiled.
+Red smiled.
 
 "Because now I know where to be annoying."
 
-Kellan looked at me for a second. Then at the warning board. He did not smile.
+Kellan looked at him for a second. Then at the warning board. He did not smile.
 
 That was fine. The joke was not the important part. Five fresh cuts sat beneath an older official warning.
 

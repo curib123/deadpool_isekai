@@ -30,7 +30,7 @@ Every `WEAK` or `MISSING` result has an immediately adjacent `FIX:` line. The re
 - 26 current Arc 1 manuscripts: `manuscript/CH001...CH026`.
 - 26 current Arc 1 publication copies: `published/volume-001/CH001...CH026`.
 - 26 current chapter Gate 9 records.
-- CH-027 is excluded because it remains a separate first-person synchronization task.
+- CH-027 is excluded because Arc 1 ends at CH-026; CH-027 is now current Volume 2 canon.
 - No protected writer-truth or forbidden progression terms were found in the Arc 1 manuscript scan for `Soul Drift`, `Great Design`, `Savael`, `Exterior Needle`, `Eidrathi`, staged progression, or finite manifestation resources.
 - The existing Greywake battle audit contains nine distinct action entries and a continuous CH-022 → CH-023 → CH-024 climax.
 - The starting weakness found in this checklist pass—stale aggregate publication-status language and missing current copy metadata for CH-017 through CH-026—was repaired and re-QA'd without changing reader-facing prose.
@@ -50,8 +50,8 @@ Every `WEAK` or `MISSING` result has an immediately adjacent `FIX:` line. The re
 
 - **Evidence:** CH-001–CH-007 establish Red's theatrical, curious, self-authored, anti-control voice, habits, risk appetite, ego, preference for interesting problems, and ability to carry investigation/action without relying on combat.
 - **Evidence:** CH-003, CH-010, CH-013, CH-017, CH-025, and CH-026 are carried by observation, decisions, procedure, argument, consequence, or departure rather than a fight.
-- Red makes active decisions, including the CH-015 lure removal and CH-018–CH-024 coalition choices; he can joke, stop joking, care about people, and surprise without becoming a different character.
-- Arc-level change is factual/tactical: he recognizes the causal cost of his CH-015 decision and chooses to help repair the damage without becoming a conventional obedient hero.
+- Red makes active decisions, including the CH-015 lure removal and CH-018–CH-024 coalition choices; he can joke, become serious, like or protect particular people, and surprise without accepting a universal heroic duty.
+- Arc-level change is factual/tactical only: he recognizes the causal cost of his CH-015 decision, stays because the mess now has his fingerprints on it and he wants to see it through, and refuses to let that fact become moral ownership or obedience.
 
 ## 3. Overpowered MC — MANDATORY
 
@@ -93,7 +93,7 @@ Every `WEAK` or `MISSING` result has an immediately adjacent `FIX:` line. The re
 **Status: PASS**
 
 - **Evidence:** Red's chemistry differs with Maelis's procedure, Tavian's field skepticism, Kellan's practical infrastructure concerns, Brynn's command discipline, Jessa's institutional knowledge, and Hesk's ideological conflict.
-- CH-003–CH-014 develop shared investigation and disagreement; CH-015–CH-024 convert those relationships into trust, friction, responsibility, and coordinated action.
+- CH-003–CH-014 develop shared investigation and disagreement; CH-015–CH-024 convert those relationships into trust, friction, causal consequence, chosen cooperation, and coordinated action.
 - Quiet scenes in CH-010, CH-017, CH-025, and CH-026 remain relationally active rather than filler.
 - The Red/Tavian, Red/Maelis, Red/Kellan, and Red/Greywake relationships change through shared consequences.
 

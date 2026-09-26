@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FINAL STORY-ENGINE — GATE 9 REVALIDATION
 **Revision Date:** 2026-09-26
-**Word Count:** 2,176
+**Word Count:** 1,795
 
 White.
 

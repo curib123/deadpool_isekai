@@ -4,7 +4,7 @@
 **Manuscript:** `manuscript/CH026-BEFORE-THEY-DECIDE-WHAT-I-AM.md`  
 **Review Date:** 2026-09-20  
 **Status:** PASS — CURRENT CANON REVALIDATED  
-**Word Count:** 1,510
+**Word Count:** 1,517
 
 > **Final-engine authority note (2026-09-20):** Any legacy wording below that treats Stage labels, manifestation counts, fatigue, injury, or regeneration as a raw-capacity/progression limit is superseded by the current manuscript, current scene-architecture override, and Soul-Drift / Final Story-Engine revalidation. Event/reveal/knowledge checks remain authoritative.
 
@@ -246,3 +246,13 @@ Verified:
 - no copyrighted dialogue, scene or character copy introduced.
 
 The revision changes interpretation of Red's motive, not the chapter's causal outcome.
+
+
+# Repeated-Recheck Natural-Prose Revalidation — 2026-09-26
+
+**Status:** PASS — CURRENT CANON
+
+- author-facing anti-retcon wording removed from reader prose;
+- final Red power/personality model preserved through natural scene behavior;
+- plot, mystery, battle outcome and continuity unchanged;
+- publication copy synchronized exactly.

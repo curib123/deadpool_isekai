@@ -18,7 +18,7 @@ Red looked at the ledger. Then at her. "I still cannot read Veyran."
 
 Across the table, Jessa had arranged three stacks. Issue forms. Service records.
 
-Returns. his contribution was apparently standing nearby while literate people weaponized inventory. Maelis pushed another record toward Jessa. "Again."
+Returns. His contribution was apparently standing nearby while literate people weaponized inventory. Maelis pushed another record toward Jessa. "Again."
 
 Jessa checked the issue entry, then the service ledger. Her finger stopped. Back.
 
@@ -150,7 +150,9 @@ Red could work with that. The Road Guild storehouse sat behind the main hall. Tw
 
 Witnesses, not an army. Jessa led them through the receiving floor. Workers stopped when they recognized her.
 
-Then Maelis. Then him. Interesting order.
+Then Maelis. Then Red.
+
+*Interesting order.*
 
 The lure-material cage was behind a second interior gate. Jessa pointed. "That one."
 
@@ -394,6 +396,6 @@ The records were here. Jessa's signed explanation was here. Hesk was not.
 
 Outside, another horn sounded. Longer. Closer.
 
-they had the stock. they had the proof. Hesk still had one key.
+They had the stock. They had the proof. Hesk still had one key.
 
 And somewhere ahead of the migration, there was still one lure he could reach.

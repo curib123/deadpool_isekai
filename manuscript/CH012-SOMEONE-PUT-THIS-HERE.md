@@ -95,7 +95,7 @@ Kellan looked at her. "You really enjoy making every sentence less satisfying."
 
 "I enjoy making it true."
 
-That was the problem with competent people. They kept making boring distinctions useful. they spent the next part of the morning reading the site without disturbing it.
+That was the problem with competent people. They kept making boring distinctions useful. They spent the next part of the morning reading the site without disturbing it.
 
 Tavian circled the ruined watch point and followed animal sign. Kellan traced the old roadwork and drainage cuts. Maelis measured the lure angle and copied the visible markings.
 
@@ -179,7 +179,7 @@ Inside the displacement side. Then Tavian's track route. North again.
 
 Nobody spoke for a moment. Red looked at the map. Main-road job on one side.
 
-Pack attack closer to the line. Kellan's bridge farther into the outer route. his jobs had felt random when Red accepted them.
+Pack attack closer to the line. Kellan's bridge farther into the outer route. His jobs had felt random when Red accepted them.
 
 Now they sat on the same piece of paper. "Interesting." his voice came out flatter than Red intended.
 
@@ -223,7 +223,7 @@ Not always. But Red understood what he meant. "Most people out there can't."
 
 Red looked at the map again. The anger stayed. It just stopped being neat.
 
-they reached Greywake's outer approach before the Guild reached them. That lasted about three minutes. Four Road Guild personnel came down from the core side.
+They reached Greywake's outer approach before the Guild reached them. That lasted about three minutes. Four Road Guild personnel came down from the core side.
 
 Two wore road-guard gear. One carried a document case. The fourth was an older route supervisor Red had seen in the caravan yard.
 
@@ -349,7 +349,7 @@ Boots sounded behind the Guild group. Captain Brynn Alder arrived with two milit
 
 Guild. Maelis. Tavian.
 
-Kellan. him. She stopped there. "Why are you in the middle?"
+Kellan. Red. She stopped there. "Why are you in the middle?"
 
 "Natural leadership."
 
@@ -421,7 +421,7 @@ That was a very Maelis sentence. Maelis seemed to approve. "If Hesk objects, he 
 
 Nobody drew a weapon. The lure stayed exactly where they had found it. For once, leaving something alone counted as progress.
 
-they ended the day at a militia road table near Greywake's outer post. Neutral enough that the Guild did not own the room. Public enough that nobody could quietly make the papers disappear.
+They ended the day at a militia road table near Greywake's outer post. Neutral enough that the Guild did not own the room. Public enough that nobody could quietly make the papers disappear.
 
 Maelis spread three maps across the table. Red could not read a single label. He was becoming extremely skilled at being offended by maps.
 

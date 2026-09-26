@@ -889,7 +889,8 @@ See `systems/SYSTEMS-BIBLE.md` for mechanics.
 Character-relevant ability identity:
 - unregistered Soul-Drift existence;
 - unbounded Play Logic;
-- extreme/near-immediate self-restoration;
+- automatic Play Logic body restoration when Red's self-concept rejects damage as final;
+- Jackal Luck: passive probability/coincidence distortion;
 - Fourth-Wall Pause;
 - total absence of conventional level/class progression;
 - raw output that is not meaningfully ranked by Veyr's normal power hierarchy;
@@ -1022,7 +1023,7 @@ He does **not** begin knowing:
 - the exact cause of the explosion;
 - the term Soul Drift;
 - why his soul has NO RECORD;
-- why Play Logic and regeneration express through him;
+- why Play Logic can automatically restore his body and why Jackal Luck bends probability around him;
 - the true Great Design;
 - whether anyone else has ever far-drifted between worlds.
 
@@ -1348,6 +1349,26 @@ Aren represents almost everything Red Jackal mocks about respectable heroism, bu
 Red Jackal represents everything Aren fears about charismatic power without accountability.
 
 Neither is automatically morally correct in every conflict.
+
+### Jackal Luck Character Rule
+
+Red does not behave like a gambler who knows the odds are rigged.
+
+He generally:
+- acts first;
+- improvises;
+- guesses;
+- chooses what feels entertaining;
+- notices afterward that coincidence became suspiciously convenient.
+
+When luck saves or helps him, his reaction should often be:
+- amused;
+- mildly confused;
+- shamelessly willing to take credit.
+
+Do not make him repeatedly announce that he has a luck power.
+
+Supporting characters may mistake lucky coincidence for planning, foresight, secret information, or terrifying confidence.
 
 # 3A. Dialogue and Scene-Presence Fingerprints — LOCKED
 

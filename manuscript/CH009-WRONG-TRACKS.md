@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 2991
+**Word Count:** 2,998
 **Chapter QA:** `qa/CH-009-GATE-9-CHAPTER-QA.md`
 
 I stepped out of my rented room and found Tavian waiting at the end of the lane. Polearm over one shoulder. Field pack at his side.
@@ -143,7 +143,7 @@ I looked at the map.
 
 Tavian rolled the map halfway closed.
 
-"Kellan can tell me five predators were seen. A warning strip cannot tell me why."
+"Kellan can tell me where five predators crossed. A warning strip tells me somebody was worried. Neither tells me what moved them."
 
 "And you can?"
 

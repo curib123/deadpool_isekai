@@ -76,18 +76,109 @@ He does not gradually become:
 
 He may:
 - learn facts;
-- gain relationships;
+- gain relationships without accepting duty;
 - remember fragments;
 - understand local culture better;
 - change tactics;
-- care about particular people;
+- like, tolerate, use, protect, or become possessive of particular people;
 - temporarily become serious;
-- regret a specific mistake;
-- alter a plan.
+- remember that a mistake caused trouble;
+- alter a plan because the previous version was inconvenient or boring.
 
 Those changes must not rewrite his core personality.
 
 **Red at the end of the series is still the same self-centered, theatrical, aura-farming, enemy-playing, fourth-wall-breaking anti-villain lunatic he was at the beginning.**
+
+# 3A. Final Reader-Facing Personality Law
+
+Red Jackal's permanent reader-facing identity is:
+
+**clueless chaos + meta-comedy + effortless aura + accidental legend.**
+
+This law is inspired only by broad archetypal appeal. It does not authorize copying exact dialogue, characterization, scenes, costume language, lore or signature sequences from existing works.
+
+## 3A.1 Clueless Power
+
+Red knows that he can do impossible things.
+
+He does not know his real upper limit and does not particularly care to find it.
+
+He is not a power researcher.
+
+He is not chasing a rank.
+
+He is not training toward a final form.
+
+He may discover a practical behavior by accident and immediately treat it as normal.
+
+The world is more interested in measuring Red than Red is interested in measuring himself.
+
+## 3A.2 World-On-His-Side Effect
+
+Red often behaves as though the world is his stage.
+
+This does **not** mean Fate literally guarantees his success.
+
+The narrative effect is created through:
+- outrageous confidence;
+- absurd luck at socially perfect moments;
+- other people overinterpreting what he did;
+- coincidences that make nonsense look intentional;
+- enemies assuming restraint means hidden strategy;
+- witnesses connecting unrelated facts into a legend;
+- Red improvising after everyone has already decided he planned it.
+
+This may produce the recurring impression that reality itself is helping his performance.
+
+Sometimes it should backfire.
+
+## 3A.3 Accidental Legend / Misinterpretation Law
+
+A recurring causal engine is:
+
+**simple Red motive → dramatic Red action → deeper interpretation by witnesses → coincidence/evidence appears to support the interpretation → reputation grows → later consequences return to Red.**
+
+Examples of valid interpretations:
+- mastermind;
+- hidden noble;
+- ancient monster;
+- secret hero;
+- final-boss-level threat;
+- prophet;
+- tactician;
+- agent of a faction he has never heard of;
+- person who intentionally predicted events he guessed.
+
+Red may not know what people think he meant.
+
+He may accept the credit anyway.
+
+## 3A.4 Indifference Boundary
+
+Red does not possess a standing obligation to:
+- save Veyr;
+- protect every civilian;
+- fix institutions;
+- obey the legitimate Hero;
+- oppose every villain;
+- complete prophecies;
+- accept leadership;
+- become morally exemplary.
+
+If he helps, the immediate reason should usually belong to Red:
+- entertainment;
+- ego;
+- annoyance;
+- curiosity;
+- money;
+- revenge;
+- convenience;
+- possession;
+- freedom;
+- reputation;
+- personal preference.
+
+A heroic result may happen around him without turning his motive heroic.
 
 # 4. Overpowered Role-Player Law
 
@@ -271,6 +362,35 @@ This section is authoritative wherever older language is ambiguous.
 - Geography, world map, locked destination order, Greywake pacing spine, and Merrowgate pacing spine remain preserved.
 - Unexpected situations must be earned from Red's personality and must leave consequences.
 
+
+# 11A. Serial Momentum Law
+
+Every chapter must move.
+
+A chapter may be quiet, but it may not be inert.
+
+Each chapter requires:
+1. an immediate objective, problem, contradiction or disturbance;
+2. at least one meaningful change in pressure, knowledge, position, reputation, relationship or risk;
+3. at least one Red-specific entertainment beat: chaos, aura, misunderstanding, power oddity, irreverence, confrontation, or unexpected choice;
+4. an ending that creates a concrete reason to continue.
+
+No long chain of chapters may rely on the same pressure type.
+
+Rotate:
+- combat;
+- dangerous work;
+- social conflict;
+- mystery;
+- absurdity;
+- political trouble;
+- reputation;
+- travel complication;
+- villain action;
+- accidental misunderstanding;
+- consequence.
+
+Worldbuilding must ride on movement rather than stop the story.
 
 # 12. Battle Composition Law
 

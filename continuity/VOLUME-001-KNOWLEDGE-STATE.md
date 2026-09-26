@@ -6,7 +6,7 @@
 **Status:** CURRENT CANON SUPPORT RECORD — FINAL STORY ENGINE  
 **Revalidated:** 2026-09-26
 
-This file replaces older Greywake continuity notes that used Stage I/II progression, finite manifestation counts, Play Logic stamina, injury-based precision loss, regeneration depletion, third-person POV, or conventional Red moral-development language.
+This file replaces older Greywake continuity notes that used Stage I/II progression, finite manifestation counts, Play Logic stamina, injury-based precision loss, obsolete regeneration-depletion assumptions, third-person POV, or conventional Red moral-development language.
 
 Current authority:
 - `series/SERIES-CONSTITUTION.md`
@@ -35,7 +35,8 @@ Red Jackal is:
 - not secretly a high numerical level;
 - not progressing through stages, tiers, awakenings, or forms;
 - capable of Play Logic with no known intrinsic raw-power ceiling;
-- capable of extreme self-restoration/regeneration;
+- capable of automatic Play Logic body restoration; there is no separate regeneration power;
+- possesses passive Jackal Luck that bends coincidence and probability;
 - capable of genuine Fourth-Wall Pause from CH-001;
 - distant third-person limited focal character;
 - self-centered;
@@ -72,7 +73,7 @@ None of that creates:
 - a precision stat;
 - a power lock caused by injury.
 
-Regeneration does not erase:
+Play Logic body restoration does not erase:
 - pain already experienced;
 - damage to roads/buildings;
 - another person's injuries;
@@ -81,6 +82,22 @@ Regeneration does not erase:
 - lost time;
 - trust;
 - ecological disruption.
+
+# Jackal Luck Continuity Rule
+
+Jackal Luck is available from the opening.
+
+It should initially appear as:
+- suspicious timing;
+- useful accidents;
+- improbable but possible coincidence;
+- random choices that unexpectedly matter.
+
+Arc 1 does not need a full technical explanation.
+
+Do not make every coincidence supernatural.
+
+Luck must remain selective enough that ordinary causality still matters.
 
 # 2. Red's Arc 1 Character Boundary
 
@@ -129,7 +146,8 @@ Arc 1 may establish:
 - failed identity/registry relations;
 - physical measurability despite undefined identity;
 - nonstandard Play Logic behavior;
-- nonstandard regeneration;
+- nonstandard automatic Play Logic body restoration;
+- suspicious probability/coincidence behavior consistent with Jackal Luck;
 - local Greywake migration manipulation;
 - Hesk's lure policy and hidden allocation.
 
@@ -168,7 +186,8 @@ Knows:
 Does not know:
 - technical Soul Drift;
 - why Play Logic exists;
-- why regeneration exists;
+- why Play Logic automatically restores his body;
+- why probability bends around him through Jackal Luck;
 - why Fourth-Wall Pause exists;
 - true Fate architecture;
 - Savael;

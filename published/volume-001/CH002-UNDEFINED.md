@@ -414,7 +414,11 @@ Maelis dipped her head. "I know."
 
 "Good."
 
-I liked Brynn. She rested one hand on the desk. "Here's the problem, Red Jackal. The System does not identify you. That means the gate cannot verify your history, entry category, guild standing, legal notices, or travel relation."
+I liked Brynn. She rested one hand on the desk. "Here's what matters, Red Jackal. The gate can't verify your history, entry category, guild standing, legal notices, or travel relation."
+
+She tapped the failed slate.
+
+"So I treat what you've actually done, not what this thing failed to tell me."
 
 "I don't have any of those."
 

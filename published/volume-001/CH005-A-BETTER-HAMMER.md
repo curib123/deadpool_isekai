@@ -310,9 +310,11 @@ One worker leaned away from the head.
 
 "Can you actually use it?"
 
-I adjusted my grip. The weight dragged at my shoulders. The thing was physically real enough to demand actual leverage.
+I adjusted my grip. The weight dragged at my shoulders.
 
-That was important. Creating an absurd hammer did not magically teach my joints to enjoy swinging one.
+Apparently reality was willing to provide the ridiculous hammer and leave leverage as my personal problem.
+
+Cheap service.
 
 "Yes."
 

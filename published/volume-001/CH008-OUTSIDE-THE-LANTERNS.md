@@ -24,7 +24,7 @@ He looked at the cart. Then at me.
 
 "I do many things with style."
 
-"Short boards."
+"Short boards. Lumber doesn't care."
 
 He kept walking. I stared after him. No awe.
 

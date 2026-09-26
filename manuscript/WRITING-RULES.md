@@ -182,6 +182,82 @@ Red smiled. "I prefer 'anticipated badly.'"
 
 The thought should sharpen the beat, not replace dialogue.
 
+# 1B. Natural Story-Prose Flow — LOCKED
+
+The prose must read like a **normally written story**, not a stack of screenplay beats or one-line fragments.
+
+Default paragraph style:
+- 2–5 connected sentences when the same action, thought, or observation belongs together;
+- dialogue should be woven into action and reaction;
+- short fragments are allowed for impact, comedy, shock, or sudden realization;
+- one-line paragraphs should be **selective**, not the default rhythm.
+
+Avoid dry patterns like:
+
+Red looked at the door.
+
+Locked.
+
+Bad.
+
+He sighed.
+
+Instead prefer natural flow:
+
+Red tried the door and found it locked. He stared at the handle for a second, then sighed.
+
+"Of course."
+
+Likewise, avoid mechanical action lists:
+
+He turned.
+
+He walked.
+
+He stopped.
+
+He looked back.
+
+Prefer:
+
+Red turned toward the road, walked a few steps, then stopped when something moved behind him.
+
+### Lively Scene Rule
+
+Scenes should feel alive through a mix of:
+- narration;
+- dialogue;
+- physical reaction;
+- interruption;
+- small environmental details;
+- selective self-thought;
+- character-specific responses.
+
+Dialogue should not float by itself for long stretches. Add what characters are doing while they speak.
+
+### Fragment Rule
+
+Fragments are useful when they sharpen a beat.
+
+Good:
+- Too late.
+- Wonderful.
+- Bad idea.
+- *That was suspiciously convenient.*
+
+Bad:
+- stacking five or more fragments where normal prose would be smoother;
+- breaking every sentence into its own paragraph;
+- using fragments simply to imitate "cinematic" writing.
+
+### Normal Web-Novel Reading Rhythm
+
+Use this flexible pattern:
+
+**narrative paragraph → dialogue → reaction/action → short thought if useful → next narrative paragraph**
+
+The story should feel conversational and visual without reading like a screenplay or bullet list.
+
 # 2. Movie-Like English
 
 Use **simple, natural, cinematic English**.

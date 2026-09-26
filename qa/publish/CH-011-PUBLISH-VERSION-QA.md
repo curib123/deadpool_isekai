@@ -1,11 +1,11 @@
 # CH-011 Publish Version QA
 
 **Canon Source:** `manuscript/CH011-BROKEN-NORTH.md`  
-**Canon Source SHA:** `686e03c8805685c31a630475caaf23a8395352cd`  
+**Canon Source SHA:** `e3d12245ec70d0090fe6346df52d480b90d7ebe9`  
 **Publication Copy:** `published/volume-001/CH011-BROKEN-NORTH.md`  
-**Publication Copy SHA:** `c3e87ba8b1ed4ee00e1d33a1183f631f76977d9d`  
+**Publication Copy SHA:** `ecf5477e5f4664bce18eda3297ba00e6c3beda7b`  
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-20  
+**Review Date:** 2026-09-26
 **Status:** PUBLISH-READY — GATE 11 PASS
 
 # Source Integrity
@@ -33,3 +33,11 @@ Publication copy is exactly the reader-facing title plus current canon body.
 # PASS
 
 **CH-011 is PUBLISH-READY — GATE 11 PASS.**
+
+
+# Repeated-Recheck Publish Revalidation
+
+**Result:** PASS — 2026-09-26
+
+- current canon vs publication prose: **EXACT MATCH**
+- no publication-only semantic change: **PASS**

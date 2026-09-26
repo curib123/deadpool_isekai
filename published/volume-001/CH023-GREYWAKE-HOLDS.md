@@ -54,7 +54,7 @@ Because I let go. Tavian shouted. "Do not kill it!"
 
 He looked at me. I looked at him. "Fine. I was considering options."
 
-He pointed uphill. "Service cut. It wants that."
+He pointed uphill. "North service cut. That's its exit."
 
 Brynn turned. "Upper team! Clear the service cut. Everything loose out of the lane."
 

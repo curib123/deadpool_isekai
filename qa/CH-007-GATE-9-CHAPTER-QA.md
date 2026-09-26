@@ -6,7 +6,7 @@
 **Review Date:** 2026-09-20  
 **Revision Track:** Soul-Drift / Close First-Person / Final Story Engine  
 **Status:** PASS — CURRENT CANON REVALIDATED  
-**Word Count:** 4,205
+**Word Count:** 4,198
 
 # Scope
 
@@ -314,3 +314,15 @@ Verified:
 - no copyrighted dialogue, scene or character copy introduced.
 
 The revision changes interpretation of Red's motive, not the chapter's causal outcome.
+
+
+# Arc 1 Recheck Revalidation — 2026-09-26
+
+**Status:** PASS — CURRENT CANON
+
+Targeted Arc 1 recheck confirmed:
+- current character voice lock preserved;
+- no Red power-progression language remains in the revised prose;
+- plot, scene order, battle outcome and mystery state unchanged;
+- repeated narration tic cleanup does not alter causality;
+- current prose word count synchronized above.

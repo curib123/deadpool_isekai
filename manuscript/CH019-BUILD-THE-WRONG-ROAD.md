@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 1560
+**Word Count:** 1,552
 **Chapter QA:** `qa/CH-019-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-019-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
@@ -22,9 +22,9 @@ A foreman unfolded Kellan's notes across a cart board. He looked at the ground. 
 
 Another worker crouched beside the ditch. "He was optimistic about the roots." Fair.
 
-Tavian walked the road center slowly, watching both surface and edges. "Do not clear this section too narrow." A worker looked up from his axe. "It's brush."
+Tavian walked the road center slowly, watching both surface and edges. "Leave the center wide." A worker looked up from his axe. "It's brush."
 
-"It is also the line we want large animals to keep using."
+"If you choke it, they spill east."
 
 "We can clear the middle faster."
 

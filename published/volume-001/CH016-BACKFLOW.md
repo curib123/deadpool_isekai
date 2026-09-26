@@ -62,7 +62,7 @@ Nobody ever carried everything. A woman dragged sacks toward a cart. Another per
 
 Someone cut the pen gate open instead of trying to lead every animal out. Good choice. The livestock scattered anyway.
 
-Kellan shouted. "Lower connector. Leave the north track."
+Kellan shouted. "Lower connector! Leave the north track—the stone wall gives us room!"
 
 People listened to him. That mattered more than anything I could announce. Tavian climbed onto a low stone edge and looked across the fields. "Do not use the tree-line path."
 

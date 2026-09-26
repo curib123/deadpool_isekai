@@ -138,7 +138,7 @@ I looked at the map.
 
 Tavian rolled the map halfway closed.
 
-"Kellan can tell me five predators were seen. A warning strip cannot tell me why."
+"Kellan can tell me where five predators crossed. A warning strip tells me somebody was worried. Neither tells me what moved them."
 
 "And you can?"
 

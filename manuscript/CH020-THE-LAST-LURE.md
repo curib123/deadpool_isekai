@@ -166,6 +166,10 @@ He looked at Jessa. She held his eyes. "Open it," Maelis said.
 
 The storekeeper reached for the key. A voice behind them said: "Do not." Hesk.
 
+Red's eyes shifted toward the doorway.
+
+*Impeccable timing.*
+
 He entered with three Guild men. No rush. No drawn weapon.
 
 Just a man arriving where he still believed control belonged to him. He looked at Maelis. "You have no authority to seize Road Guild contingency stores."

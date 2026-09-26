@@ -163,13 +163,7 @@ Finally. He tapped the map once.
 
 "A witness."
 
-Less flattering. More accurate. They left the maintained road.
-
-The forest edge looked ordinary for the first ten minutes. Trees. Wet ground.
-
-Ferns. Mud making a determined effort to become footwear. Tavian moved slowly.
-
-Not fearfully. Deliberately. He stopped beside a shallow depression between two low ridges.
+Less flattering. More accurate. They left the maintained road. The forest edge looked ordinary for the first ten minutes. Trees. Wet ground. Ferns. Mud making a determined effort to become footwear. Tavian moved slowly. Not fearfully. Deliberately. He stopped beside a shallow depression between two low ridges.
 
 Red started to step closer. His arm blocked him.
 
@@ -181,9 +175,7 @@ Red looked down. Mud.
 
 "Tracks."
 
-Of course. The world paused. A drop of water hung from a fern tip.
-
-Tavian froze with his arm still extended. A small flying insect stopped in the shaft of light beside his shoulder. Red looked toward the unseen audience.
+Of course. The world paused. A drop of water hung from a fern tip. Tavian froze with his arm still extended. A small flying insect stopped in the shaft of light beside his shoulder. Red looked toward the unseen audience.
 
 "There are entire professions built around pointing at dirt until everyone else feels underqualified."
 
@@ -191,9 +183,7 @@ Red looked down at the mud.
 
 "The irritating part is that he keeps proving the business model."
 
-Time resumed. The droplet fell. Red moved back.
-
-Tavian crouched at the edge of the depression. Once Red knew tracks were there, the ground became crowded with them. Before that, it had been mud.
+Time resumed. The droplet fell. Red moved back. Tavian crouched at the edge of the depression. Once Red knew tracks were there, the ground became crowded with them. Before that, it had been mud.
 
 Expertise was offensive that way. He pointed at two narrow impressions.
 
@@ -213,9 +203,7 @@ He looked up.
 
 Red crouched beside him without touching the ground. The marks split down the middle. Fine.
 
-The first set had softened rims. Older. A sharper set beside it pointed northeast.
-
-Four-toed predator sign crossed later.
+The first set had softened rims. Older. A sharper set beside it pointed northeast. Four-toed predator sign crossed later.
 
 "Following the grazer?"
 
@@ -263,15 +251,9 @@ He looked at him.
 
 "I hate that you keep earning it."
 
-They followed the crossing north. Broken stems. Hair caught on bark.
+They followed the crossing north. Broken stems. Hair caught on bark. Mud pressed deep where several animals had forced themselves through a narrow opening even though easier ground lay twenty paces west. Red stopped when Tavian stopped. Without being told.
 
-Mud pressed deep where several animals had forced themselves through a narrow opening even though easier ground lay twenty paces west. Red stopped when Tavian stopped. Without being told.
-
-Red chose not to celebrate publicly. The signs kept pointing northeast. Prey.
-
-Predator. Different ages. Different movement.
-
-Same broad direction.
+Red chose not to celebrate publicly. The signs kept pointing northeast. Prey. Predator. Different ages. Different movement. Same broad direction.
 
 "Wouldn't prey avoid a path predators keep using?"
 
@@ -309,13 +291,7 @@ Tavian checked the lower edge.
 
 Red looked along the old trail. The animals had not received the closure notice. Tavian raised one hand.
 
-Red stopped. This time before he blocked him. Not personal development.
-
-Pattern recognition. He pointed into the brush. At first, nothing.
-
-Then movement. Three small hoofed animals stood beyond a shallow crossing. Lean bodies.
-
-Dark backs. Long ears moving independently. They had not noticed them.
+Red stopped. This time before he blocked him. Not personal development. Pattern recognition. He pointed into the brush. At first, nothing. Then movement. Three small hoofed animals stood beyond a shallow crossing. Lean bodies. Dark backs. Long ears moving independently. They had not noticed them.
 
 Tavian lowered himself behind a fallen trunk. Red followed. The Wayfarer Token kept their whispers clear.
 
@@ -329,17 +305,9 @@ Tavian lowered himself behind a fallen trunk. Red followed. The Wayfarer Token k
 
 "Which side they choose."
 
-The crossing split around exposed roots. West was open. Easy.
+The crossing split around exposed roots. West was open. Easy. The northeast side narrowed into brush along the old trail. The animals approached. Stopped. Sniffed. One took two steps toward the northern gap. A second followed. The third hesitated. Red looked west. Open ground.
 
-The northeast side narrowed into brush along the old trail. The animals approached. Stopped.
-
-Sniffed. One took two steps toward the northern gap. A second followed.
-
-The third hesitated. Red looked west. Open ground.
-
-Then north. Brush. Narrow trail.
-
-The question arrived immediately. If the north side became unpleasant, would they still choose it?
+Then north. Brush. Narrow trail. The question arrived immediately. If the north side became unpleasant, would they still choose it?
 
 "What if we pressure the north side?"
 
@@ -365,31 +333,17 @@ Tavian caught the movement.
 
 "Jackal."
 
-Too late. Red stepped into the northern sightline. The nearest grazer's head snapped up.
-
-The others froze. Red took one more step. They exploded into motion.
-
-No measured choice. No elegant behavioral proof. Panic.
+Too late. Red stepped into the northern sightline. The nearest grazer's head snapped up. The others froze. Red took one more step. They exploded into motion. No measured choice. No elegant behavioral proof. Panic.
 
 One broke west. The second crashed through the northern brush. The third followed north, cut sideways, nearly hit the western animal, then turned north again.
 
-Branches snapped. Leaves flew. For half a second, Red felt vindicated.
-
-Then Tavian stood.
+Branches snapped. Leaves flew. For half a second, Red felt vindicated. Then Tavian stood.
 
 "Back."
 
-His voice had changed. Not anger. Danger.
+His voice had changed. Not anger. Danger. Something moved beyond the fleeing grazers. Low. Fast. Another shape crossed left. Then another. Broad-chested predators pushed through the brush. Same general kind as the service-road pack. They had been close enough to react to the sudden run. Maybe stalking.
 
-Something moved beyond the fleeing grazers. Low. Fast.
-
-Another shape crossed left. Then another. Broad-chested predators pushed through the brush.
-
-Same general kind as the service-road pack. They had been close enough to react to the sudden run. Maybe stalking.
-
-Maybe passing nearby. Did not matter. Red had rung the dinner bell.
-
-Tavian moved past him.
+Maybe passing nearby. Did not matter. Red had rung the dinner bell. Tavian moved past him.
 
 "Tree line. Left side."
 
@@ -403,9 +357,7 @@ A fourth moved behind the old trail bank. Of course. Tavian planted the butt of 
 
 "Do not go forward."
 
-The memory arrived immediately. Road worker beside the wagon. Blood below his knee.
-
-The opened lane. Not a lesson in becoming good. A remembered consequence.
+The memory arrived immediately. Road worker beside the wagon. Blood below his knee. The opened lane. Not a lesson in becoming good. A remembered consequence.
 
 *Useful.*
 
@@ -415,9 +367,7 @@ The opened lane. Not a lesson in becoming good. A remembered consequence.
 
 The first predator crossed the brush edge. Tavian stepped into its path and struck across the muzzle. Not a killing blow.
 
-A correction. It veered. Another circled west.
-
-Red shifted to block it, then stopped before crossing Tavian's position.
+A correction. It veered. Another circled west. Red shifted to block it, then stopped before crossing Tavian's position.
 
 "Gap behind you."
 
@@ -425,15 +375,11 @@ Red looked. Between the fallen trunk and an exposed root wall, a narrow opening 
 
 "Close it."
 
-Simple. Red could have closed the entire crossing. The trail.
-
-The forest. Red could have made the pack's tactical options somebody else's philosophical problem. None of that was necessary.
+Simple. Red could have closed the entire crossing. The trail. The forest. Red could have made the pack's tactical options somebody else's philosophical problem. None of that was necessary.
 
 Tavian needed one gap gone. So one gap disappeared. A low pale-grey obstruction formed between the trunk and the roots.
 
-Thick. Ugly. More bunker than barrier.
-
-The fourth predator checked its stride and hit the edge with one foreleg. The obstruction held. Tavian moved immediately.
+Thick. Ugly. More bunker than barrier. The fourth predator checked its stride and hit the edge with one foreleg. The obstruction held. Tavian moved immediately.
 
 "Left."
 
@@ -469,17 +415,9 @@ Three breaths. That was all Tavian had asked for. The fourth predator pushed int
 
 Tavian was already there. He slammed the polearm shaft across its chest and redirected it toward the open west side. The encirclement broke.
 
-That changed the animals' calculation. Dangerous did not mean suicidal. One backed into brush.
+That changed the animals' calculation. Dangerous did not mean suicidal. One backed into brush. Another followed. The one Red had kicked watched him with flattened ears, then retreated. The last stayed near the old trail until Tavian advanced two measured steps.
 
-Another followed. The one Red had kicked watched him with flattened ears, then retreated. The last stayed near the old trail until Tavian advanced two measured steps.
-
-It disappeared north. Leaves settled. The grazers were gone.
-
-So was the clean observation. Tavian lowered his polearm. Then looked at him.
-
-Red knew that look. Sela had a medical version. Kellan had an engineering version.
-
-Tavian had the original.
+It disappeared north. Leaves settled. The grazers were gone. So was the clean observation. Tavian lowered his polearm. Then looked at him. Red knew that look. Sela had a medical version. Kellan had an engineering version. Tavian had the original.
 
 "I wanted to see what they would do."
 
@@ -537,9 +475,7 @@ Nothing. Too early. Red looked at the trail.
 
 "You changed the conditions."
 
-Red stopped. Repetition became annoying when correct. Tavian crouched where the grazers had started.
-
-Fresh hoof marks now cut the mud in several directions. Predator tracks crossed them. His own boot print sat where no useful boot print needed to be.
+Red stopped. Repetition became annoying when correct. Tavian crouched where the grazers had started. Fresh hoof marks now cut the mud in several directions. Predator tracks crossed them. His own boot print sat where no useful boot print needed to be.
 
 Almost artistic. He pointed.
 
@@ -555,9 +491,7 @@ He looked up. That paused him.
 
 "Yes."
 
-They left the crossing. Tavian said nothing for several minutes. Red allowed the silence.
-
-Not because Red had become patient. He was curious what he would do with it. His ribs began aching from the walking.
+They left the crossing. Tavian said nothing for several minutes. Red allowed the silence. Not because Red had become patient. He was curious what he would do with it. His ribs began aching from the walking.
 
 Ordinary soreness. Nothing about the morning had reduced what Red could do. Tavian noticed anyway.
 
@@ -593,13 +527,9 @@ Red eyed the clean strip.
 
 *Convenient.*
 
-Tavian crouched. Red stayed back without being told. He glanced at him.
+Tavian crouched. Red stayed back without being told. He glanced at him. Red chose to interpret that as admiration. Poorly supported conclusion. The bank held several older impressions.
 
-Red chose to interpret that as admiration. Poorly supported conclusion. The bank held several older impressions.
-
-Hoof marks. Then larger paw prints. Not fresh.
-
-Not from their disturbance. Tavian traced the direction in the air.
+Hoof marks. Then larger paw prints. Not fresh. Not from their disturbance. Tavian traced the direction in the air.
 
 "Northeast."
 
@@ -607,9 +537,7 @@ Not from their disturbance. Tavian traced the direction in the air.
 
 "Again."
 
-Farther down the bank, another set. Different depth. Smaller hoof.
-
-Same broad direction. Clawed sign crossed later. Tavian checked the edges.
+Farther down the bank, another set. Different depth. Smaller hoof. Same broad direction. Clawed sign crossed later. Tavian checked the edges.
 
 "Two days apart. Maybe three."
 
@@ -623,11 +551,7 @@ Red smiled. He noticed.
 
 They continued. The connector bent farther north around a fallen tree. The tracks bent with it.
 
-Not one group. Layers. Different sizes.
-
-Different ages. Same drift. Tavian stood.
-
-Through gaps in the trees, brighter open ground showed southwest toward the Main Caravan Road. Then he looked north, where the abandoned trail disappeared under brush.
+Not one group. Layers. Different sizes. Different ages. Same drift. Tavian stood. Through gaps in the trees, brighter open ground showed southwest toward the Main Caravan Road. Then he looked north, where the abandoned trail disappeared under brush.
 
 "Expected crossing is west."
 
@@ -661,9 +585,7 @@ He looked at the sign.
 
 "Possible."
 
-Red waited. That required effort. Not moral effort.
-
-Boredom management. Eventually Tavian said, "Something may be influencing the movement." Stronger than anything he had said earlier.
+Red waited. That required effort. Not moral effort. Boredom management. Eventually Tavian said, "Something may be influencing the movement." Stronger than anything he had said earlier.
 
 "Pushing?"
 
@@ -695,13 +617,9 @@ Red smiled.
 
 Red looked back at the tracks. His experiment had been faster. It had also destroyed the observation and invited a pack into the conversation.
 
-Tavian's method was slower. It was also still evidence. Annoying.
+Tavian's method was slower. It was also still evidence. Annoying. Useful. He unrolled the map on another flat stone and held one edge beneath his glove. Red still could not read the labels.
 
-Useful. He unrolled the map on another flat stone and held one edge beneath his glove. Red still could not read the labels.
-
-Red understood the roads now. Main Caravan Road southwest. Outer routes farther west.
-
-Old northern connector beneath them. Tavian drew one charcoal line beside the existing route marks. Then another.
+Red understood the roads now. Main Caravan Road southwest. Outer routes farther west. Old northern connector beneath them. Tavian drew one charcoal line beside the existing route marks. Then another.
 
 Then another. Each represented sign from a different place. All leaned away from the profitable road.
 
@@ -733,15 +651,9 @@ That surprised him. Tavian rolled the map partway closed.
 
 "I am not certain."
 
-There it was. The difference. Suspicion was allowed.
+There it was. The difference. Suspicion was allowed. Certainty had to earn its way into the room. Red looked north. The old trail vanished into wet trees.
 
-Certainty had to earn its way into the room. Red looked north. The old trail vanished into wet trees.
-
-No machine. No villain waiting behind a tree. No convenient explanation.
-
-Only old tracks. Different ages. Different animals.
-
-All made before his experiment. All trending away from the Main Caravan Road. Toward the north.
+No machine. No villain waiting behind a tree. No convenient explanation. Only old tracks. Different ages. Different animals. All made before his experiment. All trending away from the Main Caravan Road. Toward the north.
 
 "Broken North?" Red asked.
 
@@ -759,6 +671,4 @@ He packed the map away. They stood for another moment. The road behind them work
 
 The old northern trail did not. Yet the animals kept choosing the broken direction. That was not proof of who or what was causing it.
 
-It was enough to know the pattern was real. Wrong tracks. Wrong direction.
-
-North.
+It was enough to know the pattern was real. Wrong tracks. Wrong direction. North.

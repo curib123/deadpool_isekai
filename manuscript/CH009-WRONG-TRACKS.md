@@ -2,10 +2,10 @@
 
 **Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / PLAY LOGIC + JACKAL LUCK RETCON — GATE 9 REVALIDATION REQUIRED
 **Revision Date:** 2026-09-27
-**Word Count:** 2,976
+**Word Count:** 3,008
 **Chapter QA:** `qa/CH-009-GATE-9-CHAPTER-QA.md`
 
-I stepped out of my rented room and found Tavian waiting at the end of the lane. Polearm over one shoulder. Field pack at his side.
+Red stepped out of his rented room and found Tavian waiting at the end of the lane. Polearm over one shoulder. Field pack at his side.
 
 A charged Wayfarer Tongue Token hung from one strap. No breakfast. Suspicious immediately.
 

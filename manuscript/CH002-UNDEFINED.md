@@ -1,8 +1,8 @@
 # Chapter 2 — Undefined
 
 **Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / PLAY LOGIC + JACKAL LUCK / GATE 9 REVALIDATION
-**Revision Date:** 2026-09-26
-**Word Count:** 2,614
+**Revision Date:** 2026-09-27
+**Word Count:** 2,590
 
 Civilization announced itself with smoke, wagon wheels, and a timber wall high enough to make the forest behind Red look like somebody else's problem.
 
@@ -820,7 +820,7 @@ Red watched the page disappear into the pile.
 
 Somewhere beyond the room, Greywake had its own work, arguments, problems, and people who had no idea he existed.
 
-Good.
+*Good.*
 
 A whole town already had a story before he arrived.
 

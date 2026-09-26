@@ -52,9 +52,7 @@ Red looked toward the office again. So Hesk was not merely a man with a title. I
 
 Three conversations nearby softened without anyone being told to lower their voices. Rovan Hesk stepped into the hall with a rolled map under one arm. He was broad through the shoulders, dark hair greying at the sides, coat repaired at one elbow and faded at the cuffs. No polished insignia. No ceremonial weapon. Nothing designed to announce importance.
 
-People made space for him anyway. That told him more. Jessa straightened. "Roadmaster."
-
-Hesk looked at her first, then at him. His eyes paused on the wooden Unverified Entrant Token near his coat.
+People made space for him anyway. That told him more. Jessa straightened. "Roadmaster." Hesk looked at her first, then at him. His eyes paused on the wooden Unverified Entrant Token near his coat.
 
 "Red Jackal."
 
@@ -88,9 +86,7 @@ Red preferred that.
 
 "You survived the road anyway."
 
-That was the fact he cared about. The world paused.
-
-A worker crossing the yard froze with a coil of rope over one shoulder. Mud hung beneath the heel of a boot that had not yet come down. A clerk's pointing hand stopped over the wall map.
+That was the fact he cared about. The world paused. A worker crossing the yard froze with a coil of rope over one shoulder. Mud hung beneath the heel of a boot that had not yet come down. A clerk's pointing hand stopped over the wall map.
 
 Red looked toward the unseen audience.
 
@@ -190,9 +186,7 @@ Slightly more comforting. Hesk leaned one hand against the table.
 
 "That's the assignment."
 
-No forbidden temple. No cursed relic. No dramatic suicide mission.
-
-Almost suspiciously disappointing.
+No forbidden temple. No cursed relic. No dramatic suicide mission. Almost suspiciously disappointing.
 
 "And why me?"
 
@@ -214,11 +208,7 @@ Then he looked back at him.
 
 "If the risk is not worth the pay, walk away. The road still needs fixing. I'll put somebody else on it."
 
-Not a challenge. Not a threat. A road, a vacancy, a cost.
-
-Hesk could make exploitation sound like weather.
-
-That made the offer harder to dismiss.
+Not a challenge. Not a threat. A road, a vacancy, a cost. Hesk could make exploitation sound like weather. That made the offer harder to dismiss.
 
 "I'll decide after I understand what the money is worth."
 
@@ -266,9 +256,7 @@ Red looked down at the writing. Still useless.
 
 "What exactly am I being paid?"
 
-She told him the amount. Red understood every word. The number meant nothing.
-
-Red stared at her. Jessa understood the problem almost immediately.
+She told him the amount. Red understood every word. The number meant nothing. Red stared at her. Jessa understood the problem almost immediately.
 
 "Right."
 
@@ -282,9 +270,7 @@ She pointed through the open doors toward the market.
 
 "Shame."
 
-That was enough to make the amount real. Not wealth. Not even comfort.
-
-But food, a roof, and the beginning of independence. That mattered.
+That was enough to make the amount real. Not wealth. Not even comfort. But food, a roof, and the beginning of independence. That mattered.
 
 "And the Guild supplies?"
 
@@ -362,9 +348,7 @@ Simple. Accurate. Not especially warm.
 
 "If you disappear," she continued, "there will still be an expense record. There will be a route report. But the normal identity-linked protections do not exist."
 
-Red looked at the coins. The deal was bad. Not secretly bad.
-
-Openly bad. That was almost refreshing. The alternative was preserving protections Red could not access while remaining hungry and unemployed.
+Red looked at the coins. The deal was bad. Not secretly bad. Openly bad. That was almost refreshing. The alternative was preserving protections Red could not access while remaining hungry and unemployed.
 
 Very safe. Very hungry.
 
@@ -396,9 +380,7 @@ Also an answer. Red handed the coin back.
 
 Red appreciated the honesty. Before he could decide whether to ask anyway, Captain Brynn Alder crossed the caravan yard outside. She saw him at the desk.
 
-Then Jessa. Then the form. Her route changed.
-
-Of course it did. Brynn stepped inside the Guild hall.
+Then Jessa. Then the form. Her route changed. Of course it did. Brynn stepped inside the Guild hall.
 
 "You took the offer."
 
@@ -438,9 +420,7 @@ Nothing hostile in either voice. Nothing friendly either. Brynn nodded toward th
 
 "I didn't ask you to."
 
-Hesk remained calm. Brynn did too. That made the disagreement sharper.
-
-Red looked between them.
+Hesk remained calm. Brynn did too. That made the disagreement sharper. Red looked between them.
 
 "So nobody is responsible for me."
 
@@ -448,9 +428,7 @@ Brynn met his eyes.
 
 "You are."
 
-Short. Clean.
-
-Hard to argue with. The world paused. Brynn froze beside the contract desk. Hesk stopped with the map halfway to the counter. Outside, a horse's tail hung in the air mid-swish.
+Short. Clean. Hard to argue with. The world paused. Brynn froze beside the contract desk. Hesk stopped with the map halfway to the counter. Outside, a horse's tail hung in the air mid-swish.
 
 Red looked toward the unseen audience.
 
@@ -490,23 +468,15 @@ She looked at Hesk.
 
 "Don't make him the militia's problem."
 
-Hesk's expression did not change. "I don't plan to." Brynn left.
+Hesk's expression did not change. "I don't plan to." Brynn left. Nobody had rescued him from his own decision. Good. Red had not asked them to.
 
-Nobody had rescued him from his own decision. Good. Red had not asked them to.
-
-Hesk looked back at him. "Still interested?" Red considered the Marks.
-
-Food. Lodging. Supplies.
-
-Road access. A reason to move through Greywake without begging anyone for permission to be useful. And risk.
+Hesk looked back at him. "Still interested?" Red considered the Marks. Food. Lodging. Supplies. Road access. A reason to move through Greywake without begging anyone for permission to be useful. And risk.
 
 That part had been explained repeatedly enough to qualify as a local tradition.
 
 "Yes."
 
-Hesk nodded once. No smile. No triumph.
-
-Just business.
+Hesk nodded once. No smile. No triumph. Just business.
 
 "Good."
 
@@ -526,13 +496,7 @@ Red had expected questionable frontier employment to feel more dramatic. Instead
 
 "Then say them once more."
 
-Jessa did. Payment in Marks. Advance deducted from final payment.
-
-Basic assignment supplies provided. Main Caravan Road repair support. No registered-worker injury guarantee.
-
-No identity-bound traveler protection. No normal contract appeal. Return or report completion.
-
-Red listened to the entire list. No surprises.
+Jessa did. Payment in Marks. Advance deducted from final payment. Basic assignment supplies provided. Main Caravan Road repair support. No registered-worker injury guarantee. No identity-bound traveler protection. No normal contract appeal. Return or report completion. Red listened to the entire list. No surprises.
 
 "Accepted."
 
@@ -546,9 +510,7 @@ Hesk tapped the map.
 
 Jessa turned the map toward him. Lines crossed the parchment in several directions. Most meant nothing, but some locations used simple shapes.
 
-A gate. A road post. A bridge.
-
-She pointed to each one.
+A gate. A road post. A bridge. She pointed to each one.
 
 "Main gate. North-east road marker. Guild repair post. The crew gathers here."
 
@@ -598,9 +560,7 @@ Red considered that.
 
 Jessa looked down quickly. Red caught the edge of a smile. Hesk was already speaking to another clerk.
 
-The meeting was over. Just like that. No oath.
-
-No magical contract. No dramatic warning. No one asked him to swear loyalty to the Guild, the Roadmaster, Greywake, destiny, or any other institution that might eventually become annoying.
+The meeting was over. Just like that. No oath. No magical contract. No dramatic warning. No one asked him to swear loyalty to the Guild, the Roadmaster, Greywake, destiny, or any other institution that might eventually become annoying.
 
 That part Red liked. He tucked the Marks away and stepped into the caravan yard with food under one arm and the bridge-marked card in his hand. The arrangement was bad.
 

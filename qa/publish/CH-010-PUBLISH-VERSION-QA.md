@@ -1,11 +1,11 @@
 # CH-010 Publish Version QA
 
 **Canon Source:** `manuscript/CH010-THE-LEDGER-DOESNT-BALANCE.md`  
-**Canon Source SHA:** `7158cac45bc3af87311dd0d7d0c32fd5a231d422`  
+**Canon Source SHA:** `e136cef6e878b53beda7b37f40575e4bb867bec4`  
 **Publication Copy:** `published/volume-001/CH010-THE-LEDGER-DOESNT-BALANCE.md`  
-**Publication Copy SHA:** `05cf14ca20d8738542c6c25a9c4b53bc48bbbd57`  
+**Publication Copy SHA:** `c72da5347a38d093f2ef076f2e802f0a801ff887`  
 **Target Platform:** WebNovel-compatible reader-facing copy  
-**Review Date:** 2026-09-20  
+**Review Date:** 2026-09-26
 **Status:** PUBLISH-READY — GATE 11 PASS
 
 # Source Integrity
@@ -33,3 +33,13 @@ Publication copy is exactly the reader-facing title plus current canon body.
 # PASS
 
 **CH-010 is PUBLISH-READY — GATE 11 PASS.**
+
+
+# Arc 1 Recheck Publish Revalidation
+
+**Result:** PASS — 2026-09-26
+
+- current canon source vs publication prose: **EXACT MATCH**
+- character-voice cleanup synchronized: **PASS**
+- no publication-only semantic change: **PASS**
+- Gate 11 status remains **PUBLISH-READY**

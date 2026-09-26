@@ -5,7 +5,7 @@
 **Word Count:** 1,488
 **Chapter QA:** `qa/CH-025-GATE-9-CHAPTER-QA.md`
 
-Sela looked at my side. Then at me. "No." Red had not said anything. "That feels unfair."
+Sela looked at Red's side, then at his face. "No." Red had not said anything. "That feels unfair."
 
 "It is preventative."
 

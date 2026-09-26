@@ -1,10 +1,10 @@
 Chapter 10 — The Ledger Doesn't Balance
 
+Three stacks of paper were waiting for him when Red entered the Ledger room. Maelis sat behind them with a pen in one hand and a charged Wayfarer Tongue Token beside her elbow. She did not look up.
+
 "Sit."
 
-Red sat. The pen continued moving. Scratch.
-
-Pause. Scratch. Apparently Red had arrived before the paperwork had finished becoming disappointed in him.
+Red sat. The pen continued moving. Scratch. Pause. Scratch. Apparently Red had arrived before the paperwork had finished becoming disappointed in him.
 
 Maelis marked one final line, closed the folder, and pulled a blank sheet toward herself. Her attention finally shifted to him.
 
@@ -40,13 +40,7 @@ Red looked at her. She was completely serious.
 
 "You can describe one."
 
-That was unfairly practical. So Red did. Shape.
-
-Paint. Nearby drainage. Which direction the road bent.
-
-Then she wanted the time. Then weather. Then track direction.
-
-Then which signs were old. Which were fresh. Which animals they had actually seen.
+That was unfairly practical. So Red did. Shape. Paint. Nearby drainage. Which direction the road bent. Then she wanted the time. Then weather. Then track direction. Then which signs were old. Which were fresh. Which animals they had actually seen.
 
 Which existed only as prints. Then whether Tavian had said the movement was deliberate.
 
@@ -110,7 +104,7 @@ Several better answers existed. None were true.
 
 "Because it is the correct word."
 
-Competence kept forming alliances against him. She crossed out one note.
+*Competence kept forming alliances against him.* She crossed out one note.
 
 "The older tracks afterward?"
 
@@ -136,9 +130,7 @@ She put the pen down. For Maelis, that apparently counted as emphasis.
 
 "It means I can use the evidence."
 
-Of course. Red gave her the rest. The displaced pack from the service road.
-
-The worker injured during that encounter. The outer warning marker beyond Kellan's bridge. Five local predator sightings carved beneath an official low-warning symbol.
+Of course. Red gave her the rest. The displaced pack from the service road. The worker injured during that encounter. The outer warning marker beyond Kellan's bridge. Five local predator sightings carved beneath an official low-warning symbol.
 
 Four days. Last patrol before those sightings. Maelis stopped him there.
 
@@ -192,9 +184,7 @@ Her finger moved to the next entry. Red followed the route symbol instead of the
 
 "You still do not have a valid identity record that can be attached to the incident."
 
-Red looked at the page. The route existed. The workers existed.
-
-The injured man existed. The pack existed. Red apparently existed as a grammatical condition.
+Red looked at the page. The route existed. The workers existed. The injured man existed. The pack existed. Red apparently existed as a grammatical condition.
 
 "Does it record my injury?"
 
@@ -226,9 +216,7 @@ Red stared at the stack. The stack did not look apologetic.
 
 "You were not."
 
-Red thought back to Hesk. Private labor. Discretionary expense.
-
-Irregular, not undocumented. Jessa had explained the whole thing aloud because Red could not read the forms. his memory had apparently edited the arrangement for genre.
+Red thought back to Hesk. Private labor. Discretionary expense. Irregular, not undocumented. Jessa had explained the whole thing aloud because Red could not read the forms. His memory had apparently edited the arrangement for genre.
 
 Maelis laid the pages in a row. Each one represented a different part of a worker the system could understand.
 
@@ -388,9 +376,7 @@ There were predators in the forest with jaws built to hold struggling prey. Some
 
 Jessa Vale stood behind a narrow counter sorting route packets into wooden slots. The public hall beyond her remained busy. Workers carried rope.
 
-Axle parts. Food crates. Sealed packets.
-
-Wagon wheels rattled across the yard. The Guild continued functioning while they arrived to ask whether some of the people who made it function had gone missing between categories. Jessa looked at Maelis.
+Axle parts. Food crates. Sealed packets. Wagon wheels rattled across the yard. The Guild continued functioning while they arrived to ask whether some of the people who made it function had gone missing between categories. Jessa looked at Maelis.
 
 Then his eyes settled on him. Red kept his hand where it was. Her expression changed slightly.
 
@@ -424,9 +410,7 @@ Maelis did not react. That was one of her more intimidating professional skills.
 
 "Show me."
 
-Jessa hesitated. Not confusion. Decision.
-
-Then she turned toward the rear shelving. they followed. She pulled down a narrow ledger bound in dark cloth and a thinner packet tied with cord.
+Jessa hesitated. Not confusion. Decision. Then she turned toward the rear shelving. They followed. She pulled down a narrow ledger bound in dark cloth and a thinner packet tied with cord.
 
 "This is unresolved route loss."
 
@@ -536,9 +520,7 @@ Maelis handed him the written request. He read it.
 
 "That can be arranged."
 
-Calm. Reasonable. Annoying.
-
-Hesk handed the request back. His tone stayed measured.
+Calm. Reasonable. Annoying. Hesk handed the request back. His tone stayed measured.
 
 "Original unresolved-loss books remain in Guild custody."
 
@@ -580,11 +562,7 @@ Hesk's expression did not change. That made the pressure harder to measure.
 
 "I know."
 
-He reached for the ledger. Red put his hand on it first. Not hard.
-
-No threat. Just occupied territory. Hesk looked at his hand.
-
-Then his eyes settled on him. Red kept his hand where it was.
+He reached for the ledger. Red put his hand on it first. Not hard. No threat. Just occupied territory. Hesk looked at his hand. Then his eyes settled on him. Red kept his hand where it was.
 
 "No."
 
@@ -620,7 +598,7 @@ Red looked at Jessa. This part had to remain hers.
 
 "If you want to leave, leave."
 
-Then Red looked at Hesk. his problem was with him choosing for her.
+Then Red looked at Hesk. His problem was with him choosing for her.
 
 "If you want to decide for her, that is the part I dislike."
 
@@ -636,17 +614,13 @@ That answer made him pause. Authority would have been easier for him to argue wi
 
 "Strong ones."
 
-His expression stayed controlled. Good. So did his.
-
-Hesk said, "You are standing in Guild records because this Guild gave you work when nobody could process you."
+His expression stayed controlled. Good. So did his. Hesk said, "You are standing in Guild records because this Guild gave you work when nobody could process you."
 
 "I remember."
 
 "Then remember the arrangement."
 
-That irritation returned immediately. Private labor. No standard protection.
-
-No normal appeal. Useful because Red fit into a gap.
+That irritation returned immediately. Private labor. No standard protection. No normal appeal. Useful because Red fit into a gap.
 
 "I remember it perfectly."
 
@@ -658,9 +632,7 @@ Silence settled between them. Red left it there.
 
 "And it does not assign you ownership of her answer."
 
-Jessa stared at the ledger. Hesk stared at him. Red let the silence remain.
-
-This was not his testimony. Hesk finally looked at Jessa.
+Jessa stared at the ledger. Hesk stared at him. Red let the silence remain. This was not his testimony. Hesk finally looked at Jessa.
 
 "Answer factual questions if you choose. No speculation. Restricted originals remain here."
 
@@ -682,9 +654,7 @@ Maelis did not flinch. Her evidence standard survived the pressure intact.
 
 "Good."
 
-He looked at him once more. Calculation. Nothing theatrical.
-
-Then he left. Jessa remained still. Red removed his hand from the ledger.
+He looked at him once more. Calculation. Nothing theatrical. Then he left. Jessa remained still. Red removed his hand from the ledger.
 
 "You can go."
 
@@ -692,11 +662,7 @@ She looked at him. The answer in her face was steadier than her breathing.
 
 "I know."
 
-Good. That mattered more than the answer. Maelis waited.
-
-Red waited. Maelis let the silence do useful work. Jessa breathed out slowly.
-
-Then she reopened the dark ledger.
+Good. That mattered more than the answer. Maelis waited. Red waited. Maelis let the silence do useful work. Jessa breathed out slowly. Then she reopened the dark ledger.
 
 "There is one thing."
 
@@ -740,9 +706,7 @@ Boundary. Maelis recognized it immediately.
 
 "All right."
 
-No pressure. No demand. Jessa had chosen the line.
-
-they left it there. Back in the Ledger room, Maelis arranged the records into three columns. Same paper.
+No pressure. No demand. Jessa had chosen the line. They left it there. Back in the Ledger room, Maelis arranged the records into three columns. Same paper.
 
 Same stamps. Different meaning now. Red watched because he could not read any of it and pretending otherwise had lost its entertainment value.
 
@@ -766,21 +730,15 @@ Third. Red looked at the table.
 
 "That is what I was afraid of."
 
-Maelis compared one reporting period. Then another. Then a third.
-
-She copied totals onto a fresh sheet. Red could not read the numbers. He could read her face.
+Maelis compared one reporting period. Then another. Then a third. She copied totals onto a fresh sheet. Red could not read the numbers. He could read her face.
 
 That was enough. Her expression had become a better translation than the numbers.
 
 "What?"
 
-No answer. She checked the first group again. Then the second.
+No answer. She checked the first group again. Then the second. Then walked to the window overlooking the caravan yard. Outside, workers prepared two wagons beneath the Main Caravan Road marker. The road beyond the gate was busy.
 
-Then walked to the window overlooking the caravan yard. Outside, workers prepared two wagons beneath the Main Caravan Road marker. The road beyond the gate was busy.
-
-Guarded. Maintained. Successful.
-
-Maelis returned to the table. She checked the first column one more time.
+Guarded. Maintained. Successful. Maelis returned to the table. She checked the first column one more time.
 
 "During this period, certified casualties on the Main Caravan Road decreased."
 
@@ -826,11 +784,7 @@ The word was no longer pleasant. Red looked across the records.
 
 "Comparable periods."
 
-Red thought about Tavian's mud. Food west. Water west.
-
-Tracks north. Different evidence. Same unpleasant shape.
-
-Maelis sat again. She kept one hand on the totals.
+Red thought about Tavian's mud. Food west. Water west. Tracks north. Different evidence. Same unpleasant shape. Maelis sat again. She kept one hand on the totals.
 
 "The documents are not all false."
 
@@ -842,9 +796,7 @@ Maelis sat again. She kept one hand on the totals.
 
 "A reporting structure where the Main Caravan Road can become safer in the official summary while losses rise elsewhere without entering the same headline casualty count."
 
-Red looked at his own irregular-labor record. Payment. Food.
-
-Route. Completion. A person reduced to activity because the identity field would not accept him.
+Red looked at his own irregular-labor record. Payment. Food. Route. Completion. A person reduced to activity because the identity field would not accept him.
 
 Jessa's word came back. Practice.
 
@@ -858,9 +810,7 @@ Same answer Tavian gave when the evidence stopped. Different expert. Same discip
 
 "But random clerical error is no longer a sufficient explanation."
 
-Not a confession. Not a culprit.
-
-Not a physical mechanism hiding in the woods. A pattern. Maelis turned the final sheet and drew two lines through separate columns.
+Not a confession. Not a culprit. Not a physical mechanism hiding in the woods. A pattern. Maelis turned the final sheet and drew two lines through separate columns.
 
 One for the road Greywake protected best. One for the routes outside it. When one improved, the other worsened.
 
@@ -876,14 +826,10 @@ Maelis looked at him.
 
 "The records show correlation. Not cause."
 
-Right. Tavian's lesson again. Mud or ink.
-
-Evidence did not care how dramatic the conclusion would be. Maelis looked back at the totals.
+Right. Tavian's lesson again. Mud or ink. Evidence did not care how dramatic the conclusion would be. Maelis looked back at the totals.
 
 "Recorded outer-route losses rise whenever the Main Caravan Road's recorded safety improves."
 
 There was nothing useful to joke about. The Guild's records could account for silver. Supplies.
 
-Assignments. Routes. Categories.
-
-They could even remain individually defensible while the people between them disappeared. The ledger balanced. The people didn't.
+Assignments. Routes. Categories. They could even remain individually defensible while the people between them disappeared. The ledger balanced. The people didn't.

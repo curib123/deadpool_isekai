@@ -2,7 +2,7 @@
 
 **Status:** CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS
 **Revision Date:** 2026-09-20
-**Word Count:** 2456
+**Word Count:** 2,468
 **Chapter QA:** `qa/CH-014-GATE-9-CHAPTER-QA.md`
 
 The council chamber was full before I arrived. Representatives filled most of the chairs. Two benches had been dragged against the walls. Three stacks of records waited in front of Maelis.
@@ -337,7 +337,11 @@ His eyes settled on me. "You still think there is a version where no one chooses
 
 "The forest does not care."
 
-"I do."
+"Neither do I."
+
+Hesk's eyes narrowed.
+
+I pointed at him. "I care that you made your answer everybody else's problem."
 
 "That will not move a migration."
 
@@ -357,9 +361,11 @@ I looked at her. She pointed at the map. "But if you destroy one and pressure hi
 
 There it was. Annoying. Accurate.
 
-If I broke the wrong lure and another settlement paid for it, the motive would matter very little to the people getting hurt. That was not moral growth. That was geometry.
+If I broke the wrong lure and another settlement paid for it, the mess would still come back to us. Possibly with teeth.
 
-Useful information. Maelis watched me. I pointed at her. "Do not look pleased."
+Annoying.
+
+Geometry, not conscience. Maelis watched me. I pointed at her. "Do not look pleased."
 
 "I am not."
 

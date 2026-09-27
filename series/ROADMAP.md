@@ -36,7 +36,7 @@ Volume 1 Arc 1 Post-Rewrite Recheck: **PASS — CURRENT GREYWAKE ARC REVALIDATED
 Volume 1 Web-Novel Prose Style Audit: **PASS — CLOSE NARRATION / DIALOGUE / SELF-THOUGHT STANDARD / 2026-09-26**
 CH-002→CH-027 Natural Prose & Liveliness Pass: **PASS — NORMAL STORY FLOW / LIVELY DIALOGUE / SELECTIVE SELF-THOUGHT / 2026-09-27**
 Volume 1 Pacing Revision v2: **COMPLETE — MERGED WITH OVERPOWERED RETCON**  
-Red Jackal Luck-Only Retcon: **ACTIVE — JACKAL LUCK ONLY / NO POWER PROGRESSION / PROBABILITY-REVELATION MODEL**  
+Rook Vane Luck-Only Retcon: **ACTIVE — JACKAL LUCK ONLY / NO POWER PROGRESSION / PROBABILITY-REVELATION MODEL**  
 Volume 1 Luck-Only Manuscript Rewrite: **ACTIVE — PROLOGUE + CH001–CH027 / POWER RETCON + PARAGRAPH-CADENCE PASS**  
 Volume 2 Destination Selection: **PASS — GATE 5 / DEST-002 MERROWGATE**  
 Volume 2 Architecture: **PASS — GATE 6 / MERROWGATE ARC LOCKED**  
@@ -99,11 +99,11 @@ CH-025 Scene Architecture: **PASS — GATE 8**
 CH-025 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
 CH-026 Scene Architecture: **PASS — GATE 8**  
 CH-026 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
-Red Jackal Series Voice: **LOCKED — DISTANT THIRD-PERSON LIMITED / CINEMATIC WEB-NOVEL ENGLISH / META ADDRESS WITHOUT TIME STOP**  
-Red Jackal Anti-Villain Expression: **LOCKED**  
-Red Jackal Reputation / Fear Progression: **LOCKED — REVELATION MODEL / UNKNOWN → UNDERESTIMATED → HIDDEN MONSTER**  
-Red Jackal Aura-Farming Reputation Evolution: **LOCKED — MANUFACTURED → EARNED → REPUTATION PRECEDES HIM**  
-Red Jackal Reputation / Threat Perception: **LOCKED — EVIDENCE-BASED DISCOVERY, NOT POWER GROWTH**  
+Rook Vane Series Voice: **LOCKED — DISTANT THIRD-PERSON LIMITED / CINEMATIC WEB-NOVEL ENGLISH / META ADDRESS WITHOUT TIME STOP**  
+Rook Vane Anti-Villain Expression: **LOCKED**  
+Rook Vane Reputation / Fear Progression: **LOCKED — REVELATION MODEL / UNKNOWN → UNDERESTIMATED → HIDDEN MONSTER**  
+Rook Vane Aura-Farming Reputation Evolution: **LOCKED — MANUFACTURED → EARNED → REPUTATION PRECEDES HIM**  
+Rook Vane Reputation / Threat Perception: **LOCKED — EVIDENCE-BASED DISCOVERY, NOT POWER GROWTH**  
 Aura Evolution: **MANUFACTURED → EARNED → REPUTATION-SUPPORTED**
 
 The project publication state is now:
@@ -168,18 +168,18 @@ Revision result:
 Volume 1 Gate 11 refresh is complete. Volume 2 CH-028 is now the active authorized step.
 
 
-## Red Jackal Overpowered Retcon
+## Rook Vane Overpowered Retcon
 
 Authoritative retcon:
 
 `planning/RED-JACKAL-OVERPOWERED-RETCON.md`
 
 Foundation changes:
-- Red is already overwhelmingly powerful from the beginning;
-- Jackal Luck is Red's only supernatural ability and has no progression tree;
+- Rook is already overwhelmingly powerful from the beginning;
+- Fortune Distortion is Rook's only supernatural ability and has no progression tree;
 - Stage I/II/III/IV progression is superseded;
 - escalating effects are revealed probability patterns, not new powers or raw-power tiers;
-- fights emphasize Red playing with enemies until he decides to stop;
+- fights emphasize Rook playing with enemies until he decides to stop;
 - supporting cast matter through information, access, logistics, evidence, judgment and consequences.
 
 All older Stage-I ceiling language is legacy until revised.
@@ -241,8 +241,8 @@ It has no current authority over:
 - POV;
 - reader address;
 - fourth-wall mechanics;
-- Red's origin;
-- Red's personality-development model.
+- Rook's origin;
+- Rook's personality-development model.
 
 The only retained value from that historical pass is line-level work that remains compatible after the new first-person rewrite.
 
@@ -261,15 +261,15 @@ Locked changes:
 - natural far Soul Drift, not Savael/Exterior Needle, brings him to Veyr;
 - most autobiographical memory/personality organization is lost;
 - Deadpool-fan/meta-media cognitive residue survives;
-- Red is written in distant third-person limited narration;
+- Rook is written in distant third-person limited narration;
 - reader address is a meta voice device only and never freezes Veyran time;
-- Jackal Luck is the only supernatural power from the start;
-- Red has no supernatural regeneration; injury and recovery follow ordinary bodily/in-world medical rules;
-- Red has no conventional power progression;
-- Red has no conventional moral-development arc;
-- Red remains a self-centered comedic anti-villain/aura farmer/enemy-player;
+- Fortune Distortion is the only supernatural power from the start;
+- Rook has no supernatural regeneration; injury and recovery follow ordinary bodily/in-world medical rules;
+- Rook has no conventional power progression;
+- Rook has no conventional moral-development arc;
+- Rook remains a self-centered comedic anti-villain/aura farmer/enemy-player;
 - Veyr has a real registered otherworld Hero, Hero Party, Main Villain, and independent native story;
-- Red intrudes on and reroutes that story without becoming its chosen Hero.
+- Rook intrudes on and reroutes that story without becoming its chosen Hero.
 
 Preserved:
 - world map/geography;
@@ -300,14 +300,14 @@ Authoritative sources:
 - `qa/RED-JACKAL-FINAL-STORY-ENGINE-RETCON-QA.md`
 
 Additional locked interpretation:
-- Red is the series focal protagonist, but not Veyr's registered chosen Hero;
+- Rook is the series focal protagonist, but not Veyr's registered chosen Hero;
 - the conventional otherworld Hero and Hero Party remain genuine and competent;
-- Red repeatedly creates a false-main-character effect by stealing presentation and attention;
-- Red's intrusion may change the flow, but it must reroute later causality instead of deleting the sequence;
-- unexpected situations must grow from Red's personality and leave lasting consequences;
-- Red has no conventional moral/personality-development arc;
-- Red has no raw-power progression arc;
-- aura farming, enemy-play, theatricality, reader-address, and Jackal Luck are established from the beginning; no second power is unlocked.
+- Rook repeatedly creates a false-main-character effect by stealing presentation and attention;
+- Rook's intrusion may change the flow, but it must reroute later causality instead of deleting the sequence;
+- unexpected situations must grow from Rook's personality and leave lasting consequences;
+- Rook has no conventional moral/personality-development arc;
+- Rook has no raw-power progression arc;
+- aura farming, enemy-play, theatricality, reader-address, and Fortune Distortion are established from the beginning; no second power is unlocked.
 
 Preservation remains absolute unless the author explicitly changes it:
 - world map/geography;

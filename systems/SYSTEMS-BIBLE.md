@@ -3,7 +3,7 @@
 **Owners:** A030-A037  
 **Status:** CANON — PHASE 1 FOUNDATION
 
-This file is authoritative for cosmology, World System behavior, magic, reincarnation, Fate, the Great Design, Red Jackal's anomaly, regeneration, and Play Logic. It intentionally contains no arc, volume, chapter, scene, or manuscript planning.
+This file is authoritative for cosmology, World System behavior, magic, reincarnation, Fate, the Great Design, Red Jackal's anomaly, and Jackal Luck. It intentionally contains no arc, volume, chapter, scene, or manuscript planning.
 
 # 1. Cosmological Stack
 
@@ -337,7 +337,7 @@ It does not:
 - register him with the World System;
 - translate Veyran writing for him;
 - explain his arrival;
-- interact with Play Logic;
+- identify or directly manipulate Jackal Luck;
 - imply System compatibility;
 - connect to Fate, the Great Design, Savael, the Exterior Needle, or any protected mystery.
 
@@ -638,13 +638,17 @@ Red Jackal does not have:
 - invisible normal XP;
 - a secret conventional class;
 - a delayed standard awakening;
-- a normal System evolution path waiting to unlock.
+- a normal System evolution path waiting to unlock;
+- Play Logic or imagination-based reality manipulation;
+- supernatural regeneration or self-restoration;
+- a time-stop / Fourth-Wall Pause ability;
+- a second hidden combat power.
 
 He is also not “weak now but destined to become limitless later.”
 
 **The absence of a progression field is literal. There is no conventional power progression to record.**
 
-His overwhelming anomaly is already present.
+His one anomaly power, Jackal Luck, is already present.
 
 ## 7.4 Observable Symptoms
 
@@ -655,16 +659,26 @@ When ordinary System functions target him:
 - some blessing/curse interfaces fail or partially attach through his physical body rather than System identity;
 - appraisal tools may error, return incomplete environmental data, or classify only observable equipment and effects.
 
+When Red is involved in uncontrolled events, observers may also notice statistically abnormal coincidence:
+- lethal attacks miss for ordinary-looking reasons;
+- mechanisms fail at unusually useful moments;
+- unrelated arrivals happen at suspiciously convenient times;
+- random debris or terrain repeatedly creates openings;
+- Red's bad guesses sometimes intersect the correct answer.
+
+These events remain causally possible even when their clustering is extremely improbable.
+
 ## 7.5 What Ordinary People Might Think
 
 Possible interpretations include:
 - cursed person;
-- divine punishment;
+- blessed fool;
+- divine favorite;
 - forbidden experiment;
-- shapeshifter;
 - System criminal;
 - failed reincarnation;
-- monster wearing human form.
+- monster wearing human form;
+- terrifying tactician who plans several steps ahead.
 
 These are beliefs, not writer truth.
 
@@ -672,13 +686,14 @@ These are beliefs, not writer truth.
 
 Experts can eventually confirm:
 - he is physically real;
-- he can interact with mana and matter;
+- he can interact with mana and matter normally;
 - his soul cannot be found through normal registry methods;
-- his effects do not fit one known magic school;
-- his output does not correlate with any visible level, class, mana pool, or progression record;
-- apparent limits are inconsistent across situations.
+- he has no visible level, class, mana pool, or progression record;
+- improbable events cluster around situations in which he is causally involved;
+- the individual events remain physically or socially possible;
+- the pattern is too persistent to dismiss as ordinary chance.
 
-They still cannot automatically explain his origin or know his full capability.
+They still cannot automatically explain his origin, predict the next lucky event, or prove that Red consciously controls the pattern.
 
 ## 7.7 No Power Progression — Revelation Model
 
@@ -691,21 +706,18 @@ Red Jackal does not gain raw power through:
 - conventional awakenings;
 - mandatory training thresholds.
 
-He may improve ordinary knowledge, judgment, tactics, social understanding, local language, technical skill, and familiarity with Veyr.
+Jackal Luck does not level up.
 
-Those improvements help him choose better solutions.
-
-They do **not** unlock a higher power tier.
+Red may improve ordinary knowledge, judgment, tactics, social understanding, local language, technical skill, and familiarity with Veyr. Those improvements help him notice and use openings after they appear, but they do **not** unlock a higher supernatural tier.
 
 Writer truth:
 
-**the capability was already there.**
+**the luck was already there.**
 
 Series progression therefore tracks:
 - knowledge of Veyr;
-- creativity of presentation;
-- voluntary restraint;
-- public revelation;
+- recognition of the probability pattern;
+- public interpretation;
 - reputation;
 - relationships;
 - interference with native storylines;
@@ -713,199 +725,111 @@ Series progression therefore tracks:
 
 It does **not** track Red becoming morally healthier, saner, humbler, or conventionally heroic.
 
-# 8. Regeneration / Self-Restoration
+# 8. Jackal Luck — Luck-Only Anomaly
 
-Red Jackal's body is not meaningfully limited by ordinary lethal damage.
+## 8.1 Definition
 
-## 8.1 Capabilities
+**Jackal Luck** is Red Jackal's only supernatural ability.
 
-His anomaly can restore him from extreme physical destruction with speed and completeness that ordinary healing systems cannot classify.
+It is passive probability distortion centered on events in which Red is causally involved.
 
-Cuts, fractures, organ loss, massive tissue destruction, and normally lethal trauma do not create a conventional long-term combat ceiling.
+The power does not create an impossible result directly. It biases which physically, socially, mechanically, or environmentally possible result actually occurs.
 
-## 8.2 Pain and Performance
+## 8.2 Valid Expressions
 
-Pain may still be experienced.
+Jackal Luck may influence:
+- timing;
+- aim;
+- footing;
+- mechanical reliability;
+- route choice;
+- falling or rolling objects;
+- weather timing when several outcomes are already plausible;
+- random selection;
+- accidental discovery;
+- who arrives first;
+- which witness hears a conversation;
+- which weak point fails;
+- which ordinary object is nearby;
+- chains of individually plausible coincidences.
 
-Red may also:
-- deliberately delay visible recovery;
-- allow an injury to remain for dramatic effect;
-- pretend recovery is slower than it is;
-- use bandages or ordinary treatment because the social situation is easier that way;
-- accept medical care because he likes or respects the person providing it.
+A large lucky outcome should usually be built from several visible small causes instead of one unexplained miracle.
 
-These are not proof that his restoration has a conventional stamina ceiling.
+## 8.3 Invalid Expressions
 
-## 8.3 Narrative Boundary
+Jackal Luck cannot:
+- conjure matter;
+- erase matter;
+- rewrite reality directly;
+- transform Red;
+- teleport him without a causal mechanism;
+- stop time;
+- rewind time;
+- resurrect him;
+- regenerate destroyed tissue supernaturally;
+- cancel magic by declaration;
+- perform conceptual attacks;
+- guarantee victory;
+- let Red consciously order an exact result.
 
-Self-restoration does not make Red:
-- omniscient;
-- omnipresent;
-- able to undo another person's death automatically;
-- able to know what happened while he was absent;
-- automatically correct about consequences.
+If Red is wounded, the wound remains until it heals normally or receives legitimate in-world treatment.
 
-A person Red failed to protect can still die.
+Luck may prevent the wound from being worse. It may not erase damage that already happened.
 
-A city can still burn somewhere he was not watching.
+## 8.4 Control Model
 
-A political decision can still be made while he is playing with the wrong enemy.
+Red does not reliably activate Jackal Luck.
 
-# 9. Play Logic — Unbounded Play
+He does not select a desired probability from a menu.
 
-## 9.1 Definition
+He often acts recklessly, improvises, or makes a casual choice, then discovers that the surrounding sequence has become suspiciously favorable.
 
-**Play Logic** is Red Jackal's imagination-based anomaly.
+This supports the recurring character engine:
 
-Reality accepts the role, object, interaction, transformation, or rule he sincerely chooses to impose strongly enough that normal Veyran categories stop being useful.
+**simple motive → reckless/theatrical choice → probability chain bends → opening appears → Red acts or an ally acts → witnesses assume planning → Red accepts the aura → consequences return later**
 
-It is not conventional magic.
+## 8.5 Counterplay
 
-It is not a skill tree.
+Jackal Luck protects Red imperfectly.
 
-It has no locked mastery stages.
+It does not automatically protect:
+- allies;
+- civilians;
+- evidence;
+- buildings;
+- political legitimacy;
+- relationships;
+- objectives Red does not know exist;
+- people in another location;
+- consequences already set in motion.
 
-## 9.2 Writer-Truth Power Model
+A lucky escape can therefore create a worse strategic problem.
 
-Red Jackal is already overpowered.
+## 8.6 Fate Boundary
 
-There is **no known intrinsic ceiling** to Play Logic inside the series power structure.
+Jackal Luck is not Fate command.
 
-He does not progress from small objects to large effects because he becomes stronger.
+Fate may influence convergence around native story structures.
 
-If an early chapter shows a small effect, the correct interpretation is one or more of:
-- that was all he chose to use;
-- he was testing how Veyr reacted;
-- he did not understand the situation well enough to choose a larger solution;
-- he was preserving his persona;
-- he was entertaining himself;
-- the story had not yet revealed more.
+Jackal Luck distorts local probability around Red's causal involvement.
 
-It is not evidence of a true Stage I ceiling.
+The two can interfere with each other without becoming the same system.
 
-## 9.3 Expression
+## 8.7 Fourth-Wall Behavior
 
-Play Logic may express as:
-- temporary or permanent objects;
-- weapons;
-- transformations;
-- barriers;
-- environmental alteration;
-- spatial manipulation;
-- impossible movement;
-- matter/energy alteration;
-- magic cancellation or imitation;
-- conceptual interactions;
-- causality-like tricks;
-- symbolic or metaphorical effects;
-- effects that conventional observers cannot place on a scale.
+Red may speak toward an unseen audience, comment on genre logic, or behave as though the scene has spectators.
 
-This list is descriptive, not exhaustive.
+This is a cognitive/personality residue and a narrative device.
 
-## 9.4 Voluntary Restraint
+**Veyran time does not stop.**
 
-Red frequently creates his own rules because unrestricted victory is boring.
-
-Examples:
-- “only use one hand”;
-- “beat the swordsman with a spoon”;
-- “do not move from this spot”;
-- “let him finish the spell”;
-- “make it look accidental”;
-- “win without showing anyone what happened.”
-
-These restrictions are character choices.
-
-They can be abandoned instantly.
-
-## 9.5 Apparent Failure
-
-A Play Logic attempt may appear to misfire because:
-- Red was joking;
-- he changed the idea midway;
-- he preferred the funnier result;
-- he misunderstood a local object or concept;
-- he intentionally let the scene continue;
-- he is an unreliable narrator about how intentional something was.
-
-Do not use “reality resistance” as a routine hard ceiling.
-
-## 9.6 Knowledge Is Not Power
-
-Red can possess enough raw capability to erase an enemy while still not knowing:
-- who the real enemy is;
-- what a device does;
-- which person is lying;
-- what political consequence follows;
-- where every hostage is;
-- which choice will hurt someone later.
-
-This is the primary distinction that preserves story tension.
-
-## 9.7 Serious Release
-
-When Red stops playing, the difference is not a transformation.
-
-It is the removal of voluntary restraint.
-
-Serious displays should be:
-- simple;
-- decisive;
-- disproportionate;
-- frightening because the audience realizes previous difficulty was partly performance.
-
-## 9.8 No Progression Ceiling
-
-There is no:
-- Stage I;
-- Stage II;
-- Stage III;
-- Stage IV;
-- final form;
-- level cap;
-- stat cap;
-- mandatory awakening;
-- “strong enough later” requirement.
-
-Future spectacle escalates through **revelation and creativity**, not numerical growth.
-
-## 9.9 Fourth-Wall Pause
-
-Red Jackal's fourth-wall behavior is both a narrative signature and a real anomaly effect.
-
-Whenever Red **genuinely addresses an external reader/audience**, his foreign Soul-Drift relation slips partly outside Veyr's active causal sequence.
-
-Result:
-
-**local Veyran time stops for the duration of the address.**
-
-During the pause:
-- physical motion freezes;
-- local sound ceases;
-- projectiles stop;
-- spells stop advancing;
-- explosions stop expanding;
-- native minds do not experience elapsed time;
-- Red may speak directly to the audience, comment on tropes, mock the situation, think aloud, or perform a meta aside.
-
-Default rule:
-- Red returns to the same causal instant when the aside ends;
-- native characters do not remember the pause;
-- the audience does not grant power;
-- the pause is not a stamina resource;
-- it has no progression tiers.
-
-The pause is **not** evidence that Red is literally inside a fictional book from Veyr's perspective.
-
-It is the observable consequence of a soul that is only partially anchored to Veyr's causal order.
-
-Play Logic may occasionally combine with the pause for a deliberately approved meta gag, but ordinary fourth-wall commentary does not automatically alter frozen physical objects.
+Native characters may notice Red speaking to nobody if they are present and paying attention. The reader is not an in-world power source.
 
 # 10. Narrative Counterplay and Story Rerouting
 
-No normal opponent is required to exceed Red Jackal in raw power.
+Red can look impossibly difficult to kill because probability repeatedly creates openings around him, but he is not physically omnipotent.
 
-Threats remain meaningful through conditions Red cannot solve by merely hitting harder:
+Threats remain meaningful through conditions luck cannot automatically solve:
 
 - incomplete information;
 - hidden objectives;
@@ -918,7 +842,7 @@ Threats remain meaningful through conditions Red cannot solve by merely hitting 
 - enemies exploiting his curiosity, vanity, boredom, role-playing, or refusal to take them seriously;
 - situations where winning the fight does not answer the real problem.
 
-Enemies may also temporarily believe they have countered him because Red allows the scene to continue.
+Enemies may also temporarily believe they have solved the pattern, only for a different ordinary variable to fail at the wrong moment.
 
 ## 10.1 Native Story Tracks
 
@@ -949,7 +873,7 @@ This is **story rerouting**, not immunity to consequences.
 
 ### Hard Rule
 
-Do not manufacture a stronger enemy solely to restore conventional power scaling.
+Do not manufacture an anti-luck enemy solely to restore conventional power scaling.
 
 If Red loses something important, prefer:
 - being too late;
@@ -969,7 +893,7 @@ If Red loses something important, prefer:
 | Prophecy | Records some effects | Can enable visions | Primary | Can reinforce large convergence | Unreliable around him |
 | Reincarnation | Records relation | Can interfere | Integrates future pathways | Deep compatibility | Abnormal entry |
 | Reality correction | Limited | Local | Probability/convergence | Deep long-horizon role | Can trigger pressure |
-| Play Logic | Cannot classify normally | Not conventional magic | Can resist indirectly | May oppose destabilizing scale | Primary anomaly expression |
+| Jackal Luck | Cannot classify normally | Not conventional magic | Distorts local probability without commanding Fate | May intersect with correction pressure | Primary anomaly expression |
 
 # 12. Knowledge Boundaries
 
@@ -993,6 +917,6 @@ The System is not reality itself. Fate is bounded. The Great Design is deeper th
 **Fate:** PASS — real but probabilistic and non-omnipotent.  
 **Great Design:** PASS — writer-truth role and reveal boundary defined.  
 **Red Jackal anomaly:** PASS — locked UNDEFINED/NO RECORD/FAILED/ANOMALY state preserved.  
-**Regeneration:** PASS — extreme self-restoration; ordinary lethal damage is not a meaningful combat ceiling.  
-**Play Logic:** PASS — unbounded from the start; no mastery-stage progression; story tension comes from revelation, restraint, information, judgment, and consequences.  
+**Jackal Luck:** PASS — only supernatural ability; passive probability distortion; no power progression; no guaranteed outcomes.  
+**Removed powers:** PASS — Play Logic, supernatural regeneration/self-restoration, and Fourth-Wall Pause are non-canon under the luck-only retcon.  
 **Scope control:** PASS — no arc, volume, chapter, scene, or manuscript planning.

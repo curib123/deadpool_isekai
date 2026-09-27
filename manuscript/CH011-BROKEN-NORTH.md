@@ -1,16 +1,12 @@
 # Chapter 11 — Broken North
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / PLAY LOGIC + JACKAL LUCK RETCON — GATE 9 REVALIDATION REQUIRED
+**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
 **Revision Date:** 2026-09-27
 **Word Count:** 3,247
 **Chapter QA:** `qa/CH-011-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-011-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
-Tavian spread a map across a low supply crate in Greywake's north road yard. Maelis placed a field sheet beside it. Kellan dropped a coil of rope and a short pry bar onto the crate.
-
-Red arrived with breakfast. One of them had prepared correctly. A charged Wayfarer Tongue Token hung from Tavian's belt, close enough that everyone around the crate came through clearly. The map itself remained a collection of useful lines covered in letters that continued refusing diplomatic relations with him.
-
-Tavian marked three points with charcoal. The marks formed a rough line toward the north.
+Tavian spread a map across a low supply crate in Greywake's north road yard. Maelis placed a field sheet beside it. Kellan dropped a coil of rope and a short pry bar onto the crate. Rook arrived with breakfast. One of them had prepared correctly. A charged Wayfarer Tongue Token hung from Tavian's belt, close enough that everyone around the crate came through clearly. The map itself remained a collection of useful lines covered in letters that continued refusing diplomatic relations with him. Tavian marked three points with charcoal. The marks formed a rough line toward the north.
 
 "Older prey sign here. Predator sign here. Mixed crossing here."
 
@@ -18,7 +14,7 @@ He drew a line through them. The charcoal cut across three separate pieces of ev
 
 "Different ages. Same broad drift."
 
-"Northeast," Red said.
+"Northeast," Rook said.
 
 "Yes."
 
@@ -46,7 +42,7 @@ Maelis looked at him. Her expression stayed professionally flat.
 
 "I would hate to argue with you after dark."
 
-Red took another bite of breakfast. Somebody in this investigation needed to respect priorities.
+Rook took another bite of breakfast. Somebody in this investigation needed to respect priorities.
 
 "She gets stronger around paperwork."
 
@@ -60,7 +56,7 @@ Kellan looked at the point. Recognition arrived before he spoke.
 
 The name sounded less like infrastructure and more like somebody had already reviewed the project.
 
-"That is the abandoned road?" Red asked.
+"That is the abandoned road?" Rook asked.
 
 "Partly abandoned," Kellan said. "Partly collapsed. Mostly losing an argument with roots."
 
@@ -76,9 +72,7 @@ Maelis compared the spot with her sheet. The overlap survived the second method.
 
 "The location also falls inside the outer-loss cluster."
 
-Tavian nodded once. Two different investigations had reached the same ugly patch of map. Mud from Tavian.
-
-Paper from Maelis. Kellan supplied the road. Red supplied breakfast and emotional stability.
+Tavian nodded once. Two different investigations had reached the same ugly patch of map. Mud from Tavian. Paper from Maelis. Kellan supplied the road. Rook supplied breakfast and emotional stability.
 
 "That is relaxing."
 
@@ -96,15 +90,9 @@ Kellan picked up the rope. The meeting had apparently ended by practical consens
 
 "Can we argue about the verb while walking?"
 
-Red liked him. Broken North began as a road and slowly stopped earning the word. The first stretch still carried old wagon cuts. Farther north, roots had lifted slabs of packed stone until sections tilted like bad teeth. One drainage trench had collapsed into a muddy groove deep enough to trap a wheel. Moss covered the broken edge of an old retaining wall.
+Rook liked him. Broken North began as a road and slowly stopped earning the word. The first stretch still carried old wagon cuts. Farther north, roots had lifted slabs of packed stone until sections tilted like bad teeth. One drainage trench had collapsed into a muddy groove deep enough to trap a wheel. Moss covered the broken edge of an old retaining wall. There were still signs the route had mattered once. Old fitted stone. Iron rings in retaining blocks. A faded distance marker. The remains of a side turnout swallowed by brush. Then they reached the closure.
 
-There were still signs the route had mattered once. Old fitted stone. Iron rings in retaining blocks.
-
-A faded distance marker. The remains of a side turnout swallowed by brush. Then they reached the closure.
-
-It was new. That mattered because almost nothing around it was. Two fresh timber posts had been driven beside the old road and linked by a chain. A square Guild board hung between them beneath a waxed cover. Pale saw marks still showed along the wood.
-
-Red looked at the writing. The writing maintained its traditional commitment to being useless.
+It was new. That mattered because almost nothing around it was. Two fresh timber posts had been driven beside the old road and linked by a chain. A square Guild board hung between them beneath a waxed cover. Pale saw marks still showed along the wood. Rook looked at the writing. The writing maintained its traditional commitment to being useless.
 
 "What does it say?"
 
@@ -112,7 +100,7 @@ Maelis read it aloud. The official phrasing was much less exciting than the fres
 
 "Broken North corridor closed by authority of the Greywake Chartered Road Guild. Passage restricted due to unstable roadworks, collapse risk, and elevated monster activity. Unauthorized entry prohibited until further inspection."
 
-Red looked beyond the chain. Half the road had fallen away ten paces ahead.
+Rook looked beyond the chain. Half the road had fallen away ten paces ahead.
 
 "Annoyingly reasonable."
 
@@ -136,15 +124,15 @@ He looked past the closure. The abandoned road did not look abandoned enough.
 
 "But somebody cared enough about an abandoned road to put up a current barrier."
 
-Maelis wrote it down. Red stepped over the chain. Three voices hit him at once.
+Maelis wrote it down. Rook stepped over the chain. Three voices hit him at once.
 
-"Red Jackal."
+"Rook Vane."
 
 "Don't."
 
 "Of course."
 
-Red turned around from the other side. It was impressive how differently three competent people could communicate disappointment. Maelis pointed at the chain.
+Rook turned around from the other side. It was impressive how differently three competent people could communicate disappointment. Maelis pointed at the chain.
 
 "You knowingly crossed an active Guild closure."
 
@@ -168,7 +156,7 @@ Kellan snorted. Tavian did not. Maelis folded her arms.
 
 "No."
 
-Red looked at the fresh posts. New work beside old ruin was becoming a familiar combination.
+Rook looked at the fresh posts. New work beside old ruin was becoming a familiar combination.
 
 "I am not claiming this one is."
 
@@ -184,17 +172,7 @@ That stopped her for half a second.
 
 "I know."
 
-The world paused. The chain froze with one link still turning from where his boot had brushed it. A leaf stopped halfway to the road. Tavian stood motionless with one hand near his field pack.
-
-Red looked toward the unseen audience.
-
-"Somewhere, a lawyer has just developed a headache without knowing why."
-
-Red glanced at the very real washout behind him.
-
-"To be fair, the sign has excellent evidence."
-
-Time resumed. The chain finished turning. Tavian looked down Broken North.
+The chain finished turning. Tavian looked down Broken North.
 
 "If you continue alone, I will have to come after you when you do something preventable."
 
@@ -226,11 +204,7 @@ That mattered. Maelis closed her eyes for one second, then wrote on the field sh
 
 "No."
 
-Then she stepped over. Of course she documented the trespass before joining it. Some people had standards.
-
-Beyond the closure, Broken North became honest about abandonment. Brush narrowed the road. Old marker stones leaned at strange angles. One retaining wall had fallen outward, scattering square-cut blocks down the slope. The remains of a watch structure appeared through the trees farther ahead, only one corner still high enough to resemble architecture.
-
-Kellan stopped at a broken drainage cut. He studied the damage before giving it an age.
+Then she stepped over. Of course she documented the trespass before joining it. Some people had standards. Beyond the closure, Broken North became honest about abandonment. Brush narrowed the road. Old marker stones leaned at strange angles. One retaining wall had fallen outward, scattering square-cut blocks down the slope. The remains of a watch structure appeared through the trees farther ahead, only one corner still high enough to resemble architecture. Kellan stopped at a broken drainage cut. He studied the damage before giving it an age.
 
 "This collapse is old."
 
@@ -260,9 +234,7 @@ Tavian scanned the ground. His attention settled on shallow impressions beside t
 
 "Boot sign."
 
-Red looked. Mud. Leaves. Several shallow impressions. A few days ago, Red would have seen dirt. Now he could at least recognize that he was looking at evidence he was not qualified to interpret.
-
-Progress of the least glamorous kind.
+Rook looked. Mud. Leaves. Several shallow impressions. A few days ago, Rook would have seen dirt. Now he could at least recognize that he was looking at evidence he was not qualified to interpret. Progress of the least glamorous kind.
 
 "How recent?"
 
@@ -282,9 +254,7 @@ Kellan looked at her.
 
 "I think we establish what happened before deciding why."
 
-He shook his head. Kept walking. The signs continued. A branch cut cleanly instead of broken by weather. A narrow strip through the brush with less leaf litter than the ground around it. Fresh abrasion on an old iron fitting.
-
-Then Kellan found wax. He rubbed one finger along a metal pin half-hidden beneath ivy. The surrounding fitting was orange with rust.
+He shook his head. Kept walking. The signs continued. A branch cut cleanly instead of broken by weather. A narrow strip through the brush with less leaf litter than the ground around it. Fresh abrasion on an old iron fitting. Then Kellan found wax. He rubbed one finger along a metal pin half-hidden beneath ivy. The surrounding fitting was orange with rust.
 
 The pin was not.
 
@@ -310,7 +280,7 @@ He studied the direction.
 
 "Not exactly."
 
-Red had learned to dislike that kind of answer. Tavian stood and pointed around the slope.
+Rook had learned to dislike that kind of answer. Tavian stood and pointed around the slope.
 
 "They bend around this section. Several species."
 
@@ -336,11 +306,7 @@ Again. Maelis joined him.
 
 "Different terrain. Same contradiction."
 
-She wrote that too. Yesterday they had paper. Before that, tracks.
-
-Now the abandoned road itself had started leaving receipts. They followed the narrow used path toward the ruined watch point. The hillside had collapsed years ago. Three old stone steps remained attached to the slope before ending above a washout where the original road bed had disappeared.
-
-Kellan stopped so abruptly Red nearly walked into him. His attention had gone to the broken edge under their feet.
+She wrote that too. Yesterday they had paper. Before that, tracks. Now the abandoned road itself had started leaving receipts. They followed the narrow used path toward the ruined watch point. The hillside had collapsed years ago. Three old stone steps remained attached to the slope before ending above a washout where the original road bed had disappeared. Kellan stopped so abruptly Rook nearly walked into him. His attention had gone to the broken edge under their feet.
 
 "No."
 
@@ -364,9 +330,7 @@ Excellent engineering unit. Tavian raised one hand. They stopped. He was looking
 
 "Movement."
 
-A low scrape came from beneath the ruined road. Then another. Two lean shapes appeared between the trees.
-
-Long-backed. Grey-brown. Narrow heads. They were smaller than the pack from the service road, but not small enough to become charming. Tavian drew his blade.
+A low scrape came from beneath the ruined road. Then another. Two lean shapes appeared between the trees. Long-backed. Grey-brown. Narrow heads. They were smaller than the pack from the service road, but not small enough to become charming. Tavian drew his blade.
 
 "Ridge-hounds. Displaced."
 
@@ -380,19 +344,13 @@ One hound stepped onto a fallen block. The second circled lower along the washou
 
 "Maelis, inner wall. Kellan behind her."
 
-Maelis already had her compact crossbow out. She did not waste time announcing it. Red shifted forward.
-
-Tavian looked at him. Red understood the warning before he spoke. He stopped. Useful memory remained cheaper than repeating old mistakes.
+Maelis already had her compact crossbow out. She did not waste time announcing it. Rook shifted forward. Tavian looked at him. Rook understood the warning before he spoke. He stopped. Useful memory remained cheaper than repeating old mistakes.
 
 "Where?"
 
 "Here."
 
-He placed him beside the narrowest section of the broken approach. The first hound climbed. Maelis fired into the ground ahead of it.
-
-The bolt struck dirt and stone. The animal veered. Tavian used the movement to drive it back with the flat line of his blade instead of chasing downhill.
-
-The second hound came up from the other side. Kellan swore.
+He placed him beside the narrowest section of the broken approach. The first hound climbed. Maelis fired into the ground ahead of it. The bolt struck dirt and stone. The animal veered. Tavian used the movement to drive it back with the flat line of his blade instead of chasing downhill. The second hound came up from the other side. Kellan swore.
 
 "Outer edge is moving."
 
@@ -402,15 +360,11 @@ A cracked section of road shifted under his boot. Gravel slid into the washout. 
 
 "Not safely. We need support under the lip or another route."
 
-The hounds climbed again. Another route would take time. The hounds had declined to offer any.
-
-Tavian looked at him. Red understood the warning before he spoke.
+The hounds climbed again. Another route would take time. The hounds had declined to offer any. Tavian looked at him. Rook understood the warning before he spoke.
 
 "Can you support that edge?"
 
-That was new. No warning. No request to avoid doing something strange. A specific problem. Red followed Kellan's pointing hand. This time he cared more about the measurement than the entrance.
-
-Broken stone shelf. Empty space beneath it. Stable inner retaining wall. The need was simple.
+That was new. No warning. No request to avoid doing something strange. A specific problem. Rook followed Kellan's pointing hand. This time he cared more about the measurement than the entrance. Broken stone shelf. Empty space beneath it. Stable inner retaining wall. The need was simple.
 
 "I can give you the support."
 
@@ -422,11 +376,7 @@ Kellan looked at him. His expression suggested measurements would outrank style.
 
 "My trust has measurements."
 
-Fair. Red looked at the gap. The solution was almost offensively small. Red could have replaced the missing road. Built a bridge. Raised a wall between them and the hounds.
-
-Turned the slope into a staircase wide enough for a parade nobody had requested. None of that was the problem Tavian and Kellan had given him. One brace.
-
-Hold the lip. That was all. Pale-grey material appeared beneath the cracked road shelf. Short. Wide. Ugly. It wedged between the surviving retaining wall and the underside of the broken stone. Kellan stared for half a second. Then engineering replaced surprise.
+Fair. Rook looked at the gap. The solution was almost offensively small. Rook could have replaced the missing road. Built a bridge. Raised a wall between them and the hounds. Turned the slope into a staircase wide enough for a parade nobody had requested. None of that was the problem Tavian and Kellan had given him. One brace. Hold the lip. That was all. Pale-grey material appeared beneath the cracked road shelf. Short. Wide. Ugly. It wedged between the surviving retaining wall and the underside of the broken stone. Kellan stared for half a second. Then engineering replaced surprise.
 
 Then dropped to one knee and tested the road above it with his hand and pry bar.
 
@@ -438,7 +388,7 @@ Then dropped to one knee and tested the road above it with his hand and pry bar.
 
 Tavian backed toward them. He kept the ridge-hounds in front of him.
 
-"Kellan first. Maelis second. Jackal third. I cross last."
+"Kellan first. Maelis second. Rook third. I cross last."
 
 The ridge-hounds climbed again. Kellan moved across the damaged section exactly along the line he had identified. Maelis followed.
 
@@ -446,17 +396,11 @@ The ridge-hounds climbed again. Kellan moved across the damaged section exactly 
 
 "It has one job."
 
-Red crossed. The broken lip held exactly where Kellan had said it needed to. The support remained exactly where he wanted it.
-
-Kellan had given him one job: keep that broken lip useful long enough for them to cross.
+Rook crossed. The broken lip held exactly where Kellan had said it needed to. The support remained exactly where he wanted it. Kellan had given him one job: keep that broken lip useful long enough for them to cross.
 
 So it stayed useful.
 
-Tavian moved last. One hound lunged close enough that he struck its muzzle with the guard of his blade and stepped backward onto the supported lip without looking down. For one brief second, Tavian trusted something impossible because Kellan had told him where it needed to be and Red had put it there.
-
-Then he was across. Red released the brace. Its task had ended with the last safe crossing.
-
-The pale material folded away from the stone and disappeared. The road remained broken. The hounds paced on the far side.
+Tavian moved last. One hound lunged close enough that he struck its muzzle with the guard of his blade and stepped backward onto the supported lip without looking down. For one brief second, Tavian trusted something impossible because Kellan had told him where it needed to be and Rook had put it there. Then he was across. Rook released the brace. Its task had ended with the last safe crossing. The pale material folded away from the stone and disappeared. The road remained broken. The hounds paced on the far side.
 
 Now the washout was their problem. Tavian watched them for several breaths. The hounds paced without committing to the jump.
 
@@ -482,23 +426,17 @@ Tavian sheathed his blade. The practical acknowledgment came afterward. Then loo
 
 "You waited for the position."
 
-Red almost ruined it.
+Rook almost ruined it.
 
 "Seemed efficient."
 
 "It was."
 
-That was all. No awe. No speech. Just practical trust earned for one specific action. Red preferred it more than he expected. Not enough to become humble.
-
-That would have been irresponsible. They continued toward the ruined watch point. Half the roof was gone.
-
-Trees grew through one wall. The lower stonework remained, including a drainage channel and several shallow recesses built into the retaining structure. Kellan went directly to one. He knew what the watch crews had built into the wall.
+That was all. No awe. No speech. Just practical trust earned for one specific action. Rook preferred it more than he expected. Not enough to become humble. That would have been irresponsible. They continued toward the ruined watch point. Half the roof was gone. Trees grew through one wall. The lower stonework remained, including a drainage channel and several shallow recesses built into the retaining structure. Kellan went directly to one. He knew what the watch crews had built into the wall.
 
 "Old road crews kept wedges, lamp oil, spare pins, emergency rope in these."
 
-He stopped. The stones covering the recess did not match the age of everything around them. Three flat stones covered the recess.
-
-The stones were old. Their arrangement was not. Kellan pointed to a scrape along the lower edge.
+He stopped. The stones covering the recess did not match the age of everything around them. Three flat stones covered the recess. The stones were old. Their arrangement was not. Kellan pointed to a scrape along the lower edge.
 
 "Moved recently."
 
@@ -510,9 +448,7 @@ Kellan withdrew his hand. He let her document the site first. She crouched and d
 
 "Boot traffic."
 
-Tavian looked downslope. The ridge-hounds had stopped being the most interesting thing there. The ridge-hounds had stopped pacing.
-
-He ignored them and studied the brush around the watch point.
+Tavian looked downslope. The ridge-hounds had stopped being the most interesting thing there. The ridge-hounds had stopped pacing. He ignored them and studied the brush around the watch point.
 
 "Tracks turn away from this location."
 
@@ -534,17 +470,9 @@ Maelis finished one last note.
 
 "Slowly."
 
-He worked the first stone free. Dust fell from an edge that had been disturbed before today. Then the second.
+He worked the first stone free. Dust fell from an edge that had been disturbed before today. Then the second. Behind them was a shallow maintenance pocket cut into the old retaining wall. Something stood inside it. The object belonged to the recess far more recently than the recess belonged to the road. Not stored. Installed. A dark stake rose from a fitted socket in the stone floor, roughly the length of his forearm above the mount. Thin metal bands wrapped the upper section around a narrow ceramic chamber. A capped reservoir sat beneath a vented housing. Etched lines ran from the mounting collar into a plate secured against the rear of the recess.
 
-Behind them was a shallow maintenance pocket cut into the old retaining wall. Something stood inside it. The object belonged to the recess far more recently than the recess belonged to the road.
-
-Not stored. Installed. A dark stake rose from a fitted socket in the stone floor, roughly the length of his forearm above the mount. Thin metal bands wrapped the upper section around a narrow ceramic chamber. A capped reservoir sat beneath a vented housing. Etched lines ran from the mounting collar into a plate secured against the rear of the recess.
-
-The surrounding watch stone was weathered. The device was not. Fresh tool marks crossed one fastening strap.
-
-New sealing wax shone along the reservoir seam. Nobody joked. The chapter had found something that did not need help becoming interesting.
-
-Maelis stopped at the edge. She kept her hands clear of the installed device. Kellan stared at the mounting. Whatever it was, it had not belonged to the old watch structure.
+The surrounding watch stone was weathered. The device was not. Fresh tool marks crossed one fastening strap. New sealing wax shone along the reservoir seam. Nobody joked. The chapter had found something that did not need help becoming interesting. Maelis stopped at the edge. She kept her hands clear of the installed device. Kellan stared at the mounting. Whatever it was, it had not belonged to the old watch structure.
 
 "That was not part of the old road."
 
@@ -556,9 +484,7 @@ She nodded and kept her hands away.
 
 "Manufactured assembly. Magical or alchemical components. Recently serviced."
 
-Tavian leaned closer without touching it. Recognition came slowly enough to matter. His face changed.
-
-Not surprise. Recognition. Maelis noticed. She asked before making any assumption.
+Tavian leaned closer without touching it. Recognition came slowly enough to matter. His face changed. Not surprise. Recognition. Maelis noticed. She asked before making any assumption.
 
 "You know the design."
 
@@ -572,11 +498,7 @@ Tavian studied the vent, reservoir, and fitted stake.
 
 "Animal diversion. Usually short-term route pressure."
 
-Usually. Useful word. It left room for this device to be something worse than ordinary practice.
-
-Red looked at the hidden equipment. Recently serviced. Inside an abandoned road. Exactly where the tracks had bent. Exactly where the records had pointed. Not proof of who installed it.
-
-Not proof of how long it had been operating. Not proof that it explained everything. But no longer mud.
+Usually. Useful word. It left room for this device to be something worse than ordinary practice. Rook looked at the hidden equipment. Recently serviced. Inside an abandoned road. Exactly where the tracks had bent. Exactly where the records had pointed. Not proof of who installed it. Not proof of how long it had been operating. Not proof that it explained everything. But no longer mud.
 
 No longer paperwork. A physical thing. For the first time, the pattern had hardware.
 

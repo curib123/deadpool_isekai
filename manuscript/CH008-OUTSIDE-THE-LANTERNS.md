@@ -1,436 +1,490 @@
 # Chapter 8 — Outside the Lanterns
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
+**Status:** CANON RESET — DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY  
 **Revision Date:** 2026-09-27
-**Word Count:** 2,827
-**Chapter QA:** `qa/CH-008-GATE-9-CHAPTER-QA.md`
 
 "Can you lift?"
 
-That was Kellan Dorr's first question. Not what happened to him. Not whether the stories were true. Not why a man who had been opened below the ribs yesterday was already walking down Greywake's western road. Just whether Rook could lift. He liked him immediately.
+That was Kellan Dorr's first question.
 
-"I can."
+Not what happened on the north road. Not whether the rumors were true. Not why Tavian had apparently told half of Greywake that Rook Vane had survived a predator charge through a sequence of accidents that offended probability.
 
-"How much?"
+Just whether he could lift.
 
-That answer deserved thought.
+Rook touched the bandage beneath his shirt.
 
-*Mostly.*
+"Light things."
 
-His side was mostly closed now. Sela had released him from immediate observation with several instructions, two warnings, and the expression of a woman who expected him to interpret all of them creatively. His ribs still hurt when Rook twisted too far. That did not mean he was weak. It meant ribs were dramatic. Kellan waited. Rook pointed at the work cart.
+Kellan looked at him.
 
-"More than that."
+"Good. You can carry light things."
 
-He looked at the cart. Then at him.
+Rook liked him immediately.
 
-"You guard your left side when you breathe."
+The Outer Homesteads began beyond the last reliable lantern posts west of Greywake. The road narrowed, the drainage worsened, and repairs stopped looking official. People still maintained the route, but the work had the practical unevenness of communities fixing what they could with what they had.
 
-"I do many things with style."
+Kellan led a small crew toward a timber bridge crossing a runoff channel.
 
-"Short boards. Lumber doesn't care."
+The bridge itself was intact.
 
-He kept walking. Rook stared after him. No awe. No follow-up. No opportunity to explain how medically upsetting Rook had become. Cruel man. A charged Wayfarer Tongue Token hung from the side of the cart, keeping everyone's spoken Valic understandable. Two workers walked ahead carrying axes and hand tools. A third pushed a narrow wheelbarrow loaded with iron straps, nails, rope, and pieces of reused timber. Rook picked up the short boards. Being an anomaly remained surprisingly compatible with lumber. They left the better road behind before he found a way to object.
+The approach was not.
 
-The change was not dramatic. No gate. No warning bell. No armored guard pointing at the wilderness and telling them civilization stopped there. The maintained road simply narrowed. Drainage channels grew shallower. The packed surface gave way to repairs made from whatever had been available at the time. And the lantern posts grew farther apart. Greywake's regular route lamps stood on thick posts at predictable intervals along the busier approaches. Then they passed one. Then another. Then one final post. After that, there was road. No lantern. The people continued anyway. A farm sat beyond the next bend, fields divided by low stone walls. Smoke rose from a timber workshop farther west. A storage shed stood beside a wagon track.
+Rain had softened the road edge around a root shelf. A loaded cart trying to cross had already sunk one wheel deep enough to tilt toward the ditch.
 
-Two children carried a basket between houses set well back from the road. No wall. No guard post. No clean line where life stopped. Only fewer things Greywake maintained for them. Kellan nodded back toward the last lamp.
+Kellan crouched beside the wheel.
 
-"Outside the lantern line."
+"Nobody moves it yet."
 
-Rook looked over his shoulder.
+The driver folded his arms.
 
-"Official phrase?"
+"I wasn't planning to live here."
+
+"Then don't make the hole deeper."
+
+Rook stood a few paces away holding a crate of wooden pegs.
+
+Light crate.
+
+Sela had been very specific.
+
+Kellan pointed toward a pile of stone.
+
+"Pack the outside."
+
+Two workers started moving baskets.
+
+Rook watched the cart.
+
+The wheel had sunk at an angle.
+
+The road edge looked bad.
+
+The root shelf beneath it looked worse.
+
+"Why not pull left?"
+
+Kellan did not look up.
+
+"Because the road is softer left."
+
+"Right?"
+
+"Ditch."
+
+"Forward?"
+
+"Bridge lip."
+
+Rook considered the available geometry.
+
+"So the cart has chosen a strong position."
+
+The driver muttered something rude.
+
+Kellan finally looked at Rook.
+
+"You know roads?"
 
 "No."
 
-"Shame. It has excellent dramatic value."
+"Good."
 
-One worker laughed. Kellan pointed at his boards.
+He returned to the wheel.
 
-"Carry those to the bridge."
+That should have ended Rook's contribution.
 
-Apparently atmosphere was not billable. The outer road was not abandoned. That was the first correction. It was maintained differently. A rut had been filled with loose stone near one farm. A washed edge had been reinforced with brush bundles and flat rock. Someone had reopened a drainage channel with a shovel and left the fresh mud piled beside it. Everything looked patched. Used.
+It did not.
 
-Repeatedly saved from becoming worse. They passed a cart carrying sacks toward Greywake. Another came the other direction with iron tools and salt. A woman outside a workshop called to Kellan.
+A worker carrying a basket of stone slipped.
 
-"Bridge open by evening?"
+The basket hit the ground.
 
-"If the approach holds."
+Half the stones rolled downhill.
 
-"That sounds promising."
+One disappeared under the cart.
 
-"It isn't."
+Kellan swore.
 
-She nodded like that answer belonged to a familiar language. Nobody asked who Rook was. His reputation continued to fail spectacularly outside centralized administration. The bridge appeared beyond a cluster of timber sheds. Calling it a bridge was generous. But correct. It crossed a seasonal cut where rainwater could apparently become violent enough to punish bad carpentry. Four main supports held a plank deck over the channel. One side of the far approach had sunk slightly.
+The driver leaned over.
 
-Several boards were newer than the rest. Not new. Newer. Rook had spent enough time around repaired roads to understand the difference. Three workers were already there. One worked under the bridge with a mallet. Another levered up a warped board. The third stacked stone near the soft approach. Kellan did not announce himself. He put down his axe and crouched at the edge. Everyone else kept working. Authority confirmed.
+"Did it hit the axle?"
 
-Rook set the short boards down. His ribs complained. He ignored them. Kellan ran one hand along the exposed support. Tapped twice. Looked underneath.
+"No."
 
-"This brace moved."
+A second stone rolled under the sunk wheel and stopped against the exposed root.
 
-The worker below answered.
+Rook looked at it.
 
-"Rot at the lower peg."
+Then at the wheel.
 
-"Peg?"
+"That seems useful."
 
-"Peg and maybe timber."
+Kellan followed his eyes.
 
-Kellan leaned farther over. He studied the grain. The moisture. Old nail holes. Previous repairs. Then pointed at one of his boards.
+He stood.
 
-"Not that one. Too narrow."
+"Don't touch the cart."
 
-A worker handed him a thicker piece without discussion. No argument. No ceremony. He knew the bridge. Useful. Rook looked at the deck.
+Nobody had been touching the cart.
 
-"How many times has this been repaired?"
+Kellan stepped around the wheel and examined the root shelf.
 
-Kellan glanced at him.
+The fallen stone had wedged into a gap below it.
 
-"This season?"
+He pointed.
 
-"That is not the answer I wanted."
+"Bring the rest."
 
-"Three."
+The worker who had dropped the basket blinked.
 
-Rook looked again. The bridge crew on the Main Caravan Road had arrived with fitted clamps, measured timber, dedicated tools, and enough replacement material to remove what had failed. Here, half the decking had old nail holes.
+"All of them?"
 
-"You reuse boards."
+"The flat ones."
 
-"We reuse what still carries weight."
+They packed the gap.
 
-"You asked Greywake for replacements?"
+Not enough to support the cart permanently.
 
-"Twice."
+Enough to change the wheel angle.
 
-"And?"
+Kellan looked toward the rear rope.
 
-He pointed at three cleaner boards stacked near the approach.
+"Now we pull backward two hands."
 
-"Some arrived."
+The driver frowned.
 
-Rook counted them. Ah. The joke was already here. Kellan stood.
+"You said not to move it."
 
-"Unload the cart before it crosses."
+"I said not yet."
 
-One worker looked at the supply cart.
+Workers took the rope.
 
-"All of it?"
+Rook stayed out of the line.
 
-"Half first. Tools and iron by hand. Grain stays until the approach is braced."
+He was learning.
 
-The driver sighed. Nobody argued. They had done this before. Rook picked up a crate. Then another. On the fourth, the movement pulled at his left ribs. Pain. Not weakness. Not depletion. A reminder that his body had been rebuilt recently and the nerves had apparently kept detailed records. Rook adjusted his grip. Kellan noticed.
+Kellan counted.
 
-"Put it down."
+"One. Two. Pull."
 
-"I have it."
+The cart moved backward.
 
-"You're twisting."
+The wheel lifted slightly.
+
+The root creaked.
+
+Then the rear rope snapped.
+
+Everyone shouted at once.
+
+The cart rolled forward again.
+
+Rook stepped back.
+
+The broken rope whipped across the mud, struck a stack of spare planks, and knocked the top plank sideways.
+
+The plank slid beneath the front wheel.
+
+The cart rolled onto it.
+
+The wheel rose.
+
+The driver yanked the brake.
+
+The cart stopped almost level.
+
+Silence.
+
+Kellan stared at the plank.
+
+Then at the snapped rope.
+
+Then at Rook.
+
+Rook raised both hands.
+
+"I was over here."
 
 "I know."
 
-"You're still doing it."
+That somehow sounded more suspicious.
 
-Rook set it down. His dignity survived. Barely. He pointed toward a lighter crate.
+The driver climbed down.
 
-"That one."
+"Can we move now?"
 
-"Do you assign everyone by medical disappointment?"
+Kellan walked the full wheel line twice.
 
-"I assign them by whether I want the work finished today."
+"Slowly."
 
-Rook picked up the lighter crate. Kellan returned to the bridge. Conversation over. The rope snapped taut. Nobody noticed. The work continued. That was the next thing Rook learned about the Outer Homesteads. Nobody seemed surprised by inconvenience. Bridge damaged? Repair it. Boards late? Reuse what still holds. Road washes out? Fill it. Drainage clogs? Dig. Nothing heroic. Everything constant. By midmorning, the workers had lifted two damaged planks, replaced one brace, and packed the soft edge of the approach with stone. Kellan checked every step. Not because he distrusted them. Because if the bridge failed after a loaded cart crossed, being admired afterward would not improve the dead horse. Rook leaned against the cart and looked west.
+The crew reset the rope with a fresh length.
 
-There were more homesteads than Rook expected. Not one poor settlement at the edge of the map. Clusters. A roof through the trees. Fields beyond a low ridge. A carpentry yard. Smoke from another compound. People crossed the bridge carrying ordinary things. Food. Boards. Tools. A rolled hide. Nothing designed to make history. Everything required to keep living. Rook nodded toward the traffic.
+Workers packed stone beneath the root shelf while the cart stayed supported on the accidental plank.
 
-"How many people use this crossing?"
+Then they pulled.
 
-Kellan fitted an iron strap around the replacement brace.
+The wheel crossed the weak edge.
 
-"Enough."
+The cart reached the bridge deck.
 
-"Excellent statistic."
+Nobody cheered.
 
-He tightened it.
+Outer Homestead workers apparently considered survival a normal part of scheduling.
 
-"Three farm clusters west. Wood camp southwest. Two family workshops north. Hunters sometimes."
+Kellan pointed toward the failed approach.
 
-"And Greywake?"
+"Now we fix it."
 
-"They sell there."
+Rook looked at the cart.
 
-Hammer strike.
+"That wasn't the repair?"
 
-"Buy there."
+"That was avoiding a worse problem."
 
-Another.
+He pointed toward the road.
 
-"Pay road fees when they use Guild routes."
+"This is the repair."
 
-Another.
+Fair.
 
-"Send timber when central crews need it."
+They spent the next two hours widening the stone base, replacing one brace, and cutting drainage away from the root shelf.
 
-He looked at the repaired strap.
+Rook carried pegs, short boards, and exactly nothing Sela would complain about if informed.
 
-"Then we wait when our boards rot."
+Kellan checked his work anyway.
 
-No speech. No revolution. Arithmetic. Rook looked at the bridge again. The Guild workers on the main road had not been lazy. These workers were not lazy either. The difference was what arrived with them. Materials. Attention. Priority. Rook had not come here to save anyone. He came because the job paid, because sitting on Sela's table had become boring, and because the difference between Greywake's roads had begun irritating him. Unfortunately, problems became harder to ignore after they acquired names, bridges, and people still working through them. Near midday, half the supplies had crossed by hand. The cart remained on the near side.
+"You twist when you lift."
 
-Kellan pressed one boot against the packed approach. It held. Then shifted. Barely. He stopped.
+"I have been stabbed by medical criticism already."
 
-"Hold."
+"Good."
 
-The driver had already moved the cart forward half a wheel. Kellan crouched and pushed a pry bar beneath the wheel path. The packed stone crumbled along one edge.
-
-"Back?" the driver asked.
-
-"No."
-
-Rook looked at him.
-
-"No forward. No back."
-
-"Flexible."
-
-"The outer edge lost support. Backing loads the same soft section again. Forward and the wheel drops before the deck."
-
-One worker crouched beside him.
-
-"Pack more stone?"
-
-"Not while the wheel is sitting there."
-
-Rook looked at the gap. Small. Annoyingly small. Exactly the kind of problem that became expensive when several hundred kilograms of cart decided gravity deserved a vote. Rook smiled. Kellan saw it.
-
-"No."
-
-"I haven't said anything."
-
-"You looked interested."
-
-"I am frequently interesting."
-
-"That is different."
-
-Rude. Rook crouched beside him.
-
-"I can make support."
-
-"Permanent?"
-
-"No."
-
-"Then it is not a repair."
-
-"I didn't say repair."
-
-That got his attention.
-
-"What exactly?"
-
-"A temporary load surface."
-
-"How temporary?"
-
-"As long as we need it."
-
-He considered him. No amazement. No fear. Engineering suspicion. Better.
-
-"If it disappears while the wheel is loaded, the cart drops into the approach."
-
-"Correct."
-
-"Then it goes here."
-
-He tapped a strip of ground with the pry bar.
-
-"Flat across this stone. Carry the wheel onto the root shelf. Not under the bridge brace."
-
-"Why not there?"
-
-"When your thing leaves, I don't want the bridge discovering it depended on something that no longer exists."
-
-Fair. He marked the exact line with the tip of the bar.
-
-"Here."
-
-Rook looked at the geometry. He could have made a stone platform across the entire approach. A new bridge. A steel road. A staircase descending directly into Kellan's patience. None of that was the job. One wheel. One weak strip. Transfer the load from the soft edge to the packed stone and root shelf.
-
-That was all. Rook held out one hand. The space beneath the wheel changed. Pale-grey material pressed itself against the ground. Flat enough. Wider than necessary on the left. Thicker on one edge. It looked less like crafted masonry and more like somebody had told reality, very firmly, to become load-bearing. Kellan inspected it.
-
-He pointed immediately.
-
-"Right side is flatter."
-
-Rook stared at him.
-
-"That is your reaction?"
-
-"Can it move?"
-
-"No."
-
-"Then the cart does."
-
-No existential crisis. No speech. No admiration. Coordinates. Practical people were very difficult to impress. Kellan stood.
-
-"Rope on the rear. Shift the nose left. Slow pull."
-
-The workers moved. One controlled the rear rope. Two leaned against the cart frame. The driver turned the wheel slightly. The loaded wheel rolled onto the impossible footing. It held. Kellan watched the contact point.
-
-"Slow."
-
-The cart moved. The support did not crack. It did not flicker. It simply did the job Rook had asked it to do. The wheel crossed the weak edge. Reached the bridge deck.
-
-"Clear."
-
-Rook let the footing go. It softened. Folded away. The damaged approach remained damaged. Of course it did. Kellan was already pointing at the exposed section.
-
-"Stone first. Pack wider. Then add the second brace."
-
-The permanent repair started before the last pale trace disappeared. One worker looked at the empty patch.
-
-"Useful."
-
-He picked up his shovel. That was the review. Rook looked at Kellan.
-
-"Your people are difficult."
+"You people are difficult."
 
 "They're working."
 
 "Exactly."
 
-He handed him a waterskin. Rook drank. His ribs still hurt from the earlier lifting. The manifestation had not made the pain worse. Why would it? The support had been easier than carrying four bad crates. Different kinds of work. Kellan glanced at the place where it had been.
+By midday, the bridge approach looked less dramatic and more reliable.
 
-"Can you do that again?"
+Rook was beginning to understand that this was the highest compliment Kellan could give anything.
 
-"Yes."
+They ate beside the road.
 
-"Good."
+One of the workers handed Rook a piece of flatbread.
 
-Rook waited.
+"You really didn't touch the rope?"
 
-"That's it?"
+"No."
 
-"What else do you want?"
+"The plank?"
 
-"A little alarm."
+"No."
 
-"You made a temporary slab."
+"The stone?"
 
-"From nothing."
+"No."
 
-"It is gone now."
+The worker chewed.
 
-Rook pointed at him.
+"So you just stood there."
 
-"You are ruining this for me."
+Rook considered the wording.
 
-He looked toward the workers packing stone.
+"I was supervising probability."
 
-"Your trick moved the cart."
+Kellan looked up from his food.
 
-Then he looked back at him.
+"No."
 
-"It didn't fix the road."
-
-Rook almost laughed.
-
-"I noticed."
-
-"Good."
-
-He returned to work. That was the end of his supernatural evaluation. The next hour belonged to stone, timber, iron, and mud. Nothing appeared from nowhere. The approach widened around the root shelf. A second brace went under the outer edge. Two deck boards were flipped and reused because the undersides had more life left in them. Rook helped. Mostly holding, carrying smaller loads, and passing tools.
-
-Not because Rook could not do more. Because there was no prize for turning every task into a demonstration. By early afternoon, the crossing could take light carts again. Heavy wagons would wait. Kellan marked the restriction on a board beside the bridge. The writing meant absolutely nothing to him. Then he drew a wheel symbol beneath it and crossed out a larger wagon pictogram. That Rook understood.
-
-"You use symbols because not everyone reads?" Rook asked.
-
-"Because everyone understands a broken wagon."
-
-Reasonable. The supply cart continued west. They walked with it toward the next junction. This road was worse. Not unusable. Tired. Different sections had been patched with different materials. Some drainage cuts were lined with stone. Others with split logs. One marker post still carried an old Guild stamp burned into the wood, with a newer local brace nailed around the base. Kellan touched it as they passed.
-
-"Guild post?"
-
-"Originally."
-
-"Maintained by you."
-
-"Now."
-
-No pride. No complaint. Just current ownership of the problem. At the junction, three routes split between fields and tree lines. An official marker stood in the middle. Text covered the upper board. Unreadable. Naturally. Below the writing were simple pictograms. Cart. Bridge. A claw mark inside a circle. That one Rook recognized from earlier Guild route cards. Hazard warning. The official claw symbol carried a small mark beside it. Low warning. Kellan stopped. Rook pointed at it.
-
-"Current?"
-
-"According to Greywake."
-
-Then Rook saw the strip tied beneath the official marker. Fresh wood. Painted red. Three claw marks cut deeply into it. Beside them were short tally cuts. One. Two. Three. Then two more, carved in a slightly different hand. Rook looked at Kellan.
-
-"What is that?"
-
-"Local warning."
-
-"Five?"
-
-"Five sightings."
-
-"How recent?"
-
-"Four days."
-
-Rook looked at the official marker again. Then the red strip. Old official information. Fresh local information.
-
-"You reported them?"
-
-"Yes."
-
-"All five?"
-
-"The first two together. Then the next one. Last two this morning."
-
-"And the Guild marker?"
-
-"Still that."
-
-"Patrol?"
-
-"Five days ago."
-
-Before the sightings. Rook looked down the road.
-
-"Normal?"
-
-Kellan gave a short breath through his nose.
-
-"Normal enough."
-
-That phrase again. Rook disliked it more every time. A worker beside them tightened the cord holding the red warning strip. No speech. No outrage. Just maintenance. Even the danger information had become something the people outside the lanterns maintained themselves. Rook stepped closer to the official marker. He could not read the text. Did not matter. Rook could recognize the low-warning pictogram. He could see fresh paint. Rook could count to five. Yesterday Tavian had told him the animals were moving wrong. Today, the people living beyond Greywake's routine protection were already recording that wrongness themselves.
-
-That proved one thing. Only one. The official information had not caught up. It did not prove someone was hiding anything. It did not prove anyone inside the Guild already knew. It did not prove the Guild wanted these people exposed. It proved the board was behind reality. That was enough to be interesting. The bridge job was finished. Rook could go back to Greywake. Collect his pay. Find food. Possibly avoid Sela long enough that she did not ask what Rook had lifted. He kept looking at the five fresh marks. Kellan noticed.
-
-"You going to ask something?"
-
-"Eventually."
-
-"What?"
-
-Rook looked at the official warning. Then the local strip.
-
-"Who decides when that one changes?"
-
-He followed his eyes.
-
-"Greywake."
-
-"Good."
-
-He frowned.
-
-"Why is that good?"
+The worker laughed.
 
 Rook smiled.
 
+Then he noticed the warning board.
+
+Two sets of marks covered it.
+
+The official strip showed one recent predator warning.
+
+Below it, local cuts in the wood showed five.
+
+Rook stood.
+
+"What are those?"
+
+Kellan followed his gaze.
+
+"Local sightings."
+
+"Five?"
+
+"Five confirmed near-road movements this week."
+
+Rook pointed at the official mark.
+
+"That says one."
+
+"Yes."
+
+"Why?"
+
+"Greywake updates the official board."
+
+"When?"
+
+"When the report reaches them and someone changes it."
+
+Rook looked at the road they had just repaired.
+
+The people living here were already changing behavior around five sightings.
+
+Greywake's official system was still displaying one.
+
+That did not prove conspiracy.
+
+It proved delay.
+
+Maybe negligence.
+
+Maybe classification.
+
+Maybe somebody inside the settlement had decided the outer road could tolerate more risk than the main road.
+
+Rook looked at Kellan.
+
+"Who decides which reports matter?"
+
+"Guild, militia, route office. Depends on the category."
+
+"Convenient."
+
+Kellan's expression tightened.
+
+"That word again."
+
+"What?"
+
+"You say convenient when something bothers you."
+
+Rook looked back at the board.
+
+"Maybe I like convenience."
+
+"No."
+
+Annoyingly observant.
+
+A wagon approached from the west.
+
+The driver slowed at the repaired bridge.
+
+One of the workers waved him through.
+
+The wagon crossed safely.
+
+As it passed, a small wooden tag shook loose from the rear cargo net and landed at Rook's feet.
+
+He picked it up.
+
+Unreadable writing.
+
+Naturally.
+
+Kellan took it.
+
+His face changed.
+
+"What?"
+
+Kellan turned the tag over.
+
+"Guild route tag."
+
+"So?"
+
+"This wagon isn't supposed to be on the outer road."
+
+The driver had already continued east.
+
+Rook looked after it.
+
+"Wrong turn?"
+
+"Maybe."
+
+Kellan did not sound convinced.
+
+He slipped the tag into his pocket.
+
+Rook stared at the road.
+
+A dropped basket had saved a cart.
+
+A snapped rope had dropped a plank exactly where it helped.
+
+Now a random cargo tag had fallen at his feet from a wagon that apparently should not have been there.
+
+The pattern was becoming rude.
+
+Kellan looked at him.
+
+"What?"
+
+"Nothing."
+
+"That expression isn't nothing."
+
+Rook adjusted his coat.
+
+His ribs protested.
+
+"Do I have an expression?"
+
+"Unfortunately."
+
+Rook walked toward the warning board again.
+
+Five local marks.
+
+One official mark.
+
+A misplaced Guild wagon.
+
+A route tag that happened to fall beside him.
+
+He did not know what any of it meant.
+
+But he knew who probably did.
+
+"Who updates the Greywake board?"
+
+Kellan pointed east.
+
+"Route office."
+
+Rook smiled.
+
+Kellan looked concerned.
+
+"Why are you smiling?"
+
 "Because now I know where to be annoying."
 
-Kellan looked at him for a second. Then at the warning board. He did not smile. That was fine. The joke was not the important part. Five fresh cuts sat beneath an older official warning. The people living here had already adjusted. Greywake had not. The official warning had not caught up.
+That afternoon, the crew finished the bridge.
+
+Rook left the Outer Homesteads with sore ribs, muddy boots, and one new question.
+
+Behind him, Kellan stood beside the mismatched warning board and watched him go.
+
+The cart incident had been luck.
+
+Probably.
+
+The route tag had been luck.
+
+Probably.
+
+Five warnings becoming one official mark was not luck.
+
+That part had been done by people.

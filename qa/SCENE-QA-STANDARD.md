@@ -1,8 +1,8 @@
 # Scene QA Standard
 
-**Studio:** Red Jackal Light-Novel Studio  
+**Studio:** Rook Vane Light-Novel Studio  
 **Owners:** A081 Scene Architect + A120 Chapter QA Editor  
-**Supporting Owners:** A072 Pacing Editor, A043 Red Jackal Guardian, A044 Supporting Cast Editor, A045 Antagonist Editor, A050 Mystery Director, A051 Foreshadowing Editor, A091 Red Jackal Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A095 Action Choreographer, A096 Imagination Scene Designer, A097 Prose Editor, A100 Continuity Director, A102 Knowledge-State Editor, A111 Logic Editor  
+**Supporting Owners:** A072 Pacing Editor, A043 Rook Vane Guardian, A044 Supporting Cast Editor, A045 Antagonist Editor, A050 Mystery Director, A051 Foreshadowing Editor, A091 Rook Vane Voice Writer, A092 Dialogue Editor, A093 Comedy Editor, A095 Action Choreographer, A096 Imagination Scene Designer, A097 Prose Editor, A100 Continuity Director, A102 Knowledge-State Editor, A111 Logic Editor  
 **Status:** LOCKED — SERIES-WIDE
 
 # 1. Scene Purpose Rule
@@ -44,12 +44,12 @@ Every scene plan must identify:
 - **Information forbidden at opening**
 - **Worldbuilding purpose**
 - **Character purpose**
-- **Red stable-character expression**
+- **Rook stable-character expression**
 - **Dialogue function**
 - **Comedy opportunity**
 - **Serious-beat requirement**
 - **Action/battle requirement, if any**
-- **Jackal Luck probability-chain use, if any**
+- **Fortune Distortion probability-chain use, if any**
 - **Reader-address/meta aside use, if any**
 - **Mystery / F-ID / M-ID state**
 - **Choice**
@@ -64,11 +64,11 @@ Every present character needs a reason to be there.
 
 FAIL if:
 - a character exists only to explain lore;
-- a character appears only to praise Red;
+- a character appears only to praise Rook;
 - a specialist is present but never uses their specialty;
 - a character knows something they should not know;
 - a character is conveniently absent only because their competence would solve the scene;
-- everyone automatically agrees with Red.
+- everyone automatically agrees with Rook.
 
 Supporting characters must retain:
 - independent goals;
@@ -76,19 +76,19 @@ Supporting characters must retain:
 - their own knowledge limits;
 - their own decisions.
 
-# 4. Red Jackal Scene QA
+# 4. Rook Vane Scene QA
 
-Every Red-centered scene must preserve the stable story engine.
+Every Rook-centered scene must preserve the stable story engine.
 
 Check:
 - distant third-person limited;
-- Red remains self-authored and freedom-focused;
+- Rook remains self-authored and freedom-focused;
 - no conventional moral-development lesson is imposed;
 - useful actions may have selfish/personal motives;
 - theatricality appears when appropriate, not as a quota;
 - serious mode means dropping performance and using available openings decisively, not powering up;
 - mistakes can come from curiosity, ego, boredom, role-play, incomplete information or refusal of control;
-- Red may learn facts/tactics without becoming morally normalized.
+- Rook may learn facts/tactics without becoming morally normalized.
 
 # 5. Dialogue QA
 
@@ -121,7 +121,7 @@ Allow:
 - unfinished answers;
 - callbacks;
 - refusal to answer;
-- people ignoring Red's joke;
+- people ignoring Rook's joke;
 - practical speech under pressure.
 
 # 6. Comedy / Serious Beat QA
@@ -143,12 +143,12 @@ Do not force a joke after:
 - emotionally exposed confession;
 - irreversible consequence.
 
-Red may still think like Red, but timing matters.
+Rook may still think like Rook, but timing matters.
 
 # 7. Mystery / Knowledge QA
 
 Before prose, verify:
-- what Red knows;
+- what Rook knows;
 - what each supporting character knows;
 - what the reader may infer;
 - what remains writer truth only;
@@ -186,18 +186,18 @@ If meaningful hostile action occurs, the scene must also pass:
 
 A fight scene cannot pass Scene QA while failing Battle QA.
 
-# 10. Jackal Luck QA
+# 10. Fortune Distortion QA
 
-If Jackal Luck materially affects the scene:
+If Fortune Distortion materially affects the scene:
 - identify the visible causal chain;
 - keep every link physically/socially possible;
-- do not let Red command an exact outcome;
+- do not let Rook command an exact outcome;
 - do not create matter, stop time, regenerate damage, or rewrite reality;
 - preserve collateral, information, and relationship consequences;
-- verify whether the lucky result helps only Red or also creates a new problem;
+- verify whether the lucky result helps only Rook or also creates a new problem;
 - keep supporting-character competence intact.
 
-If Red is injured:
+If Rook is injured:
 - pain and damage persist;
 - normal medical treatment and recovery rules apply;
 - luck may explain why damage was not worse, not why existing damage vanishes.
@@ -209,7 +209,7 @@ For every external-audience address:
 - physical motion/sound does not freeze;
 - the aside stays readable inside the active scene;
 - no free repositioning, dodging, inspection, or hidden-information exploitation occurs;
-- nearby characters may react if Red speaks aloud.
+- nearby characters may react if Rook speaks aloud.
 
 # 12. Pacing / Length QA
 
@@ -236,7 +236,7 @@ Examples:
 - danger appears;
 - plan succeeds but creates a new cost;
 - joke fails and exposes tension;
-- Red makes a choice;
+- Rook makes a choice;
 - ally reveals a boundary;
 - opponent adapts;
 - route closes;
@@ -270,7 +270,7 @@ Across adjacent scenes, compare:
 - objective;
 - conflict type;
 - dialogue rhythm;
-- Red behavior;
+- Rook behavior;
 - information function;
 - ending shape.
 

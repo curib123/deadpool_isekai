@@ -2,7 +2,7 @@
 
 **Studio:** Red Jackal Light-Novel Studio  
 **Owners:** A095 Action Choreographer + A081 Scene Architect  
-**Supporting Owners:** A043 Red Jackal Guardian, A044 Supporting Cast Editor, A045 Antagonist Editor, A036 Imagination Power Designer, A037 Power Balance Editor, A072 Pacing Editor, A100 Continuity Director, A102 Knowledge-State Editor, A111 Logic Editor, A120 Chapter QA Editor  
+**Supporting Owners:** A043 Red Jackal Guardian, A044 Supporting Cast Editor, A045 Antagonist Editor, A037 Power Balance Editor, A072 Pacing Editor, A100 Continuity Director, A102 Knowledge-State Editor, A111 Logic Editor, A120 Chapter QA Editor  
 **Applies To:** Every chapter/scene containing meaningful combat, pursuit, defensive action, hostile interception, monster engagement, duel, team battle, or multi-front battle  
 **Status:** LOCKED — SERIES-WIDE
 
@@ -48,9 +48,9 @@ Every planned battle must identify:
 - **Red's chosen role**
 - **Supporting-character roles**
 - **Enemy/opponent behavior**
-- **Play Logic use**
-- **Fourth-Wall Pause use, if any**
-- **Regeneration consequence, if any**
+- **Jackal Luck probability-chain use, if any**
+- **Reader-address/meta aside use, if any**
+- **Injury consequence, if any**
 - **Turning point**
 - **Decisive beat**
 - **Immediate cost**
@@ -103,16 +103,18 @@ Longer or battle-heavy arcs should exceed this minimum naturally.
 
 # 5. Red Jackal Battle Rule
 
-Red is already overwhelmingly powerful.
+Red's only supernatural combat advantage is Jackal Luck.
 
-Therefore battle tension must not depend on pretending:
-- an ordinary opponent is stronger than him;
-- Red needs a new level;
-- Red has a hidden Stage ceiling;
-- repeated manifestations deplete a finite power bar;
-- injury lowers his Play Logic capacity.
+Therefore battle tension must not depend on:
+- Red unlocking a new power;
+- hidden mastery stages;
+- a regeneration reset;
+- a time-stop escape;
+- reality manipulation;
+- a guaranteed lucky win.
 
-Instead, battle pressure may come from:
+Battle pressure may come from:
+- a physically stronger or more skilled opponent;
 - incomplete information;
 - multiple simultaneous objectives;
 - civilians;
@@ -125,16 +127,11 @@ Instead, battle pressure may come from:
 - political consequences;
 - ecological consequences;
 - timing;
-- Red choosing to play with the enemy;
-- Red deliberately holding back;
-- Red wanting information before ending the fight;
-- Red's curiosity;
-- Red's ego;
-- Red's love of theatrics;
-- Red's refusal to accept imposed roles;
-- the cost of solving one front by making another worse.
+- Red's curiosity, ego, theatrics, or reckless choices;
+- luck protecting Red but not the objective;
+- a useful coincidence creating a worse second-order consequence.
 
-When Red gets serious, the change is **restraint dropping**, not a power-up.
+When Red gets serious, the change is **performance dropping and openings being used efficiently**, not a power-up.
 
 # 6. Supporting Cast Battle Rule
 
@@ -187,7 +184,7 @@ Before prose, the scene must answer:
 - How can reinforcements enter?
 - How can someone escape?
 - What prevents an obviously easier solution?
-- If Red could instantly overpower the opponent, why is immediate destruction not the actual objective?
+- What prevents Red from converting the first lucky opening into an immediate victory?
 
 If the reader cannot understand the battlefield without rereading, **FAIL**.
 
@@ -204,7 +201,7 @@ A battle must escalate through at least two of:
 - reinforcement arrives;
 - escape route closes;
 - Red's game creates a complication;
-- Red drops restraint;
+- Red stops wasting openings;
 - new information changes what victory means.
 
 Do not escalate only by making the enemy physically larger.
@@ -235,7 +232,7 @@ Allowed:
 - tactical calls;
 - Red performing for an enemy;
 - enemy refusing to participate in Red's bit;
-- brief Fourth-Wall Pause commentary.
+- brief reader-address/meta commentary that does not stop the action.
 
 Avoid:
 - long speeches while a projectile should already have hit;
@@ -245,28 +242,26 @@ Avoid:
 
 Serious beats may stay quiet.
 
-# 12. Fourth-Wall Battle Rule
+# 12. Reader-Address Battle Rule
 
-If Red genuinely addresses the external audience during combat:
-- local time stops;
-- allies/enemies/projectiles/weather freeze;
-- Red may comment;
-- Red returns to the same causal instant;
-- the pause is not a tactical resource abuse.
+If Red addresses the external audience during combat:
+- combat time continues;
+- allies, enemies, projectiles, and weather continue moving;
+- the aside must fit the available physical beat;
+- Red gains no free movement, dodging, inspection, or setup time.
 
-Do not use Fourth-Wall Pause to dodge attacks, reposition for free, steal equipment, inspect hidden information, or win a battle.
+# 13. Jackal Luck Battle QA
 
-# 13. Play Logic Battle QA
+For every materially lucky turning point:
+- identify the specific causal chain;
+- verify that each link was possible before luck biased the outcome;
+- confirm Red did not consciously order the exact result;
+- confirm the chain does not erase an already-sustained injury;
+- confirm the opening still requires Red or another character to act;
+- confirm collateral/terrain/information consequences;
+- confirm supporting characters retain decisive roles where appropriate.
 
-For every manifestation:
-- identify the specific intended role;
-- confirm it does not imply a maximum output;
-- confirm no fake stamina/cooldown is introduced;
-- confirm whether it remains after the immediate task;
-- confirm why that expression is chosen instead of a larger one;
-- confirm collateral/terrain/information consequences.
-
-A small manifestation may be chosen even when Red could create something vastly larger.
+A spectacular result should usually be a chain of small possible events rather than an unexplained miracle.
 
 # 14. Major / Great Battle QA
 

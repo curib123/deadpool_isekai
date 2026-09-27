@@ -1,18 +1,12 @@
 # Chapter 3 — The Things They Can Measure
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / PLAY LOGIC + JACKAL LUCK RETCON — GATE 9 REVALIDATION REQUIRED
+**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
 **Revision Date:** 2026-09-27
 **Word Count:** 1,647
 
-By early afternoon, the wooden entrant token inside his coat had become the most official thing Red owned.
+By early afternoon, the wooden entrant token inside his coat had become the most official thing Rook owned. That was not a high bar. Greywake's records district sat under covered timber walkways while rain tapped the roofs and clerks moved bundles of paper from one office to another. Rook followed the directions from the gate, climbed a narrow staircase, and found Maelis Orra waiting in a second-floor Ledger room. A long table stood between them. So did enough instruments to make him regret arriving voluntarily. A metal balance plate. A pale bead in a clip. A transparent measuring strip. A flat verification tag. A clear prism in a protective frame. At the far end sat another Certified Identity Slate.
 
-That was not a high bar. Greywake's records district sat under covered timber walkways while rain tapped the roofs and clerks moved bundles of paper from one office to another. Red followed the directions from the gate, climbed a narrow staircase, and found Maelis Orra waiting in a second-floor Ledger room.
-
-A long table stood between them. So did enough instruments to make him regret arriving voluntarily. A metal balance plate. A pale bead in a clip. A transparent measuring strip. A flat verification tag. A clear prism in a protective frame. At the far end sat another Certified Identity Slate.
-
-Red recognized that one. They had history. A charged Wayfarer Tongue Token hung from a brass stand near the middle of the table. The faint pressure around his ears settled in as soon as Red entered its range.
-
-Maelis looked up from a notebook.
+Rook recognized that one. They had history. A charged Wayfarer Tongue Token hung from a brass stand near the middle of the table. The faint pressure around his ears settled in as soon as Rook entered its range. Maelis looked up from a notebook.
 
 "You came back."
 
@@ -20,11 +14,11 @@ Maelis looked up from a notebook.
 
 "That is usually how scheduled follow-ups work."
 
-Red closed the door. "You have a gift for making obedience sound disappointing." She pointed to the chair across from her.
+Rook closed the door. "You have a gift for making obedience sound disappointing." She pointed to the chair across from her.
 
 "Sit."
 
-Red sat. A records clerk waited at the far end with fresh forms. Maelis folded her hands. "This morning established that two separate authorized System interfaces could not produce a valid identity record for you."
+Rook sat. A records clerk waited at the far end with fresh forms. Maelis folded her hands. "This morning established that two separate authorized System interfaces could not produce a valid identity record for you."
 
 "Hard to forget."
 
@@ -36,7 +30,7 @@ That got his attention.
 
 "Separating what can be observed from what can be inferred. Physical facts. System-derived facts. Speculation."
 
-Red looked at the instruments.
+Rook looked at the instruments.
 
 "So you're measuring everything except the interesting part."
 
@@ -46,13 +40,13 @@ Annoyingly reasonable. She moved the Certified Identity Slate toward the clerk f
 
 "Control."
 
-He held his hand over it. The surface clouded, brightened, and filled with symbols Red still could not read.
+He held his hand over it. The surface clouded, brightened, and filled with symbols Rook still could not read.
 
 Maelis checked the result.
 
 "Recognized."
 
-The clerk removed his hand. Red pointed at the slate. "So it works."
+The clerk removed his hand. Rook pointed at the slate. "So it works."
 
 "It works on him."
 
@@ -60,15 +54,15 @@ The clerk removed his hand. Red pointed at the slate. "So it works."
 
 "For me, yes."
 
-Red was beginning to understand the shape of their relationship. Maelis stood.
+Rook was beginning to understand the shape of their relationship. Maelis stood.
 
 "Now we test things that do not require a System identity."
 
-The first tool was the balance plate. Red stepped onto it. An indicator moved along the side. The clerk recorded the result. Maelis reset it.
+The first tool was the balance plate. Rook stepped onto it. An indicator moved along the side. The clerk recorded the result. Maelis reset it.
 
 "Again."
 
-Red stepped off and back on. Same result.
+Rook stepped off and back on. Same result.
 
 "Stable."
 
@@ -88,47 +82,29 @@ She ignored that and looked at his left forearm.
 
 "The injury."
 
-Red rolled up the torn sleeve. The cuts from that morning were still visible, though smaller than they had any right to be.
-
-Maelis placed the transparent gauge beside the longest mark without touching it.
+Rook rolled up the torn sleeve. The cuts from that morning were still visible, though smaller than they had any right to be. Maelis placed the transparent gauge beside the longest mark without touching it.
 
 "Current visible state only," she told the clerk.
 
-He wrote it down. No questions about how quickly it had closed. No theory. No dramatic declaration. Red noticed. The material tag was even faster. His wooden entrant token registered as present physical material. So did the edge of his coat.
+He wrote it down. No questions about how quickly it had closed. No theory. No dramatic declaration. Rook noticed. The material tag was even faster. His wooden entrant token registered as present physical material. So did the edge of his coat.
 
 Maelis reviewed the page.
 
 "Your physical presence is consistently measurable through instruments that do not require System identity."
 
-Red looked over the table.
+Rook looked over the table.
 
 "So far the Ledger has confirmed that I have weight, body heat, clothes, and a piece of wood."
 
 "Yes."
 
-Red waited. She waited.
+Rook waited. She waited.
 
 "That sounded more impressive before I listed it."
 
 "It is still useful."
 
-The world paused. Rain froze against the window. The clerk's pen stopped above the page. Red looked toward the unseen audience.
-
-"Good news."
-
-Red gestured at the table.
-
-"Reality has officially confirmed that I require furniture."
-
-A pause.
-
-"And that I am warm."
-
-Red looked at Maelis.
-
-"Very exclusive club."
-
-Time resumed. The pen touched paper. Maelis had noticed nothing. She reached for the clear prism.
+The pen touched paper. Maelis had noticed nothing. She reached for the clear prism.
 
 "This is different."
 
@@ -146,7 +122,7 @@ Small distinction. Important distinction.
 
 "Whether a standardized low-output mana pulse physically interacts with you."
 
-Red held out his hand. She positioned the prism beneath his palm and touched one of its metal contacts. Light gathered inside the glass. Something moved across his skin. Not heat. Not wind. More like pressure without direction. Thin lines inside the prism bent toward his hand, held for a moment, then separated.
+Rook held out his hand. She positioned the prism beneath his palm and touched one of its metal contacts. Light gathered inside the glass. Something moved across his skin. Not heat. Not wind. More like pressure without direction. Thin lines inside the prism bent toward his hand, held for a moment, then separated.
 
 The room stayed quiet.
 
@@ -158,7 +134,7 @@ The room stayed quiet.
 
 "Mana physically interacted with you."
 
-Red waited. That was apparently the whole answer.
+Rook waited. That was apparently the whole answer.
 
 "So I have magic."
 
@@ -168,9 +144,7 @@ Of course it wasn't. She reset the prism and repeated the test. Same result.
 
 "Repeatable," she said.
 
-Red looked at his hand. The forest returned to him in pieces: teeth, blood, panic, and a dark slab appearing where empty air had been.
-
-Red had not told anyone about that. Red was not starting now.
+Rook looked at his hand. The forest returned to him in pieces: teeth, blood, panic, and a dark slab appearing where empty air had been. Rook had not told anyone about that. Rook was not starting now.
 
 "Does this mean I'm secretly an ancient archmage?"
 
@@ -186,7 +160,7 @@ There it was. The Certified Identity Slate came back to the center of the table.
 
 "Hand above the center."
 
-Red obeyed. The surface clouded. Symbols appeared. The clerk's expression changed first. Maelis's barely moved. Red already knew the shape of the answer. Hearing it still mattered.
+Rook obeyed. The surface clouded. Symbols appeared. The clerk's expression changed first. Maelis's barely moved. Rook already knew the shape of the answer. Hearing it still mattered.
 
 "Name: undefined," she said.
 
@@ -196,7 +170,7 @@ The clerk kept writing.
 
 "HP: undefined. MP: undefined. Progression unavailable."
 
-Red glanced at the prism. Mana could touch him. The System still could not turn that fact into an MP value. Maelis continued.
+Rook glanced at the prism. Mana could touch him. The System still could not turn that fact into an MP value. Maelis continued.
 
 "System Recognition: failed. Classification: anomaly. World Registry: no record."
 
@@ -204,23 +178,7 @@ She paused.
 
 "Soul Registry: no record."
 
-The room went quiet. The balance plate had measured him. The thermal bead had measured him. The wound gauge had measured him. Mana had touched him. The System still looked for a person and came back empty. The world paused.
-
-The Wayfarer token went silent. Rain stopped against the glass. Maelis froze with one finger beside the slate.
-
-Red looked toward the unseen audience.
-
-"This is where a normal story gives me a hidden rank."
-
-Red glanced at the unreadable symbols.
-
-"Secret bloodline. Sealed class. Number too large for the screen."
-
-Red looked back toward the unseen audience.
-
-"Apparently I get paperwork with an existential crisis."
-
-Time resumed. Maelis finished the motion she had already begun. Red lowered his hand.
+The room went quiet. The balance plate had measured him. The thermal bead had measured him. The wound gauge had measured him. Mana had touched him. The System still looked for a person and came back empty. Maelis finished the motion she had already begun. Rook lowered his hand.
 
 "So the gate wasn't broken."
 
@@ -254,15 +212,13 @@ She wrote it down.
 
 "Because none are supported strongly enough to present as fact."
 
-Red stared at her.
+Rook stared at her.
 
 "You do this professionally."
 
 "Yes."
 
-A knock came at the door before Red could decide whether that was admirable or threatening.
-
-A young woman stood outside with a stack of route packets under one arm. Several had red corner stamps. Red could not read the writing, but urgent paperwork had a universal posture.
+A knock came at the door before Rook could decide whether that was admirable or threatening. A young woman stood outside with a stack of route packets under one arm. Several had red corner stamps. Rook could not read the writing, but urgent paperwork had a universal posture.
 
 "Jessa Vale," Maelis said. "Road Guild records."
 
@@ -276,11 +232,9 @@ Maelis held out a hand.
 
 "Yes."
 
-Jessa passed her most of the stack, then looked at the wooden token near his coat.
+Jessa passed her most of the stack, then looked at the wooden token near his coat. She knew the problem before she knew him.
 
-She knew the problem before she knew him.
-
-"Red Jackal?"
+"Rook Vane?"
 
 "Depends who's asking."
 
@@ -292,9 +246,7 @@ That narrowed it down very little. She glanced toward the clerk.
 
 "No valid registry identity," he said.
 
-Jessa nodded once, like another piece of troublesome paperwork had confirmed its intention to remain troublesome.
-
-Then she looked at him.
+Jessa nodded once, like another piece of troublesome paperwork had confirmed its intention to remain troublesome. Then she looked at him.
 
 "Roadmaster Rovan Hesk wants to speak with you."
 
@@ -314,7 +266,7 @@ Maelis looked up from the route packets. Jessa continued.
 
 "Your status blocks normal Guild certification. It does not stop Hesk from discussing a private arrangement."
 
-Red looked at the red-stamped repair notices in Maelis's hand. Greywake had roads to keep open, caravans to move, and apparently enough delayed work for its Roadmaster to notice a stranger who did not fit the normal system.
+Rook looked at the red-stamped repair notices in Maelis's hand. Greywake had roads to keep open, caravans to move, and apparently enough delayed work for its Roadmaster to notice a stranger who did not fit the normal system.
 
 *Interesting.*
 
@@ -324,15 +276,13 @@ Jessa hesitated for half a second. Her fingers tightened around the route packet
 
 "Work that can be arranged privately."
 
-She had very carefully not called it legal. Red respected professional survival instincts. Not the same answer. Better answer. Red slipped the wooden token back inside his coat. The System could not define him. The normal contract system could not process him.
-
-Somebody in charge of Greywake's roads had already decided that might be useful.
+She had very carefully not called it legal. Rook respected professional survival instincts. Not the same answer. Better answer. Rook slipped the wooden token back inside his coat. The System could not define him. The normal contract system could not process him. Somebody in charge of Greywake's roads had already decided that might be useful.
 
 "When?"
 
 "Later today."
 
-Red stood.
+Rook stood.
 
 "Tell Hesk I'll hear him out."
 
@@ -342,10 +292,6 @@ Jessa nodded. Maelis reopened her notebook.
 
 "Of course they do."
 
-Red had spent the afternoon proving he possessed mass, heat, material presence, wounds, and measurable interaction with mana.
+Rook had spent the afternoon proving he possessed mass, heat, material presence, wounds, and measurable interaction with mana. Apparently none of those qualified him for ordinary employment. Rook headed for the door. Behind him, Maelis's pen started moving again. Jessa's route papers landed on the table with a heavy slap. A town that could not classify him had found a reason to hire him anyway.
 
-Apparently none of those qualified him for ordinary employment. Red headed for the door. Behind him, Maelis's pen started moving again. Jessa's route papers landed on the table with a heavy slap.
-
-A town that could not classify him had found a reason to hire him anyway.
-
-Red decided to meet the man who thought that was useful.
+Rook decided to meet the man who thought that was useful.

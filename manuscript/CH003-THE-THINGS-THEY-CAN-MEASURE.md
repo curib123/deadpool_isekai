@@ -144,7 +144,7 @@ Of course it wasn't. She reset the prism and repeated the test. Same result.
 
 "Repeatable," she said.
 
-Rook looked at his hand. The forest returned to him in pieces: teeth, blood, panic, and a dark slab appearing where empty air had been. Rook had not told anyone about that. Rook was not starting now.
+Rook looked at his hand. The forest returned in pieces: teeth, mud, a snapped pole, a loose vine, and far too many accidents landing in his favor. Rook had told nobody how ridiculous the sequence had been. He was not starting now.
 
 "Does this mean I'm secretly an ancient archmage?"
 

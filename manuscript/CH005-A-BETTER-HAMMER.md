@@ -1,268 +1,420 @@
 # Chapter 5 — A Better Hammer
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
+**Status:** CANON RESET — DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY  
 **Revision Date:** 2026-09-27
-**Word Count:** 2,998
-**Chapter QA:** `qa/CH-005-GATE-9-CHAPTER-QA.md`
 
-The sky over Greywake was still grey when Rook reached the Road Guild yard. A wagon waited near the gate with fresh timber stacked along one side. Workers hauled iron clamps into crates. Two guards checked spearheads under the awning. Somewhere behind the wagon, two men were already arguing about rope with the intensity of people discussing national policy. Rook had not found breakfast yet. First light was a cruel phrase. A broad-shouldered man in a weather-dark coat took the bridge-marked assignment card from him, checked the Guild seal, then checked him.
+The Road Guild yard was already loud when Rook arrived.
 
-"You Rook Vane?"
+A wagon stood near the gate with timber stacked along one side. Workers loaded iron clamps, rope, wedges, and two heavy mauls into the back while a foreman argued with a clerk about whether a damaged bridge counted as urgent or merely inconvenient.
 
-A Wayfarer Tongue Token hung from the side of the repair wagon. Its faint pressure settled around his words.
+Rook stopped beside the wagon.
 
-"That is what the paperwork has decided."
+"Which answer pays faster?"
 
-He handed the card back.
+The foreman looked at him.
 
-"Foreman."
+"Urgent."
 
-*No name. Just foreman. Efficient.*
+"Then I support urgent."
 
-He pointed at a stack of iron clamps beside the wagon. "Carry those." Rook looked at the clamps. Then at him. Then back at the clamps. So much for mysterious frontier employment. Rook picked them up. They were heavier than they looked. The foreman had already moved on. No questions about his missing class. No concern about his undefined level. No philosophical crisis over the fact that the World System had searched for him and apparently found a blank space.
+The man stared for a moment, decided Rook was not worth the effort, and pointed at the rear wheel.
 
-Rook had two arms, had arrived on time, and could carry metal. For road maintenance, that was enough. He liked the Guild a little more. They left Greywake just after sunrise: six workers, two road guards, the foreman, one repair wagon, and him. The Wayfarer Tongue Token stayed hooked beneath the wagon roof so the crew could speak to him when they needed to. Outside its reach, their Valic went back to unfamiliar sound. The painted route boards remained unreadable too. Consistency. The Main Caravan Road was wider than Rook had realized on his first walk into Greywake. Outside the gate, the packed surface had been raised above the surrounding ground with gravel, timber reinforcement, and drainage cuts along both sides. Stone markers stood at regular intervals. Fresh fill crossed older ruts. Replaced boards sat beside weathered ones. Brush had been cut back from the shoulders.
+"Get in."
 
-Every few hundred paces, newer repairs crossed older damage. Keeping the road open was less construction and more a long-running argument with rain. One of the workers noticed him looking into a shallow channel beside the road.
+Rook climbed aboard.
 
-"Flood drain."
+The job was simple on paper. A bridge south of Greywake had taken damage from runoff. One brace had shifted, two deck boards had cracked, and a loaded caravan had been forced to turn around before the outer edge failed.
 
-"I was hoping decorative trenches were a local art form."
+Simple jobs, Rook was learning, were usually just complicated jobs that had not yet introduced themselves.
 
-He stared at him. The token translated the silence perfectly. Rook decided to conserve material. They passed two caravans heading toward Greywake. Both slowed near their wagon. Drivers exchanged quick words with the foreman, then moved on. Grain. Tools. Cloth. Crates Rook could not identify. People. Greywake's walls kept danger out. This road kept everything else coming in. That probably mattered more. The damaged bridge approach appeared around midmorning.
+The wagon reached the bridge before noon.
 
-The bridge itself crossed a narrow brown river channel. Low timber span. Broad banks. No giant waterfall, no bottomless gorge, no dramatic mist waiting for somebody to fall into it. The damage was on their side. Recent rain had softened the roadbed and shifted one of the outer approach supports. A heavy timber brace beneath the edge had swollen with water and twisted just far enough to make the surface above it sag. Not collapsing. Not safe either. The crew went to work before Rook finished looking. Two workers unloaded replacement boards and wedges. Another dug packed mud away from the support. The foreman checked the brace angle with a long metal bar etched with narrow geometric markings.
+The structure crossed a narrow ravine where rainwater had cut deeply into the road. One side of the approach had softened enough that the outer support leaned toward open air. The workers moved immediately.
 
-The markings gave off a faint blue glow. Rook leaned closer. Sigils. Still unreadable. A worker fitted an iron clamp around the swollen brace. More etched lines lit as he tightened it. The timber stopped shifting. So this was ordinary practical magic. Prepared object. Prepared markings. Specific function. Nobody raised both hands and screamed the name of an attack. Mildly disappointing. The foreman caught him watching.
+Nobody asked Rook to lead.
 
-"Alignment clamp."
+That was comforting.
 
-"I gathered."
+The foreman assigned him to carrying clamps and holding whatever someone more qualified told him to hold. Rook discovered that manual labor remained disappointingly immune to mystery.
 
-"Don't touch the marks."
+For almost an hour, nothing unusual happened.
 
-"I wasn't planning to."
+Then the main maul broke.
 
-"You were staring at them."
+The worker swinging it brought the head down on an iron pin. The impact drove the pin halfway through the replacement brace.
 
-"I stare at many things I don't understand."
+The hammer head split at the socket.
 
-He accepted that with the tired calm of a man who had probably supervised worse. For the next hour, Rook did actual work. He carried timber. Held one end of a support beam. Dragged rope. Moved crates because someone pointed at them. Stood where the foreman told him to stand and moved when he told him to move. Frontier employment continued to have a terrible marketing department. The crew knew exactly what they were doing. That became obvious quickly. The foreman called positions. Two workers levered the brace. Another checked the glowing alignment bar. One guard stayed near the road. The other watched the tree line. Nobody waited for the mysterious unregistered stranger to solve engineering.
+One half dropped into the mud.
 
-Eventually, the swollen brace settled into position. A worker slid a thick iron pin through the first half of the joint. It stopped. The timber held it tight. The foreman checked the angle again.
+The other spun away, bounced once off the bridge rail, and vanished into the ravine.
 
-"Needs driving."
+Everyone stopped.
 
-One worker went to the wagon and returned with a heavy two-handed hammer. Finally. A tool Rook understood. He planted his feet, raised it, and brought it down. Metal rang. The pin moved. He struck again. A little farther. Third strike— The wooden handle split near the head.
+The foreman closed his eyes.
 
-The metal head twisted free, hit the mud, and rolled once. Everyone stopped. The worker stared at the broken handle. The foreman closed his eyes for half a second. Rook knew that face. Equipment failure was apparently universal.
+Rook looked down into the gap.
 
-"Spare?" somebody asked.
+"That seemed expensive."
 
-"Smaller."
+"It was."
 
-"How much smaller?"
+The smaller maul came out of the wagon.
 
-The foreman looked toward the wagon.
+The foreman tested it once, then shook his head.
 
-"Enough to make this annoying."
+"Too light."
 
-Traffic had already begun stacking behind the work zone. Three wagons waited under guard. Another slowed behind them.
+"Hit harder."
 
-"Reset the brace," the foreman ordered. "Keep pressure on it."
+The foreman looked at him.
 
-Two workers moved immediately.
+Rook lifted both hands.
 
-"Get the smaller maul."
+"Contribution withdrawn."
 
-Nobody panicked. They had a fallback. It was just slower. Rook looked at the broken hammer head in the mud. Then at the half-driven iron pin. Then at his hands. The memory came back without permission. Forest. Teeth. Blood. A need so immediate there had been no room to decorate it. Something between him and that animal. And then there had been something. A dark slab where empty air had been. Afterward, Rook had tried to reproduce it.
+Two workers tried anyway.
 
-Badly. Nothing useful. At the time, Rook had blamed fear. Maybe fear mattered. Maybe not. The crew needed a hammer. That was a very simple problem. Which made it dangerous. Simple problems encouraged confidence. Rook stepped away from the brace. The foreman noticed immediately.
+The smaller maul moved the pin, but not enough. The brace had to be seated before a waiting caravan arrived from the south, and the clouds above the ravine were already turning darker.
 
-"What are you doing?"
+The foreman crouched beside the brace.
 
-"Trying something."
+"We need more weight."
 
-His eyes narrowed.
+Rook looked around.
 
-"That usually means I should stop you."
+There were several obvious answers.
 
-"Strong instinct."
+None of them were good.
 
-He frowned. Rook held out one hand. A hammer. That was the thought. Just that. A hammer. For half a second, nothing happened. Then pressure gathered around his palm. Not heat. Not mana, at least not in any way Rook understood. Just the strange certainty that empty space had become negotiable. Something dropped into his hand. Rook almost fumbled it. Not because it was heavy. Because it was stupid. It was absolutely a hammer. Technically. The handle was too short. The head was too wide and much too thin. The proportions looked like a child had drawn the concept from memory after seeing one once.
+A flat stone beside the drainage edge was too wide to swing safely. An iron wheel clamp had enough mass but no handle. One of the wagon jacks might work as a striking tool if everyone involved stopped caring about the wagon jack.
 
-Rook stared at it. The foreman stared at it. One of the guards stepped closer. The droplet hit the mud. Nobody noticed the missing moment.
+Rook pointed at the clamp.
 
-"Well," Rook said.
+"That."
 
-The foreman looked from the hammer to the empty air beside his hand where it had definitely not existed a moment earlier.
-
-"What casting was that?"
-
-"I was hoping you knew."
-
-The nearest guard frowned.
-
-"No sigil."
+The foreman followed his finger.
 
 "No."
 
-"No focus tool."
+"Strong start."
+
+"It'll break your wrist."
+
+"Then somebody with better wrists."
 
 "No."
 
-"What words did you use?"
+Rook nodded toward the smaller maul.
 
-"None."
+"What if you add the clamp to the head?"
 
-His expression changed. Not fear. Confusion.
+The foreman stared at him.
 
-"That isn't how Guild shaping works."
+Rook stared back.
 
-Useful. Still not an explanation. The foreman pointed toward the pin.
+He had no engineering theory behind the suggestion.
 
-"Can it drive that?"
+The clamp was heavy.
 
-There was only one responsible way to find out. Rook raised the hammer. The balance was awful. The head tried to pull sideways. Rook hit the pin anyway. Tap. The pin did not move. The hammer head bent slightly. The worker beside him looked at it.
+The hammer was not heavy enough.
 
-Then at him.
+This felt like arithmetic.
 
-"That is a bad hammer."
+One worker frowned.
 
-"Thank you. The review process is important."
+"We have binding wire."
 
-The surface blurred. The handle softened. A moment later the whole thing collapsed into nothing. Silence. Rook had intentionally made something. That mattered. The fact that the thing had been embarrassing mattered less. The foreman looked at him.
+Another said, "It'll shift."
 
-"Can you do that again?"
+The first worker looked at the clamp again.
 
-"I can probably make another bad decision."
+"Unless we seat it against the back."
 
-"Can you make another hammer?"
+The foreman slowly turned toward them.
 
-Rook looked at the empty hand.
+Rook immediately recognized the expression of a man discovering that a stupid idea had become inconveniently discussable.
 
-"I don't know yet."
+Five minutes later, they had built the ugliest hammer Rook had ever seen.
 
-The worker returned with the smaller maul. The foreman took it.
+The iron clamp sat against the rear of the smaller maul's head, held in place by wire, two leather strips, and a wedge that technically belonged to another part of the bridge.
 
-"Then we use what we know works."
+The foreman tested the balance.
 
-And just like that, the road crew went back to the road. No kneeling. No prophecy. No requests for his sacred guidance. Rook respected them more every minute. The smaller maul came down. The pin moved a fraction. Again. Almost nothing. The brace creaked under the tension.
+"Terrible."
 
-"Hold it," the foreman said.
+Rook smiled.
 
-Two workers leaned harder against the support. One of the guards raised a hand.
+"But?"
 
-"Movement."
+"Terrible."
 
-Everything changed. The second guard turned toward the trees. The foreman pointed at the workers near the outer edge.
+No but.
 
-"In."
+Then thunder sounded in the distance.
 
-Nobody argued. People shifted closer to the wagon and work zone. A low shape moved through the brush beyond the drainage ditch. Then another. Then a third. Lean bodies. Long legs. Grey-brown hides that disappeared easily against wet bark. Ordinary predators. Probably. Rook had stopped making confident statements about local wildlife. One guard stepped forward with his spear. The other drew a short blade. The animals did not charge. They circled. Noise. Food. Workers focused on something else. Opportunity.
+The foreman looked toward the road.
 
-"Stay with the crew," one guard told him.
+"Good enough."
 
-Reasonable. Rook looked at the half-driven pin. If the workers released pressure now, the brace would shift again. Not disaster. Just lost work and more delay. The foreman saw the same problem.
+Two workers braced the timber.
 
-"Keep it set."
+The foreman raised the modified maul.
 
-Two workers held position. The smaller maul came down again. The pin barely moved. One predator darted toward the supply wagon. A guard intercepted it. Spear point flashed. The animal twisted away. The second predator moved from the opposite side. The guards shifted. They could handle them. The brace needed one heavy strike. Rook looked at the iron pin. The swollen timber. The workers holding alignment. The broken hammer. Not a hammer. That was where Rook had gone wrong. He had asked for a noun.
+On the first swing, the clamp shifted half a finger.
 
-The job did not need a noun. It needed a result. Something Rook could swing. Enough impact to drive that pin through the swollen brace in one clean strike. One strike. That was the role. Rook held out both hands. The pressure returned immediately. This time he did not think about what a hammer was supposed to look like.
+On the second, the wire tightened.
 
-Rook thought about the pin moving. About iron punching through wet timber. About weight arriving exactly where the work needed it. Then, because Rook had weaknesses, he also imagined the silhouette being unnecessarily dramatic. Something formed between his hands. Long handle. Dark head. Far too large. The workers stared. Rook stared too. Apparently he had been very clear about "impact" and less responsible about "reasonable." The foreman looked at it.
+On the third, the extra weight drove the iron pin almost flush.
 
-"That is bigger."
+Everyone looked at it.
 
-"Observation remains one of your strengths."
+Rook leaned against the rail.
 
-One worker leaned away from the head.
+"Engineering."
 
-"Can you actually use it?"
+The foreman pointed at him without looking away from the brace.
 
-Rook adjusted his grip. The weight dragged at his shoulders. Apparently reality was willing to provide the ridiculous hammer and leave leverage as his personal problem.
+"Do not say that word."
 
-Cheap service.
+A shout came from the road.
 
-"Yes."
+"Movement!"
 
-Rook looked at the brace. Probably. The edges of the head shifted slightly, not like weak material breaking, but like the shape had not decided whether all that extra drama was necessary. Fine. The job mattered more than the silhouette. The guard near the road shouted.
+One of the guards turned.
 
-"Left!"
+Something large came out of the brush.
 
-A predator rushed the ditch. The second guard moved to cut it off. The foreman pointed toward the brace.
+The animal was smaller than the forest predator Rook had met on his first day, but not small enough to improve anyone's mood. It burst from the ditch near the waiting wagon, startled by the hammering and the approaching storm.
 
-"Now or back off."
+The nearest horse panicked.
 
-That simplified things.
+Its harness jerked sideways.
 
-"Hold it," Rook said.
+The wagon rolled.
 
-The workers braced. Rook raised the hammer. His shoulders immediately filed a complaint. One strike. Drive the pin. That was all. Rook swung. The head came down. The sound cracked across the worksite. The iron pin punched through the swollen timber and slammed against the outer plate. For half a heartbeat, nobody moved. Then the foreman shouted.
+Straight toward the softened edge.
 
-"Clamp it!"
+"Wheel!" somebody shouted.
 
-The crew reacted immediately. Two workers secured the brace. Another locked the outer plate. The enchanted clamp flared blue. The timber settled into position. That was the repair. Not his hammer. Their alignment. Their brace. Their clamp. Their engineering. Rook had contributed one extremely rude solution to one extremely specific problem. The predator near the wagon chose that moment to come closer. Rook was still holding the hammer. Convenient. It lowered itself. Rook turned the shaft and let the oversized head drop between the animal and the workers. The creature stopped.
+Workers scattered.
 
-So did Rook. They considered each other. He pushed forward. The hammer head hit the ground, threw mud, and forced the animal back without turning it into a stain. The guard stepped in immediately and drove it away with his spear. The rest of the small pack withdrew once the worksite stopped looking easy. Nobody chased them. The guards held position until the brush went still. Rook looked down at the hammer. Now that the pin was driven and the threat had backed away, the unnecessary parts of the image began to soften. Interesting. Rook loosened his grip.
+The driver hauled on the reins, but the horse was already twisting away from the animal.
 
-The shaft blurred before it touched the ground. The head folded into nothing. Gone. His arms still remembered the weight. That was less mysterious. Rook had swung something enormous. His shoulders hurt because shoulders are tragically committed to physics. The foreman looked at him.
+Rook moved before thinking.
 
-"You standing?"
+He grabbed the nearest rope.
 
-"Against medical advice from several muscles."
+Wrong rope.
 
-"Sit down."
+It was attached to the stack of replacement boards.
 
-Rook sat on a timber stack. His hands shook slightly from the impact. Not some magical meter running empty. Just the ordinary consequence of putting his entire body behind a hammer built from terrible judgment. Rook looked at the repaired brace. The first hammer had not been weak because he was weak. It had been exactly as useful as the thought Rook gave it. Hammer. Fine. There. Hammer. The second had been different because Rook had stopped thinking about the label and started thinking about what he wanted the thing to do.
+He pulled anyway.
 
-Drive the pin. One clean strike. The shape followed the role. Not perfectly. The ridiculous scale proved that. But enough. Nothing about his capacity had changed. Rook had learned something about the response. A dangerous distinction. The guard who had questioned the first manifestation walked over and stared at the empty patch of mud.
+The knot slipped.
 
-"What was that?"
+Three boards slid off the wagon.
 
-"I was hoping you had developed a theory."
+One hit the mud flat.
 
-"I have not."
+The second landed across the drainage rut.
 
-"Excellent. We're making equal progress."
+The third struck the rolling wheel.
 
-He glanced at the glowing alignment clamp.
+The wheel climbed onto it.
 
-"That wasn't sigilcraft."
+For half a second, that looked worse.
 
-"I know."
+Then the board snapped.
 
-"No tool focus."
+The broken half kicked upward under the axle and jammed between the wheel and the road edge.
 
-"No."
+The wagon stopped.
 
-"No spoken pattern."
+Silence.
 
-"No."
+Even the horse seemed surprised.
 
-He looked at him for another second.
+The predator near the ditch changed its mind about the entire situation and ran back into the trees as both guards advanced on it.
 
-"Strange magic."
+Rook remained holding the useless rope.
 
-"Currently the least wrong answer."
+The foreman looked at the stopped wagon.
 
-He walked away. The crew finished before noon. Replacement boards went down. The brace was checked twice. The drainage edge was reset. They tested the approach with the unloaded repair wagon before allowing normal traffic through. Nobody asked him to create anything else. Probably wise. The foreman walked the repaired section, checked the glowing alignment bar, and waved the first waiting caravan forward. The wagon crossed slowly. The bridge held. Only then did the workers relax. His impossible hammer had driven one pin. The crew had repaired the bridge. That distinction mattered.
+Then at the broken board.
 
-On the return trip, they gave him less to carry. Rook chose to interpret this as professional recognition rather than concern that he would invent construction equipment again. The Wayfarer Tongue Token swung beneath the wagon roof while the crew talked around him. Nobody called him chosen. Nobody asked about a legendary class. One worker asked whether Rook could make a shovel next time.
+Then at Rook.
+
+Rook looked down at the rope in his hands.
+
+He had absolutely not meant to do that.
+
+The driver climbed down slowly.
+
+"You saw the wheel going?"
+
+Rook considered honesty.
+
+The foreman was still staring.
+
+Two workers were staring now.
+
+The guard had turned around too.
+
+Rook released the rope.
+
+"Obviously."
+
+The driver looked impressed.
+
+Rook hated how easy that had been.
+
+The foreman walked to the wheel and examined the broken plank wedged beneath the axle.
+
+"You dropped three boards to stop one wagon."
+
+"Efficiency is a spectrum."
+
+"You pulled the wrong rope."
+
+Rook's expression did not move.
+
+The foreman narrowed his eyes.
+
+Rook waited.
+
+The man looked at the wheel again.
+
+Then at the path the boards had taken through the mud.
+
+One worker spoke quietly.
+
+"If the second board hadn't crossed the rut, the third would've slid under."
+
+Another nodded.
+
+"And if it slid under, the wheel would've gone over the edge."
+
+Rook kept his mouth shut.
+
+That was becoming an important skill.
+
+The foreman pointed at him.
+
+"You did not plan all of that."
+
+Rook gave him a calm look.
+
+"Would answering improve the bridge?"
+
+The foreman stared for another second.
+
+Then turned away.
+
+"Get the wagon blocked properly."
+
+Rook exhaled through his nose.
+
+Close enough.
+
+The crew reset the wagon with actual wedges and returned to the brace. The modified hammer lasted long enough to finish the pin, then the wire snapped and the clamp dropped harmlessly into the mud.
+
+The foreman looked at the broken tool.
 
 Rook looked at him.
 
-"Yes."
+"A better hammer."
 
-He blinked. Rook smiled.
+"It was a bad hammer."
 
-"Probably."
+"It finished."
 
-That answer was much more fun. The foreman submitted the completion record at the Road Guild yard that afternoon. A clerk checked the stamped assignment card, counted the returned supplies, listened to the foreman's report, and opened a cash drawer. Rook tried not to look too interested. The remaining payment landed on the counter in Marks. He counted them. Not because Rook had mastered local economics overnight. Because counting money is a language humanity solved early.
+"So did the bridge."
 
-"Complete," the clerk said.
+That was difficult to argue with.
 
-That was it. No System window. No Skill unlocked. No class notification. No glowing title declaring him Master of Hammers. Just payment. Outside Greywake, the first loaded wagons were already moving across the repaired bridge. The Guild cared that the road worked. Rook respected that. Rook put the Marks away. The foreman was already discussing the next day's traffic with another worker. To him, the impossible hammer was less important than whether six wagons could cross before dark. Reasonable priorities. Rook stepped back into the yard. His shoulders still ached. The idea of making something else crossed his mind. Then somebody rolled a barrel past him and nearly clipped his boot. Rook stepped aside. Right. Busy yard.
+They replaced the damaged boards, reinforced the soft approach, cleared the drainage cut, and tested the bridge with the empty repair wagon.
 
-Whatever this impossible nonsense was, it worked when Rook wanted something badly enough and pictured the job clearly enough. Good enough. Rook had money in his pocket, breakfast still unresolved, and absolutely no interest in turning the afternoon into a laboratory. The next ridiculous idea could wait until Rook actually wanted it.
+It held.
+
+A second wagon crossed.
+
+Then a third.
+
+By the time the rain arrived, traffic was moving again.
+
+Nobody declared Rook a genius.
+
+That would have been unreasonable.
+
+The problem was that nobody forgot what had happened either.
+
+On the ride back to Greywake, one worker sat across from him beneath the wagon cover.
+
+"You knew the board would catch the wheel?"
+
+Rook looked outside.
+
+Rain streaked across the road.
+
+"No."
+
+The worker waited.
+
+Rook glanced back.
+
+"It was going to catch something."
+
+That answer was technically true.
+
+The worker seemed to think it meant something deeper.
+
+Rook let him.
+
+At the Guild yard, the foreman submitted the completion report. The clerk counted the returned tools, paused over the broken maul, and sighed.
+
+"Again?"
+
+"Bridge is open."
+
+"That wasn't my question."
+
+"Then ask a cheaper one."
+
+Rook received his pay.
+
+No glowing notification appeared.
+
+No hidden class awakened.
+
+No ancient power announced itself.
+
+He had helped build an ugly hammer, pulled the wrong rope, and somehow stopped a wagon from falling into a ravine.
+
+That should have been the end of it.
+
+As Rook crossed the yard, he heard one of the workers telling a guard about the bridge.
+
+The story already sounded cleaner than reality.
+
+By the time Rook reached the gate, he had apparently calculated the wagon's angle before pulling the rope.
+
+Rook stopped walking.
+
+He considered going back.
+
+Then he considered how much effort correcting everyone would require.
+
+He kept walking.
+
+"Calculated," he muttered.
+
+A barrel rolled loose from a nearby stack, crossed directly behind him, and knocked over the same guard who had just repeated the story.
+
+Rook looked over his shoulder.
+
+The yard went quiet.
+
+He turned forward again.
+
+"No comment."

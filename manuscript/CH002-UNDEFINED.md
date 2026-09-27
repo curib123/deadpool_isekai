@@ -308,7 +308,7 @@ Brynn's face did not move.
 
 "Yes. I heard that part."
 
-Rook considered telling her about the white flash, the missing biography, and the part where time froze whenever he talked to an invisible audience.
+Rook considered telling her about the white flash, the missing biography, and the impossible series of accidents that had kept him alive in the forest.
 
 *Absolutely not.*
 
@@ -332,7 +332,7 @@ Her gaze dropped to the blood on his sleeve.
 
 "You need a healer?"
 
-Rook flexed his fingers. The wound had already done more impossible work than he wanted to explain.
+Rook flexed his fingers. The bandaged cut pulled, but the bleeding had stopped on the walk.
 
 "I can move it. Bleeding stopped."
 

@@ -136,19 +136,19 @@ The attendant gave him a flat stare.
 
 "System Recognition: Failed."
 
-System. For the first time since waking in the forest, Rook went completely still. Then the world paused. The gate lane froze. A driver stopped mid-argument. Fog hung motionless beyond the palisade. The broad guard's hand locked around his spear. Rook turned toward the audience.
+System. For the first time since waking in the forest, Rook went completely still. The gate lane kept moving around him: a driver argued with a merchant, fog drifted beyond the palisade, and the broad guard tightened his grip on the spear.
 
-"There it is."
+Rook looked at the glowing seal.
 
-He pointed at the glowing seal.
+"There it is. The System."
 
-"The System."
+The attendant waited.
 
-A beat.
+Rook pointed at himself.
 
-"It belongs to everyone except me."
+"And apparently it belongs to everyone except me."
 
-Time resumed. The driver's argument continued from the same syllable. The attendant checked the indicator again.
+The driver behind him continued arguing. The attendant checked the indicator again.
 
 "World Registry: No Record."
 

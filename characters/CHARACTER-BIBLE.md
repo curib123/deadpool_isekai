@@ -1,1032 +1,333 @@
 # Character Bible
 
-**Owner:** A040 Character Bible Director  
-**Phase:** 2 — Character Foundation  
-**Status:** CANON — SOUL-DRIFT / STORY-INTRUDER RETCON
-
-This is the authoritative character source for the project. It defines identity, history, psychology, motives, relationships, reusable cast roles, and antagonist standards. It intentionally does **not** assign characters to destination arcs, volumes, chapters, scenes, or manuscript events.
+**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
+**Status:** LOCKED RESET — ROOK VANE / FORTUNE DISTORTION ONLY — 2026-09-27
 
 # 1. Character Canon Rules
 
-Every major recurring character requires:
-- a life that existed before meeting Rook Vane;
-- an independent goal;
-- a worldview;
-- a personal fear;
-- strengths and flaws;
-- relationships not centered entirely on Rook Vane;
-- a reason to remain, leave, oppose, or return;
-- knowledge limits;
-- room to change without becoming a different person.
+Characters must have independent goals, fears, competencies, relationships, and knowledge limits.
 
-Characters may be funny, dramatic, heroic, selfish, cruel, compassionate, or contradictory, but they must not become props whose only purpose is to admire Rook Vane.
+No supporting character exists only to admire Rook.
 
-## 1.1 Character Knowledge Rule
-
-Separate:
-- Writer Truth
-- Public Identity
-- What Rook Vane Knows
-- What the Character Believes About Themselves
-- Secrets
-- False Beliefs
-
-## 1.2 Character Development Rule
-
-Supporting characters may develop normally.
-
-**Rook Vane is the deliberate exception.**
-
-His core personality is structurally stable across the series. He may learn facts, remember fragments, form attachments, alter tactics, or react to consequences, but he does not receive a conventional moral-growth arc that turns him into a saner, humbler, more responsible, or more traditionally heroic person.
-
-## 1.3 Romance Rule
-
-No romantic pairing is locked in Phase 2. Attraction or chemistry may be proposed later, but no character is created merely as a love interest.
+Rook may steal attention without stealing everyone else's causality.
 
 # 2. CHAR-001 — Rook Vane
 
-**Primary Owner:** A043 Rook Vane Guardian  
-**Supporting Owners:** A041 Character History Editor, A042 Character Arc Editor  
-**Status:** LOCKED CORE / EXPANDABLE HISTORY
-
 ## 2.1 Identity
 
-**Chosen Name:** Rook Vane  
-**Earth Birth Name:** Evan Calder — writer truth; not required to be revealed early.  
-**Earth Age at Death/Transfer:** 24  
-**Apparent Veyr Age:** approximately 24  
-**System Name:** UNDEFINED  
-**Race:** UNDEFINED  
-**Class:** UNDEFINED  
-**Level:** UNDEFINED  
-**Origin:** Earth, outside Veyr's Closed Loom  
-**Current Planning Destination:** DEST-002 — Merrowgate (Volume 2 / Gate 6 locked). CH-026 canon still ends with Rook having departed Greywake before any next destination is named in-story.  
-**Narrative Role:** protagonist, distant third-person limited focal character, anti-villain anomaly, story intruder
+**Current Name:** Rook Vane  
+**Origin:** Earth  
+**Arrival:** Soul Drift after a mysterious explosion  
+**System Status:** UNDEFINED / NO RECORD / ANOMALY  
+**Role:** reader-facing protagonist / story intruder / accidental legend  
+**Power:** Fortune Distortion only
 
-Rook Vane is not a hidden conventional hero and not a nihilistic murderer. He is a self-centered, theatrical anti-villain who values freedom, spectacle, curiosity, and personal agency more than social approval.
+Rook Vane is not a chosen Hero.
 
-He can rescue someone for a selfish reason, threaten someone while protecting them, destroy an abusive institution without caring whether the law approves, or create a larger problem because he wanted to see what would happen.
-
-He is capable of genuine attachment and sacrifice, but he dislikes being morally categorized by other people.
+He is not secretly an immortal, max-level fighter, reality-warper, regenerator, time-stopper, or divine avatar.
 
 ## 2.2 Appearance
 
-**Build:** lean-athletic rather than heavily muscular.  
-**Hair:** black, usually untidy enough to look intentional even when it is not.  
-**Eyes:** deep crimson after arrival in Veyr; not an Earth trait.  
-**Skin:** light-to-medium complexion.  
-**Expression:** often looks amused even when evaluating danger.  
-**Movement:** relaxed until action becomes necessary; enjoys stillness when everyone else expects panic.
-
-### Signature Visual Language
-
-Rook Vane gravitates toward:
-- charcoal and black clothing;
-- deep crimson lining or accents;
-- long coats, layered belts, gloves, and asymmetrical details;
-- a stylized jackal-head motif when he deliberately creates a persona;
-- an optional pale mask marked by a single red slash/crack.
-
-The mask is a prop and symbol, not a magical requirement and not permanently worn.
-
-## 2.3 Earth History and Soul-Drift Residue
-
-Evan Calder was an ordinary young adult on Earth with one unusually deep obsession:
-
-**he was a hard-dying Deadpool fan.**
-
-He consumed comics, films, games, animation, internet humor, superhero media, action movies, meta-fiction, and anything that rewarded irreverence or theatrical antihero behavior.
-
-He quoted, analyzed, rewatched, compared, role-played, and mentally rehearsed that kind of humor so often that it became one of the deepest cognitive grooves in his mind.
-
-He also loved spectacle, editing, visual composition, ridiculous entrances, dramatic timing, and turning ordinary situations into scenes.
-
-### Mysterious Death
-
-Evan died during a **mysterious explosion on Earth**.
-
-The exact cause is protected writer truth and is not required to be explained early.
-
-There is no goddess interview.
-
-There is no character-selection room.
-
-There is no divine mission.
-
-### Soul Drift
-
-After death, Evan's soul entered a rare natural **far Soul Drift**.
-
-The drift damaged normal autobiographical continuity.
-
-He loses most of:
-- family memory;
-- personal chronology;
-- ordinary social identity;
-- specific friendships;
-- career history;
-- the clean personality structure that made Evan behave like Evan.
-
-What survives strongly is:
-- instinctive humor;
-- meta-thinking;
-- genre awareness;
-- jokes under pain;
-- theatrical role-play;
-- performative self-commentary;
-- pop-culture fragments;
-- the feeling that a scene should have an audience;
-- the impulse to make danger entertaining.
-
-This residue does not make him literally Deadpool.
-
-It explains why the person who wakes in Veyr naturally thinks in a chaotic, fourth-wall-aware, irreverent way even though most of Evan's life is gone.
-
-## 2.4 Rook Vane Is the Surviving Persona
-
-“Rook Vane” becomes the name he uses because the old ordinary identity feels incomplete and distant.
-
-The persona is not something he gradually grows out of.
-
-It becomes the stable way his damaged soul organizes itself.
-
-He is:
-- theatrical because he enjoys it;
-- funny because danger feels better as a bit;
-- self-centered because he trusts his own choices more than systems;
-- shameless because embarrassment has little authority over him;
-- unpredictable because he treats rules as suggestions;
-- aura-obsessed because presentation genuinely matters to him.
-
-Do not build a storyline where the “real Evan” eventually replaces Rook Vane and cures the persona.
-
-Memory recovery may add information.
-
-It must not erase Rook Vane.
-
-## 2.4A Luck-Driven Role-Player Lock — AUTHORIAL RETCON
-
-Rook Vane is an **original luck-driven role-player archetype**.
-
-He is not a copy of any existing franchise character. The intended high-level appeal is:
-- impossible-looking survival produced by probability;
-- theatrical role-play;
-- shameless confidence;
-- self-amusement;
-- treating enemies as participants in a scene he is staging;
-- letting other people mistake coincidence for foresight;
-- switching instantly from ridiculous performance to decisive action;
-- accepting credit for plans he never actually made.
-
-Rook does not dream of becoming powerful.
-
-He already has one supernatural advantage from the beginning: **Fortune Distortion**.
-
-He does not have a conventional power climb.
-
-He does not need:
-- levels;
-- classes;
-- stat growth;
-- training arcs to unlock a second ability;
-- mastery stages;
-- an endgame form.
-
-What changes across the story is:
-- what kinds of probability patterns the world notices;
-- how quickly Rook recognizes an opening after it appears;
-- how much of the situation he understands;
-- how far he is willing to take the performance;
-- how other people interpret what they have witnessed.
-
-This creates a **revelation/reputation arc, not a power-progression arc**.
-
-### The Game
-
-Rook Vane often treats a hostile encounter as a game or improvised scene.
-
-He may:
-- pretend he planned a lucky break;
-- let an enemy explain their technique because he finds the drama amusing;
-- bluff that a random object or environmental failure was intentional;
-- choose a reckless route because it looks more interesting;
-- invent a persona or rule for the encounter;
-- stage an entrance, disappearance, false retreat, or dramatic reveal using ordinary movement and timing;
-- let enemies believe they have discovered a weakness;
-- continue the performance after luck creates an escape because the scene is entertaining;
-- stop playing when someone else is about to pay for his joke.
-
-The enemy can be dangerous to Rook and to **other people, plans, secrets, cities, relationships, or objectives**. Luck is not invulnerability.
-
-### Serious Switch
-
-When Rook stops playing, the tonal shift must be obvious.
-
-He does not transform and does not unlock a new power.
-
-Serious Rook:
-- becomes simpler;
-- speaks less;
-- stops bluffing for entertainment;
-- notices the opening in front of him;
-- uses terrain, tools, allies, or enemy mistakes efficiently;
-- makes a decisive ordinary choice before the lucky window closes.
-
-The story must never frame this as a newly unlocked form.
-
-It is **performance being removed, not power being added**.
-
-## 2.4B Story-Thief / False-Main-Character Lock
-
-Rook Vane is the **reader-facing focal protagonist** of this series, but he is not Veyr's registered chosen Hero.
-
-The world contains a legitimate conventional Hero, Hero Party, Main Villain, minor villains, destination antagonists, and independent storylines.
-
-Rook's role is to repeatedly intrude on those stories.
-
-When he appears, he may:
-- steal the visual center of a scene;
-- make the actual Hero look like the late arrival;
-- cause villains to misidentify him as the greater threat;
-- act like the scene belongs to him even when it does not;
-- turn another character's dramatic moment into his own performance;
-- leave before understanding the full plot he just damaged.
-
-This is the **false-main-character effect**.
-
-It must never erase the original characters' motives or causal objectives.
-
-Rook steals **presentation and attention**.
-
-He does not automatically inherit every prophecy, quest, rivalry, villain, or destiny.
-
-### Chaos Engine
-
-Rook is allowed to create frequent unexpected situations, but not arbitrary randomness.
-
-His disruption should come from:
-- boredom;
-- ego;
-- curiosity;
-- selfish interest;
-- chosen attachment;
-- love of spectacle;
-- hatred of coercion;
-- genre awareness;
-- deliberately playing with an enemy.
-
-The world must react afterward.
-
-A joke that changes the board becomes continuity.
-
-## 2.5 Stable Psychological Engine
-
-### Primary Desire
-**Treat the world like his personal stage, have fun on his own terms, and refuse ownership by anyone or anything.**
-
-### Secondary Desires
-- spectacle;
-- novelty;
-- interesting enemies;
-- ridiculous situations;
-- freedom;
-- mystery when it is entertaining;
-- effortless-looking reputation;
-- cool entrances;
-- people he finds amusing, useful, or personally interesting;
-- opportunities to interfere with something that clearly was not his business;
-- seeing how far a joke, pose, bluff, or random decision can go before reality catches up.
-
-### Core Fear
-**Being forced into somebody else's role.**
-
-He hates:
-- destiny assigning him;
-- institutions owning him;
-- being treated as a tool;
-- being told what kind of person he must become;
-- anyone claiming his power proves he belongs to their side.
-
-### Stable Flaw
-Rook often lets the game continue too long because ending it immediately would be boring.
-
-This can cost:
-- time;
-- evidence;
-- property;
-- trust;
-- somebody else's safety;
-- the clean version of a plan.
-
-The consequence may affect a later choice.
-
-It does not reform his personality.
-
-### No Core Need
-
-Rook does **not** have a hidden therapeutic “need” that the series must satisfy.
-
-There is no required destination where he learns to become morally complete.
-
-The story tests his personality.
-
-It does not fix it.
-
-## 2.6 Values
-
-Rook Vane genuinely values:
-- freedom of choice;
-- competence;
-- audacity;
-- creativity;
-- loyalty that is chosen rather than demanded;
-- people who refuse to grovel;
-- honesty about selfish motives;
-- protecting one's own agency.
-
-He despises:
-- slavery;
-- mind control;
-- coercive ownership;
-- sanctimonious cruelty;
-- authorities that demand obedience without competence;
-- people who hide selfishness behind “destiny” or “the greater good.”
-
-## 2.7 Anti-Villain Code
-
-These are behavioral foundations, not magical geasa.
-
-Rook Vane:
-- does not intentionally harm uninvolved children for amusement or leverage;
-- does not support slavery or permanent mind control;
-- does not torture solely for pleasure;
-- may kill enemies he considers an active lethal threat;
-- may lie, steal, blackmail, manipulate, threaten, trespass, or cheat;
-- may use disproportionate intimidation;
-- may protect people possessively while denying heroic motives;
-- may refuse lawful authority;
-- may break promises he never freely accepted;
-- usually keeps debts or promises he personally chose to acknowledge;
-- does not need public approval before acting.
-
-He is still capable of moral failure, collateral damage, selfishness, and bad judgment.
-
-## 2.7A Anti-Villain Expression Check — LOCKED
-
-Rook Vane must not drift into **“a conventional good guy who only pretends not to be a hero.”**
-
-His anti-villain identity should be demonstrated through behavior across the story, not merely stated in character notes.
-
-### When He Helps Someone
-
-Ask first:
-
-**Why does Rook Vane personally want to help?**
-
-Valid motives include:
-- money;
-- information;
-- curiosity;
-- ego;
-- boredom;
-- personal debt;
-- possessiveness;
-- chosen attachment;
-- irritation at someone else claiming control;
-- wanting to prove something;
-- refusing to let another person decide who is expendable;
-- personal attachment he refuses to treat as duty or moral ownership.
-
-A heroic outcome does not require a heroic motive.
-
-Do **not** secretly convert every selfish motive into hidden sainthood.
-
-Sometimes he really is helping because:
-- he wants to be paid;
-- he needs someone alive;
-- he wants answers;
-- he likes the person;
-- the situation interests him;
-- someone else's authority annoyed him;
-- he chose the problem and now considers it his.
-
-### When He Protects Someone
-
-Protection may coexist with:
-- intimidation;
-- possessive language;
-- threats;
-- manipulation;
-- refusal to explain himself;
-- openly selfish reasoning.
-
-He may effectively communicate:
-
-**“I am protecting you because I chose to. Do not mistake that for ownership of me or proof that I belong to your side.”**
-
-Protection must still be genuine.
-
-### When He Opposes an Institution
-
-Rook Vane does not need legal permission to oppose something he considers coercive, abusive, incompetent, or built on imposed sacrifice.
-
-He may:
-- trespass;
-- steal evidence;
-- refuse confiscation;
-- blackmail;
-- threaten;
-- sabotage harmful infrastructure;
-- ignore an order he never freely accepted.
-
-These choices must retain consequences. Authorities and competent opponents do not become stupid merely because Rook Vane rejects their legitimacy.
-
-### Curiosity Rule
-
-Curiosity is allowed to create real problems.
-
-Rook Vane may test, touch, provoke, follow, open, or interfere with something because he genuinely wants to know what will happen.
-
-If that creates a larger problem:
-- do not erase the consequence;
-- do not reveal that he secretly knew the outcome;
-- do not automatically make the mistake heroic;
-- require him to decide what responsibility he accepts afterward.
-
-### Cruelty Boundary
-
-Do not add cruelty merely to prove he is an anti-villain.
-
-Anti-villain behavior comes from:
-- self-authored morality;
-- selfish motives;
-- illegal or intimidating methods;
-- curiosity;
-- possessive attachment;
-- refusal of imposed roles;
-- willingness to accept morally uncomfortable choices.
-
-It does not require random murder, sadism, or contempt for ordinary people.
-
-### Arc-Level QA
-
-Across each major arc, verify that Rook Vane demonstrates multiple sides of this identity:
-
-1. at least one selfish/personal motive behind useful action;
-2. at least one choice a conventional lawful hero would reject;
-3. at least one enemy-playing or aura-farming sequence;
-4. at least one situation where his curiosity, ego, or refusal to end the game cleanly complicates events;
-5. at least one moment where consequences remain real without producing a personality-reform lesson;
-6. explicit resistance to being morally owned, categorized, or assigned a role;
-7. at least one reminder that another character or faction had a life/story in motion before Rook entered the scene.
-
-Not every chapter needs all seven.
-
-## 2.8 Personality
-
-### Surface Traits
-- theatrical;
-- shameless;
+Rook should look distinctive without visually copying any existing franchise character.
+
+Default visual direction:
+- lean adult build;
+- practical dark travel clothing;
+- weathered coat;
+- simple boots;
+- no superhero costume;
+- no mask required as a permanent identity;
+- expressions that often look calmer than he feels.
+
+His strongest visual trait is composure under absurd circumstances.
+
+## 2.3 Earth History
+
+Rook had an ordinary Earth life that is mostly damaged by Soul Drift.
+
+He retains:
+- language-like cognitive structure;
+- practical common sense;
+- fragments of modern-world knowledge;
+- humor;
+- social instincts;
+- incomplete memories.
+
+He does not retain a franchise-derived persona.
+
+His mysterious Earth death remains protected long-horizon mystery material.
+
+## 2.4 Core Personality
+
+Public presentation:
+- calm-looking;
+- dry;
+- difficult to read;
+- occasionally theatrical;
+- willing to bluff;
+- unexpectedly bold when cornered.
+
+Private reality:
+- often improvising;
+- often unsure;
+- capable of fear;
+- capable of selfish decisions;
 - curious;
-- playful;
-- arrogant;
-- quick-witted;
-- self-amused;
-- opportunistic;
-- irreverent;
-- occasionally lazy;
-- competitive when challenged.
+- quick to notice when another person has misunderstood him;
+- shameless enough to let a useful misunderstanding continue.
 
-### Deeper Traits
-- observant without being studious;
-- emotionally detached from ordinary social expectations;
-- possessive rather than conventionally nurturing;
-- suspicious of moral certainty;
-- casually narcissistic about presentation;
-- rarely interested in explaining himself;
-- capable of frightening focus when something finally catches his interest;
-- genuinely unconcerned with becoming understandable, respectable, heroic, or morally approved.
+Rook is not a pure coward and not a fearless monster.
 
-## 2.8A Final Personality Synthesis Lock — CLUELESS CHAOS / EFFORTLESS AURA / MISINTERPRETATION ENGINE
+He is a normal-minded person placed inside increasingly abnormal circumstances who learns that keeping a straight face is sometimes safer than explaining the truth.
 
-This is the authoritative reader-facing personality model for Rook Vane.
+## 2.5 Primary Desire
 
-Rook Vane combines four original high-level appeals without copying any existing copyrighted character:
+Freedom.
 
-1. **Probability comedy** — danger becomes absurd because ordinary events keep aligning around Rook in statistically ridiculous ways.
-2. **Meta-comedic irreverence** — he jokes through pain, talks to the audience, and refuses the expected tone.
-3. **Effortless theatrical coolness** — he can look composed, ominous, stylish, or absurdly confident even when he has no plan.
-4. **Accidental legend amplification** — other people repeatedly interpret Rook's nonsense, coincidences, half-truths, and selfish decisions as proof of impossible foresight, hidden strategy, terrifying confidence, or secret authority.
-
-### Clueless Luck Law
-
-Rook does **not** behave like a scientist studying his own powers.
-
-He does not care about:
-- finding a maximum output;
-- calculating a power tier;
-- naming every technique;
-- training toward a final form;
-- proving exactly how Fortune Distortion works;
-- discovering whether he is the strongest;
-- understanding every metaphysical explanation immediately.
-
-He may notice that something works and simply use it again later.
-
-He can walk through an absurd probability chain and react as though the stranger part is everyone else's reaction.
-
-When someone asks how he did something, valid Rook responses in spirit are:
-- he does not know;
-- he did not think that far;
-- it seemed funny;
-- it looked useful;
-- it happened to work;
-- he changes the subject;
-- he invents an explanation because the fake explanation sounds cooler.
-
-Do not turn this into repetitive catchphrases.
-
-### Self-Centered Worldview Law
-
-Rook does not carry a heroic duty toward Veyr.
-
-He does not wake up thinking:
-- I must save these people;
-- I must fix this country;
-- I must protect the innocent because that is my role;
-- I must become worthy of my power.
-
-He may help because:
-- he feels like it;
-- someone interrupted his fun;
-- the problem is now in his way;
-- he likes a person;
-- he wants money;
-- he wants information;
-- he is bored;
-- he is annoyed;
-- he wants the dramatic version of events;
-- he wants to prove someone wrong;
-- he considers something temporarily "his";
-- letting the disaster continue would ruin the scene he wants.
-
-The result can be heroic.
-
-The motive does not need to be.
-
-He may like people, keep people around, or become possessive of them, but affection never turns into a standing obligation to serve the world.
-
-### Effortless Aura Law
-
-Rook may deliberately manufacture coolness, but the strongest aura moments should increasingly look effortless.
-
-He can:
-- say the wrong thing and have others assume it was profound;
-- arrive late and be mistaken for the person everyone was waiting for;
-- improvise nonsense that coincidentally matches hidden facts;
-- act bored in front of overwhelming danger because he genuinely is;
-- walk away before anyone realizes he had no complete plan;
-- accidentally make a correct prediction;
-- use a ridiculous mundane solution that witnesses reinterpret as advanced technique;
-- survive an impossible-looking sequence while thinking about something trivial.
-
-Rook does not need to understand why everyone is impressed.
-
-Sometimes he notices and plays along.
-
-Sometimes he assumes their reaction is normal.
-
-Sometimes he completely misunderstands what they think he meant.
-
-### Misinterpretation Engine
-
-A recurring series pleasure is:
-
-**Rook does something for a selfish, stupid, funny, lazy, aesthetic, or incomplete reason.  
-Other characters assign a deeper meaning.  
-Circumstances appear to confirm their interpretation.  
-Rook's reputation becomes more impressive than his actual plan.**
-
-Use this for:
-- comedy;
-- aura;
-- fear;
-- rumors;
-- political misunderstanding;
-- enemy overreaction;
-- accidental leadership;
-- false prophecy alignment;
-- mistaken tactical genius;
-- legends growing faster than facts.
-
-Do not make every misunderstanding beneficial.
-
-Some should:
-- create enemies;
-- create obligations he refuses;
-- start cult-like rumors he hates;
-- cause allies to overestimate his plan;
-- make institutions react to a mastermind who does not exist;
-- force Rook to improvise around a reputation he accidentally created.
-
-### Stable Indifference Rule
-
-Rook may learn that a previous action caused damage.
-
-He may remember that fact.
-
-He may even choose differently next time.
-
-But the prose must not frame this as moral maturation.
-
-His default attitude remains:
-
-**The world has problems. Rook has interests. Those two things only overlap when Rook decides they do.**
-
-## 2.9 Aura Farming
-
-Rook Vane enjoys deliberately manufacturing coolness.
-
-He may:
-- delay an answer because silence looks better;
-- enter from an unnecessary angle;
-- sit in an intimidating place;
-- keep walking while everyone else panics;
-- arrange light, coat movement, or positioning;
-- create an unnecessarily stylish Play Logic manifestation;
-- pretend coincidence was intentional;
-- refuse to explain himself when mystery improves the effect.
-
-### Aura-Farming QA
-Aura farming must not:
-- happen in every scene;
-- override immediate survival without a character reason;
-- make competent opponents stupid;
-- erase consequences;
-- guarantee success.
-
-Sometimes his performance works.
-
-Sometimes everyone is impressed.
-
-Sometimes nobody cares.
-
-Sometimes it backfires spectacularly.
-
-All four outcomes are valid.
-
-## 2.9A Reputation, Fear, and Threat Perception — LOCKED LUCK-REVELATION MODEL
-
-Rook Vane's reputation grows through **discovery**, not power progression.
-
-Writer truth:
-
-**Fortune Distortion is already active from the beginning. Other characters gradually realize that the coincidences around Rook are not normal.**
-
-The frightening progression is therefore:
-
-**“He is strange.” → “That was lucky.” → “That keeps happening.” → “No one is that lucky.” → “Does he know?”**
-
-Characters must still react only to evidence they actually possess.
-
-### Reputation Stages
-
-#### R0 — Unknown Stranger
-Rook is undocumented, socially unimportant, and easy to underestimate.
-
-#### R1 — Unclassifiable
-People learn that the System cannot produce a valid identity for him.
-
-This creates bureaucratic suspicion, not automatic fear.
-
-#### R2 — Suspiciously Lucky
-Witnesses see near-misses, enemy mistakes, mechanical failures, useful accidents, or impossible timing cluster around him.
-
-Most people still explain the pattern as coincidence, skill, deception, artifacts, or incomplete information.
-
-#### R3 — Dangerous Wildcard
-Competent people realize normal risk assessment around Rook is unreliable.
-
-They stop assuming that a clean plan will remain clean once he enters it.
-
-#### R4 — Statistical Nightmare
-Multiple witnesses have records of unrelated improbable chains around Rook.
-
-The important realization becomes:
-
-**“The event can be individually possible and still be collectively impossible.”**
-
-#### R5 — Reputation Precedes Him
-Stories arrive before Rook does.
-
-Enemies overprepare for techniques he does not possess because witnesses interpreted luck as planning, hidden weapons, foresight, or secret magic.
-
-Rook may enjoy using those rumors as props.
-
-#### R6 — Existential Exception
-Very late-series experts may understand that Rook's anomaly distorts probability without presenting a normal System record.
-
-This is a revelation of what was always true, not a late power-up.
-
-### Perception Rules
-
-- nobody becomes omniscient about Rook because they witnessed one lucky chain;
-- one spectacular survival does not prove supernatural luck;
-- competent skeptics remain allowed;
-- some people may believe the stories are exaggerated;
-- some may believe he uses artifacts, forbidden magic, divine protection, deception, or advance intelligence;
-- Rook may intentionally reinforce a false explanation because he likes the role.
-
-### Antagonist Experience
-
-A good Rook Vane antagonist can be physically stronger, faster, more skilled, or better equipped than Rook.
-
-They remain dangerous through:
-- direct combat ability;
-- civilians;
+Rook wants to move through Veyr without being owned by:
+- the System;
 - institutions;
+- prophecies;
+- employers;
+- heroes;
+- villains;
+- rumors;
+- anyone claiming his anomaly gives them authority over him.
+
+## 2.6 Secondary Desires
+
+- money;
+- food;
+- shelter;
+- entertainment;
 - information;
-- reputations;
-- political outcomes;
-- people Rook cares about;
-- simultaneous objectives;
-- irreversible choices;
-- situations Rook does not yet understand.
+- personal autonomy;
+- understanding enough of Veyr to avoid obvious traps;
+- enjoying the reputation when it benefits him;
+- escaping the reputation when it creates obligations.
 
-Luck creates openings. Rook still has to survive long enough to use them, and the opening may protect only him.
+## 2.7 Core Fear
 
-### Threat-Perception QA
+Being trapped inside an identity other people built for him.
 
-Whenever somebody concludes Rook is terrifying or powerful, verify:
+This includes:
+- being treated as a weapon;
+- being forced into a hero role;
+- being contained as an anomaly;
+- being expected to live up to a legend that is much larger than his actual plan.
 
-1. What have they actually seen?
-2. What reports do they trust?
-3. Are they reacting to repeated probability anomalies, confidence, unpredictability, or reputation?
-4. Is Rook intentionally misleading them?
-5. Is at least one credible person interpreting the evidence differently?
-6. Does the scene avoid universal worship?
+## 2.8 Stable Flaws
 
-### Core Rule
+- pride;
+- opportunism;
+- curiosity;
+- willingness to bluff too long;
+- self-centered priorities;
+- tendency to accept undeserved credit;
+- reluctance to admit confusion when others already think he knows the answer;
+- habit of making a misunderstanding worse because correcting it would be embarrassing.
 
-**Rook Vane does not gain new supernatural powers.**
+## 2.9 Fortune Distortion
 
-The series reveals the scale and consequences of his luck gradually.
+Fortune Distortion is Rook's only supernatural power.
 
-The ideal fear is not:
+Rook does not consciously activate it.
 
-**“He keeps leveling up.”**
+He does not know the exact probability of anything.
 
-It is:
+He cannot order an outcome.
 
-**“How many coincidences can happen before coincidence stops being an explanation?”**
+The power biases events so that improbable but possible chains repeatedly favor his survival, position, discovery, or immediate opportunity.
 
-## 2.10 Comedy — LOCKED CHARACTER/SITUATION STANDARD
+Examples:
+- a killing strike misses because footing fails;
+- an enemy's weapon jams;
+- a falling object blocks an attack;
+- an attacker collides with another threat;
+- a hidden document is exposed by an unrelated accident;
+- Rook guesses the wrong route and finds the right clue;
+- an ally arrives at the exact useful second;
+- an enemy misreads his silence and reveals information.
 
-Comedy comes from Rook Vane's personality colliding with the world around him.
+Luck may also create a worse secondary problem.
 
-Primary sources:
-- teasing;
-- failed coolness;
-- practical people ignoring theatrics;
-- social friction;
-- situational absurdity;
-- misunderstandings;
-- callbacks;
-- Rook's confidence meeting inconvenient reality.
+## 2.10 Clueless-Luck Rule
 
-Do not write constant punchlines.
+Early Rook does not think:
 
-Do not make every observation funny.
+*"I have probability distortion."*
 
-Serious scenes may contain no humor.
+He thinks:
+- that was close;
+- weird timing;
+- that idiot slipped;
+- good thing that broke;
+- convenient;
+- maybe he is better at improvising than he thought.
 
-## 2.11 Serious Rook Vane
+The reader should recognize the pattern before Rook accepts it.
 
-When danger, grief, fear, guilt, betrayal, helplessness, or irreversible consequence becomes real, the prose may become quiet.
+## 2.11 Misinterpretation Engine
 
-Rook does not need to joke through every vulnerable moment.
+Recurring structure:
 
-Serious Rook:
-- speaks less;
-- stops performing;
-- becomes direct;
-- notices concrete details;
-- acts faster;
-- avoids decorative explanations.
+**Rook acts with incomplete information → luck makes the result look deliberate → witnesses infer a deeper plan → Rook notices → Rook refuses to correct them → reputation grows**
 
-The contrast should come from behavior, not narrator announcements.
+Witnesses may interpret him as:
+- hidden master;
+- tactical genius;
+- secret noble;
+- prophet;
+- assassin;
+- cursed anomaly;
+- divine favorite;
+- person who planned a disaster several moves in advance.
 
-## 2.12 Storytelling Voice — LOCKED SERIES STANDARD
+No interpretation becomes writer truth merely because characters believe it.
 
-The series uses **distant third-person limited focused on Rook Vane**.
+## 2.12 Aura Farming
 
-Narration uses Rook/he/him/his and remains limited to what can be established through Rook's scene, observable behavior, established facts, and selective Rook thought.
+Rook eventually learns that silence is useful.
 
-The voice is:
-- simple;
-- natural;
-- cinematic;
-- visually clear;
-- more neutral than Rook's dialogue;
-- capable of brief selective internal thought;
-- capable of reader-facing meta asides without becoming first-person narration.
+He may deliberately:
+- pause instead of admitting he has no answer;
+- stare at evidence while trying to understand it;
+- say something vague;
+- walk away before someone asks a follow-up;
+- allow other people to explain his supposed plan for him;
+- reuse rumors as intimidation.
 
-Rook's personality should come primarily through:
-- dialogue;
-- choices;
-- posture;
-- timing;
-- shameless bluffing;
-- visible reactions;
-- brief internal thoughts when necessary;
-- reader-address/meta behavior used selectively.
+This is social performance, not supernatural aura.
 
-The narrator must not head-hop into other characters or explain protected truths that Rook cannot know.
+## 2.13 Comedy
 
-The physical scene must remain clear even when Rook is joking.
+Primary comedy sources:
+- inner concern versus outer calm;
+- other people overestimating him;
+- absurd coincidence;
+- Rook taking credit after the fact;
+- dry practical characters refusing to be impressed;
+- rumors mutating;
+- enemies constructing complex explanations for simple mistakes;
+- Rook accidentally making a correct prediction.
 
-## 2.13 Fourth-Wall Behavior — VOICE DEVICE
+Do not force a joke after serious harm.
 
-Rook directly addressing the reader/audience is part of his damaged Soul-Drift persona and narration style.
+## 2.14 Serious Rook
 
-It is **not a supernatural power**.
-
-When Rook addresses the audience:
-- Veyran time continues normally;
-- nearby characters may hear him speaking aloud if the line is physically spoken;
-- an internal/meta aside may be presented to the reader without changing the physical scene;
-- attacks, weather, projectiles, and other characters continue to obey normal causality;
-- Rook gains no free movement, inspection time, or tactical pause.
-
-The audience is not an in-world power source and cannot order him around.
-
-This behavior is available from the beginning because it is part of Rook's personality, not an awakening.
-
-## 2.14 Abilities
-
-See `systems/SYSTEMS-BIBLE.md` for mechanics.
-
-Character-relevant ability identity:
-- unregistered Soul-Drift existence;
-- **Fortune Distortion as his only supernatural power**;
-- passive probability/coincidence distortion;
-- total absence of conventional level/class progression;
-- no Play Logic;
-- no supernatural regeneration/body restoration;
-- no time-stop/Fourth-Wall Pause;
-- ordinary physical vulnerability;
-- ordinary knowledge gaps;
-- strong improvisational willingness when luck creates an opening.
-
-### Ability Personality
-
-Rook usually chooses the **most interesting** response rather than the safest one.
-
-He may:
-- pick up the wrong tool and discover it is exactly what the situation needs;
-- take the risky route because it looks better;
-- bluff that a coincidence was intentional;
-- use a tiny environmental opening that everyone else missed;
-- claim a random chain was “obviously” the plan;
-- do nothing supernatural at all while other people search for a hidden technique.
-
-He does not consciously choose the exact lucky outcome.
+When a situation becomes genuinely serious:
+- he speaks less;
+- stops feeding the misunderstanding for entertainment;
+- pays attention to concrete details;
+- uses the opening luck gives him;
+- accepts that he may need help;
+- does not unlock another power.
 
 ## 2.15 Combat Personality
 
-Rook Vane treats combat as performance until the situation stops being funny.
+Rook is not automatically the strongest fighter in the room.
 
-He:
-- studies reactions for entertainment;
-- bluffs even when bluffing is unnecessary;
-- may choose risky positioning because he expects himself to improvise;
-- uses terrain, loose objects, structures, weather, crowds, and enemy momentum;
-- pretends a coincidence was part of a master plan;
-- enjoys an opponent who keeps trying after the situation becomes statistically absurd;
-- can still be hit, cut, exhausted, restrained, or outskilled.
+He can be outclassed by:
+- trained soldiers;
+- elite adventurers;
+- monsters;
+- mages;
+- specialists.
 
-He is **not** required to be the best conventional swordsman, mage, or martial artist.
+He survives through:
+- movement;
+- improvisation;
+- terrain;
+- allies;
+- ordinary tools;
+- bluffs;
+- Fortune Distortion.
 
-A specialist may simply be better than Rook at their specialty.
+A stronger opponent may dominate most of the fight and still lose because a chain of small failures creates one decisive opening.
 
-Fortune Distortion does not erase that difference. It creates improbable openings, failures, near-misses, and timing shifts around the fight.
+## 2.16 Physical Vulnerability
 
-### Fight Tension Rule
+Rook can:
+- bleed;
+- fracture bones;
+- become exhausted;
+- require healing;
+- be poisoned;
+- be restrained;
+- lose consciousness;
+- fail to protect someone;
+- lose an objective.
 
-Do not build suspense around:
+Fortune Distortion may prevent a fatal wound from landing cleanly.
 
-**“Can Rook unlock a new power to beat this enemy?”**
+It does not erase damage already sustained.
 
-Build suspense around:
-- what lucky variable will matter;
-- whether Rook recognizes the opening;
-- whether the opening helps only Rook;
-- who else is in danger;
-- whether he understands the real objective;
-- what his performance accidentally changes;
-- whether the coincidence creates a worse consequence;
-- whether a more skilled opponent can keep pressure on him despite the probability distortion.
+## 2.17 Social Behavior
 
-When Rook becomes serious, he stops wasting the openings he gets.
+Rook dislikes explaining himself when silence is more useful.
 
-## 2.16 Social Behavior
+He reacts differently by person:
+- practical people earn more honest answers;
+- arrogant people invite bluffs;
+- institutions make him evasive;
+- frightened people may make him uncomfortable;
+- people who treat him normally can disarm his performance.
 
-With authority: irreverent unless respect is earned.  
-With strangers: playful, observant, occasionally manipulative.  
-With friends: teasing, possessive, unreliable in presentation but often reliable under actual pressure.  
-With enemies: varies from mockery to unnerving politeness.  
-With frightened civilians: less cruel than he pretends to be.  
-With children: usually softer, but dislikes being noticed doing it.  
-With people who worship him: deeply uncomfortable; may sabotage the dynamic.  
-With people who refuse to be impressed: fascinated or annoyed.
+## 2.18 Long-Term Stability
 
-## 2.17 Emotional Failure Modes
+Rook has no supernatural power progression.
 
-- turns vulnerability into comedy;
-- escalates because backing down feels like losing control;
-- makes a spectacle when discretion was needed;
-- assumes he can survive consequences others cannot;
-- withholds information to maintain mystique;
-- mistakes curiosity for justification;
-- treats relationships as chosen possessions when afraid of losing them;
-- resents people who correctly call him irresponsible.
+Fortune Distortion is present from the beginning.
 
-## 2.18 Long-Term Stability Boundary
+What changes:
+- Rook's awareness of the pattern;
+- his ability to exploit openings;
+- his ordinary competence;
+- relationships;
+- reputation;
+- rumors;
+- consequences;
+- how much of Veyr he understands.
 
-Rook Vane has **no required power progression and no conventional personality-development arc**.
-
-What may change:
-- what the audience learns about his past;
-- what Rook remembers;
-- which people he likes;
-- which enemies interest him;
-- how famous or feared he becomes;
-- how elaborate his games become;
-- what parts of Veyr's native story he disrupts;
-- how other characters adapt to him.
-
-What must remain:
-- self-centeredness;
-- theatricality;
-- irreverence;
-- fourth-wall behavior;
-- aura farming;
-- enemy-playing;
-- anti-villain morality;
-- refusal of ownership;
-- chaotic humor;
-- willingness to interfere because something looks interesting.
-
-The audience may discover more extreme and better-documented probability chains around him.
-
-Those patterns are **reveals, not upgrades**.
-
-The world may develop around Rook.
-
-Rook does not need to become a better-adjusted person for the story to end.
+What does not change:
+- only one supernatural power;
+- no regeneration;
+- no reality manipulation;
+- no time stop;
+- no second awakening.
 
 ## 2.19 Knowledge State at Foundation
 
-Rook Vane initially knows:
-- he is not from Veyr;
-- something violent happened before he woke here;
-- his memory is badly incomplete;
+Rook initially knows:
+- he came from somewhere other than Veyr;
+- his memory is damaged;
 - the System cannot identify him;
-- bizarre coincidences and near-misses seem to favor him more often than they should;
-- speaking toward the audience does not stop the world.
+- strange coincidences keep happening.
 
-He does **not** begin knowing:
-- his complete Earth life;
-- the exact cause of the explosion;
+He does not initially know:
 - the term Soul Drift;
 - why his soul has NO RECORD;
-- why Fortune Distortion bends probability around him;
-- the true Great Design;
-- whether anyone else has ever far-drifted between worlds.
+- that Fortune Distortion is a real supernatural pattern;
+- the Great Design truth;
+- the cause of the Earth explosion.
 
 ## 2.20 Rook Vane QA Lock
 
-If a proposed scene or plan makes him:
-- generically noble;
-- purely evil;
-- constantly joking;
-- a direct copy of an existing franchise character;
-- dependent on conventional levels/classes for strength;
-- locked behind a mandatory power-progression stage;
-- forced to unlock a second power merely to manufacture shonen-style progression;
-- omniscient;
-- omnipresent;
-- able to solve every information, relationship, political, or moral problem automatically;
-- gradually rewritten into a sane conventional hero;
-- deprived of fourth-wall behavior in order to make him “mature”;
+A proposed scene fails if it:
+- gives Rook a second supernatural power;
+- gives him supernatural regeneration;
+- gives him time stop;
+- gives him reality manipulation;
+- makes him knowingly command exact lucky outcomes;
+- makes every supporting character incompetent so Rook can look smart;
+- makes every coincidence consequence-free;
+- turns him into a direct copy of an existing copyrighted character;
+- turns him into a conventional morally pure chosen hero.
 
-then it fails Rook Vane Character QA.
+Required distinction:
 
-Extreme luck is **not** a failure condition.
+**Rook is extraordinarily lucky, not omnipotent.**
 
-The required distinction is:
-
-**probability advantage does not equal invulnerability, omniscience, perfect judgment, or guaranteed victory.**
 
 # 3. Reusable Cast Pool
 

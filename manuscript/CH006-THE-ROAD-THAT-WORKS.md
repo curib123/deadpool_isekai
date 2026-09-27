@@ -19,7 +19,7 @@ Rook looked toward the front. The first wagon had a clear view of the road ahead
 
 "Not officially."
 
-He stared at him. Rook moved beside the third wagon. So much for the opening shot. The caravan started forward. Nobody seemed especially interested in yesterday's impossible hammer. Either the story had not traveled yet, or Greywake had discovered the rare and valuable skill of minding its own business. The Main Caravan Road looked different now that Rook knew what keeping it alive cost. Fresh gravel filled low spots. Drainage cuts had been cleared since the last rain. Brush had been cut back far enough that anything large approaching the road would have to announce itself first. Repaired culverts broke the roadside at intervals. Timber edges had been replaced where runoff chewed at the packed surface.
+He stared at him. Rook moved beside the third wagon. So much for the opening shot. The caravan started forward. Nobody seemed especially interested in yesterday's bridge repair. Either the story had not traveled yet, or Greywake had discovered the rare and valuable skill of minding its own business. The Main Caravan Road looked different now that Rook knew what keeping it alive cost. Fresh gravel filled low spots. Drainage cuts had been cleared since the last rain. Brush had been cut back far enough that anything large approaching the road would have to announce itself first. Repaired culverts broke the roadside at intervals. Timber edges had been replaced where runoff chewed at the packed surface.
 
 Every few hundred paces, newer work crossed older damage. The road worked. Not because the frontier had agreed to behave. Because people kept spending wood, iron, time, money, and irritation on forcing it to. Annoyingly competent. They passed merchants heading toward Greywake, a supply wagon loaded with grain sacks, and a covered passenger cart moving the other direction. Drivers exchanged signals. Guards watched the shoulders. Nobody looked heroic. Everything kept moving. That might have been more important. Their first stop was a toll marker built beside a wide drainage channel.
 
@@ -295,7 +295,7 @@ The horned animal was already turning. Rook saw it. If he held the gap, he would
 
 The guards shifted with him. The lead guard angled his spear toward the predator without advancing. The second moved closer to the passengers. Nobody chased. Nobody crowded the animals. The prey saw the opening. It took it. Hooves struck packed gravel in front of him, then dropped into the ditch on the opposite side. The predator followed. Too close. Rook stepped into its line after the prey had cleared. This time Tavian did not stop him.
 
-Better. The predator saw him. Slowed. Rook could have made something. A wall. A weapon. Something huge and embarrassing. Rook did not need to. Tavian's geometry was already doing the important work, and the guards knew exactly where they belonged. Using the impossible here would not solve a problem. It would just make sure everybody remembered Rook had impossible things. Different objective. Rook planted one foot and widened his stance.
+Better. The predator saw him. Slowed. Rook could have rushed the animal and made the scene worse. He did not need to. Tavian's geometry was already doing the important work, and the guards knew exactly where they belonged. Rook's job was simpler: stay in the line, look threatening, and avoid creating a second problem. Rook planted one foot and widened his stance.
 
 "Come on."
 

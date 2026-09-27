@@ -49,8 +49,8 @@ Every scene plan must identify:
 - **Comedy opportunity**
 - **Serious-beat requirement**
 - **Action/battle requirement, if any**
-- **Play Logic use, if any**
-- **Fourth-Wall Pause use, if any**
+- **Jackal Luck probability-chain use, if any**
+- **Reader-address/meta aside use, if any**
 - **Mystery / F-ID / M-ID state**
 - **Choice**
 - **Scene turn**
@@ -81,12 +81,12 @@ Supporting characters must retain:
 Every Red-centered scene must preserve the stable story engine.
 
 Check:
-- close first-person limited;
+- distant third-person limited;
 - Red remains self-authored and freedom-focused;
 - no conventional moral-development lesson is imposed;
 - useful actions may have selfish/personal motives;
 - theatricality appears when appropriate, not as a quota;
-- serious mode means dropping performance/restraint, not powering up;
+- serious mode means dropping performance and using available openings decisively, not powering up;
 - mistakes can come from curiosity, ego, boredom, role-play, incomplete information or refusal of control;
 - Red may learn facts/tactics without becoming morally normalized.
 
@@ -186,33 +186,30 @@ If meaningful hostile action occurs, the scene must also pass:
 
 A fight scene cannot pass Scene QA while failing Battle QA.
 
-# 10. Play Logic / Regeneration QA
+# 10. Jackal Luck QA
 
-If Play Logic appears:
-- define the immediate intended role;
-- do not infer a maximum from the chosen expression;
-- do not add Stage/progression;
-- do not add finite stamina/cooldown;
-- preserve collateral/information consequences;
-- explain through context why Red chooses that expression.
+If Jackal Luck materially affects the scene:
+- identify the visible causal chain;
+- keep every link physically/socially possible;
+- do not let Red command an exact outcome;
+- do not create matter, stop time, regenerate damage, or rewrite reality;
+- preserve collateral, information, and relationship consequences;
+- verify whether the lucky result helps only Red or also creates a new problem;
+- keep supporting-character competence intact.
 
-If regeneration appears:
-- pain may remain;
-- damage to clothing/equipment/environment remains;
-- others do not inherit Red's recovery;
-- no finite regeneration resource is invented;
-- no medical expert learns protected writer truth without evidence.
+If Red is injured:
+- pain and damage persist;
+- normal medical treatment and recovery rules apply;
+- luck may explain why damage was not worse, not why existing damage vanishes.
 
-# 11. Fourth-Wall Pause QA
+# 11. Reader-Address QA
 
-For every genuine external-audience address:
-- local time freezes;
-- physical motion/sound freezes;
-- Red comments;
-- Red returns to the same instant;
-- native characters do not notice or remember it.
-
-No free tactical repositioning or hidden-information exploitation.
+For every external-audience address:
+- Veyran time continues;
+- physical motion/sound does not freeze;
+- the aside stays readable inside the active scene;
+- no free repositioning, dodging, inspection, or hidden-information exploitation occurs;
+- nearby characters may react if Red speaks aloud.
 
 # 12. Pacing / Length QA
 

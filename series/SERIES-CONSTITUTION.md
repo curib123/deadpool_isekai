@@ -9,7 +9,7 @@
 
 Veyr is a real world with its own history, nations, System, Fate, heroes, villains, wars, mysteries, and long-running conflicts.
 
-Red Jackal is **not** the person Veyr was waiting for.
+Rook Vane is **not** the person Veyr was waiting for.
 
 He is an outsider produced by a rare natural phenomenon called **Soul Drift** after his death in a mysterious Earth explosion. He enters Veyr without a valid native soul-registry root, class, level, Fate history, or progression path.
 
@@ -31,13 +31,13 @@ Locked outputs remain:
 - System Recognition: FAILED
 - Classification: ANOMALY
 
-Red does not begin weak.
+Rook does not begin weak.
 
-**He possesses one abnormal supernatural advantage from the beginning: Jackal Luck. Its strength does not progress.**
+**He possesses one abnormal supernatural advantage from the beginning: Fortune Distortion. Its strength does not progress.**
 
-The story uses revelation, probability chains, comedy, interference, consequences, and increasingly absurd coincidences produced by the same already-present luck. Red does not gain additional powers, transformations, regeneration, reality manipulation, or a time-stop ability.
+The story uses revelation, probability chains, comedy, interference, consequences, and increasingly absurd coincidences produced by the same already-present luck. Rook does not gain additional powers, transformations, regeneration, reality manipulation, or a time-stop ability.
 
-# 2. Red Jackal Identity Law
+# 2. Rook Vane Identity Law
 
 Before death, Evan Calder was an obsessive Deadpool fan and heavy consumer of comics, films, games, animation, genre fiction, internet humor, and theatrical antihero media.
 
@@ -59,11 +59,11 @@ What survives unusually strongly is a deep cognitive-performance imprint:
 
 This does **not** mean Deadpool literally possesses him and does not authorize copied dialogue, scenes, lore, or characterization.
 
-Red Jackal is an original character whose damaged post-Soul-Drift mind naturally expresses a similar kind of chaotic meta-comedic thinking.
+Rook Vane is an original character whose damaged post-Soul-Drift mind naturally expresses a similar kind of chaotic meta-comedic thinking.
 
 # 3. Character Stability Law
 
-Red Jackal does **not** receive a conventional character-development arc.
+Rook Vane does **not** receive a conventional character-development arc.
 
 He does not gradually become:
 - morally pure;
@@ -87,11 +87,11 @@ He may:
 
 Those changes must not rewrite his core personality.
 
-**Red at the end of the series is still the same self-centered, theatrical, aura-farming, enemy-playing, fourth-wall-breaking anti-villain lunatic he was at the beginning.**
+**Rook at the end of the series is still the same self-centered, theatrical, aura-farming, enemy-playing, fourth-wall-breaking anti-villain lunatic he was at the beginning.**
 
 # 3A. Final Reader-Facing Personality Law
 
-Red Jackal's permanent reader-facing identity is:
+Rook Vane's permanent reader-facing identity is:
 
 **clueless chaos + meta-comedy + effortless aura + accidental legend.**
 
@@ -99,7 +99,7 @@ This law is inspired only by broad archetypal appeal. It does not authorize copy
 
 ## 3A.1 Clueless Luck
 
-Red knows that bizarre things keep going his way.
+Rook knows that bizarre things keep going his way.
 
 He does not begin the story knowing that this is a supernatural ability, and he does not become a power researcher.
 
@@ -114,13 +114,13 @@ He tends to explain impossible-looking outcomes as:
 - the environment being convenient;
 - something he obviously planned after it already worked.
 
-The world becomes more interested in the statistical impossibility around Red than Red is interested in explaining himself.
+The world becomes more interested in the statistical impossibility around Rook than Rook is interested in explaining himself.
 
-## 3A.2 Jackal Luck
+## 3A.2 Fortune Distortion
 
-Red possesses exactly one supernatural ability: **Jackal Luck**.
+Rook possesses exactly one supernatural ability: **Fortune Distortion**.
 
-Jackal Luck is passive probability distortion centered on Red's causal presence.
+Fortune Distortion is passive probability distortion centered on Rook's causal presence.
 
 It can bend:
 - coincidence;
@@ -137,23 +137,23 @@ It can bend:
 - social interruptions;
 - chains of individually possible events.
 
-Jackal Luck does not create matter from nothing.
+Fortune Distortion does not create matter from nothing.
 
 It does not stop time.
 
 It does not directly rewrite reality.
 
-It does not regenerate or resurrect Red.
+It does not regenerate or resurrect Rook.
 
-It does not let Red command an exact result on demand.
+It does not let Rook command an exact result on demand.
 
-Red can be cut, bruised, exhausted, poisoned, trapped, embarrassed, arrested, or otherwise harmed. Luck usually protects him by preventing a lethal sequence from resolving cleanly: a blade catches on a buckle, an attacker slips, a beam falls at the right angle, a mechanism jams, an ally arrives, or several ordinary accidents chain together.
+Rook can be cut, bruised, exhausted, poisoned, trapped, embarrassed, arrested, or otherwise harmed. Luck usually protects him by preventing a lethal sequence from resolving cleanly: a blade catches on a buckle, an attacker slips, a beam falls at the right angle, a mechanism jams, an ally arrives, or several ordinary accidents chain together.
 
-Jackal Luck does not guarantee a clean victory.
+Fortune Distortion does not guarantee a clean victory.
 
 It may:
-- save Red while creating a worse problem;
-- protect Red while someone else still suffers;
+- save Rook while creating a worse problem;
+- protect Rook while someone else still suffers;
 - produce the funniest useful outcome instead of the safest one;
 - expose evidence he did not intend to find;
 - make witnesses believe he planned something he absolutely did not plan;
@@ -161,13 +161,13 @@ It may:
 
 It is not direct control over Fate.
 
-It is Red's anomaly bending probability around events in which he is causally involved.
+It is Rook's anomaly bending probability around events in which he is causally involved.
 
 ## 3A.3 Accidental Legend / Misinterpretation Law
 
 A recurring causal engine is:
 
-**simple Red motive → dramatic Red action → deeper interpretation by witnesses → coincidence/evidence appears to support the interpretation → reputation grows → later consequences return to Red.**
+**simple Rook motive → dramatic Rook action → deeper interpretation by witnesses → coincidence/evidence appears to support the interpretation → reputation grows → later consequences return to Rook.**
 
 Examples of valid interpretations:
 - mastermind;
@@ -180,13 +180,13 @@ Examples of valid interpretations:
 - agent of a faction he has never heard of;
 - person who intentionally predicted events he guessed.
 
-Red may not know what people think he meant.
+Rook may not know what people think he meant.
 
 He may accept the credit anyway.
 
 ## 3A.4 Indifference Boundary
 
-Red does not possess a standing obligation to:
+Rook does not possess a standing obligation to:
 - save Veyr;
 - protect every civilian;
 - fix institutions;
@@ -196,7 +196,7 @@ Red does not possess a standing obligation to:
 - accept leadership;
 - become morally exemplary.
 
-If he helps, the immediate reason should usually belong to Red:
+If he helps, the immediate reason should usually belong to Rook:
 - entertainment;
 - ego;
 - annoyance;
@@ -213,7 +213,7 @@ A heroic result may happen around him without turning his motive heroic.
 
 # 4. Overpowered Role-Player Law
 
-Red enjoys playing with enemies even though his only supernatural power is luck.
+Rook enjoys playing with enemies even though his only supernatural power is luck.
 
 He may:
 - pretend to be weaker;
@@ -228,23 +228,23 @@ He may:
 - claim a lucky outcome was part of the plan;
 - walk away from an opponent because he expects the situation to become funnier.
 
-Red is not physically omnipotent.
+Rook is not physically omnipotent.
 
 His frightening reputation comes from repeated impossible-looking survival, absurd timing, shameless confidence, and the fact that probability keeps arranging openings around him.
 
-When Red becomes serious, there is no transformation and no power-up.
+When Rook becomes serious, there is no transformation and no power-up.
 
 The tonal shift comes from him stopping the performance, using the opening luck already gave him, and making a decisive ordinary choice.
 
 # 5. Power Identity
 
-Red has **one supernatural power only**.
+Rook has **one supernatural power only**.
 
-## 5.1 Jackal Luck
+## 5.1 Fortune Distortion
 
-Jackal Luck is passive probability distortion.
+Fortune Distortion is passive probability distortion.
 
-It makes unlikely but causally possible outcomes cluster around Red whenever he is meaningfully involved in an event.
+It makes unlikely but causally possible outcomes cluster around Rook whenever he is meaningfully involved in an event.
 
 Valid expressions include:
 - a lethal strike missing by centimeters because footing shifts;
@@ -252,7 +252,7 @@ Valid expressions include:
 - debris falling into exactly the useful position;
 - an enemy hitting another enemy;
 - the correct witness arriving during a misunderstanding;
-- Red choosing the wrong road and accidentally finding the real target;
+- Rook choosing the wrong road and accidentally finding the real target;
 - a mundane object becoming useful because it happens to be present;
 - a chain of small coincidences creating an opening no one could reasonably plan.
 
@@ -269,7 +269,7 @@ Invalid expressions include:
 - commanding Fate;
 - consciously selecting an exact lucky result.
 
-Red may still speak toward the reader or behave as though an audience exists. That is a **narrative/personality device**, not a supernatural ability, and Veyran time does not freeze when he does it.
+Rook may still speak toward the reader or behave as though an audience exists. That is a **narrative/personality device**, not a supernatural ability, and Veyran time does not freeze when he does it.
 
 Pain, blood, injury, and recovery follow ordinary bodily rules unless a normal in-world treatment or previously established biological rule applies.
 
@@ -277,38 +277,38 @@ Luck can prevent or reduce harm through circumstance. It cannot erase an injury 
 
 # 6. Native Story / Story-Intruder Law
 
-Veyr has a story that would continue without Red.
+Veyr has a story that would continue without Rook.
 
 That larger story includes:
 - a legitimate System-recognized Hero;
 - a Hero Party with independent relationships and goals;
 - a real Main Villain;
 - multiple minor villains and rival factions;
-- prophecies, wars, conspiracies, quests, and destination conflicts that are not created for Red;
-- characters who never meet Red;
+- prophecies, wars, conspiracies, quests, and destination conflicts that are not created for Rook;
+- characters who never meet Rook;
 - victories and failures that happen off-screen from him.
 
-Red is **not** the true chosen hero of that structure.
+Rook is **not** the true chosen hero of that structure.
 
 He is the outsider who keeps walking into scenes that were supposed to belong to someone else.
 
 This produces the central meta-comedy:
 
-**Veyr has a protagonist-shaped story. Red keeps standing in the protagonist's camera position anyway.**
+**Veyr has a protagonist-shaped story. Rook keeps standing in the protagonist's camera position anyway.**
 
 # 7. Story-Rerouting Rule
 
-Red may disrupt the expected flow, but the world does not become a sequence of abandoned plots.
+Rook may disrupt the expected flow, but the world does not become a sequence of abandoned plots.
 
-When Red interferes:
+When Rook interferes:
 - the native objective survives if it logically still exists;
 - villains adapt;
 - heroes react;
 - Fate reroutes pressure;
 - consequences create a new version of the intended beat;
-- the next event grows from what Red changed rather than pretending he never interfered.
+- the next event grows from what Rook changed rather than pretending he never interfered.
 
-Red can change **how** the story reaches an event without casually erasing the entire sequence.
+Rook can change **how** the story reaches an event without casually erasing the entire sequence.
 
 This rule preserves coherent pacing while allowing unexpected situations.
 
@@ -342,7 +342,7 @@ Every destination must still contain:
 - consequences;
 - meaningful local resolution.
 
-Red's presence must not flatten the destination into a stage with no life of its own.
+Rook's presence must not flatten the destination into a stage with no life of its own.
 
 # 10. Consequence Rule
 
@@ -354,9 +354,9 @@ Comedy does not erase:
 - destroyed property;
 - damaged trust;
 - missed timing;
-- choices Red made while playing too long.
+- choices Rook made while playing too long.
 
-Red may be almost impossible to kill.
+Rook may be almost impossible to kill.
 
 Everyone else is not.
 
@@ -373,25 +373,25 @@ Do not copy:
 - franchise lore;
 - plot beats lifted from another work.
 
-Red Jackal must remain an original character built from the locked rules in this repository.
+Rook Vane must remain an original character built from the locked rules in this repository.
 
-# Final Story-Engine Lock — Red Jackal
+# Final Story-Engine Lock — Rook Vane
 
 This section is authoritative wherever older language is ambiguous.
 
-- Red Jackal is the **reader-facing focal protagonist**, not Veyr's System-recognized chosen Hero.
+- Rook Vane is the **reader-facing focal protagonist**, not Veyr's System-recognized chosen Hero.
 - The native conventional isekai Hero, Hero Party, Main Villain, minor villains, local antagonists, and off-screen events are real and independent.
-- Red's recurring function is **story intruder / scene thief / false-main-character effect**.
+- Rook's recurring function is **story intruder / scene thief / false-main-character effect**.
 - He may dominate presentation, attention, aura, and local perception without erasing the original causal objective.
 - His interference must reroute later beats rather than delete continuity.
 - His core personality has no conventional development arc.
-- Jackal Luck has no progression arc; only Red's and the world's understanding of its statistical pattern changes.
+- Fortune Distortion has no progression arc; only Rook's and the world's understanding of its statistical pattern changes.
 - Soul Drift remains a natural phenomenon, not a chooser or god.
-- Red has exactly one supernatural power: Jackal Luck.
+- Rook has exactly one supernatural power: Fortune Distortion.
 - Fourth-wall/meta address remains a voice device only; time continues normally.
 - Play Logic, supernatural regeneration/body restoration, and Fourth-Wall Pause are removed from current canon.
 - Geography, world map, locked destination order, Greywake pacing spine, and Merrowgate pacing spine remain preserved.
-- Unexpected situations must be earned from Red's personality and must leave consequences.
+- Unexpected situations must be earned from Rook's personality and must leave consequences.
 
 
 # 11A. Serial Momentum Law
@@ -403,7 +403,7 @@ A chapter may be quiet, but it may not be inert.
 Each chapter requires:
 1. an immediate objective, problem, contradiction or disturbance;
 2. at least one meaningful change in pressure, knowledge, position, reputation, relationship or risk;
-3. at least one Red-specific entertainment beat: chaos, aura, misunderstanding, power oddity, irreverence, confrontation, or unexpected choice;
+3. at least one Rook-specific entertainment beat: chaos, aura, misunderstanding, power oddity, irreverence, confrontation, or unexpected choice;
 4. an ending that creates a concrete reason to continue.
 
 No long chain of chapters may rely on the same pressure type.
@@ -431,7 +431,7 @@ Required:
 - at least one **major / great battle** that materially changes the arc;
 - multiple **minor battles or hostile action scenes** when the destination naturally supports combat;
 - at least three distinct action/matchup structures across a full arc;
-- at least one battle where Red is not the only decisive actor;
+- at least one battle where Rook is not the only decisive actor;
 - at least one battle where defeating the opponent is not the primary objective;
 - at least one battle complicated by terrain, civilians, evidence, infrastructure, escort, timing, politics, ecology, simultaneous objectives, or another non-HP problem.
 
@@ -454,17 +454,17 @@ Possible battle topology includes:
 
 Topology must come from the situation, not from a quota.
 
-Red may look untouchable because probability repeatedly creates openings around him, but he still needs ordinary movement, tools, allies, terrain, judgment, or enemy mistakes to convert those openings into outcomes. Battle tension comes from what luck does not protect, what Red does not know, simultaneous objectives, and the consequences created by the lucky chain.
+Rook may look untouchable because probability repeatedly creates openings around him, but he still needs ordinary movement, tools, allies, terrain, judgment, or enemy mistakes to convert those openings into outcomes. Battle tension comes from what luck does not protect, what Rook does not know, simultaneous objectives, and the consequences created by the lucky chain.
 
-A serious Red battle beat means **the performance drops and he acts decisively inside the opening**, never a new power stage.
+A serious Rook battle beat means **the performance drops and he acts decisively inside the opening**, never a new power stage.
 
 # 12A. Web-Novel Prose Law
 
-All canon Red Jackal chapters use a **distant third-person limited web-novel style**.
+All canon Rook Vane chapters use a **distant third-person limited web-novel style**.
 
 The default reading rhythm is:
 
-**external narration → dialogue/action → visible reaction → optional brief Red thought → consequence**
+**external narration → dialogue/action → visible reaction → optional brief Rook thought → consequence**
 
 The exact order may change.
 
@@ -472,25 +472,25 @@ The prose must combine:
 - clear external narration;
 - active character dialogue;
 - readable scene movement;
-- selective rather than constant access to Red's thoughts.
+- selective rather than constant access to Rook's thoughts.
 
 Flexible target by chapter:
 - **55–70%** distant narration/action;
 - **25–40%** dialogue;
-- **0–10%** direct Red thought.
+- **0–10%** direct Rook thought.
 
 These are guidance, not quotas.
 
-Red's personality should be shown primarily through:
+Rook's personality should be shown primarily through:
 - what he says;
 - what he does;
 - what he ignores;
 - how other characters react to him;
 - selective brief internal thought when necessary.
 
-The narrator must not constantly explain Red.
+The narrator must not constantly explain Rook.
 
-Red may directly address the external audience as a meta-comedic voice device, but Veyran time continues normally and no tactical advantage is created by the address.
+Rook may directly address the external audience as a meta-comedic voice device, but Veyran time continues normally and no tactical advantage is created by the address.
 
 The prose must remain:
 - mobile-readable;
@@ -508,8 +508,8 @@ Every Gate 9 chapter must also pass:
 
 Every meaningful battle must have an explicit matchup identity such as:
 
-**Red Jackal vs [opponent]**  
-**Red + [ally] vs [opponent]**  
+**Rook Vane vs [opponent]**  
+**Rook + [ally] vs [opponent]**  
 **[team] vs [team/pack/force]**
 
 and must pass:
@@ -532,7 +532,7 @@ It must preserve:
 - consequence;
 - continuity;
 - mystery boundaries;
-- Red's final story engine.
+- Rook's final story engine.
 
 # 14. Arc Battle Variety Law
 
@@ -544,10 +544,10 @@ At Gate 10, every completed arc must publish an internal Battle Composition Map 
 - topology;
 - terrain;
 - objective;
-- Red's role;
+- Rook's role;
 - decisive supporting characters;
 - turning point;
 - outcome;
 - lasting consequence.
 
-If the map reveals repeated battle structure, Red-only solutions, weak supporting-cast agency, or a climax that gains scale only by adding more enemies, the arc returns to Battle/Scene revision.
+If the map reveals repeated battle structure, Rook-only solutions, weak supporting-cast agency, or a climax that gains scale only by adding more enemies, the arc returns to Battle/Scene revision.

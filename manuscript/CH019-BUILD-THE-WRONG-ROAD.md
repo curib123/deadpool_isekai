@@ -1,22 +1,14 @@
 # Chapter 19 — Build the Wrong Road
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / PLAY LOGIC + JACKAL LUCK RETCON — GATE 9 REVALIDATION REQUIRED
+**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
 **Revision Date:** 2026-09-27
 **Word Count:** 1,522
 **Chapter QA:** `qa/CH-019-GATE-9-CHAPTER-QA.md`
 **Retcon QA:** `qa/CH-019-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
 
-Broken North looked worse with work crews standing on it. Before, it had been evidence. Now it had to become a road again.
+Broken North looked worse with work crews standing on it. Before, it had been evidence. Now it had to become a road again. Brynn brought militia, road workers, two carts of ordinary materials, and more people from the outer homesteads than Greywake had officially requested. Tavian brought route notes and the expression of a man expecting the forest to disagree personally. Rook carried timber. A lot of timber. Rook put one beam over his shoulder. A woman from the outer farms pointed at the other end. "Higher. You're dragging it."
 
-Brynn brought militia, road workers, two carts of ordinary materials, and more people from the outer homesteads than Greywake had officially requested. Tavian brought route notes and the expression of a man expecting the forest to disagree personally. Red carried timber.
-
-A lot of timber. Red put one beam over his shoulder. A woman from the outer farms pointed at the other end. "Higher. You're dragging it."
-
-Red looked back. She was right. That ended the performance. Practical labor remained resistant to reputation. They passed the old Guild closure just after first light. The chain had been removed under Brynn's emergency authorization.
-
-The sign still warned that the road beyond was unstable and dangerous. Still correct. Brynn read out work zones while runners marked withdrawal routes with cloth. "Lower drainage first. Washout team stages here. Second break gets materials but no work until the lip is secured."
-
-A foreman unfolded Kellan's notes across a cart board. He looked at the ground. "Kellan was right about the water."
+Rook looked back. She was right. That ended the performance. Practical labor remained resistant to reputation. They passed the old Guild closure just after first light. The chain had been removed under Brynn's emergency authorization. The sign still warned that the road beyond was unstable and dangerous. Still correct. Brynn read out work zones while runners marked withdrawal routes with cloth. "Lower drainage first. Washout team stages here. Second break gets materials but no work until the lip is secured." A foreman unfolded Kellan's notes across a cart board. He looked at the ground. "Kellan was right about the water."
 
 Another worker crouched beside the ditch. "He was optimistic about the roots." Fair. Tavian walked the road center slowly, watching both surface and edges. "Leave the center wide." A worker looked up from his axe. "It's brush."
 
@@ -26,7 +18,7 @@ Another worker crouched beside the ditch. "He was optimistic about the roots." F
 
 "And teach them to spill around the sides when the center closes."
 
-The worker widened the planned cut. Nobody argued with Tavian twice. Brynn came over while Red unloaded stone. "Guild shipment is short."
+The worker widened the planned cut. Nobody argued with Tavian twice. Brynn came over while Rook unloaded stone. "Guild shipment is short."
 
 "How short?"
 
@@ -44,17 +36,9 @@ The worker widened the planned cut. Nobody argued with Tavian twice. Brynn came 
 
 "No. He told us yesterday what the road would need. We can think without him."
 
-Also fair. Soon Broken North filled with overlapping work. Militia cleared space. Homesteaders cut roots. Guild workers argued over drainage angles. Tavian preserved the future movement corridor.
+Also fair. Soon Broken North filled with overlapping work. Militia cleared space. Homesteaders cut roots. Guild workers argued over drainage angles. Tavian preserved the future movement corridor. Brynn kept people off exposed ground. Rook moved whatever somebody pointed at. No manifestation. Just work. The drainage below the watch point had collapsed inward years ago. Mud, stone, roots, and dead branches had turned the ditch into a wall that pushed water under the road instead of away. Kellan's note was simple. Water before weight. They dug. Mud came out in heavy clumps. Rook carried stone baskets until the ditch finally started moving water again. Not repaired.
 
-Brynn kept people off exposed ground. Red moved whatever somebody pointed at. No manifestation. Just work. The drainage below the watch point had collapsed inward years ago. Mud, stone, roots, and dead branches had turned the ditch into a wall that pushed water under the road instead of away.
-
-Kellan's note was simple. Water before weight. They dug. Mud came out in heavy clumps. Red carried stone baskets until the ditch finally started moving water again. Not repaired.
-
-Open. Enough. Then the washout. Red knew the cracked lip. He had held it once with impossible support while ridge-hounds made the experience unnecessarily interactive. The road had not improved.
-
-If anything, one section had settled farther. The foreman checked Kellan's notes. Then the ground. "Brace point is still usable."
-
-Tavian said, "Temporary support only." The foreman looked at him. "I know what temporary means."
+Open. Enough. Then the washout. Rook knew the cracked lip. He had held it once with impossible support while ridge-hounds made the experience unnecessarily interactive. The road had not improved. If anything, one section had settled farther. The foreman checked Kellan's notes. Then the ground. "Brace point is still usable." Tavian said, "Temporary support only." The foreman looked at him. "I know what temporary means."
 
 Then him. "Do you?"
 
@@ -72,15 +56,9 @@ He pointed beneath the cracked shelf. "I need support there. Not wider. Not high
 
 "Pretty does not hold stone better."
 
-No answer to that. Red looked at the gap. He could have replaced the whole roadbed.
+No answer to that. Rook looked at the gap. He could have replaced the whole roadbed. That was not the job. The job was letting ordinary engineering become the thing that remained after Rook left. A pale-grey brace appeared beneath the lip exactly where the foreman marked. Short. Wide. Functional. Workers moved immediately. Two timbers went beside it. Stone. Packed aggregate. Rope lines kept people away from the drop. Rook held the impossible support exactly where it belonged.
 
-That was not the job. The job was letting ordinary engineering become the thing that remained after Red left. A pale-grey brace appeared beneath the lip exactly where the foreman marked.
-
-Short. Wide. Functional. Workers moved immediately. Two timbers went beside it. Stone. Packed aggregate. Rope lines kept people away from the drop. Red held the impossible support exactly where it belonged.
-
-That part was easy. Not interfering with people who understood roads was harder. The foreman watched the physical brace take load. "Transfer."
-
-Workers eased weight into timber and stone. The shelf settled. Then stopped. "Again." More load. Still held. "Release yours." Red looked at him. "You sure?"
+That part was easy. Not interfering with people who understood roads was harder. The foreman watched the physical brace take load. "Transfer." Workers eased weight into timber and stone. The shelf settled. Then stopped. "Again." More load. Still held. "Release yours." Rook looked at him. "You sure?"
 
 "Yes."
 
@@ -88,11 +66,7 @@ Workers eased weight into timber and stone. The shelf settled. Then stopped. "Ag
 
 "It is more trust than I have in your face right now."
 
-Red released the manifestation. The pale-grey support folded away. Timber remained. Stone remained. Road remained. No magic under it. Good. The next break was farther north. Not as deep.
-
-More irritating. A drainage cut had eaten one side of the roadbed until workers could cross one at a time, but materials could not. The foreman looked at the gap. "We need planks across long enough to fill from both sides."
-
-A worker pointed at him. "He can make the temporary bit." Red looked at him. "Good to know I have become equipment."
+Rook released the manifestation. The pale-grey support folded away. Timber remained. Stone remained. Road remained. No magic under it. Good. The next break was farther north. Not as deep. More irritating. A drainage cut had eaten one side of the roadbed until workers could cross one at a time, but materials could not. The foreman looked at the gap. "We need planks across long enough to fill from both sides." A worker pointed at him. "He can make the temporary bit." Rook looked at him. "Good to know I have become equipment."
 
 "Equipment gets maintained."
 
@@ -108,37 +82,21 @@ Dangerous direction. Tavian came over. "Short."
 
 "I know."
 
-The foreman said, "Ramp." "Fine." Red pictured exactly that. A short rough ramp settled across the break. Workers crossed with planks first. Then stone baskets.
-
-Then fill. The ramp stayed. No wobble. Boring. Dependable. Exactly what the foreman needed. When the permanent footing began carrying load, the foreman called: "Drop it."
+The foreman said, "Ramp." "Fine." Rook pictured exactly that. A short rough ramp settled across the break. Workers crossed with planks first. Then stone baskets. Then fill. The ramp stayed. No wobble. Boring. Dependable. Exactly what the foreman needed. When the permanent footing began carrying load, the foreman called: "Drop it."
 
 "There is one more basket."
 
 "The physical footing carries now."
 
-That was the point. Red released the ramp. A worker carried the last basket across the new planks by hand.
+That was the point. Rook released the ramp. A worker carried the last basket across the new planks by hand. Civilization survived. Tavian stopped beside fresh tracks farther north. "Brynn." She came over. "What?" He pointed toward the trees. "Prey line crossed here. Very recent." A call sounded down the corridor. High. Short. Another answered behind it. Workers looked up. Tavian stood. "Clear tools from the center." Brynn raised her voice. "Crews off the road. Militia to marked edges." The forest moved before the last wheelbarrow cleared. Three browsing animals broke through the brush. Smaller than the backflow herd.
 
-Civilization survived. Tavian stopped beside fresh tracks farther north. "Brynn." She came over. "What?" He pointed toward the trees. "Prey line crossed here. Very recent."
-
-A call sounded down the corridor. High. Short. Another answered behind it. Workers looked up. Tavian stood. "Clear tools from the center." Brynn raised her voice. "Crews off the road. Militia to marked edges." The forest moved before the last wheelbarrow cleared. Three browsing animals broke through the brush. Smaller than the backflow herd.
-
-Still large enough to turn workers into problems. Tavian watched direction. "Do not push them east."
-
-A militia guard shifted. "Why?"
+Still large enough to turn workers into problems. Tavian watched direction. "Do not push them east." A militia guard shifted. "Why?"
 
 "Farm connector."
 
-The guard moved back. The animals continued north. Then ridge-hound calls came closer. "They're following," Tavian said.
+The guard moved back. The animals continued north. Then ridge-hound calls came closer. "They're following," Tavian said. Brynn drew her sword. "Workers behind retaining line." Militia spread along the edge. No charge. No pursuit. Boundary. The first ridge-hound came low and fast. A spear point turned it away from workers. The second appeared left. Tavian shouted. "Leave center open." Brynn repeated it. The militia gave ground. One worker tripped over cut roots. Another went back for him.
 
-Brynn drew her sword. "Workers behind retaining line." Militia spread along the edge. No charge. No pursuit. Boundary. The first ridge-hound came low and fast. A spear point turned it away from workers. The second appeared left.
-
-Tavian shouted. "Leave center open." Brynn repeated it. The militia gave ground. One worker tripped over cut roots. Another went back for him.
-
-A third hound came from the side. Wrong angle. Straight toward them. Red moved. Tavian wanted the hounds following prey north, not fighting beside crews. So he gave the bad angle a worse option.
-
-A low pale barrier appeared across the side cut. The hound hit it, checked, and chose the open road instead. The workers cleared.
-
-The hounds followed prey north. Red released the barrier. No fourth manifestation followed. Not because there was a ceiling. Because there was no fourth problem that needed impossible help. Tavian watched the tree line until the calls moved farther away.
+A third hound came from the side. Wrong angle. Straight toward them. Rook moved. Tavian wanted the hounds following prey north, not fighting beside crews. So he gave the bad angle a worse option. A low pale barrier appeared across the side cut. The hound hit it, checked, and chose the open road instead. The workers cleared. The hounds followed prey north. Rook released the barrier. No fourth manifestation followed. Not because there was a ceiling. Because there was no fourth problem that needed impossible help. Tavian watched the tree line until the calls moved farther away.
 
 Then lowered his blade. Nobody cheered. A worker went back for tools. Another checked the footing. Brynn looked at him. "Done improvising?"
 
@@ -148,29 +106,19 @@ Then lowered his blade. Nobody cheered. A worker went back for tools. Another ch
 
 "Yes."
 
-She pointed at the road. "Good. They need hands." So Red went back to carrying things. Late afternoon made Broken North look almost worse. Fresh cuts in brush.
-
-Mud everywhere. Timber braces under old stone. Rough planks over washed ground. New earth against ancient edges. A reclaimed timber barrier redirecting one dangerous side opening. Ugly.
-
-Kellan would approve. Tavian and Red walked the corridor. Brynn followed with runners. At the lower drainage, water still moved through the reopened cut. At the washout, permanent support held without his brace. The foreman stepped onto the repaired lip. "Still settling."
+She pointed at the road. "Good. They need hands." So Rook went back to carrying things. Late afternoon made Broken North look almost worse. Fresh cuts in brush. Mud everywhere. Timber braces under old stone. Rough planks over washed ground. New earth against ancient edges. A reclaimed timber barrier redirecting one dangerous side opening. Ugly. Kellan would approve. Tavian and Rook walked the corridor. Brynn followed with runners. At the lower drainage, water still moved through the reopened cut. At the washout, permanent support held without his brace. The foreman stepped onto the repaired lip. "Still settling."
 
 "Too much?" Tavian asked.
 
 "Not yet."
 
-Useful, not comforting. At the second gap, planks and fill held their weight. Not a cart.
-
-Not a caravan. them. Farther north, brush had been cleared enough that the old route no longer disappeared into roots.
-
-One connector was visible again. Another rough but passable. The third had enough room if nothing panicked at exactly the wrong point.
+Useful, not comforting. At the second gap, planks and fill held their weight. Not a cart. Not a caravan. them. Farther north, brush had been cleared enough that the old route no longer disappeared into roots. One connector was visible again. Another rough but passable. The third had enough room if nothing panicked at exactly the wrong point.
 
 Large condition. Tavian stopped near the old watch point. Looked south. Then north. Then side cuts. Brynn waited. "Well?"
 
 "Not safe."
 
-Nobody expected safe. "Not stable." The foreman nodded. "Not finished." Obvious. "But continuous." Brynn's shoulders lowered slightly. "Enough?" Tavian took time. "Enough to attempt redirection." That was the win. The road still looked terrible. Workers stood in mud. His clothes had lost a war with earth.
-
-Broken North went somewhere again. Brynn looked toward the far connector. "What else?"
+Nobody expected safe. "Not stable." The foreman nodded. "Not finished." Obvious. "But continuous." Brynn's shoulders lowered slightly. "Enough?" Tavian took time. "Enough to attempt redirection." That was the win. The road still looked terrible. Workers stood in mud. His clothes had lost a war with earth. Broken North went somewhere again. Brynn looked toward the far connector. "What else?"
 
 "Timing."
 
@@ -180,6 +128,4 @@ Tavian pointed south. "If known lures pressure populated routes too early, movem
 
 "It reaches farms and lower approaches first."
 
-Brynn nodded. "So road ready?" Tavian looked at her. "Barely." Red looked at the timber supports, rough footing, reopened drainage, and the corridor people had forced back into existence. They had built something real. Now came the part he disliked.
-
-Making animals choose it. Tavian looked toward Greywake. "The lure sequence." Of course. They had built the wrong road. Now they had to make the migration choose it.
+Brynn nodded. "So road ready?" Tavian looked at her. "Barely." Rook looked at the timber supports, rough footing, reopened drainage, and the corridor people had forced back into existence. They had built something real. Now came the part he disliked. Making animals choose it. Tavian looked toward Greywake. "The lure sequence." Of course. They had built the wrong road. Now they had to make the migration choose it.

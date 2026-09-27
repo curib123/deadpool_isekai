@@ -3,11 +3,7 @@
 **Status:** CANON RESET — DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY  
 **Revision Date:** 2026-09-27
 
-Sela changed Rook's bandage without asking permission.
-
-Rook considered objecting.
-
-Then she pulled the old wrap away from his shoulder and the wound reminded him that personal freedom had practical limits.
+Sela changed Rook's bandage without asking permission. Rook considered objecting. Then she pulled the old wrap away from his shoulder and the wound reminded him that personal freedom had practical limits.
 
 "Still hurts?" she asked.
 
@@ -21,9 +17,7 @@ Then she pulled the old wrap away from his shoulder and the wound reminded him t
 
 Fair.
 
-Across the treatment room, Kellan sat near the window with one leg still splinted. Someone had given him route sketches and apparently decided this counted as rest.
-
-He lifted one page.
+Across the treatment room, Kellan sat near the window with one leg still splinted. Someone had given him route sketches and apparently decided this counted as rest. He lifted one page.
 
 "They moved the northern repair priority."
 
@@ -35,21 +29,13 @@ High praise.
 
 Rook's own injuries were healing normally. Slowly enough to be annoying, quickly enough that Sela no longer threatened to keep him under observation.
 
-Kellan would take longer.
+Kellan would take longer. The road worker from the predator attack would take longer still. Luck had never changed that.
 
-The road worker from the predator attack would take longer still.
-
-Luck had never changed that.
-
-It had only kept Rook from becoming the worst patient in the room.
-
-Kellan set the map down.
+It had only kept Rook from becoming the worst patient in the room. Kellan set the map down.
 
 "You leaving?"
 
-Sela looked at Rook before he answered.
-
-Treatment-house intelligence remained superior to militia intelligence.
+Sela looked at Rook before he answered. Treatment-house intelligence remained superior to militia intelligence.
 
 "I was considering it."
 
@@ -63,9 +49,7 @@ Kellan looked at Sela.
 
 "Correct."
 
-Rook accepted the defeat.
-
-Kellan looked toward the road outside.
+Rook accepted the defeat. Kellan looked toward the road outside.
 
 "You stayed when the herd came."
 
@@ -77,9 +61,7 @@ Not a question.
 
 "Road was crowded."
 
-Kellan stared.
-
-Rook sighed.
+Kellan stared. Rook sighed.
 
 "Fine. I stayed."
 
@@ -87,11 +69,7 @@ Kellan nodded once.
 
 "That counts."
 
-No speech followed.
-
-Good.
-
-Sela handed Rook a wrapped packet of clean bandages.
+No speech followed. Good. Sela handed Rook a wrapped packet of clean bandages.
 
 "I'm not taking those."
 
@@ -103,21 +81,11 @@ Sela handed Rook a wrapped packet of clean bandages.
 
 "That sounds like superstition."
 
-Sela looked at him.
-
-Rook took the bandages.
-
-Maelis was waiting in the records room.
-
-That had become normal enough to be dangerous.
+Sela looked at him. Rook took the bandages. Maelis was waiting in the records room. That had become normal enough to be dangerous.
 
 The tables held copied documents from the Ledger, militia, Guild, council, and outer-community submissions. Jessa worked at one end of the room, transferring route references into a new record set.
 
-Rook still could not read most of it.
-
-His administrative development remained nonexistent.
-
-Maelis placed a thin folder in front of him.
+Rook still could not read most of it. His administrative development remained nonexistent. Maelis placed a thin folder in front of him.
 
 "This one is about you."
 
@@ -133,39 +101,17 @@ Rook did not touch it.
 
 "That was not my concern."
 
-Maelis opened the folder.
+Maelis opened the folder. Inside were timelines. Not magic diagrams.
 
-Inside were timelines.
+Not System readouts. Times. Places.
 
-Not magic diagrams.
+Witness statements. Road conditions. Equipment failures.
 
-Not System readouts.
+Accidents. Rook recognized the dates. Forest arrival.
 
-Times.
+Bridge repair. Predator attack. Broken North.
 
-Places.
-
-Witness statements.
-
-Road conditions.
-
-Equipment failures.
-
-Accidents.
-
-Rook recognized the dates.
-
-Forest arrival.
-
-Bridge repair.
-
-Predator attack.
-
-Broken North.
-
-The herd.
-
-He looked at Maelis.
+The herd. He looked at Maelis.
 
 "You made a coincidence ledger."
 
@@ -173,13 +119,7 @@ He looked at Maelis.
 
 "That is a coincidence ledger with professional self-esteem."
 
-She ignored that.
-
-Jessa did not.
-
-Her mouth twitched.
-
-Maelis tapped the first page.
+She ignored that. Jessa did not. Her mouth twitched. Maelis tapped the first page.
 
 "One unusual event is noise."
 
@@ -197,9 +137,7 @@ Rook looked at the folder.
 
 "I do not know."
 
-Useful answer.
-
-Maelis continued.
+Useful answer. Maelis continued.
 
 "I cannot prove a mechanism."
 
@@ -213,9 +151,7 @@ Rook leaned back.
 
 "My official conclusion is that chance behaves abnormally around your involvement."
 
-That sounded worse.
-
-Rook looked toward Jessa.
+That sounded worse. Rook looked toward Jessa.
 
 "See why I wanted it burned?"
 
@@ -223,9 +159,7 @@ She kept writing.
 
 "No."
 
-Traitor.
-
-Maelis closed the folder.
+Traitor. Maelis closed the folder.
 
 "The important part is what I cannot conclude."
 
@@ -245,15 +179,11 @@ Better.
 
 "I cannot conclude that every event attributed to you was caused by the anomaly."
 
-Important.
-
-Rook looked at her more carefully.
+Important. Rook looked at her more carefully.
 
 "What are people saying?"
 
-Maelis did not answer immediately.
-
-That was usually bad.
+Maelis did not answer immediately. That was usually bad.
 
 "Which people?"
 
@@ -307,25 +237,13 @@ Rook relaxed slightly.
 
 "He thinks the number of field coincidences is no longer normal."
 
-Rook stopped relaxing.
+Rook stopped relaxing. Of course. Brynn found him outside the records building.
 
-Of course.
-
-Brynn found him outside the records building.
-
-Greywake looked different after the crisis.
-
-Not rebuilt.
-
-Not healed.
-
-Working.
+Greywake looked different after the crisis. Not rebuilt. Not healed. Working.
 
 Crews moved timber through the road yard. Militia changed shift at the gate. Traders argued about delayed routes. The settlement had survived and immediately returned to complaining.
 
-Healthy sign.
-
-Brynn walked beside him.
+Healthy sign. Brynn walked beside him.
 
 "You leaving?"
 
@@ -337,23 +255,13 @@ Brynn walked beside him.
 
 "Clerks."
 
-More dangerous.
+More dangerous. They reached the gate. Rook looked back at Greywake.
 
-They reached the gate.
-
-Rook looked back at Greywake.
-
-He knew more people here than he had intended.
-
-That was how places became inconvenient.
-
-Brynn rested one hand on the wall rail.
+He knew more people here than he had intended. That was how places became inconvenient. Brynn rested one hand on the wall rail.
 
 "Greywake could use you."
 
-Rook looked at her.
-
-She continued before he could answer.
+Rook looked at her. She continued before he could answer.
 
 "That is not an order."
 
@@ -389,13 +297,7 @@ Rook glanced at her.
 
 "That leaving before anyone can expect anything from you is freedom."
 
-That was uncomfortably close to a real conversation.
-
-Rook looked toward the road.
-
-Merrowgate lay far beyond Greywake, connected by trade routes and enough distance to make local rumors somebody else's problem.
-
-For a while.
+That was uncomfortably close to a real conversation. Rook looked toward the road. Merrowgate lay far beyond Greywake, connected by trade routes and enough distance to make local rumors somebody else's problem. For a while.
 
 "Maybe I just like ports."
 
@@ -403,17 +305,9 @@ For a while.
 
 "Then the relationship is still healthy."
 
-Brynn let that pass.
+Brynn let that pass. A group of workers moved through the gate carrying repaired marker posts. One of them recognized Rook.
 
-A group of workers moved through the gate carrying repaired marker posts.
-
-One of them recognized Rook.
-
-He whispered something to the man beside him.
-
-The second man immediately looked away when Rook noticed.
-
-Rook sighed.
+He whispered something to the man beside him. The second man immediately looked away when Rook noticed. Rook sighed.
 
 "See?"
 
@@ -427,33 +321,17 @@ Brynn looked amused now.
 
 "That's becoming a theme."
 
-A wagon rolled past them.
+A wagon rolled past them. One rear latch came loose. A crate shifted.
 
-One rear latch came loose.
+Rook noticed and stepped aside. The crate fell exactly where he had been standing. It hit the ground, broke open, and spilled dried apples across the road.
 
-A crate shifted.
+Everyone nearby stopped. Rook stared at the apples. Brynn stared at Rook.
 
-Rook noticed and stepped aside.
-
-The crate fell exactly where he had been standing.
-
-It hit the ground, broke open, and spilled dried apples across the road.
-
-Everyone nearby stopped.
-
-Rook stared at the apples.
-
-Brynn stared at Rook.
-
-The wagon driver stared at both of them.
-
-Rook closed his eyes.
+The wagon driver stared at both of them. Rook closed his eyes.
 
 "No."
 
-Nobody had said anything.
-
-He opened them.
+Nobody had said anything. He opened them.
 
 "I saw the latch."
 
@@ -471,35 +349,17 @@ Brynn picked up one apple.
 
 "No. Rumors started twenty chapters ago."
 
-Rook looked at her.
-
-She handed him the apple.
+Rook looked at her. She handed him the apple.
 
 "Travel food."
 
-He took it.
+He took it. The driver climbed down, apologizing and collecting the scattered cargo. Rook bit into the apple.
 
-The driver climbed down, apologizing and collecting the scattered cargo.
+Normal. Good. He looked east.
 
-Rook bit into the apple.
+Maelis could call it abnormal probability. Tavian could call it an impossible field pattern. Greywake could call him a hidden master if it wanted.
 
-Normal.
-
-Good.
-
-He looked east.
-
-Maelis could call it abnormal probability.
-
-Tavian could call it an impossible field pattern.
-
-Greywake could call him a hidden master if it wanted.
-
-Rook had a simpler name for it.
-
-A problem that kept being useful.
-
-He adjusted his pack.
+Rook had a simpler name for it. A problem that kept being useful. He adjusted his pack.
 
 "Before they decide what I am," he said, "I should probably leave."
 
@@ -507,16 +367,8 @@ Brynn nodded.
 
 "Probably."
 
-Behind them, the wagon driver lifted the broken crate.
+Behind them, the wagon driver lifted the broken crate. Beneath it, wedged between two road stones, was an old stamped Guild token everyone had been trying to locate for the final evidence inventory. Brynn saw it.
 
-Beneath it, wedged between two road stones, was an old stamped Guild token everyone had been trying to locate for the final evidence inventory.
-
-Brynn saw it.
-
-Rook saw it.
-
-Neither moved for a moment.
-
-Then Rook pointed east.
+Rook saw it. Neither moved for a moment. Then Rook pointed east.
 
 "I am leaving faster."

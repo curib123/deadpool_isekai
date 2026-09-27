@@ -3,7 +3,7 @@
 **Title:** This Isekai Has a Bug. Unfortunately, It's Me.  
 **Author:** minuszeroo  
 **Genres:** Action • Adventure • Dark Fantasy • Comedy • Meta-Fiction • Isekai  
-**Status:** LOCKED FOUNDATION — SOUL-DRIFT / STORY-INTRUDER RETCON
+**Status:** LOCKED FOUNDATION — SOUL-DRIFT / LUCK-ONLY STORY-INTRUDER RETCON
 
 # 1. Core Premise
 
@@ -33,9 +33,9 @@ Locked outputs remain:
 
 Red does not begin weak.
 
-**He is overwhelmingly powerful from the beginning and remains fundamentally the same strength from start to end.**
+**He possesses one abnormal supernatural advantage from the beginning: Jackal Luck. Its strength does not progress.**
 
-The story uses revelation, restraint, comedy, interference, consequences, and increasingly ridiculous applications of the same already-present capability. It does not use power progression for Red.
+The story uses revelation, probability chains, comedy, interference, consequences, and increasingly absurd coincidences produced by the same already-present luck. Red does not gain additional powers, transformations, regeneration, reality manipulation, or a time-stop ability.
 
 # 2. Red Jackal Identity Law
 
@@ -97,50 +97,71 @@ Red Jackal's permanent reader-facing identity is:
 
 This law is inspired only by broad archetypal appeal. It does not authorize copying exact dialogue, characterization, scenes, costume language, lore or signature sequences from existing works.
 
-## 3A.1 Clueless Power
+## 3A.1 Clueless Luck
 
-Red knows that he can do impossible things.
+Red knows that bizarre things keep going his way.
 
-He does not know his real upper limit and does not particularly care to find it.
-
-He is not a power researcher.
+He does not begin the story knowing that this is a supernatural ability, and he does not become a power researcher.
 
 He is not chasing a rank.
 
 He is not training toward a final form.
 
-He may discover a practical behavior by accident and immediately treat it as normal.
+He tends to explain impossible-looking outcomes as:
+- good timing;
+- enemy stupidity;
+- his own improvisation;
+- the environment being convenient;
+- something he obviously planned after it already worked.
 
-The world is more interested in measuring Red than Red is interested in measuring himself.
+The world becomes more interested in the statistical impossibility around Red than Red is interested in explaining himself.
 
 ## 3A.2 Jackal Luck
 
-Red possesses a real passive probability-distortion ability called **Jackal Luck**.
+Red possesses exactly one supernatural ability: **Jackal Luck**.
 
-It bends:
+Jackal Luck is passive probability distortion centered on Red's causal presence.
+
+It can bend:
 - coincidence;
 - timing;
+- aim and near-misses;
 - ordinary chance;
-- who arrives at the wrong/right moment;
-- where an uncontrolled object lands;
-- which tiny failure matters;
-- which random choice becomes suspiciously useful.
+- enemy mistakes;
+- mechanical failures;
+- where uncontrolled objects land;
+- which small defect matters at the critical second;
+- who arrives at the wrong or right moment;
+- which mundane object happens to be available;
+- accidental discoveries;
+- social interruptions;
+- chains of individually possible events.
 
-Red does not consciously command exact outcomes.
+Jackal Luck does not create matter from nothing.
 
-He often behaves first and discovers afterward that reality has arranged an absurdly convenient detail around him.
+It does not stop time.
 
-Jackal Luck does not guarantee victory.
+It does not directly rewrite reality.
+
+It does not regenerate or resurrect Red.
+
+It does not let Red command an exact result on demand.
+
+Red can be cut, bruised, exhausted, poisoned, trapped, embarrassed, arrested, or otherwise harmed. Luck usually protects him by preventing a lethal sequence from resolving cleanly: a blade catches on a buckle, an attacker slips, a beam falls at the right angle, a mechanism jams, an ally arrives, or several ordinary accidents chain together.
+
+Jackal Luck does not guarantee a clean victory.
 
 It may:
 - save Red while creating a worse problem;
+- protect Red while someone else still suffers;
 - produce the funniest useful outcome instead of the safest one;
-- help only Red;
-- make witnesses believe he planned something he absolutely did not plan.
+- expose evidence he did not intend to find;
+- make witnesses believe he planned something he absolutely did not plan;
+- turn a reckless choice into a tactical opening that competent allies still have to exploit.
 
 It is not direct control over Fate.
 
-It is Red's own anomaly bending probability around his causal presence.
+It is Red's anomaly bending probability around events in which he is causally involved.
 
 ## 3A.3 Accidental Legend / Misinterpretation Law
 
@@ -192,90 +213,67 @@ A heroic result may happen around him without turning his motive heroic.
 
 # 4. Overpowered Role-Player Law
 
-Red enjoys playing with enemies.
+Red enjoys playing with enemies even though his only supernatural power is luck.
 
 He may:
 - pretend to be weaker;
-- allow an attack to land;
-- let an enemy finish a transformation or speech;
-- imitate the enemy's style;
-- invent a stupidly specific counter;
+- let an enemy commit to a dramatic attack;
+- allow speeches and transformations because he finds them entertaining;
 - fake fear;
-- fake injury;
-- stage an entrance;
-- disappear only to reappear somewhere more dramatic;
-- use an absurd prop when a simple attack would work;
-- deliberately fight at the enemy's apparent level;
-- hold back because instant victory would be boring;
+- fake certainty;
+- stage an entrance using ordinary props and timing;
+- bluff that a coincidence was intentional;
+- deliberately choose the risky-looking route;
 - aura farm because he likes the mood;
-- end the encounter instantly when the game stops being fun.
+- claim a lucky outcome was part of the plan;
+- walk away from an opponent because he expects the situation to become funnier.
 
-When Red becomes serious, there is **no transformation and no power-up**.
+Red is not physically omnipotent.
 
-The frightening reveal is that he was always capable of ending it.
+His frightening reputation comes from repeated impossible-looking survival, absurd timing, shameless confidence, and the fact that probability keeps arranging openings around him.
+
+When Red becomes serious, there is no transformation and no power-up.
+
+The tonal shift comes from him stopping the performance, using the opening luck already gave him, and making a decisive ordinary choice.
 
 # 5. Power Identity
 
-Red's three signature anomaly expressions share the Soul-Drift root:
+Red has **one supernatural power only**.
 
-## 5.1 Play Logic
-Imagination-driven reality manipulation with no known intrinsic ceiling.
+## 5.1 Jackal Luck
 
-Its expressions may include:
-- impossible props;
-- cartoon-like physics;
-- transformations;
-- spatial jokes;
-- visual gags;
-- symbolic effects;
-- absurd weapons;
-- environment edits;
-- conceptual interactions;
-- automatic body restoration;
-- impossible survival;
-- reconstitution toward Red's persistent self-concept.
+Jackal Luck is passive probability distortion.
 
-**Body restoration is not a separate regeneration power.**
+It makes unlikely but causally possible outcomes cluster around Red whenever he is meaningfully involved in an event.
 
-When Red's body repairs impossible damage, Play Logic is forcing reality back toward the version of Red his foreign self-model accepts as himself.
+Valid expressions include:
+- a lethal strike missing by centimeters because footing shifts;
+- a weapon breaking at the worst possible moment for its owner;
+- debris falling into exactly the useful position;
+- an enemy hitting another enemy;
+- the correct witness arriving during a misunderstanding;
+- Red choosing the wrong road and accidentally finding the real target;
+- a mundane object becoming useful because it happens to be present;
+- a chain of small coincidences creating an opening no one could reasonably plan.
 
-Pain, blood and temporary injury can still happen.
+Invalid expressions include:
+- conjuring an object from nothing;
+- direct reality editing;
+- cartoon physics as literal magic;
+- transformation;
+- teleportation without a normal cause;
+- conceptual attacks;
+- supernatural regeneration;
+- resurrection;
+- stopping time;
+- commanding Fate;
+- consciously selecting an exact lucky result.
 
-Other people and external consequences do not rewind.
+Red may still speak toward the reader or behave as though an audience exists. That is a **narrative/personality device**, not a supernatural ability, and Veyran time does not freeze when he does it.
 
-## 5.2 Jackal Luck
-Passive probability distortion.
+Pain, blood, injury, and recovery follow ordinary bodily rules unless a normal in-world treatment or previously established biological rule applies.
 
-Jackal Luck makes the possible become suspiciously convenient around Red.
-
-It can affect:
-- coincidence;
-- timing;
-- random choices;
-- ordinary mechanical failures;
-- accidental discoveries;
-- social interruptions;
-- where uncontrolled events happen to land.
-
-Red cannot reliably order a specific lucky result.
-
-It is strongest as a story/comedy engine when he improvises and the world appears to support the performance afterward.
-
-Jackal Luck is not guaranteed victory and is not direct Fate control.
-
-## 5.3 Fourth-Wall Pause
-Whenever Red genuinely breaks the fourth wall to address the reader/audience, local Veyran time stops.
-
-During the pause:
-- motion freezes;
-- sound from Veyr stops;
-- attacks stop in place;
-- native characters do not perceive elapsed time;
-- Red may speak directly to the audience, comment on genre logic, mock the scene, think out loud, or reframe what is happening.
-
-The pause is not a power-up and the audience is not his power source.
-
-Default presentation rule: Red normally returns to the exact causal instant he left. Physical changes to Veyr happen after he resumes unless an explicitly approved Play Logic gag combines with the pause.
+Luck can prevent or reduce harm through circumstance. It cannot erase an injury after the injury has already happened.
 
 # 6. Native Story / Story-Intruder Law
 
@@ -387,10 +385,11 @@ This section is authoritative wherever older language is ambiguous.
 - He may dominate presentation, attention, aura, and local perception without erasing the original causal objective.
 - His interference must reroute later beats rather than delete continuity.
 - His core personality has no conventional development arc.
-- His raw anomaly power has no progression arc.
+- Jackal Luck has no progression arc; only Red's and the world's understanding of its statistical pattern changes.
 - Soul Drift remains a natural phenomenon, not a chooser or god.
-- Fourth-Wall Pause freezes Veyran time during genuine audience address.
-- Play Logic, Jackal Luck, and Fourth-Wall Pause are available from the beginning; impossible body restoration is a Play Logic expression.
+- Red has exactly one supernatural power: Jackal Luck.
+- Fourth-wall/meta address remains a voice device only; time continues normally.
+- Play Logic, supernatural regeneration/body restoration, and Fourth-Wall Pause are removed from current canon.
 - Geography, world map, locked destination order, Greywake pacing spine, and Merrowgate pacing spine remain preserved.
 - Unexpected situations must be earned from Red's personality and must leave consequences.
 
@@ -455,9 +454,9 @@ Possible battle topology includes:
 
 Topology must come from the situation, not from a quota.
 
-Red may be physically capable of ending an ordinary opponent immediately. Battle tension therefore comes from what he chooses to do, what he does not know, what else is happening at the same time, and what an instant solution would damage or reroute.
+Red may look untouchable because probability repeatedly creates openings around him, but he still needs ordinary movement, tools, allies, terrain, judgment, or enemy mistakes to convert those openings into outcomes. Battle tension comes from what luck does not protect, what Red does not know, simultaneous objectives, and the consequences created by the lucky chain.
 
-A serious Red battle beat means **restraint dropping**, never a new power stage.
+A serious Red battle beat means **the performance drops and he acts decisively inside the opening**, never a new power stage.
 
 # 12A. Web-Novel Prose Law
 
@@ -491,7 +490,7 @@ Red's personality should be shown primarily through:
 
 The narrator must not constantly explain Red.
 
-Fourth-Wall Pause remains an exception: when Red genuinely addresses the external audience, he may speak directly to the reader while Veyran time freezes.
+Red may directly address the external audience as a meta-comedic voice device, but Veyran time continues normally and no tactical advantage is created by the address.
 
 The prose must remain:
 - mobile-readable;

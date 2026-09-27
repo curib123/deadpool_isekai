@@ -818,27 +818,30 @@ The contrast should come from behavior, not narrator announcements.
 
 ## 2.12 Storytelling Voice — LOCKED SERIES STANDARD
 
-The series uses **close first-person limited narrated by Red Jackal**.
+The series uses **distant third-person limited focused on Red Jackal**.
 
-Narration uses I/me/my and remains inside what Red can perceive, infer, misremember, misunderstand, or choose to tell.
+Narration uses Red/he/him/his and remains limited to what can be established through Red's scene, observable behavior, established facts, and selective Red thought.
 
 The voice is:
 - simple;
 - natural;
 - cinematic;
-- shameless;
-- self-amused;
-- meta-aware;
-- conversational;
-- capable of direct reader address;
-- capable of abrupt seriousness.
+- visually clear;
+- more neutral than Red's dialogue;
+- capable of brief selective internal thought;
+- capable of reader-facing meta asides without becoming first-person narration.
 
-Red's narration may be unreliable about:
-- whether something was intentional;
-- whether he is afraid;
-- whether somebody is impressed;
-- how much he remembers;
-- why he chose to interfere.
+Red's personality should come primarily through:
+- dialogue;
+- choices;
+- posture;
+- timing;
+- shameless bluffing;
+- visible reactions;
+- brief internal thoughts when necessary;
+- reader-address/meta behavior used selectively.
+
+The narrator must not head-hop into other characters or explain protected truths that Red cannot know.
 
 The physical scene must remain clear even when Red is joking.
 

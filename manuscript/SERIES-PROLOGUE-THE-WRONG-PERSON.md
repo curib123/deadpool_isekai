@@ -16,13 +16,7 @@ I tried to remember my name. The answer came back as a hallway with every door c
 
 None of them included useful instructions. There should have been a voice. There should have been a glowing window.
 
-There should have been a polite figure explaining that I had died because of an unusually dramatic accident and would now receive a second life, three starting gifts, and a suspiciously specific mission involving a demon king.
-
-Nothing appeared.
-
-I waited.
-
-The white continued.
+There should have been a polite figure explaining that I had died because of an unusually dramatic accident and would now receive a second life, three starting gifts, and a suspiciously specific mission involving a demon king. Nothing appeared. I waited. The white continued.
 
 “Hello?”
 
@@ -34,17 +28,11 @@ Somewhere beyond the white, a piece of reality held still. A fragment of heat. A
 
 “If this is the dramatic pause before the tutorial, I would like to register a complaint.”
 
-Nothing answered.
-
-The frozen heat resumed.
-
-So that was new.
+Nothing answered. The frozen heat resumed. So that was new.
 
 The memory of dying remained. The memory of everything before dying did not. I reached for a face and found a blur. I reached for a home and found a locked door. I reached for the person I had been and felt something inside me slip away before I could hold it. Whatever had crossed the distance between one moment and the next, it had not brought me over intact.
 
-I was not sure whether that counted as a tragedy. It was difficult to mourn a person whose name would not stay in my head.
-
-The white thinned.
+I was not sure whether that counted as a tragedy. It was difficult to mourn a person whose name would not stay in my head. The white thinned.
 
 Cold arrived first. Then damp earth. Then the weight of leaves above me. I felt my fingers. My ribs. My teeth. My face. Everything seemed to be attached, which placed the morning above average. Somewhere nearby, something with too many legs moved through a root system.
 

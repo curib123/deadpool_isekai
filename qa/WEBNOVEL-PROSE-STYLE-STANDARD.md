@@ -9,16 +9,16 @@ This standard checks whether a chapter reads like modern distant third-person se
 # 1. POV Distance
 
 PASS when:
-- narration uses Red / he / him / his;
-- the narrator remains outside Red rather than continuously speaking as Red;
-- the scene stays limited to information Red could reasonably encounter plus established external facts;
+- narration uses Rook / he / him / his;
+- the narrator remains outside Rook rather than continuously speaking as Rook;
+- the scene stays limited to information Rook could reasonably encounter plus established external facts;
 - other characters' private thoughts are not entered;
-- Red's internal thoughts are selective and brief.
+- Rook's internal thoughts are selective and brief.
 
 FAIL when:
 - narration uses first-person I / me / my outside dialogue, quoted thought, or a deliberately formatted reader-address aside;
 - the narrator head-hops;
-- every paragraph is filtered through Red's immediate thoughts;
+- every paragraph is filtered through Rook's immediate thoughts;
 - the narrator reveals protected truth nobody in the scene can know.
 
 # 2. Narration / Dialogue / Thought Mix
@@ -26,7 +26,7 @@ FAIL when:
 Flexible target:
 - **55–70%** distant narration/action;
 - **25–40%** dialogue;
-- **0–10%** direct Red thought.
+- **0–10%** direct Rook thought.
 
 Not a quota.
 
@@ -37,16 +37,16 @@ PASS when the mix fits the scene.
 Dialogue must:
 - sound character-specific;
 - create friction, humor, information, pressure, or change;
-- carry much of Red's personality externally;
+- carry much of Rook's personality externally;
 - avoid repeating what narration already explained.
 
 # 4. Internal Thought
 
-Red's thought access should be selective.
+Rook's thought access should be selective.
 
 Preferred:
 
-Red watched the locked gate.
+Rook watched the locked gate.
 
 *Could break it.*
 
@@ -55,22 +55,22 @@ He knocked instead.
 Avoid:
 - paragraphs of internal monologue;
 - constant italic thoughts;
-- explaining every motive before Red acts;
+- explaining every motive before Rook acts;
 - first-person thought-stream narration disguised as third person.
 
 # 5. Narrative Neutrality
 
-The narrator may have style and rhythm, but should be more neutral than Red.
+The narrator may have style and rhythm, but should be more neutral than Rook.
 
 Preferred:
 
 The room was small and overfilled with shelves.
 
-Red looked around once.
+Rook looked around once.
 
 "Paperwork won."
 
-Avoid turning every descriptive sentence into a Red joke.
+Avoid turning every descriptive sentence into a Rook joke.
 
 # 6. Paragraph Rhythm
 
@@ -128,9 +128,9 @@ Combat must preserve:
 
 Do not hide action inside internal commentary.
 
-# 10. Red Jackal Character Test
+# 10. Rook Vane Character Test
 
-Even with distant narration, Red must still feel like Red through:
+Even with distant narration, Rook must still feel like Rook through:
 - dialogue;
 - choices;
 - timing;
@@ -145,22 +145,22 @@ If removing internal monologue makes him generic, the scene needs stronger dialo
 
 Normal narration is third-person.
 
-Red may directly address the reader as a deliberate meta-comedic device.
+Rook may directly address the reader as a deliberate meta-comedic device.
 
 During a reader-address beat:
 - Veyran time continues normally;
 - no tactical pause is created;
-- first-person speech is allowed because Red is speaking;
+- first-person speech is allowed because Rook is speaking;
 - narration returns immediately to distant third-person;
-- nearby characters may notice if Red physically speaks aloud.
+- nearby characters may notice if Rook physically speaks aloud.
 
 # 12. Final Gate
 
 Before Gate 9 PASS, answer:
 
 1. Is narration predominantly third-person?
-2. Does the narrator remain outside Red's constant thought-stream?
-3. Are Red's thoughts selective?
+2. Does the narrator remain outside Rook's constant thought-stream?
+3. Are Rook's thoughts selective?
 4. Does dialogue carry personality?
 5. Are other characters distinguishable?
 6. Is mobile readability strong?
@@ -168,7 +168,7 @@ Before Gate 9 PASS, answer:
 8. Is action geography readable?
 9. Does the narrator avoid head-hopping?
 10. Is reader address clearly separated without implying time stop?
-11. Does Red remain recognizable without continuous inner monologue?
+11. Does Rook remain recognizable without continuous inner monologue?
 12. Does the chapter end with forward pull?
 13. Are one-sentence narration paragraphs selective rather than the dominant layout?
 

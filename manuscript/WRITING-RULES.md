@@ -1,7 +1,7 @@
 # Manuscript Writing Rules
 
 **Owners:** A090-A097  
-**Status:** LOCKED SERIES STANDARD — DISTANT THIRD-PERSON LIMITED / CINEMATIC WEB-NOVEL ENGLISH / FOURTH-WALL PAUSE
+**Status:** LOCKED SERIES STANDARD — DISTANT THIRD-PERSON LIMITED / CINEMATIC WEB-NOVEL ENGLISH / LUCK-ONLY RED JACKAL
 
 # 1. POV — Distant Third-Person Limited
 
@@ -25,7 +25,7 @@ The narrator may describe:
 - limited Red thoughts when they materially improve the scene.
 
 Do not use:
-- first-person I / me / my narration outside direct speech or Fourth-Wall address;
+- first-person I / me / my narration outside direct speech or a deliberately formatted reader-address aside;
 - head-hopping into other characters;
 - omniscient disclosure of protected truth;
 - constant explanation of Red's private motives;
@@ -296,7 +296,7 @@ His reader-facing voice must still be unmistakable through:
 - body language;
 - timing;
 - theatrical choices;
-- fourth-wall addresses.
+- reader-address/meta asides.
 
 Red is:
 - shameless;
@@ -323,7 +323,7 @@ Do not write a moral-development arc into his voice.
 
 Red's reader-facing personality must consistently preserve this original four-part engine:
 
-- **elastic reality comedy** — reality can become absurd around his choices;
+- **probability comedy** — ordinary reality becomes absurd because coincidence keeps aligning around his choices;
 - **meta-irritant energy** — he mocks danger, genre logic, pain and dramatic expectations;
 - **effortless dark coolness** — he can look like he planned everything even when he did not;
 - **misinterpretation aura** — other people repeatedly assign genius, menace, prophecy, foresight or strategy to actions Red performed for much simpler reasons.
@@ -332,26 +332,25 @@ Do not imitate exact dialogue, scenes, catchphrases, costume language or plot be
 
 The target is an original Red Jackal expression of those broad appeals.
 
-### Clueless-About-His-Power Rule
+### Clueless-About-His-Luck Rule
 
-Red knows he can do impossible things.
+Red knows that bizarre things keep going his way, but he does not begin with a clean explanation.
 
-He does **not** know, measure or care about his full ceiling.
+He does **not** measure, train, or consciously activate a menu of lucky outcomes.
 
 Avoid making him constantly:
-- test maximum output;
+- calculate probability;
 - analyze metaphysical mechanics;
 - compare tiers;
-- seek training;
-- ask how strong he is;
-- obsess over hidden limits;
-- treat every manifestation like a research result.
+- seek a luck upgrade;
+- ask how powerful the luck is;
+- treat every coincidence like a research result.
 
-He can discover practical behavior accidentally, use it later, and move on.
+He can notice a practical pattern, exploit the opening in front of him, and move on.
 
 A strong Red beat is often:
 
-**impossible act → everyone else reacts → Red is confused why they are making it dramatic.**
+**reckless choice → improbable causal chain → everyone else reacts → Red claims it was obviously intentional.**
 
 ### Indifference Rule
 
@@ -423,36 +422,22 @@ Never copy Deadpool dialogue or reproduce franchise-specific scenes.
 
 Red's jokes and phrasing must be original.
 
-# 5. Fourth-Wall Pause
+# 5. Fourth-Wall / Reader-Address Rule
 
-A **true fourth-wall break** is a real anomaly event.
+Red may directly address the reader/audience as part of his meta-comedic personality.
 
-Whenever Red directly addresses the reader/audience as an external observer:
+This is **not a supernatural ability**.
 
-**Veyran time stops.**
+When Red addresses the audience:
+- Veyran time continues normally;
+- attacks, weather, movement, and other characters continue;
+- the prose may briefly frame the aside as private reader-facing commentary;
+- if Red physically speaks aloud, nearby characters may hear him and react;
+- the aside never gives free movement, inspection time, dodging, or tactical advantage.
 
-Presentation:
-1. the active scene freezes;
-2. Red notices or simply accepts the pause;
-3. he addresses the audience;
-4. the aside remains concise enough to preserve pacing unless the joke deliberately requires a longer beat;
-5. Red resumes;
-6. the world continues from the same instant.
+The reader is not a character who gives Red commands and is not a power source.
 
-During the pause:
-- arrows may hang in the air;
-- a sword may stop centimeters from him;
-- a person may remain frozen mid-expression;
-- rain may hang as droplets;
-- explosions may freeze before expanding.
-
-Native characters do not remember the pause.
-
-Reader-talk is real, but the reader is **not** a character who gives Red commands and is not a power source.
-
-Fourth-wall pauses may be frequent because they are a signature device, but do not interrupt every emotional line or every attack.
-
-Use them where Red would naturally comment on:
+Use reader-address where Red would naturally comment on:
 - genre logic;
 - absurd danger;
 - villain speeches;
@@ -460,6 +445,8 @@ Use them where Red would naturally comment on:
 - obvious tropes;
 - bad plans;
 - the difference between what characters think and what he thinks is funny.
+
+Keep it concise enough that the physical scene remains clear.
 
 # 6. Dialogue — Human, Movie-Like Conversation
 
@@ -489,16 +476,16 @@ Comedy is a primary identity of the series but does not need a joke every paragr
 
 Main sources:
 - Red treating a deadly enemy like an improv partner;
-- fourth-wall pauses;
+- fourth-wall/meta asides;
 - aura farming;
 - deliberately overdramatic entrances;
-- absurdly specific Play Logic props;
+- absurdly convenient ordinary objects, failures, and lucky timing;
 - enemies misunderstanding what kind of monster he is;
 - competent people refusing to cooperate with his performance;
 - Red interrupting a scene that clearly belonged to somebody else;
 - a native hero arriving after Red already ruined the expected setup;
 - Red making a reference nobody in Veyr can understand;
-- physical comedy that Red can survive but others cannot.
+- physical comedy built around Red escaping harm through improbable but visible causes.
 
 Serious consequences may remain quiet.
 
@@ -522,98 +509,114 @@ But prose must not imply that he is gradually becoming:
 
 The world changes around Red more than Red changes for the world.
 
-# 9. Overpowered Combat
+# 9. Luck-Driven Combat
 
-Red is already stronger than the encounter requires.
+Red's only supernatural combat advantage is Jackal Luck.
 
 Combat suspense must not ask:
-**Can Red become strong enough?**
+**Can Red unlock a stronger power?**
 
 Use:
-- What is he pretending?
-- How long will he keep playing?
-- What ridiculous rule did he give himself?
+- What variable will fail at the wrong moment?
+- Does the lucky opening protect only Red?
+- Can Red recognize the opening before it closes?
 - Who else is in danger?
 - What does he not know?
-- What happens elsewhere while he is entertained?
-- What consequence has already started?
 - What does the enemy think is happening?
-- What story beat did Red just ruin?
+- What consequence has already started?
+- Can a more skilled opponent keep pressure on him despite the probability distortion?
 
-Enemy-playing pattern:
-1. Red allows the enemy's identity to establish;
-2. he gives them room to perform;
-3. he answers at their level or with a joke;
-4. he escalates only when amused or required;
-5. serious switch ends the illusion of equality.
+Red can be physically outclassed.
 
-Do not turn every fight into an instant one-shot.
+A better swordsman is a better swordsman. A stronger monster is stronger. A trained mage may have far more direct destructive power.
 
-Do not pretend the enemy is a raw-power threat if writer truth says they are not.
+Jackal Luck changes the sequence:
+1. the enemy establishes real competence and pressure;
+2. Red improvises, bluffs, or chooses something reckless;
+3. one or more ordinary variables shift improbably;
+4. an opening appears;
+5. Red or an ally must actually use it;
+6. the resulting outcome creates a consequence, misunderstanding, or new problem.
 
-# 10. Play Logic — Cartoon Reality Without a Ceiling
+Do not turn every fight into an instant win.
 
-Play Logic may create whatever Red genuinely imagines strongly enough to impose.
+Do not make luck erase supporting-character competence.
 
-Effects can be:
-- useful;
-- ridiculous;
-- frightening;
-- visually impossible;
-- symbolic;
-- cartoon-like;
-- brutally simple.
+A major victory should often be a **team outcome** where Red's luck creates one opening among several necessary contributions.
 
-Small effect ≠ low power.
+# 10. Jackal Luck — Only Supernatural Power
 
-Large effect ≠ upgrade.
+Jackal Luck is Red's passive probability/coincidence ability.
 
-No Stage I/II/III/IV language in current prose.
-
-# 11. Play Logic Body Restoration
-
-Red does not possess a separate regeneration power.
-
-When his body recovers from impossible damage, treat it as **automatic Play Logic**:
-- reality bends back toward Red's persistent self-concept;
-- wounds may close;
-- tissue may restore;
-- lethal damage may fail to remain final.
-
-Do not narrate this as:
-- a healing skill;
-- regeneration activation;
-- HP recovery;
-- a separate energy system.
-
-Pain and blood can remain visible.
-
-External consequences do not reset.
-
-# 11A. Jackal Luck
-
-Jackal Luck is Red's passive probability/coincidence power.
-
-Show it through events rather than labels.
+Show it through visible causality rather than labels.
 
 Good examples:
 - a loose object falls exactly where it helps;
+- a buckle catches a blade;
+- an enemy slips because rain has already made the stone slick;
+- a mechanism jams at the worst moment for its operator;
 - Red guesses and accidentally chooses the useful path;
 - an interruption arrives at suspiciously perfect timing;
-- an enemy's ordinary mistake becomes devastatingly convenient;
 - a random throw lands absurdly well;
+- a structural weakness fails only after an enemy commits weight to it;
 - witnesses think Red planned a coincidence.
 
+Large lucky outcomes should usually be **chains of individually possible events**, not one unexplained miracle.
+
 Red should rarely think:
-"My luck power activated."
+*"My luck power activated."*
 
 Prefer:
 - a look;
 - a grin;
-- a short private thought;
-- shamelessly taking credit.
+- a brief thought such as *Convenient.*;
+- shamelessly taking credit;
+- somebody else pointing out how statistically ridiculous the sequence was.
 
-Luck can complicate the scene as easily as simplify it.
+Jackal Luck can complicate the scene as easily as simplify it.
+
+## 10.1 Hard Prohibitions
+
+Red does not have:
+- Play Logic;
+- reality manipulation;
+- conjured objects;
+- cartoon physics as literal magic;
+- transformation powers;
+- teleportation without an ordinary cause;
+- supernatural regeneration or self-restoration;
+- resurrection;
+- time stop;
+- Fourth-Wall Pause;
+- direct Fate command;
+- a second hidden power.
+
+If Red is injured, the injury remains until normal recovery or legitimate in-world treatment.
+
+Luck may prevent a fatal wound from landing cleanly. It may not erase damage after the damage already happened.
+
+## 10.2 Control Rule
+
+Red cannot order:
+- “make this attack miss”;
+- “make that weapon break”;
+- “make the right person arrive”;
+- “give me the exact object I need.”
+
+The outcome must remain uncontrolled enough to surprise Red too.
+
+## 10.3 Cost and Consequence Rule
+
+Luck has no mana bar or upgrade tree, but it is not consequence immunity.
+
+It may:
+- protect Red and fail to protect someone beside him;
+- solve the immediate danger while damaging evidence;
+- expose a secret;
+- create a misunderstanding;
+- destroy property;
+- make a later political problem worse;
+- save Red by placing him in a new problem.
 
 # 12. Native Story Intrusion
 
@@ -698,10 +701,10 @@ Both are valid.
 
 When the scene truly becomes serious:
 - jokes may stop;
-- fourth-wall pauses may stop temporarily;
+- reader-address asides may stop temporarily;
 - Red's sentences shorten;
 - the prose becomes visually clean;
-- his power use becomes simpler;
+- he stops wasting lucky openings;
 - consequences receive room.
 
 Do not immediately undercut every emotional beat.
@@ -725,15 +728,26 @@ Rules:
 
 Normal narration uses readable multi-sentence paragraphs.
 
-Use one-line paragraphs for:
+**Default:** 2–5 connected sentences when the same action, observation, reaction, or thought belongs to one beat.
+
+Use one-sentence paragraphs only for:
 - impact;
 - a visual reveal;
-- a fourth-wall punch;
-- serious silence;
+- a punchline;
+- a serious silence;
 - sudden danger;
-- a decisive line.
+- a decisive line;
+- a chapter-ending hook.
 
-Do not make the entire chapter one-line prose.
+Do not use one-sentence narration as the default layout.
+
+Hard cadence check:
+- avoid three or more consecutive one-sentence narration paragraphs;
+- dialogue turns may remain separate by speaker;
+- action may briefly compress to one sentence per paragraph during a climax, but the pattern must relax afterward;
+- if two adjacent narration paragraphs describe the same continuous action, combine them unless separation creates a deliberate effect.
+
+A chapter dominated by one-line narration **fails manuscript QA** even if every individual sentence is grammatically correct.
 
 # 16A. Fast Serial Pacing / Chapter-Retention Law
 
@@ -823,14 +837,14 @@ Before Gate 9, verify:
 2. English is simple, natural, and cinematic.
 3. Red sounds self-centered, theatrical, chaotic, and original.
 4. Dialogue feels human rather than expositional.
-5. Fourth-wall address freezes Veyran time every time it is genuinely used.
-6. Fourth-wall pauses do not become the reader controlling the story.
+5. Fourth-wall/reader address never freezes Veyran time or creates tactical advantage.
+6. Reader address does not become the reader controlling the story.
 7. Red has no power progression.
 8. Red has no conventional moral-development arc.
 9. Enemy play/holding back is voluntary.
 10. Serious switch is restraint removal, not transformation.
-11. Play Logic can use cartoon-reality freedom without copying copyrighted material.
-12. Play Logic body restoration does not erase consequences to other people; Jackal Luck does not guarantee safe outcomes.
+11. Jackal Luck remains the only supernatural power and is shown through causally possible probability chains.
+12. No supernatural regeneration/body restoration occurs; Jackal Luck does not guarantee safe outcomes.
 13. Native storylines still exist independently of Red.
 14. Red's interference reroutes scenes instead of lazily deleting the sequence.
 15. Geography, destination identity, chronology, and locked pacing remain intact.

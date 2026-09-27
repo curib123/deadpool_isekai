@@ -164,22 +164,23 @@ Memory recovery may add information.
 
 It must not erase Red Jackal.
 
-## 2.4A Overpowered Role-Player Lock — AUTHORIAL RETCON
+## 2.4A Luck-Driven Role-Player Lock — AUTHORIAL RETCON
 
-Red Jackal is an **original overpowered role-player archetype**.
+Red Jackal is an **original luck-driven role-player archetype**.
 
 He is not a copy of any existing franchise character. The intended high-level appeal is:
-- absurd hidden strength;
+- impossible-looking survival produced by probability;
 - theatrical role-play;
-- deliberate underestimation;
+- shameless confidence;
 - self-amusement;
 - treating enemies as participants in a scene he is staging;
-- switching instantly from harmless or ridiculous to overwhelming;
-- letting other people misunderstand him because the misunderstanding is entertaining.
+- letting other people mistake coincidence for foresight;
+- switching instantly from ridiculous performance to decisive action;
+- accepting credit for plans he never actually made.
 
-His defining difference is that Red Jackal does not dream of becoming powerful.
+Red does not dream of becoming powerful.
 
-**He already is.**
+He already has one supernatural advantage from the beginning: **Jackal Luck**.
 
 He does not have a conventional power climb.
 
@@ -187,59 +188,53 @@ He does not need:
 - levels;
 - classes;
 - stat growth;
-- training arcs to unlock raw output;
-- Stage I → Stage II → Stage III → Stage IV advancement;
-- an endgame form that makes him finally overpowered.
-
-His power is already available in principle from the beginning.
+- training arcs to unlock a second ability;
+- mastery stages;
+- an endgame form.
 
 What changes across the story is:
-- what he chooses to reveal;
-- what he bothers to imagine;
-- how creatively he uses it;
+- what kinds of probability patterns the world notices;
+- how quickly Red recognizes an opening after it appears;
 - how much of the situation he understands;
 - how far he is willing to take the performance;
 - how other people interpret what they have witnessed.
 
-This creates a **revelation arc, not a power-progression arc**.
+This creates a **revelation/reputation arc, not a power-progression arc**.
 
 ### The Game
 
 Red Jackal often treats a hostile encounter as a game or improvised scene.
 
 He may:
-- pretend to be weaker than he is;
-- let an enemy explain their technique;
-- deliberately use an unnecessarily specific counter;
-- allow an attack to land because the reaction interests him;
-- fight at the opponent's apparent level for entertainment;
+- pretend he planned a lucky break;
+- let an enemy explain their technique because he finds the drama amusing;
+- bluff that a random object or environmental failure was intentional;
+- choose a reckless route because it looks more interesting;
 - invent a persona or rule for the encounter;
+- stage an entrance, disappearance, false retreat, or dramatic reveal using ordinary movement and timing;
 - let enemies believe they have discovered a weakness;
-- give an opponent several chances simply because ending the fight immediately would be boring;
-- stage an entrance, disappearance, false retreat, or dramatic reveal;
-- end the game instantly when he becomes bored, angry, or when someone crosses a line.
+- continue the performance after luck creates an escape because the scene is entertaining;
+- stop playing when someone else is about to pay for his joke.
 
-The enemy can be dangerous to **other people, plans, secrets, cities, relationships, or objectives** even when they are not a credible raw-power threat to Red.
+The enemy can be dangerous to Red and to **other people, plans, secrets, cities, relationships, or objectives**. Luck is not invulnerability.
 
 ### Serious Switch
 
 When Red stops playing, the tonal shift must be obvious.
 
-He does not need a transformation or power-up.
-
-The frightening part is that the overwhelming power was already there.
+He does not transform and does not unlock a new power.
 
 Serious Red:
 - becomes simpler;
 - speaks less;
-- stops offering openings;
-- stops pretending to struggle;
-- uses the shortest solution;
-- may end a fight in a single decisive action.
+- stops bluffing for entertainment;
+- notices the opening in front of him;
+- uses terrain, tools, allies, or enemy mistakes efficiently;
+- makes a decisive ordinary choice before the lucky window closes.
 
 The story must never frame this as a newly unlocked form.
 
-It is **restraint being removed**.
+It is **performance being removed, not power being added**.
 
 ## 2.4B Story-Thief / False-Main-Character Lock
 
@@ -518,12 +513,12 @@ This is the authoritative reader-facing personality model for Red Jackal.
 
 Red Jackal combines four original high-level appeals without copying any existing copyrighted character:
 
-1. **Elastic reality comedy** — danger can become absurd because Red treats physical reality as negotiable.
+1. **Probability comedy** — danger becomes absurd because ordinary events keep aligning around Red in statistically ridiculous ways.
 2. **Meta-comedic irreverence** — he jokes through pain, talks to the audience, and refuses the expected tone.
 3. **Effortless theatrical coolness** — he can look composed, ominous, stylish, or absurdly confident even when he has no plan.
 4. **Accidental legend amplification** — other people repeatedly interpret Red's nonsense, coincidences, half-truths, and selfish decisions as proof of impossible foresight, hidden strategy, terrifying confidence, or secret authority.
 
-### Clueless Power Law
+### Clueless Luck Law
 
 Red does **not** behave like a scientist studying his own powers.
 
@@ -532,20 +527,20 @@ He does not care about:
 - calculating a power tier;
 - naming every technique;
 - training toward a final form;
-- proving exactly how Play Logic works;
+- proving exactly how Jackal Luck works;
 - discovering whether he is the strongest;
 - understanding every metaphysical explanation immediately.
 
 He may notice that something works and simply use it again later.
 
-He can accidentally perform something absurdly powerful and react as though the stranger part is everyone else's reaction.
+He can walk through an absurd probability chain and react as though the stranger part is everyone else's reaction.
 
 When someone asks how he did something, valid Red responses in spirit are:
 - he does not know;
 - he did not think that far;
 - it seemed funny;
 - it looked useful;
-- he wanted the scene to go that way;
+- it happened to work;
 - he changes the subject;
 - he invents an explanation because the fake explanation sounds cooler.
 
@@ -592,8 +587,8 @@ He can:
 - act bored in front of overwhelming danger because he genuinely is;
 - walk away before anyone realizes he had no complete plan;
 - accidentally make a correct prediction;
-- use a ridiculous solution that witnesses reinterpret as advanced technique;
-- casually reveal impossible power while thinking about something trivial.
+- use a ridiculous mundane solution that witnesses reinterpret as advanced technique;
+- survive an impossible-looking sequence while thinking about something trivial.
 
 Red does not need to understand why everyone is impressed.
 
@@ -680,17 +675,17 @@ Sometimes it backfires spectacularly.
 
 All four outcomes are valid.
 
-## 2.9A Reputation, Fear, and Threat Perception — LOCKED REVELATION MODEL
+## 2.9A Reputation, Fear, and Threat Perception — LOCKED LUCK-REVELATION MODEL
 
 Red Jackal's reputation grows through **discovery**, not power progression.
 
 Writer truth:
 
-**Red is already overwhelmingly powerful. Other characters simply do not know it.**
+**Jackal Luck is already active from the beginning. Other characters gradually realize that the coincidences around Red are not normal.**
 
 The frightening progression is therefore:
 
-**“He is strange.” → “He is stronger than we thought.” → “He was holding back.” → “How much has he never shown us?”**
+**“He is strange.” → “That was lucky.” → “That keeps happening.” → “No one is that lucky.” → “Does he know?”**
 
 Characters must still react only to evidence they actually possess.
 
@@ -704,51 +699,50 @@ People learn that the System cannot produce a valid identity for him.
 
 This creates bureaucratic suspicion, not automatic fear.
 
-#### R2 — Strange but Apparently Bounded
-People see unusual manifestations, impossible survival, or abnormal recovery while Red deliberately presents himself as limited, inconsistent, unserious, or inexperienced.
+#### R2 — Suspiciously Lucky
+Witnesses see near-misses, enemy mistakes, mechanical failures, useful accidents, or impossible timing cluster around him.
 
-The apparent limits may be real choices, incomplete understanding of the local situation, or deliberate performance.
-
-They are **not** a writer-truth power ceiling.
+Most people still explain the pattern as coincidence, skill, deception, artifacts, or incomplete information.
 
 #### R3 — Dangerous Wildcard
-Competent people realize normal threat assessment does not work.
+Competent people realize normal risk assessment around Red is unreliable.
 
-They begin to suspect that some earlier “limits” were choices.
+They stop assuming that a clean plan will remain clean once he enters it.
 
-#### R4 — Hidden Monster
-Witnesses see Red casually perform something that should have required far more effort than he showed.
+#### R4 — Statistical Nightmare
+Multiple witnesses have records of unrelated improbable chains around Red.
 
 The important realization becomes:
 
-**“He was never struggling as much as we thought.”**
+**“The event can be individually possible and still be collectively impossible.”**
 
 #### R5 — Reputation Precedes Him
 Stories arrive before Red does.
 
-Enemies overprepare for the wrong abilities because nobody has a complete account.
+Enemies overprepare for techniques he does not possess because witnesses interpreted luck as planning, hidden weapons, foresight, or secret magic.
 
-Red may enjoy using the rumors as props.
+Red may enjoy using those rumors as props.
 
 #### R6 — Existential Exception
-Very late-series experts may understand that Veyr does not possess a meaningful conventional scale for him.
+Very late-series experts may understand that Red's anomaly distorts probability without presenting a normal System record.
 
 This is a revelation of what was always true, not a late power-up.
 
 ### Perception Rules
 
-- nobody becomes omniscient about Red because they witnessed one feat;
-- one spectacular display does not reveal the full truth;
+- nobody becomes omniscient about Red because they witnessed one lucky chain;
+- one spectacular survival does not prove supernatural luck;
 - competent skeptics remain allowed;
-- some people may think the stories are exaggerated;
-- some may believe he uses artifacts, forbidden magic, divine protection, or deception;
+- some people may believe the stories are exaggerated;
+- some may believe he uses artifacts, forbidden magic, divine protection, deception, or advance intelligence;
 - Red may intentionally reinforce a false explanation because he likes the role.
 
 ### Antagonist Experience
 
-A good Red Jackal antagonist does not need to be physically stronger than Red.
+A good Red Jackal antagonist can be physically stronger, faster, more skilled, or better equipped than Red.
 
-They remain dangerous by threatening:
+They remain dangerous through:
+- direct combat ability;
 - civilians;
 - institutions;
 - information;
@@ -759,9 +753,7 @@ They remain dangerous by threatening:
 - irreversible choices;
 - situations Red does not yet understand.
 
-During direct combat, Red may deliberately play at their level.
-
-If the antagonist interprets that performance as equality, that misunderstanding belongs to the story.
+Luck creates openings. Red still has to survive long enough to use them, and the opening may protect only him.
 
 ### Threat-Perception QA
 
@@ -769,16 +761,16 @@ Whenever somebody concludes Red is terrifying or powerful, verify:
 
 1. What have they actually seen?
 2. What reports do they trust?
-3. Are they reacting to demonstrated power, hidden-power suspicion, unpredictability, or reputation?
+3. Are they reacting to repeated probability anomalies, confidence, unpredictability, or reputation?
 4. Is Red intentionally misleading them?
 5. Is at least one credible person interpreting the evidence differently?
 6. Does the scene avoid universal worship?
 
 ### Core Rule
 
-**Red Jackal does not become overpowered. He starts overpowered.**
+**Red Jackal does not gain new supernatural powers.**
 
-The series reveals that truth gradually.
+The series reveals the scale and consequences of his luck gradually.
 
 The ideal fear is not:
 
@@ -786,7 +778,7 @@ The ideal fear is not:
 
 It is:
 
-**“Every time we think we found his limit, we discover he was choosing where to stop.”**
+**“How many coincidences can happen before coincidence stops being an explanation?”**
 
 ## 2.10 Comedy — LOCKED CHARACTER/SITUATION STANDARD
 
@@ -850,37 +842,22 @@ Red's narration may be unreliable about:
 
 The physical scene must remain clear even when Red is joking.
 
-## 2.13 Fourth-Wall Pause — LOCKED
+## 2.13 Fourth-Wall Behavior — VOICE DEVICE
 
-Red does not merely make occasional narrator jokes.
+Red directly addressing the reader/audience is part of his damaged Soul-Drift persona and narration style.
 
-A genuine fourth-wall address is a real Soul-Drift anomaly event.
+It is **not a supernatural power**.
 
-Whenever Red directly addresses the external reader/audience:
-
-**Veyran time stops.**
-
-He may:
-- speak to the reader;
-- comment on genre logic;
-- mock a villain speech;
-- complain about exposition;
-- point out that a scene clearly belongs to somebody else;
-- narrate his own terrible idea before doing it;
-- hold a private “conversation” with the audience that native characters cannot perceive.
-
-During the pause:
-- local motion freezes;
-- native sound stops;
-- attacks and environmental events stop advancing;
-- native characters experience no elapsed time;
-- Red returns to the same causal instant when the aside ends unless an explicitly approved Play Logic gag alters the setup.
+When Red addresses the audience:
+- Veyran time continues normally;
+- nearby characters may hear him speaking aloud if the line is physically spoken;
+- an internal/meta aside may be presented to the reader without changing the physical scene;
+- attacks, weather, projectiles, and other characters continue to obey normal causality;
+- Red gains no free movement, inspection time, or tactical pause.
 
 The audience is not an in-world power source and cannot order him around.
 
-This device is available from the beginning.
-
-It is not an awakening or progression mechanic.
+This behavior is available from the beginning because it is part of Red's personality, not an awakening.
 
 ## 2.14 Abilities
 
@@ -888,68 +865,66 @@ See `systems/SYSTEMS-BIBLE.md` for mechanics.
 
 Character-relevant ability identity:
 - unregistered Soul-Drift existence;
-- unbounded Play Logic;
-- automatic Play Logic body restoration when Red's self-concept rejects damage as final;
-- Jackal Luck: passive probability/coincidence distortion;
-- Fourth-Wall Pause;
+- **Jackal Luck as his only supernatural power**;
+- passive probability/coincidence distortion;
 - total absence of conventional level/class progression;
-- raw output that is not meaningfully ranked by Veyr's normal power hierarchy;
-- voluntary restraint and theatrical self-limitation;
-- ordinary knowledge gaps despite extraordinary power.
+- no Play Logic;
+- no supernatural regeneration/body restoration;
+- no time-stop/Fourth-Wall Pause;
+- ordinary physical vulnerability;
+- ordinary knowledge gaps;
+- strong improvisational willingness when luck creates an opening.
 
 ### Ability Personality
 
-Red usually chooses the **most interesting** solution rather than the fastest one.
+Red usually chooses the **most interesting** response rather than the safest one.
 
-He may solve a problem with:
-- an absurdly specific object;
-- an unnecessarily elegant counter;
-- an invented rule for the scene;
-- a humiliatingly small amount of force;
-- a deliberately excessive display;
-- no power at all because he wants to see how ordinary people solve it.
+He may:
+- pick up the wrong tool and discover it is exactly what the situation needs;
+- take the risky route because it looks better;
+- bluff that a coincidence was intentional;
+- use a tiny environmental opening that everyone else missed;
+- claim a random chain was “obviously” the plan;
+- do nothing supernatural at all while other people search for a hidden technique.
 
-His refusal to use maximum force is a personality choice, not evidence that maximum force is unavailable.
+He does not consciously choose the exact lucky outcome.
 
 ## 2.15 Combat Personality
 
-Red Jackal treats combat as controlled play until he decides it is not.
+Red Jackal treats combat as performance until the situation stops being funny.
 
 He:
 - studies reactions for entertainment;
 - bluffs even when bluffing is unnecessary;
-- lets enemies believe they are adapting;
-- may deliberately fight using the enemy's preferred range or style;
-- invents restrictions for himself;
-- uses terrain because it looks better or makes the encounter more interesting;
-- may allow harmless or recoverable hits to sell the performance;
-- may pretend a coincidence or improvised idea was part of a master plan;
-- enjoys an opponent who keeps trying after realizing something is wrong.
+- may choose risky positioning because he expects himself to improvise;
+- uses terrain, loose objects, structures, weather, crowds, and enemy momentum;
+- pretends a coincidence was part of a master plan;
+- enjoys an opponent who keeps trying after the situation becomes statistically absurd;
+- can still be hit, cut, exhausted, restrained, or outskilled.
 
 He is **not** required to be the best conventional swordsman, mage, or martial artist.
 
-That distinction does not create a meaningful combat ceiling because Play Logic can overwhelm the conventional contest entirely.
+A specialist may simply be better than Red at their specialty.
 
-A specialist may be better at swordsmanship.
-
-Red can still end the fight.
+Jackal Luck does not erase that difference. It creates improbable openings, failures, near-misses, and timing shifts around the fight.
 
 ### Fight Tension Rule
 
 Do not build suspense around:
 
-**“Can Red become strong enough to beat this enemy?”**
+**“Can Red unlock a new power to beat this enemy?”**
 
 Build suspense around:
-- what game is Red playing;
-- what is he trying to learn;
-- what is he refusing to reveal;
+- what lucky variable will matter;
+- whether Red recognizes the opening;
+- whether the opening helps only Red;
 - who else is in danger;
 - whether he understands the real objective;
 - what his performance accidentally changes;
-- whether he will stop playing in time.
+- whether the coincidence creates a worse consequence;
+- whether a more skilled opponent can keep pressure on him despite the probability distortion.
 
-When Red becomes serious, raw combat should usually end quickly.
+When Red becomes serious, he stops wasting the openings he gets.
 
 ## 2.16 Social Behavior
 
@@ -999,9 +974,9 @@ What must remain:
 - chaotic humor;
 - willingness to interfere because something looks interesting.
 
-The audience may discover larger and larger demonstrations of his power.
+The audience may discover more extreme and better-documented probability chains around him.
 
-Those demonstrations are **reveals, not upgrades**.
+Those patterns are **reveals, not upgrades**.
 
 The world may develop around Red.
 
@@ -1014,16 +989,15 @@ Red Jackal initially knows:
 - something violent happened before he woke here;
 - his memory is badly incomplete;
 - the System cannot identify him;
-- his body regenerates;
-- imagination can affect reality;
-- speaking to the external audience freezes the local scene.
+- bizarre coincidences and near-misses seem to favor him more often than they should;
+- speaking toward the audience does not stop the world.
 
 He does **not** begin knowing:
 - his complete Earth life;
 - the exact cause of the explosion;
 - the term Soul Drift;
 - why his soul has NO RECORD;
-- why Play Logic can automatically restore his body and why Jackal Luck bends probability around him;
+- why Jackal Luck bends probability around him;
 - the true Great Design;
 - whether anyone else has ever far-drifted between worlds.
 
@@ -1036,7 +1010,7 @@ If a proposed scene or plan makes him:
 - a direct copy of an existing franchise character;
 - dependent on conventional levels/classes for strength;
 - locked behind a mandatory power-progression stage;
-- genuinely outclassed in raw combat merely to manufacture shonen-style progression;
+- forced to unlock a second power merely to manufacture shonen-style progression;
 - omniscient;
 - omnipresent;
 - able to solve every information, relationship, political, or moral problem automatically;
@@ -1045,11 +1019,11 @@ If a proposed scene or plan makes him:
 
 then it fails Red Jackal Character QA.
 
-Overpowered is **not** a failure condition.
+Extreme luck is **not** a failure condition.
 
 The required distinction is:
 
-**combat dominance does not equal narrative omniscience or perfect judgment.**
+**probability advantage does not equal invulnerability, omniscience, perfect judgment, or guaranteed victory.**
 
 # 3. Reusable Cast Pool
 
@@ -1263,7 +1237,7 @@ Using healing or memory magic to force someone to remain the person Nemi wants t
 - reluctant to abandon someone even when staying is dangerous.
 
 ## Relationship Potential with Red Jackal
-Nemi is unimpressed by regeneration as an excuse for self-destruction.
+Nemi is unimpressed by Red treating lucky survival as an excuse for self-destruction.
 
 They can treat him while still being angry at him.
 
@@ -1307,7 +1281,7 @@ That his own memory cannot be trusted.
 ## Relationship Potential with Red Jackal
 Edrin's deadpan refusal to reward theatrical behavior is naturally antagonistic to Red Jackal's aura farming.
 
-He may nevertheless respect someone who remains functional when reality stops behaving.
+He may nevertheless respect someone who remains functional when probability stops behaving normally.
 
 # CHAR-008 — Aren Halvek
 
@@ -1745,7 +1719,7 @@ PASS — no destination arc, volume, chapter, scene, or manuscript content creat
 
 **Volume Function:** intellectual foil, anomaly examiner, documentary investigator.
 
-**Boundary:** Maelis does not know Red Jackal's true origin, Great Design truth, Savael, Exterior Needle, or Play Logic's writer-truth mechanism.
+**Boundary:** Maelis does not know Red Jackal's true origin, Great Design truth, Savael, Exterior Needle, or the writer-truth mechanism behind Jackal Luck.
 
 ## CHAR-003 — Tavian Rook
 
@@ -1820,10 +1794,10 @@ Keep frontier casualties alive with limited medicine, mana, staff, and time.
 - overworks during crises.
 
 ### Relationship to Red Jackal
-Observes that his regeneration behaves unlike ordinary healing and refuses to treat regeneration as permission for self-destruction.
+Observes that Red repeatedly avoids fatal outcomes through abnormal coincidence and refuses to treat lucky survival as permission for self-destruction.
 
 ### Knowledge Boundary
-May observe M-005 symptoms. Does not know the self-model mechanism.
+May observe M-005 probability-anomaly symptoms. Does not know the underlying luck mechanism.
 
 ## CHAR-013 — Kellan Dorr
 
@@ -2118,7 +2092,7 @@ Initially sees Red as commercially useful irregular labor whose absent identity 
 Enough instability becomes undeniable, Red or another irregular outsider absorbs blame, emergency authority is invoked, and the Unified Harbor Security Charter gives Venn practical control over movement and security.
 
 ### Knowledge Boundary
-Cassian does not know why Red is UNDEFINED and possesses no protected Savael, Exterior Needle historical truth, Great Design, Play Logic-origin, Fourth-Wall Pause metaphysics, or technical Fate knowledge.
+Cassian does not know why Red is UNDEFINED and possesses no protected Savael, Exterior Needle historical truth, Great Design, Jackal Luck writer-truth mechanism, or technical Fate knowledge.
 
 ### Return Status
 Not automatically recurring. Later use requires explicit post-Merrowgate justification.

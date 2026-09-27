@@ -22,8 +22,8 @@ Before long-term arc planning:
 - Red Jackal anomaly defined?
 - Soul Drift defined as a natural phenomenon and Red's actual arrival mechanism?
 - mysterious Earth explosion protected as origin mystery?
-- Play Logic defined under the unbounded revelation/restraint model with narrative counterplay?
-- Fourth-Wall Pause defined as a real time-stop effect for genuine audience address?
+- Jackal Luck defined as Red's only supernatural power, using passive causally possible probability distortion with narrative counterplay?
+- Reader-address/meta behavior defined as voice only, with no time-stop or tactical effect?
 - Red locked as reader-facing focal protagonist but not Veyr's registered chosen Hero?
 - native Hero, Hero Party, Main Villain, minor villains, and independent off-screen stories preserved?
 - false-main-character effect used without replacing the native Hero?
@@ -50,7 +50,7 @@ If major answers are missing: **ROADMAP LOCKED — CONTINUE WORLD BIBLE.**
 **Owners:** A050, A051, A001, A031, A033, A034, A035, A100, A102.
 
 - Is Writer Truth defined for every long-term mystery?
-- Are System, magic, reincarnation, Fate, Great Design, anomaly, and fourth-wall mechanics kept distinct?
+- Are System, magic, reincarnation, Fate, Great Design, anomaly, and Jackal Luck kept distinct?
 - Does Red Jackal begin only with knowledge he could actually possess?
 - Are faction/character knowledge limits explicit?
 - Are false beliefs separated from canon truth?
@@ -100,7 +100,7 @@ If inventory counts, World Bible sourcing, or route neutrality fail: **FAIL — 
 - Is it compatible with Red Jackal's established personality without forcing generic heroism?
 - Can supporting characters enter naturally without assigning them prematurely?
 - Does it support the current mystery reveal window without exposing protected late truths?
-- Can Play Logic be demonstrated without prematurely exposing more of Red's hidden capability than the selected destination needs?
+- Can Jackal Luck be demonstrated through visible causal chains without making outcomes guaranteed?
 - Are travel entry and exit routes already supported by canon?
 - Can the local conflict later be meaningfully resolved before departure?
 - Does selecting it preserve multiple believable later routes without silently selecting any later volume?
@@ -125,11 +125,11 @@ If any critical requirement fails: **FAIL — RESELECT OR RETURN TO DESTINATION 
 - Does exploration use multiple parts of the destination?
 - Are monster/wilderness threats ecological rather than random encounter filler?
 - Does action escalate by stakes/type instead of only larger enemies?
-- Does Play Logic follow the approved revelation/restraint policy without inventing a progression ceiling?
-- Does regeneration preserve pain and consequences for others without treating ordinary exhaustion/injury as a raw-power ceiling?
+- Does Jackal Luck follow the luck-only causal-chain rule without becoming direct outcome control?
+- Do injuries persist normally, with luck allowed to reduce or prevent harm but never erase damage already sustained?
 - Are aura-farming opportunities balanced across success, indifference, and backfire?
 - Is comedy optional and situational rather than quota-driven?
-- Does the architecture contain real serious consequences that comedy/regeneration cannot erase?
+- Does the architecture contain real serious consequences that comedy/luck cannot erase?
 - Does Red Jackal remain fundamentally stable rather than receiving a conventional moral-development arc?
 - Do supporting characters have their own development beats?
 - Is a clear midpoint shift defined?
@@ -156,7 +156,7 @@ If any CRITICAL or MAJOR item fails: **FAIL — RETURN TO THE OWNING AGENT AND R
 
 - Is the final chapter count explicitly defined?
 - Does every chapter have a unique chapter ID and working title?
-- Does every chapter specify location, present characters, opening situation, primary objective, conflict, exploration purpose, character beat, Red stable-character/situation beat, supporting development, antagonist pressure, action progression, Play Logic use, regeneration consequence, aura/comedy opportunities, mystery/foreshadowing, continuity dependencies, knowledge dependencies, and ending beat?
+- Does every chapter specify location, present characters, opening situation, primary objective, conflict, exploration purpose, character beat, Red stable-character/situation beat, supporting development, antagonist pressure, action progression, Jackal Luck probability-chain use, injury consequence, aura/comedy opportunities, mystery/foreshadowing, continuity dependencies, knowledge dependencies, and ending beat?
 - Are the seven locked volume movements mapped naturally across the roadmap?
 - Is the midpoint placed clearly and does it preserve the locked revelation?
 - Is the major reversal placed clearly and causally follow from Red Jackal's mistake?
@@ -166,7 +166,7 @@ If any CRITICAL or MAJOR item fails: **FAIL — RETURN TO THE OWNING AGENT AND R
 - Do chapter functions vary enough to avoid repetitive mission structure?
 - Does action escalate by complexity/stakes rather than only stronger enemies?
 - Does every chapter preserve the no-power-progression rule and its approved reveal/restraint level?
-- Are regeneration pain/injury states carried forward without turning them into a false raw-power limit?
+- Are injury/pain states carried forward under ordinary recovery rules?
 - Are supporting characters distributed according to their independent roles?
 - Does the approved antagonist/opposing-force pressure escalate consistently without omniscience?
 - Are only the F-IDs approved by Gate 6 assigned to planned locations, and do they remain **PLANNED — NOT YET PLANTED** until manuscript evidence exists?
@@ -192,12 +192,12 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO CHAPTER ARCHITECT AND
 - Does every scene define all fields required by that chapter's Scene Architecture brief?
 - Does scene progression create a clear cause-and-effect chain rather than disconnected beats?
 - Do scene transitions create a reason for the next scene?
-- Does Red Jackal's voice architecture remain compatible with close first-person limited, cinematic clarity, his stable chaotic voice, and Fourth-Wall Pause when genuine audience address occurs?
+- Does Red Jackal's voice architecture remain compatible with distant third-person limited, cinematic clarity, his stable chaotic voice, and reader-address that never stops time?
 - Is dialogue assigned a clear story/character function before prose drafting?
 - Is comedy situational and appropriate to the chapter's pressure level?
 - Are aura-farming opportunities balanced rather than automatically successful?
-- Does Play Logic remain inside the chapter's approved display/reveal/restraint plan, without implying a real mastery ceiling?
-- Do regeneration/injury states carry forward accurately?
+- Does Jackal Luck remain inside the chapter's approved probability-chain plan without becoming exact conscious control?
+- Do injury and recovery states carry forward accurately without supernatural regeneration?
 - Is worldbuilding limited to information that can enter naturally through the current scenes?
 - Are language/translation assumptions explicitly supported by canon?
 - Are System outputs and procedures consistent with the Systems Bible where relevant?
@@ -251,8 +251,8 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO SCENE ARCHITECT AND R
 - does action appear before unnecessary explanation when practical?
 - do scene openings avoid excessive warm-up?
 - do scene endings stop after the strongest line/image instead of explaining it again?
-- whenever Red genuinely addresses the external reader/audience, does Veyran time stop?
-- do native characters remain unaware of elapsed time during Fourth-Wall Pause?
+- whenever Red addresses the external reader/audience, does Veyran time continue normally?
+- does reader-address avoid creating free elapsed time or tactical advantage?
 - is the audience kept separate from being a power source or command system?
 
 ## Comedy / References
@@ -265,9 +265,15 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO SCENE ARCHITECT AND R
 - references brief, transformed and situational?
 - scene understandable without recognizing a reference?
 
+## Prose Cadence
+- Are normal narration paragraphs mostly multi-sentence rather than isolated one-line sentences?
+- Are one-sentence narration paragraphs selective rather than dominant?
+- Are dialogue turns separated by speaker without forcing every action sentence into its own paragraph?
+- Do repeated chains of three or more one-sentence narration paragraphs trigger revision?
+
 ## Power
-- Does Play Logic preserve the already-overpowered / no-progression writer truth?
-- Are apparent limits clearly compatible with voluntary restraint, role-play, incomplete information, or collateral concerns?
+- Does Jackal Luck remain Red's one supernatural power with no progression tree?
+- Are lucky outcomes built from causally possible events and allowed to create collateral or secondary problems?
 - Are System/magic/Fate rules consistent?
 - Does overwhelming force avoid automatically solving information, political, evidentiary, relationship, timing, or multi-location problems?
 - Are pain, injuries to others, irreversible outcomes, and consequences respected?

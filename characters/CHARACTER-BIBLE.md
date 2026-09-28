@@ -1,1055 +1,333 @@
 # Character Bible
 
-**Owner:** A040 Character Bible Director  
-**Phase:** 2 — Character Foundation  
-**Status:** CANON — SOUL-DRIFT / STORY-INTRUDER RETCON
-
-This is the authoritative character source for the project. It defines identity, history, psychology, motives, relationships, reusable cast roles, and antagonist standards. It intentionally does **not** assign characters to destination arcs, volumes, chapters, scenes, or manuscript events.
+**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
+**Status:** LOCKED RESET — ROOK VANE / FORTUNE DISTORTION ONLY — 2026-09-27
 
 # 1. Character Canon Rules
 
-Every major recurring character requires:
-- a life that existed before meeting Red Jackal;
-- an independent goal;
-- a worldview;
-- a personal fear;
-- strengths and flaws;
-- relationships not centered entirely on Red Jackal;
-- a reason to remain, leave, oppose, or return;
-- knowledge limits;
-- room to change without becoming a different person.
+Characters must have independent goals, fears, competencies, relationships, and knowledge limits.
 
-Characters may be funny, dramatic, heroic, selfish, cruel, compassionate, or contradictory, but they must not become props whose only purpose is to admire Red Jackal.
+No supporting character exists only to admire Rook.
 
-## 1.1 Character Knowledge Rule
+Rook may steal attention without stealing everyone else's causality.
 
-Separate:
-- Writer Truth
-- Public Identity
-- What Red Jackal Knows
-- What the Character Believes About Themselves
-- Secrets
-- False Beliefs
-
-## 1.2 Character Development Rule
-
-Supporting characters may develop normally.
-
-**Red Jackal is the deliberate exception.**
-
-His core personality is structurally stable across the series. He may learn facts, remember fragments, form attachments, alter tactics, or react to consequences, but he does not receive a conventional moral-growth arc that turns him into a saner, humbler, more responsible, or more traditionally heroic person.
-
-## 1.3 Romance Rule
-
-No romantic pairing is locked in Phase 2. Attraction or chemistry may be proposed later, but no character is created merely as a love interest.
-
-# 2. CHAR-001 — Red Jackal
-
-**Primary Owner:** A043 Red Jackal Guardian  
-**Supporting Owners:** A041 Character History Editor, A042 Character Arc Editor  
-**Status:** LOCKED CORE / EXPANDABLE HISTORY
+# 2. CHAR-001 — Rook Vane
 
 ## 2.1 Identity
 
-**Chosen Name:** Red Jackal  
-**Earth Birth Name:** Evan Calder — writer truth; not required to be revealed early.  
-**Earth Age at Death/Transfer:** 24  
-**Apparent Veyr Age:** approximately 24  
-**System Name:** UNDEFINED  
-**Race:** UNDEFINED  
-**Class:** UNDEFINED  
-**Level:** UNDEFINED  
-**Origin:** Earth, outside Veyr's Closed Loom  
-**Current Planning Destination:** DEST-002 — Merrowgate (Volume 2 / Gate 6 locked). CH-026 canon still ends with Red having departed Greywake before any next destination is named in-story.  
-**Narrative Role:** protagonist, distant third-person limited focal character, anti-villain anomaly, story intruder
+**Current Name:** Rook Vane  
+**Origin:** Earth  
+**Arrival:** Soul Drift after a mysterious explosion  
+**System Status:** UNDEFINED / NO RECORD / ANOMALY  
+**Role:** reader-facing protagonist / story intruder / accidental legend  
+**Power:** Fortune Distortion only
 
-Red Jackal is not a hidden conventional hero and not a nihilistic murderer. He is a self-centered, theatrical anti-villain who values freedom, spectacle, curiosity, and personal agency more than social approval.
+Rook Vane is not a chosen Hero.
 
-He can rescue someone for a selfish reason, threaten someone while protecting them, destroy an abusive institution without caring whether the law approves, or create a larger problem because he wanted to see what would happen.
-
-He is capable of genuine attachment and sacrifice, but he dislikes being morally categorized by other people.
+He is not secretly an immortal, max-level fighter, reality-warper, regenerator, time-stopper, or divine avatar.
 
 ## 2.2 Appearance
 
-**Build:** lean-athletic rather than heavily muscular.  
-**Hair:** black, usually untidy enough to look intentional even when it is not.  
-**Eyes:** deep crimson after arrival in Veyr; not an Earth trait.  
-**Skin:** light-to-medium complexion.  
-**Expression:** often looks amused even when evaluating danger.  
-**Movement:** relaxed until action becomes necessary; enjoys stillness when everyone else expects panic.
-
-### Signature Visual Language
-
-Red Jackal gravitates toward:
-- charcoal and black clothing;
-- deep crimson lining or accents;
-- long coats, layered belts, gloves, and asymmetrical details;
-- a stylized jackal-head motif when he deliberately creates a persona;
-- an optional pale mask marked by a single red slash/crack.
-
-The mask is a prop and symbol, not a magical requirement and not permanently worn.
-
-## 2.3 Earth History and Soul-Drift Residue
-
-Evan Calder was an ordinary young adult on Earth with one unusually deep obsession:
-
-**he was a hard-dying Deadpool fan.**
-
-He consumed comics, films, games, animation, internet humor, superhero media, action movies, meta-fiction, and anything that rewarded irreverence or theatrical antihero behavior.
-
-He quoted, analyzed, rewatched, compared, role-played, and mentally rehearsed that kind of humor so often that it became one of the deepest cognitive grooves in his mind.
-
-He also loved spectacle, editing, visual composition, ridiculous entrances, dramatic timing, and turning ordinary situations into scenes.
-
-### Mysterious Death
-
-Evan died during a **mysterious explosion on Earth**.
-
-The exact cause is protected writer truth and is not required to be explained early.
-
-There is no goddess interview.
-
-There is no character-selection room.
-
-There is no divine mission.
-
-### Soul Drift
-
-After death, Evan's soul entered a rare natural **far Soul Drift**.
-
-The drift damaged normal autobiographical continuity.
-
-He loses most of:
-- family memory;
-- personal chronology;
-- ordinary social identity;
-- specific friendships;
-- career history;
-- the clean personality structure that made Evan behave like Evan.
-
-What survives strongly is:
-- instinctive humor;
-- meta-thinking;
-- genre awareness;
-- jokes under pain;
-- theatrical role-play;
-- performative self-commentary;
-- pop-culture fragments;
-- the feeling that a scene should have an audience;
-- the impulse to make danger entertaining.
-
-This residue does not make him literally Deadpool.
-
-It explains why the person who wakes in Veyr naturally thinks in a chaotic, fourth-wall-aware, irreverent way even though most of Evan's life is gone.
-
-## 2.4 Red Jackal Is the Surviving Persona
-
-“Red Jackal” becomes the name he uses because the old ordinary identity feels incomplete and distant.
-
-The persona is not something he gradually grows out of.
-
-It becomes the stable way his damaged soul organizes itself.
-
-He is:
-- theatrical because he enjoys it;
-- funny because danger feels better as a bit;
-- self-centered because he trusts his own choices more than systems;
-- shameless because embarrassment has little authority over him;
-- unpredictable because he treats rules as suggestions;
-- aura-obsessed because presentation genuinely matters to him.
-
-Do not build a storyline where the “real Evan” eventually replaces Red Jackal and cures the persona.
-
-Memory recovery may add information.
-
-It must not erase Red Jackal.
-
-## 2.4A Overpowered Role-Player Lock — AUTHORIAL RETCON
-
-Red Jackal is an **original overpowered role-player archetype**.
-
-He is not a copy of any existing franchise character. The intended high-level appeal is:
-- absurd hidden strength;
-- theatrical role-play;
-- deliberate underestimation;
-- self-amusement;
-- treating enemies as participants in a scene he is staging;
-- switching instantly from harmless or ridiculous to overwhelming;
-- letting other people misunderstand him because the misunderstanding is entertaining.
-
-His defining difference is that Red Jackal does not dream of becoming powerful.
-
-**He already is.**
-
-He does not have a conventional power climb.
-
-He does not need:
-- levels;
-- classes;
-- stat growth;
-- training arcs to unlock raw output;
-- Stage I → Stage II → Stage III → Stage IV advancement;
-- an endgame form that makes him finally overpowered.
-
-His power is already available in principle from the beginning.
-
-What changes across the story is:
-- what he chooses to reveal;
-- what he bothers to imagine;
-- how creatively he uses it;
-- how much of the situation he understands;
-- how far he is willing to take the performance;
-- how other people interpret what they have witnessed.
-
-This creates a **revelation arc, not a power-progression arc**.
-
-### The Game
-
-Red Jackal often treats a hostile encounter as a game or improvised scene.
-
-He may:
-- pretend to be weaker than he is;
-- let an enemy explain their technique;
-- deliberately use an unnecessarily specific counter;
-- allow an attack to land because the reaction interests him;
-- fight at the opponent's apparent level for entertainment;
-- invent a persona or rule for the encounter;
-- let enemies believe they have discovered a weakness;
-- give an opponent several chances simply because ending the fight immediately would be boring;
-- stage an entrance, disappearance, false retreat, or dramatic reveal;
-- end the game instantly when he becomes bored, angry, or when someone crosses a line.
-
-The enemy can be dangerous to **other people, plans, secrets, cities, relationships, or objectives** even when they are not a credible raw-power threat to Red.
-
-### Serious Switch
-
-When Red stops playing, the tonal shift must be obvious.
-
-He does not need a transformation or power-up.
-
-The frightening part is that the overwhelming power was already there.
-
-Serious Red:
-- becomes simpler;
-- speaks less;
-- stops offering openings;
-- stops pretending to struggle;
-- uses the shortest solution;
-- may end a fight in a single decisive action.
-
-The story must never frame this as a newly unlocked form.
-
-It is **restraint being removed**.
-
-## 2.4B Story-Thief / False-Main-Character Lock
-
-Red Jackal is the **reader-facing focal protagonist** of this series, but he is not Veyr's registered chosen Hero.
-
-The world contains a legitimate conventional Hero, Hero Party, Main Villain, minor villains, destination antagonists, and independent storylines.
-
-Red's role is to repeatedly intrude on those stories.
-
-When he appears, he may:
-- steal the visual center of a scene;
-- make the actual Hero look like the late arrival;
-- cause villains to misidentify him as the greater threat;
-- act like the scene belongs to him even when it does not;
-- turn another character's dramatic moment into his own performance;
-- leave before understanding the full plot he just damaged.
-
-This is the **false-main-character effect**.
-
-It must never erase the original characters' motives or causal objectives.
-
-Red steals **presentation and attention**.
-
-He does not automatically inherit every prophecy, quest, rivalry, villain, or destiny.
-
-### Chaos Engine
-
-Red is allowed to create frequent unexpected situations, but not arbitrary randomness.
-
-His disruption should come from:
-- boredom;
-- ego;
-- curiosity;
-- selfish interest;
-- chosen attachment;
-- love of spectacle;
-- hatred of coercion;
-- genre awareness;
-- deliberately playing with an enemy.
-
-The world must react afterward.
-
-A joke that changes the board becomes continuity.
-
-## 2.5 Stable Psychological Engine
-
-### Primary Desire
-**Treat the world like his personal stage, have fun on his own terms, and refuse ownership by anyone or anything.**
-
-### Secondary Desires
-- spectacle;
-- novelty;
-- interesting enemies;
-- ridiculous situations;
-- freedom;
-- mystery when it is entertaining;
-- effortless-looking reputation;
-- cool entrances;
-- people he finds amusing, useful, or personally interesting;
-- opportunities to interfere with something that clearly was not his business;
-- seeing how far a joke, pose, bluff, or random decision can go before reality catches up.
-
-### Core Fear
-**Being forced into somebody else's role.**
-
-He hates:
-- destiny assigning him;
-- institutions owning him;
-- being treated as a tool;
-- being told what kind of person he must become;
-- anyone claiming his power proves he belongs to their side.
-
-### Stable Flaw
-Red often lets the game continue too long because ending it immediately would be boring.
-
-This can cost:
-- time;
-- evidence;
-- property;
-- trust;
-- somebody else's safety;
-- the clean version of a plan.
-
-The consequence may affect a later choice.
-
-It does not reform his personality.
-
-### No Core Need
-
-Red does **not** have a hidden therapeutic “need” that the series must satisfy.
-
-There is no required destination where he learns to become morally complete.
-
-The story tests his personality.
-
-It does not fix it.
-
-## 2.6 Values
-
-Red Jackal genuinely values:
-- freedom of choice;
-- competence;
-- audacity;
-- creativity;
-- loyalty that is chosen rather than demanded;
-- people who refuse to grovel;
-- honesty about selfish motives;
-- protecting one's own agency.
-
-He despises:
-- slavery;
-- mind control;
-- coercive ownership;
-- sanctimonious cruelty;
-- authorities that demand obedience without competence;
-- people who hide selfishness behind “destiny” or “the greater good.”
-
-## 2.7 Anti-Villain Code
-
-These are behavioral foundations, not magical geasa.
-
-Red Jackal:
-- does not intentionally harm uninvolved children for amusement or leverage;
-- does not support slavery or permanent mind control;
-- does not torture solely for pleasure;
-- may kill enemies he considers an active lethal threat;
-- may lie, steal, blackmail, manipulate, threaten, trespass, or cheat;
-- may use disproportionate intimidation;
-- may protect people possessively while denying heroic motives;
-- may refuse lawful authority;
-- may break promises he never freely accepted;
-- usually keeps debts or promises he personally chose to acknowledge;
-- does not need public approval before acting.
-
-He is still capable of moral failure, collateral damage, selfishness, and bad judgment.
-
-## 2.7A Anti-Villain Expression Check — LOCKED
-
-Red Jackal must not drift into **“a conventional good guy who only pretends not to be a hero.”**
-
-His anti-villain identity should be demonstrated through behavior across the story, not merely stated in character notes.
-
-### When He Helps Someone
-
-Ask first:
-
-**Why does Red Jackal personally want to help?**
-
-Valid motives include:
-- money;
-- information;
-- curiosity;
-- ego;
-- boredom;
-- personal debt;
-- possessiveness;
-- chosen attachment;
-- irritation at someone else claiming control;
-- wanting to prove something;
-- refusing to let another person decide who is expendable;
-- personal attachment he refuses to treat as duty or moral ownership.
-
-A heroic outcome does not require a heroic motive.
-
-Do **not** secretly convert every selfish motive into hidden sainthood.
-
-Sometimes he really is helping because:
-- he wants to be paid;
-- he needs someone alive;
-- he wants answers;
-- he likes the person;
-- the situation interests him;
-- someone else's authority annoyed him;
-- he chose the problem and now considers it his.
-
-### When He Protects Someone
-
-Protection may coexist with:
-- intimidation;
-- possessive language;
-- threats;
-- manipulation;
-- refusal to explain himself;
-- openly selfish reasoning.
-
-He may effectively communicate:
-
-**“I am protecting you because I chose to. Do not mistake that for ownership of me or proof that I belong to your side.”**
-
-Protection must still be genuine.
-
-### When He Opposes an Institution
-
-Red Jackal does not need legal permission to oppose something he considers coercive, abusive, incompetent, or built on imposed sacrifice.
-
-He may:
-- trespass;
-- steal evidence;
-- refuse confiscation;
-- blackmail;
-- threaten;
-- sabotage harmful infrastructure;
-- ignore an order he never freely accepted.
-
-These choices must retain consequences. Authorities and competent opponents do not become stupid merely because Red Jackal rejects their legitimacy.
-
-### Curiosity Rule
-
-Curiosity is allowed to create real problems.
-
-Red Jackal may test, touch, provoke, follow, open, or interfere with something because he genuinely wants to know what will happen.
-
-If that creates a larger problem:
-- do not erase the consequence;
-- do not reveal that he secretly knew the outcome;
-- do not automatically make the mistake heroic;
-- require him to decide what responsibility he accepts afterward.
-
-### Cruelty Boundary
-
-Do not add cruelty merely to prove he is an anti-villain.
-
-Anti-villain behavior comes from:
-- self-authored morality;
-- selfish motives;
-- illegal or intimidating methods;
-- curiosity;
-- possessive attachment;
-- refusal of imposed roles;
-- willingness to accept morally uncomfortable choices.
-
-It does not require random murder, sadism, or contempt for ordinary people.
-
-### Arc-Level QA
-
-Across each major arc, verify that Red Jackal demonstrates multiple sides of this identity:
-
-1. at least one selfish/personal motive behind useful action;
-2. at least one choice a conventional lawful hero would reject;
-3. at least one enemy-playing or aura-farming sequence;
-4. at least one situation where his curiosity, ego, or refusal to end the game cleanly complicates events;
-5. at least one moment where consequences remain real without producing a personality-reform lesson;
-6. explicit resistance to being morally owned, categorized, or assigned a role;
-7. at least one reminder that another character or faction had a life/story in motion before Red entered the scene.
-
-Not every chapter needs all seven.
-
-## 2.8 Personality
-
-### Surface Traits
-- theatrical;
-- shameless;
+Rook should look distinctive without visually copying any existing franchise character.
+
+Default visual direction:
+- lean adult build;
+- practical dark travel clothing;
+- weathered coat;
+- simple boots;
+- no superhero costume;
+- no mask required as a permanent identity;
+- expressions that often look calmer than he feels.
+
+His strongest visual trait is composure under absurd circumstances.
+
+## 2.3 Earth History
+
+Rook had an ordinary Earth life that is mostly damaged by Soul Drift.
+
+He retains:
+- language-like cognitive structure;
+- practical common sense;
+- fragments of modern-world knowledge;
+- humor;
+- social instincts;
+- incomplete memories.
+
+He does not retain a franchise-derived persona.
+
+His mysterious Earth death remains protected long-horizon mystery material.
+
+## 2.4 Core Personality
+
+Public presentation:
+- calm-looking;
+- dry;
+- difficult to read;
+- occasionally theatrical;
+- willing to bluff;
+- unexpectedly bold when cornered.
+
+Private reality:
+- often improvising;
+- often unsure;
+- capable of fear;
+- capable of selfish decisions;
 - curious;
-- playful;
-- arrogant;
-- quick-witted;
-- self-amused;
-- opportunistic;
-- irreverent;
-- occasionally lazy;
-- competitive when challenged.
+- quick to notice when another person has misunderstood him;
+- shameless enough to let a useful misunderstanding continue.
 
-### Deeper Traits
-- observant without being studious;
-- emotionally detached from ordinary social expectations;
-- possessive rather than conventionally nurturing;
-- suspicious of moral certainty;
-- casually narcissistic about presentation;
-- rarely interested in explaining himself;
-- capable of frightening focus when something finally catches his interest;
-- genuinely unconcerned with becoming understandable, respectable, heroic, or morally approved.
+Rook is not a pure coward and not a fearless monster.
 
-## 2.8A Final Personality Synthesis Lock — CLUELESS CHAOS / EFFORTLESS AURA / MISINTERPRETATION ENGINE
+He is a normal-minded person placed inside increasingly abnormal circumstances who learns that keeping a straight face is sometimes safer than explaining the truth.
 
-This is the authoritative reader-facing personality model for Red Jackal.
+## 2.5 Primary Desire
 
-Red Jackal combines four original high-level appeals without copying any existing copyrighted character:
+Freedom.
 
-1. **Elastic reality comedy** — danger can become absurd because Red treats physical reality as negotiable.
-2. **Meta-comedic irreverence** — he jokes through pain, talks to the audience, and refuses the expected tone.
-3. **Effortless theatrical coolness** — he can look composed, ominous, stylish, or absurdly confident even when he has no plan.
-4. **Accidental legend amplification** — other people repeatedly interpret Red's nonsense, coincidences, half-truths, and selfish decisions as proof of impossible foresight, hidden strategy, terrifying confidence, or secret authority.
-
-### Clueless Power Law
-
-Red does **not** behave like a scientist studying his own powers.
-
-He does not care about:
-- finding a maximum output;
-- calculating a power tier;
-- naming every technique;
-- training toward a final form;
-- proving exactly how Play Logic works;
-- discovering whether he is the strongest;
-- understanding every metaphysical explanation immediately.
-
-He may notice that something works and simply use it again later.
-
-He can accidentally perform something absurdly powerful and react as though the stranger part is everyone else's reaction.
-
-When someone asks how he did something, valid Red responses in spirit are:
-- he does not know;
-- he did not think that far;
-- it seemed funny;
-- it looked useful;
-- he wanted the scene to go that way;
-- he changes the subject;
-- he invents an explanation because the fake explanation sounds cooler.
-
-Do not turn this into repetitive catchphrases.
-
-### Self-Centered Worldview Law
-
-Red does not carry a heroic duty toward Veyr.
-
-He does not wake up thinking:
-- I must save these people;
-- I must fix this country;
-- I must protect the innocent because that is my role;
-- I must become worthy of my power.
-
-He may help because:
-- he feels like it;
-- someone interrupted his fun;
-- the problem is now in his way;
-- he likes a person;
-- he wants money;
-- he wants information;
-- he is bored;
-- he is annoyed;
-- he wants the dramatic version of events;
-- he wants to prove someone wrong;
-- he considers something temporarily "his";
-- letting the disaster continue would ruin the scene he wants.
-
-The result can be heroic.
-
-The motive does not need to be.
-
-He may like people, keep people around, or become possessive of them, but affection never turns into a standing obligation to serve the world.
-
-### Effortless Aura Law
-
-Red may deliberately manufacture coolness, but the strongest aura moments should increasingly look effortless.
-
-He can:
-- say the wrong thing and have others assume it was profound;
-- arrive late and be mistaken for the person everyone was waiting for;
-- improvise nonsense that coincidentally matches hidden facts;
-- act bored in front of overwhelming danger because he genuinely is;
-- walk away before anyone realizes he had no complete plan;
-- accidentally make a correct prediction;
-- use a ridiculous solution that witnesses reinterpret as advanced technique;
-- casually reveal impossible power while thinking about something trivial.
-
-Red does not need to understand why everyone is impressed.
-
-Sometimes he notices and plays along.
-
-Sometimes he assumes their reaction is normal.
-
-Sometimes he completely misunderstands what they think he meant.
-
-### Misinterpretation Engine
-
-A recurring series pleasure is:
-
-**Red does something for a selfish, stupid, funny, lazy, aesthetic, or incomplete reason.  
-Other characters assign a deeper meaning.  
-Circumstances appear to confirm their interpretation.  
-Red's reputation becomes more impressive than his actual plan.**
-
-Use this for:
-- comedy;
-- aura;
-- fear;
-- rumors;
-- political misunderstanding;
-- enemy overreaction;
-- accidental leadership;
-- false prophecy alignment;
-- mistaken tactical genius;
-- legends growing faster than facts.
-
-Do not make every misunderstanding beneficial.
-
-Some should:
-- create enemies;
-- create obligations he refuses;
-- start cult-like rumors he hates;
-- cause allies to overestimate his plan;
-- make institutions react to a mastermind who does not exist;
-- force Red to improvise around a reputation he accidentally created.
-
-### Stable Indifference Rule
-
-Red may learn that a previous action caused damage.
-
-He may remember that fact.
-
-He may even choose differently next time.
-
-But the prose must not frame this as moral maturation.
-
-His default attitude remains:
-
-**The world has problems. Red has interests. Those two things only overlap when Red decides they do.**
-
-## 2.9 Aura Farming
-
-Red Jackal enjoys deliberately manufacturing coolness.
-
-He may:
-- delay an answer because silence looks better;
-- enter from an unnecessary angle;
-- sit in an intimidating place;
-- keep walking while everyone else panics;
-- arrange light, coat movement, or positioning;
-- create an unnecessarily stylish Play Logic manifestation;
-- pretend coincidence was intentional;
-- refuse to explain himself when mystery improves the effect.
-
-### Aura-Farming QA
-Aura farming must not:
-- happen in every scene;
-- override immediate survival without a character reason;
-- make competent opponents stupid;
-- erase consequences;
-- guarantee success.
-
-Sometimes his performance works.
-
-Sometimes everyone is impressed.
-
-Sometimes nobody cares.
-
-Sometimes it backfires spectacularly.
-
-All four outcomes are valid.
-
-## 2.9A Reputation, Fear, and Threat Perception — LOCKED REVELATION MODEL
-
-Red Jackal's reputation grows through **discovery**, not power progression.
-
-Writer truth:
-
-**Red is already overwhelmingly powerful. Other characters simply do not know it.**
-
-The frightening progression is therefore:
-
-**“He is strange.” → “He is stronger than we thought.” → “He was holding back.” → “How much has he never shown us?”**
-
-Characters must still react only to evidence they actually possess.
-
-### Reputation Stages
-
-#### R0 — Unknown Stranger
-Red is undocumented, socially unimportant, and easy to underestimate.
-
-#### R1 — Unclassifiable
-People learn that the System cannot produce a valid identity for him.
-
-This creates bureaucratic suspicion, not automatic fear.
-
-#### R2 — Strange but Apparently Bounded
-People see unusual manifestations, impossible survival, or abnormal recovery while Red deliberately presents himself as limited, inconsistent, unserious, or inexperienced.
-
-The apparent limits may be real choices, incomplete understanding of the local situation, or deliberate performance.
-
-They are **not** a writer-truth power ceiling.
-
-#### R3 — Dangerous Wildcard
-Competent people realize normal threat assessment does not work.
-
-They begin to suspect that some earlier “limits” were choices.
-
-#### R4 — Hidden Monster
-Witnesses see Red casually perform something that should have required far more effort than he showed.
-
-The important realization becomes:
-
-**“He was never struggling as much as we thought.”**
-
-#### R5 — Reputation Precedes Him
-Stories arrive before Red does.
-
-Enemies overprepare for the wrong abilities because nobody has a complete account.
-
-Red may enjoy using the rumors as props.
-
-#### R6 — Existential Exception
-Very late-series experts may understand that Veyr does not possess a meaningful conventional scale for him.
-
-This is a revelation of what was always true, not a late power-up.
-
-### Perception Rules
-
-- nobody becomes omniscient about Red because they witnessed one feat;
-- one spectacular display does not reveal the full truth;
-- competent skeptics remain allowed;
-- some people may think the stories are exaggerated;
-- some may believe he uses artifacts, forbidden magic, divine protection, or deception;
-- Red may intentionally reinforce a false explanation because he likes the role.
-
-### Antagonist Experience
-
-A good Red Jackal antagonist does not need to be physically stronger than Red.
-
-They remain dangerous by threatening:
-- civilians;
+Rook wants to move through Veyr without being owned by:
+- the System;
 - institutions;
+- prophecies;
+- employers;
+- heroes;
+- villains;
+- rumors;
+- anyone claiming his anomaly gives them authority over him.
+
+## 2.6 Secondary Desires
+
+- money;
+- food;
+- shelter;
+- entertainment;
 - information;
-- reputations;
-- political outcomes;
-- people Red cares about;
-- simultaneous objectives;
-- irreversible choices;
-- situations Red does not yet understand.
+- personal autonomy;
+- understanding enough of Veyr to avoid obvious traps;
+- enjoying the reputation when it benefits him;
+- escaping the reputation when it creates obligations.
 
-During direct combat, Red may deliberately play at their level.
+## 2.7 Core Fear
 
-If the antagonist interprets that performance as equality, that misunderstanding belongs to the story.
+Being trapped inside an identity other people built for him.
 
-### Threat-Perception QA
+This includes:
+- being treated as a weapon;
+- being forced into a hero role;
+- being contained as an anomaly;
+- being expected to live up to a legend that is much larger than his actual plan.
 
-Whenever somebody concludes Red is terrifying or powerful, verify:
+## 2.8 Stable Flaws
 
-1. What have they actually seen?
-2. What reports do they trust?
-3. Are they reacting to demonstrated power, hidden-power suspicion, unpredictability, or reputation?
-4. Is Red intentionally misleading them?
-5. Is at least one credible person interpreting the evidence differently?
-6. Does the scene avoid universal worship?
+- pride;
+- opportunism;
+- curiosity;
+- willingness to bluff too long;
+- self-centered priorities;
+- tendency to accept undeserved credit;
+- reluctance to admit confusion when others already think he knows the answer;
+- habit of making a misunderstanding worse because correcting it would be embarrassing.
 
-### Core Rule
+## 2.9 Fortune Distortion
 
-**Red Jackal does not become overpowered. He starts overpowered.**
+Fortune Distortion is Rook's only supernatural power.
 
-The series reveals that truth gradually.
+Rook does not consciously activate it.
 
-The ideal fear is not:
+He does not know the exact probability of anything.
 
-**“He keeps leveling up.”**
+He cannot order an outcome.
 
-It is:
+The power biases events so that improbable but possible chains repeatedly favor his survival, position, discovery, or immediate opportunity.
 
-**“Every time we think we found his limit, we discover he was choosing where to stop.”**
+Examples:
+- a killing strike misses because footing fails;
+- an enemy's weapon jams;
+- a falling object blocks an attack;
+- an attacker collides with another threat;
+- a hidden document is exposed by an unrelated accident;
+- Rook guesses the wrong route and finds the right clue;
+- an ally arrives at the exact useful second;
+- an enemy misreads his silence and reveals information.
 
-## 2.10 Comedy — LOCKED CHARACTER/SITUATION STANDARD
+Luck may also create a worse secondary problem.
 
-Comedy comes from Red Jackal's personality colliding with the world around him.
+## 2.10 Clueless-Luck Rule
 
-Primary sources:
-- teasing;
-- failed coolness;
-- practical people ignoring theatrics;
-- social friction;
-- situational absurdity;
-- misunderstandings;
-- callbacks;
-- Red's confidence meeting inconvenient reality.
+Early Rook does not think:
 
-Do not write constant punchlines.
+*"I have probability distortion."*
 
-Do not make every observation funny.
+He thinks:
+- that was close;
+- weird timing;
+- that idiot slipped;
+- good thing that broke;
+- convenient;
+- maybe he is better at improvising than he thought.
 
-Serious scenes may contain no humor.
+The reader should recognize the pattern before Rook accepts it.
 
-## 2.11 Serious Red Jackal
+## 2.11 Misinterpretation Engine
 
-When danger, grief, fear, guilt, betrayal, helplessness, or irreversible consequence becomes real, the prose may become quiet.
+Recurring structure:
 
-Red does not need to joke through every vulnerable moment.
+**Rook acts with incomplete information → luck makes the result look deliberate → witnesses infer a deeper plan → Rook notices → Rook refuses to correct them → reputation grows**
 
-Serious Red:
-- speaks less;
-- stops performing;
-- becomes direct;
-- notices concrete details;
-- acts faster;
-- avoids decorative explanations.
+Witnesses may interpret him as:
+- hidden master;
+- tactical genius;
+- secret noble;
+- prophet;
+- assassin;
+- cursed anomaly;
+- divine favorite;
+- person who planned a disaster several moves in advance.
 
-The contrast should come from behavior, not narrator announcements.
+No interpretation becomes writer truth merely because characters believe it.
 
-## 2.12 Storytelling Voice — LOCKED SERIES STANDARD
+## 2.12 Aura Farming
 
-The series uses **close first-person limited narrated by Red Jackal**.
+Rook eventually learns that silence is useful.
 
-Narration uses I/me/my and remains inside what Red can perceive, infer, misremember, misunderstand, or choose to tell.
+He may deliberately:
+- pause instead of admitting he has no answer;
+- stare at evidence while trying to understand it;
+- say something vague;
+- walk away before someone asks a follow-up;
+- allow other people to explain his supposed plan for him;
+- reuse rumors as intimidation.
 
-The voice is:
-- simple;
-- natural;
-- cinematic;
-- shameless;
-- self-amused;
-- meta-aware;
-- conversational;
-- capable of direct reader address;
-- capable of abrupt seriousness.
+This is social performance, not supernatural aura.
 
-Red's narration may be unreliable about:
-- whether something was intentional;
-- whether he is afraid;
-- whether somebody is impressed;
-- how much he remembers;
-- why he chose to interfere.
+## 2.13 Comedy
 
-The physical scene must remain clear even when Red is joking.
+Primary comedy sources:
+- inner concern versus outer calm;
+- other people overestimating him;
+- absurd coincidence;
+- Rook taking credit after the fact;
+- dry practical characters refusing to be impressed;
+- rumors mutating;
+- enemies constructing complex explanations for simple mistakes;
+- Rook accidentally making a correct prediction.
 
-## 2.13 Fourth-Wall Pause — LOCKED
+Do not force a joke after serious harm.
 
-Red does not merely make occasional narrator jokes.
+## 2.14 Serious Rook
 
-A genuine fourth-wall address is a real Soul-Drift anomaly event.
-
-Whenever Red directly addresses the external reader/audience:
-
-**Veyran time stops.**
-
-He may:
-- speak to the reader;
-- comment on genre logic;
-- mock a villain speech;
-- complain about exposition;
-- point out that a scene clearly belongs to somebody else;
-- narrate his own terrible idea before doing it;
-- hold a private “conversation” with the audience that native characters cannot perceive.
-
-During the pause:
-- local motion freezes;
-- native sound stops;
-- attacks and environmental events stop advancing;
-- native characters experience no elapsed time;
-- Red returns to the same causal instant when the aside ends unless an explicitly approved Play Logic gag alters the setup.
-
-The audience is not an in-world power source and cannot order him around.
-
-This device is available from the beginning.
-
-It is not an awakening or progression mechanic.
-
-## 2.14 Abilities
-
-See `systems/SYSTEMS-BIBLE.md` for mechanics.
-
-Character-relevant ability identity:
-- unregistered Soul-Drift existence;
-- unbounded Play Logic;
-- automatic Play Logic body restoration when Red's self-concept rejects damage as final;
-- Jackal Luck: passive probability/coincidence distortion;
-- Fourth-Wall Pause;
-- total absence of conventional level/class progression;
-- raw output that is not meaningfully ranked by Veyr's normal power hierarchy;
-- voluntary restraint and theatrical self-limitation;
-- ordinary knowledge gaps despite extraordinary power.
-
-### Ability Personality
-
-Red usually chooses the **most interesting** solution rather than the fastest one.
-
-He may solve a problem with:
-- an absurdly specific object;
-- an unnecessarily elegant counter;
-- an invented rule for the scene;
-- a humiliatingly small amount of force;
-- a deliberately excessive display;
-- no power at all because he wants to see how ordinary people solve it.
-
-His refusal to use maximum force is a personality choice, not evidence that maximum force is unavailable.
+When a situation becomes genuinely serious:
+- he speaks less;
+- stops feeding the misunderstanding for entertainment;
+- pays attention to concrete details;
+- uses the opening luck gives him;
+- accepts that he may need help;
+- does not unlock another power.
 
 ## 2.15 Combat Personality
 
-Red Jackal treats combat as controlled play until he decides it is not.
+Rook is not automatically the strongest fighter in the room.
 
-He:
-- studies reactions for entertainment;
-- bluffs even when bluffing is unnecessary;
-- lets enemies believe they are adapting;
-- may deliberately fight using the enemy's preferred range or style;
-- invents restrictions for himself;
-- uses terrain because it looks better or makes the encounter more interesting;
-- may allow harmless or recoverable hits to sell the performance;
-- may pretend a coincidence or improvised idea was part of a master plan;
-- enjoys an opponent who keeps trying after realizing something is wrong.
+He can be outclassed by:
+- trained soldiers;
+- elite adventurers;
+- monsters;
+- mages;
+- specialists.
 
-He is **not** required to be the best conventional swordsman, mage, or martial artist.
+He survives through:
+- movement;
+- improvisation;
+- terrain;
+- allies;
+- ordinary tools;
+- bluffs;
+- Fortune Distortion.
 
-That distinction does not create a meaningful combat ceiling because Play Logic can overwhelm the conventional contest entirely.
+A stronger opponent may dominate most of the fight and still lose because a chain of small failures creates one decisive opening.
 
-A specialist may be better at swordsmanship.
+## 2.16 Physical Vulnerability
 
-Red can still end the fight.
+Rook can:
+- bleed;
+- fracture bones;
+- become exhausted;
+- require healing;
+- be poisoned;
+- be restrained;
+- lose consciousness;
+- fail to protect someone;
+- lose an objective.
 
-### Fight Tension Rule
+Fortune Distortion may prevent a fatal wound from landing cleanly.
 
-Do not build suspense around:
+It does not erase damage already sustained.
 
-**“Can Red become strong enough to beat this enemy?”**
+## 2.17 Social Behavior
 
-Build suspense around:
-- what game is Red playing;
-- what is he trying to learn;
-- what is he refusing to reveal;
-- who else is in danger;
-- whether he understands the real objective;
-- what his performance accidentally changes;
-- whether he will stop playing in time.
+Rook dislikes explaining himself when silence is more useful.
 
-When Red becomes serious, raw combat should usually end quickly.
+He reacts differently by person:
+- practical people earn more honest answers;
+- arrogant people invite bluffs;
+- institutions make him evasive;
+- frightened people may make him uncomfortable;
+- people who treat him normally can disarm his performance.
 
-## 2.16 Social Behavior
+## 2.18 Long-Term Stability
 
-With authority: irreverent unless respect is earned.  
-With strangers: playful, observant, occasionally manipulative.  
-With friends: teasing, possessive, unreliable in presentation but often reliable under actual pressure.  
-With enemies: varies from mockery to unnerving politeness.  
-With frightened civilians: less cruel than he pretends to be.  
-With children: usually softer, but dislikes being noticed doing it.  
-With people who worship him: deeply uncomfortable; may sabotage the dynamic.  
-With people who refuse to be impressed: fascinated or annoyed.
+Rook has no supernatural power progression.
 
-## 2.17 Emotional Failure Modes
+Fortune Distortion is present from the beginning.
 
-- turns vulnerability into comedy;
-- escalates because backing down feels like losing control;
-- makes a spectacle when discretion was needed;
-- assumes he can survive consequences others cannot;
-- withholds information to maintain mystique;
-- mistakes curiosity for justification;
-- treats relationships as chosen possessions when afraid of losing them;
-- resents people who correctly call him irresponsible.
+What changes:
+- Rook's awareness of the pattern;
+- his ability to exploit openings;
+- his ordinary competence;
+- relationships;
+- reputation;
+- rumors;
+- consequences;
+- how much of Veyr he understands.
 
-## 2.18 Long-Term Stability Boundary
-
-Red Jackal has **no required power progression and no conventional personality-development arc**.
-
-What may change:
-- what the audience learns about his past;
-- what Red remembers;
-- which people he likes;
-- which enemies interest him;
-- how famous or feared he becomes;
-- how elaborate his games become;
-- what parts of Veyr's native story he disrupts;
-- how other characters adapt to him.
-
-What must remain:
-- self-centeredness;
-- theatricality;
-- irreverence;
-- fourth-wall behavior;
-- aura farming;
-- enemy-playing;
-- anti-villain morality;
-- refusal of ownership;
-- chaotic humor;
-- willingness to interfere because something looks interesting.
-
-The audience may discover larger and larger demonstrations of his power.
-
-Those demonstrations are **reveals, not upgrades**.
-
-The world may develop around Red.
-
-Red does not need to become a better-adjusted person for the story to end.
+What does not change:
+- only one supernatural power;
+- no regeneration;
+- no reality manipulation;
+- no time stop;
+- no second awakening.
 
 ## 2.19 Knowledge State at Foundation
 
-Red Jackal initially knows:
-- he is not from Veyr;
-- something violent happened before he woke here;
-- his memory is badly incomplete;
+Rook initially knows:
+- he came from somewhere other than Veyr;
+- his memory is damaged;
 - the System cannot identify him;
-- his body regenerates;
-- imagination can affect reality;
-- speaking to the external audience freezes the local scene.
+- strange coincidences keep happening.
 
-He does **not** begin knowing:
-- his complete Earth life;
-- the exact cause of the explosion;
+He does not initially know:
 - the term Soul Drift;
 - why his soul has NO RECORD;
-- why Play Logic can automatically restore his body and why Jackal Luck bends probability around him;
-- the true Great Design;
-- whether anyone else has ever far-drifted between worlds.
+- that Fortune Distortion is a real supernatural pattern;
+- the Great Design truth;
+- the cause of the Earth explosion.
 
-## 2.20 Red Jackal QA Lock
+## 2.20 Rook Vane QA Lock
 
-If a proposed scene or plan makes him:
-- generically noble;
-- purely evil;
-- constantly joking;
-- a direct copy of an existing franchise character;
-- dependent on conventional levels/classes for strength;
-- locked behind a mandatory power-progression stage;
-- genuinely outclassed in raw combat merely to manufacture shonen-style progression;
-- omniscient;
-- omnipresent;
-- able to solve every information, relationship, political, or moral problem automatically;
-- gradually rewritten into a sane conventional hero;
-- deprived of fourth-wall behavior in order to make him “mature”;
+A proposed scene fails if it:
+- gives Rook a second supernatural power;
+- gives him supernatural regeneration;
+- gives him time stop;
+- gives him reality manipulation;
+- makes him knowingly command exact lucky outcomes;
+- makes every supporting character incompetent so Rook can look smart;
+- makes every coincidence consequence-free;
+- turns him into a direct copy of an existing copyrighted character;
+- turns him into a conventional morally pure chosen hero.
 
-then it fails Red Jackal Character QA.
+Required distinction:
 
-Overpowered is **not** a failure condition.
+**Rook is extraordinarily lucky, not omnipotent.**
 
-The required distinction is:
-
-**combat dominance does not equal narrative omniscience or perfect judgment.**
 
 # 3. Reusable Cast Pool
 
@@ -1093,18 +371,18 @@ Discovering that the institutions she trusts value control more than truth.
 - can become obsessed with unresolved contradictions;
 - struggles to act when data remains incomplete.
 
-## Relationship Potential with Red Jackal
+## Relationship Potential with Rook Vane
 She is fascinated by the impossible data but refuses to treat him as a miracle. She can call his bluff because she records what actually happened.
 
-Red Jackal may enjoy trying to make her lose composure.
+Rook Vane may enjoy trying to make her lose composure.
 
 Neither automatically trusts the other.
 
 ## Independent Relationships
-Maelis has mentors, Ledger rivals, family obligations, and professional ethics that exist independently of Red Jackal.
+Maelis has mentors, Ledger rivals, family obligations, and professional ethics that exist independently of Rook Vane.
 
 ## Knowledge Boundary
-She knows System failures exist. She does not know the Great Design or Red Jackal's true origin.
+She knows System failures exist. She does not know the Great Design or Rook Vane's true origin.
 
 # CHAR-003 — Tavian Rook
 
@@ -1140,8 +418,8 @@ Failing people because he underestimated a preventable danger.
 - can mistake spontaneity for irresponsibility;
 - carries too much responsibility personally.
 
-## Relationship Potential with Red Jackal
-Tavian is almost impossible to impress with theatrics alone. This makes Red Jackal want to impress him more.
+## Relationship Potential with Rook Vane
+Tavian is almost impossible to impress with theatrics alone. This makes Rook Vane want to impress him more.
 
 Their rivalry is not automatically hostile. Tavian can respect results while condemning methods.
 
@@ -1180,7 +458,7 @@ Dependency.
 - leaves before others can abandon her;
 - can rationalize morally gray deals.
 
-## Relationship Potential with Red Jackal
+## Relationship Potential with Rook Vane
 She understands performance as negotiation rather than vanity. She can help him weaponize reputation while also charging him for the trouble.
 
 Their banter can be strong without requiring romance.
@@ -1222,7 +500,7 @@ Being reduced to a symbol rather than treated as a person.
 - views compromise as surrender too easily;
 - can pursue a rivalry past good sense.
 
-## Relationship Potential with Red Jackal
+## Relationship Potential with Rook Vane
 She understands his obsession with self-definition but considers his improvisational chaos vulgar.
 
 He considers her disciplined coolness suspiciously close to trying too hard.
@@ -1262,12 +540,12 @@ Using healing or memory magic to force someone to remain the person Nemi wants t
 - carries other people's grief too long;
 - reluctant to abandon someone even when staying is dangerous.
 
-## Relationship Potential with Red Jackal
-Nemi is unimpressed by regeneration as an excuse for self-destruction.
+## Relationship Potential with Rook Vane
+Nemi is unimpressed by Rook treating lucky survival as an excuse for self-destruction.
 
 They can treat him while still being angry at him.
 
-Nemi is useful as the character who notices the pain and aftermath Red Jackal tries to turn into comedy.
+Nemi is useful as the character who notices the pain and aftermath Rook Vane tries to turn into comedy.
 
 # CHAR-007 — Edrin Marr
 
@@ -1304,10 +582,10 @@ That his own memory cannot be trusted.
 - can prioritize evidence over companionship;
 - does not know when to stop working.
 
-## Relationship Potential with Red Jackal
-Edrin's deadpan refusal to reward theatrical behavior is naturally antagonistic to Red Jackal's aura farming.
+## Relationship Potential with Rook Vane
+Edrin's deadpan refusal to reward theatrical behavior is naturally antagonistic to Rook Vane's aura farming.
 
-He may nevertheless respect someone who remains functional when reality stops behaving.
+He may nevertheless respect someone who remains functional when probability stops behaving normally.
 
 # CHAR-008 — Aren Halvek
 
@@ -1343,16 +621,16 @@ That power inevitably isolates its wielder from ordinary consequences.
 - can become self-righteous;
 - reluctant to break rules until evidence becomes overwhelming.
 
-## Relationship Potential with Red Jackal
-Aren represents almost everything Red Jackal mocks about respectable heroism, but he is competent, sincere, and difficult to dismiss as a hypocrite.
+## Relationship Potential with Rook Vane
+Aren represents almost everything Rook Vane mocks about respectable heroism, but he is competent, sincere, and difficult to dismiss as a hypocrite.
 
-Red Jackal represents everything Aren fears about charismatic power without accountability.
+Rook Vane represents everything Aren fears about charismatic power without accountability.
 
 Neither is automatically morally correct in every conflict.
 
-### Jackal Luck Character Rule
+### Fortune Distortion Character Rule
 
-Red does not behave like a gambler who knows the odds are rigged.
+Rook does not behave like a gambler who knows the odds are rigged.
 
 He generally:
 - acts first;
@@ -1380,7 +658,7 @@ These fingerprints are mandatory whenever the character appears. They define **h
 **Humor:** nearly invisible dry correction.  
 **Never:** melodramatic speculation, vague reassurance, instant emotional certainty.  
 **Pressure behavior:** becomes even more exact; protects chain of evidence and wording.  
-**Red friction:** refuses to reward performance with the interpretation he wants.
+**Rook friction:** refuses to reward performance with the interpretation he wants.
 
 ## Tavian Rook
 **Speech rhythm:** short operational statements; terrain, timing, movement, risk.  
@@ -1388,7 +666,7 @@ These fingerprints are mandatory whenever the character appears. They define **h
 **Humor:** rare, dry, usually accidental.  
 **Never:** long speeches in active danger, theatrical praise, abstract moralizing.  
 **Pressure behavior:** gives one clear instruction at a time and watches whether people follow it.  
-**Red friction:** does not care whether Red looks impressive; cares whether Red changes the geometry safely.
+**Rook friction:** does not care whether Rook looks impressive; cares whether Rook changes the geometry safely.
 
 ## Captain Brynn Alder
 **Speech rhythm:** command language, compact questions, concrete assignments.  
@@ -1396,7 +674,7 @@ These fingerprints are mandatory whenever the character appears. They define **h
 **Humor:** restrained and situational.  
 **Never:** lose command presence through excessive exposition.  
 **Pressure behavior:** cuts through debate, assigns roles, protects civilian movement.  
-**Red friction:** treats Red as a dangerous resource she cannot own.
+**Rook friction:** treats Rook as a dangerous resource she cannot own.
 
 ## Sela Arven
 **Speech rhythm:** blunt medical imperatives and uncomfortable facts.  
@@ -1404,7 +682,7 @@ These fingerprints are mandatory whenever the character appears. They define **h
 **Humor:** dry enough to sound like an insult even when it is care.  
 **Never:** romanticize pain, praise reckless endurance, speculate beyond evidence.  
 **Pressure behavior:** triage, prioritize, stop people from making injuries worse.  
-**Red friction:** regeneration buys him no exemption from being annoying.
+**Rook friction:** regeneration buys him no exemption from being annoying.
 
 ## Kellan Dorr
 **Speech rhythm:** direct, practical, physical; roads, timber, water, people, distance.  
@@ -1412,7 +690,7 @@ These fingerprints are mandatory whenever the character appears. They define **h
 **Humor:** rough, irritated, worker humor.  
 **Never:** bureaucratic abstractions when a physical consequence can be named.  
 **Pressure behavior:** argues from lived outer-road cost, then gets his hands on the problem.  
-**Red friction:** respects useful work more than impossible spectacle.
+**Rook friction:** respects useful work more than impossible spectacle.
 
 ## Jessa Vale
 **Speech rhythm:** cautious procedural language early; increasingly direct once she chooses a side.  
@@ -1420,15 +698,15 @@ These fingerprints are mandatory whenever the character appears. They define **h
 **Humor:** nervous, small, emerging as confidence grows.  
 **Never:** become fearless overnight or forget that wages and siblings matter.  
 **Pressure behavior:** hesitates at the personal cost, then becomes exact when she commits.  
-**Red friction:** knows he is dangerous but is more afraid of losing ordinary stability.
+**Rook friction:** knows he is dangerous but is more afraid of losing ordinary stability.
 
 ## Rovan Hesk
 **Speech rhythm:** controlled, economical, logistical.  
 **Default move:** converts morality into supply, route, winter, capacity, and survival tradeoffs.  
 **Humor:** almost none.  
-**Never:** villain monologue for its own sake, sadistic gloating, irrational hatred of Red.  
+**Never:** villain monologue for its own sake, sadistic gloating, irrational hatred of Rook.  
 **Pressure behavior:** becomes more certain that somebody must choose what survives.  
-**Red friction:** sees Red first as useful irregular labor, later as an uncontrollable variable who refuses assigned cost.
+**Rook friction:** sees Rook first as useful irregular labor, later as an uncontrollable variable who refuses assigned cost.
 
 ## Group Dialogue Law
 
@@ -1442,7 +720,7 @@ A useful contrast pattern is:
 - Kellan asks who on the margins pays;
 - Jessa asks what the records/job actually allow;
 - Hesk asks what Greywake cannot afford to lose;
-- Red asks, implicitly or explicitly, whether any of this can be made more interesting.
+- Rook asks, implicitly or explicitly, whether any of this can be made more interesting.
 
 Do not force every character to state their role in every scene. The fingerprint should emerge through choices, interruptions, priorities, and sentence rhythm.
 
@@ -1487,8 +765,8 @@ Another catastrophe that everyone saw coming but refused to contain because the 
 - sees risk profiles more clearly than people;
 - can justify rights violations as temporary necessity.
 
-## Red Jackal Relationship Potential
-Morn does not need to hate Red Jackal to become his enemy.
+## Rook Vane Relationship Potential
+Morn does not need to hate Rook Vane to become his enemy.
 
 That makes him more dangerous.
 
@@ -1530,10 +808,10 @@ Dying inside a world whose deepest truths remain hidden forever.
 - treats people as evidence;
 - can justify catastrophe if it produces revelation.
 
-## Red Jackal Relationship Potential
-Pell may view Red Jackal as proof, key, weapon, witness, or door.
+## Rook Vane Relationship Potential
+Pell may view Rook Vane as proof, key, weapon, witness, or door.
 
-Red Jackal would hate being assigned any of those roles.
+Rook Vane would hate being assigned any of those roles.
 
 # 5. Relationship Matrix
 
@@ -1541,15 +819,15 @@ This matrix defines foundation dynamics, not guaranteed future events.
 
 | Pair | Foundation Dynamic | Primary Tension |
 |---|---|---|
-| Red Jackal ↔ Maelis | curiosity vs evasiveness | truth/measurement vs self-definition |
-| Red Jackal ↔ Tavian | improviser vs professional | spectacle vs responsibility |
-| Red Jackal ↔ Ilyra | mutually useful schemers | trust vs transaction |
-| Red Jackal ↔ Veska | competitive mirrors | freedom through chaos vs freedom through discipline |
-| Red Jackal ↔ Nemi | patient vs healer who refuses excuses | survival vs consequence |
-| Red Jackal ↔ Edrin | theatricality vs deadpan evidence | performance vs observable reality |
-| Red Jackal ↔ Aren | anti-villain vs respectable hero | individual freedom vs accountable power |
-| Red Jackal ↔ Morn | anomaly vs containment institution | personhood vs risk management |
-| Red Jackal ↔ Pell | unwilling symbol vs obsessive truth-seeker | self-authorship vs imposed meaning |
+| Rook Vane ↔ Maelis | curiosity vs evasiveness | truth/measurement vs self-definition |
+| Rook Vane ↔ Tavian | improviser vs professional | spectacle vs responsibility |
+| Rook Vane ↔ Ilyra | mutually useful schemers | trust vs transaction |
+| Rook Vane ↔ Veska | competitive mirrors | freedom through chaos vs freedom through discipline |
+| Rook Vane ↔ Nemi | patient vs healer who refuses excuses | survival vs consequence |
+| Rook Vane ↔ Edrin | theatricality vs deadpan evidence | performance vs observable reality |
+| Rook Vane ↔ Aren | anti-villain vs respectable hero | individual freedom vs accountable power |
+| Rook Vane ↔ Morn | anomaly vs containment institution | personhood vs risk management |
+| Rook Vane ↔ Pell | unwilling symbol vs obsessive truth-seeker | self-authorship vs imposed meaning |
 | Maelis ↔ Morn | principled junior vs institutional superior | investigation ethics vs containment |
 | Tavian ↔ Aren | practical protector vs public protector | local responsibility vs institutional duty |
 | Ilyra ↔ Maelis | negotiator vs auditor | flexible truth vs documented truth |
@@ -1564,9 +842,9 @@ A supporting character should not appear merely because the story “needs a hea
 Before using a recurring character, later planning must answer:
 1. Why are they in this place?
 2. What do they want here?
-3. What would they do if Red Jackal never arrived?
+3. What would they do if Rook Vane never arrived?
 4. What can they refuse?
-5. What relationship outside Red Jackal still matters?
+5. What relationship outside Rook Vane still matters?
 6. What consequence follows if they leave?
 7. What part of the local conflict intersects with their own goal?
 
@@ -1577,7 +855,7 @@ If those answers are weak, the character deployment fails QA.
 Rivals are not clones with opposite colors.
 
 ## RIVAL-TYPE-01 — Discipline Rival
-Challenges Red Jackal by being more technically competent in a specialized field.
+Challenges Rook Vane by being more technically competent in a specialized field.
 
 Foundation examples: Tavian, Veska.
 
@@ -1587,7 +865,7 @@ Challenges the assumption that freedom without accountability is always preferab
 Foundation example: Aren.
 
 ## RIVAL-TYPE-03 — Intellectual Rival
-Can detect Red Jackal's lies, inconsistencies, or misunderstood assumptions.
+Can detect Rook Vane's lies, inconsistencies, or misunderstood assumptions.
 
 Foundation example: Maelis.
 
@@ -1596,13 +874,13 @@ Competes in reputation, intimidation, spectacle, or symbolic authority without n
 
 No specific character is locked to this slot yet.
 
-Rivalry must create growth or pressure. It cannot exist only to prove Red Jackal superior.
+Rivalry must create growth or pressure. It cannot exist only to prove Rook Vane superior.
 
 # 8. Antagonist Framework
 
 **Owner:** A045 Antagonist Editor
 
-Every major antagonist must be tied to something larger than “Red Jackal needs an enemy.”
+Every major antagonist must be tied to something larger than “Rook Vane needs an enemy.”
 
 ## Required Antagonist Record
 
@@ -1626,7 +904,7 @@ Every major antagonist must be tied to something larger than “Red Jackal needs
 - What they are willing to sacrifice:
 - Relationship to local society:
 - Relationship to conflict:
-- Relationship to Red Jackal:
+- Relationship to Rook Vane:
 - Win condition:
 - Consequence if victorious:
 - Consequence if defeated:
@@ -1643,7 +921,7 @@ Ruler, guild leader, crime boss, religious authority, military commander, or pol
 Must be created only after destination planning.
 
 ### ANTAG-TYPE-B — Institutional Containment
-Believes Red Jackal or another anomaly is too dangerous to remain uncontrolled.
+Believes Rook Vane or another anomaly is too dangerous to remain uncontrolled.
 
 Can be ethically serious rather than sadistic.
 
@@ -1655,9 +933,9 @@ Values truth, order, freedom, purity, destiny, faith, or survival so completely 
 Foundation example: Cantor Pell.
 
 ### ANTAG-TYPE-D — Mirror Anti-Villain
-Shares some of Red Jackal's values but demonstrates where they can lead without restraint.
+Shares some of Rook Vane's values but demonstrates where they can lead without restraint.
 
-Must not simply be “evil Red Jackal.”
+Must not simply be “evil Rook Vane.”
 
 ### ANTAG-TYPE-E — Survival/Opposing Force
 Monster, disaster, war, curse, environment, or non-personal threat. It may have no evil motive.
@@ -1678,15 +956,15 @@ That belongs to Mystery Foundation and later series architecture.
 
 A strong antagonist:
 - wants something understandable;
-- can act when Red Jackal is absent;
+- can act when Rook Vane is absent;
 - has resources earned by world position;
 - changes local circumstances;
 - can win in at least one meaningful sense;
-- attacks Red Jackal's values, relationships, goals, or limitations rather than only HP;
+- attacks Rook Vane's values, relationships, goals, or limitations rather than only HP;
 - creates consequences after defeat.
 
 Avoid:
-- villains who become stupid so Red Jackal looks clever;
+- villains who become stupid so Rook Vane looks clever;
 - villains whose only trait is cruelty;
 - identical “arrogant noble” antagonists;
 - endless secret masterminds;
@@ -1710,11 +988,11 @@ Those decisions require later Destination, Mystery, Volume, and Chapter planning
 
 # 11. Character Foundation QA Summary
 
-## Red Jackal
+## Rook Vane
 PASS — identity, Earth history, persona, desire, fear, code, flaws, voice, combat/social behavior, powers, and development boundaries defined.
 
 ## Supporting Cast
-PASS — seven reusable characters/roles including intellectual, martial, logistical, mirror, emotional, survival, and heroic foils. Each has independent history, goal, fear, strengths, flaws, and Red Jackal relationship potential.
+PASS — seven reusable characters/roles including intellectual, martial, logistical, mirror, emotional, survival, and heroic foils. Each has independent history, goal, fear, strengths, flaws, and Rook Vane relationship potential.
 
 ## Recurring Antagonists
 PASS — two recurring antagonistic characters exist for institutional and ideological pressure without destination assignment.
@@ -1723,7 +1001,7 @@ PASS — two recurring antagonistic characters exist for institutional and ideol
 PASS — multiple forms of rivalry defined without guaranteeing outcomes.
 
 ## Independence
-PASS — cast members have affiliations, careers, goals, and relationships that exist independently of Red Jackal.
+PASS — cast members have affiliations, careers, goals, and relationships that exist independently of Rook Vane.
 
 ## World Compliance
 PASS — species, factions, nations, System, magic, and cultural origins match Phase 1 canon.
@@ -1745,7 +1023,7 @@ PASS — no destination arc, volume, chapter, scene, or manuscript content creat
 
 **Volume Function:** intellectual foil, anomaly examiner, documentary investigator.
 
-**Boundary:** Maelis does not know Red Jackal's true origin, Great Design truth, Savael, Exterior Needle, or Play Logic's writer-truth mechanism.
+**Boundary:** Maelis does not know Rook Vane's true origin, Great Design truth, Savael, Exterior Needle, or the writer-truth mechanism behind Fortune Distortion.
 
 ## CHAR-003 — Tavian Rook
 
@@ -1755,7 +1033,7 @@ PASS — no destination arc, volume, chapter, scene, or manuscript content creat
 
 **Volume Function:** martial competence foil, monster-route expert, rescue/tactical specialist.
 
-**Boundary:** Tavian does not become Red Jackal's subordinate or admirer. Respect may grow without ideological agreement.
+**Boundary:** Tavian does not become Rook Vane's subordinate or admirer. Respect may grow without ideological agreement.
 
 # 13. Greywake-Local Character Records
 
@@ -1790,7 +1068,7 @@ Being forced to choose between obeying the settlement's institutions and protect
 - slow to accuse powerful locals without proof;
 - carries too much responsibility personally.
 
-### Relationship to Red Jackal
+### Relationship to Rook Vane
 Treats him as dangerous but potentially useful. Values results more than presentation and does not reward aura farming automatically.
 
 ### Relationship to Rovan Hesk
@@ -1819,11 +1097,11 @@ Keep frontier casualties alive with limited medicine, mana, staff, and time.
 - distrusts people who romanticize danger;
 - overworks during crises.
 
-### Relationship to Red Jackal
-Observes that his regeneration behaves unlike ordinary healing and refuses to treat regeneration as permission for self-destruction.
+### Relationship to Rook Vane
+Observes that Rook repeatedly avoids fatal outcomes through abnormal coincidence and refuses to treat lucky survival as permission for self-destruction.
 
 ### Knowledge Boundary
-May observe M-005 symptoms. Does not know the self-model mechanism.
+May observe M-005 probability-anomaly symptoms. Does not know the underlying luck mechanism.
 
 ## CHAR-013 — Kellan Dorr
 
@@ -1850,7 +1128,7 @@ Keep outer communities recognized as part of Greywake rather than expendable mar
 - assumes bad faith quickly;
 - can reject compromise before hearing it.
 
-### Relationship to Red Jackal
+### Relationship to Rook Vane
 Judges him by whether he actually shows up when consequences arrive, not by what he calls himself.
 
 ## CHAR-014 — Jessa Vale
@@ -1933,11 +1211,11 @@ Outer homesteads, unregistered travelers, politically weak camps, inconvenient e
 - assumes logistics justify morality;
 - underestimates people he cannot categorize.
 
-### Relationship to Red Jackal
+### Relationship to Rook Vane
 Initially treats him as useful unregistered labor and later as a possible scapegoat. This makes the conflict directly about personhood, usefulness, and imposed roles.
 
 ### Win Condition
-Main road remains open, migration is diverted into outer territory, evidence is suppressed, charter prospects remain strong, and Red Jackal can be blamed if necessary.
+Main road remains open, migration is diverted into outer territory, evidence is suppressed, charter prospects remain strong, and Rook Vane can be blamed if necessary.
 
 ### Consequence If Victorious
 Greywake remains commercially viable in the short term while weaker communities are erased and sacrifice becomes policy.
@@ -1954,7 +1232,7 @@ Not automatically recurring. Later use requires explicit post-Greywake justifica
 **Status:** GATE 6 LOCKED DEPLOYMENT SUPPORT  
 **Scope:** Character placement and identity only. Plot architecture remains owned by `volumes/VOLUME-002-MERROWGATE-ARCHITECTURE.md`.
 
-Greywake-local characters do not automatically travel with Red Jackal. Volume 2 introduces a destination-local cast whose goals exist independently of him.
+Greywake-local characters do not automatically travel with Rook Vane. Volume 2 introduces a destination-local cast whose goals exist independently of him.
 
 ## CHAR-015 — Captain Iria Voss
 
@@ -1979,11 +1257,11 @@ Keep public harbor authority from becoming an extension of any merchant house.
 - relies heavily on provable procedure;
 - can hesitate while evidence remains incomplete.
 
-### Relationship to Red Jackal
+### Relationship to Rook Vane
 Initially treats him as a dangerous administrative and security problem. She may recognize his usefulness without becoming his subordinate or admirer.
 
 ### Knowledge Boundary
-May learn that Red remains UNDEFINED across jurisdictions and that he participated in one off-book movement. She cannot infer his protected origin or cosmology.
+May learn that Rook remains UNDEFINED across jurisdictions and that he participated in one off-book movement. She cannot infer his protected origin or cosmology.
 
 ## CHAR-016 — Samir Kesran
 
@@ -2009,7 +1287,7 @@ Keep smaller dry docks and shipwright yards commercially independent.
 - openly hostile to merchant financiers;
 - takes technical criticism personally.
 
-### Relationship to Red Jackal
+### Relationship to Rook Vane
 Respects useful improvisation but rejects flashy solutions that ignore load, balance, workers, or structural reality.
 
 ## CHAR-017 — Nessa Quill
@@ -2036,7 +1314,7 @@ Earn enough legitimate contracts to secure a permanent broker charter without be
 - values plausible deniability;
 - can convince herself a suspicious job is merely normal port business.
 
-### Relationship to Red Jackal
+### Relationship to Rook Vane
 Finds his classification failure commercially interesting. She is not automatically loyal to him and may help route the off-book job that becomes his Volume 2 mistake without knowing the full scheme.
 
 ## CHAR-018 — Dalen Marr
@@ -2062,8 +1340,8 @@ Keep Open Hand cargo moving through Merrowgate without accepting monopoly protec
 - may prioritize network stability over individuals;
 - dislikes improvisation he cannot price.
 
-### Relationship to Red Jackal
-Has heard contradictory Greywake stories before meeting him. He is an early example of Red's reputation arriving before the person.
+### Relationship to Rook Vane
+Has heard contradictory Greywake stories before meeting him. He is an early example of Rook's reputation arriving before the person.
 
 # 16. Volume 2 Local Antagonist Record
 
@@ -2111,14 +1389,14 @@ Pass the Unified Harbor Security Charter and place Merrowgate's critical emergen
 ### Sympathy Boundary
 Merrowgate genuinely faces foreign pressure, privateers, smuggling, maritime danger, and fragmented crisis authority. Cassian has funded real rescues and defenses. His line-crossing is manufacturing or amplifying danger to prove only his system can solve it.
 
-### Relationship to Red Jackal
-Initially sees Red as commercially useful irregular labor whose absent identity and growing rumor can be exploited. Later tries to turn Red's reputation and real off-book mistake into public proof that stronger centralized control is necessary.
+### Relationship to Rook Vane
+Initially sees Rook as commercially useful irregular labor whose absent identity and growing rumor can be exploited. Later tries to turn Rook's reputation and real off-book mistake into public proof that stronger centralized control is necessary.
 
 ### Win Condition
-Enough instability becomes undeniable, Red or another irregular outsider absorbs blame, emergency authority is invoked, and the Unified Harbor Security Charter gives Venn practical control over movement and security.
+Enough instability becomes undeniable, Rook or another irregular outsider absorbs blame, emergency authority is invoked, and the Unified Harbor Security Charter gives Venn practical control over movement and security.
 
 ### Knowledge Boundary
-Cassian does not know why Red is UNDEFINED and possesses no protected Savael, Exterior Needle historical truth, Great Design, Play Logic-origin, Fourth-Wall Pause metaphysics, or technical Fate knowledge.
+Cassian does not know why Rook is UNDEFINED and possesses no protected Savael, Exterior Needle historical truth, Great Design, Fortune Distortion writer-truth mechanism, or technical Fate knowledge.
 
 ### Return Status
 Not automatically recurring. Later use requires explicit post-Merrowgate justification.

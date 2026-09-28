@@ -1,700 +1,188 @@
 # Chapter 1 — Wrong Forest, Wrong World
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / PLAY LOGIC + JACKAL LUCK RETCON / GATE 9 REVALIDATION REQUIRED
-**Revision Date:** 2026-09-26
+**Status:** CANON RESET — SOUL DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY  
+**Revision Date:** 2026-09-27
 
-White.
+White light swallowed everything.
 
-Heat.
+There had been heat, a sound too large to understand, and one sharp instant when the world seemed to turn inside out. Then Rook Vane opened his eyes beneath a tree he had never seen before.
 
-A sound so large it stopped being a sound.
+Green leaves crowded the sky. Rainwater trembled at their edges, and damp earth pressed cold through the back of his coat. Something with too many legs crawled across a root beside his shoulder. Rook stared at it for several seconds.
 
-For one broken instant, there was only light swallowing everything.
+"Better than the explosion."
 
-Then Red Jackal opened his eyes under a tree.
+His voice sounded normal. That was useful. The rest of him was less cooperative.
 
-Green leaves overlapped high above him. Rainwater clung to their edges. Damp earth pressed cold against his back, and something with too many legs crawled over a root beside his shoulder.
+He pushed himself upright and checked the obvious things first. Two arms. Two legs. No fire. No collapsed building. No emergency sirens. No memory of how he had reached a forest that looked old enough to have opinions about trespassing.
 
-He stared at the canopy.
+His head hurt when he tried to remember. There had been a room. Maybe a street.
 
-Nothing exploded.
+A flash. Then nothing clean.
 
-That was an improvement.
+Rook pressed two fingers to his temple and stopped digging. The pain sharpened whenever he pushed too hard, so whatever his memory was doing, it had posted a guard at the door.
 
-Red took one breath, then another. Head attached. Arms attached. Legs attached. No obvious hole through the middle.
+"Fine," he muttered. "Keep your secrets."
 
-He sat up slowly.
+The forest did not answer. That became suspicious after another minute.
 
-The forest tilted.
+No distant traffic. No aircraft. No electrical hum. The birds sounded wrong—not alien, exactly, but unfamiliar enough that Rook could not confidently name one. The trees were too large, the undergrowth too dense, and pale blue moss climbed one trunk in a spiral that looked almost deliberate.
 
-One hand hit the ground before the rest of him followed. He stayed there until the trees stopped moving.
+He stood carefully. His knees held. That was the second useful thing.
+
+Rook searched his pockets. A small folding knife. Empty wallet. No phone. A metal key he did not recognize. Three coins that definitely were not from Earth.
+
+He turned one over between his fingers. The stamped face showed a tower surrounded by waves.
+
+"Great."
+
+He put it back.
+
+"Either I got robbed by a fantasy convention, or the concussion is doing ambitious work."
+
+A narrow depression ran between the trees ahead. It might once have been a road. Broken stones showed beneath roots and mud, with enough straight lines to suggest human hands had arranged them long ago.
+
+Civilization, or at least evidence that somebody had once regretted building here. Rook followed it. For the first twenty minutes, nothing tried to kill him. That felt increasingly generous.
+
+The ruined road curved downhill through wet brush. Twice he stopped because he heard movement beside him, but both times it was small: something rabbit-sized disappearing under ferns, then a long-tailed bird hopping between branches.
+
+The third sound was different. Heavy. Slow.
+
+Close. Rook stopped with one boot half-submerged in mud. A branch clicked behind him. He turned.
+
+The animal standing between two trees had the general shape of a wolf designed by somebody who thought wolves lacked commitment. Its front shoulders were too high, its muzzle too broad, and dark ridges ran from its eyes to the back of its skull.
+
+Rook looked at it. The animal looked at him. Neither seemed pleased.
+
+"Dog?"
+
+The creature lowered its head.
+
+"Unfriendly dog."
+
+Its lips pulled back.
+
+Rook took one slow step toward the broken road stones. He had the knife, but the blade suddenly looked decorative.
+
+The animal moved sideways to keep him centered. Rook moved again. It followed.
+
+*Wonderful.*
+
+The nearest useful object was a rotten survey post leaning out of the ground. Rook reached toward it without taking his eyes off the animal.
+
+The post came free much more easily than expected. So did half the dirt around it. Rook stumbled backward with the pole in both hands.
+
+The animal lunged. His rear boot hit the loose dirt from the post and slid. Rook dropped flat by accident.
+
+The jaws passed through the space where his throat had been. The animal could not stop as quickly. Its shoulder struck the broken stone marker behind him with a crack that made both of them reconsider the morning.
+
+Rook rolled away. The creature shook itself and turned.
 
 "Okay."
 
-His voice sounded normal.
+Rook got one knee under him.
 
-Almost suspiciously normal.
+"That was luck."
 
-He tried to remember what had happened before the white flash.
+The animal came again.
 
-Explosion.
+Rook jammed the rotten pole forward. He was aiming for the chest. The pole missed completely, glanced off the creature's foreleg, and buried itself between two roots. The result was somehow better.
 
-Heat. Pressure. Violent brightness.
+The animal's leg caught the pole as it passed. The rotten wood snapped. Its front half twisted, and its body slammed sideways into the mud.
 
-Then nothing.
+Rook stared. The creature stared back from the ground.
 
-Everything before that came apart when he reached for it.
+"Still counting that."
 
-He knew what a hospital was. He knew what a phone was. Movies, comics, internet jokes, bad survival advice—those were still there somewhere.
+It snarled and pushed itself up. Rook ran.
 
-His own life was harder.
+The old road bent sharply between two leaning trees. He did not know where it led. He did know that staying near the animal was an increasingly bad career choice.
 
-Names slipped away.
+Branches whipped at his coat. The creature followed. Rook heard it gaining.
 
-Faces refused to sharpen.
+He jumped over a shallow drainage cut and landed badly on the other side. Pain shot through his ankle, but the joint held.
 
-The idea of having a past remained much clearer than the past itself.
+Behind him, the animal jumped too. Its rear paw landed on the broken half of the survey post Rook had left lying in the mud. The wood rolled.
 
-Red checked his pockets.
+The animal crashed shoulder-first into the drainage bank. Rook looked over his shoulder while still running.
 
-No wallet.
+"You've got to be kidding me."
 
-No phone.
+He almost hit a tree because of that.
 
-No keys.
+The road narrowed again. A fallen trunk blocked half the path, forcing Rook toward the slope. He squeezed past it and heard the animal recover behind him.
 
-He checked for the phone again.
+No time. He grabbed the first thing within reach: a hanging vine as thick as his thumb. It tore loose immediately. Rook kept running with three meters of useless vine in his hand.
 
-Still no phone.
+"Excellent tool selection."
 
-*Excellent start.*
+The creature burst around the trunk. The loose vine dragged behind Rook, snagged on a broken branch, tightened across the path, and rose just as the animal charged through. Its front legs hit the vine.
 
-"Excellent."
+For one ridiculous second, the forest's most dangerous thing appeared to trip over gardening. The animal flipped. It struck the fallen trunk hard enough to shake dead leaves from the canopy.
 
-No ambulance waited beyond the trees. No road. No smoke column. No rescue crew.
+Something cracked above them. Rook stopped because his body had finally remembered exhaustion. The creature tried to stand.
 
-No helpful supernatural receptionist stood nearby with a clipboard.
+A rotten branch, thick as Rook's thigh, dropped from the tree overhead. It landed directly between them.
 
-Red looked up through the branches.
+The impact threw mud across Rook's boots and sent the animal scrambling backward. The creature stared at the branch, then at Rook.
 
-"If you're waiting for the goddess, tutorial window, or glowing message, so am I."
+Rook stared back. He had done almost none of that on purpose. The animal did not know that. Rook slowly straightened.
 
-The rain stopped.
+His lungs were burning. His ankle hurt. A thin cut across his forearm had started bleeding where a branch had caught him during the run.
 
-Not slowed.
+He looked at the predator and made the best decision available. He pretended the entire thing had been intentional. Rook tilted his head.
 
-Stopped.
+"Again?"
 
-A droplet hung beneath a leaf above his knee.
+The creature's ears flattened. For the first time, it hesitated. Rook said nothing else.
 
-Another floated beside his shoulder.
+The animal backed away once, then twice. A distant howl sounded somewhere deeper in the forest.
 
-The forest went silent.
+The predator turned and disappeared into the brush. Rook remained perfectly still until the noise faded. Then his knees gave out. He sat in the mud.
 
-Red's expression changed.
+"That," he said to nobody, "was not the plan."
 
-No insects.
+His hands were shaking. He let them.
 
-No distant calls.
+The cut on his forearm was real and annoying, but shallow. Rook cleaned it with rainwater collected in the broad leaves beside the road, then tore a strip from the inside hem of his shirt and wrapped the wound.
 
-No wind.
+No miracle followed. The cut remained a cut. His ankle remained sore.
 
-He looked at the suspended water, then turned slightly toward a place that had no reason to feel occupied.
+His breathing took several minutes to settle. That should have made the situation less strange. It did not. Rook looked back along the road.
 
-And yet it did.
+The loose dirt had made him fall under the first bite. The pole had caught the animal's leg after he missed. The broken post had rolled under its paw. The vine had become a trip line by accident. The branch had fallen exactly when he needed distance.
 
-"That is new."
+Five accidents. One encounter. He rubbed a hand over his face.
 
-Nothing answered.
+"Either I'm having the greatest day of my life or the worst."
 
-"Good talk."
+A small stone rolled down the slope beside him and stopped against his boot. Rook looked at it.
 
-He looked away.
+"Don't start."
 
-The droplet hit his knee.
+He stood and continued walking.
 
-Sound returned all at once.
+This time he moved more carefully. He tested his ankle on level ground, listened at bends, and carried the unbroken half of the survey pole because relying on another convenient tree felt irresponsible. The ruined road gradually improved.
 
-Red stared at the dark spot on his trousers for a moment.
+Drainage cuts appeared in regular intervals. Broken paving stones gave way to packed earth. Fresh wheel marks crossed a muddy patch.
 
-Then he stood.
+People. Rook followed them faster. Near sunset, he reached a maintained road.
 
-Survival first.
+A timber post stood beside it with a board covered in unfamiliar writing. Rook could recognize the structure of letters without understanding a single word.
 
-Answers later.
+Below the text was a carved symbol of clustered roofs. An arrow pointed east. Rook looked down at his torn sleeve, muddy boots, improvised bandage, and the coins in his pocket.
 
-The invisible audience could wait until after food.
+He tried to remember his full name. The answer came slowly, like something surfacing through deep water. Rook Vane. He held onto it before it could disappear again.
 
-His body felt wrong.
+"All right, Rook."
 
-Not injured.
+The name felt real enough. He looked toward the arrow. Somewhere beyond the trees, smoke rose into the evening sky.
 
-Different.
+Civilization meant food, shelter, information, and probably questions he could not answer. Still better than teeth. Rook adjusted the broken pole over one shoulder and started east.
 
-He rose too quickly, overcorrected, and nearly walked into a fern. His balance recovered before the mistake became a fall.
+Behind him, a second rotten branch fell across the road with a heavy crack. Rook stopped. He looked back.
 
-Red flexed his fingers.
+Then at the empty forest. His expression tightened.
 
-His legs felt lighter than memory expected. His shoulders moved with unfamiliar strength.
+"Coincidence."
 
-The clothes were unfamiliar too.
-
-Dark fabric. Flexible. A long coat better suited for dramatic entrances than wilderness survival.
-
-Red looked down at it.
-
-"At least somebody had priorities."
-
-A cold drop slid down the back of his neck.
-
-He flinched hard enough to step on a root.
-
-The forest remained unimpressed.
-
-"Nobody saw that."
-
-Technically true.
-
-He started uphill.
-
-Higher ground offered a better view.
-
-Probably.
-
-Wet leaves immediately punished the decision.
-
-Red climbed ten steps, lost four, caught himself against a tree, and kept going.
-
-At the top, the forest opened just enough to show him more forest.
-
-No rooftops.
-
-No smoke.
-
-No convenient castle.
-
-But there was stone.
-
-A straight line of half-buried blocks crossed the slope beneath moss and roots.
-
-Red crouched and scraped mud away.
-
-Cut edges.
-
-Not natural.
-
-Old roadwork.
-
-"Beautiful."
-
-Civilization had existed here.
-
-Past tense was not ideal, but it was something.
-
-He followed the buried stones.
-
-A rotten timber lay parallel to the route. Brush formed an unnatural corridor. A low marker leaned beside the path.
-
-Then he saw the tracks.
-
-Red stopped.
-
-Four deep impressions pressed into wet soil.
-
-Each was wider than his palm.
-
-Claws at the front.
-
-Fresh.
-
-His gaze followed them into the brush.
-
-*Of course.*
-
-"Naturally."
-
-Something moved behind him.
-
-Leaves whispered.
-
-Red turned.
-
-Nothing.
-
-A branch trembled.
-
-He started walking again.
-
-Not running.
-
-The rustling followed.
-
-Closer.
-
-His pace increased.
-
-Tactical urgency.
-
-A dark shape crossed between two trees ahead.
-
-Red stopped.
-
-The animal stepped into the road.
-
-It resembled a large dog only in the broadest possible sense. Long front legs. Lean body. Dark coarse fur. Narrow head.
-
-Its shoulders rolled as it moved.
-
-Red looked at the animal.
-
-The animal looked back.
-
-Neither seemed impressed by the casting choice.
-
-"Listen," Red said. "I am having a difficult first day."
-
-Its lips pulled away from its teeth.
-
-"Strong counterargument."
-
-Red straightened.
-
-Shoulders back.
-
-Chin slightly down.
-
-If something was going to eat him, it could at least work for the privilege.
-
-The predator lowered itself.
-
-Then it moved.
-
-Fast.
-
-Red jumped sideways.
-
-His body reacted faster than his skill.
-
-One boot hit mud.
-
-He dropped to a knee while jaws snapped through the space where his thigh had been.
-
-A fallen branch came into his hand.
-
-He swung.
-
-The branch broke across the animal's shoulder.
-
-It barely noticed.
-
-Red looked at the splintered half still in his hand.
-
-*Outstanding equipment.*
-
-"That was the warning shot."
-
-The predator circled.
-
-Red backed toward the broken stonework, still holding half a branch.
-
-The animal lunged again.
-
-He shoved the wood forward.
-
-It twisted around the branch and slammed into him.
-
-Pain opened across his left forearm.
-
-Red hit the ground hard enough to lose his breath.
-
-Blood ran over his wrist.
-
-Four ragged cuts split the skin below his elbow.
-
-For one second, the jokes stopped.
-
-The predator came around again.
-
-Red pushed himself up.
-
-No weapon.
-
-No room.
-
-The broken roadside stones boxed him in on one side.
-
-The animal lowered its head.
-
-Red looked for anything useful.
-
-Rock.
-
-Pole.
-
-Board.
-
-Shield.
-
-Anything between him and those teeth.
-
-The predator sprang.
-
-Red threw up his bleeding arm.
-
-A slab appeared.
-
-One moment there was empty air.
-
-The next, a thick dark plate covered half his forearm.
-
-Ugly.
-
-Rectangular.
-
-Like a door designed by panic.
-
-The predator hit it.
-
-The impact drove Red backward into the stones.
-
-Pain shot through his shoulder.
-
-The teeth stopped.
-
-Red stared over the top edge of the slab.
-
-The animal stared back.
-
-For one perfect second, both seemed to share the same professional concern.
-
-Red lifted the slab slightly.
-
-"Calculated."
-
-The world stopped.
-
-The growl vanished mid-note.
-
-Rain hung in the air.
-
-A string of spit remained suspended between the predator's teeth.
-
-Red turned toward the unseen audience.
-
-"No, it was not calculated."
-
-He glanced at the slab attached to his arm.
-
-"Do not ruin this for me."
-
-He looked back.
-
-Time resumed.
-
-The growl finished.
-
-Red shoved forward.
-
-The slab felt wrong in his grip because it had no proper grip.
-
-He had wanted a barrier.
-
-Reality had apparently taken the request personally.
-
-He swung anyway.
-
-The edge struck the predator across the muzzle.
-
-It yelped.
-
-Red swung again.
-
-The slab warped at one corner as his attention split between attacking, surviving, and wondering why construction material had appeared from nowhere.
-
-The second strike clipped its shoulder.
-
-The animal backed away.
-
-Red stepped forward.
-
-Confidence was much easier once physics had agreed to negotiate.
-
-"Go on."
-
-The predator snarled.
-
-Red raised the slab.
-
-Its surface rippled.
-
-He no longer needed it.
-
-The dark material folded inward and vanished.
-
-His empty hand remained raised.
-
-The predator saw that.
-
-Red saw that.
-
-"Small technical issue."
-
-The animal tensed.
-
-A rotten limb cracked high above them.
-
-It dropped behind the predator with a violent crash.
-
-The animal flinched, spun, and vanished into the brush.
-
-Red did not move.
-
-Five seconds.
-
-Ten.
-
-Twenty.
-
-Nothing returned.
-
-His eyes shifted toward the fallen branch.
-
-*That timing was offensively convenient.*
-
-Red cleared his throat and looked toward the empty road.
-
-"Also calculated."
-
-No one challenged him.
-
-Only then did his shoulders drop.
-
-He looked at the place where the slab had been.
-
-"All right."
-
-He pictured it again.
-
-Same shape.
-
-Same ugly door-with-ambition design.
-
-Nothing happened.
-
-Red narrowed his eyes.
-
-Tried again.
-
-Still nothing.
-
-His stomach growled.
-
-That ended the experiment.
-
-"If reality wants me to understand the rules, it can include instructions."
-
-His forearm had a more immediate complaint.
-
-Red sat against the old stones and pulled the torn sleeve away.
-
-The cuts were ugly.
-
-They were also changing.
-
-He went still.
-
-The blood slowed.
-
-The torn edges drew closer together.
-
-Heat spread beneath the skin.
-
-Then came the pain.
-
-"Ah."
-
-Red clenched his teeth.
-
-"Good. Fantastic."
-
-The deepest cut narrowed another fraction.
-
-He touched beside it.
-
-Pain shot to his elbow.
-
-"That was intelligent."
-
-He did not touch it again.
-
-The wound kept pulling itself closed.
-
-Not instantly.
-
-Not cleanly.
-
-But with the same impossible wrongness as the slab appearing where empty air had been.
-
-The injury seemed to be losing an argument with reality.
-
-Red watched the skin draw together beneath dried blood.
-
-*Apparently reality had opinions about how many pieces he was allowed to be in.*
-
-He leaned his head against the stone.
-
-Explosion.
-
-White light.
-
-A forest that froze when he addressed something beyond it.
-
-A barrier he had wanted badly enough to make real.
-
-A perfectly timed falling branch.
-
-Skin correcting damage far too quickly.
-
-Red laughed once.
-
-The sound was not especially healthy.
-
-For a few seconds, he simply sat there.
-
-Scared.
-
-No speech.
-
-No heroic promise.
-
-Just fear.
-
-A bug landed on his boot.
-
-Red looked at it.
-
-"You're not helping."
-
-The bug left.
-
-"Reasonable creature."
-
-He stood.
-
-His arm still hurt, but the cuts already looked older than they were.
-
-Red followed the ruined road more carefully now.
-
-He listened at blind turns.
-
-Avoided thick brush.
-
-Carried a normal stick.
-
-The route slowly improved.
-
-Broken stones became a clearer path.
-
-The drainage ditch returned in sections.
-
-Then Red found fresh wheel marks pressed into the mud.
-
-Recent.
-
-People used this road.
-
-He walked faster.
-
-A few minutes later, the old route joined a maintained one.
-
-Fresh-cut timber reinforced the edge.
-
-A metal band wrapped the base of a roadside post.
-
-Above it hung a board covered in symbols.
-
-Red stared at the writing.
-
-Nothing.
-
-He could tell it was writing.
-
-He could not tell whether it meant settlement ahead or travelers will be eaten by tax officials.
-
-Below the text was a carved picture of clustered roofs.
-
-An arrow pointed down the road.
-
-Trees thinned farther ahead.
-
-Civilization.
-
-Red let out a slow breath.
-
-Then his attention shifted toward the unseen audience.
-
-The world paused.
-
-A falling leaf stopped beside his shoulder.
-
-"Good news. People."
-
-He looked at his bloodstained sleeve, muddy trousers, unfamiliar clothes, and the road ahead.
-
-"Bad news. People."
-
-The leaf remained suspended.
-
-"I can fight a forest animal."
-
-A pause.
-
-"Poorly."
-
-Red looked down the road again.
-
-"Talking my way past strangers with no money, no papers, no useful memories, and no explanation for any of this?"
-
-A smile appeared.
-
-"Now we're entering my natural habitat."
-
-Time resumed.
-
-The leaf finished falling.
-
-Red checked his arm one last time.
-
-Still sore.
-
-Still cut.
-
-Still impossibly better.
-
-Then he tried to remember his name.
-
-Nothing clean came back.
-
-His expression barely changed.
-
-*Future problem.*
-
-For now, he needed food, shelter, information, and a version of himself that could be handed to strangers without sounding insane.
-
-Red straightened his coat.
-
-Nobody was watching.
-
-That was not the point.
-
-He stepped onto the maintained road and followed the arrow.
-
-Whatever waited ahead had answers.
-
-Or paperwork.
-
-Probably both.
-
-The forest had already tried to eat him.
-
-People would have to work harder.
+He kept walking. The forest offered no argument.

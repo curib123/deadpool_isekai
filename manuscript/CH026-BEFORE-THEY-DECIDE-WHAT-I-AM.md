@@ -1,236 +1,374 @@
 # Chapter 26 — Before They Decide What I Am
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / PLAY LOGIC + JACKAL LUCK RETCON — GATE 9 REVALIDATION REQUIRED
+**Status:** CANON RESET — DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY  
 **Revision Date:** 2026-09-27
-**Word Count:** 1,497
-**Chapter QA:** `qa/CH-026-GATE-9-CHAPTER-QA.md`
 
-Greywake sounded different without alarm horns. Hammers had taken over. One outer approach still had militia markers blocking normal traffic.
+Sela changed Rook's bandage without asking permission. Rook considered objecting. Then she pulled the old wrap away from his shoulder and the wound reminded him that personal freedom had practical limits.
 
-Broken North remained closed behind rope, warning boards, and workers who had developed the expression of people prepared to physically attack anyone who called a damaged road probably fine. Red respected them. The market had reopened in pieces.
-
-Half the stalls sold things. The other half had become storage for timber, rope, food, tools, and whatever survival had promoted above decorative pottery. Caravans still waited.
-
-Fewer departed. The ones that did moved under new route instructions Red could not read. Some problems survived every disaster.
-
-A clerk stood beside a route board reading restrictions aloud while two outer-homestead representatives argued with a Guild official about repair priority. The important part was that they were inside the argument. Not outside waiting to hear what had been decided.
-
-Brynn crossed the yard carrying three reports and looking like sleep had become an administrative dispute. "Broken North?"
-
-"Still restricted."
-
-"Main road?"
-
-"Limited traffic."
-
-"Council?"
-
-"Still talking."
-
-"Terrible."
-
-"Yes."
-
-Greywake. Bureaucracy had recovered faster than infrastructure. Red walked far enough along the outer road to see fresh timber bracing old stone.
-
-New markers beside broken ones. Workers clearing debris from the seasonal-cut detour without pretending it would reopen today. Greywake had survived.
-
-It looked like survival. Mud. Timber. Blocked roads. Tired people. Arguments that had not ended. Then Red went to Sela because she had threatened to send someone after him if he did not. She inspected his side. Closed.
-
-She pressed near the ribs. Still tender. Ordinary tissue complaining after extraordinary behavior. His ribs had apparently decided the danger was over only after the bruising filed a formal objection. Just soreness that had not become irrelevant yet.
-
-Sela checked his shoulder. "Still hurts?"
+"Still hurts?" she asked.
 
 "A little."
 
 "Good."
 
-"I question your bedside manner."
+"I continue to question your bedside manner."
 
-"I question your survival strategy."
+"I continue to question your survival strategy."
 
-Fair. Kellan sat near the window with his leg still splinted and elevated. Someone had given him route sketches and decided this counted as rest.
+Fair.
 
-He waved one. "They moved the northern repair priority."
+Across the treatment room, Kellan sat near the window with one leg still splinted. Someone had given him route sketches and apparently decided this counted as rest. He lifted one page.
+
+"They moved the northern repair priority."
 
 "Good?"
 
 "Less stupid."
 
-*High praise.* He had not stood since the injury. He would not stand today. The same impossible logic had already erased damage from Red that would keep Kellan in a splint for much longer. That difference remained unfair. Kellan put the paper down. "You leaving?"
+High praise.
 
-Sela looked at him before Red answered. Treatment-house intelligence remained superior to militia intelligence. "I was considering it."
+Rook's own injuries were healing normally. Slowly enough to be annoying, quickly enough that Sela no longer threatened to keep him under observation.
+
+Kellan would take longer. The road worker from the predator attack would take longer still. Luck had never changed that.
+
+It had only kept Rook from becoming the worst patient in the room. Kellan set the map down.
+
+"You leaving?"
+
+Sela looked at Rook before he answered. Treatment-house intelligence remained superior to militia intelligence.
+
+"I was considering it."
 
 "You were considering it yesterday."
 
-"I consider things slowly."
+"I consider things carefully."
 
-"No. You act quickly and explain slowly."
+Kellan looked at Sela.
 
-Sela made a sound that might have been agreement. Kellan looked toward the road. "You stayed when the road went bad."
+"No, he doesn't."
 
-Not a question. After the backflow. After his injury. After the crisis stopped being entertaining and became complicated. "I did." He nodded once. "That counts."
+"Correct."
 
-Coming from him, it did. No speech followed. Good. Sela handed him a wrapped packet of bandages. "I'm not taking those."
+Rook accepted the defeat. Kellan looked toward the road outside.
+
+"You stayed when the herd came."
+
+Not a question.
+
+"I was already here."
+
+"You could have left."
+
+"Road was crowded."
+
+Kellan stared. Rook sighed.
+
+"Fine. I stayed."
+
+Kellan nodded once.
+
+"That counts."
+
+No speech followed. Good. Sela handed Rook a wrapped packet of clean bandages.
+
+"I'm not taking those."
 
 "You are."
 
-"I regenerate."
+"I'm leaving town, not invading a swamp."
 
-"You bleed first."
+"You attract injuries."
 
-Red took the bandages. There were limits to personal agency. Some sounded like Sela. Maelis was in the records room with Jessa. That had become normal enough to be dangerous. The tables held copied documents from Ledger, militia, Guild, council, and outer-community submissions.
+"That sounds like superstition."
 
-Different custody. Different people allowed to question them. Red still could not read any of it.
+Sela looked at him. Rook took the bandages. Maelis was waiting in the records room. That had become normal enough to be dangerous.
 
-His administrative development remained nonexistent. Jessa copied service references into a new record set. "Temporary work?" Red asked.
+The tables held copied documents from the Ledger, militia, Guild, council, and outer-community submissions. Jessa worked at one end of the room, transferring route references into a new record set.
 
-She nodded. "Council records transition."
+Rook still could not read most of it. His administrative development remained nonexistent. Maelis placed a thin folder in front of him.
 
-"Permanent?"
+"This one is about you."
+
+Rook did not touch it.
+
+"Burn it."
 
 "No."
 
-She did not pretend not to care. Her siblings still needed the income. Doing the right thing had not generated a salary out of the air.
+"Short negotiation."
 
-Maelis closed one ledger. "My formal report will take longer."
+"It is not a criminal file."
 
-"Because I am complicated?"
+"That was not my concern."
 
-"Because Greywake is complicated."
+Maelis opened the folder. Inside were timelines. Not magic diagrams.
 
-Almost flattering. Then she pulled a smaller packet from the stack. "This part is you."
+Not System readouts. Times. Places.
 
-Less flattering. "What did I do?"
+Witness statements. Road conditions. Equipment failures.
 
-"Exist."
+Accidents. Rook recognized the dates. Forest arrival.
 
-"Consistently?"
+Bridge repair. Predator attack. Broken North.
 
-"So far."
+The herd. He looked at Maelis.
 
-Jessa looked down, hiding something close to a smile. Maelis continued. "The Ledger will want follow-up."
+"You made a coincidence ledger."
 
-"There it is."
+"I made an event correlation record."
 
-"Want."
+"That is a coincidence ledger with professional self-esteem."
 
-Red looked at her. She tapped the packet. "Not own." That stopped him. When they first met, Maelis had been trying to measure something the System refused to recognize. Now she was distinguishing documentation from possession.
+She ignored that. Jessa did not. Her mouth twitched. Maelis tapped the first page.
 
-Useful information had accumulated on both sides. "I'm not staying for examinations."
+"One unusual event is noise."
 
-"I know."
+Second page.
 
-"You can ask later."
+"Three can still be selection bias."
 
-"I know."
+Third.
 
-"No surprise cages."
+"Repeated events across unrelated locations, witnesses, equipment, weather, animals, records, and decision points become harder to dismiss."
 
-"That was never authorized."
+Rook looked at the folder.
 
-"Comforting."
+"How hard?"
 
-Jessa actually smiled. Maelis ignored her. "If Ledger contacts you again, you can answer or refuse."
+"I do not know."
 
-Enough. Red left them with work that would continue without him. That mattered. Tavian stood near the gate reviewing a route marker with two workers. He finished before acknowledging him. Red waited.
+Useful answer. Maelis continued.
 
-Also growth, if you were determined to misunderstand it. He looked at the pack over his shoulder. "So."
-
-"So."
-
-"You're leaving."
-
-"I was hoping to make it mysterious."
-
-"You packed food."
-
-Damaged the effect. Brynn approached from the militia yard. No reports this time. Suspicious. "The emergency restriction is lifted," she said.
-
-"What restriction?"
-
-"The one that allowed us to keep an unverified person inside Greywake while we determined whether he was a public-safety threat."
-
-"Oh. That."
-
-"You were informed."
-
-"Was I?"
-
-"Yes."
-
-Probably. Red had been busy being undefined. Brynn folded her arms. "You are free to travel."
-
-No citizenship. No registration. No class. No answer to what Red was. Just no active claim that he had to remain. That mattered more.
-
-Tavian looked toward the road outside. "I'll be north for a while."
-
-"Broken North?"
-
-"Wider monitoring."
-
-"Sounds relaxing."
-
-"It will not be."
+"I cannot prove a mechanism."
 
 "Good."
 
-Neither of them seemed interested in making the farewell larger. "You were reliable when it mattered," he said. Expanded edition. "Careful. I might develop a reputation."
+"I can prove that ordinary explanations become increasingly improbable when the events are treated as one dataset."
 
-"You already have one."
+Rook leaned back.
 
-Unfortunately true. Brynn said: "Greywake could use you." Red looked at her. She continued before Red could react. "That is not an order." Important. "Militia?"
+"So your official conclusion is that I am annoyingly lucky."
+
+"My official conclusion is that chance behaves abnormally around your involvement."
+
+That sounded worse. Rook looked toward Jessa.
+
+"See why I wanted it burned?"
+
+She kept writing.
+
+"No."
+
+Traitor. Maelis closed the folder.
+
+"The important part is what I cannot conclude."
+
+Rook waited.
+
+"I cannot conclude that you control the outcomes."
+
+Good.
+
+"I cannot conclude that the effect protects other people."
+
+Less good.
+
+"I cannot conclude that it guarantees victory."
+
+Better.
+
+"I cannot conclude that every event attributed to you was caused by the anomaly."
+
+Important. Rook looked at her more carefully.
+
+"What are people saying?"
+
+Maelis did not answer immediately. That was usually bad.
+
+"Which people?"
+
+"Worse."
+
+"Militia?"
+
+"Some believe you are an unregistered probability mage."
+
+"Not a thing."
+
+"Correct."
+
+"Guild?"
+
+"Several former Guild workers believe you had advance knowledge of the herd."
+
+"I did not."
+
+"I know."
+
+"Council?"
+
+"Divided."
+
+Rook rubbed his forehead.
+
+"Give me the entertaining version."
+
+Maelis considered.
+
+"One witness believes you intentionally chose the wrong road because you knew the main shelf would collapse."
+
+Rook stared.
+
+"I chose it because the other road looked bad."
+
+"I know."
+
+"That is the opposite."
+
+"I know."
+
+"Anyone sensible?"
+
+"Tavian."
+
+Rook relaxed slightly.
+
+"What does he think?"
+
+"He thinks the number of field coincidences is no longer normal."
+
+Rook stopped relaxing. Of course. Brynn found him outside the records building.
+
+Greywake looked different after the crisis. Not rebuilt. Not healed. Working.
+
+Crews moved timber through the road yard. Militia changed shift at the gate. Traders argued about delayed routes. The settlement had survived and immediately returned to complaining.
+
+Healthy sign. Brynn walked beside him.
+
+"You leaving?"
+
+"Apparently everyone knows."
+
+"You asked for eastbound travel information."
+
+"Spies."
+
+"Clerks."
+
+More dangerous. They reached the gate. Rook looked back at Greywake.
+
+He knew more people here than he had intended. That was how places became inconvenient. Brynn rested one hand on the wall rail.
+
+"Greywake could use you."
+
+Rook looked at her. She continued before he could answer.
+
+"That is not an order."
+
+Important distinction.
+
+"Militia?"
 
 "No."
 
 "Road work?"
 
-"Maybe."
+"Sometimes."
 
-"Undefined emergency tool kept near the gate in case reality becomes inconvenient?"
+"Undefined stranger kept near the gate in case probability becomes embarrassing?"
 
-"Tempting."
+Brynn almost smiled.
 
-Red liked her. That was the problem. Greywake could use him. Maelis could study him. Sela could treat him. Brynn could call when something impossible needed doing.
+"Something like that."
 
-Kellan could ask for support on roads. People could call him hero. Others could call him menace.
+Rook leaned against the rail.
 
-Stay long enough and labels became expectations. Expectations became roles. Roles became the kind of thing other people eventually forgot you were allowed to refuse.
+"The problem is that people have started deciding what I am."
 
-Greywake had become familiar enough that people were starting to confuse familiarity with access. Dangerous assumption. Red knew more names now. More roads. More ways this place could become inconvenient. That did not make any of it his responsibility.
+"They do that."
 
-It just meant Red would remember the place after he left, which was already more than most places had managed.
+"Helpful."
 
-The pack was ordinary. Food. Water. Bandages Sela forced on him. Coin from work already accounted for. A cloak that had somehow survived better than several roads.
+"You're doing it too."
 
-No legendary weapon. No sacred map. No glowing arrow pointing toward destiny. Red did have directions. Several. None had become a decision. Exactly how Red wanted it. At the market edge, people noticed the pack. A woman who had thanked him after the council asked if he was coming back. "I have no idea."
+Rook glanced at her.
 
-A Guild worker told him Red still owed him for a broken pry bar. He did not remember breaking it. That proved nothing.
+"What did I decide?"
 
-A militia recruit nodded like Red was important. An older resident watched him like he was dangerous. A child asked whether he had learned to make a horse. "No."
+"That leaving before anyone can expect anything from you is freedom."
 
-"Small horse?"
+That was uncomfortably close to a real conversation. Rook looked toward the road. Merrowgate lay far beyond Greywake, connected by trade routes and enough distance to make local rumors somebody else's problem. For a while.
 
-"Still no."
+"Maybe I just like ports."
 
-He looked disappointed in his progression. Reasonable. Jessa appeared near the gate with papers in her arms. "You are actually going."
+"You've never seen Merrowgate."
 
-"Apparently."
+"Then the relationship is still healthy."
 
-"Do you know where?"
+Brynn let that pass. A group of workers moved through the gate carrying repaired marker posts. One of them recognized Rook.
+
+He whispered something to the man beside him. The second man immediately looked away when Rook noticed. Rook sighed.
+
+"See?"
+
+Brynn looked amused now.
+
+"You wanted people to think you planned things."
+
+"Temporarily."
+
+"You were very successful."
+
+"That's becoming a theme."
+
+A wagon rolled past them. One rear latch came loose. A crate shifted.
+
+Rook noticed and stepped aside. The crate fell exactly where he had been standing. It hit the ground, broke open, and spilled dried apples across the road.
+
+Everyone nearby stopped. Rook stared at the apples. Brynn stared at Rook.
+
+The wagon driver stared at both of them. Rook closed his eyes.
 
 "No."
 
-She looked at him. "That sounds like you." Red chose to take it positively. Kellan could not come to the gate. Sela would not leave the treatment house long enough to try. Maelis had records.
+Nobody had said anything. He opened them.
 
-Tavian had roads. Brynn had Greywake. Nobody dropped their life to follow him. Good. They had their own stories. Red walked through the gate. Then stopped because a repair wagon was coming in. The driver pointed. "Move." So much for the exit. Red stepped aside while timber rolled toward the damaged approaches. Brynn looked away.
+"I saw the latch."
 
-Definitely hiding a smile. Red waited until the road cleared. Then tried again. No pose this time. Mostly. Greywake sat behind him in river fog, hammer noise, damaged roads, new rules, unfinished arguments, and people rebuilding things they had already learned could fail.
+Brynn nodded.
 
-Hesk was still under guard somewhere inside. Kellan was probably insulting a repair plan from a chair. Maelis was writing facts.
+"Of course."
 
-Jessa was copying records. Sela was threatening patients. Tavian was watching roads. Brynn was preventing the whole settlement from becoming stupid at once. They would continue. So would Red.
+"I did."
 
-Red did not know what waited beyond Greywake. For once, nobody had assigned him the answer. He adjusted the pack and walked until the gate disappeared behind the bend.
+"Of course."
 
-Then Red left Greywake before they could decide what he was.
+"This is how rumors start."
+
+Brynn picked up one apple.
+
+"No. Rumors started twenty chapters ago."
+
+Rook looked at her. She handed him the apple.
+
+"Travel food."
+
+He took it. The driver climbed down, apologizing and collecting the scattered cargo. Rook bit into the apple.
+
+Normal. Good. He looked east.
+
+Maelis could call it abnormal probability. Tavian could call it an impossible field pattern. Greywake could call him a hidden master if it wanted.
+
+Rook had a simpler name for it. A problem that kept being useful. He adjusted his pack.
+
+"Before they decide what I am," he said, "I should probably leave."
+
+Brynn nodded.
+
+"Probably."
+
+Behind them, the wagon driver lifted the broken crate. Beneath it, wedged between two road stones, was an old stamped Guild token everyone had been trying to locate for the final evidence inventory. Brynn saw it.
+
+Rook saw it. Neither moved for a moment. Then Rook pointed east.
+
+"I am leaving faster."

@@ -3,7 +3,7 @@
 **Owners:** A030-A037  
 **Status:** CANON — PHASE 1 FOUNDATION
 
-This file is authoritative for cosmology, World System behavior, magic, reincarnation, Fate, the Great Design, Red Jackal's anomaly, regeneration, and Play Logic. It intentionally contains no arc, volume, chapter, scene, or manuscript planning.
+This file is authoritative for cosmology, World System behavior, magic, reincarnation, Fate, the Great Design, Rook Vane's anomaly, and Fortune Distortion. It intentionally contains no arc, volume, chapter, scene, or manuscript planning.
 
 # 1. Cosmological Stack
 
@@ -116,8 +116,8 @@ The System cannot:
 - guarantee prophecy;
 - map every remote physical location;
 - automatically understand Night Seam phenomena;
-- normalize Red Jackal;
-- convert Red Jackal into a conventional registered being.
+- normalize Rook Vane;
+- convert Rook Vane into a conventional registered being.
 
 
 ## 2.12 Institutional Registry Interfaces
@@ -161,14 +161,14 @@ These interfaces:
 - do not reveal every Skill, Title, Blessing, Curse, or private record by default;
 - do not physically measure weight, temperature, injuries, or equipment;
 - do not create missing identity data;
-- cannot force Red Jackal into registration.
+- cannot force Rook Vane into registration.
 
-For Red Jackal:
+For Rook Vane:
 - the Gate Registry Seal cannot establish a valid World Registry relation;
 - the Certified Identity Slate cannot produce normal identity fields;
 - independent interfaces therefore fail consistently while still being separate tools.
 
-The specific Red Jackal outputs remain governed by the locked anomaly status in this Bible.
+The specific Rook Vane outputs remain governed by the locked anomaly status in this Bible.
 
 
 
@@ -214,7 +214,7 @@ These instruments:
 - do not bypass privacy protections for unrelated information;
 - do not constitute a System appraisal.
 
-For Red Jackal, they may return ordinary physical observations while institutional System interfaces continue returning UNDEFINED / UNAVAILABLE / NO RECORD.
+For Rook Vane, they may return ordinary physical observations while institutional System interfaces continue returning UNDEFINED / UNAVAILABLE / NO RECORD.
 
 
 # 3. Magic
@@ -328,20 +328,20 @@ Tokens are ordinary institutional magic in trade-heavy regions, not rare artifac
 
 They require periodic mana recharge and can fail under damage, interference, or exhausted charge.
 
-### Red Jackal Boundary
-A Wayfarer Tongue Token can translate Red Jackal's ordinary spoken Earth language because it works from expressed speech and conversational intent rather than a preloaded language list.
+### Rook Vane Boundary
+A Wayfarer Tongue Token can translate Rook Vane's ordinary spoken Earth language because it works from expressed speech and conversational intent rather than a preloaded language list.
 
-This is **not** a Red Jackal ability.
+This is **not** a Rook Vane ability.
 
 It does not:
 - register him with the World System;
 - translate Veyran writing for him;
 - explain his arrival;
-- interact with Play Logic;
+- identify or directly manipulate Fortune Distortion;
 - imply System compatibility;
 - connect to Fate, the Great Design, Savael, the Exterior Needle, or any protected mystery.
 
-CH-001 remains unchanged: without such a tool or another established translator, Red Jackal cannot read Veyran writing and does not automatically understand local speech.
+CH-001 remains unchanged: without such a tool or another established translator, Rook Vane cannot read Veyran writing and does not automatically understand local speech.
 
 
 # 4. Reincarnation, Souls, and Soul Drift
@@ -407,9 +407,9 @@ Examples:
 - a strongly rehearsed persona;
 - ways of interpreting pain or danger.
 
-This distinction is essential to Red Jackal.
+This distinction is essential to Rook Vane.
 
-## 4.5 Red Jackal's Earth Death
+## 4.5 Rook Vane's Earth Death
 
 Writer truth:
 
@@ -425,7 +425,7 @@ No god chose him.
 
 No Exterior Needle pulled him.
 
-## 4.6 Red Jackal's Drift Damage
+## 4.6 Rook Vane's Drift Damage
 
 During far Soul Drift:
 
@@ -445,11 +445,11 @@ The surviving groove strongly favors:
 - pop-culture comparison;
 - treating conflict like a scene.
 
-This does not make Red a copy or possession of any fictional character.
+This does not make Rook a copy or possession of any fictional character.
 
 ## 4.7 Cross-World Arrival
 
-Red's far-drift soul reached Veyr without:
+Rook's far-drift soul reached Veyr without:
 
 - native birth;
 - native racial lineage;
@@ -464,7 +464,7 @@ Veyr nevertheless formed a viable embodiment around the foreign soul because phy
 
 The System can only recognize soul relations inside its own continuity model.
 
-Red's soul is real.
+Rook's soul is real.
 
 The registry has no native root for it.
 
@@ -472,7 +472,7 @@ Therefore:
 
 **Soul Registry: NO RECORD**
 
-means **no valid Veyran registry relation exists**, not that Red has no soul.
+means **no valid Veyran registry relation exists**, not that Rook has no soul.
 
 ## 4.9 Historical Knowledge
 
@@ -480,13 +480,13 @@ Veyran scholars know ordinary soul displacement, ghosts, failed reincarnation, p
 
 They do not begin with a confirmed theory of cross-world far Soul Drift.
 
-Ancient records may contain distorted observations of comparable boundary phenomena without proving Red's exact case.
+Ancient records may contain distorted observations of comparable boundary phenomena without proving Rook's exact case.
 
 ## 4.10 Forbidden Experiments
 
 Historical attempts to force soul transfer, duplicate identity, bind the dead, or manufacture reincarnation can resemble fragments of Soul Drift symptoms.
 
-These artificial cases are not the cause of Red's arrival and must not be retroactively used to make him an engineered experiment.
+These artificial cases are not the cause of Rook's arrival and must not be retroactively used to make him an engineered experiment.
 
 # 5. Fate
 
@@ -525,9 +525,9 @@ Prophecy reads likely convergence, not an immutable future. Strong prophecies ar
 
 Powerful will, competing prophecies, magic, divine intervention, anomaly conditions, and chaotic systems can reduce predictability.
 
-## 5.6 Red Jackal and Fate
+## 5.6 Rook Vane and Fate
 
-Red Jackal has no valid native destiny record because he did not enter through normal integration.
+Rook Vane has no valid native destiny record because he did not enter through normal integration.
 
 Consequences:
 - Fate can react to his physical actions;
@@ -606,7 +606,7 @@ Experts may suspect hidden order.
 
 Writer truth remains private until later story architecture deliberately releases it.
 
-# 7. Red Jackal Anomaly
+# 7. Rook Vane Anomaly
 
 ## 7.1 Locked Status
 
@@ -629,22 +629,26 @@ Classification: **ANOMALY**
 **FAILED** — operation cannot complete.  
 **UNAVAILABLE** — feature/path cannot be assigned.  
 **ANOMALY** — classification for behavior outside expected System structure.  
-**The Glitch** — possible informal in-world nickname, never a System field.
+**The Omen** — possible informal in-world nickname, never a System field.
 
 ## 7.3 What He Is Not
 
-Red Jackal does not have:
+Rook Vane does not have:
 - hidden Level 999;
 - invisible normal XP;
 - a secret conventional class;
 - a delayed standard awakening;
-- a normal System evolution path waiting to unlock.
+- a normal System evolution path waiting to unlock;
+- Play Logic or imagination-based reality manipulation;
+- supernatural regeneration or self-restoration;
+- a time-stop / Fourth-Wall Pause ability;
+- a second hidden combat power.
 
 He is also not “weak now but destined to become limitless later.”
 
 **The absence of a progression field is literal. There is no conventional power progression to record.**
 
-His overwhelming anomaly is already present.
+His one anomaly power, Fortune Distortion, is already present.
 
 ## 7.4 Observable Symptoms
 
@@ -655,16 +659,26 @@ When ordinary System functions target him:
 - some blessing/curse interfaces fail or partially attach through his physical body rather than System identity;
 - appraisal tools may error, return incomplete environmental data, or classify only observable equipment and effects.
 
+When Rook is involved in uncontrolled events, observers may also notice statistically abnormal coincidence:
+- lethal attacks miss for ordinary-looking reasons;
+- mechanisms fail at unusually useful moments;
+- unrelated arrivals happen at suspiciously convenient times;
+- random debris or terrain repeatedly creates openings;
+- Rook's bad guesses sometimes intersect the correct answer.
+
+These events remain causally possible even when their clustering is extremely improbable.
+
 ## 7.5 What Ordinary People Might Think
 
 Possible interpretations include:
 - cursed person;
-- divine punishment;
+- blessed fool;
+- divine favorite;
 - forbidden experiment;
-- shapeshifter;
 - System criminal;
 - failed reincarnation;
-- monster wearing human form.
+- monster wearing human form;
+- terrifying tactician who plans several steps ahead.
 
 These are beliefs, not writer truth.
 
@@ -672,17 +686,18 @@ These are beliefs, not writer truth.
 
 Experts can eventually confirm:
 - he is physically real;
-- he can interact with mana and matter;
+- he can interact with mana and matter normally;
 - his soul cannot be found through normal registry methods;
-- his effects do not fit one known magic school;
-- his output does not correlate with any visible level, class, mana pool, or progression record;
-- apparent limits are inconsistent across situations.
+- he has no visible level, class, mana pool, or progression record;
+- improbable events cluster around situations in which he is causally involved;
+- the individual events remain physically or socially possible;
+- the pattern is too persistent to dismiss as ordinary chance.
 
-They still cannot automatically explain his origin or know his full capability.
+They still cannot automatically explain his origin, predict the next lucky event, or prove that Rook consciously controls the pattern.
 
 ## 7.7 No Power Progression — Revelation Model
 
-Red Jackal does not gain raw power through:
+Rook Vane does not gain raw power through:
 - XP;
 - levels;
 - classes;
@@ -691,221 +706,130 @@ Red Jackal does not gain raw power through:
 - conventional awakenings;
 - mandatory training thresholds.
 
-He may improve ordinary knowledge, judgment, tactics, social understanding, local language, technical skill, and familiarity with Veyr.
+Fortune Distortion does not level up.
 
-Those improvements help him choose better solutions.
-
-They do **not** unlock a higher power tier.
+Rook may improve ordinary knowledge, judgment, tactics, social understanding, local language, technical skill, and familiarity with Veyr. Those improvements help him notice and use openings after they appear, but they do **not** unlock a higher supernatural tier.
 
 Writer truth:
 
-**the capability was already there.**
+**the luck was already there.**
 
 Series progression therefore tracks:
 - knowledge of Veyr;
-- creativity of presentation;
-- voluntary restraint;
-- public revelation;
+- recognition of the probability pattern;
+- public interpretation;
 - reputation;
 - relationships;
 - interference with native storylines;
 - consequences.
 
-It does **not** track Red becoming morally healthier, saner, humbler, or conventionally heroic.
+It does **not** track Rook becoming morally healthier, saner, humbler, or conventionally heroic.
 
-# 8. Regeneration / Self-Restoration
+# 8. Fortune Distortion — Luck-Only Anomaly
 
-Red Jackal's body is not meaningfully limited by ordinary lethal damage.
+## 8.1 Definition
 
-## 8.1 Capabilities
+**Fortune Distortion** is Rook Vane's only supernatural ability.
 
-His anomaly can restore him from extreme physical destruction with speed and completeness that ordinary healing systems cannot classify.
+It is passive probability distortion centered on events in which Rook is causally involved.
 
-Cuts, fractures, organ loss, massive tissue destruction, and normally lethal trauma do not create a conventional long-term combat ceiling.
+The power does not create an impossible result directly. It biases which physically, socially, mechanically, or environmentally possible result actually occurs.
 
-## 8.2 Pain and Performance
+## 8.2 Valid Expressions
 
-Pain may still be experienced.
+Fortune Distortion may influence:
+- timing;
+- aim;
+- footing;
+- mechanical reliability;
+- route choice;
+- falling or rolling objects;
+- weather timing when several outcomes are already plausible;
+- random selection;
+- accidental discovery;
+- who arrives first;
+- which witness hears a conversation;
+- which weak point fails;
+- which ordinary object is nearby;
+- chains of individually plausible coincidences.
 
-Red may also:
-- deliberately delay visible recovery;
-- allow an injury to remain for dramatic effect;
-- pretend recovery is slower than it is;
-- use bandages or ordinary treatment because the social situation is easier that way;
-- accept medical care because he likes or respects the person providing it.
+A large lucky outcome should usually be built from several visible small causes instead of one unexplained miracle.
 
-These are not proof that his restoration has a conventional stamina ceiling.
+## 8.3 Invalid Expressions
 
-## 8.3 Narrative Boundary
+Fortune Distortion cannot:
+- conjure matter;
+- erase matter;
+- rewrite reality directly;
+- transform Rook;
+- teleport him without a causal mechanism;
+- stop time;
+- rewind time;
+- resurrect him;
+- regenerate destroyed tissue supernaturally;
+- cancel magic by declaration;
+- perform conceptual attacks;
+- guarantee victory;
+- let Rook consciously order an exact result.
 
-Self-restoration does not make Red:
-- omniscient;
-- omnipresent;
-- able to undo another person's death automatically;
-- able to know what happened while he was absent;
-- automatically correct about consequences.
+If Rook is wounded, the wound remains until it heals normally or receives legitimate in-world treatment.
 
-A person Red failed to protect can still die.
+Luck may prevent the wound from being worse. It may not erase damage that already happened.
 
-A city can still burn somewhere he was not watching.
+## 8.4 Control Model
 
-A political decision can still be made while he is playing with the wrong enemy.
+Rook does not reliably activate Fortune Distortion.
 
-# 9. Play Logic — Unbounded Play
+He does not select a desired probability from a menu.
 
-## 9.1 Definition
+He often acts recklessly, improvises, or makes a casual choice, then discovers that the surrounding sequence has become suspiciously favorable.
 
-**Play Logic** is Red Jackal's imagination-based anomaly.
+This supports the recurring character engine:
 
-Reality accepts the role, object, interaction, transformation, or rule he sincerely chooses to impose strongly enough that normal Veyran categories stop being useful.
+**simple motive → reckless/theatrical choice → probability chain bends → opening appears → Rook acts or an ally acts → witnesses assume planning → Rook accepts the aura → consequences return later**
 
-It is not conventional magic.
+## 8.5 Counterplay
 
-It is not a skill tree.
+Fortune Distortion protects Rook imperfectly.
 
-It has no locked mastery stages.
+It does not automatically protect:
+- allies;
+- civilians;
+- evidence;
+- buildings;
+- political legitimacy;
+- relationships;
+- objectives Rook does not know exist;
+- people in another location;
+- consequences already set in motion.
 
-## 9.2 Writer-Truth Power Model
+A lucky escape can therefore create a worse strategic problem.
 
-Red Jackal is already overpowered.
+## 8.6 Fate Boundary
 
-There is **no known intrinsic ceiling** to Play Logic inside the series power structure.
+Fortune Distortion is not Fate command.
 
-He does not progress from small objects to large effects because he becomes stronger.
+Fate may influence convergence around native story structures.
 
-If an early chapter shows a small effect, the correct interpretation is one or more of:
-- that was all he chose to use;
-- he was testing how Veyr reacted;
-- he did not understand the situation well enough to choose a larger solution;
-- he was preserving his persona;
-- he was entertaining himself;
-- the story had not yet revealed more.
+Fortune Distortion distorts local probability around Rook's causal involvement.
 
-It is not evidence of a true Stage I ceiling.
+The two can interfere with each other without becoming the same system.
 
-## 9.3 Expression
+## 8.7 Fourth-Wall Behavior
 
-Play Logic may express as:
-- temporary or permanent objects;
-- weapons;
-- transformations;
-- barriers;
-- environmental alteration;
-- spatial manipulation;
-- impossible movement;
-- matter/energy alteration;
-- magic cancellation or imitation;
-- conceptual interactions;
-- causality-like tricks;
-- symbolic or metaphorical effects;
-- effects that conventional observers cannot place on a scale.
+Rook may speak toward an unseen audience, comment on genre logic, or behave as though the scene has spectators.
 
-This list is descriptive, not exhaustive.
+This is a cognitive/personality residue and a narrative device.
 
-## 9.4 Voluntary Restraint
+**Veyran time does not stop.**
 
-Red frequently creates his own rules because unrestricted victory is boring.
-
-Examples:
-- “only use one hand”;
-- “beat the swordsman with a spoon”;
-- “do not move from this spot”;
-- “let him finish the spell”;
-- “make it look accidental”;
-- “win without showing anyone what happened.”
-
-These restrictions are character choices.
-
-They can be abandoned instantly.
-
-## 9.5 Apparent Failure
-
-A Play Logic attempt may appear to misfire because:
-- Red was joking;
-- he changed the idea midway;
-- he preferred the funnier result;
-- he misunderstood a local object or concept;
-- he intentionally let the scene continue;
-- he is an unreliable narrator about how intentional something was.
-
-Do not use “reality resistance” as a routine hard ceiling.
-
-## 9.6 Knowledge Is Not Power
-
-Red can possess enough raw capability to erase an enemy while still not knowing:
-- who the real enemy is;
-- what a device does;
-- which person is lying;
-- what political consequence follows;
-- where every hostage is;
-- which choice will hurt someone later.
-
-This is the primary distinction that preserves story tension.
-
-## 9.7 Serious Release
-
-When Red stops playing, the difference is not a transformation.
-
-It is the removal of voluntary restraint.
-
-Serious displays should be:
-- simple;
-- decisive;
-- disproportionate;
-- frightening because the audience realizes previous difficulty was partly performance.
-
-## 9.8 No Progression Ceiling
-
-There is no:
-- Stage I;
-- Stage II;
-- Stage III;
-- Stage IV;
-- final form;
-- level cap;
-- stat cap;
-- mandatory awakening;
-- “strong enough later” requirement.
-
-Future spectacle escalates through **revelation and creativity**, not numerical growth.
-
-## 9.9 Fourth-Wall Pause
-
-Red Jackal's fourth-wall behavior is both a narrative signature and a real anomaly effect.
-
-Whenever Red **genuinely addresses an external reader/audience**, his foreign Soul-Drift relation slips partly outside Veyr's active causal sequence.
-
-Result:
-
-**local Veyran time stops for the duration of the address.**
-
-During the pause:
-- physical motion freezes;
-- local sound ceases;
-- projectiles stop;
-- spells stop advancing;
-- explosions stop expanding;
-- native minds do not experience elapsed time;
-- Red may speak directly to the audience, comment on tropes, mock the situation, think aloud, or perform a meta aside.
-
-Default rule:
-- Red returns to the same causal instant when the aside ends;
-- native characters do not remember the pause;
-- the audience does not grant power;
-- the pause is not a stamina resource;
-- it has no progression tiers.
-
-The pause is **not** evidence that Red is literally inside a fictional book from Veyr's perspective.
-
-It is the observable consequence of a soul that is only partially anchored to Veyr's causal order.
-
-Play Logic may occasionally combine with the pause for a deliberately approved meta gag, but ordinary fourth-wall commentary does not automatically alter frozen physical objects.
+Native characters may notice Rook speaking to nobody if they are present and paying attention. The reader is not an in-world power source.
 
 # 10. Narrative Counterplay and Story Rerouting
 
-No normal opponent is required to exceed Red Jackal in raw power.
+Rook can look impossibly difficult to kill because probability repeatedly creates openings around him, but he is not physically omnipotent.
 
-Threats remain meaningful through conditions Red cannot solve by merely hitting harder:
+Threats remain meaningful through conditions luck cannot automatically solve:
 
 - incomplete information;
 - hidden objectives;
@@ -918,30 +842,30 @@ Threats remain meaningful through conditions Red cannot solve by merely hitting 
 - enemies exploiting his curiosity, vanity, boredom, role-playing, or refusal to take them seriously;
 - situations where winning the fight does not answer the real problem.
 
-Enemies may also temporarily believe they have countered him because Red allows the scene to continue.
+Enemies may also temporarily believe they have solved the pattern, only for a different ordinary variable to fail at the wrong moment.
 
 ## 10.1 Native Story Tracks
 
-Veyr contains System/Fate-supported conflicts that exist independently of Red.
+Veyr contains System/Fate-supported conflicts that exist independently of Rook.
 
-A legitimate Hero, Hero Party, Main Villain, minor villains, wars, conspiracies, prophecies, and quests may proceed even when Red is elsewhere.
+A legitimate Hero, Hero Party, Main Villain, minor villains, wars, conspiracies, prophecies, and quests may proceed even when Rook is elsewhere.
 
-Red is not automatically assigned a role in those convergences.
+Rook is not automatically assigned a role in those convergences.
 
 When he enters one, Fate cannot simply erase him, so the native story **reroutes** around what he changed.
 
 Examples:
-- the Hero arrives after Red already disrupted the expected rescue;
-- a villain survives but changes plan because Red ruined the intended confrontation;
+- the Hero arrives after Rook already disrupted the expected rescue;
+- a villain survives but changes plan because Rook ruined the intended confrontation;
 - a prophecy remains valid in objective but not in expected staging;
-- a minor villain begins treating Red as the main threat even though Red is not part of the original conflict;
-- Red steals a dramatic entrance from the actual Hero without taking the Hero's System role.
+- a minor villain begins treating Rook as the main threat even though Rook is not part of the original conflict;
+- Rook steals a dramatic entrance from the actual Hero without taking the Hero's System role.
 
 ## 10.2 Sequence Preservation
 
-Red may change execution, timing, participants, and consequences.
+Rook may change execution, timing, participants, and consequences.
 
-Do not lazily erase the next planned beat just because Red is overpowered.
+Do not lazily erase the next planned beat just because Rook is overpowered.
 
 If the underlying objective still exists, allow it to return in a logically altered form.
 
@@ -949,9 +873,9 @@ This is **story rerouting**, not immunity to consequences.
 
 ### Hard Rule
 
-Do not manufacture a stronger enemy solely to restore conventional power scaling.
+Do not manufacture an anti-luck enemy solely to restore conventional power scaling.
 
-If Red loses something important, prefer:
+If Rook loses something important, prefer:
 - being too late;
 - choosing badly;
 - misunderstanding the situation;
@@ -961,7 +885,7 @@ If Red loses something important, prefer:
 
 # 11. System Interaction Matrix
 
-| Mechanism | World System | Magic | Fate | Great Design | Red Jackal |
+| Mechanism | World System | Magic | Fate | Great Design | Rook Vane |
 |---|---|---|---|---|---|
 | Identity registration | Primary | No | Indirect | Deep compatibility | Fails |
 | Mana use | Records | Primary | May influence circumstances | Sets broad compatibility | Can interact |
@@ -969,7 +893,7 @@ If Red loses something important, prefer:
 | Prophecy | Records some effects | Can enable visions | Primary | Can reinforce large convergence | Unreliable around him |
 | Reincarnation | Records relation | Can interfere | Integrates future pathways | Deep compatibility | Abnormal entry |
 | Reality correction | Limited | Local | Probability/convergence | Deep long-horizon role | Can trigger pressure |
-| Play Logic | Cannot classify normally | Not conventional magic | Can resist indirectly | May oppose destabilizing scale | Primary anomaly expression |
+| Fortune Distortion | Cannot classify normally | Not conventional magic | Distorts local probability without commanding Fate | May intersect with correction pressure | Primary anomaly expression |
 
 # 12. Knowledge Boundaries
 
@@ -983,7 +907,7 @@ Scholars know magic predates modern System registration, registration can fail l
 Some factions possess records of major System inconsistencies, Night Seam events, and historical reality anomalies.
 
 ## Writer Truth
-The System is not reality itself. Fate is bounded. The Great Design is deeper than System/Fate. Red Jackal entered without normal registry integration and therefore remains structurally undefined.
+The System is not reality itself. Fate is bounded. The Great Design is deeper than System/Fate. Rook Vane entered without normal registry integration and therefore remains structurally undefined.
 
 # 13. Phase 1 Systems QA Summary
 
@@ -992,7 +916,7 @@ The System is not reality itself. Fate is bounded. The Great Design is deeper th
 **Reincarnation:** PASS — soul flow, registry, memory, and cross-world rules established.  
 **Fate:** PASS — real but probabilistic and non-omnipotent.  
 **Great Design:** PASS — writer-truth role and reveal boundary defined.  
-**Red Jackal anomaly:** PASS — locked UNDEFINED/NO RECORD/FAILED/ANOMALY state preserved.  
-**Regeneration:** PASS — extreme self-restoration; ordinary lethal damage is not a meaningful combat ceiling.  
-**Play Logic:** PASS — unbounded from the start; no mastery-stage progression; story tension comes from revelation, restraint, information, judgment, and consequences.  
+**Rook Vane anomaly:** PASS — locked UNDEFINED/NO RECORD/FAILED/ANOMALY state preserved.  
+**Fortune Distortion:** PASS — only supernatural ability; passive probability distortion; no power progression; no guaranteed outcomes.  
+**Removed powers:** PASS — Play Logic, supernatural regeneration/self-restoration, and Fourth-Wall Pause are non-canon under the luck-only retcon.  
 **Scope control:** PASS — no arc, volume, chapter, scene, or manuscript planning.

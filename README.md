@@ -4,7 +4,7 @@
 **Repository:** `curib123/deadpool_isekai`  
 **Genre:** Shounen • Action • Adventure • Dark Fantasy • Comedy • Meta-Fiction
 
-This repository is the canonical production workspace for the Red Jackal light-novel project.
+This repository is the canonical production workspace for the Rook Vane light-novel project.
 
 ## Studio Pipeline
 
@@ -20,7 +20,7 @@ One major volume is one destination arc, and every arc is named after its place:
 2. `series/SERIES-CONSTITUTION.md` — locked identity and structural laws.
 3. `world/WORLD-BIBLE.md` — continents, seas, islands, nations, cultures, history, travel, ecology.
 4. `systems/SYSTEMS-BIBLE.md` — World System, magic, reincarnation, Fate, Great Design, anomaly, Play Logic.
-5. `characters/CHARACTER-BIBLE.md` — Red Jackal and character rules.
+5. `characters/CHARACTER-BIBLE.md` — Rook Vane and character rules.
 6. `mysteries/MYSTERY-BIBLE.md` — mystery and foreshadowing control.
 7. `planning/STORY-PLANNING.md` — destination → volume → chapter → scene.
 8. `manuscript/WRITING-RULES.md` — locked prose/voice rules.

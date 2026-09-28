@@ -1,843 +1,313 @@
 # Manuscript Writing Rules
 
-**Owners:** A090-A097  
-**Status:** LOCKED SERIES STANDARD — DISTANT THIRD-PERSON LIMITED / CINEMATIC WEB-NOVEL ENGLISH / FOURTH-WALL PAUSE
+**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
+**Protagonist:** Rook Vane  
+**Status:** LOCKED — DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / NATURAL WEB-NOVEL PROSE  
+**Effective:** 2026-09-27
 
-# 1. POV — Distant Third-Person Limited
+# 1. POV
 
-All Red Jackal canon prose uses **distant third-person limited** unless a future chapter explicitly authorizes another POV.
-
-Narration uses:
-- Red / he / him / his;
-- an external narrator positioned outside Red;
-- only information available through Red's scene, observable behavior, established facts, and selectively authorized internal thought;
-- restrained access to Red's mind rather than continuous thought-stream narration;
-- clear physical action, dialogue, setting, and consequence before interpretation.
-
-The prose should feel like the reader is **watching Red from a controlled narrative distance**, not trapped inside his head.
-
-The narrator may describe:
-- what Red does;
-- what Red visibly reacts to;
-- what Red likely notices when needed for scene clarity;
-- what the environment is doing;
-- what other characters visibly do;
-- limited Red thoughts when they materially improve the scene.
-
-Do not use:
-- first-person I / me / my narration outside direct speech or Fourth-Wall address;
-- head-hopping into other characters;
-- omniscient disclosure of protected truth;
-- constant explanation of Red's private motives;
-- narrator commentary that solves mysteries before the characters can.
-
-## 1A. Distant Web-Novel Narration Standard — LOCKED
-
-The default prose model is **modern distant third-person limited web-novel narration**.
-
-Use four layers:
-
-1. **External narration / action**
-   - visible movement;
-   - scene geography;
-   - environment;
-   - posture, expression, timing, silence;
-   - consequences.
-
-2. **Dialogue**
-   - carries a large share of personality, conflict, comedy, and motive;
-   - lets Red reveal himself through what he says rather than constant internal explanation;
-   - allows supporting characters to remain independently readable.
-
-3. **Selective Red thought**
-   - used only when the scene gains something that action/dialogue cannot show cleanly;
-   - short;
-   - usually one line or one brief paragraph;
-   - may be italicized when presented as an exact thought.
-
-4. **Narrative implication**
-   - the narrator may show that Red is amused, bored, irritated, confused, or interested through behavior without spelling out every thought.
-
-### Recommended Chapter Mix
-
-Flexible target, not quota:
-- **55–70%** distant narration / action / scene description;
-- **25–40%** dialogue;
-- **0–10%** direct internal thought.
-
-Action chapters may use even less internal thought.
-
-Social chapters may rely heavily on dialogue.
-
-Mystery chapters may allow slightly more limited Red inference, but the narrator should still stay outside his immediate thought-stream.
-
-### Internal Thought Style
-
-Preferred:
-
-Red looked at the three armed men.
-
-His smile widened.
-
-"Breakfast really is getting ambitious."
-
-Also valid:
-
-Red looked at the locked door.
-
-*Could break it.*
-
-He tried the handle instead.
-
-Avoid:
-- pages of internal monologue;
-- repeated direct access to every decision;
-- explaining the joke before Red says it;
-- narrating every emotion he feels.
-
-### Narrative Distance
-
-Preferred distant style:
-
-The room was small: one desk, three chairs, shelves packed to the ceiling.
-
-Red looked around once.
-
-"Paperwork won."
-
-This is preferred over making every description itself sound like Red's internal voice.
-
-The narrator may be stylish, but should remain more neutral than Red.
-
-### Dialogue-Narration Weave
-
-Preferred rhythm:
-
-Narration establishes movement or setting.
-
-Dialogue exposes character.
-
-A physical reaction or silence changes the beat.
-
-Optional brief Red thought.
-
-Consequence.
-
-### Paragraph Rhythm
-
-For mobile/web reading:
-- prefer 1–4 sentences per paragraph;
-- use one-line paragraphs for impact;
-- avoid giant blocks;
-- keep battle geography clear;
-- do not make distant narration dense or literary for its own sake.
-
-### Exposition Rule
-
-Worldbuilding should still arrive through active scenes.
-
-Distant narration permits concise setup, but it must not become an encyclopedia.
-
-### Scene Feel
-
-A strong Red scene often follows:
-
-**situation → Red acts/speaks → others react → narrator shows the consequence → optional brief Red thought → next move**
-
-The reader should often understand Red from what he does **before** being told what he thinks.
-
-## Lively Dialogue + Selective Self-Thought Rule
-
-Distant narration must not make scenes emotionally flat.
+All current canon chapters use **distant third-person limited focused on Rook Vane**.
 
 Use:
-- quick back-and-forth dialogue;
-- interruptions;
-- dry reactions;
-- unfinished answers;
-- teasing;
-- disagreement;
-- awkward pauses;
-- visible body language.
+- Rook / he / him / his;
+- only information available through Rook's scene plus established external facts;
+- selective internal thought;
+- visible reactions;
+- strong dialogue;
+- clear physical action.
 
-Red's private thoughts should be brief and selective.
+Do not:
+- head-hop;
+- narrate other characters' private thoughts;
+- use first-person narration as the default;
+- reveal protected writer truth through the narrator.
 
-Examples:
+# 2. Prose Style
 
-Red watched the guard drop the key.
+Use simple, cinematic, natural English.
 
-*That was suspiciously convenient.*
+The prose should feel like a modern serial web novel:
+- easy to read on mobile;
+- visually clear;
+- active;
+- dialogue-driven when appropriate;
+- not overly literary;
+- not screenplay-like.
 
-He picked it up.
+# 3. Paragraph Rhythm — Hard Rule
 
-"See? Planning."
+Normal narration should usually use **2–5 connected sentences per paragraph**.
 
-Or:
+One-sentence narration paragraphs are allowed for:
+- impact;
+- punchlines;
+- sudden danger;
+- reveals;
+- reversals;
+- serious silence;
+- chapter-ending hooks.
 
-Tavian stared at him.
+Do not default to:
 
-"You guessed."
-
-Red smiled. "I prefer 'anticipated badly.'"
-
-The thought should sharpen the beat, not replace dialogue.
-
-# 1B. Natural Story-Prose Flow — LOCKED
-
-The prose must read like a **normally written story**, not a stack of screenplay beats or one-line fragments.
-
-Default paragraph style:
-- 2–5 connected sentences when the same action, thought, or observation belongs together;
-- dialogue should be woven into action and reaction;
-- short fragments are allowed for impact, comedy, shock, or sudden realization;
-- one-line paragraphs should be **selective**, not the default rhythm.
-
-Avoid dry patterns like:
-
-Red looked at the door.
-
-Locked.
-
-Bad.
-
-He sighed.
-
-Instead prefer natural flow:
-
-Red tried the door and found it locked. He stared at the handle for a second, then sighed.
-
-"Of course."
-
-Likewise, avoid mechanical action lists:
-
-He turned.
-
-He walked.
+Rook moved.
 
 He stopped.
 
-He looked back.
+He looked left.
 
-Prefer:
+Something moved.
 
-Red turned toward the road, walked a few steps, then stopped when something moved behind him.
+Instead prefer:
 
-### Lively Scene Rule
+Rook moved down the road, then stopped when something shifted in the brush to his left. He turned slowly and listened.
 
-Scenes should feel alive through a mix of:
-- narration;
+Hard QA:
+- repeated chains of 3+ one-sentence narration paragraphs require revision unless the scene is deliberately compressing a climax;
+- dialogue turns remain separate by speaker;
+- action may briefly shorten during combat;
+- the prose must return to natural paragraphing afterward.
+
+# 4. Rook's Voice
+
+Rook is not the narrator, but his personality must remain obvious through:
 - dialogue;
-- physical reaction;
-- interruption;
-- small environmental details;
-- selective self-thought;
-- character-specific responses.
-
-Dialogue should not float by itself for long stretches. Add what characters are doing while they speak.
-
-### Fragment Rule
-
-Fragments are useful when they sharpen a beat.
-
-Good:
-- Too late.
-- Wonderful.
-- Bad idea.
-- *That was suspiciously convenient.*
-
-Bad:
-- stacking five or more fragments where normal prose would be smoother;
-- breaking every sentence into its own paragraph;
-- using fragments simply to imitate "cinematic" writing.
-
-### Normal Web-Novel Reading Rhythm
-
-Use this flexible pattern:
-
-**narrative paragraph → dialogue → reaction/action → short thought if useful → next narrative paragraph**
-
-The story should feel conversational and visual without reading like a screenplay or bullet list.
-
-# 2. Movie-Like English
-
-Use **simple, natural, cinematic English**.
-
-Movie-like means the reader can clearly picture the scene while still reading a novel.
-
-Prefer:
-**action / sound / visual change → Red's reaction → dialogue → consequence**
-
-Use:
-- clear movement;
-- faces and hands;
-- entrances and exits;
-- distance;
-- objects in motion;
-- weather;
-- light;
-- blood;
-- silence;
-- short action paragraphs when impact is fast.
-
-Avoid:
-- screenplay directions;
-- camera terminology;
-- purple prose;
-- technical wording when simple words work;
-- long abstract explanation before something happens.
-
-# 3. Red's Reader-Facing Voice
-
-Red is **not the standard narrator** under the current distant-third-person rule.
-
-His reader-facing voice must still be unmistakable through:
-- dialogue;
-- selective self-thought;
-- body language;
-- timing;
-- theatrical choices;
-- fourth-wall addresses.
-
-Red is:
-- shameless;
-- playful;
-- theatrical;
-- self-centered;
-- chaotic;
-- observant;
-- casually arrogant;
-- genre-aware;
-- pop-culture-aware;
-- capable of instant seriousness;
-- frequently amused by his own choices.
-
-The external narrator should not imitate Red in every sentence. Let Red's personality erupt through what he says, does, privately thinks, and refuses to take seriously.
-
-Do not make him emotionally polished.
-
-Do not make him a secretly conventional hero.
-
-Do not write a moral-development arc into his voice.
-
-# 3A. Final Red Jackal Performance Lock
-
-Red's reader-facing personality must consistently preserve this original four-part engine:
-
-- **elastic reality comedy** — reality can become absurd around his choices;
-- **meta-irritant energy** — he mocks danger, genre logic, pain and dramatic expectations;
-- **effortless dark coolness** — he can look like he planned everything even when he did not;
-- **misinterpretation aura** — other people repeatedly assign genius, menace, prophecy, foresight or strategy to actions Red performed for much simpler reasons.
-
-Do not imitate exact dialogue, scenes, catchphrases, costume language or plot beats from existing copyrighted characters.
-
-The target is an original Red Jackal expression of those broad appeals.
-
-### Clueless-About-His-Power Rule
-
-Red knows he can do impossible things.
-
-He does **not** know, measure or care about his full ceiling.
-
-Avoid making him constantly:
-- test maximum output;
-- analyze metaphysical mechanics;
-- compare tiers;
-- seek training;
-- ask how strong he is;
-- obsess over hidden limits;
-- treat every manifestation like a research result.
-
-He can discover practical behavior accidentally, use it later, and move on.
-
-A strong Red beat is often:
-
-**impossible act → everyone else reacts → Red is confused why they are making it dramatic.**
-
-### Indifference Rule
-
-Red is not driven by universal compassion, duty, justice or responsibility.
-
-He can like people.
-
-He can protect someone.
-
-He can become angry when someone touches something or someone he considers his.
-
-But his first motive should usually be personal:
-- amusement;
-- irritation;
-- ego;
-- convenience;
-- money;
-- curiosity;
-- possession;
-- boredom;
-- spectacle;
-- revenge;
-- freedom;
-- the desire to make the scene more interesting.
-
-Do not write repeated internal reassurance that he is "still not a hero."
-
-Show it through what he chooses to care about and what he ignores.
-
-### Misinterpretation / Accidental-Mastermind Rule
-
-At regular intervals, let Red do something with an incomplete, selfish, aesthetic, lazy or ridiculous motive.
-
-Then allow other characters to interpret it as:
-- calculated strategy;
-- hidden knowledge;
-- terrifying restraint;
-- political intent;
-- prophecy;
-- secret status;
-- tactical genius;
-- confidence backed by impossible power.
-
-Circumstances may accidentally support their interpretation.
-
-Red may:
-- play along;
-- misunderstand what they think;
-- enjoy the reputation;
-- leave before learning what they concluded.
-
-The misunderstanding must create future consequences.
-
-# 4. Deadpool-Fan Residue Rule
-
-Red does not retain a normal complete Earth identity.
-
-His old obsession with Deadpool and similar meta-comedic media survived Soul Drift as a deep cognitive-performance groove.
-
-This can influence:
-- timing;
-- irreverence;
-- reader-address instinct;
-- jokes under pain;
-- reference-heavy thinking;
-- willingness to mock the scene itself.
-
-Never copy Deadpool dialogue or reproduce franchise-specific scenes.
-
-Red's jokes and phrasing must be original.
-
-# 5. Fourth-Wall Pause
-
-A **true fourth-wall break** is a real anomaly event.
-
-Whenever Red directly addresses the reader/audience as an external observer:
-
-**Veyran time stops.**
-
-Presentation:
-1. the active scene freezes;
-2. Red notices or simply accepts the pause;
-3. he addresses the audience;
-4. the aside remains concise enough to preserve pacing unless the joke deliberately requires a longer beat;
-5. Red resumes;
-6. the world continues from the same instant.
-
-During the pause:
-- arrows may hang in the air;
-- a sword may stop centimeters from him;
-- a person may remain frozen mid-expression;
-- rain may hang as droplets;
-- explosions may freeze before expanding.
-
-Native characters do not remember the pause.
-
-Reader-talk is real, but the reader is **not** a character who gives Red commands and is not a power source.
-
-Fourth-wall pauses may be frequent because they are a signature device, but do not interrupt every emotional line or every attack.
-
-Use them where Red would naturally comment on:
-- genre logic;
-- absurd danger;
-- villain speeches;
-- his own entrance;
-- obvious tropes;
-- bad plans;
-- the difference between what characters think and what he thinks is funny.
-
-# 6. Dialogue — Human, Movie-Like Conversation
-
-Dialogue should feel performed by people, not generated as exposition.
-
-Use:
-- interruptions;
+- selective thoughts;
 - pauses;
-- incomplete sentences;
-- overlapping intent;
-- teasing;
-- callbacks;
-- people ignoring Red's joke;
-- people refusing to answer;
-- subtext;
-- silence.
+- posture;
+- choices;
+- bluffs;
+- what he refuses to explain.
 
-Different characters must have different rhythms.
+Rook is:
+- dry;
+- observant;
+- opportunistic;
+- self-centered;
+- outwardly composed;
+- internally more uncertain than he looks;
+- willing to take credit once a misunderstanding becomes useful;
+- capable of seriousness.
 
-Red can talk too much during combat because he enjoys the scene.
+# 5. Fortune Distortion — Only Supernatural Power
 
-When Red turns serious, his dialogue becomes shorter.
+Fortune Distortion is passive probability distortion.
 
-# 7. Comedy
+It may influence:
+- timing;
+- aim;
+- footing;
+- mechanical failure;
+- route choice;
+- random selection;
+- falling objects;
+- accidental discovery;
+- interruptions;
+- arrivals;
+- chains of individually possible events.
 
-Comedy is a primary identity of the series but does not need a joke every paragraph.
+It may not:
+- create matter;
+- rewrite reality directly;
+- stop time;
+- rewind time;
+- regenerate Rook;
+- resurrect Rook;
+- teleport him without a normal mechanism;
+- cancel magic by declaration;
+- guarantee victory;
+- let Rook consciously choose an exact outcome.
 
-Main sources:
-- Red treating a deadly enemy like an improv partner;
-- fourth-wall pauses;
-- aura farming;
-- deliberately overdramatic entrances;
-- absurdly specific Play Logic props;
-- enemies misunderstanding what kind of monster he is;
-- competent people refusing to cooperate with his performance;
-- Red interrupting a scene that clearly belonged to somebody else;
-- a native hero arriving after Red already ruined the expected setup;
-- Red making a reference nobody in Veyr can understand;
-- physical comedy that Red can survive but others cannot.
+# 6. Writing Luck Correctly
 
-Serious consequences may remain quiet.
+Show the causal chain.
 
-# 8. No Red Character-Development Arc
+Weak:
+> Rook's luck activated and the monster lost.
 
-Red may learn information.
+Better:
+> The monster lunged. Its rear paw landed on the same rain-slick stone Rook had nearly slipped on moments earlier. The paw went sideways, the beast's shoulder struck the wagon wheel, and the loose iron pin Rook had failed to hammer straight finally jumped free. The wheel dropped into the monster's path.
 
-He may remember fragments.
+Every major lucky event should answer:
+1. What ordinary variables already existed?
+2. Which variable changed?
+3. Why was the result physically/socially possible?
+4. What opening did it create?
+5. Who still had to act?
+6. What consequence remained?
 
-He may like or dislike people more.
+# 7. Rook Does Not Know Everything
 
-He may choose differently in one situation because of a previous consequence.
+Early Rook should usually interpret luck as:
+- good timing;
+- enemy stupidity;
+- coincidence;
+- improvisation;
+- “that worked somehow.”
 
-But prose must not imply that he is gradually becoming:
-- a better person;
-- a proper hero;
-- less crazy;
-- less theatrical;
-- less self-centered;
-- cured of his need to perform.
+Do not make him announce the power repeatedly.
 
-The world changes around Red more than Red changes for the world.
+The reader should recognize the pattern before Rook fully accepts it.
 
-# 9. Overpowered Combat
+# 8. Misinterpretation Engine
 
-Red is already stronger than the encounter requires.
+Use this recurring sequence:
 
-Combat suspense must not ask:
-**Can Red become strong enough?**
+**Rook improvises → luck makes it work too well → witnesses assume hidden mastery → Rook notices → Rook keeps a straight face → rumor/reputation grows → later consequence**
+
+Misunderstanding must not always help him.
+
+It may create:
+- fear;
+- unwanted followers;
+- stronger enemies;
+- political attention;
+- impossible expectations;
+- legal suspicion;
+- people acting on a plan Rook never made.
+
+# 9. Dialogue
+
+Dialogue should sound human.
 
 Use:
-- What is he pretending?
-- How long will he keep playing?
-- What ridiculous rule did he give himself?
-- Who else is in danger?
-- What does he not know?
-- What happens elsewhere while he is entertained?
-- What consequence has already started?
-- What does the enemy think is happening?
-- What story beat did Red just ruin?
+- interruption;
+- short replies;
+- pauses;
+- subtext;
+- teasing;
+- refusal to answer;
+- practical speech under pressure;
+- character-specific rhythm.
 
-Enemy-playing pattern:
-1. Red allows the enemy's identity to establish;
-2. he gives them room to perform;
-3. he answers at their level or with a joke;
-4. he escalates only when amused or required;
-5. serious switch ends the illusion of equality.
+Avoid exposition tennis.
 
-Do not turn every fight into an instant one-shot.
+# 10. Comedy
 
-Do not pretend the enemy is a raw-power threat if writer truth says they are not.
+Comedy comes from:
+- Rook's inner concern versus outward calm;
+- other characters overestimating him;
+- coincidences arriving at absurdly perfect timing;
+- Rook accepting credit after the fact;
+- enemies overthinking ordinary actions;
+- practical characters refusing to be impressed;
+- rumors becoming more dramatic than the truth.
 
-# 10. Play Logic — Cartoon Reality Without a Ceiling
+Do not force a joke after major injury, death, betrayal, or irreversible harm.
 
-Play Logic may create whatever Red genuinely imagines strongly enough to impose.
+# 11. Combat
 
-Effects can be:
-- useful;
-- ridiculous;
-- frightening;
-- visually impossible;
-- symbolic;
-- cartoon-like;
-- brutally simple.
+Rook can be physically weaker than an opponent.
 
-Small effect ≠ low power.
+A battle should use:
+- terrain;
+- tools;
+- movement;
+- allies;
+- enemy goals;
+- timing;
+- Fortune Distortion;
+- Rook's bluffing/improvisation.
 
-Large effect ≠ upgrade.
+Luck creates openings.
 
-No Stage I/II/III/IV language in current prose.
+Rook or another character must convert the opening into an outcome.
 
-# 11. Play Logic Body Restoration
+Supporting characters must retain competence.
 
-Red does not possess a separate regeneration power.
+# 12. Injury
 
-When his body recovers from impossible damage, treat it as **automatic Play Logic**:
-- reality bends back toward Red's persistent self-concept;
-- wounds may close;
-- tissue may restore;
-- lethal damage may fail to remain final.
+Rook is physically mortal.
 
-Do not narrate this as:
-- a healing skill;
-- regeneration activation;
-- HP recovery;
-- a separate energy system.
+If he is injured:
+- the injury remains;
+- pain remains;
+- treatment matters;
+- recovery takes time unless legitimate Veyran healing accelerates it;
+- scars or aftereffects may remain when appropriate.
 
-Pain and blood can remain visible.
+Luck may reduce the severity of a hit.
 
-External consequences do not reset.
+It may not erase damage that already happened.
 
-# 11A. Jackal Luck
+# 13. Serious Mode
 
-Jackal Luck is Red's passive probability/coincidence power.
-
-Show it through events rather than labels.
-
-Good examples:
-- a loose object falls exactly where it helps;
-- Red guesses and accidentally chooses the useful path;
-- an interruption arrives at suspiciously perfect timing;
-- an enemy's ordinary mistake becomes devastatingly convenient;
-- a random throw lands absurdly well;
-- witnesses think Red planned a coincidence.
-
-Red should rarely think:
-"My luck power activated."
-
-Prefer:
-- a look;
-- a grin;
-- a short private thought;
-- shamelessly taking credit.
-
-Luck can complicate the scene as easily as simplify it.
-
-# 12. Native Story Intrusion
-
-Veyr has real protagonists, villains, and storylines independent of Red.
-
-When Red crosses into one:
-- let the existing characters behave as if their lives were already in motion;
-- do not make them instantly revolve around him;
-- let Red misread the scene;
-- let him steal attention accidentally or deliberately;
-- preserve the native conflict after the gag;
-- reroute consequences instead of deleting the plot.
-
-A recurring pleasure of the series is that Red behaves like the main character of scenes that were not written for him.
-
-# 12A. Red Scene Engine
-
-For Red-heavy scenes, use this flexible engine when useful:
-
-1. **Native scene already moving** — people have goals before Red arrives.
-2. **Red reads the room** — correctly or incorrectly.
-3. **Red chooses a bit** — joke, persona, fake weakness, dramatic silence, or selfish objective.
-4. **The scene bends around him** — attention shifts without erasing other motives.
-5. **Unexpected Red action** — he does something the native participants did not plan for.
-6. **Consequence lands** — social, tactical, political, emotional, evidentiary, or physical.
-7. **Causality reroutes** — the original objective survives in a changed form.
-
-Do not force all seven beats into every scene.
-
-Use them as the default story-engine logic.
-
-# 12B. Distant-Focal Performance Rule
-
-The narrator stays outside Red, but the scene should remain physically immediate.
-
-Prefer:
-- what is directly in front of Red;
-- visible expressions and reactions;
-- sounds that interrupt action;
-- objects Red handles;
-- threats Red visibly refuses to respect;
-- short selective thoughts when his private wording adds something;
-- things Red chooses not to say, shown through hesitation, behavior, or one brief thought.
-
-Do not float above the scene to explain the author's plan.
-
-Do not slide back into continuous first-person thought-stream narration.
-
-# 12C. Unexpected-Situation Rule
-
-Surprise should feel inevitable **after** it happens.
-
-A good Red surprise is:
-- unexpected to the other characters;
-- recognizable as something Red would absolutely do;
-- compatible with the world rules;
-- consequential after the joke.
-
-Avoid randomness that exists only to prove he is chaotic.
-
-# 13. Aura Farming
-
-Aura farming is a deliberate Red behavior.
-
-He may:
-- wait in shadow for no practical reason;
-- say less because silence looks cooler;
-- manufacture an entrance;
-- let rumors grow;
-- wear an outfit for the mood;
-- use an unnecessarily elegant solution;
-- leave before anyone can ask questions;
-- appear to know more than he does.
-
-Sometimes the aura works.
-
-Sometimes practical people ruin it.
-
-Both are valid.
-
-# 14. Serious Mode
-
-When the scene truly becomes serious:
+When a scene becomes serious:
 - jokes may stop;
-- fourth-wall pauses may stop temporarily;
-- Red's sentences shorten;
-- the prose becomes visually clean;
-- his power use becomes simpler;
-- consequences receive room.
+- Rook speaks less;
+- paragraphing becomes clean;
+- the physical problem becomes concrete;
+- he stops feeding the misunderstanding for entertainment;
+- he uses the opening in front of him.
 
-Do not immediately undercut every emotional beat.
+No transformation.
 
-The contrast makes the comedy stronger when it returns.
+No hidden second power.
 
-# 15. References
+# 14. Exposition
 
-Pop-culture references may appear because of Red's damaged Earth-media residue.
+Worldbuilding must enter through:
+- work;
+- travel;
+- procedure;
+- conflict;
+- investigation;
+- law;
+- money;
+- food;
+- equipment;
+- consequences.
 
-Rules:
-- brief;
-- transformed;
-- understandable enough without source knowledge;
-- no copyrighted dialogue;
-- no long quotations;
-- no recreated franchise scene;
-- no dependence on the reader recognizing the reference.
+Do not stop the story to explain the setting.
 
-# 16. Paragraph Rhythm
+# 15. Chapter Momentum
 
-Normal narration uses readable multi-sentence paragraphs.
+Every chapter must contain:
+- an immediate objective/problem/question;
+- a meaningful change;
+- at least one Rook-specific beat;
+- a concrete reason to continue.
 
-Use one-line paragraphs for:
-- impact;
-- a visual reveal;
-- a fourth-wall punch;
-- serious silence;
-- sudden danger;
-- a decisive line.
-
-Do not make the entire chapter one-line prose.
-
-# 16A. Fast Serial Pacing / Chapter-Retention Law
-
-The series should read quickly chapter by chapter.
-
-Every chapter must contain at least one **active retention engine**:
+Possible engines:
 - danger;
-- combat;
-- hostile movement;
 - discovery;
+- combat;
 - social confrontation;
-- absurd Red escalation;
+- failed plan;
+- rumor;
 - misinterpretation;
-- mystery turn;
-- irreversible choice;
-- reputation consequence;
+- mystery;
 - countdown;
-- unexpected arrival;
-- practical problem that becomes stranger.
+- practical problem;
+- political collision;
+- consequence.
 
-Do not allow a chapter to exist mainly to explain information already understood.
-
-### Opening Rule
-
-Within the opening section of a chapter, establish at least one of:
-- a problem;
-- a strange image;
-- a confrontation;
-- an unanswered question;
-- an immediate objective;
-- a funny contradiction;
-- a threat;
-- a Red Jackal disruption.
-
-### Middle Rule
-
-The middle must **change the situation**, not merely discuss it.
-
-At least one meaningful variable should change:
-- who has control;
-- what Red knows;
-- what another character believes;
-- where the danger is;
-- what the objective costs;
-- what Red accidentally causes;
-- what rumor/reputation now exists.
-
-### Ending Rule
-
-End with a specific forward pull.
+# 16. Chapter Ending
 
 Prefer:
 - a new problem;
-- an arrival;
-- a revealed contradiction;
 - a dangerous misunderstanding;
+- a revealed contradiction;
 - a decision;
-- a target;
+- an arrival;
 - a consequence;
+- a target;
 - a question the next chapter can answer.
 
-Do not use artificial cliffhangers every chapter.
+Avoid fake cliffhangers.
 
-The ending should make the reader think:
+# 17. Final Manuscript QA
 
-**"I need to see what Red does next."**
+A chapter fails if:
+1. Rook uses any supernatural power other than Fortune Distortion.
+2. Luck produces an impossible result with no causal chain.
+3. Rook consciously commands exact probability.
+4. Rook supernaturally regenerates.
+5. Time freezes for Rook.
+6. Supporting characters become incompetent to make Rook look good.
+7. One-line narration dominates the chapter.
+8. Dialogue sounds interchangeable.
+9. The scene does not change anything.
+10. The ending provides no forward pull.
 
-### Exposition Rule
-
-If worldbuilding or investigation runs longer than the surrounding tension can support, interrupt it with:
-- character conflict;
-- practical stakes;
-- Red making the wrong assumption;
-- a physical task;
-- a rumor;
-- a discovery;
-- a complication;
-- an absurd but consequential choice.
-
-The chapter should feel like events are happening while information is learned.
-
-# 17. Final Prose Test
-
-Before Gate 9, verify:
-
-1. First-person limited remains locked to Red.
-2. English is simple, natural, and cinematic.
-3. Red sounds self-centered, theatrical, chaotic, and original.
-4. Dialogue feels human rather than expositional.
-5. Fourth-wall address freezes Veyran time every time it is genuinely used.
-6. Fourth-wall pauses do not become the reader controlling the story.
-7. Red has no power progression.
-8. Red has no conventional moral-development arc.
-9. Enemy play/holding back is voluntary.
-10. Serious switch is restraint removal, not transformation.
-11. Play Logic can use cartoon-reality freedom without copying copyrighted material.
-12. Play Logic body restoration does not erase consequences to other people; Jackal Luck does not guarantee safe outcomes.
-13. Native storylines still exist independently of Red.
-14. Red's interference reroutes scenes instead of lazily deleting the sequence.
-15. Geography, destination identity, chronology, and locked pacing remain intact.
-16. Red remains casually unaware/uninterested in his true ceiling.
-17. Red's motive is personal rather than generic hero duty.
-18. At least one meaningful retention event changes the chapter.
-19. Red's actions can be misunderstood without making other characters stupid.
-20. The ending creates a concrete reason to continue.
-
-If any answer is no, the chapter is not ready for Gate 9.
+A chapter passes only when Rook feels **lucky, overestimated, dangerous-looking, human, and original**.

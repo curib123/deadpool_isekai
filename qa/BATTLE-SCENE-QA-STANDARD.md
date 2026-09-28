@@ -1,8 +1,8 @@
 # Battle Scene QA Standard
 
-**Studio:** Red Jackal Light-Novel Studio  
+**Studio:** Rook Vane Light-Novel Studio  
 **Owners:** A095 Action Choreographer + A081 Scene Architect  
-**Supporting Owners:** A043 Red Jackal Guardian, A044 Supporting Cast Editor, A045 Antagonist Editor, A036 Imagination Power Designer, A037 Power Balance Editor, A072 Pacing Editor, A100 Continuity Director, A102 Knowledge-State Editor, A111 Logic Editor, A120 Chapter QA Editor  
+**Supporting Owners:** A043 Rook Vane Guardian, A044 Supporting Cast Editor, A045 Antagonist Editor, A037 Power Balance Editor, A072 Pacing Editor, A100 Continuity Director, A102 Knowledge-State Editor, A111 Logic Editor, A120 Chapter QA Editor  
 **Applies To:** Every chapter/scene containing meaningful combat, pursuit, defensive action, hostile interception, monster engagement, duel, team battle, or multi-front battle  
 **Status:** LOCKED — SERIES-WIDE
 
@@ -34,7 +34,7 @@ Every planned battle must identify:
 - **Battle ID**
 - **Chapter / Scene ID**
 - **Battle Scale:** MINOR / MAJOR / CLIMAX
-- **Matchup Name:** e.g. Red Jackal vs Ridge-Hound; Red + Tavian vs displaced pack; Brynn squad vs herd spill
+- **Matchup Name:** e.g. Rook Vane vs Ridge-Hound; Rook + Tavian vs displaced pack; Brynn squad vs herd spill
 - **Side A participants**
 - **Side B participants**
 - **Non-combatants / protected targets**
@@ -45,12 +45,12 @@ Every planned battle must identify:
 - **Terrain**
 - **Hazards**
 - **Information asymmetry**
-- **Red's chosen role**
+- **Rook's chosen role**
 - **Supporting-character roles**
 - **Enemy/opponent behavior**
-- **Play Logic use**
-- **Fourth-Wall Pause use, if any**
-- **Regeneration consequence, if any**
+- **Fortune Distortion probability-chain use, if any**
+- **Reader-address/meta aside use, if any**
+- **Injury consequence, if any**
 - **Turning point**
 - **Decisive beat**
 - **Immediate cost**
@@ -69,8 +69,8 @@ Valid battle structures include, but are not limited to:
 - 2v2;
 - uneven team battle;
 - rotating opponents;
-- Red + ally vs single major opponent;
-- Red vs opponent while allies handle a second objective;
+- Rook + ally vs single major opponent;
+- Rook vs opponent while allies handle a second objective;
 - split-party battle;
 - escort battle;
 - defensive hold;
@@ -95,24 +95,26 @@ Minimum:
 - **1 major/great battle**;
 - **2 or more minor battle/action encounters** when the destination conflict naturally supports them;
 - at least **3 distinct combat/action topologies** across the arc;
-- at least one battle where Red is **not the only decisive actor**;
+- at least one battle where Rook is **not the only decisive actor**;
 - at least one battle where the primary problem is **not defeating the enemy**;
 - at least one battle where terrain, civilians, evidence, escort, infrastructure, timing or simultaneous objectives materially complicate raw combat.
 
 Longer or battle-heavy arcs should exceed this minimum naturally.
 
-# 5. Red Jackal Battle Rule
+# 5. Rook Vane Battle Rule
 
-Red is already overwhelmingly powerful.
+Rook's only supernatural combat advantage is Fortune Distortion.
 
-Therefore battle tension must not depend on pretending:
-- an ordinary opponent is stronger than him;
-- Red needs a new level;
-- Red has a hidden Stage ceiling;
-- repeated manifestations deplete a finite power bar;
-- injury lowers his Play Logic capacity.
+Therefore battle tension must not depend on:
+- Rook unlocking a new power;
+- hidden mastery stages;
+- a regeneration reset;
+- a time-stop escape;
+- reality manipulation;
+- a guaranteed lucky win.
 
-Instead, battle pressure may come from:
+Battle pressure may come from:
+- a physically stronger or more skilled opponent;
 - incomplete information;
 - multiple simultaneous objectives;
 - civilians;
@@ -125,27 +127,22 @@ Instead, battle pressure may come from:
 - political consequences;
 - ecological consequences;
 - timing;
-- Red choosing to play with the enemy;
-- Red deliberately holding back;
-- Red wanting information before ending the fight;
-- Red's curiosity;
-- Red's ego;
-- Red's love of theatrics;
-- Red's refusal to accept imposed roles;
-- the cost of solving one front by making another worse.
+- Rook's curiosity, ego, theatrics, or reckless choices;
+- luck protecting Rook but not the objective;
+- a useful coincidence creating a worse second-order consequence.
 
-When Red gets serious, the change is **restraint dropping**, not a power-up.
+When Rook gets serious, the change is **performance dropping and openings being used efficiently**, not a power-up.
 
 # 6. Supporting Cast Battle Rule
 
 A battle involving supporting characters must preserve their competency.
 
 Do not write:
-- everyone waiting for Red;
-- allies existing only to praise Red;
+- everyone waiting for Rook;
+- allies existing only to praise Rook;
 - specialists forgetting their expertise once combat begins;
-- enemies ignoring easier objectives just to attack Red;
-- supporting characters becoming weaker so Red can look stronger.
+- enemies ignoring easier objectives just to attack Rook;
+- supporting characters becoming weaker so Rook can look stronger.
 
 Instead:
 - Tavian owns ecology/tracking/field positioning where relevant;
@@ -154,7 +151,7 @@ Instead:
 - Maelis owns evidence/custody/procedure where relevant;
 - future supporting characters retain their own combat/non-combat specialties.
 
-Red may steal presentation.
+Rook may steal presentation.
 
 He may not lazily erase other characters' causality.
 
@@ -187,7 +184,7 @@ Before prose, the scene must answer:
 - How can reinforcements enter?
 - How can someone escape?
 - What prevents an obviously easier solution?
-- If Red could instantly overpower the opponent, why is immediate destruction not the actual objective?
+- What prevents Rook from converting the first lucky opening into an immediate victory?
 
 If the reader cannot understand the battlefield without rereading, **FAIL**.
 
@@ -203,8 +200,8 @@ A battle must escalate through at least two of:
 - opponent reveals a tactic;
 - reinforcement arrives;
 - escape route closes;
-- Red's game creates a complication;
-- Red drops restraint;
+- Rook's game creates a complication;
+- Rook stops wasting openings;
 - new information changes what victory means.
 
 Do not escalate only by making the enemy physically larger.
@@ -217,7 +214,7 @@ A battle scene should normally contain:
 2. **First contact** — initial tactic.
 3. **Response** — opponent adapts.
 4. **Complication** — numbers/terrain/objective changes.
-5. **Choice** — Red or another key character must choose what matters.
+5. **Choice** — Rook or another key character must choose what matters.
 6. **Turning point** — battle state changes.
 7. **Resolution** — defeat, escape, hold, rescue, delay, capture, route secured, etc.
 8. **Cost** — injury, lost time, damaged infrastructure, political consequence, exposed ability, enemy escape, lost evidence, changed relationship.
@@ -233,47 +230,45 @@ Allowed:
 - short taunts;
 - interruptions;
 - tactical calls;
-- Red performing for an enemy;
-- enemy refusing to participate in Red's bit;
-- brief Fourth-Wall Pause commentary.
+- Rook performing for an enemy;
+- enemy refusing to participate in Rook's bit;
+- brief reader-address/meta commentary that does not stop the action.
 
 Avoid:
 - long speeches while a projectile should already have hit;
 - every strike receiving a joke;
-- allies stopping to admire Red;
+- allies stopping to admire Rook;
 - comedy erasing injury or civilian danger.
 
 Serious beats may stay quiet.
 
-# 12. Fourth-Wall Battle Rule
+# 12. Reader-Address Battle Rule
 
-If Red genuinely addresses the external audience during combat:
-- local time stops;
-- allies/enemies/projectiles/weather freeze;
-- Red may comment;
-- Red returns to the same causal instant;
-- the pause is not a tactical resource abuse.
+If Rook addresses the external audience during combat:
+- combat time continues;
+- allies, enemies, projectiles, and weather continue moving;
+- the aside must fit the available physical beat;
+- Rook gains no free movement, dodging, inspection, or setup time.
 
-Do not use Fourth-Wall Pause to dodge attacks, reposition for free, steal equipment, inspect hidden information, or win a battle.
+# 13. Fortune Distortion Battle QA
 
-# 13. Play Logic Battle QA
+For every materially lucky turning point:
+- identify the specific causal chain;
+- verify that each link was possible before luck biased the outcome;
+- confirm Rook did not consciously order the exact result;
+- confirm the chain does not erase an already-sustained injury;
+- confirm the opening still requires Rook or another character to act;
+- confirm collateral/terrain/information consequences;
+- confirm supporting characters retain decisive roles where appropriate.
 
-For every manifestation:
-- identify the specific intended role;
-- confirm it does not imply a maximum output;
-- confirm no fake stamina/cooldown is introduced;
-- confirm whether it remains after the immediate task;
-- confirm why that expression is chosen instead of a larger one;
-- confirm collateral/terrain/information consequences.
-
-A small manifestation may be chosen even when Red could create something vastly larger.
+A spectacular result should usually be a chain of small possible events rather than an unexplained miracle.
 
 # 14. Major / Great Battle QA
 
 A major battle must:
 - involve more than one meaningful objective or front;
 - materially change the arc;
-- give at least two non-Red characters meaningful independent actions;
+- give at least two non-Rook characters meaningful independent actions;
 - contain at least one topology change;
 - contain at least one irreversible consequence;
 - make the environment matter;
@@ -283,7 +278,7 @@ A major battle must:
 A climax battle must also:
 - resolve the destination conflict's physical pressure;
 - preserve the human/political/emotional conflict where appropriate;
-- avoid reducing the arc to “Red punches the strongest thing.”
+- avoid reducing the arc to “Rook punches the strongest thing.”
 
 # 15. Minor Battle QA
 
@@ -300,7 +295,7 @@ It should do at least two:
 - expose a flaw;
 - teach the reader something later used in a major battle.
 
-If it only proves Red is strong, **CUT OR REDESIGN**.
+If it only proves Rook is strong, **CUT OR REDESIGN**.
 
 # 16. Battle Variety Audit
 
@@ -310,13 +305,13 @@ At arc Gate 10, list every battle and compare:
 - objective;
 - terrain;
 - participant set;
-- Red's role;
+- Rook's role;
 - result;
 - consequence.
 
 FAIL if:
 - too many battles repeat the same topology;
-- Red is always the sole decisive actor;
+- Rook is always the sole decisive actor;
 - every battle ends by killing the opponent;
 - terrain never matters;
 - supporting characters never own decisive beats;

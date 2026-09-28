@@ -19,17 +19,17 @@ Before long-term arc planning:
 - magic defined?
 - Fate defined?
 - Great Design writer-truth defined?
-- Red Jackal anomaly defined?
-- Soul Drift defined as a natural phenomenon and Red's actual arrival mechanism?
+- Rook Vane anomaly defined?
+- Soul Drift defined as a natural phenomenon and Rook's actual arrival mechanism?
 - mysterious Earth explosion protected as origin mystery?
-- Play Logic defined under the unbounded revelation/restraint model with narrative counterplay?
-- Fourth-Wall Pause defined as a real time-stop effect for genuine audience address?
-- Red locked as reader-facing focal protagonist but not Veyr's registered chosen Hero?
+- Fortune Distortion defined as Rook's only supernatural power, using passive causally possible probability distortion with narrative counterplay?
+- Reader-address/meta behavior defined as voice only, with no time-stop or tactical effect?
+- Rook locked as reader-facing focal protagonist but not Veyr's registered chosen Hero?
 - native Hero, Hero Party, Main Villain, minor villains, and independent off-screen stories preserved?
 - false-main-character effect used without replacing the native Hero?
-- Red intrusion reroutes causality instead of deleting story sequence?
-- unexpected Red behavior earned from personality rather than arbitrary randomness?
-- no conventional Red moral/personality-development arc introduced?
+- Rook intrusion reroutes causality instead of deleting story sequence?
+- unexpected Rook behavior earned from personality rather than arbitrary randomness?
+- no conventional Rook moral/personality-development arc introduced?
 - no raw-power progression or hidden level ladder reintroduced?
 - independent native Hero/Hero Party/Main-Villain story framework defined?
 - enough unexplored destinations remain for a long series?
@@ -39,9 +39,9 @@ If major answers are missing: **ROADMAP LOCKED — CONTINUE WORLD BIBLE.**
 # Gate 2 — Character QA
 **Owners:** A040, A043, A044, A045.
 
-- Does Red Jackal remain anti-villainous, theatrical, self-centered, unpredictable, playful, aura-farming, enemy-playing and dangerous without being morally normalized?
+- Does Rook Vane remain anti-villainous, theatrical, self-centered, unpredictable, playful, aura-farming, enemy-playing and dangerous without being morally normalized?
 - Is aura farming optional and earned?
-- Does serious Red Jackal feel meaningful?
+- Does serious Rook Vane feel meaningful?
 - Do supporting characters have independent goals?
 - Does the antagonist belong to the destination and possess motive/history?
 - Is anyone acting only because the plot requires it?
@@ -50,8 +50,8 @@ If major answers are missing: **ROADMAP LOCKED — CONTINUE WORLD BIBLE.**
 **Owners:** A050, A051, A001, A031, A033, A034, A035, A100, A102.
 
 - Is Writer Truth defined for every long-term mystery?
-- Are System, magic, reincarnation, Fate, Great Design, anomaly, and fourth-wall mechanics kept distinct?
-- Does Red Jackal begin only with knowledge he could actually possess?
+- Are System, magic, reincarnation, Fate, Great Design, anomaly, and Fortune Distortion kept distinct?
+- Does Rook Vane begin only with knowledge he could actually possess?
 - Are faction/character knowledge limits explicit?
 - Are false beliefs separated from canon truth?
 - Does each M-ID have a reveal window and payoff?
@@ -59,7 +59,7 @@ If major answers are missing: **ROADMAP LOCKED — CONTINUE WORLD BIBLE.**
 - Is any clue falsely marked PLANTED without manuscript evidence?
 - Are mysteries connected to existing world/system/character canon rather than retroactively overwriting it?
 - Is the Great Design still non-personal and bounded?
-- Does the mystery architecture preserve Red Jackal's agency rather than secretly making him a chosen hero?
+- Does the mystery architecture preserve Rook Vane's agency rather than secretly making him a chosen hero?
 - Are endgame truths protected by a spoiler firewall?
 - Was any destination order, volume plan, chapter plan, scene plan, or manuscript prose created prematurely?
 
@@ -83,7 +83,7 @@ If Writer Truth, knowledge separation, or foreshadowing state is inconsistent: *
 If inventory counts, World Bible sourcing, or route neutrality fail: **FAIL — RETURN TO DESTINATION DIRECTOR.**
 
 # Gate 5 — Destination Selection QA
-**Owners:** A060 Destination Director, A061 Arc Architect, A062 Destination Culture QA, A063 Local Story Editor, A064 Travel Editor, A043 Red Jackal Guardian, A042 Character Arc Editor, A045 Antagonist Editor, A050 Mystery Director, A037 Power Balance Editor, A071 Volume Editor, A072 Pacing Editor, A100 Continuity Director, A111 Logic Editor.
+**Owners:** A060 Destination Director, A061 Arc Architect, A062 Destination Culture QA, A063 Local Story Editor, A064 Travel Editor, A043 Rook Vane Guardian, A042 Character Arc Editor, A045 Antagonist Editor, A050 Mystery Director, A037 Power Balance Editor, A071 Volume Editor, A072 Pacing Editor, A100 Continuity Director, A111 Logic Editor.
 
 - Was every eligible HIGH POTENTIAL destination considered without creating a public ranking or full route order?
 - Is exactly one existing DEST-ID selected?
@@ -97,10 +97,10 @@ If inventory counts, World Bible sourcing, or route neutrality fail: **FAIL — 
 - Can a local conflict arise naturally without inventing a world-ending crisis?
 - Can a local antagonist/opposing force belong naturally to that conflict?
 - Does the destination support exploration and meaningful action?
-- Is it compatible with Red Jackal's established personality without forcing generic heroism?
+- Is it compatible with Rook Vane's established personality without forcing generic heroism?
 - Can supporting characters enter naturally without assigning them prematurely?
 - Does it support the current mystery reveal window without exposing protected late truths?
-- Can Play Logic be demonstrated without prematurely exposing more of Red's hidden capability than the selected destination needs?
+- Can Fortune Distortion be demonstrated through visible causal chains without making outcomes guaranteed?
 - Are travel entry and exit routes already supported by canon?
 - Can the local conflict later be meaningfully resolved before departure?
 - Does selecting it preserve multiple believable later routes without silently selecting any later volume?
@@ -109,15 +109,15 @@ If inventory counts, World Bible sourcing, or route neutrality fail: **FAIL — 
 If any critical requirement fails: **FAIL — RESELECT OR RETURN TO DESTINATION DIRECTOR.**
 
 # Gate 6 — Volume/Arc QA
-**Owners:** A061 Arc Architect, A063 Local Story Editor, A071 Volume Editor, A072 Pacing Editor, A042 Character Arc Editor, A043 Red Jackal Guardian, A044 Supporting Cast Editor, A045 Antagonist Editor, A050 Mystery Director, A051 Foreshadowing Editor, A037 Power Balance Editor, A064 Travel Editor, A100 Continuity Director, A102 Knowledge-State Editor, A111 Logic Editor, A121 Volume QA Editor, A122 Arc QA Editor.
+**Owners:** A061 Arc Architect, A063 Local Story Editor, A071 Volume Editor, A072 Pacing Editor, A042 Character Arc Editor, A043 Rook Vane Guardian, A044 Supporting Cast Editor, A045 Antagonist Editor, A050 Mystery Director, A051 Foreshadowing Editor, A037 Power Balance Editor, A064 Travel Editor, A100 Continuity Director, A102 Knowledge-State Editor, A111 Logic Editor, A121 Volume QA Editor, A122 Arc QA Editor.
 
 - Is one major volume still exactly one destination arc?
 - Does the architecture preserve the approved destination identity?
-- Is Red Jackal's arrival state compatible with existing mystery/system canon?
+- Is Rook Vane's arrival state compatible with existing mystery/system canon?
 - Is there a clear reason he becomes involved that fits his anti-villain personality?
 - Is the exact local conflict defined and rooted in the selected destination rather than generic fantasy danger?
 - Is the main antagonist/opposing force fully defined with history, motive, worldview, resources, methods, win condition, and meaningful sympathy boundary?
-- Can the antagonist act independently of Red Jackal?
+- Can the antagonist act independently of Rook Vane?
 - Is there a non-human/environmental opposing force where appropriate?
 - Are recurring supporting characters deployed only where their independent goals justify presence?
 - Are local characters defined where the destination needs them?
@@ -125,17 +125,17 @@ If any critical requirement fails: **FAIL — RESELECT OR RETURN TO DESTINATION 
 - Does exploration use multiple parts of the destination?
 - Are monster/wilderness threats ecological rather than random encounter filler?
 - Does action escalate by stakes/type instead of only larger enemies?
-- Does Play Logic follow the approved revelation/restraint policy without inventing a progression ceiling?
-- Does regeneration preserve pain and consequences for others without treating ordinary exhaustion/injury as a raw-power ceiling?
+- Does Fortune Distortion follow the luck-only causal-chain rule without becoming direct outcome control?
+- Do injuries persist normally, with luck allowed to reduce or prevent harm but never erase damage already sustained?
 - Are aura-farming opportunities balanced across success, indifference, and backfire?
 - Is comedy optional and situational rather than quota-driven?
-- Does the architecture contain real serious consequences that comedy/regeneration cannot erase?
-- Does Red Jackal remain fundamentally stable rather than receiving a conventional moral-development arc?
+- Does the architecture contain real serious consequences that comedy/luck cannot erase?
+- Does Rook Vane remain fundamentally stable rather than receiving a conventional moral-development arc?
 - Do supporting characters have their own development beats?
 - Is a clear midpoint shift defined?
 - Is a major reversal defined and causally earned?
-- Does Red Jackal make at least one meaningful mistake or face a consequence rather than being protected by author favoritism?
-- Does the climax preserve independent supporting competencies even if Red can dominate the raw physical threat?
+- Does Rook Vane make at least one meaningful mistake or face a consequence rather than being protected by author favoritism?
+- Does the climax preserve independent supporting competencies even if Rook can dominate the raw physical threat?
 - Is the local conflict meaningfully resolved before departure?
 - Are lasting political, social, economic, ecological, or infrastructural consequences defined?
 - Is the departure condition clear without selecting the next destination?
@@ -152,21 +152,21 @@ Gate 6 must also include the arc Battle Composition Map required by `qa/BATTLE-S
 If any CRITICAL or MAJOR item fails: **FAIL — RETURN TO THE OWNING AGENT AND RE-RUN GATE 6.**
 
 # Gate 7 — Chapter Roadmap QA
-**Owners:** A080 Chapter Architect, A081 Scene Architect, A072 Pacing Editor, A042 Character Arc Editor, A043 Red Jackal Guardian, A044 Supporting Cast Editor, A045 Antagonist Editor, A050 Mystery Director, A051 Foreshadowing Editor, A037 Power Balance Editor, A100 Continuity Director, A102 Knowledge-State Editor, A111 Logic Editor.
+**Owners:** A080 Chapter Architect, A081 Scene Architect, A072 Pacing Editor, A042 Character Arc Editor, A043 Rook Vane Guardian, A044 Supporting Cast Editor, A045 Antagonist Editor, A050 Mystery Director, A051 Foreshadowing Editor, A037 Power Balance Editor, A100 Continuity Director, A102 Knowledge-State Editor, A111 Logic Editor.
 
 - Is the final chapter count explicitly defined?
 - Does every chapter have a unique chapter ID and working title?
-- Does every chapter specify location, present characters, opening situation, primary objective, conflict, exploration purpose, character beat, Red stable-character/situation beat, supporting development, antagonist pressure, action progression, Play Logic use, regeneration consequence, aura/comedy opportunities, mystery/foreshadowing, continuity dependencies, knowledge dependencies, and ending beat?
+- Does every chapter specify location, present characters, opening situation, primary objective, conflict, exploration purpose, character beat, Rook stable-character/situation beat, supporting development, antagonist pressure, action progression, Fortune Distortion probability-chain use, injury consequence, aura/comedy opportunities, mystery/foreshadowing, continuity dependencies, knowledge dependencies, and ending beat?
 - Are the seven locked volume movements mapped naturally across the roadmap?
 - Is the midpoint placed clearly and does it preserve the locked revelation?
-- Is the major reversal placed clearly and causally follow from Red Jackal's mistake?
+- Is the major reversal placed clearly and causally follow from Rook Vane's mistake?
 - Does the climax build across multiple chapters rather than appear abruptly?
 - Does the local resolution receive enough space after the climax?
 - Does departure pacing allow consequences to breathe?
 - Do chapter functions vary enough to avoid repetitive mission structure?
 - Does action escalate by complexity/stakes rather than only stronger enemies?
 - Does every chapter preserve the no-power-progression rule and its approved reveal/restraint level?
-- Are regeneration pain/injury states carried forward without turning them into a false raw-power limit?
+- Are injury/pain states carried forward under ordinary recovery rules?
 - Are supporting characters distributed according to their independent roles?
 - Does the approved antagonist/opposing-force pressure escalate consistently without omniscience?
 - Are only the F-IDs approved by Gate 6 assigned to planned locations, and do they remain **PLANNED — NOT YET PLANTED** until manuscript evidence exists?
@@ -184,7 +184,7 @@ Gate 7 must identify the planned matchup topology for every battle/action chapte
 If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO CHAPTER ARCHITECT AND RE-RUN ROADMAP QA.**
 
 # Gate 8 — Pre-Manuscript Scene QA
-**Owners:** A081 Scene Architect, A080 Chapter Architect, A043 Red Jackal Guardian, A091 Red Jackal Voice Writer, A092 Dialogue Editor where applicable, A093 Comedy Editor, A096 Imagination Scene Designer, A037 Power Balance Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A102 Knowledge-State Editor, A111 Logic Editor.
+**Owners:** A081 Scene Architect, A080 Chapter Architect, A043 Rook Vane Guardian, A091 Rook Vane Voice Writer, A092 Dialogue Editor where applicable, A093 Comedy Editor, A096 Imagination Scene Designer, A037 Power Balance Editor, A050 Mystery Director, A051 Foreshadowing Editor, A100 Continuity Director, A102 Knowledge-State Editor, A111 Logic Editor.
 
 - Is the final scene count explicitly locked?
 - Does every scene have a unique Scene ID?
@@ -192,12 +192,12 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO CHAPTER ARCHITECT AND
 - Does every scene define all fields required by that chapter's Scene Architecture brief?
 - Does scene progression create a clear cause-and-effect chain rather than disconnected beats?
 - Do scene transitions create a reason for the next scene?
-- Does Red Jackal's voice architecture remain compatible with close first-person limited, cinematic clarity, his stable chaotic voice, and Fourth-Wall Pause when genuine audience address occurs?
+- Does Rook Vane's voice architecture remain compatible with distant third-person limited, cinematic clarity, his stable chaotic voice, and reader-address that never stops time?
 - Is dialogue assigned a clear story/character function before prose drafting?
 - Is comedy situational and appropriate to the chapter's pressure level?
 - Are aura-farming opportunities balanced rather than automatically successful?
-- Does Play Logic remain inside the chapter's approved display/reveal/restraint plan, without implying a real mastery ceiling?
-- Do regeneration/injury states carry forward accurately?
+- Does Fortune Distortion remain inside the chapter's approved probability-chain plan without becoming exact conscious control?
+- Do injury and recovery states carry forward accurately without supernatural regeneration?
 - Is worldbuilding limited to information that can enter naturally through the current scenes?
 - Are language/translation assumptions explicitly supported by canon?
 - Are System outputs and procedures consistent with the Systems Bible where relevant?
@@ -229,20 +229,20 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO SCENE ARCHITECT AND R
 - Did conflict, character, exploration, mystery or relationships advance?
 - Is the ending earned?
 
-## Red Jackal
-- Does Red sound like the locked stable version of Red: theatrical, shameless, self-centered, curious, aura-farming, enemy-playing, meta-aware, and capable of sudden seriousness?
+## Rook Vane
+- Does Rook sound like the locked stable version of Rook: theatrical, shameless, self-centered, curious, aura-farming, enemy-playing, meta-aware, and capable of sudden seriousness?
 - Does the chapter avoid turning consequences into a moral-reform lesson?
-- Does Red remain fundamentally the same character even if he changes tactics or acknowledges facts?
+- Does Rook remain fundamentally the same character even if he changes tactics or acknowledges facts?
 - Are his spoken lines natural rather than endlessly witty?
 - Does he play with enemies when appropriate instead of behaving like a conventional desperate shonen underdog?
 - If he stops playing, is the serious switch restraint removal rather than a power-up?
 
 ## POV / Prose
-- close first-person limited centered on Red throughout?
+- close first-person limited centered on Rook throughout?
 - no head-hopping?
-- no omniscient information Red could not know?
+- no omniscient information Rook could not know?
 - simple, natural, movie-like English?
-- Red's narration recognizable and original?
+- Rook's narration recognizable and original?
 - dialogue distinct and human?
 - interruptions, pauses, incomplete answers, callbacks, and subtext used where natural?
 - paragraphs readable rather than mechanically fragmented?
@@ -251,23 +251,29 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO SCENE ARCHITECT AND R
 - does action appear before unnecessary explanation when practical?
 - do scene openings avoid excessive warm-up?
 - do scene endings stop after the strongest line/image instead of explaining it again?
-- whenever Red genuinely addresses the external reader/audience, does Veyran time stop?
-- do native characters remain unaware of elapsed time during Fourth-Wall Pause?
+- whenever Rook addresses the external reader/audience, does Veyran time continue normally?
+- does reader-address avoid creating free elapsed time or tactical advantage?
 - is the audience kept separate from being a power source or command system?
 
 ## Comedy / References
 - does comedy come from character and situation rather than forced joke construction?
 - are repeated setup/punchline patterns avoided?
-- does Red's humor emerge naturally from his choices, dialogue, timing, failed coolness, and friction with practical people?
+- does Rook's humor emerge naturally from his choices, dialogue, timing, failed coolness, and friction with practical people?
 - are serious consequences preserved?
 - are danger and emotional moments allowed to become quiet?
 - no requirement to joke in every scene?
 - references brief, transformed and situational?
 - scene understandable without recognizing a reference?
 
+## Prose Cadence
+- Are normal narration paragraphs mostly multi-sentence rather than isolated one-line sentences?
+- Are one-sentence narration paragraphs selective rather than dominant?
+- Are dialogue turns separated by speaker without forcing every action sentence into its own paragraph?
+- Do repeated chains of three or more one-sentence narration paragraphs trigger revision?
+
 ## Power
-- Does Play Logic preserve the already-overpowered / no-progression writer truth?
-- Are apparent limits clearly compatible with voluntary restraint, role-play, incomplete information, or collateral concerns?
+- Does Fortune Distortion remain Rook's one supernatural power with no progression tree?
+- Are lucky outcomes built from causally possible events and allowed to create collateral or secondary problems?
 - Are System/magic/Fate rules consistent?
 - Does overwhelming force avoid automatically solving information, political, evidentiary, relationship, timing, or multi-location problems?
 - Are pain, injuries to others, irreversible outcomes, and consequences respected?
@@ -288,7 +294,7 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO SCENE ARCHITECT AND R
 
 Periodically verify:
 - genre identity intact,
-- Red Jackal still recognizable,
+- Rook Vane still recognizable,
 - anti-villain identity preserved,
 - world larger than current route,
 - destinations remain varied,
@@ -299,13 +305,13 @@ Periodically verify:
 - every chapter retains a meaningful Engagement Beat rather than passive exposition,
 - combat/non-combat engagement types vary enough to avoid repetitive rhythm,
 - returning places evolve,
-- the legitimate Hero/Hero Party/Main-Villain storyline continues independently of Red,
-- Red's interference reroutes native story beats instead of lazily deleting them,
-- Red has not been converted into the world's chosen hero,
+- the legitimate Hero/Hero Party/Main-Villain storyline continues independently of Rook,
+- Rook's interference reroutes native story beats instead of lazily deleting them,
+- Rook has not been converted into the world's chosen hero,
 - enough unexplored world and mystery remain for continuation.
 
 # Gate 11 — Publish Version QA
-**Owner:** A124 Publish Version QA Editor with A097 Prose Editor, A091 Red Jackal Voice Writer, A100 Continuity Director, A101 Canon Conflict Detector, A110 Legal/Reference QA, and A130 Canon Librarian.
+**Owner:** A124 Publish Version QA Editor with A097 Prose Editor, A091 Rook Vane Voice Writer, A100 Continuity Director, A101 Canon Conflict Detector, A110 Legal/Reference QA, and A130 Canon Librarian.
 
 Gate 11 runs **after canonization** on a reader-facing publication copy derived from the current canon manuscript.
 
@@ -353,7 +359,7 @@ The canon manuscript remains the single source of truth.
 
 ## Gate 10 Battle Variety Requirement
 
-Volume/arc revalidation must include the Battle Variety Audit from `qa/BATTLE-SCENE-QA-STANDARD.md`: matchup topology, objectives, terrain, participant sets, Red's role, supporting-character decisive actions, results and lasting consequences. A climax may not pass by scale alone if it repeats earlier fight structure.
+Volume/arc revalidation must include the Battle Variety Audit from `qa/BATTLE-SCENE-QA-STANDARD.md`: matchup topology, objectives, terrain, participant sets, Rook's role, supporting-character decisive actions, results and lasting consequences. A climax may not pass by scale alone if it repeats earlier fight structure.
 
 
 # Gate 12 — WebNovel Commercial Readiness QA

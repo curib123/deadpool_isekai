@@ -4,7 +4,11 @@
 **Repository:** `curib123/deadpool_isekai`  
 **Genre:** Shounen • Action • Adventure • Dark Fantasy • Comedy • Meta-Fiction
 
-This repository is the canonical production workspace for the Rook Vane light-novel project.
+This repository is the production workspace for the Rook Vane light-novel project.
+
+Rook loves playing the mysterious figure who seems to know more than everyone else. He has no idea that his only supernatural power is passive luck. Accidents keep making his performances look like elaborate plans, and witnesses supply explanations he could never have invented. His fame, enemies, and obligations grow; his private enthusiasm for the act and his ignorance of the power remain consistent through the ending.
+
+The 2026-10-02 revision updates the prologue, 23 chapters, character/knowledge rules, synopsis, and matching reader copies. See `qa/ROOK-CLUELESS-LUCK-REVISION-QA.md` for the focused editorial review and current draft release state.
 
 ## Studio Pipeline
 
@@ -19,7 +23,7 @@ One major volume is one destination arc, and every arc is named after its place:
 1. `studio/STUDIO-ARCHITECTURE.md` — agent roles, editorial hierarchy, production gates.
 2. `series/SERIES-CONSTITUTION.md` — locked identity and structural laws.
 3. `world/WORLD-BIBLE.md` — continents, seas, islands, nations, cultures, history, travel, ecology.
-4. `systems/SYSTEMS-BIBLE.md` — World System, magic, reincarnation, Fate, Great Design, anomaly, Play Logic.
+4. `systems/SYSTEMS-BIBLE.md` — World System, magic, reincarnation, Fate, Great Design, anomaly, Fortune Distortion.
 5. `characters/CHARACTER-BIBLE.md` — Rook Vane and character rules.
 6. `mysteries/MYSTERY-BIBLE.md` — mystery and foreshadowing control.
 7. `planning/STORY-PLANNING.md` — destination → volume → chapter → scene.
@@ -32,6 +36,3 @@ One major volume is one destination arc, and every arc is named after its place:
 
 Old generic event/theme arc plans are deprecated.
 
-<body
-    class="min-vh-100 bg-cover"
-    style="background-image: url('<?= base_url('assets/images/login-bg.jpg'); ?>');">

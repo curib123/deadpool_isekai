@@ -727,6 +727,13 @@ It does **not** track Rook becoming morally healthier, saner, humbler, or conven
 
 # 8. Fortune Distortion — Luck-Only Anomaly
 
+## Series-Wide Knowledge Boundary — 2026-10-02
+
+Fortune Distortion is author-level truth. Rook remains unaware that it is his supernatural ability through the final scene. Other characters may collect evidence and develop theories; neither a System screen nor a late revelation confirms the power to him. His ordinary improvisation converts openings after they appear. Deliberately performing a mysterious role is permitted; knowingly leveraging a probability power is not.
+
+This knowledge boundary supersedes any older awareness-growth or eventual-acceptance language. His luck exists at full canonical scope from the start and has no conscious training, activation, or progression path.
+
+
 ## 8.1 Definition
 
 **Fortune Distortion** is Rook Vane's only supernatural ability.
@@ -778,7 +785,7 @@ Luck may prevent the wound from being worse. It may not erase damage that alread
 
 ## 8.4 Control Model
 
-Rook does not reliably activate Fortune Distortion.
+Rook never consciously activates Fortune Distortion. It works without his knowledge; no desire, spoken cue, pose, confidence level, or deliberate risk is an activation requirement.
 
 He does not select a desired probability from a menu.
 
@@ -865,7 +872,7 @@ Examples:
 
 Rook may change execution, timing, participants, and consequences.
 
-Do not lazily erase the next planned beat just because Rook is overpowered.
+Do not erase the next planned beat because Rook survived an unlikely sequence. Luck is not raw omnipotence.
 
 If the underlying objective still exists, allow it to return in a logically altered form.
 

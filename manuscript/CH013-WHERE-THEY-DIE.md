@@ -1,9 +1,8 @@
 # Chapter 13 — Where They Die
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
-**Revision Date:** 2026-09-27
-**Word Count:** 2,238
-**Chapter QA:** `qa/CH-013-GATE-9-CHAPTER-QA.md`
+**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK / STABLE THEATRICAL MC
+**Revision Date:** 2026-10-02
+**Word Count:** 2350
 
 The council map table had disappeared under evidence. Route ledgers. Guild work orders. Tavian's field notes. Kellan's road sketches. Maelis's rubbing from the Broken North lure. Rook stopped inside the door. For the first time, everything they had found was in one room. That made the room feel smaller. Brynn stood near the head of the table with her arms folded. Kellan had claimed the side closest to the outer-route map. Tavian stood opposite him with small stones marking track clusters.
 
@@ -141,7 +140,13 @@ Hesk's jaw shifted. "Yes." Brynn looked at him. The room went still. "Say that a
 
 "I know what lures do."
 
-Her voice stayed level. "I am asking whether Greywake has been using them to move pressure away from the Main Caravan Road." Hesk looked at the table. Maps. Ledgers. Jessa. Rook. Then Brynn. "Yes." Jessa lowered her eyes. Kellan's hand flattened against the table. Maelis did not move. Rook had expected the moment to feel louder. It did not. Hesk continued. "The Main Caravan Road is Greywake's supply line. Diversion equipment was deployed to reduce pressure on critical approaches."
+Her voice stayed level. "I am asking whether Greywake has been using them to move pressure away from the Main Caravan Road." Hesk looked at the table. Maps. Ledgers. Jessa. Rook. Then Brynn. "Yes." Jessa lowered her eyes. Kellan's hand flattened against the table. Maelis did not move. Rook had expected the moment to feel louder. It did not. Hesk studied him before continuing. "You accepted unofficial work because it put you where registered crews would never see the expense trail. First the bridge. Then the side route. Then my dispatch records. You let my office supply its own witnesses."
+
+Rook had accepted the work because it included money and food. Hesk had somehow found a conspiracy in his lunch allowance. Rook left his expression alone. Maelis interrupted before he could improve it.
+
+"The assignments are documented. His intent is not. Answer the policy question."
+
+Hesk continued. "The Main Caravan Road is Greywake's supply line. Diversion equipment was deployed to reduce pressure on critical approaches."
 
 "Multiple deployments," Maelis said.
 

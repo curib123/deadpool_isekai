@@ -1,8 +1,8 @@
 # Chapter 2 — Undefined
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET / GATE 9 REVALIDATION
-**Revision Date:** 2026-09-27
-**Word Count:** 2,590
+**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK / STABLE THEATRICAL MC
+**Revision Date:** 2026-10-02
+**Word Count:** 2551
 
 Civilization announced itself with smoke, wagon wheels, and a timber wall high enough to make the forest behind Rook look like somebody else's problem. The road curved down through thinning trees toward a palisade. River fog drifted between watch platforms. Two lines of carts waited outside the gate while drivers checked harnesses, guards inspected loads, and merchants argued with the confidence of people whose morning had not included being hunted. Rook stopped where the trees gave way to the road. Dried blood marked his torn sleeve. Mud covered one knee, both boots, and enough of his coat to damage the mysterious-stranger effect.
 
@@ -96,7 +96,7 @@ Rook tilted his head.
 
 "It was already organized."
 
-Rook looked at his left forearm. The cuts were still visible beneath torn fabric, but they had closed enough to make the dried blood look dishonest. The skin remained sore when he flexed his hand.
+Rook looked at his left forearm. Dried blood had crusted around the torn fabric, but the cuts pulled painfully when he flexed his hand. He resisted inspecting them in front of the guards. A man with a mysterious past should not need to ask where the clean bandages were.
 
 "It's improving."
 
@@ -250,7 +250,7 @@ She paused.
 
 "Soul Registry: no record."
 
-Nobody spoke. This time Rook did not rescue the silence. Two different tools. Two different query paths. Same absence. Not hidden. Not sealed. Not too powerful to read. Undefined. No record. Rook looked down at his hand. It still cast a shadow. He was breathing. His arm still hurt. Something in the forest had tried very sincerely to eat him. Yet the structure these people trusted to describe a person had looked at him twice and failed to construct an answer.
+Nobody spoke. This time Rook did not rescue the silence. He lowered his chin slightly. If the room insisted on giving him a dramatic pause, wasting it would be rude. Two different tools. Two different query paths. Same absence. Not hidden. Not sealed. Not too powerful to read. Undefined. No record. Rook looked down at his hand. It still cast a shadow. He was breathing. His arm still hurt. Something in the forest had tried very sincerely to eat him. Yet the structure these people trusted to describe a person had looked at him twice and failed to construct an answer.
 
 The clerk looked up.
 

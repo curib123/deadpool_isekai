@@ -1,7 +1,7 @@
 # Chapter 5 — A Better Hammer
 
-**Status:** CANON RESET — DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY  
-**Revision Date:** 2026-09-27
+**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK / STABLE THEATRICAL MC
+**Revision Date:** 2026-10-02
 
 The Road Guild yard was already loud when Rook arrived.
 
@@ -203,7 +203,7 @@ That was difficult to argue with. They replaced the damaged boards, reinforced t
 
 A second wagon crossed. Then a third. By the time the rain arrived, traffic was moving again.
 
-Nobody declared Rook a genius. That would have been unreasonable. The problem was that nobody forgot what had happened either. On the ride back to Greywake, one worker sat across from him beneath the wagon cover.
+Nobody declared Rook a genius while the foreman was close enough to assign more work. Once the foreman moved away, the story gained confidence. On the ride back to Greywake, one worker sat across from him beneath the wagon cover.
 
 "You knew the board would catch the wheel?"
 
@@ -215,7 +215,13 @@ The worker waited. Rook glanced back.
 
 "It was going to catch something."
 
-That answer was technically true. The worker seemed to think it meant something deeper. Rook let him.
+The worker leaned forward. "You let the maul fail, used the spare because it gave you reach, then pulled the rope after the load shifted. If you'd pulled earlier, that board would have missed the wheel."
+
+Rook had pulled because the rope was the nearest thing he could hold while trying not to fall. He looked out at the rain so the worker would not see him sorting those two accounts.
+
+"The timing matters," he said.
+
+The worker nodded gravely. At the next stop, he asked the foreman to put Rook on the difficult repairs. Rook heard that part and immediately regretted choosing such a useful sentence.
 
 At the Guild yard, the foreman submitted the completion report. The clerk counted the returned tools, paused over the broken maul, and sighed.
 

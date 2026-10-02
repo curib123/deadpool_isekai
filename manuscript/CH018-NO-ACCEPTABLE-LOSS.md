@@ -1,9 +1,8 @@
 # Chapter 18 — No Acceptable Loss
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
-**Revision Date:** 2026-09-27
-**Word Count:** 2,299
-**Chapter QA:** `qa/CH-018-GATE-9-CHAPTER-QA.md`
+**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK / STABLE THEATRICAL MC
+**Revision Date:** 2026-10-02
+**Word Count:** 2339
 
 The emergency route board was crowded with markers. Tavian stood over it with both hands on the table. Brynn moved a militia token. Maelis added another stack of copied records. Hesk watched from the opposite side. Rook stayed where Tavian had told him to stand.
 
@@ -287,7 +286,7 @@ Finally. A job Rook understood. Tavian held up one finger. "Temporary."
 
 "No improvising a replacement road just because you can."
 
-Rook looked at him. There it was. The correct version. Could Rook made a road? Probably something much more ridiculous. Should he? Not if the whole point was creating infrastructure ordinary people could still use after Rook left. "Fine."
+Rook looked at him. There it was. The correct version. Rook had suggested an abandoned road because it sounded more interesting than arguing over the same damaged routes. Now Kellan was explaining how many workers it needed. His contribution was acquiring specifications. "Fine," he said, trying to sound as if he had expected all of them.
 
 "Can you support a damaged lip long enough for workers to place real bracing?"
 

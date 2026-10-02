@@ -1,5 +1,14 @@
 # Continuity Bible
 
+## Current Rook Knowledge and Personality Override — 2026-10-02
+
+For every scene, track separately: (1) what actually happened, (2) what Rook intended, (3) what the witness believes he intended, and (4) what consequence that belief causes. The supernatural cause belongs to writer truth; Rook never correctly identifies it through the ending.
+
+He may remember Maelis's statistical theory and Tavian's concern. He still believes particular events were accidents, normal material failure, effective bluffing, or somebody else's good work. He knows his public persona is a performance. Knowing that he takes undeserved credit is not knowing that luck is a power.
+
+Stable across all arcs: freedom, food/pay/shelter, curiosity, enjoyment of ominous presentation, irritation at interrupted scenes, shameless acceptance of useful credit, and selective seriousness. Skills, relationships, injuries, evidence, and reputation change without replacing that personality. An injury remains until ordinary recovery or established Veyran treatment; no automatic self-restoration.
+
+
 **Owners:** A100 Continuity Director + A101 Canon Conflict Detector + A102 Knowledge-State Editor
 
 # Continuity Ledger

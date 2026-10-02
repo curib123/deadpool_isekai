@@ -1,10 +1,8 @@
 # Chapter 21 — Before the Herd
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
-**Revision Date:** 2026-09-27
-**Word Count:** 2,059
-**Chapter QA:** `qa/CH-021-GATE-9-CHAPTER-QA.md`
-**Retcon QA:** `qa/CH-021-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
+**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK / STABLE THEATRICAL MC
+**Revision Date:** 2026-10-02
+**Word Count:** 2127
 
 By the time Greywake decided Hesk was officially missing, there was no longer enough spare settlement to make finding him everyone's job. The militia yard had become a map with people standing on it. Carts lined one wall. Runners moved between route boards and gates. Rope, tools, medical cloth, sealed Guild cases, and ordinary food had been separated into piles that apparently made sense to everyone except Rook. Rook had learned not to take that personally. Mostly. Tavian came through the yard with mud up one boot. Brynn looked up. "How close?"
 
@@ -36,9 +34,9 @@ Nobody argued. Tavian tapped three marks. "I handle movement thresholds and lure
 
 "I was expecting a more impressive title."
 
-"You carry whatever is too heavy and go where people are short."
+"You help carry supplies and go where crews are short. Ask before lifting."
 
-His great promotion. Emergency Furniture. Rook almost said it. Then someone outside shouted for another cart. The joke stopped being worth the time. "Fine." Brynn waited for the argument. There wasn't one. Rook did not own the plan. Tavian knew the animals. Brynn knew the settlement. Maelis knew what had to remain provable after the crisis. Jessa knew how Guild operations actually moved. Rook knew he could do impossible things. That did not mean every ordinary system should become dependent on him.
+His great promotion. Emergency Furniture. Rook almost said it. Then someone outside shouted for another cart. The joke stopped being worth the time. "Fine." Brynn waited for the argument. There wasn't one. Rook did not own the plan. Tavian knew the animals. Brynn knew the settlement. Maelis knew what had to remain provable after the crisis. Jessa knew how Guild operations actually moved. Rook knew how to look as if he had expected the meeting. That was enough acting for one morning. The crews needed an extra pair of hands, and Brynn was giving them his.
 
 The outer road looked different when people were leaving it on purpose. Carts that once brought goods toward Greywake now pointed inward loaded with blankets, children, injured people, food, tools, cages, and one alarming quantity of kitchen equipment. A militia woman stopped that cart. "People first." The owner stared at her. "Those are our winter stores."
 
@@ -52,7 +50,7 @@ The outer road looked different when people were leaving it on purpose. Carts th
 
 Disaster had forced cooperation without requiring anybody to like each other. Efficient. Rook was helping push a loaded cart through a rut when the left wheel dropped hard. Wood cracked. *Naturally it breaks when I touch it.* The cart stopped. So did three behind it. "Axle." Of course. Rook crouched beside the wheel. Split near the hub. Not completely. Enough that full weight would finish it. The solution appeared in his head immediately.
 
-A perfect support. Done. Then a road worker dropped a jack beside him. "Lift here." Rook looked at the jack. Right. The driver needed something that would still exist when he was somewhere else making poor decisions. They used the jack. Two people held the wheel. Rook levered the frame. Another worker wrapped rope around the split. A farmer brought spare timber. "Higher."
+Rook considered saying something reassuring about weight and balance. A road worker dropped a jack beside him before he could invent the second half. "Lift here." They used the jack. Two people held the wheel while Rook worked the lever; another wrapped rope around the split and a farmer brought spare timber. "Higher."
 
 "I am lifting."
 
@@ -120,7 +118,7 @@ Everything else waited. Sela caught his wrist before Rook left. "Hold it out." R
 
 "Fine."
 
-She released his wrist. "Good. Then listen with full capability." That phrasing got his attention. "If a wheel breaks, use the repair everyone understands unless impossible help is actually needed. If a route needs clearing, use tools. Not because I think you cannot do something absurd." She pointed toward the road. "Because everyone needs to know what remains after you leave and what the plan actually depends on." Rook had no argument. "And if the world ends?"
+She released his wrist. "Good. Then listen. If a wheel breaks, ask the repair crew. If a route needs clearing, use their tools. If someone says you have a plan, tell them whether you actually have one." She pointed toward the road. "People need to know what they can depend on." Rook had no useful objection. "And if the world ends?"
 
 "Be useful before becoming interesting."
 
@@ -156,7 +154,7 @@ Nobody looked happier. Tavian did not try. "Observe. Signal. Confirm. Act." Mael
 
 Nothing important became safe before the next important thing needed doing. The lure teams left. No activation. No flash. Just people carrying ordinary dangerous equipment toward places where terrified animals would soon be asked to prefer one bad road over another. Broken North still looked terrible. Reassuring. Timber support held under the cracked shelf. Rough footing remained ugly but usable. Water moved through the reopened drainage. Workers had stacked timber, rope, stone, shovels, axes, and pry bars behind the marked repair line. Militia stood along the edges.
 
-Not the center. A worker waved him over. "Branch came down." A heavy limb lay across part of the drainage edge. He looked at his hands. "You can make a cutter, right?"
+Not the center. A worker waved him over. "Branch came down." A heavy limb lay across part of the drainage edge. He looked at the axe beside Rook. "You can cut that, right?"
 
 "Yes."
 
@@ -220,4 +218,4 @@ Tavian did not correct the word ready. That worried him more than if he had. Bry
 
 "Not yet."
 
-No clock. No countdown. Road. Trees. Hesk was still out there. Maybe near the vulnerable housing. Maybe elsewhere. They could not stop Greywake to discover which. Rook flexed his fingers. The impossible answer was still there. It had always been there. Using it would be a choice. So would not using it. No contract held him here. No Guild order. Rook stayed because the interesting part had finally arrived. Leaving now would have been terrible timing. Brynn raised one hand. Nearby conversation stopped. Tavian went completely still. At first Rook saw nothing. Then birds lifted from distant trees. Brush moved along the forest edge. One shape broke through. Then another. Then ten. The dark between the trunks shifted behind them. No one cheered. No one spoke. Beyond Greywake's last lanterns, the first mass of fleeing prey came out of the trees.
+No clock. No countdown. Road. Trees. Hesk was still out there. Maybe near the vulnerable housing. Maybe elsewhere. They could not stop Greywake to discover which. Rook flexed his fingers and wished he had eaten before the meeting. The cloak, the pose, the final sentence: all of that would work better on a full stomach. No contract held him here. No Guild order. Rook stayed because the interesting part had finally arrived. Leaving now would have been terrible timing. Brynn raised one hand. Nearby conversation stopped. Tavian went completely still. At first Rook saw nothing. Then birds lifted from distant trees. Brush moved along the forest edge. One shape broke through. Then another. Then ten. The dark between the trunks shifted behind them. No one cheered. No one spoke. Beyond Greywake's last lanterns, the first mass of fleeing prey came out of the trees.

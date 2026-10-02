@@ -1,7 +1,7 @@
 # Chapter 19 — Build the Wrong Road
 
-**Status:** CANON RESET — DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY  
-**Revision Date:** 2026-09-27
+**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK / STABLE THEATRICAL MC
+**Revision Date:** 2026-10-02
 
 Broken North looked worse when people tried to save it.
 
@@ -269,6 +269,16 @@ Brynn looked at Rook. Again. Rook sighed.
 
 "I did not collapse the road."
 
+"The foreman thinks you rejected it because the drainage was undermining the shelf," Brynn said. "He says you had us spend our effort on the bypass before the main route failed."
+
+Rook had rejected it because it looked unpleasant to walk on. The foreman had improved the explanation substantially.
+
+"If he understood the idea, that saves me explaining it," Rook said.
+
+"He wants you to inspect the next repair."
+
+That saved considerably less.
+
 "No one said you did."
 
 "There is a pattern here."
@@ -289,4 +299,4 @@ Rook waited. Tavian continued.
 
 "Just rarely for you."
 
-The sentence stayed with him. Behind them, workers lit markers along the wrong road. Ahead, somewhere beyond the dark trees, the herd was moving.
+The sentence stayed with him mostly because Tavian had made it sound like a warning instead of a compliment. Rook looked at the worksite: wet stone, careless animals, workers saving one another. There were enough ordinary causes to occupy an entire investigation. He had no intention of commissioning one about himself. Behind them, workers lit markers along the wrong road. Ahead, somewhere beyond the dark trees, the herd was moving.

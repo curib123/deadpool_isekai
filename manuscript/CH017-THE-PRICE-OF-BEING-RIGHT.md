@@ -1,9 +1,8 @@
 # Chapter 17 — The Price of Being Right
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
-**Revision Date:** 2026-09-27
-**Word Count:** 2,369
-**Chapter QA:** `qa/CH-017-GATE-9-CHAPTER-QA.md`
+**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK / STABLE THEATRICAL MC
+**Revision Date:** 2026-10-02
+**Word Count:** 2393
 
 Sela saw the stretcher and pointed. "Table." Two assistants moved before the word finished. Kellan went onto the wide treatment bed near the back wall. His face had gone pale under dirt and blood. The lower part of one leg was wrapped badly because badly had been all they had time for on the road. Blood had soaked through the splint. His shoulder sat too low on one side. Every breath was shallow. Rook stood beside the bed with dried blood stiff on his shirt. His side was closing. His leg was already better than it had any right to be.
 
@@ -39,7 +38,7 @@ She began preparing a better splint. Then she looked at him. Her eyes went to hi
 
 "No."
 
-Rook sat. She pressed near the wound under his ribs. Pain flashed. "Still correcting."
+Rook sat. She pressed near the wound under his ribs. Pain flashed. "Still bleeding. Hold the dressing while I stitch this."
 
 "Yes."
 
@@ -73,7 +72,7 @@ No promise. No dramatic final prognosis. Just not yet. "We need swelling down. W
 
 He closed his eyes. Sela looked at him. "Your recovery changes none of that." Rook did not answer. She did not need one. For the next hour, he stayed out of the way. Harder than it sounded. People moved through the treatment house with blood and mud on their clothes. Animal bites. Cuts from carts. Broken fences. Collapsed roadwork. One militia guard had a torn hand from dragging somebody off a failed approach. Nobody had time to ask who started what. Kellan drifted in and out.
 
-Pain tonic finally slowed his breathing. Sela changed the dressing once. The bleeding held. The leg stayed where she put it. That was success. Not healed. Stable. Rook sat near the wall and watched his own wounds disappear faster than his. That asymmetry did not make him weaker. It made his injury more real. When Kellan woke properly, he turned his head toward him. "You still here?"
+Pain tonic finally slowed Kellan's breathing. Sela changed the dressing once, checked the splint, and called that success. Stable was the word, not healed. Rook sat near the wall with his own bloodstained wrap. He could still walk because his wounds were shallower; that fact did nothing for Kellan. When Kellan woke properly, he turned his head. "You still here?"
 
 "Yes."
 
@@ -269,7 +268,7 @@ Rook had them. Every track. Every call. Which side had been screened. Where the 
 
 Maelis added, "Only what you saw." Tavian said nothing. He was waiting. Rook gave them the route. First herd from the screened side. Ridge-hounds from another angle. Smaller animals through lower brush. Calls shifted before visible movement. Tavian moved markers while Rook spoke. He corrected one directional estimate. Rook let him. Maelis wrote. Brynn listened. Hesk did not interrupt. When Rook finished, Tavian looked at the map. "This helps."
 
-Not forgiveness. Not approval. Useful. Enough. Outside, the air felt colder. From the council steps Rook could see people moving barricades toward the lower road. A cart rolled toward Sela's treatment house carrying supplies instead of patients. For now. The bridge was gone. Kellan was in a splint. His wounds were almost gone. That did not make the consequences disappear.
+Not forgiveness. Not approval. Useful. Enough. Outside, the air felt colder. From the council steps Rook could see people moving barricades toward the lower road. A cart rolled toward Sela's treatment house carrying supplies instead of patients. For now. The bridge was gone. Kellan was in a splint. His wounds were covered with fresh dressings. He could still feel every one of them. That did not make the consequences disappear.
 
 Hesk had been right about one thing. Someone had to choose. He turned that sentence into ownership. Rook had made the opposite mistake and acted as if choosing for himself could never choose for anyone else. Neither version worked. Brynn came out. "We are moving the emergency route board to the militia yard."
 

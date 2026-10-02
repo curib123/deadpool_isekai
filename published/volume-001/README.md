@@ -1,14 +1,14 @@
 # Volume 1 — Greywake Arc — Publication Copies
 
-**Status:** PUBLISH-READY — GATE 11 PASS  
+**Status:** PUBLISH DRAFT — 2026-10-02 REVISION / GATE 9, CANON AND GATE 11 REVALIDATION PENDING  
 **Chapters:** 26  
 **Release Order:** CH-001 → CH-026  
 **Canon Source:** `manuscript/`  
 **Publish QA:** `qa/publish/VOLUME-001-PUBLISH-VERSION-QA.md`
 
-These files are reader-facing release copies derived from the current canon manuscripts.
+These files are reader-facing release copies derived from the current manuscript sources on this revision branch.
 
-They are approved for external posting in chapter order.
+These refreshed copies are for review in chapter order. The earlier release approval applies to earlier source revisions.
 
 They are **not** a second canon source.
 
@@ -43,7 +43,7 @@ If a substantive edit is needed, edit/re-QA/recanonize the manuscript first, the
 25. CH025 — What Greywake Counts
 26. CH026 — Before They Decide What I Am
 
-**Volume 2 remains unselected.**
+**Volume 2:** Merrowgate remains planned; CH-027 has received the same character/knowledge revision. No CH-028 manuscript has been created in this pass.
 
 
 ## WebNovel Opening Rule

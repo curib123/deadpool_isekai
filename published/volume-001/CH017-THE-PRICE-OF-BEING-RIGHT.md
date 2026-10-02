@@ -1,10 +1,6 @@
-Chapter 17 — The Price of Being Right
+# Chapter 17 — The Price of Being Right
 
-Sela saw the stretcher and pointed. "Table." Two assistants moved before the word finished.
-
-Kellan went onto the wide treatment bed near the back wall. His face had gone pale under dirt and blood. The lower part of one leg was wrapped badly because badly had been all they had time for on the road. Blood had soaked through the splint. His shoulder sat too low on one side. Every breath was shallow.
-
-Red stood beside the bed with dried blood stiff on his shirt. His side was closing. His leg was already better than it had any right to be.
+Sela saw the stretcher and pointed. "Table." Two assistants moved before the word finished. Kellan went onto the wide treatment bed near the back wall. His face had gone pale under dirt and blood. The lower part of one leg was wrapped badly because badly had been all they had time for on the road. Blood had soaked through the splint. His shoulder sat too low on one side. Every breath was shallow. Rook stood beside the bed with dried blood stiff on his shirt. His side was closing. His leg was already better than it had any right to be.
 
 His shoulder hurt. Kellan was not improving nearly fast enough. Sela cut through the field wrap. "Who splinted this?"
 
@@ -12,9 +8,7 @@ His shoulder hurt. Kellan was not improving nearly fast enough. Sela cut through
 
 "Good enough to move him."
 
-Not praise. Assessment. She pressed two fingers against Kellan's foot. "Kellan. Can you feel that?"
-
-His eyes opened halfway. "Yes."
+Not praise. Assessment. She pressed two fingers against Kellan's foot. "Kellan. Can you feel that?" His eyes opened halfway. "Yes."
 
 "This?"
 
@@ -22,19 +16,11 @@ A pause. "Yes."
 
 "Move your toes."
 
-He tried. Two moved. Sela watched carefully. "Again." He did. She turned to one assistant. "Keep pressure above the worst bleeding. Do not tighten the lower wrap more."
-
-Then she examined the crush point. Swollen. Darkening. Bent wrong. Her expression did not change. "Crush fracture. More than one break is possible. Soft tissue badly damaged. Circulation is still present."
-
-Kellan opened his eyes again. "That good?"
+He tried. Two moved. Sela watched carefully. "Again." He did. She turned to one assistant. "Keep pressure above the worst bleeding. Do not tighten the lower wrap more." Then she examined the crush point. Swollen. Darkening. Bent wrong. Her expression did not change. "Crush fracture. More than one break is possible. Soft tissue badly damaged. Circulation is still present." Kellan opened his eyes again. "That good?"
 
 "Circulation is still there. That matters."
 
-He closed them. She checked ribs and shoulder next. He inhaled sharply. "Rib damage. Shoulder took impact. I need swelling down before I say more."
-
-She looked toward the rack of pale healing crystals. Fewer than before. Another patient already had one in use.
-
-Sela took the smallest bright crystal. "Bleeding first. Then stabilization." An assistant asked, "Bone?" "Not with this much swelling and tissue damage. We do not force a full repair we cannot control."
+He closed them. She checked ribs and shoulder next. He inhaled sharply. "Rib damage. Shoulder took impact. I need swelling down before I say more." She looked toward the rack of pale healing crystals. Fewer than before. Another patient already had one in use. Sela took the smallest bright crystal. "Bleeding first. Then stabilization." An assistant asked, "Bone?" "Not with this much swelling and tissue damage. We do not force a full repair we cannot control."
 
 Blue-white healing structure formed between her hands. The crystal dimmed. Kellan's jaw tightened. Bleeding slowed. Only slowed. Sela stopped. "Enough."
 
@@ -42,15 +28,13 @@ Blue-white healing structure formed between her hands. The crystal dimmed. Kella
 
 "For this pass."
 
-She began preparing a better splint. Then she looked at him. Her eyes went to his side.
-
-His leg. His shoulder. "Sit."
+She began preparing a better splint. Then she looked at him. Her eyes went to his side. His leg. His shoulder. "Sit."
 
 "I'm fine."
 
 "No."
 
-Red sat. She pressed near the wound under his ribs. Pain flashed. "Still correcting."
+Rook sat. She pressed near the wound under his ribs. Pain flashed. "Still bleeding. Hold the dressing while I stitch this."
 
 "Yes."
 
@@ -66,13 +50,11 @@ Red sat. She pressed near the wound under his ribs. Pain flashed. "Still correct
 
 "Mostly."
 
-She touched his shoulder. Red flinched. "Bruised badly. Nothing obviously displaced." Then she stepped away. "That is all you get." Red looked at the crystal rack. "I wasn't asking."
+She touched his shoulder. Rook flinched. "Bruised badly. Nothing obviously displaced." Then she stepped away. "That is all you get." Rook looked at the crystal rack. "I wasn't asking."
 
 "I know."
 
-She returned to Kellan. "You are already restoring yourself." Across the room, three people worked around him.
-
-Red's bleeding had stopped. Kellan's had not.
+She returned to Kellan. "You are already restoring yourself." Across the room, three people worked around him. Rook's bleeding had stopped. Kellan's had not.
 
 *That was the difference.*
 
@@ -80,21 +62,13 @@ Sela tightened the upper strap on the splint. "Kellan cannot put weight on this 
 
 "I do not know yet."
 
-No promise. No dramatic final prognosis. Just not yet. "We need swelling down. We need circulation monitored. We keep the fractures stable."
-
-Kellan swallowed. "And shoulder?"
+No promise. No dramatic final prognosis. Just not yet. "We need swelling down. We need circulation monitored. We keep the fractures stable." Kellan swallowed. "And shoulder?"
 
 "Not enough information yet."
 
-He closed his eyes. Sela looked at him. "Your recovery changes none of that." Red did not answer. She did not need one. For the next hour, he stayed out of the way.
+He closed his eyes. Sela looked at him. "Your recovery changes none of that." Rook did not answer. She did not need one. For the next hour, he stayed out of the way. Harder than it sounded. People moved through the treatment house with blood and mud on their clothes. Animal bites. Cuts from carts. Broken fences. Collapsed roadwork. One militia guard had a torn hand from dragging somebody off a failed approach. Nobody had time to ask who started what. Kellan drifted in and out.
 
-Harder than it sounded. People moved through the treatment house with blood and mud on their clothes. Animal bites.
-
-Cuts from carts. Broken fences. Collapsed roadwork. One militia guard had a torn hand from dragging somebody off a failed approach. Nobody had time to ask who started what. Kellan drifted in and out.
-
-Pain tonic finally slowed his breathing. Sela changed the dressing once. The bleeding held. The leg stayed where she put it. That was success. Not healed. Stable. Red sat near the wall and watched his own wounds disappear faster than his. That asymmetry did not make him weaker.
-
-It made his injury more real. When Kellan woke properly, he turned his head toward him. "You still here?"
+Pain tonic finally slowed Kellan's breathing. Sela changed the dressing once, checked the splint, and called that success. Stable was the word, not healed. Rook sat near the wall with his own bloodstained wrap. He could still walk because his wounds were shallower; that fact did nothing for Kellan. When Kellan woke properly, he turned his head. "You still here?"
 
 "Yes."
 
@@ -160,21 +134,19 @@ He breathed carefully. "And Hesk built the damned system."
 
 "Do not give him my leg."
 
-Red looked at him. "Do not make this proof that he was right about everything."
+Rook looked at him. "Do not make this proof that he was right about everything."
 
 "I won't."
 
 "And do not make me proof that you were."
 
-That landed harder. "I won't." He closed his eyes. "Good." Sela crossed over and adjusted the blanket. "You are done now." Kellan did not argue.
-
-A militia runner had already brought Brynn's summons. Sela looked at him. "Council?"
+That landed harder. "I won't." He closed his eyes. "Good." Sela crossed over and adjusted the blanket. "You are done now." Kellan did not argue. A militia runner had already brought Brynn's summons. Sela looked at him. "Council?"
 
 "Yes."
 
 "Then go."
 
-Red looked at Kellan. Sela followed his gaze. "He is alive."
+Rook looked at Kellan. Sela followed his gaze. "He is alive."
 
 "I know."
 
@@ -182,17 +154,9 @@ Red looked at Kellan. Sela followed his gaze. "He is alive."
 
 "I know."
 
-Outside, Greywake sounded different. More horns. More boots. Wagons moving in the wrong direction. The lower approach had been cleared for militia traffic. Workers hauled barriers toward the gate.
+Outside, Greywake sounded different. More horns. More boots. Wagons moving in the wrong direction. The lower approach had been cleared for militia traffic. Workers hauled barriers toward the gate. Someone had marked one road with red cloth Rook could understand without literacy. The council house doors stood open. Inside, maps covered the emergency table. Maelis stood with copied record packets. Tavian stood at the map. Brynn still wore her field coat.
 
-Someone had marked one road with red cloth Red could understand without literacy. The council house doors stood open. Inside, maps covered the emergency table.
-
-Maelis stood with copied record packets. Tavian stood at the map. Brynn still wore her field coat.
-
-Hesk stood opposite them. A representative was saying: "We cannot leave outer pressure uncontrolled." Hesk answered. "We cannot leave any of it uncontrolled."
-
-His eyes moved to him. No smile. No satisfaction. That would have been easier. Instead he looked like a man whose argument had just been given bodies. "The hold order was clear."
-
-Red stopped near the table. "Yes."
+Hesk stood opposite them. A representative was saying: "We cannot leave outer pressure uncontrolled." Hesk answered. "We cannot leave any of it uncontrolled." His eyes moved to him. No smile. No satisfaction. That would have been easier. Instead he looked like a man whose argument had just been given bodies. "The hold order was clear." Rook stopped near the table. "Yes."
 
 "You violated it."
 
@@ -206,23 +170,13 @@ Red stopped near the table. "Yes."
 
 "Yes."
 
-Quiet room. Hesk did not need to raise his voice. "The seasonal crossing is gone. Outer routes are collapsing into each other. Movement reached the lower Greywake approach."
+Quiet room. Hesk did not need to raise his voice. "The seasonal crossing is gone. Outer routes are collapsing into each other. Movement reached the lower Greywake approach." Brynn said, "We know." "Then stop debating whether centralized control is offensive and start using it." Maelis's expression hardened. Hesk placed one hand on the map. "The strongest remaining outer lures should be brought back to full operation." Rook saw Kellan's leg again.
 
-Brynn said, "We know." "Then stop debating whether centralized control is offensive and start using it." Maelis's expression hardened.
-
-Hesk placed one hand on the map. "The strongest remaining outer lures should be brought back to full operation." Red saw Kellan's leg again.
-
-Hesk continued. "Restore pressure away from Greywake. Reopen the protected corridor. Guild handlers know the equipment. I have route records, crews, compounds, and people who can operate them before the next movement line reaches the walls."
-
-Brynn looked at him. "Under whose authority?"
+Hesk continued. "Restore pressure away from Greywake. Reopen the protected corridor. Guild handlers know the equipment. I have route records, crews, compounds, and people who can operate them before the next movement line reaches the walls." Brynn looked at him. "Under whose authority?"
 
 "Mine."
 
-There it was. "Emergency authority over Road Guild lure operations until the migration stabilizes." One council member looked to Brynn.
-
-Another to Maelis. Hesk kept going. "This is not theoretical anymore." He pointed toward him. "Uncontrolled individual judgment already showed us the alternative." Nobody defended him.
-
-They should not. Hesk looked directly at him. "You wanted the choice removed from my hands."
+There it was. "Emergency authority over Road Guild lure operations until the migration stabilizes." One council member looked to Brynn. Another to Maelis. Hesk kept going. "This is not theoretical anymore." He pointed toward him. "Uncontrolled individual judgment already showed us the alternative." Nobody defended him. They should not. Hesk looked directly at him. "You wanted the choice removed from my hands."
 
 "Yes."
 
@@ -230,21 +184,15 @@ They should not. Hesk looked directly at him. "You wanted the choice removed fro
 
 "Yes."
 
-A few eyes moved his way. Red did not argue. "You still think no one should choose?"
+A few eyes moved his way. Rook did not argue. "You still think no one should choose?"
 
 "No."
 
-That made him pause. Red looked at the map. "Someone always chooses." Kellan chose to support him. Tavian chose to warn him. Brynn chose to hold. Red chose to pull the stake. Hesk had chosen for years. The question had never been whether choices existed.
-
-It was who knew. Who paid. Who could challenge them. Hesk straightened. "Then you understand why authority must be centralized."
+That made him pause. Rook looked at the map. "Someone always chooses." Kellan chose to support him. Tavian chose to warn him. Brynn chose to hold. Rook chose to pull the stake. Hesk had chosen for years. The question had never been whether choices existed. It was who knew. Who paid. Who could challenge them. Hesk straightened. "Then you understand why authority must be centralized."
 
 "No."
 
-His face hardened. There it was. Use his mistake. Turn responsibility into obedience. Maelis spoke before Red did. "CH-016 does not erase CH-013." Hesk looked at her. She opened one copied packet. "Your admission of deliberate diversion remains recorded."
-
-A second. "Repeated outer pressure remains documented." A third. "Manipulated reporting remains documented." Hesk said, "And Red Jackal's unauthorized alteration is documented." "Yes." Maelis looked at him. "It will be."
-
-Then Hesk. "Separate responsibility does not cancel previous responsibility." His jaw tightened. "This is not a hearing."
+His face hardened. There it was. Use his mistake. Turn responsibility into obedience. Maelis spoke before Rook did. "CH-016 does not erase CH-013." Hesk looked at her. She opened one copied packet. "Your admission of deliberate diversion remains recorded." A second. "Repeated outer pressure remains documented." A third. "Manipulated reporting remains documented." Hesk said, "And Rook Vane's unauthorized alteration is documented." "Yes." Maelis looked at him. "It will be." Then Hesk. "Separate responsibility does not cancel previous responsibility." His jaw tightened. "This is not a hearing."
 
 "No."
 
@@ -256,11 +204,7 @@ Hesk's expression changed by almost nothing. Maelis saw it. "No single office co
 
 "You are fragmenting command during a crisis."
 
-Brynn answered. "I am preventing one office from controlling both the crisis and the evidence." Hesk leaned forward. "While you preserve paperwork, migration is moving."
-
-Tavian finally spoke. "He is right about that." Everyone looked at him. "Backflow is still developing."
-
-He moved two markers. "Restoring pressure may be necessary." Hesk looked at him. "Then we agree."
+Brynn answered. "I am preventing one office from controlling both the crisis and the evidence." Hesk leaned forward. "While you preserve paperwork, migration is moving." Tavian finally spoke. "He is right about that." Everyone looked at him. "Backflow is still developing." He moved two markers. "Restoring pressure may be necessary." Hesk looked at him. "Then we agree."
 
 "No."
 
@@ -280,11 +224,9 @@ Another marker. "Not the network state from before one influence was removed." H
 
 "Then you are choosing delay."
 
-"I am choosing not to repeat Red's mistake with more equipment."
+"I am choosing not to repeat Rook's mistake with more equipment."
 
-That landed. Tavian did not look at him. He did not need to. Brynn stepped closer. "Here is what happens now." Nobody interrupted. "Militia command remains with me. Guild technical crews operate under shared emergency tasking."
-
-Hesk's mouth tightened. "Shared with whom?"
+That landed. Tavian did not look at him. He did not need to. Brynn stepped closer. "Here is what happens now." Nobody interrupted. "Militia command remains with me. Guild technical crews operate under shared emergency tasking." Hesk's mouth tightened. "Shared with whom?"
 
 "Militia witness. Guild technician. Route confirmation from Tavian or someone he designates."
 
@@ -308,45 +250,23 @@ Hesk did not answer. Brynn's voice turned colder. "Not optional." He looked arou
 
 "People may die while you wait," Hesk said.
 
-Brynn looked at him. "Yes." No one pretended otherwise. "People may also die if we restore them wrong."
-
-The next report arrived before anyone could make the argument cleaner. A runner entered. "Movement on the lower western approach."
-
-Tavian moved before the runner finished. "Species?"
+Brynn looked at him. "Yes." No one pretended otherwise. "People may also die if we restore them wrong." The next report arrived before anyone could make the argument cleaner. A runner entered. "Movement on the lower western approach." Tavian moved before the runner finished. "Species?"
 
 "Mixed. Mostly smaller herd animals. Predator calls behind."
 
 "Distance?"
 
-The runner answered. Tavian started moving markers. Brynn started giving orders. Maelis gathered records. Hesk moved to the Guild packets. Everyone had something to do. Red stood there. That was when being right about Hesk stopped giving him anywhere to hide. He had been right.
+The runner answered. Tavian started moving markers. Brynn started giving orders. Maelis gathered records. Hesk moved to the Guild packets. Everyone had something to do. Rook stood there. That was when being right about Hesk stopped giving him anywhere to hide. He had been right. He hid the lures. Manipulated the reports. Decided which roads could absorb danger. Treated outer communities as something Greywake could spend. All true. Rook had still been wrong to pull the stake when he did. Also true. Both fit in the same room. Rook did not like that. It did not matter. Tavian looked up. "We need route observations from the disabled site."
 
-He hid the lures. Manipulated the reports. Decided which roads could absorb danger. Treated outer communities as something Greywake could spend. All true. Red had still been wrong to pull the stake when he did.
-
-Also true. Both fit in the same room. Red did not like that. It did not matter. Tavian looked up. "We need route observations from the disabled site."
-
-Red had them. Every track. Every call. Which side had been screened. Where the first herd crossed. Where the ridge-hounds appeared. Red knew because he had been there. Because he caused the change. He stepped toward the table.
-
-Hesk looked at him. "You have contributed enough improvisation." Red stopped. Not because he told him. Because part of him wanted to hit the sentence instead of answer it. Brynn noticed. "So don't improvise."
-
-Red looked at her. "Then what?"
+Rook had them. Every track. Every call. Which side had been screened. Where the first herd crossed. Where the ridge-hounds appeared. Rook knew because he had been there. Because he caused the change. He stepped toward the table. Hesk looked at him. "You have contributed enough improvisation." Rook stopped. Not because he told him. Because part of him wanted to hit the sentence instead of answer it. Brynn noticed. "So don't improvise." Rook looked at her. "Then what?"
 
 "Report what you saw."
 
-Maelis added, "Only what you saw." Tavian said nothing. He was waiting. Red gave them the route. First herd from the screened side. Ridge-hounds from another angle.
+Maelis added, "Only what you saw." Tavian said nothing. He was waiting. Rook gave them the route. First herd from the screened side. Ridge-hounds from another angle. Smaller animals through lower brush. Calls shifted before visible movement. Tavian moved markers while Rook spoke. He corrected one directional estimate. Rook let him. Maelis wrote. Brynn listened. Hesk did not interrupt. When Rook finished, Tavian looked at the map. "This helps."
 
-Smaller animals through lower brush. Calls shifted before visible movement. Tavian moved markers while Red spoke.
+Not forgiveness. Not approval. Useful. Enough. Outside, the air felt colder. From the council steps Rook could see people moving barricades toward the lower road. A cart rolled toward Sela's treatment house carrying supplies instead of patients. For now. The bridge was gone. Kellan was in a splint. His wounds were covered with fresh dressings. He could still feel every one of them. That did not make the consequences disappear.
 
-He corrected one directional estimate. Red let him. Maelis wrote. Brynn listened. Hesk did not interrupt. When Red finished, Tavian looked at the map. "This helps."
-
-Not forgiveness. Not approval. Useful. Enough. Outside, the air felt colder. From the council steps Red could see people moving barricades toward the lower road.
-
-A cart rolled toward Sela's treatment house carrying supplies instead of patients. For now. The bridge was gone.
-
-Kellan was in a splint. His wounds were almost gone. That did not make the consequences disappear.
-
-Hesk had been right about one thing. Someone had to choose. He turned that sentence into ownership.
-
-Red had made the opposite mistake and acted as if choosing for himself could never choose for anyone else. Neither version worked. Brynn came out. "We are moving the emergency route board to the militia yard."
+Hesk had been right about one thing. Someone had to choose. He turned that sentence into ownership. Rook had made the opposite mistake and acted as if choosing for himself could never choose for anyone else. Neither version worked. Brynn came out. "We are moving the emergency route board to the militia yard."
 
 "Tavian?"
 
@@ -360,20 +280,10 @@ Red had made the opposite mistake and acted as if choosing for himself could nev
 
 "Guild inventories."
 
-Not in charge. Still useful. Complicated. Red looked toward the treatment house. Then the militia yard. Leaving would have been easier.
+Not in charge. Still useful. Complicated. Rook looked toward the treatment house. Then the militia yard. Leaving would have been easier. Rook could have told himself Greywake had experts now. That he had made things worse already. That staying gave Hesk one more reason to point at him. All true enough to hide inside. Rook did not move toward the gate. He went with Brynn.
 
-Red could have told himself Greywake had experts now. That he had made things worse already. That staying gave Hesk one more reason to point at him.
+At the militia yard, Tavian spread a fresh route map across a work table. Maelis arrived with copied service records. Two runners waited. Rook put his hands on the table. No performance. No claim to command. "What do you need from me?" Tavian looked at him for a long second. Then pointed beside the map. "Everything you remember from the disabled site. Exact order."
 
-All true enough to hide inside. Red did not move toward the gate. He went with Brynn.
-
-At the militia yard, Tavian spread a fresh route map across a work table. Maelis arrived with copied service records. Two runners waited.
-
-Red put his hands on the table. No performance. No claim to command. "What do you need from me?"
-
-Tavian looked at him for a long second. Then pointed beside the map. "Everything you remember from the disabled site. Exact order."
-
-Red stayed. Not because Hesk was right. Not because Greywake owned him. Definitely not because guilt had suddenly discovered recruitment.
-
-The mess had his fingerprints on it, Hesk was still irritating, and leaving before Red saw how it ended felt like letting somebody else finish his scene.
+Rook stayed. Not because Hesk was right. Not because Greywake owned him. Definitely not because guilt had suddenly discovered recruitment. The mess had his fingerprints on it, Hesk was still irritating, and leaving before Rook saw how it ended felt like letting somebody else finish his scene.
 
 Unacceptable.

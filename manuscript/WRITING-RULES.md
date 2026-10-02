@@ -3,7 +3,7 @@
 **Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
 **Protagonist:** Rook Vane  
 **Status:** LOCKED — DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / NATURAL WEB-NOVEL PROSE  
-**Effective:** 2026-09-27
+**Effective:** 2026-10-02
 
 # 1. POV
 
@@ -87,7 +87,9 @@ Rook is:
 - outwardly composed;
 - internally more uncertain than he looks;
 - willing to take credit once a misunderstanding becomes useful;
-- capable of seriousness.
+- capable of seriousness;
+- devoted to playing the enigmatic important-looking stranger from the beginning;
+- pleased when real events seem to validate a line or pose he invented for effect.
 
 # 5. Fortune Distortion — Only Supernatural Power
 
@@ -138,7 +140,7 @@ Every major lucky event should answer:
 
 # 7. Rook Does Not Know Everything
 
-Early Rook should usually interpret luck as:
+Throughout the whole series, Rook interprets incidents through ordinary causes:
 - good timing;
 - enemy stupidity;
 - coincidence;
@@ -147,7 +149,7 @@ Early Rook should usually interpret luck as:
 
 Do not make him announce the power repeatedly.
 
-The reader should recognize the pattern before Rook fully accepts it.
+The reader recognizes the luck power. Rook never does, including in the final scene. Another character may explain a theory to him; he remembers it but treats its mechanism as unproven and its inflated account of his intentions as someone taking his performance literally. Never give him a strategy that depends on “my luck,” even without naming the ability.
 
 # 8. Misinterpretation Engine
 
@@ -165,6 +167,14 @@ It may create:
 - impossible expectations;
 - legal suspicion;
 - people acting on a plan Rook never made.
+
+# 8A. Write the Other Characters' Overanalysis
+
+Use detail selectively, after a consequential event. A witness identifies two or three real observations, connects them through their own expertise, and reaches a mistaken conclusion about Rook's motive or preparation. That conclusion must cause action: a promotion, a retreat, a demand, a new investigation, a changed target, or an expectation Rook cannot safely meet.
+
+Make the discrepancy concrete. If the witness says he waited for the cart's weight to shift, show that Rook had actually been waiting for someone to stop talking. Do not follow every ordinary gesture with a lecture. Vary explanations, disagreement, short reactions, and practical interruptions. Supporting characters may be correct about the physical sequence while wrong about its author.
+
+Keep Rook's private performer visible: deciding where a mysterious figure would stand, rehearsing a line, enjoying an accidental entrance, or discovering that a supposedly ominous silence has become a job assignment. He knows the act is an act; he mistakes the extraordinary results for coincidences or ordinary successes of that act.
 
 # 9. Dialogue
 
@@ -309,5 +319,8 @@ A chapter fails if:
 8. Dialogue sounds interchangeable.
 9. The scene does not change anything.
 10. The ending provides no forward pull.
+11. Rook identifies or consciously exploits his supernatural luck.
+12. His theatrical personality appears only after fame or disappears permanently in a serious arc.
+13. Witness explanations require omniscience, interchangeable admiration, or supporting-character incompetence.
 
 A chapter passes only when Rook feels **lucky, overestimated, dangerous-looking, human, and original**.

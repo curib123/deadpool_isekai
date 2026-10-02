@@ -1,7 +1,7 @@
 # Character Bible
 
 **Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
-**Status:** LOCKED RESET — ROOK VANE / FORTUNE DISTORTION ONLY — 2026-09-27
+**Status:** AUTHOR-DIRECTED REVISION — STABLE PERFORMER / PERMANENTLY CLUELESS LUCK — 2026-10-02
 
 # 1. Character Canon Rules
 
@@ -63,11 +63,14 @@ Public presentation:
 - calm-looking;
 - dry;
 - difficult to read;
-- occasionally theatrical;
+- deliberately theatrical from his first appearance;
+- meticulous about entrances, pauses, positioning, and an exit that ends on a good line;
 - willing to bluff;
 - unexpectedly bold when cornered.
 
 Private reality:
+- enjoys playing an enigmatic mastermind more than holding actual authority;
+- interprets genuine events as material for his performance and other people's reactions as reviews of that performance;
 - often improvising;
 - often unsure;
 - capable of fear;
@@ -78,7 +81,7 @@ Private reality:
 
 Rook is not a pure coward and not a fearless monster.
 
-He is a normal-minded person placed inside increasingly abnormal circumstances who learns that keeping a straight face is sometimes safer than explaining the truth.
+He is a normal-minded person placed inside increasingly abnormal circumstances who already enjoys a straight face and an impressive line. Danger changes the cost of the performance, not the existence of that personality.
 
 ## 2.5 Primary Desire
 
@@ -153,7 +156,7 @@ Luck may also create a worse secondary problem.
 
 ## 2.10 Clueless-Luck Rule
 
-Early Rook does not think:
+At any point, including the final chapter, Rook does not think:
 
 *"I have probability distortion."*
 
@@ -165,7 +168,7 @@ He thinks:
 - convenient;
 - maybe he is better at improvising than he thought.
 
-The reader should recognize the pattern before Rook accepts it.
+The reader recognizes the supernatural pattern; Rook never correctly accepts it as his power. He can call an incident lucky, notice a repeated circumstance, or hear another character's theory without identifying a personal probability ability. His explanations change with the incident: rotting timber, frightened animals, someone arriving late, a useful bluff, or another person's skill. Avoid repetitive denial and avoid erasing evidence from his memory.
 
 ## 2.11 Misinterpretation Engine
 
@@ -187,7 +190,7 @@ No interpretation becomes writer truth merely because characters believe it.
 
 ## 2.12 Aura Farming
 
-Rook eventually learns that silence is useful.
+Rook enjoys theatrical silence from the beginning. He may improve its timing, but this is not a later personality unlock.
 
 He may deliberately:
 - pause instead of admitting he has no answer;
@@ -198,6 +201,14 @@ He may deliberately:
 - reuse rumors as intimidation.
 
 This is social performance, not supernatural aura.
+
+## 2.12A Witness Explanations
+
+After an important accident, show a witness connecting two or three visible details into an impressive explanation. Their expertise makes the reconstruction convincing while their missing access to Rook's motive makes its conclusion wrong. Put the account in dialogue, a report read aloud, an accusation, or a rumor Rook hears; never enter another character's thoughts without an established POV break.
+
+Tavian can reconstruct terrain and timing while still correcting Rook's unsafe decisions. Maelis can record a statistical anomaly without proving its mechanism or conscious control. Hesk can fear that an unreadable outsider chose specific jobs to expose his policy. Workers can imagine engineering insight. Brynn may use or refuse the legend when assessing deployment. Sela treats wounds rather than reputations. None of these roles replaces the character's own goals.
+
+Rook's private response is practical or theatrical: he wanted a seat, grabbed the wrong rope, copied a posture, or liked the sound of a sentence. He lets people explain because their version sounds better, saves an awkward admission, or gets him paid. He never lets someone knowingly walk into immediate lethal danger merely to protect his image.
 
 ## 2.13 Comedy
 
@@ -280,7 +291,8 @@ Rook has no supernatural power progression.
 Fortune Distortion is present from the beginning.
 
 What changes:
-- Rook's awareness of the pattern;
+- the amount of evidence other people accumulate about the pattern;
+- Rook's ordinary understanding of specific accidents, without discovering a supernatural luck ability;
 - his ability to exploit openings;
 - his ordinary competence;
 - relationships;
@@ -294,7 +306,9 @@ What does not change:
 - no regeneration;
 - no reality manipulation;
 - no time stop;
-- no second awakening.
+- no second awakening;
+- no recognition or conscious exploitation of a personal luck power, even in the ending;
+- the same pleasure in mysterious performance, freedom, and entertainment from beginning to end.
 
 ## 2.19 Knowledge State at Foundation
 
@@ -319,6 +333,10 @@ A proposed scene fails if it:
 - gives him time stop;
 - gives him reality manipulation;
 - makes him knowingly command exact lucky outcomes;
+- makes him correctly identify his luck as a supernatural power;
+- gives him a deliberate luck experiment or a plan that depends on his personal probability advantage;
+- treats another character's theory as something Rook secretly knows to be true;
+- replaces his established theatrical personality with a solemn mastermind or a conventional hero;
 - makes every supporting character incompetent so Rook can look smart;
 - makes every coincidence consequence-free;
 - turns him into a direct copy of an existing copyrighted character;

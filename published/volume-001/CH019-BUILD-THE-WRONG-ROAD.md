@@ -1,179 +1,299 @@
-Chapter 19 — Build the Wrong Road
+# Chapter 19 — Build the Wrong Road
 
-Broken North looked worse with work crews standing on it. Before, it had been evidence. Now it had to become a road again.
+Broken North looked worse when people tried to save it.
 
-Brynn brought militia, road workers, two carts of ordinary materials, and more people from the outer homesteads than Greywake had officially requested. Tavian brought route notes and the expression of a man expecting the forest to disagree personally. Red carried timber.
+Fresh-cut brush covered one side of the road. Mud filled the drainage cuts. Timber, stone, rope, and hand tools were stacked wherever the ground could support them.
 
-A lot of timber. Red put one beam over his shoulder. A woman from the outer farms pointed at the other end. "Higher. You're dragging it."
+Brynn stood near the old closure with militia runners moving in and out around her. Tavian marked the expected animal corridor. Kellan had sent three pages of repair notes despite being unable to stand on his injured leg.
 
-Red looked back. She was right. That ended the performance. Practical labor remained resistant to reputation. They passed the old Guild closure just after first light. The chain had been removed under Brynn's emergency authorization.
+Rook carried stone. This was less dramatic than his reputation suggested.
 
-The sign still warned that the road beyond was unstable and dangerous. Still correct. Brynn read out work zones while runners marked withdrawal routes with cloth. "Lower drainage first. Washout team stages here. Second break gets materials but no work until the lip is secured."
+"Again," the foreman called.
 
-A foreman unfolded Kellan's notes across a cart board. He looked at the ground. "Kellan was right about the water."
+Rook put down the empty basket.
 
-Another worker crouched beside the ditch. "He was optimistic about the roots." Fair. Tavian walked the road center slowly, watching both surface and edges. "Leave the center wide." A worker looked up from his axe. "It's brush."
+"You people have discovered an exploit."
 
-"If you choke it, they spill east."
+"You can still walk."
 
-"We can clear the middle faster."
+"Temporary condition."
 
-"And teach them to spill around the sides when the center closes."
+The foreman pointed toward the drainage channel.
 
-The worker widened the planned cut. Nobody argued with Tavian twice. Brynn came over while Red unloaded stone. "Guild shipment is short."
+"Then enjoy it while it lasts."
 
-"How short?"
+Rook took another basket. The plan was not to restore Broken North as a proper road. There was not enough time.
 
-"Timber and rope."
+The herd pressure moving toward Greywake had to be redirected, and the old route only needed to become passable enough to pull movement away from the outer settlements. Kellan's notes were blunt.
 
-"Hesk?"
+**Water before weight.  
+Weight before speed.  
+Do not make it pretty.**
 
-"Hesk argued the main road cannot be stripped."
+Rook respected that. The first problem was drainage.
 
-"Sounds like Hesk."
+Years of mud, roots, and fallen branches had turned the ditch into a wall. Water crossed under the road instead of beside it.
 
-"It is also true."
+Workers dug. Rook carried. Nobody discovered a shortcut.
 
-*Right. Complicated things continued refusing simplification.* Two homestead carts arrived behind her. Old fence timber. Reused planks. Rope with a long history. One driver jumped down. "Kellan said you'd be short." Brynn looked at the load. "He sent you?"
+Then one of the workers struck an old stone channel hidden beneath the mud. The shovel rang. Everyone stopped. The foreman crouched.
 
-"No. He told us yesterday what the road would need. We can think without him."
+"That shouldn't be there."
 
-Also fair. Soon Broken North filled with overlapping work. Militia cleared space. Homesteaders cut roots. Guild workers argued over drainage angles. Tavian preserved the future movement corridor.
+Rook looked over his shoulder.
 
-Brynn kept people off exposed ground. Red moved whatever somebody pointed at. No manifestation. Just work. The drainage below the watch point had collapsed inward years ago. Mud, stone, roots, and dead branches had turned the ditch into a wall that pushed water under the road instead of away.
+"You say that often?"
 
-Kellan's note was simple. Water before weight. They dug. Mud came out in heavy clumps. Red carried stone baskets until the ditch finally started moving water again. Not repaired.
+"More since you started showing up."
 
-Open. Enough. Then the washout. Red knew the cracked lip. He had held it once with impossible support while ridge-hounds made the experience unnecessarily interactive. The road had not improved.
+They cleared the stone. The old channel was narrow but intact. Once opened, water moved through it immediately.
 
-If anything, one section had settled farther. The foreman checked Kellan's notes. Then the ground. "Brace point is still usable."
+Kellan had not known it existed. The workers had not known it existed. Rook had not done anything except carry a basket past the exact worker who happened to swing at the exact patch of ground.
 
-Tavian said, "Temporary support only." The foreman looked at him. "I know what temporary means."
+The foreman looked at him anyway. Rook frowned.
 
-Then him. "Do you?"
+"I did not bury historical infrastructure for this moment."
 
-"I have recently received lectures."
+"No one said you did."
 
-"Good."
+"Your face did."
 
-He pointed beneath the cracked shelf. "I need support there. Not wider. Not higher. Hold the section while we seat timber."
+They kept working. By midday, the lower drainage was moving. The second problem was the washout.
 
-"Simple."
+The same broken shelf Rook had crossed earlier remained unstable. The permanent fix would require more material and several days.
 
-"Make it ugly."
+They had hours. The foreman studied Kellan's notes.
 
-"Everyone asks for that."
+"Brace the inside. Pack the outer shelf. Narrow traffic to one line."
 
-"Pretty does not hold stone better."
+Tavian shook his head.
 
-No answer to that. Red looked at the gap. He could have replaced the whole roadbed.
+"Animals won't take a narrow line if the footing smells wrong."
 
-That was not the job. The job was letting ordinary engineering become the thing that remained after Red left. A pale-grey brace appeared beneath the lip exactly where the foreman marked.
+"We're not building for animals."
 
-Short. Wide. Functional. Workers moved immediately. Two timbers went beside it. Stone. Packed aggregate. Rope lines kept people away from the drop. Red held the impossible support exactly where it belonged.
+"Today we are."
 
-That part was easy. Not interfering with people who understood roads was harder. The foreman watched the physical brace take load. "Transfer."
+The foreman looked at him. Then at the road. Rook sat on a rock and drank water.
 
-Workers eased weight into timber and stone. The shelf settled. Then stopped. "Again." More load. Still held. "Release yours." Red looked at him. "You sure?"
+He had learned that speaking during expert disagreements was often unnecessary. Unfortunately, silence had started making people assume he was thinking. Brynn noticed.
+
+"What?"
+
+Rook lowered the waterskin.
+
+"What what?"
+
+"You have that look."
+
+"What look?"
+
+"The one everyone regrets later."
+
+Unfair reputation. Rook looked at the road. The direct route over the washout was shorter.
+
+Kellan wanted it stabilized. Tavian wanted the animal corridor obvious. The foreman wanted something workers could build before dark.
+
+Rook looked downhill. An older side cut ran through brush, curved around the washout, and rejoined Broken North farther ahead. It looked terrible.
+
+Longer. Softer. Half overgrown.
+
+"Use that."
+
+Three people looked at him. The foreman said, "No."
+
+"Fast rejection."
+
+"That side cut floods."
+
+"Today?"
+
+He looked at the clouds.
+
+"Possibly."
+
+Rook pointed at the main washout.
+
+"That one falls."
+
+"Possibly."
+
+Tavian walked toward the side cut. He crouched near the entrance.
+
+"Animal sign."
+
+Brynn joined him.
+
+"Recent?"
+
+"Not much."
+
+The foreman folded his arms.
+
+"Because it's a bad road."
+
+Rook nodded.
+
+"Exactly."
+
+They all looked at him again. Rook realized the problem. He had said it like he meant something.
+
+"Bad roads are underused," he added.
+
+Tavian studied the side route.
+
+"If we clear the brush and keep the footing open, the herd may accept it."
+
+The foreman stared at Rook. Rook stared back. That was not the conclusion he had expected.
+
+Kellan's runner arrived fifteen minutes later with another note. The foreman read it. Then looked at Rook.
+
+"What?"
+
+The man handed Brynn the page. She read aloud.
+
+"If washout shelf worsens, do not force the main line. Old drainage map shows abandoned side service cut. Longer but lower load."
+
+Silence. Rook looked at the side road. Then at the messenger.
+
+"When did he write that?"
+
+"This morning."
+
+"When did you leave?"
+
+"Before you arrived."
+
+Brynn slowly turned toward Rook. Rook pointed at the paper.
+
+"Kellan planned it."
+
+The foreman said, "You chose it before hearing the note."
 
 "Yes."
 
-"That is a lot of trust in wood."
+Tavian's mouth moved slightly. That was almost a smile. Rook stood.
 
-"It is more trust than I have in your face right now."
+"Do not encourage this."
 
-Red released the manifestation. The pale-grey support folded away. Timber remained. Stone remained. Road remained. No magic under it. Good. The next break was farther north. Not as deep.
+They built the wrong road.
 
-More irritating. A drainage cut had eaten one side of the roadbed until workers could cross one at a time, but materials could not. The foreman looked at the gap. "We need planks across long enough to fill from both sides."
+The side cut needed brush cleared, soft ground packed, and two small drainage gaps reopened. It was slower than anyone wanted.
 
-A worker pointed at him. "He can make the temporary bit." Red looked at him. "Good to know I have become equipment."
+Then the weather changed. Rain began north of them. Not heavy.
 
-"Equipment gets maintained."
+Enough. Water reached the main washout first. The repaired shelf held for several minutes.
 
-Dangerous direction. Tavian came over. "Short."
+Then the outer edge collapsed. Not catastrophically. Enough to make the main route unusable.
 
-"Yes."
+Everyone stopped working and listened to the stone fall. The foreman looked at Rook. Rook kept his expression neutral. Inside, he had one clear thought.
 
-"Inside the work line."
+*This is getting stupid.*
 
-"Yes."
+Brynn said, "Keep working." Good woman. Nobody needed a prophecy.
 
-"Not a replacement road."
+They packed the side cut. A delivery wagon arrived with timber exactly when they ran short. The driver jumped down.
 
-"I know."
+"Kellan ordered this yesterday."
 
-The foreman said, "Ramp." "Fine." Red pictured exactly that. A short rough ramp settled across the break. Workers crossed with planks first. Then stone baskets.
+Rook looked at Brynn. She raised one finger.
 
-Then fill. The ramp stayed. No wobble. Boring. Dependable. Exactly what the foreman needed. When the permanent footing began carrying load, the foreman called: "Drop it."
+"Do not."
 
-"There is one more basket."
+"I didn't say anything."
 
-"The physical footing carries now."
+"You were going to."
 
-That was the point. Red released the ramp. A worker carried the last basket across the new planks by hand.
+Fair. The side road opened before dusk. Tavian walked the full length first. Then he returned with a grim expression.
 
-Civilization survived. Tavian stopped beside fresh tracks farther north. "Brynn." She came over. "What?" He pointed toward the trees. "Prey line crossed here. Very recent."
+"Movement north."
 
-A call sounded down the corridor. High. Short. Another answered behind it. Workers looked up. Tavian stood. "Clear tools from the center." Brynn raised her voice. "Crews off the road. Militia to marked edges." The forest moved before the last wheelbarrow cleared. Three browsing animals broke through the brush. Smaller than the backflow herd.
+"How much?" Brynn asked.
 
-Still large enough to turn workers into problems. Tavian watched direction. "Do not push them east."
+"Enough."
 
-A militia guard shifted. "Why?"
+Everyone became faster. The first animals were not part of the main herd. Three ridge-hounds appeared near the upper road, displaced ahead of the larger movement.
 
-"Farm connector."
+Militia formed a line. Workers backed away from the exposed edge. Rook stayed near the center because Brynn had specifically threatened to make him carry stone through the battle if he wandered.
 
-The guard moved back. The animals continued north. Then ridge-hound calls came closer. "They're following," Tavian said.
+One hound came through the brush too far west. Wrong angle. It was heading toward two workers still pulling tools from the main washout.
 
-Brynn drew her sword. "Workers behind retaining line." Militia spread along the edge. No charge. No pursuit. Boundary. The first ridge-hound came low and fast. A spear point turned it away from workers. The second appeared left.
+Tavian moved to intercept. Too far. Rook grabbed a loose shovel.
 
-Tavian shouted. "Leave center open." Brynn repeated it. The militia gave ground. One worker tripped over cut roots. Another went back for him.
+The hound saw him and changed direction. That was not helpful. Rook stepped backward onto the side cut.
 
-A third hound came from the side. Wrong angle. Straight toward them. Red moved. Tavian wanted the hounds following prey north, not fighting beside crews. So he gave the bad angle a worse option.
+The animal followed. Its front paw landed on a fresh layer of packed stone. The stone held.
 
-A low pale barrier appeared across the side cut. The hound hit it, checked, and chose the open road instead. The workers cleared.
+Its rear paw landed on the section the workers had not finished. The surface collapsed into the reopened drainage gap. The hound dropped chest-first.
 
-The hounds followed prey north. Red released the barrier. No fourth manifestation followed. Not because there was a ceiling. Because there was no fourth problem that needed impossible help. Tavian watched the tree line until the calls moved farther away.
+The shovel slipped out of Rook's hands. It fell across the animal's forelegs. The hound thrashed.
 
-Then lowered his blade. Nobody cheered. A worker went back for tools. Another checked the footing. Brynn looked at him. "Done improvising?"
+A militia guard reached them and drove the animal away from the workers. Rook stared at the shovel. The guard stared at Rook. Rook pointed toward the unfinished drainage.
 
-"For now."
+"Engineering."
 
-"Actually?"
+From farther down the road, the foreman shouted, "No!" Rook almost smiled. The other hounds followed Tavian's pressure north and disappeared.
 
-"Yes."
+No one celebrated. They finished the work. By nightfall, Broken North had two routes.
 
-She pointed at the road. "Good. They need hands." So Red went back to carrying things. Late afternoon made Broken North look almost worse. Fresh cuts in brush.
+The correct road was broken. The wrong road worked. Brynn walked the side cut with a lantern.
 
-Mud everywhere. Timber braces under old stone. Rough planks over washed ground. New earth against ancient edges. A reclaimed timber barrier redirecting one dangerous side opening. Ugly.
+"Temporary."
 
-Kellan would approve. Tavian and Red walked the corridor. Brynn followed with runners. At the lower drainage, water still moved through the reopened cut. At the washout, permanent support held without his brace. The foreman stepped onto the repaired lip. "Still settling."
+"Everything is temporary if you wait long enough."
 
-"Too much?" Tavian asked.
+"Do not become philosophical."
 
-"Not yet."
+"That was barely a sentence."
 
-Useful, not comforting. At the second gap, planks and fill held their weight. Not a cart.
+Tavian joined them.
 
-Not a caravan. them. Farther north, brush had been cleared enough that the old route no longer disappeared into roots.
+"The herd will see the opening."
 
-One connector was visible again. Another rough but passable. The third had enough room if nothing panicked at exactly the wrong point.
+"Will they take it?" Brynn asked.
 
-Large condition. Tavian stopped near the old watch point. Looked south. Then north. Then side cuts. Brynn waited. "Well?"
+"Likely."
 
-"Not safe."
+Rook looked at him.
 
-Nobody expected safe. "Not stable." The foreman nodded. "Not finished." Obvious. "But continuous." Brynn's shoulders lowered slightly. "Enough?" Tavian took time. "Enough to attempt redirection." That was the win. The road still looked terrible. Workers stood in mud. His clothes had lost a war with earth.
+"Your favorite word."
 
-Broken North went somewhere again. Brynn looked toward the far connector. "What else?"
+Tavian ignored that.
 
-"Timing."
+"The side route lines up better with the northern movement corridor now that the main shelf collapsed."
 
-Tavian pointed south. "If known lures pressure populated routes too early, movement bunches before Broken North can receive it."
+Brynn looked at Rook. Again. Rook sighed.
 
-"And too late?"
+"I did not collapse the road."
 
-"It reaches farms and lower approaches first."
+"The foreman thinks you rejected it because the drainage was undermining the shelf," Brynn said. "He says you had us spend our effort on the bypass before the main route failed."
 
-Brynn nodded. "So road ready?" Tavian looked at her. "Barely." Red looked at the timber supports, rough footing, reopened drainage, and the corridor people had forced back into existence. They had built something real. Now came the part he disliked.
+Rook had rejected it because it looked unpleasant to walk on. The foreman had improved the explanation substantially.
 
-Making animals choose it. Tavian looked toward Greywake. "The lure sequence." Of course. They had built the wrong road. Now they had to make the migration choose it.
+"If he understood the idea, that saves me explaining it," Rook said.
+
+"He wants you to inspect the next repair."
+
+That saved considerably less.
+
+"No one said you did."
+
+"There is a pattern here."
+
+"Yes," Tavian said.
+
+Rook looked at him. Tavian's expression was serious. Not joking. Rook stopped smiling.
+
+"What pattern?"
+
+Tavian glanced back at the worksite. The old channel discovered exactly when needed. The note arriving after Rook had already chosen the same side cut.
+
+The main road failing after they committed to the alternative. The hound stepping into the unfinished drainage.
+
+"Things go wrong around you," Tavian said.
+
+Rook waited. Tavian continued.
+
+"Just rarely for you."
+
+The sentence stayed with him mostly because Tavian had made it sound like a warning instead of a compliment. Rook looked at the worksite: wet stone, careless animals, workers saving one another. There were enough ordinary causes to occupy an entire investigation. He had no intention of commissioning one about himself. Behind them, workers lit markers along the wrong road. Ahead, somewhere beyond the dark trees, the herd was moving.

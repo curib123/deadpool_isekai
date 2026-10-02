@@ -1,7 +1,7 @@
 # Chapter 8 — Outside the Lanterns
 
-**Status:** CANON RESET — DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY  
-**Revision Date:** 2026-09-27
+**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK / STABLE THEATRICAL MC
+**Revision Date:** 2026-10-02
 
 "Can you lift?"
 
@@ -185,7 +185,7 @@ The worker chewed.
 
 Rook considered the wording.
 
-"I was supervising probability."
+"I was providing atmosphere."
 
 Kellan looked up from his food.
 
@@ -273,7 +273,7 @@ Kellan did not sound convinced. He slipped the tag into his pocket. Rook stared 
 
 A dropped basket had saved a cart. A snapped rope had dropped a plank exactly where it helped. Now a random cargo tag had fallen at his feet from a wagon that apparently should not have been there.
 
-The pattern was becoming rude. Kellan looked at him.
+The yard was poorly maintained and the roads were worse. It was apparently possible to make a career by standing near neglected equipment at the right time. Kellan looked at him.
 
 "What?"
 

@@ -1,10 +1,8 @@
 # Chapter 15 — One Stake Too Many
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
-**Revision Date:** 2026-09-27
-**Word Count:** 1,994
-**Chapter QA:** `qa/CH-015-GATE-9-CHAPTER-QA.md`
-**Retcon QA:** `qa/CH-015-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
+**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK / STABLE THEATRICAL MC
+**Revision Date:** 2026-10-02
+**Word Count:** 2023
 
 A broken farm gate hung open below the upper road. Two livestock pens stood empty. Hoof marks tore through the soft ground in every direction. Rook stopped beside the retaining wall and looked uphill toward the farms. They had been warned. The road still felt exposed. Tavian crouched near the track edge. Kellan stayed standing, eyes fixed uphill. Two Road Guild field workers had come with them, plus one guard and a technician carrying a narrow tool case. None looked pleased to have him there.
 
@@ -134,7 +132,7 @@ Kellan looked at him. "You forgot the part where this thing is pushing predators
 
 The guard stepped between them and the recess. "We finish the map. The council decides." Kellan stared uphill. A long animal call rolled through the trees. Not close. Close enough. Another answered farther along the upper slope. The technician stopped measuring. Kellan looked at the stake. "Mapping only." Nobody answered. A third call came from lower down. Then brush crashed above them. Tavian moved first. "Off the road." Everyone shifted. The guard raised his spear. Kellan grabbed his heavy road hook. A ridge-hound burst through the brush at the drainage cut. Large. Lean. Fast. A second shape moved behind it. Tavian shouted. "Do not chase uphill."
 
-The first lunged. The guard caught it with the spear shaft and redirected the charge. Kellan struck the shoulder with the road hook. The animal twisted away. The second came around the stone cut. Toward him. Rook moved. Not far enough. Claws ripped across his lower ribs. Pain opened hot and immediate. His back hit the retaining wall. The hound came again. Tavian drove it sideways with the butt of his polearm. "Rook. Move." Rook moved. Warm blood spread under his shirt. The same impossible logic that made objects from nothing had already begun refusing the damage.
+The first lunged. The guard caught it with the spear shaft and redirected the charge. Kellan struck the shoulder with the road hook, but the second hound came around the stone cut toward Rook. He moved too late. Claws ripped across his lower ribs and drove him against the retaining wall. The animal lunged again; a stone dislodged by his fall rolled beneath its front paw, turning the jaws into the wall beside his face. Tavian drove it sideways with the butt of his polearm. "Rook. Move." Rook obeyed, one hand pressed over the blood spreading beneath his shirt.
 
 That did not make the claws less painful. The first hound snapped at Kellan. The guard stepped in. The technician dragged his case clear and grabbed a short hammer. Nobody looked heroic. Useful. Tavian kept the animals from gaining the uphill line. "Push them down." Kellan understood. He struck low to force the hound away from the farms. The guard did the same. Rook got his feet under him.
 
@@ -142,7 +140,7 @@ Something deep in his side tightened and pulled. Correction. Automatic. Unpleasa
 
 "I noticed."
 
-The technician stared at the torn shirt. At the wound beneath. At the edges already drawing inward. He had that face. The medical-opinion face. Rook pressed a hand to the injury. The bleeding was slowing. Kellan watched. "You can still move?"
+The technician stared at the torn shirt and the wound beneath it. He passed Rook a folded clean cloth from the field kit. Rook pressed it against the injury. The bleeding slowed under pressure, but the cloth darkened quickly. Kellan watched. "You can still move?"
 
 "Yes."
 
@@ -160,7 +158,7 @@ Kellan looked at the stake. It kept working. Quietly. Perfectly. The technician 
 
 "I am talking to both of you."
 
-His eyes moved to him. Mostly him. Tavian stepped between them. "Rook." The same impossible logic kept correcting the damage beneath the pain. That mattered because surviving the next bad choice was not the same thing as making it safe. "You heard me in Greywake."
+Tavian looked directly at Rook and stepped between him and the lure. "You heard me in Greywake." Rook's wound was still bleeding. He pressed harder through his coat and tried to keep the pain out of his expression. The pause looked imposing; maintaining it felt considerably less imposing.
 
 "Yes."
 
@@ -244,11 +242,11 @@ Rook moved. Tavian caught his shoulder. A stop, not an attack. Rook twisted free
 
 "I know."
 
-Kellan did not look away from the technician. "I want the stake stopped." Then he glanced at him. "What happens after is not something I can promise." He stepped aside. The choice stayed his. Rook crossed the evidence line. The lure sat inside the recess. Dark stake. Metal collar. Ceramic chamber. Vented cap. The simple ugly thing they had spent days proving was not simple. Rook grabbed the upper band and pulled. It did not move. Of course. The mounting collar held tight. Rook could have ripped the recess out of the wall. He could have torn the whole retaining structure apart.
+Kellan did not look away from the technician. "I want the stake stopped." Then he glanced at Rook. "What happens after is not something I can promise." He stepped aside. Rook crossed the evidence line to the dark stake, metal collar, ceramic chamber, and vented cap. He grabbed the upper band and pulled. It did not move. Of course. The device had no respect for an entrance.
 
-That would also tear apart a device full of alchemical material nobody understood well enough. Raw force was not the missing ingredient. Controlled leverage was. A hook. A wedge. A pry tool built for this exact collar. Dark material folded into his hand. Long enough for leverage. Hooked jaw at one end. Wedge at the other. Not because that was the most power Rook had. Because that was the tool the job needed.
+Kellan's road hook lay beside the technician's open case, where he had dropped it during the attack. Rook picked it up and set its jaw beneath the mounting collar. The technician started forward, then stopped when another animal call sounded uphill. "Do not put pressure on the ceramic chamber," he said. Rook had selected the tool because it was long enough to reach without bending his injured side. Apparently that choice required expert supervision.
 
-Rook jammed the hook beneath the collar. The technician shouted. "Do not put pressure on the ceramic chamber." Rook looked at him. "Then tell me where." His jaw tightened. Then practicality won. "Lower. Under the outer ring." Rook shifted the tool. The jaw reshaped around the angle. Hook. Wedge. Leverage. Rook pulled. The fastening band snapped. The guard started forward. Kellan blocked him. "Do not make this worse."
+"Then tell me where." The technician's jaw tightened before practicality won. "Lower. Under the outer ring." Rook shifted the hook. A hairline crack showed in the fastening band where the hound's shoulder had struck it. When he pulled, the split opened along that damaged edge. The band snapped. The guard started forward; Kellan blocked him. "Do not make this worse." The broken band was evidence. Removing the stake was still Rook's reckless decision.
 
 "Move."
 
@@ -256,6 +254,6 @@ Rook jammed the hook beneath the collar. The technician shouted. "Do not put pre
 
 Tavian watched the stake, the slope, and all of them. Rook drove the wedge under the collar. The lure mount lifted. A thin line of pale mana-light flickered across the rear plate. The technician's face went white. "Stop." Rook heard him. He kept going. The stake came out of the socket with a violent jerk.
 
-Rook stepped back instead of falling. The tool had finished its job. He released it. Dark material folded away. One tool. Enough. The stake struck the stones. The ceramic chamber cracked along one edge but did not shatter. The etched channels on the rear plate faded. The vent stopped humming. For one breath, nobody moved. Then an animal called in the distance.
+Rook stepped back instead of falling and dropped the road hook beside Kellan's boots. The tool had finished its job. The fastening band was still broken, and the stake was still coming loose. The stake struck the stones. The ceramic chamber cracked along one edge but did not shatter. The etched channels on the rear plate faded. The vent stopped humming. For one breath, nobody moved. Then an animal called in the distance.
 
 Farther east. Tavian's head snapped toward the sound. A second call answered from somewhere else. Kellan looked at him. The lure was dead. The calls had moved.

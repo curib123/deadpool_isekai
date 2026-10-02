@@ -1,23 +1,21 @@
 # This Isekai Has a Bug. Unfortunately, It's Me.
 
-Red Jackal died in a mysterious explosion and woke in Veyr, a world whose System can identify almost everyone.
+Rook Vane wakes in a world that cannot decide what he is.
 
-Almost.
+Name: UNDEFINED. Class: UNDEFINED. World Registry: NO RECORD.
 
-**Name: UNDEFINED. Race: UNDEFINED. Class: UNDEFINED. World Registry: NO RECORD.**
+He has a more immediate concern: where to find breakfast, work, and a doorway suitable for a mysterious entrance.
 
-That should make him powerless.
+Rook has always liked the idea of the calm stranger standing just outside everyone else's important story. A pause here. A cryptic sentence there. Let the room supply the rest.
 
-Instead, Red regenerates from impossible wounds, can force imagination into reality, and can stop Veyran time whenever he addresses an audience only he can sense.
+The room keeps supplying rather more than he expected.
 
-Red has no interest in becoming a chosen hero. Good—because Veyr already has one. It already has villains, prophecies, wars, monsters, and a story moving perfectly well without him.
+A missed throw stops a predator. A repair he barely understands exposes a conspiracy. A route chosen because the other one looks unpleasant becomes proof that he predicted a disaster. Workers explain his engineering. Soldiers reconstruct his tactics. Enemies begin changing their plans before he has made one.
 
-Red is the mistake that walked in anyway.
+Rook thinks his performance is going remarkably well.
 
-Every place he enters, the System struggles to explain him, enemies underestimate the wrong man, and ordinary people are left dealing with the consequences when an unregistered anomaly decides to improvise.
+He has no idea that probability itself keeps bending around him.
 
-The question is not whether Red can become strong enough.
+Veyr already has its heroes, villains, prophecies, and wars. Now it also has an unregistered man whose accidents look like strategy—and whose growing reputation is volunteering him for problems he never agreed to solve.
 
-He already is.
-
-The question is what happens when someone the world never planned for starts interfering with a story that belonged to somebody else.
+His luck can get him through a killing strike. It cannot stop someone asking him to do the impossible again.

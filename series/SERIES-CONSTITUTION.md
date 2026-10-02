@@ -3,7 +3,7 @@
 **Title:** This Isekai Has a Bug. Unfortunately, It's Me.  
 **Author:** minuszeroo  
 **Genres:** Action • Adventure • Dark Fantasy • Comedy • Mystery • Isekai  
-**Status:** LOCKED RESET — ROOK VANE / FORTUNE DISTORTION ONLY — 2026-09-27
+**Status:** AUTHOR-DIRECTED REVISION — PERMANENTLY CLUELESS LUCK / THEATRICAL MC — 2026-10-02
 
 # 1. Core Premise
 
@@ -44,6 +44,8 @@ He is:
 - self-centered;
 - shameless when a bluff starts working;
 - outwardly calmer than he usually feels;
+- privately delighted by entrances, ominous delivery, and playing an important-looking stranger;
+- convinced that his performance and ordinary improvisation explain more than they really do;
 - curious enough to enter trouble;
 - capable of seriousness;
 - willing to accept credit for plans he did not actually make.
@@ -89,7 +91,7 @@ It cannot:
 
 Rook does not activate the ability with a command.
 
-He normally notices the result after the probability chain is already happening.
+He notices outcomes without discovering their supernatural cause. From the prologue through the final scene, he never correctly identifies Fortune Distortion as his own power, knowingly tests it, or deliberately relies on it. Ordinary remarks such as “that was lucky” describe an incident, not an ability.
 
 # 4. Physical Vulnerability Law
 
@@ -117,7 +119,7 @@ A lucky escape for Rook may still cost someone else.
 
 The core recurring engine is:
 
-**simple Rook motive → ordinary choice or bluff → probability chain bends → result looks impossible → witnesses assume hidden genius/power → Rook notices the misunderstanding → Rook lets it stand → reputation creates a later consequence**
+**Rook wants food, freedom, entertainment, or an impressive scene → makes an ordinary choice or performs a bluff → an unseen probability chain produces an extraordinary result → competent witnesses reconstruct a plan he never made → Rook understands that his act impressed them, not why events favored him → he lets the interpretation stand → their belief creates a concrete later consequence**
 
 Valid misunderstandings include:
 - hidden master;
@@ -263,7 +265,9 @@ Do not default to sentence → blank line → sentence.
 
 Comedy comes from:
 - Rook's internal panic versus external calm;
-- people overinterpreting him;
+- people reconstructing elaborate, evidence-based explanations for motives he never had;
+- Rook treating genuine danger and conspiracy as excellent material for his mysterious persona;
+- ordinary people interrupting a performance he takes far too seriously;
 - enemies sabotaging themselves;
 - dry dialogue;
 - failed attempts to look impressive;
@@ -313,6 +317,16 @@ Volume 1 must be rewritten so that:
 - Rook's reputation grows through misinterpretation;
 - supporting characters remain competent;
 - Greywake's conflict resolves through investigation, logistics, teamwork, politics, battle, and luck rather than raw omnipotence.
+
+# 16. Start-to-Finish Personality and Knowledge Lock
+
+Rook wants to live freely and enjoy playing the enigmatic figure at the edge of important events. That appetite exists before anyone admires him. He rehearses tone, chooses a good place to stand, treasures an effective exit, and becomes irritated when someone ruins the mood. He can be frightened, injured, affectionate, or briefly serious without abandoning this core personality.
+
+He knows that he bluffs and accepts undeserved credit. He does not know that his luck is supernatural. Do not confuse those two kinds of awareness. Witnesses can propose luck, prophecy, strategy, or a curse; Rook treats such claims as speculation, flattery, or someone making his act too literal. If presented with evidence, he engages with its visible causes and missing information rather than suddenly forgetting what he has heard.
+
+His ordinary competence and relationships may grow. His interpretation of himself does not become an awakened probability master. The final scene must preserve the same private performer/public mastermind mismatch as the opening. No ending reveal to Rook, power tutorial, deliberate luck experiment, second awakening, or conversion into a solemn chosen hero.
+
+Overinterpretation must be spoken, written, or otherwise observable in Rook-limited scenes. Give witnesses different motives and theories; each major theory must change a decision, threat, expectation, or relationship. Do not make every character an admirer.
 
 # Final Lock
 

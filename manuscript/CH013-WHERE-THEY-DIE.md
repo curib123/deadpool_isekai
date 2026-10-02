@@ -1,9 +1,10 @@
 # Chapter 13 — Where They Die
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
-**Revision Date:** 2026-09-27
-**Word Count:** 2,238
-**Chapter QA:** `qa/CH-013-GATE-9-CHAPTER-QA.md`
+**Status:** CURRENT EDITORIAL REVISION — FORTUNE DISTORTION ONLY
+**Revision Date:** 2026-10-02
+**POV:** Distant third-person limited — Rook Vane
+**Word Count:** 2283
+**Review:** See `qa/revisions/2026-10-02-EDITORIAL-REVIEW.md`; earlier gate reports are historical.
 
 The council map table had disappeared under evidence. Route ledgers. Guild work orders. Tavian's field notes. Kellan's road sketches. Maelis's rubbing from the Broken North lure. Rook stopped inside the door. For the first time, everything they had found was in one room. That made the room feel smaller. Brynn stood near the head of the table with her arms folded. Kellan had claimed the side closest to the outer-route map. Tavian stood opposite him with small stones marking track clusters.
 

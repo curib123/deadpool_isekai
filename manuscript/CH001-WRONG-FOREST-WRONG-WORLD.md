@@ -1,188 +1,101 @@
 # Chapter 1 — Wrong Forest, Wrong World
 
-**Status:** CANON RESET — SOUL DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY  
-**Revision Date:** 2026-09-27
+**Status:** CURRENT EDITORIAL REVISION — FORTUNE DISTORTION ONLY
+**Revision Date:** 2026-10-02
+**POV:** Distant third-person limited — Rook Vane
+**Word Count:** 1172
+**Review:** See `qa/revisions/2026-10-02-EDITORIAL-REVIEW.md`; earlier gate reports are historical.
 
-White light swallowed everything.
+The first thing Rook saw in his new world was a wolf eating his boot.
 
-There had been heat, a sound too large to understand, and one sharp instant when the world seemed to turn inside out. Then Rook Vane opened his eyes beneath a tree he had never seen before.
+His foot was still inside it. That made the introduction urgent.
 
-Green leaves crowded the sky. Rainwater trembled at their edges, and damp earth pressed cold through the back of his coat. Something with too many legs crawled across a root beside his shoulder. Rook stared at it for several seconds.
+He jerked his leg back. Teeth scraped leather, and the animal lifted its head from the foot of the tree where he lay. Too broad across the shoulders for a wolf. Dark ridges ran above its eyes, and its jaws held a strip of his trouser cuff. Rook pressed himself against the trunk.
 
-"Better than the explosion."
+A moment earlier there had been white light. Heat. A sound too large to understand. Now there was wet bark behind his neck and an animal considering whether the rest of him came apart as easily as his trousers.
 
-His voice sounded normal. That was useful. The rest of him was less cooperative.
+"Bad dog."
 
-He pushed himself upright and checked the obvious things first. Two arms. Two legs. No fire. No collapsed building. No emergency sirens. No memory of how he had reached a forest that looked old enough to have opinions about trespassing.
+It lowered its head. Apparently they disagreed about the review.
 
-His head hurt when he tried to remember. There had been a room. Maybe a street.
+Rook reached for a rotten survey post beside the roots. The wood came free, bringing a clump of loose earth with it. He tried to stand. His heel slid through the dirt just as the animal lunged.
 
-A flash. Then nothing clean.
+He fell under the bite. The jaws snapped shut above his face, and the animal's shoulder struck the tree with a crack. Rook scrambled around the trunk while it shook its head.
 
-Rook pressed two fingers to his temple and stopped digging. The pain sharpened whenever he pushed too hard, so whatever his memory was doing, it had posted a guard at the door.
+The post was still in his hand. No blade, no phone, no rescue crew; one damp piece of wood represented the full extent of his survival equipment. He held it crosswise and edged toward a line of broken paving stones.
 
-"Fine," he muttered. "Keep your secrets."
+The predator followed. It had lost the cuff but remained interested in the customer.
 
-The forest did not answer. That became suspicious after another minute.
+Rook jabbed at its chest. He missed. The post slid past a foreleg and wedged between two roots just as the animal stepped forward. Rotten wood snapped. Its weight carried it sideways into the mud.
 
-No distant traffic. No aircraft. No electrical hum. The birds sounded wrong—not alien, exactly, but unfamiliar enough that Rook could not confidently name one. The trees were too large, the undergrowth too dense, and pale blue moss climbed one trunk in a spiral that looked almost deliberate.
+For half a second, Rook watched his terrible attempt at fighting produce a remarkably good result.
 
-He stood carefully. His knees held. That was the second useful thing.
+Then he ran.
 
-Rook searched his pockets. A small folding knife. Empty wallet. No phone. A metal key he did not recognize. Three coins that definitely were not from Earth.
+The old road bent downhill beneath trees too large to belong near anywhere he remembered. Pale blue moss climbed their trunks. None of this helped him choose a direction, so he chose away from the teeth. Behind him, heavy paws struck the mud.
 
-He turned one over between his fingers. The stamped face showed a tower surrounded by waves.
+A drainage cut crossed the road. Rook jumped, landed badly, and felt his ankle twist. He stayed upright because a branch caught his coat. It tore the fabric before it let him fall, leaving him staggering on the far bank.
 
-"Great."
+The animal landed behind him. One paw sank into the crumbling edge. Stone and mud slid into the cut, taking its front legs with them. The delay bought Rook several steps, which he spent limping faster.
 
-He put it back.
+A fallen tree blocked the bend ahead. He squeezed between its broken crown and the uphill bank. Dead branches scratched his forearm, and something warm ran into his sleeve. Beyond the trunk, the path narrowed under a leaning tree with a cracked limb hanging over the road.
 
-"Either I got robbed by a fantasy convention, or the concussion is doing ambitious work."
+Rook grabbed a vine to steady himself. It tore loose.
 
-A narrow depression ran between the trees ahead. It might once have been a road. Broken stones showed beneath roots and mud, with enough straight lines to suggest human hands had arranged them long ago.
+"Excellent."
 
-Civilization, or at least evidence that somebody had once regretted building here. Rook followed it. For the first twenty minutes, nothing tried to kill him. That felt increasingly generous.
+He kept running with the vine trailing behind him. It snagged on the fallen tree, pulled taut, and caught the pursuing animal across both front legs. The predator hit the trunk hard enough to shake the cracked limb above the road.
 
-The ruined road curved downhill through wet brush. Twice he stopped because he heard movement beside him, but both times it was small: something rabbit-sized disappearing under ferns, then a long-tailed bird hopping between branches.
+Rook stopped. His ankle would not accept another downhill step, and his lungs seemed to have filed the same complaint. The animal pushed itself upright.
 
-The third sound was different. Heavy. Slow.
+The limb fell between them.
 
-Close. Rook stopped with one boot half-submerged in mud. A branch clicked behind him. He turned.
+It struck the paving stones with a crack that silenced the birds. A splinter hit Rook's cheek. The predator recoiled, looked up at the damaged tree, then looked at him.
 
-The animal standing between two trees had the general shape of a wolf designed by somebody who thought wolves lacked commitment. Its front shoulders were too high, its muzzle too broad, and dark ridges ran from its eyes to the back of its skull.
-
-Rook looked at it. The animal looked at him. Neither seemed pleased.
-
-"Dog?"
-
-The creature lowered its head.
-
-"Unfriendly dog."
-
-Its lips pulled back.
-
-Rook took one slow step toward the broken road stones. He had the knife, but the blade suddenly looked decorative.
-
-The animal moved sideways to keep him centered. Rook moved again. It followed.
-
-*Wonderful.*
-
-The nearest useful object was a rotten survey post leaning out of the ground. Rook reached toward it without taking his eyes off the animal.
-
-The post came free much more easily than expected. So did half the dirt around it. Rook stumbled backward with the pole in both hands.
-
-The animal lunged. His rear boot hit the loose dirt from the post and slid. Rook dropped flat by accident.
-
-The jaws passed through the space where his throat had been. The animal could not stop as quickly. Its shoulder struck the broken stone marker behind him with a crack that made both of them reconsider the morning.
-
-Rook rolled away. The creature shook itself and turned.
-
-"Okay."
-
-Rook got one knee under him.
-
-"That was luck."
-
-The animal came again.
-
-Rook jammed the rotten pole forward. He was aiming for the chest. The pole missed completely, glanced off the creature's foreleg, and buried itself between two roots. The result was somehow better.
-
-The animal's leg caught the pole as it passed. The rotten wood snapped. Its front half twisted, and its body slammed sideways into the mud.
-
-Rook stared. The creature stared back from the ground.
-
-"Still counting that."
-
-It snarled and pushed itself up. Rook ran.
-
-The old road bent sharply between two leaning trees. He did not know where it led. He did know that staying near the animal was an increasingly bad career choice.
-
-Branches whipped at his coat. The creature followed. Rook heard it gaining.
-
-He jumped over a shallow drainage cut and landed badly on the other side. Pain shot through his ankle, but the joint held.
-
-Behind him, the animal jumped too. Its rear paw landed on the broken half of the survey post Rook had left lying in the mud. The wood rolled.
-
-The animal crashed shoulder-first into the drainage bank. Rook looked over his shoulder while still running.
-
-"You've got to be kidding me."
-
-He almost hit a tree because of that.
-
-The road narrowed again. A fallen trunk blocked half the path, forcing Rook toward the slope. He squeezed past it and heard the animal recover behind him.
-
-No time. He grabbed the first thing within reach: a hanging vine as thick as his thumb. It tore loose immediately. Rook kept running with three meters of useless vine in his hand.
-
-"Excellent tool selection."
-
-The creature burst around the trunk. The loose vine dragged behind Rook, snagged on a broken branch, tightened across the path, and rose just as the animal charged through. Its front legs hit the vine.
-
-For one ridiculous second, the forest's most dangerous thing appeared to trip over gardening. The animal flipped. It struck the fallen trunk hard enough to shake dead leaves from the canopy.
-
-Something cracked above them. Rook stopped because his body had finally remembered exhaustion. The creature tried to stand.
-
-A rotten branch, thick as Rook's thigh, dropped from the tree overhead. It landed directly between them.
-
-The impact threw mud across Rook's boots and sent the animal scrambling backward. The creature stared at the branch, then at Rook.
-
-Rook stared back. He had done almost none of that on purpose. The animal did not know that. Rook slowly straightened.
-
-His lungs were burning. His ankle hurt. A thin cut across his forearm had started bleeding where a branch had caught him during the run.
-
-He looked at the predator and made the best decision available. He pretended the entire thing had been intentional. Rook tilted his head.
+Rook had done almost none of that on purpose. He straightened anyway, keeping his weight off the injured ankle.
 
 "Again?"
 
-The creature's ears flattened. For the first time, it hesitated. Rook said nothing else.
+The animal flattened its ears. He did not move. A distant howl sounded beyond the trees, and it turned toward the call. Rook watched it back away into the brush.
 
-The animal backed away once, then twice. A distant howl sounded somewhere deeper in the forest.
+Only when the noise faded did he sit down. His hands shook so badly that he dropped the broken post twice before giving up and leaving it in the mud.
 
-The predator turned and disappeared into the brush. Rook remained perfectly still until the noise faded. Then his knees gave out. He sat in the mud.
+"All right. Nobody saw that."
 
-"That," he said to nobody, "was not the plan."
+His relief lasted until he checked the cut. It was shallow but dirty, and flexing his fingers pulled at the torn skin. He washed it with rainwater from a broad leaf and bound it with a strip from the inside of his shirt. The bandage darkened. His ankle still hurt when he stood.
 
-His hands were shaking. He let them.
+Whatever had happened to him, it had kept the irritating parts of having a body.
 
-The cut on his forearm was real and annoying, but shallow. Rook cleaned it with rainwater collected in the broad leaves beside the road, then tore a strip from the inside hem of his shirt and wrapped the wound.
+He searched his pockets while he waited for the shaking to stop. An empty wallet, a metal key, a receipt reduced to wet pulp. No money. No name he could read. He knew what those objects were and where they belonged, but the person who had carried them would not come into focus.
 
-No miracle followed. The cut remained a cut. His ankle remained sore.
+There had been an explosion. He could remember the white flash with unpleasant clarity. Before that, rooms without addresses, voices without faces, the outline of a life with all the useful details missing.
 
-His breathing took several minutes to settle. That should have made the situation less strange. It did not. Rook looked back along the road.
+He pushed at the gap. Pain sharpened behind his eyes.
 
-The loose dirt had made him fall under the first bite. The pole had caught the animal's leg after he missed. The broken post had rolled under its paw. The vine had become a trip line by accident. The branch had fallen exactly when he needed distance.
+"Fine. Later."
 
-Five accidents. One encounter. He rubbed a hand over his face.
+The old road provided a simpler problem. Stones laid in a line meant people. People meant food and questions, and at present he would accept the questions if they came with food. Rook took the remaining length of survey post and followed the paving east.
 
-"Either I'm having the greatest day of my life or the worst."
+He tested the ground before putting weight on his bad ankle. At each bend he stopped to listen. Two small animals fled through the ferns, and he gave both enough room to have ambitions of their own.
 
-A small stone rolled down the slope beside him and stopped against his boot. Rook looked at it.
+By late afternoon, broken paving had become packed earth. Fresh wheel marks cut across a muddy patch, and someone had cleared the drainage channel. He crouched beside one print, almost smiling. A person with a cart had been here recently and had apparently survived the experience.
 
-"Don't start."
+A timber sign stood where the old road joined a maintained track. He recognized letters without understanding a word. Below them, someone had carved a cluster of roofs and an arrow pointing east. Smoke rose beyond the trees in the same direction.
 
-He stood and continued walking.
+His stomach tightened. So did the bandage when he adjusted his grip on the pole. Civilization had better have generous standards for entrance.
 
-This time he moved more carefully. He tested his ankle on level ground, listened at bends, and carried the unbroken half of the survey pole because relying on another convenient tree felt irresponsible. The ruined road gradually improved.
+He tried his memory once more, gently this time. Still no name. He could hardly introduce himself as the man who had lost a fight with a dog and won it by accident.
 
-Drainage cuts appeared in regular intervals. Broken paving stones gave way to packed earth. Fresh wheel marks crossed a muddy patch.
+"Rook," he said.
 
-People. Rook followed them faster. Near sunset, he reached a maintained road.
+He tried the sound again. A short name. Easy to remember. Vane followed after a moment, for no reason he could defend. Together they sounded like somebody who had intended to arrive here.
 
-A timber post stood beside it with a board covered in unfamiliar writing. Rook could recognize the structure of letters without understanding a single word.
+That would do until he found a better answer.
 
-Below the text was a carved symbol of clustered roofs. An arrow pointed east. Rook looked down at his torn sleeve, muddy boots, improvised bandage, and the coins in his pocket.
+Rook Vane started toward the smoke. Behind him, a gust loosened the damaged branch he had leaned against while reading the sign. It struck the exact patch of road where he had been standing.
 
-He tried to remember his full name. The answer came slowly, like something surfacing through deep water. Rook Vane. He held onto it before it could disappear again.
+He looked back. Then he looked at his bloodstained sleeve and the broken post in his hand.
 
-"All right, Rook."
+A town meant witnesses.
 
-The name felt real enough. He looked toward the arrow. Somewhere beyond the trees, smoke rose into the evening sky.
-
-Civilization meant food, shelter, information, and probably questions he could not answer. Still better than teeth. Rook adjusted the broken pole over one shoulder and started east.
-
-Behind him, a second rotten branch fell across the road with a heavy crack. Rook stopped. He looked back.
-
-Then at the empty forest. His expression tightened.
-
-"Coincidence."
-
-He kept walking. The forest offered no argument.
+He would have to make the next accident look better.

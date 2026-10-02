@@ -1,11 +1,13 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-008 Scene Architecture — Outside the Lanterns
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-008 — Outside the Lanterns  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-008 MANUSCRIPT CANON  
-**Final Scene Count:** 5  
-**POV:** Red Jackal first person  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-008 — Outside the Lanterns
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-008 MANUSCRIPT CANON
+**Final Scene Count:** 5
+**POV:** Red Jackal first person
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -114,9 +116,9 @@ CH-008 preserves CH-007's consequence through memory, recent soreness, and chang
 
 # 4. Kellan Dorr Lock
 
-**Kellan Dorr**  
-Human, 33  
-Outer Homestead Compact  
+**Kellan Dorr**
+Human, 33
+Outer Homestead Compact
 Carpenter / bridge repairer / informal elected speaker.
 
 Kellan enters while already doing useful work.
@@ -341,8 +343,8 @@ Avoid:
 
 ## SC-008-01 — Past the Last Lantern
 
-**Approximate Time:** Morning after CH-007 treatment / after Sela releases Red Jackal from immediate observation.  
-**Location:** Greywake outer approach → Outer Homestead minor road.  
+**Approximate Time:** Morning after CH-007 treatment / after Sela releases Red Jackal from immediate observation.
+**Location:** Greywake outer approach → Outer Homestead minor road.
 **Characters Present:** Red Jackal, Kellan Dorr, outer-homestead workers.
 
 ### Scene Purpose
@@ -475,8 +477,8 @@ SC-008-02 begins with Kellan's repair plan.
 
 ## SC-008-02 — The Bridge They Keep Fixing
 
-**Approximate Time:** Midmorning.  
-**Location:** Kellan Dorr's bridge/worksite over a narrow drainage creek / seasonal cut.  
+**Approximate Time:** Midmorning.
+**Location:** Kellan Dorr's bridge/worksite over a narrow drainage creek / seasonal cut.
 **Characters Present:** Red Jackal, Kellan Dorr, outer-homestead workers.
 
 ### Scene Purpose
@@ -606,8 +608,8 @@ SC-008-03 puts the repair under real environmental/load pressure.
 
 ## SC-008-03 — Useful Where It Is Needed
 
-**Approximate Time:** Late morning / near midday.  
-**Location:** Same bridge/worksite.  
+**Approximate Time:** Late morning / near midday.
+**Location:** Same bridge/worksite.
 **Characters Present:** Red Jackal, Kellan Dorr, outer-homestead workers.
 
 ### Scene Purpose
@@ -747,8 +749,8 @@ SC-008-04 contains the single allowed manifestation.
 
 ## SC-008-04 — Temporary Footing
 
-**Approximate Time:** Immediate continuation.  
-**Location:** Same bridge/worksite.  
+**Approximate Time:** Immediate continuation.
+**Location:** Same bridge/worksite.
 **Characters Present:** Red Jackal, Kellan Dorr, outer-homestead workers.
 
 ### Scene Purpose
@@ -898,8 +900,8 @@ SC-008-05 shifts from repair to the information/warning disparity.
 
 ## SC-008-05 — The Warning Does Not Match
 
-**Approximate Time:** Afternoon after the crossing is stabilized.  
-**Location:** Outer road beyond Kellan's bridge / warning-marker junction.  
+**Approximate Time:** Afternoon after the crossing is stabilized.
+**Location:** Outer road beyond Kellan's bridge / warning-marker junction.
 **Characters Present:** Red Jackal, Kellan Dorr, outer-homestead workers.
 
 ### Scene Purpose

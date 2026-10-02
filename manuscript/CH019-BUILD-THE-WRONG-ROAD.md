@@ -1,7 +1,10 @@
 # Chapter 19 — Build the Wrong Road
 
-**Status:** CANON RESET — DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY  
-**Revision Date:** 2026-09-27
+**Status:** CURRENT EDITORIAL REVISION — FORTUNE DISTORTION ONLY
+**Revision Date:** 2026-10-02
+**POV:** Distant third-person limited — Rook Vane
+**Word Count:** 1390
+**Review:** See `qa/revisions/2026-10-02-EDITORIAL-REVIEW.md`; earlier gate reports are historical.
 
 Broken North looked worse when people tried to save it.
 
@@ -29,8 +32,8 @@ Rook took another basket. The plan was not to restore Broken North as a proper r
 
 The herd pressure moving toward Greywake had to be redirected, and the old route only needed to become passable enough to pull movement away from the outer settlements. Kellan's notes were blunt.
 
-**Water before weight.  
-Weight before speed.  
+**Water before weight.
+Weight before speed.
 Do not make it pretty.**
 
 Rook respected that. The first problem was drainage.

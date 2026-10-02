@@ -1,13 +1,15 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-011 Scene Architecture — Broken North
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-011 — Broken North  
-**Movement:** III — The Road Is Lying  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-011 MANUSCRIPT CANON  
-**Final Scene Count:** 5  
-**POV:** Red Jackal first person  
-**Primary Cast:** Red Jackal, Tavian Rook, Maelis Orra, Kellan Dorr  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-011 — Broken North
+**Movement:** III — The Road Is Lying
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-011 MANUSCRIPT CANON
+**Final Scene Count:** 5
+**POV:** Red Jackal first person
+**Primary Cast:** Red Jackal, Tavian Rook, Maelis Orra, Kellan Dorr
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -608,8 +610,8 @@ Do not joke about outer-route casualties.
 
 ## SC-011-01 — Two Lines Point North
 
-**Approximate Time:** Morning after CH-010 or next practical field window.  
-**Location:** Greywake edge / route-planning point near the north-side roads.  
+**Approximate Time:** Morning after CH-010 or next practical field window.
+**Location:** Greywake edge / route-planning point near the north-side roads.
 **Characters Present:** Red Jackal, Tavian Rook, Maelis Orra, Kellan Dorr.
 
 ### Scene Purpose
@@ -671,8 +673,8 @@ The group reaches/approaches the current Broken North closure.
 
 ## SC-011-02 — Closed Road
 
-**Approximate Time:** Late morning.  
-**Location:** Official Broken North closure marker / old road entrance.  
+**Approximate Time:** Late morning.
+**Location:** Official Broken North closure marker / old road entrance.
 **Characters Present:** Red Jackal, Tavian, Maelis, Kellan.
 
 ### Scene Purpose
@@ -750,8 +752,8 @@ They move beyond the maintained closure into genuinely abandoned road terrain.
 
 ## SC-011-03 — Abandoned, Recently Used
 
-**Approximate Time:** Midday.  
-**Location:** Forest-encroached Broken North Road / ruined watch approach.  
+**Approximate Time:** Midday.
+**Location:** Forest-encroached Broken North Road / ruined watch approach.
 **Characters Present:** Red Jackal, Tavian, Maelis, Kellan.
 
 ### Scene Purpose
@@ -825,8 +827,8 @@ Following the service-use signs forces the group toward a damaged watch-point ap
 
 ## SC-011-04 — Useful Under Pressure
 
-**Approximate Time:** Early afternoon.  
-**Location:** Collapsed watch-point approach / washout / unstable road edge.  
+**Approximate Time:** Early afternoon.
+**Location:** Collapsed watch-point approach / washout / unstable road edge.
 **Characters Present:** Red Jackal, Tavian, Maelis, Kellan; displaced predator pressure.
 
 ### Scene Purpose
@@ -924,8 +926,8 @@ The predators withdraw or are held off long enough for the party to secure the s
 
 ## SC-011-05 — The Stake
 
-**Approximate Time:** Early/mid afternoon.  
-**Location:** Concealed maintenance pocket beside ruined watch infrastructure.  
+**Approximate Time:** Early/mid afternoon.
+**Location:** Concealed maintenance pocket beside ruined watch infrastructure.
 **Characters Present:** Red Jackal, Tavian, Maelis, Kellan.
 
 ### Scene Purpose

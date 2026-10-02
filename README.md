@@ -1,37 +1,26 @@
 # This Isekai Has a Bug. Unfortunately, It's Me.
 
-**Author:** minuszeroo  
-**Repository:** `curib123/deadpool_isekai`  
-**Genre:** Shounen • Action • Adventure • Dark Fantasy • Comedy • Meta-Fiction
+**Author:** minuszeroo · **Genre:** Action, adventure, dark fantasy, comedy, isekai
 
-This repository is the canonical production workspace for the Rook Vane light-novel project.
+Rook Vane survives his first monster by losing a fight so badly that the forest wins it for him. The town's System then refuses to recognize that he exists.
 
-## Studio Pipeline
+His only supernatural ability is **Fortune Distortion**: possible accidents become suspiciously useful around him. He cannot command it, and injuries stay. Witnesses keep turning his improvisation into a legend. Rook usually lets them. The trouble starts when people expect the legend to do the next job.
 
-`Series Constitution → World Bible → Systems/Lore → Characters → Mysteries → Destinations → Volume/Arc → Chapters → Scenes → Manuscript → QA → Canon → Publication Copy → Publish Version QA → Release`
+In Greywake, an unregistered worker finds employment with a road official whose safe trade routes have a hidden cost. Exposing the arrangement is one problem. Breaking it before understanding it is another.
 
-**World first. Destination second. Story third.**
+## Read the story
 
-One major volume is one destination arc, and every arc is named after its place: **[Destination] Arc**.
+Start with the [synopsis](published/SYNOPSIS.md), then [Chapter 1 — Wrong Forest, Wrong World](published/volume-001/CH001-WRONG-FOREST-WRONG-WORLD.md). The [Greywake reading list](published/volume-001/README.md) covers CH001–CH026. [CH027 — Salt in the Air](published/volume-002/CH027-SALT-IN-THE-AIR.md) starts Merrowgate; the rest of Volume 2 is planned.
 
-## Start Here
+The [prologue](published/PROLOGUE-THE-WRONG-PERSON.md) is optional bonus material. CH001 is the primary opening.
 
-1. `studio/STUDIO-ARCHITECTURE.md` — agent roles, editorial hierarchy, production gates.
-2. `series/SERIES-CONSTITUTION.md` — locked identity and structural laws.
-3. `world/WORLD-BIBLE.md` — continents, seas, islands, nations, cultures, history, travel, ecology.
-4. `systems/SYSTEMS-BIBLE.md` — World System, magic, reincarnation, Fate, Great Design, anomaly, Play Logic.
-5. `characters/CHARACTER-BIBLE.md` — Rook Vane and character rules.
-6. `mysteries/MYSTERY-BIBLE.md` — mystery and foreshadowing control.
-7. `planning/STORY-PLANNING.md` — destination → volume → chapter → scene.
-8. `manuscript/WRITING-RULES.md` — locked prose/voice rules.
-9. `continuity/CONTINUITY-BIBLE.md` — consequence and knowledge tracking.
-10. `qa/QA-GATES.md` — foundation, destination, volume, chapter, series, and Publish Version QA.
-11. `qa/PUBLISH-VERSION-QA-STANDARD.md` — Gate 11 reader-facing release QA and canon-equivalence rules.
-12. `published/README.md` — publication-copy workspace and WebNovel-oriented formatting rules.
-13. `series/ROADMAP.md` — authoritative production/release state.
+## Write and maintain
 
-Old generic event/theme arc plans are deprecated.
+- [Series Constitution](series/SERIES-CONSTITUTION.md), [Character Bible](characters/CHARACTER-BIBLE.md), [Writing Rules](manuscript/WRITING-RULES.md): current identity, voice and power rules.
+- [World Bible](world/WORLD-BIBLE.md), [Systems Bible](systems/SYSTEMS-BIBLE.md), [Mystery Bible](mysteries/MYSTERY-BIBLE.md): setting, mechanics and protected writer spoilers.
+- [Greywake chapter map](chapters/VOLUME-001-GREYWAKE-CHAPTER-ROADMAP.md), [Merrowgate chapter map](chapters/VOLUME-002-MERROWGATE-CHAPTER-ROADMAP.md): conflicts, consequences and handoffs.
+- [Continuity](continuity/VOLUME-001-KNOWLEDGE-STATE.md), [roadmap](series/ROADMAP.md), [revision review](qa/revisions/2026-10-02-EDITORIAL-REVIEW.md): current state and verification scope.
 
-<body
-    class="min-vh-100 bg-cover"
-    style="background-image: url('<?= base_url('assets/images/login-bg.jpg'); ?>');">
+Edit `manuscript/` first. Run `python tools/publication.py --sync` to update reader copies, then `python tools/publication.py --check` to check them. Reader copies contain prose only.
+
+The October 2 revision supersedes older Red Jackal, Play Logic, regeneration and time-pause drafts. Historical reports and adaptation plans do not certify the current text. See [QA status](qa/README.md) and [scene-plan status](scenes/README.md).

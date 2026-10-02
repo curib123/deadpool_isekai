@@ -1,7 +1,10 @@
 # Chapter 5 — A Better Hammer
 
-**Status:** CANON RESET — DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY  
-**Revision Date:** 2026-09-27
+**Status:** CURRENT EDITORIAL REVISION — FORTUNE DISTORTION ONLY
+**Revision Date:** 2026-10-02
+**POV:** Distant third-person limited — Rook Vane
+**Word Count:** 1526
+**Review:** See `qa/revisions/2026-10-02-EDITORIAL-REVIEW.md`; earlier gate reports are historical.
 
 The Road Guild yard was already loud when Rook arrived.
 
@@ -237,6 +240,10 @@ Rook stopped walking. He considered going back. Then he considered how much effo
 
 "Calculated," he muttered.
 
-A barrel rolled loose from a nearby stack, crossed directly behind him, and knocked over the same guard who had just repeated the story. Rook looked over his shoulder. The yard went quiet. He turned forward again.
+The guard called after him.
 
-"No comment."
+"Roadmaster wants you on the main-road caravan tomorrow. Foreman says you keep your head when things break."
+
+Rook stopped. The pay in his pocket was enough for tonight. Tomorrow was already turning his lucky mistake into a qualification.
+
+"Of course he does," Rook said.

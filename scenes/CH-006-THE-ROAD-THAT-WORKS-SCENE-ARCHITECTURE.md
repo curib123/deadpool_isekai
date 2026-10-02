@@ -1,11 +1,13 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-006 Scene Architecture — The Road That Works
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-006 — The Road That Works  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-006 MANUSCRIPT CANON  
-**Final Scene Count:** 5  
-**POV:** Red Jackal first person  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-006 — The Road That Works
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-006 MANUSCRIPT CANON
+**Final Scene Count:** 5
+**POV:** Red Jackal first person
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -280,8 +282,8 @@ Avoid:
 
 ## SC-006-01 — Second Job
 
-**Approximate Time:** Morning after CH-005.  
-**Location:** Greywake caravan yard → Main Caravan Road toll marker.  
+**Approximate Time:** Morning after CH-005.
+**Location:** Greywake caravan yard → Main Caravan Road toll marker.
 **Characters Present:** Red Jackal, caravan travelers, Road Guild road guards, wagon drivers.
 
 ### Scene Purpose
@@ -423,8 +425,8 @@ Tavian enters through active field work, not introduction ceremony.
 
 ## SC-006-02 — Do Not Step There
 
-**Approximate Time:** Midmorning.  
-**Location:** Main Caravan Road toll marker / drainage edge / forest verge.  
+**Approximate Time:** Midmorning.
+**Location:** Main Caravan Road toll marker / drainage edge / forest verge.
 **Characters Present:** Red Jackal, Tavian Rook, road guards, caravan travelers.
 
 ### Scene Purpose
@@ -576,8 +578,8 @@ The caravan and Tavian travel in parallel for practical reasons, not because Tav
 
 ## SC-006-03 — The Road That Works
 
-**Approximate Time:** Late morning.  
-**Location:** Main Caravan Road guarded rest post and adjacent neglected side-route spur.  
+**Approximate Time:** Late morning.
+**Location:** Main Caravan Road guarded rest post and adjacent neglected side-route spur.
 **Characters Present:** Red Jackal, Tavian Rook, road guards, caravan travelers, rest-post staff.
 
 ### Scene Purpose
@@ -736,8 +738,8 @@ Fresh movement ahead turns the abstract track concern into immediate safety pres
 
 ## SC-006-04 — Not There
 
-**Approximate Time:** Early afternoon.  
-**Location:** Main Caravan Road forest edge beyond the rest post.  
+**Approximate Time:** Early afternoon.
+**Location:** Main Caravan Road forest edge beyond the rest post.
 **Characters Present:** Red Jackal, Tavian Rook, road guards, caravan travelers.
 
 ### Scene Purpose
@@ -902,8 +904,8 @@ Tavian returns to the tracks instead of treating the encounter as finished.
 
 ## SC-006-05 — Moving Wrong
 
-**Approximate Time:** Shortly after the defense encounter / before caravan continues to destination or return leg.  
-**Location:** Forest edge and track bed beside the Main Caravan Road.  
+**Approximate Time:** Shortly after the defense encounter / before caravan continues to destination or return leg.
+**Location:** Forest edge and track bed beside the Main Caravan Road.
 **Characters Present:** Red Jackal, Tavian Rook, one or more road guards nearby; caravan travelers remain in background.
 
 ### Scene Purpose

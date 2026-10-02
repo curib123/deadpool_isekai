@@ -1,15 +1,16 @@
 # Chapter 27 — Salt in the Air
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
-**Revision Date:** 2026-09-27
-**Word Count:** 1,876
-**Volume:** 2 — Merrowgate Arc
+**Status:** CURRENT EDITORIAL REVISION — FORTUNE DISTORTION ONLY
+**Revision Date:** 2026-10-02
+**POV:** Distant third-person limited — Rook Vane
+**Word Count:** 1953
+**Review:** See `qa/revisions/2026-10-02-EDITORIAL-REVIEW.md`; earlier gate reports are historical.
 
 Freedom, Rook discovered, had expenses. Food. Beds. River crossings. Even his bag had somehow become a paying passenger. Several days out from Greywake, the road no longer looked like something the forest tolerated by accident. Traffic came from both directions. Covered wagons rolled past with painted merchant marks on their sides. Roadside shelters had feed troughs, cooking fires, fenced yards, and boards full of writing that remained personally committed to excluding him. His literacy had made no progress whatsoever. Rook had learned a few symbols through repetition. A mark beside a water barrel usually meant something involving water. A painted wheel near a yard generally meant carts. A large block of text beside a person holding out one hand usually meant money was about to leave his.
 
 That last language appeared to be universal. Rook adjusted the strap across his shoulder. His pack felt heavier than when Rook left Greywake even though he had eaten part of what was inside. The problem was probably his shoulder, his ribs, or Sela's packet of bandages, which was large enough to support a small military campaign. Rook had considered leaving it behind. Then his side started aching halfway through a long morning. Rook kept the bandages. Sela did not need to know she had won from several days away.
 
-The wound itself was closed. Mostly. His body had already done what it apparently considered routine: pull itself back toward functional without asking whether Rook enjoyed the process. Rook did not. His body's habit of editing damage out of existence was an incredible gift with terrible customer service. By midday, the road dropped toward a river landing bigger than any transfer point Rook had seen since leaving Greywake.
+The cut had begun to heal around Sela's stitches. The bruises were changing color, which looked less impressive than it felt. He still had to stop after long climbs, and the packet of clean dressings had proved annoyingly useful. By midday, the road dropped toward a river landing bigger than any transfer point he had seen since leaving Greywake.
 
 Not Greywake big. Greywake had been a settlement trying very hard to convince the wilderness that roads were permanent. This place existed because roads, boats, cargo, and money had already agreed it was useful. Covered wagons crowded the yard. Narrow riverboats knocked softly against timber docks. Workers rolled barrels down ramps while merchants argued beside scales and chalkboards. Rook understood none of the writing and maybe one word in twenty of the shouting.
 
@@ -61,7 +62,7 @@ He gave him another number. Rook looked down at it. The bag offered no financial
 
 "No."
 
-He said the last one without hesitation. Rook respected the discipline. Rook paid. He slid two stamped pieces across the counter, pointed toward a boarding lane, and immediately looked past him to the next traveler. No questions about his origin. No magical slate. No machine trying to decide whether Rook existed. Just money leaving his hand. Almost relaxing. Rook stepped away from the counter and counted what remained in his purse. Enough to reach the coast. Enough to eat. Not enough to keep wandering indefinitely without work. Future him had finally caught up. The boarding area was organized chaos. Cargo went one direction. Passengers went another. Workers somehow moved through both without colliding, which made them more coordinated than most armies Rook half-remembered from fiction.
+He said the last one without hesitation. Rook respected the discipline. Rook paid. The clerk slid two stamped pieces across the counter and pointed toward a boarding lane before looking past him to the next traveler. No questions about his origin. No magical slate. No machine trying to decide whether Rook existed. Just money leaving his hand. Almost relaxing. Rook stepped away from the counter and counted what remained in his purse. Enough to reach the coast. Enough to eat. Not enough to keep wandering indefinitely without work. Future him had finally caught up. The boarding area was organized chaos. Cargo went one direction. Passengers went another. Workers somehow moved through both without colliding, which made them more coordinated than most armies Rook half-remembered from fiction.
 
 A crewman with red cloth tied around one arm checked his first stamp, pointed him toward a low river vessel, then pointed at his pack. Rook handed him the second stamp. He nodded.
 
@@ -73,7 +74,7 @@ The load tilted toward the edge. The worker behind it shouted. Everybody moved. 
 
 "Hold that line!"
 
-His hand was already moving toward the cart. Something impossible would have been easy. Probably. Rook had never bothered to find out what "easy" meant at the upper end of anything. The crew already had a plan, though, and Rook wanted to see if it worked. Rook grabbed the rope instead. His heel found a recessed timber brace he had not noticed before. Perfect leverage. Rook glanced down.
+Rook reached for the cart, then saw the strain on the crewman's shoulder. One more person shoving at the wrong angle would send the load over the edge faster. He grabbed the rope instead. His heel found a recessed timber brace he had not noticed before, giving him leverage he had not planned on. He glanced down.
 
 *Of course.*
 
@@ -89,7 +90,7 @@ Rook pulled. They shoved. The cart rolled forward half a step.
 
 Enough.
 
-The wheel climbed back into place. Two workers drove wedges behind it while the man at the front secured another line. Then it was over. No explosion. No monster. No impossible object appearing because reality felt cooperative. Five people had kept a load of cargo out of the river by doing one useful thing at the right time. His shoulder hurt. Rook suspected that was not the important lesson. The crewman took the rope from him, checked the cart, then looked at his stance.
+The wheel climbed back into place. Two workers drove wedges behind it while the man at the front secured another line. Then it was over. The load stayed on the ramp. Five people had kept a load of cargo out of the river by doing one useful thing at the right time. His shoulder hurt. Rook suspected that was not the important lesson. The crewman took the rope from him, checked the cart, then looked at his stance.
 
 "Good."
 
@@ -131,4 +132,10 @@ The worker stared at him.
 
 "You cannot stand here."
 
-Less perfect. Rook stepped out of the freight path and checked what remained of his money. A port this large meant work. Merchants. Cargo. Ships. Information. Trouble, statistically. And Rook did not have enough money left to develop standards. Rook tied the purse shut. No prophecy had brought him here. No divine mission waited at the gate. Nobody had chosen Merrowgate for him. There was salt in the air, money running low, and a city large enough to make both problems interesting. Rook started toward the passenger intake lane. Merrowgate would do.
+Less perfect. Rook stepped out of the freight path and checked what remained of his money. A port this large meant work. Merchants. Cargo. Ships. Information. Trouble, statistically. And Rook did not have enough money left to develop standards. Rook tied the purse shut. He knew of no prophecy directing him here. No divine mission had reached him, and he had chosen Merrowgate because it offered work. There was salt in the air, money running low, and a city large enough to make both problems interesting. Rook started toward the passenger intake lane. Under the next Wayfarer Token, a clerk was turning away a man who could not produce a guarantor for bonded work.
+
+Rook slowed and looked at his own wooden entrant tag. Greywake had admitted him with a piece of wood. He had been hoping a larger city would have a smaller interest in what the System thought of him.
+
+The clerk called for the next traveler.
+
+Rook joined the queue.

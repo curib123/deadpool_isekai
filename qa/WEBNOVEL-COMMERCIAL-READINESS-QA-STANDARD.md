@@ -1,10 +1,10 @@
 # WebNovel Commercial Readiness QA Standard
 
-**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
-**Purpose:** Evaluate reader-acquisition, early-retention, and contract-submission readiness for a pay-by-chapter web-novel environment.  
-**Applies to:** Public title, synopsis, prologue if used, opening chapters, chapter hooks/endings, early-arc pacing, and the advertised genre promise.  
-**Relationship to canon:** This QA does **not** decide canon quality. A chapter can be canonically correct and still fail commercial-readiness QA.  
-**Relationship to Gate 11:** Gate 11 asks whether the publication copy is correct. This standard asks whether the publication package is commercially strong enough to submit or promote.  
+**Project:** This Isekai Has a Bug. Unfortunately, It's Me.
+**Purpose:** Evaluate reader-acquisition, early-retention, and contract-submission readiness for a pay-by-chapter web-novel environment.
+**Applies to:** Public title, synopsis, prologue if used, opening chapters, chapter hooks/endings, early-arc pacing, and the advertised genre promise.
+**Relationship to canon:** This QA does **not** decide canon quality. A chapter can be canonically correct and still fail commercial-readiness QA.
+**Relationship to Gate 11:** Gate 11 asks whether the publication copy is correct. This standard asks whether the publication package is commercially strong enough to submit or promote.
 **Guarantee rule:** Passing this QA does not guarantee a WebNovel contract, profitability, ranking, or reader growth.
 
 ## Source Principle
@@ -76,7 +76,7 @@ If the prologue duplicates Chapter 1, either remove it from the public sequence 
 
 By the end of CH-003, the reader should understand:
 
-- who Red Jackal is as a personality;
+- who Rook Vane is as a personality;
 - what makes him abnormal/overpowered;
 - what immediate problem he faces;
 - why Veyr cannot process him normally;
@@ -93,7 +93,7 @@ Check both levels:
 - death/explosion;
 - Soul Drift arrival;
 - undefined System status;
-- abnormal powers/fourth-wall behavior.
+- improbable survival and reputation misunderstandings.
 
 **Current-arc inciting incident**
 - a concrete local problem pulls Red into the destination's conflict.
@@ -165,7 +165,7 @@ For an ML action/comedy fantasy, the commercial equivalent of FL romantic tensio
 Every opening chapter should create at least one forward expectation:
 - What is Red?
 - Why is he missing from the System?
-- What can Play Logic actually do?
+- What happens when people demand control over luck Rook cannot command?
 - What will happen when institutions cannot classify him?
 - What local problem is he entering?
 - Who benefits from the problem?
@@ -255,4 +255,4 @@ when the public opening is plain, duplicative, exposition-heavy, slow, or fails 
 
 ## Governing Rule
 
-The goal is not to turn the story into a generic trend copy. The goal is to make the existing Red Jackal story reveal its strongest promise early, clearly, and repeatedly enough that a new reader has reasons to begin and continue.
+The goal is not to turn the story into a generic trend copy. The goal is to make the existing Rook Vane story reveal its strongest promise early, clearly, and repeatedly enough that a new reader has reasons to begin and continue.

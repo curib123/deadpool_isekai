@@ -1,14 +1,16 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-019 Scene Architecture — Build the Wrong Road
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-019 — Build the Wrong Road  
-**Movement:** V — No Acceptable Loss  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-019 MANUSCRIPT CANON  
-**Final Scene Count:** 6  
-**POV:** Red Jackal first person  
-**Primary Cast:** Red Jackal, Tavian Rook, Captain Brynn Alder, Greywake militia/work crews, outer-homestead workers  
-**Supporting Presence:** Kellan Dorr through previously supplied route/repair notes only; he does not enter the field  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-019 — Build the Wrong Road
+**Movement:** V — No Acceptable Loss
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-019 MANUSCRIPT CANON
+**Final Scene Count:** 6
+**POV:** Red Jackal first person
+**Primary Cast:** Red Jackal, Tavian Rook, Captain Brynn Alder, Greywake militia/work crews, outer-homestead workers
+**Supporting Presence:** Kellan Dorr through previously supplied route/repair notes only; he does not enter the field
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -473,7 +475,7 @@ The point is that practical work does not care about Red's reputation.
 
 ## SC-019-01 — The Road Was Still Broken
 
-**Location:** Broken North closure / lower old road / approach to first work zone.  
+**Location:** Broken North closure / lower old road / approach to first work zone.
 **Characters:** Red Jackal, Tavian Rook, Captain Brynn Alder, militia, road workers, outer-homestead workers.
 
 ### Purpose
@@ -510,7 +512,7 @@ Drainage clearing becomes the first priority before the cracked lip can be perma
 
 ## SC-019-02 — Water First
 
-**Location:** collapsed drainage / lower Broken North road.  
+**Location:** collapsed drainage / lower Broken North road.
 **Characters:** same field coalition.
 
 ### Purpose
@@ -553,7 +555,7 @@ The crew reaches the CH-011 cracked road lip and prepares permanent bracing.
 
 ## SC-019-03 — Hold Until It Holds
 
-**Location:** CH-011 washout / cracked road shelf.  
+**Location:** CH-011 washout / cracked road shelf.
 **Characters:** Red, Tavian, Brynn, road/homestead workers, militia protection.
 
 ### Purpose
@@ -600,7 +602,7 @@ Crews can move on foot/materials over the stabilized lip, but the next washed ga
 
 ## SC-019-04 — Not a Bridge
 
-**Location:** secondary washed roadbed gap / old connector approach.  
+**Location:** secondary washed roadbed gap / old connector approach.
 **Characters:** field coalition.
 
 ### Purpose
@@ -655,7 +657,7 @@ Tavian spots fresh prey movement and identifies predator pressure approaching th
 
 ## SC-019-05 — Work Under Teeth
 
-**Location:** active Broken North work section / side spill near old watch/drainage area.  
+**Location:** active Broken North work section / side spill near old watch/drainage area.
 **Characters:** Red, Tavian, Brynn, militia, workers/homesteaders; localized animals/predators.
 
 ### Purpose
@@ -710,7 +712,7 @@ Only final clearing/barrier/continuity checks remain.
 
 ## SC-019-06 — Barely a Road
 
-**Location:** full prepared Broken North corridor / far connector observation point.  
+**Location:** full prepared Broken North corridor / far connector observation point.
 **Characters:** Red, Tavian, Brynn, work crews/homesteaders, militia.
 
 ### Purpose

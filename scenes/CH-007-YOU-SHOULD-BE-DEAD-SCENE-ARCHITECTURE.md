@@ -1,11 +1,13 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-007 Scene Architecture — You Should Be Dead
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-007 — You Should Be Dead  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-007 MANUSCRIPT CANON  
-**Final Scene Count:** 5  
-**POV:** Red Jackal first person  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-007 — You Should Be Dead
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-007 MANUSCRIPT CANON
+**Final Scene Count:** 5
+**POV:** Red Jackal first person
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -264,9 +266,9 @@ He must not:
 
 # 9. Sela Arven Lock
 
-**Sela Arven**  
-Riverkin, 51  
-Independent healer / Greywake treatment house  
+**Sela Arven**
+Riverkin, 51
+Independent healer / Greywake treatment house
 Role: healer / consequence witness.
 
 Her goal is to keep frontier casualties alive with limited medicine, mana, staff, and time.
@@ -387,8 +389,8 @@ The emotional center is consequence.
 
 ## SC-007-01 — Too Close to Greywake
 
-**Approximate Time:** Day after CH-006 or next morning.  
-**Location:** Minor service/connector road near the Main Caravan Road, within routine Greywake operating distance.  
+**Approximate Time:** Day after CH-006 or next morning.
+**Location:** Minor service/connector road near the Main Caravan Road, within routine Greywake operating distance.
 **Characters Present:** Red Jackal, Tavian Rook, small Road Guild service/maintenance group, road worker(s).
 
 ### Scene Purpose
@@ -517,8 +519,8 @@ The pack attack begins in SC-007-02.
 
 ## SC-007-02 — The Hit He Can Take
 
-**Approximate Time:** Shortly after SC-007-01.  
-**Location:** Same service road / brush edge / maintenance wagon area.  
+**Approximate Time:** Shortly after SC-007-01.
+**Location:** Same service road / brush edge / maintenance wagon area.
 **Characters Present:** Red Jackal, Tavian Rook, road workers, displaced predator pack.
 
 ### Scene Purpose
@@ -671,8 +673,8 @@ Tavian orders withdrawal/extraction in SC-007-03.
 
 ## SC-007-03 — Get Them Home
 
-**Approximate Time:** Immediate continuation.  
-**Location:** Service road → retreat toward maintained corridor/Greywake.  
+**Approximate Time:** Immediate continuation.
+**Location:** Service road → retreat toward maintained corridor/Greywake.
 **Characters Present:** Red Jackal, Tavian Rook, injured road worker(s), remaining workers, predator pack.
 
 ### Scene Purpose
@@ -836,8 +838,8 @@ SC-007-04 opens at Sela Arven's treatment house.
 
 ## SC-007-04 — You Should Be Dead
 
-**Approximate Time:** Later the same day.  
-**Location:** Sela Arven's Greywake treatment house.  
+**Approximate Time:** Later the same day.
+**Location:** Sela Arven's Greywake treatment house.
 **Characters Present:** Red Jackal, Tavian Rook, Sela Arven, injured road worker(s), treatment-house staff if needed.
 
 ### Scene Purpose
@@ -1015,8 +1017,8 @@ SC-007-05 focuses on causality/consequence rather than mechanism.
 
 ## SC-007-05 — Surviving Is Not the Same as Safe
 
-**Approximate Time:** Same treatment-house period after acute triage.  
-**Location:** Sela Arven's treatment house.  
+**Approximate Time:** Same treatment-house period after acute triage.
+**Location:** Sela Arven's treatment house.
 **Characters Present:** Red Jackal, Tavian Rook, Sela Arven; injured worker may be resting nearby/off-focus.
 
 ### Scene Purpose

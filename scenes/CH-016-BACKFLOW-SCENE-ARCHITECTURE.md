@@ -1,13 +1,15 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-016 Scene Architecture — Backflow
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-016 — Backflow  
-**Movement:** IV — Necessary Sacrifices  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-016 MANUSCRIPT CANON  
-**Final Scene Count:** 6  
-**POV:** Red Jackal first person  
-**Primary Cast:** Red Jackal, Kellan Dorr, Tavian Rook, Captain Brynn Alder, Greywake militia responders, outer-homestead civilians  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-016 — Backflow
+**Movement:** IV — Necessary Sacrifices
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-016 MANUSCRIPT CANON
+**Final Scene Count:** 6
+**POV:** Red Jackal first person
+**Primary Cast:** Red Jackal, Kellan Dorr, Tavian Rook, Captain Brynn Alder, Greywake militia responders, outer-homestead civilians
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -515,7 +517,7 @@ Do not grant Red literacy during crisis.
 
 ## SC-016-01 — The Calls Do Not Settle
 
-**Location:** east-outer upper approach, immediately beyond the disabled CH-015 lure site.  
+**Location:** east-outer upper approach, immediately beyond the disabled CH-015 lure site.
 **Characters:** Red Jackal, Kellan Dorr, Tavian Rook; distant/approaching civilians may be visible.
 
 ### Purpose
@@ -563,7 +565,7 @@ They move toward the threatened farms/outer road because civilians now need evac
 
 ## SC-016-02 — More Than One Road
 
-**Location:** east outer homestead approaches / connector roads.  
+**Location:** east outer homestead approaches / connector roads.
 **Characters:** Red, Tavian, Kellan, civilians; Brynn/militia arrive during scene.
 
 ### Purpose
@@ -609,7 +611,7 @@ Kellan identifies his CH-008 seasonal-cut bridge as the fastest practical crossi
 
 ## SC-016-03 — Seconds, Not Solutions
 
-**Location:** evacuation route leading toward Kellan's seasonal-cut bridge.  
+**Location:** evacuation route leading toward Kellan's seasonal-cut bridge.
 **Characters:** Red, Tavian, Kellan, Brynn/militia, civilians.
 
 ### Purpose
@@ -666,7 +668,7 @@ The group reaches the seasonal-cut bridge with Red already physically degraded.
 
 ## SC-016-04 — Kellan's Bridge
 
-**Location:** the CH-008 seasonal-cut bridge beyond the timber sheds.  
+**Location:** the CH-008 seasonal-cut bridge beyond the timber sheds.
 **Characters:** Red, Kellan, Tavian, Brynn/militia, civilians.
 
 ### Purpose
@@ -715,7 +717,7 @@ The bridge begins to fail while civilians are still clearing it.
 
 ## SC-016-05 — What Does Not Heal
 
-**Location:** seasonal-cut bridge and immediate banks.  
+**Location:** seasonal-cut bridge and immediate banks.
 **Characters:** full chapter cast.
 
 ### Purpose
@@ -780,7 +782,7 @@ Kellan is carried out while the bridge cannot be restored under current pressure
 
 ## SC-016-06 — Toward Greywake
 
-**Location:** damaged outer approach with view/communication toward Greywake-facing routes.  
+**Location:** damaged outer approach with view/communication toward Greywake-facing routes.
 **Characters:** Red, Tavian, Brynn/militia, civilians; Kellan being transported.
 
 ### Purpose

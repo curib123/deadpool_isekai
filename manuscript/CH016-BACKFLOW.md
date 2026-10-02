@@ -1,10 +1,10 @@
 # Chapter 16 — Backflow
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
-**Revision Date:** 2026-09-27
-**Word Count:** 2,092
-**Chapter QA:** `qa/CH-016-GATE-9-CHAPTER-QA.md`
-**Retcon QA:** `qa/CH-016-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
+**Status:** CURRENT EDITORIAL REVISION — FORTUNE DISTORTION ONLY
+**Revision Date:** 2026-10-02
+**POV:** Distant third-person limited — Rook Vane
+**Word Count:** 2071
+**Review:** See `qa/revisions/2026-10-02-EDITORIAL-REVIEW.md`; earlier gate reports are historical.
 
 The march-lure lay dead in the stone recess. Rear plate dark. Vent silent. The forest was not. A call rolled in from the northeast. Another answered from lower ground. Tavian stood still and listened. Then brush moved west of the upper approach. Not one animal. Several. Branches shook in a line crossing the road instead of following it. Kellan turned toward the farms. "What is that?"
 
@@ -28,7 +28,9 @@ Rook looked back at the dead lure. For one second he wanted one more thing to br
 
 "Enough."
 
-That word settled harder than certainty. Tavian pointed downhill. "These routes were being suppressed. They're not returning neatly to some old natural path. They're spilling into whatever remains open." The hounds crossed again. Not one route. Several. His side tightened when Rook started moving. Pain came with it. The bite in his leg had stopped bleeding. The same impossible logic that had produced barriers and tools was already correcting the bite. Apparently reality preferred Rook in one piece. None of that told him where the next road would fail. They ran.
+Tavian pointed downhill. "These routes were being suppressed. They're spilling into whatever remains open."
+
+The hounds crossed from another angle. Rook started moving and felt the cloth beneath his belt pull against the fresh wound. Walking hurt. Running would hurt more. Neither fact changed the direction the animals had taken. They ran.
 
 The first farm approach was already emptying. People carried what they could. Not everything. Nobody ever carried everything. A woman dragged sacks toward a cart. Another person pulled a child away from a livestock pen. Someone cut the pen gate open instead of trying to lead every animal out. Good choice. The livestock scattered anyway. Kellan shouted. "Lower connector! Leave the north track—the stone wall gives us room!" People listened to him. That mattered more than anything Rook could announce. Tavian climbed onto a low stone edge and looked across the fields. "Do not use the tree-line path."
 
@@ -36,7 +38,7 @@ Kellan turned. "Why?"
 
 "Movement behind it."
 
-At first Rook saw nothing. Then the brush folded. Small predators crossed a side track that had been clear before.
+At first Rook saw nothing. Then brush shook below the slope, and small predators crossed a track that had been clear before. Another road gone.
 
 *Another road gone.* They reached the next junction as three militia riders came from Greywake. The lead rider pulled up hard. "Captain's coming."
 
@@ -52,9 +54,17 @@ Kellan went still. "The lower road?"
 
 "Not now."
 
-Tavian looked toward Greywake. Then the farms. The rider continued. "Patrol markers are changing faster than we can update them." A second rider pointed behind. "Brynn is bringing two squads." Tavian nodded. "Tell her this is backflow. Multiple corridors. Predator and prey movement overlapping." The rider turned and left. Another horn sounded beyond the farms. Rook looked north. Then south. Then toward Greywake. Too many roads. Too many people. Too many moving animals. Could Rook made a wall? Of course. Could Rook made ten? Yes.
+Tavian looked toward Greywake, then the farms. The rider said patrol markers were changing faster than they could update them. Brynn was bringing two squads.
 
-Could Rook erase every predator he could see? Easily. Would that tell him which of six frightened herds should be redirected without trampling another road full of civilians? No. Power was not the missing information. Brynn arrived with militia on foot and horseback. She dismounted before the horse fully settled. "What moved?" Tavian answered. "Several prey lines. Ridge-hounds behind at least one. Smaller predators using side routes. Pressure is redistributing."
+"Tell her this is backflow," Tavian said. "Multiple corridors. Predator and prey movement overlapping."
+
+The rider turned and left. Another horn sounded beyond the farms. Rook could see six directions people might flee and had no idea which would still be clear when they arrived. His hands were empty. Even a barricade would only move the problem somewhere he could not see.
+
+Brynn reached them with militia on foot and horseback. She dismounted before her horse settled.
+
+"What moved?"
+
+"Several prey lines," Tavian said. "Ridge-hounds behind at least one. Smaller predators using side routes. Pressure is redistributing."
 
 "Cause?"
 
@@ -80,9 +90,13 @@ The cart stayed. The people moved. A low thunder came from the trees. Many feet.
 
 "Then move."
 
-A herd broke through the brush. Larger than the first. Not charging them. Running from something behind them. That distinction meant very little if you stood in front of several tons of frightened animal. Two militia dragged an older man over the field wall. A cart wheel dropped into a rut. Three people kept pulling. The herd thundered closer. Rook ran toward them. The cart moved half a foot. Not enough. Tavian shouted. "Leave it." One person did. Two did not. Rook looked at the herd. Not a fortress. Not a cage. A guide. Something low and broad, angled toward open ground.
+A herd broke through the brush, running from something behind it. Two militia dragged an older man over the field wall. Farther ahead, another loaded cart dropped a wheel into a rut while three people kept pulling.
 
-Pale-grey material formed across the road exactly where Rook wanted it. The first animal checked. The next crowded its shoulder. The front of the herd bent. Half spilled toward the field. The rest followed the easier line long enough for militia to pull the last two civilians clear. One animal clipped him as it passed. Impact spun him into the road. His shoulder hit stone.
+Rook ran toward them. The cart moved half a foot, then stopped. Tavian shouted for them to leave it. One person did; the other two kept their hands on the load.
+
+Rook grabbed the loose harness line and hauled sideways, trying to turn the cart toward the ditch. Its harnessed mule jerked away from the noise. Its pull swung the cart across the rut, dropping the sideboard at an angle toward the open field.
+
+The first animal checked against the fallen sideboard. The next crowded its shoulder and turned toward the field. The front bent just long enough for the militia to drag the last two civilians clear. Rook let go of the harness, but an animal clipped him as it passed. His shoulder struck stone.
 
 A second animal followed, hit the churned mud at exactly the wrong angle, and slid just wide of his legs.
 
@@ -92,7 +106,15 @@ Rook watched it pass.
 
 "Move!"
 
-Tavian. Rook rolled toward the ditch. The civilians were clear. The guide had done its job. Rook released it before the next group could bunch against an obstacle nobody needed anymore. Seconds. Enough. Another horn sounded ahead. Rook stood. His shoulder hurt. His side had reopened and was already closing again. None of that changed what Rook could do. It changed how pleasant doing it felt. Kellan caught his arm. "Can you walk?"
+Rook rolled toward the ditch at Tavian's shout. The sideboard splintered under the next animal, leaving the herd a wider opening into the field. Everyone was clear, and nobody went back for the cart.
+
+Rook stood with help from Kellan. Blood had soaked through the cloth at his side. His shoulder hurt too badly to move freely.
+
+"Can you walk?" Kellan asked.
+
+"Yes."
+
+"Then walk."
 
 "Yes."
 
@@ -138,21 +160,27 @@ Three people remained on the bridge. A child. A woman. One militia guard. Kellan
 
 That stopped him. He was right. The woman crossed. The child froze halfway. Kellan reached him. The bridge shifted hard. The militia guard grabbed the child from the far side. Kellan pushed him forward. The child cleared. Then the abandoned cart broke loose. Not toward the bridge. Sideways. A timber beam strapped to its side swung out. Someone shouted. Kellan turned. The beam hit the near rail. The rail broke. Impact traveled through the deck. One repaired support snapped. The bridge dropped on one side. Kellan fell. Rook moved before he knew where. Near planks tore loose. Kellan hit the lower edge of the seasonal cut.
 
-A section of deck came down after him. Then part of the cart frame. The sound was wrong. Wood. Stone. A body under both. Rook jumped down. Kellan was conscious. Barely. One leg was trapped beneath a broken beam and part of the cart frame. His other shoulder lay at a wrong angle. Blood ran along his face and sleeve. Rook grabbed the beam. Tavian dropped beside him. "Together." A militia guard joined. They lifted. Rook could have thrown the whole wreckage aside. Rook did not know which broken piece was supporting what around Kellan's trapped leg. Again: power was not the missing information. Tavian and the militia guard told him where to lift.
+A section of deck came down after Kellan, followed by part of the cart frame. Rook climbed into the cut. Kellan was conscious, barely, with one leg pinned beneath a beam and his shoulder at a wrong angle. Blood ran along his face and sleeve.
 
-Rook followed it exactly. The beam rose. Kellan made a sound through his teeth. Not a scream. Worse. "Higher," Tavian said. They lifted. Another militia member pulled the cart frame away. Brynn climbed down and got both hands under Kellan. "Now." They moved him. His leg came free. It did not look right. Rook wanted to look away. He did not. Kellan was bleeding. Just bleeding. Rook put pressure where Tavian told him. His hands turned red. Kellan opened his eyes. "Bridge?" Nobody answered. Above them, another support failed. The remaining deck twisted and dropped into the cut. The crossing was gone.
+Rook tried to lift the beam. It did not move. Tavian dropped beside him and stopped a second attempt. They needed to know which pieces were carrying the wreckage before shifting its weight. A militia guard brought a long road lever.
+
+Tavian placed the fulcrum on firm stone and put Rook beside the guard at the handle.
+
+They pushed together. The beam rose slowly. Kellan made a sound through his teeth. Not a scream. Worse. "Higher," Tavian said. They pressed the lever handle down. Another militia member pulled the cart frame away. Brynn climbed down and got both hands under Kellan. "Now." They moved him. His leg came free. It did not look right. Rook wanted to look away. He did not. Kellan was bleeding. Just bleeding. Rook put pressure where Tavian told him. His hands turned red. Kellan opened his eyes. "Bridge?" Nobody answered. Above them, another support failed. The remaining deck twisted and dropped into the cut. The crossing was gone.
 
 Not damaged. Gone. Brynn looked at Tavian. "Can he be moved?" Tavian checked quickly. "Yes. Carefully."
 
 "Stretcher."
 
-Two militia climbed back to the road. Rook stayed beside Kellan. His own side kept closing. His leg did not. That difference sat between them like an accusation that did not need words. The stretcher arrived. They lifted him. He lost consciousness halfway. Tavian checked his breathing. "Still with us." Brynn looked at the road. "What do we have left?" A militia runner answered. "Lower farm track is open on foot."
+Two militia climbed back for a stretcher. Rook stayed beside Kellan, holding pressure where Tavian showed him. The cloth on Rook's own side was wet, but Kellan's injury kept finding new ways to bleed. He did not look away.
 
-"For how long?"
+The stretcher arrived. They lifted Kellan carefully, and he lost consciousness halfway. Tavian checked his breathing.
 
-"No idea."
+"Still with us."
 
-"Use it. No carts. Leave anything that slows the line."
+Brynn asked what route remained. A runner gave her the lower farm track, open on foot for a length of time nobody could promise.
+
+"Use it," she said. "No carts. Leave anything that slows the line."
 
 People started moving again. Around the broken bridge. Away from the road that had been carrying them home. They climbed out of the cut. Rook looked back once. The bridge deck lay broken below. Supports split. Cart half on its side. The road ended there. A horn sounded farther east. Then another toward Greywake. A rider came hard along the connector. "Captain."
 

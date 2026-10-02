@@ -1,7 +1,7 @@
 # Chapter Engagement Beat QA Standard
 
-**Studio:** Red Jackal Light-Novel Studio  
-**Status:** LOCKED — SERIES-WIDE  
+**Studio:** Rook Vane Light-Novel Studio
+**Status:** LOCKED — SERIES-WIDE
 **Purpose:** Prevent low-energy or exposition-only chapters while preserving battle variety and natural pacing.
 
 # 1. Core Law — MANDATORY
@@ -88,8 +88,8 @@ A chapter may use one or more:
 - power used creatively;
 - enemy-play;
 - serious-switch moment;
-- Fourth-Wall Pause with meaningful comedic/character impact;
-- visible consequence of regeneration.
+- dry humor or a bluff with a meaningful social consequence;
+- visible ordinary injury and recovery consequences.
 
 ## Emotional / Consequence
 Allowed only when active rather than purely reflective:
@@ -149,7 +149,7 @@ Across an action/adventure arc, however:
 - long stretches without physical danger require stronger mystery, confrontation, or operational pressure;
 - no more than **two consecutive chapters** may rely primarily on low-physical-pressure discussion/procedure unless both contain strong turns and the following chapter delivers clear action/danger.
 
-For Red Jackal, combat should remain varied:
+For Rook Vane, combat should remain varied:
 - 1v1;
 - 1vMany;
 - team fight;
@@ -183,18 +183,18 @@ If the battle could be deleted without changing anything, cut it.
 
 Each chapter should ideally contain:
 
-**Opening pressure**  
+**Opening pressure**
 Something is already happening, wrong, desired, dangerous, awkward, urgent, or unresolved.
 
-**Engagement Beat**  
+**Engagement Beat**
 The chapter's pressure turns, escalates, collides, or reveals something.
 
-**Ending pressure**  
+**Ending pressure**
 The chapter leaves a specific reason to continue.
 
 The three do not have to be combat.
 
-# 8. Red Jackal Rule
+# 8. Rook Vane Rule
 
 Red should remain entertaining even in non-battle chapters through:
 - choices;

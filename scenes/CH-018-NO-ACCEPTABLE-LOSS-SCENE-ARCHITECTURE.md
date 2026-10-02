@@ -1,13 +1,15 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-018 Scene Architecture — No Acceptable Loss
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-018 — No Acceptable Loss  
-**Movement:** V — No Acceptable Loss  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-018 MANUSCRIPT CANON  
-**Final Scene Count:** 6  
-**POV:** Red Jackal first person  
-**Primary Cast:** Red Jackal, Tavian Rook, Maelis Orra, Captain Brynn Alder, Sela Arven, Kellan Dorr (limited), Jessa Vale, Rovan Hesk / limited council opposition  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-018 — No Acceptable Loss
+**Movement:** V — No Acceptable Loss
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-018 MANUSCRIPT CANON
+**Final Scene Count:** 6
+**POV:** Red Jackal first person
+**Primary Cast:** Red Jackal, Tavian Rook, Maelis Orra, Captain Brynn Alder, Sela Arven, Kellan Dorr (limited), Jessa Vale, Rovan Hesk / limited council opposition
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -487,7 +489,7 @@ No:
 
 ## SC-018-01 — Three Bad Answers
 
-**Location:** emergency route-planning station / militia yard.  
+**Location:** emergency route-planning station / militia yard.
 **Characters:** Red Jackal, Tavian Rook, Maelis Orra, Captain Brynn Alder, Rovan Hesk; runners/clerks may be unnamed.
 
 ### Purpose
@@ -528,7 +530,7 @@ The room agrees it needs a deliberate non-inhabited pressure corridor.
 
 ## SC-018-02 — What the Guild Actually Knows
 
-**Location:** route-planning station / records table.  
+**Location:** route-planning station / records table.
 **Characters:** Red, Tavian, Maelis, Brynn, Jessa Vale, Hesk.
 
 ### Purpose
@@ -576,7 +578,7 @@ The coalition has an incomplete but usable map of **known** influence points and
 
 ## SC-018-03 — The Road Nobody Uses
 
-**Location:** large route map / old-road overlays.  
+**Location:** large route map / old-road overlays.
 **Characters:** Red, Tavian, Maelis, Brynn, Jessa, Hesk.
 
 ### Purpose
@@ -631,7 +633,7 @@ They need Kellan's structural/local route assessment before committing.
 
 ## SC-018-04 — From the Stretcher
 
-**Location:** sheltered route-planning station under Sela's supervision, near treatment access.  
+**Location:** sheltered route-planning station under Sela's supervision, near treatment access.
 **Characters:** Kellan Dorr, Sela Arven, Red, Tavian, Brynn, Maelis; Jessa may remain with maps/notes.
 
 ### Purpose
@@ -683,7 +685,7 @@ Sela ends Kellan's participation before the planning becomes a field briefing.
 
 ## SC-018-05 — A Corridor, Not a Sacrifice
 
-**Location:** council map room / route-planning station.  
+**Location:** council map room / route-planning station.
 **Characters:** full primary planning cast except Kellan may be absent/resting after SC-018-04.
 
 ### Purpose
@@ -770,7 +772,7 @@ by moving the migration toward a non-inhabited prepared corridor.
 
 ## SC-018-06 — No Acceptable Loss
 
-**Location:** route board / militia staging area.  
+**Location:** route board / militia staging area.
 **Characters:** Red, Tavian, Maelis, Brynn, Jessa; Hesk/council opposition present or represented; Kellan resting under Sela's care.
 
 ### Purpose

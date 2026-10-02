@@ -1,13 +1,15 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-010 Scene Architecture — The Ledger Doesn't Balance
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-010 — The Ledger Doesn't Balance  
-**Movement:** III — The Road Is Lying  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-010 MANUSCRIPT CANON  
-**Final Scene Count:** 5  
-**POV:** Red Jackal first person  
-**Primary Cast:** Red Jackal, Maelis Orra, Jessa Vale, Rovan Hesk  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-010 — The Ledger Doesn't Balance
+**Movement:** III — The Road Is Lying
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-010 MANUSCRIPT CANON
+**Final Scene Count:** 5
+**POV:** Red Jackal first person
+**Primary Cast:** Red Jackal, Maelis Orra, Jessa Vale, Rovan Hesk
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -469,8 +471,8 @@ Avoid:
 
 ## SC-010-01 — Dates, Not Atmosphere
 
-**Approximate Time:** Morning after CH-009 or next practical audit window.  
-**Location:** Ledger audit room.  
+**Approximate Time:** Morning after CH-009 or next practical audit window.
+**Location:** Ledger audit room.
 **Characters Present:** Red Jackal, Maelis Orra.
 
 ### Scene Purpose
@@ -548,8 +550,8 @@ One of Red Jackal's field incidents appears in route paperwork differently from 
 
 ## SC-010-02 — A Person, An Expense
 
-**Approximate Time:** Late morning.  
-**Location:** Ledger audit room.  
+**Approximate Time:** Late morning.
+**Location:** Ledger audit room.
 **Characters Present:** Red Jackal, Maelis Orra.
 
 ### Scene Purpose
@@ -622,8 +624,8 @@ Maelis decides she needs the Road Guild's internal filing explanation, not just 
 
 ## SC-010-03 — The Other Ledger
 
-**Approximate Time:** Midday.  
-**Location:** Road Guild records office.  
+**Approximate Time:** Midday.
+**Location:** Road Guild records office.
 **Characters Present:** Red Jackal, Maelis Orra, Jessa Vale.
 
 ### Scene Purpose
@@ -705,8 +707,8 @@ Hesk enters or sends direct instruction because Maelis's audit has reached inter
 
 ## SC-010-04 — Answer What You Know
 
-**Approximate Time:** Early afternoon.  
-**Location:** Road Guild records office / doorway into caravan yard.  
+**Approximate Time:** Early afternoon.
+**Location:** Road Guild records office / doorway into caravan yard.
 **Characters Present:** Red Jackal, Maelis Orra, Jessa Vale, Rovan Hesk.
 
 ### Scene Purpose
@@ -808,8 +810,8 @@ Maelis leaves with enough copied/authorized data to test the pattern outside Hes
 
 ## SC-010-05 — The Balance
 
-**Approximate Time:** Later afternoon.  
-**Location:** Ledger audit room and/or public-facing caravan scheduling area for cross-check.  
+**Approximate Time:** Later afternoon.
+**Location:** Ledger audit room and/or public-facing caravan scheduling area for cross-check.
 **Characters Present:** Red Jackal, Maelis Orra; Jessa optional only for a factual clarification already authorized.
 
 ### Scene Purpose

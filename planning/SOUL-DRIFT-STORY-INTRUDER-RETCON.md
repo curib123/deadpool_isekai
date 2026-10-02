@@ -1,7 +1,9 @@
+> **Historical retcon — superseded by the Rook Vane luck-only reset and October 2 editorial maps.** Preserve for draft history; removed powers, previous identities and POV directions below are not current authority.
+
 # Soul-Drift / Story-Intruder Retcon
 
-**Status:** LOCKED AUTHORIAL RETCON  
-**Priority:** Overrides conflicting older power, POV, Red-development, fourth-wall, and origin language.  
+**Status:** LOCKED AUTHORIAL RETCON
+**Priority:** Overrides conflicting older power, POV, Red-development, fourth-wall, and origin language.
 **Preservation Rule:** Existing geography, world map, destination order, Greywake chapter order, Merrowgate chapter order, and major pacing beats remain unchanged unless explicitly listed here.
 
 # 1. What Does Not Change

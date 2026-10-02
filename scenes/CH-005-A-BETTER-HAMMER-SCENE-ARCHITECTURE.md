@@ -1,11 +1,13 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-005 Scene Architecture — A Better Hammer
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-005 — A Better Hammer  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-005 MANUSCRIPT CANON  
-**Final Scene Count:** 5  
-**POV:** Red Jackal first person  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-005 — A Better Hammer
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-005 MANUSCRIPT CANON
+**Final Scene Count:** 5
+**POV:** Red Jackal first person
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -284,8 +286,8 @@ Avoid:
 
 ## SC-005-01 — First Light
 
-**Approximate Time:** Morning after CH-004, first light.  
-**Location:** Greywake Road Guild caravan yard → Main Caravan Road.  
+**Approximate Time:** Morning after CH-004, first light.
+**Location:** Greywake Road Guild caravan yard → Main Caravan Road.
 **Characters Present:** Red Jackal, Road Guild repair foreman, repair crew, assigned road guards.
 
 ### Scene Purpose
@@ -430,8 +432,8 @@ SC-005-02 begins with inspection and repair work.
 
 ## SC-005-02 — The Tool That Breaks
 
-**Approximate Time:** Morning.  
-**Location:** Main Caravan Road damaged bridge approach.  
+**Approximate Time:** Morning.
+**Location:** Main Caravan Road damaged bridge approach.
 **Characters Present:** Red Jackal, repair foreman, repair crew, assigned road guards.
 
 ### Scene Purpose
@@ -579,8 +581,8 @@ SC-005-03 begins the first intentional manifestation attempt.
 
 ## SC-005-03 — A Hammer, Technically
 
-**Approximate Time:** Late morning, shortly after the heavy tool fails.  
-**Location:** Same bridge worksite.  
+**Approximate Time:** Late morning, shortly after the heavy tool fails.
+**Location:** Same bridge worksite.
 **Characters Present:** Red Jackal, repair foreman, nearby crew, one assigned road guard.
 
 ### Scene Purpose
@@ -768,8 +770,8 @@ Noise/food/work disturbance draws ordinary predators toward the exposed worksite
 
 ## SC-005-04 — A Better Hammer
 
-**Approximate Time:** Late morning.  
-**Location:** Same damaged bridge approach.  
+**Approximate Time:** Late morning.
+**Location:** Same damaged bridge approach.
 **Characters Present:** Red Jackal, repair foreman, repair crew, assigned road guards, small group of ordinary Hollow March opportunistic predators.
 
 ### Scene Purpose
@@ -981,8 +983,8 @@ Crew finishes the remaining ordinary work and returns/reports completion.
 
 ## SC-005-05 — Worth the Pay
 
-**Approximate Time:** Afternoon / return to Greywake before evening.  
-**Location:** Main Caravan Road return → Road Guild caravan yard/payment desk.  
+**Approximate Time:** Afternoon / return to Greywake before evening.
+**Location:** Main Caravan Road return → Road Guild caravan yard/payment desk.
 **Characters Present:** Red Jackal, repair foreman, repair crew, Road Guild clerk; Hesk/Jessa not required.
 
 ### Scene Purpose

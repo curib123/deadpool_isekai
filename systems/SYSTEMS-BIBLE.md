@@ -1,6 +1,6 @@
 # Systems Bible
 
-**Owners:** A030-A037  
+**Owners:** A030-A037
 **Status:** CANON — PHASE 1 FOUNDATION
 
 This file is authoritative for cosmology, World System behavior, magic, reincarnation, Fate, the Great Design, Rook Vane's anomaly, and Fortune Distortion. It intentionally contains no arc, volume, chapter, scene, or manuscript planning.
@@ -191,7 +191,7 @@ It measures heat only. It does not diagnose race, class, illness, or identity.
 ### Wound Gauge
 A mundane calibrated ruler/grid and inspection protocol used to record visible wound length, closure, swelling, and other external changes over time.
 
-It is not healing magic and does not reveal the cause of regeneration.
+It is not healing magic. It measures the visible wound; Rook has no automatic tissue restoration.
 
 ### Mana-Reactivity Prism
 A low-output diagnostic prism that exposes a subject or object to a harmless standardized mana pulse and records whether local mana is absorbed, deflected, conducted, disturbed, or ignored.
@@ -411,41 +411,15 @@ This distinction is essential to Rook Vane.
 
 ## 4.5 Rook Vane's Earth Death
 
-Writer truth:
+Rook remembers a mysterious explosion on Earth. Its cause remains protected. No Veyran god, Savael, summoning ritual, or Exterior Needle selected or transported him. A rare natural far Soul Drift crossed the boundary.
 
-Evan Calder died during a **mysterious explosion on Earth**.
-
-The exact mundane or extraordinary cause of that explosion remains a protected mystery unless later canon explicitly reveals it.
-
-The explosion coincided with a rare far-drift boundary condition.
-
-No Veyran actor selected Evan.
-
-No god chose him.
-
-No Exterior Needle pulled him.
+Rook Vane is his self-chosen current name, not a verified Earth identity. Evan Calder is a retired draft identity; it is not a name to reveal later as current writer truth.
 
 ## 4.6 Rook Vane's Drift Damage
 
-During far Soul Drift:
+Most autobiographical memory was lost or fragmented. General concepts and some sensory fragments remain. His prior life cannot be reconstructed from fluent speech, humor, or knowledge of everyday objects.
 
-- most of Evan's autobiographical memory was lost;
-- most of his ordinary pre-death personality organization fragmented;
-- his soul identity remained continuous enough to stay the same person at the deepest level;
-- a heavily reinforced cognitive-performance residue survived.
-
-That residue came partly from Evan's obsessive Deadpool fandom and broader exposure to comics, movies, games, animation, meta-fiction, internet humor, and theatrical antihero media.
-
-The surviving groove strongly favors:
-- irreverent humor;
-- fourth-wall thinking;
-- self-narration;
-- jokes under pain;
-- theatrical performance;
-- pop-culture comparison;
-- treating conflict like a scene.
-
-This does not make Rook a copy or possession of any fictional character.
+Rook's dry humor, improvisation, bluffing, and wish to avoid ownership are his current character traits. They do not come from possession, an inherited fictional persona, or a required fandom backstory. They grant no power over narrative time.
 
 ## 4.7 Cross-World Arrival
 
@@ -610,25 +584,25 @@ Writer truth remains private until later story architecture deliberately release
 
 ## 7.1 Locked Status
 
-Name: **UNDEFINED**  
-Race: **UNDEFINED**  
-Class: **UNDEFINED**  
-Level: **UNDEFINED**  
-HP: **UNDEFINED**  
-MP: **UNDEFINED**  
-Progression: **UNAVAILABLE**  
-World Registry: **NO RECORD**  
-Soul Registry: **NO RECORD**  
-System Recognition: **FAILED**  
+Name: **UNDEFINED**
+Race: **UNDEFINED**
+Class: **UNDEFINED**
+Level: **UNDEFINED**
+HP: **UNDEFINED**
+MP: **UNDEFINED**
+Progression: **UNAVAILABLE**
+World Registry: **NO RECORD**
+Soul Registry: **NO RECORD**
+System Recognition: **FAILED**
 Classification: **ANOMALY**
 
 ## 7.2 Terminology
 
-**UNDEFINED** — no valid value exists.  
-**NO RECORD** — registry search has no matching entry.  
-**FAILED** — operation cannot complete.  
-**UNAVAILABLE** — feature/path cannot be assigned.  
-**ANOMALY** — classification for behavior outside expected System structure.  
+**UNDEFINED** — no valid value exists.
+**NO RECORD** — registry search has no matching entry.
+**FAILED** — operation cannot complete.
+**UNAVAILABLE** — feature/path cannot be assigned.
+**ANOMALY** — classification for behavior outside expected System structure.
 **The Omen** — possible informal in-world nickname, never a System field.
 
 ## 7.3 What He Is Not
@@ -865,7 +839,7 @@ Examples:
 
 Rook may change execution, timing, participants, and consequences.
 
-Do not lazily erase the next planned beat just because Rook is overpowered.
+Do not erase a planned causal consequence merely because Rook survived the immediate danger.
 
 If the underlying objective still exists, allow it to return in a logically altered form.
 
@@ -911,12 +885,12 @@ The System is not reality itself. Fate is bounded. The Great Design is deeper th
 
 # 13. Phase 1 Systems QA Summary
 
-**World System:** PASS — bounded registry/regulation layer with explicit limits.  
-**Magic:** PASS — independent mana-based system with regional traditions and costs.  
-**Reincarnation:** PASS — soul flow, registry, memory, and cross-world rules established.  
-**Fate:** PASS — real but probabilistic and non-omnipotent.  
-**Great Design:** PASS — writer-truth role and reveal boundary defined.  
-**Rook Vane anomaly:** PASS — locked UNDEFINED/NO RECORD/FAILED/ANOMALY state preserved.  
-**Fortune Distortion:** PASS — only supernatural ability; passive probability distortion; no power progression; no guaranteed outcomes.  
-**Removed powers:** PASS — Play Logic, supernatural regeneration/self-restoration, and Fourth-Wall Pause are non-canon under the luck-only retcon.  
+**World System:** PASS — bounded registry/regulation layer with explicit limits.
+**Magic:** PASS — independent mana-based system with regional traditions and costs.
+**Reincarnation:** PASS — soul flow, registry, memory, and cross-world rules established.
+**Fate:** PASS — real but probabilistic and non-omnipotent.
+**Great Design:** PASS — writer-truth role and reveal boundary defined.
+**Rook Vane anomaly:** PASS — locked UNDEFINED/NO RECORD/FAILED/ANOMALY state preserved.
+**Fortune Distortion:** PASS — only supernatural ability; passive probability distortion; no power progression; no guaranteed outcomes.
+**Removed powers:** PASS — Play Logic, supernatural regeneration/self-restoration, and Fourth-Wall Pause are non-canon under the luck-only retcon.
 **Scope control:** PASS — no arc, volume, chapter, scene, or manuscript planning.

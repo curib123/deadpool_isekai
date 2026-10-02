@@ -1,8 +1,8 @@
 # Publish Version QA Standard
 
-**Gate:** 11 — Publish Version QA  
-**Owner:** A124 Publish Version QA Editor  
-**Applies To:** Reader-facing chapter/volume copies derived from already-CANON manuscripts  
+**Gate:** 11 — Publish Version QA
+**Owner:** A124 Publish Version QA Editor
+**Applies To:** Reader-facing chapter/volume copies derived from already-CANON manuscripts
 **Output State:** PUBLISH-READY or FAIL — RETURN TO PUBLICATION EDITOR
 
 # 1. Purpose
@@ -94,7 +94,7 @@ Do not change only in the publication copy:
 - injuries;
 - ability behavior;
 - manifestation count;
-- regeneration rules;
+- ordinary wound and recovery rules;
 - System/lore wording;
 - Hesk/lure logic;
 - evidence chains;
@@ -141,7 +141,7 @@ The publication version must preserve:
 - all dialogue;
 - all character decisions;
 - all injuries/consequences;
-- all Play Logic uses and limits;
+- all Fortune Distortion chains and causal limits;
 - all mystery clues;
 - all established knowledge boundaries;
 - all chapter handoffs.

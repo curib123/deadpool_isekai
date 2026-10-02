@@ -1,3 +1,5 @@
+> **Historical retcon — superseded by the Rook Vane luck-only reset and October 2 editorial maps.** Preserve for draft history; removed powers, previous identities and POV directions below are not current authority.
+
 > **CURRENT AUTHORITY NOTICE — 2026-09-20**
 >
 > This document remains authoritative only for the **already-overpowered / no-progression / revelation-restraint** power model.
@@ -14,9 +16,9 @@
 
 # Red Jackal Overpowered Character / Power Retcon
 
-**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
-**Status:** AUTHORIAL RETCON — IMPLEMENTED / VOLUME 1 GATE 10 + GATE 11 COMPLETE  
-**Applies To:** All volumes, chapters, scene plans, QA, power rules, and future production  
+**Project:** This Isekai Has a Bug. Unfortunately, It's Me.
+**Status:** AUTHORIAL RETCON — IMPLEMENTED / VOLUME 1 GATE 10 + GATE 11 COMPLETE
+**Applies To:** All volumes, chapters, scene plans, QA, power rules, and future production
 **Priority:** Overrides older Stage I / Stage II / mastery-ceiling language wherever conflict exists.
 
 # 1. Character Direction

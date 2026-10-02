@@ -1,8 +1,10 @@
 # Chapter 3 — The Things They Can Measure
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
-**Revision Date:** 2026-09-27
-**Word Count:** 1,647
+**Status:** CURRENT EDITORIAL REVISION — FORTUNE DISTORTION ONLY
+**Revision Date:** 2026-10-02
+**POV:** Distant third-person limited — Rook Vane
+**Word Count:** 1543
+**Review:** See `qa/revisions/2026-10-02-EDITORIAL-REVIEW.md`; earlier gate reports are historical.
 
 By early afternoon, the wooden entrant token inside his coat had become the most official thing Rook owned. That was not a high bar. Greywake's records district sat under covered timber walkways while rain tapped the roofs and clerks moved bundles of paper from one office to another. Rook followed the directions from the gate, climbed a narrow staircase, and found Maelis Orra waiting in a second-floor Ledger room. A long table stood between them. So did enough instruments to make him regret arriving voluntarily. A metal balance plate. A pale bead in a clip. A transparent measuring strip. A flat verification tag. A clear prism in a protective frame. At the far end sat another Certified Identity Slate.
 
@@ -86,7 +88,7 @@ Rook rolled up the torn sleeve. The cuts from that morning were still visible, t
 
 "Current visible state only," she told the clerk.
 
-He wrote it down. No questions about how quickly it had closed. No theory. No dramatic declaration. Rook noticed. The material tag was even faster. His wooden entrant token registered as present physical material. So did the edge of his coat.
+He wrote it down. The cut was still tender beneath the bandage. He noted its ordinary condition without offering a theory about the forest. Rook noticed. The material tag was even faster. His wooden entrant token registered as present physical material. So did the edge of his coat.
 
 Maelis reviewed the page.
 

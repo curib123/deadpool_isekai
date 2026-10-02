@@ -1,78 +1,29 @@
 # Prologue — The World Was Waiting for Someone Else
 
-The world had already made plans for somebody else.
+There had been an explosion. That was the part he could remember.
 
-I did not know that when I died.
+Heat, a white flash, a sound large enough to seem solid. Everything before it resisted him. A room without an address. The idea of a home without anyone waiting inside it. He knew what a phone was, what a hospital was, what people did when something caught fire. None of that told him whose life he had interrupted by dying.
 
-At the time, I was busy being on fire.
+He could not find his name.
 
-There was a white flash. Heat. Pressure. A sound so large it became a physical thing pressing through me. Then the idea of having a body separated from the body itself.
+That troubled him more than the white around him. At least the white was consistent. Each attempt at remembering a face produced the same sharp pain and an empty place where the answer ought to have been.
 
-That was inconvenient.
+He stopped trying for a moment. If there was someone in charge of whatever happened next, he would need enough of his mind left to argue with them.
 
-I tried to remember my name.
+"Hello?"
 
-The answer came back as a hallway with every door closed.
+His voice sounded small. Nothing answered. There was no window explaining his situation, no figure offering a mission, no clear sign that anyone had intended him to arrive.
 
-I knew what a phone was. I knew what a hospital was. I knew that explosions were bad for long-term health. I knew enough movies, comics, games, internet jokes, and survival advice to recognize several possible genres for what was happening.
+He waited. He had no useful way to measure how long.
 
-None of them included useful instructions.
+Then cold pressed against his back. The white thinned into daylight through leaves, and his next breath tasted of damp earth. He felt fingers, ribs, teeth. A body seemed to have arrived with him, although it was difficult to establish whether it was the one he remembered having.
 
-There should have been a voice.
+He opened his eyes beneath a tree. Rainwater clung to the canopy. Something with too many legs moved across a root beside his shoulder. Farther off, a branch clicked under more weight than a branch ought to accept quietly.
 
-There should have been a glowing window.
+The place had been alive before him. Roads would lead somewhere whether he understood their signs or not. People would have work to do, debts to collect, and reasons to dislike a stranger. He could not know any of that yet. He only knew there was no welcoming committee beside the tree.
 
-There should have been a polite figure explaining that I had died because of an unusually dramatic accident and would now receive a second life, three starting gifts, and a suspiciously specific mission involving a demon king.
+"Better than the explosion," he said.
 
-Nothing appeared.
+An animal moved through the ferns near his boots.
 
-I waited.
-
-The white continued.
-
-“Hello?”
-
-The sound stopped.
-
-Not faded. Stopped.
-
-Somewhere beyond the white, a piece of reality held still. A fragment of heat. A pressure wave. Maybe a thought. It hovered without moving while I looked around the empty space.
-
-I looked toward the place that felt like an audience.
-
-“If this is the dramatic pause before the tutorial, I would like to register a complaint.”
-
-Nothing answered.
-
-The frozen heat resumed.
-
-So that was new.
-
-The memory of dying remained. The memory of everything before dying did not.
-
-I reached for a face and found a blur. I reached for a home and found a locked door. I reached for the person I had been and felt something inside me slip away before I could hold it.
-
-Whatever had crossed the distance between one moment and the next, it had not brought me over intact.
-
-I was not sure whether that counted as a tragedy.
-
-It was difficult to mourn a person whose name would not stay in my head.
-
-The white thinned.
-
-Cold arrived first. Then damp earth. Then the weight of leaves above me.
-
-I felt my fingers. My ribs. My teeth. My face. Everything seemed to be attached, which placed the morning above average.
-
-Somewhere nearby, something with too many legs moved through a root system.
-
-I opened my eyes.
-
-Green canopy. Rainwater. Dark soil. No road. No rescue crew. No goddess with a clipboard.
-
-The world had received me.
-
-It simply had no record of doing so.
-
-That was how I entered Veyr: alive, unregistered, and already standing in somebody else's story.
-
+The assessment might have been premature.

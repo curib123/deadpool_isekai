@@ -1,9 +1,10 @@
 # Chapter 18 — No Acceptable Loss
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
-**Revision Date:** 2026-09-27
-**Word Count:** 2,299
-**Chapter QA:** `qa/CH-018-GATE-9-CHAPTER-QA.md`
+**Status:** CURRENT EDITORIAL REVISION — FORTUNE DISTORTION ONLY
+**Revision Date:** 2026-10-02
+**POV:** Distant third-person limited — Rook Vane
+**Word Count:** 2299
+**Review:** See `qa/revisions/2026-10-02-EDITORIAL-REVIEW.md`; earlier gate reports are historical.
 
 The emergency route board was crowded with markers. Tavian stood over it with both hands on the table. Brynn moved a militia token. Maelis added another stack of copied records. Hesk watched from the opposite side. Rook stayed where Tavian had told him to stand.
 
@@ -207,11 +208,11 @@ Rook raised one hand. Kellan looked at him. "No."
 
 "I hadn't said anything."
 
-"You were about to offer to become a bridge."
+"You were about to offer to hold a beam alone."
 
-"I was going to offer temporary support."
+"I was going to offer help."
 
-"That is becoming a bridge with more words."
+"Then get three other people and a jack."
 
 Sela looked at him. "He is right." Apparently cooperation meant specialists correcting him from several directions. Sela checked Kellan's pulse. "Enough."
 
@@ -275,35 +276,19 @@ Brynn looked at him. "Rook."
 
 "Yes?"
 
-"There are damaged points where temporary support could buy work crews time."
+"The crews need spare hands at damaged points. Can you haul lines and set wedges without touching a lure?"
 
-Finally. A job Rook understood. Tavian held up one finger. "Temporary."
+Rook looked at the map. Kellan had marked the bracing points from his cot. Tavian had marked the animal routes. Neither set of marks needed him to invent a better plan.
 
-"I know."
+"I can carry the tools," he said.
 
-"Inside Kellan's engineering plan."
+"With the crew," Tavian said. "If the foreman orders you off a failing edge, you go."
 
-"I know."
+Rook touched the dressing beneath his shirt. That condition was becoming easier to appreciate.
 
-"No improvising a replacement road just because you can."
+"Fine."
 
-Rook looked at him. There it was. The correct version. Could Rook made a road? Probably something much more ridiculous. Should he? Not if the whole point was creating infrastructure ordinary people could still use after Rook left. "Fine."
-
-"Can you support a damaged lip long enough for workers to place real bracing?"
-
-"Yes."
-
-"A short crossing over a narrow break?"
-
-"Yes."
-
-"A local barrier to bend movement for seconds?"
-
-"Yes."
-
-"Good."
-
-No demonstration. No new rule. No need. Hesk looked at the map. "You are weakening main-road resources for this." Brynn answered. "We are reallocating crews."
+Hesk looked at the map. "You are weakening main-road resources for this." Brynn answered. "We are reallocating crews."
 
 "From the protected corridor."
 
@@ -337,4 +322,4 @@ Hesk looked at Brynn. "You approve this?" Brynn checked every marker. Then Maeli
 
 Brynn waited. "So is every other option." She looked toward the treatment house. "Kellan?" Rook answered before thinking. "He said it can be made usable enough to try." Brynn looked at him. Rook stopped. "His words. Not mine." Small nod. Then Hesk. "Your objection is recorded." He said nothing. Brynn put one hand on the Broken North marker. "We prepare it." The room moved immediately. Runners took assignments. Jessa copied schedules. Maelis separated authorization sheets. Tavian listed route confirmations. Hesk stepped back from the table without accepting the plan.
 
-He did not need to accept it. He needed to obey the limits around it. Tavian pushed the copied Broken North sketch toward him. Three marks. Temporary support points. Not the road. Not the solution. Support. Rook picked up the sketch. This time, the plan was to make somewhere else for the danger to go.
+He did not need to accept it. He needed to obey the limits around it. Tavian pushed the copied Broken North sketch toward him. Three marks where the bracing crews needed hands. A job with instructions and a foreman. Rook picked up the sketch. This time, the plan was to make somewhere else for the danger to go.

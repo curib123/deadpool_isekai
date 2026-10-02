@@ -1,11 +1,13 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-004 Scene Architecture — Off the Books
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-004 — Off the Books  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-004 MANUSCRIPT CANON  
-**Final Scene Count:** 5  
-**POV:** Red Jackal first person  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-004 — Off the Books
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-004 MANUSCRIPT CANON
+**Final Scene Count:** 5
+**POV:** Red Jackal first person
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -192,8 +194,8 @@ Red Jackal can posture, but his internal narration should remain understated.
 
 ## SC-004-01 — The Roadmaster
 
-**Approximate Time:** Same day as CH-003, later afternoon.  
-**Location:** Greywake Chartered Road Guild hall, public contract/caravan desk.  
+**Approximate Time:** Same day as CH-003, later afternoon.
+**Location:** Greywake Chartered Road Guild hall, public contract/caravan desk.
 **Characters Present:** Red Jackal, Jessa Vale, Road Guild staff, Rovan Hesk enters during the scene.
 
 ### Scene Purpose
@@ -351,8 +353,8 @@ The negotiation moves to a quieter Guild office/table in SC-004-02.
 
 ## SC-004-02 — The Offer
 
-**Approximate Time:** Minutes later.  
-**Location:** Road Guild hall, Roadmaster's working office / private contract table.  
+**Approximate Time:** Minutes later.
+**Location:** Road Guild hall, Roadmaster's working office / private contract table.
 **Characters Present:** Red Jackal, Rovan Hesk, Jessa Vale.
 
 ### Scene Purpose
@@ -524,8 +526,8 @@ Jessa becomes the procedural translator in SC-004-03.
 
 ## SC-004-03 — What the Pay Is Worth
 
-**Approximate Time:** Continuing negotiation.  
-**Location:** Guild contract desk and nearby Greywake market frontage / covered market lane.  
+**Approximate Time:** Continuing negotiation.
+**Location:** Guild contract desk and nearby Greywake market frontage / covered market lane.
 **Characters Present:** Red Jackal, Jessa Vale.
 
 ### Scene Purpose
@@ -672,8 +674,8 @@ Captain Brynn crosses the caravan/market area in SC-004-04.
 
 ## SC-004-04 — Private Does Not Mean Protected
 
-**Approximate Time:** Late afternoon.  
-**Location:** Edge of Greywake market / Road Guild caravan yard.  
+**Approximate Time:** Late afternoon.
+**Location:** Edge of Greywake market / Road Guild caravan yard.
 **Characters Present:** Red Jackal, Captain Brynn Alder, Rovan Hesk briefly, Jessa Vale.
 
 ### Scene Purpose
@@ -810,8 +812,8 @@ Jessa handles the practical assignment handoff in the caravan yard.
 
 ## SC-004-05 — First Assignment
 
-**Approximate Time:** Late afternoon / early evening.  
-**Location:** Road Guild caravan yard, with Greywake market visible/adjacent.  
+**Approximate Time:** Late afternoon / early evening.
+**Location:** Road Guild caravan yard, with Greywake market visible/adjacent.
 **Characters Present:** Red Jackal, Jessa Vale, Road Guild workers/crew in background; Hesk may exit after confirming acceptance.
 
 ### Scene Purpose
@@ -1042,8 +1044,8 @@ Function:
 
 CH-004 contains:
 
-**NO Play Logic manifestation.**  
-**NO Play Logic attempt.**  
+**NO Play Logic manifestation.**
+**NO Play Logic attempt.**
 **NO Play Logic diagnostic test.**
 
 No regeneration reveal or test occurs.

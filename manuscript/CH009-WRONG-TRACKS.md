@@ -1,9 +1,10 @@
 # Chapter 9 — Wrong Tracks
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
-**Revision Date:** 2026-09-27
-**Word Count:** 3,008
-**Chapter QA:** `qa/CH-009-GATE-9-CHAPTER-QA.md`
+**Status:** CURRENT EDITORIAL REVISION — FORTUNE DISTORTION ONLY
+**Revision Date:** 2026-10-02
+**POV:** Distant third-person limited — Rook Vane
+**Word Count:** 2912
+**Review:** See `qa/revisions/2026-10-02-EDITORIAL-REVIEW.md`; earlier gate reports are historical.
 
 Rook stepped out of his rented room and found Tavian waiting at the end of the lane. Polearm over one shoulder. Field pack at his side. A charged Wayfarer Tongue Token hung from one strap. No breakfast. Suspicious immediately.
 
@@ -323,13 +324,13 @@ Rook looked. Between the fallen trunk and an exposed root wall, a narrow opening
 
 "Close it."
 
-Simple. Rook could have closed the entire crossing. The trail. The forest. Rook could have made the pack's tactical options somebody else's philosophical problem. None of that was necessary. Tavian needed one gap gone. So one gap disappeared. A low pale-grey obstruction formed between the trunk and the roots. Thick. Ugly. More bunker than barrier. The fourth predator checked its stride and hit the edge with one foreleg. The obstruction held. Tavian moved immediately.
+Rook grabbed a dead branch lying beside the trunk and dragged it across the opening. It was too light to stop anything determined. When the fourth predator struck it, the forked end caught beneath an exposed root instead of rolling away. The other end wedged against the fallen tree. The animal checked its stride, and Tavian moved immediately.
 
 "Left."
 
 Rook shifted left. The circling predator lunged when he entered its path. He stepped backward instead of meeting it. Its jaws closed on empty air. Rook kicked it in the shoulder as it passed. Hard enough to spoil the turn. Not hard enough to make the encounter about him. Tavian pushed the first predator away from the crossing with two controlled strikes. The second hesitated.
 
-The pack had expected fleeing prey. Instead it found two irritating objects refusing to behave correctly. The fourth hit his barrier again. It stayed exactly where Tavian needed it. One purpose. Close the gap.
+The pack had expected fleeing prey. Instead it found Tavian holding the center and Rook refusing to run. The fourth animal struck the wedged branch again. Wood cracked. It would not hold much longer.
 
 "Three breaths," he said.
 
@@ -347,7 +348,7 @@ Tavian struck the ground with the polearm shaft. The crack made the animal jump 
 
 "Done."
 
-Rook released the obstruction. It folded out of the world because he was done with it. Three breaths. That was all Tavian had asked for. The fourth predator pushed into the reopened gap. Tavian was already there. He slammed the polearm shaft across its chest and redirected it toward the open west side. The encirclement broke.
+Rook pulled back toward Tavian. The branch snapped, reopening the gap, but the three breaths had given them room to move. Tavian met the fourth predator with the polearm shaft across its chest, turning it toward the open west side. The encirclement broke.
 
 That changed the animals' calculation. Dangerous did not mean suicidal. One backed into brush. Another followed. The one Rook had kicked watched him with flattened ears, then retreated. The last stayed near the old trail until Tavian advanced two measured steps. It disappeared north. Leaves settled. The grazers were gone. So was the clean observation. Tavian lowered his polearm. Then looked at him. Rook knew that look. Sela had a medical version. Kellan had an engineering version. Tavian had the original.
 

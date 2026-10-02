@@ -1,13 +1,15 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-017 Scene Architecture — The Price of Being Right
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-017 — The Price of Being Right  
-**Movement:** V — No Acceptable Loss  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-017 MANUSCRIPT CANON  
-**Final Scene Count:** 6  
-**POV:** Red Jackal first person  
-**Primary Cast:** Red Jackal, Sela Arven, Kellan Dorr, Maelis Orra, Tavian Rook, Captain Brynn Alder, Rovan Hesk  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-017 — The Price of Being Right
+**Movement:** V — No Acceptable Loss
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-017 MANUSCRIPT CANON
+**Final Scene Count:** 6
+**POV:** Red Jackal first person
+**Primary Cast:** Red Jackal, Sela Arven, Kellan Dorr, Maelis Orra, Tavian Rook, Captain Brynn Alder, Rovan Hesk
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -446,7 +448,7 @@ Do not select Broken North as the solution in CH-017.
 
 ## SC-017-01 — Still Bleeding
 
-**Location:** Sela Arven's treatment house.  
+**Location:** Sela Arven's treatment house.
 **Characters:** Red Jackal, Sela Arven, Kellan Dorr; treatment assistants may be present but unnamed.
 
 ### Purpose
@@ -491,7 +493,7 @@ Red remains in the treatment house long enough to see that his body is improving
 
 ## SC-017-02 — You Do Not Get to Use Me
 
-**Location:** treatment house, after Kellan is stabilized enough to speak briefly.  
+**Location:** treatment house, after Kellan is stabilized enough to speak briefly.
 **Characters:** Red, Kellan, Sela.
 
 ### Purpose
@@ -540,7 +542,7 @@ Kellan remains under Sela's care.
 
 ## SC-017-03 — Emergency Authority
 
-**Location:** Greywake council house / emergency chamber.  
+**Location:** Greywake council house / emergency chamber.
 **Characters:** Red Jackal, Maelis Orra, Tavian Rook, Captain Brynn Alder, Rovan Hesk; limited council presence may be role-based/unnamed.
 
 ### Purpose
@@ -583,7 +585,7 @@ Brynn requires operational/ecological/legal input before any emergency restorati
 
 ## SC-017-04 — What the Disaster Proves
 
-**Location:** same emergency council setting.  
+**Location:** same emergency council setting.
 **Characters:** same.
 
 ### Purpose
@@ -634,7 +636,7 @@ CH-018 will build it.
 
 ## SC-017-05 — The Price of Being Right
 
-**Location:** council house → damaged outer approach / view of emergency movement.  
+**Location:** council house → damaged outer approach / view of emergency movement.
 **Characters:** Red, Tavian, Maelis, Brynn; Hesk may remain at council or exit under supervision.
 
 ### Purpose
@@ -685,7 +687,7 @@ Red sees the damaged route / evacuation flow / treatment traffic and chooses not
 
 ## SC-017-06 — My Choice, My Repair
 
-**Location:** damaged outer approach / emergency route board or staging point.  
+**Location:** damaged outer approach / emergency route board or staging point.
 **Characters:** Red Jackal, Brynn, Tavian, Maelis; Hesk remains politically relevant but does not control this ending.
 
 ### Purpose

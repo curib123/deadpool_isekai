@@ -238,7 +238,7 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO SCENE ARCHITECT AND R
 - If he stops playing, is the serious switch restraint removal rather than a power-up?
 
 ## POV / Prose
-- close first-person limited centered on Rook throughout?
+- distant third-person limited focused on Rook throughout?
 - no head-hopping?
 - no omniscient information Rook could not know?
 - simple, natural, movie-like English?

@@ -1,8 +1,6 @@
-Chapter 20 — The Last Lure
+# Chapter 20 — The Last Lure
 
-Mud had dried on Red's boots by the time he got back from Broken North. Someone put a cup in his hand. Maelis put a ledger beside it.
-
-Red looked at the ledger. Then at her. "I still cannot read Veyran."
+Mud had dried on Rook's boots by the time he got back from Broken North. Someone put a cup in his hand. Maelis put a ledger beside it. Rook looked at the ledger. Then at her. "I still cannot read Veyran."
 
 "I know."
 
@@ -10,9 +8,7 @@ Red looked at the ledger. Then at her. "I still cannot read Veyran."
 
 "It is not for you."
 
-Across the table, Jessa had arranged three stacks. Issue forms. Service records. Returns. His contribution was apparently standing nearby while literate people weaponized inventory. Maelis pushed another record toward Jessa. "Again."
-
-Jessa checked the issue entry, then the service ledger. Her finger stopped. Back. Forward. Back again. Maelis noticed. "What?" Jessa pulled a second sheet from the issue stack. Then a third. Her face changed. "These were issued together."
+Across the table, Jessa had arranged three stacks. Issue forms. Service records. Returns. His contribution was apparently standing nearby while literate people weaponized inventory. Maelis pushed another record toward Jessa. "Again." Jessa checked the issue entry, then the service ledger. Her finger stopped. Back. Forward. Back again. Maelis noticed. "What?" Jessa pulled a second sheet from the issue stack. Then a third. Her face changed. "These were issued together."
 
 "What?"
 
@@ -36,19 +32,13 @@ Maelis leaned closer. "Could the service record be incomplete?"
 
 "Yes."
 
-Jessa checked again. "Not like this." Red looked between them. "Explain it to the illiterate person."
-
-Jessa swallowed. "When supplies leave Guild storage, there is an issue record. If a crew uses them, there should be a service entry. If they come back, there should be a return. If they are lost, there should be a loss form."
+Jessa checked again. "Not like this." Rook looked between them. "Explain it to the illiterate person." Jessa swallowed. "When supplies leave Guild storage, there is an issue record. If a crew uses them, there should be a service entry. If they come back, there should be a return. If they are lost, there should be a loss form."
 
 "And here?"
 
 "They leave."
 
-She tapped the first page. "Then stop." Maelis asked, "How much?" Jessa counted again. "Enough for multiple high-strength services. If matching housings are still usable, enough for one emergency sequence."
-
-The room went quiet. That was enough hidden material to wreck the Broken North plan. Maelis said, "Where would material like that go if the Roadmaster held it outside ordinary stock?"
-
-Jessa did not answer. Maelis waited. So did Red. "There is a contingency class."
+She tapped the first page. "Then stop." Maelis asked, "How much?" Jessa counted again. "Enough for multiple high-strength services. If matching housings are still usable, enough for one emergency sequence." The room went quiet. That was enough hidden material to wreck the Broken North plan. Maelis said, "Where would material like that go if the Roadmaster held it outside ordinary stock?" Jessa did not answer. Maelis waited. So did Rook. "There is a contingency class."
 
 "Where recorded?"
 
@@ -70,11 +60,7 @@ Jessa closed her eyes. "Storehouse control book."
 
 "No."
 
-Of course. The fallback ended at one name. Jessa pulled a blank reconciliation sheet toward herself.
-
-Her hand stopped above it. Maelis saw. "If you identify the contingency entry, this stops being an internal discrepancy."
-
-Jessa nodded. "It becomes evidence the reserve was withheld from shared emergency inventory." Another nod. "If that is what the records show."
+Of course. The fallback ended at one name. Jessa pulled a blank reconciliation sheet toward herself. Her hand stopped above it. Maelis saw. "If you identify the contingency entry, this stops being an internal discrepancy." Jessa nodded. "It becomes evidence the reserve was withheld from shared emergency inventory." Another nod. "If that is what the records show."
 
 Jessa looked up. "What happens to my Guild position?" Maelis did not soften it. "I do not know."
 
@@ -86,7 +72,7 @@ Jessa looked up. "What happens to my Guild position?" Maelis did not soften it. 
 
 "I know."
 
-Jessa looked at him. Red kept his mouth shut. For once, useful. "If I sign this, he will know."
+Jessa looked at him. Rook kept his mouth shut. For once, useful. "If I sign this, he will know."
 
 "Yes," Maelis said.
 
@@ -94,11 +80,7 @@ Jessa looked at him. Red kept his mouth shut. For once, useful. "If I sign this,
 
 "I can show that numbers do not reconcile. I can show stock left ordinary inventory. I can show documented work does not account for it."
 
-She tapped the blank sheet. "I cannot explain what a Roadmaster contingency code means inside Guild practice as well as you can." Jessa said nothing.
-
-Maelis added: "I will not write your explanation for you." Good. Neither would Red. Footsteps passed outside. A militia horn sounded from the lower quarter. The migration had not paused for her decision.
-
-Jessa picked up the pen. Her hand shook. She wrote anyway. A stock reference. A contingency classification. Her initials. Then she turned the sheet. "This code means retained Roadmaster emergency stock." Maelis looked at it. "And the missing issue entries?"
+She tapped the blank sheet. "I cannot explain what a Roadmaster contingency code means inside Guild practice as well as you can." Jessa said nothing. Maelis added: "I will not write your explanation for you." Good. Neither would Rook. Footsteps passed outside. A militia horn sounded from the lower quarter. The migration had not paused for her decision. Jessa picked up the pen. Her hand shook. She wrote anyway. A stock reference. A contingency classification. Her initials. Then she turned the sheet. "This code means retained Roadmaster emergency stock." Maelis looked at it. "And the missing issue entries?"
 
 "If the control book matches, they were moved there."
 
@@ -108,27 +90,19 @@ Jessa picked up the pen. Her hand shook. She wrote anyway. A stock reference. A 
 
 "Should it have been after the emergency control order?"
 
-Jessa hesitated. Then nodded. "Yes." That mattered. Maelis copied the sheet and called for a militia runner. The preservation order arrived twelve minutes later.
-
-Not an arrest. Temporary shared custody of identified diversion stock and related records until review. Less dramatic than seizing a storehouse.
-
-Much harder to argue with. Jessa read it twice. Then: "I can identify the cage."
+Jessa hesitated. Then nodded. "Yes." That mattered. Maelis copied the sheet and called for a militia runner. The preservation order arrived twelve minutes later. Not an arrest. Temporary shared custody of identified diversion stock and related records until review. Less dramatic than seizing a storehouse. Much harder to argue with. Jessa read it twice. Then: "I can identify the cage."
 
 Maelis folded the copy. "You do not have to come."
 
 "Yes."
 
-No pause. "I do." Only then did Red moved away from the wall. "If someone dislikes that choice, they can dislike it from a safe distance."
-
-Jessa looked at him. Maelis did too. "What?"
+No pause. "I do." Only then did Rook moved away from the wall. "If someone dislikes that choice, they can dislike it from a safe distance." Jessa looked at him. Maelis did too. "What?"
 
 "Keep the distance part," Maelis said.
 
-Red could work with that. The Road Guild storehouse sat behind the main hall. Two militia guards came with them.
+Rook could work with that. The Road Guild storehouse sat behind the main hall. Two militia guards came with them. Witnesses, not an army. Jessa led them through the receiving floor. Workers stopped when they recognized her.
 
-Witnesses, not an army. Jessa led them through the receiving floor. Workers stopped when they recognized her.
-
-Then Maelis. Then Red.
+Then Maelis. Then Rook.
 
 *Interesting order.*
 
@@ -138,7 +112,7 @@ The lure-material cage was behind a second interior gate. Jessa pointed. "That o
 
 "No."
 
-He looked at Jessa. She held his eyes. "Open it," Maelis said. The storekeeper reached for the key. A voice behind them said: "Do not." Hesk. Red's eyes shifted toward the doorway.
+He looked at Jessa. She held his eyes. "Open it," Maelis said. The storekeeper reached for the key. A voice behind them said: "Do not." Hesk. Rook's eyes shifted toward the doorway.
 
 *Impeccable timing.*
 
@@ -174,9 +148,7 @@ No denial. Maelis asked, "How much?" "Enough."
 
 "For what?"
 
-Hesk looked at the cage. "If Broken North fails, enough to restore pressure around the main road." Jessa went pale.
-
-Red watched him. "You mean push it back toward the outer routes."
+Hesk looked at the cage. "If Broken North fails, enough to restore pressure around the main road." Jessa went pale. Rook watched him. "You mean push it back toward the outer routes."
 
 "I mean keep Greywake's lifeline open."
 
@@ -194,11 +166,7 @@ No cruelty. He had arithmetic. Maelis said, "That pattern is no longer authorize
 
 "With what time?"
 
-Hesk stepped closer. "The Main Caravan Road carries grain, medicine, winter stores, trade, reinforcement. If that road dies, outer homesteads die too."
-
-Jessa said, "So you kept enough to change the routes back without telling anyone." "I kept enough to make a decision if everyone else became too afraid to make one." Same man.
-
-Same road. Same choice. Maelis nodded toward the gate. "Open it." The storekeeper tightened his hand around the key. Hesk said, "No." Nobody moved. Then Jessa did. She stepped beside the storekeeper and pointed at the tag beneath the lock plate. "That tag matches the contingency reference."
+Hesk stepped closer. "The Main Caravan Road carries grain, medicine, winter stores, trade, reinforcement. If that road dies, outer homesteads die too." Jessa said, "So you kept enough to change the routes back without telling anyone." "I kept enough to make a decision if everyone else became too afraid to make one." Same man. Same road. Same choice. Maelis nodded toward the gate. "Open it." The storekeeper tightened his hand around the key. Hesk said, "No." Nobody moved. Then Jessa did. She stepped beside the storekeeper and pointed at the tag beneath the lock plate. "That tag matches the contingency reference."
 
 Hesk looked at her. "Jessa." Her shoulders tightened. "You do not understand what this means."
 
@@ -218,19 +186,11 @@ Hesk looked at her. "Jessa." Her shoulders tightened. "You do not understand wha
 
 "Then do not pretend paperwork makes you qualified to decide what survives."
 
-Jessa's face went white. Her hand stayed up. "My job is the paperwork." Hesk's expression hardened. "You have family." That hit. "You have siblings depending on that Guild wage."
-
-Maelis started to speak. Jessa raised one hand. Maelis stopped. This part belonged to her. Hesk continued. "I signed your position when no one wanted another debt family on permanent payroll. I kept you off field crews. I gave you stability."
-
-Jessa's breathing changed. "I know."
+Jessa's face went white. Her hand stayed up. "My job is the paperwork." Hesk's expression hardened. "You have family." That hit. "You have siblings depending on that Guild wage." Maelis started to speak. Jessa raised one hand. Maelis stopped. This part belonged to her. Hesk continued. "I signed your position when no one wanted another debt family on permanent payroll. I kept you off field crews. I gave you stability." Jessa's breathing changed. "I know."
 
 "Then think before you destroy it."
 
-The storehouse became very still. Jessa looked at the cage. Then the ledger. Then Hesk. "I did think." Her voice shook. She opened the reconciliation sheet. "These issue entries do not close. These service records do not account for the material. There is no ordinary return."
-
-She pointed. "The contingency tag matches the missing stock class. It was not included in shared emergency inventory after the order."
-
-Hesk's jaw tightened. "Give me the sheet."
+The storehouse became very still. Jessa looked at the cage. Then the ledger. Then Hesk. "I did think." Her voice shook. She opened the reconciliation sheet. "These issue entries do not close. These service records do not account for the material. There is no ordinary return." She pointed. "The contingency tag matches the missing stock class. It was not included in shared emergency inventory after the order." Hesk's jaw tightened. "Give me the sheet."
 
 "No."
 
@@ -238,59 +198,37 @@ Hesk's jaw tightened. "Give me the sheet."
 
 "No."
 
-One Guild man moved toward her. Red stepped between them. That was all. He stopped. The others stopped too. Nobody knew exactly what Red would do if they kept moving.
-
-Useful uncertainty. Hesk looked at him. "This is a Guild matter."
+One Guild man moved toward her. Rook stepped between them. That was all. He stopped. The others stopped too. Nobody knew exactly what Rook would do if they kept moving. Useful uncertainty. Hesk looked at him. "This is a Guild matter."
 
 "No."
 
 "It does not concern you."
 
-Red looked at Jessa. "She made it concern me." Not because she needed permission. Because she had already chosen. One loyalist moved around the side anyway and grabbed for the ledger. Maelis pulled it back.
+Rook looked at Jessa. "She made it concern me." Not because she needed permission. Because she had already chosen. One loyalist moved around the side anyway and grabbed for the ledger. Maelis pulled it back. He caught her sleeve. Rook removed his hand. Not gently. Not enough to break anything. Another loyalist shoved a militia guard. The room moved. The storekeeper backed away. Jessa grabbed the stock-reference sheet. Maelis secured the issue ledger. Hesk reached for the storehouse control book on a side desk. Jessa saw it. "That's the contingency book!"
 
-He caught her sleeve. Red removed his hand. Not gently. Not enough to break anything. Another loyalist shoved a militia guard. The room moved. The storekeeper backed away. Jessa grabbed the stock-reference sheet. Maelis secured the issue ledger.
+Hesk took the service key and moved for the side passage. Rook started after him, but one loyalist reached for the cage key while another grabbed the records. The inner gate began closing between the witnesses and the reserve stock.
 
-Hesk reached for the storehouse control book on a side desk. Jessa saw it. "That's the contingency book!"
+Rook picked up a loose packing block and threw it toward the hinge. He missed the gap he meant to hit.
 
-Hesk took it and moved for the side passage. Red could have gone after him immediately. He did not.
+The block struck the lower rail, bounced, and lodged behind the hinge. The gate stopped halfway with a metal shriek.
 
-One loyalist was trying to take the cage key. Another was grabbing records. Too many things moved at once.
+"Now," Maelis said.
 
-Red could have destroyed the cage. The stock. The records. Easy. It would also destroy the plan and the proof. So Red did not. The inner metal gate started closing between them and the cage. Red pictured a wedge. Small.
+The militia guard shoved it open. The storekeeper dropped the key, and Jessa caught it before the man reached down. Rook left the block jammed where it was. A guard took the gate while he turned toward the side passage.
 
-Simple. A pale-grey block appeared at the lower hinge. The gate slammed into it and stopped.
+Maelis pointed. "Open it." Jessa did. Inside were sealed reservoirs, pins, vent parts, and marked containers of concentrated diversion compound. Nothing mystical. Ordinary equipment hidden in the right place to become dangerous. Maelis looked at the tags. "Match them." Jessa began reading numbers. The storekeeper joined her. One loyalist tried to leave with a packet under his coat. The militia stopped him. The others stopped fighting. Not surrendered. Stopped choosing Hesk over the order. Hesk was gone. Rook went through the side passage. The outer yard opened ahead. He had crossed most of it. A side gate stood open beyond him. He looked back once.
 
-No strain. No wobble. It simply stayed where Red put it. "Now!" Maelis shouted. The militia guard shoved the gate back. The storekeeper dropped the key. Jessa caught it.
+Hesk disappeared behind a wagon shed. Rook could follow him or return to the storehouse, where three men were still trying to seize the records and reserve stock. His shoulder hurt when he ran, and Hesk had a head start.
 
-Red released the wedge once the gate was clear. One utility. Enough because the problem was solved.
+Maelis called his name from inside. Rook went back. The chase was lost. The evidence did not have to be.
 
-Maelis pointed. "Open it." Jessa did. Inside were sealed reservoirs, pins, vent parts, and marked containers of concentrated diversion compound. Nothing mystical. Ordinary equipment hidden in the right place to become dangerous.
-
-Maelis looked at the tags. "Match them." Jessa began reading numbers. The storekeeper joined her. One loyalist tried to leave with a packet under his coat. The militia stopped him.
-
-The others stopped fighting. Not surrendered. Stopped choosing Hesk over the order. Hesk was gone. Red went through the side passage. The outer yard opened ahead. He had crossed most of it. A side gate stood open beyond him. He looked back once.
-
-Distance was not the problem. Red could have ended the chase. Then curiosity cost him a second.
-
-What was he running toward? Hesk vanished behind a wagon shed. Maelis called his name from inside.
-
-Red looked toward the empty gate. Then back toward the storehouse. Jessa. Records. Stock. Three men who had just tried to seize evidence. Red went back. Prioritization. Curiosity had still cost the second.
-
-Inside, Jessa sat on a crate with the reconciliation sheet. The stock was being counted under militia witness. The control book was gone.
-
-Not everything depended on it. Jessa had copied enough references. Maelis had issue forms. The storekeeper confirmed physical tags. Several people heard Hesk acknowledge the reserve. Enough to prove it existed.
-
-Maelis looked at Jessa. "Can you sign an explanation of the contingency codes?" Jessa stared at the paper. "Yes."
+Inside, Jessa sat on a crate with the reconciliation sheet. The stock was being counted under militia witness. The control book was gone. Not everything depended on it. Jessa had copied enough references. Maelis had issue forms. The storekeeper confirmed physical tags. Several people heard Hesk acknowledge the reserve. Enough to prove it existed. Maelis looked at Jessa. "Can you sign an explanation of the contingency codes?" Jessa stared at the paper. "Yes."
 
 "You do not have to do it now."
 
 "Yes."
 
-She looked toward the passage. Then down. "I do." She signed. No speech. No transformation into a fearless person. Her hand still shook. Maelis took the page carefully. Jessa looked at her. "Am I fired?"
-
-Maelis did not lie. "I don't know." Jessa nodded. A militia guard returned from outside. "No sign of Hesk." Maelis asked, "What did he take?" "Control book."
-
-Jessa looked up. "Anything else?" The storekeeper checked the wall rack. His face changed. "What?"
+She looked toward the passage. Then down. "I do." She signed. No speech. No transformation into a fearless person. Her hand still shook. Maelis took the page carefully. Jessa looked at her. "Am I fired?" Maelis did not lie. "I don't know." Jessa nodded. A militia guard returned from outside. "No sign of Hesk." Maelis asked, "What did he take?" "Control book." Jessa looked up. "Anything else?" The storekeeper checked the wall rack. His face changed. "What?"
 
 "Roadmaster field-service key."
 
@@ -298,14 +236,10 @@ Jessa stood too fast. "What does it open?"
 
 "Standard Guild lure housings keyed to Roadmaster override."
 
-Red looked at her. "Can he activate a lure with that?"
+Rook looked at her. "Can he activate a lure with that?"
 
 "Not by itself."
 
-Good. "He still needs a charged unit or a primed site." Less good. The storekeeper said, "One field site on the active diversion line still uses the older Roadmaster service housing." Maelis looked at him. "Where?"
-
-He named a sector Red did not recognize. Jessa did. Her face tightened. "Still inside the active line."
-
-Not a new network. One existing point. Enough. Maelis sent the location to Brynn and Tavian immediately. Then she looked at the secured stock. Most of Hesk's fallback was here.
+Good. "He still needs a charged unit or a primed site." Less good. The storekeeper said, "One field site on the active diversion line still uses the older Roadmaster service housing." Maelis looked at him. "Where?" He named a sector Rook did not recognize. Jessa did. Her face tightened. "Still inside the active line." Not a new network. One existing point. Enough. Maelis sent the location to Brynn and Tavian immediately. Then she looked at the secured stock. Most of Hesk's fallback was here.
 
 The records were here. Jessa's signed explanation was here. Hesk was not. Outside, another horn sounded. Longer. Closer. They had the stock. They had the proof. Hesk still had one key. And somewhere ahead of the migration, there was still one lure he could reach.

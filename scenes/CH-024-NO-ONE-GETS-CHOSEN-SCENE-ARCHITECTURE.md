@@ -1,13 +1,15 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-024 Scene Architecture — No One Gets Chosen
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-024 — No One Gets Chosen  
-**Movement:** VI — Greywake Holds  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-024 MANUSCRIPT CANON  
-**Final Scene Count:** 6  
-**POV:** Red Jackal first person  
-**Primary Cast:** Red Jackal, Rovan Hesk, Maelis Orra, Jessa Vale, Tavian Rook, Captain Brynn Alder  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-024 — No One Gets Chosen
+**Movement:** VI — Greywake Holds
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-024 MANUSCRIPT CANON
+**Final Scene Count:** 6
+**POV:** Red Jackal first person
+**Primary Cast:** Red Jackal, Rovan Hesk, Maelis Orra, Jessa Vale, Tavian Rook, Captain Brynn Alder
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -26,11 +28,11 @@ All chapter-specific mystery, reveal, supporting-character agency, scene order, 
 
 # Battle / Scene QA Amplification Override — 2026-09-20
 
-**Battle ID:** V1-B09  
-**Scale:** CLIMAX — human/tactical second half  
-**Core matchup:** Red + Brynn + Tavian + Maelis + Jessa vs Hesk's active lure intervention while migration remains live  
-**Human topology:** 5-person coalition vs 1 non-superhuman antagonist with operational access  
-**Environmental topology:** coalition vs wrong-route branch still being pulled toward outer homesteads  
+**Battle ID:** V1-B09
+**Scale:** CLIMAX — human/tactical second half
+**Core matchup:** Red + Brynn + Tavian + Maelis + Jessa vs Hesk's active lure intervention while migration remains live
+**Human topology:** 5-person coalition vs 1 non-superhuman antagonist with operational access
+**Environmental topology:** coalition vs wrong-route branch still being pulled toward outer homesteads
 **Required role ownership:**
 - Red: physical interception of Hesk + one Tavian-called temporary fork guide.
 - Brynn: emergency authority, key seizure, detention.
@@ -433,7 +435,7 @@ CH-025 owns those outcomes.
 
 ## SC-024-01 — The Branch That Should Be Gone
 
-**Location:** Broken North observation/fork line.  
+**Location:** Broken North observation/fork line.
 **Characters:** Red, Tavian, Brynn; Maelis/Jessa join through the service-response route.
 
 ### Purpose
@@ -458,7 +460,7 @@ The six-person climax group moves/arrives at the old-service lure site before th
 
 ## SC-024-02 — Roadmaster
 
-**Location:** old-service lure site / critical fork.  
+**Location:** old-service lure site / critical fork.
 **Characters:** Red, Hesk, Maelis, Jessa, Tavian, Brynn.
 
 ### Purpose
@@ -485,7 +487,7 @@ Hesk attempts to retain/control access long enough for the outer branch to commi
 
 ## SC-024-03 — You Do Not Get to Choose Them
 
-**Location:** same site / housing platform / route fork.  
+**Location:** same site / housing platform / route fork.
 **Characters:** same.
 
 ### Purpose
@@ -521,7 +523,7 @@ Hesk has lost immediate physical access to the lure, but the migration branch ha
 
 ## SC-024-04 — Keep the Fork
 
-**Location:** critical physical split between Broken North and outer-homestead route.  
+**Location:** critical physical split between Broken North and outer-homestead route.
 **Characters:** Red, Tavian, Brynn, Maelis, Jessa; Hesk detained at/near site.
 
 ### Purpose
@@ -553,7 +555,7 @@ The branch hesitates/angles back enough for lure neutralization and route moment
 
 ## SC-024-05 — Neutral
 
-**Location:** old-service housing + visible route fork.  
+**Location:** old-service housing + visible route fork.
 **Characters:** same.
 
 ### Purpose
@@ -589,7 +591,7 @@ Hesk has lost operational control.
 
 ## SC-024-06 — No One Gets Chosen
 
-**Location:** final fork / sightline across Broken North and outer-homestead route.  
+**Location:** final fork / sightline across Broken North and outer-homestead route.
 **Characters:** same.
 
 ### Purpose
@@ -621,28 +623,28 @@ Stop before the aftermath hearing.
 
 # 19. Cause-and-Effect Chain
 
-CH-023 physical line holds  
-→ renewed outer pull persists  
-→ Tavian identifies final old-service source/fork  
-→ six-person climax group reaches site  
-→ Hesk is physically present with established key/housing  
-→ Hesk refuses to yield access  
-→ Jessa authenticates live service change  
-→ Tavian confirms stronger outer pull  
-→ Brynn removes Hesk from housing  
-→ Red helps block/intercept Hesk  
-→ key/access is seized  
-→ wrong branch still needs immediate correction  
-→ Red chooses route over personal confrontation  
-→ one final Stage I fork guide appears  
-→ guide buys seconds  
-→ Jessa/Brynn neutralize housing at Tavian's timing  
-→ Maelis preserves evidence  
-→ wrong pull weakens  
-→ existing Broken North momentum reclaims trailing branch  
-→ migration commits to prepared corridor  
-→ outer homesteads are not deliberately sacrificed  
-→ Hesk loses operational control  
+CH-023 physical line holds
+→ renewed outer pull persists
+→ Tavian identifies final old-service source/fork
+→ six-person climax group reaches site
+→ Hesk is physically present with established key/housing
+→ Hesk refuses to yield access
+→ Jessa authenticates live service change
+→ Tavian confirms stronger outer pull
+→ Brynn removes Hesk from housing
+→ Red helps block/intercept Hesk
+→ key/access is seized
+→ wrong branch still needs immediate correction
+→ Red chooses route over personal confrontation
+→ one final Stage I fork guide appears
+→ guide buys seconds
+→ Jessa/Brynn neutralize housing at Tavian's timing
+→ Maelis preserves evidence
+→ wrong pull weakens
+→ existing Broken North momentum reclaims trailing branch
+→ migration commits to prepared corridor
+→ outer homesteads are not deliberately sacrificed
+→ Hesk loses operational control
 → CH-025 aftermath becomes possible.
 
 # 20. Gate 8 Chapter-Specific Checklist

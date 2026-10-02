@@ -1,13 +1,15 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-015 Scene Architecture — One Stake Too Many
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-015 — One Stake Too Many  
-**Movement:** IV — Necessary Sacrifices  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-015 MANUSCRIPT CANON  
-**Final Scene Count:** 6  
-**POV:** Red Jackal first person  
-**Primary Cast:** Red Jackal, Kellan Dorr, Tavian Rook, Road Guild personnel  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-015 — One Stake Too Many
+**Movement:** IV — Necessary Sacrifices
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-015 MANUSCRIPT CANON
+**Final Scene Count:** 6
+**POV:** Red Jackal first person
+**Primary Cast:** Red Jackal, Kellan Dorr, Tavian Rook, Road Guild personnel
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -518,7 +520,7 @@ The ending must feel wrong/unsettling, not victorious.
 
 ## SC-015-01 — The Stake Above the Farms
 
-**Location:** old drainage/retaining cut on the upper approach above the timber-road junction, below the east outer homesteads.  
+**Location:** old drainage/retaining cut on the upper approach above the timber-road junction, below the east outer homesteads.
 **Characters:** Red Jackal, Kellan Dorr, Tavian Rook, Road Guild field personnel.
 
 ### Purpose
@@ -567,7 +569,7 @@ The lure is confirmed active/influential—but the field mandate still prohibits
 
 ## SC-015-02 — Mapping Only
 
-**Location:** same lure site / upper approach.  
+**Location:** same lure site / upper approach.
 **Characters:** same.
 
 ### Purpose
@@ -614,7 +616,7 @@ The field group has a clear conflict:
 
 ## SC-015-03 — While We Wait
 
-**Location:** upper farm approach / lure cut.  
+**Location:** upper farm approach / lure cut.
 **Characters:** same.
 
 ### Purpose
@@ -664,7 +666,7 @@ More distant sign suggests the local problem will continue.
 
 ## SC-015-04 — You Heard the Warning
 
-**Location:** back at the lure recess after the localized pressure.  
+**Location:** back at the lure recess after the localized pressure.
 **Characters:** same.
 
 ### Purpose
@@ -725,7 +727,7 @@ Red crosses from argument into unauthorized action.
 
 ## SC-015-05 — One Stake Too Many
 
-**Location:** lure service recess / immediate upper approach.  
+**Location:** lure service recess / immediate upper approach.
 **Characters:** same.
 
 ### Purpose
@@ -801,7 +803,7 @@ No major backflow is yet visible.
 
 ## SC-015-06 — The Calls Move
 
-**Location:** same upper approach immediately after lure shutdown.  
+**Location:** same upper approach immediately after lure shutdown.
 **Characters:** same.
 
 ### Purpose

@@ -1,3 +1,5 @@
+> **Current-model override — 2026-10-02:** Rook Vane, distant third-person limited, Fortune Distortion only. Old Play Logic, automatic restoration, time-pause instructions and retired M/F dependencies are historical and must be redesigned before use. Current chapter maps and Mystery Bible govern execution. Future slots remain provisional.
+
 # Destination → Volume → Chapter Planning
 
 **Owners:** A060-A081
@@ -352,8 +354,8 @@ Gate 7 QA:
 
 `qa/VOLUME-002-MERROWGATE-CHAPTER-ROADMAP-QA.md`
 
-**Locked count:** 24 chapters  
-**Locked range:** CH-027 through CH-050  
+**Locked count:** 24 chapters
+**Locked range:** CH-027 through CH-050
 **F-010:** planned for CH-038 — NOT YET PLANTED
 
 **CH-027 Scene Architecture:** PASS — GATE 8 / 5 scenes locked.

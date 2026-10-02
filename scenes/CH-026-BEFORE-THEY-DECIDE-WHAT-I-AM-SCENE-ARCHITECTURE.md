@@ -1,14 +1,16 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-026 Scene Architecture — Before They Decide What I Am
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-026 — Before They Decide What I Am  
-**Movement:** VII — What Greywake Counts  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-026 MANUSCRIPT CANON  
-**Final Scene Count:** 6  
-**POV:** Red Jackal first person  
-**Primary Cast:** Red Jackal, Maelis Orra, Tavian Rook, Captain Brynn Alder, Sela Arven, Kellan Dorr, Jessa Vale  
-**Antagonist Pressure:** None active; Hesk's local defeat stands  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-026 — Before They Decide What I Am
+**Movement:** VII — What Greywake Counts
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-026 MANUSCRIPT CANON
+**Final Scene Count:** 6
+**POV:** Red Jackal first person
+**Primary Cast:** Red Jackal, Maelis Orra, Tavian Rook, Captain Brynn Alder, Sela Arven, Kellan Dorr, Jessa Vale
+**Antagonist Pressure:** None active; Hesk's local defeat stands
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -355,7 +357,7 @@ Do not reopen the main local conflict.
 
 ## SC-026-01 — Greywake After
 
-**Location:** Greywake damaged approaches / market / road-work sightline.  
+**Location:** Greywake damaged approaches / market / road-work sightline.
 **Characters:** Red; Brynn/Tavian may intersect during inspection/work.
 
 ### Purpose
@@ -383,7 +385,7 @@ Red understands Greywake can continue without him standing at every problem.
 
 ## SC-026-02 — You Are Still a Patient
 
-**Location:** treatment house.  
+**Location:** treatment house.
 **Characters:** Red, Sela, Kellan.
 
 ### Purpose
@@ -407,7 +409,7 @@ Red leaves the treatment house medically capable of ordinary travel with warning
 
 ## SC-026-03 — Put the Rest in Writing
 
-**Location:** Ledger/council records area.  
+**Location:** Ledger/council records area.
 **Characters:** Red, Maelis, Jessa.
 
 ### Purpose
@@ -431,7 +433,7 @@ Maelis/Jessa remain in Greywake with work that matters independently of Red.
 
 ## SC-026-04 — Reliable Enough
 
-**Location:** militia yard / repaired route marker / Greywake gate approach.  
+**Location:** militia yard / repaired route marker / Greywake gate approach.
 **Characters:** Red, Tavian, Brynn.
 
 ### Purpose
@@ -455,7 +457,7 @@ Red is practically and institutionally free to leave.
 
 ## SC-026-05 — Too Many Names
 
-**Location:** market/gate/river-landing edge while Red prepares to depart.  
+**Location:** market/gate/river-landing edge while Red prepares to depart.
 **Characters:** Red; supporting cast/public may appear briefly.
 
 ### Purpose
@@ -498,7 +500,7 @@ Red starts toward the exit.
 
 ## SC-026-06 — Before They Decide What I Am
 
-**Location:** Greywake gate / road edge / river-landing sightline into wider Hollow March.  
+**Location:** Greywake gate / road edge / river-landing sightline into wider Hollow March.
 **Characters:** Red; brief farewells from authorized cast if useful.
 
 ### Purpose
@@ -531,18 +533,18 @@ Suggested final-line direction, not final prose:
 
 # 15. Cause-and-Effect Chain
 
-CH-025 reform becomes active  
-→ Greywake reconstruction visibly continues  
-→ treatment confirms Red is recovering but not reset  
-→ Kellan/Sela remain in their own lives  
-→ Maelis/Jessa remain with evidence/records work  
-→ Tavian/Brynn remain with ecology/public safety  
-→ emergency restriction on Red no longer applies  
-→ public expectations accumulate around incompatible labels  
-→ Red recognizes staying would harden chosen help into assigned identity  
-→ he prepares ordinary travel supplies  
-→ no companion or destination is selected  
-→ Red leaves Greywake by choice  
+CH-025 reform becomes active
+→ Greywake reconstruction visibly continues
+→ treatment confirms Red is recovering but not reset
+→ Kellan/Sela remain in their own lives
+→ Maelis/Jessa remain with evidence/records work
+→ Tavian/Brynn remain with ecology/public safety
+→ emergency restriction on Red no longer applies
+→ public expectations accumulate around incompatible labels
+→ Red recognizes staying would harden chosen help into assigned identity
+→ he prepares ordinary travel supplies
+→ no companion or destination is selected
+→ Red leaves Greywake by choice
 → Greywake Arc closes.
 
 # 16. Gate 8 Checklist

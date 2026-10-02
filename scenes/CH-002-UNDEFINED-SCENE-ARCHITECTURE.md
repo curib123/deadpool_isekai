@@ -1,11 +1,13 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-002 Scene Architecture — Undefined
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-002 — Undefined  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-002 MANUSCRIPT AUTHORIZED  
-**Final Scene Count:** 5  
-**POV:** Red Jackal first person  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-002 — Undefined
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-002 MANUSCRIPT AUTHORIZED
+**Final Scene Count:** 5
+**POV:** Red Jackal first person
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -106,8 +108,8 @@ His Earth identity is not required for CH-002 intake and is not automatically di
 
 ## SC-002-01 — The Gate Has Questions
 
-**Approximate Time:** Shortly after CH-001, late morning / early daylight.  
-**Location:** Greywake outer approach, timber palisade, gate lane, river-fog edge.  
+**Approximate Time:** Shortly after CH-001, late morning / early daylight.
+**Location:** Greywake outer approach, timber palisade, gate lane, river-fog edge.
 **Characters Present:** Red Jackal, two Greywake gate guards, gate intake attendant.
 
 ### Scene Purpose
@@ -250,8 +252,8 @@ He is directed to the gate screening position for SC-002-02.
 
 ## SC-002-02 — No Record — Gate Registry Seal
 
-**Approximate Time:** Minutes after first contact.  
-**Location:** Greywake gate screening alcove beside the entry lane.  
+**Approximate Time:** Minutes after first contact.
+**Location:** Greywake gate screening alcove beside the entry lane.
 **Characters Present:** Red Jackal, gate guards, gate intake attendant.
 
 ### Scene Purpose
@@ -373,8 +375,8 @@ Red Jackal is moved into the adjacent intake post for SC-002-03.
 
 ## SC-002-03 — Undefined — Certified Identity Slate
 
-**Approximate Time:** 10–20 minutes after arrival at the gate.  
-**Location:** Greywake intake post immediately inside/alongside the gate structure, not yet general settlement access.  
+**Approximate Time:** 10–20 minutes after arrival at the gate.
+**Location:** Greywake intake post immediately inside/alongside the gate structure, not yet general settlement access.
 **Characters Present:** Red Jackal, guild intake clerk, one gate guard.
 
 ### Scene Purpose
@@ -546,8 +548,8 @@ Captain Brynn Alder arrives in SC-002-04.
 
 ## SC-002-04 — Captain's Discretion
 
-**Approximate Time:** 20–35 minutes after initial arrival.  
-**Location:** Greywake intake post / gate command desk.  
+**Approximate Time:** 20–35 minutes after initial arrival.
+**Location:** Greywake intake post / gate command desk.
 **Characters Present:** Red Jackal, Captain Brynn Alder, guild intake clerk, one gate guard, Maelis Orra as a nearby Ledger observer.
 
 ### Scene Purpose
@@ -680,8 +682,8 @@ The clerk prepares a manual temporary entrant marker/pass for SC-002-05 while Ma
 
 ## SC-002-05 — Inside, Technically
 
-**Approximate Time:** 35–50 minutes after gate arrival.  
-**Location:** Inner gate threshold and Greywake outer market edge.  
+**Approximate Time:** 35–50 minutes after gate arrival.
+**Location:** Inner gate threshold and Greywake outer market edge.
 **Characters Present:** Red Jackal, Captain Brynn Alder briefly, guild intake clerk, Maelis Orra briefly, passing unnamed residents/travelers.
 
 ### Scene Purpose

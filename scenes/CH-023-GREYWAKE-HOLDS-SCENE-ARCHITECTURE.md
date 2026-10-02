@@ -1,14 +1,16 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-023 Scene Architecture — Greywake Holds
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-023 — Greywake Holds  
-**Movement:** VI — Greywake Holds  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-023 MANUSCRIPT CANON  
-**Final Scene Count:** 6  
-**POV:** Red Jackal first person  
-**Primary Cast:** Red Jackal, Tavian Rook, Captain Brynn Alder, Greywake militia, work crews  
-**Off-Screen Only:** Hesk remains off-screen; Maelis, Jessa, Sela, Kellan and civilians do not physically enter CH-023  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-023 — Greywake Holds
+**Movement:** VI — Greywake Holds
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-023 MANUSCRIPT CANON
+**Final Scene Count:** 6
+**POV:** Red Jackal first person
+**Primary Cast:** Red Jackal, Tavian Rook, Captain Brynn Alder, Greywake militia, work crews
+**Off-Screen Only:** Hesk remains off-screen; Maelis, Jessa, Sela, Kellan and civilians do not physically enter CH-023
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -27,10 +29,10 @@ All chapter-specific mystery, reveal, supporting-character agency, scene order, 
 
 # Battle / Scene QA Amplification Override — 2026-09-20
 
-**Battle ID:** V1-B08  
-**Scale:** CLIMAX — primary physical battle  
-**Core matchup:** Red Jackal vs territorial predator, embedded inside Greywake defenders vs sustained migration pressure  
-**Initial topology:** Red + coalition vs one major predator + herd compression  
+**Battle ID:** V1-B08
+**Scale:** CLIMAX — primary physical battle
+**Core matchup:** Red Jackal vs territorial predator, embedded inside Greywake defenders vs sustained migration pressure
+**Initial topology:** Red + coalition vs one major predator + herd compression
 **Required simultaneous fronts:**
 1. Red / militia contain the territorial predator without turning the corridor into a kill zone.
 2. Workers/foreman repair the failing Broken North inner lip under live load.
@@ -602,7 +604,7 @@ CH-024 retains:
 
 ## SC-023-01 — Do Not Box It In
 
-**Location:** Broken North main choke / compressed corridor.  
+**Location:** Broken North main choke / compressed corridor.
 **Characters:** Red, Tavian, Brynn, militia, work crews, large territorial predator, migration mass.
 
 ### Purpose
@@ -637,7 +639,7 @@ The predator remains dangerous, but Greywake has established that the objective 
 
 ## SC-023-02 — The Cost of Standing There
 
-**Location:** failing choke edge / work-crew access point.  
+**Location:** failing choke edge / work-crew access point.
 **Characters:** Red, Brynn, militia, work crews; Tavian directing route movement nearby.
 
 ### Purpose
@@ -678,7 +680,7 @@ People are clear, but the main choke is now closer to structural failure.
 
 ## SC-023-03 — Make It Choose
 
-**Location:** main choke / side escape lane / continuing migration line.  
+**Location:** main choke / side escape lane / continuing migration line.
 **Characters:** Red, Tavian, Brynn, militia, work crews.
 
 ### Purpose
@@ -716,7 +718,7 @@ The chapter shifts from predator management to the single structural failure tha
 
 ## SC-023-04 — Hold This One Thing
 
-**Location:** failing inner road shelf / primary choke support.  
+**Location:** failing inner road shelf / primary choke support.
 **Characters:** Red, Tavian, Brynn, protected work crew, militia screen.
 
 ### Purpose
@@ -802,7 +804,7 @@ No further CH-023 manifestation is allowed.
 
 ## SC-023-05 — Greywake Holds
 
-**Location:** reopened main choke + prepared side escape lane.  
+**Location:** reopened main choke + prepared side escape lane.
 **Characters:** Red, Tavian, Brynn, militia, work crews, predator, migration mass.
 
 ### Purpose
@@ -845,7 +847,7 @@ For the first time during the surge, the physical choke is holding long enough t
 
 ## SC-023-06 — The Pull Returns
 
-**Location:** Broken North observation line / view toward outer-homestead fork.  
+**Location:** Broken North observation line / view toward outer-homestead fork.
 **Characters:** Red, Tavian, Brynn, militia/work crews in continuing operation.
 
 ### Purpose

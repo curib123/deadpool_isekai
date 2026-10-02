@@ -1,13 +1,15 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-014 Scene Architecture — Necessary Losses
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-014 — Necessary Losses  
-**Movement:** IV — Necessary Sacrifices  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-014 MANUSCRIPT CANON  
-**Final Scene Count:** 6  
-**POV:** Red Jackal first person  
-**Primary Cast:** Red Jackal, Rovan Hesk, Maelis Orra, Tavian Rook, Captain Brynn Alder, Kellan Dorr, council representatives  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-014 — Necessary Losses
+**Movement:** IV — Necessary Sacrifices
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-014 MANUSCRIPT CANON
+**Final Scene Count:** 6
+**POV:** Red Jackal first person
+**Primary Cast:** Red Jackal, Rovan Hesk, Maelis Orra, Tavian Rook, Captain Brynn Alder, Kellan Dorr, council representatives
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -456,7 +458,7 @@ Once Hesk recounts the isolation history and Tavian explains backflow risk:
 
 ## SC-014-01 — Proof Is Not a Plan
 
-**Location:** Greywake council house, main chamber.  
+**Location:** Greywake council house, main chamber.
 **Characters:** Red Jackal, Hesk, Maelis, Tavian, Brynn, Kellan, council representatives.
 
 ### Purpose
@@ -495,7 +497,7 @@ Hesk is required to explain why he believes immediate shutdown is dangerous.
 
 ## SC-014-02 — The Winter Greywake Almost Died
 
-**Location:** Same council chamber.  
+**Location:** Same council chamber.
 **Characters:** Same.
 
 ### Purpose
@@ -547,7 +549,7 @@ The council now has to examine whether his operational claim—that the system c
 
 ## SC-014-03 — What the Road Carries
 
-**Location:** Council house → adjoining supply/route board or Road Guild yard records display.  
+**Location:** Council house → adjoining supply/route board or Road Guild yard records display.
 **Characters:** Red, Hesk, Maelis, Tavian, Brynn, Kellan, council representatives.
 
 ### Purpose
@@ -600,7 +602,7 @@ The remaining question becomes whether the lure network can be safely changed no
 
 ## SC-014-04 — Not Independent Switches
 
-**Location:** Council map room / migration overlay.  
+**Location:** Council map room / migration overlay.
 **Characters:** Red, Hesk, Maelis, Tavian, Brynn, Kellan, relevant council observers.
 
 ### Purpose
@@ -659,7 +661,7 @@ The room needs a temporary emergency policy while the network is mapped.
 
 ## SC-014-05 — No One Gets to Call Them Necessary
 
-**Location:** Council chamber.  
+**Location:** Council chamber.
 **Characters:** Full chapter cast.
 
 ### Purpose
@@ -734,7 +736,7 @@ Before the council can settle longer-term policy, an urgent outer-route report a
 
 ## SC-014-06 — Before You Touch Anything
 
-**Location:** Council chamber / route board.  
+**Location:** Council chamber / route board.
 **Characters:** Red, Hesk, Maelis, Tavian, Brynn, Kellan, council representatives; messenger/reporting function may be unnamed.
 
 ### Purpose

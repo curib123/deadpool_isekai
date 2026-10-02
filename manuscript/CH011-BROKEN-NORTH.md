@@ -1,7 +1,10 @@
 # Chapter 11 — Broken North
 
-**Status:** CANON RESET — DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY  
-**Revision Date:** 2026-09-27
+**Status:** CURRENT EDITORIAL REVISION — FORTUNE DISTORTION ONLY
+**Revision Date:** 2026-10-02
+**POV:** Distant third-person limited — Rook Vane
+**Word Count:** 1554
+**Review:** See `qa/revisions/2026-10-02-EDITORIAL-REVIEW.md`; earlier gate reports are historical.
 
 Broken North had once been a road. That was the generous interpretation.
 

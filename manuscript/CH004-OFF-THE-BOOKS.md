@@ -1,8 +1,10 @@
 # Chapter 4 — Off the Books
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
-**Revision Date:** 2026-09-27
-**Word Count:** 2,794
+**Status:** CURRENT EDITORIAL REVISION — FORTUNE DISTORTION ONLY
+**Revision Date:** 2026-10-02
+**POV:** Distant third-person limited — Rook Vane
+**Word Count:** 2688
+**Review:** See `qa/revisions/2026-10-02-EDITORIAL-REVIEW.md`; earlier gate reports are historical.
 
 The Road Guild hall opened straight onto Greywake's caravan yard, which meant the first thing Rook learned about local employment was that nobody here believed in quiet workplaces. Wagons rolled through mud outside. Workers carried rope, wheel rims, boxed tools, and stamped cargo tags between two wide doors. Someone shouted a route number from behind a counter. Somebody else shouted back from halfway across the yard. A clerk moved colored markers across a wall map while three caravan guards argued over an escort roster. The entire place looked like paperwork had discovered manual labor and decided to become dangerous. Rook stopped beneath the entrance awning and looked at the notice board beside him. Still unreadable. At least Greywake was consistent. Jessa Vale waited near one of the public desks with a thin stack of forms tucked against her chest. She noticed him and raised a hand.
 

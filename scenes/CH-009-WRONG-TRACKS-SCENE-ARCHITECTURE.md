@@ -1,13 +1,15 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-009 Scene Architecture — Wrong Tracks
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-009 — Wrong Tracks  
-**Movement:** III — The Road Is Lying  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-009 MANUSCRIPT CANON  
-**Final Scene Count:** 5  
-**POV:** Red Jackal first person  
-**Primary Cast:** Red Jackal, Tavian Rook  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-009 — Wrong Tracks
+**Movement:** III — The Road Is Lying
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-009 MANUSCRIPT CANON
+**Final Scene Count:** 5
+**POV:** Red Jackal first person
+**Primary Cast:** Red Jackal, Tavian Rook
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -395,8 +397,8 @@ Avoid:
 
 ## SC-009-01 — The Map Says Elsewhere
 
-**Approximate Time:** Morning, after CH-008.  
-**Location:** Edge of the maintained Main Caravan Road where Tavian begins a Warden route check.  
+**Approximate Time:** Morning, after CH-008.
+**Location:** Edge of the maintained Main Caravan Road where Tavian begins a Warden route check.
 **Characters Present:** Red Jackal, Tavian Rook.
 
 ### Scene Purpose
@@ -502,8 +504,8 @@ They leave the maintained road edge and move toward a known animal crossing.
 
 ## SC-009-02 — Dirt With Evidence
 
-**Approximate Time:** Midmorning.  
-**Location:** Forest verge / muddy crossing between the maintained road network and old northern trail cuts.  
+**Approximate Time:** Midmorning.
+**Location:** Forest verge / muddy crossing between the maintained road network and old northern trail cuts.
 **Characters Present:** Red Jackal, Tavian Rook.
 
 ### Scene Purpose
@@ -606,8 +608,8 @@ Tavian identifies a nearby natural crossing where live movement can be observed 
 
 ## SC-009-03 — Leave It Alone
 
-**Approximate Time:** Late morning.  
-**Location:** Concealed observation position overlooking a natural game crossing near an old northern trail cut.  
+**Approximate Time:** Late morning.
+**Location:** Concealed observation position overlooking a natural game crossing near an old northern trail cut.
 **Characters Present:** Red Jackal, Tavian Rook; small prey group as environmental presence.
 
 ### Scene Purpose
@@ -724,8 +726,8 @@ A displaced predator pack begins converging on the crossing / fleeing prey.
 
 ## SC-009-04 — Bad Field Method
 
-**Approximate Time:** Immediate continuation.  
-**Location:** Same crossing and adjacent brush/old trail.  
+**Approximate Time:** Immediate continuation.
+**Location:** Same crossing and adjacent brush/old trail.
 **Characters Present:** Red Jackal, Tavian Rook; displaced predator pack.
 
 ### Scene Purpose
@@ -842,8 +844,8 @@ The pack is driven off/neutralized enough to resume tracking safely.
 
 ## SC-009-05 — Northbound
 
-**Approximate Time:** Early afternoon.  
-**Location:** Old trail junction short of the full Broken North Road investigation zone.  
+**Approximate Time:** Early afternoon.
+**Location:** Old trail junction short of the full Broken North Road investigation zone.
 **Characters Present:** Red Jackal, Tavian Rook.
 
 ### Scene Purpose

@@ -1,13 +1,15 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-025 Scene Architecture — What Greywake Counts
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-025 — What Greywake Counts  
-**Movement:** VII — What Greywake Counts  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-025 MANUSCRIPT CANON  
-**Final Scene Count:** 6  
-**POV:** Red Jackal first person  
-**Primary Cast:** Red Jackal, Maelis Orra, Tavian Rook, Captain Brynn Alder, Sela Arven, Kellan Dorr, Jessa Vale, Rovan Hesk under guard/removed from authority, council/public representatives  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-025 — What Greywake Counts
+**Movement:** VII — What Greywake Counts
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-025 MANUSCRIPT CANON
+**Final Scene Count:** 6
+**POV:** Red Jackal first person
+**Primary Cast:** Red Jackal, Maelis Orra, Tavian Rook, Captain Brynn Alder, Sela Arven, Kellan Dorr, Jessa Vale, Rovan Hesk under guard/removed from authority, council/public representatives
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -378,7 +380,7 @@ CH-026 owns:
 
 ## SC-025-01 — Still Hurts
 
-**Location:** Greywake treatment house.  
+**Location:** Greywake treatment house.
 **Characters:** Red, Sela, Kellan; Tavian/Brynn may enter near end.
 
 ### Purpose
@@ -410,7 +412,7 @@ Brynn/Tavian bring the immediate status:
 
 ## SC-025-02 — What Broke
 
-**Location:** damaged road approaches / Broken North inspection line.  
+**Location:** damaged road approaches / Broken North inspection line.
 **Characters:** Red, Tavian, Brynn, work/public background; Kellan remains absent/transport-limited.
 
 ### Purpose
@@ -443,7 +445,7 @@ The crisis becomes clearly:
 
 ## SC-025-03 — Put It in the Record
 
-**Location:** council/evidence room before public session.  
+**Location:** council/evidence room before public session.
 **Characters:** Maelis, Jessa, Red, Brynn; Hesk under guard may be visible separately.
 
 ### Purpose
@@ -472,7 +474,7 @@ The council/public session can proceed on an established factual record.
 
 ## SC-025-04 — The Argument Survives Him
 
-**Location:** Greywake council hall, emergency public session.  
+**Location:** Greywake council hall, emergency public session.
 **Characters:** Red, Hesk under guard, Maelis, Tavian, Brynn, Kellan seated/transported, Jessa, council/public representatives.
 
 ### Purpose
@@ -503,7 +505,7 @@ The room moves from judging Hesk alone to changing the structure that enabled hi
 
 ## SC-025-05 — Hero, Menace, Problem
 
-**Location:** council hall/public edge/market approach during recess or public reaction.  
+**Location:** council hall/public edge/market approach during recess or public reaction.
 **Characters:** Red, public representatives/residents, core supporting cast nearby.
 
 ### Purpose
@@ -537,7 +539,7 @@ This prepares CH-026 departure motive.
 
 ## SC-025-06 — What Greywake Counts
 
-**Location:** council hall, resumed emergency session.  
+**Location:** council hall, resumed emergency session.
 **Characters:** full authorized cast.
 
 ### Purpose
@@ -573,17 +575,17 @@ Stop before Red decides/leaves.
 
 # 20. Cause-and-Effect Chain
 
-CH-024 crisis resolved  
-→ treatment proves survival had bodily cost  
-→ damage inspection proves survival had infrastructure/economic cost  
-→ Maelis/Jessa consolidate evidence  
-→ Hesk's manipulation becomes institutionally undeniable  
-→ Hesk removed from Roadmaster authority  
-→ public/council still debate his survival argument  
-→ mixed reaction prevents clean hero narrative  
-→ focus shifts from one villain to governance structure  
-→ Road Guild unilateral diversion authority is removed  
-→ outer communities gain enforceable emergency-route representation  
+CH-024 crisis resolved
+→ treatment proves survival had bodily cost
+→ damage inspection proves survival had infrastructure/economic cost
+→ Maelis/Jessa consolidate evidence
+→ Hesk's manipulation becomes institutionally undeniable
+→ Hesk removed from Roadmaster authority
+→ public/council still debate his survival argument
+→ mixed reaction prevents clean hero narrative
+→ focus shifts from one villain to governance structure
+→ Road Guild unilateral diversion authority is removed
+→ outer communities gain enforceable emergency-route representation
 → CH-026 can close Red's personal relationship with Greywake.
 
 # 21. Gate 8 Checklist

@@ -1,15 +1,17 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-022 Scene Architecture — First Wave
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-022 — First Wave  
-**Movement:** VI — Greywake Holds  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-022 MANUSCRIPT CANON  
-**Final Scene Count:** 6  
-**POV:** Red Jackal first person  
-**Primary Cast:** Red Jackal, Tavian Rook, Captain Brynn Alder, Greywake militia, outer-homestead workers, civilians  
-**Off-Screen Operational Support:** staged lure teams and runners may report through the established signal/runner network; Maelis, Jessa, Sela and Kellan do not enter the chapter physically  
-**Antagonist Presence:** Rovan Hesk remains off-screen; his final field-lure intervention becomes operationally visible through the route response  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-022 — First Wave
+**Movement:** VI — Greywake Holds
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-022 MANUSCRIPT CANON
+**Final Scene Count:** 6
+**POV:** Red Jackal first person
+**Primary Cast:** Red Jackal, Tavian Rook, Captain Brynn Alder, Greywake militia, outer-homestead workers, civilians
+**Off-Screen Operational Support:** staged lure teams and runners may report through the established signal/runner network; Maelis, Jessa, Sela and Kellan do not enter the chapter physically
+**Antagonist Presence:** Rovan Hesk remains off-screen; his final field-lure intervention becomes operationally visible through the route response
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -28,18 +30,18 @@ All chapter-specific mystery, reveal, supporting-character agency, scene order, 
 
 # Battle / Scene QA Amplification Override — 2026-09-20
 
-**Battle ID:** V1-B07  
-**Scale:** MAJOR — first half of continuous Greywake climax  
-**Matchup:** Greywake coalition vs first migration wave  
-**Initial topology:** distributed defenders vs layered prey mass + following predators  
-**Topology changes:** civilian lane at risk → outer guide failure → ridge-hound spill → Hesk's unauthorized lure creates wrong-route branch → Broken North compression → territorial predator arrives  
-**Protected targets:** last civilian cart, militia/workers, Broken North work crews, route infrastructure  
-**Red's role:** local impossible corrections only at Tavian/Brynn calls; no solo herd control  
-**Tavian:** threshold, animal-read, route geometry  
-**Brynn:** command, withdrawals, worker/civilian protection  
-**Opposing force objective:** animals seek escape/open routes; predators exploit prey movement; Hesk's off-screen lure biases one branch  
-**Terrain:** lantern line, open approach, failed outer guide, drainage cut, Broken North entrance  
-**Turning point:** Hesk's unauthorized old-service lure pull becomes visible in animal behavior  
+**Battle ID:** V1-B07
+**Scale:** MAJOR — first half of continuous Greywake climax
+**Matchup:** Greywake coalition vs first migration wave
+**Initial topology:** distributed defenders vs layered prey mass + following predators
+**Topology changes:** civilian lane at risk → outer guide failure → ridge-hound spill → Hesk's unauthorized lure creates wrong-route branch → Broken North compression → territorial predator arrives
+**Protected targets:** last civilian cart, militia/workers, Broken North work crews, route infrastructure
+**Red's role:** local impossible corrections only at Tavian/Brynn calls; no solo herd control
+**Tavian:** threshold, animal-read, route geometry
+**Brynn:** command, withdrawals, worker/civilian protection
+**Opposing force objective:** animals seek escape/open routes; predators exploit prey movement; Hesk's off-screen lure biases one branch
+**Terrain:** lantern line, open approach, failed outer guide, drainage cut, Broken North entrance
+**Turning point:** Hesk's unauthorized old-service lure pull becomes visible in animal behavior
 **Ending:** largest territorial predator emerges into compressed corridor
 
 Battle QA requires at least three simultaneously legible pressure points in the chapter and at least one clear topology change before the ending.
@@ -649,7 +651,7 @@ CH-024 owns the direct Hesk confrontation and final route-policy resolution.
 
 ## SC-022-01 — Wait for the Commit
 
-**Location:** Greywake outer lantern line / observation point / first prepared approach.  
+**Location:** Greywake outer lantern line / observation point / first prepared approach.
 **Characters:** Red, Tavian, Brynn, militia, runners; last inbound civilian cart in the background.
 
 ### Purpose
@@ -695,7 +697,7 @@ The lead mass begins bending toward the intended Broken North approach while pre
 
 ## SC-022-02 — Keep the Gap Open
 
-**Location:** outer guide lane / fallback opening near the last civilian movement.  
+**Location:** outer guide lane / fallback opening near the last civilian movement.
 **Characters:** Red, Brynn, militia, homestead workers, small civilian group/final cart; Tavian directs from nearby route position or through runners.
 
 ### Purpose
@@ -747,7 +749,7 @@ The outer guide point remains damaged.
 
 ## SC-022-03 — The Route That Should Not Be Winning
 
-**Location:** prepared route split / sightline between intended corridor and vulnerable side route.  
+**Location:** prepared route split / sightline between intended corridor and vulnerable side route.
 **Characters:** Red, Tavian, Brynn, militia, runners, homestead defenders.
 
 ### Purpose
@@ -794,7 +796,7 @@ Brynn/Tavian revise positions to prevent the wrong-pulling branch from turning i
 
 ## SC-022-04 — When the Barricade Goes
 
-**Location:** damaged outer detour / seasonal-cut approach / worker defense point shaped by CH-016 route loss.  
+**Location:** damaged outer detour / seasonal-cut approach / worker defense point shaped by CH-016 route loss.
 **Characters:** Red, Brynn or militia lead under her command, militia, homestead workers, runners; Tavian provides route direction.
 
 ### Purpose
@@ -847,7 +849,7 @@ Pressure is redirected toward the next prepared line.
 
 ## SC-022-05 — Follow the Line
 
-**Location:** Broken North approach / entrance guide / staged repair position.  
+**Location:** Broken North approach / entrance guide / staged repair position.
 **Characters:** Red, Tavian, Brynn, militia, homestead/work crews.
 
 ### Purpose
@@ -920,7 +922,7 @@ The line is still functioning, but Tavian/Brynn recognize that the corridor is b
 
 ## SC-022-06 — Something Bigger Is Coming Through
 
-**Location:** Broken North / compressed migration corridor sightline.  
+**Location:** Broken North / compressed migration corridor sightline.
 **Characters:** Red, Tavian, Brynn, militia, workers; prey/predator mass.
 
 ### Purpose

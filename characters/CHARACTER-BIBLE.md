@@ -1,6 +1,6 @@
 # Character Bible
 
-**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
+**Project:** This Isekai Has a Bug. Unfortunately, It's Me.
 **Status:** LOCKED RESET — ROOK VANE / FORTUNE DISTORTION ONLY — 2026-09-27
 
 # 1. Character Canon Rules
@@ -15,11 +15,11 @@ Rook may steal attention without stealing everyone else's causality.
 
 ## 2.1 Identity
 
-**Current Name:** Rook Vane  
-**Origin:** Earth  
-**Arrival:** Soul Drift after a mysterious explosion  
-**System Status:** UNDEFINED / NO RECORD / ANOMALY  
-**Role:** reader-facing protagonist / story intruder / accidental legend  
+**Current Name:** Rook Vane — self-chosen on the road in CH001; Earth identity unverified
+**Origin:** Earth
+**Arrival:** Soul Drift after a mysterious explosion
+**System Status:** UNDEFINED / NO RECORD / ANOMALY
+**Role:** reader-facing protagonist / story intruder / accidental legend
 **Power:** Fortune Distortion only
 
 Rook Vane is not a chosen Hero.
@@ -335,10 +335,10 @@ These characters exist in Veyr before destination selection. None is guaranteed 
 
 # CHAR-002 — Maelis Orra
 
-**Species:** Human  
-**Age:** 27  
-**Origin:** Kingdom of Valedorn  
-**Affiliation:** Ledger of Measures  
+**Species:** Human
+**Age:** 27
+**Origin:** Kingdom of Valedorn
+**Affiliation:** Ledger of Measures
 **Role Type:** intellectual foil / anomaly examiner / recurring ally-or-observer
 
 ## Public Identity
@@ -386,10 +386,10 @@ She knows System failures exist. She does not know the Great Design or Rook Vane
 
 # CHAR-003 — Tavian Rook
 
-**Species:** Human  
-**Age:** 31  
-**Origin:** Crownspine Holds, Avarra  
-**Affiliation:** Crownspine Wardens  
+**Species:** Human
+**Age:** 31
+**Origin:** Crownspine Holds, Avarra
+**Affiliation:** Crownspine Wardens
 **Role Type:** martial rival / disciplined ally / competence foil
 
 ## History
@@ -425,10 +425,10 @@ Their rivalry is not automatically hostile. Tavian can respect results while con
 
 # CHAR-004 — Ilyra Senn
 
-**Species:** Human  
-**Age:** 26  
-**Origin:** Serekh League, Kharad  
-**Affiliation:** Open Hand Caravans, independent contract broker  
+**Species:** Human
+**Age:** 26
+**Origin:** Serekh League, Kharad
+**Affiliation:** Open Hand Caravans, independent contract broker
 **Role Type:** logistics specialist / social operator / recurring companion candidate
 
 ## History
@@ -465,10 +465,10 @@ Their banter can be strong without requiring romance.
 
 # CHAR-005 — Veska Ruun
 
-**Species:** Veyrborn Demon  
-**Age:** 29  
-**Origin:** Ember Principalities, Kharad  
-**Affiliation:** Independent duelist and contract fighter  
+**Species:** Veyrborn Demon
+**Age:** 29
+**Origin:** Ember Principalities, Kharad
+**Affiliation:** Independent duelist and contract fighter
 **Role Type:** combat rival / mirror anti-villain / recurring wildcard
 
 ## Appearance
@@ -509,10 +509,10 @@ They can compete, cooperate, or oppose one another without either becoming the o
 
 # CHAR-006 — Nemi Thalen
 
-**Species:** Verdant-Bound  
-**Age:** 34  
-**Origin:** Rootbound Concord, Namarra  
-**Affiliation:** Independent healer and memory-keeper recognized by several grove communities  
+**Species:** Verdant-Bound
+**Age:** 34
+**Origin:** Rootbound Concord, Namarra
+**Affiliation:** Independent healer and memory-keeper recognized by several grove communities
 **Role Type:** healer / consequence witness / emotional counterweight
 
 ## History
@@ -549,10 +549,10 @@ Nemi is useful as the character who notices the pain and aftermath Rook Vane tri
 
 # CHAR-007 — Edrin Marr
 
-**Species:** Pale-Touched  
-**Age:** 38  
-**Origin:** Pale Marches  
-**Affiliation:** Independent expedition scout with ties to the Daughters of the Last Bell  
+**Species:** Pale-Touched
+**Age:** 38
+**Origin:** Pale Marches
+**Affiliation:** Independent expedition scout with ties to the Daughters of the Last Bell
 **Role Type:** explorer / deadpan foil / recurring guide candidate
 
 ## History
@@ -589,10 +589,10 @@ He may nevertheless respect someone who remains functional when probability stop
 
 # CHAR-008 — Aren Halvek
 
-**Species:** Human  
-**Age:** 27  
-**Origin:** Valedorn  
-**Affiliation:** Independent guild-certified vanguard with civic-service reputation  
+**Species:** Human
+**Age:** 27
+**Origin:** Valedorn
+**Affiliation:** Independent guild-certified vanguard with civic-service reputation
 **Role Type:** heroic rival / ideological foil / recurring public counterimage
 
 ## History
@@ -653,59 +653,59 @@ Supporting characters may mistake lucky coincidence for planning, foresight, sec
 These fingerprints are mandatory whenever the character appears. They define **how the character thinks under pressure**, not catchphrases.
 
 ## Maelis Orra
-**Speech rhythm:** precise, complete, low-emotion, evidence-first.  
-**Default move:** separates observation from conclusion.  
-**Humor:** nearly invisible dry correction.  
-**Never:** melodramatic speculation, vague reassurance, instant emotional certainty.  
-**Pressure behavior:** becomes even more exact; protects chain of evidence and wording.  
+**Speech rhythm:** precise, complete, low-emotion, evidence-first.
+**Default move:** separates observation from conclusion.
+**Humor:** nearly invisible dry correction.
+**Never:** melodramatic speculation, vague reassurance, instant emotional certainty.
+**Pressure behavior:** becomes even more exact; protects chain of evidence and wording.
 **Rook friction:** refuses to reward performance with the interpretation he wants.
 
 ## Tavian Rook
-**Speech rhythm:** short operational statements; terrain, timing, movement, risk.  
-**Default move:** asks what the environment is doing before what people want it to mean.  
-**Humor:** rare, dry, usually accidental.  
-**Never:** long speeches in active danger, theatrical praise, abstract moralizing.  
-**Pressure behavior:** gives one clear instruction at a time and watches whether people follow it.  
+**Speech rhythm:** short operational statements; terrain, timing, movement, risk.
+**Default move:** asks what the environment is doing before what people want it to mean.
+**Humor:** rare, dry, usually accidental.
+**Never:** long speeches in active danger, theatrical praise, abstract moralizing.
+**Pressure behavior:** gives one clear instruction at a time and watches whether people follow it.
 **Rook friction:** does not care whether Rook looks impressive; cares whether Rook changes the geometry safely.
 
 ## Captain Brynn Alder
-**Speech rhythm:** command language, compact questions, concrete assignments.  
-**Default move:** converts argument into responsibility: who moves, who guards, who decides, who answers later.  
-**Humor:** restrained and situational.  
-**Never:** lose command presence through excessive exposition.  
-**Pressure behavior:** cuts through debate, assigns roles, protects civilian movement.  
+**Speech rhythm:** command language, compact questions, concrete assignments.
+**Default move:** converts argument into responsibility: who moves, who guards, who decides, who answers later.
+**Humor:** restrained and situational.
+**Never:** lose command presence through excessive exposition.
+**Pressure behavior:** cuts through debate, assigns roles, protects civilian movement.
 **Rook friction:** treats Rook as a dangerous resource she cannot own.
 
 ## Sela Arven
-**Speech rhythm:** blunt medical imperatives and uncomfortable facts.  
-**Default move:** body first, ego second.  
-**Humor:** dry enough to sound like an insult even when it is care.  
-**Never:** romanticize pain, praise reckless endurance, speculate beyond evidence.  
-**Pressure behavior:** triage, prioritize, stop people from making injuries worse.  
+**Speech rhythm:** blunt medical imperatives and uncomfortable facts.
+**Default move:** body first, ego second.
+**Humor:** dry enough to sound like an insult even when it is care.
+**Never:** romanticize pain, praise reckless endurance, speculate beyond evidence.
+**Pressure behavior:** triage, prioritize, stop people from making injuries worse.
 **Rook friction:** regeneration buys him no exemption from being annoying.
 
 ## Kellan Dorr
-**Speech rhythm:** direct, practical, physical; roads, timber, water, people, distance.  
-**Default move:** asks who actually pays for a decision outside the walls.  
-**Humor:** rough, irritated, worker humor.  
-**Never:** bureaucratic abstractions when a physical consequence can be named.  
-**Pressure behavior:** argues from lived outer-road cost, then gets his hands on the problem.  
+**Speech rhythm:** direct, practical, physical; roads, timber, water, people, distance.
+**Default move:** asks who actually pays for a decision outside the walls.
+**Humor:** rough, irritated, worker humor.
+**Never:** bureaucratic abstractions when a physical consequence can be named.
+**Pressure behavior:** argues from lived outer-road cost, then gets his hands on the problem.
 **Rook friction:** respects useful work more than impossible spectacle.
 
 ## Jessa Vale
-**Speech rhythm:** cautious procedural language early; increasingly direct once she chooses a side.  
-**Default move:** knows how records actually move through the Guild, including what people pretend not to know.  
-**Humor:** nervous, small, emerging as confidence grows.  
-**Never:** become fearless overnight or forget that wages and siblings matter.  
-**Pressure behavior:** hesitates at the personal cost, then becomes exact when she commits.  
+**Speech rhythm:** cautious procedural language early; increasingly direct once she chooses a side.
+**Default move:** knows how records actually move through the Guild, including what people pretend not to know.
+**Humor:** nervous, small, emerging as confidence grows.
+**Never:** become fearless overnight or forget that wages and siblings matter.
+**Pressure behavior:** hesitates at the personal cost, then becomes exact when she commits.
 **Rook friction:** knows he is dangerous but is more afraid of losing ordinary stability.
 
 ## Rovan Hesk
-**Speech rhythm:** controlled, economical, logistical.  
-**Default move:** converts morality into supply, route, winter, capacity, and survival tradeoffs.  
-**Humor:** almost none.  
-**Never:** villain monologue for its own sake, sadistic gloating, irrational hatred of Rook.  
-**Pressure behavior:** becomes more certain that somebody must choose what survives.  
+**Speech rhythm:** controlled, economical, logistical.
+**Default move:** converts morality into supply, route, winter, capacity, and survival tradeoffs.
+**Humor:** almost none.
+**Never:** villain monologue for its own sake, sadistic gloating, irrational hatred of Rook.
+**Pressure behavior:** becomes more certain that somebody must choose what survives.
 **Rook friction:** sees Rook first as useful irregular labor, later as an uncontrollable variable who refuses assigned cost.
 
 ## Group Dialogue Law
@@ -730,11 +730,11 @@ These characters exist independently of destination planning. Their future appea
 
 # CHAR-009 — Provost Edras Morn
 
-**Species:** Human  
-**Age:** 52  
-**Origin:** Valedorn  
-**Affiliation:** Ledger of Measures  
-**Position:** Senior Provost for Irregular Registrations  
+**Species:** Human
+**Age:** 52
+**Origin:** Valedorn
+**Affiliation:** Ledger of Measures
+**Position:** Senior Provost for Irregular Registrations
 **Role Type:** institutional antagonist / containment advocate
 
 ## History
@@ -772,10 +772,10 @@ That makes him more dangerous.
 
 # CHAR-010 — Cantor Sivren Pell
 
-**Species:** Human  
-**Age:** 45  
-**Origin:** Avarra  
-**Affiliation:** Ash Choir  
+**Species:** Human
+**Age:** 45
+**Origin:** Avarra
+**Affiliation:** Ash Choir
 **Role Type:** ideological antagonist / anomaly provocateur
 
 ## History
@@ -1012,7 +1012,7 @@ PASS — no destination arc, volume, chapter, scene, or manuscript content creat
 
 # 12. Volume 1 Deployment Records — Greywake Arc
 
-**Status:** CANON DEPLOYMENT SUPPORT  
+**Status:** CANON DEPLOYMENT SUPPORT
 **Scope:** Character placement only. Plot architecture remains owned by `volumes/VOLUME-001-GREYWAKE-ARCHITECTURE.md`.
 
 ## CHAR-002 — Maelis Orra
@@ -1041,10 +1041,10 @@ These characters are native/local to Volume 1 architecture and are not automatic
 
 ## CHAR-011 — Captain Brynn Alder
 
-**Species:** Human  
-**Age:** 39  
-**Origin:** Greywake, Hollow March  
-**Affiliation:** Greywake Militia  
+**Species:** Human
+**Age:** 39
+**Origin:** Greywake, Hollow March
+**Affiliation:** Greywake Militia
 **Role Type:** local commander / civic ally
 
 ### History
@@ -1076,10 +1076,10 @@ Respects what Hesk once did for Greywake, but increasingly distrusts his secrecy
 
 ## CHAR-012 — Sela Arven
 
-**Species:** Riverkin  
-**Age:** 51  
-**Origin:** Sable tributary communities, later Greywake resident  
-**Affiliation:** Independent healer / Greywake treatment house  
+**Species:** Riverkin
+**Age:** 51
+**Origin:** Sable tributary communities, later Greywake resident
+**Affiliation:** Independent healer / Greywake treatment house
 **Role Type:** healer / consequence witness
 
 ### Goal
@@ -1105,10 +1105,10 @@ May observe M-005 probability-anomaly symptoms. Does not know the underlying luc
 
 ## CHAR-013 — Kellan Dorr
 
-**Species:** Human  
-**Age:** 33  
-**Origin:** Outer Greywake homesteads  
-**Affiliation:** Outer Homestead Compact  
+**Species:** Human
+**Age:** 33
+**Origin:** Outer Greywake homesteads
+**Affiliation:** Outer Homestead Compact
 **Role Type:** community representative / practical engineer
 
 ### History
@@ -1133,10 +1133,10 @@ Judges him by whether he actually shows up when consequences arrive, not by what
 
 ## CHAR-014 — Jessa Vale
 
-**Species:** Human  
-**Age:** 22  
-**Origin:** Greywake  
-**Affiliation:** Greywake Chartered Road Guild  
+**Species:** Human
+**Age:** 22
+**Origin:** Greywake
+**Affiliation:** Greywake Chartered Road Guild
 **Role Type:** junior route clerk / complicity witness
 
 ### History
@@ -1166,11 +1166,11 @@ Possesses documentary fragments needed to prove deliberate manipulation without 
 
 ## ANTAG-GW-001 — Roadmaster Rovan Hesk
 
-**Species:** Human  
-**Age:** 48  
-**Origin:** Greywake / Hollow March  
-**Affiliation:** Greywake Chartered Road Guild  
-**Position:** Roadmaster and settlement-council member  
+**Species:** Human
+**Age:** 48
+**Origin:** Greywake / Hollow March
+**Affiliation:** Greywake Chartered Road Guild
+**Position:** Roadmaster and settlement-council member
 **Status:** Volume 1 local antagonist
 
 ### History
@@ -1229,17 +1229,17 @@ Not automatically recurring. Later use requires explicit post-Greywake justifica
 
 # 15. Volume 2 Deployment Records — Merrowgate Arc
 
-**Status:** GATE 6 LOCKED DEPLOYMENT SUPPORT  
+**Status:** GATE 6 LOCKED DEPLOYMENT SUPPORT
 **Scope:** Character placement and identity only. Plot architecture remains owned by `volumes/VOLUME-002-MERROWGATE-ARCHITECTURE.md`.
 
 Greywake-local characters do not automatically travel with Rook Vane. Volume 2 introduces a destination-local cast whose goals exist independently of him.
 
 ## CHAR-015 — Captain Iria Voss
 
-**Species:** Human  
-**Age:** 41  
-**Origin:** Merrowgate  
-**Affiliation:** Merrowgate Harbor Watch  
+**Species:** Human
+**Age:** 41
+**Origin:** Merrowgate
+**Affiliation:** Merrowgate Harbor Watch
 **Role Type:** civic-security commander / institutional foil
 
 ### Goal
@@ -1265,10 +1265,10 @@ May learn that Rook remains UNDEFINED across jurisdictions and that he participa
 
 ## CHAR-016 — Samir Kesran
 
-**Species:** Human  
-**Age:** 36  
-**Origin:** Serekh family established in Merrowgate  
-**Affiliation:** Independent shipwright cooperative  
+**Species:** Human
+**Age:** 36
+**Origin:** Serekh family established in Merrowgate
+**Affiliation:** Independent shipwright cooperative
 **Role Type:** engineering / harbor-structure specialist
 
 ### Goal
@@ -1292,10 +1292,10 @@ Respects useful improvisation but rejects flashy solutions that ignore load, bal
 
 ## CHAR-017 — Nessa Quill
 
-**Species:** Riverkin  
-**Age:** 28  
-**Origin:** Merrowgate  
-**Affiliation:** Independent dock broker / courier network  
+**Species:** Riverkin
+**Age:** 28
+**Origin:** Merrowgate
+**Affiliation:** Independent dock broker / courier network
 **Role Type:** social navigation / informal-route access / transactional ally
 
 ### Goal
@@ -1319,10 +1319,10 @@ Finds his classification failure commercially interesting. She is not automatica
 
 ## CHAR-018 — Dalen Marr
 
-**Species:** Human  
-**Age:** 32  
-**Origin:** Avarran interior  
-**Affiliation:** Open Hand Caravans  
+**Species:** Human
+**Age:** 32
+**Origin:** Avarran interior
+**Affiliation:** Open Hand Caravans
 **Role Type:** logistics factor / reputation conduit
 
 ### Goal
@@ -1347,11 +1347,11 @@ Has heard contradictory Greywake stories before meeting him. He is an early exam
 
 ## ANTAG-MG-001 — Cassian Venn
 
-**Species:** Human  
-**Age:** 47  
-**Origin:** Merrowgate  
-**Affiliation:** Venn Maritime House  
-**Position:** Maritime assurance magnate, private-security patron, Harbor Council member  
+**Species:** Human
+**Age:** 47
+**Origin:** Merrowgate
+**Affiliation:** Venn Maritime House
+**Position:** Maritime assurance magnate, private-security patron, Harbor Council member
 **Status:** Volume 2 local antagonist
 
 ### History

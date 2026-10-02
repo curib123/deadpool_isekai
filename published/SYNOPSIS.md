@@ -1,23 +1,19 @@
 # This Isekai Has a Bug. Unfortunately, It's Me.
 
-Red Jackal died in a mysterious explosion and woke in Veyr, a world whose System can identify almost everyone.
+Rook Vane wakes in another world with a damaged memory, an empty wallet, and a predator chewing his boot.
 
-Almost.
+He survives. Mostly by falling over at useful moments.
 
-**Name: UNDEFINED. Race: UNDEFINED. Class: UNDEFINED. World Registry: NO RECORD.**
+At the nearest town, two different System tools return the same answer:
 
-That should make him powerless.
+**Name: UNDEFINED. Class: UNDEFINED. World Registry: NO RECORD.**
 
-Instead, Red regenerates from impossible wounds, can force imagination into reality, and can stop Veyran time whenever he addresses an audience only he can sense.
+No record means no ordinary contract, no standard protection, and very few respectable ways to buy dinner. So when a road official offers private work, Rook takes it.
 
-Red has no interest in becoming a chosen hero. Good—because Veyr already has one. It already has villains, prophecies, wars, monsters, and a story moving perfectly well without him.
+His only supernatural ability is luck. Weapons break. Ropes catch. Stronger enemies make terrible mistakes. He cannot choose the accident, and a lucky escape does nothing for the person standing beside him.
 
-Red is the mistake that walked in anyway.
+Unfortunately, witnesses keep mistaking survival for strategy. Rook is happy to accept the credit—until a town starts relying on powers he doesn't have, and a profitable job reveals who has been paying for its safe roads.
 
-Every place he enters, the System struggles to explain him, enemies underestimate the wrong man, and ordinary people are left dealing with the consequences when an unregistered anomaly decides to improvise.
+Veyr already has heroes, villains, and prophecies. Rook would prefer food, money, and the freedom to leave.
 
-The question is not whether Red can become strong enough.
-
-He already is.
-
-The question is what happens when someone the world never planned for starts interfering with a story that belonged to somebody else.
+His growing reputation has other plans.

@@ -1,8 +1,10 @@
+> **Historical retcon — superseded by the Rook Vane luck-only reset and October 2 editorial maps.** Preserve for draft history; removed powers, previous identities and POV directions below are not current authority.
+
 # Red Jackal Power Identity Retcon — Play Logic / Luck / Fourth Wall
 
-**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
-**Status:** LOCKED AUTHORIAL RETCON  
-**Effective:** 2026-09-26  
+**Project:** This Isekai Has a Bug. Unfortunately, It's Me.
+**Status:** LOCKED AUTHORIAL RETCON
+**Effective:** 2026-09-26
 **Priority:** Overrides all conflicting power descriptions in older files.
 
 # 1. Final Power Set

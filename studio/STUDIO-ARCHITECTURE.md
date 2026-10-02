@@ -1,4 +1,4 @@
-# Red Jackal Light-Novel Studio Architecture
+# Rook Vane Light-Novel Studio Architecture
 
 ## Governance
 This repository uses a studio-style production pipeline. Each agent has an editorial-equivalent role, owned canon domain, inputs, outputs, and a QA gate.
@@ -27,13 +27,13 @@ Lower levels cannot silently contradict higher levels.
 | A032 | Magic System Architect | Magic Mechanics Designer | magic rules |
 | A033 | Fate Architect | Metaphysical Systems Designer | Fate |
 | A034 | Great Design Architect | Endgame Mythology Designer | Great Design |
-| A035 | Anomaly Architect | Exception Designer | Red Jackal anomaly |
-| A036 | Imagination Power Designer | Signature Ability Designer | Play Logic |
+| A035 | Anomaly Architect | Exception Designer | Rook Vane anomaly |
+| A036 | Probability Mechanics Editor | Signature Ability Designer | Fortune Distortion |
 | A037 | Power Balance Editor | Combat Systems QA | limits/counters/escalation |
 | A040 | Character Bible Director | Lead Character Editor | character canon |
 | A041 | Character History Editor | Backstory Editor | histories and motives |
 | A042 | Character Arc Editor | Development Editor | growth/relationships |
-| A043 | Red Jackal Guardian | Lead Protagonist Editor | Red Jackal consistency |
+| A043 | Rook Vane Guardian | Lead Protagonist Editor | Rook Vane consistency |
 | A044 | Supporting Cast Editor | Ensemble Editor | supporting cast autonomy |
 | A045 | Antagonist Editor | Villain Development Editor | antagonist quality |
 | A050 | Mystery Director | Series Mystery Editor | mystery architecture |
@@ -49,12 +49,12 @@ Lower levels cannot silently contradict higher levels.
 | A080 | Chapter Architect | Chapter Planner | chapter sheets |
 | A081 | Scene Architect | Scene Planner | scene purpose/change |
 | A090 | Manuscript Author | Light-Novel Writer | prose draft |
-| A091 | Red Jackal Voice Writer | Character Voice Specialist | close first-person Red voice, fourth-wall timing, spoken personality |
+| A091 | Rook Vane Voice Writer | Character Voice Specialist | distant third-person focal voice, dry humor, spoken personality |
 | A092 | Dialogue Editor | Dialogue Specialist | natural dialogue, interruptions, pauses, subtext, callbacks |
 | A093 | Comedy Editor | Comedy/Timing Editor | character/situation comedy; no forced joke quota |
 | A094 | Reference Editor | Cultural/Reference Editor | pop-culture references |
 | A095 | Action Choreographer | Battle Scene Editor | cinematic spatial clarity, cause/effect, movement |
-| A096 | Imagination Scene Designer | Signature Action Designer | Play Logic scenes |
+| A096 | Probability Scene Designer | Signature Action Designer | plausible coincidence chains |
 | A097 | Prose Editor | Line Editor | simple natural cinematic English, paragraph rhythm, quiet serious beats |
 | A098 | Publication Editor | Release Copy Editor | canon-derived platform-ready publication copies |
 | A100 | Continuity Director | Continuity Editor | continuity ledger |
@@ -74,7 +74,7 @@ Lower levels cannot silently contradict higher levels.
 Series Director → World Bible Director → Geography → History → Cosmology → System → Magic → Fate → Great Design → Nations → Cultures → Economy/Travel → Bestiary → Foundation QA.
 
 ### Phase 2 Characters
-Character Bible Director → Red Jackal Guardian → Supporting Cast → Antagonists → Character Histories → Relationships → Character QA.
+Character Bible Director → Rook Vane Guardian → Supporting Cast → Antagonists → Character Histories → Relationships → Character QA.
 
 ### Phase 3 Mystery
 Mystery Director → Writer Truth → Mystery IDs → Foreshadowing IDs → Reveal plan → Payoff plan → Mystery QA.
@@ -94,20 +94,20 @@ Arc Architect → Volume Editor → Pacing Editor → Character Arc Editor → M
 Chapter Architect → Scene Architect → Scene QA → Battle Composition/Matchup QA where hostile action exists → Continuity precheck → Knowledge-state check → Foreshadowing check → plan approval.
 
 ### Phase 7 Manuscript
-Manuscript Author → Red Jackal Voice → Dialogue → Comedy → Action → Imagination Scene Design → Reference → Prose.
+Manuscript Author → Rook Vane Voice → Dialogue → Comedy → Action → Probability Scene Design → Reference → Prose.
 
 For the active series style, Phase 7 must enforce:
-- close first-person limited centered on Red;
+- distant third-person limited focused on Rook;
 - simple, natural, cinematic English;
-- direct Red personality in narration and dialogue;
-- fourth-wall pause whenever Red genuinely addresses the audience;
+- Rook personality in narration and dialogue;
+- no supernatural time pause; asides consume ordinary time;
 - human dialogue with interruptions, pauses and subtext;
 - character/situation/meta comedy;
 - quiet treatment of serious danger or emotion;
 - clear spatial action;
-- Play Logic as already-overpowered revelation/restraint, never tier progression;
-- no conventional Red moral-development arc;
-- preservation of independent native hero/villain storylines that Red may intrude upon.
+- Fortune Distortion as passive causal openings, never a command or a second-power reveal;
+- no conventional Rook moral-development arc;
+- preservation of independent native hero/villain storylines that Rook may intrude upon.
 
 ### Phase 8 QA
 Canon Conflict → Continuity → Power → Mystery → Character → Scene QA → Battle QA where applicable → Action Geography → Paragraph → Reference → Chapter QA.
@@ -129,7 +129,7 @@ If a requested release edit changes story meaning, it must return to Manuscript 
 Major ideas may not jump directly from idea to prose. Route them through the department that owns the affected canon.
 
 ## QA Escalation
-Prose/cinematic-flow issue → A097. Dialogue → A092. Red voice/POV → A091/A043. Comedy → A093. Scene purpose/turn/handoff → A081/A120. Battle matchup/topology/action geography → A095/A081. Play Logic staging → A096/A036. Character → A040/A043. Power → A031-A037. World → A010. Arc → A061. Publication formatting/canon-equivalence → A124. Major series contradiction → A001.
+Prose/cinematic-flow issue → A097. Dialogue → A092. Rook voice/POV → A091/A043. Comedy → A093. Scene purpose/turn/handoff → A081/A120. Battle matchup/topology/action geography → A095/A081. probability-chain staging → A096/A036. Character → A040/A043. Power → A031-A037. World → A010. Arc → A061. Publication formatting/canon-equivalence → A124. Major series contradiction → A001.
 
 ## Canon States
 LOCKED, CANON, PROVISIONAL, PLANNED, DRAFT, PUBLISH DRAFT, PUBLISH-READY, PUBLISHED, DEPRECATED.

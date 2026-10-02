@@ -1,8 +1,10 @@
+> **Current-model override — 2026-10-02:** Rook Vane, distant third-person limited, Fortune Distortion only. Old Play Logic, automatic restoration, time-pause instructions and retired M/F dependencies are historical and must be redesigned before use. Current chapter maps and Mystery Bible govern execution. Future slots remain provisional.
+
 # Battle Topology Ledger
 
-**Owner:** A095 Action Choreographer + A081 Scene Architect  
-**Supporting owners:** A036 Imagination Power Designer, A037 Power Balance Editor, A043 Red Jackal Guardian, A044 Supporting Cast Editor, A045 Antagonist Editor, A072 Pacing Editor, A100 Continuity Director, A111 Logic Editor, A120 Chapter QA Editor  
-**Status:** ACTIVE — SERIES-WIDE ACTION PLANNING CONTROL  
+**Owner:** A095 Action Choreographer + A081 Scene Architect
+**Supporting owners:** A036 Imagination Power Designer, A037 Power Balance Editor, A043 Red Jackal Guardian, A044 Supporting Cast Editor, A045 Antagonist Editor, A072 Pacing Editor, A100 Continuity Director, A111 Logic Editor, A120 Chapter QA Editor
+**Status:** ACTIVE — SERIES-WIDE ACTION PLANNING CONTROL
 **Authority:** `qa/BATTLE-SCENE-QA-STANDARD.md` and each approved Battle/Scene OA record.
 
 ## 1. Purpose
@@ -122,8 +124,8 @@ Supporting characters must retain their own expertise and causal role. Enemies m
 
 ## 9. Current Verdict
 
-**Arc 1 topology:** VERIFIED PASS through its battle audit.  
-**Arc 2 topology:** PLANNED and locked at roadmap level; chapter gates remain required.  
-**Future slots:** PROVISIONAL; no finalized matchup or future battle is canon.  
+**Arc 1 topology:** VERIFIED PASS through its battle audit.
+**Arc 2 topology:** PLANNED and locked at roadmap level; chapter gates remain required.
+**Future slots:** PROVISIONAL; no finalized matchup or future battle is canon.
 **Action planning control:** PASS as a series-level planning supplement.
 

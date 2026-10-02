@@ -1,9 +1,11 @@
+> **Current-model override — 2026-10-02:** Rook Vane, distant third-person limited, Fortune Distortion only. Old Play Logic, automatic restoration, time-pause instructions and retired M/F dependencies are historical and must be redesigned before use. Current chapter maps and Mystery Bible govern execution. Future slots remain provisional.
+
 # Flexible Future Arc Registry
 
-**Owner:** A070 Series Roadmap Director + A061 Arc Architect  
-**Supporting owners:** A001 Series Director, A050 Mystery Director, A060 Destination Director, A063 Local Story Editor, A064 Travel Editor, A072 Pacing Editor, A095 Action Choreographer, A100 Continuity Director, A122 Arc QA Board, A123 Series QA Board  
-**Status:** ACTIVE — QUALITY-FIRST / VARIABLE ARC COUNT  
-**Authority:** `docs/superpowers/specs/2026-09-20-flexible-series-arc-architecture-design.md`  
+**Owner:** A070 Series Roadmap Director + A061 Arc Architect
+**Supporting owners:** A001 Series Director, A050 Mystery Director, A060 Destination Director, A063 Local Story Editor, A064 Travel Editor, A072 Pacing Editor, A095 Action Choreographer, A100 Continuity Director, A122 Arc QA Board, A123 Series QA Board
+**Status:** ACTIVE — QUALITY-FIRST / VARIABLE ARC COUNT
+**Authority:** `docs/superpowers/specs/2026-09-20-flexible-series-arc-architecture-design.md`
 **Rule:** This registry defines future story-function slots. It does not select a destination, create a volume, or authorize future manuscript prose before the required gates.
 
 ## 1. Status Vocabulary
@@ -91,7 +93,7 @@ SLOT-E may become a final destination arc only when:
 - the aftermath is designed; and
 - no extra explanatory arc is needed to make the ending understandable.
 
-**Current final-arc state:** NOT READY.  
+**Current final-arc state:** NOT READY.
 **Current series stop state:** NOT YET SATISFIED.
 
 ## 8. Production Boundary

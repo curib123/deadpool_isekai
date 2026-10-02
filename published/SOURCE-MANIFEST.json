@@ -1,0 +1,202 @@
+{
+  "revision": "2026-10-02",
+  "scope": "CH001–CH027 and optional prologue",
+  "files": [
+    {
+      "source": "manuscript/CH001-WRONG-FOREST-WRONG-WORLD.md",
+      "reader_copy": "published/volume-001/CH001-WRONG-FOREST-WRONG-WORLD.md",
+      "source_sha256": "dd2deee284f616952383f1f3a9fad910b8c87c22e3e7b11435f51092c170c5a1",
+      "reader_sha256": "e724c7879d98a68ee2fca03e638065281077e72b0ed1c7bbc158f506ea8b3c10",
+      "body_words": 1172
+    },
+    {
+      "source": "manuscript/CH002-UNDEFINED.md",
+      "reader_copy": "published/volume-001/CH002-UNDEFINED.md",
+      "source_sha256": "ae310b096d58ad5dbad4862e2e7b5c4e8149c9fbbf899effa675ea08c6631262",
+      "reader_sha256": "f4d3cc16be36cd0e669aa4b98d4ecebfea3d7579792270e79f766f4f17edfae2",
+      "body_words": 1285
+    },
+    {
+      "source": "manuscript/CH003-THE-THINGS-THEY-CAN-MEASURE.md",
+      "reader_copy": "published/volume-001/CH003-THE-THINGS-THEY-CAN-MEASURE.md",
+      "source_sha256": "392f0f429885183e5c3bfefcb97fc8acd2fcc0c1cd523a495ae18ae5c551a949",
+      "reader_sha256": "14cc65a14b8e51fea433c5e968ea043bbb6ec5118dfe4b40e3dd2b38b75acfd0",
+      "body_words": 1543
+    },
+    {
+      "source": "manuscript/CH004-OFF-THE-BOOKS.md",
+      "reader_copy": "published/volume-001/CH004-OFF-THE-BOOKS.md",
+      "source_sha256": "b2341453b6f2ed4696b65a9d9b792a243007b5a0dae281336fbc127f33c26b61",
+      "reader_sha256": "c2155aeaf31dde49763ef806d66f57c074217345fad8e6fe6085b8c4786b5e3c",
+      "body_words": 2688
+    },
+    {
+      "source": "manuscript/CH005-A-BETTER-HAMMER.md",
+      "reader_copy": "published/volume-001/CH005-A-BETTER-HAMMER.md",
+      "source_sha256": "8f450afe99e2d272f0268d94ea7d14cc38a2cf8e3e173d1b2c46a0b363059a21",
+      "reader_sha256": "14a887845d972c7a63c27313d5417bd1548500de63886de97be87c77de3ec0b2",
+      "body_words": 1526
+    },
+    {
+      "source": "manuscript/CH006-THE-ROAD-THAT-WORKS.md",
+      "reader_copy": "published/volume-001/CH006-THE-ROAD-THAT-WORKS.md",
+      "source_sha256": "82263764d6573a972110f651366850dc5e6767ac06a85ecd96c38716f1324c11",
+      "reader_sha256": "2b66987895a266050c68b2211a113ff13008aabc3281e786a8e339699ee7c181",
+      "body_words": 2644
+    },
+    {
+      "source": "manuscript/CH007-YOU-SHOULD-BE-DEAD.md",
+      "reader_copy": "published/volume-001/CH007-YOU-SHOULD-BE-DEAD.md",
+      "source_sha256": "2decd78c09cbbe39aa87b0a76ef54624eee0d8c9651f658a1a6dcbd0c7c1e4e9",
+      "reader_sha256": "7c76b116fe7f6bf9ddc26f177f64bf7f7e3cb2ddf7751e180be71a02bb8bfb99",
+      "body_words": 1894
+    },
+    {
+      "source": "manuscript/CH008-OUTSIDE-THE-LANTERNS.md",
+      "reader_copy": "published/volume-001/CH008-OUTSIDE-THE-LANTERNS.md",
+      "source_sha256": "24a2e53da7974137bbac398ef755ec2a7e5a9eb15b38e0264fbd7da7c05b035e",
+      "reader_sha256": "92235cf5e919b02976826588b3fee3210bfbdf176b097dac6fe73741f2d2b9cd",
+      "body_words": 1319
+    },
+    {
+      "source": "manuscript/CH009-WRONG-TRACKS.md",
+      "reader_copy": "published/volume-001/CH009-WRONG-TRACKS.md",
+      "source_sha256": "86e57ff69e127c4f5f988128512f7984de007f56db55890cfa704bb76fd69b82",
+      "reader_sha256": "7d05542ad4da4067b01ba44003076c38faa7e362fecd204ae78946ea1c55f07c",
+      "body_words": 2912
+    },
+    {
+      "source": "manuscript/CH010-THE-LEDGER-DOESNT-BALANCE.md",
+      "reader_copy": "published/volume-001/CH010-THE-LEDGER-DOESNT-BALANCE.md",
+      "source_sha256": "d974ce48d855ec65135c9722c35bccaae0aaa708c5bf4d918f89d02242981020",
+      "reader_sha256": "b1dace6e9212734bd942790d4ef4a2d2ce53f3c62b91c43ec3cf7c538fc6a9b8",
+      "body_words": 1646
+    },
+    {
+      "source": "manuscript/CH011-BROKEN-NORTH.md",
+      "reader_copy": "published/volume-001/CH011-BROKEN-NORTH.md",
+      "source_sha256": "da80c6a20ac06df80cfdb490f94990b5247800bf718500313667b7a7e501da1a",
+      "reader_sha256": "1c01a623c87ac19947847747abbe804d425f47965a4ebb37b0d178d5f62f4d67",
+      "body_words": 1554
+    },
+    {
+      "source": "manuscript/CH012-SOMEONE-PUT-THIS-HERE.md",
+      "reader_copy": "published/volume-001/CH012-SOMEONE-PUT-THIS-HERE.md",
+      "source_sha256": "73b7fb94730075522d70308c779d32da5ba451d7791f85ccd4dc4a96638fa06b",
+      "reader_sha256": "8e65d64310f64c036543ed72fff85b889b5f4b1e6166adc3f57d1a386673ae67",
+      "body_words": 2725
+    },
+    {
+      "source": "manuscript/CH013-WHERE-THEY-DIE.md",
+      "reader_copy": "published/volume-001/CH013-WHERE-THEY-DIE.md",
+      "source_sha256": "9e230c0826df690c3a0010f187bc29f745cb9ff464e395c89daebef0a913a1b4",
+      "reader_sha256": "f63925a874ef41c9372ccc13c98a028eb257397145b19820dd8b37a11b329017",
+      "body_words": 2283
+    },
+    {
+      "source": "manuscript/CH014-NECESSARY-LOSSES.md",
+      "reader_copy": "published/volume-001/CH014-NECESSARY-LOSSES.md",
+      "source_sha256": "00569743ec2702adbec37d350ad8011c1934aa020f2d97d4d44ab0985c74c429",
+      "reader_sha256": "118cced2309e20bc0cb5d81e8bc758a9f01d8d81cabfb021a08d7419fb880cc9",
+      "body_words": 2475
+    },
+    {
+      "source": "manuscript/CH015-ONE-STAKE-TOO-MANY.md",
+      "reader_copy": "published/volume-001/CH015-ONE-STAKE-TOO-MANY.md",
+      "source_sha256": "c3f9d1ef90c6cb7c7e500371e721a6f73a6bed452d82e56344b2c5bb44d33d15",
+      "reader_sha256": "c70068d24a2cbb23a1afc7ac041d83d81a8512c8c65980f439065a764a4dfbc9",
+      "body_words": 1247
+    },
+    {
+      "source": "manuscript/CH016-BACKFLOW.md",
+      "reader_copy": "published/volume-001/CH016-BACKFLOW.md",
+      "source_sha256": "57dddefb93e8259dffe8dab587e08ccc325c28175afd13277aca12dd5f0a4808",
+      "reader_sha256": "e42efdea38ec62ea44d5a03dbf7e4c0244a08cdbc1c6f0ab7b11c775c1a7a2b1",
+      "body_words": 2071
+    },
+    {
+      "source": "manuscript/CH017-THE-PRICE-OF-BEING-RIGHT.md",
+      "reader_copy": "published/volume-001/CH017-THE-PRICE-OF-BEING-RIGHT.md",
+      "source_sha256": "215c97bf9a9c86847685715ca7a1f99290c2b5fee630cb631a79f3fb8c504657",
+      "reader_sha256": "3170b81e8a27423c8f1fd83da6403602bbd809c3e74f6e3026532a6808b61291",
+      "body_words": 2431
+    },
+    {
+      "source": "manuscript/CH018-NO-ACCEPTABLE-LOSS.md",
+      "reader_copy": "published/volume-001/CH018-NO-ACCEPTABLE-LOSS.md",
+      "source_sha256": "8c1d69e1a3c0e212eaa43760e3c8740b347d467b812f6159c7f3542a12f89fd1",
+      "reader_sha256": "53c562a5f09e9d9f37764c27bee14159a6287ddb427b3f8aaa50d547aea4def6",
+      "body_words": 2299
+    },
+    {
+      "source": "manuscript/CH019-BUILD-THE-WRONG-ROAD.md",
+      "reader_copy": "published/volume-001/CH019-BUILD-THE-WRONG-ROAD.md",
+      "source_sha256": "15d79b77cef2f5f275d138777318975303acc377fce48e34e09e92c7719607f7",
+      "reader_sha256": "1cbc57d2fa38f5505036c83ab6a370b6d18d9119996ecef02b4ce9c45dbc40b6",
+      "body_words": 1390
+    },
+    {
+      "source": "manuscript/CH020-THE-LAST-LURE.md",
+      "reader_copy": "published/volume-001/CH020-THE-LAST-LURE.md",
+      "source_sha256": "d1324c4a2bdc3bc2b2a3c5313d4774e9f71165f50368106c21e59c36e98fe7d6",
+      "reader_sha256": "2d17a5b6a0210ac30388e46139228677fe21b1ec61f8ddb1d5042e0fa6d808d9",
+      "body_words": 2128
+    },
+    {
+      "source": "manuscript/CH021-BEFORE-THE-HERD.md",
+      "reader_copy": "published/volume-001/CH021-BEFORE-THE-HERD.md",
+      "source_sha256": "f6cc62905e40852444ee5c4f01a09ecc544ad1f8d98bd6f4865dddafcb081d48",
+      "reader_sha256": "846a5704198a3c4eef8fc71a4c48768ac42db63d85ac7ae74f70e2e55369eb8d",
+      "body_words": 2120
+    },
+    {
+      "source": "manuscript/CH022-FIRST-WAVE.md",
+      "reader_copy": "published/volume-001/CH022-FIRST-WAVE.md",
+      "source_sha256": "c03322fc8a75be4fa22e35f270d19b57b558dd9ba4f30d8433d8b95863a431e8",
+      "reader_sha256": "3eb7926ba154cf7ea3f729266feabc1d39b6cebcbb5ed2fb68488f52f6ff276d",
+      "body_words": 1258
+    },
+    {
+      "source": "manuscript/CH023-GREYWAKE-HOLDS.md",
+      "reader_copy": "published/volume-001/CH023-GREYWAKE-HOLDS.md",
+      "source_sha256": "7a7773535790ffcad10fe4c9dded6b8dad20a4b0f03b9300ded7de1736966e13",
+      "reader_sha256": "70b64e83097820771352c08f9c57d7d9eb2a67dc453d3e3ed244317a128f4aaf",
+      "body_words": 1327
+    },
+    {
+      "source": "manuscript/CH024-NO-ONE-GETS-CHOSEN.md",
+      "reader_copy": "published/volume-001/CH024-NO-ONE-GETS-CHOSEN.md",
+      "source_sha256": "5fee241f8275b7570fb3419ec5e6e266f4b524596a9673c0c8fda46f5ace95fb",
+      "reader_sha256": "87d51fdcf11a321ddf03f578cac7ba0b5131d199b2f3ab2b822796bc1be09f21",
+      "body_words": 1346
+    },
+    {
+      "source": "manuscript/CH025-WHAT-GREYWAKE-COUNTS.md",
+      "reader_copy": "published/volume-001/CH025-WHAT-GREYWAKE-COUNTS.md",
+      "source_sha256": "0b03e84d9c2c15c861ed20496449aefb456b1e1e3d1952e1fdac76ad10886786",
+      "reader_sha256": "f2a4d0c7bc5b58e7425f74c77a197a809d8c5ce4b68d600522c2db4023312d1c",
+      "body_words": 1547
+    },
+    {
+      "source": "manuscript/CH026-BEFORE-THEY-DECIDE-WHAT-I-AM.md",
+      "reader_copy": "published/volume-001/CH026-BEFORE-THEY-DECIDE-WHAT-I-AM.md",
+      "source_sha256": "3e7bf3ea81c536f7c66564a3b41e9f8931bb567817733e75952629ebe3242800",
+      "reader_sha256": "36f435269d08bbfc2eb7745b3c104d077dc0f3837489d0f89c6b118b6d7873d4",
+      "body_words": 1280
+    },
+    {
+      "source": "manuscript/CH027-SALT-IN-THE-AIR.md",
+      "reader_copy": "published/volume-002/CH027-SALT-IN-THE-AIR.md",
+      "source_sha256": "4de1bc0af7b8a070e44994873cb71ee04c53bb3d00a1320bb618340af006eb64",
+      "reader_sha256": "3ce0038beda1907a73c190f819efa93e0ea3bbf41f962823b4c5f1d5a9732154",
+      "body_words": 1953
+    },
+    {
+      "source": "manuscript/SERIES-PROLOGUE-THE-WRONG-PERSON.md",
+      "reader_copy": "published/PROLOGUE-THE-WRONG-PERSON.md",
+      "source_sha256": "9adc4ec29d1802184fdbd34b20dd235327b674f19abd022a5bb504e336a2697a",
+      "reader_sha256": "f4eaa055801647efd3da027757cf29fe6df5a1fc28c3e53aa237abb90307f5fb",
+      "body_words": 343
+    }
+  ]
+}

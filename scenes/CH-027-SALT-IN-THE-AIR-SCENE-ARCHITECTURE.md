@@ -1,18 +1,20 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-027 Scene Architecture — Salt in the Air
 
-**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
-**Volume:** 2 — Merrowgate Arc  
-**Chapter:** CH-027 — Salt in the Air  
-**Movement:** I — A Name Arrives Before the Man  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-027 MANUSCRIPT CANON  
-**Final Scene Count:** 5  
-**Scene IDs:** SC-027-01 through SC-027-05  
-**POV:** Red Jackal first person throughout  
-**Primary Cast:** Red Jackal; ordinary travelers, road/river crews, minor merchants, porters only  
-**Antagonist Pressure:** None direct; Cassian Venn and the Merrowgate consolidation scheme remain outside Red's knowledge and chapter action  
-**Play Logic:** ZERO manifestations  
-**Mystery / Foreshadowing:** No new F-ID; no M-ID advancement  
+**Project:** This Isekai Has a Bug. Unfortunately, It's Me.
+**Volume:** 2 — Merrowgate Arc
+**Chapter:** CH-027 — Salt in the Air
+**Movement:** I — A Name Arrives Before the Man
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-027 MANUSCRIPT CANON
+**Final Scene Count:** 5
+**Scene IDs:** SC-027-01 through SC-027-05
+**POV:** Red Jackal first person throughout
+**Primary Cast:** Red Jackal; ordinary travelers, road/river crews, minor merchants, porters only
+**Antagonist Pressure:** None direct; Cassian Venn and the Merrowgate consolidation scheme remain outside Red's knowledge and chapter action
+**Play Logic:** ZERO manifestations
+**Mystery / Foreshadowing:** No new F-ID; no M-ID advancement
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Overpowered Retcon Override
@@ -327,7 +329,7 @@ Preferred behavior:
 
 ## SC-027-01 — Freedom Has Expenses
 
-**Location:** Avarran road/river travel route after several days away from Greywake.  
+**Location:** Avarran road/river travel route after several days away from Greywake.
 **Characters:** Red Jackal; ordinary travelers in background.
 
 ### Purpose
@@ -387,7 +389,7 @@ Red commits to the next river/commercial transfer because it is the cheapest pra
 
 ## SC-027-02 — Another Fee
 
-**Location:** busy river landing / passenger-cargo transfer point.  
+**Location:** busy river landing / passenger-cargo transfer point.
 **Characters:** Red Jackal; transfer clerk/crew; travelers; minor merchants.
 
 ### Purpose
@@ -441,7 +443,7 @@ Red boards/joins the next legal transfer toward the Brasswater-facing route.
 
 ## SC-027-03 — Hold the Rope
 
-**Location:** active river transfer / wet boarding ramp / cargo movement zone during travel.  
+**Location:** active river transfer / wet boarding ramp / cargo movement zone during travel.
 **Characters:** Red Jackal; transport crew; travelers.
 
 ### Purpose
@@ -517,7 +519,7 @@ The transfer resumes, and Red's respect for the scale/discipline of commercial t
 
 ## SC-027-04 — Salt in the Air
 
-**Location:** Brasswater-facing road/river approach transitioning toward coastal trade traffic.  
+**Location:** Brasswater-facing road/river approach transitioning toward coastal trade traffic.
 **Characters:** Red Jackal; travelers; merchants; crews; porters.
 
 ### Purpose
@@ -575,7 +577,7 @@ Red follows the flow toward Merrowgate's outer approach because the density of w
 
 ## SC-027-05 — Merrowgate
 
-**Location:** final public approach / arrival staging area outside official Merrowgate intake.  
+**Location:** final public approach / arrival staging area outside official Merrowgate intake.
 **Characters:** Red Jackal; travelers; crews; porters; merchants.
 
 ### Purpose

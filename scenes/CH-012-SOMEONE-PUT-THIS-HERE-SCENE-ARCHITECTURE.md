@@ -1,13 +1,15 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-012 Scene Architecture — Someone Put This Here
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-012 — Someone Put This Here  
-**Movement:** III — The Road Is Lying  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-012 MANUSCRIPT CANON  
-**Final Scene Count:** 6  
-**POV:** Red Jackal first person  
-**Primary Cast:** Red Jackal, Tavian Rook, Maelis Orra, Kellan Dorr; Captain Brynn Alder enters later  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-012 — Someone Put This Here
+**Movement:** III — The Road Is Lying
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-012 MANUSCRIPT CANON
+**Final Scene Count:** 6
+**POV:** Red Jackal first person
+**Primary Cast:** Red Jackal, Tavian Rook, Maelis Orra, Kellan Dorr; Captain Brynn Alder enters later
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -572,8 +574,8 @@ Do not joke about casualties or outer communities being placed at risk.
 
 ## SC-012-01 — Don't Touch It Yet
 
-**Approximate Time:** Immediate continuation from CH-011.  
-**Location:** Broken North ruined watch-point maintenance recess.  
+**Approximate Time:** Immediate continuation from CH-011.
+**Location:** Broken North ruined watch-point maintenance recess.
 **Characters Present:** Red Jackal, Tavian, Maelis, Kellan.
 
 ### Scene Purpose
@@ -638,8 +640,8 @@ The team has enough in-place observations to inspect orientation and surrounding
 
 ## SC-012-02 — One Stake Is Not an Answer
 
-**Approximate Time:** Same field window.  
-**Location:** Lure site and immediate Broken North corridor.  
+**Approximate Time:** Same field window.
+**Location:** Lure site and immediate Broken North corridor.
 **Characters Present:** Red Jackal, Tavian, Maelis, Kellan.
 
 ### Scene Purpose
@@ -702,8 +704,8 @@ The team has an orientation line and a reason to compare it against Greywake rou
 
 ## SC-012-03 — My Bad Jobs
 
-**Approximate Time:** Return toward Greywake outskirts.  
-**Location:** Broken North descent / Greywake outer approach.  
+**Approximate Time:** Return toward Greywake outskirts.
+**Location:** Broken North descent / Greywake outer approach.
 **Characters Present:** Red Jackal, Tavian, Maelis, Kellan.
 
 ### Scene Purpose
@@ -758,8 +760,8 @@ The group reaches a Greywake-edge point where the evidence dispute can become in
 
 ## SC-012-04 — Guild Property
 
-**Approximate Time:** Later the same day.  
-**Location:** Greywake outskirts / controlled road approach connected to Broken North.  
+**Approximate Time:** Later the same day.
+**Location:** Greywake outskirts / controlled road approach connected to Broken North.
 **Characters Present:** Red Jackal, Tavian, Maelis, Kellan; unnamed Guild personnel/road guards acting under Hesk's order.
 
 ### Scene Purpose
@@ -820,8 +822,8 @@ Captain Brynn arrives or is summoned because the dispute now threatens settlemen
 
 ## SC-012-05 — Not Your Private Force
 
-**Approximate Time:** Continuation.  
-**Location:** Greywake outskirts / evidence-control point.  
+**Approximate Time:** Continuation.
+**Location:** Greywake outskirts / evidence-control point.
 **Characters Present:** Red Jackal, Tavian, Maelis, Kellan, Captain Brynn Alder; Guild personnel.
 
 ### Scene Purpose
@@ -875,8 +877,8 @@ Maelis/Tavian/Kellan/Red have enough documented orientation data to build a rout
 
 ## SC-012-06 — The Direction It Sends Them
 
-**Approximate Time:** Late day / evening.  
-**Location:** Greywake outskirts map table, militia road post, or other neutral location outside sole Guild control.  
+**Approximate Time:** Late day / evening.
+**Location:** Greywake outskirts map table, militia road post, or other neutral location outside sole Guild control.
 **Characters Present:** Red Jackal, Tavian, Maelis, Kellan, Captain Brynn.
 
 ### Scene Purpose

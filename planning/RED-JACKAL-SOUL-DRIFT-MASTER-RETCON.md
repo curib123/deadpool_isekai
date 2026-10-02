@@ -1,8 +1,10 @@
+> **Historical retcon — superseded by the Rook Vane luck-only reset and October 2 editorial maps.** Preserve for draft history; removed powers, previous identities and POV directions below are not current authority.
+
 # Red Jackal Soul-Drift / Fourth-Wall Master Retcon
 
-**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
-**Status:** LOCKED AUTHORIAL RETCON  
-**Effective:** 2026-09-20  
+**Project:** This Isekai Has a Bug. Unfortunately, It's Me.
+**Status:** LOCKED AUTHORIAL RETCON
+**Effective:** 2026-09-20
 **Priority:** Overrides conflicting POV, origin, reincarnation, power-progression, fourth-wall, and Red-personality rules in older files.
 
 # 1. Preservation Lock

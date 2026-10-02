@@ -1,9 +1,10 @@
 # Chapter 14 — Necessary Losses
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
-**Revision Date:** 2026-09-27
-**Word Count:** 2,440
-**Chapter QA:** `qa/CH-014-GATE-9-CHAPTER-QA.md`
+**Status:** CURRENT EDITORIAL REVISION — FORTUNE DISTORTION ONLY
+**Revision Date:** 2026-10-02
+**POV:** Distant third-person limited — Rook Vane
+**Word Count:** 2475
+**Review:** See `qa/revisions/2026-10-02-EDITORIAL-REVIEW.md`; earlier gate reports are historical.
 
 The council chamber was full before Rook arrived. Representatives filled most of the chairs. Two benches had been dragged against the walls. Three stacks of records waited in front of Maelis. Hesk sat at the central table. Yesterday he had stood through every argument. Today he looked tired. Rook trusted that less. Kellan had refused a chair. Tavian stood near the route map with both hands resting on the table.
 

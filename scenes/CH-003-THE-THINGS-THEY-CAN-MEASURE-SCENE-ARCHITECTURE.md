@@ -1,11 +1,13 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-003 Scene Architecture — The Things They Can Measure
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-003 — The Things They Can Measure  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-003 MANUSCRIPT CANON  
-**Final Scene Count:** 5  
-**POV:** Red Jackal first person  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-003 — The Things They Can Measure
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-003 MANUSCRIPT CANON
+**Final Scene Count:** 5
+**POV:** Red Jackal first person
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -165,8 +167,8 @@ Required manuscript feel:
 
 ## SC-003-01 — Terms of Measurement
 
-**Approximate Time:** Same day as CH-002, early afternoon, after Greywake's midday intake turnover.  
-**Location:** Temporary Ledger audit room inside a Greywake records office adjacent to the guild/administrative district.  
+**Approximate Time:** Same day as CH-002, early afternoon, after Greywake's midday intake turnover.
+**Location:** Temporary Ledger audit room inside a Greywake records office adjacent to the guild/administrative district.
 **Characters Present:** Red Jackal, Maelis Orra, Greywake records clerk.
 
 ### Scene Purpose
@@ -306,8 +308,8 @@ The first set of physical instruments is brought out for SC-003-02.
 
 ## SC-003-02 — Physical Facts
 
-**Approximate Time:** 10–20 minutes into the follow-up.  
-**Location:** Same Ledger audit room, measurement side-table.  
+**Approximate Time:** 10–20 minutes into the follow-up.
+**Location:** Same Ledger audit room, measurement side-table.
 **Characters Present:** Red Jackal, Maelis Orra, Greywake records clerk.
 
 ### Scene Purpose
@@ -445,8 +447,8 @@ Mana-Reactivity Prism is prepared for SC-003-03.
 
 ## SC-003-03 — The Mana Still Touches Me
 
-**Approximate Time:** Immediately after basic physical verification.  
-**Location:** Same audit room, cleared diagnostic surface.  
+**Approximate Time:** Immediately after basic physical verification.
+**Location:** Same audit room, cleared diagnostic surface.
 **Characters Present:** Red Jackal, Maelis Orra, Greywake records clerk.
 
 ### Scene Purpose
@@ -564,8 +566,8 @@ A final controlled System re-check begins in SC-003-04.
 
 ## SC-003-04 — What the Record Refuses to Say
 
-**Approximate Time:** 30–45 minutes into the follow-up.  
-**Location:** Same Ledger audit room, primary desk.  
+**Approximate Time:** 30–45 minutes into the follow-up.
+**Location:** Same Ledger audit room, primary desk.
 **Characters Present:** Red Jackal, Maelis Orra, Greywake records clerk.
 
 ### Scene Purpose
@@ -716,8 +718,8 @@ Administrative consequences arrive immediately through the Road Guild records wo
 
 ## SC-003-05 — What the Ledger Writes Down
 
-**Approximate Time:** End of follow-up, shortly after the controlled re-check.  
-**Location:** Same temporary records office, doorway / adjoining records counter.  
+**Approximate Time:** End of follow-up, shortly after the controlled re-check.
+**Location:** Same temporary records office, doorway / adjoining records counter.
 **Characters Present:** Red Jackal, Maelis Orra, Jessa Vale briefly, Greywake records clerk.
 
 ### Scene Purpose
@@ -917,8 +919,8 @@ Off-page invitation only.
 
 CH-003 contains:
 
-**NO Play Logic manifestation.**  
-**NO Play Logic attempt.**  
+**NO Play Logic manifestation.**
+**NO Play Logic attempt.**
 **NO Play Logic diagnostic test.**
 
 This resolves the earlier roadmap's optional “small spontaneous manifestation may occur” in favor of protecting F-004 and CH-005's first intentional successful experimentation.

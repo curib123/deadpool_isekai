@@ -1,23 +1,24 @@
 # Chapter 25 — What Greywake Counts
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
-**Revision Date:** 2026-09-27
-**Word Count:** 1,488
-**Chapter QA:** `qa/CH-025-GATE-9-CHAPTER-QA.md`
+**Status:** CURRENT EDITORIAL REVISION — FORTUNE DISTORTION ONLY
+**Revision Date:** 2026-10-02
+**POV:** Distant third-person limited — Rook Vane
+**Word Count:** 1547
+**Review:** See `qa/revisions/2026-10-02-EDITORIAL-REVIEW.md`; earlier gate reports are historical.
 
 Sela looked at Rook's side, then at his face. "No." Rook had not said anything. "That feels unfair."
 
 "It is preventative."
 
-She pushed him back onto the treatment bench before Rook could stand. The room was full enough that arguing would only create another patient. Militia. Workers. Outer-route residents. Cuts. Crushed fingers. Broken bones. Animal impacts. His flank had already closed. The bruising underneath still felt like somebody had stored a hammer between his ribs. That did not make him depleted. It made bruising unpleasant. Sela pressed two fingers near the healed line. Rook stopped breathing. "Good."
+She pushed him back onto the treatment bench before Rook could stand. The room was full enough that arguing would only create another patient. Militia. Workers. Outer-route residents. Cuts. Crushed fingers. Broken bones. Animal impacts. The dressing on his flank had stuck to the cut. The bruising underneath still felt like somebody had stored a hammer between his ribs. That did not make him depleted. It made bruising unpleasant. Sela pressed two fingers beside the stitches she had just placed. Rook stopped breathing. "Good."
 
 "That was not my word."
 
-"You are healing."
+"You will heal if you leave these alone."
 
 "Yes."
 
-She looked toward the rest of the room. "That does not make anyone else's injury cheaper." Across from him, Kellan sat with his leg splinted and raised. Rook's body followed its own unreasonable rules. Kellan's did not. Kellan noticed Rook looking. "Still attached?"
+She looked toward the rest of the room. "That does not make anyone else's injury cheaper." Across from him, Kellan sat with his leg splinted and raised. Rook had cuts and bruises. Kellan had taken falling timber across his leg and shoulder. Calling both men lucky would require an impressive disregard for the details. Kellan noticed Rook looking. "Still attached?"
 
 "The important parts."
 
@@ -111,9 +112,9 @@ Hesk looked at him. Tavian continued. "He was wrong that secret control over who
 
 Uncomfortable. Rook looked at Hesk. He looked back. "I think you should stop asking the least qualified person in the room to run your legal system." A few people laughed. Rook let it stop. "He saw a real problem. Then he decided some people counted less because sacrificing them was convenient." Hesk's expression did not change. "I am not deciding his sentence." Good boundary. The council formally removed Hesk from Roadmaster authority. Not temporary suspension. Removed. Longer legal disposition would follow evidence review and whatever authority Greywake handed upward. He remained under guard. The argument survived him.
 
-During recess, Rook heard three versions of himself. In one, he had held a road in the air while fighting a monster. In another, he caused the backflow and then helped repair his mistake. Both had enough truth to be irritating. A third said Rook threatened Hesk with an invisible execution spell. Creative. A market woman thanked him. A caravan driver blamed him for his delay. A militia recruit stared at his hands.
+During recess, Rook heard three versions of himself. In one, he had held a road in the air while fighting a monster. In another, he caused the backflow and then helped repair his mistake. The second was true. The first was already turning workers and their braces into a one-man miracle. A third said Rook threatened Hesk with an invisible execution spell. Creative. A market woman thanked him. A caravan driver blamed him for his delay. A militia recruit stared at his hands.
 
-An older man moved away when someone said Rook was still undefined. A child asked if he could make a horse. "Probably not a good one." His mother removed him before negotiations started. Greywake had apparently classified him as hero, criminal, monster, useful idiot, miracle worker, road hazard, and administrative headache. Rook preferred road hazard. Honest. The final order took longer than fighting Hesk. Naturally. The clerk read every section aloud. The Chartered Road Guild would no longer hold unilateral authority to activate or alter dangerous diversion systems affecting inhabited routes. Such decisions required recorded civic emergency authority.
+An older man moved away when someone said Rook was still undefined. A child asked if he could make a horse. "I can barely afford walking." His mother removed him before negotiations started. Greywake had apparently classified him as hero, criminal, monster, useful idiot, miracle worker, road hazard, and administrative headache. Rook preferred road hazard. Honest. The final order took longer than fighting Hesk. Naturally. The clerk read every section aloud. The Chartered Road Guild would no longer hold unilateral authority to activate or alter dangerous diversion systems affecting inhabited routes. Such decisions required recorded civic emergency authority.
 
 Militia received notice and operational oversight. Route-loss and route-safety records would be copied outside exclusive Guild control. Then came the part Kellan had waited years for. The Outer Homestead Compact would receive formal representation in emergency-route decisions affecting outer settlements. Not courtesy. Not comment afterward. Participation before the choice. Written into the order. Kellan read the copy twice. Then looked at Brynn. "This stays after the emergency?"
 

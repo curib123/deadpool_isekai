@@ -1,8 +1,10 @@
+> **Current-model override — 2026-10-02:** Rook Vane, distant third-person limited, Fortune Distortion only. Old Play Logic, automatic restoration, time-pause instructions and retired M/F dependencies are historical and must be redesigned before use. Current chapter maps and Mystery Bible govern execution. Future slots remain provisional.
+
 # Future Mystery-Window Schedule
 
-**Owner:** A050 Mystery Director + A051 Foreshadowing Editor  
-**Supporting owners:** A070 Series Roadmap Director, A100 Continuity Director, A102 Knowledge-State Editor, A123 Series QA Board  
-**Status:** ACTIVE — WINDOW SCHEDULE ONLY  
+**Owner:** A050 Mystery Director + A051 Foreshadowing Editor
+**Supporting owners:** A070 Series Roadmap Director, A100 Continuity Director, A102 Knowledge-State Editor, A123 Series QA Board
+**Status:** ACTIVE — WINDOW SCHEDULE ONLY
 **Authority:** `mysteries/MYSTERY-BIBLE.md` remains the source of writer truth.
 
 ## 1. Scope Rule
@@ -138,7 +140,7 @@ Gate 9 evidence required:
 
 ## 7. Current Verdict
 
-**Mystery-window schedule:** PASS as a provisional planning control.  
-**Future F-ID planting:** NONE authorized by this document.  
+**Mystery-window schedule:** PASS as a provisional planning control.
+**Future F-ID planting:** NONE authorized by this document.
 **M-012:** PROTECTED / NO PAYOFF STATUS.
 **Next evidence-bearing task:** CH-027 synchronization and Gate 9 revalidation, followed by the locked Merrowgate sequence.

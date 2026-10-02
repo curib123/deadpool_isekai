@@ -1,7 +1,9 @@
+> **Historical planning proposal.** The Rook reset and October 2 chapter maps own current mechanics, identity and deployment.
+
 # Red Jackal Luck-Only Story Rewrite Plan
 
-**Branch:** `rewrite/luck-only-retcon-2026-09-27`  
-**Status:** ACTIVE RETCON  
+**Branch:** `rewrite/luck-only-retcon-2026-09-27`
+**Status:** ACTIVE RETCON
 **Scope:** Series foundation + Greywake Volume 1 manuscripts (Prologue + CH001–CH027)
 
 # 1. Locked Retcon

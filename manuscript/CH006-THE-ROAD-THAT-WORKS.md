@@ -1,9 +1,10 @@
 # Chapter 6 — The Road That Works
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
-**Revision Date:** 2026-09-27
-**Word Count:** 2,730
-**Chapter QA:** `qa/CH-006-GATE-9-CHAPTER-QA.md`
+**Status:** CURRENT EDITORIAL REVISION — FORTUNE DISTORTION ONLY
+**Revision Date:** 2026-10-02
+**POV:** Distant third-person limited — Rook Vane
+**Word Count:** 2644
+**Review:** See `qa/revisions/2026-10-02-EDITORIAL-REVIEW.md`; earlier gate reports are historical.
 
 Five wagons rolled out of Greywake after sunrise. Rook walked beside the third one. That had not been his choice. Apparently one completed bridge job qualified him to look useful near a caravan without qualifying him to choose where Rook looked useful. No repair crew today. No broken hammer. Two Road Guild guards, five wagons, several drivers, a handful of passengers, and him doing an excellent impression of an armed escort without the weapon. Progress. A charged Wayfarer Tongue Token hung inside the lead wagon. As long as Rook stayed near the caravan, the guards' instructions reached him clearly. The written schedule pinned beside it remained meaningless.
 
@@ -27,7 +28,7 @@ Two Guild workers checked wagon tags while one of their guards asked about traff
 
 "Don't step there."
 
-Rook stopped with one foot in the air. There were better first impressions. He lowered the boot behind him. He pointed. Only then did Rook saw the tracks. Several broad impressions crossed the damp edge of the drainage channel and disappeared toward the forest. Split-hooved. Deep pressure toward the front. Another trail cut across them. Clawed. Four toes. Longer stride. The man stood. Around thirty, maybe older. Hard to tell with people who spent their lives outdoors and looked personally acquainted with weather. Nothing flashy about him. No polished armor. No decorative cape begging to get caught on a branch.
+Rook stopped with one foot in the air. There were better first impressions. He lowered the boot behind him. He pointed. Only then did Rook see the tracks. Several broad impressions crossed the damp edge of the drainage channel and disappeared toward the forest. Split-hooved. Deep pressure toward the front. Another trail cut across them. Clawed. Four toes. Longer stride. The man stood. Around thirty, maybe older. Hard to tell with people who spent their lives outdoors and looked personally acquainted with weather. Nothing flashy about him. No polished armor. No decorative cape begging to get caught on a branch.
 
 A small metal insignia sat near his shoulder. Unreadable, obviously. One of the road guards walked over.
 

@@ -1,3 +1,5 @@
+> **Current state — 2026-10-02:** Use the rewritten volume and mystery knowledge ledgers. Historical power-era ledgers and reports do not override them.
+
 # Continuity Bible
 
 **Owners:** A100 Continuity Director + A101 Canon Conflict Detector + A102 Knowledge-State Editor
@@ -28,7 +30,7 @@ A later chapter cannot casually reset consequences.
 - Information:
 - Writer truth:
 - Reader knows:
-- Red Jackal knows:
+- Rook Vane knows:
 - Other holders:
 - Characters/factions believing a false version:
 - First learned:

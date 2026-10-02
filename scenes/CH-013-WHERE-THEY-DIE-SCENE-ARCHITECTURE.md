@@ -1,13 +1,15 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-013 Scene Architecture — Where They Die
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-013 — Where They Die  
-**Movement:** III — The Road Is Lying  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-013 MANUSCRIPT CANON  
-**Final Scene Count:** 6  
-**POV:** Red Jackal first person  
-**Primary Cast:** Red Jackal, Maelis Orra, Tavian Rook, Kellan Dorr, Captain Brynn Alder, Rovan Hesk, Jessa Vale  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-013 — Where They Die
+**Movement:** III — The Road Is Lying
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-013 MANUSCRIPT CANON
+**Final Scene Count:** 6
+**POV:** Red Jackal first person
+**Primary Cast:** Red Jackal, Maelis Orra, Tavian Rook, Kellan Dorr, Captain Brynn Alder, Rovan Hesk, Jessa Vale
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -470,7 +472,7 @@ Red Jackal chooses not to make the realization entertaining.
 
 ## SC-013-01 — Put It All on One Table
 
-**Location:** Greywake council map room or controlled council-adjacent records room.  
+**Location:** Greywake council map room or controlled council-adjacent records room.
 **Characters:** Red Jackal, Maelis, Tavian, Kellan, Brynn; Jessa arrives with records; Hesk present or enters before evidence review begins.
 
 ### Purpose
@@ -513,7 +515,7 @@ Jessa identifies the first recurring diversion-service entries that cannot be ex
 
 ## SC-013-02 — The Orders Kept Coming
 
-**Location:** Same room / route archive material spread over map table.  
+**Location:** Same room / route archive material spread over map table.
 **Characters:** Full cast.
 
 ### Purpose
@@ -566,7 +568,7 @@ Maelis has enough records to overlay service timing against route-loss periods.
 
 ## SC-013-03 — The Safe Road Has a Cost
 
-**Location:** Same map table.  
+**Location:** Same map table.
 **Characters:** Full cast.
 
 ### Purpose
@@ -625,7 +627,7 @@ The remaining question is no longer whether diversion happened, but who knew and
 
 ## SC-013-04 — Emergency Management
 
-**Location:** Same room.  
+**Location:** Same room.
 **Characters:** Full cast.
 
 ### Purpose
@@ -685,7 +687,7 @@ The confrontation moves from "did you do it?" to "who did you decide could absor
 
 ## SC-013-05 — Useful People
 
-**Location:** Same room.  
+**Location:** Same room.
 **Characters:** Full cast, with Jessa central.
 
 ### Purpose
@@ -749,7 +751,7 @@ The room has enough combined evidence to state the midpoint truth without relyin
 
 ## SC-013-06 — Where They Die
 
-**Location:** Council map room / full overlay.  
+**Location:** Council map room / full overlay.
 **Characters:** Full cast.
 
 ### Purpose

@@ -1,7 +1,10 @@
 # Chapter 26 — Before They Decide What I Am
 
-**Status:** CANON RESET — DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY  
-**Revision Date:** 2026-09-27
+**Status:** CURRENT EDITORIAL REVISION — FORTUNE DISTORTION ONLY
+**Revision Date:** 2026-10-02
+**POV:** Distant third-person limited — Rook Vane
+**Word Count:** 1280
+**Review:** See `qa/revisions/2026-10-02-EDITORIAL-REVIEW.md`; earlier gate reports are historical.
 
 Sela changed Rook's bandage without asking permission. Rook considered objecting. Then she pulled the old wrap away from his shoulder and the wound reminded him that personal freedom had practical limits.
 
@@ -129,7 +132,7 @@ Second page.
 
 Third.
 
-"Repeated events across unrelated locations, witnesses, equipment, weather, animals, records, and decision points become harder to dismiss."
+"Repeated events are worth recording. They still need comparison cases, including the times your luck does nothing useful."
 
 Rook looked at the folder.
 

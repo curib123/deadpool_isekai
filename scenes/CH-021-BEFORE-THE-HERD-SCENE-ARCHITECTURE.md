@@ -1,14 +1,16 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-021 Scene Architecture — Before the Herd
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-021 — Before the Herd  
-**Movement:** VI — Greywake Holds  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-021 MANUSCRIPT CANON  
-**Final Scene Count:** 6  
-**POV:** Red Jackal first person  
-**Primary Cast:** Red Jackal, Captain Brynn Alder, Tavian Rook, Maelis Orra, Sela Arven, Kellan Dorr, Jessa Vale, Greywake civilians/militia/work crews  
-**Antagonist Presence:** Rovan Hesk remains off-screen and unaccounted for  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-021 — Before the Herd
+**Movement:** VI — Greywake Holds
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-021 MANUSCRIPT CANON
+**Final Scene Count:** 6
+**POV:** Red Jackal first person
+**Primary Cast:** Red Jackal, Captain Brynn Alder, Tavian Rook, Maelis Orra, Sela Arven, Kellan Dorr, Jessa Vale, Greywake civilians/militia/work crews
+**Antagonist Presence:** Rovan Hesk remains off-screen and unaccounted for
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -498,7 +500,7 @@ CH-022 begins after the CH-021 ending.
 
 ## SC-021-01 — Hours
 
-**Location:** Greywake Core emergency route board / militia yard.  
+**Location:** Greywake Core emergency route board / militia yard.
 **Characters:** Red, Brynn, Tavian, Maelis, Jessa, militia runners.
 
 ### Purpose
@@ -531,7 +533,7 @@ The evacuation begins.
 
 ## SC-021-02 — People Before Property
 
-**Location:** outer homesteads / damaged evacuation routes.  
+**Location:** outer homesteads / damaged evacuation routes.
 **Characters:** Red, Brynn or militia delegates, civilians, outer-homestead workers; Tavian may pass through/report.
 
 ### Purpose
@@ -575,7 +577,7 @@ The most exposed households begin moving toward protected fallback areas.
 
 ## SC-021-03 — The People Who Cannot Walk
 
-**Location:** Sela's treatment house / medical loading point / protected fallback route.  
+**Location:** Sela's treatment house / medical loading point / protected fallback route.
 **Characters:** Red, Sela, Kellan, injured civilians, medical helpers.
 
 ### Purpose
@@ -619,7 +621,7 @@ Kellan and the most vulnerable injured are moved toward a protected fallback loc
 
 ## SC-021-04 — Every Lure Has a Witness
 
-**Location:** Greywake Core lure-stock staging / route board / dispatch yard.  
+**Location:** Greywake Core lure-stock staging / route board / dispatch yard.
 **Characters:** Maelis, Jessa, Tavian, Red, approved Guild technicians, militia witnesses.
 
 ### Purpose
@@ -655,7 +657,7 @@ Approved lure teams depart for their known positions under shared oversight.
 
 ## SC-021-05 — Hold What We Built
 
-**Location:** Broken North entrance / CH-019 prepared corridor / outer fallback junction.  
+**Location:** Broken North entrance / CH-019 prepared corridor / outer fallback junction.
 **Characters:** Red, Tavian, Brynn, work crews, militia.
 
 ### Purpose
@@ -699,7 +701,7 @@ Tavian determines all remaining major preparation is complete enough to wait for
 
 ## SC-021-06 — Beyond the Lanterns
 
-**Location:** Greywake outer lantern line / observation point overlooking approaches.  
+**Location:** Greywake outer lantern line / observation point overlooking approaches.
 **Characters:** Red, Brynn, Tavian; militia/work crews/runners; other cast may be dispersed at assigned stations.
 
 ### Purpose

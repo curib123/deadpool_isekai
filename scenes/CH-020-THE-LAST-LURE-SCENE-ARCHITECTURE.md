@@ -1,14 +1,16 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-020 Scene Architecture — The Last Lure
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-020 — The Last Lure  
-**Movement:** V — No Acceptable Loss  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-020 MANUSCRIPT CANON  
-**Final Scene Count:** 6  
-**POV:** Red Jackal first person  
-**Primary Cast:** Red Jackal, Maelis Orra, Jessa Vale, Rovan Hesk, Road Guild loyalists/storehouse staff  
-**Off-Screen Authority Support:** Captain Brynn / settlement emergency authority may be represented through a written preservation/custody order or militia runner; Brynn does not need to enter the chapter physically.  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-020 — The Last Lure
+**Movement:** V — No Acceptable Loss
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-020 MANUSCRIPT CANON
+**Final Scene Count:** 6
+**POV:** Red Jackal first person
+**Primary Cast:** Red Jackal, Maelis Orra, Jessa Vale, Rovan Hesk, Road Guild loyalists/storehouse staff
+**Off-Screen Authority Support:** Captain Brynn / settlement emergency authority may be represented through a written preservation/custody order or militia runner; Brynn does not need to enter the chapter physically.
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -470,7 +472,7 @@ Not allowed:
 
 ## SC-020-01 — The Numbers Do Not Come Back
 
-**Location:** shared records room / temporary audit station in Greywake Core.  
+**Location:** shared records room / temporary audit station in Greywake Core.
 **Characters:** Red Jackal, Maelis Orra, Jessa Vale.
 
 ### Purpose
@@ -510,7 +512,7 @@ Jessa identifies a Roadmaster-controlled contingency/storehouse reference capabl
 
 ## SC-020-02 — What It Costs to Say It
 
-**Location:** same audit station / corridor outside emergency authority office.  
+**Location:** same audit station / corridor outside emergency authority office.
 **Characters:** Red, Maelis, Jessa; militia runner may appear.
 
 ### Purpose
@@ -561,7 +563,7 @@ They move toward the Road Guild storehouse with lawful temporary custody authori
 
 ## SC-020-03 — Roadmaster Reserve
 
-**Location:** Road Guild storehouse / secured lure-material cage.  
+**Location:** Road Guild storehouse / secured lure-material cage.
 **Characters:** Red, Maelis, Jessa, Hesk, storehouse staff / Guild loyalists.
 
 ### Purpose
@@ -608,7 +610,7 @@ Hesk refuses voluntary surrender of full control and loyalists begin choosing wh
 
 ## SC-020-04 — Say It Yourself
 
-**Location:** storehouse floor / records cage.  
+**Location:** storehouse floor / records cage.
 **Characters:** same.
 
 ### Purpose
@@ -667,7 +669,7 @@ Hesk decides the reserve/evidence cannot be left under coalition control and ord
 
 ## SC-020-05 — Do Not Burn the Proof
 
-**Location:** storehouse records aisle / loading yard / Guild core service passage.  
+**Location:** storehouse records aisle / loading yard / Guild core service passage.
 **Characters:** Red, Maelis, Jessa, Hesk, loyalists.
 
 ### Purpose
@@ -738,7 +740,7 @@ Most/all retained stock and proof are secured; Hesk is gone.
 
 ## SC-020-06 — The Last Lure
 
-**Location:** secured storehouse / Greywake Core route board.  
+**Location:** secured storehouse / Greywake Core route board.
 **Characters:** Red, Maelis, Jessa; remaining staff/loyalists under custody or dispersed.
 
 ### Purpose

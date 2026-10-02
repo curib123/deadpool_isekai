@@ -1,321 +1,143 @@
-Chapter 15 — One Stake Too Many
+# Chapter 15 — One Stake Too Many
 
-A broken farm gate hung open below the upper road. Two livestock pens stood empty. Hoof marks tore through the soft ground in every direction.
+The technician opened the stone recess, and the farms became easier to see.
 
-Red stopped beside the retaining wall and looked uphill toward the farms. They had been warned. The road still felt exposed.
+Not because the wall had hidden them. Because the machine inside it gave every empty pen and broken gate an explanation. A dark stake sat in a metal collar, its ceramic chamber humming beneath a vented cap. Above the road, tracks crossed the abandoned yards in fresh layers.
 
-Tavian crouched near the track edge. Kellan stayed standing, eyes fixed uphill. Two Road Guild field workers had come with them, plus one guard and a technician carrying a narrow tool case. None looked pleased to have him there.
+Tavian crouched by the recess. Kellan stood behind him with a road hook in both hands. Two Guild field workers waited with the guard while the technician held a charged Wayfarer Tongue Token clear of his tools.
 
-Fair. A charged Wayfarer Tongue Token hung from the technician's strap. Brynn's order had been simple.
+Brynn's order had been specific: identify the influence point, map it, do not alter it. The technician had repeated the last part twice on the climb. Rook had given him no reason to need a third, which ought to count for something.
 
-Find the influence point. Map it. Do not touch it.
+"Vent toward the connector," Tavian said. "Screened side toward the timber road."
 
-*Simple enough.*
+The technician checked the etched plate. "Active service charge."
 
-Apparently everyone thought the last part needed special emphasis around him. No idea why. "Tracks," Tavian said.
+Kellan looked uphill. "So the road gets protected, and my people get this."
 
-Red moved closer. He pointed to the mud beside the drainage cut. "Small herd animal. Running."
+Tavian followed the fresh hoof marks across the slope. "This point contributes to that movement. We still need the other points before we know what happens if it stops."
 
-Another set crossed behind. "Predator." Kellan looked upslope. "How recent?"
+The humming continued. Rook disliked how small it was. Something responsible for so much trouble ought to work harder at looking guilty.
 
-"Recent enough that I do not want anyone separating."
+The technician laid out a measuring cord. Kellan planted the road hook beside his boot.
 
-The Guild guard shifted his spear. "Patrol found more sign farther down."
+"When does it stop?"
 
-"Different animal?"
+"When we have an authorized service order."
 
-"Probably."
+"Not what I asked."
 
-Tavian frowned. "Probably is not useful." The guard took that better than most people took Tavian.
+The guard moved between him and the recess. Tavian stood before the argument could become a different kind of inspection.
 
-Kellan followed the retaining stones and brushed moss from a joint. "This section was rebuilt after the original road. Look at the seam." The technician joined him. "Guild repair?"
+"The network has been pushing movement around for years," he said. "Take one point away, and the pressure goes somewhere. We do not know where."
 
-"Old road crew first. Later patching."
+"We know where it is going now," Kellan said.
 
-Kellan brushed moss from one square stone. "Here." A thin seam ringed it. The technician opened his case and worked the edge with two flat tools. Red looked at Tavian. "You already know what's behind it."
+A call rolled down from the trees. Another answered farther along the upper slope. The technician stopped with the cord stretched between his hands.
 
-"I know what I expect."
+Then brush crashed above the road.
 
-"Optimism."
+Tavian moved first. "Downhill side. Stay together."
 
-"No."
+A ridge-hound burst across the drainage cut. The guard caught its charge on the spear shaft while Kellan struck its shoulder with the hook. A second hound came around the retaining stones. Rook backed toward the wall, keeping the narrow tool case between them.
 
-Fair. The stone came free. Behind it sat another service recess. Same family as Broken North. Dark stake. Metal collar. Ceramic chamber. Capped reservoir. Vented housing. Etched plate. Much newer than the wall. The technician swore quietly.
+The hound jumped it.
 
-Kellan's face hardened. Tavian moved around the recess without touching it. "Vent orientation." The technician nodded. "Toward the connector."
+Claws tore across his lower ribs. His back hit stone, and for an instant he could not draw breath. Tavian drove the animal sideways with the butt of his polearm.
 
-"Screened side?"
+"Move, Rook."
 
-"Timber road."
+He moved. It hurt enough to make the instruction feel personal.
 
-Kellan looked uphill. "And displacement?" Tavian pointed. "Toward the upper farm approaches." Red looked from the stake to the churned hoof marks. "So this one is doing what we thought."
+The technician dragged his case away from the road and took out a short hammer. The first hound snapped at Kellan; the guard forced it downhill instead of letting it circle toward the farms. Tavian held the second at the edge of the cut.
 
-"It is influencing movement in the expected direction."
+Rook grabbed the measuring cord because it was the only thing within reach. He tried to throw it across the animal's path. The loose end caught the open case lid instead. The case slid, tipped into the drainage channel, and struck a stone hard enough to slam shut.
 
-"Very Maelis."
+The noise made the hound flinch. Tavian used the hesitation to press it down the slope. The other followed under Kellan's hook and the guard's spear. Nobody pursued them.
 
-"Accurate."
+Rook leaned against the wall with his palm pressed to his side. Blood came through his fingers. One field worker handed him a folded cloth, and he wedged it under his belt to hold pressure on the wound. It stayed there because he tightened the belt until breathing became more work.
 
-The technician leaned closer. "Reservoir is active."
+The technician recovered the case. Its latch had bent, but the instruments inside remained intact. He looked from the cord to Rook.
 
-"You can tell without opening it?"
+"You timed that?"
 
-"Seal indicator."
+Rook waited until he had enough breath for an answer.
 
-He pointed to a colored strip beside writing too small and too Veyran to help him. "What does it say?"
+"Use what you have."
 
-"Current service charge."
+Tavian looked at him. Rook looked elsewhere.
 
-Kellan narrowed his eyes. "How recent?"
+Another call sounded above the farms. Kellan turned toward it, then back toward the still-humming stake.
 
-"Recent enough to remain active."
+"How long until we have the whole map?"
 
-Useful non-number. Tavian checked the tracks again. "The local geometry fits." Kellan stared at the stake. "The timber connector gets screened and pressure opens toward the farms."
-
-"Yes."
-
-The stake hummed quietly inside the wall. That seemed to make him angrier. The technician took out a measuring cord. "We document first."
-
-Kellan looked at him. "Then?"
-
-"Then the map goes back to Greywake."
-
-"And the stake?"
-
-"Stays."
-
-Kellan laughed once. "No." The guard stepped closer. "That is the order."
-
-"I heard it."
-
-"Then follow it."
-
-Tavian stood. "We are not changing it yet." Kellan turned on him. "You just confirmed it is pushing danger toward the farms."
-
-"Yes."
-
-"And you want it left running."
-
-"I want the network mapped before we alter part of it."
-
-"The animals are not waiting."
-
-"I know."
-
-That did not help. The technician looked at him. Red caught it. "What?"
-
-"Nothing."
-
-"You looked at me like I was about to commit a crime."
-
-The guard answered. "You are not authorized to alter the equipment."
-
-"See? Specific."
-
-The technician rubbed his forehead. "The inspection order permits identification, measurement, service-state confirmation, and mapping. It does not permit opening the reservoir, rotating the housing, disconnecting the plate, extracting the stake, or changing output."
-
-Kellan looked at him. "You practiced that."
-
-"Yes."
-
-Red almost respected him. Tavian met his eyes. "Red."
-
-"I know."
-
-"Say what you know."
-
-Insulting. Probably necessary. "The full network isn't mapped."
-
-"Yes."
-
-"Changing one lure could move pressure somewhere else."
-
-"Yes."
-
-"You do not know where."
-
-"No."
-
-"Brynn ordered no changes."
-
-"Yes."
-
-Kellan looked at him. "You forgot the part where this thing is pushing predators at people right now."
-
-"I did not forget."
-
-The guard stepped between them and the recess. "We finish the map. The council decides."
-
-Kellan stared uphill. A long animal call rolled through the trees. Not close. Close enough. Another answered farther along the upper slope. The technician stopped measuring. Kellan looked at the stake. "Mapping only." Nobody answered. A third call came from lower down. Then brush crashed above them. Tavian moved first. "Off the road."
-
-Everyone shifted. The guard raised his spear. Kellan grabbed his heavy road hook. A ridge-hound burst through the brush at the drainage cut. Large. Lean. Fast. A second shape moved behind it. Tavian shouted. "Do not chase uphill."
-
-The first lunged. The guard caught it with the spear shaft and redirected the charge. Kellan struck the shoulder with the road hook.
-
-The animal twisted away. The second came around the stone cut. Toward him. Red moved. Not far enough. Claws ripped across his lower ribs. Pain opened hot and immediate. His back hit the retaining wall. The hound came again.
-
-Tavian drove it sideways with the butt of his polearm. "Red. Move." Red moved. Warm blood spread under his shirt. The same impossible logic that made objects from nothing had already begun refusing the damage.
-
-That did not make the claws less painful. The first hound snapped at Kellan. The guard stepped in.
-
-The technician dragged his case clear and grabbed a short hammer. Nobody looked heroic. Useful.
-
-Tavian kept the animals from gaining the uphill line. "Push them down." Kellan understood. He struck low to force the hound away from the farms. The guard did the same. Red got his feet under him.
-
-Something deep in his side tightened and pulled. Correction. Automatic. Unpleasant enough to make him personally offended by his own ribs. The second hound feinted at Tavian. Red stepped into its side and drove it off-line. It hit the ground, scrambled, and snapped at his leg.
-
-Teeth caught cloth and skin. More pain. Tavian used the opening. Polearm. Shoulder. Turn. The animal lost the road and dropped toward lower brush. The first followed when Kellan and the guard pressed it away from the upper approach. Nobody pursued.
-
-For several seconds, all Red heard was breathing. His was ugly. Tavian looked at his side. "You are bleeding."
-
-"I noticed."
-
-The technician stared at the torn shirt. At the wound beneath. At the edges already drawing inward.
-
-He had that face. The medical-opinion face. Red pressed a hand to the injury. The bleeding was slowing. Kellan watched. "You can still move?"
-
-"Yes."
-
-Tavian's expression suggested that answer made everything worse. A distant call rolled down from the upper corridor. Then another.
-
-Kellan looked toward the farms. "How long until the map is complete?" Tavian did not pretend. "I don't know."
-
-"Today?"
-
-"Not the full network."
+Tavian did not offer comfort. "Not today."
 
 "Tomorrow?"
 
-"I don't know."
+"I cannot promise that."
 
-Kellan looked at the stake. It kept working. Quietly. Perfectly. The technician stepped in front of it. "Do not." Kellan looked at him. "I wasn't talking to you."
+The guard took his place at the recess again. The technician checked the reservoir seal, using his own body to block the opening. Rook could not blame them. That did not improve his opinion of the arrangement.
 
-"I am talking to both of you."
-
-His eyes moved to him. Mostly him. Tavian stepped between them. "Red." The same impossible logic kept correcting the damage beneath the pain. That mattered because surviving the next bad choice was not the same thing as making it safe. "You heard me in Greywake."
+"If we leave it running," he asked Tavian, "and somebody uphill gets hit, that's still a choice?"
 
 "Yes."
 
-"You heard me here."
+"And pulling it is another one."
 
-"Yes."
+"With consequences you cannot predict. You heard me in Greywake."
 
-"This lure is contributing to pressure on these farms."
+Rook had. He had also heard Hesk describe years of other people's danger as the cost of keeping a road open. Waiting for that office to approve a change felt less like caution every time the forest called.
 
-"Yes."
+Kellan stepped beside him.
 
-"That does not tell us what disabling it does to every connected route."
+"I want it stopped," he said. "My people are up there. But I cannot tell you where the animals go afterward. I won't promise you that."
 
-"I know."
+That took the useful excuse out of Rook's hands. He could not pretend the road expert had approved a safe shortcut. Tavian was watching him, and the guard had planted himself squarely between Rook and the socket.
 
-"We do not know where displaced movement goes."
+Rook looked at the technician's case. A collar hook and a short pry bar lay in the open tray, both real, both unpleasantly ordinary.
 
-"I know."
+"Step away," the guard said.
 
-"We do not know what other pressure lines are being held apart."
+"In a moment."
 
-"I know."
+He did not need another demonstration of luck. He needed the people in front of him to look somewhere else. Knowing the difference made the next choice worse.
 
-"Then act like you know."
+A field worker shouted from the bend. Brush was moving above her, and a dark head showed through it. The guard turned his spear toward the slope. Tavian went with him, keeping the worker behind his reach.
 
-That landed. Kellan stepped closer. "I want it stopped." Tavian looked at him. Kellan did not back down. "My people are uphill."
+Rook picked up the pry bar.
 
-"I know."
+The technician caught his sleeve. "No."
 
-"That thing is helping push danger at them."
+Kellan put an arm between them. He did not strike him. He simply kept the man from reaching Rook again.
 
-"Yes."
+"I want it stopped," Kellan said.
 
-"Then I want it stopped."
+Tavian looked back. "Rook. Put it down."
 
-Tavian's jaw tightened. Kellan held up one hand. "But I cannot tell you what the rest of the network will do."
+Rook crossed the chalk line around the evidence site and set the bar beneath the outer collar. His wound pulled when he bent. He ignored it, which was a choice his body would probably charge him for later.
 
-Silence. He looked at him. "I know these roads. I know those farms. I know that stake is part of what is hurting them."
+"Not against the ceramic," the technician snapped.
 
-Then the forest. "I do not know where all of that goes if you pull it." The technician nodded sharply. "Exactly."
+Rook paused. The man pointed furiously at a gap beneath the outer ring. A safer place to apply the force, not permission to apply it. Rook moved the bar there.
 
-Kellan turned on him. "Do not mistake that for me agreeing with you."
+The mounting band refused the first pull. He shifted his grip and tried again. Somewhere on its hidden side, metal gave with a sharp ping.
 
-"I don't."
+Tavian left the bend and came toward him. Rook pulled before he reached the recess.
 
-The guard moved to the recess. "Captain Alder's order stands." Red looked at him. "No unauthorized alteration."
+The stake lurched out of its socket. Rook lost his footing, dropped the bar, and caught himself against the wall with his injured side. Pain washed the road white for a moment. The lure hit the stones.
 
-"Correct."
+A crack ran along the ceramic chamber. The rear plate flickered and went dark. The vent stopped humming.
 
-"Evidence preservation."
+Nobody congratulated him.
 
-"Correct."
+Kellan let the technician go. The guard kept watching the slope. Tavian stood beside the dead stake and listened.
 
-"Ecological risk."
+For one breath there was only wind.
 
-"Correct."
+Then an animal called from farther east. A second answered below the road, where there had been silence before.
 
-Another animal called above the farms. Red looked at Tavian. "If we leave it running and someone up there gets hit, is that still a choice?"
+Rook pressed the cloth harder against his ribs.
 
-"Yes."
+The stake was dead.
 
-"And if I pull it and pressure moves somewhere else?"
-
-"Yes."
-
-No clean answer. The guard stepped forward. "Step away." Red looked at him. "No." His grip tightened. Tavian put an arm across his path. "Red."
-
-"I heard you."
-
-"That is not the same as listening."
-
-"I listened."
-
-"Then don't."
-
-His side hurt. His leg hurt. The calls came again. Red looked toward the farms. "No." Tavian's eyes narrowed. The guard stepped in. "This is your last warning."
-
-"Then we're all informed."
-
-Red moved. Tavian caught his shoulder. A stop, not an attack. Red twisted free. The guard blocked the recess. He shoved the spear shaft aside and moved him back with his forearm.
-
-Hard enough to clear space. Not enough to injure him. The technician grabbed his sleeve. "Don't."
-
-Red pulled free. Kellan stepped between him and him. Not attacking. Blocking the second grab. Tavian's voice cut through it. "Kellan."
-
-"I know."
-
-"You cannot know this is safe."
-
-"I know."
-
-Kellan did not look away from the technician. "I want the stake stopped." Then he glanced at him. "What happens after is not something I can promise."
-
-He stepped aside. The choice stayed his. Red crossed the evidence line. The lure sat inside the recess. Dark stake. Metal collar. Ceramic chamber. Vented cap. The simple ugly thing they had spent days proving was not simple.
-
-Red grabbed the upper band and pulled. It did not move. Of course. The mounting collar held tight. Red could have ripped the recess out of the wall. He could have torn the whole retaining structure apart.
-
-That would also tear apart a device full of alchemical material nobody understood well enough. Raw force was not the missing ingredient. Controlled leverage was.
-
-A hook. A wedge. A pry tool built for this exact collar. Dark material folded into his hand. Long enough for leverage. Hooked jaw at one end.
-
-Wedge at the other. Not because that was the most power Red had. Because that was the tool the job needed.
-
-Red jammed the hook beneath the collar. The technician shouted. "Do not put pressure on the ceramic chamber."
-
-Red looked at him. "Then tell me where." His jaw tightened. Then practicality won. "Lower. Under the outer ring." Red shifted the tool. The jaw reshaped around the angle. Hook. Wedge. Leverage. Red pulled. The fastening band snapped. The guard started forward. Kellan blocked him. "Do not make this worse."
-
-"Move."
-
-"No."
-
-Tavian watched the stake, the slope, and all of them. Red drove the wedge under the collar. The lure mount lifted.
-
-A thin line of pale mana-light flickered across the rear plate. The technician's face went white. "Stop."
-
-Red heard him. He kept going. The stake came out of the socket with a violent jerk.
-
-Red stepped back instead of falling. The tool had finished its job. He released it.
-
-Dark material folded away. One tool. Enough. The stake struck the stones. The ceramic chamber cracked along one edge but did not shatter. The etched channels on the rear plate faded.
-
-The vent stopped humming. For one breath, nobody moved. Then an animal called in the distance.
-
-Farther east. Tavian's head snapped toward the sound. A second call answered from somewhere else.
-
-Kellan looked at him. The lure was dead. The calls had moved.
+The forest had changed its mind.

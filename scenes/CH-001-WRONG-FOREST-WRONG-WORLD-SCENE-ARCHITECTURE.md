@@ -1,11 +1,13 @@
+> **Historical scene plan — superseded 2026-10-02.** Use the current manuscript, chapter roadmap and scene notes in this directory. The old power/POV instructions and Gate wording below do not authorize current prose.
+
 # CH-001 Scene Architecture — Wrong Forest, Wrong World
 
-**Volume:** 1 — Greywake Arc  
-**Chapter:** CH-001 — Wrong Forest, Wrong World  
-**Phase:** Detailed Scene Architecture  
-**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-001 MANUSCRIPT AUTHORIZED  
-**Final Scene Count:** 5  
-**POV:** Red Jackal first person  
+**Volume:** 1 — Greywake Arc
+**Chapter:** CH-001 — Wrong Forest, Wrong World
+**Phase:** Detailed Scene Architecture
+**Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-001 MANUSCRIPT AUTHORIZED
+**Final Scene Count:** 5
+**POV:** Red Jackal first person
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
 
 # Soul-Drift / Final Story-Engine Override
@@ -63,8 +65,8 @@ He uses performance to regain psychological control because he does not actually
 
 ## SC-001 — Still Alive, Apparently
 
-**Approximate Time:** Minute 0–7 after regaining consciousness.  
-**Location:** Hollow March forest floor beneath dense, unfamiliar woodland canopy. No visible settlement or maintained road yet.  
+**Approximate Time:** Minute 0–7 after regaining consciousness.
+**Location:** Hollow March forest floor beneath dense, unfamiliar woodland canopy. No visible settlement or maintained road yet.
 **Characters / Creatures Present:** Red Jackal only.
 
 ### Scene Purpose
@@ -190,8 +192,8 @@ Movement through the forest naturally becomes environmental investigation in SC-
 
 ## SC-002 — This Is Not My Neighborhood
 
-**Approximate Time:** Minute 7–25.  
-**Location:** Deeper Hollow March forest, shallow rise, traces of an old overgrown road or drainage cut, abandoned roadside stonework.  
+**Approximate Time:** Minute 7–25.
+**Location:** Deeper Hollow March forest, shallow rise, traces of an old overgrown road or drainage cut, abandoned roadside stonework.
 **Characters / Creatures Present:** Red Jackal; distant unseen wildlife only.
 
 ### Scene Purpose
@@ -288,8 +290,8 @@ Environmental curiosity turns into survival tension in SC-003.
 
 ## SC-003 — Something Is Hunting Me
 
-**Approximate Time:** Minute 25–33.  
-**Location:** Overgrown road cut / broken roadside ditch with limited sightlines.  
+**Approximate Time:** Minute 25–33.
+**Location:** Overgrown road cut / broken roadside ditch with limited sightlines.
 **Characters / Creatures Present:** Red Jackal; one small opportunistic Hollow March predator, species intentionally unnamed because Red Jackal cannot identify it yet.
 
 ### Scene Purpose
@@ -396,8 +398,8 @@ The concrete imagined need triggers SC-004.
 
 ## SC-004 — That Was Not There Before
 
-**Approximate Time:** Minute 33–40.  
-**Location:** Same roadside cut and nearby broken road structure.  
+**Approximate Time:** Minute 33–40.
+**Location:** Same roadside cut and nearby broken road structure.
 **Characters / Creatures Present:** Red Jackal; same opportunistic predator.
 
 ### Scene Purpose
@@ -542,8 +544,8 @@ He chooses not to remain at the fight site and follows the old route toward clea
 
 ## SC-005 — Greywake
 
-**Approximate Time:** Minute 40–70, including cautious travel after the encounter.  
-**Location:** Old route joining a better-maintained frontier road; roadside post/sign within the Greywake approach network but outside settlement sight.  
+**Approximate Time:** Minute 40–70, including cautious travel after the encounter.
+**Location:** Old route joining a better-maintained frontier road; roadside post/sign within the Greywake approach network but outside settlement sight.
 **Characters / Creatures Present:** Red Jackal only; distant ordinary wildlife.
 
 ### Scene Purpose

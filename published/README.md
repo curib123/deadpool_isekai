@@ -111,4 +111,4 @@ This keeps CH-001 as the first dramatic reading unit and avoids making a new rea
 
 ## 2026-10-02 Revision Sources
 
-The optional prologue and all 26 Volume 1 reader copies have been refreshed from current manuscript text on this branch. Their prose contains no production metadata. The synopsis now describes Rook Vane, permanent ignorance of his passive luck, theatrical performance, and consequential misunderstandings. No external posting was performed. See `qa/ROOK-CLUELESS-LUCK-REVISION-QA.md` for the source-equivalence review.
+The optional prologue and all 26 Volume 1 reader copies have been refreshed from current manuscript text on this branch. Their prose contains no production metadata. The synopsis now describes Luck Everhart, permanent ignorance of his passive luck, theatrical performance, and consequential misunderstandings. No external posting was performed. See `qa/LUCK-CLUELESS-LUCK-REVISION-QA.md` for the source-equivalence review.

@@ -1,34 +1,49 @@
 # Character Bible
 
 **Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
-**Status:** AUTHOR-DIRECTED REVISION — STABLE PERFORMER / PERMANENTLY CLUELESS LUCK — 2026-10-02
+**Status:** AUTHOR-DIRECTED REVISION — CINEMATIC STABLE PERFORMER / PERMANENTLY CLUELESS LUCK — 2026-10-03
 
 # 1. Character Canon Rules
 
 Characters must have independent goals, fears, competencies, relationships, and knowledge limits.
 
-No supporting character exists only to admire Rook.
+No supporting character exists only to admire Luck.
 
-Rook may steal attention without stealing everyone else's causality.
+Luck may steal attention without stealing everyone else's causality.
 
-# 2. CHAR-001 — Rook Vane
+# 2. CHAR-001 — Luck Everhart
 
 ## 2.1 Identity
 
-**Current Name:** Rook Vane  
+**Current Name:** Luck Everhart  
 **Origin:** Earth  
 **Arrival:** Soul Drift after a mysterious explosion  
 **System Status:** UNDEFINED / NO RECORD / ANOMALY  
 **Role:** reader-facing protagonist / story intruder / accidental legend  
 **Power:** Fortune Distortion only
 
-Rook Vane is not a chosen Hero.
+Luck Everhart is not a chosen Hero.
 
 He is not secretly an immortal, max-level fighter, reality-warper, regenerator, time-stopper, or divine avatar.
 
+## 2.1A Name Origin
+
+**Luck Everhart is a self-chosen Veyran name, not a recovered Earth identity.**
+
+After surviving his first forest encounter through an absurd chain of individually possible accidents, he still cannot recover a reliable full Earth name. He chooses **Luck** with dry irony because "lucky" is the least impossible explanation he has for still being alive.
+
+He chooses **Everhart** because it sounds like the kind of surname a mysterious traveler should have when he has no usable history to give strangers. To Luck, it is presentation: memorable, respectable, and dramatic enough to say at a gate without admitting that his past is mostly blank.
+
+The choice is important because it establishes three permanent traits at once:
+- he recognizes individual lucky incidents without recognizing a supernatural luck power;
+- he consciously authors his public persona;
+- he would rather improvise a convincing identity than confess uncertainty to an audience.
+
+No later reveal converts "Luck Everhart" into a secret birth name, prophecy name, divine title, or proof that he understood Fortune Distortion.
+
 ## 2.2 Appearance
 
-Rook should look distinctive without visually copying any existing franchise character.
+Luck should look distinctive without visually copying any existing franchise character.
 
 Default visual direction:
 - lean adult build;
@@ -43,7 +58,7 @@ His strongest visual trait is composure under absurd circumstances.
 
 ## 2.3 Earth History
 
-Rook had an ordinary Earth life that is mostly damaged by Soul Drift.
+Luck had an ordinary Earth life that is mostly damaged by Soul Drift.
 
 He retains:
 - language-like cognitive structure;
@@ -79,7 +94,7 @@ Private reality:
 - quick to notice when another person has misunderstood him;
 - shameless enough to let a useful misunderstanding continue.
 
-Rook is not a pure coward and not a fearless monster.
+Luck is not a pure coward and not a fearless monster.
 
 He is a normal-minded person placed inside increasingly abnormal circumstances who already enjoys a straight face and an impressive line. Danger changes the cost of the performance, not the existence of that personality.
 
@@ -87,7 +102,7 @@ He is a normal-minded person placed inside increasingly abnormal circumstances w
 
 Freedom.
 
-Rook wants to move through Veyr without being owned by:
+Luck wants to move through Veyr without being owned by:
 - the System;
 - institutions;
 - prophecies;
@@ -132,9 +147,9 @@ This includes:
 
 ## 2.9 Fortune Distortion
 
-Fortune Distortion is Rook's only supernatural power.
+Fortune Distortion is Luck's only supernatural power.
 
-Rook does not consciously activate it.
+Luck does not consciously activate it.
 
 He does not know the exact probability of anything.
 
@@ -148,7 +163,7 @@ Examples:
 - a falling object blocks an attack;
 - an attacker collides with another threat;
 - a hidden document is exposed by an unrelated accident;
-- Rook guesses the wrong route and finds the right clue;
+- Luck guesses the wrong route and finds the right clue;
 - an ally arrives at the exact useful second;
 - an enemy misreads his silence and reveals information.
 
@@ -156,7 +171,7 @@ Luck may also create a worse secondary problem.
 
 ## 2.10 Clueless-Luck Rule
 
-At any point, including the final chapter, Rook does not think:
+At any point, including the final chapter, Luck does not think:
 
 *"I have probability distortion."*
 
@@ -168,13 +183,13 @@ He thinks:
 - convenient;
 - maybe he is better at improvising than he thought.
 
-The reader recognizes the supernatural pattern; Rook never correctly accepts it as his power. He can call an incident lucky, notice a repeated circumstance, or hear another character's theory without identifying a personal probability ability. His explanations change with the incident: rotting timber, frightened animals, someone arriving late, a useful bluff, or another person's skill. Avoid repetitive denial and avoid erasing evidence from his memory.
+The reader recognizes the supernatural pattern; Luck never correctly accepts it as his power. He can call an incident lucky, notice a repeated circumstance, or hear another character's theory without identifying a personal probability ability. His explanations change with the incident: rotting timber, frightened animals, someone arriving late, a useful bluff, or another person's skill. Avoid repetitive denial and avoid erasing evidence from his memory.
 
 ## 2.11 Misinterpretation Engine
 
 Recurring structure:
 
-**Rook acts with incomplete information → luck makes the result look deliberate → witnesses infer a deeper plan → Rook notices → Rook refuses to correct them → reputation grows**
+**Luck acts with incomplete information → luck makes the result look deliberate → witnesses infer a deeper plan → Luck notices → Luck refuses to correct them → reputation grows**
 
 Witnesses may interpret him as:
 - hidden master;
@@ -190,7 +205,7 @@ No interpretation becomes writer truth merely because characters believe it.
 
 ## 2.12 Aura Farming
 
-Rook enjoys theatrical silence from the beginning. He may improve its timing, but this is not a later personality unlock.
+Luck enjoys theatrical silence from the beginning. He may improve its timing, but this is not a later personality unlock.
 
 He may deliberately:
 - pause instead of admitting he has no answer;
@@ -204,11 +219,11 @@ This is social performance, not supernatural aura.
 
 ## 2.12A Witness Explanations
 
-After an important accident, show a witness connecting two or three visible details into an impressive explanation. Their expertise makes the reconstruction convincing while their missing access to Rook's motive makes its conclusion wrong. Put the account in dialogue, a report read aloud, an accusation, or a rumor Rook hears; never enter another character's thoughts without an established POV break.
+After an important accident, show a witness connecting two or three visible details into an impressive explanation. Their expertise makes the reconstruction convincing while their missing access to Luck's motive makes its conclusion wrong. Put the account in dialogue, a report read aloud, an accusation, or a rumor Luck hears; never enter another character's thoughts without an established POV break.
 
-Tavian can reconstruct terrain and timing while still correcting Rook's unsafe decisions. Maelis can record a statistical anomaly without proving its mechanism or conscious control. Hesk can fear that an unreadable outsider chose specific jobs to expose his policy. Workers can imagine engineering insight. Brynn may use or refuse the legend when assessing deployment. Sela treats wounds rather than reputations. None of these roles replaces the character's own goals.
+Tavian can reconstruct terrain and timing while still correcting Luck's unsafe decisions. Maelis can record a statistical anomaly without proving its mechanism or conscious control. Hesk can fear that an unreadable outsider chose specific jobs to expose his policy. Workers can imagine engineering insight. Brynn may use or refuse the legend when assessing deployment. Sela treats wounds rather than reputations. None of these roles replaces the character's own goals.
 
-Rook's private response is practical or theatrical: he wanted a seat, grabbed the wrong rope, copied a posture, or liked the sound of a sentence. He lets people explain because their version sounds better, saves an awkward admission, or gets him paid. He never lets someone knowingly walk into immediate lethal danger merely to protect his image.
+Luck's private response is practical or theatrical: he wanted a seat, grabbed the wrong rope, copied a posture, or liked the sound of a sentence. He lets people explain because their version sounds better, saves an awkward admission, or gets him paid. He never lets someone knowingly walk into immediate lethal danger merely to protect his image.
 
 ## 2.13 Comedy
 
@@ -216,15 +231,15 @@ Primary comedy sources:
 - inner concern versus outer calm;
 - other people overestimating him;
 - absurd coincidence;
-- Rook taking credit after the fact;
+- Luck taking credit after the fact;
 - dry practical characters refusing to be impressed;
 - rumors mutating;
 - enemies constructing complex explanations for simple mistakes;
-- Rook accidentally making a correct prediction.
+- Luck accidentally making a correct prediction.
 
 Do not force a joke after serious harm.
 
-## 2.14 Serious Rook
+## 2.14 Serious Luck
 
 When a situation becomes genuinely serious:
 - he speaks less;
@@ -236,7 +251,7 @@ When a situation becomes genuinely serious:
 
 ## 2.15 Combat Personality
 
-Rook is not automatically the strongest fighter in the room.
+Luck is not automatically the strongest fighter in the room.
 
 He can be outclassed by:
 - trained soldiers;
@@ -258,7 +273,7 @@ A stronger opponent may dominate most of the fight and still lose because a chai
 
 ## 2.16 Physical Vulnerability
 
-Rook can:
+Luck can:
 - bleed;
 - fracture bones;
 - become exhausted;
@@ -275,7 +290,7 @@ It does not erase damage already sustained.
 
 ## 2.17 Social Behavior
 
-Rook dislikes explaining himself when silence is more useful.
+Luck dislikes explaining himself when silence is more useful.
 
 He reacts differently by person:
 - practical people earn more honest answers;
@@ -286,13 +301,13 @@ He reacts differently by person:
 
 ## 2.18 Long-Term Stability
 
-Rook has no supernatural power progression.
+Luck has no supernatural power progression.
 
 Fortune Distortion is present from the beginning.
 
 What changes:
 - the amount of evidence other people accumulate about the pattern;
-- Rook's ordinary understanding of specific accidents, without discovering a supernatural luck ability;
+- Luck's ordinary understanding of specific accidents, without discovering a supernatural luck ability;
 - his ability to exploit openings;
 - his ordinary competence;
 - relationships;
@@ -312,7 +327,7 @@ What does not change:
 
 ## 2.19 Knowledge State at Foundation
 
-Rook initially knows:
+Luck initially knows:
 - he came from somewhere other than Veyr;
 - his memory is damaged;
 - the System cannot identify him;
@@ -325,26 +340,26 @@ He does not initially know:
 - the Great Design truth;
 - the cause of the Earth explosion.
 
-## 2.20 Rook Vane QA Lock
+## 2.20 Luck Everhart QA Lock
 
 A proposed scene fails if it:
-- gives Rook a second supernatural power;
+- gives Luck a second supernatural power;
 - gives him supernatural regeneration;
 - gives him time stop;
 - gives him reality manipulation;
 - makes him knowingly command exact lucky outcomes;
 - makes him correctly identify his luck as a supernatural power;
 - gives him a deliberate luck experiment or a plan that depends on his personal probability advantage;
-- treats another character's theory as something Rook secretly knows to be true;
+- treats another character's theory as something Luck secretly knows to be true;
 - replaces his established theatrical personality with a solemn mastermind or a conventional hero;
-- makes every supporting character incompetent so Rook can look smart;
+- makes every supporting character incompetent so Luck can look smart;
 - makes every coincidence consequence-free;
 - turns him into a direct copy of an existing copyrighted character;
 - turns him into a conventional morally pure chosen hero.
 
 Required distinction:
 
-**Rook is extraordinarily lucky, not omnipotent.**
+**Luck is extraordinarily lucky, not omnipotent.**
 
 
 # 3. Reusable Cast Pool
@@ -389,18 +404,18 @@ Discovering that the institutions she trusts value control more than truth.
 - can become obsessed with unresolved contradictions;
 - struggles to act when data remains incomplete.
 
-## Relationship Potential with Rook Vane
+## Relationship Potential with Luck Everhart
 She is fascinated by the impossible data but refuses to treat him as a miracle. She can call his bluff because she records what actually happened.
 
-Rook Vane may enjoy trying to make her lose composure.
+Luck Everhart may enjoy trying to make her lose composure.
 
 Neither automatically trusts the other.
 
 ## Independent Relationships
-Maelis has mentors, Ledger rivals, family obligations, and professional ethics that exist independently of Rook Vane.
+Maelis has mentors, Ledger rivals, family obligations, and professional ethics that exist independently of Luck Everhart.
 
 ## Knowledge Boundary
-She knows System failures exist. She does not know the Great Design or Rook Vane's true origin.
+She knows System failures exist. She does not know the Great Design or Luck Everhart's true origin.
 
 # CHAR-003 — Tavian Rook
 
@@ -436,8 +451,8 @@ Failing people because he underestimated a preventable danger.
 - can mistake spontaneity for irresponsibility;
 - carries too much responsibility personally.
 
-## Relationship Potential with Rook Vane
-Tavian is almost impossible to impress with theatrics alone. This makes Rook Vane want to impress him more.
+## Relationship Potential with Luck Everhart
+Tavian is almost impossible to impress with theatrics alone. This makes Luck Everhart want to impress him more.
 
 Their rivalry is not automatically hostile. Tavian can respect results while condemning methods.
 
@@ -476,7 +491,7 @@ Dependency.
 - leaves before others can abandon her;
 - can rationalize morally gray deals.
 
-## Relationship Potential with Rook Vane
+## Relationship Potential with Luck Everhart
 She understands performance as negotiation rather than vanity. She can help him weaponize reputation while also charging him for the trouble.
 
 Their banter can be strong without requiring romance.
@@ -518,7 +533,7 @@ Being reduced to a symbol rather than treated as a person.
 - views compromise as surrender too easily;
 - can pursue a rivalry past good sense.
 
-## Relationship Potential with Rook Vane
+## Relationship Potential with Luck Everhart
 She understands his obsession with self-definition but considers his improvisational chaos vulgar.
 
 He considers her disciplined coolness suspiciously close to trying too hard.
@@ -558,12 +573,12 @@ Using healing or memory magic to force someone to remain the person Nemi wants t
 - carries other people's grief too long;
 - reluctant to abandon someone even when staying is dangerous.
 
-## Relationship Potential with Rook Vane
-Nemi is unimpressed by Rook treating lucky survival as an excuse for self-destruction.
+## Relationship Potential with Luck Everhart
+Nemi is unimpressed by Luck treating lucky survival as an excuse for self-destruction.
 
 They can treat him while still being angry at him.
 
-Nemi is useful as the character who notices the pain and aftermath Rook Vane tries to turn into comedy.
+Nemi is useful as the character who notices the pain and aftermath Luck Everhart tries to turn into comedy.
 
 # CHAR-007 — Edrin Marr
 
@@ -600,8 +615,8 @@ That his own memory cannot be trusted.
 - can prioritize evidence over companionship;
 - does not know when to stop working.
 
-## Relationship Potential with Rook Vane
-Edrin's deadpan refusal to reward theatrical behavior is naturally antagonistic to Rook Vane's aura farming.
+## Relationship Potential with Luck Everhart
+Edrin's deadpan refusal to reward theatrical behavior is naturally antagonistic to Luck Everhart's aura farming.
 
 He may nevertheless respect someone who remains functional when probability stops behaving normally.
 
@@ -639,16 +654,16 @@ That power inevitably isolates its wielder from ordinary consequences.
 - can become self-righteous;
 - reluctant to break rules until evidence becomes overwhelming.
 
-## Relationship Potential with Rook Vane
-Aren represents almost everything Rook Vane mocks about respectable heroism, but he is competent, sincere, and difficult to dismiss as a hypocrite.
+## Relationship Potential with Luck Everhart
+Aren represents almost everything Luck Everhart mocks about respectable heroism, but he is competent, sincere, and difficult to dismiss as a hypocrite.
 
-Rook Vane represents everything Aren fears about charismatic power without accountability.
+Luck Everhart represents everything Aren fears about charismatic power without accountability.
 
 Neither is automatically morally correct in every conflict.
 
 ### Fortune Distortion Character Rule
 
-Rook does not behave like a gambler who knows the odds are rigged.
+Luck does not behave like a gambler who knows the odds are rigged.
 
 He generally:
 - acts first;
@@ -676,7 +691,7 @@ These fingerprints are mandatory whenever the character appears. They define **h
 **Humor:** nearly invisible dry correction.  
 **Never:** melodramatic speculation, vague reassurance, instant emotional certainty.  
 **Pressure behavior:** becomes even more exact; protects chain of evidence and wording.  
-**Rook friction:** refuses to reward performance with the interpretation he wants.
+**Luck friction:** refuses to reward performance with the interpretation he wants.
 
 ## Tavian Rook
 **Speech rhythm:** short operational statements; terrain, timing, movement, risk.  
@@ -684,7 +699,7 @@ These fingerprints are mandatory whenever the character appears. They define **h
 **Humor:** rare, dry, usually accidental.  
 **Never:** long speeches in active danger, theatrical praise, abstract moralizing.  
 **Pressure behavior:** gives one clear instruction at a time and watches whether people follow it.  
-**Rook friction:** does not care whether Rook looks impressive; cares whether Rook changes the geometry safely.
+**Luck friction:** does not care whether Luck looks impressive; cares whether Luck changes the geometry safely.
 
 ## Captain Brynn Alder
 **Speech rhythm:** command language, compact questions, concrete assignments.  
@@ -692,7 +707,7 @@ These fingerprints are mandatory whenever the character appears. They define **h
 **Humor:** restrained and situational.  
 **Never:** lose command presence through excessive exposition.  
 **Pressure behavior:** cuts through debate, assigns roles, protects civilian movement.  
-**Rook friction:** treats Rook as a dangerous resource she cannot own.
+**Luck friction:** treats Luck as a dangerous resource she cannot own.
 
 ## Sela Arven
 **Speech rhythm:** blunt medical imperatives and uncomfortable facts.  
@@ -700,7 +715,7 @@ These fingerprints are mandatory whenever the character appears. They define **h
 **Humor:** dry enough to sound like an insult even when it is care.  
 **Never:** romanticize pain, praise reckless endurance, speculate beyond evidence.  
 **Pressure behavior:** triage, prioritize, stop people from making injuries worse.  
-**Rook friction:** regeneration buys him no exemption from being annoying.
+**Luck friction:** regeneration buys him no exemption from being annoying.
 
 ## Kellan Dorr
 **Speech rhythm:** direct, practical, physical; roads, timber, water, people, distance.  
@@ -708,7 +723,7 @@ These fingerprints are mandatory whenever the character appears. They define **h
 **Humor:** rough, irritated, worker humor.  
 **Never:** bureaucratic abstractions when a physical consequence can be named.  
 **Pressure behavior:** argues from lived outer-road cost, then gets his hands on the problem.  
-**Rook friction:** respects useful work more than impossible spectacle.
+**Luck friction:** respects useful work more than impossible spectacle.
 
 ## Jessa Vale
 **Speech rhythm:** cautious procedural language early; increasingly direct once she chooses a side.  
@@ -716,15 +731,15 @@ These fingerprints are mandatory whenever the character appears. They define **h
 **Humor:** nervous, small, emerging as confidence grows.  
 **Never:** become fearless overnight or forget that wages and siblings matter.  
 **Pressure behavior:** hesitates at the personal cost, then becomes exact when she commits.  
-**Rook friction:** knows he is dangerous but is more afraid of losing ordinary stability.
+**Luck friction:** knows he is dangerous but is more afraid of losing ordinary stability.
 
 ## Rovan Hesk
 **Speech rhythm:** controlled, economical, logistical.  
 **Default move:** converts morality into supply, route, winter, capacity, and survival tradeoffs.  
 **Humor:** almost none.  
-**Never:** villain monologue for its own sake, sadistic gloating, irrational hatred of Rook.  
+**Never:** villain monologue for its own sake, sadistic gloating, irrational hatred of Luck.  
 **Pressure behavior:** becomes more certain that somebody must choose what survives.  
-**Rook friction:** sees Rook first as useful irregular labor, later as an uncontrollable variable who refuses assigned cost.
+**Luck friction:** sees Luck first as useful irregular labor, later as an uncontrollable variable who refuses assigned cost.
 
 ## Group Dialogue Law
 
@@ -738,7 +753,7 @@ A useful contrast pattern is:
 - Kellan asks who on the margins pays;
 - Jessa asks what the records/job actually allow;
 - Hesk asks what Greywake cannot afford to lose;
-- Rook asks, implicitly or explicitly, whether any of this can be made more interesting.
+- Luck asks, implicitly or explicitly, whether any of this can be made more interesting.
 
 Do not force every character to state their role in every scene. The fingerprint should emerge through choices, interruptions, priorities, and sentence rhythm.
 
@@ -783,8 +798,8 @@ Another catastrophe that everyone saw coming but refused to contain because the 
 - sees risk profiles more clearly than people;
 - can justify rights violations as temporary necessity.
 
-## Rook Vane Relationship Potential
-Morn does not need to hate Rook Vane to become his enemy.
+## Luck Everhart Relationship Potential
+Morn does not need to hate Luck Everhart to become his enemy.
 
 That makes him more dangerous.
 
@@ -826,10 +841,10 @@ Dying inside a world whose deepest truths remain hidden forever.
 - treats people as evidence;
 - can justify catastrophe if it produces revelation.
 
-## Rook Vane Relationship Potential
-Pell may view Rook Vane as proof, key, weapon, witness, or door.
+## Luck Everhart Relationship Potential
+Pell may view Luck Everhart as proof, key, weapon, witness, or door.
 
-Rook Vane would hate being assigned any of those roles.
+Luck Everhart would hate being assigned any of those roles.
 
 # 5. Relationship Matrix
 
@@ -837,15 +852,15 @@ This matrix defines foundation dynamics, not guaranteed future events.
 
 | Pair | Foundation Dynamic | Primary Tension |
 |---|---|---|
-| Rook Vane ↔ Maelis | curiosity vs evasiveness | truth/measurement vs self-definition |
-| Rook Vane ↔ Tavian | improviser vs professional | spectacle vs responsibility |
-| Rook Vane ↔ Ilyra | mutually useful schemers | trust vs transaction |
-| Rook Vane ↔ Veska | competitive mirrors | freedom through chaos vs freedom through discipline |
-| Rook Vane ↔ Nemi | patient vs healer who refuses excuses | survival vs consequence |
-| Rook Vane ↔ Edrin | theatricality vs deadpan evidence | performance vs observable reality |
-| Rook Vane ↔ Aren | anti-villain vs respectable hero | individual freedom vs accountable power |
-| Rook Vane ↔ Morn | anomaly vs containment institution | personhood vs risk management |
-| Rook Vane ↔ Pell | unwilling symbol vs obsessive truth-seeker | self-authorship vs imposed meaning |
+| Luck Everhart ↔ Maelis | curiosity vs evasiveness | truth/measurement vs self-definition |
+| Luck Everhart ↔ Tavian | improviser vs professional | spectacle vs responsibility |
+| Luck Everhart ↔ Ilyra | mutually useful schemers | trust vs transaction |
+| Luck Everhart ↔ Veska | competitive mirrors | freedom through chaos vs freedom through discipline |
+| Luck Everhart ↔ Nemi | patient vs healer who refuses excuses | survival vs consequence |
+| Luck Everhart ↔ Edrin | theatricality vs deadpan evidence | performance vs observable reality |
+| Luck Everhart ↔ Aren | anti-villain vs respectable hero | individual freedom vs accountable power |
+| Luck Everhart ↔ Morn | anomaly vs containment institution | personhood vs risk management |
+| Luck Everhart ↔ Pell | unwilling symbol vs obsessive truth-seeker | self-authorship vs imposed meaning |
 | Maelis ↔ Morn | principled junior vs institutional superior | investigation ethics vs containment |
 | Tavian ↔ Aren | practical protector vs public protector | local responsibility vs institutional duty |
 | Ilyra ↔ Maelis | negotiator vs auditor | flexible truth vs documented truth |
@@ -860,9 +875,9 @@ A supporting character should not appear merely because the story “needs a hea
 Before using a recurring character, later planning must answer:
 1. Why are they in this place?
 2. What do they want here?
-3. What would they do if Rook Vane never arrived?
+3. What would they do if Luck Everhart never arrived?
 4. What can they refuse?
-5. What relationship outside Rook Vane still matters?
+5. What relationship outside Luck Everhart still matters?
 6. What consequence follows if they leave?
 7. What part of the local conflict intersects with their own goal?
 
@@ -873,7 +888,7 @@ If those answers are weak, the character deployment fails QA.
 Rivals are not clones with opposite colors.
 
 ## RIVAL-TYPE-01 — Discipline Rival
-Challenges Rook Vane by being more technically competent in a specialized field.
+Challenges Luck Everhart by being more technically competent in a specialized field.
 
 Foundation examples: Tavian, Veska.
 
@@ -883,7 +898,7 @@ Challenges the assumption that freedom without accountability is always preferab
 Foundation example: Aren.
 
 ## RIVAL-TYPE-03 — Intellectual Rival
-Can detect Rook Vane's lies, inconsistencies, or misunderstood assumptions.
+Can detect Luck Everhart's lies, inconsistencies, or misunderstood assumptions.
 
 Foundation example: Maelis.
 
@@ -892,13 +907,13 @@ Competes in reputation, intimidation, spectacle, or symbolic authority without n
 
 No specific character is locked to this slot yet.
 
-Rivalry must create growth or pressure. It cannot exist only to prove Rook Vane superior.
+Rivalry must create growth or pressure. It cannot exist only to prove Luck Everhart superior.
 
 # 8. Antagonist Framework
 
 **Owner:** A045 Antagonist Editor
 
-Every major antagonist must be tied to something larger than “Rook Vane needs an enemy.”
+Every major antagonist must be tied to something larger than “Luck Everhart needs an enemy.”
 
 ## Required Antagonist Record
 
@@ -922,7 +937,7 @@ Every major antagonist must be tied to something larger than “Rook Vane needs 
 - What they are willing to sacrifice:
 - Relationship to local society:
 - Relationship to conflict:
-- Relationship to Rook Vane:
+- Relationship to Luck Everhart:
 - Win condition:
 - Consequence if victorious:
 - Consequence if defeated:
@@ -939,7 +954,7 @@ Ruler, guild leader, crime boss, religious authority, military commander, or pol
 Must be created only after destination planning.
 
 ### ANTAG-TYPE-B — Institutional Containment
-Believes Rook Vane or another anomaly is too dangerous to remain uncontrolled.
+Believes Luck Everhart or another anomaly is too dangerous to remain uncontrolled.
 
 Can be ethically serious rather than sadistic.
 
@@ -951,9 +966,9 @@ Values truth, order, freedom, purity, destiny, faith, or survival so completely 
 Foundation example: Cantor Pell.
 
 ### ANTAG-TYPE-D — Mirror Anti-Villain
-Shares some of Rook Vane's values but demonstrates where they can lead without restraint.
+Shares some of Luck Everhart's values but demonstrates where they can lead without restraint.
 
-Must not simply be “evil Rook Vane.”
+Must not simply be “evil Luck Everhart.”
 
 ### ANTAG-TYPE-E — Survival/Opposing Force
 Monster, disaster, war, curse, environment, or non-personal threat. It may have no evil motive.
@@ -974,15 +989,15 @@ That belongs to Mystery Foundation and later series architecture.
 
 A strong antagonist:
 - wants something understandable;
-- can act when Rook Vane is absent;
+- can act when Luck Everhart is absent;
 - has resources earned by world position;
 - changes local circumstances;
 - can win in at least one meaningful sense;
-- attacks Rook Vane's values, relationships, goals, or limitations rather than only HP;
+- attacks Luck Everhart's values, relationships, goals, or limitations rather than only HP;
 - creates consequences after defeat.
 
 Avoid:
-- villains who become stupid so Rook Vane looks clever;
+- villains who become stupid so Luck Everhart looks clever;
 - villains whose only trait is cruelty;
 - identical “arrogant noble” antagonists;
 - endless secret masterminds;
@@ -1006,11 +1021,11 @@ Those decisions require later Destination, Mystery, Volume, and Chapter planning
 
 # 11. Character Foundation QA Summary
 
-## Rook Vane
+## Luck Everhart
 PASS — identity, Earth history, persona, desire, fear, code, flaws, voice, combat/social behavior, powers, and development boundaries defined.
 
 ## Supporting Cast
-PASS — seven reusable characters/roles including intellectual, martial, logistical, mirror, emotional, survival, and heroic foils. Each has independent history, goal, fear, strengths, flaws, and Rook Vane relationship potential.
+PASS — seven reusable characters/roles including intellectual, martial, logistical, mirror, emotional, survival, and heroic foils. Each has independent history, goal, fear, strengths, flaws, and Luck Everhart relationship potential.
 
 ## Recurring Antagonists
 PASS — two recurring antagonistic characters exist for institutional and ideological pressure without destination assignment.
@@ -1019,7 +1034,7 @@ PASS — two recurring antagonistic characters exist for institutional and ideol
 PASS — multiple forms of rivalry defined without guaranteeing outcomes.
 
 ## Independence
-PASS — cast members have affiliations, careers, goals, and relationships that exist independently of Rook Vane.
+PASS — cast members have affiliations, careers, goals, and relationships that exist independently of Luck Everhart.
 
 ## World Compliance
 PASS — species, factions, nations, System, magic, and cultural origins match Phase 1 canon.
@@ -1041,7 +1056,7 @@ PASS — no destination arc, volume, chapter, scene, or manuscript content creat
 
 **Volume Function:** intellectual foil, anomaly examiner, documentary investigator.
 
-**Boundary:** Maelis does not know Rook Vane's true origin, Great Design truth, Savael, Exterior Needle, or the writer-truth mechanism behind Fortune Distortion.
+**Boundary:** Maelis does not know Luck Everhart's true origin, Great Design truth, Savael, Exterior Needle, or the writer-truth mechanism behind Fortune Distortion.
 
 ## CHAR-003 — Tavian Rook
 
@@ -1051,7 +1066,7 @@ PASS — no destination arc, volume, chapter, scene, or manuscript content creat
 
 **Volume Function:** martial competence foil, monster-route expert, rescue/tactical specialist.
 
-**Boundary:** Tavian does not become Rook Vane's subordinate or admirer. Respect may grow without ideological agreement.
+**Boundary:** Tavian does not become Luck Everhart's subordinate or admirer. Respect may grow without ideological agreement.
 
 # 13. Greywake-Local Character Records
 
@@ -1086,7 +1101,7 @@ Being forced to choose between obeying the settlement's institutions and protect
 - slow to accuse powerful locals without proof;
 - carries too much responsibility personally.
 
-### Relationship to Rook Vane
+### Relationship to Luck Everhart
 Treats him as dangerous but potentially useful. Values results more than presentation and does not reward aura farming automatically.
 
 ### Relationship to Rovan Hesk
@@ -1115,8 +1130,8 @@ Keep frontier casualties alive with limited medicine, mana, staff, and time.
 - distrusts people who romanticize danger;
 - overworks during crises.
 
-### Relationship to Rook Vane
-Observes that Rook repeatedly avoids fatal outcomes through abnormal coincidence and refuses to treat lucky survival as permission for self-destruction.
+### Relationship to Luck Everhart
+Observes that Luck repeatedly avoids fatal outcomes through abnormal coincidence and refuses to treat lucky survival as permission for self-destruction.
 
 ### Knowledge Boundary
 May observe M-005 probability-anomaly symptoms. Does not know the underlying luck mechanism.
@@ -1146,7 +1161,7 @@ Keep outer communities recognized as part of Greywake rather than expendable mar
 - assumes bad faith quickly;
 - can reject compromise before hearing it.
 
-### Relationship to Rook Vane
+### Relationship to Luck Everhart
 Judges him by whether he actually shows up when consequences arrive, not by what he calls himself.
 
 ## CHAR-014 — Jessa Vale
@@ -1229,11 +1244,11 @@ Outer homesteads, unregistered travelers, politically weak camps, inconvenient e
 - assumes logistics justify morality;
 - underestimates people he cannot categorize.
 
-### Relationship to Rook Vane
+### Relationship to Luck Everhart
 Initially treats him as useful unregistered labor and later as a possible scapegoat. This makes the conflict directly about personhood, usefulness, and imposed roles.
 
 ### Win Condition
-Main road remains open, migration is diverted into outer territory, evidence is suppressed, charter prospects remain strong, and Rook Vane can be blamed if necessary.
+Main road remains open, migration is diverted into outer territory, evidence is suppressed, charter prospects remain strong, and Luck Everhart can be blamed if necessary.
 
 ### Consequence If Victorious
 Greywake remains commercially viable in the short term while weaker communities are erased and sacrifice becomes policy.
@@ -1250,7 +1265,7 @@ Not automatically recurring. Later use requires explicit post-Greywake justifica
 **Status:** GATE 6 LOCKED DEPLOYMENT SUPPORT  
 **Scope:** Character placement and identity only. Plot architecture remains owned by `volumes/VOLUME-002-MERROWGATE-ARCHITECTURE.md`.
 
-Greywake-local characters do not automatically travel with Rook Vane. Volume 2 introduces a destination-local cast whose goals exist independently of him.
+Greywake-local characters do not automatically travel with Luck Everhart. Volume 2 introduces a destination-local cast whose goals exist independently of him.
 
 ## CHAR-015 — Captain Iria Voss
 
@@ -1275,11 +1290,11 @@ Keep public harbor authority from becoming an extension of any merchant house.
 - relies heavily on provable procedure;
 - can hesitate while evidence remains incomplete.
 
-### Relationship to Rook Vane
+### Relationship to Luck Everhart
 Initially treats him as a dangerous administrative and security problem. She may recognize his usefulness without becoming his subordinate or admirer.
 
 ### Knowledge Boundary
-May learn that Rook remains UNDEFINED across jurisdictions and that he participated in one off-book movement. She cannot infer his protected origin or cosmology.
+May learn that Luck remains UNDEFINED across jurisdictions and that he participated in one off-book movement. She cannot infer his protected origin or cosmology.
 
 ## CHAR-016 — Samir Kesran
 
@@ -1305,7 +1320,7 @@ Keep smaller dry docks and shipwright yards commercially independent.
 - openly hostile to merchant financiers;
 - takes technical criticism personally.
 
-### Relationship to Rook Vane
+### Relationship to Luck Everhart
 Respects useful improvisation but rejects flashy solutions that ignore load, balance, workers, or structural reality.
 
 ## CHAR-017 — Nessa Quill
@@ -1332,7 +1347,7 @@ Earn enough legitimate contracts to secure a permanent broker charter without be
 - values plausible deniability;
 - can convince herself a suspicious job is merely normal port business.
 
-### Relationship to Rook Vane
+### Relationship to Luck Everhart
 Finds his classification failure commercially interesting. She is not automatically loyal to him and may help route the off-book job that becomes his Volume 2 mistake without knowing the full scheme.
 
 ## CHAR-018 — Dalen Marr
@@ -1358,8 +1373,8 @@ Keep Open Hand cargo moving through Merrowgate without accepting monopoly protec
 - may prioritize network stability over individuals;
 - dislikes improvisation he cannot price.
 
-### Relationship to Rook Vane
-Has heard contradictory Greywake stories before meeting him. He is an early example of Rook's reputation arriving before the person.
+### Relationship to Luck Everhart
+Has heard contradictory Greywake stories before meeting him. He is an early example of Luck's reputation arriving before the person.
 
 # 16. Volume 2 Local Antagonist Record
 
@@ -1407,14 +1422,14 @@ Pass the Unified Harbor Security Charter and place Merrowgate's critical emergen
 ### Sympathy Boundary
 Merrowgate genuinely faces foreign pressure, privateers, smuggling, maritime danger, and fragmented crisis authority. Cassian has funded real rescues and defenses. His line-crossing is manufacturing or amplifying danger to prove only his system can solve it.
 
-### Relationship to Rook Vane
-Initially sees Rook as commercially useful irregular labor whose absent identity and growing rumor can be exploited. Later tries to turn Rook's reputation and real off-book mistake into public proof that stronger centralized control is necessary.
+### Relationship to Luck Everhart
+Initially sees Luck as commercially useful irregular labor whose absent identity and growing rumor can be exploited. Later tries to turn Luck's reputation and real off-book mistake into public proof that stronger centralized control is necessary.
 
 ### Win Condition
-Enough instability becomes undeniable, Rook or another irregular outsider absorbs blame, emergency authority is invoked, and the Unified Harbor Security Charter gives Venn practical control over movement and security.
+Enough instability becomes undeniable, Luck or another irregular outsider absorbs blame, emergency authority is invoked, and the Unified Harbor Security Charter gives Venn practical control over movement and security.
 
 ### Knowledge Boundary
-Cassian does not know why Rook is UNDEFINED and possesses no protected Savael, Exterior Needle historical truth, Great Design, Fortune Distortion writer-truth mechanism, or technical Fate knowledge.
+Cassian does not know why Luck is UNDEFINED and possesses no protected Savael, Exterior Needle historical truth, Great Design, Fortune Distortion writer-truth mechanism, or technical Fate knowledge.
 
 ### Return Status
 Not automatically recurring. Later use requires explicit post-Merrowgate justification.

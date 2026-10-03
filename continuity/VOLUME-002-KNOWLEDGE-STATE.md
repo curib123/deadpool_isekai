@@ -1,5 +1,34 @@
 # Volume 2 Knowledge State — Merrowgate Arc
 
+> **CURRENT AUTHORITY — 2026-10-03:** `planning/LUCK-EVERHART-CINEMATIC-CANON.md` supersedes conflicting historical power/knowledge statements below. Luck Everhart is mortal, has passive Fortune Distortion only, does not regenerate, cannot create manifestations/constructs, and never correctly learns that supernatural luck is his power. Knowledge progression may cover events, institutions, rumors, and ordinary causal evidence, but never conscious mastery of Fortune Distortion.
+
+
+## 2026-10-03 Luck Everhart Canon Override
+
+This override supersedes every conflicting power/POV instruction below. Luck Everhart is written in **distant third-person limited**. His only supernatural ability is **passive Fortune Distortion**: improbable but physically/socially possible causal chains. He has **no Play Logic, constructs, manifestations, raw-strength superpower, regeneration/self-restoration, Stage progression, time stop, or conscious probability control**. He remains mortal and injured consequences persist. Luck never correctly discovers Fortune Distortion as his personal supernatural power.
+
+Any legacy field below mentioning Play Logic, manifestations, constructs, regeneration, overwhelming capability, or voluntary supernatural display is **deprecated planning text**. For production, replace it with either an ordinary action or a visible luck chain that Luck does not consciously command. The Merrowgate plot order, local antagonist, sabotage scheme, reversal, climax, and resolution remain structurally valid unless they require one of those discarded powers.
+
+
+# CURRENT LUCK EVERHART CINEMATIC AUTHORITY — 2026-10-03
+
+This section supersedes **all conflicting historical text in this file**.
+
+- Protagonist: **Luck Everhart**.
+- POV: **distant third-person limited centered on Luck**.
+- Luck's only supernatural ability is **passive Fortune Distortion**.
+- Fortune Distortion biases individually possible events; Luck cannot activate it, command exact outcomes, create matter, stop/rewind time, regenerate, or unlock additional supernatural powers.
+- Luck remains physically mortal. Injuries, treatment, money, damaged equipment, debts, rumors, political consequences, and relationship changes persist.
+- Luck never correctly identifies a personal supernatural luck ability, including in the ending.
+- Luck enjoys theatrical entrances, mysterious lines, and looking important from the beginning; this is personality, not a later unlock.
+- Major lucky outcomes must show physical/social cause and effect before the payoff.
+- Witnesses may correctly reconstruct visible mechanics while wrongly attributing deliberate genius to Luck.
+- Misunderstandings must vary and must create later consequences rather than functioning as consequence-free praise.
+- Scene standard: **goal → obstacle → attempt → meaningful change** with clear staging and purposeful dialogue.
+- Any legacy references below to **Luck Everhart**, close/distant third-person limited narration, Play Logic, regeneration, manifestations, overwhelming raw power, Stage progression, or eventual luck awareness are **historical only and non-authoritative**.
+- Greywake remains the completed Volume 1 destination arc; Merrowgate remains the approved Volume 2 destination arc. Existing plot order survives unless a chapter-level cinematic revision explicitly changes execution while preserving causal continuity.
+
+
 **Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
 **Volume:** 2  
 **Destination:** DEST-002 — Merrowgate  
@@ -10,29 +39,29 @@
 The retcon in `planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md` supersedes conflicting origin, memory, fourth-wall, Stage, and moral-development assumptions in this file.
 
 Writer truth:
-- natural far Soul Drift brought Red to Veyr after a mysterious Earth explosion;
+- natural far Soul Drift brought Luck to Veyr after a mysterious Earth explosion;
 - most autobiographical memory was lost;
-- Red retains deep meta-comedic/media cognitive residue;
+- Luck retains deep meta-comedic/media cognitive residue;
 - Fourth-Wall Pause is available from the beginning;
-- Red has no power progression and no conventional moral-development arc;
-- CH-027's event sequence and prose are synchronized to the Soul-Drift close-first-person standard and Gate 9 PASS.
+- Luck has no power progression and no conventional moral-development arc;
+- CH-027's event sequence and prose are synchronized to the Soul-Drift close-distant third-person limited standard and Gate 9 PASS.
 
 # 0A. Overpowered Retcon Knowledge Override
 
 The retcon in `planning/RED-JACKAL-OVERPOWERED-RETCON.md` supersedes old Stage I / exhaustion-as-power-ceiling assumptions.
 
 Writer truth:
-- Red is already overwhelmingly powerful;
+- Luck is already overwhelmingly powerful;
 - Play Logic has no known intrinsic ceiling;
 - no Stage progression exists;
 - public/local characters do not know this automatically;
-- Red himself may not initially conceptualize the full implications cleanly, but raw capability is not earned through later levels.
+- Luck himself may not initially conceptualize the full implications cleanly, but raw capability is not earned through later levels.
 
-Volume 2 knowledge tension concerns what people have witnessed, not Red's actual writer-truth ceiling.
+Volume 2 knowledge tension concerns what people have witnessed, not Luck's actual writer-truth ceiling.
 
-# 1. Red Jackal — Opening Knowledge
+# 1. Luck Everhart — Opening Knowledge
 
-At Volume 2 opening Red canonically knows:
+At Volume 2 opening Luck canonically knows:
 
 - he knows he came from outside Veyr but cannot reconstruct a coherent Earth life;
 - his surviving pre-Veyr memory includes only fragmentary violent/explosion impressions and media/cultural residue;
@@ -55,9 +84,9 @@ He cannot read Veyran normally.
 
 He does not know the writer truth behind any protected mystery.
 
-# 2. Red Jackal — May Learn During Volume 2
+# 2. Luck Everhart — May Learn During Volume 2
 
-Red may learn:
+Luck may learn:
 
 - his identity failure persists outside Greywake;
 - Merrowgate's civic/commercial systems can acknowledge his physical presence without producing a valid native identity;
@@ -67,9 +96,9 @@ Red may learn:
 - older technical/trade records may use terminology different from modern System-standard language;
 - Merrowgate can create a local witnessed-contract workaround without solving his System identity.
 
-# 3. Red Jackal — Must Not Learn Yet
+# 3. Luck Everhart — Must Not Learn Yet
 
-Red must not learn:
+Luck must not learn:
 
 - natural far Soul Drift as the full arrival explanation;
 - exact cause of the Earth explosion;
@@ -91,18 +120,18 @@ Cassian begins knowing:
 - which Venn-linked agents and contractors are knowingly involved;
 - which incidents are opportunistic rather than controlled;
 - the political requirements for passing the Unified Harbor Security Charter;
-- that Red has no normal valid System identity according to public/merchant reports;
-- that Greywake stories make Red commercially useful and politically dangerous.
+- that Luck has no normal valid System identity according to public/merchant reports;
+- that Greywake stories make Luck commercially useful and politically dangerous.
 
 Cassian may learn:
 
-- Red is much harder to incapacitate than expected;
-- Red's manifestations are unpredictable but physically real;
-- Red is not reliably controllable through ordinary employment, debt, or reputation pressure.
+- Luck is much harder to incapacitate than expected;
+- Luck's manifestations are unpredictable but physically real;
+- Luck is not reliably controllable through ordinary employment, debt, or reputation pressure.
 
 Cassian must not know:
 
-- Red's true Soul-Drift origin;
+- Luck's true Soul-Drift origin;
 - exact Earth explosion cause;
 - Savael;
 - Exterior Needle historical truth;
@@ -122,12 +151,12 @@ Begins knowing:
 
 May learn:
 
-- Red's identity cannot be validated normally;
+- Luck's identity cannot be validated normally;
 - the sabotage incidents share commercial beneficiaries;
-- Red participated in one suspicious off-book movement;
+- Luck participated in one suspicious off-book movement;
 - Cassian's network engineered the broader pattern.
 
-Must not infer protected cosmology from Red's anomaly.
+Must not infer protected cosmology from Luck's anomaly.
 
 # 6. Samir Kesran
 
@@ -140,10 +169,10 @@ Begins knowing:
 May learn:
 
 - specific sabotage methods;
-- Red's displayed constructs may be deliberately limited; Samir can judge only observed structural behavior, not Red's maximum capability;
+- Luck's displayed constructs may be deliberately limited; Samir can judge only observed structural behavior, not Luck's maximum capability;
 - Cassian's consolidation plan depends on physical port failures as political evidence.
 
-Does not know why Red is UNDEFINED.
+Does not know why Luck is UNDEFINED.
 
 # 7. Nessa Quill
 
@@ -156,7 +185,7 @@ Begins knowing:
 
 She does not begin knowing Cassian's full scheme.
 
-She may unknowingly route Red's key off-book job.
+She may unknowingly route Luck's key off-book job.
 
 May learn:
 - the job was part of engineered sabotage;
@@ -168,12 +197,12 @@ Begins knowing:
 
 - Open Hand transfer schedules;
 - Merrowgate trade pressure;
-- contradictory Greywake rumors about Red;
+- contradictory Greywake rumors about Luck;
 - merchant houses are competing for security contracts.
 
 May learn:
 - which trade disruptions benefit Venn-linked interests;
-- Red is not adequately described by the rumors.
+- Luck is not adequately described by the rumors.
 
 Does not know protected mystery truth.
 
@@ -192,15 +221,15 @@ By local resolution, public knowledge may include:
 
 - Venn-linked actors shaped several incidents;
 - the Unified Harbor Security Charter would have concentrated excessive private authority;
-- Red was involved in one irregular job but was not the architect of the full scheme;
-- Red remains UNDEFINED by ordinary System identity checks.
+- Luck was involved in one irregular job but was not the architect of the full scheme;
+- Luck remains UNDEFINED by ordinary System identity checks.
 
 # 10. Mystery / Foreshadowing Boundary
 
 ## M-002
 
 Allowed:
-Cross-jurisdictional reinforcement that Red's identity failure follows him.
+Cross-jurisdictional reinforcement that Luck's identity failure follows him.
 
 Not allowed:
 Soul-registry origin proof or writer-truth explanation.
@@ -229,11 +258,11 @@ No other new F-ID is authorized by Gate 6.
 
 Volume 2 may not:
 
-- import Greywake characters merely to give Red familiar companions;
+- import Greywake characters merely to give Luck familiar companions;
 - erase Greywake's local consequences;
-- grant Red literacy without earned progression;
+- grant Luck literacy without earned progression;
 - normalize his System identity;
-- treat any planned display count or size as Red's maximum Play Logic capability;
+- treat any planned display count or size as Luck's maximum Play Logic capability;
 - treat rumor as reliable omniscient information;
 - give local characters protected mystery knowledge without evidence;
 - select Volume 3 before the Merrowgate arc closes through the proper gates.
@@ -244,15 +273,15 @@ Volume 2 may not:
 This section records the maximum planned knowledge progression authorized by the Volume 2 chapter roadmap. It does not itself make any clue canon; manuscript evidence and Gate 9 are still required.
 
 ## CH-027 through CH-029
-Red may learn:
+Luck may learn:
 - Merrowgate is a major Brasswater trade port;
 - his identity failure persists outside Greywake;
 - contradictory Greywake rumors have already reached trade networks.
 
 Iria may learn:
-- Merrowgate's own verification cannot validate Red normally.
+- Merrowgate's own verification cannot validate Luck normally.
 
-Dalen and Nessa may know only rumor plus what Red demonstrates directly.
+Dalen and Nessa may know only rumor plus what Luck demonstrates directly.
 
 ## CH-030 through CH-033
 The local cast may learn:
@@ -262,7 +291,7 @@ The local cast may learn:
 No one may yet claim a unified sabotage conspiracy as proven.
 
 ## CH-034 through CH-035
-Red and Nessa know:
+Luck and Nessa know:
 - they accepted a deliberately off-manifest job;
 - the sealed cargo was represented as replacement counterweight brake assemblies;
 - ordinary inspection was intentionally bypassed.
@@ -288,17 +317,17 @@ They still lack complete direct proof of Cassian's authorship.
 
 ## CH-041 through CH-042
 The cast may learn:
-- surviving records link Red and Nessa to the off-manifest movement;
+- surviving records link Luck and Nessa to the off-manifest movement;
 - the moved parts were counterweight brake assemblies;
 - altered assemblies caused the CH-042 cargo-transfer failure;
-- Red's choice helped enable the sabotage.
+- Luck's choice helped enable the sabotage.
 
-Public knowledge may include Red's real off-manifest involvement.
+Public knowledge may include Luck's real off-manifest involvement.
 
 ## CH-043 through CH-046
 The coalition may build a shared case and defensive plan from earned evidence.
 
-Cassian may know Red stayed and that opposition is organizing, but he does not gain omniscient access to the coalition plan.
+Cassian may know Luck stayed and that opposition is organizing, but he does not gain omniscient access to the coalition plan.
 
 ## CH-047 through CH-048
 Evidence secured during the harbor crisis may establish that Venn-linked actors deliberately shaped multiple incidents to support emergency consolidation.
@@ -308,11 +337,11 @@ This still does not reveal protected cosmology.
 ## CH-049
 Public/local institutional knowledge may include:
 - Cassian's network engineered part of the instability;
-- Red enabled one operation through reckless off-book work but was not the architect;
+- Luck enabled one operation through reckless off-book work but was not the architect;
 - the monopoly-security solution was itself part of the scheme.
 
 ## CH-050
-Merrowgate may establish a local witnessed-contract workaround for Red's declared name.
+Merrowgate may establish a local witnessed-contract workaround for Luck's declared name.
 
 This does not:
 - create native System identity;
@@ -337,7 +366,7 @@ Locked planning state:
 **Chapter:** CH-027 — Salt in the Air  
 **Status:** EVENT/KNOWLEDGE SEQUENCE PRESERVED — PROSE STALE UNDER SOUL-DRIFT RETCON
 
-CH-027 canonically establishes that Red:
+CH-027 canonically establishes that Luck:
 
 - has traveled for several days since leaving Greywake;
 - uses ordinary Avarran road/river transport rather than teleportation;
@@ -383,7 +412,7 @@ Canonical final line:
 
 This section supersedes any historical pre-reset production-status statements elsewhere in this file.
 
-- **CH-001→CH-026:** CURRENT CANON — Soul-Drift / close first-person / final story engine — Gate 9 PASS.
+- **CH-001→CH-026:** CURRENT CANON — Soul-Drift / distant third-person limited / final story engine — Gate 9 PASS.
 - **CH-027 — Salt in the Air:** event/scene sequence preserved, prose STALE — Soul-Drift rewrite + Gate 9 revalidation REQUIRED.
 - **CH-028 — The Man on the Manifest:** PAUSED until CH-027 completes the synchronization cycle.
 - **Official next step:** **CH-027 — Salt in the Air → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**

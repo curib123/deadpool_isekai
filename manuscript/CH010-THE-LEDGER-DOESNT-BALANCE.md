@@ -4,11 +4,11 @@
 **Revision Date:** 2026-10-02
 **Word Count:** 3509
 
-Three stacks of paper were waiting for him when Rook entered the Ledger room. Maelis sat behind them with a pen in one hand and a charged Wayfarer Tongue Token beside her elbow. She did not look up.
+Three stacks of paper were waiting for him when Luck entered the Ledger room. Maelis sat behind them with a pen in one hand and a charged Wayfarer Tongue Token beside her elbow. She did not look up.
 
 "Sit."
 
-Rook sat. The pen continued moving. Scratch. Pause. Scratch. Apparently Rook had arrived before the paperwork had finished becoming disappointed in him. Maelis marked one final line, closed the folder, and pulled a blank sheet toward herself. Her attention finally shifted to him.
+Luck sat. The pen continued moving. Scratch. Pause. Scratch. Apparently Luck had arrived before the paperwork had finished becoming disappointed in him. Maelis marked one final line, closed the folder, and pulled a blank sheet toward herself. Her attention finally shifted to him.
 
 "Tavian reported that yesterday's route check found repeated northeast movement across multiple track ages."
 
@@ -26,13 +26,13 @@ She dipped the pen. Apparently this interrogation had chosen stationery as its w
 
 "First location."
 
-Rook leaned back. Maelis waited without offering him any help.
+Luck leaned back. Maelis waited without offering him any help.
 
 "Picture an old road being slowly murdered by roots—"
 
 "Location."
 
-Rook looked at her. She was completely serious.
+Luck looked at her. She was completely serious.
 
 "Forest edge between the Main Caravan Road and the old northern connector."
 
@@ -42,13 +42,13 @@ Rook looked at her. She was completely serious.
 
 "You can describe one."
 
-That was unfairly practical. So Rook did. Shape. Paint. Nearby drainage. Which direction the road bent. Then she wanted the time. Then weather. Then track direction. Then which signs were old. Which were fresh. Which animals they had actually seen. Which existed only as prints. Then whether Tavian had said the movement was deliberate.
+That was unfairly practical. So Luck did. Shape. Paint. Nearby drainage. Which direction the road bent. Then she wanted the time. Then weather. Then track direction. Then which signs were old. Which were fresh. Which animals they had actually seen. Which existed only as prints. Then whether Tavian had said the movement was deliberate.
 
 "He said something might be influencing it."
 
 "Exact wording."
 
-Rook thought back. Tavian's exact phrasing mattered here.
+Luck thought back. Tavian's exact phrasing mattered here.
 
 "Something may be influencing the movement."
 
@@ -68,7 +68,7 @@ Maelis wrote. By the time she finished with that section, his mysterious norther
 
 "What about the live crossing?"
 
-Of course. Rook looked at the ceiling for support. The ceiling remained institutionally neutral.
+Of course. Luck looked at the ceiling for support. The ceiling remained institutionally neutral.
 
 "Three grazers approached the split. Tavian wanted to watch which route they chose."
 
@@ -76,7 +76,7 @@ Of course. Rook looked at the ceiling for support. The ceiling remained institut
 
 "I improved the research."
 
-Her pen stopped. That was the only visible break in her rhythm. Rook corrected himself.
+Her pen stopped. That was the only visible break in her rhythm. Luck corrected himself.
 
 "I interfered."
 
@@ -130,7 +130,7 @@ She put the pen down. For Maelis, that apparently counted as emphasis.
 
 "It means I can use the evidence."
 
-Of course. Rook gave her the rest. The displaced pack from the service road. The worker injured during that encounter. The outer warning marker beyond Kellan's bridge. Five local predator sightings carved beneath an official low-warning symbol. Four days. Last patrol before those sightings. Maelis stopped him there.
+Of course. Luck gave her the rest. The displaced pack from the service road. The worker injured during that encounter. The outer warning marker beyond Kellan's bridge. Five local predator sightings carved beneath an official low-warning symbol. Four days. Last patrol before those sightings. Maelis stopped him there.
 
 "So the official marker may simply have been older than the new sightings."
 
@@ -146,7 +146,7 @@ Her eyes lifted. A tiny pause.
 
 "I reject the allegation."
 
-She ignored that and pulled one of the existing folders toward them. The top sheet was covered in writing Rook could not read. Colored marks ran down one side. Several route symbols Rook recognized sat beside the entries. Maelis pointed at one shaped like a forked road.
+She ignored that and pulled one of the existing folders toward them. The top sheet was covered in writing Luck could not read. Colored marks ran down one side. Several route symbols Luck recognized sat beside the entries. Maelis pointed at one shaped like a forked road.
 
 "This is the service-road incident."
 
@@ -154,7 +154,7 @@ She ignored that and pulled one of the existing folders toward them. The top she
 
 "The route report."
 
-Rook leaned closer. The page remained stubbornly unreadable.
+Luck leaned closer. The page remained stubbornly unreadable.
 
 "Where am I?"
 
@@ -168,7 +168,7 @@ That improved his concentration. She indicated one line.
 
 "Yes."
 
-Her finger moved to the next entry. Rook followed the route symbol instead of the words.
+Her finger moved to the next entry. Luck followed the route symbol instead of the words.
 
 "Assistance from irregular labor."
 
@@ -180,7 +180,7 @@ Her finger moved to the next entry. Rook followed the route symbol instead of th
 
 "You still do not have a valid identity record that can be attached to the incident."
 
-Rook looked at the page. The route existed. The workers existed. The injured man existed. The pack existed. Rook apparently existed as a grammatical condition.
+Luck looked at the page. The route existed. The workers existed. The injured man existed. The pack existed. Luck apparently existed as a grammatical condition.
 
 "Does it record my injury?"
 
@@ -202,7 +202,7 @@ Nothing on the page needed to be false. That was the unpleasant part. Maelis ope
 
 "This is your irregular labor trail."
 
-Rook stared at the stack. The stack did not look apologetic.
+Luck stared at the stack. The stack did not look apologetic.
 
 "I have a trail?"
 
@@ -212,7 +212,7 @@ Rook stared at the stack. The stack did not look apologetic.
 
 "You were not."
 
-Rook thought back to Hesk. Private labor. Discretionary expense. Irregular, not undocumented. Jessa had explained the whole thing aloud because Rook could not read the forms. His memory had apparently edited the arrangement for genre. Maelis laid the pages in a row. Each one represented a different part of a worker the system could understand.
+Luck thought back to Hesk. Private labor. Discretionary expense. Irregular, not undocumented. Jessa had explained the whole thing aloud because Luck could not read the forms. His memory had apparently edited the arrangement for genre. Maelis laid the pages in a row. Each one represented a different part of a worker the system could understand.
 
 "Payment approval."
 
@@ -228,7 +228,7 @@ Her finger tapped the page. Then moved on.
 
 "Completion record."
 
-Rook looked from one page to the next.
+Luck looked from one page to the next.
 
 "So Greywake can record my money, my food, where I worked, and whether I finished."
 
@@ -238,7 +238,7 @@ Rook looked from one page to the next.
 
 "It can record the name you use."
 
-"Rook Vane."
+"Luck Everhart."
 
 "Yes."
 
@@ -250,7 +250,7 @@ Maelis placed the payment record beside the route incident.
 
 "If you disappeared on one of these assignments, the expense could still be closed."
 
-Rook waited. Maelis let the silence do useful work.
+Luck waited. Maelis let the silence do useful work.
 
 "The route assignment could remain in the log. Supplies would remain issued. Payment would remain accounted for."
 
@@ -258,7 +258,7 @@ Rook waited. Maelis let the silence do useful work.
 
 "You would not enter the certified-worker casualty system in the normal way."
 
-The joke Rook had been preparing disappeared. That usually meant something had become real.
+The joke Luck had been preparing disappeared. That usually meant something had become real.
 
 "So if I vanish, the silver balances."
 
@@ -278,7 +278,7 @@ Maelis looked at the records. She did not soften the answer.
 
 "Not inside the same structure."
 
-The page settled. Rook tapped the record.
+The page settled. Luck tapped the record.
 
 "Hesk can pay me, send me somewhere, lose me, and still have balanced accounts."
 
@@ -298,7 +298,7 @@ Maelis gathered the pages. Paper scraped softly across the table.
 
 "Because the separation is visible with you."
 
-Somehow less comforting. Rook had been hoping the disposable version was an exaggeration.
+Somehow less comforting. Luck had been hoping the disposable version was an exaggeration.
 
 "Your work is real," she said. "Your payment is real. Your route activity is real. But the worker identity field never resolves."
 
@@ -314,7 +314,7 @@ Worse. She opened another folder.
 
 "These cases are less obvious."
 
-Repeated route symbols ran down the page. Some were outer routes Rook recognized. Others meant nothing to him.
+Repeated route symbols ran down the page. Some were outer routes Luck recognized. Others meant nothing to him.
 
 "What am I looking at?"
 
@@ -340,7 +340,7 @@ She moved to another sheet. The same route problem appeared in a different recor
 
 "Not in the certified casualty summary."
 
-Rook looked between them. The gap was becoming more interesting than the entries.
+Luck looked between them. The gap was becoming more interesting than the entries.
 
 "Why?"
 
@@ -350,7 +350,7 @@ She stood. Apparently the room no longer contained enough paperwork.
 
 "We need the Guild's internal filing categories."
 
-Rook stared at the stacks. They had somehow multiplied without moving.
+Luck stared at the stacks. They had somehow multiplied without moving.
 
 "More paper."
 
@@ -358,7 +358,7 @@ Rook stared at the stacks. They had somehow multiplied without moving.
 
 There were predators in the forest with jaws built to hold struggling prey. Somehow the paperwork was becoming less honest. The Road Guild records office smelled like damp wool, lamp oil, and old paper. Jessa Vale stood behind a narrow counter sorting route packets into wooden slots. The public hall beyond her remained busy. Workers carried rope. Axle parts. Food crates. Sealed packets. Wagon wheels rattled across the yard. The Guild continued functioning while they arrived to ask whether some of the people who made it function had gone missing between categories. Jessa looked at Maelis.
 
-Then his eyes settled on him. Rook kept his hand where it was. Her expression changed slightly. Concern. Maelis placed a written request on the counter. Jessa read it before reaching for any ledger.
+Then his eyes settled on him. Luck kept his hand where it was. Her expression changed slightly. Concern. Maelis placed a written request on the counter. Jessa read it before reaching for any ledger.
 
 "I need the route-loss categories corresponding to these entries."
 
@@ -374,7 +374,7 @@ Jessa's fingers tightened around the paper. The edge bent slightly under her thu
 
 "I also have route incidents with missing completion records, irregular labor expenses, and active certifications that do not reconcile with those totals."
 
-Jessa looked at him. Rook was becoming accustomed to being evidence. Still did not like it. Maelis continued. Her voice stayed neutral.
+Jessa looked at him. Luck was becoming accustomed to being evidence. Still did not like it. Maelis continued. Her voice stayed neutral.
 
 "I need to know where those cases go."
 
@@ -428,7 +428,7 @@ Jessa said nothing. The silence carried its own answer.
 
 "Partly?"
 
-Her eyes moved to him. Rook stayed quiet. Whatever she said next had to belong to her.
+Her eyes moved to him. Luck stayed quiet. Whatever she said next had to belong to her.
 
 "Outer routes also have more incomplete recoveries," she said. "Missing teams. No body. Damaged markers. Local hires who never entered full certification."
 
@@ -474,7 +474,7 @@ Hesk looked at Maelis first. He treated the room like a procedural problem, not 
 
 Then his attention shifted to him. The pause was brief and deliberate.
 
-"Rook Vane."
+"Luck Everhart."
 
 "Still difficult to file."
 
@@ -536,7 +536,7 @@ Hesk's expression did not change. That made the pressure harder to measure.
 
 "I know."
 
-He reached for the ledger. Rook put his hand on it first. Not hard. No threat. Just occupied territory. He had seen people do that before delivering a devastating line. Unfortunately, he had committed the hand before preparing the line. Hesk looked at his hand. Then his eyes settled on him. Rook kept his hand where it was.
+He reached for the ledger. Luck put his hand on it first. Not hard. No threat. Just occupied territory. He had seen people do that before delivering a devastating line. Unfortunately, he had committed the hand before preparing the line. Hesk looked at his hand. Then his eyes settled on him. Luck kept his hand where it was.
 
 "No."
 
@@ -556,7 +556,7 @@ The room changed by half a degree. Enough. Hesk's gaze sharpened.
 
 "I know. That is why she is useful."
 
-Jessa looked at him. Rook continued because pretending this was noble would have been insulting.
+Jessa looked at him. Luck continued because pretending this was noble would have been insulting.
 
 "She knows how your categories actually move. Maelis wants that information. I want that information. You want her back at her desk."
 
@@ -564,15 +564,15 @@ Jessa looked at him. Rook continued because pretending this was noble would have
 
 "Sometimes."
 
-"Rook Vane," Maelis said.
+"Luck Everhart," Maelis said.
 
 "I am not making her talk."
 
-Rook looked at Jessa. This part had to remain hers.
+Luck looked at Jessa. This part had to remain hers.
 
 "If you want to leave, leave."
 
-Then Rook looked at Hesk. His problem was with him choosing for her.
+Then Luck looked at Hesk. His problem was with him choosing for her.
 
 "If you want to decide for her, that is the part I dislike."
 
@@ -594,19 +594,19 @@ His expression stayed controlled. Good. So did his. Hesk said, "You are standing
 
 "Then remember the arrangement."
 
-That irritation returned immediately. Private labor. No standard protection. No normal appeal. Useful because Rook fit into a gap.
+That irritation returned immediately. Private labor. No standard protection. No normal appeal. Useful because Luck fit into a gap.
 
 "I remember it perfectly."
 
-Rook leaned a little closer to the ledger. Not enough to threaten, enough to refuse retreat.
+Luck leaned a little closer to the ledger. Not enough to threaten, enough to refuse retreat.
 
 "I took bad work because it paid. That did not assign you ownership of me."
 
-Silence settled between them. Rook left it there.
+Silence settled between them. Luck left it there.
 
 "And it does not assign you ownership of her answer."
 
-Jessa stared at the ledger. Hesk stared at him. Rook let the silence remain. This was not his testimony. Hesk finally looked at Jessa.
+Jessa stared at the ledger. Hesk stared at him. Luck let the silence remain. This was not his testimony. Hesk finally looked at Jessa.
 
 "Answer factual questions if you choose. No speculation. Restricted originals remain here."
 
@@ -628,7 +628,7 @@ Maelis did not flinch. Her evidence standard survived the pressure intact.
 
 "Good."
 
-He looked at him once more. Calculation. Nothing theatrical. Then he left. Jessa remained still. Rook removed his hand from the ledger.
+He looked at him once more. Calculation. Nothing theatrical. Then he left. Jessa remained still. Luck removed his hand from the ledger.
 
 "You can go."
 
@@ -636,11 +636,11 @@ She looked at him. The answer in her face was steadier than her breathing.
 
 "I know."
 
-Good. That mattered more than the answer. Maelis waited. Rook waited. Maelis let the silence do useful work. Jessa breathed out slowly. Then she reopened the dark ledger.
+Good. That mattered more than the answer. Maelis waited. Luck waited. Maelis let the silence do useful work. Jessa breathed out slowly. Then she reopened the dark ledger.
 
 "There is one thing."
 
-Her choice. Rook said nothing. Maelis said, "Go on." Jessa pointed to a narrow column.
+Her choice. Luck said nothing. Maelis said, "Go on." Jessa pointed to a narrow column.
 
 "When unresolved cases appear in the Main Caravan Road summary, they are counted as route incidents. Not certified casualties."
 
@@ -680,7 +680,7 @@ Boundary. Maelis recognized it immediately.
 
 "All right."
 
-No pressure. No demand. Jessa had chosen the line. They left it there. Back in the Ledger room, Maelis arranged the records into three columns. Same paper. Same stamps. Different meaning now. Rook watched because he could not read any of it and pretending otherwise had lost its entertainment value. She pointed as she worked. Symbols and route positions gave him just enough to follow.
+No pressure. No demand. Jessa had chosen the line. They left it there. Back in the Ledger room, Maelis arranged the records into three columns. Same paper. Same stamps. Different meaning now. Luck watched because he could not read any of it and pretending otherwise had lost its entertainment value. She pointed as she worked. Symbols and route positions gave him just enough to follow.
 
 "Main Caravan Road."
 
@@ -692,7 +692,7 @@ Second stack. The routes outside it.
 
 "Unresolved and irregular losses from the same reporting periods."
 
-Third. Rook looked at the table.
+Third. Luck looked at the table.
 
 "This is about to become either extremely interesting or catastrophically boring."
 
@@ -700,7 +700,7 @@ Third. Rook looked at the table.
 
 "That is what I was afraid of."
 
-Maelis compared one reporting period. Then another. Then a third. She copied totals onto a fresh sheet. Rook could not read the numbers. He could read her face. That was enough. Her expression had become a better translation than the numbers.
+Maelis compared one reporting period. Then another. Then a third. She copied totals onto a fresh sheet. Luck could not read the numbers. He could read her face. That was enough. Her expression had become a better translation than the numbers.
 
 "What?"
 
@@ -716,7 +716,7 @@ She pointed to the outer-route stack. The comparison was finally simple enough f
 
 "Unresolved and irregular losses increased."
 
-Rook stopped. The pattern had just become visible even without literacy.
+Luck stopped. The pattern had just become visible even without literacy.
 
 "Same period?"
 
@@ -736,7 +736,7 @@ Then another period. The direction did not change.
 
 "Yes."
 
-The word was no longer pleasant. Rook looked across the records.
+The word was no longer pleasant. Luck looked across the records.
 
 "Could be more people using outer routes."
 
@@ -750,7 +750,7 @@ The word was no longer pleasant. Rook looked across the records.
 
 "Comparable periods."
 
-Rook thought about Tavian's mud. Food west. Water west. Tracks north. Different evidence. Same unpleasant shape. Maelis sat again. She kept one hand on the totals.
+Luck thought about Tavian's mud. Food west. Water west. Tracks north. Different evidence. Same unpleasant shape. Maelis sat again. She kept one hand on the totals.
 
 "The documents are not all false."
 
@@ -762,7 +762,7 @@ Rook thought about Tavian's mud. Food west. Water west. Tracks north. Different 
 
 "A reporting structure where the Main Caravan Road can become safer in the official summary while losses rise elsewhere without entering the same headline casualty count."
 
-Rook looked at his own irregular-labor record. Payment. Food. Route. Completion. A person reduced to activity because the identity field would not accept him. Jessa's word came back. Practice.
+Luck looked at his own irregular-labor record. Payment. Food. Route. Completion. A person reduced to activity because the identity field would not accept him. Jessa's word came back. Practice.
 
 "Intentional?"
 
@@ -780,7 +780,7 @@ Repeatedly.
 
 "The Main Caravan Road gets safer," she said.
 
-Rook already knew the shape.
+Luck already knew the shape.
 
 "The outer routes pay for it."
 

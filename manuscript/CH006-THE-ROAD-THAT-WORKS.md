@@ -1,17 +1,21 @@
 # Chapter 6 — The Road That Works
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
-**Revision Date:** 2026-09-27
-**Word Count:** 2,730
+**Status:** AUTHOR-DIRECTED CINEMATIC REVISION DRAFT — FORTUNE DISTORTION ONLY / GATE 9 REVALIDATION REQUIRED
+**Revision Date:** 2026-10-03
+**Volume:** 1 — Greywake Arc
 **Chapter QA:** `qa/CH-006-GATE-9-CHAPTER-QA.md`
 
-Five wagons rolled out of Greywake after sunrise. Rook walked beside the third one. That had not been his choice. Apparently one completed bridge job qualified him to look useful near a caravan without qualifying him to choose where Rook looked useful. No repair crew today. No broken hammer. Two Road Guild guards, five wagons, several drivers, a handful of passengers, and him doing an excellent impression of an armed escort without the weapon. Progress. A charged Wayfarer Tongue Token hung inside the lead wagon. As long as Rook stayed near the caravan, the guards' instructions reached him clearly. The written schedule pinned beside it remained meaningless.
+Five wagons rolled out of Greywake after sunrise.
 
-Some problems were loyal. One guard pointed toward the middle of the caravan.
+Luck walked beside the third.
 
-"You stay beside the third wagon."
+That had not been his choice.
 
-Rook looked toward the front. The first wagon had a clear view of the road ahead. Better light. Better sightline. Considerably stronger entrance potential.
+The first wagon had the best view of the road, the cleanest light, and considerably stronger entrance potential. The Road Guild guard who assigned positions had considered none of those qualifications.
+
+"You stay with the third wagon."
+
+Luck looked toward the front.
 
 "I was thinking front-left."
 
@@ -19,49 +23,119 @@ Rook looked toward the front. The first wagon had a clear view of the road ahead
 
 "Not officially."
 
-He stared at him. Rook moved beside the third wagon. So much for the opening shot. The caravan started forward. Nobody seemed especially interested in yesterday's bridge repair. Either the story had not traveled yet, or Greywake had discovered the rare and valuable skill of minding its own business. The Main Caravan Road looked different now that Rook knew what keeping it alive cost. Fresh gravel filled low spots. Drainage cuts had been cleared since the last rain. Brush had been cut back far enough that anything large approaching the road would have to announce itself first. Repaired culverts broke the roadside at intervals. Timber edges had been replaced where runoff chewed at the packed surface.
+The guard stared at him.
 
-Every few hundred paces, newer work crossed older damage. The road worked. Not because the frontier had agreed to behave. Because people kept spending wood, iron, time, money, and irritation on forcing it to. Annoyingly competent. They passed merchants heading toward Greywake, a supply wagon loaded with grain sacks, and a covered passenger cart moving the other direction. Drivers exchanged signals. Guards watched the shoulders. Nobody looked heroic. Everything kept moving. That might have been more important. Their first stop was a toll marker built beside a wide drainage channel.
+Luck moved beside the third wagon.
 
-Two Guild workers checked wagon tags while one of their guards asked about traffic farther ahead. Rook stepped away from the third wagon to stretch his legs. That was when he noticed a man crouched beside the road. Dark travel coat. Worn boots. A polearm rested on the ground within easy reach. He was staring at mud as if it had confessed to something. Naturally, Rook went to investigate. He was one step away when he raised a hand without looking at him.
+So much for the opening shot.
+
+A charged Wayfarer Tongue Token hung inside the lead wagon. As long as Luck remained close to the caravan, shouted instructions reached him clearly. The written schedule pinned beside it remained unreadable.
+
+Some problems were loyal.
+
+The caravan settled into its rhythm. Drivers kept the teams spaced far enough apart that one stopped wagon would not trap the rest. Two Guild guards rotated between the front and rear. Passengers stayed mostly under the canvas covers, emerging only when the road flattened.
+
+Luck watched the road.
+
+Yesterday, it had been a bridge and a paycheck.
+
+Today, he noticed the work.
+
+Fresh gravel filled low spots. Drainage cuts carried runoff away from the wheel ruts. Brush had been cleared several paces from both shoulders, forcing anything large to cross open ground before reaching the wagons. New timber showed where water had eaten into an older culvert.
+
+The road did not work because the wilderness respected it.
+
+It worked because people kept repairing everything the wilderness tried to reclaim.
+
+Annoyingly competent.
+
+They passed a grain wagon bound for Greywake, two merchants riding beside pack animals, and a covered passenger cart traveling the other direction. Drivers exchanged hand signals. Guards checked the road behind each vehicle.
+
+Nobody looked heroic.
+
+Everything kept moving.
+
+Luck suspected that might be more important.
+
+Near midmorning, the caravan stopped beside a Guild toll marker built next to a wide drainage channel. Two workers began checking wagon tags while the lead guard asked about traffic farther north.
+
+Luck stepped away from the third wagon to stretch his legs.
+
+A man crouched at the muddy edge of the drainage channel.
+
+Dark travel coat. Worn boots. A polearm laid within easy reach. He stared at the ground with the concentration of someone interrogating it.
+
+Naturally, Luck went over.
 
 "Don't step there."
 
-Rook stopped with one foot in the air. There were better first impressions. He lowered the boot behind him. He pointed. Only then did Rook saw the tracks. Several broad impressions crossed the damp edge of the drainage channel and disappeared toward the forest. Split-hooved. Deep pressure toward the front. Another trail cut across them. Clawed. Four toes. Longer stride. The man stood. Around thirty, maybe older. Hard to tell with people who spent their lives outdoors and looked personally acquainted with weather. Nothing flashy about him. No polished armor. No decorative cape begging to get caught on a branch.
+The man spoke without looking up.
 
-A small metal insignia sat near his shoulder. Unreadable, obviously. One of the road guards walked over.
+Luck froze with one boot raised.
 
-"Rook."
+Not his strongest entrance.
 
-The man looked at him.
+He lowered it behind him.
+
+The man pointed.
+
+Only then did Luck see the tracks.
+
+Broad split-hoof prints crossed the wet ground and disappeared toward the forest. A second trail cut over them—four-toed, clawed, longer between steps.
+
+One of the caravan guards approached.
 
 "You're holding traffic."
 
-"For less than a minute."
+"For less than a minute," the crouching man said.
 
 "We're on schedule."
 
 "So are the animals."
 
-The guard exhaled through his nose. Interesting. He finally looked at him. The guard gestured between them.
+The guard exhaled through his nose, then gestured toward Luck.
+
+"Luck Everhart. Irregular Guild labor."
+
+A small metal insignia sat near the stranger's shoulder.
+
+The guard nodded toward it.
 
 "Tavian Rook. Crownspine Warden liaison."
 
-Tavian gave him one brief look, then returned to the tracks.
+Tavian finally looked up.
 
-*Apparently I ranked below mud. Unacceptable.*
+His attention rested on Luck for perhaps one second.
 
-"Rook Vane."
+Then returned to the mud.
+
+Luck found the ranking offensive.
+
+"Luck Everhart."
 
 "Tavian Rook."
 
-Then he went back to the tracks. No recognition. No alarm. No respectful pause while he reconsidered every life choice that had led him to this meeting. Rook decided his standards required work. No question about why the System could not define him. He moved closer to the forest edge where the light hit the ground better. Rook adjusted position.
+No recognition.
 
-"Not there either," he said.
+No question about the System.
 
-Rook looked down. Another faint print sat less than half a step from his boot. He moved again. Very dignified. The horse finished chewing. Tavian pointed at the ground.
+No respectful recalculation of everything Tavian had believed about the world.
 
-"What are you looking for?" Rook asked.
+Just dirt.
+
+Luck stepped closer to see what could possibly be winning.
+
+"Not there either."
+
+He stopped again.
+
+A faint print sat half a step from his boot.
+
+Luck moved carefully to the side.
+
+Very dignified.
+
+"What are you looking for?" he asked.
 
 "Direction."
 
@@ -69,17 +143,15 @@ Rook looked down. Another faint print sat less than half a step from his boot. H
 
 "Yes."
 
-"That seems obvious."
+"That part seems solved."
 
-"It is."
+Tavian pressed two fingers beside the deeper hoof print without touching its edge.
 
-He crouched and pressed two fingers beside one of the deeper prints without touching the impression itself.
+"Large browser. Came from the southeast. Moving quickly, not running."
 
-"This came from the southeast. Large browser. Moving quickly, but not running."
+He indicated the clawed marks.
 
-He pointed toward the clawed trail.
-
-"This crossed later. Northwest to south."
+"Predator crossed later. Northwest to south."
 
 "Predator?"
 
@@ -89,13 +161,15 @@ He pointed toward the clawed trail.
 
 "Yes."
 
-Rook waited. He did not rescue the conversation.
+Luck waited.
 
-"What is unusual?"
+Tavian did not rescue the conversation.
+
+"What makes that interesting?"
 
 "The browser should be farther east this time of year."
 
-He traced the edge of the print.
+He stood and studied the tree line.
 
 "The predator usually ranges north of this road before the late rains."
 
@@ -103,19 +177,23 @@ He traced the edge of the print.
 
 "Usually matters."
 
-That was annoyingly reasonable. The road guard folded his arms.
+Annoyingly reasonable.
 
-"Could be weather."
+The caravan guard folded his arms.
 
-"Could be."
+"Weather could push them."
 
-"Or a chase."
+"Could."
 
-"Could be."
+"A chase."
 
-The guard looked at him as if Rook had been invited to vote. He had not. Tavian stood and looked toward the trees.
+"Could."
 
-"One crossing means very little. Two means slightly more. I've seen six like this in three days."
+Luck looked between them.
+
+Tavian picked up his polearm.
+
+"One crossing means almost nothing. I've found six like it in three days."
 
 The guard's expression tightened.
 
@@ -123,17 +201,19 @@ The guard's expression tightened.
 
 "Near it. Side approaches too."
 
-"Our patrols haven't reported anything serious."
+"Our patrols haven't reported attacks."
 
-"I didn't say serious."
+"I didn't say attacks."
 
-Tavian picked up his polearm.
+Tavian looked at the layered tracks.
 
 "I said unusual."
 
-The toll workers finished checking the last wagon. Their guard waved the caravan forward. Tavian started walking in the same direction.
+The toll workers waved the caravan forward.
 
-Rook looked at him.
+Tavian began walking in the same direction.
+
+Luck matched him.
 
 "You're joining us?"
 
@@ -143,35 +223,63 @@ Rook looked at him.
 
 "My next survey point is the rest post."
 
-"So you're joining us temporarily."
+"So temporarily joining us."
 
 "No."
 
-Rook decided the distinction was important to him in ways he did not yet deserve to understand. The caravan moved on. Tavian stayed near the drainage edge, never quite inside their formation. Every few hundred paces he stopped for a few seconds to inspect disturbed soil, broken brush, droppings, bark marks, or some tiny insult to nature that he would have walked over without noticing. He never delayed them enough to justify complaining. That made him harder to dismiss. Rook tried anyway.
+Luck decided the distinction mattered to Tavian in ways he did not yet deserve to understand.
 
-"You always inspect dirt this carefully?"
+The caravan moved north.
 
-"Only when the dirt is useful."
+Tavian stayed near the road's outer edge, never quite joining the formation. Every few hundred paces he slowed long enough to inspect something Luck would have stepped over: bark scraped at shoulder height, broken brush, droppings, a shallow print beside a culvert.
+
+He never delayed the wagons enough for the guards to complain.
+
+That made him harder to dismiss.
+
+"You always inspect dirt this carefully?" Luck asked.
+
+"Only useful dirt."
 
 "Comforting answer."
 
 "You asked."
 
-Tavian was going to be difficult. Worse, he was going to be useful. The guarded rest post appeared before noon where the road widened beside a shallow well and a roofed shelter. Two guards were stationed there. Water barrels stood under an awning. Fresh timber sat beside a repair shed. The brush had been cleared back far enough that the forest seemed to respect a property line. A board displayed route notices. Unreadable. At this point, written information felt personal. Drivers watered the animals while passengers climbed down and stretched. Tavian ignored the well. He walked toward a narrow road branching west.
+Tavian was going to be difficult.
 
-The difference was immediate. The Main Caravan Road had gravel, drainage, cut brush, painted posts, guards, water, and people whose jobs existed specifically to keep it functioning. The side route had ruts. Grass grew through the middle. One drainage ditch had collapsed under mud and leaves. Brush pressed close enough that branches reached over the road. A marker leaned beside the entrance, its painted face faded nearly blank. Rook did not need literacy for this one.
+Worse, he was going to be useful.
 
-"What is down there?" Rook asked.
+The guarded rest post appeared before noon where the main road widened beside a roofed well. Water barrels stood beneath an awning. Fresh timber lay stacked by a repair shed. The brush had been cut back so far that the forest seemed to respect a property line.
 
-Tavian glanced at the old marker.
+Drivers watered the animals.
 
-"Small farms. Wood camps. Connecting tracks farther west."
+Passengers climbed down.
 
-One of their guards heard him.
+Luck found another board full of unreadable notices.
+
+At this point, writing felt personal.
+
+Tavian ignored the well and walked toward a narrow side road branching west.
+
+The contrast was immediate.
+
+The Main Caravan Road had gravel, drainage, painted markers, guards, water, and workers whose entire purpose was keeping it usable.
+
+The side route had ruts.
+
+Grass grew down the middle. One ditch had collapsed under mud and leaves. Brush crowded close enough for branches to hang over the wheel track. A faded marker leaned at the entrance.
+
+Luck did not need literacy for that message.
+
+"What is down there?"
+
+"Small farms. Wood camps. Connecting tracks."
+
+One caravan guard heard him.
 
 "Not our route."
 
-Tavian looked back toward the maintained road.
+Tavian glanced back.
 
 "I know."
 
@@ -183,23 +291,41 @@ Tavian looked back toward the maintained road.
 
 "No."
 
-The guard relaxed. Tavian stepped toward the side spur. Rook followed. The guard did not. That told him something. Tavian crouched beside another track bed. This time Rook stayed two full steps back without being told. Personal growth was a dangerous phrase. Let's call it tactical memory. He pointed toward a broad hoof print at the edge of the rut.
+The guard returned to the wagons.
 
-"Same kind as the toll marker."
+Luck followed Tavian a few paces down the side road.
+
+Tavian crouched beside another track bed.
+
+This time Luck stopped two full steps away without being told.
+
+Personal growth was a dangerous phrase.
+
+Tactical memory sounded better.
+
+Tavian pointed to a broad hoof print.
+
+"Same kind of browser as before."
 
 "Fresh?"
 
 "Yesterday. Maybe late the night before."
 
-A narrower clawed print crossed it. Then another. Beneath both, older impressions ran almost parallel to the road. Tavian scraped loose dirt from one edge with the back of a finger.
+A clawed trail crossed it.
+
+Beneath both, older prints ran almost parallel with the side road.
+
+Tavian scraped loose dirt away from one edge with the back of a finger.
 
 "Older layer."
 
-Rook leaned in. Once he showed him where to look, he could see the shapes. Not well.
+Once he showed Luck where to look, the pattern became visible.
+
+Barely.
 
 Enough.
 
-"So they keep crossing here."
+"So they keep using this approach."
 
 "Yes."
 
@@ -209,49 +335,31 @@ Enough.
 
 "That sounds normal."
 
-"One crossing would be normal."
+"One crossing would be."
 
-He pointed to the older hoof marks.
+Tavian pointed.
 
-"These move west."
+"Older browsers moved west. Newer ones move northeast."
 
-Then the newer set.
+Then the claw marks.
 
-"Those move northeast."
-
-Then the clawed trail.
-
-"Predator moves south."
+"Hunters moved south."
 
 He stood.
 
-"Different directions. Same narrow approach. Repeated."
+"Different directions. Same narrow corridor. Repeated."
 
-The road guard called from behind them.
+The caravan guard called from the rest post.
 
-"Rook."
+"Five minutes!"
 
-Tavian looked over.
+Tavian lifted one hand without turning.
 
-"We're leaving in five."
+Luck looked from the maintained road to the neglected spur.
 
-"I heard."
+"Lower priority?"
 
-The guard nodded toward the maintained road.
-
-"Main route is clear."
-
-"Currently."
-
-"That is the job."
-
-"For you."
-
-The guard did not like that answer. He also did not argue. Rook looked from the staffed rest post to the side spur. One had clean water, guards, repairs, and open sightlines. The other had brush growing into the road.
-
-"Lower priority?" Rook asked.
-
-The guard answered.
+The guard answered from behind them.
 
 "Lower traffic."
 
@@ -259,121 +367,285 @@ The guard answered.
 
 "No."
 
-Tavian said nothing. Somehow that made the answer feel more incomplete. Not false. Incomplete. They moved again after the rest stop. Tavian continued in the same direction, still refusing to admit he was traveling with them. The road followed the forest edge before bending around a low ridge. One guard rode ahead. The other stayed behind the second wagon. Rook remained beside the third. A position selected entirely for utility. Offensive, but survivable. Tavian walked near the front-right edge, watching the tree line. Then he stopped. Not dramatically.
+Tavian said nothing.
 
-Just enough. Rook noticed.
+Somehow that made the answer feel incomplete.
+
+Not false.
+
+Incomplete.
+
+The caravan rolled again.
+
+For another hour, nothing happened.
+
+Then Tavian stopped.
+
+He did not shout.
+
+He simply became still at the front-right edge of the road.
+
+Luck noticed because the man had spent the entire morning moving with purpose.
 
 "What?"
 
-He lifted one hand. The people behind him slowed. The lead guard turned. Something crashed through the brush. A large four-legged animal burst from the trees. Not a predator. At least not the first one. Heavy shoulders. Long narrow head. Two horns swept backward from the skull. Mud streaked one flank. It crossed the drainage ditch badly and hit the road at an angle. Drivers shouted. The animal saw the wagons and changed direction. Then the second shape came through the trees.
+Tavian raised one hand.
 
-Lean. Clawed. Fast. The predator committed to the chase before it seemed to notice the caravan. The road suddenly had too many moving parts. Prey. Predator. Five wagons. Drivers. Passengers. Two guards. Tavian. Rook. Tavian moved first.
+The lead guard slowed.
 
-"Drivers, hold the wagons."
+Brush crashed ahead.
 
-The lead guard hesitated for half a second, read the same situation, then repeated the order louder. The wagons stopped.
+A heavy four-legged animal burst from the trees.
 
-"Passengers behind the wagon line," Tavian said.
+It had long backward-sweeping horns, a narrow head, and mud streaked along one flank. It hit the drainage edge badly, recovered, and crossed onto the road at an angle.
 
-People moved. The prey animal veered toward the opening between the second and third wagons. Rook stepped forward. Perfect angle. If it came through there, Rook could plant himself in the gap and make the predator deal with him. Simple.
+Drivers shouted.
 
-Clean. Visually excellent.
+The horned animal saw the wagons and changed direction.
+
+Then the predator came through behind it.
+
+Lean.
+
+Clawed.
+
+Fast.
+
+The chase reached the caravan before either animal seemed to understand what the wagons were.
+
+Suddenly the road held too many moving pieces.
+
+Five wagons.
+
+Teams.
+
+Passengers.
+
+Two guards.
+
+Prey.
+
+Predator.
+
+Tavian moved first.
+
+"Hold the wagons."
+
+The lead guard read the same danger half a second later.
+
+"Hold! Nobody advances!"
+
+Brakes caught.
+
+Harnesses tightened.
+
+"Passengers behind the wagon line," Tavian ordered.
+
+People moved.
+
+The horned animal veered toward the gap between the second and third wagons.
+
+Luck stepped toward it.
+
+A clean angle.
+
+If he filled the opening, the predator would have to face him before reaching the caravan.
+
+Visually excellent.
 
 "Not there."
 
-Tavian's voice cut across the road. Rook looked at him. He pointed hard to his right.
+Tavian's voice cut across the road.
 
-"Move."
+Luck glanced at him.
 
-"I've got the line."
+"Move right."
+
+"I have the gap."
 
 "You're closing its escape."
 
-The horned animal was already turning. Rook saw it. If he held the gap, he would block the cleanest route away from the wagons. That would leave the frightened animal with one easier direction. Toward the passengers sheltering behind the third wagon. Annoying. Correct. Rook moved. Tavian pointed toward the drainage ditch.
+Luck looked again.
 
-"Keep that side open."
+The prey animal had already begun turning away from him.
 
-The guards shifted with him. The lead guard angled his spear toward the predator without advancing. The second moved closer to the passengers. Nobody chased. Nobody crowded the animals. The prey saw the opening. It took it. Hooves struck packed gravel in front of him, then dropped into the ditch on the opposite side. The predator followed. Too close. Rook stepped into its line after the prey had cleared. This time Tavian did not stop him.
+If he held position, its easiest remaining route led behind the third wagon—toward the passengers.
 
-Better. The predator saw him. Slowed. Rook could have rushed the animal and made the scene worse. He did not need to. Tavian's geometry was already doing the important work, and the guards knew exactly where they belonged. Rook's job was simpler: stay in the line, look threatening, and avoid creating a second problem. Rook planted one foot and widened his stance.
+Annoying.
+
+Correct.
+
+Luck moved.
+
+"Keep the ditch side open," Tavian said.
+
+The guards shifted with him.
+
+Nobody rushed the animals.
+
+Nobody tried to be impressive.
+
+The horned creature saw the opening and took it.
+
+Its hooves struck gravel directly in front of Luck, then dropped into the far ditch.
+
+The predator followed.
+
+Too close.
+
+Luck stepped into its line only after the prey cleared the road.
+
+This time Tavian did not stop him.
+
+Better.
+
+The predator saw three humans between it and the wagons.
+
+It slowed.
+
+The lead guard angled a spear without advancing. The second guard stayed near the passengers.
+
+Tavian opened the road behind the predator.
+
+Luck planted one foot.
 
 "Come on."
 
-The predator lowered its head. Tavian's voice stayed calm.
+The animal lowered its head.
 
-"Don't chase it."
+"Don't chase it," Tavian said.
 
 "I wasn't planning to."
 
-Rook had absolutely considered it. The animal darted left. He matched the movement without advancing. The lead guard closed the other side. The predator checked again. Its prey was already disappearing into the brush. That changed its decision. Good. It snapped once, frustrated. Rook kicked gravel toward its face. Not heroic. Effective. It recoiled. The guard drove his spear point hard into the road ahead of it. Crack.
+Luck had absolutely considered it.
 
-Tavian opened the retreat line behind the animal instead of closing it. The predator turned. Ran. Nobody followed. For several seconds, the road stayed quiet. Then a wagon animal made a nervous sound. Somebody swore. Rook looked at Tavian. He was already checking the passengers.
+The predator darted left.
+
+Luck matched the movement.
+
+The lead guard closed the opposite side.
+
+For two seconds, the animal had no obvious path forward and a perfectly open path backward.
+
+Its prey was already gone.
+
+The predator snapped once.
+
+Luck kicked gravel toward its face.
+
+Not heroic.
+
+Effective.
+
+It recoiled.
+
+The lead guard drove his spear point into the packed road with a crack.
+
+The predator turned and ran.
+
+Nobody followed.
+
+The quiet afterward felt larger than the danger had.
+
+A wagon animal snorted against its harness.
+
+Someone behind Luck swore.
+
+Tavian immediately looked toward the passengers.
 
 "Anyone down?"
 
-No.
+No answer.
 
 "Anyone hit?"
 
-No. Only after that did he turn toward the tracks. People first. Evidence second. Interesting. He crouched at the roadside. The road guard came over.
+Still no.
 
-"That could happen anywhere."
+Only then did he return to the roadside.
+
+People first.
+
+Evidence second.
+
+Luck filed that away.
+
+The caravan guard joined them.
+
+"Could happen anywhere."
 
 Tavian nodded.
 
 "Yes."
 
-The guard looked surprised. So did Rook. Tavian stepped toward the fresh tracks.
+The guard looked surprised.
+
+Luck did too.
+
+Tavian pointed at the mud churned by the fresh chase.
 
 "That isn't the problem."
 
-The prey animal's hooves had torn through older marks near the ditch. The predator's prints crossed behind them. Tavian moved farther along the soft ground.
+Under the new hoof marks lay an older set.
 
-"Here."
+Different depth.
 
-Rook joined him. Carefully. He pointed to a faded print beneath the fresh pursuit line. Another broad hoof mark. Older. Then a separate clawed line crossing from the opposite direction. The road guard leaned closer.
+Different stride.
 
-"You're saying the same animals came through before?"
+Farther along, older clawed tracks crossed from another direction.
 
-"Not the same animals."
+The guard crouched.
 
-"How do you know?"
+"Same animals?"
 
-"Stride. Weight. Toe spread."
+"No."
 
-Of course he had an answer. Tavian walked several paces along the edge and pointed again.
+"How can you tell?"
 
-"More there."
+"Weight. Stride. Toe spread."
 
-Rook looked from the fresh pursuit trail to the older crossings. One incident could be bad luck. Two could still be bad luck. Repeated tracks from different animals moving in directions they apparently should not be moving started to look less like bad luck and more like a pattern. The guard remained unconvinced.
+Of course he had an answer.
+
+Tavian walked several paces and pointed again.
+
+"More."
+
+Luck looked from the fresh trail to the old ones.
+
+One crossing could be weather.
+
+Two could be coincidence.
+
+Repeated animals using the wrong corridor from different directions was beginning to look like something else.
+
+The guard straightened.
 
 "The road is open."
 
-Tavian looked at him.
-
 "Yes."
 
-"No attacks on the caravan."
+"No attack reached the caravan."
 
 "Yes."
 
 "Then we continue."
 
-Tavian nodded.
-
 "We should."
 
-The guard returned to the wagons. No accusation. No argument. He had travelers to move. Tavian had a different job. Rook looked at the forest edge.
+No argument.
 
-"What should they be doing?"
+The guard had travelers to move.
 
-He studied the tracks before answering.
+Tavian had a different job.
 
-"The browsers should be shifting east toward wetter ground."
+The wagons began reforming.
 
-He pointed to the claw marks.
+Luck stayed by the tracks.
 
-"Those hunters should be ranging north along the ridge."
+"What should the animals be doing?"
+
+Tavian answered immediately.
+
+"Browsers should be shifting east toward wetter ground. Those hunters should range north along the ridge."
 
 "And instead?"
 
@@ -383,9 +655,15 @@ He pointed to the claw marks.
 
 "I don't know."
 
-He said it immediately. No theory dressed as certainty. No dramatic explanation because the scene needed one. Just the boundary of what he knew. Useful. The drivers started calling people back into position.
+No theory dressed as certainty.
 
-Rook looked at Tavian.
+No dramatic answer because the scene wanted one.
+
+Luck respected that more than he expected.
+
+The driver of the third wagon called for him.
+
+Luck glanced toward Tavian.
 
 "You coming?"
 
@@ -395,8 +673,20 @@ Rook looked at Tavian.
 
 "It isn't."
 
-Technical definitions again. He picked up his polearm and looked toward the layered tracks. Rook had met people who could tell him whether the System recognized him. People who could tell him whether his body had mass. People who could tell him whether a bridge brace was aligned. Tavian, apparently, could tell him when the wilderness itself was behaving incorrectly. That made him worth listening to. The humor left his face. Not that there had been much available.
+Technical definitions again.
 
-He looked toward the trees.
+Luck returned to his assigned position beside the third wagon.
 
-"The animals are moving wrong."
+Not the front.
+
+Not the heroic angle.
+
+The place the caravan actually needed him.
+
+As the wheels began turning, he looked once more toward the layered tracks beside the ditch.
+
+Greywake's roads were working.
+
+The animals were not.
+
+That felt like the more dangerous problem.

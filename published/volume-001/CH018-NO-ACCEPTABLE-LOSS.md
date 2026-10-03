@@ -1,6 +1,6 @@
 # Chapter 18 — No Acceptable Loss
 
-The emergency route board was crowded with markers. Tavian stood over it with both hands on the table. Brynn moved a militia token. Maelis added another stack of copied records. Hesk watched from the opposite side. Rook stayed where Tavian had told him to stand.
+The emergency route board was crowded with markers. Tavian stood over it with both hands on the table. Brynn moved a militia token. Maelis added another stack of copied records. Hesk watched from the opposite side. Luck stayed where Tavian had told him to stand.
 
 *Not obedience. Positioning. There was a difference.*
 
@@ -34,7 +34,7 @@ Brynn's voice stayed flat. "No." Hesk's jaw tightened. "You are choosing the set
 
 Tavian pointed toward the outer sectors. "Restoring every known lure to the old pattern also assumes current movement matches old movement."
 
-"The network worked before Rook removed a component."
+"The network worked before Luck removed a component."
 
 "It worked at redirecting pressure."
 
@@ -42,7 +42,7 @@ Tavian pointed toward the outer sectors. "Restoring every known lure to the old 
 
 "It also reshaped movement for years."
 
-Hesk leaned forward. "And doing nothing?" Tavian looked at the latest markers. "Also unacceptable." Three bad answers sat on the table. Pull everyone inward. Restore Hesk's sacrificial pattern. Wait for perfect information until the migration made the choice for them. Rook looked at the markers. For once, he did not suggest breaking something. Tavian noticed. He did not comment. Good instincts. "We need somewhere for the pressure to go," he said. Brynn nodded. "Not through farms."
+Hesk leaned forward. "And doing nothing?" Tavian looked at the latest markers. "Also unacceptable." Three bad answers sat on the table. Pull everyone inward. Restore Hesk's sacrificial pattern. Wait for perfect information until the migration made the choice for them. Luck looked at the markers. For once, he did not suggest breaking something. Tavian noticed. He did not comment. Good instincts. "We need somewhere for the pressure to go," he said. Brynn nodded. "Not through farms."
 
 "Not through Greywake."
 
@@ -130,7 +130,7 @@ Tavian added, "Current prey movement crosses it." Gone. South connector. Too nar
 
 "No one said clean."
 
-Tavian's finger stopped on an older northern line. Rook recognized it. Broken North. Old road. Bad washout. Ruined watch point. One hidden lure. Tavian traced it. "Old connector here." Jessa leaned closer. "Used to join three minor routes." Kellan had said the same thing. Brynn looked at the settlement markers. "Current habitation?"
+Tavian's finger stopped on an older northern line. Luck recognized it. Broken North. Old road. Bad washout. Ruined watch point. One hidden lure. Tavian traced it. "Old connector here." Jessa leaned closer. "Used to join three minor routes." Kellan had said the same thing. Brynn looked at the settlement markers. "Current habitation?"
 
 "Very little on the route itself. Active homesteads are farther off."
 
@@ -148,7 +148,7 @@ Tavian looked at field markers. "Migration drift already crossed this corridor b
 
 "Then stop pretending you found a solution."
 
-Tavian looked at him. "I found a direction." Direction. Not solution. Brynn studied the route. "How much work?" Tavian looked at him. Rook raised both hands. "Do not ask me." Progress. "We need Kellan." Sela objected before Kellan did. Ten minutes later, they stood in a covered staging shed beside the treatment house. Kellan lay on a low wheeled cot with his injured leg elevated. Sela looked ready to injure anyone who forgot why. "You have a short window." Kellan looked at her. "I heard you."
+Tavian looked at him. "I found a direction." Direction. Not solution. Brynn studied the route. "How much work?" Tavian looked at him. Luck raised both hands. "Do not ask me." Progress. "We need Kellan." Sela objected before Kellan did. Ten minutes later, they stood in a covered staging shed beside the treatment house. Kellan lay on a low wheeled cot with his injured leg elevated. Sela looked ready to injure anyone who forgot why. "You have a short window." Kellan looked at her. "I heard you."
 
 "Then surprise me."
 
@@ -198,7 +198,7 @@ Brynn wrote that down. Kellan tapped the cracked section. "This is the first rea
 
 "Road workers who listen."
 
-Rook raised one hand. Kellan looked at him. "No."
+Luck raised one hand. Kellan looked at him. "No."
 
 "I hadn't said anything."
 
@@ -266,13 +266,13 @@ Jessa wrote the sequence. Hesk looked at the controls. "You built a committee in
 
 Brynn did not answer immediately. Hesk looked across the table. "The main road cannot be allowed to collapse because you are afraid to make an ugly choice." Tavian pointed at Broken North. "This is an ugly choice." Hesk looked at him. "We are sending workers into an abandoned monster route under active migration pressure. We are using incomplete field data to bias animals toward a corridor that may fail. We are keeping evacuation open because we expect parts of the plan to be wrong." His voice did not change. "The difference is that the failure zone is not a village we already decided could absorb it." Silence.
 
-Brynn looked at him. "Rook."
+Brynn looked at him. "Luck."
 
 "Yes?"
 
 "There are damaged points where temporary support could buy work crews time."
 
-Finally. A job Rook understood. Tavian held up one finger. "Temporary."
+Finally. A job Luck understood. Tavian held up one finger. "Temporary."
 
 "I know."
 
@@ -282,7 +282,7 @@ Finally. A job Rook understood. Tavian held up one finger. "Temporary."
 
 "No improvising a replacement road just because you can."
 
-Rook looked at him. There it was. The correct version. Rook had suggested an abandoned road because it sounded more interesting than arguing over the same damaged routes. Now Kellan was explaining how many workers it needed. His contribution was acquiring specifications. "Fine," he said, trying to sound as if he had expected all of them.
+Luck looked at him. There it was. The correct version. Luck had suggested an abandoned road because it sounded more interesting than arguing over the same damaged routes. Now Kellan was explaining how many workers it needed. His contribution was acquiring specifications. "Fine," he said, trying to sound as if he had expected all of them.
 
 "Can you support a damaged lip long enough for workers to place real bracing?"
 
@@ -308,7 +308,7 @@ No demonstration. No new rule. No need. Hesk looked at the map. "You are weakeni
 
 "Then we deal with that."
 
-His eyes hardened. "You are willing to risk the road." Brynn looked at the outer markers. "I am willing to stop pretending only one road counts as Greywake." Nobody improved that. Jessa finished the schedule draft. Maelis checked authorizations. Tavian reviewed movement reports. Brynn counted crews. Rook stayed at the edge of the table and touched nothing unless asked. Annoyingly, that helped. Tavian placed one marker at Broken North's entrance and another at the far connector. "If we can make this continuous enough and keep populated approaches under controlled pressure, the animals have somewhere else to go."
+His eyes hardened. "You are willing to risk the road." Brynn looked at the outer markers. "I am willing to stop pretending only one road counts as Greywake." Nobody improved that. Jessa finished the schedule draft. Maelis checked authorizations. Tavian reviewed movement reports. Brynn counted crews. Luck stayed at the edge of the table and touched nothing unless asked. Annoyingly, that helped. Tavian placed one marker at Broken North's entrance and another at the far connector. "If we can make this continuous enough and keep populated approaches under controlled pressure, the animals have somewhere else to go."
 
 Hesk looked at the route. "And if they refuse?"
 
@@ -330,6 +330,6 @@ Hesk looked at Brynn. "You approve this?" Brynn checked every marker. Then Maeli
 
 "Risky."
 
-Brynn waited. "So is every other option." She looked toward the treatment house. "Kellan?" Rook answered before thinking. "He said it can be made usable enough to try." Brynn looked at him. Rook stopped. "His words. Not mine." Small nod. Then Hesk. "Your objection is recorded." He said nothing. Brynn put one hand on the Broken North marker. "We prepare it." The room moved immediately. Runners took assignments. Jessa copied schedules. Maelis separated authorization sheets. Tavian listed route confirmations. Hesk stepped back from the table without accepting the plan.
+Brynn waited. "So is every other option." She looked toward the treatment house. "Kellan?" Luck answered before thinking. "He said it can be made usable enough to try." Brynn looked at him. Luck stopped. "His words. Not mine." Small nod. Then Hesk. "Your objection is recorded." He said nothing. Brynn put one hand on the Broken North marker. "We prepare it." The room moved immediately. Runners took assignments. Jessa copied schedules. Maelis separated authorization sheets. Tavian listed route confirmations. Hesk stepped back from the table without accepting the plan.
 
-He did not need to accept it. He needed to obey the limits around it. Tavian pushed the copied Broken North sketch toward him. Three marks. Temporary support points. Not the road. Not the solution. Support. Rook picked up the sketch. This time, the plan was to make somewhere else for the danger to go.
+He did not need to accept it. He needed to obey the limits around it. Tavian pushed the copied Broken North sketch toward him. Three marks. Temporary support points. Not the road. Not the solution. Support. Luck picked up the sketch. This time, the plan was to make somewhere else for the danger to go.

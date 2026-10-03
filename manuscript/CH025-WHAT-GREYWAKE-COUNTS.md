@@ -4,11 +4,11 @@
 **Revision Date:** 2026-10-02
 **Word Count:** 1516
 
-Sela looked at Rook's side, then at his face. "No." Rook had not said anything. "That feels unfair."
+Sela looked at Luck's side, then at his face. "No." Luck had not said anything. "That feels unfair."
 
 "It is preventative."
 
-Sela pushed him back onto the treatment bench before he could stand. The room was full of militia, workers, and outer-route residents with cuts, crushed fingers, broken bones, and animal impacts. Rook's flank wound had reopened during the battle. Sela cleaned it, checked the stitches, and pressed near the bruising beneath his ribs. Rook stopped breathing. "Good," she said. He was beginning to recognize the distinction between good news and a pleasant experience.
+Sela pushed him back onto the treatment bench before he could stand. The room was full of militia, workers, and outer-route residents with cuts, crushed fingers, broken bones, and animal impacts. Luck's flank wound had reopened during the battle. Sela cleaned it, checked the stitches, and pressed near the bruising beneath his ribs. Luck stopped breathing. "Good," she said. He was beginning to recognize the distinction between good news and a pleasant experience.
 
 "That was not my word."
 
@@ -16,7 +16,7 @@ Sela pushed him back onto the treatment bench before he could stand. The room wa
 
 "Yes."
 
-She looked toward the rest of the room. "That does not make anyone else's injury cheaper." Across from him, Kellan sat with his leg splinted and raised. Rook's body followed its own unreasonable rules. Kellan's did not. Kellan noticed Rook looking. "Still attached?"
+She looked toward the rest of the room. "That does not make anyone else's injury cheaper." Across from him, Kellan sat with his leg splinted and raised. Luck's body followed its own unreasonable rules. Kellan's did not. Kellan noticed Luck looking. "Still attached?"
 
 "The important parts."
 
@@ -46,7 +46,7 @@ Both ignored him. Kellan leaned back. "I think this is good for you."
 
 "Being irrelevant."
 
-Rook considered throwing something. Sela had removed anything useful from reach. Brynn eventually won under conditions. Sit whenever possible. Return if bleeding started. No treating abnormal recovery as a reason to make another crisis cheaper. Fine. Before council, Tavian wanted Broken North inspected. So did Rook. The road looked worse in daylight. Temporary guides were gone or broken. Mud covered everything.
+Luck considered throwing something. Sela had removed anything useful from reach. Brynn eventually won under conditions. Sit whenever possible. Return if bleeding started. No treating abnormal recovery as a reason to make another crisis cheaper. Fine. Before council, Tavian wanted Broken North inspected. So did Luck. The road looked worse in daylight. Temporary guides were gone or broken. Mud covered everything.
 
 Fresh timber braced old stone. The inner shelf held on worker-built support. The road was still closed. Good. It should be. A worker caught Tavian crouching near the repaired shelf. "Do not touch that." Tavian stood. "Wasn't planning to." The worker looked at him. "You either."
 
@@ -58,7 +58,7 @@ He kept looking. Fair. Brynn read from a damage sheet. "Three guide points destr
 
 "Longer than Greywake wants."
 
-Specific. "We changed a pattern forced for years. Stopping the lures does not make animals immediately forget the routes they adapted to." The consequences had inertia. Of course they did. Tavian looked at the road. Then at him. "Yesterday, you stopped when I told you to." Rook stopped. Brynn looked at him too. Tavian continued without making it ceremonial. "Then you moved when the line needed it." That was the whole statement. Rook gave him time to reconsider. He did not. "Are you feeling all right?"
+Specific. "We changed a pattern forced for years. Stopping the lures does not make animals immediately forget the routes they adapted to." The consequences had inertia. Of course they did. Tavian looked at the road. Then at him. "Yesterday, you stopped when I told you to." Luck stopped. Brynn looked at him too. Tavian continued without making it ceremonial. "Then you moved when the line needed it." That was the whole statement. Luck gave him time to reconsider. He did not. "Are you feeling all right?"
 
 "Yes."
 
@@ -82,7 +82,7 @@ Of course she did. Maelis tapped a sheet. "We can establish the reserve existed.
 
 "You can request that it be read."
 
-Jessa's grip tightened. "No." Maelis waited. Jessa looked up. "If I lose the job, I am not losing it because somebody says I misunderstood my own records." Nobody promised she would be fine. Good. Lying kindly was still lying. Rook asked: "Do you know if you still have the job?"
+Jessa's grip tightened. "No." Maelis waited. Jessa looked up. "If I lose the job, I am not losing it because somebody says I misunderstood my own records." Nobody promised she would be fine. Good. Lying kindly was still lying. Luck asked: "Do you know if you still have the job?"
 
 "No."
 
@@ -108,11 +108,11 @@ A council member asked: "Was Hesk wrong that Greywake needed the main road prote
 
 Hesk looked at him. Tavian continued. "He was wrong that secret control over who absorbed the danger was the only workable protection." Jessa gave her statement next. Her voice shook. It kept shaking. She finished anyway. Reserve codes. Control book. Service key. Older housing. Unauthorized setting. She did not call Hesk a monster. Facts did not need help. Maelis confirmed the documentary chain. Brynn confirmed detention and seizure. Then someone asked him: "What do you think should happen to Hesk?" Every face turned toward him.
 
-Uncomfortable. Rook looked at Hesk. He looked back. "I think you should stop asking the least qualified person in the room to run your legal system." A few people laughed. Rook let it stop. "He saw a real problem. Then he decided some people counted less because sacrificing them was convenient." Hesk's expression did not change. "I am not deciding his sentence." Good boundary. The council formally removed Hesk from Roadmaster authority. Not temporary suspension. Removed. Longer legal disposition would follow evidence review and whatever authority Greywake handed upward. He remained under guard. The argument survived him.
+Uncomfortable. Luck looked at Hesk. He looked back. "I think you should stop asking the least qualified person in the room to run your legal system." A few people laughed. Luck let it stop. "He saw a real problem. Then he decided some people counted less because sacrificing them was convenient." Hesk's expression did not change. "I am not deciding his sentence." Good boundary. The council formally removed Hesk from Roadmaster authority. Not temporary suspension. Removed. Longer legal disposition would follow evidence review and whatever authority Greywake handed upward. He remained under guard. The argument survived him.
 
-During recess, Rook heard three versions of himself. A worker said he had lured the territorial predator onto the exact footing needed to set the road brace. A caravan driver said he had caused the backflow to weaken Hesk before restoring the route. A recruit said he had never once drawn a weapon because Hesk's defeat had already been arranged. The recruit wanted to accompany him on his next mission. Rook, who had been searching for the meal table, pointed the boy toward Brynn instead. She could supply a mission with instructions.
+During recess, Luck heard three versions of himself. A worker said he had lured the territorial predator onto the exact footing needed to set the road brace. A caravan driver said he had caused the backflow to weaken Hesk before restoring the route. A recruit said he had never once drawn a weapon because Hesk's defeat had already been arranged. The recruit wanted to accompany him on his next mission. Luck, who had been searching for the meal table, pointed the boy toward Brynn instead. She could supply a mission with instructions.
 
-An older man moved away when someone said Rook was still undefined. A child asked if he could make a horse. "I can draw a very disappointing one." His mother removed him before negotiations started. Greywake had apparently classified him as hero, criminal, monster, useful idiot, miracle worker, road hazard, and administrative headache. Rook preferred road hazard. Honest. The final order took longer than fighting Hesk. Naturally. The clerk read every section aloud. The Chartered Road Guild would no longer hold unilateral authority to activate or alter dangerous diversion systems affecting inhabited routes. Such decisions required recorded civic emergency authority.
+An older man moved away when someone said Luck was still undefined. A child asked if he could make a horse. "I can draw a very disappointing one." His mother removed him before negotiations started. Greywake had apparently classified him as hero, criminal, monster, useful idiot, miracle worker, road hazard, and administrative headache. Luck preferred road hazard. Honest. The final order took longer than fighting Hesk. Naturally. The clerk read every section aloud. The Chartered Road Guild would no longer hold unilateral authority to activate or alter dangerous diversion systems affecting inhabited routes. Such decisions required recorded civic emergency authority.
 
 Militia received notice and operational oversight. Route-loss and route-safety records would be copied outside exclusive Guild control. Then came the part Kellan had waited years for. The Outer Homestead Compact would receive formal representation in emergency-route decisions affecting outer settlements. Not courtesy. Not comment afterward. Participation before the choice. Written into the order. Kellan read the copy twice. Then looked at Brynn. "This stays after the emergency?"
 

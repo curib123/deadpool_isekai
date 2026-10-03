@@ -4,7 +4,7 @@
 **Revision Date:** 2026-10-02
 **Word Count:** 2393
 
-Sela saw the stretcher and pointed. "Table." Two assistants moved before the word finished. Kellan went onto the wide treatment bed near the back wall. His face had gone pale under dirt and blood. The lower part of one leg was wrapped badly because badly had been all they had time for on the road. Blood had soaked through the splint. His shoulder sat too low on one side. Every breath was shallow. Rook stood beside the bed with dried blood stiff on his shirt. His side was closing. His leg was already better than it had any right to be.
+Sela saw the stretcher and pointed. "Table." Two assistants moved before the word finished. Kellan went onto the wide treatment bed near the back wall. His face had gone pale under dirt and blood. The lower part of one leg was wrapped badly because badly had been all they had time for on the road. Blood had soaked through the splint. His shoulder sat too low on one side. Every breath was shallow. Luck stood beside the bed with dried blood stiff on his shirt. His side was closing. His leg was already better than it had any right to be.
 
 His shoulder hurt. Kellan was not improving nearly fast enough. Sela cut through the field wrap. "Who splinted this?"
 
@@ -38,7 +38,7 @@ She began preparing a better splint. Then she looked at him. Her eyes went to hi
 
 "No."
 
-Rook sat. She pressed near the wound under his ribs. Pain flashed. "Still bleeding. Hold the dressing while I stitch this."
+Luck sat. She pressed near the wound under his ribs. Pain flashed. "Still bleeding. Hold the dressing while I stitch this."
 
 "Yes."
 
@@ -54,11 +54,11 @@ Rook sat. She pressed near the wound under his ribs. Pain flashed. "Still bleedi
 
 "Mostly."
 
-She touched his shoulder. Rook flinched. "Bruised badly. Nothing obviously displaced." Then she stepped away. "That is all you get." Rook looked at the crystal rack. "I wasn't asking."
+She touched his shoulder. Luck flinched. "Bruised badly. Nothing obviously displaced." Then she stepped away. "That is all you get." Luck looked at the crystal rack. "I wasn't asking."
 
 "I know."
 
-She returned to Kellan. "You are already restoring yourself." Across the room, three people worked around him. Rook's bleeding had stopped. Kellan's had not.
+She returned to Kellan. "You are already restoring yourself." Across the room, three people worked around him. Luck's bleeding had stopped. Kellan's had not.
 
 *That was the difference.*
 
@@ -70,9 +70,9 @@ No promise. No dramatic final prognosis. Just not yet. "We need swelling down. W
 
 "Not enough information yet."
 
-He closed his eyes. Sela looked at him. "Your recovery changes none of that." Rook did not answer. She did not need one. For the next hour, he stayed out of the way. Harder than it sounded. People moved through the treatment house with blood and mud on their clothes. Animal bites. Cuts from carts. Broken fences. Collapsed roadwork. One militia guard had a torn hand from dragging somebody off a failed approach. Nobody had time to ask who started what. Kellan drifted in and out.
+He closed his eyes. Sela looked at him. "Your recovery changes none of that." Luck did not answer. She did not need one. For the next hour, he stayed out of the way. Harder than it sounded. People moved through the treatment house with blood and mud on their clothes. Animal bites. Cuts from carts. Broken fences. Collapsed roadwork. One militia guard had a torn hand from dragging somebody off a failed approach. Nobody had time to ask who started what. Kellan drifted in and out.
 
-Pain tonic finally slowed Kellan's breathing. Sela changed the dressing once, checked the splint, and called that success. Stable was the word, not healed. Rook sat near the wall with his own bloodstained wrap. He could still walk because his wounds were shallower; that fact did nothing for Kellan. When Kellan woke properly, he turned his head. "You still here?"
+Pain tonic finally slowed Kellan's breathing. Sela changed the dressing once, checked the splint, and called that success. Stable was the word, not healed. Luck sat near the wall with his own bloodstained wrap. He could still walk because his wounds were shallower; that fact did nothing for Kellan. When Kellan woke properly, he turned his head. "You still here?"
 
 "Yes."
 
@@ -138,7 +138,7 @@ He breathed carefully. "And Hesk built the damned system."
 
 "Do not give him my leg."
 
-Rook looked at him. "Do not make this proof that he was right about everything."
+Luck looked at him. "Do not make this proof that he was right about everything."
 
 "I won't."
 
@@ -150,7 +150,7 @@ That landed harder. "I won't." He closed his eyes. "Good." Sela crossed over and
 
 "Then go."
 
-Rook looked at Kellan. Sela followed his gaze. "He is alive."
+Luck looked at Kellan. Sela followed his gaze. "He is alive."
 
 "I know."
 
@@ -158,9 +158,9 @@ Rook looked at Kellan. Sela followed his gaze. "He is alive."
 
 "I know."
 
-Outside, Greywake sounded different. More horns. More boots. Wagons moving in the wrong direction. The lower approach had been cleared for militia traffic. Workers hauled barriers toward the gate. Someone had marked one road with red cloth Rook could understand without literacy. The council house doors stood open. Inside, maps covered the emergency table. Maelis stood with copied record packets. Tavian stood at the map. Brynn still wore her field coat.
+Outside, Greywake sounded different. More horns. More boots. Wagons moving in the wrong direction. The lower approach had been cleared for militia traffic. Workers hauled barriers toward the gate. Someone had marked one road with red cloth Luck could understand without literacy. The council house doors stood open. Inside, maps covered the emergency table. Maelis stood with copied record packets. Tavian stood at the map. Brynn still wore her field coat.
 
-Hesk stood opposite them. A representative was saying: "We cannot leave outer pressure uncontrolled." Hesk answered. "We cannot leave any of it uncontrolled." His eyes moved to him. No smile. No satisfaction. That would have been easier. Instead he looked like a man whose argument had just been given bodies. "The hold order was clear." Rook stopped near the table. "Yes."
+Hesk stood opposite them. A representative was saying: "We cannot leave outer pressure uncontrolled." Hesk answered. "We cannot leave any of it uncontrolled." His eyes moved to him. No smile. No satisfaction. That would have been easier. Instead he looked like a man whose argument had just been given bodies. "The hold order was clear." Luck stopped near the table. "Yes."
 
 "You violated it."
 
@@ -174,7 +174,7 @@ Hesk stood opposite them. A representative was saying: "We cannot leave outer pr
 
 "Yes."
 
-Quiet room. Hesk did not need to raise his voice. "The seasonal crossing is gone. Outer routes are collapsing into each other. Movement reached the lower Greywake approach." Brynn said, "We know." "Then stop debating whether centralized control is offensive and start using it." Maelis's expression hardened. Hesk placed one hand on the map. "The strongest remaining outer lures should be brought back to full operation." Rook saw Kellan's leg again.
+Quiet room. Hesk did not need to raise his voice. "The seasonal crossing is gone. Outer routes are collapsing into each other. Movement reached the lower Greywake approach." Brynn said, "We know." "Then stop debating whether centralized control is offensive and start using it." Maelis's expression hardened. Hesk placed one hand on the map. "The strongest remaining outer lures should be brought back to full operation." Luck saw Kellan's leg again.
 
 Hesk continued. "Restore pressure away from Greywake. Reopen the protected corridor. Guild handlers know the equipment. I have route records, crews, compounds, and people who can operate them before the next movement line reaches the walls." Brynn looked at him. "Under whose authority?"
 
@@ -188,15 +188,15 @@ There it was. "Emergency authority over Road Guild lure operations until the mig
 
 "Yes."
 
-A few eyes moved his way. Rook did not argue. "You still think no one should choose?"
+A few eyes moved his way. Luck did not argue. "You still think no one should choose?"
 
 "No."
 
-That made him pause. Rook looked at the map. "Someone always chooses." Kellan chose to support him. Tavian chose to warn him. Brynn chose to hold. Rook chose to pull the stake. Hesk had chosen for years. The question had never been whether choices existed. It was who knew. Who paid. Who could challenge them. Hesk straightened. "Then you understand why authority must be centralized."
+That made him pause. Luck looked at the map. "Someone always chooses." Kellan chose to support him. Tavian chose to warn him. Brynn chose to hold. Luck chose to pull the stake. Hesk had chosen for years. The question had never been whether choices existed. It was who knew. Who paid. Who could challenge them. Hesk straightened. "Then you understand why authority must be centralized."
 
 "No."
 
-His face hardened. There it was. Use his mistake. Turn responsibility into obedience. Maelis spoke before Rook did. "CH-016 does not erase CH-013." Hesk looked at her. She opened one copied packet. "Your admission of deliberate diversion remains recorded." A second. "Repeated outer pressure remains documented." A third. "Manipulated reporting remains documented." Hesk said, "And Rook Vane's unauthorized alteration is documented." "Yes." Maelis looked at him. "It will be." Then Hesk. "Separate responsibility does not cancel previous responsibility." His jaw tightened. "This is not a hearing."
+His face hardened. There it was. Use his mistake. Turn responsibility into obedience. Maelis spoke before Luck did. "CH-016 does not erase CH-013." Hesk looked at her. She opened one copied packet. "Your admission of deliberate diversion remains recorded." A second. "Repeated outer pressure remains documented." A third. "Manipulated reporting remains documented." Hesk said, "And Luck Everhart's unauthorized alteration is documented." "Yes." Maelis looked at him. "It will be." Then Hesk. "Separate responsibility does not cancel previous responsibility." His jaw tightened. "This is not a hearing."
 
 "No."
 
@@ -228,7 +228,7 @@ Another marker. "Not the network state from before one influence was removed." H
 
 "Then you are choosing delay."
 
-"I am choosing not to repeat Rook's mistake with more equipment."
+"I am choosing not to repeat Luck's mistake with more equipment."
 
 That landed. Tavian did not look at him. He did not need to. Brynn stepped closer. "Here is what happens now." Nobody interrupted. "Militia command remains with me. Guild technical crews operate under shared emergency tasking." Hesk's mouth tightened. "Shared with whom?"
 
@@ -260,17 +260,17 @@ Brynn looked at him. "Yes." No one pretended otherwise. "People may also die if 
 
 "Distance?"
 
-The runner answered. Tavian started moving markers. Brynn started giving orders. Maelis gathered records. Hesk moved to the Guild packets. Everyone had something to do. Rook stood there. That was when being right about Hesk stopped giving him anywhere to hide. He had been right. He hid the lures. Manipulated the reports. Decided which roads could absorb danger. Treated outer communities as something Greywake could spend. All true. Rook had still been wrong to pull the stake when he did. Also true. Both fit in the same room. Rook did not like that. It did not matter. Tavian looked up. "We need route observations from the disabled site."
+The runner answered. Tavian started moving markers. Brynn started giving orders. Maelis gathered records. Hesk moved to the Guild packets. Everyone had something to do. Luck stood there. That was when being right about Hesk stopped giving him anywhere to hide. He had been right. He hid the lures. Manipulated the reports. Decided which roads could absorb danger. Treated outer communities as something Greywake could spend. All true. Luck had still been wrong to pull the stake when he did. Also true. Both fit in the same room. Luck did not like that. It did not matter. Tavian looked up. "We need route observations from the disabled site."
 
-Rook had them. Every track. Every call. Which side had been screened. Where the first herd crossed. Where the ridge-hounds appeared. Rook knew because he had been there. Because he caused the change. He stepped toward the table. Hesk looked at him. "You have contributed enough improvisation." Rook stopped. Not because he told him. Because part of him wanted to hit the sentence instead of answer it. Brynn noticed. "So don't improvise." Rook looked at her. "Then what?"
+Luck had them. Every track. Every call. Which side had been screened. Where the first herd crossed. Where the ridge-hounds appeared. Luck knew because he had been there. Because he caused the change. He stepped toward the table. Hesk looked at him. "You have contributed enough improvisation." Luck stopped. Not because he told him. Because part of him wanted to hit the sentence instead of answer it. Brynn noticed. "So don't improvise." Luck looked at her. "Then what?"
 
 "Report what you saw."
 
-Maelis added, "Only what you saw." Tavian said nothing. He was waiting. Rook gave them the route. First herd from the screened side. Ridge-hounds from another angle. Smaller animals through lower brush. Calls shifted before visible movement. Tavian moved markers while Rook spoke. He corrected one directional estimate. Rook let him. Maelis wrote. Brynn listened. Hesk did not interrupt. When Rook finished, Tavian looked at the map. "This helps."
+Maelis added, "Only what you saw." Tavian said nothing. He was waiting. Luck gave them the route. First herd from the screened side. Ridge-hounds from another angle. Smaller animals through lower brush. Calls shifted before visible movement. Tavian moved markers while Luck spoke. He corrected one directional estimate. Luck let him. Maelis wrote. Brynn listened. Hesk did not interrupt. When Luck finished, Tavian looked at the map. "This helps."
 
-Not forgiveness. Not approval. Useful. Enough. Outside, the air felt colder. From the council steps Rook could see people moving barricades toward the lower road. A cart rolled toward Sela's treatment house carrying supplies instead of patients. For now. The bridge was gone. Kellan was in a splint. His wounds were covered with fresh dressings. He could still feel every one of them. That did not make the consequences disappear.
+Not forgiveness. Not approval. Useful. Enough. Outside, the air felt colder. From the council steps Luck could see people moving barricades toward the lower road. A cart rolled toward Sela's treatment house carrying supplies instead of patients. For now. The bridge was gone. Kellan was in a splint. His wounds were covered with fresh dressings. He could still feel every one of them. That did not make the consequences disappear.
 
-Hesk had been right about one thing. Someone had to choose. He turned that sentence into ownership. Rook had made the opposite mistake and acted as if choosing for himself could never choose for anyone else. Neither version worked. Brynn came out. "We are moving the emergency route board to the militia yard."
+Hesk had been right about one thing. Someone had to choose. He turned that sentence into ownership. Luck had made the opposite mistake and acted as if choosing for himself could never choose for anyone else. Neither version worked. Brynn came out. "We are moving the emergency route board to the militia yard."
 
 "Tavian?"
 
@@ -284,10 +284,10 @@ Hesk had been right about one thing. Someone had to choose. He turned that sente
 
 "Guild inventories."
 
-Not in charge. Still useful. Complicated. Rook looked toward the treatment house. Then the militia yard. Leaving would have been easier. Rook could have told himself Greywake had experts now. That he had made things worse already. That staying gave Hesk one more reason to point at him. All true enough to hide inside. Rook did not move toward the gate. He went with Brynn.
+Not in charge. Still useful. Complicated. Luck looked toward the treatment house. Then the militia yard. Leaving would have been easier. Luck could have told himself Greywake had experts now. That he had made things worse already. That staying gave Hesk one more reason to point at him. All true enough to hide inside. Luck did not move toward the gate. He went with Brynn.
 
-At the militia yard, Tavian spread a fresh route map across a work table. Maelis arrived with copied service records. Two runners waited. Rook put his hands on the table. No performance. No claim to command. "What do you need from me?" Tavian looked at him for a long second. Then pointed beside the map. "Everything you remember from the disabled site. Exact order."
+At the militia yard, Tavian spread a fresh route map across a work table. Maelis arrived with copied service records. Two runners waited. Luck put his hands on the table. No performance. No claim to command. "What do you need from me?" Tavian looked at him for a long second. Then pointed beside the map. "Everything you remember from the disabled site. Exact order."
 
-Rook stayed. Not because Hesk was right. Not because Greywake owned him. Definitely not because guilt had suddenly discovered recruitment. The mess had his fingerprints on it, Hesk was still irritating, and leaving before Rook saw how it ended felt like letting somebody else finish his scene.
+Luck stayed. Not because Hesk was right. Not because Greywake owned him. Definitely not because guilt had suddenly discovered recruitment. The mess had his fingerprints on it, Hesk was still irritating, and leaving before Luck saw how it ended felt like letting somebody else finish his scene.
 
 Unacceptable.

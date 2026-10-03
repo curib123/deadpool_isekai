@@ -1,4 +1,4 @@
-# Rook Vane — Permanent-Clueless Luck Revision Review
+# Luck Everhart — Permanent-Clueless Luck Revision Review
 
 **Date:** 2026-10-02
 **Scope:** requested personality, knowledge boundary, causal luck, witness interpretation, and matching reader copies.
@@ -7,9 +7,9 @@
 
 ## Author Direction
 
-Rook remains unaware that luck is his supernatural power throughout the series, including its final scene. He enjoys playing a mysterious figure from his first appearance. Other characters reconstruct hidden strategies from ordinary actions and improbable outcomes. His personality stays stable while skills, relationships, reputation, and consequences develop.
+Luck remains unaware that luck is his supernatural power throughout the series, including its final scene. He enjoys playing a mysterious figure from his first appearance. Other characters reconstruct hidden strategies from ordinary actions and improbable outcomes. His personality stays stable while skills, relationships, reputation, and consequences develop.
 
-The named inspirations are reference points for three broad mechanisms: involuntary fortunate coincidence, an overestimated reputation, and private theatrical ambition. Rook retains his own name, world, dialogue, motives, and events. No franchise scene, named technique, costume, or dialogue was transplanted.
+The named inspirations are reference points for three broad mechanisms: involuntary fortunate coincidence, an overestimated reputation, and private theatrical ambition. Luck retains his own name, world, dialogue, motives, and events. No franchise scene, named technique, costume, or dialogue was transplanted.
 
 ## Reviewed Changes
 

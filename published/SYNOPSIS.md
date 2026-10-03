@@ -1,18 +1,18 @@
 # This Isekai Has a Bug. Unfortunately, It's Me.
 
-Rook Vane wakes in a world that cannot decide what he is.
+Luck Everhart wakes in a world that cannot decide what he is.
 
 Name: UNDEFINED. Class: UNDEFINED. World Registry: NO RECORD.
 
 He has a more immediate concern: where to find breakfast, work, and a doorway suitable for a mysterious entrance.
 
-Rook has always liked the idea of the calm stranger standing just outside everyone else's important story. A pause here. A cryptic sentence there. Let the room supply the rest.
+Luck has always liked the idea of the calm stranger standing just outside everyone else's important story. A pause here. A cryptic sentence there. Let the room supply the rest.
 
 The room keeps supplying rather more than he expected.
 
 A missed throw stops a predator. A repair he barely understands exposes a conspiracy. A route chosen because the other one looks unpleasant becomes proof that he predicted a disaster. Workers explain his engineering. Soldiers reconstruct his tactics. Enemies begin changing their plans before he has made one.
 
-Rook thinks his performance is going remarkably well.
+Luck thinks his performance is going remarkably well.
 
 He has no idea that probability itself keeps bending around him.
 

@@ -191,7 +191,7 @@ It measures heat only. It does not diagnose race, class, illness, or identity.
 ### Wound Gauge
 A mundane calibrated ruler/grid and inspection protocol used to record visible wound length, closure, swelling, and other external changes over time.
 
-It is not healing magic and does not reveal the cause of regeneration.
+It is not healing magic and does not explain why a wound heals at its observed rate.
 
 ### Mana-Reactivity Prism
 A low-output diagnostic prism that exposes a subject or object to a harmless standardized mana pulse and records whether local mana is absorbed, deflected, conducted, disturbed, or ignored.
@@ -716,7 +716,7 @@ Writer truth:
 
 Series progression therefore tracks:
 - knowledge of Veyr;
-- recognition of the probability pattern;
+- reader/expert recognition of the probability pattern without giving Luck conscious power awareness;
 - public interpretation;
 - reputation;
 - relationships;

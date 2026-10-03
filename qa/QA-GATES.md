@@ -2,7 +2,7 @@
 
 ## Author-Directed Character and Knowledge Override — 2026-10-02
 
-This applies to foundation, planning, manuscript, series, and release checks and supersedes older awareness-growth language. Reject any scene where Luck correctly identifies Fortune Distortion as his own ability or knowingly depends on personal luck. He remains unaware through the final scene. His desire to play an enigmatic role exists from the prologue and remains stable. Witness theories must be observable, grounded in evidence available to that witness, and consequential; supporting characters retain independent competence. Knowing that he performs a bluff is not knowing that luck is a power.
+This applies to foundation, planning, manuscript, series, and release checks and supersedes older awareness-growth language. Reject any scene where Luck correctly identifies Fortune Distortion as his own ability or knowingly depends on personal luck. He remains unaware through the final scene. His desire to play an enigmatic role exists from the opening of CH001 and remains stable. Witness theories must be observable, grounded in evidence available to that witness, and consequential; supporting characters retain independent competence. Knowing that he performs a bluff is not knowing that luck is a power.
 
 Historical PASS records cannot be carried forward after prose changes without checking the new source. See `qa/LUCK-CLUELESS-LUCK-REVISION-QA.md` for the current focused review and release limits.
 

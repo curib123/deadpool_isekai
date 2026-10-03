@@ -1,5 +1,8 @@
 # Destination → Volume → Chapter Planning
 
+> **CURRENT AUTHORITY — 2026-10-03:** `planning/LUCK-EVERHART-CINEMATIC-CANON.md` supersedes all conflicting historical protagonist, POV, Play Logic, regeneration, manifestation, overwhelming-power, Stage, and luck-awareness language in this file. Preserve story structure and consequences; execute all future prose with Luck Everhart, distant third-person limited, passive Fortune Distortion only, mortal injury, and permanent ignorance of the supernatural luck mechanism.
+
+
 ## Current Cinematic Luck Everhart Authority — 2026-10-03
 
 This section overrides conflicting historical planning text below.

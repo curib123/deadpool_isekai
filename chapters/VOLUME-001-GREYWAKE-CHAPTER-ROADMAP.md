@@ -9,12 +9,15 @@ Every chapter below uses distant third-person limited centered on Luck Everhart.
 # Movement I — The Undefined Stranger
 
 ## CH001 — Wrong Forest, Wrong World
-**Goal:** survive the forest and find civilization.  
-**Obstacle:** unfamiliar terrain, predator, damaged memory, no local knowledge.  
-**Luck-specific beat:** he performs confidence for himself even while frightened.  
-**Change:** survives an improbable causal chain and chooses the public name Luck Everhart.  
-**Carryover:** shallow injury, sore ankle, three unknown coins, unreadable world.  
-**Ending:** follows the road toward Greywake.
+**Series-opening function:** contains the former prologue material; there is no separate prologue.  
+**Opening:** mysterious Earth explosion → blank transition → damaged memory → unnamed arrival in Veyr.  
+**Goal:** survive, understand where he is, and find civilization.  
+**Obstacle:** memory loss, unfamiliar terrain, unreadable world, and a large predator.  
+**Luck-specific beat:** theatrical instinct exists before fame; he rehearses lines and performs confidence even while frightened.  
+**Fortune Distortion:** first visible pattern uses only staged ordinary variables—branch failure, loose soil, rotten survey post, vine snag, terrain, and timing.  
+**Change:** survives the forest, accepts that his old name is inaccessible, and deliberately chooses the public identity **Luck Everhart**.  
+**Carryover:** shallow forearm injury, sore ankle, three unknown coins, unreadable language, no valid past he can explain.  
+**Ending:** Luck heads toward civilization with a self-made name and no understanding of why improbable events keep favoring him.
 
 ## CH002 — Undefined
 **Goal:** enter Greywake and secure basic safety.  

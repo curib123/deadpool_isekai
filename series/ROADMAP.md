@@ -1,3 +1,40 @@
+# Current Series Roadmap — Luck Everhart Cinematic Canon
+
+## Authoritative Revision — 2026-10-03
+
+This section supersedes every conflicting historical statement later in this file.
+
+**Current protagonist:** Luck Everhart  
+**POV:** distant third-person limited centered on Luck  
+**Only supernatural power:** passive Fortune Distortion  
+**Power progression:** none  
+**Regeneration / self-restoration:** none  
+**Conscious probability control:** none  
+**Luck awareness:** Luck never correctly identifies Fortune Distortion as his supernatural power, including in the final scene  
+**Personality:** theatrical, dry, opportunistic, and deliberately mysterious from the beginning; serious situations change the cost of the performance, not his core personality  
+**Scene standard:** cinematic goal → obstacle → attempt → change; clear staging; purposeful dialogue; visible cause-and-effect; persistent consequences  
+**Misunderstanding engine:** real observations are connected into mistaken theories about Luck's intentions; supporting characters remain competent and their conclusions create later consequences  
+**Name canon:** "Luck Everhart" is a self-chosen Veyran identity after the first forest encounter, not a recovered Earth birth name
+
+### Current manuscript state
+
+- Prologue: revised to keep the protagonist unnamed before he chooses Luck Everhart.
+- CH-001: fully rewritten to establish the Luck Everhart name origin and the causal-luck engine.
+- CH-004, CH-006, CH-011, CH-014: fully rewritten under the cinematic standard.
+- CH-002–CH-003, CH-005, CH-007–CH-010, CH-012–CH-013, CH-015–CH-027: synchronized to Luck Everhart and retained where the 2026-10-02 luck-only pass already satisfied the approved style.
+- Reader-facing copies are synchronized with manuscript canon.
+- Greywake Arc remains CH-001–CH-026.
+- Merrowgate Arc remains CH-027–CH-050.
+- CH-028 remains the next unwritten story chapter; its old Red/Play-Logic power assumptions are void.
+
+### Deprecated concepts
+
+Any later text in this roadmap mentioning **Red Jackal**, **Play Logic**, **overwhelming raw power**, **manifestations/constructs**, **automatic regeneration/self-restoration**, **close/first-person narration**, **Stage progression**, or an eventual discovery that Luck controls supernatural probability is historical only and MUST NOT be used for new prose.
+
+Future chapters must follow `manuscript/WRITING-RULES.md` and `characters/CHARACTER-BIBLE.md`.
+
+---
+
 # Distant Narration Retcon — CURRENT POV AUTHORITY
 
 ## Current Author-Directed Revision — 2026-10-02

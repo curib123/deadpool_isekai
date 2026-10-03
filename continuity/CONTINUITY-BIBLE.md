@@ -1,72 +1,164 @@
 # Continuity Bible
 
-## Current Luck Knowledge and Personality Override — 2026-10-02
+**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
+**Authority:** CURRENT — 2026-10-03  
+**Primary structure:** `series/STORY-STRUCTURE-BIBLE.md`
 
-For every scene, track separately: (1) what actually happened, (2) what Luck intended, (3) what the witness believes he intended, and (4) what consequence that belief causes. The supernatural cause belongs to writer truth; Luck never correctly identifies it through the ending.
+# 1. Continuity Principle
 
-He may remember Maelis's statistical theory and Tavian's concern. He still believes particular events were accidents, normal material failure, effective bluffing, or somebody else's good work. He knows his public persona is a performance. Knowing that he takes undeserved credit is not knowing that luck is a power.
+Track four different truths whenever Luck's reputation is involved:
 
-Stable across all arcs: freedom, food/pay/shelter, curiosity, enjoyment of ominous presentation, irritation at interrupted scenes, shameless acceptance of useful credit, and selective seriousness. Skills, relationships, injuries, evidence, and reputation change without replacing that personality. An injury remains until ordinary recovery or established Veyran treatment; no automatic self-restoration.
+1. **What actually happened**
+2. **What Luck intended**
+3. **What a witness believes Luck intended**
+4. **What consequence that belief causes**
 
+Do not collapse these into one version.
 
-**Owners:** A100 Continuity Director + A101 Canon Conflict Detector + A102 Knowledge-State Editor
+# 2. Luck Knowledge Lock
 
-# Continuity Ledger
-Track for every chapter/volume:
-- character locations
-- injuries and recovery
-- deaths
-- relationships
-- promises/debts
-- possessions/artifacts
-- ability state
-- political changes
-- damaged/destroyed locations
-- faction status
-- unresolved conflicts
-- resolved conflicts
-- active mysteries
-- planted clues
-- travel progress
-- dates/timeline
+Luck knows:
+- he came from somewhere outside Veyr;
+- his Earth memory is badly damaged;
+- he chose the name Luck Everhart himself;
+- the System cannot classify him normally;
+- he can be physically measured even when identity fields fail;
+- strange coincidences have repeatedly helped him;
+- other people often overestimate his planning;
+- he deliberately performs a mysterious persona;
+- he sometimes accepts credit he did not earn.
 
-A later chapter cannot casually reset consequences.
+Luck does **not** know:
+- that Fortune Distortion is his supernatural ability;
+- how or why probability bends around him;
+- the exact Soul Drift mechanism;
+- the exact cause of the Earth explosion;
+- the protected writer truth behind Fate / Great Design.
 
-# Knowledge State
+He may hear theories and remember them. He does not become forgetful just to preserve the mystery.
+
+# 3. Physical Continuity
+
+Track:
+- injuries;
+- wound location;
+- severity;
+- treatment;
+- recovery time;
+- scars/aftereffects;
+- fatigue.
+
+Luck has no supernatural regeneration.
+
+Established healing magic may accelerate recovery only when a current scene explicitly uses legitimate in-world treatment.
+
+# 4. Resource Continuity
+
+Track:
+- money;
+- food;
+- lodging;
+- fares;
+- clothing damage;
+- weapons/tools;
+- documents/tokens;
+- evidence;
+- baggage;
+- debts and favors.
+
+Travel consumes resources.
+
+# 5. Social Continuity
+
+Track:
+- reputation by location/faction;
+- legal status;
+- promises;
+- suspicion;
+- trust;
+- rumors;
+- obligations;
+- who has heard which version of an event.
+
+A rumor does not become universal knowledge automatically.
+
+# 6. Knowledge Record Template
+
 ### KNOW-[ID]
 - Information:
 - Writer truth:
 - Reader knows:
-- Red Jackal knows:
+- Luck knows:
 - Other holders:
-- Characters/factions believing a false version:
+- False interpretations:
 - First learned:
 - Last updated:
+- Consequence:
 
 Characters cannot act on information they never received.
 
-# Canon Conflict Rule
-Every new chapter is checked against:
+# 7. Event Consequence Template
+
+### CONS-[ID]
+- Trigger chapter:
+- Event:
+- Immediate result:
+- Injury/resource cost:
+- Evidence created/lost:
+- Relationship change:
+- Reputation change:
+- Institutional change:
+- Must still matter in:
+- Resolved when:
+
+# 8. Canon Conflict Order
+
+Check new work against:
 1. Series Constitution
-2. World Bible
+2. Story Structure Bible
 3. Systems Bible
 4. Character Bible
-5. Mystery Bible
-6. Destination/Volume plan
-7. Previous manuscript canon
+5. World / Mystery Bibles
+6. Current volume architecture
+7. Current chapter roadmap
+8. Current knowledge/consequence records
+9. Earlier manuscript canon
 
-When conflict appears, fix it at the owning structural level rather than hiding it with a line of prose.
+If a conflict is structural, fix the owning structure before patching prose.
 
-# Mystery Knowledge Authority
+# 9. Current Arc Handoffs
 
-Long-term mystery knowledge partitions are maintained in `continuity/MYSTERY-KNOWLEDGE-STATE.md`.
+## Greywake → Merrowgate
 
-That support record tracks who may know each M-ID without redefining the Writer Truth in `mysteries/MYSTERY-BIBLE.md`.
+Luck leaves Greywake with:
+- chosen name but no System identity;
+- mixed local reputation;
+- incomplete Earth memory;
+- ordinary earned money reduced by travel;
+- lingering physical recovery from Greywake injuries;
+- knowledge that off-book work can erase protections;
+- knowledge that his own impatient choice can worsen a crisis;
+- no conscious understanding of Fortune Distortion.
 
-# Series-Scale Consequence Supplement
+Greywake retains:
+- consequences of the lure scandal;
+- damaged routes;
+- political distrust;
+- outer-community claims;
+- ongoing repair and accountability.
 
-The cross-arc consequence record is maintained in:
+## Merrowgate Opening
 
-`continuity/SERIES-CONSEQUENCE-LEDGER.md`
+CH027 must not reset Greywake consequences.
 
-It carries Red, the native Hero/Party, Savael, institutions/factions, destination condition, travel, and unresolved handoffs across the flexible future-arc route. It is a planning supplement only. It cannot override a current manuscript, chapter/volume continuity record, knowledge-state record, or higher canon Bible.
+Merrowgate receives Luck as:
+- physically real;
+- administratively difficult;
+- carrying contradictory rumors;
+- needing money and passage;
+- still unable to read ordinary Veyran fluently;
+- still mortal.
+
+# 10. Historical Records
+
+Any continuity file that describes Red Jackal, Play Logic, supernatural regeneration, Stage progression, or first-person narration is historical unless explicitly rewritten to current authority.

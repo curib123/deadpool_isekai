@@ -1,20 +1,16 @@
 # Volume 1 — Greywake Arc — Publication Copies
 
-**Status:** PUBLISH DRAFT — 2026-10-02 REVISION / GATE 9, CANON AND GATE 11 REVALIDATION PENDING  
+**Status:** CURRENT READER-FACING VOLUME 1 — 2026-10-03  
 **Chapters:** 26  
-**Release Order:** CH-001 → CH-026  
+**Release Order:** CH001 → CH026  
 **Canon Source:** `manuscript/`  
 **Publish QA:** `qa/publish/VOLUME-001-PUBLISH-VERSION-QA.md`
 
-These files are reader-facing release copies derived from the current manuscript sources on this revision branch.
+These files are reader-facing copies of current manuscript canon.
 
-These refreshed copies are for review in chapter order. The earlier release approval applies to earlier source revisions.
+There is **no standalone prologue**. The former prologue has been merged into CH001.
 
-They are **not** a second canon source.
-
-If a substantive edit is needed, edit/re-QA/recanonize the manuscript first, then regenerate the publication copy and rerun Gate 11.
-
-## Release Sequence
+# Release Sequence
 
 1. CH001 — Wrong Forest, Wrong World
 2. CH002 — Undefined
@@ -43,13 +39,18 @@ If a substantive edit is needed, edit/re-QA/recanonize the manuscript first, the
 25. CH025 — What Greywake Counts
 26. CH026 — Before They Decide What I Am
 
-**Volume 2:** Merrowgate remains planned; CH-027 has received the same character/knowledge revision. No CH-028 manuscript has been created in this pass.
+# Official Opening
 
+**Synopsis → CH001 → CH002 → CH003 → ... → CH026**
 
-## WebNovel Opening Rule
+CH001 is the complete series beginning. It includes the Earth explosion, memory loss, arrival, first luck event, forest survival, and Luck Everhart name origin.
 
-For the primary WebNovel release, CH-001 is the first story chapter. Do not place the optional series prologue before it.
+Do not add an optional or bonus prologue before it.
 
-Recommended public flow:
+# Continuity Handoff
 
-**Synopsis → CH-001 → CH-002 → CH-003 → ... → CH-026**
+CH026 ends Greywake.
+
+Volume 2 begins at CH027 — *Salt in the Air*.
+
+Reader copies must remain synchronized with the audited manuscripts.

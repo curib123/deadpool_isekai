@@ -8,7 +8,13 @@ This repository is the production workspace for the Luck Everhart light-novel pr
 
 Luck loves playing the mysterious figure who seems to know more than everyone else. He has no idea that his only supernatural power is passive luck. Accidents keep making his performances look like elaborate plans, and witnesses supply explanations he could never have invented. His fame, enemies, and obligations grow; his private enthusiasm for the act and his ignorance of the power remain consistent through the ending.
 
-The 2026-10-02 revision updates the prologue, 23 chapters, character/knowledge rules, synopsis, and matching reader copies. See `qa/LUCK-CLUELESS-LUCK-REVISION-QA.md` for the focused editorial review and current draft release state.
+The 2026-10-03 canon uses **CH001 as the single official beginning**. The former prologue has been merged into Chapter 1, which now opens with the Earth explosion, damaged memory, arrival in Veyr, first visible luck pattern, forest survival, and Luck Everhart name origin. Current audited canon runs through CH027.
+
+## Official Reading Start
+
+**Synopsis → CH001 — Wrong Forest, Wrong World → CH002 → ...**
+
+There is no standalone canonical or published prologue.
 
 ## Studio Pipeline
 

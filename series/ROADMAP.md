@@ -5,7 +5,7 @@
 **Protagonist:** Luck Everhart  
 **POV:** distant third-person limited  
 **Only supernatural power:** passive Fortune Distortion  
-**Status:** FULL STRUCTURAL + CHAPTER AUDIT ACTIVE — 2026-10-03
+**Status:** CURRENT CANON THROUGH CH027 — CH001 IS THE SINGLE SERIES OPENING — 2026-10-03
 
 # 1. Authority
 
@@ -23,15 +23,22 @@ Any conflicting Red Jackal, Rook Vane, first-person, Play Logic, manifestation, 
 
 # 2. Current Canon State
 
-## Prologue
-- protagonist unnamed;
-- Earth explosion remains fragmentary;
-- arrival is unexplained to Luck;
-- first improbable survival timing is visible but not understood.
+## Series Opening — CH001
+There is **no standalone prologue** in current canon or publication order.
+
+CH001 — *Wrong Forest, Wrong World* now contains the full opening chain:
+- mysterious Earth explosion;
+- damaged autobiographical memory;
+- unnamed arrival in Veyr;
+- first visible but unexplained improbable timing;
+- forest predator survival;
+- Luck's deliberate theatrical persona;
+- self-chosen name **Luck Everhart**;
+- first movement toward civilization.
 
 ## Volume 1 — Greywake Arc
 **Range:** CH001–CH026  
-**Status:** existing canon under structural re-audit.
+**Status:** canon through CH026.
 
 Structural spine:
 
@@ -52,7 +59,7 @@ Structural spine:
 
 Primary local antagonist: **Cassian Venn**.
 
-CH028+ production is paused while the CH001–CH027 structural audit is active.
+CH028+ may resume only from the current CH001–CH027 audited canon and Merrowgate roadmap.
 
 # 3. Series Locks
 
@@ -67,14 +74,11 @@ CH028+ production is paused while the CH001–CH027 structural audit is active.
 
 # 4. Current Production Order
 
-1. validate structural authority files;
-2. audit CH001–CH027 against the structural bible;
-3. repair chapter-level issues only where needed;
-4. synchronize reader-facing copies;
-5. record final chapter audit;
-6. revalidate Greywake arc continuity;
-7. revalidate CH027 as the Merrowgate entry chapter;
-8. only then resume CH028 scene architecture.
+1. treat CH001 as the single official beginning;
+2. preserve audited CH001–CH027 continuity;
+3. keep publication copies synchronized with manuscripts;
+4. resume CH028 scene architecture from the current Merrowgate roadmap;
+5. run structural/continuity QA before every new manuscript chapter.
 
 # 5. Future Arc Rule
 

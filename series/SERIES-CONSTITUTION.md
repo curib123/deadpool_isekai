@@ -92,7 +92,13 @@ It cannot:
 
 Luck does not activate the ability with a command.
 
-He notices outcomes without discovering their supernatural cause. From the prologue through the final scene, he never correctly identifies Fortune Distortion as his own power, knowingly tests it, or deliberately relies on it. Ordinary remarks such as “that was lucky” describe an incident, not an ability.
+He notices outcomes without discovering their supernatural cause. From CH001 through the final scene, he never correctly identifies Fortune Distortion as his own power, knowingly tests it, or deliberately relies on it. Ordinary remarks such as “that was lucky” describe an incident, not an ability.
+
+# 3A. Opening Law
+
+CH001 is the single official beginning.
+
+The Earth explosion, damaged memory, arrival, first visible probability anomaly, forest survival, theatrical instinct, and self-chosen Luck Everhart identity all occur inside Chapter 1. There is no separate canonical prologue.
 
 # 4. Physical Vulnerability Law
 

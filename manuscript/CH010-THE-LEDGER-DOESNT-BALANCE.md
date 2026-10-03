@@ -358,7 +358,7 @@ Luck stared at the stacks. They had somehow multiplied without moving.
 
 There were predators in the forest with jaws built to hold struggling prey. Somehow the paperwork was becoming less honest. The Road Guild records office smelled like damp wool, lamp oil, and old paper. Jessa Vale stood behind a narrow counter sorting route packets into wooden slots. The public hall beyond her remained busy. Workers carried rope. Axle parts. Food crates. Sealed packets. Wagon wheels rattled across the yard. The Guild continued functioning while they arrived to ask whether some of the people who made it function had gone missing between categories. Jessa looked at Maelis.
 
-Then his eyes settled on him. Luck kept his hand where it was. Her expression changed slightly. Concern. Maelis placed a written request on the counter. Jessa read it before reaching for any ledger.
+Then her eyes settled on Luck. Her expression changed slightly. Concern. Maelis placed a written request on the counter. Jessa read it before reaching for any ledger.
 
 "I need the route-loss categories corresponding to these entries."
 

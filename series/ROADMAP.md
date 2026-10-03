@@ -1,5 +1,8 @@
 # Current Series Roadmap — Luck Everhart Cinematic Canon
 
+> **CURRENT AUTHORITY — 2026-10-03:** `planning/LUCK-EVERHART-CINEMATIC-CANON.md` supersedes all conflicting historical protagonist, POV, Play Logic, regeneration, manifestation, overwhelming-power, Stage, and luck-awareness language in this file. Preserve story structure and consequences; execute all future prose with Luck Everhart, distant third-person limited, passive Fortune Distortion only, mortal injury, and permanent ignorance of the supernatural luck mechanism.
+
+
 # CURRENT LUCK EVERHART CINEMATIC AUTHORITY — 2026-10-03
 
 This section supersedes **all conflicting historical text in this file**.
@@ -15,7 +18,7 @@ This section supersedes **all conflicting historical text in this file**.
 - Witnesses may correctly reconstruct visible mechanics while wrongly attributing deliberate genius to Luck.
 - Misunderstandings must vary and must create later consequences rather than functioning as consequence-free praise.
 - Scene standard: **goal → obstacle → attempt → meaningful change** with clear staging and purposeful dialogue.
-- Any legacy references below to **Red Jackal**, close/first-person narration, Play Logic, regeneration, manifestations, overwhelming raw power, Stage progression, or eventual luck awareness are **historical only and non-authoritative**.
+- Any legacy references below to **Luck Everhart**, close/first-person narration, Play Logic, regeneration, manifestations, overwhelming raw power, Stage progression, or eventual luck awareness are **historical only and non-authoritative**.
 - Greywake remains the completed Volume 1 destination arc; Merrowgate remains the approved Volume 2 destination arc. Existing plot order survives unless a chapter-level cinematic revision explicitly changes execution while preserving causal continuity.
 
 
@@ -48,7 +51,7 @@ This section supersedes every conflicting historical statement later in this fil
 
 ### Deprecated concepts
 
-Any later text in this roadmap mentioning **Red Jackal**, **Play Logic**, **overwhelming raw power**, **manifestations/constructs**, **automatic regeneration/self-restoration**, **close/first-person narration**, **Stage progression**, or an eventual discovery that Luck controls supernatural probability is historical only and MUST NOT be used for new prose.
+Any later text in this roadmap mentioning **Luck Everhart**, **Play Logic**, **overwhelming raw power**, **manifestations/constructs**, **automatic regeneration/self-restoration**, **close/first-person narration**, **Stage progression**, or an eventual discovery that Luck controls supernatural probability is historical only and MUST NOT be used for new prose.
 
 Future chapters must follow `manuscript/WRITING-RULES.md` and `characters/CHARACTER-BIBLE.md`.
 

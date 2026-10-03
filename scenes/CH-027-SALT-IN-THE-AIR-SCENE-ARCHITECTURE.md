@@ -1,5 +1,7 @@
 # CH-027 Scene Architecture — Salt in the Air
 
+> **HISTORICAL PRE-MANUSCRIPT ARTIFACT.** Current manuscript canon and `series/STORY-STRUCTURE-BIBLE.md` override conflicting Red Jackal, Play Logic, regeneration, first-person, Stage, or power-display language in this file. Use this file only for compatible scene intent/location history.
+
 ## 2026-10-03 Canon Override
 
 CH-027 is now governed by the approved cinematic Luck Everhart rules. POV is **distant third-person limited**. Luck is mortal and has only **passive Fortune Distortion**. Any legacy Play Logic, regeneration, self-restoration, manifestation, construct, or overwhelming-power instruction below is superseded. The published/manuscript CH-027 text is the current scene-result authority; future edits must preserve its ordinary cargo hazard, lingering Greywake injuries, travel costs, failed aura attempt, and Merrowgate arrival.

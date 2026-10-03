@@ -1,7 +1,8 @@
 # Luck Everhart Cinematic Canon — Current Authority
 
 **Effective:** 2026-10-03  
-**Status:** AUTHOR-DIRECTED CURRENT CANON AUTHORITY
+**Status:** AUTHOR-DIRECTED CURRENT CANON AUTHORITY  
+**Structural companion:** `planning/LUCK-EVERHART-STRUCTURAL-STORY-BIBLE.md`
 
 This file supersedes conflicting historical protagonist, POV, power, injury, and progression language elsewhere in the repository.
 

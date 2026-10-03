@@ -1,334 +1,86 @@
 # Battle Scene QA Standard
 
-**Studio:** Rook Vane Light-Novel Studio  
-**Owners:** A095 Action Choreographer + A081 Scene Architect  
-**Supporting Owners:** A043 Rook Vane Guardian, A044 Supporting Cast Editor, A045 Antagonist Editor, A037 Power Balance Editor, A072 Pacing Editor, A100 Continuity Director, A102 Knowledge-State Editor, A111 Logic Editor, A120 Chapter QA Editor  
-**Applies To:** Every chapter/scene containing meaningful combat, pursuit, defensive action, hostile interception, monster engagement, duel, team battle, or multi-front battle  
-**Status:** LOCKED — SERIES-WIDE
-
-# 1. Core Battle Law
-
-A battle exists because the story situation creates one.
-
-Do **not** force combat into every chapter.
-
-However, every chapter must pass `qa/CHAPTER-ENGAGEMENT-QA-STANDARD.md`.
-
-That means every chapter requires either:
-- a meaningful minor/major combat or hostile-action beat; **or**
-- an equally strong non-combat engagement event such as confrontation, discovery, danger, countdown, failed plan, risky work, political collision, consequence, or irreversible decision.
-
-When a chapter contains battle, the battle must be designed as an actual matchup with identifiable participants and objectives rather than generic action noise.
-
-Every arc must contain:
-- at least one **major / great battle** that materially changes the arc;
-- multiple **minor battles or hostile action scenes** appropriate to the destination;
-- more than one matchup topology across the arc.
-
-Do not repeat the same battle shape mechanically.
-
-# 2. Required Battle Matchup Card
-
-Every planned battle must identify:
-
-- **Battle ID**
-- **Chapter / Scene ID**
-- **Battle Scale:** MINOR / MAJOR / CLIMAX
-- **Matchup Name:** e.g. Rook Vane vs Ridge-Hound; Rook + Tavian vs displaced pack; Brynn squad vs herd spill
-- **Side A participants**
-- **Side B participants**
-- **Non-combatants / protected targets**
-- **Initial numerical topology**
-- **Topology changes during battle**
-- **Objective of each side**
-- **Win / loss / escape / delay conditions**
-- **Terrain**
-- **Hazards**
-- **Information asymmetry**
-- **Rook's chosen role**
-- **Supporting-character roles**
-- **Enemy/opponent behavior**
-- **Fortune Distortion probability-chain use, if any**
-- **Reader-address/meta aside use, if any**
-- **Injury consequence, if any**
-- **Turning point**
-- **Decisive beat**
-- **Immediate cost**
-- **Lasting consequence**
-- **Knowledge gained**
-- **Next-scene handoff**
-
-# 3. Matchup Variety Rule
-
-Valid battle structures include, but are not limited to:
-
-- 1v1;
-- 2v1;
-- 1v2;
-- 1v3 / 1v4 / 1vMany;
-- 2v2;
-- uneven team battle;
-- rotating opponents;
-- Rook + ally vs single major opponent;
-- Rook vs opponent while allies handle a second objective;
-- split-party battle;
-- escort battle;
-- defensive hold;
-- pursuit / interception;
-- rescue under attack;
-- battlefield with civilians;
-- monster pack vs mixed defenders;
-- three-sided conflict;
-- ally temporarily separated;
-- enemy reinforcement changing the numbers;
-- battlefield where the objective is escape, route control, evidence protection or time-buying rather than defeat.
-
-The topology should be chosen from the situation.
-
-Do not use variety only for novelty. The changing number of combatants must affect tactics, movement, information, priorities, or consequence.
-
-# 4. Arc Battle Composition Rule
-
-Each destination arc must have a Battle Composition Map before its climax is drafted.
-
-Minimum:
-- **1 major/great battle**;
-- **2 or more minor battle/action encounters** when the destination conflict naturally supports them;
-- at least **3 distinct combat/action topologies** across the arc;
-- at least one battle where Rook is **not the only decisive actor**;
-- at least one battle where the primary problem is **not defeating the enemy**;
-- at least one battle where terrain, civilians, evidence, escort, infrastructure, timing or simultaneous objectives materially complicate raw combat.
-
-Longer or battle-heavy arcs should exceed this minimum naturally.
-
-# 5. Rook Vane Battle Rule
-
-Rook's only supernatural combat advantage is Fortune Distortion.
-
-Therefore battle tension must not depend on:
-- Rook unlocking a new power;
-- hidden mastery stages;
-- a regeneration reset;
-- a time-stop escape;
-- reality manipulation;
-- a guaranteed lucky win.
-
-Battle pressure may come from:
-- a physically stronger or more skilled opponent;
-- incomplete information;
-- multiple simultaneous objectives;
-- civilians;
-- allies in bad positions;
-- evidence that must survive;
-- infrastructure;
-- enemy escape goals;
-- hostages;
-- terrain;
-- political consequences;
-- ecological consequences;
-- timing;
-- Rook's curiosity, ego, theatrics, or reckless choices;
-- luck protecting Rook but not the objective;
-- a useful coincidence creating a worse second-order consequence.
-
-When Rook gets serious, the change is **performance dropping and openings being used efficiently**, not a power-up.
-
-# 6. Supporting Cast Battle Rule
-
-A battle involving supporting characters must preserve their competency.
-
-Do not write:
-- everyone waiting for Rook;
-- allies existing only to praise Rook;
-- specialists forgetting their expertise once combat begins;
-- enemies ignoring easier objectives just to attack Rook;
-- supporting characters becoming weaker so Rook can look stronger.
-
-Instead:
-- Tavian owns ecology/tracking/field positioning where relevant;
-- Brynn owns militia command/formation/civilian defense where relevant;
-- Kellan owns infrastructure/route geometry where relevant;
-- Maelis owns evidence/custody/procedure where relevant;
-- future supporting characters retain their own combat/non-combat specialties.
-
-Rook may steal presentation.
-
-He may not lazily erase other characters' causality.
-
-# 7. Opponent Quality Rule
-
-Every meaningful opponent must have:
-
-- a concrete immediate objective;
-- a reason for choosing its tactics;
-- awareness limited to what it can know;
-- behavior consistent with species/training/personality;
-- at least one attempt to adapt when its first approach fails;
-- a credible retreat, surrender, reposition, escalation or death condition.
-
-Named human opponents must not fight like generic monsters.
-
-Monsters must not fight like tactical humans unless their canon intelligence supports it.
-
-# 8. Action Geography QA
-
-Before prose, the scene must answer:
-
-- Where is everyone at battle start?
-- What can each participant see?
-- What routes are open?
-- What routes are blocked?
-- What terrain can be exploited?
-- Where are civilians/allies/evidence?
-- What changes position during each major beat?
-- How can reinforcements enter?
-- How can someone escape?
-- What prevents an obviously easier solution?
-- What prevents Rook from converting the first lucky opening into an immediate victory?
-
-If the reader cannot understand the battlefield without rereading, **FAIL**.
-
-# 9. Escalation QA
-
-A battle must escalate through at least two of:
-
-- numbers change;
-- objective changes;
-- terrain changes;
-- ally gets separated;
-- civilian/evidence/infrastructure becomes threatened;
-- opponent reveals a tactic;
-- reinforcement arrives;
-- escape route closes;
-- Rook's game creates a complication;
-- Rook stops wasting openings;
-- new information changes what victory means.
-
-Do not escalate only by making the enemy physically larger.
-
-# 10. Scene QA — Beat Requirements
-
-A battle scene should normally contain:
-
-1. **Orientation** — who, where, objective.
-2. **First contact** — initial tactic.
-3. **Response** — opponent adapts.
-4. **Complication** — numbers/terrain/objective changes.
-5. **Choice** — Rook or another key character must choose what matters.
-6. **Turning point** — battle state changes.
-7. **Resolution** — defeat, escape, hold, rescue, delay, capture, route secured, etc.
-8. **Cost** — injury, lost time, damaged infrastructure, political consequence, exposed ability, enemy escape, lost evidence, changed relationship.
-9. **Handoff** — battle creates the next scene rather than existing as filler.
-
-Not every battle requires equal length, but every battle requires cause-and-effect.
-
-# 11. Dialogue / Comedy During Battle
-
-Dialogue must fit available time and pressure.
-
-Allowed:
-- short taunts;
-- interruptions;
-- tactical calls;
-- Rook performing for an enemy;
-- enemy refusing to participate in Rook's bit;
-- brief reader-address/meta commentary that does not stop the action.
-
-Avoid:
-- long speeches while a projectile should already have hit;
-- every strike receiving a joke;
-- allies stopping to admire Rook;
-- comedy erasing injury or civilian danger.
-
-Serious beats may stay quiet.
-
-# 12. Reader-Address Battle Rule
-
-If Rook addresses the external audience during combat:
-- combat time continues;
-- allies, enemies, projectiles, and weather continue moving;
-- the aside must fit the available physical beat;
-- Rook gains no free movement, dodging, inspection, or setup time.
-
-# 13. Fortune Distortion Battle QA
-
-For every materially lucky turning point:
-- identify the specific causal chain;
-- verify that each link was possible before luck biased the outcome;
-- confirm Rook did not consciously order the exact result;
-- confirm the chain does not erase an already-sustained injury;
-- confirm the opening still requires Rook or another character to act;
-- confirm collateral/terrain/information consequences;
-- confirm supporting characters retain decisive roles where appropriate.
-
-A spectacular result should usually be a chain of small possible events rather than an unexplained miracle.
-
-# 14. Major / Great Battle QA
-
-A major battle must:
-- involve more than one meaningful objective or front;
-- materially change the arc;
-- give at least two non-Rook characters meaningful independent actions;
-- contain at least one topology change;
-- contain at least one irreversible consequence;
-- make the environment matter;
-- show what the opponent/hostile force wants;
-- leave consequences after victory.
-
-A climax battle must also:
-- resolve the destination conflict's physical pressure;
-- preserve the human/political/emotional conflict where appropriate;
-- avoid reducing the arc to “Rook punches the strongest thing.”
-
-# 15. Minor Battle QA
-
-A minor battle must still earn its page space.
-
-It should do at least two:
-- reveal character;
-- reveal world/monster behavior;
-- introduce or reinforce a tactical relationship;
-- plant/pay off a clue;
-- create a consequence;
-- establish terrain;
-- change trust;
-- expose a flaw;
-- teach the reader something later used in a major battle.
-
-If it only proves Rook is strong, **CUT OR REDESIGN**.
-
-# 16. Battle Variety Audit
-
-At arc Gate 10, list every battle and compare:
-
-- matchup topology;
-- objective;
-- terrain;
-- participant set;
-- Rook's role;
-- result;
-- consequence.
-
-FAIL if:
-- too many battles repeat the same topology;
-- Rook is always the sole decisive actor;
-- every battle ends by killing the opponent;
-- terrain never matters;
-- supporting characters never own decisive beats;
-- major battle scale is achieved only by adding more enemies.
-
-# 17. Gate Integration
-
-Battle QA is mandatory inside:
-- **Gate 6** — arc Battle Composition Map;
-- **Gate 7** — chapter battle assignment/topology;
-- **Gate 8** — detailed Battle Matchup Card + action geography;
-- **Gate 9** — prose execution;
-- **Gate 10** — arc battle variety/consequence audit;
-- **Gate 11** — publication copy must preserve battle geography, dialogue, order and consequences exactly.
-
-# Decision
-
-This standard is **LOCKED SERIES-WIDE**.
-
-No future battle scene is production-ready without passing Battle Scene QA.
+**Status:** CURRENT — 2026-10-03  
+**Protagonist:** Luck Everhart  
+**Power:** Fortune Distortion only
+
+# 1. Battle Objective
+Define the real objective before combat:
+- survive;
+- protect someone;
+- hold a route;
+- preserve evidence;
+- escape;
+- delay;
+- reach a mechanism;
+- prevent collateral.
+
+Killing the opponent is not automatically victory.
+
+# 2. Spatial Clarity
+Before the decisive action, establish:
+- combatants;
+- civilians/allies;
+- exits;
+- elevation/cover;
+- tools;
+- hazards;
+- distances sufficient to understand movement.
+
+# 3. Competence
+Opponents and allies act according to training, goals, and information.
+
+Do not make them stupid so Luck can look clever.
+
+# 4. Fortune Distortion
+A lucky turn must:
+1. use an existing variable;
+2. remain physically/socially possible;
+3. create an opening rather than an automatic win;
+4. require Luck or another character to act;
+5. leave consequences.
+
+# 5. Luck's Limits
+Luck can:
+- bleed;
+- be restrained;
+- lose position;
+- fail to save someone;
+- lose evidence;
+- lose the larger objective.
+
+Luck cannot:
+- heal instantly;
+- stop time;
+- conjure weapons/barriers;
+- command probability;
+- guarantee victory.
+
+# 6. Supporting Cast
+A specialist keeps ownership of specialist work.
+
+Tavian interprets field movement.
+Brynn commands militia.
+Kellan/workers own engineering.
+Iria owns Harbor Watch authority.
+Samir owns port machinery/structure.
+
+# 7. Misunderstanding
+If a battle builds Luck's legend, show:
+- what witnesses actually saw;
+- what Luck actually intended;
+- what they infer;
+- what future behavior changes because of that inference.
+
+# 8. Injury/Aftermath
+Count:
+- wounds;
+- treatment;
+- damaged gear;
+- dead/injured others;
+- property;
+- evidence;
+- political/reputation effect.
+
+# Verdict
+PASS only when the battle is readable, causal, consequential, and cannot be reduced to “luck wins.”

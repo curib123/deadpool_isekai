@@ -1,30 +1,30 @@
 # Chapter 2 — Undefined
 
-Civilization announced itself with smoke, wagon wheels, and a timber wall high enough to make the forest behind Rook look like somebody else's problem. The road curved down through thinning trees toward a palisade. River fog drifted between watch platforms. Two lines of carts waited outside the gate while drivers checked harnesses, guards inspected loads, and merchants argued with the confidence of people whose morning had not included being hunted. Rook stopped where the trees gave way to the road. Dried blood marked his torn sleeve. Mud covered one knee, both boots, and enough of his coat to damage the mysterious-stranger effect.
+Civilization announced itself with smoke, wagon wheels, and a timber wall high enough to make the forest behind Luck look like somebody else's problem. The road curved down through thinning trees toward a palisade. River fog drifted between watch platforms. Two lines of carts waited outside the gate while drivers checked harnesses, guards inspected loads, and merchants argued with the confidence of people whose morning had not included being hunted. Luck stopped where the trees gave way to the road. Dried blood marked his torn sleeve. Mud covered one knee, both boots, and enough of his coat to damage the mysterious-stranger effect.
 
-He straightened anyway. The horse finished its step. Rook walked toward the gate as though he belonged there. Two guards noticed him before he reached the first wagon. One was broad enough to make his spear look decorative. The other was younger and far more interested in the dried blood on Rook's sleeve. The broad guard raised a hand and spoke. Rook stopped. The sentence was definitely language. It was also completely useless to him. He smiled politely.
+He straightened anyway. The horse finished its step. Luck walked toward the gate as though he belonged there. Two guards noticed him before he reached the first wagon. One was broad enough to make his spear look decorative. The other was younger and far more interested in the dried blood on Luck's sleeve. The broad guard raised a hand and spoke. Luck stopped. The sentence was definitely language. It was also completely useless to him. He smiled politely.
 
 "I'm going to assume that meant welcome."
 
-The guard's face made it clear that it had not. The younger guard tried again, slower. Rook waited. Nothing.
+The guard's face made it clear that it had not. The younger guard tried again, slower. Luck waited. Nothing.
 
 *Excellent. Language barrier before breakfast.*
 
-He pointed at himself. That created a second problem. A name. Rook knew what names were. He knew he should have one. Somewhere behind the white flash and the holes in his memory, there had once been a person with a proper answer. The guards waited. Rook glanced at his dark coat, the dried blood, the forest behind him, and the overall state of his morning.
+He pointed at himself. That created a second problem. A name. Luck knew what names were. He knew he should have one. Somewhere behind the white flash and the holes in his memory, there had once been a person with a proper answer. The guards waited. Luck glanced at his dark coat, the dried blood, the forest behind him, and the overall state of his morning.
 
-"Rook Vane."
+"Luck Everhart."
 
-The name was not remembered. It was useful. The broad guard frowned. Rook pointed toward the gate. The younger guard called toward a booth built into the palisade. A tired-looking attendant stepped out almost immediately carrying a round brass token on a cord.
+The name was not remembered. It was useful. The broad guard frowned. Luck pointed toward the gate. The younger guard called toward a booth built into the palisade. A tired-looking attendant stepped out almost immediately carrying a round brass token on a cord.
 
-Rook watched him approach.
+Luck watched him approach.
 
 *That was convenient.*
 
-The attendant held the token between them and pressed his thumb into its center. A faint pressure brushed past Rook's ears.
+The attendant held the token between them and pressed his thumb into its center. A faint pressure brushed past Luck's ears.
 
 "Try again," the attendant said.
 
-Rook blinked. The sounds were still unfamiliar. The meaning was not. He looked at the token.
+Luck blinked. The sounds were still unfamiliar. The meaning was not. He looked at the token.
 
 "That is either extremely useful or the beginning of a privacy lawsuit."
 
@@ -38,7 +38,7 @@ The attendant said it with the emotional investment of a man identifying a spoon
 
 "It does not translate writing."
 
-Rook looked toward the boards beside the gate. Same unreadable script as the road sign.
+Luck looked toward the boards beside the gate. Same unreadable script as the road sign.
 
 "Less important distinction. Much more disappointing."
 
@@ -46,7 +46,7 @@ The attendant ignored him. Professional.
 
 "Name?"
 
-"Rook Vane."
+"Luck Everhart."
 
 A pause.
 
@@ -56,15 +56,15 @@ A pause.
 
 The younger guard made a sound the token translated mostly as disbelief. The attendant rubbed the bridge of his nose.
 
-"Claimed name: Rook Vane."
+"Claimed name: Luck Everhart."
 
-Rook smiled.
+Luck smiled.
 
 "See? Progress."
 
 "Origin?"
 
-The smile faded a little. Explosion. White light. Forest. Everything before that existed mostly as locked doors in his head. Rook looked back toward the road.
+The smile faded a little. Explosion. White light. Forest. Everything before that existed mostly as locked doors in his head. Luck looked back toward the road.
 
 "Complicated."
 
@@ -76,31 +76,31 @@ The attendant continued. Travel party? None. Papers? None. Guild seal?
 
 No.
 
-Local sponsor? Also no. Each answer removed another small piece of the man's patience. The broad guard pointed at Rook's torn sleeve.
+Local sponsor? Also no. Each answer removed another small piece of the man's patience. The broad guard pointed at Luck's torn sleeve.
 
 "Armed?"
 
 "Currently? No."
 
-The guard did not seem comforted by currently. The attendant looked Rook over.
+The guard did not seem comforted by currently. The attendant looked Luck over.
 
 "You came out of the north road alone, with no papers, no guild mark, no recognized sponsor, and blood on your clothes."
 
-Rook tilted his head.
+Luck tilted his head.
 
 "That sounds worse when you organize it."
 
 "It was already organized."
 
-Rook looked at his left forearm. Dried blood had crusted around the torn fabric, but the cuts pulled painfully when he flexed his hand. He resisted inspecting them in front of the guards. A man with a mysterious past should not need to ask where the clean bandages were.
+Luck looked at his left forearm. Dried blood had crusted around the torn fabric, but the cuts pulled painfully when he flexed his hand. He resisted inspecting them in front of the guards. A man with a mysterious past should not need to ask where the clean bandages were.
 
 "It's improving."
 
-The younger guard looked from the wound to Rook. Rook added, "Apparently." That did not help. The attendant pointed toward the gate.
+The younger guard looked from the wound to Luck. Luck added, "Apparently." That did not help. The attendant pointed toward the gate.
 
 "This is Greywake. Entry is controlled. If you have no papers, we check registry."
 
-Greywake. Rook looked past him at timber roofs fading into river fog. At least the place had a name now.
+Greywake. Luck looked past him at timber roofs fading into river fog. At least the place had a name now.
 
 "Greywake."
 
@@ -110,7 +110,7 @@ Greywake. Rook looked past him at timber roofs fading into river fog. At least t
 
 "It does not."
 
-Rook's smile returned. He liked the man a little more.
+Luck's smile returned. He liked the man a little more.
 
 "Do you want to enter?"
 
@@ -118,13 +118,13 @@ Rook's smile returned. He liked the man a little more.
 
 "Then stand on the seal."
 
-A circular metal plate had been set into the stone beside the gate. Thin geometric grooves crossed its surface. A smaller indicator plate sat on a nearby post. A merchant ahead stepped onto it. The grooves lit. The attendant checked the indicator. The merchant was waved through. Routine. Then Rook stepped onto the seal. The grooves brightened beneath his boots. And stopped. The attendant frowned. He tapped the indicator.
+A circular metal plate had been set into the stone beside the gate. Thin geometric grooves crossed its surface. A smaller indicator plate sat on a nearby post. A merchant ahead stepped onto it. The grooves lit. The attendant checked the indicator. The merchant was waved through. Routine. Then Luck stepped onto the seal. The grooves brightened beneath his boots. And stopped. The attendant frowned. He tapped the indicator.
 
 "Stay there."
 
 "Wasn't planning a dramatic escape."
 
-The attendant reset the seal. The light ran again. It stopped at exactly the same place. A mark flashed on the indicator. The younger guard leaned closer. The broad guard adjusted his grip on the spear. The silence changed. Rook looked down.
+The attendant reset the seal. The light ran again. It stopped at exactly the same place. A mark flashed on the indicator. The younger guard leaned closer. The broad guard adjusted his grip on the spear. The silence changed. Luck looked down.
 
 "Something unusual?"
 
@@ -132,15 +132,15 @@ The attendant gave him a flat stare.
 
 "System Recognition: Failed."
 
-System. For the first time since waking in the forest, Rook went completely still. The gate lane kept moving around him: a driver argued with a merchant, fog drifted beyond the palisade, and the broad guard tightened his grip on the spear.
+System. For the first time since waking in the forest, Luck went completely still. The gate lane kept moving around him: a driver argued with a merchant, fog drifted beyond the palisade, and the broad guard tightened his grip on the spear.
 
-Rook looked at the glowing seal.
+Luck looked at the glowing seal.
 
 "There it is. The System."
 
 The attendant waited.
 
-Rook pointed at himself.
+Luck pointed at himself.
 
 "And apparently it belongs to everyone except me."
 
@@ -148,13 +148,13 @@ The driver behind him continued arguing. The attendant checked the indicator aga
 
 "World Registry: No Record."
 
-Rook folded his arms, then immediately loosened them when his forearm pulled.
+Luck folded his arms, then immediately loosened them when his forearm pulled.
 
 "So the world itself has no record of me."
 
 "It means I cannot finish the entry form."
 
-Rook stared at him. There were apparently several ways to experience an existential crisis. Being denied by paperwork had not been high on the list.
+Luck stared at him. There were apparently several ways to experience an existential crisis. Being denied by paperwork had not been high on the list.
 
 "What does it normally say?"
 
@@ -170,15 +170,15 @@ The attendant motioned him off the seal.
 
 "We do not decide from one failed gate check."
 
-Rook stepped down.
+Luck stepped down.
 
 *Annoyingly reasonable.*
 
-They took him into a narrow intake room beside the gate. A desk divided the space. Blank wooden tags hung from hooks along one wall. The other wall was covered in writing Rook still could not read. The Wayfarer token was hung from a peg between them. The attendant disappeared through a side door and returned with a woman in a grey-brown clerk's coat carrying a rectangular slate framed in metal. She set it on the desk.
+They took him into a narrow intake room beside the gate. A desk divided the space. Blank wooden tags hung from hooks along one wall. The other wall was covered in writing Luck still could not read. The Wayfarer token was hung from a peg between them. The attendant disappeared through a side door and returned with a woman in a grey-brown clerk's coat carrying a rectangular slate framed in metal. She set it on the desk.
 
 "Certified Identity Slate. Separate authorization from the gate seal."
 
-Rook looked at it.
+Luck looked at it.
 
 "So if this fails too, we stop blaming the gate?"
 
@@ -186,13 +186,13 @@ The clerk looked at him for half a second.
 
 "That is one way to phrase it."
 
-Rook's eyes brightened.
+Luck's eyes brightened.
 
 "Good. You speak my language."
 
 "Hand over the center. Do not touch the frame."
 
-He obeyed. The slate clouded beneath his palm. Lines of symbols spread across its surface. Still unreadable. The clerk read the first line. Then read it again. The guard behind Rook stopped pretending not to watch. Rook raised an eyebrow.
+He obeyed. The slate clouded beneath his palm. Lines of symbols spread across its surface. Still unreadable. The clerk read the first line. Then read it again. The guard behind Luck stopped pretending not to watch. Luck raised an eyebrow.
 
 "I assume that face means I'm winning."
 
@@ -204,7 +204,7 @@ Her eyes returned to the slate.
 
 "Claimed name?"
 
-"Rook Vane."
+"Luck Everhart."
 
 "I can enter that manually."
 
@@ -212,7 +212,7 @@ She tapped the edge.
 
 "The System Name field is undefined."
 
-Rook's smile stayed in place. Something behind it did not.
+Luck's smile stayed in place. Something behind it did not.
 
 "Undefined how?"
 
@@ -238,7 +238,7 @@ The room grew quieter with each field.
 
 "HP: undefined. MP: undefined. Progression unavailable."
 
-The guard looked at Rook as if he had personally insulted mathematics. Rook looked at the slate. He could not read a single symbol. That somehow made it worse.
+The guard looked at Luck as if he had personally insulted mathematics. Luck looked at the slate. He could not read a single symbol. That somehow made it worse.
 
 "System Recognition failed," the clerk said. "Classification: anomaly. World Registry: no record."
 
@@ -246,7 +246,7 @@ She paused.
 
 "Soul Registry: no record."
 
-Nobody spoke. This time Rook did not rescue the silence. He lowered his chin slightly. If the room insisted on giving him a dramatic pause, wasting it would be rude. Two different tools. Two different query paths. Same absence. Not hidden. Not sealed. Not too powerful to read. Undefined. No record. Rook looked down at his hand. It still cast a shadow. He was breathing. His arm still hurt. Something in the forest had tried very sincerely to eat him. Yet the structure these people trusted to describe a person had looked at him twice and failed to construct an answer.
+Nobody spoke. This time Luck did not rescue the silence. He lowered his chin slightly. If the room insisted on giving him a dramatic pause, wasting it would be rude. Two different tools. Two different query paths. Same absence. Not hidden. Not sealed. Not too powerful to read. Undefined. No record. Luck looked down at his hand. It still cast a shadow. He was breathing. His arm still hurt. Something in the forest had tried very sincerely to eat him. Yet the structure these people trusted to describe a person had looked at him twice and failed to construct an answer.
 
 The clerk looked up.
 
@@ -256,25 +256,25 @@ The clerk looked up.
 
 No joke. Just truth. She watched him for another moment, then pulled a paper form closer.
 
-"Claimed name or alias: Rook Vane."
+"Claimed name or alias: Luck Everhart."
 
 "Alias?"
 
 "Unless the System recognizes it as your Name, yes."
 
-Rook leaned back slightly.
+Luck leaned back slightly.
 
 "So I can tell you who I am, but the System doesn't agree."
 
 "The System is not the universe."
 
-Rook's expression sharpened. That sentence stayed with him.
+Luck's expression sharpened. That sentence stayed with him.
 
 "So your System refuses to sign the paperwork."
 
 "That is closer."
 
-The door opened behind them. The woman who entered wore no gate uniform, but both guards straightened before she spoke. Practical coat. Reinforced boots. Short weapon at her side. Nothing decorative. Her eyes went to the clerk, then the slate, then Rook. Efficient.
+The door opened behind them. The woman who entered wore no gate uniform, but both guards straightened before she spoke. Practical coat. Reinforced boots. Short weapon at her side. Nothing decorative. Her eyes went to the clerk, then the slate, then Luck. Efficient.
 
 "Captain Alder," the clerk said.
 
@@ -282,9 +282,9 @@ Brynn Alder. Authority had arrived.
 
 "Summary."
 
-The clerk gave it cleanly. No papers. Unknown origin. Cooperative. Gate Registry Seal failed. Certified Identity Slate failed independently. Claimed alias Rook Vane. Standard fields undefined. No registry relation.
+The clerk gave it cleanly. No papers. Unknown origin. Cooperative. Gate Registry Seal failed. Certified Identity Slate failed independently. Claimed alias Luck Everhart. Standard fields undefined. No registry relation.
 
-Brynn looked at Rook.
+Brynn looked at Luck.
 
 "You understand me?"
 
@@ -304,7 +304,7 @@ Brynn's face did not move.
 
 "Yes. I heard that part."
 
-Rook considered telling her about the white flash, the missing biography, and the impossible series of accidents that had kept him alive in the forest.
+Luck considered telling her about the white flash, the missing biography, and the impossible series of accidents that had kept him alive in the forest.
 
 *Absolutely not.*
 
@@ -312,7 +312,7 @@ Rook considered telling her about the white flash, the missing biography, and th
 
 "After what?"
 
-Rook met her eyes.
+Luck met her eyes.
 
 "A very bright problem."
 
@@ -328,11 +328,11 @@ Her gaze dropped to the blood on his sleeve.
 
 "You need a healer?"
 
-Rook flexed his fingers. The bandaged cut pulled, but the bleeding had stopped on the walk.
+Luck flexed his fingers. The bandaged cut pulled, but the bleeding had stopped on the walk.
 
 "I can move it. Bleeding stopped."
 
-Brynn studied it. Then moved on. One mystery at a time. Another woman stood near the far wall with papers under one arm. Dark practical clothes. Neat posture. No visible weapon. She watched the slate instead of Rook. That was somehow worse. Brynn noticed.
+Brynn studied it. Then moved on. One mystery at a time. Another woman stood near the far wall with papers under one arm. Dark practical clothes. Neat posture. No visible weapon. She watched the slate instead of Luck. That was somehow worse. Brynn noticed.
 
 "You have a question, Orra?"
 
@@ -352,11 +352,11 @@ The woman looked at the clerk.
 
 "Correct."
 
-Only then did she look at Rook. Interested. Not afraid. Rook preferred fear. Interest created paperwork.
+Only then did she look at Luck. Interested. Not afraid. Luck preferred fear. Interest created paperwork.
 
 "Maelis Orra," she said. "Ledger of Measures."
 
-"Rook Vane."
+"Luck Everhart."
 
 A pause.
 
@@ -374,13 +374,13 @@ Maelis dipped her head.
 
 Brynn rested one hand on the desk.
 
-"Here's what matters, Rook Vane. The gate can't verify your history, entry category, guild standing, legal notices, or travel relation."
+"Here's what matters, Luck Everhart. The gate can't verify your history, entry category, guild standing, legal notices, or travel relation."
 
 She tapped the failed slate.
 
 "So I treat what you've actually done, not what this thing failed to tell me."
 
-Rook considered that.
+Luck considered that.
 
 "I don't have any of those."
 
@@ -390,15 +390,15 @@ Rook considered that.
 
 "You've cooperated. You haven't threatened anyone. You came in on foot, you're unarmed, and I don't have grounds to put you in a cell because a registry tool failed."
 
-The younger guard relaxed. Rook did too. Internally. Brynn continued before he could enjoy it.
+The younger guard relaxed. Luck did too. Internally. Brynn continued before he could enjoy it.
 
 "I also don't have grounds to treat you like a verified traveler."
 
-Rook's expression flattened. Being outside the classification system had sounded much cooler before someone explained what classification provided.
+Luck's expression flattened. Being outside the classification system had sounded much cooler before someone explained what classification provided.
 
 Brynn noticed nothing.
 
-"So what's the compromise?" Rook asked.
+"So what's the compromise?" Luck asked.
 
 The clerk reached for one of the wooden tags.
 
@@ -408,7 +408,7 @@ She stamped it, added a manual mark, threaded a dark cord through the top, and s
 
 "Temporary. Keep it with you."
 
-Rook picked it up. Wood. Cord. Ink. After two magical devices failed to prove he existed, Greywake had solved the problem with carpentry.
+Luck picked it up. Wood. Cord. Ink. After two magical devices failed to prove he existed, Greywake had solved the problem with carpentry.
 
 He respected that.
 
@@ -428,7 +428,7 @@ Money. A problem for later. Brynn continued.
 
 "You return for a controlled follow-up identity check at the next intake cycle."
 
-Rook looked toward Maelis. She answered before he asked.
+Luck looked toward Maelis. She answered before he asked.
 
 "I want to observe the re-check."
 
@@ -436,11 +436,11 @@ Rook looked toward Maelis. She answered before he asked.
 
 "It isn't intended to be."
 
-Brynn gave Maelis a brief look, then returned to Rook.
+Brynn gave Maelis a brief look, then returned to Luck.
 
 "You report back. You cooperate. If you cause trouble, the token makes it easier for my people to know which unverified stranger they're looking for."
 
-Rook held up the wooden tag.
+Luck held up the wooden tag.
 
 "So this isn't a badge of honor."
 
@@ -454,22 +454,22 @@ Rook held up the wooden tag.
 
 "No."
 
-Rook studied the tag.
+Luck studied the tag.
 
 "You're committed to ruining the branding."
 
-The clerk looked down quickly. Rook caught it. A smile. Small victory.
+The clerk looked down quickly. Luck caught it. A smile. Small victory.
 
 "So I keep this and try not to become a problem."
 
 "That would help," Brynn said.
 
-The tension eased enough for everyone to remember they had other jobs. The clerk gathered the failed forms into a separate stack. One copy went into a gate file. Another would pass through normal guild administration because Rook's restrictions prevented ordinary contract processing. Rook watched the page disappear into the pile. Somewhere beyond the room, Greywake had its own work, arguments, problems, and people who had no idea he existed.
+The tension eased enough for everyone to remember they had other jobs. The clerk gathered the failed forms into a separate stack. One copy went into a gate file. Another would pass through normal guild administration because Luck's restrictions prevented ordinary contract processing. Luck watched the page disappear into the pile. Somewhere beyond the room, Greywake had its own work, arguments, problems, and people who had no idea he existed.
 
 *Good.*
 
-A whole town already had a story before he arrived. He preferred arriving late. Less setup. The inner gate opened. Rook stepped through. Greywake was not grand. It was alive. Timber buildings leaned close along packed-earth streets. Lantern bridges crossed narrow drainage channels. Carts creaked through river mist. Somebody hammered metal deeper inside the settlement. Steam rolled from a food stall and attacked Rook's empty stomach with more effectiveness than the forest predator had managed. Nobody stopped to welcome him. Nobody bowed. Nobody whispered prophecy. Rook looked down at the wooden token hanging from his fingers.
+A whole town already had a story before he arrived. He preferred arriving late. Less setup. The inner gate opened. Luck stepped through. Greywake was not grand. It was alive. Timber buildings leaned close along packed-earth streets. Lantern bridges crossed narrow drainage channels. Carts creaked through river mist. Somebody hammered metal deeper inside the settlement. Steam rolled from a food stall and attacked Luck's empty stomach with more effectiveness than the forest predator had managed. Nobody stopped to welcome him. Nobody bowed. Nobody whispered prophecy. Luck looked down at the wooden token hanging from his fingers.
 
 "Perfect."
 
-The forest had tried to eat him. Greywake had asked the world who he was. The world had answered twice. Undefined. No record. Rook closed his hand around the token and walked farther into town. For now, Rook Vane would do.
+The forest had tried to eat him. Greywake had asked the world who he was. The world had answered twice. Undefined. No record. Luck closed his hand around the token and walked farther into town. For now, Luck Everhart would do.

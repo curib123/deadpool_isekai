@@ -1,6 +1,6 @@
 # Chapter 14 — Necessary Losses
 
-The council chamber was full before Rook arrived. Representatives filled most of the chairs. Two benches had been dragged against the walls. Three stacks of records waited in front of Maelis. Hesk sat at the central table. Yesterday he had stood through every argument. Today he looked tired. Rook trusted that less. Kellan had refused a chair. Tavian stood near the route map with both hands resting on the table.
+The council chamber was full before Luck arrived. Representatives filled most of the chairs. Two benches had been dragged against the walls. Three stacks of records waited in front of Maelis. Hesk sat at the central table. Yesterday he had stood through every argument. Today he looked tired. Luck trusted that less. Kellan had refused a chair. Tavian stood near the route map with both hands resting on the table.
 
 Nobody looked rested. Maelis opened with the part nobody could argue around anymore. "The evidence from yesterday remains unchanged." One council representative shifted in his seat. "No one is disputing it." Kellan looked at him. "You were yesterday."
 
@@ -16,7 +16,7 @@ Brynn looked at him. "No. She asked what happens if it stops."
 
 "It probably is."
 
-Maelis folded her hands. "Evidence tells us what occurred. It does not tell us how to reverse it safely." Rook looked at her. "Deeply disappointing."
+Maelis folded her hands. "Evidence tells us what occurred. It does not tell us how to reverse it safely." Luck looked at her. "Deeply disappointing."
 
 "I assumed you would feel that way."
 
@@ -60,11 +60,11 @@ Kellan stopped moving. Hesk continued. "The outer farms failed first." Kellan's 
 
 "Then you know people came inside the walls carrying what they could."
 
-He looked back to the council. "Storehouses emptied. Medicine ran short. Lamp oil ran short. Salt ran short." No dramatic pause. "People froze." Another. "People starved." Nobody moved. Rook wished the story had been easier to dismiss. Hesk rested both hands on the table. "I was on the crews that reopened the road. We cut through frozen debris. We buried two workers beside an old marker because the ground was too hard to bring them home. When relief finally reached Greywake, the officials who signed the release papers asked whether this settlement still justified maintaining the route."
+He looked back to the council. "Storehouses emptied. Medicine ran short. Lamp oil ran short. Salt ran short." No dramatic pause. "People froze." Another. "People starved." Nobody moved. Luck wished the story had been easier to dismiss. Hesk rested both hands on the table. "I was on the crews that reopened the road. We cut through frozen debris. We buried two workers beside an old marker because the ground was too hard to bring them home. When relief finally reached Greywake, the officials who signed the release papers asked whether this settlement still justified maintaining the route."
 
-His voice remained calm. "I learned something that winter." Rook already knew he would hate it. "A frontier does not survive by saving everyone." Kellan's eyes hardened. "It survives by deciding what cannot be allowed to die." There it was. The road. The records. The outer routes.
+His voice remained calm. "I learned something that winter." Luck already knew he would hate it. "A frontier does not survive by saving everyone." Kellan's eyes hardened. "It survives by deciding what cannot be allowed to die." There it was. The road. The records. The outer routes.
 
-Rook.
+Luck.
 
 He folded his arms. "So you decided the road mattered more than the people beside it." Hesk looked at him. "I decided the road was how everyone inside Greywake stayed alive."
 
@@ -92,7 +92,7 @@ Hesk looked at him. "You think I chose between good and evil."
 
 "Yes."
 
-He knew. That was the problem. They moved to the route board because apparently moral collapse still required inventory. The board covered most of one wall. Colored tags marked caravans, cargo, closures, work crews, expected arrivals. Rook could read none of the writing. Naturally. A Guild logistics clerk had been brought in only to answer supply questions. Maelis pointed to the board. "Read the categories relevant to settlement dependence."
+He knew. That was the problem. They moved to the route board because apparently moral collapse still required inventory. The board covered most of one wall. Colored tags marked caravans, cargo, closures, work crews, expected arrivals. Luck could read none of the writing. Naturally. A Guild logistics clerk had been brought in only to answer supply questions. Maelis pointed to the board. "Read the categories relevant to settlement dependence."
 
 The clerk swallowed. "Grain and preserved food. Salt. Medicine. Metal stock. Tool replacement. Lamp oil. Cloth. Dry goods."
 
@@ -116,7 +116,7 @@ Hesk did not react. Brynn pointed to another set of markers. "And if the Main Ca
 
 "Good," Tavian said.
 
-Everyone looked at him. "An invented number would not help." Rook respected that. Hesk gestured toward the board. "This is why the road matters." Kellan's expression sharpened. "The outer roads matter too."
+Everyone looked at him. "An invented number would not help." Luck respected that. Hesk gestured toward the board. "This is why the road matters." Kellan's expression sharpened. "The outer roads matter too."
 
 "Yes."
 
@@ -160,7 +160,7 @@ That phrasing mattered. He traced a route northeast. "An animal avoids one press
 
 Hesk spoke. "Which is why shutting it down blindly is dangerous." Tavian looked at him. "That is not permission." Hesk stopped. Tavian pointed to the map. "It is a field problem." Good. He continued. "The system has been active long enough that several movement corridors overlap where they should not. We have already seen predator and prey species using the same broad drift." Wrong tracks. Wrong direction. Not madness. Adaptation. Tavian moved the Broken North marker away. "If one influence disappears, what happens?" A councilman answered. "They go back." Tavian shook his head. "To what?"
 
-Nobody said anything. "The old route? The one now blocked by territory changes? The one occupied by a different predator population? The one pushed against the service road?" He looked around. "We do not know." Rook looked at the map. "So they spill somewhere else."
+Nobody said anything. "The old route? The one now blocked by territory changes? The one occupied by a different predator population? The one pushed against the service road?" He looked around. "We do not know." Luck looked at the map. "So they spill somewhere else."
 
 "Possibly."
 
@@ -234,7 +234,7 @@ Also very Maelis. Hesk looked at the table. "You are freezing the system in plac
 
 "No."
 
-His gaze moved around the room. "That is the part none of you want to say." Rook pushed away from the wall. "No. We just don't enjoy saying it as much as you do." His eyes settled on him. "You still think there is a version where no one chooses."
+His gaze moved around the room. "That is the part none of you want to say." Luck pushed away from the wall. "No. We just don't enjoy saying it as much as you do." His eyes settled on him. "You still think there is a version where no one chooses."
 
 "I think there is a difference between choosing under pressure and quietly deciding somebody else counts less."
 
@@ -242,21 +242,21 @@ His gaze moved around the room. "That is the part none of you want to say." Rook
 
 "Neither do I."
 
-Hesk's eyes narrowed. Rook pointed at him. "I care that you made your answer everybody else's problem."
+Hesk's eyes narrowed. Luck pointed at him. "I care that you made your answer everybody else's problem."
 
 "That will not move a migration."
 
 "No."
 
-Rook looked at Tavian's map. "But neither does pretending your choice is the only possible one." Hesk leaned forward. "You want to break the lures."
+Luck looked at Tavian's map. "But neither does pretending your choice is the only possible one." Hesk leaned forward. "You want to break the lures."
 
 "Yes."
 
-Too fast. Everybody noticed. Tavian definitely noticed. Rook continued anyway. "I want the part where people get secretly designated as acceptable loss gone."
+Too fast. Everybody noticed. Tavian definitely noticed. Luck continued anyway. "I want the part where people get secretly designated as acceptable loss gone."
 
 "So do I," Brynn said.
 
-Rook looked at her. She pointed at the map. "But if you destroy one and pressure hits another settlement, what did you designate them as?" There it was. Annoying. Accurate. If Rook broke the wrong lure and another settlement paid for it, the mess would still come back to them. Possibly with teeth. Annoying. Geometry, not conscience. Maelis watched him. Rook pointed at her. "Do not look pleased."
+Luck looked at her. She pointed at the map. "But if you destroy one and pressure hits another settlement, what did you designate them as?" There it was. Annoying. Accurate. If Luck broke the wrong lure and another settlement paid for it, the mess would still come back to them. Possibly with teeth. Annoying. Geometry, not conscience. Maelis watched him. Luck pointed at her. "Do not look pleased."
 
 "I am not."
 
@@ -304,16 +304,16 @@ Kellan hit the table with the side of his fist. "My people are there now."
 
 "I know."
 
-Heat climbed through his chest. Wait. Map. Confirm. Meanwhile somebody else's road got teeth. Rook looked at Tavian. He was already watching him. "Rook."
+Heat climbed through his chest. Wait. Map. Confirm. Meanwhile somebody else's road got teeth. Luck looked at Tavian. He was already watching him. "Luck."
 
 "I haven't done anything."
 
 "Not yet."
 
-Unfairly accurate. Brynn issued orders. "Warn the east outer homesteads. Move two militia teams to the outer approach. No one touches any suspected lure without Tavian or an approved field team." The runner nodded and left. Kellan looked at him. Not asking. Not yet. Hesk watched both of them. That was worse. Tavian stepped closer. His voice dropped. "We still do not know the full network." Rook said nothing. "We do not know which pressure lines overlap there." Still nothing. "If you change a lure now, the animals may not go where you think."
+Unfairly accurate. Brynn issued orders. "Warn the east outer homesteads. Move two militia teams to the outer approach. No one touches any suspected lure without Tavian or an approved field team." The runner nodded and left. Kellan looked at him. Not asking. Not yet. Hesk watched both of them. That was worse. Tavian stepped closer. His voice dropped. "We still do not know the full network." Luck said nothing. "We do not know which pressure lines overlap there." Still nothing. "If you change a lure now, the animals may not go where you think."
 
 "I heard you."
 
 "I need you to understand me."
 
-Rook met his eyes. "Changing any lure before we map the full network could cause a backflow."
+Luck met his eyes. "Changing any lure before we map the full network could cause a backflow."

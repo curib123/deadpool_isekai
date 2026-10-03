@@ -1,17 +1,17 @@
 # Manuscript Writing Rules
 
 **Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
-**Protagonist:** Rook Vane  
+**Protagonist:** Luck Everhart  
 **Status:** LOCKED — DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / NATURAL WEB-NOVEL PROSE  
-**Effective:** 2026-10-02
+**Effective:** 2026-10-03
 
 # 1. POV
 
-All current canon chapters use **distant third-person limited focused on Rook Vane**.
+All current canon chapters use **distant third-person limited focused on Luck Everhart**.
 
 Use:
-- Rook / he / him / his;
-- only information available through Rook's scene plus established external facts;
+- Luck / he / him / his;
+- only information available through Luck's scene plus established external facts;
 - selective internal thought;
 - visible reactions;
 - strong dialogue;
@@ -22,6 +22,18 @@ Do not:
 - narrate other characters' private thoughts;
 - use first-person narration as the default;
 - reveal protected writer truth through the narrator.
+
+# 1A. Scene Construction — Hard Rule
+
+Every scene must have a dramatic engine:
+
+**goal → obstacle → attempt → change**
+
+Before an action element matters, establish enough spatial information for the reader to picture it: important people, objects, exits, hazards, and useful distances. Do not reveal a conveniently placed object only at the instant Luck needs it.
+
+Show emotion primarily through behavior—posture, hesitation, movement, expression, silence, and dialogue. Use brief internal thoughts only when they reveal something the audience cannot see.
+
+Every scene must end with a meaningful change: a new problem, decision, discovery, obligation, damaged relationship, cost, unanswered question, or altered expectation.
 
 # 2. Prose Style
 
@@ -50,7 +62,7 @@ One-sentence narration paragraphs are allowed for:
 
 Do not default to:
 
-Rook moved.
+Luck moved.
 
 He stopped.
 
@@ -60,7 +72,7 @@ Something moved.
 
 Instead prefer:
 
-Rook moved down the road, then stopped when something shifted in the brush to his left. He turned slowly and listened.
+Luck moved down the road, then stopped when something shifted in the brush to his left. He turned slowly and listened.
 
 Hard QA:
 - repeated chains of 3+ one-sentence narration paragraphs require revision unless the scene is deliberately compressing a climax;
@@ -68,9 +80,9 @@ Hard QA:
 - action may briefly shorten during combat;
 - the prose must return to natural paragraphing afterward.
 
-# 4. Rook's Voice
+# 4. Luck's Voice
 
-Rook is not the narrator, but his personality must remain obvious through:
+Luck is not the narrator, but his personality must remain obvious through:
 - dialogue;
 - selective thoughts;
 - pauses;
@@ -79,7 +91,7 @@ Rook is not the narrator, but his personality must remain obvious through:
 - bluffs;
 - what he refuses to explain.
 
-Rook is:
+Luck is:
 - dry;
 - observant;
 - opportunistic;
@@ -113,22 +125,22 @@ It may not:
 - rewrite reality directly;
 - stop time;
 - rewind time;
-- regenerate Rook;
-- resurrect Rook;
+- regenerate Luck;
+- resurrect Luck;
 - teleport him without a normal mechanism;
 - cancel magic by declaration;
 - guarantee victory;
-- let Rook consciously choose an exact outcome.
+- let Luck consciously choose an exact outcome.
 
 # 6. Writing Luck Correctly
 
 Show the causal chain.
 
 Weak:
-> Rook's luck activated and the monster lost.
+> Luck's luck activated and the monster lost.
 
 Better:
-> The monster lunged. Its rear paw landed on the same rain-slick stone Rook had nearly slipped on moments earlier. The paw went sideways, the beast's shoulder struck the wagon wheel, and the loose iron pin Rook had failed to hammer straight finally jumped free. The wheel dropped into the monster's path.
+> The monster lunged. Its rear paw landed on the same rain-slick stone Luck had nearly slipped on moments earlier. The paw went sideways, the beast's shoulder struck the wagon wheel, and the loose iron pin Luck had failed to hammer straight finally jumped free. The wheel dropped into the monster's path.
 
 Every major lucky event should answer:
 1. What ordinary variables already existed?
@@ -138,9 +150,9 @@ Every major lucky event should answer:
 5. Who still had to act?
 6. What consequence remained?
 
-# 7. Rook Does Not Know Everything
+# 7. Luck Does Not Know Everything
 
-Throughout the whole series, Rook interprets incidents through ordinary causes:
+Throughout the whole series, Luck interprets incidents through ordinary causes:
 - good timing;
 - enemy stupidity;
 - coincidence;
@@ -149,13 +161,13 @@ Throughout the whole series, Rook interprets incidents through ordinary causes:
 
 Do not make him announce the power repeatedly.
 
-The reader recognizes the luck power. Rook never does, including in the final scene. Another character may explain a theory to him; he remembers it but treats its mechanism as unproven and its inflated account of his intentions as someone taking his performance literally. Never give him a strategy that depends on “my luck,” even without naming the ability.
+The reader recognizes the luck power. Luck never does, including in the final scene. Another character may explain a theory to him; he remembers it but treats its mechanism as unproven and its inflated account of his intentions as someone taking his performance literally. Never give him a strategy that depends on “my luck,” even without naming the ability.
 
 # 8. Misinterpretation Engine
 
 Use this recurring sequence:
 
-**Rook improvises → luck makes it work too well → witnesses assume hidden mastery → Rook notices → Rook keeps a straight face → rumor/reputation grows → later consequence**
+**Luck improvises → luck makes it work too well → witnesses assume hidden mastery → Luck notices → Luck keeps a straight face → rumor/reputation grows → later consequence**
 
 Misunderstanding must not always help him.
 
@@ -166,15 +178,34 @@ It may create:
 - political attention;
 - impossible expectations;
 - legal suspicion;
-- people acting on a plan Rook never made.
+- people acting on a plan Luck never made.
 
 # 8A. Write the Other Characters' Overanalysis
 
-Use detail selectively, after a consequential event. A witness identifies two or three real observations, connects them through their own expertise, and reaches a mistaken conclusion about Rook's motive or preparation. That conclusion must cause action: a promotion, a retreat, a demand, a new investigation, a changed target, or an expectation Rook cannot safely meet.
+Use detail selectively, after a consequential event. A witness identifies two or three real observations, connects them through their own expertise, and reaches a mistaken conclusion about Luck's motive or preparation. That conclusion must cause action: a promotion, a retreat, a demand, a new investigation, a changed target, or an expectation Luck cannot safely meet.
 
-Make the discrepancy concrete. If the witness says he waited for the cart's weight to shift, show that Rook had actually been waiting for someone to stop talking. Do not follow every ordinary gesture with a lecture. Vary explanations, disagreement, short reactions, and practical interruptions. Supporting characters may be correct about the physical sequence while wrong about its author.
+Make the discrepancy concrete. If the witness says he waited for the cart's weight to shift, show that Luck had actually been waiting for someone to stop talking. Do not follow every ordinary gesture with a lecture. Vary explanations, disagreement, short reactions, and practical interruptions. Supporting characters may be correct about the physical sequence while wrong about its author.
 
-Keep Rook's private performer visible: deciding where a mysterious figure would stand, rehearsing a line, enjoying an accidental entrance, or discovering that a supposedly ominous silence has become a job assignment. He knows the act is an act; he mistakes the extraordinary results for coincidences or ordinary successes of that act.
+Keep Luck's private performer visible: deciding where a mysterious figure would stand, rehearsing a line, enjoying an accidental entrance, or discovering that a supposedly ominous silence has become a job assignment. He knows the act is an act; he mistakes the extraordinary results for coincidences or ordinary successes of that act.
+
+# 8B. Misunderstanding Variety
+
+Do not repeat the exact same misunderstanding pattern chapter after chapter.
+
+Vary the outcome:
+- an accident looks like a calculated victory;
+- another character succeeds because Luck accidentally creates an opening;
+- an escape looks like a deliberate sacrifice or feint;
+- an embarrassing mistake is read as intimidation;
+- a vague sentence becomes an apparent prediction;
+- Luck's attempt to look impressive genuinely fails;
+- a rumor helps him immediately but creates a later obligation or enemy.
+
+Luck's reputation must grow faster than his understanding of why events favor him. He may enjoy the legend and deliberately perform for it, but he never knowingly bases a plan on supernatural luck.
+
+# 8C. Consequence Continuity
+
+Injuries, broken equipment, spent money, damaged property, political suspicion, promises, debts, rumors, and relationship changes persist beyond the scene that created them. Comedy never resets consequences.
 
 # 9. Dialogue
 
@@ -195,10 +226,10 @@ Avoid exposition tennis.
 # 10. Comedy
 
 Comedy comes from:
-- Rook's inner concern versus outward calm;
+- Luck's inner concern versus outward calm;
 - other characters overestimating him;
 - coincidences arriving at absurdly perfect timing;
-- Rook accepting credit after the fact;
+- Luck accepting credit after the fact;
 - enemies overthinking ordinary actions;
 - practical characters refusing to be impressed;
 - rumors becoming more dramatic than the truth.
@@ -207,7 +238,7 @@ Do not force a joke after major injury, death, betrayal, or irreversible harm.
 
 # 11. Combat
 
-Rook can be physically weaker than an opponent.
+Luck can be physically weaker than an opponent.
 
 A battle should use:
 - terrain;
@@ -217,17 +248,17 @@ A battle should use:
 - enemy goals;
 - timing;
 - Fortune Distortion;
-- Rook's bluffing/improvisation.
+- Luck's bluffing/improvisation.
 
 Luck creates openings.
 
-Rook or another character must convert the opening into an outcome.
+Luck or another character must convert the opening into an outcome.
 
 Supporting characters must retain competence.
 
 # 12. Injury
 
-Rook is physically mortal.
+Luck is physically mortal.
 
 If he is injured:
 - the injury remains;
@@ -244,7 +275,7 @@ It may not erase damage that already happened.
 
 When a scene becomes serious:
 - jokes may stop;
-- Rook speaks less;
+- Luck speaks less;
 - paragraphing becomes clean;
 - the physical problem becomes concrete;
 - he stops feeding the misunderstanding for entertainment;
@@ -275,7 +306,7 @@ Do not stop the story to explain the setting.
 Every chapter must contain:
 - an immediate objective/problem/question;
 - a meaningful change;
-- at least one Rook-specific beat;
+- at least one Luck-specific beat;
 - a concrete reason to continue.
 
 Possible engines:
@@ -309,18 +340,18 @@ Avoid fake cliffhangers.
 # 17. Final Manuscript QA
 
 A chapter fails if:
-1. Rook uses any supernatural power other than Fortune Distortion.
+1. Luck uses any supernatural power other than Fortune Distortion.
 2. Luck produces an impossible result with no causal chain.
-3. Rook consciously commands exact probability.
-4. Rook supernaturally regenerates.
-5. Time freezes for Rook.
-6. Supporting characters become incompetent to make Rook look good.
+3. Luck consciously commands exact probability.
+4. Luck supernaturally regenerates.
+5. Time freezes for Luck.
+6. Supporting characters become incompetent to make Luck look good.
 7. One-line narration dominates the chapter.
 8. Dialogue sounds interchangeable.
 9. The scene does not change anything.
 10. The ending provides no forward pull.
-11. Rook identifies or consciously exploits his supernatural luck.
+11. Luck identifies or consciously exploits his supernatural luck.
 12. His theatrical personality appears only after fame or disappears permanently in a serious arc.
 13. Witness explanations require omniscience, interchangeable admiration, or supporting-character incompetence.
 
-A chapter passes only when Rook feels **lucky, overestimated, dangerous-looking, human, and original**.
+A chapter passes only when Luck feels **lucky, overestimated, dangerous-looking, human, and original**.

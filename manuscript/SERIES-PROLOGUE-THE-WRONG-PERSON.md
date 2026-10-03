@@ -1,48 +1,148 @@
 # Prologue — The World Was Waiting for Someone Else
 
-**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK
-**Revision Date:** 2026-10-02
+**Status:** AUTHOR-DIRECTED CINEMATIC REVISION — LUCK EVERHART NAME NOT YET CHOSEN / PERMANENTLY CLUELESS LUCK
+**Revision Date:** 2026-10-03
 **Volume:** Series front matter
-**POV:** Distant third-person limited — Luck Everhart
+**POV:** Distant third-person limited — unnamed protagonist
 
-The last thing Luck remembered was a white flash. There had been heat, pressure, and a noise too large to remain a noise. After that, there was no room, no street, and nothing beneath his feet.
+The last thing he remembered clearly was white light.
 
-He tried to recover a name. Something familiar waited behind the effort, but reaching for it hurt. Faces would not hold still. A home became the idea of a home and then disappeared.
+Before it came, there had been heat. A pressure wave. A sound too large to remain a sound. He remembered turning toward something he could no longer picture and having just enough time to think that whatever was happening looked expensive.
 
-He retained less useful things perfectly. What a phone was. Why explosions were bad. The correct length of a pause before someone stepped out of the darkness and said something that made everybody else go quiet.
+Then the world disappeared.
 
-Apparently his memory had priorities.
+There was no floor beneath him, but he did not feel himself falling. No wind touched his face. No pain followed the explosion. He tried to open his eyes and could not tell whether they were already open.
 
 "Hello?"
 
-Nothing answered. He waited for a voice, a glowing instruction, or somebody prepared to apologize for the lack of facilities. There should have been a person explaining the situation. At minimum, there should have been somewhere to sit.
+His voice went nowhere.
 
-Luck could imagine the scene that ought to follow: an unfamiliar room, strangers arguing about a crisis, then his arrival at exactly the right moment. He would not need to understand the argument immediately. The first task would be looking as though he did.
+He waited.
 
-He tried a sentence under his breath.
+If this was death, it lacked organization. If it was a hospital, somebody had made ambitious design choices. If it was one of those impossible situations stories liked to begin with, then an explanation was overdue.
+
+Nothing arrived.
+
+He searched his memory instead.
+
+A room surfaced first, then lost its walls. A street appeared without a name. He reached for a face and found only the certainty that faces had once mattered to him. The harder he pulled, the sharper the pain became behind his eyes.
+
+He stopped.
+
+Useful knowledge remained untouched. He knew what a phone was. He knew an explosion generally meant something had gone badly. He knew that when entering a room full of dangerous strangers, the correct pause could make ignorance look like confidence.
+
+Apparently his memory had standards.
+
+He tried to remember his name.
+
+Pain answered.
+
+"All right."
+
+He let the missing thing stay missing.
+
+There should have been panic. Some of it was there, certainly, waiting beneath his ribs. But panic without a direction felt inefficient, so he gave himself a smaller problem.
+
+If somebody eventually appeared, he needed an opening line.
+
+He tested one quietly.
 
 "You have mistaken the beginning for the end."
 
-Good weight. Difficult to use in an ordinary conversation. He would save it for a suitable doorway.
+The words hung in the dark.
 
-Cold arrived before a doorway did. Damp earth pressed against his back. He felt fingers, ribs, teeth, and a coat snagged under one shoulder. Something small crawled over his wrist.
+He considered them.
 
-Luck opened his eyes beneath a green canopy. There was no welcoming figure, no rescue crew, and no audience to appreciate his composure. He jerked his hand away from the crawling thing before checking the rest of himself.
+"Too much."
 
-Everything seemed attached. Whatever had happened before this place, it had not supplied an explanation.
+A shorter one, then.
 
-He rolled onto one elbow. Farther between the trees, something heavy moved through the brush. Luck listened, then looked for a path. A dramatic entrance would have to wait until he reached people.
+"You were expecting someone else."
 
-First, he needed breakfast.
+Better.
 
-He stood without noticing the beetle beneath his heel. His boot missed it by less than the width of a leaf. Above him, a cracked branch shifted, caught against another limb, and remained there until he had walked beneath it.
+He had no idea why that sentence felt appropriate.
 
-Luck stopped to brush dirt from his coat.
+Something changed.
+
+Not sound. Not light. Pressure.
+
+For an instant, he felt as though an enormous mechanism had noticed him and then failed to decide what category he belonged in. The sensation vanished before he could understand it.
+
+Cold replaced it.
+
+Damp earth pressed against his back. Air entered his lungs hard enough to make him cough. Leaves whispered above him, and something small with too many legs crossed the back of his hand.
+
+He flung it away and sat up too quickly.
+
+Green filled his vision.
+
+Trees rose around him in wet columns. Moss glowed pale blue along one trunk. Water gathered at the tips of broad leaves and fell in slow drops onto soil dark with rain.
+
+No ambulance.
+
+No ruined building.
+
+No person waiting to explain why the forest looked as though it had never heard of electricity.
+
+He checked himself by touch. Head. Ribs. Arms. Legs. Everything appeared attached. His coat was dirty but mostly intact. A shallow scrape marked one knuckle.
+
+He reached for his name again.
+
+The pain returned.
+
+"Still no."
+
+Farther between the trees, brush shifted under something heavier than the little creature he had thrown from his hand.
+
+He went still.
+
+The movement stopped.
+
+He looked for a road, a weapon, higher ground—anything more useful than being the only confused man in an unfamiliar forest.
+
+A narrow depression ran between the trees to his right. Broken stones showed through roots and mud. Not natural.
+
+A road, once.
+
+Good enough.
+
+He rose, brushed leaves from his coat, and caught sight of himself in a rain-dark patch of bark. Mud on one shoulder. Hair out of place. Expression less composed than he preferred.
+
+No audience was present.
+
+He fixed the collar anyway.
+
+Whatever had happened to him, arriving frightened and disorganized would not improve it. If people lived beyond the trees, he could be confused after he had food, shelter, and enough information to be confused properly.
+
+The brush moved again.
+
+Closer.
+
+He took one step toward the ruined road.
+
+A cracked branch above him shifted under collected rainwater. Its broken end slipped, caught against another limb, and held.
+
+He passed beneath it without looking up.
 
 The branch fell behind him.
 
-He glanced back at the broken wood, checked the canopy more carefully, and moved away from the tree. Old branches fell. There was no reason to make the morning more complicated than it already was.
+He turned at the sound.
 
-He still had no idea where he had arrived, what had brought him, or why the danger kept reaching the place he had just left. The forest offered none of those answers. Somewhere beyond it, people would have their own reasons for whatever they thought he was.
+Wet wood lay across the place where he had been standing.
 
-Luck practiced the sentence once more while searching for a road.
+He studied it for a moment, then the canopy.
+
+"Old tree."
+
+Reasonable explanation.
+
+He started down the road.
+
+Behind him, the forest settled into silence.
+
+Ahead, something growled.
+
+He stopped.
+
+The opening line could wait.

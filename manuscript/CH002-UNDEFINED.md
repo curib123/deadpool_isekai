@@ -6,7 +6,7 @@
 
 Civilization announced itself with smoke, wagon wheels, and a timber wall high enough to make the forest behind Luck look like somebody else's problem. The road curved down through thinning trees toward a palisade. River fog drifted between watch platforms. Two lines of carts waited outside the gate while drivers checked harnesses, guards inspected loads, and merchants argued with the confidence of people whose morning had not included being hunted. Luck stopped where the trees gave way to the road. Dried blood marked his torn sleeve. Mud covered one knee, both boots, and enough of his coat to damage the mysterious-stranger effect.
 
-He straightened anyway. The horse finished its step. Luck walked toward the gate as though he belonged there. Two guards noticed him before he reached the first wagon. One was broad enough to make his spear look decorative. The other was younger and far more interested in the dried blood on Luck's sleeve. The broad guard raised a hand and spoke. Luck stopped. The sentence was definitely language. It was also completely useless to him. He smiled politely.
+He straightened anyway and walked toward the gate as though he belonged there. Two guards noticed him before he reached the first wagon. One was broad enough to make his spear look decorative. The other was younger and far more interested in the dried blood on Luck's sleeve. The broad guard raised a hand and spoke. Luck stopped. The sentence was definitely language. It was also completely useless to him. He smiled politely.
 
 "I'm going to assume that meant welcome."
 

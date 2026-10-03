@@ -1,8 +1,8 @@
 # Continuity Bible
 
-## Current Rook Knowledge and Personality Override — 2026-10-02
+## Current Luck Knowledge and Personality Override — 2026-10-02
 
-For every scene, track separately: (1) what actually happened, (2) what Rook intended, (3) what the witness believes he intended, and (4) what consequence that belief causes. The supernatural cause belongs to writer truth; Rook never correctly identifies it through the ending.
+For every scene, track separately: (1) what actually happened, (2) what Luck intended, (3) what the witness believes he intended, and (4) what consequence that belief causes. The supernatural cause belongs to writer truth; Luck never correctly identifies it through the ending.
 
 He may remember Maelis's statistical theory and Tavian's concern. He still believes particular events were accidents, normal material failure, effective bluffing, or somebody else's good work. He knows his public persona is a performance. Knowing that he takes undeserved credit is not knowing that luck is a power.
 

@@ -2,13 +2,13 @@
 
 ## Current Author-Directed Revision — 2026-10-02
 
-**Priority:** permanently clueless luck / stable theatrical Rook / evidence-based witness overanalysis.
+**Priority:** permanently clueless luck / stable theatrical Luck / evidence-based witness overanalysis.
 
-This section supersedes all historical production, power, personality, and knowledge-growth statements below. Rook never correctly identifies his own supernatural luck, including in the final scene. He enjoys performing a mysterious role from the beginning. Other characters reconstruct hidden plans while Rook attributes events to ordinary causes or a successful act. The final scene retains that mismatch.
+This section supersedes all historical production, power, personality, and knowledge-growth statements below. Luck never correctly identifies his own supernatural luck, including in the final scene. He enjoys performing a mysterious role from the beginning. Other characters reconstruct hidden plans while Luck attributes events to ordinary causes or a successful act. The final scene retains that mismatch.
 
 The prologue and 23 existing chapters have been revised for this direction. The 4 remaining manuscripts were checked for the targeted power/knowledge conflicts and retain their existing prose. Old object creation, automatic healing, and raw-strength victories found in current manuscripts have been replaced with tools, timing, terrain, material failure, and independent supporting action.
 
-**Revision state:** REVIEW DRAFT — focused editorial review recorded in `qa/ROOK-CLUELESS-LUCK-REVISION-QA.md`. Earlier Gate 9 and publication PASS labels are historical and do not approve changed text. This pass does not claim full publication certification or newly authorize CH-028 production. Formal chapter/canon/publication review continues under the studio pipeline.
+**Revision state:** REVIEW DRAFT — focused editorial review recorded in `qa/LUCK-CLUELESS-LUCK-REVISION-QA.md`. Earlier Gate 9 and publication PASS labels are historical and do not approve changed text. This pass does not claim full publication certification or newly authorize CH-028 production. Formal chapter/canon/publication review continues under the studio pipeline.
 
 
 **Effective 2026-09-26:** `planning/DISTANT-NARRATION-MASTER-RETCON.md` overrides all older close-first-person status wording in this roadmap.
@@ -47,7 +47,7 @@ Volume 1 Arc 1 Post-Rewrite Recheck: **PASS — CURRENT GREYWAKE ARC REVALIDATED
 Volume 1 Web-Novel Prose Style Audit: **PASS — CLOSE NARRATION / DIALOGUE / SELF-THOUGHT STANDARD / 2026-09-26**
 CH-002→CH-027 Natural Prose & Liveliness Pass: **PASS — NORMAL STORY FLOW / LIVELY DIALOGUE / SELECTIVE SELF-THOUGHT / 2026-09-27**
 Volume 1 Pacing Revision v2: **COMPLETE — MERGED WITH OVERPOWERED RETCON**  
-Rook Vane Luck-Only Retcon: **ACTIVE — JACKAL LUCK ONLY / NO POWER PROGRESSION / PROBABILITY-REVELATION MODEL**  
+Luck Everhart Luck-Only Retcon: **ACTIVE — JACKAL LUCK ONLY / NO POWER PROGRESSION / PROBABILITY-REVELATION MODEL**  
 Volume 1 Luck-Only Manuscript Rewrite: **ACTIVE — PROLOGUE + CH001–CH027 / POWER RETCON + PARAGRAPH-CADENCE PASS**  
 Volume 2 Destination Selection: **PASS — GATE 5 / DEST-002 MERROWGATE**  
 Volume 2 Architecture: **PASS — GATE 6 / MERROWGATE ARC LOCKED**  
@@ -110,11 +110,11 @@ CH-025 Scene Architecture: **PASS — GATE 8**
 CH-025 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
 CH-026 Scene Architecture: **PASS — GATE 8**  
 CH-026 Manuscript: **CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS**  
-Rook Vane Series Voice: **LOCKED — DISTANT THIRD-PERSON LIMITED / CINEMATIC WEB-NOVEL ENGLISH / META ADDRESS WITHOUT TIME STOP**  
-Rook Vane Anti-Villain Expression: **LOCKED**  
-Rook Vane Reputation / Fear Progression: **LOCKED — REVELATION MODEL / UNKNOWN → UNDERESTIMATED → HIDDEN MONSTER**  
-Rook Vane Aura-Farming Reputation Evolution: **LOCKED — MANUFACTURED → EARNED → REPUTATION PRECEDES HIM**  
-Rook Vane Reputation / Threat Perception: **LOCKED — EVIDENCE-BASED DISCOVERY, NOT POWER GROWTH**  
+Luck Everhart Series Voice: **LOCKED — DISTANT THIRD-PERSON LIMITED / CINEMATIC WEB-NOVEL ENGLISH / META ADDRESS WITHOUT TIME STOP**  
+Luck Everhart Anti-Villain Expression: **LOCKED**  
+Luck Everhart Reputation / Fear Progression: **LOCKED — REVELATION MODEL / UNKNOWN → UNDERESTIMATED → HIDDEN MONSTER**  
+Luck Everhart Aura-Farming Reputation Evolution: **LOCKED — MANUFACTURED → EARNED → REPUTATION PRECEDES HIM**  
+Luck Everhart Reputation / Threat Perception: **LOCKED — EVIDENCE-BASED DISCOVERY, NOT POWER GROWTH**  
 Aura Evolution: **MANUFACTURED → EARNED → REPUTATION-SUPPORTED**
 
 The project publication state is now:
@@ -179,18 +179,18 @@ Revision result:
 Volume 1 Gate 11 refresh is complete. Volume 2 CH-028 is now the active authorized step.
 
 
-## Rook Vane Overpowered Retcon
+## Luck Everhart Overpowered Retcon
 
 Authoritative retcon:
 
 `planning/RED-JACKAL-OVERPOWERED-RETCON.md`
 
 Foundation changes:
-- Rook is already overwhelmingly powerful from the beginning;
-- Fortune Distortion is Rook's only supernatural ability and has no progression tree;
+- Luck is already overwhelmingly powerful from the beginning;
+- Fortune Distortion is Luck's only supernatural ability and has no progression tree;
 - Stage I/II/III/IV progression is superseded;
 - escalating effects are revealed probability patterns, not new powers or raw-power tiers;
-- fights emphasize Rook playing with enemies until he decides to stop;
+- fights emphasize Luck playing with enemies until he decides to stop;
 - supporting cast matter through information, access, logistics, evidence, judgment and consequences.
 
 All older Stage-I ceiling language is legacy until revised.
@@ -252,8 +252,8 @@ It has no current authority over:
 - POV;
 - reader address;
 - fourth-wall mechanics;
-- Rook's origin;
-- Rook's personality-development model.
+- Luck's origin;
+- Luck's personality-development model.
 
 The only retained value from that historical pass is line-level work that remains compatible after the new first-person rewrite.
 
@@ -272,15 +272,15 @@ Locked changes:
 - natural far Soul Drift, not Savael/Exterior Needle, brings him to Veyr;
 - most autobiographical memory/personality organization is lost;
 - Deadpool-fan/meta-media cognitive residue survives;
-- Rook is written in distant third-person limited narration;
+- Luck is written in distant third-person limited narration;
 - reader address is a meta voice device only and never freezes Veyran time;
 - Fortune Distortion is the only supernatural power from the start;
-- Rook has no supernatural regeneration; injury and recovery follow ordinary bodily/in-world medical rules;
-- Rook has no conventional power progression;
-- Rook has no conventional moral-development arc;
-- Rook remains a self-centered comedic anti-villain/aura farmer/enemy-player;
+- Luck has no supernatural regeneration; injury and recovery follow ordinary bodily/in-world medical rules;
+- Luck has no conventional power progression;
+- Luck has no conventional moral-development arc;
+- Luck remains a self-centered comedic anti-villain/aura farmer/enemy-player;
 - Veyr has a real registered otherworld Hero, Hero Party, Main Villain, and independent native story;
-- Rook intrudes on and reroutes that story without becoming its chosen Hero.
+- Luck intrudes on and reroutes that story without becoming its chosen Hero.
 
 Preserved:
 - world map/geography;
@@ -311,13 +311,13 @@ Authoritative sources:
 - `qa/RED-JACKAL-FINAL-STORY-ENGINE-RETCON-QA.md`
 
 Additional locked interpretation:
-- Rook is the series focal protagonist, but not Veyr's registered chosen Hero;
+- Luck is the series focal protagonist, but not Veyr's registered chosen Hero;
 - the conventional otherworld Hero and Hero Party remain genuine and competent;
-- Rook repeatedly creates a false-main-character effect by stealing presentation and attention;
-- Rook's intrusion may change the flow, but it must reroute later causality instead of deleting the sequence;
-- unexpected situations must grow from Rook's personality and leave lasting consequences;
-- Rook has no conventional moral/personality-development arc;
-- Rook has no raw-power progression arc;
+- Luck repeatedly creates a false-main-character effect by stealing presentation and attention;
+- Luck's intrusion may change the flow, but it must reroute later causality instead of deleting the sequence;
+- unexpected situations must grow from Luck's personality and leave lasting consequences;
+- Luck has no conventional moral/personality-development arc;
+- Luck has no raw-power progression arc;
 - aura farming, enemy-play, theatricality, reader-address, and Fortune Distortion are established from the beginning; no second power is unlocked.
 
 Preservation remains absolute unless the author explicitly changes it:

@@ -1,3 +1,6 @@
+> **SUPERSEDED STRUCTURAL RECORD — 2026-10-03**  
+> This pre-audit scene plan is historical and MUST NOT be used as current story authority. It contains legacy Red Jackal / Play Logic / regeneration / first-person-era assumptions. Current authority is `planning/LUCK-EVERHART-STRUCTURAL-STORY-BIBLE.md`, the current volume chapter roadmap, and the audited manuscript. Preserve this file only as revision history.
+
 # CH-008 Scene Architecture — Outside the Lanterns
 
 **Volume:** 1 — Greywake Arc  

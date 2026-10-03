@@ -294,11 +294,11 @@ Luck glanced at her.
 
 "That leaving before anyone can expect anything from you is freedom."
 
-That was uncomfortably close to a real conversation. Luck looked toward the road. Merrowgate lay far beyond Greywake, connected by trade routes and enough distance to make local rumors somebody else's problem. For a while.
+That was uncomfortably close to a real conversation. Luck looked toward the eastbound road. Somewhere beyond Greywake were larger trade routes, river landings, cities, and ports far enough away that his local rumors might need time to catch up.
 
 "Maybe I just like ports."
 
-"You've never seen Merrowgate."
+"You have not seen one here yet."
 
 "Then the relationship is still healthy."
 
@@ -364,8 +364,14 @@ Brynn nodded.
 
 "Probably."
 
-Behind them, the wagon driver lifted the broken crate. Beneath it, wedged between two road stones, was an old stamped Guild token everyone had been trying to locate for the final evidence inventory. Brynn saw it.
+The driver finished gathering the apples and pulled his wagon clear of the gate.
 
-Luck saw it. Neither moved for a moment. Then Luck pointed east.
+Luck adjusted the pack on his shoulder and pointed east.
 
-"I am leaving faster."
+"Before another repair crew learns my name."
+
+Brynn nodded toward the road.
+
+"Too late."
+
+Luck left anyway.

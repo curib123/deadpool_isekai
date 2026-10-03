@@ -1,114 +1,56 @@
-# Published Versions
+# Published Reader Copies
 
-This directory contains **reader-facing copies** derived from the manuscript sources. The 2026-10-02 revision branch includes review copies of changed manuscripts; those copies are **PUBLISH DRAFT — GATE 9 / CANON / GATE 11 REVALIDATION PENDING**. Historical PASS records certify earlier source text and do not approve this branch for external release.
+**Status:** CURRENT READER-FACING COPIES — 2026-10-03  
+**Canon source:** `manuscript/`
 
-It is intentionally separate from `manuscript/`.
+The `published/` directory contains reader-facing copies generated from current manuscript canon.
 
-# Source of Truth
+These files are not an independent canon source. Story edits belong in `manuscript/` first, followed by publication synchronization and QA.
 
-The canon source is always:
+# Official Reading Order
 
-`manuscript/CH###-....md`
+There is **no standalone prologue**.
 
-A file in `published/` is a release artifact, not a second canon source.
+The former prologue material has been merged into CH001 so the novel begins with one uninterrupted opening.
 
-If publication cleanup reveals a real prose/story problem that requires a semantic change:
-
-1. edit the canon manuscript through the proper editorial workflow;
-2. rerun Gate 9;
-3. recanonize;
-4. regenerate the publication copy;
-5. rerun Gate 11.
-
-Never fix story canon only inside `published/`.
-
-# Recommended Layout
-
-```text
-published/
-  volume-001/
-    CH001-WRONG-FOREST-WRONG-WORLD.md
-    CH002-UNDEFINED.md
-    ...
-    CH026-BEFORE-THEY-DECIDE-WHAT-I-AM.md
-```
-
-# Reader-Facing Chapter Format
-
-Default publication chapter:
-
-```text
-Chapter 1 — Wrong Forest, Wrong World
-
-[chapter prose only]
-```
-
-Do not include reader-visible repository metadata such as:
-
-- CANON status;
-- Gate numbers;
-- word count;
-- QA path;
-- source SHA;
-- internal CH-ID unless deliberately wanted in the display title;
-- production notes.
-
-Source revision information belongs in the Gate 11 QA record, not in the reader-facing chapter.
-
-# Publication Status
-
-A file in this directory must use one of these workflow states in its QA record:
-
-- PUBLISH DRAFT — GATE 11 PENDING
-- PUBLISH QA FAIL — REVISION REQUIRED
-- PUBLISH-READY — GATE 11 PASS
-- PUBLISHED — SOURCE LOCKED TO CANON REVISION
-
-The visible published prose itself should not display those labels.
-
-# WebNovel-Oriented Rules
-
-For WebNovel copy/paste:
-
-- preserve clean paragraph breaks;
-- do not depend on unsupported Markdown for meaning;
-- keep intentional scene breaks visible in plain text;
-- remove internal production metadata;
-- do not auto-italicize every internal thought;
-- preserve the canon distinction between narration, private self-talk, reader-talk and spoken dialogue;
-- verify the first and final paragraphs after pasting;
-- verify no paragraph was duplicated or omitted;
-- keep Author's Thoughts separate from chapter prose unless intentionally written for that field.
-
-# Required QA
-
-Every release chapter must pass:
-
-`Gate 11 — Publish Version QA`
-
-using:
-
-`qa/PUBLISH-VERSION-QA-STANDARD.md`
-
-Chapter QA records belong under:
-
-`qa/publish/`
-
-A completed volume also receives a volume-level Publish Version QA.
-
-
-# Primary WebNovel Opening Sequence
-
-For contract-focused / reader-acquisition release, use:
+Primary public sequence:
 
 1. `published/SYNOPSIS.md`
 2. `published/volume-001/CH001-WRONG-FOREST-WRONG-WORLD.md`
-3. continue CH-002 onward in numbered order.
+3. CH002 onward in numbered order
+4. after CH026, continue with Volume 2 beginning at CH027
 
-The existing `published/PROLOGUE-THE-WRONG-PERSON.md` is retained as an **optional alternate/bonus prologue**, but it must **not** precede CH-001 in the primary WebNovel sequence because its explosion/white-space/arrival material overlaps CH-001.
+**Public flow:**  
+**Synopsis → CH001 → CH002 → CH003 → ...**
 
-This keeps CH-001 as the first dramatic reading unit and avoids making a new reader experience the opening twice.
+# Chapter 1 Opening Lock
 
-## 2026-10-02 Revision Sources
+CH001 now contains:
+- the mysterious Earth explosion;
+- damaged autobiographical memory;
+- unnamed arrival in Veyr;
+- Luck's theatrical instinct before he has a reputation;
+- the first visible but unexplained Fortune Distortion timing;
+- the forest predator encounter;
+- real physical injury;
+- the deliberate choice of the name **Luck Everhart**;
+- movement toward civilization.
 
-The optional prologue and all 26 Volume 1 reader copies have been refreshed from current manuscript text on this branch. Their prose contains no production metadata. The synopsis now describes Luck Everhart, permanent ignorance of his passive luck, theatrical performance, and consequential misunderstandings. No external posting was performed. See `qa/LUCK-CLUELESS-LUCK-REVISION-QA.md` for the source-equivalence review.
+Do not insert a separate prologue before CH001.
+
+# Publication Rules
+
+- keep reader copies story-equivalent to their manuscript sources;
+- remove production metadata from reader-facing files;
+- preserve chapter title, prose order, dialogue, consequences, and ending;
+- do not make publication-only canon changes;
+- rerun publish QA after substantive manuscript revisions.
+
+# Current Story State
+
+- Volume 1: CH001–CH026
+- Volume 2 manuscript currently begins at CH027
+- Luck Everhart remains the protagonist
+- POV remains distant third-person limited
+- Fortune Distortion remains his only supernatural power
+- Luck remains unaware that it is his power

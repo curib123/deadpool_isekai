@@ -1,75 +1,126 @@
 # Series Consequence Ledger
 
-**Owner:** A100 Continuity Director + A102 Knowledge-State Editor  
-**Supporting owners:** A001 Series Director, A040 Character Bible Director, A043 Red Jackal Guardian, A044 Supporting Cast Editor, A050 Mystery Director, A064 Travel Editor, A070 Series Roadmap Director  
-**Status:** ACTIVE — SERIES-SCALE SUPPLEMENT  
-**Authority:** Chapter/volume continuity, current manuscripts, knowledge-state records, and higher canon Bibles override this supplement.
+**Status:** CURRENT — 2026-10-03  
+**Authority:** Cross-arc continuity supplement  
+**Protagonist:** Luck Everhart
 
-## 1. Scope and State Labels
+# 1. Global Persistent Consequences
 
-This ledger carries consequences across destination arcs. It does not invent manuscript events, replace chapter continuity, or convert a provisional story-function slot into canon.
+| Area | Current consequence | Persistence rule |
+|---|---|---|
+| Identity | Luck has no valid World/Soul registry record | No later city may casually normalize him |
+| Name | Luck Everhart is self-chosen | Institutions may accept the declared name locally without turning it into native System identity |
+| Power | Passive Fortune Distortion only | No conscious activation, progression, regeneration, or second power |
+| Literacy | Luck cannot read ordinary Veyran fluently | May improve only through actual learning/context; no sudden automatic literacy |
+| Body | Luck is mortal and carries injury/recovery | Later travel and action must respect recovery state |
+| Reputation | Greywake produces conflicting stories | Rumors spread unevenly and mutate by faction |
+| Freedom | Luck avoids ownership/assigned identity | Useful work, contracts, and reputation repeatedly threaten to assign him roles |
+| Money | Freedom costs food, lodging, fare, equipment | Each destination requires believable income/resource flow |
 
-| State | Meaning |
-|---|---|
-| **CANON** | Supported by current manuscript and canon records. |
-| **PLANNED** | Authorized by a locked roadmap but not yet manuscript canon. |
-| **PROVISIONAL** | Story-function expectation only. |
-| **PROTECTED** | Must not be advanced by this ledger. |
-| **UNRESOLVED** | Deliberately open and carried forward. |
+# 2. Greywake Consequences
 
-## 2. Cross-Arc State Table
+## Institutional
+- Hesk's hidden lure policy is exposed.
+- Road Guild legitimacy is damaged.
+- Outer communities can no longer be treated as invisible costs without political resistance.
+- Route management must account for the ecological damage created by long-term manipulation.
+- Greywake still needs the main road; exposing the policy does not remove that dependency.
 
-| Route record | State | Red location/condition | Red injuries/resources | Red reputation/relationships | Native Hero/Party state | Savael state | Institution/faction changes | Destination condition | Active mysteries/clues | Travel/departure consequence | Next handoff |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| ARC-001 — Greywake | **CANON** | Greywake crisis completed; Red has departed | Recovery and resource consequences remain linked to CH-025/CH-026 authority | Red leaves as an undefined outsider whose reputation has changed through witnessed action and fear | Native Hero/Party remain independent and are not retroactively inserted into Greywake | **PROTECTED**; no Savael writer-truth advancement | Greywake survives with damage; local authority, evidence, and migration consequences remain in the Arc 1 records | Greywake holds imperfectly and carries political/institutional consequences | F-001/F-002/F-003/F-004 are planted at their existing chapters; protected M-IDs remain protected | Departure preserves the route toward Merrowgate and carries injury, reputation, and knowledge state forward | ARC-002 arrival pressure |
-| ARC-002 — Merrowgate | **PLANNED / IN-PRODUCTION** | Red is planned to arrive as a practical outsider seeking money, passage, and leverage; CH-027 synchronization is pending | Roadmap plans recovery, CH-036/CH-042 injury consequences, and no consequence-free reset; manuscript proof is still required | Planned to move from unknown arrival to useful suspect to publicly complicated participant | Native Hero/Party remain independent; physical intersection is not required | **PROTECTED**; Cassian Venn is local antagonist, not Savael | Planned conflict concerns engineered port instability and private security consolidation | Merrowgate is planned to survive with damage, divided authority, and repair rather than utopian reset | M-002/M-011 surface pressure; F-010 planned for CH-038 and not planted | CH-050 departure is planned to preserve a name/workaround, contacts, money, and unresolved wider route; Gate 9/10 must prove it | SLOT-A or another admitted slot only after Gate 5 |
-| SLOT-A — Identity and Registration Pressure | **PROVISIONAL / UNSELECTED** | A future destination may turn Red's classification into a local access, contract, travel, or civic problem | Must create a practical cost or constraint, not an ability tier | Must change who can hire, fear, use, or document Red without defining him completely | Native story may remain off-screen or be rerouted indirectly; it cannot become Red's support staff | **PROTECTED** | An institution, guild, court, or civic standard must change, split, or be bypassed | Destination must remain distinct and locally meaningful after the conflict | M-002/M-011; F-011 only after Gate 7 placement | Departure must alter Red's legal/practical options and the next route | SLOT-B or a justified merge |
-| SLOT-B — Body and Anomaly Consequences | **PROVISIONAL / UNSELECTED** | A future destination may test Red's body, Play Logic, regeneration, or pause under a new ecology or institution | Must preserve visible cost, misinterpretation, timing, or danger to another person; no reset and no tier | Reputation may become “immortal,” “god,” “failed class,” or another false reading that affects later choices | Native story remains independent and may react to the new public interpretation | **PROTECTED** | Local experts or factions change behavior because Red's anomaly is witnessed or misunderstood | Destination's ecology, healing, reflection, or system interface must matter to the plot | M-004/M-005/M-006; F-018 only in its authorized crisis window | Departure carries a new limitation, debt, evidence trail, or public interpretation | SLOT-C or justified merge |
-| SLOT-C — Ancient History and Boundary Evidence | **PROVISIONAL / UNSELECTED** | Red follows or collides with evidence rather than receiving a complete explanation | Physical and logistical consequences must make the evidence costly to obtain or preserve | Factions may fear, suppress, buy, or weaponize a historical pattern | Native Hero/Party may pursue a related independent objective but cannot be reduced to exposition delivery | **PROTECTED**; Savael and complete First Severance truth remain outside the window | A faction's behavior, route, or priority changes because contradictory records become coherent enough to matter | The selected ruin/archive/anomaly zone must remain a place with a local culture or conflict | M-009; F-007/F-008/F-009/F-014 only with chapter evidence | Departure changes where the cast can safely travel and who wants the evidence | SLOT-D or justified merge |
-| SLOT-D — Exploitation and Savael | **PROVISIONAL / UNSELECTED** | Red becomes an object of study, trade, recruitment, threat, or strategic use | The cost is imposed identity, loss of agency, damaged trust, or a choice that helps one side while empowering another | Red's aura and reputation may precede him and distort the factions' plans | Native Hero/Party must retain independent objectives and may be rerouted, not erased | Savael may become an interested bounded opportunist; Savael did not summon or create Red | A faction attempts to reproduce or control the anomaly and pays for incomplete knowledge | Destination must support archives, remnants, boundary infrastructure, research, or another credible exploitation context | M-001/M-010; F-015/F-016 only after earned evidence | Departure carries a changed threat model and a clearer reason the anomaly matters to powerful actors | SLOT-E or justified merge |
-| SLOT-E — Fate, Great Design, and Endgame Choice | **PROVISIONAL / UNSELECTED** | Red reaches a real structural decision without becoming the registered chosen Hero | Consequences must affect Red, Veyr, and other people; no painless option | Final reputation is a consequence of choice, not a moral conversion or power reveal | Native Hero/Party reaches an independently legitimate native-story resolution | Savael's role and limits are known only to the authorized reveal boundary | System, Fate, Great Design, and personal choice are distinguished through action and consequence | Final destination must resolve its own physical/social conflict while hosting the structural choice | M-007/M-008/M-012 and F-017/F-019/F-020 only after readiness gates | The final departure/aftermath must make the series complete without adding an explanatory extra arc | Series stop condition |
+## Physical
+- routes and lure sites are damaged/altered;
+- backflow causes real emergency pressure;
+- injuries and repair costs survive the climax;
+- the settlement requires reconstruction rather than instant reset.
 
-## 3. Actor Continuity Rules
+## Luck
+- he learns that being undocumented can be profitable and exploitable;
+- his impatient intervention becomes part of the backflow causal chain;
+- workers/guards/investigators build conflicting theories about his competence and intent;
+- he leaves before Greywake can turn his temporary usefulness into a permanent role.
 
-### Red Jackal
+# 3. Merrowgate Planned Consequences
 
-Red begins and remains overwhelmingly powerful. This ledger tracks restraint, information, judgment, resources, access, reputation, injury, and consequence; it does not track stages, levels, terminal upgrades, or ability unlocks.
+## Entry
+- travel costs reduce Luck's funds;
+- his physical recovery is improved but incomplete in CH027;
+- Merrowgate independently confirms the identity problem;
+- Greywake reputation creates opportunity and suspicion.
 
-### Native Hero and Hero Party
+## Locked mistake
+Luck knowingly accepts an off-manifest cargo job in CH035.
 
-The registered Hero and Hero Party retain independent relationships, objectives, and causality. Their current location may be off-screen. A future arc must state how Red reroutes their next condition without deleting their native story.
+He does **not** know the cargo supports sabotage.
 
-### Savael
+He **does** know:
+- inspection is being bypassed;
+- the work is deliberately undocumented;
+- being difficult to classify is part of why he is useful.
 
-Savael remains a protected later opportunist, not Red's summoner, creator, or author. No provisional row may convert Savael's bounded interest into omniscience.
+This distinction must survive later accusations.
 
-### Institutions and Destinations
+## Reversal
+A later infrastructure failure connects altered components to the off-manifest movement.
 
-An arc is incomplete until its local institution, faction, ecology, or infrastructure carries an observable aftermath. Red's departure cannot reset the destination to its arrival state.
+Consequences:
+- death/injury cannot be undone;
+- Luck cannot honestly claim total innocence;
+- Nessa may share blame without becoming a scapegoat for Luck;
+- Cassian can weaponize true facts inside a misleading larger narrative;
+- Luck's reputation splits further.
 
-## 4. Required Future Handoff
+## Resolution
+Merrowgate may expose Cassian's network without:
+- erasing the worker death;
+- erasing Luck's choice;
+- solving all port corruption;
+- granting Luck a System identity;
+- making every institution trust him.
 
-Every Gate 7 roadmap must update the relevant row with:
+# 4. Reputation Ledger
 
-```text
-New location and date:
-Injuries and recovery:
-Possessions/resources:
-Reputation and relationships:
-Native Hero/Party condition:
-Savael knowledge/interest:
-Institution/faction status:
-Destination damage or reform:
-Active mysteries and planted clues:
-Travel route and next destination state:
-Unresolved conflicts:
-```
+| Stage | Typical observers | False/partial reading | Practical consequence |
+|---|---|---|---|
+| Forest / gate | guards, clerks | impossibly lucky survivor / anomaly | caution, testing |
+| Early Greywake | workers, caravan guards | hidden practical expert | unwanted job offers / trust |
+| Greywake investigation | Tavian, Maelis, Hesk, militia | planner, statistical anomaly, dangerous unknown | surveillance, political attention |
+| Greywake climax | public/local institutions | contradictory mastermind/omen/asset stories | reputation leaves the settlement |
+| Merrowgate opening | traders, brokers, Watch | rumor package rather than verified identity | curiosity, pricing, suspicion |
+| Merrowgate reversal | public/political factions | useful suspect / reckless outsider / secret operator | legal and political pressure |
 
-Characters may act only on knowledge recorded as held by them in the chapter-level knowledge state.
+# 5. Relationship Continuity
 
-## 5. Current Continuity Verdict
+## Maelis
+Respects evidence more than Luck's performance. She may recognize statistical abnormality without proving conscious control.
 
-**Arc 1 consequence baseline:** CANON.  
-**Arc 2 consequence row:** PLANNED / IN-PRODUCTION.  
-**Future slot rows:** PROVISIONAL / UNSELECTED.  
-**Series-scale ledger:** PASS as a planning supplement; no future event is canonized here.
+## Tavian Rook
+Respects useful action but challenges unsafe improvisation. He does not become an admirer.
+
+## Brynn Alder
+Values results and civilian safety. She does not treat Luck's legend as authority.
+
+## Sela Arven
+Treats wounds, not reputation. Her medical reality is a recurring correction to Luck's performance.
+
+## Kellan Dorr
+Measures choices by what happens to outer communities. Agreement with Luck is conditional.
+
+## Hesk
+Sees Luck as both useful and uncontrollable. His fear of Luck must grow from evidence and consequences, not supernatural intuition.
+
+## Merrowgate cast
+Iria, Samir, Nessa, and Dalen each need independent reasons to cooperate or oppose Luck.
+
+# 6. Native Story Continuity
+
+The registered Hero/Party and Main Villain remain independent.
+
+A local arc may change what they later encounter, but they do not become Luck's support cast.
+
+# 7. Unresolved Handoffs
+
+- Earth explosion cause: unresolved.
+- Soul Drift cause/details: unresolved.
+- NO RECORD explanation: unresolved.
+- deeper Fate/Great Design implications: protected.
+- F-010: planned for CH038, not planted before manuscript confirmation.
+- Volume 3: unselected.

@@ -1,3 +1,6 @@
+> **SUPERSEDED PLANNING RECORD — 2026-10-03**  
+> Historical only. Do not use this file as current story or power authority. Current authority is `planning/LUCK-EVERHART-STRUCTURAL-STORY-BIBLE.md`, `planning/LUCK-EVERHART-CINEMATIC-CANON.md`, the current volume architecture/roadmap, and audited manuscript canon. Any Red Jackal, Rook Vane, Play Logic, regeneration, first-person, Stage, raw-power, manifestation, or conscious-luck material below is non-authoritative.
+
 # Luck Everhart — Luck-Only Full Story Reset
 
 **Status:** AUTHORITATIVE RESET — UPDATED PERSONALITY/KNOWLEDGE LOCK — 2026-10-02

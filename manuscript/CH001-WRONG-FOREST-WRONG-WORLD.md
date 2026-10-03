@@ -1,190 +1,463 @@
 # Chapter 1 — Wrong Forest, Wrong World
 
-**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK / STABLE THEATRICAL MC
-**Revision Date:** 2026-10-02
+**Status:** AUTHOR-DIRECTED CINEMATIC REVISION DRAFT — LUCK EVERHART NAME ORIGIN / PERMANENTLY CLUELESS LUCK
+**Revision Date:** 2026-10-03
+**Volume:** 1 — Greywake Arc
 
-White light swallowed everything.
+The growl came from the brush ahead.
 
-There had been heat, a sound too large to understand, and one sharp instant when the world seemed to turn inside out. Then Luck Everhart opened his eyes beneath a tree he had never seen before.
+He stopped on the remains of the old road, one boot beside a stone half-swallowed by roots. The path behind him curved out of sight between wet trees. To his left, the ground climbed through ferns and exposed roots. To his right, it dropped into a shallow drainage cut choked with leaves.
 
-Green leaves crowded the sky. Rainwater trembled at their edges, and damp earth pressed cold through the back of his coat. Something with too many legs crawled across a root beside his shoulder. Luck stared at it for several seconds.
+Nothing there qualified as a good direction.
 
-"Better than the explosion."
+A second growl rolled through the undergrowth.
 
-His voice sounded normal. That was useful. The rest of him was less cooperative.
+"All right."
 
-He pushed himself upright and checked the obvious things first. Two arms. Two legs. No fire. No collapsed building. No emergency sirens. No memory of how he had reached a forest that looked old enough to have opinions about trespassing.
+He lowered his voice, as though politeness might improve negotiations.
 
-His head hurt when he tried to remember. There had been a room. Maybe a street.
+"You're probably not a rabbit."
 
-A flash. Then nothing clean.
+The brush opened.
 
-Luck pressed two fingers to his temple and stopped digging. The pain sharpened whenever he pushed too hard, so whatever his memory was doing, it had posted a guard at the door.
+The animal stepped onto the road twelve paces ahead.
 
-"Fine," he muttered. "Keep your secrets."
+Wolf was the nearest useful word. It had four legs, grey-black fur, and a long muzzle. The similarities became less comforting after that. Its shoulders stood too high, dark ridges ran from the corners of its eyes toward the back of its skull, and each forepaw spread wider than his hand.
 
-The forest did not answer. That became suspicious after another minute.
+It watched him without blinking.
 
-No distant traffic. No aircraft. No electrical hum. The birds sounded wrong—not alien, exactly, but unfamiliar enough that Luck could not confidently name one. The trees were too large, the undergrowth too dense, and pale blue moss climbed one trunk in a spiral that looked almost deliberate.
+He looked down at what he had.
 
-He stood carefully. His knees held. That was the second useful thing.
+A folding knife with a blade shorter than the creature's teeth. Three unfamiliar coins. A metal key he could not place. A coat that had already lost an argument with several branches.
 
-Luck brushed the mud from one shoulder and tested a slow turn beneath the trees. A mysterious survivor should look as though he had chosen to arrive here. The second attempt caught his coat on a twig. He freed it, checked that nobody had seen, and tried the turn once more.
-
-Luck searched his pockets. A small folding knife. Empty wallet. No phone. A metal key he did not recognize. Three coins that definitely were not from Earth.
-
-He turned one over between his fingers. The stamped face showed a tower surrounded by waves.
-
-"Great."
-
-He put it back.
-
-"Either I got robbed by a fantasy convention, or the concussion is doing ambitious work."
-
-A narrow depression ran between the trees ahead. It might once have been a road. Broken stones showed beneath roots and mud, with enough straight lines to suggest human hands had arranged them long ago.
-
-Civilization, or at least evidence that somebody had once regretted building here. Luck followed it. For the first twenty minutes, nothing tried to kill him. That felt increasingly generous.
-
-The ruined road curved downhill through wet brush. Twice he stopped because he heard movement beside him, but both times it was small: something rabbit-sized disappearing under ferns, then a long-tailed bird hopping between branches.
-
-The third sound was different. Heavy. Slow.
-
-Close. Luck stopped with one boot half-submerged in mud. A branch clicked behind him. He turned.
-
-The animal standing between two trees had the general shape of a wolf designed by somebody who thought wolves lacked commitment. Its front shoulders were too high, its muzzle too broad, and dark ridges ran from its eyes to the back of its skull.
-
-Luck looked at it. The animal looked at him. Neither seemed pleased.
-
-"Dog?"
+Excellent.
 
 The creature lowered its head.
 
-"Unfriendly dog."
+He eased one step backward.
 
-Its lips pulled back.
+Its weight shifted forward.
 
-Luck took one slow step toward the broken road stones. He had the knife, but the blade suddenly looked decorative.
+"No."
 
-The animal moved sideways to keep him centered. Luck moved again. It followed.
+He raised one hand.
 
-*Wonderful.*
+"You stay there. I continue having a terrible morning over here."
 
-The nearest useful object was a rotten survey post leaning out of the ground. Luck reached toward it without taking his eyes off the animal.
+The creature's lips peeled back.
 
-The post came free much more easily than expected. So did half the dirt around it. Luck stumbled backward with the pole in both hands.
+Apparently translation was unavailable.
 
-The animal lunged. His rear boot hit the loose dirt from the post and slid. Luck dropped flat by accident.
+He searched the roadside without turning his head. The nearest object with any ambition toward being a weapon was an old survey post leaning beside the drainage cut. The wood had gone grey with age, but the lower half looked thick enough to hurt something if it remained in one piece.
 
-The jaws passed through the space where his throat had been. The animal could not stop as quickly. Its shoulder struck the broken stone marker behind him with a crack that made both of them reconsider the morning.
+Five paces away.
 
-Luck rolled away. The creature shook itself and turned.
+The animal was closer.
 
-"Okay."
+He moved sideways.
 
-Luck got one knee under him.
+It matched him.
+
+Another step.
+
+It followed.
+
+*Of course it understands geometry.*
+
+His fingers reached the post. He wrapped both hands around it and pulled.
+
+Nothing.
+
+The creature tensed.
+
+He pulled harder.
+
+The post tore free all at once, bringing a clot of wet soil with it. His balance went backward. One heel landed in the hole he had just made.
+
+The animal lunged.
+
+His foot slid.
+
+He dropped.
+
+Jaws snapped through the space where his throat had been.
+
+The animal sailed over him and hit the stone marker behind his shoulder with a crack of bone against rock. Mud splashed across his face.
+
+For half a second, neither of them reacted.
+
+Then he rolled.
+
+The creature shook itself and turned with a snarl.
+
+He scrambled to one knee, still holding the post.
 
 "That was luck."
 
-The animal came again.
+The words came out breathless.
 
-Luck jammed the rotten pole forward. He was aiming for the chest. The pole missed completely, glanced off the creature's foreleg, and buried itself between two roots. The result was somehow better.
+He preferred them to screaming.
 
-The animal's leg caught the pole as it passed. The rotten wood snapped. Its front half twisted, and its body slammed sideways into the mud.
+The animal charged again.
 
-Luck stared. The creature stared back from the ground.
+He drove the post forward, aiming for its chest.
 
-"Still counting that."
+He missed.
 
-It snarled and pushed itself up. Luck ran.
+The rotten point glanced off one foreleg, buried itself between two roots, and wedged there. The creature's next stride caught the shaft across the lower leg.
 
-The old road bent sharply between two leaning trees. He did not know where it led. He did know that staying near the animal was an increasingly bad career choice.
+The wood snapped.
 
-Branches whipped at his coat. The creature followed. Luck heard it gaining.
+Its front half twisted sideways. One shoulder hit the ground. Momentum carried the rest of it into the drainage cut in a spray of leaves and mud.
 
-He jumped over a shallow drainage cut and landed badly on the other side. Pain shot through his ankle, but the joint held.
+He stared.
 
-Behind him, the animal jumped too. Its rear paw landed on the broken half of the survey post Luck had left lying in the mud. The wood rolled.
+The animal thrashed once and found its footing.
 
-The animal crashed shoulder-first into the drainage bank. Luck looked over his shoulder while still running.
+He ran.
 
-"You've got to be kidding me."
+The ruined road bent downhill between two leaning trees. He had no idea where it led, but it had one overwhelming advantage over the place behind him.
 
-He almost hit a tree because of that.
+It was farther from the teeth.
 
-The road narrowed again. A fallen trunk blocked half the path, forcing Luck toward the slope. He squeezed past it and heard the animal recover behind him.
+Branches slapped his sleeves. His lungs began objecting almost immediately. He jumped a shallow rut and landed hard enough to send pain through his right ankle.
 
-No time. He grabbed the first thing within reach: a hanging vine as thick as his thumb. It tore loose immediately. Luck kept running with three meters of useless vine in his hand.
+The joint held.
 
-"Excellent tool selection."
+Behind him, claws tore at mud.
 
-The creature burst around the trunk. The loose vine dragged behind Luck, snagged on a broken branch, tightened across the path, and rose just as the animal charged through. Its front legs hit the vine.
+Closer.
 
-For one ridiculous second, the forest's most dangerous thing appeared to trip over gardening. The animal flipped. It struck the fallen trunk hard enough to shake dead leaves from the canopy.
+He looked back.
 
-Something cracked above them. Luck stopped because his body had finally remembered exhaustion. The creature tried to stand.
+Bad decision.
 
-A rotten branch, thick as Luck's thigh, dropped from the tree overhead. It landed directly between them.
+The animal cleared the bend with its ears flattened and its mouth open.
 
-The impact threw mud across Luck's boots and sent the animal scrambling backward. The creature stared at the branch, then at Luck.
+He faced forward just in time to avoid a tree.
 
-Luck stared back. He had done almost none of that on purpose. The animal did not know that. Luck slowly straightened.
+"Wonderful."
 
-His lungs were burning. His ankle hurt. A thin cut across his forearm had started bleeding where a branch had caught him during the run.
+The road narrowed around a fallen trunk. He squeezed past the exposed roots on the uphill side.
 
-He looked at the predator and made the best decision available. He pretended the entire thing had been intentional. He had liked that kind of scene even before there was a monster available to appreciate it. Luck tilted his head and let the pause last exactly as long as he could tolerate.
+The animal did not slow.
+
+He caught sight of something hanging beside his face and grabbed it without thinking—a vine as thick as his thumb.
+
+It tore loose from the branch above.
+
+He kept running with three meters of vegetation in one hand.
+
+"Excellent weapon."
+
+The free end dragged behind him.
+
+It snagged around a broken branch jutting from the fallen trunk.
+
+The vine went tight.
+
+He felt the pull and let go.
+
+Behind him came a heavy impact.
+
+He risked another glance.
+
+The vine had stretched across the narrow gap at shin height. The animal had hit it at full speed.
+
+For one absurd instant, the largest predator he had ever seen appeared to lose a fight with gardening.
+
+Then it flipped.
+
+Its body struck the fallen trunk hard enough to shake water from the leaves overhead.
+
+He stopped because his lungs forced the issue.
+
+The animal rolled once, pushed a forepaw into the mud, and began standing.
+
+"No."
+
+He searched for another weapon.
+
+Nothing useful.
+
+A broken stone. A thin branch. His tiny knife.
+
+The animal rose.
+
+Something cracked above them.
+
+Both looked up.
+
+A dead limb, thick as his thigh and dark with rain, tore away from the leaning tree. It struck the road between them.
+
+The impact burst wet leaves across his boots and forced the animal backward.
+
+Silence returned.
+
+He stood on one side of the fallen branch.
+
+The predator stood on the other.
+
+He had planned none of it.
+
+The animal did not know that.
+
+His hands were shaking. His ankle hurt. A cut along his forearm had started bleeding where a branch had caught him during the run.
+
+He straightened anyway.
+
+Some instinct older than good judgment reminded him that frightened animals noticed weakness.
+
+Another instinct—less useful, but much more entertaining—reminded him that if he was going to survive an impossible confrontation, he should at least look as though he understood it.
+
+He let his shoulders settle.
+
+He looked at the creature.
+
+Then he tilted his head.
 
 "Again?"
 
-The creature's ears flattened. For the first time, it hesitated. Luck said nothing else.
+Good line.
 
-The animal backed away once, then twice. A distant howl sounded somewhere deeper in the forest.
+Very poor plan.
 
-The predator turned and disappeared into the brush. Luck remained perfectly still until the noise faded. Then his knees gave out. He sat in the mud.
+The animal's ears flattened.
 
-"That," he said to nobody, "was not the plan."
+He kept his face still.
 
-His hands were shaking. He let them.
+A distant howl came from deeper in the forest.
 
-The cut on his forearm was real and annoying, but shallow. Luck cleaned it with rainwater collected in the broad leaves beside the road, then tore a strip from the inside hem of his shirt and wrapped the wound.
+The predator looked toward the sound. Then back at him.
 
-No miracle followed. The cut remained a cut. His ankle remained sore.
+He gave it nothing.
 
-His breathing took several minutes to settle. That should have made the situation less strange. It did not. Luck looked back along the road.
+Another pause.
 
-The loose dirt had made him fall under the first bite. The pole had caught the animal's leg after he missed. The broken post had rolled under its paw. The vine had become a trip line by accident. The branch had fallen exactly when he needed distance.
+The creature stepped backward.
 
-Five accidents. One encounter. He rubbed a hand over his face.
+Once.
 
-"Either I'm having the greatest day of my life or the worst."
+Twice.
 
-A small stone rolled down the slope beside him and stopped against his boot. Luck looked at it.
+Then it turned and disappeared through the ferns.
 
-"Don't start."
+He remained standing until the brush stopped moving.
 
-He stood and continued walking.
+Three more seconds.
 
-This time he moved more carefully. He tested his ankle on level ground, listened at bends, and carried the unbroken half of the survey pole because relying on another convenient tree felt irresponsible. The ruined road gradually improved.
+Two.
 
-Drainage cuts appeared in regular intervals. Broken paving stones gave way to packed earth. Fresh wheel marks crossed a muddy patch.
+One.
 
-People. Luck followed them faster. Near sunset, he reached a maintained road.
+His knees gave out.
 
-A timber post stood beside it with a board covered in unfamiliar writing. Luck could recognize the structure of letters without understanding a single word.
+He sat in the mud.
 
-Below the text was a carved symbol of clustered roofs. An arrow pointed east. Luck looked down at his torn sleeve, muddy boots, improvised bandage, and the coins in his pocket.
+"That," he said, breathing hard, "was not the plan."
 
-He tried to remember his full name. The answer came slowly, like something surfacing through deep water. Luck Everhart. He held onto it before it could disappear again.
+His hands shook worse now that nothing was trying to bite them. He pressed both palms against his knees and waited for the tremor to ease.
 
-"All right, Luck."
+No audience.
 
-The name felt real enough. He looked toward the arrow. Somewhere beyond the trees, smoke rose into the evening sky.
+Good.
 
-Civilization meant food, shelter, information, and probably questions he could not answer. Still better than teeth. Luck adjusted the broken pole over one shoulder and started east.
+He checked the damage.
 
-Behind him, a second rotten branch fell across the road with a heavy crack. Luck stopped. He looked back.
+The forearm cut was shallow but long enough to bleed down toward his wrist. His ankle hurt when he rotated it, though he could still put weight on it. His ribs were intact. His neck remained attached.
 
-Then at the empty forest. His expression tightened.
+A respectable outcome.
+
+He found a broad leaf holding rainwater, rinsed the cut, and tore a strip from the inner hem of his shirt. The bandage looked terrible.
+
+It also worked.
+
+Nothing healed instantly. No light closed the wound. No mysterious voice congratulated him. The cut remained a cut, and the ankle remained sore.
+
+He sat beneath the trees and reconstructed what had happened.
+
+The loose soil from the post had dropped him under the first bite.
+
+His missed thrust had become a trip.
+
+The broken post had rolled beneath the animal's rear paw when it jumped the drainage cut.
+
+The vine had snagged on the fallen trunk.
+
+The dead branch had chosen exactly the right moment to fall.
+
+Individually, none of those things were impossible.
+
+Together, they were ridiculous.
+
+He rubbed rain and mud from his face.
+
+"Either I am having the best luck of my life..."
+
+He looked at the blood soaking slowly into the cloth around his arm.
+
+"...or the worst."
+
+A pebble rolled down the slope and tapped his boot.
+
+He stared at it.
+
+"Don't participate."
+
+The pebble remained innocent.
+
+He rested until his breathing settled, then stood. The sensible choice would have been to turn back.
+
+He looked behind him.
+
+Back led toward the place he had appeared, which contained no food, no shelter, no explanation, and at least one animal now personally familiar with him.
+
+Forward remained undefeated.
+
+He picked up the unbroken half of the survey post.
+
+This time, he carried it deliberately.
+
+The road improved as the afternoon wore on. The forest still crowded both sides, but the ground showed signs of recent use. Drainage cuts had been cleared. Wheel tracks crossed a patch of mud. A branch had been sawed cleanly where it once blocked the path.
+
+People.
+
+He followed the tracks.
+
+The sky had begun turning gold between the trees when the ruined road met a wider one packed hard by carts and boots. A timber signpost stood at the junction.
+
+The board above it was covered in writing he could not read.
+
+He stared.
+
+The symbols were clearly language. They simply had no intention of becoming useful.
+
+Below the text, someone had carved a cluster of rooftops. An arrow pointed east.
+
+He looked east.
+
+Thin smoke rose above the distant trees.
+
+Civilization.
+
+Food, probably.
+
+Questions, definitely.
+
+He adjusted the broken survey pole over one shoulder and took two steps before another problem occurred to him.
+
+A gate meant people.
+
+People meant introductions.
+
+He stopped beside the sign.
+
+His name.
+
+He reached for the memory again.
+
+Nothing.
+
+Not entirely nothing. There was the shape of a person he had been. Familiar habits. Fragments of places. The certainty that he had once answered when someone called him.
+
+But the name itself would not come.
+
+He could walk into a settlement and admit that immediately.
+
+He imagined the conversation.
+
+Who are you?
+
+No idea.
+
+Where are you from?
+
+Also unclear.
+
+Why are you covered in blood?
+
+Large dog.
+
+The mysterious stranger effect would not survive first contact.
+
+He leaned the broken post against the sign and considered his options.
+
+A name did not need to be recovered to be useful.
+
+It needed to be memorable.
+
+He looked back toward the forest.
+
+Five accidents had kept him alive.
+
+"Luck."
+
+He tested the word aloud.
+
+It was almost a joke, which improved it.
+
+He did not believe the universe had selected him for good fortune. His bleeding arm argued against that interpretation. But if someone asked how he had crossed the forest alone, *luck* was the most accurate answer he possessed.
+
+First name solved.
+
+He needed a second.
+
+Something ordinary would invite questions he could not answer. Something too dramatic would sound invented.
+
+He paused.
+
+That concern arrived several seconds too late.
+
+"Everhart."
+
+He had no idea where the sound came from. Not memory. Not quite. It simply had the weight he wanted: respectable enough for a ledger, theatrical enough to belong to a traveler with no past he intended to explain.
+
+Luck Everhart.
+
+He said the full name once.
+
+Then again with a better pause.
+
+"Luck Everhart."
+
+Yes.
+
+If he was going to invent himself, he could at least do it properly.
+
+He took the three foreign coins from his pocket and turned one between his fingers. A tower rose from stylized waves on one face. The other showed a crownlike mark he did not recognize.
+
+Money, perhaps.
+
+Or decorative metal with excellent confidence.
+
+He put the coins away.
+
+At the first gate, he would be Luck Everhart.
+
+Not because destiny had named him.
+
+Not because he understood why half the forest had missed him by inches.
+
+Because he needed something to say when another person asked who he was, and it sounded better than *I don't know*.
+
+He picked up the broken pole and started east.
+
+A heavy crack sounded behind him.
+
+Luck stopped.
+
+Another rotten branch had fallen across the old road.
+
+He looked at it.
+
+Then at the trees.
+
+A reasonable explanation presented itself immediately.
+
+Wet wood. Old forest. Bad maintenance.
 
 "Coincidence."
 
-He kept walking. The forest offered no argument.
+He continued toward the smoke.
+
+The word followed him more easily than his old name ever had.

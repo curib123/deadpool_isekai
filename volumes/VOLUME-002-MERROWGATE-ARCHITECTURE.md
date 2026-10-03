@@ -1,5 +1,12 @@
 # Volume 2 Architecture — Merrowgate Arc
 
+## 2026-10-03 Luck Everhart Canon Override
+
+This override supersedes every conflicting power/POV instruction below. Luck Everhart is written in **distant third-person limited**. His only supernatural ability is **passive Fortune Distortion**: improbable but physically/socially possible causal chains. He has **no Play Logic, constructs, manifestations, raw-strength superpower, regeneration/self-restoration, Stage progression, time stop, or conscious probability control**. He remains mortal and injured consequences persist. Luck never correctly discovers Fortune Distortion as his personal supernatural power.
+
+Any legacy field below mentioning Play Logic, manifestations, constructs, regeneration, overwhelming capability, or voluntary supernatural display is **deprecated planning text**. For production, replace it with either an ordinary action or a visible luck chain that Luck does not consciously command. The Merrowgate plot order, local antagonist, sabotage scheme, reversal, climax, and resolution remain structurally valid unless they require one of those discarded powers.
+
+
 # CURRENT LUCK EVERHART CINEMATIC AUTHORITY — 2026-10-03
 
 This section supersedes **all conflicting historical text in this file**.
@@ -12,7 +19,7 @@ This section supersedes **all conflicting historical text in this file**.
 - Luck never correctly identifies Fortune Distortion as his personal supernatural ability.
 - Cinematic scene standard: clear staging, goal, obstacle, attempt, visible causal chain, meaningful change, and purposeful dialogue.
 - Luck's mysterious persona exists from the beginning; witness overanalysis must be evidence-based and must create downstream consequences.
-- Any conflicting legacy Red Jackal/first-person/power-display language below is retained only as historical planning context and is non-authoritative.
+- Any conflicting legacy Luck Everhart/distant third-person limited/power-display language below is retained only as historical planning context and is non-authoritative.
 
 
 **Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
@@ -25,12 +32,12 @@ This section supersedes **all conflicting historical text in this file**.
 
 # Soul-Drift / Story-Intruder Retcon Override
 
-The authoritative retcon in `planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md` supersedes conflicting origin, POV, fourth-wall, Red-development, and power-limit language in this architecture.
+The authoritative retcon in `planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md` supersedes conflicting origin, POV, fourth-wall, Luck-development, and power-limit language in this architecture.
 
 Locked interpretation:
-- Red enters Merrowgate with the same overwhelming capability he had from the beginning;
+- Luck enters Merrowgate with the same overwhelming capability he had from the beginning;
 - no Stage I/II progression exists;
-- no “discipline growth” or moral-development track exists for Red;
+- no “discipline growth” or moral-development track exists for Luck;
 - he may choose cleaner or more controlled manifestations because the scene, specialist advice, secrecy, or joke benefits from it;
 - Fourth-Wall Pause is available throughout;
 - Cassian is dangerous through systems, evidence, timing, distributed action, and other people's vulnerability—not raw power;
@@ -41,18 +48,18 @@ Locked interpretation:
 
 The authorial retcon in `planning/RED-JACKAL-OVERPOWERED-RETCON.md` supersedes all Stage I / Stage II / power-ceiling language in this file.
 
-Red enters Merrowgate already overwhelmingly powerful.
+Luck enters Merrowgate already overwhelmingly powerful.
 
 Volume 2 tension comes from:
 - incomplete information;
 - reputation manipulation;
 - political/commercial leverage;
-- Red's self-imposed games;
+- Luck's self-imposed games;
 - his off-book mistake;
 - evidence and timing;
 - protecting multiple objectives.
 
-Any chapter-level “bounded manifestation” language describes what Red **chooses to display**, not what he is capable of.
+Any chapter-level “bounded manifestation” language describes what Luck **chooses to display**, not what he is capable of.
 
 # 1. Volume Purpose
 
@@ -64,7 +71,7 @@ Merrowgate asks a different local question:
 
 **Who owns a free port when every service that keeps it free can be bought?**
 
-Red Jackal's personal version is:
+Luck Everhart's personal version is:
 
 **If nobody can officially define me, who gets to profit from the story people tell about me?**
 
@@ -74,9 +81,9 @@ It is not secretly about Savael, the Exterior Needle, the Great Design, the fina
 
 # 2. Opening State
 
-## 2.1 Post-Greywake Red Jackal
+## 2.1 Post-Greywake Luck Everhart
 
-Red enters Volume 2 carrying the complete consequences of Greywake:
+Luck enters Volume 2 carrying the complete consequences of Greywake:
 
 - he remains UNDEFINED to the World System;
 - he still cannot read Veyran normally;
@@ -92,7 +99,7 @@ Red enters Volume 2 carrying the complete consequences of Greywake:
 
 ## 2.2 Travel to Merrowgate
 
-Red travels out of the Hollow March through ordinary Avarran road and river networks, eventually entering the Brasswater trade sphere and reaching Merrowgate by an existing legal travel route.
+Luck travels out of the Hollow March through ordinary Avarran road and river networks, eventually entering the Brasswater trade sphere and reaching Merrowgate by an existing legal travel route.
 
 The chapter roadmap may choose the exact transfer sequence later.
 
@@ -137,9 +144,9 @@ People care less about pedigree than:
 - reputation;
 - who guarantees whose risk.
 
-# 4. Why Red Jackal Becomes Involved
+# 4. Why Luck Everhart Becomes Involved
 
-Red does not arrive intending to save Merrowgate.
+Luck does not arrive intending to save Merrowgate.
 
 He becomes involved because:
 
@@ -286,29 +293,29 @@ He has funded real rescues and real port defenses.
 
 His failure is that he now manufactures danger to prove only his preferred system can solve it.
 
-## 6.7 Relationship to Red Jackal
+## 6.7 Relationship to Luck Everhart
 
-Cassian initially sees Red as:
+Cassian initially sees Luck as:
 
 **a commercially useful irregular person with no stable registry identity and a growing frontier reputation.**
 
-He does not know why Red is UNDEFINED.
+He does not know why Luck is UNDEFINED.
 
-He recognizes that Red's lack of ordinary identity makes him useful for:
+He recognizes that Luck's lack of ordinary identity makes him useful for:
 - deniable labor;
 - off-book movement;
 - blame;
 - spectacle;
 - controlled rumor.
 
-As Red becomes harder to direct, Cassian shifts from trying to use his reputation to trying to define it publicly.
+As Luck becomes harder to direct, Cassian shifts from trying to use his reputation to trying to define it publicly.
 
 ## 6.8 Win Condition
 
 Cassian wins if:
 
 - enough port instability becomes publicly undeniable;
-- Red or another irregular outsider can absorb blame for key sabotage;
+- Luck or another irregular outsider can absorb blame for key sabotage;
 - the Harbor Council invokes emergency authority;
 - the Unified Harbor Security Charter passes;
 - Venn Maritime House gains practical control over inspections, closures, and security.
@@ -350,7 +357,7 @@ Flaws:
 - relies heavily on provable procedure;
 - can hesitate when evidence is incomplete.
 
-Red relationship:
+Luck relationship:
 She considers him a dangerous administrative problem before she considers him useful.
 
 She will not become his subordinate.
@@ -379,7 +386,7 @@ Flaws:
 - hostile to merchant financiers;
 - takes technical criticism personally.
 
-Red relationship:
+Luck relationship:
 He respects useful improvisation but hates solutions that ignore load, balance, or the workers standing underneath them.
 
 ## CHAR-017 — Nessa Quill
@@ -406,7 +413,7 @@ Flaws:
 - values plausible deniability;
 - can convince herself that a suspicious job is merely "normal port business."
 
-Red relationship:
+Luck relationship:
 She likes that he is difficult to classify because difficult people create profitable work.
 
 She is not automatically loyal to him.
@@ -434,8 +441,8 @@ Flaws:
 - sometimes prioritizes network stability over individuals;
 - dislikes improvisation he cannot price.
 
-Red relationship:
-He has heard contradictory Greywake stories before meeting Red and becomes an early example of reputation arriving before the person.
+Luck relationship:
+He has heard contradictory Greywake stories before meeting Luck and becomes an early example of reputation arriving before the person.
 
 # 8. Faction Architecture
 
@@ -499,9 +506,9 @@ Advance outside commercial/political interests.
 
 They complicate the conflict but are not the secret authors of the main scheme.
 
-# 9. Red Jackal's Meaningful Mistake
+# 9. Luck Everhart's Meaningful Mistake
 
-Red must make one causally important mistake that reflects his established flaws rather than making him suddenly foolish.
+Luck must make one causally important mistake that reflects his established flaws rather than making him suddenly foolish.
 
 He accepts a high-paying off-book port job because:
 
@@ -513,7 +520,7 @@ He accepts a high-paying off-book port job because:
 
 The job involves moving sealed commercial material through a route designed to avoid ordinary manifest scrutiny.
 
-Red recognizes that the job is suspicious.
+Luck recognizes that the job is suspicious.
 
 He does not know it is connected to Cassian's broader scheme.
 
@@ -523,7 +530,7 @@ The moved material later enables or protects one important sabotage operation.
 
 The exact object, route, and chapter placement belong to Gate 7.
 
-The consequence must affect people other than Red.
+The consequence must affect people other than Luck.
 
 Regeneration cannot erase it.
 
@@ -543,23 +550,23 @@ to:
 
 **"The chaos itself is being shaped into an argument for private control."**
 
-Red realizes his irregular work may have been part of that system.
+Luck realizes his irregular work may have been part of that system.
 
 # 11. Major Reversal
 
-Cassian's network exposes enough evidence of Red's off-book involvement to make him a credible public suspect in a major sabotage event.
+Cassian's network exposes enough evidence of Luck's off-book involvement to make him a credible public suspect in a major sabotage event.
 
 The reversal must achieve all of the following:
 
-- Red's Greywake reputation becomes a liability as well as an asset;
+- Luck's Greywake reputation becomes a liability as well as an asset;
 - Harbor Watch loses political room to treat him casually;
 - Nessa's broker ambitions suffer because she helped route the job;
 - an independent dock/crew suffers a serious material and human consequence;
 - Cassian gains temporary political momentum;
 - emergency consolidation becomes more likely;
-- Red cannot solve the problem by leaving without accepting that his choice helped create the opening.
+- Luck cannot solve the problem by leaving without accepting that his choice helped create the opening.
 
-This is not a false accusation in which Red did nothing wrong.
+This is not a false accusation in which Luck did nothing wrong.
 
 He did not plan the sabotage.
 
@@ -593,7 +600,7 @@ Action escalates by type:
 3. pursuit or confrontation in warehouses and crowded port routes;
 4. sabotage investigation under commercial pressure;
 5. shipyard or cargo-crane crisis;
-6. public-security escalation after Red is implicated;
+6. public-security escalation after Luck is implicated;
 7. coordinated harbor emergency where infrastructure, weather, ships, guards, workers, and evidence all matter.
 
 The climax is not a single duel.
@@ -604,7 +611,7 @@ The climax is not a single duel.
 
 **Volume 2 public-display plan: deliberately restrained utility/support manifestations unless a larger reveal is specifically authorized. This is not a capability ceiling.**
 
-No power stage unlocks in this volume because Red has no power stages.
+No power stage unlocks in this volume because Luck has no power stages.
 
 Any increase in precision, repeatability, or restraint is a **choice of presentation/application**, not growth in power or personality.
 
@@ -612,19 +619,19 @@ Any increase in precision, repeatability, or restraint is a **choice of presenta
 
 ### PL-MG-1 — Familiar Utility Repeat
 
-Red can recreate a small category of previously understood simple tools with slightly less conceptual drift.
+Luck can recreate a small category of previously understood simple tools with slightly less conceptual drift.
 
 This is improvement, not guaranteed precision.
 
 ### PL-MG-2 — Motion-Environment Utility
 
-Red attempts Stage I constructs on moving decks, cranes, bridges, or unstable harbor surfaces.
+Luck attempts Stage I constructs on moving decks, cranes, bridges, or unstable harbor surfaces.
 
 Motion, noise, fear, and divided attention increase failure risk.
 
 ### PL-MG-3 — Sequential Coordination
 
-Red can contribute several separate simple manifestations across a larger group plan.
+Luck can contribute several separate simple manifestations across a larger group plan.
 
 He cannot maintain a complex multi-part reality system.
 
@@ -659,7 +666,7 @@ It cannot:
 
 Volume 2 continues the Greywake truth:
 
-- Red heals abnormally;
+- Luck heals abnormally;
 - healing hurts;
 - energy is finite;
 - drowning, restraint, repeated impact, exhaustion, poison, magic, and other counters can still matter;
@@ -672,7 +679,7 @@ Water, restraint, falling loads, and enclosed spaces must remain credible threat
 
 # 16. Reputation / Aura Architecture
 
-Merrowgate is the first destination where Red's reputation can arrive ahead of him through trade networks.
+Merrowgate is the first destination where Luck's reputation can arrive ahead of him through trade networks.
 
 Required reputation outcomes:
 
@@ -691,29 +698,29 @@ Primary comedy sources:
 
 - merchants trying to assign a price to an impossible person;
 - contradictory Greywake rumors;
-- Red discovering that a free port has enormous amounts of paperwork;
+- Luck discovering that a free port has enormous amounts of paperwork;
 - Nessa treating suspicious jobs as ordinary business;
 - Dalen refusing to accept "trust me" as a logistics category;
 - Samir criticizing visually impressive but structurally bad ideas;
-- Red attempting dramatic behavior in places where dock workers care more about cargo clearance;
+- Luck attempting dramatic behavior in places where dock workers care more about cargo clearance;
 - Stage I interpretation errors caused by moving environments.
 
 No joke quota exists.
 
 Comedy must drop naturally during the major reversal and harbor crisis.
 
-# 18. Character Movement / Stable Red Contrast
+# 18. Character Movement / Stable Luck Contrast
 
-## 18.1 Red Jackal
+## 18.1 Luck Everhart
 
-Red does not undergo a moral-development arc.
+Luck does not undergo a moral-development arc.
 
 Volume 2 instead tests the same stable personality under a different system:
 - he likes the freedom of informal port work;
 - he likes being a rumor people trade;
 - he treats Cassian's manipulation as an invitation to play;
 - his off-manifest choice creates real consequences;
-- he stays because Cassian uses Red's name/story without permission, because Nessa and others have become chosen pieces on Red's board, and because leaving would let Cassian own the narrative;
+- he stays because Cassian uses Luck's name/story without permission, because Nessa and others have become chosen pieces on Luck's board, and because leaving would let Cassian own the narrative;
 - he cooperates with specialists when their knowledge makes the game possible;
 - he remains self-centered, theatrical, fourth-wall-aware, and aura-farming at the end.
 
@@ -739,7 +746,7 @@ Moves from treating every financier as the same enemy toward accepting that tech
 
 Moves from plausible deniability as survival toward accepting that refusing to know who benefits from a job can still make her responsible for its consequences.
 
-Her arc parallels Red without becoming identical.
+Her arc parallels Luck without becoming identical.
 
 ## 18.5 Dalen Marr
 
@@ -751,13 +758,13 @@ Moves from trying to price every risk toward accepting that some forms of concen
 
 Approved development:
 
-Merrowgate independently confirms that Red's identity failure is not a Greywake-local defect.
+Merrowgate independently confirms that Luck's identity failure is not a Greywake-local defect.
 
 Different commercial and civic verification processes may disagree in presentation but converge on the same absence.
 
 Allowed reader conclusion:
 
-**The problem follows Red across jurisdictions.**
+**The problem follows Luck across jurisdictions.**
 
 Not allowed yet:
 
@@ -821,7 +828,7 @@ Functions:
 - establish port culture;
 - show contradictory Greywake rumor;
 - independently re-establish UNDEFINED identity friction;
-- Red needs money and route access;
+- Luck needs money and route access;
 - Nessa and Dalen enter through their own work.
 
 Tone:
@@ -833,11 +840,11 @@ M-002 reinforcement only.
 ## Movement II — Everything Has a Price
 
 Functions:
-- Red takes dock work;
+- Luck takes dock work;
 - shipwright and Harbor Watch competencies become visible;
 - port factions compete;
 - first sabotage consequences appear disconnected;
-- Red enjoys selective benefits of reputation;
+- Luck enjoys selective benefits of reputation;
 - Cassian's public competence and legitimacy are established.
 
 Tone:
@@ -847,7 +854,7 @@ busy, social, transactional, exploratory.
 
 Functions:
 - irregular jobs become more profitable;
-- Red accepts the suspicious off-book movement that becomes his key mistake;
+- Luck accepts the suspicious off-book movement that becomes his key mistake;
 - Nessa's corner-cutting is implicated;
 - different sabotage events begin to share commercial aftereffects;
 - Stage I refinement is demonstrated without stage advancement.
@@ -862,7 +869,7 @@ Midpoint functions:
 - Venn-linked interests repeatedly benefit;
 - Cassian becomes a serious suspect without complete legal proof;
 - F-010 may be prepared for later chapter assignment inside legitimate records work;
-- Red realizes his job may connect to the scheme.
+- Luck realizes his job may connect to the scheme.
 
 Tone:
 investigation, pressure, less comedy.
@@ -870,12 +877,12 @@ investigation, pressure, less comedy.
 ## Movement V — The Useful Suspect
 
 Major reversal functions:
-- Red's off-book role becomes public;
+- Luck's off-book role becomes public;
 - a serious sabotage consequence harms workers/port infrastructure;
 - Nessa loses standing or freedom of movement temporarily;
-- Iria is pressured to treat Red as a security threat;
+- Iria is pressured to treat Luck as a security threat;
 - Cassian gains emergency-charter momentum;
-- Red considers leaving and chooses not to because his own decision helped create the opening.
+- Luck considers leaving and chooses not to because his own decision helped create the opening.
 
 Tone:
 serious, accusatory, consequence-driven.
@@ -888,7 +895,7 @@ Functions:
 - Iria builds lawful crisis response;
 - Nessa obtains route/access intelligence;
 - Dalen coordinates cargo/evacuation/logistics;
-- Red supports rather than replaces them;
+- Luck supports rather than replaces them;
 - evidence and physical defense plans converge.
 
 Tone:
@@ -912,7 +919,7 @@ Cassian's defeat requires both:
 1. keeping the harbor crisis from becoming catastrophic; and
 2. proving the instability was deliberately shaped for commercial consolidation.
 
-Red cannot accomplish both alone.
+Luck cannot accomplish both alone.
 
 # 21. Local Resolution
 
@@ -927,9 +934,9 @@ By the end of the Merrowgate Arc:
 - the port suffers real repair and trade costs;
 - Merrowgate remains messy, competitive, and independent rather than becoming purified.
 
-# 22. Red Jackal Identity Consequence
+# 22. Luck Everhart Identity Consequence
 
-Merrowgate does not solve Red's System identity.
+Merrowgate does not solve Luck's System identity.
 
 A narrow local civic workaround may emerge:
 
@@ -944,17 +951,17 @@ This does not:
 
 It gives Merrowgate a practical way to acknowledge agency without pretending the System has an answer.
 
-Red may accept the practical benefit while refusing any claim that the city has defined what he is.
+Luck may accept the practical benefit while refusing any claim that the city has defined what he is.
 
 # 23. Departure Condition
 
-Red leaves Merrowgate only after:
+Luck leaves Merrowgate only after:
 
 - the local consolidation crisis is resolved;
 - his own sabotage involvement is publicly distinguished from Cassian's authorship without erasing his mistake;
 - Nessa's status is no longer being used as leverage against him;
 - Merrowgate has workable local reforms;
-- Red has recovered enough to travel;
+- Luck has recovered enough to travel;
 - he has money, contacts, or multiple passage options.
 
 His departure remains voluntary.
@@ -972,9 +979,9 @@ Locked by this architecture:
 - local conflict: engineered port instability used to force private security consolidation;
 - main antagonist: ANTAG-MG-001 Cassian Venn;
 - local cast roles: CHAR-015 through CHAR-018;
-- Red's key mistake: knowingly suspicious off-book work without sufficient questions;
+- Luck's key mistake: knowingly suspicious off-book work without sufficient questions;
 - midpoint: profit/debt/security pattern revealed;
-- major reversal: Red implicated and consequence becomes public;
+- major reversal: Luck implicated and consequence becomes public;
 - climax type: harbor emergency + evidence + combined competencies;
 - power model: already-overpowered / no progression ceiling; chapter displays are voluntary restraint/revelation choices;
 - mystery window: M-002 reinforcement + bounded M-011 surface;
@@ -987,7 +994,7 @@ Still deferred to Gate 7:
 - chapter IDs beyond continuing series numbering;
 - chapter titles;
 - exact chapter placement of movements;
-- exact object moved in Red's mistake;
+- exact object moved in Luck's mistake;
 - exact injury assignments;
 - exact F-010 chapter;
 - exact Play Logic use counts;

@@ -1,5 +1,10 @@
 # CH-027 Scene Architecture — Salt in the Air
 
+## 2026-10-03 Canon Override
+
+CH-027 is now governed by the approved cinematic Luck Everhart rules. POV is **distant third-person limited**. Luck is mortal and has only **passive Fortune Distortion**. Any legacy Play Logic, regeneration, self-restoration, manifestation, construct, or overwhelming-power instruction below is superseded. The published/manuscript CH-027 text is the current scene-result authority; future edits must preserve its ordinary cargo hazard, lingering Greywake injuries, travel costs, failed aura attempt, and Merrowgate arrival.
+
+
 # CURRENT LUCK EVERHART CINEMATIC AUTHORITY — 2026-10-03
 
 This section supersedes **all conflicting historical text in this file**.
@@ -12,7 +17,7 @@ This section supersedes **all conflicting historical text in this file**.
 - Luck never correctly identifies Fortune Distortion as his personal supernatural ability.
 - Cinematic scene standard: clear staging, goal, obstacle, attempt, visible causal chain, meaningful change, and purposeful dialogue.
 - Luck's mysterious persona exists from the beginning; witness overanalysis must be evidence-based and must create downstream consequences.
-- Any conflicting legacy Red Jackal/first-person/power-display language below is retained only as historical planning context and is non-authoritative.
+- Any conflicting legacy Luck Everhart/distant third-person limited/power-display language below is retained only as historical planning context and is non-authoritative.
 
 
 **Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
@@ -23,9 +28,9 @@ This section supersedes **all conflicting historical text in this file**.
 **Status:** GATE 8 PASS — SCENE ARCHITECTURE LOCKED / CH-027 MANUSCRIPT CANON  
 **Final Scene Count:** 5  
 **Scene IDs:** SC-027-01 through SC-027-05  
-**POV:** Red Jackal first person throughout  
-**Primary Cast:** Red Jackal; ordinary travelers, road/river crews, minor merchants, porters only  
-**Antagonist Pressure:** None direct; Cassian Venn and the Merrowgate consolidation scheme remain outside Red's knowledge and chapter action  
+**POV:** Luck Everhart first person throughout  
+**Primary Cast:** Luck Everhart; ordinary travelers, road/river crews, minor merchants, porters only  
+**Antagonist Pressure:** None direct; Cassian Venn and the Merrowgate consolidation scheme remain outside Luck's knowledge and chapter action  
 **Play Logic:** ZERO manifestations  
 **Mystery / Foreshadowing:** No new F-ID; no M-ID advancement  
 **Scope:** Scene architecture only. No final dialogue and no manuscript prose.
@@ -34,7 +39,7 @@ This section supersedes **all conflicting historical text in this file**.
 
 The later authorial power retcon supersedes this file's old Stage I / exhaustion-as-ceiling language.
 
-CH-027's actual event remains valid because Red chooses to use **zero Play Logic**.
+CH-027's actual event remains valid because Luck chooses to use **zero Play Logic**.
 
 His ordinary travel, money pressure, literacy problem, and decision to follow transport workers remain character/world choices rather than evidence that he lacks overwhelming power.
 
@@ -46,17 +51,17 @@ CH-027 opens Volume 2 by proving that departure from Greywake creates ordinary l
 
 The chapter must:
 
-1. make the Greywake-to-Merrowgate transition physically real rather than teleporting Red between arcs;
+1. make the Greywake-to-Merrowgate transition physically real rather than teleporting Luck between arcs;
 2. establish that multiple travel days have passed through ordinary Avarran road/river movement;
-3. show that food, lodging, passage, and transfer fees are reducing Red's ordinary Greywake-earned resources;
-4. preserve Red's post-CH-026 recovery state without making him freshly reset;
+3. show that food, lodging, passage, and transfer fees are reducing Luck's ordinary Greywake-earned resources;
+4. preserve Luck's post-CH-026 recovery state without making him freshly reset;
 5. preserve his inability to read Veyran writing;
 6. use only established Wayfarer Tongue Tokens or similarly established institutional spoken-translation support when clear conversation is needed;
-7. avoid giving Red a personal permanent translation device;
+7. avoid giving Luck a personal permanent translation device;
 8. introduce the scale shift from frontier travel into Brasswater commerce;
 9. show ordinary mixed travelers, merchants, crews, cargo, and transport systems before named Merrowgate cast enters;
 10. include one bounded non-combat travel hazard;
-11. require Red to follow experienced transport-crew instructions rather than treating every problem as a Play Logic opportunity;
+11. require Luck to follow experienced transport-crew instructions rather than treating every problem as a Play Logic opportunity;
 12. use **no Play Logic manifestation**;
 13. use no major combat;
 14. avoid an identity/appraisal check, which belongs to CH-028;
@@ -65,7 +70,7 @@ The chapter must:
 17. introduce no F-010 material;
 18. advance no M-002/M-011 clue;
 19. end at Merrowgate's outer arrival approach/public entry staging before official intake begins;
-20. make Red choose Merrowgate for practical reasons: visible work, traffic, and future passage options.
+20. make Luck choose Merrowgate for practical reasons: visible work, traffic, and future passage options.
 
 # 2. Canon Entry Lock
 
@@ -77,7 +82,7 @@ CH-026 ends with:
 
 CH-027 begins after departure.
 
-Red's allowed entry state:
+Luck's allowed entry state:
 
 - traveling alone;
 - no Greywake companion;
@@ -87,11 +92,11 @@ Red's allowed entry state:
 - no level;
 - no native System identity;
 - no literacy gain;
-- unbounded Play Logic is available in principle but Red chooses not to use it here;
+- unbounded Play Logic is available in principle but Luck chooses not to use it here;
 - pain/soreness may remain experienced without imposing a raw-power ceiling;
 - visible Greywake injuries/recovery state may persist by choice and continuity;
 - Greywake reputation exists in canon but does not need to reach the page yet;
-- Red knows no Merrowgate political faction, antagonist, or active scheme.
+- Luck knows no Merrowgate political faction, antagonist, or active scheme.
 
 # 3. Travel-Time Lock
 
@@ -100,7 +105,7 @@ Do not specify an unsupported exact Greywake-to-Merrowgate distance.
 The chapter may state or imply:
 
 - **multiple travel days have passed** since CH-026;
-- Red has used ordinary road/river transfers;
+- Luck has used ordinary road/river transfers;
 - enough time has passed for some additional physical recovery;
 - enough money has been spent for continued travel cost to matter;
 - this is not a same-day jump.
@@ -125,7 +130,7 @@ The approved chapter route is intentionally generic but canon-compatible:
 
 No intermediary settlement receives a new proper name in CH-027.
 
-Red may move through:
+Luck may move through:
 
 - roadside stops;
 - caravan transfer yards;
@@ -138,7 +143,7 @@ The manuscript should use only as many transitions as needed to make travel feel
 
 # 5. Money / Resource Lock
 
-Red left Greywake with ordinary earned resources, not wealth.
+Luck left Greywake with ordinary earned resources, not wealth.
 
 CH-027 must show his remaining resources being reduced by:
 
@@ -152,13 +157,13 @@ Do not lock an exact coin total unless existing canon supports it.
 
 Allowed practical conclusion:
 
-**Red still has enough to reach Merrowgate, but not enough to keep wandering comfortably without earning again.**
+**Luck still has enough to reach Merrowgate, but not enough to keep wandering comfortably without earning again.**
 
 This becomes the practical reason CH-029 work-seeking matters.
 
 # 6. Language / Literacy Lock
 
-Red still cannot understand ordinary Veyran speech unaided.
+Luck still cannot understand ordinary Veyran speech unaided.
 
 Clear conversations may occur only when:
 
@@ -174,18 +179,18 @@ The token:
 - translates ordinary speech;
 - does not translate writing;
 - does not grant literacy;
-- does not interact with Red's identity;
+- does not interact with Luck's identity;
 - does not solve System compatibility.
 
 Away from a token:
 - unfamiliar speech remains unfamiliar;
-- Red relies on gesture, context, repeated route symbols, or follows known group movement.
+- Luck relies on gesture, context, repeated route symbols, or follows known group movement.
 
-CH-027 must not imply Red owns a permanent personal token unless separately canonized later.
+CH-027 must not imply Luck owns a permanent personal token unless separately canonized later.
 
 # 7. Physical Recovery Lock
 
-Red is more recovered than in CH-026 because several travel days have passed, but consequences remain.
+Luck is more recovered than in CH-026 because several travel days have passed, but consequences remain.
 
 Allowed:
 - occasional rib/side complaint under heavy pack or abrupt motion;
@@ -202,7 +207,7 @@ Do not:
 
 # 8. Voice Architecture Lock
 
-Narration remains Red Jackal's locked first-person voice:
+Narration remains Luck Everhart's locked distant third-person limited voice:
 
 **immediate experience first → dry/deadpan observation second → restrained reader-talk only when useful.**
 
@@ -213,7 +218,7 @@ For CH-027:
 - direct reader address is optional and should be rare;
 - no repeated “audience,” “branding,” “performance,” or meta-show framing;
 - no invisible third-person world narrator;
-- do not explain Merrowgate history that Red cannot know;
+- do not explain Merrowgate history that Luck cannot know;
 - Earth comparison may appear briefly when the salt air/coast becomes recognizable, but should not become an Earth-memory exposition chapter.
 
 # 9. Worldbuilding Ceiling
@@ -253,13 +258,13 @@ Approved hazard:
 Purpose:
 - create physical motion;
 - show transport crews are competent;
-- let Red contribute without becoming the center of the event;
+- let Luck contribute without becoming the center of the event;
 - show that listening to specialists is now part of his behavior;
 - use no Play Logic.
 
 Required behavior:
 - crew gives a clear instruction through nearby trade translation support;
-- Red follows the instruction;
+- Luck follows the instruction;
 - ordinary rope/wedge/body-positioning solves the problem;
 - nobody dies;
 - no major injury;
@@ -273,7 +278,7 @@ The hazard is ordinary transport friction.
 
 Required aura pattern:
 
-Red attempts to make his arrival into the Brasswater-facing trade zone look controlled or mysterious.
+Luck attempts to make his arrival into the Brasswater-facing trade zone look controlled or mysterious.
 
 Outcome:
 
@@ -285,12 +290,12 @@ Comedy sources:
 - travel freedom having a price;
 - unreadable fare notices;
 - paying another fee after believing the last one was the last fee;
-- Red trying to look impressive with a travel-worn pack;
+- Luck trying to look impressive with a travel-worn pack;
 - transport workers valuing efficiency over mystery.
 
-Do not humiliate Red for an entire chapter.
+Do not humiliate Luck for an entire chapter.
 
-The joke is that the world is busy, not that Red is incompetent.
+The joke is that the world is busy, not that Luck is incompetent.
 
 # 12. Mystery / Foreshadowing Lock
 
@@ -343,7 +348,7 @@ Preferred behavior:
 ## SC-027-01 — Freedom Has Expenses
 
 **Location:** Avarran road/river travel route after several days away from Greywake.  
-**Characters:** Red Jackal; ordinary travelers in background.
+**Characters:** Luck Everhart; ordinary travelers in background.
 
 ### Purpose
 
@@ -352,7 +357,7 @@ Open Volume 2 with movement and consequence rather than a reset.
 ### Required Beats
 
 - establish that multiple days of ordinary travel have passed;
-- Red is alone;
+- Luck is alone;
 - the landscape/traffic is gradually becoming less frontier-like;
 - his ordinary coin/resources have noticeably decreased;
 - food, sleep, fare, and transfer costs are responsible;
@@ -360,7 +365,7 @@ Open Volume 2 with movement and consequence rather than a reset.
 - his pack contains ordinary travel items, including Sela's bandages;
 - signs/posted notices remain unreadable.
 
-### Red Beat
+### Luck Beat
 
 Freedom still requires logistics.
 
@@ -381,7 +386,7 @@ These are tonal directions, not final prose.
 
 Minimal.
 
-If Red needs directions or fare clarification, the exchange occurs at a trade post/transfer station with a Wayfarer Tongue Token.
+If Luck needs directions or fare clarification, the exchange occurs at a trade post/transfer station with a Wayfarer Tongue Token.
 
 The dialogue's job is only to:
 - confirm the next legal transfer;
@@ -396,14 +401,14 @@ Do not explain Merrowgate politics.
 
 ### Exit Condition
 
-Red commits to the next river/commercial transfer because it is the cheapest practical route toward a place large enough to find work.
+Luck commits to the next river/commercial transfer because it is the cheapest practical route toward a place large enough to find work.
 
 ---
 
 ## SC-027-02 — Another Fee
 
 **Location:** busy river landing / passenger-cargo transfer point.  
-**Characters:** Red Jackal; transfer clerk/crew; travelers; minor merchants.
+**Characters:** Luck Everhart; transfer clerk/crew; travelers; minor merchants.
 
 ### Purpose
 
@@ -411,16 +416,16 @@ Turn travel cost and language limitations into active scene pressure.
 
 ### Required Beats
 
-- Red reaches a busier landing than anything near Greywake;
+- Luck reaches a busier landing than anything near Greywake;
 - multiple cargo types and traveler groups move through the same transfer;
 - a public/crew Wayfarer Tongue Token allows ordinary fare conversation;
-- Red discovers an additional legitimate transfer/baggage/passenger fee;
+- Luck discovers an additional legitimate transfer/baggage/passenger fee;
 - written fare boards remain useless to him;
 - he verifies meaning through speech rather than suddenly reading;
 - he pays because turning back costs more in time and money;
 - the payment leaves him with enough to reach Merrowgate but increases the need to earn soon.
 
-### Red Beat
+### Luck Beat
 
 He can ignore institutions philosophically.
 
@@ -432,13 +437,13 @@ Short transaction dialogue.
 
 The clerk/crew should sound busy and ordinary, not suspicious.
 
-No one recognizes Red.
+No one recognizes Luck.
 
 No one asks for a full identity appraisal.
 
 ### Comedy / Aura
 
-Red may try a calm, intimidating silence after hearing the extra fee.
+Luck may try a calm, intimidating silence after hearing the extra fee.
 
 The clerk simply waits for payment.
 
@@ -450,14 +455,14 @@ No unusual response.
 
 ### Exit Condition
 
-Red boards/joins the next legal transfer toward the Brasswater-facing route.
+Luck boards/joins the next legal transfer toward the Brasswater-facing route.
 
 ---
 
 ## SC-027-03 — Hold the Rope
 
 **Location:** active river transfer / wet boarding ramp / cargo movement zone during travel.  
-**Characters:** Red Jackal; transport crew; travelers.
+**Characters:** Luck Everhart; transport crew; travelers.
 
 ### Purpose
 
@@ -474,8 +479,8 @@ This is an ordinary hazard.
 ### Required Beats
 
 - crew reacts immediately and competently;
-- a nearby Wayfarer Token or shouted translated instruction makes one task clear to Red;
-- Red's first instinct may be to solve the problem himself;
+- a nearby Wayfarer Token or shouted translated instruction makes one task clear to Luck;
+- Luck's first instinct may be to solve the problem himself;
 - instead, he follows the crew's instruction;
 - he takes rope/body position or secures a mundane wedge/line;
 - crew members handle the specialized parts;
@@ -483,9 +488,9 @@ This is an ordinary hazard.
 - no sabotage;
 - no supernatural cause;
 - no major injury;
-- Red's residual side/shoulder/leg soreness briefly reminds him he is not physically reset.
+- Luck's residual side/shoulder/leg soreness briefly reminds him he is not physically reset.
 
-### Red Beat
+### Luck Beat
 
 The important development is small:
 
@@ -508,7 +513,7 @@ No backstory.
 
 Shifted load
 → crew responds
-→ Red takes assigned mundane role
+→ Luck takes assigned mundane role
 → load secured
 → transfer continues.
 
@@ -516,24 +521,24 @@ Shifted load
 
 **ZERO.**
 
-Red may think of using it, but the architecture preference is to avoid even framing the situation as a power test.
+Luck may think of using it, but the architecture preference is to avoid even framing the situation as a power test.
 
 ### Comedy
 
-After the danger passes, a worker may treat Red's contribution as completely normal.
+After the danger passes, a worker may treat Luck's contribution as completely normal.
 
 No applause.
 
 ### Exit Condition
 
-The transfer resumes, and Red's respect for the scale/discipline of commercial transport increases slightly.
+The transfer resumes, and Luck's respect for the scale/discipline of commercial transport increases slightly.
 
 ---
 
 ## SC-027-04 — Salt in the Air
 
 **Location:** Brasswater-facing road/river approach transitioning toward coastal trade traffic.  
-**Characters:** Red Jackal; travelers; merchants; crews; porters.
+**Characters:** Luck Everhart; travelers; merchants; crews; porters.
 
 ### Purpose
 
@@ -545,12 +550,12 @@ Deliver the chapter title and make the environmental transition from inland/fron
 - seabirds or equivalent ordinary coastal signs may appear if geographically appropriate;
 - masts/sails/larger cargo movement begin to appear;
 - clothing, cargo, and speech patterns become visibly more mixed;
-- Red encounters trade speech that remains unintelligible when no token is nearby;
+- Luck encounters trade speech that remains unintelligible when no token is nearby;
 - he sees more routine Wayfarer Token use at commercial points;
 - Earth memory lets him recognize the sensory idea of sea/coast without producing a mystery revelation;
 - he notices his remaining money makes a major trade city more attractive than continued wandering.
 
-### Red Beat
+### Luck Beat
 
 The wider world finally feels larger than Greywake in a concrete way.
 
@@ -558,7 +563,7 @@ He is interested, not overwhelmed into sentimentality.
 
 ### Aura Beat
 
-Red adjusts coat/pace/posture for a controlled arrival into the busier trade zone.
+Luck adjusts coat/pace/posture for a controlled arrival into the busier trade zone.
 
 Outcome:
 - exhausted porters move around him;
@@ -584,14 +589,14 @@ Do not explain:
 
 ### Exit Condition
 
-Red follows the flow toward Merrowgate's outer approach because the density of work and vessels is now obvious.
+Luck follows the flow toward Merrowgate's outer approach because the density of work and vessels is now obvious.
 
 ---
 
 ## SC-027-05 — Merrowgate
 
 **Location:** final public approach / arrival staging area outside official Merrowgate intake.  
-**Characters:** Red Jackal; travelers; crews; porters; merchants.
+**Characters:** Luck Everhart; travelers; crews; porters; merchants.
 
 ### Purpose
 
@@ -599,7 +604,7 @@ Land the chapter on the first full reveal of the Volume 2 destination and hand c
 
 ### Required Visual Beats
 
-Red can observe:
+Luck can observe:
 
 - layered docks;
 - chain bridges;
@@ -616,12 +621,12 @@ Red can observe:
 
 - visible work opportunities are everywhere;
 - visible transport routes suggest many possible future passages;
-- Red is low enough on resources that earning again is necessary;
+- Luck is low enough on resources that earning again is necessary;
 - reaching Merrowgate is therefore a practical choice, not destiny;
 - an arrivals/intake flow or checkpoint is visible ahead;
-- Red has not yet entered the actual identity-verification process.
+- Luck has not yet entered the actual identity-verification process.
 
-### Red Beat
+### Luck Beat
 
 He chooses to enter because:
 
@@ -653,35 +658,35 @@ No M-ID advancement.
 
 ### Ending Lock
 
-The chapter ends with Red at or moving toward Merrowgate's public arrival/intake staging after choosing the port for work and passage.
+The chapter ends with Luck at or moving toward Merrowgate's public arrival/intake staging after choosing the port for work and passage.
 
 CH-028 begins the official Merrowgate intake/manifest problem.
 
 # 15. Cause-and-Effect Chain
 
-CH-026 Red leaves Greywake alone
+CH-026 Luck leaves Greywake alone
 → multiple ordinary travel days consume food, rest, and coin
-→ Red follows road/river transfers toward denser trade
+→ Luck follows road/river transfers toward denser trade
 → another legitimate fare makes continued wandering less sustainable
 → ordinary cargo-transfer hazard proves he can contribute without power
 → commercial traffic becomes increasingly maritime
 → salt/coastal environment marks the physical transition
 → Merrowgate's scale becomes visible
-→ Red sees abundant work and passage options
+→ Luck sees abundant work and passage options
 → low resources make the port the rational stop
-→ Red approaches public intake
+→ Luck approaches public intake
 → CH-028 identity-verification conflict is set up without being started early.
 
 # 16. Scene Transition Locks
 
 ## SC-027-01 → SC-027-02
-Red's shrinking resources make the cheaper legal river transfer the rational next step.
+Luck's shrinking resources make the cheaper legal river transfer the rational next step.
 
 ## SC-027-02 → SC-027-03
-Paying the fare places Red inside the busy transfer operation where the ordinary hazard occurs.
+Paying the fare places Luck inside the busy transfer operation where the ordinary hazard occurs.
 
 ## SC-027-03 → SC-027-04
-The stabilized transfer continues; successful movement brings Red closer to the Brasswater-facing trade corridor.
+The stabilized transfer continues; successful movement brings Luck closer to the Brasswater-facing trade corridor.
 
 ## SC-027-04 → SC-027-05
 Coastal traffic density naturally funnels travelers toward Merrowgate's public arrival approach.
@@ -695,7 +700,7 @@ CH-027 dialogue remains sparse and functional.
 Dialogue functions only:
 
 1. **Route/Fare Clarification** — explain next transfer and cost.
-2. **Crew Command** — direct Red during the transport hazard.
+2. **Crew Command** — direct Luck during the transport hazard.
 3. **Arrival Direction** — point travelers toward Merrowgate intake/staging.
 
 Do not use dialogue for:
@@ -704,7 +709,7 @@ Do not use dialogue for:
 - Greywake recap;
 - protected mystery theory;
 - lore dump;
-- reputation stories about Red.
+- reputation stories about Luck.
 
 Named-cast voice development begins in later chapters.
 
@@ -734,10 +739,10 @@ Do not rush the final Merrowgate reveal.
 - no new named intermediary city;
 - ordinary road/river route only;
 - no teleportation/gate travel;
-- travel costs reduce Red's resources;
-- Red remains able to reach Merrowgate;
-- Red needs work soon;
-- Red remains illiterate;
+- travel costs reduce Luck's resources;
+- Luck remains able to reach Merrowgate;
+- Luck needs work soon;
+- Luck remains illiterate;
 - Wayfarer Tokens support speech only where present;
 - no personal permanent translation device granted;
 - no Greywake companion;
@@ -747,7 +752,7 @@ Do not rush the final Merrowgate reveal.
 - no monster attack;
 - no sabotage;
 - no Play Logic;
-- Red follows transport expertise;
+- Luck follows transport expertise;
 - Merrowgate maritime identity introduced visually;
 - named Volume 2 cast withheld;
 - no Cassian/Venn reveal;
@@ -758,7 +763,7 @@ Do not rush the final Merrowgate reveal.
 - F-010 remains reserved for CH-038;
 - no M-ID advancement;
 - no protected mystery;
-- first-person deadpan voice architecture preserved;
+- distant third-person limited deadpan voice architecture preserved;
 - aura attempt mostly ignored;
 - final scene stops before official intake;
 - ending points directly to CH-028;

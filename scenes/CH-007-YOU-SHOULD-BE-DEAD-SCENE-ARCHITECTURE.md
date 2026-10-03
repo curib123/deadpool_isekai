@@ -1,5 +1,7 @@
 # CH-007 Scene Architecture — You Should Be Dead
 
+> **HISTORICAL PRE-MANUSCRIPT ARTIFACT.** Current manuscript canon and `series/STORY-STRUCTURE-BIBLE.md` override conflicting Red Jackal, Play Logic, regeneration, first-person, Stage, or power-display language in this file. Use this file only for compatible scene intent/location history.
+
 **Volume:** 1 — Greywake Arc  
 **Chapter:** CH-007 — You Should Be Dead  
 **Phase:** Detailed Scene Architecture  

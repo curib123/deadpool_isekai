@@ -1,5 +1,7 @@
 # CH-017 Scene Architecture — The Price of Being Right
 
+> **HISTORICAL PRE-MANUSCRIPT ARTIFACT.** Current manuscript canon and `series/STORY-STRUCTURE-BIBLE.md` override conflicting Red Jackal, Play Logic, regeneration, first-person, Stage, or power-display language in this file. Use this file only for compatible scene intent/location history.
+
 **Volume:** 1 — Greywake Arc  
 **Chapter:** CH-017 — The Price of Being Right  
 **Movement:** V — No Acceptable Loss  

@@ -1,5 +1,8 @@
 # Volume 2 Chapter Roadmap — Merrowgate Arc
 
+> **CURRENT AUTHORITY — 2026-10-03:** `planning/LUCK-EVERHART-CINEMATIC-CANON.md` supersedes all conflicting historical protagonist, first-person POV, Play Logic, regeneration, manifestation, overwhelming-power, Stage, and luck-awareness language in this roadmap. Keep the locked Merrowgate chapter order, local conflict, cast functions, reversal, climax, and consequences; rewrite every execution beat under passive Fortune Distortion only. Any old “Play Logic/manifestation” beat becomes an ordinary action, environmental opening, ally action, or physically possible luck chain that Luck does not consciously command.
+
+
 ## 2026-10-03 Luck Everhart Canon Override
 
 This override supersedes every conflicting power/POV instruction below. Luck Everhart is written in **distant third-person limited**. His only supernatural ability is **passive Fortune Distortion**: improbable but physically/socially possible causal chains. He has **no Play Logic, constructs, manifestations, raw-strength superpower, regeneration/self-restoration, Stage progression, time stop, or conscious probability control**. He remains mortal and injured consequences persist. Luck never correctly discovers Fortune Distortion as his personal supernatural power.

@@ -2,7 +2,7 @@
 
 **Effective:** 2026-10-03  
 **Status:** CURRENT STRUCTURAL AUTHORITY  
-**Applies to:** Prologue, CH001 onward, all future arc planning, scene architecture, manuscript QA, and publication copies.
+**Applies to:** CH001 onward, all future arc planning, scene architecture, manuscript QA, and publication copies.
 
 This file defines **how the story is built**. If any older roadmap, scene plan, retcon, QA record, or architecture conflicts with this file, this file wins together with:
 1. `series/SERIES-CONSTITUTION.md`
@@ -14,6 +14,21 @@ This file defines **how the story is built**. If any older roadmap, scene plan, 
 7. current manuscript canon
 
 Older Red Jackal / Rook Vane / Play Logic / regeneration / Stage / first-person planning is historical only.
+
+# 0. Series Opening Lock
+
+CH001 is the single official beginning of the story.
+
+It contains the material that previously existed as a separate prologue:
+- Earth explosion;
+- memory damage;
+- first arrival in Veyr;
+- theatrical instinct before fame;
+- first visible Fortune Distortion timing;
+- forest survival;
+- self-chosen name Luck Everhart.
+
+Do not recreate a standalone prologue unless the author explicitly reverses this lock.
 
 # 1. Core Story Engine
 

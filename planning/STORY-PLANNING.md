@@ -1,652 +1,240 @@
-# Destination → Volume → Chapter Planning
+# Story Planning
 
-> **CURRENT AUTHORITY — 2026-10-03:** `planning/LUCK-EVERHART-CINEMATIC-CANON.md` supersedes all conflicting historical protagonist, POV, Play Logic, regeneration, manifestation, overwhelming-power, Stage, and luck-awareness language in this file. Preserve story structure and consequences; execute all future prose with Luck Everhart, distant third-person limited, passive Fortune Distortion only, mortal injury, and permanent ignorance of the supernatural luck mechanism.
+**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
+**Authority:** CURRENT — 2026-10-03  
+**Structural source:** `series/STORY-STRUCTURE-BIBLE.md`
 
+# 1. Planning Rule
 
-## Current Cinematic Luck Everhart Authority — 2026-10-03
+Plan causes and consequences before prose.
 
-This section overrides conflicting historical planning text below.
+Every proposed chapter must answer:
+- What does Luck want now?
+- What does another major participant want?
+- What prevents a clean outcome?
+- What decision changes the situation?
+- Is a lucky event needed?
+- If so, what ordinary variables create it?
+- Who must still act after the opening appears?
+- What does a witness misunderstand?
+- What consequence survives?
+- Why must the next chapter exist?
 
-- **Protagonist:** Luck Everhart.
-- **POV:** distant third-person limited centered on Luck.
-- **Only supernatural ability:** passive Fortune Distortion.
-- **No:** Play Logic, constructs, regeneration, self-restoration, Stage progression, raw-power escalation, time stop, or conscious probability control.
-- **Luck never discovers that Fortune Distortion is his personal supernatural power.**
-- **Every scene:** goal → obstacle → attempt → meaningful change.
-- **Luck event:** establish ordinary variables first, show the causal chain, let Luck/allies convert the opening, and preserve costs afterward.
-- **Misunderstanding:** witnesses may correctly reconstruct physical facts while incorrectly inferring Luck planned them.
-- **Consequence continuity:** injuries, debts, broken equipment, political suspicion, promises, rumors, and damaged relationships persist.
-- **Future chapter planning:** any old field referring to Luck Everhart, Play Logic, manifestations, regeneration, close/distant third-person limited POV, or overwhelming capability is deprecated and must be interpreted through the current Luck-only rules instead.
+# 2. Chapter Sheet
 
-### Current production state
+Use this template for all new chapters.
 
-Prologue and CH-001–CH-027 are synchronized to the Luck Everhart canon. CH-004, CH-006, CH-011, and CH-014 received full cinematic rewrites because they had been skipped by the previous prose pass. CH-028 remains the next unwritten chapter.
+## CH-XXX — Working Title
 
----
+**Volume:**  
+**Destination:**  
+**POV:** Distant third-person limited — Luck Everhart  
+**Opening state:**  
+**Immediate objective:**  
+**Other-character objective:**  
+**Conflict:**  
+**Location/staging:**  
+**Important objects established before use:**  
+**Ordinary resources available:**  
+**Injury/resource continuity:**  
+**Luck performance beat:**  
+**Fortune Distortion:** none / minor / major causal chain  
+**Pre-existing variables:**  
+**Probability turn:**  
+**Who converts the opening:**  
+**Witness interpretation:**  
+**Concrete consequence of that interpretation:**  
+**Supporting-character independent action:**  
+**Mystery boundary:**  
+**What changes by chapter end:**  
+**Ending pull:**  
 
-**Owners:** A060-A081
+# 3. Scene Sheet
 
-# 1. Destination Inventory and Selection
+Each scene requires:
 
-The authoritative Phase 4 inventory is:
+- scene purpose;
+- Luck's immediate goal;
+- another participant's goal;
+- physical staging;
+- obstacle;
+- attempt;
+- turn;
+- cost;
+- exit condition.
 
-`destinations/DESTINATION-INVENTORY.md`
+A scene fails if nobody's options, knowledge, relationship, resources, or danger state changes.
 
-Every candidate uses a stable `DEST-[ID]` and one inventory classification:
+# 4. Fortune Distortion Planning
 
-- **HIGH POTENTIAL**
-- **RESERVED**
-- **UNUSED**
-- **NOT SUITABLE**
+Do not write "luck activates."
 
-Inventory classification is **not** route order and does not assign a volume.
+Plan the chain before prose.
 
-## Destination Eligibility
+Example planning form:
 
-A destination may enter the inventory only if its geography, city, region, island, sea, or political territory already exists in the World Bible.
+**Existing variables**
+- wet ramp;
+- loose wheel wedge;
+- boat wake;
+- worker already holding a rope;
+- Luck standing near a recessed brace.
 
-A **RESERVED** destination cannot be selected casually. The later selection team must show that its mystery/reveal dependencies are ready.
+**Probability turn**
+- wake arrives at the exact useful moment;
+- Luck's slipping foot lands in the brace instead of open water.
 
-A **NOT SUITABLE** destination cannot be promoted directly to an arc. Its worldbuilding must first be narrowed or expanded into a more specific eligible place.
+**Human conversion**
+- crewman calls the timing;
+- Luck holds the line;
+- another worker resets the wedge.
 
-## Destination Selection Gate
+**Consequence**
+- worker assumes Luck read the load shift;
+- rumor creates a job offer he does not want.
 
-After Phase 4 passes, later selection must:
-1. compare eligible existing DEST records;
-2. choose exactly one destination for the next major volume;
-3. justify why its local identity, travel position, conflict capacity, mystery window, and character needs fit the current series state;
-4. run Destination Selection QA;
-5. only then create the corresponding `[Destination Name] Arc`.
+Large outcomes need more than one visible cause.
 
-## Arc Naming
+# 5. Misunderstanding Planning
 
-Correct: **[Place Name] Arc**.
+Every major misunderstanding gets four fields:
 
-Reject event, villain, power-up, revelation, or thematic names as the primary arc name.
+1. **What actually happened**
+2. **What Luck intended**
+3. **What the witness thinks Luck intended**
+4. **What the witness does because of that belief**
 
-Old fixed generic arc plans are DEPRECATED.
+Reject misunderstandings that end only with admiration.
 
-# 2. Volume Architecture
-**One major volume = one destination arc.**
+# 6. Supporting Cast Planning
 
-Volume record:
-- volume number
-- destination ID
-- destination/arc name
-- arrival
-- local-culture introduction
-- local problem
-- local antagonist
-- supporting cast focus
-- exploration
-- major action
-- mystery contribution
-- Luck stable-character / situation beat
-- power display / revelation choice
-- midpoint shift
-- escalation
-- climax
-- local resolution
-- consequences
-- departure
-- next-destination hook
+Before using a major supporting character, state:
+- their current objective;
+- what they know;
+- what they do not know;
+- what skill they own;
+- what they would do if Luck were absent;
+- what decision they make for their own reason.
 
-Do not force identical pacing in every volume.
+# 7. Conflict Planning
 
-# 3. Travel
-Travel matters. Use roads, ships, caravans, magical routes, passes, wilderness, and borders consistently. Minor travel locations do not all need full arcs.
+Prefer conflicts with more than one success condition.
 
-# 4. Chapter Sheet
-- Chapter ID:
-- Volume:
-- Destination:
-- Working title:
-- POV: distant third-person limited centered on Luck Everhart
-- Characters:
-- Location:
-- Opening situation:
-- Primary goal:
-- Primary Engagement Beat (combat or equivalent):
-- Engagement type:
-- Engagement stakes:
-- Engagement turn / escalation:
-- What changes because of the Engagement Beat:
-- Why the Engagement Beat cannot be removed:
-- Native story baseline before Luck interferes:
-- Who owns the original objective:
-- Conflict:
-- Luck's personal/selfish reason to engage:
-- Luck intrusion / false-main-character beat:
-- Earned unexpected turn:
-- Aura-farming opportunity (optional):
-- Enemy-play / voluntary restraint choice:
-- Serious-switch threshold (if any):
-- Discovery:
-- Character beat:
-- Comedy opportunity (optional):
-- Play Logic use:
-- Fourth-Wall Pause opportunity (optional):
-- System/magic use:
-- Consequence caused by Luck:
-- Causal reroute that preserves sequence:
-- Off-screen independent story movement (if applicable):
-- Mystery/foreshadowing:
-- Continuity dependencies:
-- Knowledge dependencies:
-- Ending beat:
+Examples:
+- save people + preserve evidence;
+- stop sabotage + keep the port moving;
+- expose fraud + avoid destroying the service people depend on;
+- escape + keep someone else from taking the blame;
+- win a fight + prevent structural collapse.
 
+Luck surviving is not automatically victory.
 
+# 8. Consequence Planning
 
-# 4B. Mandatory Chapter Engagement Rule
+Carry forward:
+- wounds and recovery;
+- treatment;
+- money and fares;
+- damaged gear;
+- ruined clothes;
+- debts;
+- promises;
+- legal status;
+- rumors;
+- evidence;
+- trust;
+- public suspicion;
+- institutional changes.
 
-Every future chapter must pass:
+Comedy cannot reset these.
 
-`qa/CHAPTER-ENGAGEMENT-QA-STANDARD.md`
+# 9. Dialogue Planning
 
-A literal battle is not required every chapter. A meaningful engagement event is required every chapter.
+Before a long dialogue scene, identify what each speaker is trying to get.
 
-Valid substitutes for combat include:
+Dialogue should:
+- persuade;
+- conceal;
+- threaten;
+- test;
+- bargain;
+- investigate;
+- refuse;
+- redirect;
+- force a commitment.
+
+Cut exchanges that only restate known information.
+
+# 10. Exposition Planning
+
+Worldbuilding enters through:
+- work;
+- travel;
+- contracts;
+- medicine;
+- law;
+- equipment;
+- investigation;
+- food;
+- money;
+- consequences.
+
+Do not stop the scene to explain the setting.
+
+# 11. Chapter Engagement Rule
+
+Every chapter needs meaningful engagement, but not every chapter needs combat.
+
+Valid engagement:
+- danger;
 - confrontation;
-- dangerous task;
+- investigation;
+- failed plan;
 - pursuit;
-- discovery;
-- mystery contradiction;
-- countdown;
-- plan failure;
 - political collision;
-- emergency decision;
-- consequence under pressure;
-- relationship conflict;
-- irreversible choice.
-
-No roadmap chapter may be approved if its function is only exposition, travel, calm planning, or passive aftermath.
-
-Volume 1 audit:
-`qa/VOLUME-001-ENGAGEMENT-BEAT-AUDIT.md` — **PASS 26/26**.
-
-# 4A. Active Chapter Roadmap
-
-The authoritative Volume 1 chapter roadmap is:
-
-`chapters/VOLUME-001-GREYWAKE-CHAPTER-ROADMAP.md`
-
-**Status:** GATE 7 PASS
-
-**Locked count:** 26 chapters
-
-The next authorized planning artifact is:
-
-`VOLUME-001 / GREYWAKE ARC — Chapter Production Complete`
-
-CH-001 manuscript has passed Gate 9 and is CANON.
-
-CH-002 manuscript has passed Gate 9 and is CANON.
-
-CH-003 manuscript has passed Gate 9 and is CANON.
-
-F-002 is PLANTED — CH-003.
-
-CH-004 manuscript has passed Gate 9 and is CANON.
-
-No F-ID changed status in CH-004.
-
-CH-005 manuscript has passed Gate 9 and is CANON.
-
-F-004 is PLANTED — CH-005.
-
-CH-006 manuscript has passed Gate 9 and is CANON.
-
-No F-ID changed status in CH-006. F-003 remains PLANNED — NOT YET PLANTED.
-
-CH-007 manuscript has passed Gate 9 and is CANON.
-
-F-003 is PLANTED — CH-007.
-
-CH-008 Scene Architecture has passed Gate 8.
-
-CH-008 manuscript has passed Gate 9 and is CANON.
-
-No F-ID changed status in CH-008.
-
-CH-009 Scene Architecture has passed Gate 8.
-
-CH-009 manuscript has passed Gate 9 and is CANON.
-
-No F-ID changed status in CH-009.
-
-CH-010 Scene Architecture has passed Gate 8.
-
-CH-010 manuscript has passed Gate 9 and is CANON.
-
-No F-ID changed status in CH-010.
-
-CH-011 Scene Architecture has passed Gate 8.
-
-CH-011 manuscript has passed Gate 9 and is CANON.
-
-No F-ID changed status in CH-011.
-
-CH-012 Scene Architecture has passed Gate 8.
-
-CH-012 manuscript has passed Gate 9 and is CANON.
-
-No F-ID changed status in CH-012.
-
-CH-013 Scene Architecture has passed Gate 8.
-
-CH-013 manuscript has passed Gate 9 and is CANON.
-
-No F-ID changed status in CH-013.
-
-CH-014 Scene Architecture has passed Gate 8.
-
-CH-014 manuscript has passed Gate 9 and is CANON.
-
-No F-ID changed status in CH-014.
-
-CH-015 Scene Architecture has passed Gate 8.
-
-CH-015 manuscript has passed Gate 9 and is CANON.
-
-No F-ID changed status in CH-015.
-
-CH-016 Scene Architecture has passed Gate 8.
-
-CH-016 manuscript has passed Gate 9 and is CANON.
-
-No F-ID changed status in CH-016.
-
-The first bounded M-007 tonal hint is now canon.
-
-CH-017 Scene Architecture has passed Gate 8.
-
-CH-017 manuscript has passed Gate 9 and is CANON.
-
-No F-ID changed status in CH-017.
-
-M-007 did not advance.
-
-CH-018 Scene Architecture has passed Gate 8.
-
-CH-018 manuscript has passed Gate 9 and is CANON.
-
-No F-ID changed status in CH-018.
-
-M-007 did not advance.
-
-CH-019 Scene Architecture has passed Gate 8.
-
-CH-019 manuscript has passed Gate 9 and is CANON.
-
-No F-ID changed status in CH-019.
-
-M-007 did not advance.
-
-CH-020 Scene Architecture has passed Gate 8.
-
-CH-020 manuscript has passed Gate 9 and is CANON.
-
-No F-ID changed status in CH-020.
-
-M-007 did not advance.
-
-CH-021 Scene Architecture has passed Gate 8.
-
-CH-021 manuscript has passed Gate 9 and is CANON.
-
-No F-ID changed status in CH-021.
-
-M-007 did not advance.
-
-CH-022 Scene Architecture has passed Gate 8.
-
-CH-022 manuscript has passed Gate 9 and is CANON.
-
-No F-ID changed status in CH-022.
-
-M-007 did not advance.
-
-CH-023 Scene Architecture has passed Gate 8.
-
-CH-023 manuscript has passed Gate 9 and is CANON.
-
-No F-ID changed status in CH-023.
-
-M-007 did not advance.
-
-CH-024 Scene Architecture has passed Gate 8.
-
-CH-024 manuscript has passed Gate 9 and is CANON.
-
-No F-ID changed status in CH-024.
-
-M-007 did not advance.
-
-CH-025 Scene Architecture has passed Gate 8.
-
-CH-025 manuscript has passed Gate 9 and is CANON.
-
-No F-ID changed status in CH-025.
-
-M-007 did not advance.
-
-CH-026 Scene Architecture has passed Gate 8.
-
-CH-026 manuscript has passed Gate 9 and is CANON.
-
-No F-ID changed status in CH-026.
-
-M-007 did not advance.
-
-**Volume 1 / Greywake Arc chapter production is complete through CH-026.**
-
-Volume 2 destination is now selected through Gate 5:
-
-**DEST-002 — Merrowgate / Merrowgate Arc**
-
-Authoritative selection record:
-
-`destinations/VOLUME-002-DESTINATION-SELECTION.md`
-
-Gate 5 QA record:
-
-`qa/VOLUME-002-DESTINATION-SELECTION-QA.md`
-
-**Gate 6 Result:** PASS — Volume 2 / Merrowgate Arc architecture locked.
-
-Authoritative architecture:
-
-`volumes/VOLUME-002-MERROWGATE-ARCHITECTURE.md`
-
-Knowledge-state support:
-
-`continuity/VOLUME-002-KNOWLEDGE-STATE.md`
-
-Gate 6 QA:
-
-`qa/VOLUME-002-MERROWGATE-GATE-6-QA.md`
-
-**Gate 7 Result:** PASS — Volume 2 / Merrowgate Arc chapter roadmap locked.
-
-Authoritative roadmap:
-
-`chapters/VOLUME-002-MERROWGATE-CHAPTER-ROADMAP.md`
-
-Gate 7 QA:
-
-`qa/VOLUME-002-MERROWGATE-CHAPTER-ROADMAP-QA.md`
-
-**Locked count:** 24 chapters  
-**Locked range:** CH-027 through CH-050  
-**F-010:** planned for CH-038 — NOT YET PLANTED
-
-**CH-027 Scene Architecture:** PASS — GATE 8 / 5 scenes locked.
-
-Scene architecture:
-
-`scenes/CH-027-SALT-IN-THE-AIR-SCENE-ARCHITECTURE.md`
-
-Gate 8 QA:
-
-`qa/CH-027-PRE-MANUSCRIPT-SCENE-QA.md`
-
-**CH-027 Manuscript:** CURRENT CANON — SOUL-DRIFT / CLOSE FIRST-PERSON / FINAL STORY-ENGINE — GATE 9 PASS — `manuscript/CH027-SALT-IN-THE-AIR.md` — 1,843 words.
-
-Gate 9 QA:
-
-`qa/CH-027-GATE-9-CHAPTER-QA.md`
-
-No F-ID changed status in CH-027. No M-ID advanced.
-
-**Historical next step before Soul-Drift reset:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.
-
-Later manuscript work and Volume 3 selection remain deferred until their required gates pass.
-
-# 4B. Publication Release Workflow
-
-Volume 1 has passed full canon revalidation and may enter publication preparation.
-
-**Publish Version QA:** Gate 11
-
-Authoritative standard:
-
-`qa/PUBLISH-VERSION-QA-STANDARD.md`
-
-Volume 1 release tracker:
-
-`qa/publish/VOLUME-001-PUBLISH-VERSION-QA.md`
-
-Volume 1 publication preparation is complete.
-
-**Gate 11 Result:** PASS — 26 / 26 chapters PUBLISH-READY
-
-Release order remains:
-
-**CH-001 → CH-026**
-
-All reader-facing copies are under:
-
-`published/volume-001/`
-
-All chapter publication QA records are under:
-
-`qa/publish/`
-
-Aggregate release QA:
-
-`qa/publish/VOLUME-001-PUBLISH-VERSION-QA.md`
-
-Publication work:
-- may remove production metadata;
-- may normalize platform formatting;
-- must remain semantically equivalent to canon;
-- may not silently repair/change canon.
-
-If a publication edit changes meaning, return it to Gate 9 and canonization first.
-
-Volume 2 / Merrowgate Arc has passed Gate 7 with CH-027 through CH-050 locked. CH-027 has passed Gate 9 and is CURRENT CANON at 1,843 words. The active production step is CH-028 Detailed Scene Architecture / Gate 8.
-
-# 5. Scene Sheet
-Each scene has:
-- purpose
-- location
-- participants
-- conflict
-- what changes
-- exit condition
-
-If nothing meaningful changes, remove or rewrite the scene.
-
-
-# 6. Volume 1 Authorial Pacing Revision Track
-
-Volume 1 has been reopened for a canon-preserving pacing revision after publication QA.
-
-Authoritative plan:
-
-`planning/VOLUME-001-GREYWAKE-PACING-REVISION.md`
-
-Plan QA:
-
-`qa/VOLUME-001-PACING-REVISION-PLAN-QA.md`
-
-**Status:** PASS — REVISION PLAN LOCKED.
-
-This does not invalidate the current canon or current published copies by itself.
-
-Affected chapters enter revision sequentially:
-
-**CH-009 → CH-010 → CH-012 → CH-014 → CH-017 → CH-018 → CH-019 → CH-020 → CH-021 → CH-022 → CH-023 → CH-024**
-
-For every edited chapter:
-
-**Pacing Revision Pass → Gate 9 Revalidation → Canon Update → Publication Regeneration → Gate 11 Revalidation**
-
-After all affected chapters:
-- rerun Volume 1 Gate 10;
-- rerun aggregate Volume 1 Gate 11.
-
-Primary pacing goals:
-- reduce repetitive investigation processing;
-- no consecutive low-pressure chapters after CH-008;
-- create harder forward hooks;
-- begin climax pressure by CH-020;
-- make CH-021–CH-024 continuous;
-- expand CH-023 into the clear physical battle peak;
-- preserve CH-025 and CH-026 as separate aftermath and departure functions.
-
-**Revision track:** COMPLETE — incorporated into the overpowered-retcon manuscripts and revalidated through Gate 10/Gate 11.
-
-CH-028 Gate 8 is active again.
-
-
-# 7. Volume 1 Power-Retcon Manuscript Audit
-
-Authoritative audit:
-
-`qa/VOLUME-001-POWER-RETCON-MANUSCRIPT-AUDIT.md`
-
-**Status:** PASS — 26/26 ACTUAL MANUSCRIPTS AUDITED.
-
-Revision set:
-
-**Targeted:** CH-005, CH-006, CH-009, CH-011, CH-015, CH-016.
-
-**Substantive:** CH-007, CH-019, CH-020, CH-021, CH-022, CH-023, CH-024.
-
-**No prose revision required:** CH-001, CH-002, CH-003, CH-004, CH-008, CH-010, CH-012, CH-013, CH-014, CH-017, CH-018, CH-025, CH-026.
-
-Revision order is chronological.
-
-Each changed chapter must complete:
-
-**Overpowered Retcon Prose Revision → Gate 9 Revalidation → Canon Update → Publication Regeneration → Gate 11 Revalidation**
-
-After all 13 changed chapters pass:
-- rerun Volume 1 Gate 10;
-- rerun aggregate Gate 11;
-- resume CH-028.
-
-**Retcon manuscript revision result:** COMPLETE — 13/13 affected chapters revised and individually Gate 9 revalidated.
-
-**Volume 1 Gate 10:** PASS — `qa/VOLUME-001-GREYWAKE-OVERPOWERED-RETCON-GATE-10-REVALIDATION.md`.
-
-**Current canon total:** 75,157 words.
-
-**Gate 11 refresh:** COMPLETE — 13 revised publication copies regenerated and individually revalidated; aggregate Volume 1 Gate 11 PASS.
-
-**Historical next step before Soul-Drift reset:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.
-
-
-# 8. Volume 1 Overpowered Retcon Completion
-
-The manuscript revision cycle is complete.
-
-Revised + Gate 9 PASS:
-**CH-005, CH-006, CH-007, CH-009, CH-011, CH-015, CH-016, CH-019, CH-020, CH-021, CH-022, CH-023, CH-024.**
-
-Retained without prose rewrite:
-**CH-001, CH-002, CH-003, CH-004, CH-008, CH-010, CH-012, CH-013, CH-014, CH-017, CH-018, CH-025, CH-026.**
-
-Volume-level Gate 10:
-**PASS — 26/26 CANON / 75,157 words.**
-
-Authoritative Gate 10:
-`qa/VOLUME-001-GREYWAKE-OVERPOWERED-RETCON-GATE-10-REVALIDATION.md`
-
-CH-028 is authorized as the next production step. The Volume 1 publication refresh has passed Gate 11.
-
-
-# 9. Superseded POV / Style Retcon — Historical
-
-The previous POV/style conversion is historical only and has no current authority.
-
-Current manuscript authority begins in Section 10 and `manuscript/WRITING-RULES.md`.
-
-# 10. Soul-Drift / Story-Intruder Retcon
-
-**Status:** ACTIVE — FOUNDATION LOCKED / MANUSCRIPTS STALE.
-
-Authoritative retcon:
-
-`planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md`
-
-Native story:
-
-`series/NATIVE-STORY-FRAMEWORK.md`
-
-## Planning Interpretation
-
-All future chapter/scene plans must assume:
-- Luck is already overwhelmingly powerful;
-- Luck has no level/class/stage progression;
-- Luck has no conventional personality-growth arc;
-- distant third-person limited narration is mandatory for Luck chapters;
-- every genuine fourth-wall address freezes Veyran time;
-- enemy-playing and voluntary restraint are character behavior;
-- aura farming is recurring;
-- local serious consequences remain real;
-- other characters and the native Hero/Villain storyline exist independently;
-- Luck may hijack a scene but later causality must reroute instead of being discarded.
-
-## Preservation Lock
-
-Do not change solely because of this retcon:
-- Greywake map/location;
-- Merrowgate map/location;
-- destination sequence;
-- Greywake chapter count/order;
-- Merrowgate chapter count/order;
-- major reversal/climax placement.
-
-## Manuscript Reset
-
-CH-001 through CH-027 require a new prose pass because the locked foundation now changes:
-- origin;
-- memory;
-- POV;
-- fourth-wall mechanics;
-- character-development interpretation;
-- comedy/combat presentation.
-
-Old Gate 9 approvals remain historical for event continuity but are **not current prose approval**.
-
-**Production order:** CH-001 → CH-027 sequential rewrite + Gate 9.
-
-**Current synchronization state:** CH-001 through CH-026 COMPLETE — current Soul-Drift / close-distant third-person limited / final story-engine manuscripts have passed Gate 9.
-
-**Official next step:** CH-027 — Salt in the Air → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.
-
-**CH-028 remains paused until completion.**
-
-# 11. Flexible Future Arc Architecture
-
-The series now uses a quality-first flexible route after the locked Merrowgate Arc. The number of future arcs remains variable; a story-function slot may be admitted, merged, shortened, or cut only under its registry rules.
-
-Authoritative records:
-
-- `planning/FLEXIBLE-FUTURE-ARC-REGISTRY.md`
-- `planning/FUTURE-MYSTERY-WINDOW-SCHEDULE.md`
-- `continuity/SERIES-CONSEQUENCE-LEDGER.md`
-- `planning/BATTLE-TOPOLOGY-LEDGER.md`
-- `qa/FLEXIBLE-ARC-ENDGAME-READINESS.md`
-
-Future work must proceed through:
-
-**Destination Selection Gate 5 → Volume/Arc Gate 6 → Chapter Roadmap Gate 7 → Scene Gate 8 → Manuscript Gate 9 → Canon Gate 10 → Publish Gate 11.**
-
-Exact future destination selection remains deferred until Gate 5. The registry's provisional identity/registration, anomaly-consequence, ancient-history, exploitation/Savael, and endgame-choice slots are not Volume 3 assignments and do not authorize future manuscripts.
-
-The current active production step remains CH-027 Soul-Drift / close-distant third-person limited / final-story-engine synchronization and Gate 9 revalidation. This future-arc architecture does not unpause later chapter work or alter Arc 1 publication state.
-
-
-# Current Soul-Drift Synchronization Authority — 2026-09-20
-
-This section supersedes any historical pre-reset production-status statements elsewhere in this file.
-
-- **CH-001→CH-027:** CURRENT CANON — Soul-Drift / distant third-person limited / final story engine — Gate 9 PASS.
-- **CH-027 — Salt in the Air:** rewritten and revalidated in distant third-person limited on 2026-09-26.
-- **CH-028 — The Man on the Manifest:** AUTHORIZED NEXT STEP — Gate 8 pending.
-- **Official next step:** **CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.**
-
-**2026-09-25 CH-003 retention revision:** CANON — Gate 9 revalidated; F-002 remains PLANTED — CH-003; no downstream event order changed. Current Soul-Drift Volume 1 manuscript total: **62,767 words**.
+- rescue;
+- hard decision;
+- irreversible discovery;
+- relationship fracture;
+- time pressure;
+- consequence.
+
+Pure exposition/travel/aftermath without a change fails.
+
+# 12. Structural Revision Rule
+
+When an existing chapter fails:
+1. identify whether the problem belongs to series, volume, chapter, scene, or prose level;
+2. fix the highest owning level first;
+3. preserve working canon where possible;
+4. rewrite only the scenes needed to restore cause-and-effect;
+5. update continuity and published copies after manuscript canon is corrected.
+
+# 13. Historical Planning Files
+
+Files describing Red Jackal, Play Logic, supernatural regeneration, first-person narration, Stage progression, deliberate manifestations, or Fourth-Wall Pause are historical unless they have been rewritten to the current authority.
+
+They may not be copied forward into new chapter planning.
+
+# 14. Active Story Range
+
+- Prologue + CH001–CH027: existing story under audit.
+- CH028–CH050: planned Merrowgate structure.
+- Volume 3: not selected.
+
+# 15. QA Order
+
+Every chapter revision is checked in this order:
+
+1. structural purpose;
+2. cause-and-effect;
+3. character consistency;
+4. continuity;
+5. spatial clarity;
+6. dialogue purpose;
+7. luck plausibility;
+8. misunderstanding consequence;
+9. pacing;
+10. ending pull;
+11. prose rhythm;
+12. publication synchronization.

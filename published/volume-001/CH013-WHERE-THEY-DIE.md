@@ -1,8 +1,8 @@
 # Chapter 13 — Where They Die
 
-The council map table had disappeared under evidence. Route ledgers. Guild work orders. Tavian's field notes. Kellan's road sketches. Maelis's rubbing from the Broken North lure. Rook stopped inside the door. For the first time, everything they had found was in one room. That made the room feel smaller. Brynn stood near the head of the table with her arms folded. Kellan had claimed the side closest to the outer-route map. Tavian stood opposite him with small stones marking track clusters.
+The council map table had disappeared under evidence. Route ledgers. Guild work orders. Tavian's field notes. Kellan's road sketches. Maelis's rubbing from the Broken North lure. Luck stopped inside the door. For the first time, everything they had found was in one room. That made the room feel smaller. Brynn stood near the head of the table with her arms folded. Kellan had claimed the side closest to the outer-route map. Tavian stood opposite him with small stones marking track clusters.
 
-Hesk was already there. Of course he was. He stood beside one of the council chairs with a sealed packet in front of him, calm enough to be irritating. Jessa entered last carrying two ledgers and several tied route packets. Her eyes moved around the room. Maelis. Brynn. Tavian. Kellan. Rook. Then Hesk. She stopped for half a second before walking to the table. Nobody commented. Maelis took the ledgers carefully. "Thank you." Jessa nodded. Hesk looked at Maelis. "You requested diversion-equipment service records, route-loss records, restricted dispatch notes, and casualty adjustments."
+Hesk was already there. Of course he was. He stood beside one of the council chairs with a sealed packet in front of him, calm enough to be irritating. Jessa entered last carrying two ledgers and several tied route packets. Her eyes moved around the room. Maelis. Brynn. Tavian. Kellan. Luck. Then Hesk. She stopped for half a second before walking to the table. Nobody commented. Maelis took the ledgers carefully. "Thank you." Jessa nodded. Hesk looked at Maelis. "You requested diversion-equipment service records, route-loss records, restricted dispatch notes, and casualty adjustments."
 
 "Yes."
 
@@ -16,7 +16,7 @@ Maelis set one ledger beside the map. "Then we separate commercial information f
 
 "I have decided there is enough reason to examine it."
 
-Brynn spoke before the room could turn into a private duel. "This is a review. Not an arrest. Not a Guild meeting." Her eyes moved to him. Rook raised both hands. "I haven't done anything."
+Brynn spoke before the room could turn into a private duel. "This is a review. Not an arrest. Not a Guild meeting." Her eyes moved to him. Luck raised both hands. "I haven't done anything."
 
 "Continue that."
 
@@ -28,7 +28,7 @@ He looked at Maelis. "You practiced that for me."
 
 "No."
 
-Probably true. Worse. Jessa untied the first packet. "These are maintenance issues from the road stores." Maelis slid the top sheet toward her. "What does this entry say?" Rook looked at the writing. Still nothing. Jessa read aloud. "Two sealed scent reservoirs. Four mana-channel pins. Resin compound. Assigned to north service sector three."
+Probably true. Worse. Jessa untied the first packet. "These are maintenance issues from the road stores." Maelis slid the top sheet toward her. "What does this entry say?" Luck looked at the writing. Still nothing. Jessa read aloud. "Two sealed scent reservoirs. Four mana-channel pins. Resin compound. Assigned to north service sector three."
 
 Tavian's attention sharpened. "Date?" Jessa read it. Maelis checked another page. "Before the Broken North closure."
 
@@ -60,7 +60,7 @@ Calm disagreement. Precise enough to make shouting unnecessary. Jessa turned ano
 
 "Read the routes."
 
-Jessa did. North service sector. East outer service sector. Old quarry connector. Timber road. Two sector marks Rook did not recognize. Kellan did. "That one is above Marrow Creek." Jessa checked. "Yes."
+Jessa did. North service sector. East outer service sector. Old quarry connector. Timber road. Two sector marks Luck did not recognize. Kellan did. "That one is above Marrow Creek." Jessa checked. "Yes."
 
 "And that?"
 
@@ -106,7 +106,7 @@ He set the Broken North lure rubbing beside the map. "The stake we found screene
 
 "No."
 
-Immediate answer. "We still do not know every active site. We do not know exact strength at each site. We do not know service frequency for every unit." Maelis looked at him. "But?" Tavian traced the CH-009 route. "Repeated maintained diversion points are consistent with the broad drift we observed. Predator and prey movement was not simply worsening." He tapped the line. "It was being pushed." Nobody joked. Rook did not try. Maelis opened the loss ledger. "Now the dates." She placed service dispatches beside casualty and unresolved records. Rook could not read either. She could.
+Immediate answer. "We still do not know every active site. We do not know exact strength at each site. We do not know service frequency for every unit." Maelis looked at him. "But?" Tavian traced the CH-009 route. "Repeated maintained diversion points are consistent with the broad drift we observed. Predator and prey movement was not simply worsening." He tapped the line. "It was being pushed." Nobody joked. Luck did not try. Maelis opened the loss ledger. "Now the dates." She placed service dispatches beside casualty and unresolved records. Luck could not read either. She could.
 
 That was becoming increasingly inconvenient for several people. "Certified main-road casualty summaries." Another stack. "Outer-route unresolved losses, irregular labor incidents, incomplete-identity reports." She matched periods. One service window. One main-road improvement. One rise in outer unresolved incidents. Then another. Then another. Hesk watched her hands. Kellan watched the map. Jessa watched both. Maelis spoke carefully. "The categories are not equivalent. I am not treating every unresolved case as a confirmed death." Hesk nodded once. "Good."
 
@@ -136,9 +136,9 @@ Hesk's jaw shifted. "Yes." Brynn looked at him. The room went still. "Say that a
 
 "I know what lures do."
 
-Her voice stayed level. "I am asking whether Greywake has been using them to move pressure away from the Main Caravan Road." Hesk looked at the table. Maps. Ledgers. Jessa. Rook. Then Brynn. "Yes." Jessa lowered her eyes. Kellan's hand flattened against the table. Maelis did not move. Rook had expected the moment to feel louder. It did not. Hesk studied him before continuing. "You accepted unofficial work because it put you where registered crews would never see the expense trail. First the bridge. Then the side route. Then my dispatch records. You let my office supply its own witnesses."
+Her voice stayed level. "I am asking whether Greywake has been using them to move pressure away from the Main Caravan Road." Hesk looked at the table. Maps. Ledgers. Jessa. Luck. Then Brynn. "Yes." Jessa lowered her eyes. Kellan's hand flattened against the table. Maelis did not move. Luck had expected the moment to feel louder. It did not. Hesk studied him before continuing. "You accepted unofficial work because it put you where registered crews would never see the expense trail. First the bridge. Then the side route. Then my dispatch records. You let my office supply its own witnesses."
 
-Rook had accepted the work because it included money and food. Hesk had somehow found a conspiracy in his lunch allowance. Rook left his expression alone. Maelis interrupted before he could improve it.
+Luck had accepted the work because it included money and food. Hesk had somehow found a conspiracy in his lunch allowance. Luck left his expression alone. Maelis interrupted before he could improve it.
 
 "The assignments are documented. His intent is not. Answer the policy question."
 
@@ -218,7 +218,7 @@ Hesk did not answer immediately. Brynn's expression changed. Recognition. The pr
 
 "No," Maelis said.
 
-Kellan looked at the outer roads. "It never was." Rook looked at the table. Main road. Outer roads. Service sectors. Casualty columns Rook could not read. Irregular workers. Incomplete identities. Routes that mattered. Routes that mattered less. The sorting felt familiar. Hesk's office. No valid identity. No certification. No normal protections. Private labor because the normal system could not place him. Rook had liked that. Rook had chosen it. That mattered. "I took the work." Nobody had asked. Rook kept going. "I knew the deal was bad." Hesk looked at him. "You were told the terms."
+Kellan looked at the outer roads. "It never was." Luck looked at the table. Main road. Outer roads. Service sectors. Casualty columns Luck could not read. Irregular workers. Incomplete identities. Routes that mattered. Routes that mattered less. The sorting felt familiar. Hesk's office. No valid identity. No certification. No normal protections. Private labor because the normal system could not place him. Luck had liked that. Luck had chosen it. That mattered. "I took the work." Nobody had asked. Luck kept going. "I knew the deal was bad." Hesk looked at him. "You were told the terms."
 
 "Yes."
 
@@ -230,7 +230,7 @@ Kellan looked at the outer roads. "It never was." Rook looked at the table. Main
 
 "Yes."
 
-Kellan glanced at him. Rook kept his eyes on Hesk. "I accepted dangerous work." Hesk waited. "I did not accept hidden route math." His expression did not change. "You were paid for risk."
+Kellan glanced at him. Luck kept his eyes on Hesk. "I accepted dangerous work." Hesk waited. "I did not accept hidden route math." His expression did not change. "You were paid for risk."
 
 "I was paid for the risk you told me about."
 
@@ -238,7 +238,7 @@ Kellan glanced at him. Rook kept his eyes on Hesk. "I accepted dangerous work." 
 
 "No."
 
-Rook leaned forward. "But you did." Something moved in his face. Small. Real. Rook pointed at the map. "You had protected routes." Then the outer lines. "Exposed routes." Then the records. "Workers with protections." Then himself. "And people who were easier to lose." Maelis said nothing. Tavian said nothing. Hesk watched him. "You survived assignments others could not." There it was. Not praise. Classification. "Exactly."
+Luck leaned forward. "But you did." Something moved in his face. Small. Real. Luck pointed at the map. "You had protected routes." Then the outer lines. "Exposed routes." Then the records. "Workers with protections." Then himself. "And people who were easier to lose." Maelis said nothing. Tavian said nothing. Hesk watched him. "You survived assignments others could not." There it was. Not praise. Classification. "Exactly."
 
 "You were capable."
 
@@ -246,7 +246,7 @@ Rook leaned forward. "But you did." Something moved in his face. Small. Real. Ro
 
 "The Guild used available capability where it was needed."
 
-The road. The work. The supply line. Everything had a place in Hesk's system. So did people. Rook smiled out of habit. Then stopped. "No." Hesk narrowed his eyes. "No?"
+The road. The work. The supply line. Everything had a place in Hesk's system. So did people. Luck smiled out of habit. Then stopped. "No." Hesk narrowed his eyes. "No?"
 
 "You don't get to make that choice for me."
 
@@ -254,7 +254,7 @@ The road. The work. The supply line. Everything had a place in Hesk's system. So
 
 "I chose the work."
 
-Rook tapped the map. "You chose what the work meant." Silence. Rook looked at Jessa's shaking hands. Then Kellan's roads. Hesk had never pointed at one person and ordered a monster to kill them. He had chosen what stayed safe and accepted where the danger went. Maelis moved the final records into line. Service orders. Loss periods. Route sectors. Tavian's drift marks. Broken North lure orientation. Kellan's homesteads. Brynn's patrol routes. Hesk's own acknowledgment. Jessa's records. No single piece had been enough. Together, they left almost nowhere to hide. Maelis spoke first. "The migration was deliberately redirected."
+Luck tapped the map. "You chose what the work meant." Silence. Luck looked at Jessa's shaking hands. Then Kellan's roads. Hesk had never pointed at one person and ordered a monster to kill them. He had chosen what stayed safe and accepted where the danger went. Maelis moved the final records into line. Service orders. Loss periods. Route sectors. Tavian's drift marks. Broken North lure orientation. Kellan's homesteads. Brynn's patrol routes. Hesk's own acknowledgment. Jessa's records. No single piece had been enough. Together, they left almost nowhere to hide. Maelis spoke first. "The migration was deliberately redirected."
 
 Tavian nodded. "Repeatedly." Brynn looked at Hesk. "And the outer routes took the displaced pressure."
 

@@ -91,8 +91,8 @@ When an old planning field uses those terms, preserve the chapter's **story func
 
 ## Current Story State
 
-- Prologue: revised; protagonist remains unnamed before choosing his public identity.
-- CH-001: revised; establishes the forest causal-luck sequence and Luck Everhart name origin.
+- There is no standalone current prologue.
+- CH-001 is the single series opening and contains the Earth explosion, damaged memory, arrival in Veyr, first visible luck event, forest survival, theatrical-persona establishment, and Luck Everhart name origin.
 - CH-002–CH-027: current plot continuity retained under Luck Everhart.
 - CH-004, CH-006, CH-011, CH-014: scene-level cinematic rewrites completed because they were not part of the earlier 23-chapter prose revision.
 - Greywake remains Volume 1.

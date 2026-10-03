@@ -296,7 +296,7 @@ Enough.
 
 "Worth checking."
 
-Hesk's eyes moved to the broken survey-pole splinter Luck had finally stopped carrying that morning.
+Hesk's eyes moved over Luck's empty hands, then the healing cut along his forearm.
 
 "You arrived unarmed."
 

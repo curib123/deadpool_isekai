@@ -1,1186 +1,361 @@
 # Mystery Bible
 
-**Owners:** A050 Mystery Director + A051 Foreshadowing Editor  
-**Supporting Owners:** A001 Series Director, A031 World System Architect, A033 Fate Architect, A034 Great Design Architect, A035 Anomaly Architect, A100 Continuity Director, A102 Knowledge-State Editor  
-**Phase:** 3 — Mystery Foundation  
-**Status:** CANON — WRITER-TRUTH FOUNDATION
-
-This file is the authoritative source for long-term mystery truth, clue architecture, reveal boundaries, false beliefs, and foreshadowing state. It contains **writer spoilers**. It does not assign mysteries to destination arcs, volumes, chapters, scenes, or manuscript prose.
+**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
+**Status:** CURRENT MYSTERY AUTHORITY — 2026-10-03  
+**Protagonist:** Luck Everhart  
+**Structural authority:** `series/STORY-STRUCTURE-BIBLE.md`
 
 # 1. Mystery Governance
 
-## 1.1 Truth Layers
+Mystery is revealed through bounded evidence, not through unexplained prose.
 
-Every long-term mystery must distinguish:
+Use four layers:
+1. **Writer truth**
+2. **Reader-visible evidence**
+3. **Character theory**
+4. **False belief**
 
-- **Writer Truth** — objectively true canon known to the production team.
-- **Reader Baseline** — what a reader may understand before explicit reveals.
-- **Red Jackal Knowledge** — what the protagonist actually knows.
-- **Faction / Character Knowledge** — what specific in-world actors know or believe.
-- **False Beliefs** — plausible but incorrect explanations.
-- **Reveal Stage** — the earliest structural stage at which a truth may become explicit.
-- **Payoff** — what the mystery changes when understood.
+A character theory does not become canon merely because it sounds convincing.
 
-## 1.2 Spoiler Firewall
-
-Writer Truth must not leak into:
-- character dialogue without a source;
-- narration before Red Jackal has grounds to know it;
-- exposition merely because the author knows it;
-- local antagonists without a canon knowledge path.
-
-## 1.3 Foreshadowing State Rule
-
-Every F-ID begins as:
-
-**PLANNED — NOT YET PLANTED**
-
-It becomes **PLANTED** only after an actual manuscript reference exists.
-
-## 1.4 Reveal Windows
-
-Mysteries use broad structural windows rather than fixed volume/chapter assignments:
-
-- **RW-0 — Baseline:** observable from premise/opening situation.
-- **RW-1 — Early:** establishes that the anomaly is deeper than a normal curse or System error.
-- **RW-2 — Developing:** historical connections and contradictions become visible.
-- **RW-3 — Mid-Series:** external-breach and pre-System truths become defensible.
-- **RW-4 — Late:** hidden architect and Great Design conflict become explicit.
-- **RW-5 — Endgame:** final causality, choice, and thematic payoff.
-
-These windows do not create an arc order.
+Luck never receives a final tutorial explaining Fortune Distortion.
 
 # 2. Core Writer Truth
 
-## 2.1 Nobody Chose Red Jackal
+## 2.1 Nobody Chose Luck
 
-Evan Calder was not selected by a god, summoned by a hero ritual, imported by Savael, or assigned a divine mission.
+Luck was not selected by a god, summoned by the Hero, imported by Savael, or assigned a divine mission.
 
-His arrival in Veyr is the result of a rare **natural far Soul Drift**.
+His arrival follows a rare **natural far Soul Drift** after death on Earth.
 
-This is central writer truth.
+His exact pre-Veyr legal identity is protected and is not currently named in active canon.
+
+Historical names from superseded drafts are archival only.
 
 ## 2.2 The Earth Explosion
 
-Evan died during a mysterious explosion on Earth.
+A real explosion preceded Luck's death/arrival.
 
-The explosion is a real event, not a false memory.
+Locked truth:
+- the explosion is not a false memory;
+- it caused or coincided with his death;
+- it overlapped with an extreme local disturbance and a rare far-drift boundary weakness;
+- no current Veyran actor is established as its cause.
 
-Its exact cause is a protected mystery.
-
-Writer truth at this stage only requires:
-
-- the explosion caused or coincided with Evan's death;
-- it produced extreme local energy/reality disturbance;
-- that disturbance overlapped with a rare far-drift boundary weakness;
-- the Soul Drift itself is natural rather than a deliberate summoning mechanism.
-
-No Veyran actor caused the explosion unless a later explicit retcon changes this truth.
+Exact cause remains protected.
 
 ## 2.3 Soul Drift
 
 Soul Drift is a natural post-death phenomenon.
 
-Most drift remains inside a soul's native causal reality.
+Rare far-drift cases can cross realities.
 
-Extremely rare far-drift cases can cross realities.
+Far drift damages explicit autobiographical continuity while deeper cognition, habits, humor, and social instincts may survive.
 
-Far drift is destructive to normal autobiographical continuity.
+## 2.4 Why the System Rejects Luck
 
-Evan's case strips most explicit Earth memory and ordinary personality organization while preserving deeper cognitive grooves.
-
-## 2.4 Why Red Thinks the Way He Does
-
-Before death, Evan was an obsessive Deadpool fan and heavy consumer of meta-fiction, games, comics, action movies, animation, internet humor, and theatrical antihero media.
-
-Because those patterns were repeatedly rehearsed, part of that cognitive style survives drift more strongly than normal autobiographical memory.
-
-The surviving residue favors:
-- irreverence;
-- fourth-wall thinking;
-- jokes under pain;
-- pop-culture comparison;
-- self-narration;
-- theatrical combat;
-- treating enemies as scene partners;
-- assuming somebody, somewhere, ought to appreciate the bit.
-
-This is psychological/metaphysical residue, not possession by a fictional character.
-
-## 2.5 Why His Body Exists
-
-Veyr can physically instantiate a compatible body around a real incoming soul even when the World System lacks the data required to register that person.
-
-Red's body is therefore physically real but metaphysically undocumented.
-
-It resembles his surviving self-concept strongly enough to remain humanlike.
-
-## 2.6 Why the System Rejects Him
-
-The World System lacks:
-- native soul-registry relation;
-- native birth;
-- recognized racial lineage;
+Luck has no valid native:
+- soul-registry relation;
+- birth record;
+- racial lineage;
 - local Fate history;
 - progression root;
-- legal causal predecessor inside Veyr.
+- causal predecessor inside Veyr.
 
-The System cannot invent a valid past merely because a body is standing in front of it.
+The System cannot invent a valid native past.
 
-Therefore:
+Therefore it returns:
 - UNDEFINED;
 - NO RECORD;
 - FAILED;
 - UNAVAILABLE;
 - ANOMALY.
 
-## 2.7 Why Play Logic Exists
+## 2.5 Why Fortune Distortion Exists
 
-Play Logic is an emergent consequence of an external Soul-Drift identity occupying Veyr without the normal System/Fate interpretive framework.
+Writer truth at the current reveal ceiling:
 
-Where a native person is constrained and described through overlapping local structures, Red has a missing definition layer.
+Luck entered Veyr without a normal native Fate/registry integration.
 
-His imagination can substitute for that missing interpretive relation and force reality to negotiate with what he is asserting.
+His continued causal presence produces a persistent anomaly in local probability: **Fortune Distortion**.
 
-There is no known intrinsic raw-power ceiling.
+Do not overdefine the ultimate metaphysical mechanism before a future authorized reveal.
 
-Small early effects are restraint, ignorance, performance, comedy, or incomplete revelation—not a weak stage.
+The power is:
+- passive;
+- already present;
+- non-progressive;
+- unknown to Luck;
+- not Fate command.
 
-## 2.8 Why Red's Body Restores Itself
+## 2.6 Fate and the Native Story
 
-Red does not possess a separate regeneration power.
+Luck has no normal native backward Fate history.
 
-His body restoration is **Play Logic acting automatically on Red's own persistent self-concept**.
+Veyr still contains real Fate-supported convergences:
+- registered Hero;
+- Hero Party;
+- Main Villain;
+- prophecies;
+- wars;
+- local conflicts.
 
-When injury tries to establish a physical state that Red's foreign identity does not accept as final, Play Logic negotiates reality back toward the version of Red that his self-model recognizes.
+Luck is outside their original assignment.
 
-This can produce:
-- impossible wound closure;
-- tissue restoration;
-- reattachment/reconstitution;
-- survival of ordinarily lethal damage.
+When he interferes, surviving objectives reroute around the new facts.
 
-The restoration does not rewind:
-- other people;
-- destroyed property;
-- evidence;
-- time;
-- trust;
-- political consequences.
+## 2.7 Eidrathi Continuance
 
-## 2.8A Why Jackal Luck Exists
-
-Jackal Luck is a passive probability distortion created by Red's external causal status interacting with Veyr without a native Fate history.
-
-It does not replace Fate.
-
-It does not let Red issue probability commands.
-
-Instead, nearby possible outcomes become slightly biased toward:
-- Red surviving;
-- Red's improvised choice becoming unexpectedly useful;
-- coincidences arriving at theatrically perfect moments;
-- ordinary errors producing extraordinary advantage;
-- circumstances reinforcing the appearance that Red planned more than he did.
-
-The effect is unreliable in exact form.
-
-It may help Red while worsening the larger situation.
-
-This distinction matters:
-
-**Play Logic makes impossible things happen.**
-
-**Jackal Luck makes possible things happen suspiciously well.**
-
-## 2.9 Why the Fourth Wall Stops Time
-
-Far Soul Drift leaves Red only partially anchored to Veyr's active causal sequence.
-
-When he genuinely addresses an external reader/audience, he slips sideways into that exterior relation.
-
-Veyran time stops for the address.
-
-The reader does not power him.
-
-The reader does not control him.
-
-The pause is the consequence of incomplete causal anchoring.
-
-## 2.10 Fate and the Native Story
-
-Red has no native backward Fate thread.
-
-Veyr does.
-
-The world contains legitimate Fate-supported narrative convergences:
-- a true System-recognized Hero;
-- a Hero Party;
-- a Main Villain;
-- minor villains;
-- wars, prophecies, quests, betrayals, and local conflicts.
-
-These are not fictional inside Veyr. They are real lives and real convergence patterns.
-
-Red is outside their original assignment.
-
-When he interferes, Fate reroutes surviving objectives around the new facts rather than pretending he never appeared.
-
-## 2.11 The Eidrathi Continuance
-
-The pre-System Eidrathi Continuance remains canon.
-
-They studied:
+The pre-System Eidrathi studied:
 - soul continuity;
 - Fate convergence;
 - world boundaries;
 - reality stabilization;
 - early registry structures.
 
-Their experiments can provide ancient evidence that reality has boundaries and that external causality is theoretically possible.
+They did not cause Luck's Soul Drift.
 
-They did **not** cause Red's Soul Drift.
+## 2.8 Exterior Needle
 
-## 2.12 The Exterior Needle
+The Exterior Needle was an ancient Eidrathi boundary instrument.
 
-The Exterior Needle remains an ancient Eidrathi boundary instrument.
+It contributed to historical instability during the First Severance.
 
-It was built to reference or pierce beyond the Closed Loom.
+It did not import Luck.
 
-It caused historical instability during the First Severance.
+Characters may falsely connect it to him because it is the closest known historical analogy.
 
-It is **not** the mechanism that imported Red.
+## 2.9 Savael-of-the-Index
 
-Later characters may falsely assume the Needle explains Red because it is the closest known historical analogy.
+Savael is a surviving Eidrathi-derived intelligence.
 
-## 2.13 Savael-of-the-Index
+Savael did not choose, create, or summon Luck.
 
-Savael remains a surviving Eidrathi-derived intelligence.
+Savael may become interested after evidence of a genuine external anomaly appears.
 
-Savael did not choose Evan and did not bring him to Veyr.
+Possible motives:
+- study;
+- proof;
+- exploitation;
+- reproducing far-drift access;
+- reopening boundary research.
 
-Savael becomes interested in Red **after** evidence of a genuine natural external anomaly appears.
+## 2.10 Great Design
 
-Savael may want to:
-- study him;
-- use him as proof;
-- exploit his exterior relation;
-- reproduce far-drift access;
-- turn Red into a key for reopening boundary research.
+The Great Design is deep coherence architecture.
 
-This can make Savael dangerous without making Savael Red's creator.
+It:
+- did not summon Luck;
+- did not cause the Earth explosion;
+- did not create Soul Drift;
+- reacts to consequences through existing mechanisms rather than narratorial intervention.
 
-## 2.14 The Great Design
+## 2.11 Quiet Registration
 
-The Great Design remains a non-personal deep coherence architecture.
+Quiet Registration is the historical synchronization of post-Severance registry traditions into the reliable modern World System.
 
-It did not summon Red.
+It can help experts distinguish Luck's failure from an ordinary broken interface.
 
-It did not cause the Earth explosion.
+## 2.12 Endgame Boundary
 
-It did not create Soul Drift.
+Luck is not required to:
+- become registered;
+- become the chosen Hero;
+- consciously master Fortune Distortion;
+- assimilate into a native role;
+- reveal an Earth birth name.
 
-It reacts to consequences after Red arrives.
-
-## 2.15 Quiet Registration
-
-The Quiet Registration remains the historical synchronization of post-Severance registry traditions into the reliable modern World System.
-
-This history can help experts understand why Red's failure is not an ordinary broken status screen.
-
-## 2.16 Endgame Boundary
-
-Red is not required to become registered, assimilated, morally completed, or turned into Veyr's chosen hero.
-
-Possible endgame questions concern:
-- whether Veyr can acknowledge an external exception;
-- whether Soul Drift can occur again;
-- whether native factions attempt to reproduce it;
-- what caused the Earth explosion;
-- whether the Hero/Villain story survives Red's continued interference;
-- what happens when a world built around assignable roles must coexist with someone who has none.
+Endgame pressure concerns whether Veyr can coexist with an external exception without owning or rewriting him.
 
 # 3. Mystery Registry
 
-## M-001 — Who Brought Red Jackal to Veyr?
-
-**Writer Truth:** Nobody. Red arrived through a rare natural far Soul Drift after his death in the Earth explosion.
-
-**Reader Baseline:** Red wakes in another world with damaged memory.
-
-**Red Jackal Baseline:** He knows nobody has shown up to claim responsibility.
-
-**False Beliefs:**
-- a god summoned him;
-- Savael deliberately summoned him;
-- the Exterior Needle selected him;
-- the System created him;
-- he is the chosen hero.
-
-**Reveal Window:** RW-2 to RW-4.
-
-**Payoff:** The answer is not “who chose him?” but “why was a natural crossing possible at all?”
-
-**Status:** ACTIVE WRITER TRUTH.
-
----
+## M-001 — What Brought Luck to Veyr?
+**Writer truth:** natural far Soul Drift; nobody deliberately summoned him.  
+**Reveal rule:** evidence may eliminate false summoners before fully explaining far drift.
 
 ## M-002 — Why Is Everything About Him UNDEFINED?
+**Writer truth:** no valid native registry root or causal predecessor.  
+**Active:** yes.
 
-**Writer Truth:** Veyr's System has no native causal/soul/Fate/progression root from which to construct Red's identity.
+## M-003 — Was Luck Reincarnated Normally?
+**Writer truth:** no; his case is rare cross-reality Soul Drift.  
+**Active:** yes.
 
-**Reader Baseline:** System appraisal fails.
+## M-004 — RETIRED: Play Logic Origin
+Removed power. Historical ID only. Do not plant or pay off.
 
-**Red Jackal Baseline:** He knows the world cannot classify him.
+## M-005 — RETIRED: Supernatural Regeneration
+Removed power. Historical ID only. Physical injury now follows current mortal-body rules.
 
-**False Beliefs:**
-- hidden max level;
-- secret class;
-- anti-appraisal skill;
-- divine concealment;
-- corrupted status interface.
+## M-006 — RETIRED: Fourth-Wall Time Stop
+Removed power. Historical ID only. Luck's performative/meta remarks do not stop time.
 
-**Reveal Window:** RW-1 to RW-3.
-
-**Payoff:** UNDEFINED means no valid answer exists.
-
-**Status:** ACTIVE WRITER TRUTH.
-
----
-
-## M-003 — Was Red Jackal Reincarnated?
-
-**Writer Truth:** Not normally. He far-drifted between realities after death and arrived before any Veyran reincarnation/registry process could claim him.
-
-**Reader Baseline:** He resembles an isekai reincarnate.
-
-**Red Jackal Baseline:** His memory is too damaged to know the technical answer.
-
-**False Beliefs:**
-- ordinary reincarnation;
-- god-managed rebirth;
-- possession;
-- perfect-memory transfer.
-
-**Reveal Window:** RW-2 to RW-3.
-
-**Payoff:** Explains both missing memory and registry failure.
-
-**Status:** ACTIVE WRITER TRUTH.
-
----
-
-## M-004 — Where Did Play Logic Come From?
-
-**Writer Truth:** Play Logic is reality negotiation produced by Red's external Soul-Drift identity and missing native interpretive schema.
-
-**Reader Baseline:** Imagination can become real around him.
-
-**Red Jackal Baseline:** He knows imagination works and treats that as excellent news.
-
-**False Beliefs:**
-- divine blessing;
-- hidden class;
-- unique magic school;
-- Savael gift;
-- reader belief as fuel.
-
-**Reveal Window:** RW-2 to RW-4.
-
-**Payoff:** The power is not something he unlocks. It is a consequence of what he already is.
-
-**Status:** ACTIVE WRITER TRUTH.
-
----
-
-## M-005 — Why Does Damage Refuse to Stay on Red?
-
-**Writer Truth:** There is no separate regeneration ability. Red's body restoration is automatic Play Logic applied to his own persistent self-concept.
-
-**Reader Baseline:** He heals from impossible injuries.
-
-**Red Jackal Baseline:** He knows dying has become unreliable and treats the recovery as one more impossible thing his existence does.
-
-**False Beliefs:**
-- healing skill;
-- regeneration skill;
-- vampire trait;
-- demon body;
-- hidden HP exploit;
-- second secret power.
-
-**Reveal Window:** RW-1 to RW-3.
-
-**Payoff:** What looked like a second power is revealed as Play Logic refusing to let ordinary physical damage define Red permanently.
-
-**Status:** ACTIVE WRITER TRUTH.
-
----
-
-## M-006 — Who Is Red Talking To When Time Stops?
-
-**Writer Truth:** Genuine reader-address activates a Soul-Drift exterior relation. Veyran causal time pauses while Red addresses the external audience.
-
-**Reader Baseline:** Red can stop the scene and talk directly to the reader.
-
-**Red Jackal Baseline:** He treats this as normal for him long before he understands it.
-
-**Faction Knowledge:** Native observers cannot remember the pause because no local time elapses. Specialized instruments may eventually detect discontinuities around pause boundaries.
-
-**False Beliefs:**
-- insanity only;
-- invisible familiar;
-- time spell;
-- reader worship;
-- a hidden System skill.
-
-**Reveal Window:** RW-1 behavior, RW-3+ metaphysical explanation.
-
-**Payoff:** The fourth wall is both comedy and evidence that Red is not fully anchored to Veyr.
-
-**Status:** ACTIVE WRITER TRUTH.
-
----
-
-## M-007 — Why Is Red So Absurdly Lucky, and How Does Fate Treat Him?
-
-**Writer Truth:** Red has no native backward destiny track. His external causal presence passively distorts nearby probability as **Jackal Luck**, while Veyr's native Fate can only reroute around the causal wake created after his arrival.
-
-Jackal Luck and Fate are not the same mechanism.
-
-**Reader Baseline:** Expected outcomes and coincidences become suspiciously favorable or theatrically timed around Red.
-
-**Red Jackal Baseline:** He notices that ridiculous timing follows him and usually calls it plot interference, good taste, or excellent planning after the fact.
-
-**False Beliefs:**
-- Red consciously controls destiny;
-- complete Fate immunity;
-- automatic victory over prophecy;
-- divine blessing;
-- perfect foresight;
-- anyone near him becomes lucky or fate-free.
-
-**Reveal Window:** RW-1 behavior / RW-2 to RW-4 explanation.
-
-**Payoff:** Explains both Red's improbable coincidence streak and why native storylines bend rather than simply vanish around him.
-
-**Status:** ACTIVE WRITER TRUTH.
-
----
+## M-007 — Why Is Luck So Improbably Lucky, and How Does Fate Treat Him?
+**Writer truth:** Fortune Distortion alters local probability without granting Fate command.  
+**Luck knowledge:** never correctly solved by Luck.  
+**Active:** yes.
 
 ## M-008 — What Is the Great Design?
+**Active:** protected long-horizon mystery.
 
-**Writer Truth:** A non-personal deep coherence architecture that preserves long-horizon world consistency.
-
-**Reader Baseline:** Unknown.
-
-**Red Jackal Baseline:** May call patterns “the plot” without technical knowledge.
-
-**False Beliefs:**
-- literal author;
-- supreme god;
-- sentient final boss;
-- World System itself.
-
-**Reveal Window:** RW-3 to RW-5.
-
-**Payoff:** Separates meta-comedy from actual cosmology.
-
-**Status:** ACTIVE WRITER TRUTH.
-
----
-
-## M-009 — What Happened Before the First Weathering?
-
-**Writer Truth:** The Eidrathi Continuance studied world boundaries, built the Exterior Needle, and caused the First Severance through artificial boundary experimentation.
-
-**Reader Baseline:** Ancient ruins contradict accepted history.
-
-**Red Jackal Baseline:** None.
-
-**False Beliefs:**
-- divine punishment;
-- unrelated ancient civilizations;
-- periodic full-world reset.
-
-**Reveal Window:** RW-2 to RW-4.
-
-**Payoff:** Provides an artificial historical analogue to Red's natural Soul Drift without making it his cause.
-
-**Status:** ACTIVE WRITER TRUTH.
-
----
+## M-009 — What Happened Before the First Weathering / First Severance?
+**Active:** protected historical mystery.
 
 ## M-010 — Who Is Savael-of-the-Index?
+**Active:** later-series mystery. Savael is not Luck's creator.
 
-**Writer Truth:** A surviving distributed Eidrathi archivist-intelligence who learns of Red after his arrival and becomes obsessed with the existence of a naturally occurring external anomaly.
+## M-011 — What Was Quiet Registration?
+**Active:** bounded historical/system mystery.
 
-**Reader Baseline:** No awareness.
+## M-012 — Can Luck Ever Become “Defined”?
+**Writer truth boundary:** forced normalization is not required and may conflict with his nature/agency.  
+**Endgame:** unresolved until authorized.
 
-**Red Jackal Baseline:** No awareness.
+# 4. False-Belief Registry
 
-**False Beliefs:**
-- Red's summoner;
-- Red's creator;
-- Great Design avatar;
-- demon sovereign;
-- hidden System administrator.
+## FB-001 — Luck Is the Chosen Hero
+False.
 
-**Reveal Window:** RW-3 to RW-4.
+## FB-002 — Luck Is Secretly Max Level
+False.
 
-**Payoff:** Savael wants to use a person who was never chosen by anyone, creating conflict without retconning Soul Drift into a summoning.
+## FB-003 — Luck Has a Hidden Conventional Class
+False.
 
-**Status:** ACTIVE WRITER TRUTH.
+## FB-004 — The Great Design Is a Person/God Directly Controlling Him
+False.
 
----
+## FB-005 — Savael Created or Summoned Luck
+False.
 
-## M-011 — What Was the Quiet Registration?
+## FB-006 — An Unseen Audience Powers Luck
+False.
 
-**Writer Truth:** The point at which multiple post-Severance registry traditions became synchronized into the reliable modern World System framework.
+## FB-007 — Luck Is Immune to Fate
+False.
 
-**Reader Baseline:** Historical period when System use became consistent.
+## FB-008 — The Eidrathi Were Simple Innocent Victims
+Unreliable/false simplification.
 
-**Faction Knowledge:** Ledger of Measures scholars know institutional fragments; theological traditions credit different gods.
+## FB-009 — The World System Equals Reality Itself
+False.
 
-**False Beliefs:**
-- the System was born fully formed;
-- one god created all classes;
-- the Great Design personally installed the interface.
+## FB-010 — Normal Registration Will Eventually Fix Luck Automatically
+False.
 
-**Reveal Window:** RW-2 to RW-4.
-
-**Payoff:** Separates World System history from cosmology and provides evidence that System rules can be engineered without being arbitrary.
-
-**Status:** ACTIVE WRITER TRUTH.
-
----
-
-## M-012 — Can Red Jackal Ever Become “Defined”?
-
-**Writer Truth:** A conventional native identity would require rewriting part of Red's foreign Soul-Drift continuity. Such assimilation is optional and is never his required character arc. A separate legal/metaphysical exception framework could represent him without erasing what he is.
-
-**Reader Baseline:** The System cannot define him.
-
-**Red Jackal Baseline:** He has no reason to believe registration is possible or desirable.
-
-**False Beliefs:**
-- leveling will eventually unlock;
-- killing a god will grant a class;
-- the System only needs more data;
-- undefined status is temporary.
-
-**Reveal Window:** RW-4 to RW-5.
-
-**Payoff:** Establishes that Veyr may need to change how it represents exceptions; Red is not required to assimilate, become chosen, or become morally complete.
-
-**Status:** ACTIVE WRITER TRUTH.
-
-# 4. Series-Scale Threat Architecture
-
-## 4.1 No Hidden Summoner
-
-There is **no hidden architect behind Red Jackal's arrival**.
-
-Soul Drift is natural.
-
-Savael may become a long-game opportunist after discovering Red, but is not his summoner, creator, or author.
-
-Most destination conflicts remain local and independent.
-
-## 4.2 Systemic Pressure
-
-The Great Design is not the final villain.
-
-It is a source of increasingly visible correction pressure when coherence is threatened.
-
-## 4.3 Escalation Logic
-
-The long mystery may escalate through:
-
-1. **Classification problem** — Red Jackal cannot be identified.
-2. **Memory problem** — he cannot cleanly reconstruct Evan Calder.
-3. **Historical problem** — artificial boundary research predates him.
-4. **Causal problem** — Fate reroutes around his downstream effects.
-5. **Origin problem** — natural far Soul Drift crossed realities.
-6. **Explosion problem** — what happened on Earth and why did it coincide with a far-drift opening?
-7. **Exploitation problem** — factions such as Savael want to reproduce or use what happened naturally.
-8. **Native-story problem** — Hero/Villain convergences keep being rerouted by someone Fate never assigned.
-9. **World problem** — can Veyr coexist with an exception it cannot define?
-
-No destination order is assigned here.
-
-# 5. Knowledge Matrix
-
-| Subject | Red Jackal Baseline | Maelis / Ledger Baseline | Morn Baseline | Pell / Ash Choir Baseline | Edrin Baseline | Divine/Expert Ceiling | Writer Truth |
-|---|---|---|---|---|---|---|---|
-| Arrival cause | fragmented / unknown | unknown | unknown | myths only | unknown | no complete answer | natural far Soul Drift after Earth explosion |
-| UNDEFINED status | knows result | knows anomaly categories | knows containment cases | interprets symbolically | little expertise | can identify unprecedented registry absence | missing native causal/registry roots |
-| Play Logic | imagination works | unclassifiable | dangerous anomaly behavior | symbolic interpretations | unknown | nonstandard law interaction | Soul-Drift identity + missing native schema |
-| Reincarnation | assumes isekai-like event | soul experts uncertain | abnormal identity risk | forgotten-world myths | unknown | can distinguish normal reincarnation | far Soul Drift, not normal reincarnation |
-| Fate | jokes about plot | limited institutional knowledge | risk-oriented | interprets as correction | has route-anomaly experience | fate specialists see causal disruption | causal wake, no backward thread |
-| Great Design | unknown | unknown | unknown | incorrectly suspects deliberate erasure intelligence | unknown | fragments only | bounded coherence architecture |
-| Eidrathi | unknown | scattered anomaly records | classified fragments | mythic fragments | impossible maps | some divine archives contain traces | pre-System Continuance |
-| Savael | unknown | unknown | unknown | corrupted title fragments | unknown | unknown | later opportunist, not summoner |
-| Fourth-wall pause | uses it naturally | unknown | unknown | may mythologize discontinuity | unknown | rare causal discontinuity evidence | exterior Soul-Drift relation freezes local time |
-
-# 6. False-Belief Registry
-
-## FB-001 — Chosen Hero
-Red Jackal was selected by a god because he is uniquely worthy.
-
-**Truth:** False.
-
-## FB-002 — Hidden Max Level
-UNDEFINED conceals an impossibly high normal level.
-
-**Truth:** False.
-
-## FB-003 — Secret Class
-Play Logic is the skill set of a hidden class.
-
-**Truth:** False.
-
-## FB-004 — Great Design Is a God
-The Great Design is a conscious supreme deity issuing personal commands.
-
-**Truth:** False.
-
-## FB-005 — Savael Created or Summoned Red Jackal
-Savael selected Evan and brought him to Veyr.
-
-**Truth:** False. Red arrived through natural Soul Drift. Savael becomes interested afterward.
-
-## FB-006 — Reader Belief Powers Him
-The fourth wall acts like worship energy.
-
-**Truth:** False.
-
-## FB-007 — Fate Immunity
-Red Jackal exists outside all Fate effects.
-
-**Truth:** False.
-
-## FB-008 — The Eidrathi Were Innocent Victims
-The Great Design destroyed an innocent civilization solely for seeking freedom.
-
-**Truth:** False. The Eidrathi created genuine catastrophic instability; Savael's grievance is understandable but incomplete.
-
-## FB-009 — System Equals Reality
-If the System cannot record something, it cannot exist.
-
-**Truth:** False.
-
-## FB-010 — Registration Will Fix Itself
-Red Jackal will eventually gain a normal class through ordinary leveling.
-
-**Truth:** False.
-
-# 7. Reveal Ladder
-
-## RL-1 — Surface Anomaly
-
-Allowed truths:
-- normal appraisal fails;
-- multiple independent methods agree that data is absent rather than hidden;
-- his regeneration and Play Logic do not map cleanly to known systems.
-
-Forbidden at this stage:
-- Savael;
-- Exterior Needle;
-- Eidrathi full truth;
-- Great Design full truth.
-
-## RL-2 — Historical Resonance
-
-Allowed truths:
-- boundary anomalies predate Red Jackal;
-- Night Seam/Ashfall/Bell-related phenomena share signatures;
-- Quiet Registration has hidden complexity;
-- Fate behaves strangely around his causal wake.
-
-## RL-3 — Far-Drift Reality
-
-Allowed truths:
-- Red Jackal did not undergo normal Veyran reincarnation;
-- natural far Soul Drift can cross causal worlds under exceptional conditions;
-- an ancient civilization independently studied the Closed Loom and built the Exterior Needle;
-- the Needle is a historical analogue, not Red's transport;
-- Red's body formed without a native Veyran history;
-- Fourth-Wall Pause reflects incomplete causal anchoring.
-
-## RL-4 — Exploitation and the Explosion
-
-Allowed truths:
-- Savael survived;
-- Savael did **not** summon Red;
-- Savael learned of Red after arrival and wants to exploit/reproduce the natural anomaly;
-- evidence about the Earth explosion may begin identifying why that death coincided with far Soul Drift;
-- Great Design is correction architecture, not the summoner or cause of Soul Drift.
-
-## RL-5 — Endgame Choice
-
-Allowed truths:
-- forced assimilation can define Red Jackal only by rewriting part of him;
-- destructive breach risks world-scale incoherence;
-- an Exception Covenant is theoretically possible;
-- coexistence requires changing the rules without pretending rules do not matter.
-
-# 8. Foreshadowing Registry
-
-Each entry below records its current foreshadowing state. New F-IDs begin as **PLANNED — NOT YET PLANTED** and may change to **PLANTED** only after approved manuscript evidence passes Chapter QA.
+# 5. Foreshadowing Registry
 
 ## F-001 — Independent Appraisals Fail Consistently
+**Status:** PLANTED — CH002.  
+Supports M-002.
 
-**Related:** M-002  
-**Planned setup:** Different System tools produce different error behaviors but the same absence of identity data.  
-**Intended first interpretation:** rare anti-appraisal curse or hidden class.  
-**Hidden meaning:** the data is not concealed; the required registry root does not exist.  
-**Eligible window:** RW-0 / RW-1.  
-**Payoff:** M-002.  
-**Actual manuscript reference:** `manuscript/CH002-UNDEFINED.md` — Gate Registry Seal + Certified Identity Slate.  
-**Planted chapter:** CH-002 — Undefined.  
-**QA evidence:** `qa/CH-002-GATE-9-CHAPTER-QA.md`.  
-**Status:** PLANTED — CH-002.
+## F-002 — Physical Data Exists Without Identity Data
+**Status:** PLANTED — CH003.  
+Supports M-002.
 
-## F-002 — Physical Data Without Identity Data
+## F-003 — The Undefined Body Is Still Physically Vulnerable and Treatable
+**Status:** PLANTED — CH007.  
+Luck can bleed, require stitches, feel pain, and receive ordinary/in-world care despite System identity failure.  
+Supports the distinction between registry anomaly and bodily invulnerability.
 
-**Related:** M-002, M-003  
-**Planned setup:** Instruments can measure weight, temperature, wounds, mana interaction, and equipment while Name/Race/Class remain undefined.  
-**First interpretation:** selective System damage.  
-**Hidden meaning:** physical existence is real; identity registration is what is missing.  
-**Eligible window:** RW-1.  
-**Actual manuscript reference:** `manuscript/CH003-THE-THINGS-THEY-CAN-MEASURE.md` — Calibrated Balance Plate, Thermal Bead, Wound Gauge, Material Verification Tag, Mana-Reactivity Prism, and controlled Certified Identity Slate re-check.  
-**QA evidence:** `qa/CH-003-GATE-9-CHAPTER-QA.md`  
-**Status:** PLANTED — CH-003.
+## F-004 — Improbable Outcomes Cluster Through Mundane Causal Chains
+**Status:** PLANTED — CH005.  
+The wrong rope, boards, wheel, road edge, and timing produce an extraordinary but physically possible result.  
+Supports M-007 without naming Fortune Distortion to Luck.
 
-## F-003 — Healing Magic Encounters an Already-Correcting Body
+## F-005 — Prophecy Describes the Native Convergence Better Than the External Variable
+**Status:** FUTURE / UNPLANTED.
 
-**Related:** M-005  
-**Planned setup:** A healer observes that regeneration is not behaving like a conventional healing spell.  
-**First interpretation:** exotic racial trait.  
-**Hidden meaning:** self-model reassertion.  
-**Eligible window:** RW-1 / RW-2.  
-**Actual manuscript reference:** `manuscript/CH007-YOU-SHOULD-BE-DEAD.md` — severe flank/torso injury begins autonomously correcting before healer intervention; Sela's diagnostic/healing knit encounters moving wound boundaries and no standard external healing residue.  
-**QA evidence:** `qa/CH-007-GATE-9-CHAPTER-QA.md`  
-**Status:** PLANTED — CH-007.
+## F-006 — Coincidence Continues Around the Consequences of Luck's Actions
+**Status:** FUTURE REINFORCEMENT / may be observed without becoming a new power reveal.
 
-## F-004 — Play Logic Follows Meaning More Than Spell Grammar
+## F-007 — Ashfall Maps Contradict One Another
+**Status:** FUTURE / UNPLANTED.
 
-**Related:** M-004  
-**Planned setup:** A manifestation succeeds despite violating expected casting structure, but changes when Red Jackal's mental framing changes.  
-**First interpretation:** chaotic magic.  
-**Hidden meaning:** the effect is negotiated through self-model and concept.  
-**Eligible window:** RW-1 / RW-2.  
-**Actual manuscript reference:** `manuscript/CH005-A-BETTER-HAMMER.md` — vague hammer manifestation versus clear-function hammer manifestation; no normal sigil/focus/spoken casting sequence.  
-**QA evidence:** `qa/CH-005-GATE-9-CHAPTER-QA.md`  
-**Status:** PLANTED — CH-005.
-
-## F-005 — Prophecy Describes Everyone Except the Variable
-
-**Related:** M-007  
-**Planned setup:** A valid prophecy accurately predicts native participants and pressures but represents Red Jackal only as absence, interruption, or an impossible blank.  
-**First interpretation:** anti-divination ability.  
-**Hidden meaning:** Fate has no backward thread for him.  
-**Eligible window:** RW-2.  
-**Status:** PLANNED — NOT YET PLANTED.
-
-## F-006 — Coincidence Still Forms Around His Consequences
-
-**Related:** M-007, M-008  
-**Planned setup:** Red Jackal disrupts one expected outcome, but new actors/events converge around the aftermath.  
-**First interpretation:** “the plot correcting itself.”  
-**Hidden meaning:** adaptive Fate and coherence pressure.  
-**Eligible window:** RW-2 / RW-3.  
-**Status:** PLANNED — NOT YET PLANTED.
-
-## F-007 — Ashfall Maps Contradict Each Other
-
-**Related:** M-009  
-**Planned setup:** Reliable maps of the same route disagree in ways ordinary surveying error cannot explain.  
-**First interpretation:** bad records or magical storms.  
-**Hidden meaning:** residual First Severance damage.  
-**Eligible window:** RW-1 / RW-2.  
-**Status:** PLANNED — NOT YET PLANTED.
-
-## F-008 — The Same Broken Index Mark Appears in Unrelated Ancient Sites
-
-**Related:** M-009, M-010  
-**Planned setup:** A geometric mark—two nested squares with one shared corner missing—appears in ancient structures separated by culture and geography.  
-**First interpretation:** trade symbol or cult sign.  
-**Hidden meaning:** Eidrathi continuity-index marker associated with Savael's archival network.  
-**Eligible window:** RW-2.  
-**Status:** PLANNED — NOT YET PLANTED.
+## F-008 — Broken Index Mark Appears in Unrelated Ancient Sites
+**Status:** FUTURE / UNPLANTED.
 
 ## F-009 — Ash Choir Preserves an “Outside” Motif
-
-**Related:** M-001, M-009, M-010  
-**Planned setup:** Old oral material repeatedly describes a voice, light, or fall “from beyond the counted sky” without using modern cosmology.  
-**First interpretation:** religious metaphor.  
-**Hidden meaning:** cultural memory of Exterior Needle events.  
-**Eligible window:** RW-2.  
-**Status:** PLANNED — NOT YET PLANTED.
+**Status:** FUTURE / UNPLANTED.
 
 ## F-010 — Quiet Registration Records Use Older Terminology
+**Status:** PLANNED — CH038 / NOT YET PLANTED.
 
-**Related:** M-011  
-**Planned setup:** Surviving technical texts speak of “continuity anchors” and “identity synchronization” rather than divine System awakening.  
-**First interpretation:** obsolete scholarly vocabulary.  
-**Hidden meaning:** modern System reliability was engineered and synchronized.  
-**Eligible window:** RW-2 / RW-3.  
-**Volume 2 Planning:** SELECTED — MERROWGATE ARC / GATE 7.  
-**Planned chapter:** CH-038 — Old Words, New Ledger.  
-**Status:** PLANNED — NOT YET PLANTED.
+## F-011 — Gate Infrastructure Treats Luck as Cargo Before Traveler
+**Status:** FUTURE / UNPLANTED.
 
-## F-011 — Gate Infrastructure Treats Him as Cargo Before Traveler
-
-**Related:** M-002, M-003  
-**Planned setup:** A licensed gate can transport his physical mass only when operators bypass identity-linked traveler verification.  
-**First interpretation:** administrative bug.  
-**Hidden meaning:** he has embodiment but no native travel identity root.  
-**Eligible window:** RW-2.  
-**Status:** PLANNED — NOT YET PLANTED.
-
-## F-012 — Fourth-Wall Pause Leaves a Causal Discontinuity on Sensitive Observation
-
-**Related:** M-006  
-**Planned setup:** Very sensitive observation records a causal discontinuity around the instant Red enters or exits a genuine Fourth-Wall Pause.  
-**First interpretation:** time magic, perception interference, or a damaged observation instrument.  
-**Hidden meaning:** Red's Soul-Drift exterior relation momentarily leaves Veyr's active causal sequence.  
-**Eligible window:** RW-3.  
-**Status:** PLANNED — NOT YET PLANTED.
+## F-012 — RETIRED: Fourth-Wall Causal Discontinuity
+Removed with the time-stop power.
 
 ## F-013 — No Divine Power Can Produce a Valid Summoning Claim
-
-**Related:** M-001  
-**Planned setup:** Competing divine authorities can test whether one of them owns or initiated the transfer; none can validate the claim.  
-**First interpretation:** secret god.  
-**Hidden meaning:** the transfer was non-divine.  
-**Eligible window:** RW-2 / RW-3.  
-**Status:** PLANNED — NOT YET PLANTED.
+**Status:** FUTURE / UNPLANTED.
 
 ## F-014 — Eidrathi Ruins Contain a World-Boundary Model
+**Status:** FUTURE / UNPLANTED.
 
-**Related:** M-009  
-**Planned setup:** Ancient geometry depicts Veyr as enclosed by a boundary with external reference vectors.  
-**First interpretation:** cosmological religion.  
-**Hidden meaning:** technical Closed Loom model.  
-**Eligible window:** RW-3.  
-**Status:** PLANNED — NOT YET PLANTED.
+## F-015 — Savael's Archive Responds to Luck Without Recognizing His Name
+**Status:** FUTURE / UNPLANTED.
 
-## F-015 — Savael's Archive Responds to Red Jackal Without Recognizing His Name
-
-**Related:** M-010  
-**Planned setup:** Ancient infrastructure reacts to his foreign continuity signature while still failing ordinary identity queries.  
-**First interpretation:** he is Eidrathi.  
-**Hidden meaning:** the system detects the kind of external variable Savael sought, not a bloodline.  
-**Eligible window:** RW-3 / RW-4.  
-**Status:** PLANNED — NOT YET PLANTED.
-
-## F-016 — Savael Knows the Acquisition Criteria but Not Evan's Personal History
-
-**Related:** M-001, M-010  
-**Planned setup:** When Savael eventually reveals knowledge, it includes threshold conditions and Earth-exterior origin but lacks details only Evan would know.  
-**First interpretation:** Savael is lying about choosing him.  
-**Hidden meaning:** Savael truly could not select the specific person.  
-**Eligible window:** RW-4.  
-**Status:** PLANNED — NOT YET PLANTED.
+## F-016 — Savael Knows External-Anomaly Criteria but Not Luck's Personal Earth History
+**Status:** FUTURE / UNPLANTED.
 
 ## F-017 — Great Design Corrections Prefer Existing Mechanisms
+**Status:** FUTURE / UNPLANTED.
 
-**Related:** M-008  
-**Planned setup:** apparent “corrections” arrive through plausible people, weather, magic, law, Fate, and existing institutions rather than a cosmic voice.  
-**First interpretation:** bad luck or conspiracy.  
-**Hidden meaning:** coherence pressure works through bounded systems.  
-**Eligible window:** RW-2 onward.  
-**Status:** PLANNED — NOT YET PLANTED.
-
-## F-018 — Self-Model Damage Disrupts Play Logic Body Restoration
-
-**Related:** M-004, M-005  
-**Planned setup:** memory, identity, conceptual, or perception attacks interfere with Play Logic's ability to restore Red's body more effectively than ordinary physical injury does.  
-**First interpretation:** generic weakness to mental attacks.  
-**Hidden meaning:** body restoration is not a second power; it depends on the same foreign self-model that drives Play Logic.  
-**Eligible window:** RW-3 / RW-4.  
-**Status:** PLANNED — NOT YET PLANTED.
+## F-018 — RETIRED: Self-Model Damage Disrupts Body Restoration
+Removed with supernatural regeneration/Play Logic.
 
 ## F-019 — A Native Anomaly Is Stabilized Without Being Erased
-
-**Related:** M-012  
-**Planned setup:** A smaller unrelated anomaly is resolved by creating a lawful exception instead of destroying or normalizing it.  
-**First interpretation:** local technical solution.  
-**Hidden meaning:** proof-of-concept for the Exception Covenant.  
-**Eligible window:** RW-3 / RW-4.  
-**Status:** PLANNED — NOT YET PLANTED.
+**Status:** FUTURE / UNPLANTED.
 
 ## F-020 — Assimilation Language Sounds Like Help but Requires Identity Rewrite
+**Status:** FUTURE / UNPLANTED.
 
-**Related:** M-012  
-**Planned setup:** expert/systemic proposals to “fix” Red Jackal contain technically benign language that would replace foreign continuity dependencies.  
-**First interpretation:** possible cure.  
-**Hidden meaning:** definition would come at the cost of becoming less himself.  
-**Eligible window:** RW-4.  
-**Status:** PLANNED — NOT YET PLANTED.
+# 6. Reveal Ladder
 
-# 9. Payoff Map
+## RL-1 — Surface Anomaly
+UNDEFINED identity + physically measurable body + improbable coincidence.
 
-| Mystery | Core Payoff |
-|---|---|
-| M-001 Arrival | He was imported as a tool, but not personally chosen or authored |
-| M-002 UNDEFINED | Absence is structural, not hidden superiority |
-| M-003 Reincarnation | He arrived through natural far Soul Drift, explaining memory loss and missing native history |
-| M-004 Play Logic | Missing native schema lets his imagination negotiate reality without a progression ladder |
-| M-005 Body Restoration | Apparent regeneration is automatic Play Logic restoring Red toward his persistent self-concept |
-| M-006 Fourth-Wall Pause | Genuine audience address reveals his incomplete causal anchoring by freezing local Veyran time |
-| M-007 Jackal Luck / Fate | Passive probability distortion makes coincidence favor Red while native Fate still reroutes surviving world objectives around him |
-| M-008 Great Design | Coherence is not the same as tyranny, but can become oppressive under pressure |
-| M-009 Ancient History | Modern anomalies share one buried pre-System source |
-| M-010 Savael | The supposed liberator repeats the sin of assigning others a role |
-| M-011 Quiet Registration | System order was built, meaning it can be understood and amended |
-| M-012 Definition | Final choice becomes assimilation vs rupture vs lawful exception |
+## RL-2 — Historical Resonance
+Old records show boundary/registry cases that resemble pieces of Luck's anomaly without explaining him.
 
-# 10. Mystery Foundation QA Summary
+## RL-3 — Far-Drift Reality
+Evidence establishes cross-reality Soul Drift as possible.
 
-**Writer truth:** PASS — arrival, registry failure, Play Logic, Play Logic body restoration, Jackal Luck, reincarnation, Fate, fourth wall, Great Design, ancient history, hidden architect, and endgame structural choice are defined.
+## RL-4 — Exploitation / Explosion Pressure
+Factions seek to reproduce or exploit the external anomaly; Earth explosion truth approaches reveal.
 
-**System compatibility:** PASS — System remains descriptive/regulatory and bounded.
+## RL-5 — Endgame Choice
+The question becomes whether Luck can remain an acknowledged exception without being rewritten into a native role.
 
-**Great Design compatibility:** PASS — not a person, god, narrator, or direct summoner.
+# 7. Volume 1 Mystery Deployment
 
-**Character compatibility:** PASS — Red Jackal's agency, anti-villain identity, close-third characterization, and fear of imposed roles are reinforced rather than overwritten.
+Greywake may develop:
+- M-002 strongly;
+- M-007 only through observed coincidence and theories;
+- bounded historical/mystery hints already planted.
 
-**World compatibility:** PASS — Ashfall Belt, Night Seam, Quiet Registration, Ledger, Ash Choir, Daughters of the Last Bell, and anomaly history receive connected writer truth without creating destination stories.
-
-**Foreshadowing:** PASS — F-001 through F-020 are PLANNED — NOT YET PLANTED.
-
-**Knowledge separation:** PASS — writer, reader, Red Jackal, faction, and false-belief layers are distinct.
-
-**Scope control:** PASS — no destination order, volume plan, chapter plan, scene plan, or manuscript prose is created here.
-
-
-# 11. Volume 1 Mystery Deployment — Greywake Arc
-
-**Status:** PLANNING ASSIGNMENT ONLY — NO F-ID PLANTED
-
-The approved Greywake architecture may use only the following mystery scope:
-
-## M-002 — Why Is Everything About Him UNDEFINED?
-
-**Deployment:** CENTRAL EARLY MYSTERY.
-
-Allowed:
-- repeated appraisal failure;
-- physical measurements succeeding while identity data fails;
-- expert recognition that the data is absent rather than hidden.
-
-Not allowed:
-- native causal-root explanation;
-- true Exterior Needle/continuity explanation.
-
-## M-005 — Why Can He Regenerate?
-
-**Deployment:** OBSERVATIONAL ONLY.
-
-Allowed:
-- abnormal recovery;
-- genuine pain and visible injury;
-- healer observation that it does not match ordinary healing;
-- the distinction between pain and actual loss of raw capability.
-
-Not allowed:
-- self-model mechanism;
-- connection to Play Logic writer truth.
-
-## M-007 — How Does Fate Treat Him?
-
-**Deployment:** VERY LIGHT TONAL HINT ONLY.
-
-Allowed:
-- consequences seeming to reorganize after he disrupts an expected situation.
-
-Not allowed:
-- technical Fate explanation;
-- causal-wake terminology in-character;
-- native backward-thread truth.
-
-## Selected Foreshadowing Candidates
-
-### F-001 — Independent Appraisals Fail Consistently
-**Greywake Planning:** SELECTED.  
-**Status:** PLANNED — NOT YET PLANTED.
-
-### F-002 — Physical Data Without Identity Data
-**Greywake Planning:** SELECTED.  
-**Status:** PLANNED — NOT YET PLANTED.
-
-### F-003 — Healing Magic Encounters an Already-Correcting Body
-**Greywake Planning:** SELECTED.  
-**Status:** PLANNED — NOT YET PLANTED.
-
-### F-004 — Play Logic Follows Meaning More Than Spell Grammar
-**Greywake Planning:** SELECTED.  
-**Status:** PLANNED — NOT YET PLANTED.
-
-## Protected During Volume 1
-
-Do not explicitly reveal:
-- M-001 arrival cause;
-- M-003 far Soul Drift truth;
-- M-004 writer-truth Play Logic origin;
-- M-006 Fourth-Wall Pause metaphysical explanation;
-- M-008 Great Design;
-- M-009 full Eidrathi / First Severance truth;
-- M-010 Savael;
-- M-011 deep Quiet Registration truth;
-- M-012 Exception Covenant.
-
-No F-ID may change to PLANTED until actual manuscript prose contains the approved setup.
-
-
-# 12. Greywake Chapter-Roadmap Foreshadowing Placement
-
-**Scope:** Planning locations only. No manuscript exists.
-
-| F-ID | Planned Greywake Chapter | Status |
-|---|---:|---|
-| F-001 | CH-002 | PLANTED — CH-002 |
-| F-002 | CH-003 | PLANNED — NOT YET PLANTED |
-| F-004 | CH-005 | PLANNED — NOT YET PLANTED |
-| F-003 | CH-007 | PLANNED — NOT YET PLANTED |
-
-These chapter assignments identify intended setup locations for future scene/manuscript work.
-
-They do **not** mean the clue has occurred.
-
-A clue becomes PLANTED only after approved manuscript prose contains the actual setup.
-
-
-
-# 13. CH-002 F-001 Planting Record
-
-**Chapter:** CH-002 — Undefined  
-**Status:** PLANTED — GATE 9 PASS
-
-F-001 is planned through two distinct standard interfaces:
-
-- **SC-002-02 — Gate Registry Seal:** System Recognition FAILED / World Registry NO RECORD.
-- **SC-002-03 — Certified Identity Slate:** normal identity fields return UNDEFINED / UNAVAILABLE and registry relations remain absent.
-
-These are independent institutional interfaces with different intake purposes.
-
-This chapter architecture must not perform the physical-measurement contrast reserved for F-002.
-
-**F-001 Status: PLANTED — CH-002**
-
-Approved manuscript evidence exists in `manuscript/CH002-UNDEFINED.md` and passed `qa/CH-002-GATE-9-CHAPTER-QA.md`.
-
-
-
-# 14. CH-003 F-002 Planting Record
-
-**Chapter:** CH-003 — The Things They Can Measure  
-**Status:** PLANTED — GATE 9 PASS
-
-F-002 is planned through three complementary components:
-
-- **SC-003-02 — Physical Facts:** calibrated mass, temperature, visible wound state, and material presence return usable physical observations.
-- **SC-003-03 — The Mana Still Touches Me:** a standardized mana pulse produces measurable physical mana interaction while System MP remains undefined.
-- **SC-003-04 — What the Record Refuses to Say:** a controlled identity re-check still returns the locked UNDEFINED / UNAVAILABLE / NO RECORD state after the physical instruments have worked.
-
-This is a contrast between measurable physical existence and absent System identity data.
-
-It must not explain the cause.
-
-**F-002 Status: PLANTED — CH-003**
-
-Status changed after approved CH-003 manuscript prose contained the clue and passed Gate 9.
-
-
-
-# CH-005 F-004 Planting Record
-
-**Chapter:** CH-005 — A Better Hammer  
-**Status:** PLANTED — GATE 9 PASS
-
-F-004 is planned through two required components:
-
-- **SC-005-03 — A Hammer, Technically:** Red Jackal intentionally manifests a technically valid but functionally poor hammer without normal spell construction after framing the need only as “a hammer.”
-- **SC-005-04 — A Better Hammer:** Red Jackal reframes the need as a clear functional concept; the resulting manifestation changes materially and becomes useful for driving the bridge brace-pin. Its oversized form demonstrates interpretation/framing behavior, and Red later dismisses it by choice.
-
-The clue must support:
-
-**meaning / functional framing matters more than conventional spell grammar.**
-
-It must not explain why.
-
-**F-004 Status: PLANTED — CH-005**
-
-Status changed after approved CH-005 manuscript prose contained both components and passed Gate 9.
-
-
-
-# CH-007 F-003 Planting Record
-
-**Chapter:** CH-007 — You Should Be Dead  
-**Status:** PLANTED — GATE 9 PASS
-
-F-003 is planned through two required components:
-
-- **SC-007-02 / SC-007-03 — Severe Injury and Autonomous Correction:** Red Jackal suffers life-threatening physical trauma and his body begins correcting the damage before healer intervention. The process is genuinely painful, but the pain does not establish a raw-power ceiling.
-- **SC-007-04 — Healing Magic Encounters an Already-Correcting Body:** Sela demonstrates normal trauma care/healing on an ordinary patient, then observes that Red Jackal's wound is already changing under its own process. A cautious standard healing/diagnostic technique does not behave as it would on a normal untreated wound.
-
-The clue must support:
-
-**Red Jackal's regeneration is not behaving like ordinary conventional healing magic.**
-
-It must not explain why.
-
-**F-003 Status: PLANTED — CH-007**
-
-Status changed after approved CH-007 manuscript prose contained both components and passed Gate 9.
-
-
-# 15. Volume 2 Mystery Deployment — Merrowgate Arc
-
-**Status:** GATE 7 ROADMAP LOCKED — NO NEW F-ID PLANTED
-
-## M-002 — Why Is Everything About Him UNDEFINED?
-
-**Deployment:** CROSS-JURISDICTIONAL REINFORCEMENT.
-
-Allowed:
-- Merrowgate verification processes independently fail to produce a valid native identity for Red Jackal;
-- physical presence and practical liability may still be acknowledged;
-- different interfaces may present the failure differently while agreeing that no valid identity record exists.
-
-Not allowed:
-- soul-registry origin proof;
-- continuity-translocation explanation;
-- Exterior Needle explanation;
+Greywake may not reveal:
+- exact Soul Drift cause/mechanism;
 - Savael;
-- Great Design cause.
+- full Great Design;
+- full First Severance;
+- Earth explosion cause.
 
-## M-011 — What Was the Quiet Registration?
+# 8. Volume 2 Mystery Deployment
 
-**Deployment:** BOUNDED HISTORICAL SURFACE ONLY.
+Merrowgate may develop:
+- M-002 through cross-jurisdictional failure;
+- M-011 through bounded historical terminology;
+- F-010 in CH038 after manuscript QA.
 
-Allowed:
-- old technical or trade material uses terminology inconsistent with modern System-standard language;
-- characters may interpret it as obsolete scholarly/commercial vocabulary.
+Merrowgate may not use old removed powers as mystery evidence.
 
-Not allowed:
-- proof of the full synchronization history;
-- proof that the World System was engineered at the writer-truth level;
-- protected Great Design conclusions.
+# 9. Mystery QA
 
-## Selected Foreshadowing Candidate
-
-### F-010 — Quiet Registration Records Use Older Terminology
-
-**Merrowgate Planning:** SELECTED — CH-038 — Old Words, New Ledger.  
-**Status:** PLANNED — NOT YET PLANTED.
-
-Gate 7 has assigned CH-038 as the planned location. The clue remains unplanted until actual manuscript prose contains the approved setup and Gate 9 verifies it.
-
-No other new F-ID is authorized by Volume 2 Gate 6.
-
-Previously planted F-001 through F-004 remain canon and may be naturally reinforced without changing their planting status.
+Fail if:
+- a retired mystery is treated as active;
+- Luck consciously discovers Fortune Distortion;
+- a local expert gains protected writer truth without evidence;
+- mystery is used to excuse unclear causality;
+- a planted clue contradicts current manuscript events;
+- a historical draft name/power is reintroduced as current canon.

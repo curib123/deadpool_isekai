@@ -1,355 +1,241 @@
 # Mystery Knowledge State
 
-**Owners:** A100 Continuity Director + A102 Knowledge-State Editor  
-**Phase:** 3 — Mystery Foundation  
-**Status:** CANON SUPPORT RECORD — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FOURTH-WALL-PAUSE SYNCHRONIZED  
-**Revalidated:** 2026-09-26
+**Status:** CURRENT CANON SUPPORT RECORD — 2026-10-03  
+**Authority:** `mysteries/MYSTERY-BIBLE.md`  
+**Structural authority:** `planning/LUCK-EVERHART-STRUCTURAL-STORY-BIBLE.md`
 
-This file tracks who is allowed to know long-term mystery information.
+This file tracks who may know long-horizon mystery information.
 
-Authoritative writer truth:
-- `mysteries/MYSTERY-BIBLE.md`
-- `planning/RED-JACKAL-SOUL-DRIFT-MASTER-RETCON.md`
-- `planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md`
-- `series/SERIES-CONSTITUTION.md`
-
-If an older file says Savael, a god, the Exterior Needle, Fate, or the World System deliberately brought Red to Veyr, that statement is superseded.
+Any older Red Jackal, Play Logic, supernatural regeneration, Fourth-Wall Pause, manifestation, raw-power, or conscious-luck knowledge state is superseded.
 
 # Knowledge Rules
 
-1. A character cannot act on writer truth unless the knowledge path is explicitly earned.
-2. Writer truth is never automatically narration truth.
-3. Canon Red prose is **distant third-person limited**; Red remains the focal character but not the narrator.
-4. Red may narrate only what he perceives, remembers, guesses, misunderstands, invents, or chooses to tell.
-5. Native factions may possess fragments, evidence, or false models without possessing the correct explanation.
-6. A genuine direct reader/audience address triggers **Fourth-Wall Pause from CH-001 onward**.
-7. Native characters do not remember the pause because no Veyran time elapses for them.
-8. Red knows his powers do impossible things but does not begin with their metaphysical explanation or true upper ceiling.
-9. Savael and the Exterior Needle are later mystery material and are **not Red's summoning mechanism**.
-10. Arc 1 may establish observable anomaly evidence without solving the protected cosmology.
+1. A character cannot act on writer truth without an earned knowledge path.
+2. Writer truth is not automatically narration truth.
+3. Current canon prose is distant third-person limited centered on Luck.
+4. Luck never correctly identifies Fortune Distortion as his own supernatural power.
+5. Luck may remember theories and evidence without accepting unsupported mechanisms.
+6. Native factions may hold fragments or false models.
+7. Time does not stop for Luck's theatrical asides.
+8. Luck has no supernatural regeneration or self-restoration.
+9. Savael, the Exterior Needle, Fate, the World System, and the Great Design did not deliberately summon Luck.
+10. Volume 1 may establish anomaly evidence without solving protected cosmology.
 
-# KNOW-M001 — Who Brought Red Jackal to Veyr?
+# KNOW-M001 — Who Brought Luck Everhart to Veyr?
 
-**Writer Truth:** Nobody deliberately brought him.
+**Writer Truth:** Nobody deliberately brought him. A rare natural far Soul Drift follows his death in the Earth explosion.
 
-Evan Calder dies during a mysterious Earth explosion. A rare natural far Soul Drift carries his dislocated soul across realities and into Veyr.
+**Luck Baseline:**
+- remembers white light/heat/explosion fragments;
+- knows he woke in an unknown world;
+- cannot recover a reliable Earth identity;
+- has no evidence of a summoner.
 
-**Red Baseline:**
-- remembers fragmentary white heat/explosion residue;
-- knows he woke in another world;
-- has damaged autobiographical memory;
-- does not know the technical term Soul Drift at the start;
-- has no evidence that a god, System, Savael, or another person selected him.
+**Reader Baseline:** same observable facts unless a later authorized reveal expands them.
 
-**Reader Baseline:** Same observable facts as Red unless a later authorized reveal expands them.
+**Greywake Cast:** no origin truth.
 
-**Maelis / Greywake:** No origin knowledge.
+**Savael:** not responsible; may learn of Luck later.
 
-**Savael:** Does not cause Red's arrival. Savael may learn of Red later.
+**False beliefs allowed:** divine summoning, chosen hero, curse, System accident, Savael/Exterior Needle involvement.
 
-**False beliefs allowed in-world:**
-- divine summoning;
-- chosen hero;
-- System accident;
-- curse;
-- Savael/Exterior Needle involvement;
-- deliberate importation.
+# KNOW-M002 — Why Is Everything About Luck UNDEFINED?
 
-**Unlock path:** M-001 reveal ladder.
+**Writer Truth:** no valid native causal, soul-registry, lineage, Fate, or progression root exists from which the System can construct normal identity fields.
 
----
+**Luck Baseline:** repeated institutional interfaces cannot classify him.
 
-# KNOW-M002 — Why Is Everything About Him UNDEFINED?
+**Maelis:** may conclude the failure is consistent and exceeds ordinary registration corruption.
 
-**Writer Truth:** Veyr lacks the native causal, soul-registry, racial, Fate, and progression roots required to construct a normal identity for Red.
+**Ledger/registry institutions:** may know partial historical exceptions but no exact modern equivalent.
 
-**Red Baseline:** Knows repeated interfaces return UNDEFINED / NO RECORD / FAILED / UNAVAILABLE.
+**General Public:** may theorize hidden class, curse, divine exception, fraud, monster, or anti-appraisal.
 
-**Maelis:** By direct evidence may conclude the failure exceeds normal anti-appraisal or ordinary registration corruption.
+**Forbidden early conclusion:** “his level is too high to display.”
 
-**Ledger:** May possess partial historic anomaly records but no equivalent complete case.
+# KNOW-M003 — Was Luck Reincarnated Normally?
 
-**General Public:** May interpret him through curse, fraud, monster, divine exception, artifact, or hidden-class theories.
+**Writer Truth:** no. He crossed realities through far Soul Drift after death.
 
-**Forbidden early conclusion:** "His level is too high to display."
+**Luck Baseline:** may use “reincarnation” or “another world” casually but does not know the technical mechanism.
 
-**Unlock path:** M-002.
+**Soul specialists:** may later identify missing normal reincarnation/registry signatures.
 
----
+**Religions:** may offer competing explanations.
 
-# KNOW-M003 — Was Red Reincarnated Normally?
+# KNOW-M004 — What Is Fortune Distortion?
 
-**Writer Truth:** No.
+**Writer Truth:** passive probability distortion around Luck's causal involvement; his only supernatural power.
 
-Red crosses realities through natural far Soul Drift after death and arrives without passing through a normal Veyran reincarnation/registry route.
+**Luck Baseline:**
+- notices good timing, slips, failures, arrivals, and coincidences;
+- explains incidents individually;
+- sometimes accepts credit for the impressive interpretation;
+- never concludes “probability distortion is my power.”
 
-**Red Baseline:** Uses ordinary isekai/reincarnation language casually because he lacks the technical answer.
+**Reader:** may recognize the pattern much earlier.
 
-**Soul specialists:** May later identify missing normal reincarnation signatures.
+**Maelis:** may support a statistical anomaly theory.
 
-**Religions:** May offer competing incorrect explanations.
+**Tavian:** may support a field-causality anomaly theory.
 
-**Forbidden early knowledge:** No ordinary modern character may state "far Soul Drift" or "continuity translocation" as confirmed fact before evidence supports it.
+**Forbidden:** no character may prove Luck consciously controls exact outcomes without a future explicit canon change.
 
-**Unlock path:** M-003.
+# KNOW-M005 — Why Does Luck Survive So Much?
 
----
+**Writer Truth:** Fortune Distortion often interrupts lethal chains before completion, but Luck is physically mortal and does not regenerate supernaturally.
 
-# KNOW-M004 — Where Did Play Logic Come From?
+**Luck Baseline:** knows survival has repeatedly been close.
 
-**Writer Truth:** Play Logic is reality negotiation produced by Red's external Soul-Drift identity occupying Veyr without a normal native interpretive definition.
+**Sela Arven:** directly observes ordinary wounds, stitches, bruising, bleeding, treatment, and recovery. She has no evidence of supernatural regeneration.
 
-His imagination can substitute for the missing definition layer and force reality to negotiate with what he asserts.
+**Other witnesses:** may falsely infer immortality, hidden healing, divine protection, or impossible durability.
 
-There is no known intrinsic raw-power ceiling.
+**Hard limit:** existing damage remains until ordinary recovery or legitimate in-world treatment.
 
-**Red Baseline:**
-- knows impossible things can happen when he wants/pictures them;
-- notices practical behavior when it becomes useful;
-- does not begin knowing the metaphysical cause;
-- does not care about systematically finding a maximum tier;
-- may invent fake explanations because they sound better.
+# KNOW-M006 — Why Is Luck Theatrical?
 
-**Maelis:** May observe that effects are nonstandard and not explained by normal class data.
+**Writer Truth:** personality and surviving cognitive/social habits.
 
-**Mages / specialists:** May observe mana or native matter reacting to the effects without proving mana is their source.
+**Luck Baseline:** fully knows he is performing socially.
 
-**Forbidden early knowledge:**
-- divine blessing as fact;
-- Savael gift as fact;
-- hidden class as fact;
-- reader belief as fuel;
-- staged power progression.
+**Observers:** may mistake pauses/lines for ritual, confidence, prophecy, hidden knowledge, or intimidation.
 
-**Unlock path:** M-004.
+**Hard limit:** no external audience mechanism and no time-stop.
 
----
+# KNOW-M007 — Fortune Distortion / Fate Interaction
 
-# KNOW-M005 — Why Can Red Regenerate?
+**Writer Truth:** separate systems. Fortune Distortion biases local possible outcomes. Fate reroutes future convergence around facts that already exist.
 
-**Writer Truth:** Red has no separate regeneration power. Play Logic automatically restores his body toward the persistent self-concept his foreign identity accepts as Red.
+**Luck Baseline:** no technical knowledge.
 
-**Red Baseline:** Knows damage has become unreliable and treats his body's impossible recovery as another Play Logic-like fact rather than a separate skill.
+**Fate specialists:** may later observe displaced convergence patterns.
 
-**Sela Arven:** In Arc 1 may directly observe:
-- autonomous correction before treatment;
-- wound boundaries changing during examination;
-- no normal external healing residue sufficient to explain the recovery.
+**General observers:** may infer prophecy, divine favor, perfect foresight, or strategic genius.
 
-She may reasonably call it abnormal healing or regeneration as an observational label, but that label is not writer truth.
+**Forbidden:** Fate immunity and conscious Fate commands.
 
-She cannot know the Soul-Drift root.
+# KNOW-M008 — Great Design
 
-**Nemi Thalen:** May later distinguish the process from conventional healing through direct specialist examination.
+**Writer Truth:** non-personal deep coherence architecture.
 
-**System experts:** May observe missing normal healing-skill signatures.
+**Luck Baseline:** unknown.
 
-**Forbidden early knowledge:** Nobody begins knowing that apparent regeneration is automatic Play Logic acting on Red's persistent self-concept.
+**General Public:** no technical baseline.
 
-**Unlock path:** M-005.
+**Religions:** may hold symbolic analogues.
 
----
+**High specialists/gods:** may perceive fragments without omniscience.
 
-# KNOW-M006 — Who Is Red Talking To When Time Stops?
-
-**Writer Truth:** Genuine reader/audience address activates a Soul-Drift exterior relation.
-
-Local Veyran causal time pauses while Red directly addresses the external audience.
-
-**Available from:** CH-001 onward. It is not a later unlock.
-
-**Red Baseline:**
-- directly talks to the reader/audience from the opening;
-- notices or accepts that Veyran motion freezes during genuine address;
-- treats the effect as part of his weird normal long before he understands why it exists;
-- does not know the full Soul-Drift/exterior metaphysics.
-
-**Reader Baseline:** Sees the pause happen directly.
-
-**Native Characters:** Experience no elapsed local time and therefore do not remember an interruption.
-
-**Maelis / Morn / ordinary observers:** No baseline concept of an external audience.
-
-**Specialized future instruments:** May eventually detect discontinuities around pause boundaries without perceiving the reader.
-
-**Forbidden interpretations as fact:**
-- invisible familiar;
-- ordinary time spell;
-- reader worship;
-- audience belief as fuel;
-- System-granted skill.
-
-**Unlock path:** M-006.
-
----
-
-# KNOW-M007 — How Does Fate Treat Red?
-
-**Writer Truth:** Red has no native backward destiny track. Fate can reroute around the causal wake created after his arrival but does not possess a native pre-arrival destiny thread for him.
-
-**Red Baseline:** May joke about plot armor, flags, tropes, or "the plot." He does not know technical Fate mechanics.
-
-**Fate specialists:** May later observe displaced convergence patterns.
-
-**Aren Halvek:** No specialist knowledge by default.
-
-**Pell:** May interpret correction patterns ideologically rather than accurately.
-
-**Forbidden conclusion:** Red is not automatically immune to every Fate effect.
-
-**Unlock path:** M-007.
-
----
-
-
-# KNOW-M007 — Jackal Luck / Fate Interaction
-
-**Writer Truth:** Jackal Luck is Red's passive probability-distortion power. It biases nearby possible outcomes around his external causal presence. Native Fate remains a separate world mechanism that reroutes surviving objectives around the facts Red creates.
-
-**Red Baseline:**
-- notices suspiciously good timing;
-- often assumes the universe has taste;
-- may take credit after the coincidence happens;
-- does not know the metaphysical boundary between Luck and Fate.
-
-**Observers may falsely infer:**
-- perfect foresight;
-- prophecy;
-- hidden information;
-- divine favor;
-- strategic genius.
-
-**Forbidden early conclusion:** Red does not consciously control exact probabilities or issue commands to Fate.
-
-**Unlock path:** M-007.
-
-# KNOW-M008 — What Is the Great Design?
-
-**Writer Truth:** A non-personal deep coherence architecture preserving long-horizon world consistency.
-
-**Red Baseline:** Unknown. He may jokingly call coincidences "the plot" without knowing this technical truth.
-
-**General Public:** Unknown as a technical concept.
-
-**Religions:** May hold symbolic doctrines resembling cosmic order.
-
-**Gods / high experts:** May perceive fragments/effects without omniscience.
-
-**Pell:** Holds an incomplete ideological interpretation.
-
-**Forbidden explanation:** The Great Design is not a literal author, speaking mastermind, supreme god, or Red's summoner.
-
-**Unlock path:** M-008.
-
----
+**Forbidden:** Great Design as literal author, summoner, or speaking mastermind.
 
 # KNOW-M009 — Eidrathi / Exterior Needle / First Severance
 
-**Writer Truth:** The Eidrathi Continuance studied world boundaries, built the Exterior Needle, and caused the First Severance through artificial boundary experimentation.
+**Writer Truth:** Eidrathi boundary research caused a historical boundary disaster; the Exterior Needle is an artificial boundary instrument.
 
-**Critical retcon boundary:** The Exterior Needle is an ancient artificial analogue to cross-reality boundary manipulation. It did **not** bring Red to Veyr.
+**Critical boundary:** it did not bring Luck to Veyr.
 
-**Red Baseline:** None.
+**Luck Baseline:** none.
 
-**Ledger:** May possess contradictory later anomaly records.
+**Ancient-research factions:** may hold fragments.
 
-**Ash Choir:** Preserves distorted cultural fragments.
+# KNOW-M010 — Savael-of-the-Index
 
-**Daughters of the Last Bell / Edrin Marr:** May possess evidence that accepted history/geography is incomplete.
+**Writer Truth:** surviving Eidrathi archivist intelligence that becomes interested in Luck after arrival.
 
-**Savael:** Holds incomplete ancient-era knowledge.
-
-**Unlock path:** M-009.
-
----
-
-# KNOW-M010 — Who Is Savael-of-the-Index?
-
-**Writer Truth:** Savael is a surviving distributed Eidrathi archivist-intelligence who learns of Red **after** Red's natural arrival and becomes interested in exploiting or reproducing the anomaly.
-
-**Savael did not:**
+**Savael does not:**
 - cause the Earth explosion;
-- choose Evan;
-- summon Red;
-- transport him through the Exterior Needle;
-- grant Play Logic;
-- grant regeneration;
-- create Fourth-Wall Pause.
+- choose Luck;
+- summon Luck;
+- grant Fortune Distortion;
+- create the World System.
 
-**Red Baseline:** No awareness.
+**Luck Baseline:** no awareness until earned.
 
-**Modern factions:** No initial knowledge that Savael is active.
-
-**Ash Choir:** May preserve corrupted title/name fragments without understanding identity.
-
-**Forbidden early reveal:** No Arc 1 local antagonist may secretly work for Savael without later explicit canon authorization.
-
-**Unlock path:** M-010.
-
----
+**Modern factions:** no default knowledge that Savael is active.
 
 # KNOW-M011 — Quiet Registration
 
-**Writer Truth:** Reliable modern World-System registration emerged through synchronized post-Severance registry frameworks rather than direct creation by one god.
+**Writer Truth:** modern registration reliability emerged through historical standardization of older frameworks.
 
-**Ledger:** Has institutional fragments but not full ancient history.
+**Luck Baseline:** no initial knowledge and little reason to care until records matter.
 
-**Religions:** Hold differing founder explanations.
+**Ledger/System scholars:** may know terminology changed historically.
 
-**System scholars:** Know standards/interfaces changed historically.
+**Merrowgate boundary:** F-010 may appear as bounded older terminology at CH038 or later; it may not solve the whole anomaly.
 
-**Red:** No baseline knowledge and little initial interest in the historical mechanism.
+# KNOW-M012 — Definition / Exception
 
-**Unlock path:** M-011.
+**Writer Truth:** normal retroactive registration would require history the System does not possess. A lawful social/legal exception may be possible without metaphysical normalization.
 
----
+**Luck Baseline:** wants practical autonomy more than metaphysical classification.
 
-# KNOW-M012 — Definition / Exception Covenant
+**Merrowgate:** local witnessed-contract recognition may accept the declared name without solving System identity.
 
-**Writer Truth:** Forced assimilation could define Red only by rewriting part of his foreign continuity. A lawful Exception Covenant is theoretically possible as a new compatible rule.
+**Hard limit:** no “suddenly the System recognizes him normally” shortcut.
 
-**Red Baseline:** Unknown.
+# Greywake End-State Knowledge
 
-**System experts:** May eventually propose normalization without understanding its full personal cost.
+By CH026:
 
-**Savael:** May have opinions about exploitation/assimilation but does not control the Great Design.
+## Luck knows
+- his chosen name is Luck Everhart;
+- multiple independent interfaces fail to classify him;
+- physical measurements work;
+- Maelis believes the coincidence density around him is abnormal;
+- Tavian believes field timing around him is no longer normal;
+- Greywake's lure network was deliberate;
+- his own premature intervention contributed to backflow;
+- reputation creates obligations and false expectations.
 
-**Great Design:** Not a speaking negotiator.
+Luck does **not** know:
+- Fortune Distortion as his personal supernatural ability;
+- technical far Soul Drift truth;
+- Great Design truth;
+- Savael;
+- exact Earth explosion cause.
 
-**Forbidden early knowledge:** No character may present the Exception Covenant as an established solution before the theoretical basis is earned.
+## Maelis knows
+- registry failure is repeatable;
+- physical identity and registry identity disagree;
+- coincidence/event correlation around Luck is unusual;
+- mechanism and conscious control are unproven.
 
-**Unlock path:** M-012.
+## Tavian knows
+- several causal chains around Luck are unusually well-timed;
+- Luck is physically vulnerable;
+- Luck can be reckless;
+- ordinary mechanics still explain each individual event.
 
-# Arc 1 Knowledge Boundary
+## Sela knows
+- Luck suffers ordinary injury and requires treatment;
+- no regeneration power has been observed.
 
-Greywake / CH-001→CH-026 may establish only the approved early evidence:
+## Brynn knows
+- Luck is useful, unpredictable, and not under Greywake ownership;
+- reputation is not the same as intent.
 
-- CH-001 — mysterious explosion residue; impossible manifestation; regeneration; genuine Fourth-Wall Pause;
-- CH-002 — F-001 independent appraisals fail consistently;
-- CH-003 — F-002 physical measurability without identity data;
-- CH-005 — F-004 Play Logic responds to asserted role/meaning;
-- CH-007 — F-003 autonomous regeneration conflicts with ordinary healing assumptions;
-- later Greywake chapters — local migration/lure/Hesk mystery only.
+# Merrowgate Opening Boundary — CH027
 
-Arc 1 does **not** reveal:
-- the technical name/cause of Soul Drift to Red;
-- the Earth explosion cause;
-- Eidrathi history;
-- the Exterior Needle;
-- active Savael;
-- Great Design mechanics;
-- Exception Covenant;
-- full Play Logic metaphysics;
-- full regeneration metaphysics.
+Luck arrives with:
+- no normal System identity;
+- finite money;
+- healing ordinary Greywake injuries;
+- contradictory rumors;
+- no conscious supernatural model.
+
+He does not arrive with:
+- regeneration;
+- Play Logic;
+- time-stop;
+- additional powers;
+- technical cosmology.
 
 # Knowledge-State QA
 
-- all 12 M-IDs have explicit knowledge partitions;
-- current origin is natural far Soul Drift;
-- Savael/Exterior Needle summoning is explicitly prohibited;
-- distant third-person limited Red focalization is locked;
-- Fourth-Wall Pause is available from CH-001;
-- Red does not begin with writer-only metaphysical truth;
-- native characters cannot remember genuine reader-address pauses;
-- Maelis, Tavian, Brynn, Sela, Kellan, Jessa and Hesk remain within Arc 1 knowledge limits;
-- no Arc 1 manuscript leak was found during the 2026-09-26 recheck.
+PASS when:
+- characters only use earned information;
+- Luck remembers consequences without gaining forbidden writer truth;
+- theories remain labeled as theories;
+- supporting characters can be correct about mechanics while wrong about Luck's intention;
+- mystery escalation changes knowledge, not Luck's power set.

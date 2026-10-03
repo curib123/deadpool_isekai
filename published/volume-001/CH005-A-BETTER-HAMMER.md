@@ -1,8 +1,8 @@
 # Chapter 5 — A Better Hammer
 
-The Road Guild yard was already loud when Rook arrived.
+The Road Guild yard was already loud when Luck arrived.
 
-A wagon stood near the gate with timber stacked along one side. Workers loaded iron clamps, rope, wedges, and two heavy mauls into the back while a foreman argued with a clerk about whether a damaged bridge counted as urgent or merely inconvenient. Rook stopped beside the wagon.
+A wagon stood near the gate with timber stacked along one side. Workers loaded iron clamps, rope, wedges, and two heavy mauls into the back while a foreman argued with a clerk about whether a damaged bridge counted as urgent or merely inconvenient. Luck stopped beside the wagon.
 
 "Which answer pays faster?"
 
@@ -12,21 +12,21 @@ The foreman looked at him.
 
 "Then I support urgent."
 
-The man stared for a moment, decided Rook was not worth the effort, and pointed at the rear wheel.
+The man stared for a moment, decided Luck was not worth the effort, and pointed at the rear wheel.
 
 "Get in."
 
-Rook climbed aboard.
+Luck climbed aboard.
 
 The job was simple on paper. A bridge south of Greywake had taken damage from runoff. One brace had shifted, two deck boards had cracked, and a loaded caravan had been forced to turn around before the outer edge failed.
 
-Simple jobs, Rook was learning, were usually just complicated jobs that had not yet introduced themselves. The wagon reached the bridge before noon.
+Simple jobs, Luck was learning, were usually just complicated jobs that had not yet introduced themselves. The wagon reached the bridge before noon.
 
 The structure crossed a narrow ravine where rainwater had cut deeply into the road. One side of the approach had softened enough that the outer support leaned toward open air. The workers moved immediately.
 
-Nobody asked Rook to lead. That was comforting.
+Nobody asked Luck to lead. That was comforting.
 
-The foreman assigned him to carrying clamps and holding whatever someone more qualified told him to hold. Rook discovered that manual labor remained disappointingly immune to mystery.
+The foreman assigned him to carrying clamps and holding whatever someone more qualified told him to hold. Luck discovered that manual labor remained disappointingly immune to mystery.
 
 For almost an hour, nothing unusual happened. Then the main maul broke.
 
@@ -34,7 +34,7 @@ The worker swinging it brought the head down on an iron pin. The impact drove th
 
 The hammer head split at the socket. One half dropped into the mud. The other spun away, bounced once off the bridge rail, and vanished into the ravine.
 
-Everyone stopped. The foreman closed his eyes. Rook looked down into the gap.
+Everyone stopped. The foreman closed his eyes. Luck looked down into the gap.
 
 "That seemed expensive."
 
@@ -46,7 +46,7 @@ The smaller maul came out of the wagon. The foreman tested it once, then shook h
 
 "Hit harder."
 
-The foreman looked at him. Rook lifted both hands.
+The foreman looked at him. Luck lifted both hands.
 
 "Contribution withdrawn."
 
@@ -56,9 +56,9 @@ The smaller maul moved the pin, but not enough. The brace had to be seated befor
 
 "We need more weight."
 
-Rook looked around. There were several obvious answers. None of them were good.
+Luck looked around. There were several obvious answers. None of them were good.
 
-A flat stone beside the drainage edge was too wide to swing safely. An iron wheel clamp had enough mass but no handle. One of the wagon jacks might work as a striking tool if everyone involved stopped caring about the wagon jack. Rook pointed at the clamp.
+A flat stone beside the drainage edge was too wide to swing safely. An iron wheel clamp had enough mass but no handle. One of the wagon jacks might work as a striking tool if everyone involved stopped caring about the wagon jack. Luck pointed at the clamp.
 
 "That."
 
@@ -74,11 +74,11 @@ The foreman followed his finger.
 
 "No."
 
-Rook nodded toward the smaller maul.
+Luck nodded toward the smaller maul.
 
 "What if you add the clamp to the head?"
 
-The foreman stared at him. Rook stared back. He had no engineering theory behind the suggestion.
+The foreman stared at him. Luck stared back. He had no engineering theory behind the suggestion.
 
 The clamp was heavy. The hammer was not heavy enough. This felt like arithmetic. One worker frowned.
 
@@ -88,13 +88,13 @@ Another said, "It'll shift." The first worker looked at the clamp again.
 
 "Unless we seat it against the back."
 
-The foreman slowly turned toward them. Rook immediately recognized the expression of a man discovering that a stupid idea had become inconveniently discussable. Five minutes later, they had built the ugliest hammer Rook had ever seen.
+The foreman slowly turned toward them. Luck immediately recognized the expression of a man discovering that a stupid idea had become inconveniently discussable. Five minutes later, they had built the ugliest hammer Luck had ever seen.
 
 The iron clamp sat against the rear of the smaller maul's head, held in place by wire, two leather strips, and a wedge that technically belonged to another part of the bridge. The foreman tested the balance.
 
 "Terrible."
 
-Rook smiled.
+Luck smiled.
 
 "But?"
 
@@ -106,7 +106,7 @@ No but. Then thunder sounded in the distance. The foreman looked toward the road
 
 Two workers braced the timber. The foreman raised the modified maul. On the first swing, the clamp shifted half a finger.
 
-On the second, the wire tightened. On the third, the extra weight drove the iron pin almost flush. Everyone looked at it. Rook leaned against the rail.
+On the second, the wire tightened. On the third, the extra weight drove the iron pin almost flush. Everyone looked at it. Luck leaned against the rail.
 
 "Engineering."
 
@@ -120,13 +120,13 @@ A shout came from the road.
 
 One of the guards turned. Something large came out of the brush.
 
-The animal was smaller than the forest predator Rook had met on his first day, but not small enough to improve anyone's mood. It burst from the ditch near the waiting wagon, startled by the hammering and the approaching storm.
+The animal was smaller than the forest predator Luck had met on his first day, but not small enough to improve anyone's mood. It burst from the ditch near the waiting wagon, startled by the hammering and the approaching storm.
 
 The nearest horse panicked. Its harness jerked sideways. The wagon rolled. Straight toward the softened edge.
 
 "Wheel!" somebody shouted.
 
-Workers scattered. The driver hauled on the reins, but the horse was already twisting away from the animal. Rook moved before thinking.
+Workers scattered. The driver hauled on the reins, but the horse was already twisting away from the animal. Luck moved before thinking.
 
 He grabbed the nearest rope. Wrong rope. It was attached to the stack of replacement boards.
 
@@ -138,21 +138,21 @@ The wheel climbed onto it. For half a second, that looked worse. Then the board 
 
 The broken half kicked upward under the axle and jammed between the wheel and the road edge. The wagon stopped. Silence.
 
-Even the horse seemed surprised. The predator near the ditch changed its mind about the entire situation and ran back into the trees as both guards advanced on it. Rook remained holding the useless rope.
+Even the horse seemed surprised. The predator near the ditch changed its mind about the entire situation and ran back into the trees as both guards advanced on it. Luck remained holding the useless rope.
 
-The foreman looked at the stopped wagon. Then at the broken board. Then at Rook.
+The foreman looked at the stopped wagon. Then at the broken board. Then at Luck.
 
-Rook looked down at the rope in his hands. He had absolutely not meant to do that. The driver climbed down slowly.
+Luck looked down at the rope in his hands. He had absolutely not meant to do that. The driver climbed down slowly.
 
 "You saw the wheel going?"
 
-Rook considered honesty. The foreman was still staring. Two workers were staring now.
+Luck considered honesty. The foreman was still staring. Two workers were staring now.
 
-The guard had turned around too. Rook released the rope.
+The guard had turned around too. Luck released the rope.
 
 "Obviously."
 
-The driver looked impressed. Rook hated how easy that had been. The foreman walked to the wheel and examined the broken plank wedged beneath the axle.
+The driver looked impressed. Luck hated how easy that had been. The foreman walked to the wheel and examined the broken plank wedged beneath the axle.
 
 "You dropped three boards to stop one wagon."
 
@@ -160,7 +160,7 @@ The driver looked impressed. Rook hated how easy that had been. The foreman walk
 
 "You pulled the wrong rope."
 
-Rook's expression did not move. The foreman narrowed his eyes. Rook waited.
+Luck's expression did not move. The foreman narrowed his eyes. Luck waited.
 
 The man looked at the wheel again. Then at the path the boards had taken through the mud. One worker spoke quietly.
 
@@ -170,11 +170,11 @@ Another nodded.
 
 "And if it slid under, the wheel would've gone over the edge."
 
-Rook kept his mouth shut. That was becoming an important skill. The foreman pointed at him.
+Luck kept his mouth shut. That was becoming an important skill. The foreman pointed at him.
 
 "You did not plan all of that."
 
-Rook gave him a calm look.
+Luck gave him a calm look.
 
 "Would answering improve the bridge?"
 
@@ -182,11 +182,11 @@ The foreman stared for another second. Then turned away.
 
 "Get the wagon blocked properly."
 
-Rook exhaled through his nose. Close enough.
+Luck exhaled through his nose. Close enough.
 
 The crew reset the wagon with actual wedges and returned to the brace. The modified hammer lasted long enough to finish the pin, then the wire snapped and the clamp dropped harmlessly into the mud.
 
-The foreman looked at the broken tool. Rook looked at him.
+The foreman looked at the broken tool. Luck looked at him.
 
 "A better hammer."
 
@@ -200,25 +200,25 @@ That was difficult to argue with. They replaced the damaged boards, reinforced t
 
 A second wagon crossed. Then a third. By the time the rain arrived, traffic was moving again.
 
-Nobody declared Rook a genius while the foreman was close enough to assign more work. Once the foreman moved away, the story gained confidence. On the ride back to Greywake, one worker sat across from him beneath the wagon cover.
+Nobody declared Luck a genius while the foreman was close enough to assign more work. Once the foreman moved away, the story gained confidence. On the ride back to Greywake, one worker sat across from him beneath the wagon cover.
 
 "You knew the board would catch the wheel?"
 
-Rook looked outside. Rain streaked across the road.
+Luck looked outside. Rain streaked across the road.
 
 "No."
 
-The worker waited. Rook glanced back.
+The worker waited. Luck glanced back.
 
 "It was going to catch something."
 
 The worker leaned forward. "You let the maul fail, used the spare because it gave you reach, then pulled the rope after the load shifted. If you'd pulled earlier, that board would have missed the wheel."
 
-Rook had pulled because the rope was the nearest thing he could hold while trying not to fall. He looked out at the rain so the worker would not see him sorting those two accounts.
+Luck had pulled because the rope was the nearest thing he could hold while trying not to fall. He looked out at the rain so the worker would not see him sorting those two accounts.
 
 "The timing matters," he said.
 
-The worker nodded gravely. At the next stop, he asked the foreman to put Rook on the difficult repairs. Rook heard that part and immediately regretted choosing such a useful sentence.
+The worker nodded gravely. At the next stop, he asked the foreman to put Luck on the difficult repairs. Luck heard that part and immediately regretted choosing such a useful sentence.
 
 At the Guild yard, the foreman submitted the completion report. The clerk counted the returned tools, paused over the broken maul, and sighed.
 
@@ -230,16 +230,16 @@ At the Guild yard, the foreman submitted the completion report. The clerk counte
 
 "Then ask a cheaper one."
 
-Rook received his pay. No glowing notification appeared. No hidden class awakened.
+Luck received his pay. No glowing notification appeared. No hidden class awakened.
 
 No ancient power announced itself. He had helped build an ugly hammer, pulled the wrong rope, and somehow stopped a wagon from falling into a ravine. That should have been the end of it.
 
-As Rook crossed the yard, he heard one of the workers telling a guard about the bridge. The story already sounded cleaner than reality. By the time Rook reached the gate, he had apparently calculated the wagon's angle before pulling the rope.
+As Luck crossed the yard, he heard one of the workers telling a guard about the bridge. The story already sounded cleaner than reality. By the time Luck reached the gate, he had apparently calculated the wagon's angle before pulling the rope.
 
-Rook stopped walking. He considered going back. Then he considered how much effort correcting everyone would require. He kept walking.
+Luck stopped walking. He considered going back. Then he considered how much effort correcting everyone would require. He kept walking.
 
 "Calculated," he muttered.
 
-A barrel rolled loose from a nearby stack, crossed directly behind him, and knocked over the same guard who had just repeated the story. Rook looked over his shoulder. The yard went quiet. He turned forward again.
+A barrel rolled loose from a nearby stack, crossed directly behind him, and knocked over the same guard who had just repeated the story. Luck looked over his shoulder. The yard went quiet. He turned forward again.
 
 "No comment."

@@ -1,65 +1,71 @@
 # Series Front-Matter Publication QA
 
-**Scope:** Public title, WebNovel synopsis, and optional prologue handling.  
-**Review Date:** 2026-09-25  
-**Status:** **PUBLISH-READY — PRIMARY WEBNOVEL FRONT-MATTER PACKAGE**
+**Scope:** public title, synopsis, and official opening sequence  
+**Review Date:** 2026-10-03  
+**Status:** **PASS — SINGLE-CHAPTER OPENING**
 
-## Public Title
+# Public Title
 
 **This Isekai Has a Bug. Unfortunately, It's Me.**
 
-- memorable / premise-forward — PASS
+- premise-forward — PASS
 - genre/tone compatible — PASS
 - no direct franchise branding — PASS
-- opening delivers the promised anomaly/comedy/isekai premise — PASS
 
-## Synopsis — Primary Storefront Copy
+# Synopsis
 
 **Publication Copy:** `published/SYNOPSIS.md`
 
-The synopsis was revised on 2026-09-25 into a shorter storefront version.
+The synopsis remains the storefront entry point.
 
-It now:
-- opens directly on Red's death / System anomaly;
-- gives the UNDEFINED / NO RECORD hook immediately;
-- establishes that Red is already overwhelmingly powerful;
-- establishes Veyr already has its own hero/story;
-- removes detailed Greywake and Merrowgate arc summaries;
-- ends on the core collision question.
+# Opening Decision
 
-- reader-facing format — PASS
-- mobile scan efficiency — PASS
-- premise clarity — PASS
-- protagonist clarity — PASS
-- power/anomaly promise — PASS
-- larger-story hook — PASS
-- protected mystery boundary — PASS
-- internal production metadata removed — PASS
+There is **no standalone prologue**.
 
-## Prologue — Optional / Not Primary Release
+The former prologue material has been merged into:
 
-**File retained:** `published/PROLOGUE-THE-WRONG-PERSON.md`
+**CH001 — Wrong Forest, Wrong World**
 
-The prologue remains a valid optional/bonus artifact, but it is **excluded from the primary WebNovel opening sequence**.
+Official public sequence:
 
-Reason:
-- it overlaps CH-001's explosion;
-- white transition;
-- missing-memory setup;
-- no-goddess/tutorial expectation;
-- first audience-address/time-stop behavior;
-- forest arrival.
+**Synopsis → CH001 → CH002 → CH003 → ...**
 
-Primary release therefore begins:
+CH001 now owns all opening material:
+- mysterious Earth explosion;
+- damaged autobiographical memory;
+- unnamed arrival in Veyr;
+- theatrical personality before fame;
+- first visible Fortune Distortion timing;
+- predator danger;
+- ordinary injury;
+- self-chosen Luck Everhart identity;
+- movement toward civilization.
 
-**Synopsis → CH-001 — Wrong Forest, Wrong World**
+# Duplication Check
 
-This avoids duplicate opening material while preserving the optional prologue for alternate editions or bonus use.
+PASS.
 
-## Decision
+No reader must experience the explosion/arrival twice.
 
-# PASS
+The deleted standalone prologue must not be restored as an optional bonus before CH001 without a new explicit author decision.
 
-The current primary WebNovel front-matter package is publication-ready.
+# Canon Check
 
-Publication correctness remains Gate 11 territory. Commercial reader-acquisition/retention readiness is separately governed by Gate 12.
+PASS.
+
+CH001 preserves:
+- distant third-person limited;
+- Fortune Distortion only;
+- physically mortal Luck;
+- no conscious luck control;
+- no regeneration;
+- no time-stop;
+- name chosen only after arrival and survival.
+
+# Decision
+
+**PASS — CURRENT FRONT-MATTER PACKAGE**
+
+Primary reading start is permanently:
+
+**Synopsis → CH001**

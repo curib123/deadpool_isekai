@@ -1,5 +1,20 @@
 # Volume 2 Architecture — Merrowgate Arc
 
+# CURRENT LUCK EVERHART CINEMATIC AUTHORITY — 2026-10-03
+
+This section supersedes **all conflicting historical text in this file**.
+
+- Protagonist: **Luck Everhart**.
+- POV: **distant third-person limited centered on Luck**.
+- Only supernatural power: **passive Fortune Distortion**.
+- No Play Logic, regeneration, time stop, matter creation, raw-power escalation, Stage progression, or conscious luck control.
+- Luck remains physically mortal and consequences persist.
+- Luck never correctly identifies Fortune Distortion as his personal supernatural ability.
+- Cinematic scene standard: clear staging, goal, obstacle, attempt, visible causal chain, meaningful change, and purposeful dialogue.
+- Luck's mysterious persona exists from the beginning; witness overanalysis must be evidence-based and must create downstream consequences.
+- Any conflicting legacy Red Jackal/first-person/power-display language below is retained only as historical planning context and is non-authoritative.
+
+
 **Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
 **Volume:** 2  
 **Destination:** DEST-002 — Merrowgate  

@@ -417,7 +417,7 @@ Maelis has mentors, Ledger rivals, family obligations, and professional ethics t
 ## Knowledge Boundary
 She knows System failures exist. She does not know the Great Design or Luck Everhart's true origin.
 
-# CHAR-003 — Tavian Luck
+# CHAR-003 — Tavian Rook
 
 **Species:** Human  
 **Age:** 31  
@@ -693,7 +693,7 @@ These fingerprints are mandatory whenever the character appears. They define **h
 **Pressure behavior:** becomes even more exact; protects chain of evidence and wording.  
 **Luck friction:** refuses to reward performance with the interpretation he wants.
 
-## Tavian Luck
+## Tavian Rook
 **Speech rhythm:** short operational statements; terrain, timing, movement, risk.  
 **Default move:** asks what the environment is doing before what people want it to mean.  
 **Humor:** rare, dry, usually accidental.  
@@ -1058,7 +1058,7 @@ PASS — no destination arc, volume, chapter, scene, or manuscript content creat
 
 **Boundary:** Maelis does not know Luck Everhart's true origin, Great Design truth, Savael, Exterior Needle, or the writer-truth mechanism behind Fortune Distortion.
 
-## CHAR-003 — Tavian Luck
+## CHAR-003 — Tavian Rook
 
 **Volume 1 Deployment:** APPROVED — Greywake Arc.
 

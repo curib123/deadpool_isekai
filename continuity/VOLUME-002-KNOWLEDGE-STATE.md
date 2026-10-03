@@ -1,5 +1,8 @@
 # Volume 2 Knowledge State — Merrowgate Arc
 
+> **CURRENT AUTHORITY — 2026-10-03:** `planning/LUCK-EVERHART-CINEMATIC-CANON.md` supersedes conflicting historical power/knowledge statements below. Luck Everhart is mortal, has passive Fortune Distortion only, does not regenerate, cannot create manifestations/constructs, and never correctly learns that supernatural luck is his power. Knowledge progression may cover events, institutions, rumors, and ordinary causal evidence, but never conscious mastery of Fortune Distortion.
+
+
 ## 2026-10-03 Luck Everhart Canon Override
 
 This override supersedes every conflicting power/POV instruction below. Luck Everhart is written in **distant third-person limited**. His only supernatural ability is **passive Fortune Distortion**: improbable but physically/socially possible causal chains. He has **no Play Logic, constructs, manifestations, raw-strength superpower, regeneration/self-restoration, Stage progression, time stop, or conscious probability control**. He remains mortal and injured consequences persist. Luck never correctly discovers Fortune Distortion as his personal supernatural power.

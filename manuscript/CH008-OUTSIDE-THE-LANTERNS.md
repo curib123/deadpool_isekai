@@ -7,9 +7,9 @@
 
 That was Kellan Dorr's first question.
 
-Not what happened on the north road. Not whether the rumors were true. Not why Tavian had apparently told half of Greywake that Rook Vane had survived a predator charge through a sequence of accidents that offended probability.
+Not what happened on the north road. Not whether the rumors were true. Not why Tavian had apparently told half of Greywake that Luck Everhart had survived a predator charge through a sequence of accidents that offended probability.
 
-Just whether he could lift. Rook touched the bandage beneath his shirt.
+Just whether he could lift. Luck touched the bandage beneath his shirt.
 
 "Light things."
 
@@ -17,7 +17,7 @@ Kellan looked at him.
 
 "Good. You can carry light things."
 
-Rook liked him immediately.
+Luck liked him immediately.
 
 The Outer Homesteads began beyond the last reliable lantern posts west of Greywake. The road narrowed, the drainage worsened, and repairs stopped looking official. People still maintained the route, but the work had the practical unevenness of communities fixing what they could with what they had.
 
@@ -33,11 +33,11 @@ The driver folded his arms.
 
 "Then don't make the hole deeper."
 
-Rook stood a few paces away holding a crate of wooden pegs. Light crate. Sela had been very specific. Kellan pointed toward a pile of stone.
+Luck stood a few paces away holding a crate of wooden pegs. Light crate. Sela had been very specific. Kellan pointed toward a pile of stone.
 
 "Pack the outside."
 
-Two workers started moving baskets. Rook watched the cart. The wheel had sunk at an angle.
+Two workers started moving baskets. Luck watched the cart. The wheel had sunk at an angle.
 
 The road edge looked bad. The root shelf beneath it looked worse.
 
@@ -55,11 +55,11 @@ Kellan did not look up.
 
 "Bridge lip."
 
-Rook considered the available geometry.
+Luck considered the available geometry.
 
 "So the cart has chosen a strong position."
 
-The driver muttered something rude. Kellan finally looked at Rook.
+The driver muttered something rude. Kellan finally looked at Luck.
 
 "You know roads?"
 
@@ -67,7 +67,7 @@ The driver muttered something rude. Kellan finally looked at Rook.
 
 "Good."
 
-He returned to the wheel. That should have ended Rook's contribution. It did not.
+He returned to the wheel. That should have ended Luck's contribution. It did not.
 
 A worker carrying a basket of stone slipped. The basket hit the ground. Half the stones rolled downhill.
 
@@ -77,7 +77,7 @@ One disappeared under the cart. Kellan swore. The driver leaned over.
 
 "No."
 
-A second stone rolled under the sunk wheel and stopped against the exposed root. Rook looked at it. Then at the wheel.
+A second stone rolled under the sunk wheel and stopped against the exposed root. Luck looked at it. Then at the wheel.
 
 "That seems useful."
 
@@ -105,7 +105,7 @@ The driver frowned.
 
 "I said not yet."
 
-Workers took the rope. Rook stayed out of the line. He was learning. Kellan counted.
+Workers took the rope. Luck stayed out of the line. He was learning. Kellan counted.
 
 "One. Two. Pull."
 
@@ -113,13 +113,13 @@ The cart moved backward. The wheel lifted slightly. The root creaked.
 
 Then the rear rope snapped. Everyone shouted at once. The cart rolled forward again.
 
-Rook stepped back. The broken rope whipped across the mud, struck a stack of spare planks, and knocked the top plank sideways. The plank slid beneath the front wheel.
+Luck stepped back. The broken rope whipped across the mud, struck a stack of spare planks, and knocked the top plank sideways. The plank slid beneath the front wheel.
 
 The cart rolled onto it. The wheel rose. The driver yanked the brake.
 
 The cart stopped almost level. Silence. Kellan stared at the plank.
 
-Then at the snapped rope. Then at Rook. Rook raised both hands.
+Then at the snapped rope. Then at Luck. Luck raised both hands.
 
 "I was over here."
 
@@ -141,7 +141,7 @@ Outer Homestead workers apparently considered survival a normal part of scheduli
 
 "Now we fix it."
 
-Rook looked at the cart.
+Luck looked at the cart.
 
 "That wasn't the repair?"
 
@@ -151,7 +151,7 @@ He pointed toward the road.
 
 "This is the repair."
 
-Fair. They spent the next two hours widening the stone base, replacing one brace, and cutting drainage away from the root shelf. Rook carried pegs, short boards, and exactly nothing Sela would complain about if informed. Kellan checked his work anyway.
+Fair. They spent the next two hours widening the stone base, replacing one brace, and cutting drainage away from the root shelf. Luck carried pegs, short boards, and exactly nothing Sela would complain about if informed. Kellan checked his work anyway.
 
 "You twist when you lift."
 
@@ -165,7 +165,7 @@ Fair. They spent the next two hours widening the stone base, replacing one brace
 
 "Exactly."
 
-By midday, the bridge approach looked less dramatic and more reliable. Rook was beginning to understand that this was the highest compliment Kellan could give anything. They ate beside the road. One of the workers handed Rook a piece of flatbread.
+By midday, the bridge approach looked less dramatic and more reliable. Luck was beginning to understand that this was the highest compliment Kellan could give anything. They ate beside the road. One of the workers handed Luck a piece of flatbread.
 
 "You really didn't touch the rope?"
 
@@ -183,7 +183,7 @@ The worker chewed.
 
 "So you just stood there."
 
-Rook considered the wording.
+Luck considered the wording.
 
 "I was providing atmosphere."
 
@@ -191,9 +191,9 @@ Kellan looked up from his food.
 
 "No."
 
-The worker laughed. Rook smiled. Then he noticed the warning board.
+The worker laughed. Luck smiled. Then he noticed the warning board.
 
-Two sets of marks covered it. The official strip showed one recent predator warning. Below it, local cuts in the wood showed five. Rook stood.
+Two sets of marks covered it. The official strip showed one recent predator warning. Below it, local cuts in the wood showed five. Luck stood.
 
 "What are those?"
 
@@ -205,7 +205,7 @@ Kellan followed his gaze.
 
 "Five confirmed near-road movements this week."
 
-Rook pointed at the official mark.
+Luck pointed at the official mark.
 
 "That says one."
 
@@ -219,11 +219,11 @@ Rook pointed at the official mark.
 
 "When the report reaches them and someone changes it."
 
-Rook looked at the road they had just repaired. The people living here were already changing behavior around five sightings. Greywake's official system was still displaying one.
+Luck looked at the road they had just repaired. The people living here were already changing behavior around five sightings. Greywake's official system was still displaying one.
 
 That did not prove conspiracy. It proved delay. Maybe negligence.
 
-Maybe classification. Maybe somebody inside the settlement had decided the outer road could tolerate more risk than the main road. Rook looked at Kellan.
+Maybe classification. Maybe somebody inside the settlement had decided the outer road could tolerate more risk than the main road. Luck looked at Kellan.
 
 "Who decides which reports matter?"
 
@@ -239,7 +239,7 @@ Kellan's expression tightened.
 
 "You say convenient when something bothers you."
 
-Rook looked back at the board.
+Luck looked back at the board.
 
 "Maybe I like convenience."
 
@@ -247,7 +247,7 @@ Rook looked back at the board.
 
 Annoyingly observant. A wagon approached from the west. The driver slowed at the repaired bridge.
 
-One of the workers waved him through. The wagon crossed safely. As it passed, a small wooden tag shook loose from the rear cargo net and landed at Rook's feet.
+One of the workers waved him through. The wagon crossed safely. As it passed, a small wooden tag shook loose from the rear cargo net and landed at Luck's feet.
 
 He picked it up. Unreadable writing. Naturally.
 
@@ -263,13 +263,13 @@ Kellan turned the tag over.
 
 "This wagon isn't supposed to be on the outer road."
 
-The driver had already continued east. Rook looked after it.
+The driver had already continued east. Luck looked after it.
 
 "Wrong turn?"
 
 "Maybe."
 
-Kellan did not sound convinced. He slipped the tag into his pocket. Rook stared at the road.
+Kellan did not sound convinced. He slipped the tag into his pocket. Luck stared at the road.
 
 A dropped basket had saved a cart. A snapped rope had dropped a plank exactly where it helped. Now a random cargo tag had fallen at his feet from a wagon that apparently should not have been there.
 
@@ -281,13 +281,13 @@ The yard was poorly maintained and the roads were worse. It was apparently possi
 
 "That expression isn't nothing."
 
-Rook adjusted his coat. His ribs protested.
+Luck adjusted his coat. His ribs protested.
 
 "Do I have an expression?"
 
 "Unfortunately."
 
-Rook walked toward the warning board again. Five local marks. One official mark.
+Luck walked toward the warning board again. Five local marks. One official mark.
 
 A misplaced Guild wagon. A route tag that happened to fall beside him. He did not know what any of it meant. But he knew who probably did.
 
@@ -297,13 +297,13 @@ Kellan pointed east.
 
 "Route office."
 
-Rook smiled. Kellan looked concerned.
+Luck smiled. Kellan looked concerned.
 
 "Why are you smiling?"
 
 "Because now I know where to be annoying."
 
-That afternoon, the crew finished the bridge. Rook left the Outer Homesteads with sore ribs, muddy boots, and one new question. Behind him, Kellan stood beside the mismatched warning board and watched him go.
+That afternoon, the crew finished the bridge. Luck left the Outer Homesteads with sore ribs, muddy boots, and one new question. Behind him, Kellan stood beside the mismatched warning board and watched him go.
 
 The cart incident had been luck. Probably. The route tag had been luck.
 

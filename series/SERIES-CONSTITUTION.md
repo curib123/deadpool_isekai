@@ -9,7 +9,7 @@
 
 Veyr is a real world with its own history, nations, System, Fate, heroes, villains, wars, mysteries, and conflicts.
 
-Rook Vane is not the person Veyr was waiting for.
+Luck Everhart is not the person Veyr was waiting for.
 
 He arrives through Soul Drift after dying in a mysterious Earth explosion. Because his soul entered without a valid Veyran registry root, the World System can confirm that he physically exists but cannot classify him normally.
 
@@ -27,15 +27,15 @@ Locked System outputs:
 - System Recognition: FAILED
 - Classification: ANOMALY
 
-Rook is not secretly Level 999, a chosen Hero, an immortal, or a hidden reality-warper.
+Luck is not secretly Level 999, a chosen Hero, an immortal, or a hidden reality-warper.
 
 He has exactly one supernatural ability:
 
 **Fortune Distortion.**
 
-# 2. Rook Vane Identity Law
+# 2. Luck Everhart Identity Law
 
-Rook Vane is an original protagonist.
+Luck Everhart is an original protagonist.
 
 He is:
 - dry;
@@ -58,7 +58,7 @@ He may learn facts, improve ordinary skills, care about particular people, remem
 
 # 3. Fortune Distortion — Only Supernatural Power
 
-Fortune Distortion is passive probability distortion centered on events in which Rook is causally involved.
+Fortune Distortion is passive probability distortion centered on events in which Luck is causally involved.
 
 It can bias:
 - timing;
@@ -78,7 +78,7 @@ It cannot:
 - create matter from nothing;
 - erase matter;
 - rewrite reality directly;
-- transform Rook;
+- transform Luck;
 - teleport him without a normal cause;
 - stop time;
 - rewind time;
@@ -87,15 +87,15 @@ It cannot:
 - cancel magic by declaration;
 - command Fate;
 - guarantee victory;
-- let Rook consciously choose an exact result.
+- let Luck consciously choose an exact result.
 
-Rook does not activate the ability with a command.
+Luck does not activate the ability with a command.
 
 He notices outcomes without discovering their supernatural cause. From the prologue through the final scene, he never correctly identifies Fortune Distortion as his own power, knowingly tests it, or deliberately relies on it. Ordinary remarks such as “that was lucky” describe an incident, not an ability.
 
 # 4. Physical Vulnerability Law
 
-Rook is physically mortal.
+Luck is physically mortal.
 
 He may:
 - bleed;
@@ -113,13 +113,13 @@ Luck usually prevents a lethal sequence from resolving cleanly around him, but i
 
 Other people do not inherit his luck automatically.
 
-A lucky escape for Rook may still cost someone else.
+A lucky escape for Luck may still cost someone else.
 
 # 5. Accidental Legend Law
 
 The core recurring engine is:
 
-**Rook wants food, freedom, entertainment, or an impressive scene → makes an ordinary choice or performs a bluff → an unseen probability chain produces an extraordinary result → competent witnesses reconstruct a plan he never made → Rook understands that his act impressed them, not why events favored him → he lets the interpretation stand → their belief creates a concrete later consequence**
+**Luck wants food, freedom, entertainment, or an impressive scene → makes an ordinary choice or performs a bluff → an unseen probability chain produces an extraordinary result → competent witnesses reconstruct a plan he never made → Luck understands that his act impressed them, not why events favored him → he lets the interpretation stand → their belief creates a concrete later consequence**
 
 Valid misunderstandings include:
 - hidden master;
@@ -132,11 +132,11 @@ Valid misunderstandings include:
 - person who predicted an event he actually guessed;
 - person who intentionally caused an accident he merely survived.
 
-Rook's reputation must grow faster than the truth.
+Luck's reputation must grow faster than the truth.
 
 # 6. Aura Law
 
-Rook does not possess a supernatural fear aura.
+Luck does not possess a supernatural fear aura.
 
 His aura is social.
 
@@ -147,18 +147,18 @@ It comes from:
 - rumors;
 - repeated coincidences;
 - enemies overthinking him;
-- Rook learning when not to correct them.
+- Luck learning when not to correct them.
 
-The stronger the legend becomes, the more people may defeat themselves before Rook actually does anything.
+The stronger the legend becomes, the more people may defeat themselves before Luck actually does anything.
 
 # 7. Combat Law
 
-Rook can face opponents who are physically stronger, faster, better trained, or more magically powerful than he is.
+Luck can face opponents who are physically stronger, faster, better trained, or more magically powerful than he is.
 
 Combat tension comes from:
 - whether luck creates an opening;
-- whether Rook recognizes it;
-- whether the opening helps only Rook;
+- whether Luck recognizes it;
+- whether the opening helps only Luck;
 - what happens to allies and civilians;
 - terrain;
 - timing;
@@ -166,8 +166,8 @@ Combat tension comes from:
 - evidence;
 - infrastructure;
 - simultaneous threats;
-- Rook bluffing too long;
-- Rook misunderstanding the situation.
+- Luck bluffing too long;
+- Luck misunderstanding the situation.
 
 A battle may be won because:
 - an enemy slips;
@@ -177,9 +177,9 @@ A battle may be won because:
 - reinforcements arrive;
 - a trap triggers early;
 - a rumor causes retreat;
-- an ally misreads Rook's gesture as a tactical signal and acts correctly.
+- an ally misreads Luck's gesture as a tactical signal and acts correctly.
 
-Rook must still move, decide, improvise, or cooperate.
+Luck must still move, decide, improvise, or cooperate.
 
 Luck creates openings.
 
@@ -187,7 +187,7 @@ It does not fight for him as a visible entity.
 
 # 8. Native Story Law
 
-Veyr has a conventional story that would continue without Rook.
+Veyr has a conventional story that would continue without Luck.
 
 It contains:
 - a legitimate System-recognized Hero;
@@ -200,17 +200,17 @@ It contains:
 - conspiracies;
 - independent characters and off-screen events.
 
-Rook is a story intruder, not the true chosen Hero.
+Luck is a story intruder, not the true chosen Hero.
 
 He may accidentally steal attention, redirect scenes, or become mistaken for the real central figure without inheriting the Hero's System role.
 
 # 9. Story Rerouting Law
 
-Rook's interference changes execution, timing, and consequences.
+Luck's interference changes execution, timing, and consequences.
 
 It does not make every existing plot vanish.
 
-When Rook changes an event:
+When Luck changes an event:
 - villains adapt;
 - heroes react;
 - institutions respond;
@@ -232,16 +232,16 @@ Comedy and luck do not erase:
 - evidence;
 - legal consequences.
 
-Rook may be extremely difficult to kill by accident.
+Luck may be extremely difficult to kill by accident.
 
 That does not make him impossible to hurt or impossible to defeat in every kind of objective.
 
 # 11. POV and Prose Law
 
-All current canon chapters use **distant third-person limited focused on Rook Vane**.
+All current canon chapters use **distant third-person limited focused on Luck Everhart**.
 
 Use:
-- Rook / he / him / his;
+- Luck / he / him / his;
 - simple cinematic English;
 - visible action;
 - active dialogue;
@@ -264,16 +264,16 @@ Do not default to sentence → blank line → sentence.
 # 12. Comedy Law
 
 Comedy comes from:
-- Rook's internal panic versus external calm;
+- Luck's internal panic versus external calm;
 - people reconstructing elaborate, evidence-based explanations for motives he never had;
-- Rook treating genuine danger and conspiracy as excellent material for his mysterious persona;
+- Luck treating genuine danger and conspiracy as excellent material for his mysterious persona;
 - ordinary people interrupting a performance he takes far too seriously;
 - enemies sabotaging themselves;
 - dry dialogue;
 - failed attempts to look impressive;
 - accidental successful bluffs;
 - rumors becoming more impressive than facts;
-- Rook taking credit after the fact;
+- Luck taking credit after the fact;
 - practical characters refusing to indulge the legend.
 
 There is no supernatural fourth-wall ability.
@@ -291,7 +291,7 @@ Do not copy:
 - franchise lore;
 - plot beats lifted from another work.
 
-Rook Vane must remain an original character.
+Luck Everhart must remain an original character.
 
 # 14. Structural Law
 
@@ -308,28 +308,28 @@ Existing geography and destination identities remain preserved unless explicitly
 # 15. Volume 1 Reset Law
 
 Volume 1 must be rewritten so that:
-- every supernatural Rook event is Fortune Distortion;
+- every supernatural Luck event is Fortune Distortion;
 - no Play Logic remains;
 - no supernatural regeneration remains;
 - no time-stop remains;
 - no conjured object remains;
 - no direct reality edit remains;
-- Rook's reputation grows through misinterpretation;
+- Luck's reputation grows through misinterpretation;
 - supporting characters remain competent;
 - Greywake's conflict resolves through investigation, logistics, teamwork, politics, battle, and luck rather than raw omnipotence.
 
 # 16. Start-to-Finish Personality and Knowledge Lock
 
-Rook wants to live freely and enjoy playing the enigmatic figure at the edge of important events. That appetite exists before anyone admires him. He rehearses tone, chooses a good place to stand, treasures an effective exit, and becomes irritated when someone ruins the mood. He can be frightened, injured, affectionate, or briefly serious without abandoning this core personality.
+Luck wants to live freely and enjoy playing the enigmatic figure at the edge of important events. That appetite exists before anyone admires him. He rehearses tone, chooses a good place to stand, treasures an effective exit, and becomes irritated when someone ruins the mood. He can be frightened, injured, affectionate, or briefly serious without abandoning this core personality.
 
-He knows that he bluffs and accepts undeserved credit. He does not know that his luck is supernatural. Do not confuse those two kinds of awareness. Witnesses can propose luck, prophecy, strategy, or a curse; Rook treats such claims as speculation, flattery, or someone making his act too literal. If presented with evidence, he engages with its visible causes and missing information rather than suddenly forgetting what he has heard.
+He knows that he bluffs and accepts undeserved credit. He does not know that his luck is supernatural. Do not confuse those two kinds of awareness. Witnesses can propose luck, prophecy, strategy, or a curse; Luck treats such claims as speculation, flattery, or someone making his act too literal. If presented with evidence, he engages with its visible causes and missing information rather than suddenly forgetting what he has heard.
 
-His ordinary competence and relationships may grow. His interpretation of himself does not become an awakened probability master. The final scene must preserve the same private performer/public mastermind mismatch as the opening. No ending reveal to Rook, power tutorial, deliberate luck experiment, second awakening, or conversion into a solemn chosen hero.
+His ordinary competence and relationships may grow. His interpretation of himself does not become an awakened probability master. The final scene must preserve the same private performer/public mastermind mismatch as the opening. No ending reveal to Luck, power tutorial, deliberate luck experiment, second awakening, or conversion into a solemn chosen hero.
 
-Overinterpretation must be spoken, written, or otherwise observable in Rook-limited scenes. Give witnesses different motives and theories; each major theory must change a decision, threat, expectation, or relationship. Do not make every character an admirer.
+Overinterpretation must be spoken, written, or otherwise observable in Luck-limited scenes. Give witnesses different motives and theories; each major theory must change a decision, threat, expectation, or relationship. Do not make every character an admirer.
 
 # Final Lock
 
-**Rook Vane has one supernatural power only: Fortune Distortion.**
+**Luck Everhart has one supernatural power only: Fortune Distortion.**
 
 Every future canon, chapter, battle, QA record, adaptation, and publication copy must obey that rule.

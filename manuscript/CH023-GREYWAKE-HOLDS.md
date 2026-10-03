@@ -50,7 +50,7 @@ A runner arrived from the lower line. "East branch still pulling." Tavian did no
 
 "Twice."
 
-That was bad enough to qualify as information. Hesk's lure was still working. They were now holding three problems at once. The predator. The road. The wrong-route pull. Good climax design. Terrible morning. The territorial predator charged again. This time not at him. At the militia pair beside the service cut. It had learned something. Luck was the bad direction. So it chose another. One militia guard planted his shield.
+That was bad enough to qualify as information. Hesk's lure was still working. They were now holding three problems at once: the predator, the road, and the wrong-route pull. An excellent arrangement for a disaster. A terrible morning. The territorial predator charged again. This time not at him. At the militia pair beside the service cut. It had learned something. Luck was the bad direction. So it chose another. One militia guard planted his shield.
 
 The shield would not stop that weight. Luck shouted before finding anything clever to say. "Here!" The predator turned at the sound. One paw struck the broken cart shaft, which rolled across the gravel and sent the charge sideways into the unloaded frame. Luck jumped behind the marker as the frame splintered. The shield guard scrambled clear. "Keep it facing north!" Tavian shouted. Luck was facing north himself, with every intention of increasing the distance.
 

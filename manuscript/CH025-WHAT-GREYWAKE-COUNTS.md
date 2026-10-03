@@ -16,7 +16,7 @@ Sela pushed him back onto the treatment bench before he could stand. The room wa
 
 "Yes."
 
-She looked toward the rest of the room. "That does not make anyone else's injury cheaper." Across from him, Kellan sat with his leg splinted and raised. Luck's body followed its own unreasonable rules. Kellan's did not. Kellan noticed Luck looking. "Still attached?"
+She looked toward the rest of the room. "That does not make anyone else's injury cheaper." Across from him, Kellan sat with his leg splinted and raised. Luck had been cut and bruised; Kellan had been crushed beneath a collapsing bridge. The difference was injury, not destiny. Kellan noticed Luck looking. "Still attached?"
 
 "The important parts."
 
@@ -46,7 +46,7 @@ Both ignored him. Kellan leaned back. "I think this is good for you."
 
 "Being irrelevant."
 
-Luck considered throwing something. Sela had removed anything useful from reach. Brynn eventually won under conditions. Sit whenever possible. Return if bleeding started. No treating abnormal recovery as a reason to make another crisis cheaper. Fine. Before council, Tavian wanted Broken North inspected. So did Luck. The road looked worse in daylight. Temporary guides were gone or broken. Mud covered everything.
+Luck considered throwing something. Sela had removed anything useful from reach. Brynn eventually won under conditions. Sit whenever possible. Return if bleeding started. No treating "I can still walk" as permission to make another crisis cheaper. Fine. Before council, Tavian wanted Broken North inspected. So did Luck. The road looked worse in daylight. Temporary guides were gone or broken. Mud covered everything.
 
 Fresh timber braced old stone. The inner shelf held on worker-built support. The road was still closed. Good. It should be. A worker caught Tavian crouching near the repaired shelf. "Do not touch that." Tavian stood. "Wasn't planning to." The worker looked at him. "You either."
 

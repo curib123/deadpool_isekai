@@ -215,7 +215,7 @@ The worker waited. Luck glanced back.
 
 "It was going to catch something."
 
-The worker leaned forward. "You let the maul fail, used the spare because it gave you reach, then pulled the rope after the load shifted. If you'd pulled earlier, that board would have missed the wheel."
+The worker leaned forward. "You saw the load start to move and waited until the wheel reached the rut before pulling. If you'd pulled earlier, that board would've missed the wheel."
 
 Luck had pulled because the rope was the nearest thing he could hold while trying not to fall. He looked out at the rain so the worker would not see him sorting those two accounts.
 
@@ -239,10 +239,10 @@ No ancient power announced itself. He had helped build an ugly hammer, pulled th
 
 As Luck crossed the yard, he heard one of the workers telling a guard about the bridge. The story already sounded cleaner than reality. By the time Luck reached the gate, he had apparently calculated the wagon's angle before pulling the rope.
 
-Luck stopped walking. He considered going back. Then he considered how much effort correcting everyone would require. He kept walking.
+Luck stopped walking. He considered going back. Then he heard the same worker ask whether Luck could be assigned to the next difficult repair.
 
-"Calculated," he muttered.
+That was the consequence of letting a useful story survive.
 
-A barrel rolled loose from a nearby stack, crossed directly behind him, and knocked over the same guard who had just repeated the story. Luck looked over his shoulder. The yard went quiet. He turned forward again.
+Luck resumed walking.
 
-"No comment."
+"Calculated," he muttered. "Expensive word."

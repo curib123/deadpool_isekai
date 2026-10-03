@@ -3,7 +3,8 @@
 **Title:** This Isekai Has a Bug. Unfortunately, It's Me.  
 **Author:** minuszeroo  
 **Genres:** Action • Adventure • Dark Fantasy • Comedy • Mystery • Isekai  
-**Status:** AUTHOR-DIRECTED REVISION — PERMANENTLY CLUELESS LUCK / THEATRICAL MC — 2026-10-02
+**Status:** CURRENT CANON — PERMANENTLY CLUELESS LUCK / THEATRICAL MC — 2026-10-03
+**Structural companion:** `planning/LUCK-EVERHART-STRUCTURAL-STORY-BIBLE.md`
 
 # 1. Core Premise
 
@@ -305,18 +306,22 @@ Merrowgate remains Volume 2.
 
 Existing geography and destination identities remain preserved unless explicitly retconned.
 
-# 15. Volume 1 Reset Law
+# 15. Volume 1 Completion Lock
 
-Volume 1 must be rewritten so that:
-- every supernatural Luck event is Fortune Distortion;
-- no Play Logic remains;
-- no supernatural regeneration remains;
-- no time-stop remains;
-- no conjured object remains;
-- no direct reality edit remains;
-- Luck's reputation grows through misinterpretation;
-- supporting characters remain competent;
-- Greywake's conflict resolves through investigation, logistics, teamwork, politics, battle, and luck rather than raw omnipotence.
+Volume 1 has been structurally re-audited through CH026.
+
+Current canon requires:
+- every supernatural Luck event to be Fortune Distortion;
+- no Play Logic;
+- no supernatural regeneration;
+- no time-stop;
+- no conjured-object power;
+- no direct reality edit;
+- Luck's reputation to grow through evidence-based misinterpretation;
+- supporting characters to remain competent;
+- Greywake's conflict to resolve through investigation, logistics, teamwork, politics, battle, ordinary physical mechanisms, and passive luck rather than raw omnipotence.
+
+Any older Volume 1 plan that contradicts those rules is historical only.
 
 # 16. Start-to-Finish Personality and Knowledge Lock
 

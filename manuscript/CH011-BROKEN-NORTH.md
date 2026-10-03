@@ -96,9 +96,9 @@ They stepped around the chain.
 
 The road narrowed immediately.
 
-Less than two hundred paces later, Kellan stopped beside an old retaining wall. New timber braced one section where the stone had begun leaning toward the drop.
+Less than two hundred paces later, Kellan stopped beside an old retaining wall. New timber braced one section where the stone had begun leaning toward the drop. Farther along, an exposed tree root had pushed through older masonry, opening hairline gaps between rain-dark stones.
 
-He touched the fresh cut.
+Kellan touched the fresh-cut brace first.
 
 "Same season."
 
@@ -564,7 +564,7 @@ When the air cleared, broken masonry blocked the hounds' direct path to the cros
 
 Everyone looked up.
 
-A thick tree root had grown through the old wall. Rainwater had exposed it. The earlier collapse had shifted the load.
+The exposed root they had passed earlier had pried farther through the rain-softened wall. The first collapse had shifted the already-open joints until the slab finally lost its bearing.
 
 Perfectly ordinary reasons.
 

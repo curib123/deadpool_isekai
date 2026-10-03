@@ -1,8 +1,8 @@
 # Chapter 17 — The Price of Being Right
 
-Sela saw the stretcher and pointed. "Table." Two assistants moved before the word finished. Kellan went onto the wide treatment bed near the back wall. His face had gone pale under dirt and blood. The lower part of one leg was wrapped badly because badly had been all they had time for on the road. Blood had soaked through the splint. His shoulder sat too low on one side. Every breath was shallow. Luck stood beside the bed with dried blood stiff on his shirt. His side was closing. His leg was already better than it had any right to be.
+Sela saw the stretcher and pointed. "Table." Two assistants moved before the word finished. Kellan went onto the wide treatment bed near the back wall. His face had gone pale under dirt and blood. The lower part of one leg was wrapped badly because badly had been all they had time for on the road. Blood had soaked through the splint. His shoulder sat too low on one side. Every breath was shallow. Luck stood beside the bed with dried blood stiff on his shirt. Pressure and the field dressing had slowed the bleeding at his side, but every step pulled at the wound in his leg and his shoulder hurt where he had hit stone.
 
-His shoulder hurt. Kellan was not improving nearly fast enough. Sela cut through the field wrap. "Who splinted this?"
+Kellan's injuries were far worse. Sela cut through the field wrap. "Who splinted this?"
 
 "Tavian and militia."
 
@@ -54,7 +54,9 @@ She touched his shoulder. Luck flinched. "Bruised badly. Nothing obviously displ
 
 "I know."
 
-She returned to Kellan. "You are already restoring yourself." Across the room, three people worked around him. Luck's bleeding had stopped. Kellan's had not.
+She returned to Kellan. "Your wounds are shallower, and you can still walk. That changes nothing about his."
+
+Across the room, three people worked around Kellan while Luck held pressure over fresh stitches of his own.
 
 *That was the difference.*
 
@@ -66,7 +68,7 @@ No promise. No dramatic final prognosis. Just not yet. "We need swelling down. W
 
 "Not enough information yet."
 
-He closed his eyes. Sela looked at him. "Your recovery changes none of that." Luck did not answer. She did not need one. For the next hour, he stayed out of the way. Harder than it sounded. People moved through the treatment house with blood and mud on their clothes. Animal bites. Cuts from carts. Broken fences. Collapsed roadwork. One militia guard had a torn hand from dragging somebody off a failed approach. Nobody had time to ask who started what. Kellan drifted in and out.
+He closed his eyes. Sela looked at Luck. "Being able to walk changes none of that." Luck did not answer. She did not need one. For the next hour, he stayed out of the way. Harder than it sounded. People moved through the treatment house with blood and mud on their clothes. Animal bites. Cuts from carts. Broken fences. Collapsed roadwork. One militia guard had a torn hand from dragging somebody off a failed approach. Nobody had time to ask who started what. Kellan drifted in and out.
 
 Pain tonic finally slowed Kellan's breathing. Sela changed the dressing once, checked the splint, and called that success. Stable was the word, not healed. Luck sat near the wall with his own bloodstained wrap. He could still walk because his wounds were shallower; that fact did nothing for Kellan. When Kellan woke properly, he turned his head. "You still here?"
 
@@ -192,7 +194,7 @@ That made him pause. Luck looked at the map. "Someone always chooses." Kellan ch
 
 "No."
 
-His face hardened. There it was. Use his mistake. Turn responsibility into obedience. Maelis spoke before Luck did. "CH-016 does not erase CH-013." Hesk looked at her. She opened one copied packet. "Your admission of deliberate diversion remains recorded." A second. "Repeated outer pressure remains documented." A third. "Manipulated reporting remains documented." Hesk said, "And Luck Everhart's unauthorized alteration is documented." "Yes." Maelis looked at him. "It will be." Then Hesk. "Separate responsibility does not cancel previous responsibility." His jaw tightened. "This is not a hearing."
+His face hardened. There it was. Use his mistake. Turn responsibility into obedience. Maelis spoke before Luck did. "Today's backflow does not erase what we proved about the diversion policy." Hesk looked at her. She opened one copied packet. "Your admission of deliberate diversion remains recorded." A second. "Repeated outer pressure remains documented." A third. "Manipulated reporting remains documented." Hesk said, "And Luck Everhart's unauthorized alteration is documented." "Yes." Maelis looked at him. "It will be." Then Hesk. "Separate responsibility does not cancel previous responsibility." His jaw tightened. "This is not a hearing."
 
 "No."
 
@@ -264,7 +266,7 @@ Luck had them. Every track. Every call. Which side had been screened. Where the 
 
 Maelis added, "Only what you saw." Tavian said nothing. He was waiting. Luck gave them the route. First herd from the screened side. Ridge-hounds from another angle. Smaller animals through lower brush. Calls shifted before visible movement. Tavian moved markers while Luck spoke. He corrected one directional estimate. Luck let him. Maelis wrote. Brynn listened. Hesk did not interrupt. When Luck finished, Tavian looked at the map. "This helps."
 
-Not forgiveness. Not approval. Useful. Enough. Outside, the air felt colder. From the council steps Luck could see people moving barricades toward the lower road. A cart rolled toward Sela's treatment house carrying supplies instead of patients. For now. The bridge was gone. Kellan was in a splint. His wounds were covered with fresh dressings. He could still feel every one of them. That did not make the consequences disappear.
+Not forgiveness. Not approval. Useful. Enough. Outside, the air felt colder. From the council steps Luck could see people moving barricades toward the lower road. A cart rolled toward Sela's treatment house carrying supplies instead of patients. For now. The bridge was gone. Kellan was in a splint. Luck's own side and leg were covered with fresh dressings, and he could still feel every one of them. That did not make the consequences disappear.
 
 Hesk had been right about one thing. Someone had to choose. He turned that sentence into ownership. Luck had made the opposite mistake and acted as if choosing for himself could never choose for anyone else. Neither version worked. Brynn came out. "We are moving the emergency route board to the militia yard."
 

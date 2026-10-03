@@ -92,11 +92,17 @@ Luck had been about to ask whether the nearest prints belonged to something that
 
 By afternoon, the service approach had become a reason to demand dispatch records. His pointing technique was having an excellent day.
 
-"Poorly?"
+Tavian called them back to the animal sign below the recess. Several older tracks approached from the southwest, then curved before reaching the wall.
 
-"They bend before the recess."
+Luck crouched where Tavian indicated. "They're avoiding it?"
 
-He traced the direction with two fingers. "Not all at the same distance. Not all at the same angle. But the pressure is consistent." Maelis came closer. "Consistent with the vent orientation?"
+"Imperfectly."
+
+"How imperfectly?"
+
+"They bend before the recess." Tavian traced the direction with two fingers. "Not all at the same distance. Not all at the same angle. But the pressure is consistent."
+
+Maelis came closer. "Consistent with the vent orientation?"
 
 "Yes."
 
@@ -140,7 +146,7 @@ Kellan looked back toward the stake. "So we look for more." Maelis folded the pa
 
 Luck knew that road too. He had bled on it. Tavian looked from the terrain to the lure direction they had recorded. Maelis unfolded a smaller route sheet from the audit. Luck still could not read the labels. He no longer needed to. The shapes had become familiar. She indicated one line. "Your first paid road assignment after Hesk's private arrangement was here."
 
-Main Caravan Road. Protected side. Another line. "The later service-road incident was here." Closer to the edge. Kellan pointed farther out. "And my bridge." Inside the displacement side. Then Tavian's track route. North again. Nobody spoke for a moment. Luck looked at the map. Main-road job on one side. Pack attack closer to the line. Kellan's bridge farther into the outer route. His jobs had felt random when Luck accepted them. Now they sat on the same piece of paper. "Interesting." his voice came out flatter than Luck intended.
+Main Caravan Road. Protected side. Another line. "The later service-road incident was here." Closer to the edge. Kellan pointed farther out. "And my bridge." Inside the displacement side. Then Tavian's track route. North again. Nobody spoke for a moment. Luck looked at the map. Main-road job on one side. Pack attack closer to the line. Kellan's bridge farther into the outer route. His jobs had felt random when Luck accepted them. Now they sat on the same piece of paper. "Interesting." His voice came out flatter than Luck intended.
 
 Maelis glanced at him. "Do not jump past the evidence."
 

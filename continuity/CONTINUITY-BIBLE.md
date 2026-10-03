@@ -1,6 +1,6 @@
 # Continuity Bible
 
-## Current Luck Knowledge and Personality Override — 2026-10-02
+## Current Luck Knowledge and Personality Authority — 2026-10-03
 
 For every scene, track separately: (1) what actually happened, (2) what Luck intended, (3) what the witness believes he intended, and (4) what consequence that belief causes. The supernatural cause belongs to writer truth; Luck never correctly identifies it through the ending.
 
@@ -10,6 +10,8 @@ Stable across all arcs: freedom, food/pay/shelter, curiosity, enjoyment of omino
 
 
 **Owners:** A100 Continuity Director + A101 Canon Conflict Detector + A102 Knowledge-State Editor
+
+**Structural authority:** `planning/LUCK-EVERHART-STRUCTURAL-STORY-BIBLE.md`
 
 # Continuity Ledger
 Track for every chapter/volume:
@@ -37,7 +39,7 @@ A later chapter cannot casually reset consequences.
 - Information:
 - Writer truth:
 - Reader knows:
-- Red Jackal knows:
+- Luck knows:
 - Other holders:
 - Characters/factions believing a false version:
 - First learned:
@@ -69,4 +71,4 @@ The cross-arc consequence record is maintained in:
 
 `continuity/SERIES-CONSEQUENCE-LEDGER.md`
 
-It carries Red, the native Hero/Party, Savael, institutions/factions, destination condition, travel, and unresolved handoffs across the flexible future-arc route. It is a planning supplement only. It cannot override a current manuscript, chapter/volume continuity record, knowledge-state record, or higher canon Bible.
+It carries Luck, the native Hero/Party, Savael, institutions/factions, destination condition, travel, and unresolved handoffs across the flexible future-arc route. It is a planning supplement only. It cannot override a current manuscript, chapter/volume continuity record, knowledge-state record, or higher canon Bible.

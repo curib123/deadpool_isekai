@@ -270,35 +270,41 @@ Brynn looked at him. "Luck."
 
 "Yes?"
 
-"There are damaged points where temporary support could buy work crews time."
+"You crossed Broken North before any of these crews did."
 
-Finally. A job Luck understood. Tavian held up one finger. "Temporary."
+Finally. A job he could actually describe.
+
+"You stay with the washout team. You carry line, wedges, stone, whatever the foreman assigns. If the road changes from what you remember, you report it before somebody puts weight on the wrong piece."
+
+Tavian held up one finger. "And you do not improve the road on instinct."
 
 "I know."
 
-"Inside Kellan's engineering plan."
+"Kellan's foreman owns the repair."
 
 "I know."
 
-"No improvising a replacement road just because you can."
+"If animals move wrong, you tell me. You do not invent a new experiment."
 
-Luck looked at him. There it was. The correct version. Luck had suggested an abandoned road because it sounded more interesting than arguing over the same damaged routes. Now Kellan was explaining how many workers it needed. His contribution was acquiring specifications. "Fine," he said, trying to sound as if he had expected all of them.
-
-"Can you support a damaged lip long enough for workers to place real bracing?"
+Luck looked at him. "You people have built an entire job out of preventing me from becoming interesting."
 
 "Yes."
 
-"A short crossing over a narrow break?"
+Annoyingly coherent.
 
-"Yes."
+Brynn pushed Kellan's sketch toward him. Three marked weak points, all ordinary enough to kill somebody who guessed wrong.
 
-"A local barrier to bend movement for seconds?"
+"Can you follow instructions at those three places?"
 
-"Yes."
+Luck considered demanding a better title.
 
-"Good."
+"Probably."
 
-No demonstration. No new rule. No need. Hesk looked at the map. "You are weakening main-road resources for this." Brynn answered. "We are reallocating crews."
+Tavian's expression did not change.
+
+"Yes," Luck corrected.
+
+"Good." Hesk looked at the map. "You are weakening main-road resources for this." Brynn answered. "We are reallocating crews."
 
 "From the protected corridor."
 

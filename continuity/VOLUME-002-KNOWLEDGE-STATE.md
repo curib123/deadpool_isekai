@@ -1,418 +1,139 @@
 # Volume 2 Knowledge State — Merrowgate Arc
 
-> **CURRENT AUTHORITY — 2026-10-03:** `planning/LUCK-EVERHART-CINEMATIC-CANON.md` supersedes conflicting historical power/knowledge statements below. Luck Everhart is mortal, has passive Fortune Distortion only, does not regenerate, cannot create manifestations/constructs, and never correctly learns that supernatural luck is his power. Knowledge progression may cover events, institutions, rumors, and ordinary causal evidence, but never conscious mastery of Fortune Distortion.
+**Status:** CURRENT — 2026-10-03  
+**Authority:** `planning/LUCK-EVERHART-STRUCTURAL-STORY-BIBLE.md`
 
+# 1. Luck — Opening Knowledge
 
-## 2026-10-03 Luck Everhart Canon Override
+Luck knows:
+- he is from outside Veyr;
+- his autobiographical Earth memory is incomplete;
+- Greywake and multiple methods could not validate a normal identity;
+- physical measurements can work while registry identity fails;
+- he cannot read Veyran;
+- Greywake's migration crisis was engineered locally;
+- institutional choices can shift costs onto weaker people;
+- his actions can create consequences for others;
+- his reputation is contradictory.
 
-This override supersedes every conflicting power/POV instruction below. Luck Everhart is written in **distant third-person limited**. His only supernatural ability is **passive Fortune Distortion**: improbable but physically/socially possible causal chains. He has **no Play Logic, constructs, manifestations, raw-strength superpower, regeneration/self-restoration, Stage progression, time stop, or conscious probability control**. He remains mortal and injured consequences persist. Luck never correctly discovers Fortune Distortion as his personal supernatural power.
+He does not know:
+- Fortune Distortion as his own supernatural power;
+- technical Soul Drift truth;
+- protected cosmology;
+- Merrowgate politics or Cassian's scheme.
 
-Any legacy field below mentioning Play Logic, manifestations, constructs, regeneration, overwhelming capability, or voluntary supernatural display is **deprecated planning text**. For production, replace it with either an ordinary action or a visible luck chain that Luck does not consciously command. The Merrowgate plot order, local antagonist, sabotage scheme, reversal, climax, and resolution remain structurally valid unless they require one of those discarded powers.
+# 2. Luck — May Learn
 
+During Volume 2 he may learn:
+- identity failure persists in another jurisdiction;
+- reputation can function as commercial information;
+- Merrowgate prices risk through guarantees, contracts, debt, and assurance;
+- Cassian's network benefits from repeated disruption;
+- his off-manifest job helped move sabotaged parts;
+- older technical/trade records use terminology different from modern standards;
+- a witnessed local contract can record his declared name without fixing System identity.
 
-# CURRENT LUCK EVERHART CINEMATIC AUTHORITY — 2026-10-03
+# 3. Luck — Must Not Learn
 
-This section supersedes **all conflicting historical text in this file**.
-
-- Protagonist: **Luck Everhart**.
-- POV: **distant third-person limited centered on Luck**.
-- Luck's only supernatural ability is **passive Fortune Distortion**.
-- Fortune Distortion biases individually possible events; Luck cannot activate it, command exact outcomes, create matter, stop/rewind time, regenerate, or unlock additional supernatural powers.
-- Luck remains physically mortal. Injuries, treatment, money, damaged equipment, debts, rumors, political consequences, and relationship changes persist.
-- Luck never correctly identifies a personal supernatural luck ability, including in the ending.
-- Luck enjoys theatrical entrances, mysterious lines, and looking important from the beginning; this is personality, not a later unlock.
-- Major lucky outcomes must show physical/social cause and effect before the payoff.
-- Witnesses may correctly reconstruct visible mechanics while wrongly attributing deliberate genius to Luck.
-- Misunderstandings must vary and must create later consequences rather than functioning as consequence-free praise.
-- Scene standard: **goal → obstacle → attempt → meaningful change** with clear staging and purposeful dialogue.
-- Any legacy references below to **Luck Everhart**, close/distant third-person limited narration, Play Logic, regeneration, manifestations, overwhelming raw power, Stage progression, or eventual luck awareness are **historical only and non-authoritative**.
-- Greywake remains the completed Volume 1 destination arc; Merrowgate remains the approved Volume 2 destination arc. Existing plot order survives unless a chapter-level cinematic revision explicitly changes execution while preserving causal continuity.
-
-
-**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
-**Volume:** 2  
-**Destination:** DEST-002 — Merrowgate  
-**Status:** CANON SUPPORT RECORD — SOUL-DRIFT RETCON ACTIVE / CH-027 CURRENT CANON / CH-028 AUTHORIZED
-
-# 0. Soul-Drift / Story-Intruder Knowledge Override
-
-The retcon in `planning/SOUL-DRIFT-STORY-INTRUDER-RETCON.md` supersedes conflicting origin, memory, fourth-wall, Stage, and moral-development assumptions in this file.
-
-Writer truth:
-- natural far Soul Drift brought Luck to Veyr after a mysterious Earth explosion;
-- most autobiographical memory was lost;
-- Luck retains deep meta-comedic/media cognitive residue;
-- Fourth-Wall Pause is available from the beginning;
-- Luck has no power progression and no conventional moral-development arc;
-- CH-027's event sequence and prose are synchronized to the Soul-Drift close-distant third-person limited standard and Gate 9 PASS.
-
-# 0A. Overpowered Retcon Knowledge Override
-
-The retcon in `planning/RED-JACKAL-OVERPOWERED-RETCON.md` supersedes old Stage I / exhaustion-as-power-ceiling assumptions.
-
-Writer truth:
-- Luck is already overwhelmingly powerful;
-- Play Logic has no known intrinsic ceiling;
-- no Stage progression exists;
-- public/local characters do not know this automatically;
-- Luck himself may not initially conceptualize the full implications cleanly, but raw capability is not earned through later levels.
-
-Volume 2 knowledge tension concerns what people have witnessed, not Luck's actual writer-truth ceiling.
-
-# 1. Luck Everhart — Opening Knowledge
-
-At Volume 2 opening Luck canonically knows:
-
-- he knows he came from outside Veyr but cannot reconstruct a coherent Earth life;
-- his surviving pre-Veyr memory includes only fragmentary violent/explosion impressions and media/cultural residue;
-- Veyr is not Earth;
-- the World System exists;
-- ordinary identity fields return UNDEFINED or no valid record for him;
-- multiple Greywake appraisal methods failed consistently;
-- physical traits can be measured while identity data remains absent;
-- his body restores itself abnormally;
-- pain may still be experienced even when damage is not a meaningful combat ceiling;
-- Play Logic responds to imagined meaning and chosen framing;
-- his earlier small manifestations do not prove a true capability ceiling;
-- poor judgment and incomplete information remain dangerous even when raw force is overwhelming;
-- Greywake's migration was deliberately manipulated;
-- institutions can exploit people they cannot or will not properly count;
-- other people remain vulnerable to consequences while he can regenerate;
-- his Greywake reputation is mixed.
-
-He cannot read Veyran normally.
-
-He does not know the writer truth behind any protected mystery.
-
-# 2. Luck Everhart — May Learn During Volume 2
-
-Luck may learn:
-
-- his identity failure persists outside Greywake;
-- Merrowgate's civic/commercial systems can acknowledge his physical presence without producing a valid native identity;
-- rumor can function as commercial information;
-- Cassian Venn's network engineered instability to push private consolidation;
-- his own off-book job enabled part of the scheme;
-- older technical/trade records may use terminology different from modern System-standard language;
-- Merrowgate can create a local witnessed-contract workaround without solving his System identity.
-
-# 3. Luck Everhart — Must Not Learn Yet
-
-Luck must not learn:
-
-- natural far Soul Drift as the full arrival explanation;
+He must not learn as confirmed truth:
 - exact cause of the Earth explosion;
-- Savael-of-the-Index;
-- Exterior Needle historical truth;
-- Eidrathi Continuance;
-- Fourth-Wall Pause metaphysical mechanism;
-- Great Design writer truth;
-- Soul-Drift identity origin of Play Logic/regeneration;
-- technical causal-wake Fate model;
-- why older Quiet Registration terminology exists at the writer-truth level;
-- soul-registry proof of his origin.
+- full Soul Drift mechanism;
+- Fortune Distortion as his personal supernatural power;
+- Great Design/cosmology truth;
+- a technical Fate-control model.
 
 # 4. Cassian Venn
 
 Cassian begins knowing:
-
-- his complete engineered-instability scheme;
-- which Venn-linked agents and contractors are knowingly involved;
-- which incidents are opportunistic rather than controlled;
-- the political requirements for passing the Unified Harbor Security Charter;
-- that Luck has no normal valid System identity according to public/merchant reports;
-- that Greywake stories make Luck commercially useful and politically dangerous.
+- his own distributed scheme;
+- which agents/contracts are knowingly involved;
+- which disruptions are opportunistic;
+- what political support the charter requires;
+- public/merchant reports that Luck has no normal registry identity.
 
 Cassian may learn:
+- Luck repeatedly survives improbable situations;
+- Luck's reputation makes people hesitate or over-interpret him;
+- Luck cannot be reliably controlled through normal employment or reputation pressure.
 
-- Luck is much harder to incapacitate than expected;
-- Luck's manifestations are unpredictable but physically real;
-- Luck is not reliably controllable through ordinary employment, debt, or reputation pressure.
+Cassian does not know protected cosmology.
 
-Cassian must not know:
-
-- Luck's true Soul-Drift origin;
-- exact Earth explosion cause;
-- Savael;
-- Exterior Needle historical truth;
-- Great Design;
-- Play Logic writer-truth mechanism;
-- Fourth-Wall Pause metaphysical mechanism;
-- technical Fate model.
-
-# 5. Captain Iria Voss
+# 5. Iria Voss
 
 Begins knowing:
-
-- Merrowgate port law and Harbor Watch procedure;
-- recent sabotage incidents appear irregular but not yet unified;
-- merchant houses are lobbying for stronger private security authority;
-- Venn Maritime House has legitimate public support.
+- Harbor Watch procedure;
+- incidents appear irregular but not yet unified;
+- private-security lobbying is increasing.
 
 May learn:
-
 - Luck's identity cannot be validated normally;
-- the sabotage incidents share commercial beneficiaries;
-- Luck participated in one suspicious off-book movement;
+- incidents share beneficiaries;
+- Luck participated in suspicious off-manifest movement;
 - Cassian's network engineered the broader pattern.
-
-Must not infer protected cosmology from Luck's anomaly.
 
 # 6. Samir Kesran
 
 Begins knowing:
-
-- recent damage patterns at independent yards do not look entirely accidental;
-- smaller yards are under growing insurance/debt pressure;
-- Venn-linked contracts are expanding.
+- independent yards face rising costs and suspicious failures.
 
 May learn:
-
 - specific sabotage methods;
-- Luck's displayed constructs may be deliberately limited; Samir can judge only observed structural behavior, not Luck's maximum capability;
-- Cassian's consolidation plan depends on physical port failures as political evidence.
+- altered brake assemblies were deliberate;
+- physical failures are being converted into political evidence.
 
-Does not know why Luck is UNDEFINED.
+Samir judges visible mechanics, not supernatural theory.
 
 # 7. Nessa Quill
 
 Begins knowing:
+- informal routes;
+- brokers/warehouses;
+- how to bypass delays;
+- some clients pay for plausible deniability.
 
-- informal dock routes;
-- brokers, smugglers, and warehouse operators;
-- how to move work around ordinary delays;
-- some clients pay specifically for plausible deniability.
+She does not know Cassian's full scheme.
 
-She does not begin knowing Cassian's full scheme.
-
-She may unknowingly route Luck's key off-book job.
-
-May learn:
-- the job was part of engineered sabotage;
-- refusing to know a client's purpose did not remove her responsibility.
+She may learn that her refusal to ask questions did not remove responsibility.
 
 # 8. Dalen Marr
 
 Begins knowing:
-
-- Open Hand transfer schedules;
-- Merrowgate trade pressure;
-- contradictory Greywake rumors about Luck;
-- merchant houses are competing for security contracts.
+- transfer schedules;
+- trade pressure;
+- contradictory Greywake rumors;
+- risk/contract economics.
 
 May learn:
-- which trade disruptions benefit Venn-linked interests;
-- Luck is not adequately described by the rumors.
+- disruptions repeatedly benefit Venn-linked interests;
+- Luck's reputation is not a reliable description of motive.
 
-Does not know protected mystery truth.
+# 9. Public Knowledge Progression
 
-# 9. Public Merrowgate Knowledge
+Opening public knowledge may include:
+- Greywake survived a recent crisis;
+- contradictory stories about an unregistered man;
+- rising theft/sabotage/security costs.
 
-At arc opening, ordinary Merrowgate residents may know:
+By resolution public knowledge may include:
+- Venn-linked actors engineered part of the instability;
+- the charter would have concentrated excessive private authority;
+- Luck knowingly bypassed inspection but was not the scheme's architect;
+- his System identity remains unresolved.
 
-- Greywake survived a recent frontier crisis;
-- contradictory stories exist about an unregistered man involved there;
-- Merrowgate faces rising theft, sabotage, and security costs;
-- merchant houses are debating stronger centralized security.
-
-They do not begin with reliable proof that Cassian engineered the instability.
-
-By local resolution, public knowledge may include:
-
-- Venn-linked actors shaped several incidents;
-- the Unified Harbor Security Charter would have concentrated excessive private authority;
-- Luck was involved in one irregular job but was not the architect of the full scheme;
-- Luck remains UNDEFINED by ordinary System identity checks.
-
-# 10. Mystery / Foreshadowing Boundary
-
-## M-002
+# 10. Mystery Boundary
 
 Allowed:
-Cross-jurisdictional reinforcement that Luck's identity failure follows him.
+- cross-jurisdiction identity failure;
+- bounded obsolete terminology clue in CH038;
+- rumor and statistical anomaly.
 
 Not allowed:
-Soul-registry origin proof or writer-truth explanation.
+- writer-truth Soul Drift proof;
+- Fortune Distortion explained/accepted by Luck;
+- full cosmology.
 
-## M-011
+# 11. End State
 
-Allowed:
-A bounded clue that older technical/trade language differs from modern System-standard terminology.
+Luck leaves Merrowgate with more social/legal history but no true System identity.
 
-Not allowed:
-Proof that the World System was engineered/synchronized at the full writer-truth level.
-
-## F-010
-
-Status:
-
-**PLANNED — NOT YET PLANTED**
-
-Gate 7 may assign a chapter location.
-
-It becomes PLANTED only after manuscript prose contains the clue and QA verifies it.
-
-No other new F-ID is authorized by Gate 6.
-
-# 11. Continuity Lock
-
-Volume 2 may not:
-
-- import Greywake characters merely to give Luck familiar companions;
-- erase Greywake's local consequences;
-- grant Luck literacy without earned progression;
-- normalize his System identity;
-- treat any planned display count or size as Luck's maximum Play Logic capability;
-- treat rumor as reliable omniscient information;
-- give local characters protected mystery knowledge without evidence;
-- select Volume 3 before the Merrowgate arc closes through the proper gates.
-
-
-# 12. Gate 7 Chapter Knowledge Progression
-
-This section records the maximum planned knowledge progression authorized by the Volume 2 chapter roadmap. It does not itself make any clue canon; manuscript evidence and Gate 9 are still required.
-
-## CH-027 through CH-029
-Luck may learn:
-- Merrowgate is a major Brasswater trade port;
-- his identity failure persists outside Greywake;
-- contradictory Greywake rumors have already reached trade networks.
-
-Iria may learn:
-- Merrowgate's own verification cannot validate Luck normally.
-
-Dalen and Nessa may know only rumor plus what Luck demonstrates directly.
-
-## CH-030 through CH-033
-The local cast may learn:
-- Venn-linked services repeatedly appear after port disruptions;
-- independent operators are under increasing security/assurance pressure.
-
-No one may yet claim a unified sabotage conspiracy as proven.
-
-## CH-034 through CH-035
-Luck and Nessa know:
-- they accepted a deliberately off-manifest job;
-- the sealed cargo was represented as replacement counterweight brake assemblies;
-- ordinary inspection was intentionally bypassed.
-
-They do not know the assemblies were sabotaged.
-
-## CH-036 through CH-038
-Samir may suspect deliberate equipment interference from technical evidence.
-
-Iria may begin comparing incidents.
-
-CH-038 may contain the planned F-010 terminology clue, but F-010 remains **PLANNED — NOT YET PLANTED** until manuscript/Gate 9.
-
-No character may infer the Quiet Registration writer truth from the clue.
-
-## CH-039 through CH-040
-The coalition may know:
-- multiple disruptions produce a consistent Venn-linked profit/debt/security pattern;
-- Cassian's charter would concentrate emergency authority;
-- the CH-035 job may be connected.
-
-They still lack complete direct proof of Cassian's authorship.
-
-## CH-041 through CH-042
-The cast may learn:
-- surviving records link Luck and Nessa to the off-manifest movement;
-- the moved parts were counterweight brake assemblies;
-- altered assemblies caused the CH-042 cargo-transfer failure;
-- Luck's choice helped enable the sabotage.
-
-Public knowledge may include Luck's real off-manifest involvement.
-
-## CH-043 through CH-046
-The coalition may build a shared case and defensive plan from earned evidence.
-
-Cassian may know Luck stayed and that opposition is organizing, but he does not gain omniscient access to the coalition plan.
-
-## CH-047 through CH-048
-Evidence secured during the harbor crisis may establish that Venn-linked actors deliberately shaped multiple incidents to support emergency consolidation.
-
-This still does not reveal protected cosmology.
-
-## CH-049
-Public/local institutional knowledge may include:
-- Cassian's network engineered part of the instability;
-- Luck enabled one operation through reckless off-book work but was not the architect;
-- the monopoly-security solution was itself part of the scheme.
-
-## CH-050
-Merrowgate may establish a local witnessed-contract workaround for Luck's declared name.
-
-This does not:
-- create native System identity;
-- reveal his origin;
-- grant class/level;
-- bind other jurisdictions.
-
-# 13. Gate 7 Continuity Lock
-
-Locked planning state:
-
-- CH-027 through CH-050 only;
-- F-010 planned for CH-038 only;
-- M-002 cross-jurisdictional reinforcement;
-- bounded M-011 surface only;
-- planned Play Logic display/restraint pattern only; no maximum-capability inference;
-- Volume 3 remains unselected;
-- no character may use knowledge from a later planned chapter early.
-
-# 14. CH-027 Canon Knowledge Record
-
-**Chapter:** CH-027 — Salt in the Air  
-**Status:** EVENT/KNOWLEDGE SEQUENCE PRESERVED — PROSE STALE UNDER SOUL-DRIFT RETCON
-
-CH-027 canonically establishes that Luck:
-
-- has traveled for several days since leaving Greywake;
-- uses ordinary Avarran road/river transport rather than teleportation;
-- has spent meaningful amounts on food, lodging, passage, baggage, and transfers;
-- remains physically improved but still carries shoulder/rib/side/leg soreness;
-- still cannot read Veyran writing;
-- still depends on institutional Wayfarer Tongue Tokens for clear spoken translation;
-- has not received a personal permanent translation device;
-- reaches the Brasswater trade sphere and sees Merrowgate as a major port;
-- observes docks, ships, cranes, warehouses, chain bridges, dry docks, dense cargo traffic, and multilingual commerce;
-- now knows his remaining money is low enough that he needs to earn again soon;
-- chooses Merrowgate for practical work/information/onward-passage reasons.
-
-CH-027 does **not** establish:
-
-- Merrowgate's identity-verification result;
-- Iria Voss;
-- Dalen Marr;
-- Nessa Quill;
-- Samir Kesran;
-- Cassian Venn;
-- Venn Maritime House;
-- Harbor Council politics;
-- Unified Harbor Security Charter;
-- sabotage/consolidation pattern;
-- F-010 terminology;
-- any protected mystery truth.
-
-Play Logic uses in CH-027: **0**.
-
-No M-ID advances.
-
-No F-ID is planted.
-
-Canonical final line:
-
-**“Merrowgate would do.”**
-
-**Official next step:** CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8. CH-001 through CH-027 are complete and Gate 9 PASS.
-
-
-# Current Soul-Drift Synchronization Authority — 2026-09-20
-
-This section supersedes any historical pre-reset production-status statements elsewhere in this file.
-
-- **CH-001→CH-026:** CURRENT CANON — Soul-Drift / distant third-person limited / final story engine — Gate 9 PASS.
-- **CH-027 — Salt in the Air:** event/scene sequence preserved, prose STALE — Soul-Drift rewrite + Gate 9 revalidation REQUIRED.
-- **CH-028 — The Man on the Manifest:** PAUSED until CH-027 completes the synchronization cycle.
-- **Official next step:** **CH-027 — Salt in the Air → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.**
+He has learned responsibility and local facts without becoming morally purified or supernaturally self-aware.

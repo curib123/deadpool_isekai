@@ -14,11 +14,11 @@ The guard's face made it clear that it had not. The younger guard tried again, s
 
 *Excellent. Language barrier before breakfast.*
 
-He pointed at himself. That created a second problem. A name. Luck knew what names were. He knew he should have one. Somewhere behind the white flash and the holes in his memory, there had once been a person with a proper answer. The guards waited. Luck glanced at his dark coat, the dried blood, the forest behind him, and the overall state of his morning.
+He pointed at himself. Good thing he had solved this problem before reaching the gate.
 
 "Luck Everhart."
 
-The name was not remembered. It was useful. The broad guard frowned. Luck pointed toward the gate. The younger guard called toward a booth built into the palisade. A tired-looking attendant stepped out almost immediately carrying a round brass token on a cord.
+The name still was not the one he had lost. It was the one he had chosen, and for the moment that made it more useful than anything memory refused to return. The broad guard frowned. Luck pointed toward the gate. The younger guard called toward a booth built into the palisade. A tired-looking attendant stepped out almost immediately carrying a round brass token on a cord.
 
 Luck watched him approach.
 

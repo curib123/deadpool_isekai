@@ -386,8 +386,8 @@ These profiles describe broad biological/metaphysical peoples, not single cultur
 **Public purpose:** Standardize measurements, class certifications, guild records, and magical safety.  
 **True agenda:** Mostly public, but senior auditors secretly collect unusual System failures.  
 **Resources:** Archives, inspectors, testing halls, political influence.  
-**Hidden knowledge:** Multiple historical cases of partial registration errors, none matching Red Jackal's total absence.  
-**Red Jackal relationship:** None established in story; institutionally, he would be considered a priority anomaly.
+**Hidden knowledge:** Multiple historical cases of partial registration errors, none matching Luck Everhart's total registry absence.  
+**Luck Everhart relationship:** None established in story; institutionally, he would be considered a priority anomaly.
 
 ## FACTION-02 — Ash Choir
 

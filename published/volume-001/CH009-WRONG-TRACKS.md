@@ -32,7 +32,7 @@ Reasonable. Still suspicious. He looked at his left side.
 
 "Good."
 
-He turned. Apparently that was the invitation. Luck followed because competent people became more annoying when allowed to leave with information he wanted. His ribs still complained if Luck twisted too quickly. They were allowed to complain. They had been broken recently. Complaints were not authority. They reached the western edge of Greywake without much conversation. Tavian did not ask about Kellan's bridge.
+He turned. Apparently that was the invitation. Luck followed because competent people became more annoying when allowed to leave with information he wanted. His stitched side still complained if Luck twisted too quickly. It was allowed to complain. Claws had opened him there only days ago. Complaints were not authority. They reached the western edge of Greywake without much conversation. Tavian did not ask about Kellan's bridge.
 
 Luck told him anyway.
 

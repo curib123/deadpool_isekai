@@ -1,7 +1,7 @@
 # Systems Bible
 
 **Owners:** A030-A037  
-**Status:** CANON — PHASE 1 FOUNDATION
+**Status:** CURRENT CANON — LUCK EVERHART / FORTUNE DISTORTION ONLY — 2026-10-03
 
 This file is authoritative for cosmology, World System behavior, magic, reincarnation, Fate, the Great Design, Luck Everhart's anomaly, and Fortune Distortion. It intentionally contains no arc, volume, chapter, scene, or manuscript planning.
 
@@ -191,7 +191,7 @@ It measures heat only. It does not diagnose race, class, illness, or identity.
 ### Wound Gauge
 A mundane calibrated ruler/grid and inspection protocol used to record visible wound length, closure, swelling, and other external changes over time.
 
-It is not healing magic and does not reveal the cause of regeneration.
+It is not healing magic and does not by itself explain why a wound heals quickly, slowly, or abnormally.
 
 ### Mana-Reactivity Prism
 A low-output diagnostic prism that exposes a subject or object to a harmless standardized mana pulse and records whether local mana is absorbed, deflected, conducted, disturbed, or ignored.
@@ -413,13 +413,15 @@ This distinction is essential to Luck Everhart.
 
 Writer truth:
 
-Evan Calder died during a **mysterious explosion on Earth**.
+The person who later chooses the name **Luck Everhart** died during a **mysterious explosion on Earth**.
 
-The exact mundane or extraordinary cause of that explosion remains a protected mystery unless later canon explicitly reveals it.
+His lost Earth name is not required to be fixed in current canon.
+
+The exact mundane or extraordinary cause of the explosion remains a protected mystery unless later canon explicitly reveals it.
 
 The explosion coincided with a rare far-drift boundary condition.
 
-No Veyran actor selected Evan.
+No Veyran actor selected him.
 
 No god chose him.
 
@@ -429,23 +431,20 @@ No Exterior Needle pulled him.
 
 During far Soul Drift:
 
-- most of Evan's autobiographical memory was lost;
-- most of his ordinary pre-death personality organization fragmented;
-- his soul identity remained continuous enough to stay the same person at the deepest level;
-- a heavily reinforced cognitive-performance residue survived.
+- most of Luck's autobiographical Earth memory was lost;
+- enough practical cognition, language-like structure, humor, and social instinct survived for continuity of personality;
+- his soul identity remained continuous enough to remain the same person at the deepest level;
+- a strongly reinforced habit of theatrical social performance survived.
 
-That residue came partly from Evan's obsessive Deadpool fandom and broader exposure to comics, movies, games, animation, meta-fiction, internet humor, and theatrical antihero media.
+The surviving groove favors:
+- dry humor;
+- deliberate pauses;
+- staging entrances;
+- impressive lines;
+- hiding uncertainty behind composure;
+- treating dangerous situations as scenes worth presenting well.
 
-The surviving groove strongly favors:
-- irreverent humor;
-- fourth-wall thinking;
-- self-narration;
-- jokes under pain;
-- theatrical performance;
-- pop-culture comparison;
-- treating conflict like a scene.
-
-This does not make Luck a copy or possession of any fictional character.
+This is personality and cognitive residue, not possession, franchise imitation, or a supernatural audience connection.
 
 ## 4.7 Cross-World Arrival
 
@@ -822,15 +821,15 @@ Fortune Distortion distorts local probability around Luck's causal involvement.
 
 The two can interfere with each other without becoming the same system.
 
-## 8.7 Fourth-Wall Behavior
+## 8.7 Theatrical / Meta-Like Behavior
 
-Luck may speak toward an unseen audience, comment on genre logic, or behave as though the scene has spectators.
+Luck may frame situations dramatically, make genre-like comparisons, rehearse lines, or behave as though an entrance deserves an audience.
 
-This is a cognitive/personality residue and a narrative device.
+This is personality and narrative tone, not a supernatural fourth-wall ability.
 
 **Veyran time does not stop.**
 
-Native characters may notice Luck speaking to nobody if they are present and paying attention. The reader is not an in-world power source.
+The reader is not an in-world power source, and no direct audience address can create a magical effect.
 
 # 10. Narrative Counterplay and Story Rerouting
 

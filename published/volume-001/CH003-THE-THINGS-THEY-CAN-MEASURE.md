@@ -78,7 +78,7 @@ She ignored that and looked at his left forearm.
 
 "The injury."
 
-Luck rolled up the torn sleeve. The cuts from that morning were still visible, though smaller than they had any right to be. Maelis placed the transparent gauge beside the longest mark without touching it.
+Luck rolled up the torn sleeve. The cuts from that morning were still visible beneath the rough bandage, their edges dried but sore whenever he flexed his wrist. Maelis placed the transparent gauge beside the longest mark without touching it.
 
 "Current visible state only," she told the clerk.
 

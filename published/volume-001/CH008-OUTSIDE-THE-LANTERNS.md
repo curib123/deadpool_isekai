@@ -270,7 +270,7 @@ Kellan did not sound convinced. He slipped the tag into his pocket. Luck stared 
 
 A dropped basket had saved a cart. A snapped rope had dropped a plank exactly where it helped. Now a random cargo tag had fallen at his feet from a wagon that apparently should not have been there.
 
-The yard was poorly maintained and the roads were worse. It was apparently possible to make a career by standing near neglected equipment at the right time. Kellan looked at him.
+The outer works were poorly maintained and the roads were worse. It was apparently possible to make a career by standing near neglected equipment at the right time. Kellan looked at him.
 
 "What?"
 

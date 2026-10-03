@@ -1,175 +1,71 @@
 # Web-Novel Prose Style Standard
 
-**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
-**Status:** LOCKED QA STANDARD — DISTANT THIRD-PERSON LIMITED  
-**Effective:** 2026-09-26
+**Status:** CURRENT — 2026-10-03
 
-This standard checks whether a chapter reads like modern distant third-person serial web fiction.
+# POV
+Distant third-person limited focused on Luck Everhart.
 
-# 1. POV Distance
+Use Luck/he/him/his.
+Do not head-hop.
+Do not default to first-person narration.
 
-PASS when:
-- narration uses Rook / he / him / his;
-- the narrator remains outside Rook rather than continuously speaking as Rook;
-- the scene stays limited to information Rook could reasonably encounter plus established external facts;
-- other characters' private thoughts are not entered;
-- Rook's internal thoughts are selective and brief.
+# Style
+Use cinematic, natural English:
+- clear visual staging;
+- active verbs;
+- purposeful dialogue;
+- selective internal thought;
+- mobile-readable paragraphs;
+- concrete sensory detail when it affects the scene.
 
-FAIL when:
-- narration uses first-person I / me / my outside dialogue, quoted thought, or a deliberately formatted reader-address aside;
-- the narrator head-hops;
-- every paragraph is filtered through Rook's immediate thoughts;
-- the narrator reveals protected truth nobody in the scene can know.
+# Paragraph Rhythm
+Normal narration: usually 2–5 connected sentences.
 
-# 2. Narration / Dialogue / Thought Mix
-
-Flexible target:
-- **55–70%** distant narration/action;
-- **25–40%** dialogue;
-- **0–10%** direct Rook thought.
-
-Not a quota.
-
-PASS when the mix fits the scene.
-
-# 3. Dialogue Quality
-
-Dialogue must:
-- sound character-specific;
-- create friction, humor, information, pressure, or change;
-- carry much of Rook's personality externally;
-- avoid repeating what narration already explained.
-
-# 4. Internal Thought
-
-Rook's thought access should be selective.
-
-Preferred:
-
-Rook watched the locked gate.
-
-*Could break it.*
-
-He knocked instead.
-
-Avoid:
-- paragraphs of internal monologue;
-- constant italic thoughts;
-- explaining every motive before Rook acts;
-- first-person thought-stream narration disguised as third person.
-
-# 5. Narrative Neutrality
-
-The narrator may have style and rhythm, but should be more neutral than Rook.
-
-Preferred:
-
-The room was small and overfilled with shelves.
-
-Rook looked around once.
-
-"Paperwork won."
-
-Avoid turning every descriptive sentence into a Rook joke.
-
-# 6. Paragraph Rhythm
-
-PASS when:
-- normal narration is mostly **2–5 connected sentences per paragraph**;
-- one-sentence narration paragraphs are selective;
-- dialogue turns remain separated by speaker;
-- long blocks are rare;
-- mobile reading remains breathable;
-- action geography is clear;
-- no chapter defaults to sentence → blank line → sentence for ordinary narration.
-
-FAIL when:
-- three or more one-sentence narration paragraphs repeatedly appear in chains without a deliberate action/climax reason;
-- most narration paragraphs contain only one sentence;
-- paragraph breaks separate thoughts that belong to one continuous beat;
-- "cinematic" formatting is being used as an excuse for fragment stacks.
-
-Single-sentence paragraphs are valid for impact, punchlines, reveals, reversals, silence, sudden danger, and chapter hooks.
-
-# 7. Scene Movement
-
-Every scene must change at least one:
-- objective;
-- knowledge;
+One-sentence paragraphs are reserved for:
+- impact;
 - danger;
-- relationship;
-- position;
-- evidence;
-- misunderstanding;
-- reputation;
-- physical condition;
-- immediate plan.
+- reversal;
+- punchline;
+- discovery;
+- final hook.
 
-# 8. Exposition
+Avoid long chains of isolated narration sentences.
 
-Distant narration may summarize efficiently, but must not become an encyclopedia.
+# Internal Thought
+Use brief thoughts to reveal:
+- fear hidden by composure;
+- what Luck is actually trying to do;
+- why a performance is fake;
+- what he cannot say aloud.
 
-Worldbuilding should still attach to:
-- action;
-- work;
-- travel;
-- conflict;
-- investigation;
-- consequence.
+Do not use thoughts to explain everything the reader already sees.
 
-# 9. Action Readability
+# Dialogue
+Character voices should differ.
 
-Combat must preserve:
-- who is where;
-- who wants what;
-- visible actions;
-- supporting-cast agency;
-- consequence.
+Dialogue must pursue a purpose, not alternate exposition.
 
-Do not hide action inside internal commentary.
+# Comedy
+Prefer:
+- mismatch between private intent and public interpretation;
+- failed theatrics;
+- practical interruptions;
+- rumors becoming cleaner than reality;
+- Luck accepting useful credit.
 
-# 10. Rook Vane Character Test
+Do not joke over irreversible harm.
 
-Even with distant narration, Rook must still feel like Rook through:
-- dialogue;
-- choices;
-- timing;
-- body language;
-- improbable lucky outcomes;
-- selective thought;
-- other people's reactions.
+# Action
+Shorten sentences during danger, then return to natural paragraph flow afterward.
 
-If removing internal monologue makes him generic, the scene needs stronger dialogue/action characterization.
+# Exposition
+Deliver through work, law, travel, equipment, money, medicine, investigation, and consequences.
 
-# 11. Reader-Address Exception
+# Removed Legacy
+No Red Jackal current voice.
+No first-person default.
+No Fourth-Wall time stop.
+No Play Logic language.
 
-Normal narration is third-person.
-
-Rook may directly address the reader as a deliberate meta-comedic device.
-
-During a reader-address beat:
-- Veyran time continues normally;
-- no tactical pause is created;
-- first-person speech is allowed because Rook is speaking;
-- narration returns immediately to distant third-person;
-- nearby characters may notice if Rook physically speaks aloud.
-
-# 12. Final Gate
-
-Before Gate 9 PASS, answer:
-
-1. Is narration predominantly third-person?
-2. Does the narrator remain outside Rook's constant thought-stream?
-3. Are Rook's thoughts selective?
-4. Does dialogue carry personality?
-5. Are other characters distinguishable?
-6. Is mobile readability strong?
-7. Is exposition controlled?
-8. Is action geography readable?
-9. Does the narrator avoid head-hopping?
-10. Is reader address clearly separated without implying time stop?
-11. Does Rook remain recognizable without continuous inner monologue?
-12. Does the chapter end with forward pull?
-13. Are one-sentence narration paragraphs selective rather than the dominant layout?
-
-Any essential NO requires revision.
+# Verdict
+Prose passes when readers can picture the scene, follow causality, hear distinct voices, and move through the chapter without formatting fatigue.

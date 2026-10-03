@@ -1,7 +1,7 @@
 # Character Bible
 
 **Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
-**Status:** AUTHOR-DIRECTED REVISION — STABLE PERFORMER / PERMANENTLY CLUELESS LUCK — 2026-10-02
+**Status:** AUTHOR-DIRECTED REVISION — CINEMATIC STABLE PERFORMER / PERMANENTLY CLUELESS LUCK — 2026-10-03
 
 # 1. Character Canon Rules
 
@@ -25,6 +25,21 @@ Luck may steal attention without stealing everyone else's causality.
 Luck Everhart is not a chosen Hero.
 
 He is not secretly an immortal, max-level fighter, reality-warper, regenerator, time-stopper, or divine avatar.
+
+## 2.1A Name Origin
+
+**Luck Everhart is a self-chosen Veyran name, not a recovered Earth identity.**
+
+After surviving his first forest encounter through an absurd chain of individually possible accidents, he still cannot recover a reliable full Earth name. He chooses **Luck** with dry irony because "lucky" is the least impossible explanation he has for still being alive.
+
+He chooses **Everhart** because it sounds like the kind of surname a mysterious traveler should have when he has no usable history to give strangers. To Luck, it is presentation: memorable, respectable, and dramatic enough to say at a gate without admitting that his past is mostly blank.
+
+The choice is important because it establishes three permanent traits at once:
+- he recognizes individual lucky incidents without recognizing a supernatural luck power;
+- he consciously authors his public persona;
+- he would rather improvise a convincing identity than confess uncertainty to an audience.
+
+No later reveal converts "Luck Everhart" into a secret birth name, prophecy name, divine title, or proof that he understood Fortune Distortion.
 
 ## 2.2 Appearance
 

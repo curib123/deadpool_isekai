@@ -1,5 +1,24 @@
 # Current Series Roadmap — Luck Everhart Cinematic Canon
 
+# CURRENT LUCK EVERHART CINEMATIC AUTHORITY — 2026-10-03
+
+This section supersedes **all conflicting historical text in this file**.
+
+- Protagonist: **Luck Everhart**.
+- POV: **distant third-person limited centered on Luck**.
+- Luck's only supernatural ability is **passive Fortune Distortion**.
+- Fortune Distortion biases individually possible events; Luck cannot activate it, command exact outcomes, create matter, stop/rewind time, regenerate, or unlock additional supernatural powers.
+- Luck remains physically mortal. Injuries, treatment, money, damaged equipment, debts, rumors, political consequences, and relationship changes persist.
+- Luck never correctly identifies a personal supernatural luck ability, including in the ending.
+- Luck enjoys theatrical entrances, mysterious lines, and looking important from the beginning; this is personality, not a later unlock.
+- Major lucky outcomes must show physical/social cause and effect before the payoff.
+- Witnesses may correctly reconstruct visible mechanics while wrongly attributing deliberate genius to Luck.
+- Misunderstandings must vary and must create later consequences rather than functioning as consequence-free praise.
+- Scene standard: **goal → obstacle → attempt → meaningful change** with clear staging and purposeful dialogue.
+- Any legacy references below to **Red Jackal**, close/first-person narration, Play Logic, regeneration, manifestations, overwhelming raw power, Stage progression, or eventual luck awareness are **historical only and non-authoritative**.
+- Greywake remains the completed Volume 1 destination arc; Merrowgate remains the approved Volume 2 destination arc. Existing plot order survives unless a chapter-level cinematic revision explicitly changes execution while preserving causal continuity.
+
+
 ## Authoritative Revision — 2026-10-03
 
 This section supersedes every conflicting historical statement later in this file.

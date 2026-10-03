@@ -1,34 +1,25 @@
 # Destination → Volume → Chapter Planning
 
-# CURRENT LUCK EVERHART CINEMATIC AUTHORITY — 2026-10-03
+## Current Cinematic Luck Everhart Authority — 2026-10-03
 
-This section supersedes **all conflicting historical text in this file**.
+This section overrides conflicting historical planning text below.
 
-- Protagonist: **Luck Everhart**.
-- POV: **distant third-person limited centered on Luck**.
-- Luck's only supernatural ability is **passive Fortune Distortion**.
-- Fortune Distortion biases individually possible events; Luck cannot activate it, command exact outcomes, create matter, stop/rewind time, regenerate, or unlock additional supernatural powers.
-- Luck remains physically mortal. Injuries, treatment, money, damaged equipment, debts, rumors, political consequences, and relationship changes persist.
-- Luck never correctly identifies a personal supernatural luck ability, including in the ending.
-- Luck enjoys theatrical entrances, mysterious lines, and looking important from the beginning; this is personality, not a later unlock.
-- Major lucky outcomes must show physical/social cause and effect before the payoff.
-- Witnesses may correctly reconstruct visible mechanics while wrongly attributing deliberate genius to Luck.
-- Misunderstandings must vary and must create later consequences rather than functioning as consequence-free praise.
-- Scene standard: **goal → obstacle → attempt → meaningful change** with clear staging and purposeful dialogue.
-- Any legacy references below to **Red Jackal**, close/first-person narration, Play Logic, regeneration, manifestations, overwhelming raw power, Stage progression, or eventual luck awareness are **historical only and non-authoritative**.
-- Greywake remains the completed Volume 1 destination arc; Merrowgate remains the approved Volume 2 destination arc. Existing plot order survives unless a chapter-level cinematic revision explicitly changes execution while preserving causal continuity.
+- **Protagonist:** Luck Everhart.
+- **POV:** distant third-person limited centered on Luck.
+- **Only supernatural ability:** passive Fortune Distortion.
+- **No:** Play Logic, constructs, regeneration, self-restoration, Stage progression, raw-power escalation, time stop, or conscious probability control.
+- **Luck never discovers that Fortune Distortion is his personal supernatural power.**
+- **Every scene:** goal → obstacle → attempt → meaningful change.
+- **Luck event:** establish ordinary variables first, show the causal chain, let Luck/allies convert the opening, and preserve costs afterward.
+- **Misunderstanding:** witnesses may correctly reconstruct physical facts while incorrectly inferring Luck planned them.
+- **Consequence continuity:** injuries, debts, broken equipment, political suspicion, promises, rumors, and damaged relationships persist.
+- **Future chapter planning:** any old field referring to Luck Everhart, Play Logic, manifestations, regeneration, close/distant third-person limited POV, or overwhelming capability is deprecated and must be interpreted through the current Luck-only rules instead.
 
+### Current production state
 
-## Current Author-Directed Revision — 2026-10-02
+Prologue and CH-001–CH-027 are synchronized to the Luck Everhart canon. CH-004, CH-006, CH-011, and CH-014 received full cinematic rewrites because they had been skipped by the previous prose pass. CH-028 remains the next unwritten chapter.
 
-**Priority:** permanently clueless luck / stable theatrical Luck / evidence-based witness overanalysis.
-
-This section supersedes all historical production, power, personality, and knowledge-growth statements below. Luck never correctly identifies his own supernatural luck, including in the final scene. He enjoys performing a mysterious role from the beginning. Other characters reconstruct hidden plans while Luck attributes events to ordinary causes or a successful act. The final scene retains that mismatch.
-
-The prologue and 23 existing chapters have been revised for this direction. The 4 remaining manuscripts were checked for the targeted power/knowledge conflicts and retain their existing prose. Old object creation, automatic healing, and raw-strength victories found in current manuscripts have been replaced with tools, timing, terrain, material failure, and independent supporting action.
-
-**Revision state:** REVIEW DRAFT — focused editorial review recorded in `qa/LUCK-CLUELESS-LUCK-REVISION-QA.md`. Earlier Gate 9 and publication PASS labels are historical and do not approve changed text. This pass does not claim full publication certification or newly authorize CH-028 production. Formal chapter/canon/publication review continues under the studio pipeline.
-
+---
 
 **Owners:** A060-A081
 
@@ -87,7 +78,7 @@ Volume record:
 - exploration
 - major action
 - mystery contribution
-- Red stable-character / situation beat
+- Luck stable-character / situation beat
 - power display / revelation choice
 - midpoint shift
 - escalation
@@ -107,7 +98,7 @@ Travel matters. Use roads, ships, caravans, magical routes, passes, wilderness, 
 - Volume:
 - Destination:
 - Working title:
-- POV: close first-person limited centered on Red Jackal
+- POV: distant third-person limited centered on Luck Everhart
 - Characters:
 - Location:
 - Opening situation:
@@ -118,11 +109,11 @@ Travel matters. Use roads, ships, caravans, magical routes, passes, wilderness, 
 - Engagement turn / escalation:
 - What changes because of the Engagement Beat:
 - Why the Engagement Beat cannot be removed:
-- Native story baseline before Red interferes:
+- Native story baseline before Luck interferes:
 - Who owns the original objective:
 - Conflict:
-- Red's personal/selfish reason to engage:
-- Red intrusion / false-main-character beat:
+- Luck's personal/selfish reason to engage:
+- Luck intrusion / false-main-character beat:
 - Earned unexpected turn:
 - Aura-farming opportunity (optional):
 - Enemy-play / voluntary restraint choice:
@@ -133,7 +124,7 @@ Travel matters. Use roads, ships, caravans, magical routes, passes, wilderness, 
 - Play Logic use:
 - Fourth-Wall Pause opportunity (optional):
 - System/magic use:
-- Consequence caused by Red:
+- Consequence caused by Luck:
 - Causal reroute that preserves sequence:
 - Off-screen independent story movement (if applicable):
 - Mystery/foreshadowing:
@@ -584,16 +575,16 @@ Native story:
 ## Planning Interpretation
 
 All future chapter/scene plans must assume:
-- Red is already overwhelmingly powerful;
-- Red has no level/class/stage progression;
-- Red has no conventional personality-growth arc;
-- first-person narration is mandatory for Red chapters;
+- Luck is already overwhelmingly powerful;
+- Luck has no level/class/stage progression;
+- Luck has no conventional personality-growth arc;
+- distant third-person limited narration is mandatory for Luck chapters;
 - every genuine fourth-wall address freezes Veyran time;
 - enemy-playing and voluntary restraint are character behavior;
 - aura farming is recurring;
 - local serious consequences remain real;
 - other characters and the native Hero/Villain storyline exist independently;
-- Red may hijack a scene but later causality must reroute instead of being discarded.
+- Luck may hijack a scene but later causality must reroute instead of being discarded.
 
 ## Preservation Lock
 
@@ -619,7 +610,7 @@ Old Gate 9 approvals remain historical for event continuity but are **not curren
 
 **Production order:** CH-001 → CH-027 sequential rewrite + Gate 9.
 
-**Current synchronization state:** CH-001 through CH-026 COMPLETE — current Soul-Drift / close-first-person / final story-engine manuscripts have passed Gate 9.
+**Current synchronization state:** CH-001 through CH-026 COMPLETE — current Soul-Drift / close-distant third-person limited / final story-engine manuscripts have passed Gate 9.
 
 **Official next step:** CH-027 — Salt in the Air → Soul-Drift / Close First-Person / Final Story-Engine Manuscript Revision → Gate 9 Revalidation.
 
@@ -643,15 +634,15 @@ Future work must proceed through:
 
 Exact future destination selection remains deferred until Gate 5. The registry's provisional identity/registration, anomaly-consequence, ancient-history, exploitation/Savael, and endgame-choice slots are not Volume 3 assignments and do not authorize future manuscripts.
 
-The current active production step remains CH-027 Soul-Drift / close-first-person / final-story-engine synchronization and Gate 9 revalidation. This future-arc architecture does not unpause later chapter work or alter Arc 1 publication state.
+The current active production step remains CH-027 Soul-Drift / close-distant third-person limited / final-story-engine synchronization and Gate 9 revalidation. This future-arc architecture does not unpause later chapter work or alter Arc 1 publication state.
 
 
 # Current Soul-Drift Synchronization Authority — 2026-09-20
 
 This section supersedes any historical pre-reset production-status statements elsewhere in this file.
 
-- **CH-001→CH-027:** CURRENT CANON — Soul-Drift / close first-person / final story engine — Gate 9 PASS.
-- **CH-027 — Salt in the Air:** rewritten and revalidated in close first-person on 2026-09-26.
+- **CH-001→CH-027:** CURRENT CANON — Soul-Drift / distant third-person limited / final story engine — Gate 9 PASS.
+- **CH-027 — Salt in the Air:** rewritten and revalidated in distant third-person limited on 2026-09-26.
 - **CH-028 — The Man on the Manifest:** AUTHORIZED NEXT STEP — Gate 8 pending.
 - **Official next step:** **CH-028 — The Man on the Manifest → Detailed Scene Architecture → Gate 8.**
 

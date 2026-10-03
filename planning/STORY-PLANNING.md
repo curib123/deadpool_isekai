@@ -1,5 +1,16 @@
 # Destination → Volume → Chapter Planning
 
+## Current Author-Directed Revision — 2026-10-02
+
+**Priority:** permanently clueless luck / stable theatrical Rook / evidence-based witness overanalysis.
+
+This section supersedes all historical production, power, personality, and knowledge-growth statements below. Rook never correctly identifies his own supernatural luck, including in the final scene. He enjoys performing a mysterious role from the beginning. Other characters reconstruct hidden plans while Rook attributes events to ordinary causes or a successful act. The final scene retains that mismatch.
+
+The prologue and 23 existing chapters have been revised for this direction. The 4 remaining manuscripts were checked for the targeted power/knowledge conflicts and retain their existing prose. Old object creation, automatic healing, and raw-strength victories found in current manuscripts have been replaced with tools, timing, terrain, material failure, and independent supporting action.
+
+**Revision state:** REVIEW DRAFT — focused editorial review recorded in `qa/ROOK-CLUELESS-LUCK-REVISION-QA.md`. Earlier Gate 9 and publication PASS labels are historical and do not approve changed text. This pass does not claim full publication certification or newly authorize CH-028 production. Formal chapter/canon/publication review continues under the studio pipeline.
+
+
 **Owners:** A060-A081
 
 # 1. Destination Inventory and Selection

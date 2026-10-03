@@ -1,5 +1,12 @@
 # QA Gates
 
+## Author-Directed Character and Knowledge Override — 2026-10-02
+
+This applies to foundation, planning, manuscript, series, and release checks and supersedes older awareness-growth language. Reject any scene where Rook correctly identifies Fortune Distortion as his own ability or knowingly depends on personal luck. He remains unaware through the final scene. His desire to play an enigmatic role exists from the prologue and remains stable. Witness theories must be observable, grounded in evidence available to that witness, and consequential; supporting characters retain independent competence. Knowing that he performs a bluff is not knowing that luck is a power.
+
+Historical PASS records cannot be carried forward after prose changes without checking the new source. See `qa/ROOK-CLUELESS-LUCK-REVISION-QA.md` for the current focused review and release limits.
+
+
 QA is distributed across the studio. Each gate is owned by the role closest to the problem.
 
 # Gate 1 — Foundation QA
@@ -238,7 +245,7 @@ If any CRITICAL or MAJOR issue fails: **FAIL — RETURN TO SCENE ARCHITECT AND R
 - If he stops playing, is the serious switch restraint removal rather than a power-up?
 
 ## POV / Prose
-- close first-person limited centered on Rook throughout?
+- distant third-person limited centered on Rook throughout?
 - no head-hopping?
 - no omniscient information Rook could not know?
 - simple, natural, movie-like English?

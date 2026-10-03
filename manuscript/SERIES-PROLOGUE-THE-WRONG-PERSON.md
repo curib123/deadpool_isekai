@@ -1,43 +1,48 @@
 # Prologue — The World Was Waiting for Someone Else
 
-**Status:** CURRENT CANON PROLOGUE — SERIES OPENING
-**Revision Date:** 2026-09-27
+**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK
+**Revision Date:** 2026-10-02
 **Volume:** Series front matter
-**POV:** Close first-person Rook Vane
-**Word Count:** 446
+**POV:** Distant third-person limited — Rook Vane
 
-The world had already made plans for somebody else. I did not know that when I died. At the time, I was busy being on fire.
+The last thing Rook remembered was a white flash. There had been heat, pressure, and a noise too large to remain a noise. After that, there was no room, no street, and nothing beneath his feet.
 
-There was a white flash. Heat. Pressure. A sound so large it became a physical thing pressing through me. Then the idea of having a body separated from the body itself.
+He tried to recover a name. Something familiar waited behind the effort, but reaching for it hurt. Faces would not hold still. A home became the idea of a home and then disappeared.
 
-That was inconvenient.
+He retained less useful things perfectly. What a phone was. Why explosions were bad. The correct length of a pause before someone stepped out of the darkness and said something that made everybody else go quiet.
 
-I tried to remember my name. The answer came back as a hallway with every door closed. I knew what a phone was. I knew what a hospital was. I knew that explosions were bad for long-term health. I knew enough movies, comics, games, internet jokes, and survival advice to recognize several possible genres for what was happening.
+Apparently his memory had priorities.
 
-None of them included useful instructions. There should have been a voice. There should have been a glowing window.
+"Hello?"
 
-There should have been a polite figure explaining that I had died because of an unusually dramatic accident and would now receive a second life, three starting gifts, and a suspiciously specific mission involving a demon king. Nothing appeared. I waited. The white continued.
+Nothing answered. He waited for a voice, a glowing instruction, or somebody prepared to apologize for the lack of facilities. There should have been a person explaining the situation. At minimum, there should have been somewhere to sit.
 
-“Hello?”
+Rook could imagine the scene that ought to follow: an unfamiliar room, strangers arguing about a crisis, then his arrival at exactly the right moment. He would not need to understand the argument immediately. The first task would be looking as though he did.
 
-The sound stopped.
+He tried a sentence under his breath.
 
-Not faded. Stopped.
+"You have mistaken the beginning for the end."
 
-Somewhere beyond the white, a piece of reality held still. A fragment of heat. A pressure wave. Maybe a thought. It hovered without moving while I looked around the empty space. I looked toward the place that felt like an audience.
+Good weight. Difficult to use in an ordinary conversation. He would save it for a suitable doorway.
 
-“If this is the dramatic pause before the tutorial, I would like to register a complaint.”
+Cold arrived before a doorway did. Damp earth pressed against his back. He felt fingers, ribs, teeth, and a coat snagged under one shoulder. Something small crawled over his wrist.
 
-Nothing answered. The frozen heat resumed. So that was new.
+Rook opened his eyes beneath a green canopy. There was no welcoming figure, no rescue crew, and no audience to appreciate his composure. He jerked his hand away from the crawling thing before checking the rest of himself.
 
-The memory of dying remained. The memory of everything before dying did not. I reached for a face and found a blur. I reached for a home and found a locked door. I reached for the person I had been and felt something inside me slip away before I could hold it. Whatever had crossed the distance between one moment and the next, it had not brought me over intact.
+Everything seemed attached. Whatever had happened before this place, it had not supplied an explanation.
 
-I was not sure whether that counted as a tragedy. It was difficult to mourn a person whose name would not stay in my head. The white thinned.
+He rolled onto one elbow. Farther between the trees, something heavy moved through the brush. Rook listened, then looked for a path. A dramatic entrance would have to wait until he reached people.
 
-Cold arrived first. Then damp earth. Then the weight of leaves above me. I felt my fingers. My ribs. My teeth. My face. Everything seemed to be attached, which placed the morning above average. Somewhere nearby, something with too many legs moved through a root system.
+First, he needed breakfast.
 
-I opened my eyes.
+He stood without noticing the beetle beneath his heel. His boot missed it by less than the width of a leaf. Above him, a cracked branch shifted, caught against another limb, and remained there until he had walked beneath it.
 
-Green canopy. Rainwater. Dark soil. No road. No rescue crew. No goddess with a clipboard. The world had received me. It simply had no record of doing so.
+Rook stopped to brush dirt from his coat.
 
-That was how I entered Veyr: alive, unregistered, and already standing in somebody else's story.
+The branch fell behind him.
+
+He glanced back at the broken wood, checked the canopy more carefully, and moved away from the tree. Old branches fell. There was no reason to make the morning more complicated than it already was.
+
+He still had no idea where he had arrived, what had brought him, or why the danger kept reaching the place he had just left. The forest offered none of those answers. Somewhere beyond it, people would have their own reasons for whatever they thought he was.
+
+Rook practiced the sentence once more while searching for a road.

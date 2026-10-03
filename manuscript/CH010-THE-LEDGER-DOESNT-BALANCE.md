@@ -1,9 +1,8 @@
 # Chapter 10 — The Ledger Doesn't Balance
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
-**Revision Date:** 2026-09-27
-**Word Count:** 3,562
-**Chapter QA:** `qa/CH-010-GATE-9-CHAPTER-QA.md`
+**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK / STABLE THEATRICAL MC
+**Revision Date:** 2026-10-02
+**Word Count:** 3509
 
 Three stacks of paper were waiting for him when Rook entered the Ledger room. Maelis sat behind them with a pen in one hand and a charged Wayfarer Tongue Token beside her elbow. She did not look up.
 
@@ -537,7 +536,7 @@ Hesk's expression did not change. That made the pressure harder to measure.
 
 "I know."
 
-He reached for the ledger. Rook put his hand on it first. Not hard. No threat. Just occupied territory. Hesk looked at his hand. Then his eyes settled on him. Rook kept his hand where it was.
+He reached for the ledger. Rook put his hand on it first. Not hard. No threat. Just occupied territory. He had seen people do that before delivering a devastating line. Unfortunately, he had committed the hand before preparing the line. Hesk looked at his hand. Then his eyes settled on him. Rook kept his hand where it was.
 
 "No."
 

@@ -1,10 +1,5 @@
 # Chapter 27 — Salt in the Air
 
-**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK / STABLE THEATRICAL MC
-**Revision Date:** 2026-10-02
-**Word Count:** 1997
-**Volume:** 2 — Merrowgate Arc
-
 Freedom, Rook discovered, had expenses. Food. Beds. River crossings. Even his bag had somehow become a paying passenger. Several days out from Greywake, the road no longer looked like something the forest tolerated by accident. Traffic came from both directions. Covered wagons rolled past with painted merchant marks on their sides. Roadside shelters had feed troughs, cooking fires, fenced yards, and boards full of writing that remained personally committed to excluding him. His literacy had made no progress whatsoever. Rook had learned a few symbols through repetition. A mark beside a water barrel usually meant something involving water. A painted wheel near a yard generally meant carts. A large block of text beside a person holding out one hand usually meant money was about to leave his.
 
 That last language appeared to be universal. Rook adjusted the strap across his shoulder. His pack felt heavier than when Rook left Greywake even though he had eaten part of what was inside. The problem was probably his shoulder, his ribs, or Sela's packet of bandages, which was large enough to support a small military campaign. Rook had considered leaving it behind. Then his side started aching halfway through a long morning. Rook kept the bandages. Sela did not need to know she had won from several days away.

@@ -1,9 +1,8 @@
 # Chapter 9 — Wrong Tracks
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
-**Revision Date:** 2026-09-27
-**Word Count:** 3,008
-**Chapter QA:** `qa/CH-009-GATE-9-CHAPTER-QA.md`
+**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK / STABLE THEATRICAL MC
+**Revision Date:** 2026-10-02
+**Word Count:** 2961
 
 Rook stepped out of his rented room and found Tavian waiting at the end of the lane. Polearm over one shoulder. Field pack at his side. A charged Wayfarer Tongue Token hung from one strap. No breakfast. Suspicious immediately.
 
@@ -323,7 +322,7 @@ Rook looked. Between the fallen trunk and an exposed root wall, a narrow opening
 
 "Close it."
 
-Simple. Rook could have closed the entire crossing. The trail. The forest. Rook could have made the pack's tactical options somebody else's philosophical problem. None of that was necessary. Tavian needed one gap gone. So one gap disappeared. A low pale-grey obstruction formed between the trunk and the roots. Thick. Ugly. More bunker than barrier. The fourth predator checked its stride and hit the edge with one foreleg. The obstruction held. Tavian moved immediately.
+Rook grabbed a dead limb wedged beside the fallen trunk. It looked loose and was not. His first pull did nothing; the second shifted the limb just as the approaching hound landed on its far end. The rotten base cracked, swinging the whole piece between the trunk and the roots. The fourth predator hit the branches with one foreleg and recoiled. Rook had intended to obtain a club. He had apparently obtained a fence. Tavian used the opening immediately.
 
 "Left."
 
@@ -347,7 +346,7 @@ Tavian struck the ground with the polearm shaft. The crack made the animal jump 
 
 "Done."
 
-Rook released the obstruction. It folded out of the world because he was done with it. Three breaths. That was all Tavian had asked for. The fourth predator pushed into the reopened gap. Tavian was already there. He slammed the polearm shaft across its chest and redirected it toward the open west side. The encirclement broke.
+"Done," Rook repeated, although he had no idea how to undo his accidental fence. He kicked the nearest loose branch to free his boot. The hound shoved from the other side at the same moment, and the rotten fork gave way. Tavian was already at the reopened gap. He slammed the polearm shaft across the animal's chest and redirected it toward the open west side. The encirclement broke.
 
 That changed the animals' calculation. Dangerous did not mean suicidal. One backed into brush. Another followed. The one Rook had kicked watched him with flattened ears, then retreated. The last stayed near the old trail until Tavian advanced two measured steps. It disappeared north. Leaves settled. The grazers were gone. So was the clean observation. Tavian lowered his polearm. Then looked at him. Rook knew that look. Sela had a medical version. Kellan had an engineering version. Tavian had the original.
 
@@ -423,7 +422,7 @@ He looked up. That paused him.
 
 "Yes."
 
-They left the crossing. Tavian said nothing for several minutes. Rook allowed the silence. Not because Rook had become patient. He was curious what he would do with it. His ribs began aching from the walking. Ordinary soreness. Nothing about the morning had reduced what Rook could do. Tavian noticed anyway.
+They left the crossing. Tavian said nothing for several minutes. Rook allowed the silence. Not because Rook had become patient. He was curious what he would do with it. His ribs began aching from the walking. Ordinary soreness. He needed Sela to check the bandage before he pretended any more running was a good idea. Tavian noticed anyway.
 
 "Can you walk?"
 

@@ -1,7 +1,7 @@
 # Chapter 7 — You Should Be Dead
 
-**Status:** CANON RESET — DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY  
-**Revision Date:** 2026-09-27
+**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK / STABLE THEATRICAL MC
+**Revision Date:** 2026-10-02
 
 The road workers were arguing about a marker post when Tavian found the tracks.
 
@@ -107,7 +107,7 @@ Rook rolled. The second predator entered from the wagon side. Because Rook had l
 
 The younger worker was exposed. The animal hit him below the knee. He screamed and went down.
 
-Everything became simple. Rook's mistake had changed the board. His luck had moved his throat out of a bite.
+Everything became simple. Rook's mistake had changed the board. A slippery stone and an unexpectedly durable buckle had kept the bite from his throat.
 
 It had done nothing for the worker. Tavian changed direction immediately. He struck the second animal across the muzzle with the polearm shaft, then drove the butt into its shoulder.
 
@@ -289,7 +289,7 @@ The sentence landed cleanly. Rook looked at the other table. The worker was stab
 
 Still injured. Still facing weeks of recovery. Because Rook had stepped out of position.
 
-Luck had protected Rook from his own mistake. It had not erased the mistake. That distinction was unpleasant.
+Rook had fallen out of the bite. The worker had been left in it. No performance could turn that into a clever plan, and Rook did not try.
 
 Useful, but unpleasant. Tavian crossed his arms.
 
@@ -330,6 +330,12 @@ People told the story as though Rook had arranged the sequence. Rook heard two m
 "He planned the rope?"
 
 "I heard he threw something at the wagon to release it."
+
+"He waited until the animal put its weight forward. The rope caught the leg, not the neck. Then the chest cut off the other approach. That is not a man choosing his tools at random."
+
+"Then why did the worker get hurt?"
+
+Neither guard answered immediately. Rook was grateful for the question. He would not have been grateful for whatever answer they invented.
 
 Rook closed his eyes. That was not completely false. Which was worse. Sela handed him a small packet of pain medicine.
 

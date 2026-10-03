@@ -1,7 +1,7 @@
 # Chapter 26 — Before They Decide What I Am
 
-**Status:** CANON RESET — DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY  
-**Revision Date:** 2026-09-27
+**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK / STABLE THEATRICAL MC
+**Revision Date:** 2026-10-02
 
 Sela changed Rook's bandage without asking permission. Rook considered objecting. Then she pulled the old wrap away from his shoulder and the wound reminded him that personal freedom had practical limits.
 
@@ -31,7 +31,7 @@ Rook's own injuries were healing normally. Slowly enough to be annoying, quickly
 
 Kellan would take longer. The road worker from the predator attack would take longer still. Luck had never changed that.
 
-It had only kept Rook from becoming the worst patient in the room. Kellan set the map down.
+Rook had taken shallower injuries. Kellan set the map down.
 
 "You leaving?"
 
@@ -147,11 +147,11 @@ Useful answer. Maelis continued.
 
 Rook leaned back.
 
-"So your official conclusion is that I am annoyingly lucky."
+"So your official conclusion is that I should stop standing beside badly maintained equipment."
 
 "My official conclusion is that chance behaves abnormally around your involvement."
 
-That sounded worse. Rook looked toward Jessa.
+Rook looked at the listed failures. He remembered the rope, the marker, the old timber, and the crews who had been repairing equipment while using it. Maelis was asking a larger question than he was. He had no way to measure how many uneventful mornings her folder had omitted. Besides, people had been rearranging the accidents into plans since the bridge. He looked toward Jessa.
 
 "See why I wanted it burned?"
 
@@ -275,7 +275,7 @@ Important distinction.
 
 "Sometimes."
 
-"Undefined stranger kept near the gate in case probability becomes embarrassing?"
+"Undefined stranger kept near the gate in case someone needs a mysterious silhouette?"
 
 Brynn almost smiled.
 
@@ -347,7 +347,7 @@ Brynn nodded.
 
 Brynn picked up one apple.
 
-"No. Rumors started twenty chapters ago."
+"No. Rumors started before you learned where the inn was."
 
 Rook looked at her. She handed him the apple.
 
@@ -357,9 +357,9 @@ He took it. The driver climbed down, apologizing and collecting the scattered ca
 
 Normal. Good. He looked east.
 
-Maelis could call it abnormal probability. Tavian could call it an impossible field pattern. Greywake could call him a hidden master if it wanted.
+Maelis could investigate her statistical theory. Tavian could worry about the field incidents. Rook had a fare to pay, a city to reach, and a coat that would need brushing before his next entrance. Greywake had taken his performance seriously enough to offer him permanent work. If he waited much longer, he would become a mysterious municipal employee.
 
-Rook had a simpler name for it. A problem that kept being useful. He adjusted his pack.
+He adjusted his pack. A new place meant a new audience, preferably one that had not prepared a repair roster for him.
 
 "Before they decide what I am," he said, "I should probably leave."
 

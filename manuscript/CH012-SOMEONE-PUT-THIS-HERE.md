@@ -1,9 +1,8 @@
 # Chapter 12 — Someone Put This Here
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
-**Revision Date:** 2026-09-27
-**Word Count:** 2,704
-**Chapter QA:** `qa/CH-012-GATE-9-CHAPTER-QA.md`
+**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK / STABLE THEATRICAL MC
+**Revision Date:** 2026-10-02
+**Word Count:** 2808
 
 "A march-lure."
 
@@ -82,6 +81,16 @@ Tavian touched nothing. He only watched. "So not one forgotten device." Kellan s
 That was the problem with competent people. They kept making boring distinctions useful. They spent the next part of the morning reading the site without disturbing it. Tavian circled the ruined watch point and followed animal sign. Kellan traced the old roadwork and drainage cuts. Maelis measured the lure angle and copied the visible markings. Rook kept his hands to himself. A historic achievement. Tavian stopped near the slope where the ridge-hounds had refused to follow them. "Here."
 
 Rook joined him. The ground held several track sets. He could recognize the obvious shapes now. That still did not make him Tavian. He pointed toward the watch point. "See how they approach?"
+
+He meant the animals. Tavian followed the direction of his finger farther up the slope, where an old service access cut through the brush. "Approach on the screened side. A crew could maintain the stake without crossing the redirected movement."
+
+Maelis added the access to her sketch. "Then you were asking how it was serviced."
+
+Rook had been about to ask whether the nearest prints belonged to something that ate people. He kept his finger steady.
+
+"It seemed worth looking at."
+
+By afternoon, the service approach had become a reason to demand dispatch records. His pointing technique was having an excellent day.
 
 "Poorly?"
 

@@ -1,8 +1,8 @@
 # Chapter 3 — The Things They Can Measure
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
-**Revision Date:** 2026-09-27
-**Word Count:** 1,647
+**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK / STABLE THEATRICAL MC
+**Revision Date:** 2026-10-02
+**Word Count:** 1556
 
 By early afternoon, the wooden entrant token inside his coat had become the most official thing Rook owned. That was not a high bar. Greywake's records district sat under covered timber walkways while rain tapped the roofs and clerks moved bundles of paper from one office to another. Rook followed the directions from the gate, climbed a narrow staircase, and found Maelis Orra waiting in a second-floor Ledger room. A long table stood between them. So did enough instruments to make him regret arriving voluntarily. A metal balance plate. A pale bead in a clip. A transparent measuring strip. A flat verification tag. A clear prism in a protective frame. At the far end sat another Certified Identity Slate.
 
@@ -86,7 +86,7 @@ Rook rolled up the torn sleeve. The cuts from that morning were still visible, t
 
 "Current visible state only," she told the clerk.
 
-He wrote it down. No questions about how quickly it had closed. No theory. No dramatic declaration. Rook noticed. The material tag was even faster. His wooden entrant token registered as present physical material. So did the edge of his coat.
+He wrote it down. No questions about why the shallow cuts were crusted around the bandage. No theory. No dramatic declaration. Rook noticed. The material tag was even faster. His wooden entrant token registered as present physical material. So did the edge of his coat.
 
 Maelis reviewed the page.
 
@@ -144,7 +144,7 @@ Of course it wasn't. She reset the prism and repeated the test. Same result.
 
 "Repeatable," she said.
 
-Rook looked at his hand. The forest returned in pieces: teeth, mud, a snapped pole, a loose vine, and far too many accidents landing in his favor. Rook had told nobody how ridiculous the sequence had been. He was not starting now.
+Rook looked at his hand. The forest returned in pieces: teeth, mud, a snapped pole, a loose vine, and far too many accidents landing in his favor. Rook had told nobody how ridiculous the sequence had been. Wet wood broke and frightened animals made mistakes; the impressive part, as far as he was concerned, had been the final stare. He was not spoiling that now.
 
 "Does this mean I'm secretly an ancient archmage?"
 

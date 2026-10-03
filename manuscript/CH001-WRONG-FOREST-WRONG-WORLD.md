@@ -1,7 +1,7 @@
 # Chapter 1 — Wrong Forest, Wrong World
 
-**Status:** CANON RESET — SOUL DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY  
-**Revision Date:** 2026-09-27
+**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK / STABLE THEATRICAL MC
+**Revision Date:** 2026-10-02
 
 White light swallowed everything.
 
@@ -28,6 +28,8 @@ The forest did not answer. That became suspicious after another minute.
 No distant traffic. No aircraft. No electrical hum. The birds sounded wrong—not alien, exactly, but unfamiliar enough that Rook could not confidently name one. The trees were too large, the undergrowth too dense, and pale blue moss climbed one trunk in a spiral that looked almost deliberate.
 
 He stood carefully. His knees held. That was the second useful thing.
+
+Rook brushed the mud from one shoulder and tested a slow turn beneath the trees. A mysterious survivor should look as though he had chosen to arrive here. The second attempt caught his coat on a twig. He freed it, checked that nobody had seen, and tried the turn once more.
 
 Rook searched his pockets. A small folding knife. Empty wallet. No phone. A metal key he did not recognize. Three coins that definitely were not from Earth.
 
@@ -129,7 +131,7 @@ Rook stared back. He had done almost none of that on purpose. The animal did not
 
 His lungs were burning. His ankle hurt. A thin cut across his forearm had started bleeding where a branch had caught him during the run.
 
-He looked at the predator and made the best decision available. He pretended the entire thing had been intentional. Rook tilted his head.
+He looked at the predator and made the best decision available. He pretended the entire thing had been intentional. He had liked that kind of scene even before there was a monster available to appreciate it. Rook tilted his head and let the pause last exactly as long as he could tolerate.
 
 "Again?"
 

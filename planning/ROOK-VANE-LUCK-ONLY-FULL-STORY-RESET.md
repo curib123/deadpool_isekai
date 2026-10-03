@@ -1,6 +1,6 @@
 # Rook Vane — Luck-Only Full Story Reset
 
-**Status:** AUTHORITATIVE RESET — 2026-09-27
+**Status:** AUTHORITATIVE RESET — UPDATED PERSONALITY/KNOWLEDGE LOCK — 2026-10-02
 **Supersedes:** Red Jackal / Play Logic / regeneration / supernatural fourth-wall versions
 **Scope:** Series identity, protagonist, power system, Volume 1 Greywake, future arcs
 
@@ -230,7 +230,7 @@ Rook leaves Greywake for Merrowgate. By the time he departs, rumors describe a m
 
 # 9. Volume 1 Mystery
 
-The reader should understand before Rook does:
+The reader understands what Rook never correctly identifies, including in the ending:
 
 **His supernatural power is luck.**
 
@@ -268,3 +268,9 @@ The reset is complete only when:
 - allies remain competent;
 - the misunderstanding/reputation engine grows chapter by chapter;
 - prose no longer defaults to one-line narration.
+
+## Permanent Character Lock — 2026-10-02
+
+The author-directed permanent-clueless revision supersedes eventual-awareness language. Rook enjoys performing an enigmatic role from the prologue onward. He knows his bluff is a bluff, but he does not know Fortune Distortion is his power. Experts and opponents can produce elaborate theories; he attributes the results to accidents, ordinary improvisation, and a successful performance. This persists through the final scene. Ordinary skills and relationships develop without a power discovery or a personality replacement.
+
+Current manuscript changes are review drafts on the revision branch. Historical Gate 9 / Gate 11 results describe earlier source text and must not be reused as approval for these revisions.

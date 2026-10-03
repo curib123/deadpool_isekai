@@ -1,10 +1,8 @@
 # Chapter 20 — The Last Lure
 
-**Status:** CANON — SOUL-DRIFT / DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / FULL STORY RESET — GATE 9 REVALIDATION REQUIRED
-**Revision Date:** 2026-09-27
-**Word Count:** 2,110
-**Chapter QA:** `qa/CH-020-GATE-9-CHAPTER-QA.md`
-**Retcon QA:** `qa/CH-020-OVERPOWERED-RETCON-GATE-9-REVALIDATION.md`
+**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK / STABLE THEATRICAL MC
+**Revision Date:** 2026-10-02
+**Word Count:** 2169
 
 Mud had dried on Rook's boots by the time he got back from Broken North. Someone put a cup in his hand. Maelis put a ledger beside it. Rook looked at the ledger. Then at her. "I still cannot read Veyran."
 
@@ -212,13 +210,13 @@ One Guild man moved toward her. Rook stepped between them. That was all. He stop
 
 Rook looked at Jessa. "She made it concern me." Not because she needed permission. Because she had already chosen. One loyalist moved around the side anyway and grabbed for the ledger. Maelis pulled it back. He caught her sleeve. Rook removed his hand. Not gently. Not enough to break anything. Another loyalist shoved a militia guard. The room moved. The storekeeper backed away. Jessa grabbed the stock-reference sheet. Maelis secured the issue ledger. Hesk reached for the storehouse control book on a side desk. Jessa saw it. "That's the contingency book!"
 
-Hesk took it and moved for the side passage. Rook could have gone after him immediately. He did not. One loyalist was trying to take the cage key. Another was grabbing records. Too many things moved at once. Rook could have destroyed the cage. The stock. The records. Easy. It would also destroy the plan and the proof. So Rook did not. The inner metal gate started closing between them and the cage. Rook pictured a wedge. Small.
+Hesk took the contingency book and moved for the side passage. Rook started after him, but the inner metal gate swung toward the cage as a loyalist hauled its release. He grabbed at a crate to keep his balance. The crate overturned; a heavy sealing weight rolled from the lid and wedged beneath the gate before it shut. The gate struck the iron with a sharp clang. Rook stopped trying to chase two problems at once.
 
-Simple. A pale-grey block appeared at the lower hinge. The gate slammed into it and stopped. No strain. No wobble. It simply stayed where Rook put it. "Now!" Maelis shouted. The militia guard shoved the gate back. The storekeeper dropped the key. Jessa caught it. Rook released the wedge once the gate was clear. One utility. Enough because the problem was solved.
+"Now!" Maelis shouted. The militia guard shoved the gate back. The storekeeper dropped the key, and Jessa caught it before it reached the floor. Rook pulled the fallen crate out of their way. A loyalist stared at the jammed gate, then at the crate Rook had touched. "You put that there before we moved," he said. Rook had barely put himself there before falling. He gave the man a look he hoped would discourage further questions.
 
 Maelis pointed. "Open it." Jessa did. Inside were sealed reservoirs, pins, vent parts, and marked containers of concentrated diversion compound. Nothing mystical. Ordinary equipment hidden in the right place to become dangerous. Maelis looked at the tags. "Match them." Jessa began reading numbers. The storekeeper joined her. One loyalist tried to leave with a packet under his coat. The militia stopped him. The others stopped fighting. Not surrendered. Stopped choosing Hesk over the order. Hesk was gone. Rook went through the side passage. The outer yard opened ahead. He had crossed most of it. A side gate stood open beyond him. He looked back once.
 
-Distance was not the problem. Rook could have ended the chase. Then curiosity cost him a second. What was he running toward? Hesk vanished behind a wagon shed. Maelis called his name from inside. Rook looked toward the empty gate. Then back toward the storehouse. Jessa. Records. Stock. Three men who had just tried to seize evidence. Rook went back. Prioritization. Curiosity had still cost the second.
+Rook reached the yard in time to see Hesk disappear behind a wagon shed. He could not outrun him on his injured leg. Maelis called from inside. Rook glanced between the open side gate and the storehouse: Jessa, records, stock, and men who had just tried to seize evidence. He went back. He could describe it later as refusing to be drawn from the real objective. At the moment, it meant he still had a chance of helping.
 
 Inside, Jessa sat on a crate with the reconciliation sheet. The stock was being counted under militia witness. The control book was gone. Not everything depended on it. Jessa had copied enough references. Maelis had issue forms. The storekeeper confirmed physical tags. Several people heard Hesk acknowledge the reserve. Enough to prove it existed. Maelis looked at Jessa. "Can you sign an explanation of the contingency codes?" Jessa stared at the paper. "Yes."
 

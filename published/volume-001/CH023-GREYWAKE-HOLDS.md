@@ -1,20 +1,10 @@
-Chapter 23 — Greywake Holds
+# Chapter 23 — Greywake Holds
 
-The predator stepped into Broken North. For one second, nobody moved. Too large for the road.
+The predator stepped into Broken North. For one second, nobody moved. Too large for the road. Too close to frightened prey. Too territorial to care. Then the herd behind it surged. "Do not close on it!" Tavian shouted. Three militia had already started inward. They stopped. Brynn's voice hit immediately after. "North line back two steps. Spears low. Workers off the inner edge."
 
-Too close to frightened prey. Too territorial to care. Then the herd behind it surged. "Do not close on it!" Tavian shouted.
+The formation changed around the animal. It swung its head between the damaged road, workers, militia, and frightened prey. A browser struck the outer guide and snapped a timber. The predator flinched toward the sound, compressing the animals behind it. Rook took half a step toward a stout repair cart. He had chosen it because it offered the best available cover. A recruit saw the movement and followed him; Rook pointed the recruit back to Brynn before his supposed confidence spread any farther.
 
-Three militia had already started inward. They stopped. Brynn's voice hit immediately after. "North line back two steps. Spears low. Workers off the inner edge."
-
-The formation changed around the animal. Fast enough. The predator swung its head left. Then right. It was looking for space. Unfortunately, they had filled every useful piece of space with frightened animals, damaged road, militia, workers, rope, timber, and bad decisions.
-
-A browser slammed into the outer guide. Wood snapped. The predator flinched toward the sound.
-
-Prey compressed behind it. His first useful thought was simple. Remove predator. Red could. Throw it uphill. Drop it somewhere else. Put it in a box. Make the road forget it existed. The problem was that several hundred animals were currently reading every opening, obstacle, noise, and body as information.
-
-If Red erased one enormous problem carelessly, he could create five smaller disasters in directions Tavian had not planned. "Not yet," he said. He did not look at him.
-
-He knew anyway. "Where does it want to go?"
+"Where does it want to go?" Rook asked Tavian. It was an honest question. Knowing the answer might improve his chances of standing somewhere else.
 
 "Anywhere with less pressure."
 
@@ -22,63 +12,31 @@ He knew anyway. "Where does it want to go?"
 
 "It is."
 
-A work crew near the lower repair point got a gap. Brynn saw it. "Move! Timber team through!"
+A work crew near the lower repair point got a gap. Brynn saw it. "Move! Timber team through!" Four workers ran with rope and a bracing beam. The predator turned. "Back!" Tavian shouted. Three workers reached the marked line. The fourth slipped beside the road shelf. The predator moved.
 
-Four workers ran with rope and a bracing beam. The predator turned. "Back!" Tavian shouted.
+Rook caught the slipping worker's coat and dragged him toward the repair cart. The predator lunged. Rook's boot slid in spilled gravel, dropping him against the cart shaft. His shoulder struck the brake lever. The loaded cart rolled from its shallow stop and the animal's forelegs hit the axle before its jaws could reach either man.
 
-Three workers reached the marked line. The fourth slipped beside the road shelf. The predator moved.
+The cart lurched sideways, driving one shaft beneath the predator's jaw and turning its head. The loose stone load spilled over its front paws. It stumbled, snapped at the empty space where Rook had been, and recoiled from the grinding wheel. Rook pulled the worker behind the retaining marker. He had done nothing worth repeating, so he chose a sentence instead. "No." Tavian shouted over him. "Do not corner it!"
 
-Red was already there. He caught the worker by the back of his coat and pulled him upright. The predator lunged.
+"I was moving away."
 
-This time, the game stopped being interesting. Red caught it. One hand against the side of its skull.
-
-One against the heavy shoulder ridge. The charge drove his boots backward through gravel. Then stopped.
-
-Completely. The predator pushed. It got nowhere. For one strange second, the militia line forgot to breathe. The animal's claws tore grooves through packed earth. Red's boots did not.
-
-Red looked at it. "No." Then he turned its head. The entire body followed because anatomy had opinions. The predator stumbled sideways, recovered, and snapped at empty air where his arm had been. Not because it was faster.
-
-Because Red let go. Tavian shouted. "Do not kill it!"
-
-"I wasn't going to."
-
-He looked at him. Red looked at him. "Fine. I was considering options." He pointed uphill. "North service cut. That's its exit." Brynn turned. "Upper team! Clear the service cut. Everything loose out of the lane." Two workers ran uphill. One militia pair followed, shields facing the road. The predator watched them move.
+Tavian looked at Rook. Rook held the stare. "Fine. I was considering options." Tavian pointed uphill. "North service cut. That's its exit." Brynn turned. "Upper team! Clear the service cut. Everything loose out of the lane." Two workers ran uphill. One militia pair followed, shields facing the road. The predator watched them move.
 
 *Good. Bad. It changed objectives.*
 
-Instead of charging him again, it lunged toward the workers. Adaptation. Finally. Red stepped between them. The predator stopped short enough that its muzzle hit his chest. He did not move.
-
-It recoiled. Confusion was not a human monopoly. "Wrong target." It swiped. Red caught the forelimb before the claws reached him. For a heartbeat, they stood like that.
-
-Very intimate. Very stupid. Red pushed. The limb went down. The predator went with it. Not crushed. Pinned. Tavian shouted from the side. "Let it turn."
+Instead of lunging at Rook again, the animal turned toward the workers at the service cut. Rook ducked behind the cart and caught his sleeve on a tool strap. The strap jerked a shovel from the load; it struck the metal wheel rim with a loud clang. The predator flinched away from the noise and checked its stride. Two militia raised their shields across the workers' retreat. "Leave it room to turn!" Tavian shouted. Rook tugged himself free and agreed privately with the principle.
 
 "Why?"
 
-"Because if you keep it flat, the herd behind it cannot read the exit."
+"Because if we close it in, the herd behind it cannot read the exit."
 
-Right. Red released. The predator twisted free and backed toward the center. Behind it, prey were already bunching. The road made a deep grinding sound. Everybody heard it.
+The militia widened the gap instead of closing it. The predator backed toward the center, where prey were already bunching. Rook left the caught strap alone. His sleeve could survive a hole; his ribs had become less negotiable. The road made a deep grinding sound. The foreman pointed at the inner shelf as fill spilled into the drainage and a permanent timber brace shifted. "Workers clear!" Brynn ordered. Tavian looked between the animal and the road. "If that shelf drops, the inside lane closes."
 
-The foreman looked down. "Inner shelf!" Stone shifted. Fill spilled into the drainage. One permanent timber brace moved half a handspan. That was enough. "Workers clear!" Brynn ordered.
+The foreman crouched beside the crack. "Primary timber is still carrying. We need the cross-brace under it before the footing goes." Brynn sent four workers to him and pointed Rook toward a rope on the unloaded cart. "Help them." Rook took it beside two others. The brace hung at the wrong angle, pinned beneath spilled repair stone. They hauled while the foreman guided the lower end with a road hook.
 
-The predator was no longer the only front. Tavian looked from the animal to the road. "If that shelf drops, the inside lane closes."
+The road lip sagged farther. Rook slipped backward and lost his pull. At the same instant, a browser struck the empty cart, jerking the line tight. The dragging brace swung against the old retaining masonry. One corner caught in a recess exposed by falling fill; the opposite end landed beneath the primary timber. The load settled onto it with a crack. "Clear!" the foreman shouted. Nobody stayed under it. They waited through another grinding sound before he approached from the side and checked both bearings.
 
-The foreman crouched near the crack. "Primary timber is still carrying." Another crack ran farther up. "Not for long."
-
-Brynn pointed at him. "Can you hold it?" Specific. Good. Red looked at the failing edge. A pale-grey support appeared beneath the original weak point.
-
-Workers moved instantly. No awe. No questions. The foreman had been through this before. "Set timber beside it! Stone behind!" The crew dragged permanent braces into position. Then the crack spread. Farther than the first support.
-
-The road lip began to sag in a line. The foreman went pale. "Whole inner edge!"
-
-Fine. The same job got bigger. Hold the road. The pale-grey support extended beneath the failing lip along the old retaining line. Nothing dramatic happened. The road simply stopped falling. Red had been choosing small answers because small answers usually damaged less. Now more road needed holding.
-
-So more road was held. The entire failing inner edge stopped falling. Instantly. Dust continued dropping from the old stone.
-
-The support did not care. The foreman stared for half a second. Then remembered he had a job. "Permanent braces! Move!"
-
-Workers crawled into the protected zone. Timber. Wedges. Stone. Rope. Actual engineering went under the impossible structure because the impossible structure was not supposed to be the thing everyone depended on tomorrow.
-
-Brynn reallocated the militia. "Four stay with repair crew. North pair move to service cut. Everyone else keep the herd center open."
+"Temporary seat!" the foreman called. "It is carrying. Set the permanent wedges from the outside." Workers crawled along the protected edge with stone, timber, and mauls. The brace creaked each time the herd loaded the road. Rook could hear exactly how little he wanted to stand near it. A worker looked from the cart to the rope in his hands. "He timed the load transfer," the man said. The foreman did not bother deciding who deserved credit. "Then he can keep the spare line clear. Nobody under the shelf." Brynn assigned four militia to screen the repair crew and another pair to the service cut.
 
 A runner arrived from the lower line. "East branch still pulling." Tavian did not turn. "How many?"
 
@@ -88,17 +46,9 @@ A runner arrived from the lower line. "East branch still pulling." Tavian did no
 
 "Twice."
 
-That was bad enough to qualify as information. Hesk's lure was still working. They were now holding three problems at once.
+That was bad enough to qualify as information. Hesk's lure was still working. They were now holding three problems at once. The predator. The road. The wrong-route pull. Good climax design. Terrible morning. The territorial predator charged again. This time not at him. At the militia pair beside the service cut. It had learned something. Rook was the bad direction. So it chose another. One militia guard planted his shield.
 
-The predator. The road. The wrong-route pull. Good climax design. Terrible morning. The territorial predator charged again. This time not at him. At the militia pair beside the service cut. It had learned something.
-
-Red was the bad direction. So it chose another. One militia guard planted his shield.
-
-Brave. Incorrect. Red moved before impact. Red caught the predator behind the jaw and shoulder, redirected the charge, and drove it into the road hard enough to shake loose dust from the retaining stones. The militia guard stumbled back. Alive.
-
-The predator hit, rolled, and came up furious. It did not look impressed. That was refreshing.
-
-Tavian pointed. "Keep it facing north."
+The shield would not stop that weight. Rook shouted before finding anything clever to say. "Here!" The predator turned at the sound. One paw struck the broken cart shaft, which rolled across the gravel and sent the charge sideways into the unloaded frame. Rook jumped behind the marker as the frame splintered. The shield guard scrambled clear. "Keep it facing north!" Tavian shouted. Rook was facing north himself, with every intention of increasing the distance.
 
 "I am trying."
 
@@ -106,27 +56,13 @@ Tavian pointed. "Keep it facing north."
 
 "Also true."
 
-The upper workers pulled the last brush bundle out of the service cut. One shouted. "Open!"
+The upper workers cleared the final brush bundle from the service cut. "Open!" one shouted. Tavian watched a prey cluster crossing the approach. "Not yet." The predator lunged toward the moving bodies. Rook reached for the cart rope to avoid falling over it; his pull dragged a bent iron rim out of the wreckage. The rim struck the marker with another metallic crash. The animal checked and veered away from the noise. Behind Rook, the herd struck a guide frame and snapped its rope. "Outer spill!" Brynn shouted.
 
-Not enough. Tavian looked at the flow. "Not yet." A line of prey crossed between them and the opening. The predator saw freedom. Tried to take it.
+A cluster of smaller prey broke toward the repair crew. Rook grabbed a spare panel. Tavian stopped him. "Do not close them. Open their exit!" Brynn ordered two workers to cut the broken guide loose. The panel fell flat, the prey spread into open ground, and pressure dropped. Rook set his spare down before it became one more obstacle. The predator snapped toward him again, but a fleeing browser crossed its path and shouldered it away. Rook pressed himself behind the marker and took whatever help the animal was offering.
 
-Red blocked. It snapped. He held its head at arm's length. It shoved. Nothing happened. One of the workers laughed once. Then stopped because the herd slammed the guide frame behind him. Rope snapped. "Outer spill!" Brynn shouted.
+The foreman called that the first permanent brace was set. Another worker brought the second. The temporary cross-brace shifted under the changing load, but the first new wedge kept it seated. Rook helped tension the cart rope while the crew set a stone bearing behind it. Different jobs kept the same battle moving: Tavian read the herd, Brynn held the margins, the foreman watched the shelf, and Rook tried to remain where someone had actually asked him to stand. A ridge-hound cut after a militia runner. The runner tripped beside the guide line while the repair crew kept working.
 
-Fourth problem. A cluster of smaller prey broke around the damaged guide and cut toward the repair crew. Militia shifted.
-
-Too slow. Red almost made another wall. Tavian shouted. "Do not close them!" He pointed downhill. "Open their exit!" Brynn understood first. "Drop the broken guide!" Two workers cut the remaining rope. The panel fell flat. What had been an obstacle became open ground.
-
-The prey spread instead of bunching. Pressure dropped. No impossible object required. Important. The predator tried to use his attention shift. It lunged. Red caught it by the neck ridge and turned it away from the workers. "You're making this personal." It tried to bite him. "Fair."
-
-The foreman shouted from the shelf. "First permanent brace set!" Another worker answered. "Second coming!"
-
-His support held the entire failing edge without changing. No wobble. No strain. No countdown. The only clock was everyone else. Tavian watched the herd. Brynn watched the line. The foreman watched the road. Red watched the predator. Different jobs. Same battle. A ridge-hound broke from behind the prey and went after a militia runner.
-
-The runner tripped. A militia woman intercepted with her spear. The hound twisted around the point.
-
-Another came behind it. Brynn moved herself. Sword flat. Not trying to kill. She struck the first across the muzzle, kicked the second off the runner's path, and hauled the runner upright by his collar. "Back to signal line."
-
-He ran. Brynn turned immediately. No pose. No applause. That was command. The predator finally stopped trying to reach him. It looked at the service cut again. Tavian saw. "Almost."
+Another hound came behind it. Brynn moved herself. Sword flat. Not trying to kill. She struck the first across the muzzle, kicked the second off the runner's path, and hauled the runner upright by his collar. "Back to signal line." He ran. Brynn turned immediately. No pose. No applause. That was command. The predator finally stopped trying to reach him. It looked at the service cut again. Tavian saw. "Almost."
 
 "Define almost."
 
@@ -138,41 +74,23 @@ He ran. Brynn turned immediately. No pose. No applause. That was command. The pr
 
 "Also true."
 
-The next cluster crossed. Then another. Tavian raised one hand. "Now." Brynn shouted. "Upper line open! Lower shields forward! Give it the lane!" Militia moved as one. The predator saw space. This time nobody occupied it.
+The next cluster crossed. Then another. Tavian raised one hand. "Now." Brynn shouted. "Upper line open! Lower shields forward! Give it the lane!" Militia moved as one. The predator saw space. This time nobody occupied it. It lunged north. Rook did not stop it. It tore through the service cut, clipped one sapling, and vanished uphill. One militia man started after it. Brynn's voice stopped him. "No chase!" He froze. Correct. The predator was never the objective. Greywake was. The road still was. The herd still was. The wrong lure still was. The foreman called: "Load transfer!" Workers prepared to ease the rope and test the permanent timber bearings.
 
-It lunged north. Red did not stop it. It tore through the service cut, clipped one sapling, and vanished uphill.
+The foreman signaled a trial transfer. Workers eased the cart line, watched the first bearing, then the second. The inner lip settled without dropping. "Primary holds. Keep the temporary cross-brace until the stone wedge is set." Rook held the spare rope beside the worker assigned to him. His arms ached and he had no opinion on which timber should come out first.
 
-One militia man started after it. Brynn's voice stopped him. "No chase!" He froze. Correct. The predator was never the objective. Greywake was. The road still was. The herd still was. The wrong lure still was. The foreman called: "Load transfer!" Workers eased weight from his support into timber.
+The stone wedge went in. The foreman struck it twice and ordered the cart rope slackened. Timber groaned as the load transferred into the permanent bearings. It held. Rook let out the breath he had been saving and pulled the loose line out of the walking lane. A worker caught another by the belt before he slipped over the edge. There were rescues happening all around Rook that needed nothing from him. Then four ridge-hounds broke into the worker line.
 
-The inner lip settled. Stopped. "Again!" More weight. Timber groaned. Stone compressed. "Primary holds!" The foreman crawled out. "Release outer third." Red withdrew one section. Real braces took the load. "Next." Red removed another. Still held. He pointed to the worst crack. "Keep that until we set the stone wedge."
+Two militia intercepted the first pair. The other two came through the gap toward Rook. He raised the loose rope, intending to look larger. One end remained hooked around the smashed cart rim. A hound stepped inside the loop as it lunged; Rook fell backward and the tightening rope turned the animal north. The second struck the first's flank and recoiled. Tavian advanced with his polearm while Brynn closed the route toward the workers. All four took the open uphill lane. One claw had opened Rook's forearm on the way past. He wrapped it with a strip from his already damaged sleeve.
 
-Good. His support remained only where the actual road still needed it. A heavy browser hit the outer shoulder.
+The nearest worker stared at the loop. "You kept that rope loose until the hounds committed. And the cart hit at the exact moment the shelf needed the brace. You were using their momentum for both jobs." Rook had wanted the rope out from under his feet. He stood slowly so his knees would not contradict the explanation.
 
-Stone broke. One worker slipped. Red moved. He caught the edge himself. Another worker grabbed his belt. They pulled him up before Red reached them.
+"Momentum is difficult to argue with," he said.
 
-Also good. Red did not need to be every rescue. The stone wedge went in.
+The worker shouted to the foreman that Rook should direct the next load transfer. Rook pointed at the man already checking the bearings. "He has it." A successful mysterious sentence had very nearly acquired him a bridge.
 
-The foreman struck it twice. Then looked at him. "Release." Red withdrew the final impossible support. The road settled onto timber, stone, rope, and old masonry. Ordinary things.
+The main prey body kept flowing. Broken North held because its workers repaired the footing, militia kept the margins open, and Tavian gave the animals somewhere to go.
 
-It held. For about six seconds, the battlefield looked almost manageable. Then a group of ridge-hounds broke into the worker line.
-
-Not one. Four. Finally, a number the day had apparently been saving. Two militia intercepted. One hound cut left. One right. The other two went straight through the opening. Red could have ended all four before anyone blinked. Instead he looked at the actual problem.
-
-Workers behind them. Tools underfoot. A herd still moving five paces away. Tavian shouted. "Drive them north. Do not scatter them." So Red stepped into the center. The first hound lunged. He caught it by the chest and tossed it three paces north.
-
-The second snapped at his arm. Red let it bite long enough to grab the scruff and move it after the first. Pain.
-
-Blood. Already closing. The third militia guard used his shield to turn another. Brynn cut off the last one's escape toward workers. Four hounds became one moving direction. They followed the predator path uphill.
-
-No kill. No chaos. The bite in his arm closed under blood. The worker beside him stared. Red pointed north. "Please admire later." He went back to work. The main prey body kept flowing. Broken North kept holding.
-
-Not because Red won. Because Tavian read the movement. Brynn kept people where they mattered.
-
-Workers repaired the road while it was being used. Militia protected gaps instead of chasing trophies. Red made impossible things where the plan needed them.
-
-That was different. Better? Maybe. More effective? Definitely. Then Tavian looked toward the lower fork. His face changed. Red followed his sightline. A trailing branch of prey was bending outward.
-
-Toward the outer homestead road. One group. Then another. Then another. Not random. Hesk. Brynn saw it. "The physical line is holding." Tavian nodded. "Yes."
+The repairs were still ugly, and the temporary timber had taken damage that would matter tomorrow. Rook's sleeve was wet with blood. He leaned against the marker until Tavian looked toward the lower fork and went still. A trailing branch of prey was bending toward the outer homestead road: one group, another, then another. Brynn followed his gaze. "The physical line is holding." Tavian nodded. "Yes."
 
 "Then why are they leaving it?"
 

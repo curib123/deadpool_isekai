@@ -1,6 +1,6 @@
 # Published Versions
 
-This directory is for **reader-facing release copies** derived from already-CANON manuscripts.
+This directory contains **reader-facing copies** derived from the manuscript sources. The 2026-10-02 revision branch includes review copies of changed manuscripts; those copies are **PUBLISH DRAFT — GATE 9 / CANON / GATE 11 REVALIDATION PENDING**. Historical PASS records certify earlier source text and do not approve this branch for external release.
 
 It is intentionally separate from `manuscript/`.
 
@@ -108,3 +108,7 @@ For contract-focused / reader-acquisition release, use:
 The existing `published/PROLOGUE-THE-WRONG-PERSON.md` is retained as an **optional alternate/bonus prologue**, but it must **not** precede CH-001 in the primary WebNovel sequence because its explosion/white-space/arrival material overlaps CH-001.
 
 This keeps CH-001 as the first dramatic reading unit and avoids making a new reader experience the opening twice.
+
+## 2026-10-02 Revision Sources
+
+The optional prologue and all 26 Volume 1 reader copies have been refreshed from current manuscript text on this branch. Their prose contains no production metadata. The synopsis now describes Rook Vane, permanent ignorance of his passive luck, theatrical performance, and consequential misunderstandings. No external posting was performed. See `qa/ROOK-CLUELESS-LUCK-REVISION-QA.md` for the source-equivalence review.

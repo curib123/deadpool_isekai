@@ -96,7 +96,7 @@ Maelis folded the copy. "You do not have to come."
 
 "Yes."
 
-No pause. "I do." Only then did Luck moved away from the wall. "If someone dislikes that choice, they can dislike it from a safe distance." Jessa looked at him. Maelis did too. "What?"
+No pause. "I do." Only then did Luck move away from the wall. "If someone dislikes that choice, they can dislike it from a safe distance." Jessa looked at him. Maelis did too. "What?"
 
 "Keep the distance part," Maelis said.
 

@@ -3,7 +3,7 @@
 **Title:** This Isekai Has a Bug. Unfortunately, It's Me.  
 **Author:** minuszeroo  
 **Genres:** Action • Adventure • Dark Fantasy • Comedy • Mystery • Isekai  
-**Status:** AUTHOR-DIRECTED REVISION — PERMANENTLY CLUELESS LUCK / THEATRICAL MC — 2026-10-02
+**Status:** CURRENT CANON CONSTITUTION — LUCK EVERHART / FORTUNE DISTORTION ONLY — 2026-10-03
 
 # 1. Core Premise
 
@@ -295,6 +295,10 @@ Luck Everhart must remain an original character.
 
 # 14. Structural Law
 
+The current structural source of truth is `series/STORY-STRUCTURE-BIBLE.md`.
+
+Resolve conflicts in this order: Constitution → Story Structure Bible → Systems/Character/World/Mystery Bibles → current volume architecture → current chapter roadmap → continuity records → manuscript canon → publication copy.
+
 World first. Destination second. Story third.
 
 One major volume = one destination arc.
@@ -305,9 +309,9 @@ Merrowgate remains Volume 2.
 
 Existing geography and destination identities remain preserved unless explicitly retconned.
 
-# 15. Volume 1 Reset Law
+# 15. Volume 1 Canon Lock
 
-Volume 1 must be rewritten so that:
+The Greywake rewrite is complete. Current CH001–CH026 canon must remain such that:
 - every supernatural Luck event is Fortune Distortion;
 - no Play Logic remains;
 - no supernatural regeneration remains;
@@ -333,3 +337,5 @@ Overinterpretation must be spoken, written, or otherwise observable in Luck-limi
 **Luck Everhart has one supernatural power only: Fortune Distortion.**
 
 Every future canon, chapter, battle, QA record, adaptation, and publication copy must obey that rule.
+
+Historical Red Jackal / Play Logic / regeneration / first-person / Stage-progression documents are archival only unless explicitly rewritten to the current authority.

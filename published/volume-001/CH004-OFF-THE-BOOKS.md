@@ -1,64 +1,102 @@
 # Chapter 4 — Off the Books
 
-The Road Guild hall opened straight onto Greywake's caravan yard, which meant the first thing Luck learned about local employment was that nobody here believed in quiet workplaces. Wagons rolled through mud outside. Workers carried rope, wheel rims, boxed tools, and stamped cargo tags between two wide doors. Someone shouted a route number from behind a counter. Somebody else shouted back from halfway across the yard. A clerk moved colored markers across a wall map while three caravan guards argued over an escort roster. The entire place looked like paperwork had discovered manual labor and decided to become dangerous. Luck stopped beneath the entrance awning and looked at the notice board beside him. Still unreadable. At least Greywake was consistent. Jessa Vale waited near one of the public desks with a thin stack of forms tucked against her chest. She noticed him and raised a hand.
+The Road Guild hall had two front doors and no interest in keeping either of them closed.
 
-"Luck Everhart."
+Wagons rolled through the yard beyond them, wheels cutting dark grooves through yesterday's mud. Porters moved crates beneath the awning. A repair crew carried two timber braces past a line of caravan guards arguing over an escort roster. Inside, clerks worked behind long counters while colored route markers migrated across a wall-sized map.
 
-"Still me."
+Luck stopped just inside the entrance.
 
-A Wayfarer Tongue Token hung from a brass stand between the contract counters. As Luck stepped closer, the familiar pressure settled around the words. Good. Negotiating pay through hand gestures would have lowered the dignity of the occasion.
+Every useful surface was covered in writing.
 
-"Roadmaster Hesk is finishing a route meeting," Jessa said.
+None of it had become readable since yesterday.
 
-"So I was invited before he was free."
+"Still losing that fight?" Jessa Vale asked.
+
+She waited near the public desks with a thin stack of forms against her chest. A brass Wayfarer Tongue Token stood on the counter beside her.
+
+Luck stepped within its range. The pressure settled around his ears, and the hall's noise separated into words.
+
+"Temporarily," he said. "I prefer to let written language become overconfident."
+
+Jessa looked at the notice board.
+
+"It seems confident."
+
+"Exactly."
+
+She almost smiled.
+
+"Roadmaster Hesk is finishing a route meeting."
+
+Luck glanced toward the closed office at the rear of the hall.
+
+"So I arrived before the important man."
 
 "He expected the meeting to end earlier."
 
-"Bold man."
+"Then I arrived at exactly the right time to appear punctual without having to speak to him."
 
-She glanced toward the closed office door. "Road meetings usually run long." Luck looked around while they waited. The Guild was busy in the boring way important places tended to be. A worker changed three route markers on the wall map. Two clerks compared crate seals. A repair crew collected timber braces from a supply window. Outside, a wagon was pulled aside so somebody could inspect a cracked wheel.
+Jessa adjusted the forms.
 
-"Most caravans go through here?" Luck asked.
+"That is one interpretation."
 
-"Most scheduled road traffic."
+Luck liked her.
 
-"Escorts?"
+While they waited, he watched the room.
+
+A clerk moved three red markers from one road to another. Two workers rolled a cracked wheel toward a side bay. At the supply window, a foreman signed for rope, iron pins, and a box of tools. Outside, a wagon was diverted before it reached the gate because one man noticed the rear axle leaning.
+
+No ceremony. No polished uniforms.
+
+Everything here existed to keep something else moving.
+
+"Most road traffic passes through this hall?" Luck asked.
+
+"Scheduled Guild traffic."
+
+"Caravans."
 
 "Yes."
 
-"Bridge crews?"
+"Repair crews."
 
 "Yes."
 
-"Supply movements?"
+"Escorts."
 
-"Also yes."
+"Yes."
 
-Luck looked toward the office again. So Hesk was not merely a man with a title. If Greywake needed roads open, bridges repaired, escorts assigned, or cargo moved, decisions passed through this building.
+"Supplies."
 
-*Useful authority. The most dangerous kind, usually.* The office door opened.
+Jessa nodded.
 
-Three conversations nearby softened without anyone being told to lower their voices. Rovan Hesk stepped into the hall with a rolled map under one arm. He was broad through the shoulders, dark hair greying at the sides, coat repaired at one elbow and faded at the cuffs. No polished insignia. No ceremonial weapon. Nothing designed to announce importance. People made space for him anyway. That told him more. Jessa straightened. "Roadmaster." Hesk looked at her first, then at him. His eyes paused on the wooden Unverified Entrant Token near his coat.
+Useful authority, then. The kind built from deciding which road received timber before deciding which speech sounded impressive.
+
+The office door opened.
+
+Conversation nearest the back wall softened.
+
+Rovan Hesk came out carrying a rolled map beneath one arm. He was broad through the shoulders, older than most of the yard workers, and dressed in a coat repaired at one elbow. Nothing about him announced importance.
+
+People still moved out of his path.
+
+That did.
+
+Jessa straightened.
+
+"Roadmaster."
+
+Hesk handed the map to a clerk without looking away from Luck.
 
 "Luck Everhart."
 
-"That seems to be the name surviving the paperwork."
+Luck appreciated how much better the name sounded when someone else had to say it.
 
-"I was told it's the name you gave."
+"Still me."
 
-"Also true."
+Hesk's eyes moved once over the wooden Unverified Entrant Token hanging near Luck's coat, the healing cut along his forearm, and the boots that had collected most of Greywake's roads.
 
-He neither smiled nor challenged it.
-
-"Hesk."
-
-"I gathered."
-
-His gaze moved once over his boots, hands, coat, and the fading damage to his sleeve. Assessment. Not fascination.
-
-Luck preferred that.
-
-"You came through the north road alone."
+"You came through the north approach alone."
 
 "Eventually."
 
@@ -66,17 +104,35 @@ Luck preferred that.
 
 "No."
 
-"No guild record."
+"No Guild record."
 
 "The world and I are having administrative differences."
 
+Hesk showed no sign that the sentence deserved encouragement.
+
 "You survived the road anyway."
 
-That was the fact he cared about. The worker's boot hit the mud. Hesk handed the rolled map to a nearby clerk. "Come with me." Confidence was easier before anyone asked his price. His office was smaller than Luck expected. A large working table occupied most of it. Route maps covered one wall. Wooden markers sat in shallow trays beside wax tablets, sealed packets, and two abandoned cups. Another Wayfarer Tongue Token hung near the door. Jessa entered behind him and placed her forms on the table. Hesk stayed standing.
+There it was.
 
-"So," he said. "You need work."
+Not *Who are you?*
 
-Direct.
+Not *What are you?*
+
+Useful or not.
+
+Hesk turned toward his office.
+
+"Come with me."
+
+Luck followed.
+
+The office was smaller than expected. A working table filled most of the center. Route maps covered one wall, each pinned beneath small carved markers. Wax tablets, sealed packets, two cold cups, and a tray of wooden tokens occupied the rest.
+
+Jessa entered behind him.
+
+Hesk remained standing.
+
+"You need work."
 
 "I need money."
 
@@ -84,83 +140,81 @@ Direct.
 
 "Sometimes people are generous."
 
-"Not often enough to plan around."
+"Not often enough to budget around."
 
-Fair. He pulled one page from Jessa's stack and looked over it. Luck could not read a single mark.
+Luck folded his hands behind his back.
 
-"Your registry failure prevents normal certification. No valid identity means no standard Guild contract, no registered escort assignment, and no insured route work."
+"I see Greywake has already crushed idealism."
 
-"I've heard the list."
+"It was expensive to maintain."
 
-"Then I won't waste your time repeating it."
+Hesk pulled a page from Jessa's stack and scanned it.
 
-Better. He set the page down.
+"Your registry failure prevents a standard contract. No certified identity means no registered escort assignment, no insured route labor, and no normal Guild worker protections."
+
+Luck looked at the page as though he could read it through authority alone.
+
+"I've received several enthusiastic explanations."
+
+"Then I won't repeat them."
+
+Hesk put the page down.
 
 "I can still pay you."
 
-Finally. A sentence with nutritional value.
+Luck's attention sharpened.
+
+Finally, a language he understood.
 
 "How?"
 
 "Private labor under Road Guild discretionary expense."
 
-Luck looked at Jessa. She did not react much, but one hand tightened slightly around the edge of her papers. Hesk continued.
+Jessa's fingers tightened slightly around the remaining forms.
 
-"The Guild records the money. We record supplies issued. We record the work performed. What we do not create is a registered contract tied to an identity the System cannot recognize."
+Luck noticed.
 
 "So off the books."
 
 "Not entirely."
 
-Of course not. Apparently even escaping paperwork required paperwork.
+Of course not.
 
-"You would be recorded as irregular private labor under my authority," Hesk said.
+Apparently even escaping paperwork required paperwork.
 
-"And the difference?"
+Hesk tapped the form.
 
-"No certification. No registered-worker status. No standard injury guarantee. No traveler guarantee attached to the assignment. No formal contract appeal through the Guild registry."
+"The Guild records the payment, the supplies issued, the assignment, and whether it was completed. What we do not create is a registered contract attached to an identity the System refuses to recognize."
 
-Useful and bad in the same breath.
+"What does that cost me?"
 
-"What do I get?"
+"No standard injury payment. No identity-bound traveler guarantee. No normal contract appeal through the registry."
 
-"Marks."
+Luck waited.
 
-Money. Still the strongest magic demonstrated in Greywake.
+Hesk waited back.
 
-"First job is simple," Hesk said. "Main Caravan Road. A bridge approach was damaged after the last rain. A repair crew is going out at first light. Timber, tools, supply wagon. They need another worker and somebody capable of handling trouble if the road becomes unpleasant."
+No attempt to soften it.
 
-"What kind of trouble?"
+"That is an impressively bad employment package."
 
-"Animals. Theft. Broken axles. Flooded ground. Fallen timber. Frontier roads are creative."
+"Yes."
 
-"How far?"
+"Good. I dislike discovering the bad part after agreeing."
 
-"Close enough to return if the repair finishes on schedule."
+Hesk moved to the wall map.
 
-"And if it doesn't?"
+A broad road ran north-east from Greywake. One carved marker sat beside a narrow blue line.
 
-"You remain with the crew."
+"Bridge approach washed out after the last rain. Repair crew leaves at first light. Timber, tools, supply wagon. They need another worker."
 
-"Comforting."
+"Why me?"
 
-"They have shelter gear."
-
-Slightly more comforting. Hesk leaned one hand against the table.
-
-"You travel with them. Protect workers and material if required. Help at the site if the foreman needs you. Return with them or report completion here."
-
-"That's it?"
-
-"That's the assignment."
-
-No forbidden temple. No cursed relic. No dramatic suicide mission. Almost suspiciously disappointing.
-
-"And why me?"
-
-"Because you're available."
+"You're available."
 
 Luck looked at him.
+
+Hesk looked back.
 
 "That was brutally ordinary."
 
@@ -170,73 +224,71 @@ Luck looked at him.
 
 "Then we're making progress."
 
-Luck liked him a little. That was probably dangerous. Hesk pushed the form toward Jessa. "Explain the terms." Then he looked back at him.
+Hesk pointed to the bridge marker.
 
-"If the risk is not worth the pay, walk away. The road still needs fixing. I'll put somebody else on it."
+"You travel with the crew. Help the foreman where needed. If the road becomes dangerous, you help protect the workers and supplies."
 
-Not a challenge. Not a threat. A road, a vacancy, a cost. Hesk could make exploitation sound like weather. That made the offer harder to dismiss.
+"What kind of dangerous?"
 
-"I'll decide after I understand what the money is worth."
+"Animals. Theft. Flooded ground. Fallen timber. Broken axles. Frontier roads are creative."
 
-"Reasonable."
+"How far?"
 
-Hesk left them with the paperwork and returned to the larger hall. Luck watched him go. He had not tried to impress him. He had not threatened him. He had not pretended the arrangement was good. He had simply found a place where his problem was useful. Luck respected the efficiency. Jessa picked up the page. "Short version or complete version?"
+"Close enough to return the same day if repairs go well."
 
-"Complete enough that I don't discover tomorrow I sold an organ."
+"And if they don't?"
 
-She blinked. The token carried the sentence perfectly.
+"You stay with the crew."
 
-"I don't think that is part of Guild procedure."
+"Comforting."
 
-"Excellent. Continue."
+"They carry shelter."
 
-They moved back toward the public contract desks where the market lane was visible through the open doors. Jessa set the form beside the Wayfarer token.
+"Slightly."
 
-"This is not employment in the registered sense."
+Luck stepped closer to the map. The marks meant nothing to him, but the carved symbols did. Gate. Road post. Bridge.
 
-"Very comforting opening."
+He traced the route with one finger.
 
-"It records an irregular service payment authorized by the Roadmaster. The Guild can issue supplies and release approved money. The registry does not recognize you as a contracted worker."
+The road looked simple on wood and ink.
 
-"So if I get hurt?"
+The forest had taught him not to trust that.
 
-"No standard injury payment."
+Hesk leaned one hand on the table.
 
-"If somebody refuses to pay?"
+"If the risk is not worth the pay, refuse it. I'll assign someone else."
 
-"The disbursement is recorded. The Guild still has an internal obligation to release approved funds."
+Not a challenge.
 
-"Almost normal."
+That made the choice worse.
 
-"Almost."
+Luck had expected exploitation to arrive wearing a smile and pretending to be opportunity. Hesk simply placed the bad bargain on the table and waited for him to decide whether hunger made it useful.
 
-"And if I dispute the job?"
+"How much?"
 
-"No identity-bound contract appeal."
+Hesk gave him a number.
 
-Luck looked down at the writing. Still useless.
+Luck understood the words perfectly.
 
-"What exactly am I being paid?"
+The number meant nothing.
 
-She told him the amount. Luck understood every word. The number meant nothing. Luck stared at her. Jessa understood the problem almost immediately.
+He looked at Jessa.
 
-"Right."
+She understood immediately.
 
-She pointed through the open doors toward the market.
+"Several ordinary meals," she said. "Basic lodging for more than one night. Some road supplies if you spend carefully."
 
-"It would cover several ordinary meals. Basic lodging for more than one night. Some simple road supplies if you spend carefully."
+Luck nodded.
 
-"All at once?"
+Now it was money.
 
-"No."
+Not much.
 
-"Shame."
+Enough.
 
-That was enough to make the amount real. Not wealth. Not even comfort. But food, a roof, and the beginning of independence. That mattered.
+"What does the Guild provide?"
 
-"And the Guild supplies?"
-
-"Travel food during the work period. Waterskin if needed. Weather covering. Shared tools. Anything the foreman marks as necessary job equipment."
+"Travel food during the assignment," Jessa said. "Water. Weather covering. Shared tools. Anything the foreman marks as job equipment."
 
 "Weapon?"
 
@@ -244,101 +296,109 @@ That was enough to make the amount real. Not wealth. Not even comfort. But food,
 
 "Worth checking."
 
-"You said you were unarmed at the gate."
+Hesk's eyes moved to the broken survey-pole splinter Luck had finally stopped carrying that morning.
 
-"I was."
+"You arrived unarmed."
 
-She looked at him for a moment. Luck smiled. She decided against the follow-up question.
+"I arrived optimistic."
 
-Smart woman.
+"You arrived carrying half a post."
 
-"There's also an advance."
+"Field adjustment."
 
-Now they were talking. Jessa opened a small drawer beneath the desk and took out several silver coins. Marks. They were a little larger than coins Luck half-remembered from somewhere else, stamped with a crown shape on one face and a river motif on the other. His first local money. Technically not his yet.
+Hesk stared at him for a moment.
 
-Emotionally, they had bonded.
+Jessa looked down at her forms.
 
-"You receive these if you accept," Jessa said.
+Luck decided that counted as a successful line.
 
-"Cruel."
+Hesk returned to the hall without ceremony.
 
-"Procedure."
+"Jessa will explain the terms. Decide after that."
 
-"Worse."
+The door closed behind him.
 
-"The advance is deducted from final payment."
+Luck watched it.
 
-"Of course."
+No pressure. No threat. No insistence that only a fool would refuse.
 
-"It is an advance."
+Hesk had simply found a legal gap shaped approximately like Luck and offered to pay him for standing in it.
 
-"I understand the concept."
+Efficient.
 
-"I'm checking."
+Dangerously respectable.
 
-She was good at this.
+Jessa carried the forms back to the public counter.
 
-"What do I need to bring?"
+"Short version or complete version?"
 
-"Your entrant token. Clothing suitable for the road. Anything personal you do not want to leave behind."
+"Complete enough that I don't discover tomorrow I sold an organ."
 
-"So everything I own."
+She blinked.
 
-She looked at him again.
+The Wayfarer Token translated the sentence faithfully.
 
-"You really have nothing?"
+"I don't think that is part of Guild procedure."
 
-"I have a wooden token, a coat, and an administrative history that has already required multiple specialists."
+"Excellent. Continue."
 
-That was almost an inventory. Progress. Jessa lowered her voice slightly.
+She did.
 
-"You should understand one more thing."
+Irregular service payment. No registered-worker status. No normal injury guarantee. Supplies issued against the assignment. Advance deducted from final payment. No identity-linked appeal.
 
-Luck stopped playing with one of the coins.
+Luck listened instead of performing.
 
-"Go on."
+That part mattered.
 
-"A registered road worker has a certification record. If something happens, the Guild knows who they are, who receives notice, what protections apply, and which claims can be filed."
+When she finished, he asked, "If I disappear?"
 
-"And me?"
+Jessa stopped.
 
-"We know what you call yourself."
+The noise of the Guild moved around them: wheels, boots, paper, someone arguing over a route tag.
 
-Simple. Accurate. Not especially warm.
+"There will be an expense record," she said. "A route report. The foreman will report what happened."
 
-"If you disappear," she continued, "there will still be an expense record. There will be a route report. But the normal identity-linked protections do not exist."
+"And the normal identity protections?"
 
-Luck looked at the coins. The deal was bad. Not secretly bad. Openly bad. That was almost refreshing. The alternative was preserving protections Luck could not access while remaining hungry and unemployed.
+"They do not exist for you."
 
-Very safe. Very hungry.
+Luck looked at the wooden token near his coat.
+
+Unverified Entrant.
+
+Greywake knew what he called himself. That was not the same as knowing who he had been.
 
 "Does Hesk use irregular labor often?"
 
-Jessa's face changed by maybe half a degree.
+Jessa's expression changed by almost nothing.
 
 "When normal certification isn't practical."
 
-Careful answer. Not necessarily dishonest.
+Careful.
 
 "How often is that?"
 
 "Greywake is a frontier settlement."
 
-Also an answer. Luck handed the coin back.
+Also careful.
 
-"For the record, I'm learning the value of money after negotiating for it."
+Luck rested one elbow on the counter.
 
-"You haven't negotiated yet."
+"That sounded like a sentence designed to survive being quoted later."
 
-"Good point. What if I want more?"
+Jessa met his eyes.
 
-"You can ask."
+"It was accurate."
 
-"Will I get more?"
+He believed her.
 
-"Probably not."
+That did not make it complete.
 
-Luck appreciated the honesty. Before he could decide whether to ask anyway, Captain Brynn Alder crossed the caravan yard outside. She saw him at the desk. Then Jessa. Then the form. Her route changed. Of course it did. Brynn stepped inside the Guild hall.
+Before he could press further, a shadow crossed the doorway.
+
+Captain Brynn Alder entered from the yard.
+
+Her attention went first to Luck, then to Jessa, then to the form between them.
 
 "You took the offer."
 
@@ -346,83 +406,139 @@ Luck appreciated the honesty. Before he could decide whether to ask anyway, Capt
 
 "Hesk's private work?"
 
-"Apparently."
+"Apparently I have become economically interesting."
 
-Her eyes moved to Jessa. "Registered?"
+Brynn ignored that.
+
+"Registered?"
 
 "No," Jessa said.
 
-Brynn looked back at him. "You understand what that means?"
+Brynn looked at Luck.
 
-"Everyone has been aggressively educational."
+"You understand what that means?"
+
+"Everyone in Greywake has been aggressively educational."
 
 "Good."
 
-Hesk appeared from his office carrying another map.
+Hesk appeared behind her carrying another map.
 
 "Alder."
 
 "Hesk."
 
-Nothing hostile in either voice. Nothing friendly either. Brynn nodded toward the form.
+Neither voice changed.
 
-"He stays an Unverified Entrant."
+That made the disagreement visible anyway.
 
-"I know," Hesk said.
+Brynn nodded toward the form.
+
+"He remains an Unverified Entrant."
+
+"I know."
 
 "This does not change his gate restrictions."
 
 "I know."
 
-"The militia is not guaranteeing Guild work outside registered contracts."
+"The militia is not guaranteeing private Guild labor."
 
 "I didn't ask you to."
 
-Hesk remained calm. Brynn did too. That made the disagreement sharper. Luck looked between them.
+Luck looked between them.
 
 "So nobody is responsible for me."
 
-Brynn met his eyes.
+Brynn answered first.
 
 "You are."
 
-Short. Clean. Hard to argue with. The horse finished swatting at a fly. Hesk placed the map down.
+Clean.
+
+Annoyingly difficult to argue with.
+
+Hesk set the map on the counter.
 
 "He's choosing the work."
 
-"I can see that," Brynn said.
+"I can see that."
 
 "You object?"
 
-"I object to people confusing private arrangements with protection."
+"I object when people mistake access to a job for protection."
 
-"I haven't confused them."
+Hesk's face remained still.
 
-Brynn looked at him.
+"I told him the terms."
 
-"Have you?"
+Brynn looked back at Luck.
 
-"No."
+"Did he?"
 
-And Luck had not. That was the important part. Hesk was using his legal gap. Luck was using his willingness to pay him through it. Neither fact cancelled the other. Brynn studied him for another second.
+Luck considered the question.
 
-"Keep your entrant token on you. If the assignment takes you outside the wall and back, gate staff will still require it."
+Hesk had offered a bad arrangement.
 
-"Understood."
+Jessa had explained exactly how bad.
 
-She looked at Hesk.
-
-"Don't make him the militia's problem."
-
-Hesk's expression did not change. "I don't plan to." Brynn left. Nobody had rescued him from his own decision. Good. Luck had not asked them to. Hesk looked back at him. "Still interested?" Luck considered the Marks. Food. Lodging. Supplies. Road access. A reason to move through Greywake without begging anyone for permission to be useful. And risk. That part had been explained repeatedly enough to qualify as a local tradition.
+Nobody had hidden the risk.
 
 "Yes."
 
-Hesk nodded once. No smile. No triumph. Just business.
+Brynn held his gaze for another second.
+
+"Then keep your entrant token on you. Gate staff will require it when you return."
+
+"Understood."
+
+She turned to Hesk.
+
+"Don't make him the militia's problem."
+
+"I don't plan to."
+
+Brynn left.
+
+Luck watched her cross the yard.
+
+Nobody had rescued him from his own decision.
+
+Good.
+
+He had not asked them to.
+
+Hesk looked at him.
+
+"Still interested?"
+
+Luck looked at the form.
+
+Food.
+
+A roof.
+
+Road access.
+
+Money that belonged to him because he had done something for it.
+
+Risk, clearly labeled.
+
+He thought of the three strange coins from the forest, already reduced by meals and lodging. Freedom, he was discovering, charged by the night.
+
+"Yes."
+
+Hesk nodded once.
 
 "Good."
 
-Luck had expected questionable frontier employment to feel more dramatic. Instead Jessa pulled the form toward herself and started writing. Naturally.
+No smile.
+
+No victory.
+
+Business.
+
+Jessa pulled the form closer and began writing.
 
 "What are you putting down?"
 
@@ -432,57 +548,61 @@ Luck had expected questionable frontier employment to feel more dramatic. Instea
 
 "I know."
 
-"So the agreement is based on the spoken terms."
+"So say the terms again."
 
-"Yes."
+She did.
 
-"Then say them once more."
+Luck listened to every one.
 
-Jessa did. Payment in Marks. Advance deducted from final payment. Basic assignment supplies provided. Main Caravan Road repair support. No registered-worker injury guarantee. No identity-bound traveler protection. No normal contract appeal. Return or report completion. Luck listened to the entire list. No surprises.
+Then he said, "Accepted."
 
-"Accepted."
+Jessa stamped the page.
 
-Jessa stamped the form. Then she placed the Marks in his palm. They were heavier than they looked. His first income in this world. Technically an advance against work Luck had not done. He decided not to insult the moment with accounting.
+The sharp wooden knock disappeared beneath the hall's noise.
 
-Hesk tapped the map.
+She opened a drawer and placed several silver coins in his palm.
 
-"Report here at first light."
+Marks.
 
-Jessa turned the map toward him. Lines crossed the parchment in several directions. Most meant nothing, but some locations used simple shapes. A gate. A road post. A bridge. She pointed to each one.
+His first income in Veyr.
 
-"Main gate. North-east road marker. Guild repair post. The crew gathers here."
+Technically an advance against work he had not yet done, but accounting felt disrespectful to the moment.
 
-Luck traced the sequence with one finger.
+Luck turned one coin beneath the light.
 
-"That I can remember."
+A crownlike mark on one side.
 
-"The written sheet has the same route."
+River lines on the other.
 
-"Then the sheet is decorative."
+He closed his hand around them.
 
-"I assumed you would say that."
+Hesk tapped the bridge symbol on the map.
 
-She separated a smaller card from the stack. The writing remained unreadable, but the bridge symbol at the top was large and obvious.
+"First light."
 
-"Show this to the crew foreman. The Guild seal and bridge mark identify the assignment."
+Jessa separated a smaller card from the papers and handed it to Luck. The writing remained useless, but a bridge symbol and Guild seal occupied the top.
+
+"Show this to the crew foreman."
 
 "Finally. Paperwork designed for me."
 
 "It was designed for workers who cannot read."
 
+Luck looked at her.
+
 "Less special."
 
 "Still useful."
 
-Fair. Jessa moved to the supply counter and came back with a rolled weather sheet, a filled waterskin, and a small cloth bundle of travel food.
+Fair.
 
-"The crew carries the tools."
+At the supply counter she issued a weather sheet, filled waterskin, and wrapped travel food.
 
 "What about lodging tonight?"
 
-She pointed toward the market lane.
+She pointed through the doors toward the market lane.
 
-"With the advance, you can afford something basic."
+"With the advance, something basic."
 
 "Roof?"
 
@@ -492,12 +612,70 @@ She pointed toward the market lane.
 
 "Probably."
 
-Luck considered that.
+Luck nodded solemnly.
 
 "Luxury."
 
-Jessa looked down quickly. Luck caught the edge of a smile. Hesk was already speaking to another clerk. The meeting was over. Just like that. No oath. No magical contract. No dramatic warning. No one asked him to swear loyalty to the Guild, the Roadmaster, Greywake, destiny, or any other institution that might eventually become annoying. That part Luck liked. He tucked the Marks away and stepped into the caravan yard with food under one arm and the bridge-marked card in his hand. The arrangement was bad.
+This time Jessa's smile escaped.
 
-It was also useful. Luck had taken it because he wanted what it gave him now. That was enough. At the edge of the yard, Luck looked back. Hesk had not watched him leave. He was bent over another route map with two workers, already dealing with something else. That made him more convincing than if he had stood in the doorway looking mysterious. Tomorrow Luck had a damaged bridge, a repair crew, a little risk, and payment waiting at the end. Simple enough.
+Small victory.
 
-Luck had already learned not to trust that phrase.
+Luck stepped back into the caravan yard with the supplies under one arm and the bridge card tucked safely inside his coat.
+
+A porter pushing a handcart nearly clipped him.
+
+Luck moved aside.
+
+The cart rolled through the space where he had been standing and hit a shallow rut. One loose iron pin bounced from the load and landed beside his boot.
+
+The porter swore and stopped.
+
+Luck picked it up.
+
+The man stared from the pin to Luck, then to the cart wheel.
+
+"How did you see that coming loose?"
+
+Luck had not.
+
+He looked at the wheel.
+
+Then at the pin in his hand.
+
+The correct answer would be *I nearly got run over by your cart.*
+
+Unfortunately, the porter was already waiting for a better one.
+
+Luck held the pin out.
+
+"Your left side was complaining."
+
+The man frowned, crouched, and checked the wheel.
+
+A crack ran along the wooden brace behind it.
+
+His expression changed.
+
+"Foreman!"
+
+Two workers came over.
+
+Within seconds the cart had been pulled out of traffic.
+
+Luck continued toward the gate before anyone could ask what, precisely, he had heard.
+
+Behind him, one worker said, "He caught that from the sound?"
+
+Another answered, "Apparently."
+
+Luck adjusted his coat.
+
+The wheel had looked bad.
+
+Probably.
+
+Tomorrow he had a bridge, a repair crew, and a job someone else already considered dangerous enough to explain three times.
+
+Simple enough.
+
+He had learned not to trust that phrase.

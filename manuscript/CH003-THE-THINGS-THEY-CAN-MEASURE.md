@@ -1,297 +1,137 @@
 # Chapter 3 — The Things They Can Measure
 
-**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK / STABLE THEATRICAL MC
-**Revision Date:** 2026-10-02
-**Word Count:** 1556
+"Will any of this let me take a paid job?"
 
-By early afternoon, the wooden entrant token inside his coat had become the most official thing Luck owned. That was not a high bar. Greywake's records district sat under covered timber walkways while rain tapped the roofs and clerks moved bundles of paper from one office to another. Luck followed the directions from the gate, climbed a narrow staircase, and found Maelis Orra waiting in a second-floor Ledger room. A long table stood between them. So did enough instruments to make him regret arriving voluntarily. A metal balance plate. A pale bead in a clip. A transparent measuring strip. A flat verification tag. A clear prism in a protective frame. At the far end sat another Certified Identity Slate.
+Luck stood just inside the Ledger doorway, within range of the brass language token on the table. He looked at the instruments between Maelis Orra and the empty chair. He had spent part of the previous evening hauling a cook's water in exchange for a bowl and space by the hearth. His ankle had objected to every trip. He was not eager to repeat the arrangement.
 
-Luck recognized that one. They had history. A charged Wayfarer Tongue Token hung from a brass stand near the middle of the table. The faint pressure around his ears settled in as soon as Luck entered its range. Maelis looked up from a notebook.
+"It will tell us what can actually be measured," Maelis said.
 
-"You came back."
+"I was hoping for money, but please continue."
 
-"I was told to."
+Rain tapped the covered walkway behind him. He stepped farther inside and closed the door. The early-afternoon appointment had looked much more promising before he saw the equipment.
 
-"That is usually how scheduled follow-ups work."
+A clerk waited with clean forms. Beside him sat a balance plate, a thermal bead, a transparent wound gauge, a material-verification tag, and a clear prism. At the far end was another Certified Identity Slate.
 
-Luck closed the door. "You have a gift for making obedience sound disappointing." She pointed to the chair across from her.
+Luck nodded toward it. "We've already met two of those. Neither liked me."
 
-"Sit."
+Maelis placed it in front of the clerk. He held his hand over the center. The slate brightened and returned a normal result.
 
-Luck sat. A records clerk waited at the far end with fresh forms. Maelis folded her hands. "This morning established that two separate authorized System interfaces could not produce a valid identity record for you."
+"Control," she said. "Yesterday's failures warrant investigation. They don't warrant guessing what you are."
 
-"Hard to forget."
+"I wasn't going to make you guess. I had several excellent suggestions."
 
-"Today is not another attempt to guess what you are."
+She pointed at the balance plate. "Stand there."
 
-That got his attention.
+It measured him twice. The readings matched. The thermal bead registered living-body heat; the verification tag registered his coat and wooden entrant token as ordinary material. None needed a System identity to do its job.
 
-"Then what are we doing?"
+Maelis asked to see the injured arm. Luck loosened the bandage without pulling it across the dried cut. The gauge went beside the wound, never into it, while the clerk recorded what was visible.
 
-"Separating what can be observed from what can be inferred. Physical facts. System-derived facts. Speculation."
+"Still yesterday's damage," Luck said. "I'm aware of it whenever I move."
 
-Luck looked at the instruments.
+"Then don't move it for the reading."
 
-"So you're measuring everything except the interesting part."
+He watched the clerk write. No alarm, no whispered title, no explanation that would transform a bad night into an impressive origin. He had weight, body heat, clothes, and a wound. Greywake now had documentation for all four.
 
-"I'm measuring the parts that produce evidence."
+"Do I get a certificate for being present?"
 
-Annoyingly reasonable. She moved the Certified Identity Slate toward the clerk first.
+"You get a record that the physical instruments work on you."
 
-"Control."
+"Can an employer use it?"
 
-He held his hand over it. The surface clouded, brightened, and filled with symbols Luck still could not read.
+Maelis met his eyes. "Not as a substitute for a registered identity."
 
-Maelis checked the result.
+Luck tied the bandage again. That was the answer he had been trying to extract since the doorway. At least she had finally stopped it hiding behind the equipment.
 
-"Recognized."
+She brought the clear prism forward. "One more physical test before the identity query."
 
-The clerk removed his hand. Luck pointed at the slate. "So it works."
+"Something useful this time?"
 
-"It works on him."
+"Mana reactivity. It does not read your MP. It tests whether a controlled, low-output mana pulse interacts with you."
 
-"Comforting."
+He held out his hand. Light gathered inside the frame and a faint pressure crossed his skin. Lines within the prism bent toward his palm, then separated. Maelis reset the instrument and repeated the pulse. The same thing happened.
 
-"For me, yes."
+Luck looked from the prism to his fingers. "So I have magic."
 
-Luck was beginning to understand the shape of their relationship. Maelis stood.
+"Mana interacted with your body. That doesn't establish that you can cast it, store it, or use a skill."
 
-"Now we test things that do not require a System identity."
+"You could leave a little room for optimism."
 
-The first tool was the balance plate. Luck stepped onto it. An indicator moved along the side. The clerk recorded the result. Maelis reset it.
+"I left room. You tried to put an archmage in it."
 
-"Again."
+The clerk lowered his eyes to the form. Luck decided not to inspect the man's expression.
 
-Luck stepped off and back on. Same result.
+He had not told Maelis about the accidents in the forest. Broken wood and a startled animal did not make a theory, and he preferred his final stare to remain the impressive part. He let her put the prism away without offering a demonstration he could not reproduce.
 
-"Stable."
+She slid the identity slate into place. "Now the same query as before."
 
-"So gravity recognizes me."
+He held his hand above it. The clerk stopped writing as the symbols appeared. Maelis read the result evenly.
 
-"The plate measures mass."
+"Name, Race, Class, Level, HP, MP: undefined. Progression unavailable. System Recognition failed. Classification: anomaly. World Registry: no record. Soul Registry: no record."
 
-"Close enough."
+The last words still landed harder than the others. Luck lowered his hand and put it over the bandage, feeling his own pulse beneath the sore skin.
 
-The thermal bead came next. She held it near his wrist until a line formed across its surface.
+"The physical tools find me," he said. "That one doesn't."
 
-"Living-body range."
+"It cannot produce your valid identity fields. That's the distinction we can support. It isn't proof that you're absent, invulnerable, or beyond measurement."
 
-"Good. I was worried the forest had been misleading."
+"And not proof that the gate broke?"
 
-She ignored that and looked at his left forearm.
+"Not with independent interfaces failing while the control succeeds. We have an unresolved identity anomaly."
 
-"The injury."
-
-Luck rolled up the torn sleeve. The cuts from that morning were still visible beneath the rough bandage, their edges dried but sore whenever he flexed his wrist. Maelis placed the transparent gauge beside the longest mark without touching it.
-
-"Current visible state only," she told the clerk.
-
-He wrote it down. No questions about why the shallow cuts were crusted around the bandage. No theory. No dramatic declaration. Luck noticed. The material tag was even faster. His wooden entrant token registered as present physical material. So did the edge of his coat.
-
-Maelis reviewed the page.
-
-"Your physical presence is consistently measurable through instruments that do not require System identity."
-
-Luck looked over the table.
-
-"So far the Ledger has confirmed that I have weight, body heat, clothes, and a piece of wood."
-
-"Yes."
-
-Luck waited. She waited.
-
-"That sounded more impressive before I listed it."
-
-"It is still useful."
-
-The pen touched paper. Maelis had noticed nothing. She reached for the clear prism.
-
-"This is different."
-
-That improved his mood.
-
-"Mana-Reactivity Prism," she said. "It does not measure your MP."
-
-"Because I don't have readable MP."
-
-"Because the System cannot produce a valid MP field for you."
-
-Small distinction. Important distinction.
-
-"What does it test?"
-
-"Whether a standardized low-output mana pulse physically interacts with you."
-
-Luck held out his hand. She positioned the prism beneath his palm and touched one of its metal contacts. Light gathered inside the glass. Something moved across his skin. Not heat. Not wind. More like pressure without direction. Thin lines inside the prism bent toward his hand, held for a moment, then separated.
-
-The room stayed quiet.
-
-"What?"
-
-"Interaction."
-
-"Meaning?"
-
-"Mana physically interacted with you."
-
-Luck waited. That was apparently the whole answer.
-
-"So I have magic."
-
-"That is not what I said."
-
-Of course it wasn't. She reset the prism and repeated the test. Same result.
-
-"Repeatable," she said.
-
-Luck looked at his hand. The forest returned in pieces: teeth, mud, a snapped pole, a loose vine, and far too many accidents landing in his favor. Luck had told nobody how ridiculous the sequence had been. Wet wood broke and frightened animals made mistakes; the impressive part, as far as he was concerned, had been the final stare. He was not spoiling that now.
-
-"Does this mean I'm secretly an ancient archmage?"
-
-"The instrument did not test that."
-
-"Tragic."
-
-One corner of the clerk's mouth moved. Maelis either did not see it or chose mercy. She returned the prism to its case.
-
-"Your body can be measured. Mana interacts with you. Now we repeat the identity query."
-
-There it was. The Certified Identity Slate came back to the center of the table. Maelis checked the control mark once more. Still normal.
-
-"Hand above the center."
-
-Luck obeyed. The surface clouded. Symbols appeared. The clerk's expression changed first. Maelis's barely moved. Luck already knew the shape of the answer. Hearing it still mattered.
-
-"Name: undefined," she said.
-
-"Race: undefined. Class: undefined. Level: undefined."
-
-The clerk kept writing.
-
-"HP: undefined. MP: undefined. Progression unavailable."
-
-Luck glanced at the prism. Mana could touch him. The System still could not turn that fact into an MP value. Maelis continued.
-
-"System Recognition: failed. Classification: anomaly. World Registry: no record."
-
-She paused.
-
-"Soul Registry: no record."
-
-The room went quiet. The balance plate had measured him. The thermal bead had measured him. The wound gauge had measured him. Mana had touched him. The System still looked for a person and came back empty. Maelis finished the motion she had already begun. Luck lowered his hand.
-
-"So the gate wasn't broken."
-
-"Not based on the evidence we have now."
-
-"And the first slate?"
-
-"Also unlikely to be the cause."
-
-"What does that leave?"
-
-"An unresolved identity anomaly."
-
-"Very useful."
-
-"It is accurate."
-
-She wrote it down.
-
-*Naturally.*
+She entered that on the form. Luck waited until her pen stopped.
 
 "You have theories."
 
 "Several."
 
-"You're going to tell me?"
+"Which one gets me hired?"
 
-"No."
+"None of them is established. I won't present a guess as a result."
 
-"Why?"
+He leaned back. The instruments had answered their questions. Unfortunately, none of them had been his.
 
-"Because none are supported strongly enough to present as fact."
+A knock interrupted them. A young woman entered carrying route packets with red corner stamps. Maelis cleared a space among the instruments before the papers could touch them.
 
-Luck stared at her.
+"Jessa Vale, Road Guild records," she told Luck.
 
-"You do this professionally."
-
-"Yes."
-
-A knock came at the door before Luck could decide whether that was admirable or threatening. A young woman stood outside with a stack of route packets under one arm. Several had red corner stamps. Luck could not read the writing, but urgent paperwork had a universal posture.
-
-"Jessa Vale," Maelis said. "Road Guild records."
-
-Jessa shifted the stack.
-
-"I have the route certification copies you requested. And the delayed repair notices."
-
-Maelis held out a hand.
+Jessa handed over most of the stack. "Route certification copies and the delayed repair notices you requested."
 
 "For the audit?"
 
-"Yes."
+"Yes." Jessa glanced at Luck's entrant tag. "Your normal contract file still can't be opened?"
 
-Jessa passed her most of the stack, then looked at the wooden token near his coat. She knew the problem before she knew him.
+The clerk shook his head. "No valid registry identity."
 
-"Luck Everhart?"
+"Remarkably consistent," Luck said. "Perhaps I could be paid for that."
 
-"Depends who's asking."
+Jessa turned to him. "Roadmaster Rovan Hesk wants to discuss paid work."
 
-"Road Guild."
+Luck sat forward before he could make it look unhurried. "Registered work?"
 
-That narrowed it down very little. She glanced toward the clerk.
+"A private arrangement."
 
-"His standard contract file still can't be opened?"
+Maelis looked up from the route packets. Luck noticed the pause and left his next joke unsaid. Red repair stamps crowded the paperwork; Hesk evidently had things he needed done, and somebody had already brought him the stranger's failed contract file.
 
-"No valid registry identity," he said.
+"Legal?" Luck asked.
 
-Jessa nodded once, like another piece of troublesome paperwork had confirmed its intention to remain troublesome. Then she looked at him.
+Jessa adjusted the papers against her chest. "Work that can be arranged privately."
 
-"Roadmaster Rovan Hesk wants to speak with you."
+She had answered carefully. More carefully than a simple yes required.
 
-"About?"
+"And he's asking for me because...?"
 
-"Paid work."
+"He wants to explain the offer himself. Later today, at the Guild hall."
 
-*Of course the first useful offer arrives right after I become officially unemployable.*
+Luck looked at Maelis. "Does another test change my restrictions?"
 
-That was the first phrase all afternoon that sounded immediately useful.
+"Not the results we have. The temporary conditions still apply."
 
-"Registered work?"
+There it was: a door, and the reason he had so few other doors. He would hear the offer, find out what the Roadmaster thought he was buying, and agree to nothing until he knew the price.
 
-"No."
+"Tell him I'll come," Luck said.
 
-Maelis looked up from the route packets. Jessa continued.
+He rose slowly enough to spare the ankle and took his post from beside the door. Jessa gave him directions within the language token's range. Behind them, Maelis separated the measurements from the unresolved theories and opened the route audit.
 
-"Your status blocks normal Guild certification. It does not stop Hesk from discussing a private arrangement."
+Someone had found a use for a man who could not enter an ordinary work contract.
 
-Luck looked at the red-stamped repair notices in Maelis's hand. Greywake had roads to keep open, caravans to move, and apparently enough delayed work for its Roadmaster to notice a stranger who did not fit the normal system.
-
-*Interesting.*
-
-"Legal?"
-
-Jessa hesitated for half a second. Her fingers tightened around the route packets.
-
-"Work that can be arranged privately."
-
-She had very carefully not called it legal. Luck respected professional survival instincts. Not the same answer. Better answer. Luck slipped the wooden token back inside his coat. The System could not define him. The normal contract system could not process him. Somebody in charge of Greywake's roads had already decided that might be useful.
-
-"When?"
-
-"Later today."
-
-Luck stood.
-
-"Tell Hesk I'll hear him out."
-
-Jessa nodded. Maelis reopened her notebook.
-
-"Your restrictions remain unchanged."
-
-"Of course they do."
-
-Luck had spent the afternoon proving he possessed mass, heat, material presence, wounds, and measurable interaction with mana. Apparently none of those qualified him for ordinary employment. Luck headed for the door. Behind him, Maelis's pen started moving again. Jessa's route papers landed on the table with a heavy slap. A town that could not classify him had found a reason to hire him anyway.
-
-Luck decided to meet the man who thought that was useful.
+Luck intended to find out what protections the ordinary workers had that he did not.

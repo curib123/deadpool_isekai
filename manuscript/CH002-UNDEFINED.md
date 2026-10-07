@@ -1,479 +1,187 @@
 # Chapter 2 — Undefined
 
-**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK / STABLE THEATRICAL MC
-**Revision Date:** 2026-10-02
-**Word Count:** 2551
+The guard lowered his spear before Luck could deliver his introduction.
 
-Civilization announced itself with smoke, wagon wheels, and a timber wall high enough to make the forest behind Luck look like somebody else's problem. The road curved down through thinning trees toward a palisade. River fog drifted between watch platforms. Two lines of carts waited outside the gate while drivers checked harnesses, guards inspected loads, and merchants argued with the confidence of people whose morning had not included being hunted. Luck stopped where the trees gave way to the road. Dried blood marked his torn sleeve. Mud covered one knee, both boots, and enough of his coat to damage the mysterious-stranger effect.
+Luck stopped at the end of the wagon queue. Greywake's timber wall rose beyond the guard, with river fog gathering beneath the watch platforms. Inside, somebody was cooking. His stomach made a stronger argument for entry than anything he had prepared.
 
-He straightened anyway and walked toward the gate as though he belonged there. Two guards noticed him before he reached the first wagon. One was broad enough to make his spear look decorative. The other was younger and far more interested in the dried blood on Luck's sleeve. The broad guard raised a hand and spoke. Luck stopped. The sentence was definitely language. It was also completely useless to him. He smiled politely.
+The guard spoke. Luck understood none of it.
 
 "I'm going to assume that meant welcome."
 
-The guard's face made it clear that it had not. The younger guard tried again, slower. Luck waited. Nothing.
-
-*Excellent. Language barrier before breakfast.*
-
-He pointed at himself. Good thing he had solved this problem before reaching the gate.
+A younger guard pointed at his bloody sleeve and repeated the question more slowly. It remained useless. Luck leaned on his broken post and pointed at himself.
 
 "Luck Everhart."
 
-The name still was not the one he had lost. It was the one he had chosen, and for the moment that made it more useful than anything memory refused to return. The broad guard frowned. Luck pointed toward the gate. The younger guard called toward a booth built into the palisade. A tired-looking attendant stepped out almost immediately carrying a round brass token on a cord.
+The younger man called toward the gate booth. An attendant emerged with a brass token on a cord, pressed its center, and held it between them. Pressure brushed Luck's ears.
 
-Luck watched him approach.
+"Now," the attendant said. "Your name."
 
-*That was convenient.*
+The sounds were still foreign. The meaning was not.
 
-The attendant held the token between them and pressed his thumb into its center. A faint pressure brushed past Luck's ears.
+Luck stared at the token. "That would have saved us an uncomfortable minute."
 
-"Try again," the attendant said.
+"Wayfarer Tongue Token. Ordinary speech, within range. Not thoughts."
 
-Luck blinked. The sounds were still unfamiliar. The meaning was not. He looked at the token.
+"An excellent restriction."
 
-"That is either extremely useful or the beginning of a privacy lawsuit."
+"Not writing, either."
 
-"Wayfarer Tongue Token."
-
-The attendant said it with the emotional investment of a man identifying a spoon.
-
-"It carries ordinary speech inside its range. Not thoughts."
-
-"Important distinction."
-
-"It does not translate writing."
-
-Luck looked toward the boards beside the gate. Same unreadable script as the road sign.
-
-"Less important distinction. Much more disappointing."
-
-The attendant ignored him. Professional.
+Luck glanced at the boards beside the gate. The symbols remained stubbornly unreadable. "That one feels less necessary."
 
 "Name?"
 
-"Luck Everhart."
+He gave it again. The attendant entered it as a claimed name, then asked for an origin, papers, travel party, Guild seal, and sponsor. Luck could provide none of them.
 
-A pause.
+"I woke up in the forest," he said.
 
-"Your name."
+The broad guard looked at the blood.
 
-"That was the answer."
+"And something objected," Luck added.
 
-The younger guard made a sound the token translated mostly as disbelief. The attendant rubbed the bridge of his nose.
+At the request to show weapons, he placed his folded knife on the booth ledge and propped the broken survey post beside it. The broad guard checked the blade, closed it, and kept both within reach while the attendant worked.
 
-"Claimed name: Luck Everhart."
+Behind Luck, a driver was arguing about a load inspection. The man's cart stood on a slight incline, a wooden chock sitting shallowly against its wheel. A frayed lash hung beside the wheel; the younger guard bent to inspect it.
 
-Luck smiled.
+Luck moved aside to protect his sore ankle from a porter squeezing between them. His boot nudged the chock deeper under the wheel just as the cart horse shifted and tightened its traces. The wheel pressed against the wood instead of rolling onto the crouching guard's hand.
 
-"See? Progress."
+The guard straightened. He looked at the wheel, Luck's boot, and the hand Luck had raised to stop the porter bumping his arm.
 
-"Origin?"
+"You saw it move?"
 
-The smile faded a little. Explosion. White light. Forest. Everything before that existed mostly as locked doors in his head. Luck looked back toward the road.
+Luck glanced down. Only now did he see how close the guard's fingers had been.
 
-"Complicated."
+"I prefer having room to work."
 
-"That is not an origin."
+A useful answer. It did not specify what work.
 
-"I noticed."
+The younger guard checked the chock himself, then waved the porter around the other side. "Give him space. He was watching the wheel."
 
-The attendant continued. Travel party? None. Papers? None. Guild seal?
+Luck accepted the space. Unfortunately, the attendant was now watching him more closely too.
 
-No.
+"You know road work?"
 
-Local sponsor? Also no. Each answer removed another small piece of the man's patience. The broad guard pointed at Luck's torn sleeve.
+"I know when I would rather not be under a wagon."
 
-"Armed?"
+"Then you know why we check people before letting them through. Stand on the seal."
 
-"Currently? No."
+A circular metal plate sat beside the booth, connected to an indicator on a post. The attendant first waved a merchant onto it. Light crossed its grooves; the indicator answered, and the merchant passed through the gate.
 
-The guard did not seem comforted by currently. The attendant looked Luck over.
+Luck stepped onto the plate. The light started beneath his boots and stopped halfway across.
 
-"You came out of the north road alone, with no papers, no guild mark, no recognized sponsor, and blood on your clothes."
+The attendant reset it. The same mark flashed on the indicator. The broad guard's attention returned to Luck, and this time it stayed there.
 
-Luck tilted his head.
+"System Recognition: Failed," the attendant read. "World Registry: No Record."
 
-"That sounds worse when you organize it."
+Luck looked down. A System. Of course there was a System, and apparently he had arrived without an account.
 
-"It was already organized."
+"Does it usually do that?"
 
-Luck looked at his left forearm. Dried blood had crusted around the torn fabric, but the cuts pulled painfully when he flexed his hand. He resisted inspecting them in front of the guards. A man with a mysterious past should not need to ask where the clean bandages were.
+"No. Step off."
 
-"It's improving."
+"An encouraging first impression."
 
-The younger guard looked from the wound to Luck. Luck added, "Apparently." That did not help. The attendant pointed toward the gate.
+"A failed seal is not a verdict. We check separately."
 
-"This is Greywake. Entry is controlled. If you have no papers, we check registry."
+They took him into the intake room beside the booth. A desk blocked the far door; wooden entrant tags hung on the wall. The attendant hung the language token between Luck and a clerk carrying a slate in a metal frame.
 
-Greywake. Luck looked past him at timber roofs fading into river fog. At least the place had a name now.
+"Certified Identity Slate," she said. "Independent of the gate seal. Hand above the center. Don't touch the frame."
 
-"Greywake."
+He obeyed. Symbols clouded the surface. She read twice before reaching for a fresh form.
 
-"Yes."
+"I assume that face means I'm winning," Luck said.
 
-"I was hoping civilization would have a less judgmental entrance."
+"Name: undefined. Race, Class, Level: undefined. HP and MP: undefined. Progression unavailable."
 
-"It does not."
-
-Luck's smile returned. He liked the man a little more.
-
-"Do you want to enter?"
-
-"Very much."
-
-"Then stand on the seal."
-
-A circular metal plate had been set into the stone beside the gate. Thin geometric grooves crossed its surface. A smaller indicator plate sat on a nearby post. A merchant ahead stepped onto it. The grooves lit. The attendant checked the indicator. The merchant was waved through. Routine. Then Luck stepped onto the seal. The grooves brightened beneath his boots. And stopped. The attendant frowned. He tapped the indicator.
-
-"Stay there."
-
-"Wasn't planning a dramatic escape."
-
-The attendant reset the seal. The light ran again. It stopped at exactly the same place. A mark flashed on the indicator. The younger guard leaned closer. The broad guard adjusted his grip on the spear. The silence changed. Luck looked down.
-
-"Something unusual?"
-
-The attendant gave him a flat stare.
-
-"System Recognition: Failed."
-
-System. For the first time since waking in the forest, Luck went completely still. The gate lane kept moving around him: a driver argued with a merchant, fog drifted beyond the palisade, and the broad guard tightened his grip on the spear.
-
-Luck looked at the glowing seal.
-
-"There it is. The System."
-
-The attendant waited.
-
-Luck pointed at himself.
-
-"And apparently it belongs to everyone except me."
-
-The driver behind him continued arguing. The attendant checked the indicator again.
-
-"World Registry: No Record."
-
-Luck folded his arms, then immediately loosened them when his forearm pulled.
-
-"So the world itself has no record of me."
-
-"It means I cannot finish the entry form."
-
-Luck stared at him. There were apparently several ways to experience an existential crisis. Being denied by paperwork had not been high on the list.
-
-"What does it normally say?"
-
-"Recognized. Then it returns the legal screening state."
-
-"And when it doesn't?"
-
-"We verify separately. The seal may be damaged. There may be interference, corrupted relation data, unusual registration, fraud."
-
-"Fraud feels ambitious. I don't even have money."
-
-The attendant motioned him off the seal.
-
-"We do not decide from one failed gate check."
-
-Luck stepped down.
-
-*Annoyingly reasonable.*
-
-They took him into a narrow intake room beside the gate. A desk divided the space. Blank wooden tags hung from hooks along one wall. The other wall was covered in writing Luck still could not read. The Wayfarer token was hung from a peg between them. The attendant disappeared through a side door and returned with a woman in a grey-brown clerk's coat carrying a rectangular slate framed in metal. She set it on the desk.
-
-"Certified Identity Slate. Separate authorization from the gate seal."
-
-Luck looked at it.
-
-"So if this fails too, we stop blaming the gate?"
-
-The clerk looked at him for half a second.
-
-"That is one way to phrase it."
-
-Luck's eyes brightened.
-
-"Good. You speak my language."
-
-"Hand over the center. Do not touch the frame."
-
-He obeyed. The slate clouded beneath his palm. Lines of symbols spread across its surface. Still unreadable. The clerk read the first line. Then read it again. The guard behind Luck stopped pretending not to watch. Luck raised an eyebrow.
-
-"I assume that face means I'm winning."
-
-"No."
-
-"Good. I hate easy games."
-
-Her eyes returned to the slate.
-
-"Claimed name?"
-
-"Luck Everhart."
-
-"I can enter that manually."
-
-She tapped the edge.
-
-"The System Name field is undefined."
-
-Luck's smile stayed in place. Something behind it did not.
-
-"Undefined how?"
-
-"The slate cannot produce a valid defined value."
+He stopped smiling.
 
 "Hidden?"
 
-"No."
+"No. It isn't returning a valid value. System Recognition failed. Classification: anomaly. World Registry: no record."
 
-"Blocked?"
-
-"No."
-
-"Restricted?"
-
-"No."
-
-The clerk kept reading.
-
-"Race: undefined. Class: undefined. Level: undefined."
-
-The room grew quieter with each field.
-
-"HP: undefined. MP: undefined. Progression unavailable."
-
-The guard looked at Luck as if he had personally insulted mathematics. Luck looked at the slate. He could not read a single symbol. That somehow made it worse.
-
-"System Recognition failed," the clerk said. "Classification: anomaly. World Registry: no record."
-
-She paused.
+Her pen paused.
 
 "Soul Registry: no record."
 
-Nobody spoke. This time Luck did not rescue the silence. He lowered his chin slightly. If the room insisted on giving him a dramatic pause, wasting it would be rude. Two different tools. Two different query paths. Same absence. Not hidden. Not sealed. Not too powerful to read. Undefined. No record. Luck looked down at his hand. It still cast a shadow. He was breathing. His arm still hurt. Something in the forest had tried very sincerely to eat him. Yet the structure these people trusted to describe a person had looked at him twice and failed to construct an answer.
+Luck looked at the hand over the slate. It cast a shadow. The cut above it hurt. The forest had considered him real enough to eat.
 
-The clerk looked up.
-
-"Do you know why this is happening?"
+"Do you know why?" she asked.
 
 "No."
 
-No joke. Just truth. She watched him for another moment, then pulled a paper form closer.
+The answer came without a joke. She entered his chosen name on the paper instead.
 
-"Claimed name or alias: Luck Everhart."
+"Claimed alias: Luck Everhart."
 
-"Alias?"
+"It accepts that?"
 
-"Unless the System recognizes it as your Name, yes."
+"I do. The System isn't the universe."
 
-Luck leaned back slightly.
-
-"So I can tell you who I am, but the System doesn't agree."
-
-"The System is not the universe."
-
-Luck's expression sharpened. That sentence stayed with him.
-
-"So your System refuses to sign the paperwork."
-
-"That is closer."
-
-The door opened behind them. The woman who entered wore no gate uniform, but both guards straightened before she spoke. Practical coat. Reinforced boots. Short weapon at her side. Nothing decorative. Her eyes went to the clerk, then the slate, then Luck. Efficient.
+Before he could ask what that distinction bought him, the far door opened. Both guards straightened. A woman in a practical coat came in, a short weapon at her side. Another followed with papers under one arm and stopped near the wall.
 
 "Captain Alder," the clerk said.
 
-Brynn Alder. Authority had arrived.
+The captain took the summary standing: no papers, cooperative, north-road arrival, two independent failures. Luck kept his hands on the desk where everybody could see them.
 
-"Summary."
+"Brynn Alder," she said. "Where did you enter the road?"
 
-The clerk gave it cleanly. No papers. Unknown origin. Cooperative. Gate Registry Seal failed. Certified Identity Slate failed independently. Claimed alias Luck Everhart. Standard fields undefined. No registry relation.
-
-Brynn looked at Luck.
-
-"You understand me?"
-
-He pointed at the brass token.
-
-"With assistance."
-
-"Where did you enter the north road?"
-
-"I found an old road in the forest and followed it until it became a better road."
+"An old path in the forest. I followed it until the road improved."
 
 "Before that?"
-
-"Forest."
-
-Brynn's face did not move.
-
-"Yes. I heard that part."
-
-Luck considered telling her about the white flash, the missing biography, and the impossible series of accidents that had kept him alive in the forest.
-
-*Absolutely not.*
 
 "I woke up there."
 
 "After what?"
 
-Luck met her eyes.
+White light. Heat. A name he could not reach.
 
 "A very bright problem."
 
-Her gaze dropped to the blood on his sleeve.
+Her gaze moved to the bandage. "Do you need a healer?"
 
-"You were attacked?"
+He flexed his fingers. The cut pulled, but the bleeding had stopped. "I can move it. I'd rather stop answering questions beside a gate."
 
-"Yes."
+"Then give me answers I can use."
 
-"By what?"
+Luck described the predator instead: high shoulders, ridged skull, oversized paws. He left out the failures that had somehow become an escape. His own account sounded improbable enough already.
 
-"I was hoping your people had a brochure."
+The woman by the wall asked whether the seal and slate used separate authorized query paths. The clerk confirmed it. Only then did she turn to Luck.
 
-"You need a healer?"
+"Maelis Orra. Ledger of Measures. I'd like to observe your follow-up check."
 
-Luck flexed his fingers. The bandaged cut pulled, but the bleeding had stopped on the walk.
+He gave her the pause he had practiced in the dark. "You may find the answers disappointing."
 
-"I can move it. Bleeding stopped."
+"Then we'll have learned something."
 
-Brynn studied it. Then moved on. One mystery at a time. Another woman stood near the far wall with papers under one arm. Dark practical clothes. Neat posture. No visible weapon. She watched the slate instead of Luck. That was somehow worse. Brynn noticed.
+Not intimidated. That was becoming a pattern.
 
-"You have a question, Orra?"
+Brynn rested a hand on the desk. "The seal can't verify your history or legal standing. That doesn't give me grounds to jail you. You cooperated, surrendered the knife, and haven't threatened anybody."
 
-"One."
+Luck began to relax.
 
-The woman looked at the clerk.
+"It also doesn't make you a verified traveler."
 
-"The gate seal and identity slate were separate authorized interfaces?"
+He stopped relaxing. The clerk stamped a wooden tag, threaded a cord through it, and put it between them.
 
-"Yes."
+"Unverified entrant," Brynn said. "Temporary. Keep it with you and show it when challenged. Public areas only unless someone authorizes more. You can buy ordinary goods or rent a room from someone willing to accept you."
 
-"Separate local query paths?"
+Luck set his three unfamiliar coins beside it. "Will these help with either?"
 
-"Yes."
+The clerk glanced at them. "Have an exchanger identify them. I can't promise a shop will take them."
 
-"And neither produced a valid registry relation?"
+He pocketed them again. Three coins, no reliable purchasing power. Another impressive distinction.
 
-"Correct."
+Brynn continued. "No normal registered Guild contracts, identity-bound travel services, or registered-traveler guarantees. This is entry, not an exemption from the law."
 
-Only then did she look at Luck. Interested. Not afraid. Luck preferred fear. Interest created paperwork.
+"You anticipated several questions."
 
-"Maelis Orra," she said. "Ledger of Measures."
+"Report to the Ledger rooms at the next intake cycle, early tomorrow afternoon. Miss the check and my staff will have to find you."
 
-"Luck Everhart."
+Maelis supplied the directions. The clerk separated the failed forms into gate records and a copy for ordinary Guild administration. Luck watched his new name travel farther through the town than he had.
 
-A pause.
+Outside, the broad guard returned his knife and post. The younger guard made room for his bad ankle without another request. That tiny success did not make the wooden tag feel less like a label attached to a problem.
 
-"Apparently."
+Luck stepped through the gate. Timber buildings crowded the streets, lanterns glowed above drainage channels, and steam rose from a food stall. He waited until the guards were behind him before inspecting the three coins again.
 
-One corner of Maelis's mouth almost moved. Almost. Brynn looked between them.
+He needed a meal, somewhere to sleep, and work that would pay for the next day.
 
-"This is still my gate."
-
-Maelis dipped her head.
-
-"I know."
-
-"Good."
-
-Brynn rested one hand on the desk.
-
-"Here's what matters, Luck Everhart. The gate can't verify your history, entry category, guild standing, legal notices, or travel relation."
-
-She tapped the failed slate.
-
-"So I treat what you've actually done, not what this thing failed to tell me."
-
-Luck considered that.
-
-"I don't have any of those."
-
-"That does not improve the problem."
-
-"Fair."
-
-"You've cooperated. You haven't threatened anyone. You came in on foot, you're unarmed, and I don't have grounds to put you in a cell because a registry tool failed."
-
-The younger guard relaxed. Luck did too. Internally. Brynn continued before he could enjoy it.
-
-"I also don't have grounds to treat you like a verified traveler."
-
-Luck's expression flattened. Being outside the classification system had sounded much cooler before someone explained what classification provided.
-
-Brynn noticed nothing.
-
-"So what's the compromise?" Luck asked.
-
-The clerk reached for one of the wooden tags.
-
-"Unverified entrant."
-
-She stamped it, added a manual mark, threaded a dark cord through the top, and slid it across the desk. Brynn tapped the tag once.
-
-"Temporary. Keep it with you."
-
-Luck picked it up. Wood. Cord. Ink. After two magical devices failed to prove he existed, Greywake had solved the problem with carpentry.
-
-He respected that.
-
-"What does it get me?"
-
-"Entry."
-
-"Excellent start."
-
-"If militia or gate staff challenge you, show it. You may buy ordinary goods, rent a room if someone accepts you, and move through unrestricted public areas."
-
-Money. A problem for later. Brynn continued.
-
-"You cannot accept normal registered guild contracts. You cannot use identity-bound gate or travel services. You do not receive standard registered-traveler guarantees or insurance."
-
-"Less excellent."
-
-"You return for a controlled follow-up identity check at the next intake cycle."
-
-Luck looked toward Maelis. She answered before he asked.
-
-"I want to observe the re-check."
-
-"That sounds relaxing."
-
-"It isn't intended to be."
-
-Brynn gave Maelis a brief look, then returned to Luck.
-
-"You report back. You cooperate. If you cause trouble, the token makes it easier for my people to know which unverified stranger they're looking for."
-
-Luck held up the wooden tag.
-
-"So this isn't a badge of honor."
-
-"No."
-
-"Special access?"
-
-"No."
-
-"Mysterious exemption from local law?"
-
-"No."
-
-Luck studied the tag.
-
-"You're committed to ruining the branding."
-
-The clerk looked down quickly. Luck caught it. A smile. Small victory.
-
-"So I keep this and try not to become a problem."
-
-"That would help," Brynn said.
-
-The tension eased enough for everyone to remember they had other jobs. The clerk gathered the failed forms into a separate stack. One copy went into a gate file. Another would pass through normal guild administration because Luck's restrictions prevented ordinary contract processing. Luck watched the page disappear into the pile. Somewhere beyond the room, Greywake had its own work, arguments, problems, and people who had no idea he existed.
-
-*Good.*
-
-A whole town already had a story before he arrived. He preferred arriving late. Less setup. The inner gate opened. Luck stepped through. Greywake was not grand. It was alive. Timber buildings leaned close along packed-earth streets. Lantern bridges crossed narrow drainage channels. Carts creaked through river mist. Somebody hammered metal deeper inside the settlement. Steam rolled from a food stall and attacked Luck's empty stomach with more effectiveness than the forest predator had managed. Nobody stopped to welcome him. Nobody bowed. Nobody whispered prophecy. Luck looked down at the wooden token hanging from his fingers.
-
-"Perfect."
-
-The forest had tried to eat him. Greywake had asked the world who he was. The world had answered twice. Undefined. No record. Luck closed his hand around the token and walked farther into town. For now, Luck Everhart would do.
+Every normal Guild contract was already closed to him.

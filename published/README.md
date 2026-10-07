@@ -1,56 +1,35 @@
 # Published Reader Copies
 
-**Status:** CURRENT READER-FACING COPIES — 2026-10-03  
-**Canon source:** `manuscript/`
+**Opening revision:** 2026-10-07  
+**Canon source:** `manuscript/`  
+**Status:** author-review publication copies; repository availability is not Webnovel publication or acceptance.
 
-The `published/` directory contains reader-facing copies generated from current manuscript canon.
+The `published/` directory contains reader-facing copies of manuscript text. These are not a separate canon source. Story edits belong in the manuscripts first, followed by synchronization and release QA.
 
-These files are not an independent canon source. Story edits belong in `manuscript/` first, followed by publication synchronization and QA.
+## Official Reading Order
 
-# Official Reading Order
+**Synopsis → CH001 → CH002 → CH003 → ... → CH026 → Volume 2 / CH027**
 
-There is **no standalone prologue**.
+Begin with `published/SYNOPSIS.md`, then `published/volume-001/CH001-WRONG-FOREST-WRONG-WORLD.md`. There is no separate prologue.
 
-The former prologue material has been merged into CH001 so the novel begins with one uninterrupted opening.
+## Latest Pacing Pass
 
-Primary public sequence:
+CH001–CH003 and the synopsis were revised. The three paired manuscript/reader files are byte-identical; production metadata has moved into the revision report rather than remaining inside the story files.
 
-1. `published/SYNOPSIS.md`
-2. `published/volume-001/CH001-WRONG-FOREST-WRONG-WORLD.md`
-3. CH002 onward in numbered order
-4. after CH026, continue with Volume 2 beginning at CH027
+CH001 preserves the mysterious Earth explosion, damaged memory, arrival, theatrical instinct before fame, visible but unexplained improbable timing, predator escape, persistent injury, and the deliberately chosen name Luck Everhart.
 
-**Public flow:**  
-**Synopsis → CH001 → CH002 → CH003 → ...**
+CH002 preserves independent identity failures and restricted entry while adding a bounded public misunderstanding. CH003 preserves competent physical/identity testing and Hesk's invitation. The opening chronology and possessions are tracked in `continuity/OPENING-RELEASE-CONTINUITY.md`.
 
-# Chapter 1 Opening Lock
+CH004–CH027 remain unchanged by this pass. Their previous QA is not a new release certification for the entire series.
 
-CH001 now contains:
-- the mysterious Earth explosion;
-- damaged autobiographical memory;
-- unnamed arrival in Veyr;
-- Luck's theatrical instinct before he has a reputation;
-- the first visible but unexplained Fortune Distortion timing;
-- the forest predator encounter;
-- real physical injury;
-- the deliberate choice of the name **Luck Everhart**;
-- movement toward civilization.
+## Publication Rules
 
-Do not insert a separate prologue before CH001.
+Keep title, story order, dialogue, action, consequences, and endings equivalent to the manuscript. Do not add publication-only retcons. Exclude production metadata, QA scores, agent instructions, and preparatory lore from story installments.
 
-# Publication Rules
+Luck remains physically mortal, limited to passive Fortune Distortion, unaware of its supernatural nature, and narrated in distant third-person limited. No second power or conscious luck mastery is added for commercial positioning.
 
-- keep reader copies story-equivalent to their manuscript sources;
-- remove production metadata from reader-facing files;
-- preserve chapter title, prose order, dialogue, consequences, and ending;
-- do not make publication-only canon changes;
-- rerun publish QA after substantive manuscript revisions.
+## Before External Release
 
-# Current Story State
+Follow `planning/WEBNOVEL-PACING-AND-SUBMISSION.md` and the current QA gates. The author must review the prose, verify current Inkstone application and AI/disclosure rules, and provide truthful publication history. Do not claim a guaranteed approval percentage or submit a contract application automatically.
 
-- Volume 1: CH001–CH026
-- Volume 2 manuscript currently begins at CH027
-- Luck Everhart remains the protagonist
-- POV remains distant third-person limited
-- Fortune Distortion remains his only supernatural power
-- Luck remains unaware that it is his power
+See `qa/WEBNOVEL-OPENING-REVISION-2026-10-07.md` for the exact scope and remaining checks.

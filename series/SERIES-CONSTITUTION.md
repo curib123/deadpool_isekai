@@ -1,6 +1,6 @@
 # Series Constitution
 
-**Title:** This Isekai Has a Bug. Unfortunately, It's Me.  
+**Title:** A Monster Called Luck  
 **Author:** minuszeroo  
 **Genres:** Action • Adventure • Dark Fantasy • Comedy • Mystery • Isekai  
 **Status:** CURRENT CANON — PERMANENTLY CLUELESS LUCK / THEATRICAL MC — 2026-10-03

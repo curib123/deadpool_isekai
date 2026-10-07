@@ -1,357 +1,227 @@
 # Chapter 7 — You Should Be Dead
 
-The road workers were arguing about a marker post when Tavian found the tracks.
+"Pack the tools," Tavian said. "We go back."
 
-"Replace it," said the younger worker.
+The younger road worker stopped arguing about the leaning marker post. The older man looked up from the drainage cover they had just replaced. Luck straightened beside the supply wagon.
 
-"Straighten it," said the older one.
+They had come out that morning to inspect damaged markers, replace two covers, and help Tavian verify the new animal movements. By midday, the mud had apparently supplied an answer he didn't like.
 
-They both looked at Tavian. Tavian was crouched in the ditch several paces away, studying mud. Luck leaned against the supply wagon.
+"Three predators," Tavian said. "Very recent."
 
-"You two may have to experience independent judgment."
+"No dramatic investigation?" Luck asked.
 
-Neither worker reacted. Good team. The job had sounded simple that morning: inspect damaged roadside markers, replace two drainage covers, and verify why recent animal movement had shifted closer to the north road.
+"This is the investigation. We have the answer."
 
-Luck had joined because it paid. Tavian had joined because he actually understood the second half of that sentence. By midday, they had found too many tracks. Tavian stood and pointed toward the tree line.
+The wagon stood on a slight downward grade, one wheel blocked against the slope. A loose chock lay beside the rear step. The older worker lifted the tool chest onto the near edge of the bed and began securing it; a coil of rope hung partly over the side above the axle, waiting to be stowed.
 
-"Three predators."
+Beyond the wagon, the marker post leaned toward the return lane. Its rotten base had started the morning's argument. Luck would have preferred it to remain the day's most dangerous subject.
 
-Luck looked at the mud.
+A growl came from the opposite ditch.
 
-"All from that?"
+Tavian turned first. "Inside line. Now."
 
-"Yes."
+A broad-chested predator pushed through the brush. A second showed farther back. Luck caught a third shape moving where the roadside plants bent beneath it.
 
-"Convenient profession."
+The older worker abandoned the chest binding and took the reins. The younger one grabbed a long-handled shovel. The wagon's charged speech token swayed beneath the cover, carrying every word of Tavian's instructions clearly.
 
-Tavian ignored him. The road workers stopped arguing. The younger one moved closer to the wagon.
+"Keep the wagon between them and the workers. Luck, here. Do not go forward."
 
-"Recent?"
+Luck took the place Tavian indicated. The lead animal looked straight at him.
 
-"Very."
+He remembered the forest: the branch between them, the word he had said, the creature backing away. That one had been bigger. He had made it hesitate.
 
-That changed the air. Tavian checked the brush, then the road behind them.
+Behind him, the young worker was trying to hold the shovel still.
 
-"Pack the tools. We go back."
+Luck lowered his shoulders and let his face settle. There was a way to make this look under control. He had done it once before.
 
-Luck straightened.
-
-"That's it?"
-
-"Yes."
-
-"No dramatic investigation?"
-
-"We found the thing I needed to confirm."
-
-"You don't want to meet them?"
-
-Tavian looked at him.
-
-"No."
-
-Reasonable. Luck disliked it immediately.
-
-The workers loaded the last drainage cover. One tied down the tool chest. The other moved to the horse.
-
-The first growl came from the opposite side of the road. Tavian turned before anyone else.
-
-"Inside line. Now."
-
-A broad-chested predator pushed through the brush. Another appeared farther back. Then a third shape moved behind the first two.
-
-Luck stopped joking. The animals were not hunting the wagon. They were hunting around it. Tavian moved to the road center with his polearm angled low.
-
-"Do not chase. Keep the wagon between them and the workers."
-
-The younger worker grabbed a long-handled shovel. The older worker climbed onto the wagon bench and took the reins. Luck looked at the lead predator.
-
-It looked at him. The creature lowered its head. Luck remembered the forest.
-
-Mud. A broken pole. A vine.
-
-A branch falling at exactly the right time. He had survived that. This was different. There were other people here.
-
-"Luck," Tavian said.
-
-"I see it."
-
-"Then stay where I put you."
-
-The lead predator stepped closer. Luck held position. For almost three seconds.
-
-Then the animal shifted toward Tavian, and Luck saw what looked like an open angle. He moved. Tavian swore.
+The predator shifted toward Tavian. Luck saw an open angle and stepped into it.
 
 "Don't—"
 
-Too late. Luck stepped into the animal's line. The predator committed instantly.
+The animal sprang.
 
-It was faster than he expected. Much faster. Luck's confidence lasted until the first stride.
+His confidence lasted for the first stride. By the second, he understood that it was going to reach him before he could get back.
 
-Then survival took over. He tried to step back. His heel landed on a rounded stone hidden under the mud.
+He retreated. His heel found a rounded stone under the mud, and his foot slid out. He dropped onto one knee as the jaws closed through the space above him.
 
-His foot slipped. Luck dropped hard onto one knee. The predator's jaws snapped through the space where his throat had been.
+Teeth caught the metal buckle at his shoulder instead of his throat. The fitting tore through its leather. The predator's own forward momentum jerked its head sideways, dragging the coat across Luck's chest.
 
-Instead, its teeth caught the metal buckle on the shoulder of his coat. The buckle tore free. The animal's head jerked sideways from its own momentum.
+A claw opened his shirt along the ribs.
 
-Luck fell backward. A claw raked across his ribs. Pain flashed white.
+He hit the road with all the air gone. Beside his hand, the torn buckle dropped into the mud. It was bent almost flat.
 
-He hit the road. The predator landed beyond him. Luck stared at the torn buckle lying in the mud beside his hand. That had been close enough to feel insulting.
+Then the worker screamed.
 
-"Move!" Tavian shouted.
+Luck turned. The second predator had come through the space he had left beside the wagon. Its jaws closed below the younger man's knee, pulling him off his feet.
 
-Luck rolled. The second predator entered from the wagon side. Because Luck had left his position.
+The shovel fell without being swung.
 
-The younger worker was exposed. The animal hit him below the knee. He screamed and went down.
-
-Everything became simple. Luck's mistake had changed the board. A slippery stone and an unexpectedly durable buckle had kept the bite from his throat.
-
-It had done nothing for the worker. Tavian changed direction immediately. He struck the second animal across the muzzle with the polearm shaft, then drove the butt into its shoulder.
+Tavian changed direction immediately. He struck the animal's muzzle with the shaft, then drove the butt into its shoulder. It released the worker and snapped at the wood instead.
 
 "Pull him back!"
 
-The older worker jumped from the wagon. Luck pushed himself up. His side burned.
+The older man jumped down from the bench. Luck pushed up on one hand, and pain cut through his side sharply enough to empty his vision for a moment.
 
-Blood was spreading beneath his shirt, but he could stand. The lead predator turned toward him again.
+He could stand. He could still move.
 
-"Of course."
+The worker couldn't.
 
-It lunged. Luck reached for the nearest weapon. There was no weapon.
+The lead predator turned toward Luck again. He reached for something to keep it away and found the loose wheel chock beside the step. His throw missed the creature completely.
 
-There was a wooden wheel chock beside the wagon. He grabbed it and threw. The throw was terrible.
+The wood struck the front wheel. The poorly seated downhill chock shifted on the wet ground, and the wagon crept a little under its own weight. The rope coil slid from the edge of the bed.
 
-The chock missed the predator completely. It hit the front wagon wheel. The wheel chock on the opposite side had not been seated properly.
+Its loose loop dropped across the charging animal's forelegs.
 
-The impact shifted the wagon half a handspan downhill. A coil of rope slid from the wagon bed. The rope dropped between the predator's front legs.
+The next stride carried one leg through. Rope drew across the axle, checked, and pulled tight. The predator crashed shoulder-first into the road.
 
-The animal stepped into the loop. Its next stride pulled the coil tight around one leg. The predator crashed into the road.
+Luck stared at it.
 
-Luck stared. The older worker stared. Tavian did not waste time staring.
+"Use it!" Tavian shouted.
 
-"Use it!"
+Luck caught the loose end and hauled. The older worker joined him. For a few seconds, their weight and the line around the axle held the animal far enough from the step to matter.
 
-Right. Luck grabbed the loose rope and pulled. The older worker joined him.
+It was not a trap they had built. It was an opening they were already losing.
 
-The predator thrashed, but the line had wrapped around the axle. Not a trap. Not a good trap.
+"Get him up," Tavian said. "Now."
 
-A trap anyway. Tavian forced the second animal away from the injured worker. The third predator moved through the ditch. The younger worker was still on the ground.
+Luck let the rope go and reached beneath the injured worker's arms. The man caught his sleeve with a grip so strong it pulled at the cut beneath the bandage.
 
-"Get him on the wagon!" Tavian shouted.
+"Don't leave me."
 
-Luck and the older worker released the rope. The lead predator was already tearing free. They dragged the injured man toward the rear step.
+"I'm not."
 
-The third animal came closer. Luck looked around for another miracle. Nothing obvious volunteered.
+No pause. No better line waiting behind it.
 
-The wagon horse screamed. Its rear leg kicked backward. The hoof struck the loose tool chest.
+The older worker took the man's legs. They lifted him toward the rear step while Tavian kept the second predator off them. The third slipped along the ditch toward the wagon's near side.
 
-The chest tipped from the wagon. Iron clamps, wedges, and hand tools spilled across the road directly in front of the third predator. The animal tried to change direction.
+Luck saw it coming. He had both arms around a person. Letting go would be easier.
 
-Its front paw landed on an iron clamp. The clamp rolled. The predator slammed into the wagon side.
+He didn't.
 
-Luck blinked. The older worker looked at him. Luck had not touched the horse.
+The horse recoiled from the movement and jerked sideways against the shafts. The stopped wagon rocked. The tool chest, left at the edge of the bed with its binding unfinished, slid and tipped over the side.
 
-Luck had not touched the chest. Luck had not touched the clamp.
+Its lid flew open on impact. Clamps and wedges scattered in front of the third predator. The animal tried to change direction; its forepaw landed on a curved iron clamp, which rolled beneath its weight.
 
-"Later," Tavian snapped.
+It hit the wagon side hard enough to shake the rail Luck was reaching for.
 
-Right. They got the injured worker onto the wagon. Tavian backed toward them, keeping his weapon between the pack and the horse.
+The older man shoved from below. Luck dragged the injured worker onto the bed, tearing a hot line of pain through his own ribs. Tavian backed toward the wagon with his polearm across the remaining approach.
 
-"Go."
+"Go!"
 
-The older worker climbed to the bench. Luck grabbed the rear rail. The horse surged forward.
+The older worker climbed to the bench. Tavian caught the side rail and stepped onto the running board as the horse surged forward. Luck braced the younger man against the cargo with his body.
 
-The lead predator had freed itself from the rope. It followed. For several seconds, the animal ran beside the wagon.
+The lead predator tore free of the slackening rope and came after them.
 
-Luck could hear its claws striking packed earth. Then one of the broken roadside marker posts—one the workers had argued about replacing all morning—finally leaned too far. The wagon wheel clipped its base.
+Its claws kept pace with the wheels. Luck could see the torn line dragging from the axle, the animal's head rising beside the rear corner, the gap it needed to jump.
 
-The post fell across the road. The predator jumped. Its rear leg caught the top edge.
+The wheel clipped the rotten base of the leaning marker post.
 
-It tumbled. By the time it recovered, the wagon had opened enough distance. Nobody spoke for almost a minute.
+The post fell across the lane behind them. The predator jumped too late; its rear leg caught the upper edge and pitched it onto the road. The wagon pulled away before it recovered.
 
-Then Tavian looked at Luck. Luck was holding his side with one hand.
+Luck watched until all three shapes disappeared behind the bend. Then he looked down at the worker's leg.
 
-"You left the line."
+There was too much blood to feel victorious.
 
-"Yes."
+They stopped at the first clear stretch long enough to secure the brake and get pressure on the wound. Tavian bound it while the older worker held the horse. Luck followed instructions with hands that would not stop trembling.
 
-"The worker got hit because the line opened."
-
-Luck looked toward the injured man. His face had gone pale.
+"You left the line," Tavian said.
 
 "Yes."
 
-Tavian's voice remained controlled. That made it worse.
+"He was behind you."
 
-"You almost got your throat taken."
+Luck looked at the man gripping his sleeve. "I know."
 
-Luck looked at the missing buckle on his shoulder.
-
-"Also yes."
-
-Tavian stared at him. Then at the road behind them. The fallen marker post.
-
-The spilled tools. The rope still dragging from the axle. His eyes narrowed.
+Tavian checked the wrap, then the return road. Only when they were moving again did he look at Luck's torn shoulder and the blood on his side.
 
 "You should be dead."
 
-Luck gave him a tired look.
+Luck tried to find something dry enough to say. Nothing came.
 
-"Comforting."
+The treatment house in Greywake smelled of boiled cloth and wet coats. Sela Arven took one look at the worker and cleared a table. A speech token hung near the treatment area; Luck understood every instruction and obeyed the ones directed at him.
 
-"I'm not joking."
+Sela controlled the bleeding first. She cleaned the wound, examined the tearing below the knee, and called for a small healing crystal. Under a measured pass, the worst damage stabilized.
 
-Neither was Luck anymore. The treatment house in Greywake smelled of boiled cloth, medicine, and wet coats. Sela Arven took one look at the injured road worker and started giving orders.
+The crystal dimmed. Sela put it aside and continued with ordinary dressings.
 
-"Table. Cut the trouser leg. Clean water. Two clean wraps. Bring the small healing crystal."
+Luck watched the young man's face rather than the wound. He had stopped asking not to be left. Somehow that was harder to listen to.
 
-Nobody asked Luck what happened. That was appropriate.
+"Sit," Sela told Luck.
 
-The worker had a deep bite and tearing damage below the knee. Sela controlled the bleeding first, then cleaned the wound and used a measured healing pass to stabilize the worst tissue.
+"I'm—"
 
-The crystal dimmed. Finite resource. Finite patient.
+"Bleeding on my floor. Sit."
 
-Finite time. Luck stood near the wall until Sela pointed at him.
+She cut open the side of his shirt. Most of the claw marks were shallow. One wasn't, and she cleaned and stitched it while he gripped the table hard enough to hurt his uninjured hand.
 
-"Sit."
+No light closed it. Nothing in him put the torn skin back together.
 
-"I'm fine."
+"The shoulder?" she asked.
 
-"That sentence has never improved a patient."
+"Bite caught the buckle."
 
-Luck sat. She cut the side of his shirt. The claw marks across his ribs were shallow compared with the worker's injury, but one had opened enough to require treatment.
+Sela paused. Tavian described the slip and torn fitting, then the rope, spilled chest, and fallen post. He did not improve Luck's intentions while describing the results.
 
-Sela cleaned it. Luck hissed.
+"I threw a chock," Luck said. "Badly. The rest happened after."
 
-"Still fine?" she asked.
+"And the forest?" Tavian asked.
 
-"Emotionally devastated."
+Luck remembered yesterday's conversation. He had told that story more comfortably when nobody else was on a treatment table.
 
-"Good."
+"Rotten wood. A vine. A loose branch. I told you."
 
-She used ordinary stitches for the deepest part. No miracle closed the wound. No strange force repaired him.
+"You told me the causes."
 
-It hurt. It kept hurting. That was almost reassuring.
+"Those are the causes."
 
-Tavian remained near the doorway. Sela noticed the torn shoulder of Luck's coat.
+Tavian let the silence stand. Luck had no explanation to add except that several unlikely things had happened and he had survived them. It was already too much of a story without giving it a theory.
 
-"What happened there?"
+Sela tied off the bandage around his ribs. "These are ordinary wounds. His and yours. He faces weeks of recovery. You follow my restrictions, or you can make yours worse."
 
-"Bite."
+She indicated the other table. "You were lucky. He wasn't."
 
-Her hands stopped.
+Luck looked at the worker's bandaged leg. A stone and a buckle had moved the bite away from his throat. They had not closed the place he left in the line.
 
-"Where?"
+"Put that in the report," he told Tavian. "That I moved."
 
-"Buckle."
+"I will."
 
-Luck showed her the torn leather and the missing metal fixture. Sela looked at Tavian. He explained.
+No congratulations for saying it. That was appropriate.
 
-Luck slipped. The bite missed his throat. The teeth caught the buckle.
+Sela gave Luck pain medicine and instructions about the dressings and stitches. Light loads only; no heavy lifting or twisting under weight. He listened without making her compete with a joke. The worker settled into exhausted sleep while rain began tapping the roof.
 
-The animal's momentum twisted its head. Then came the rope. The tool chest.
+Outside the half-open door, two militia guards were talking.
 
-The rolling clamp. The marker post. By the end, Sela was looking at Luck differently.
+"He threw something at the wheel to release the rope," one said. "Caught the lead animal low, then the tools blocked the second approach."
 
-Not impressed. Not afraid. Counting.
+"And the post?"
 
-"How many accidents?" she asked.
+"Exactly where it needed to fall."
 
-Luck leaned back against the table.
+Luck knew all those pieces. That was what made the version so difficult to stop. The observations were almost right. The man connecting them did not exist.
 
-"Depends how generous you are with the word accident."
+"What kind of monster plans that close to its teeth?" the first guard asked.
 
-Tavian answered.
+He sounded impressed.
 
-"Too many."
+"Then why did the worker get hurt?" the other asked.
 
-Sela tied off the bandage around Luck's ribs.
+Neither answered immediately. Luck got up before they could invent something useful.
 
-"Your wound is ordinary."
+"Because I left my place," he said from the doorway.
 
-"Thank you."
+Both guards turned. His bandage showed through the cut shirt. He kept one hand against the doorframe because standing had become harder than it looked.
 
-"That wasn't praise."
+"Tavian held them off. The other worker helped get him out. Put their names in the story."
 
-"I'll take what I can get."
+The quieter guard nodded. The first looked past Luck at the treatment table, then lowered his eyes. For once, Luck let the silence be uncomfortable instead of impressive.
 
-She pointed toward the injured worker.
+He went back inside. Sela pointed at the chair, and he took it.
 
-"His is ordinary too."
+Through the wall, he heard the road story start again farther down the lane. There were too many mouths for one doorway. Tomorrow somebody would ask him to repeat a plan he had never made, with someone else's life waiting behind him.
 
-Luck's smile disappeared. Sela continued.
+Luck looked at the sleeping worker.
 
-"You were lucky. He wasn't."
+He had wanted a name people remembered.
 
-The sentence landed cleanly. Luck looked at the other table. The worker was stable.
-
-Still injured. Still facing weeks of recovery. Because Luck had stepped out of position.
-
-Luck had fallen out of the bite. The worker had been left in it. No performance could turn that into a clever plan, and Luck did not try.
-
-Useful, but unpleasant. Tavian crossed his arms.
-
-"The forest attack you told me about."
-
-Luck looked at him.
-
-"What about it?"
-
-"How many accidents?"
-
-Luck said nothing. Tavian's expression changed by almost nothing. That was enough.
-
-"Right."
-
-Sela frowned.
-
-"What forest attack?"
-
-"Long story."
-
-"Tell it."
-
-"No."
-
-"Then I'll ask again after your stitches."
-
-Luck looked at the ceiling. The safest answer was probably silence. For once, silence did not make him look mysterious.
-
-It made Tavian more certain. By evening, the story had already started moving through Greywake. Not the truth.
-
-A better version. Luck Everhart had stepped in front of a predator. The bite had missed his throat by the width of a buckle.
-
-A rope had trapped the animal. A tool chest had somehow taken down another. The exact marker post the crew had argued about that morning had fallen across the road behind them.
-
-People told the story as though Luck had arranged the sequence. Luck heard two militia guards discussing it outside the treatment house.
-
-"He planned the rope?"
-
-"I heard he threw something at the wagon to release it."
-
-"He waited until the animal put its weight forward. The rope caught the leg, not the neck. Then the chest cut off the other approach. That is not a man choosing his tools at random."
-
-"Then why did the worker get hurt?"
-
-Neither guard answered immediately. Luck was grateful for the question. He would not have been grateful for whatever answer they invented.
-
-Luck closed his eyes. That was not completely false. Which was worse. Sela handed him a small packet of pain medicine.
-
-"Take this."
-
-"Does it stop rumors?"
-
-"No."
-
-"Then your profession has limits."
-
-"Your stitches come out when I say they come out."
-
-Luck took the packet. Tavian opened the door. Before leaving, he looked back.
-
-"You should be dead."
-
-Luck glanced toward the bandage around his ribs. Then toward the worker sleeping on the other table.
-
-"Yeah."
-
-This time he did not make the line funny. Outside, rain began tapping against Greywake's roofs. Somewhere in the settlement, another person repeated the road story. By morning, Luck suspected he would have planned the weather too.
+He hadn't thought about what they would trust it to do.

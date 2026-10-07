@@ -1,141 +1,145 @@
 # Chapter 1 — Wrong Forest, Wrong World
 
-The explosion gave him just enough time to think the light looked expensive.
+The explosion erased the street before he heard the sound.
 
-Heat struck. The street vanished. He reached for something—a door, a person—and lost the memory before he could finish the movement.
+He reached for a shape in the light—a doorway, perhaps, or a person. Heat closed around his arm. For a moment he knew exactly whose name he wanted to shout.
 
-Then there was nothing beneath his feet.
+Then he knew nothing at all.
 
-He tried to remember his name. Pain answered. A room surfaced without walls, a face without features. He still knew what a phone was and that explosions generally meant trouble. Apparently his memory had kept the instructions and thrown away the owner.
+There was no street when he opened his eyes. No ground, either. He hung in darkness, trying to finish a movement his body no longer seemed to understand.
+
+He remembered phones. Traffic. The unreasonable price of decent food. When he reached for his own name, pain opened behind his eyes and drove him back.
 
 "Hello?"
 
-No answer. He swallowed the next, less composed attempt. Whoever arrived first would be meeting a mysterious stranger, not a man shouting into the dark.
+Nothing answered. He waited until the urge to shout again became embarrassing, then straightened a collar he could barely feel. Whoever arrived first was going to meet a composed, mysterious stranger. Not somebody who had already used up his best question.
 
-"You were expecting someone else," he rehearsed.
+"You were expecting someone else," he tried.
 
-Pressure closed around him, briefly, like a machine trying to fit the wrong part. Before he could decide whether that was worse than the silence, damp earth struck his back.
+Pressure closed around him. It tightened once, like a mechanism refusing the wrong key, and threw him out.
 
-He coughed. Rainwater fell into his open mouth.
+His back struck wet earth. Air punched into his lungs; rainwater followed it. He rolled onto one elbow and coughed until the trees stopped sliding across his vision.
 
-Trees crowded overhead. Pale blue moss glimmered along a trunk, and something with too many legs crossed his hand. He flung it away and sat up, waiting for the forest to stop tilting.
+Something breathed in the brush behind him.
 
-A growl came from the brush.
+He stayed still. Pale blue moss shone along a fallen trunk. Between the roots lay a narrow strip of broken paving, almost swallowed by the forest. The breathing stopped when he turned his head.
 
-He checked himself quickly. Arms, legs, ribs: attached. His coat held three unfamiliar coins, a metal key, and a folding knife with a blade too small to justify much confidence. His own name still hurt to reach for.
+His coat contained three unfamiliar coins, a small metal key, and a folding knife. He opened the blade, looked at its disappointing length, and closed it again. Whatever he had once done for a living, it apparently hadn't involved being prepared.
 
-The brush shifted again. He closed the knife and found a line of broken stones running through the roots to his right. An old road was a better answer than anything memory had provided.
+A twig broke behind him.
 
-He stood and fixed his collar. There was no audience, but that was no excuse to arrive badly.
+He got up and followed the paving. Above the path, wet leaves weighed down a cracked branch. It gave way as he passed and crashed into the place where he had been standing a heartbeat earlier.
 
-Above the path, a cracked branch sagged beneath wet leaves. It slipped as he passed underneath and crashed onto the patch of earth he had just left. He turned, looked from the wood to the canopy, and moved faster.
+He looked back. Behind the fallen leaves, something moved.
 
-"Old tree."
+"Old tree," he said, and walked faster.
 
-Thirty paces later, the growling moved ahead of him.
+Thirty paces later, the thing stepped onto the road ahead of him.
 
-A wolf-shaped animal stepped onto the road. Its shoulders stood too high, dark ridges edged its skull, and each forepaw spread wider than his hand. It lowered its head without taking its eyes off him.
+It resembled a wolf in the way a knife resembled cutlery. Its shoulders rose too high, hard ridges crowded its skull, and its forepaws spread wider than his hands. It didn't growl this time. It looked at his throat.
 
-He stopped beside a stone marker half buried in roots. Ferns climbed the slope to his left; a drainage cut dropped away on his right. Beside the cut, five paces away, an old survey post leaned out of the mud.
+He stopped beside a stone marker. Ferns covered the uphill bank to his left; a drainage cut ran along the opposite edge. Five paces behind him, an old survey post leaned out of the mud beside the cut.
 
-"You're probably not a rabbit."
+He could reach the post. He could not reach the trees.
 
-The animal advanced. He backed toward the post, keeping his hands visible for reasons that probably mattered more to people than to wolves.
+"Let's be reasonable."
 
-"You stay there. I continue having a terrible morning over here."
+The animal lowered its head. He backed toward the wood, keeping his eyes on it. Its next step matched his.
 
-Its lips peeled back. He reached the post and pulled with both hands.
+"I have had a difficult day. You seem capable of finding someone in better condition."
 
-Nothing moved except the animal.
+His hand found the post. He pulled, and nothing happened. The animal's hindquarters tightened.
 
-He pulled harder. The rotten base tore free, his heel dropped into the hole, and he fell as the creature lunged. Jaws snapped above his face. The animal struck the stone marker behind him with a crack and landed in the road.
+He pulled harder.
 
-He rolled before it recovered. Mud filled one ear; the post was still in his hands. He got one knee beneath him and thrust as the creature turned.
+The rotten base tore free. His heel dropped into the hole it left, taking his whole body down just as the animal sprang. Teeth closed over empty air where his face had been. The creature struck the stone marker and landed hard behind him.
 
-He missed its chest. The point wedged between two roots instead, leaving the shaft across its next stride. A foreleg hit the wood. The post snapped, and the animal tumbled sideways into the drainage cut.
+He rolled before it recovered. Mud filled his ear. He got one knee beneath him and drove the post toward the animal as it turned.
 
-He did not wait to see how embarrassed it was.
+He missed.
 
-The road bent downhill between leaning trees. He ran with the broken length of post, jumped a rut, and landed badly on his right ankle. Pain shot up his leg. Behind him, claws scraped stone.
+The point wedged between two roots instead. The creature's foreleg struck the shaft across its next stride; wood snapped, and its weight carried it sideways into the drainage cut.
 
-The joint held. He kept running.
+He ran with the broken length still in his hands. Claws scraped stone behind him. At the first rut, his boot landed badly and pain shot through his right ankle.
 
-Ahead, a fallen trunk narrowed the road to a gap on the uphill side. Roots crowded the opening, with a loop of thick vine hanging between them and the branches above. A dead limb rested high in the fork of a leaning tree beyond the trunk.
+The joint held. He didn't ask it to do anything else.
 
-He squeezed into the gap. His boot slid; he grabbed the vine for balance and pulled its slack across the opening. The loop caught on a broken root at knee height while its other end held overhead.
+Ahead, a fallen trunk blocked most of the road. The only opening lay uphill, between exposed roots and a leaning tree. A thick vine looped through its branches, beneath a dead limb caught high in the fork.
 
-He stepped over it and let go.
+He squeezed into the gap. His foot slipped, and he caught the vine with his free hand. The slack pulled tight across the opening, snagging on a broken root at knee height. He stepped over it and let go.
 
-The creature hit the stretched vine at full speed. Its forelegs folded, its body pitched sideways, and it slammed into the fallen trunk hard enough to shake the tree against which the trunk rested.
+The predator hit the stretched vine at a run.
 
-He stopped several paces beyond the gap because his lungs refused to negotiate further. The animal rolled onto its feet. The vine had bought him seconds, not safety.
+Its forelegs folded. Its shoulder slammed into the fallen trunk, shaking the leaning tree against which the trunk rested. Bark rattled down around his head.
 
-The dead limb shifted in the fork overhead.
+He staggered several paces farther and stopped because his lungs would not give him another breath. Behind him, the creature was already struggling upright. A line of blood ran from one nostril.
 
-Both of them looked up as it broke free. It struck the road between them, scattering bark across his boots. The predator sprang back; he flinched so hard the injured ankle nearly folded.
+The vine had bought him seconds.
 
-For a moment, neither moved.
+The dead limb shifted overhead.
 
-His left forearm was bleeding where a branch had caught it during the run. His hands shook around the broken post. He had no better weapon and nowhere nearby he could reach before the animal.
+He looked up as it broke free. The branch hit the road between them with a crack that shook the soles of his boots. The animal sprang back. He flinched, caught himself on the post, and almost folded over his injured ankle.
 
-It did not know that last part.
+Then everything went quiet.
 
-He lowered the post a fraction, settled his shoulders, and tilted his head. A mysterious stranger would look disappointed, not exhausted. He could manage disappointed.
+Blood slid down his left forearm from a cut he hadn't felt during the run. His hands were shaking. The broken post would not stop the animal if it jumped the branch.
+
+The creature didn't know that.
+
+He lowered the wood a fraction and settled his shoulders. Running again would show it exactly how little he had left. A disappointed man, on the other hand, might have options.
+
+He tilted his head.
 
 "Again?"
 
-The line sounded excellent. He desperately hoped it would not be taken as an invitation.
+The word came out softly. Better than he deserved. He hoped, with a desperation that never reached his face, that it would not be taken as an invitation.
 
-A howl rose deeper in the forest. The animal's ears turned toward it. Another answered farther away, and the creature looked from the fallen limb to him.
+The animal shifted its weight. He did not move.
 
-He kept his face still. That much, at least, was deliberate.
+A howl rose somewhere beyond the hill. The creature's ears turned toward it. Another answered farther away. It looked at the fallen limb, then at the man waiting on the other side.
 
-The predator backed away, then slipped into the ferns. He waited until the brush stopped moving before his knees gave out.
+One backward step. Another.
 
-"That," he told the mud, "was not the plan."
+He kept his face still until the ferns swallowed it. Then he sat down so abruptly that the post fell out of his hand.
 
-He sat with the post across his lap until his breathing steadied. The cut was shallow but long, and his ankle hurt whenever he turned it. Neither injury showed any intention of solving itself.
+For a while, the only sound was his breathing.
 
-He used collected rainwater to rinse dirt from the cut and bound it with a strip torn from his shirt. The cloth darkened slowly. He kept pressure on it and listened for the animal.
+He rinsed the cut with collected rainwater and bound it with a strip torn from his shirt. The cloth darkened. His ankle hurt whenever he turned it, and the pain behind his eyes returned when he tried his name again.
 
-Wet soil, rotten wood, a caught vine, a loose branch. None of those things had been impossible. He was simply relieved they had happened to the creature instead of to his neck.
+He left that wound alone.
 
-The final stare had helped, surely. He preferred that explanation. It included a useful contribution from him.
+Rotten wood. Bad footing. A vine, a shaken tree, a distant pack calling its animal back. He could account for every part of the escape. What he could not quite explain was being the one still sitting here.
 
-He rose carefully and tested the ankle. Walking hurt; remaining in the predator's neighborhood appealed less. He took the broken post as a support and continued downhill.
+The final stare had helped. He chose to believe that. It gave him something useful to keep.
 
-As the afternoon wore on, cleared drainage cuts replaced the leaf-choked ditch. Wheel tracks crossed fresh mud. Someone had sawn a branch off the road instead of waiting for it to land on a traveler.
+He retrieved the post and started downhill. The afternoon passed in slow, uneven steps. Leaf-choked ditches became cleared drainage cuts. Fresh wheel tracks crossed the mud. Someone had sawn a branch off the road instead of leaving it to choose a traveler.
 
-People. He followed the tracks.
+Near sunset, the paving joined a wider cart route. A signpost stood at the junction. Its writing meant nothing to him, but the carved rooftops beneath it pointed toward smoke rising beyond the trees.
 
-Near sunset, the old road joined a wider cart route. A signpost stood at the junction, covered in symbols he could not read. Beneath them, someone had carved rooftops and an arrow pointing east.
+People meant food. Shelter. Someone who might have a bandage that had not previously been a shirt.
 
-Smoke rose in that direction. His stomach tightened at the sight.
+He took two steps, then stopped.
 
-He took two steps, then stopped. A settlement meant a gate. A gate meant somebody would ask who he was, and he had used all afternoon without improving the answer.
+People would ask who he was.
 
-He tried his name once more. The pain behind his eyes returned, sharp enough to make him close them. He let the memory go before it became worse.
+He tried once more. The shape of an old room flickered at the edge of memory; then pain drove it away. He gripped the post until his knuckles steadied.
 
-"No idea" was a poor introduction. Coupled with blood on his sleeve and a broken post, it might earn him something considerably less comfortable than dinner.
-
-A name did not have to be recovered to be useful. He looked back toward the trees.
+There was no name waiting to be recovered tonight. He would have to make one.
 
 "Luck."
 
-Almost a joke. That improved it. He did not think the universe had selected him for anything; his arm was still bleeding through an ugly bandage. But luck was the best explanation he had for reaching the road alive.
+He looked back toward the forest. Almost a joke. Certainly not a theory about himself. But he had reached the road alive, and that seemed worth acknowledging.
 
-He needed a surname. Something respectable enough for an introduction and dramatic enough to enjoy saying.
+He needed something after it. Something that sounded respectable when a guard asked and slightly dangerous when repeated across a room.
 
 "Everhart."
 
-It was not a recovered memory. He had invented it, and the distinction mattered. Whatever had happened to the man before the explosion, this was a choice he could still make.
+He tried the two together. Then again, with a better pause.
 
-"Luck Everhart."
+It wasn't a memory. He had chosen it. Whatever the explosion had taken, it had left him that much.
 
-He tried it once more, with a better pause. Yes. He could work with that.
+Luck Everhart lifted the post and headed toward the smoke. Through a break in the trees, he saw timber walls, wagons queuing beneath a watch platform, and the glint of two spears.
 
-Luck picked up the post and headed east. Through a break in the trees, he saw a timber wall, a queue of wagons, and two spears catching the last light.
+One of the great gates began to close.
 
-The name was ready.
-
-An explanation for the blood would have to be improvised.
+Luck forgot the pause he had practiced and hurried.

@@ -1,35 +1,30 @@
-# Published Reader Copies
+# A Monster Called Luck — Reader Copies
 
-**Opening revision:** 2026-10-07  
+**Author:** minuszeroo  
+**Revision:** 2026-10-07  
 **Canon source:** `manuscript/`  
-**Status:** author-review publication copies; repository availability is not Webnovel publication or acceptance.
+**Status:** AI-assisted author-review copies; repository availability is not external publication or acceptance.
 
-The `published/` directory contains reader-facing copies of manuscript text. These are not a separate canon source. Story edits belong in the manuscripts first, followed by synchronization and release QA.
+This directory holds reader-facing copies, not a separate canon. Make story changes in the manuscript and synchronize the corresponding copy before release.
 
-## Official Reading Order
+## Reading Order
 
 **Synopsis → CH001 → CH002 → CH003 → ... → CH026 → Volume 2 / CH027**
 
-Begin with `published/SYNOPSIS.md`, then `published/volume-001/CH001-WRONG-FOREST-WRONG-WORLD.md`. There is no separate prologue.
+Begin with `published/SYNOPSIS.md`, then `published/volume-001/CH001-WRONG-FOREST-WRONG-WORLD.md`. There is no standalone prologue.
 
-## Latest Pacing Pass
+## Current Revision
 
-CH001–CH003 and the synopsis were revised. The three paired manuscript/reader files are byte-identical; production metadata has moved into the revision report rather than remaining inside the story files.
+CH001–CH007 and the synopsis have been rewritten for suspense, clearer physical action, meaningful reversals, and emotional consequences. All seven manuscript/reader pairs are byte-identical. Their story files contain no production metadata, QA score, or planning instructions.
 
-CH001 preserves the mysterious Earth explosion, damaged memory, arrival, theatrical instinct before fame, visible but unexplained improbable timing, predator escape, persistent injury, and the deliberately chosen name Luck Everhart.
+The public title is **A Monster Called Luck**. “Monster” describes the legend surrounding Luck Everhart, not a changed species, a new power, a supernatural fear aura, or a replacement personality. The earlier title is retired for new public use.
 
-CH002 preserves independent identity failures and restricted entry while adding a bounded public misunderstanding. CH003 preserves competent physical/identity testing and Hesk's invitation. The opening chronology and possessions are tracked in `continuity/OPENING-RELEASE-CONTINUITY.md`.
+CH008 was read to check the transition into light work and the Outer Homesteads. CH008–CH027 prose is not rewritten or newly certified by this pass. CH028 onward remains planned.
 
-CH004–CH027 remain unchanged by this pass. Their previous QA is not a new release certification for the entire series.
+## Canon and Release Rules
 
-## Publication Rules
+Keep order, dialogue, action, injuries, possessions, knowledge, and endings equivalent to the manuscript. Luck remains physically mortal, theatrical, and permanently unaware that his passive luck is supernatural. The point of view remains distant third-person limited focused on him.
 
-Keep title, story order, dialogue, action, consequences, and endings equivalent to the manuscript. Do not add publication-only retcons. Exclude production metadata, QA scores, agent instructions, and preparatory lore from story installments.
+The author must review and revise the AI-assisted prose and verify current platform, authorship, prior-publication, and disclosure requirements before external release. Nothing here authorizes an automatic upload, contract application, or branch merge.
 
-Luck remains physically mortal, limited to passive Fortune Distortion, unaware of its supernatural nature, and narrated in distant third-person limited. No second power or conscious luck mastery is added for commercial positioning.
-
-## Before External Release
-
-Follow `planning/WEBNOVEL-PACING-AND-SUBMISSION.md` and the current QA gates. The author must review the prose, verify current Inkstone application and AI/disclosure rules, and provide truthful publication history. Do not claim a guaranteed approval percentage or submit a contract application automatically.
-
-See `qa/WEBNOVEL-OPENING-REVISION-2026-10-07.md` for the exact scope and remaining checks.
+See `planning/TITLE-AND-THRILL-STANDARD.md`, `continuity/OPENING-RELEASE-CONTINUITY.md`, and `qa/TITLE-AND-THRILL-REVISION-2026-10-07.md` for the current scope. Older QA reports describe earlier text, not this revision.

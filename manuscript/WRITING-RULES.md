@@ -1,6 +1,6 @@
 # Manuscript Writing Rules
 
-**Project:** This Isekai Has a Bug. Unfortunately, It's Me.  
+**Project:** A Monster Called Luck  
 **Protagonist:** Luck Everhart  
 **Status:** LOCKED — DISTANT THIRD-PERSON LIMITED / FORTUNE DISTORTION ONLY / NATURAL WEB-NOVEL PROSE  
 **Effective:** 2026-10-03

@@ -1,17 +1,19 @@
-# This Isekai Has a Bug. Unfortunately, It's Me.
+# A Monster Called Luck
 
-They think he's a mastermind. He mostly wants to get paid.
+Every miracle makes him look more dangerous.
 
-After an explosion steals his life and most of his memories, Luck Everhart arrives in a world that cannot register him. No readable level. No class. No ordinary work contract.
+After an explosion destroys his life and most of his memories, Luck Everhart wakes in a world that cannot find a record of his soul. No readable level. No usable class. Not even an ordinary work contract.
 
-He does have a talent for looking as though everything is going according to plan.
+He wants food, freedom, and the occasional entrance impressive enough to deserve a dramatic pause.
 
-A missed strike trips a predator. An awkward step looks like a calculated rescue. Soon, workers are explaining his brilliant methods and enemies are preparing for schemes he never invented.
+Instead, he gets a reputation.
 
-Luck thinks his mysterious-stranger act is finally paying off. He has no idea that impossible good fortune keeps making it convincing.
+A predator misses his throat. A collapsing wagon stops exactly where it should fall. Witnesses reconstruct brilliant plans from accidents he barely survived—and Luck discovers that keeping a straight face is easier than explaining the truth.
 
-Then Greywake's Road Guild offers work to the man its normal contracts cannot cover. The roads are dangerous, the protection is limited, and the people impressed by his escapes expect him to do it again—with their lives at stake.
+What he doesn't know is that his impossible good fortune is a power. He cannot command it, and surviving danger does not mean everyone beside him will survive it too.
 
-He can keep the reputation.
+When dangerous work pulls him into Greywake's road crisis, every escape draws more attention. Workers trust him with their lives. Powerful people start accounting for schemes he never made.
 
-He still has to survive the job.
+They see a monster who has already calculated the ending.
+
+Luck is still trying to survive the next minute.

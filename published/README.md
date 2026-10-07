@@ -1,56 +1,30 @@
-# Published Reader Copies
+# A Monster Called Luck — Reader Copies
 
-**Status:** CURRENT READER-FACING COPIES — 2026-10-03  
-**Canon source:** `manuscript/`
+**Author:** minuszeroo  
+**Revision:** 2026-10-07  
+**Canon source:** `manuscript/`  
+**Status:** AI-assisted author-review copies; repository availability is not external publication or acceptance.
 
-The `published/` directory contains reader-facing copies generated from current manuscript canon.
+This directory holds reader-facing copies, not a separate canon. Make story changes in the manuscript and synchronize the corresponding copy before release.
 
-These files are not an independent canon source. Story edits belong in `manuscript/` first, followed by publication synchronization and QA.
+## Reading Order
 
-# Official Reading Order
+**Synopsis → CH001 → CH002 → CH003 → ... → CH026 → Volume 2 / CH027**
 
-There is **no standalone prologue**.
+Begin with `published/SYNOPSIS.md`, then `published/volume-001/CH001-WRONG-FOREST-WRONG-WORLD.md`. There is no standalone prologue.
 
-The former prologue material has been merged into CH001 so the novel begins with one uninterrupted opening.
+## Current Revision
 
-Primary public sequence:
+CH001–CH007 and the synopsis have been rewritten for suspense, clearer physical action, meaningful reversals, and emotional consequences. All seven manuscript/reader pairs are byte-identical. Their story files contain no production metadata, QA score, or planning instructions.
 
-1. `published/SYNOPSIS.md`
-2. `published/volume-001/CH001-WRONG-FOREST-WRONG-WORLD.md`
-3. CH002 onward in numbered order
-4. after CH026, continue with Volume 2 beginning at CH027
+The public title is **A Monster Called Luck**. “Monster” describes the legend surrounding Luck Everhart, not a changed species, a new power, a supernatural fear aura, or a replacement personality. The earlier title is retired for new public use.
 
-**Public flow:**  
-**Synopsis → CH001 → CH002 → CH003 → ...**
+CH008 was read to check the transition into light work and the Outer Homesteads. CH008–CH027 prose is not rewritten or newly certified by this pass. CH028 onward remains planned.
 
-# Chapter 1 Opening Lock
+## Canon and Release Rules
 
-CH001 now contains:
-- the mysterious Earth explosion;
-- damaged autobiographical memory;
-- unnamed arrival in Veyr;
-- Luck's theatrical instinct before he has a reputation;
-- the first visible but unexplained Fortune Distortion timing;
-- the forest predator encounter;
-- real physical injury;
-- the deliberate choice of the name **Luck Everhart**;
-- movement toward civilization.
+Keep order, dialogue, action, injuries, possessions, knowledge, and endings equivalent to the manuscript. Luck remains physically mortal, theatrical, and permanently unaware that his passive luck is supernatural. The point of view remains distant third-person limited focused on him.
 
-Do not insert a separate prologue before CH001.
+The author must review and revise the AI-assisted prose and verify current platform, authorship, prior-publication, and disclosure requirements before external release. Nothing here authorizes an automatic upload, contract application, or branch merge.
 
-# Publication Rules
-
-- keep reader copies story-equivalent to their manuscript sources;
-- remove production metadata from reader-facing files;
-- preserve chapter title, prose order, dialogue, consequences, and ending;
-- do not make publication-only canon changes;
-- rerun publish QA after substantive manuscript revisions.
-
-# Current Story State
-
-- Volume 1: CH001–CH026
-- Volume 2 manuscript currently begins at CH027
-- Luck Everhart remains the protagonist
-- POV remains distant third-person limited
-- Fortune Distortion remains his only supernatural power
-- Luck remains unaware that it is his power
+See `planning/TITLE-AND-THRILL-STANDARD.md`, `continuity/OPENING-RELEASE-CONTINUITY.md`, and `qa/TITLE-AND-THRILL-REVISION-2026-10-07.md` for the current scope. Older QA reports describe earlier text, not this revision.

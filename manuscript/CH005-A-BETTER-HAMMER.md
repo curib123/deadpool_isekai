@@ -1,248 +1,169 @@
 # Chapter 5 — A Better Hammer
 
-**Status:** AUTHOR-DIRECTED REVISION DRAFT — PERMANENTLY CLUELESS LUCK / STABLE THEATRICAL MC
-**Revision Date:** 2026-10-02
+The foreman handed Luck a box of clamps and pointed at his bandaged arm.
 
-The Road Guild yard was already loud when Luck arrived.
+"Can you carry that?"
 
-A wagon stood near the gate with timber stacked along one side. Workers loaded iron clamps, rope, wedges, and two heavy mauls into the back while a foreman argued with a clerk about whether a damaged bridge counted as urgent or merely inconvenient. Luck stopped beside the wagon.
+Luck tested the weight. "Without looking heroic."
 
-"Which answer pays faster?"
+"Ideal."
 
-The foreman looked at him.
+The repair wagon left Greywake at first light with timber, rope, wedges, two mauls, and guards who showed no interest in the new worker's entrance. Luck's broken post went along the wagon bed. The charged language token hung beneath its cover, close enough to serve the crew when they stopped.
 
-"Urgent."
+The bridge lay northeast of town, over a narrow ravine cut deeper by runoff. One brace had shifted, two deck boards were cracked, and the outer approach leaned toward the drop. A loaded caravan had already turned back rather than test it.
 
-"Then I support urgent."
+Luck climbed down carefully. His ankle tolerated walking; it had developed firm opinions about jumping.
 
-The man stared for a moment, decided Luck was not worth the effort, and pointed at the rear wheel.
+The foreman put him on clamps and short boards. Nobody asked him to invent anything. For almost an hour, the crew worked without giving him an opportunity to look important.
 
-"Get in."
+Then the main maul broke.
 
-Luck climbed aboard.
+Its head split at the socket as a worker drove an iron pin into the replacement brace. One piece dropped into the mud. The other bounced off the rail and vanished into the ravine.
 
-The job was simple on paper. A bridge south of Greywake had taken damage from runoff. One brace had shifted, two deck boards had cracked, and a loaded caravan had been forced to turn around before the outer edge failed.
-
-Simple jobs, Luck was learning, were usually just complicated jobs that had not yet introduced themselves. The wagon reached the bridge before noon.
-
-The structure crossed a narrow ravine where rainwater had cut deeply into the road. One side of the approach had softened enough that the outer support leaned toward open air. The workers moved immediately.
-
-Nobody asked Luck to lead. That was comforting.
-
-The foreman assigned him to carrying clamps and holding whatever someone more qualified told him to hold. Luck discovered that manual labor remained disappointingly immune to mystery.
-
-For almost an hour, nothing unusual happened. Then the main maul broke.
-
-The worker swinging it brought the head down on an iron pin. The impact drove the pin halfway through the replacement brace.
-
-The hammer head split at the socket. One half dropped into the mud. The other spun away, bounced once off the bridge rail, and vanished into the ravine.
-
-Everyone stopped. The foreman closed his eyes. Luck looked down into the gap.
+The foreman cleared everyone back and examined the handle. Luck looked over the edge.
 
 "That seemed expensive."
 
-"It was."
+"Keep away from the rail."
 
-The smaller maul came out of the wagon. The foreman tested it once, then shook his head.
+He did. The foreman set the broken tool aside and tried the smaller maul. It shifted the pin a little, then no farther. Behind the hills, thunder rolled toward them; the waiting caravan would reach the crossing before afternoon.
 
-"Too light."
+Luck examined the available objects. A wheel clamp had weight. The maul did not have enough. This seemed like arithmetic rather than engineering, which improved his qualifications.
 
-"Hit harder."
+"What about that?" He pointed at the clamp.
 
-The foreman looked at him. Luck lifted both hands.
+"You'll break your wrist."
 
-"Contribution withdrawn."
+"Attached to the hammer. Not my wrist."
 
-Two workers tried anyway.
+One worker looked at the clamp, then at the back of the maul head. "It could seat here."
 
-The smaller maul moved the pin, but not enough. The brace had to be seated before a waiting caravan arrived from the south, and the clouds above the ravine were already turning darker. The foreman crouched beside the brace.
+"It could also fly off," the foreman said.
 
-"We need more weight."
+"We have wire. And a leather binding."
 
-Luck looked around. There were several obvious answers. None of them were good.
+The foreman gave Luck a long look. Luck returned it with the expression of a man whose proposal had not yet caused an injury.
 
-A flat stone beside the drainage edge was too wide to swing safely. An iron wheel clamp had enough mass but no handle. One of the wagon jacks might work as a striking tool if everyone involved stopped caring about the wagon jack. Luck pointed at the clamp.
+They assembled the ugliest hammer he had ever seen. The clamp sat against the back of the head, secured with wire, leather, and a wedge. The foreman checked the seating, tried a short stroke, and made everyone stand clear of the line.
 
-"That."
+"One pin," he said. "Then this comes apart. Nobody gets attached to the idea."
 
-The foreman followed his finger.
+Luck leaned on a sound section of rail. "Too late."
 
-"No."
+The first controlled stroke shifted the clamp slightly. The foreman stopped, tightened the binding, and tried again. This time the weight carried through the head and the pin moved. Two workers kept the brace aligned while he reset his grip.
 
-"Strong start."
+"Movement!" a guard shouted.
 
-"It'll break your wrist."
+Something burst from the ditch behind the wagon.
 
-"Then somebody with better wrists."
+Luck turned. A low, heavy predator had come out beneath the brush, smaller than the forest creature but close enough to the horse to make size irrelevant. The horse reared against its traces.
 
-"No."
+The guards advanced together, leaving the animal an opening back toward the trees. The driver fought to keep the team straight.
 
-Luck nodded toward the smaller maul.
+The wagon shifted.
 
-"What if you add the clamp to the head?"
+One chock held. The other slid as the wet bank crumbled beneath it. The downhill wheel began turning toward the ravine.
 
-The foreman stared at him. Luck stared back. He had no engineering theory behind the suggestion.
+"Brake!" the foreman shouted.
 
-The clamp was heavy. The hammer was not heavy enough. This felt like arithmetic. One worker frowned.
+The driver pulled the lever. Mud broke away under the wheel anyway. Luck saw the man's boot catch beneath a loose bench strap when he tried to jump clear.
 
-"We have binding wire."
+The driver looked down once. Then at the drop.
 
-Another said, "It'll shift." The first worker looked at the clamp again.
+Luck ran toward the wagon before deciding what he could actually do. Replacement planks lay along its open side, held by a cargo lash. A separate restraining line ran lower, near the rear corner. Between him and the turning wheel, a drainage rut cut across the mud.
 
-"Unless we seat it against the back."
+He grabbed the nearest rope.
 
-The foreman slowly turned toward them. Luck immediately recognized the expression of a man discovering that a stupid idea had become inconveniently discussable. Five minutes later, they had built the ugliest hammer Luck had ever seen.
+Wrong one.
 
-The iron clamp sat against the rear of the smaller maul's head, held in place by wire, two leather strips, and a wedge that technically belonged to another part of the bridge. The foreman tested the balance.
+The cargo knot slipped under his pull. Three planks slid from the wagon, and the driver's eyes widened as the load came down beside him.
 
-"Terrible."
+The first board landed flat. The second bridged the rut. The third struck its edge and kicked sideways into the path of the rolling wheel.
 
-Luck smiled.
+The wheel climbed.
 
-"But?"
+Luck stopped breathing. For an instant the whole wagon leaned farther over the ravine, held on a board that was already bending.
 
-"Terrible."
+The plank snapped.
 
-No but. Then thunder sounded in the distance. The foreman looked toward the road.
+Its shorter half drove upward behind the wheel, wedging beneath the axle against the hard lip of the rut. The longer half lay trapped under the wheel's rim. Wood shrieked, and the wagon stopped.
 
-"Good enough."
+The driver stayed frozen on the bench. One hand gripped the brake. The other was still reaching for the boot he had been unable to free.
 
-Two workers braced the timber. The foreman raised the modified maul. On the first swing, the clamp shifted half a finger.
+Nobody moved until the foreman shouted, "Block it. Both wheels. Now!"
 
-On the second, the wire tightened. On the third, the extra weight drove the iron pin almost flush. Everyone looked at it. Luck leaned against the rail.
+Workers brought proper wedges. The guards drove the predator back into the ditch without chasing it, then helped settle the horse. Only when the wagon was braced did the driver pull his foot loose and climb down.
 
-"Engineering."
+Luck still held the wrong rope.
 
-The foreman pointed at him without looking away from the brace.
-
-"Do not say that word."
-
-A shout came from the road.
-
-"Movement!"
-
-One of the guards turned. Something large came out of the brush.
-
-The animal was smaller than the forest predator Luck had met on his first day, but not small enough to improve anyone's mood. It burst from the ditch near the waiting wagon, startled by the hammering and the approaching storm.
-
-The nearest horse panicked. Its harness jerked sideways. The wagon rolled. Straight toward the softened edge.
-
-"Wheel!" somebody shouted.
-
-Workers scattered. The driver hauled on the reins, but the horse was already twisting away from the animal. Luck moved before thinking.
-
-He grabbed the nearest rope. Wrong rope. It was attached to the stack of replacement boards.
-
-He pulled anyway. The knot slipped. Three boards slid off the wagon.
-
-One hit the mud flat. The second landed across the drainage rut. The third struck the rolling wheel.
-
-The wheel climbed onto it. For half a second, that looked worse. Then the board snapped.
-
-The broken half kicked upward under the axle and jammed between the wheel and the road edge. The wagon stopped. Silence.
-
-Even the horse seemed surprised. The predator near the ditch changed its mind about the entire situation and ran back into the trees as both guards advanced on it. Luck remained holding the useless rope.
-
-The foreman looked at the stopped wagon. Then at the broken board. Then at Luck.
-
-Luck looked down at the rope in his hands. He had absolutely not meant to do that. The driver climbed down slowly.
+The driver came up to him. For a moment it looked as though he would say something angry. Instead, he took the rope from Luck's hand because Luck's fingers hadn't opened.
 
 "You saw the wheel going?"
 
-Luck considered honesty. The foreman was still staring. Two workers were staring now.
-
-The guard had turned around too. Luck released the rope.
-
 "Obviously."
 
-The driver looked impressed. Luck hated how easy that had been. The foreman walked to the wheel and examined the broken plank wedged beneath the axle.
+The answer arrived before modesty could make the situation less useful. The foreman crouched beside the jammed board and traced the route of the fallen timber through the mud.
 
-"You dropped three boards to stop one wagon."
+"You pulled the cargo line."
 
-"Efficiency is a spectrum."
+"It stopped."
 
-"You pulled the wrong rope."
+"Those aren't the same statement."
 
-Luck's expression did not move. The foreman narrowed his eyes. Luck waited.
+Luck remained composed. He had no additional statements that would improve his position.
 
-The man looked at the wheel again. Then at the path the boards had taken through the mud. One worker spoke quietly.
+A worker pointed at the second plank. "Without that across the rut, the third one slides under. It doesn't rise into the wheel."
 
-"If the second board hadn't crossed the rut, the third would've slid under."
+The driver looked at the space beneath the axle. "And the break catches it after the weight comes over."
 
-Another nodded.
+Their reconstruction was excellent. Luck would have appreciated receiving it before the event.
 
-"And if it slid under, the wheel would've gone over the edge."
+The foreman stood. "You didn't calculate all that."
 
-Luck kept his mouth shut. That was becoming an important skill. The foreman pointed at him.
+Luck nodded toward the bridge. "Would answering finish the brace?"
 
-"You did not plan all of that."
+"No. Neither will standing there."
 
-Luck gave him a calm look.
+An escape from the conversation, disguised as more work. He accepted it.
 
-"Would answering improve the bridge?"
+The driver helped reset the wagon while the foreman returned to the temporary maul. It drove the final pin home, then a binding strand snapped. The clamp dropped into the mud from the lowered head.
 
-The foreman stared for another second. Then turned away.
+The foreman dismantled the rest before anyone could try another swing.
 
-"Get the wagon blocked properly."
+"A better hammer," Luck said.
 
-Luck exhaled through his nose. Close enough.
+"A worse hammer that finished one job."
 
-The crew reset the wagon with actual wedges and returned to the brace. The modified hammer lasted long enough to finish the pin, then the wire snapped and the clamp dropped harmlessly into the mud.
+"We should put that on the invoice."
 
-The foreman looked at the broken tool. Luck looked at him.
+They replaced the broken planks from the remaining stock, packed the weakened approach, and cleared the drainage cut. The empty repair wagon crossed first under the foreman's inspection. After another check, the waiting traffic began moving again.
 
-"A better hammer."
+When the rain arrived, it ran into the ditch instead of through the repair.
 
-"It was a bad hammer."
+On the ride home, the driver sat opposite Luck under the cover. His hands had stopped shaking. Luck knew because he had been checking his own against them.
 
-"It finished."
+"You waited until the wheel reached the rut," the man said.
 
-"So did the bridge."
+Luck looked out at the rain. He had not waited for anything except his body to do something useful.
 
-That was difficult to argue with. They replaced the damaged boards, reinforced the soft approach, cleared the drainage cut, and tested the bridge with the empty repair wagon. It held.
+"The timing mattered."
 
-A second wagon crossed. Then a third. By the time the rain arrived, traffic was moving again.
+"That's what I told them."
 
-Nobody declared Luck a genius while the foreman was close enough to assign more work. Once the foreman moved away, the story gained confidence. On the ride back to Greywake, one worker sat across from him beneath the wagon cover.
+That was an alarming reply. Before Luck could narrow the meaning, the driver asked the foreman to put him on the next difficult assignment.
 
-"You knew the board would catch the wheel?"
+At the Guild yard, the clerk counted the ruined maul, damaged bindings, and broken boards. The foreman reported the reopened crossing and the saved wagon without describing either as free.
 
-Luck looked outside. Rain streaked across the road.
+Luck received the balance after the advance was deducted. No class appeared. No triumphant light announced that he had improved. His cut ached, the post still helped his ankle, and he now owned enough money for another few ordinary days.
 
-"No."
+He should have left with that.
 
-The worker waited. Luck glanced back.
+Instead, he paused where two workers were explaining the rescue to a guard. In their version, he had selected three boards, calculated the wheel's angle, and waited until the exact moment the driver could no longer escape.
 
-"It was going to catch something."
+"Could have pulled earlier," one said. "But he knew."
 
-The worker leaned forward. "You saw the load start to move and waited until the wheel reached the rut before pulling. If you'd pulled earlier, that board would've missed the wheel."
+Luck almost turned back. Then the driver saw him and nodded, a small, grateful gesture that made correction unexpectedly difficult.
 
-Luck had pulled because the rope was the nearest thing he could hold while trying not to fall. He looked out at the rain so the worker would not see him sorting those two accounts.
+He returned the nod.
 
-"The timing matters," he said.
-
-The worker nodded gravely. At the next stop, he asked the foreman to put Luck on the difficult repairs. Luck heard that part and immediately regretted choosing such a useful sentence.
-
-At the Guild yard, the foreman submitted the completion report. The clerk counted the returned tools, paused over the broken maul, and sighed.
-
-"Again?"
-
-"Bridge is open."
-
-"That wasn't my question."
-
-"Then ask a cheaper one."
-
-Luck received his pay. No glowing notification appeared. No hidden class awakened.
-
-No ancient power announced itself. He had helped build an ugly hammer, pulled the wrong rope, and somehow stopped a wagon from falling into a ravine. That should have been the end of it.
-
-As Luck crossed the yard, he heard one of the workers telling a guard about the bridge. The story already sounded cleaner than reality. By the time Luck reached the gate, he had apparently calculated the wagon's angle before pulling the rope.
-
-Luck stopped walking. He considered going back. Then he heard the same worker ask whether Luck could be assigned to the next difficult repair.
-
-That was the consequence of letting a useful story survive.
-
-Luck resumed walking.
-
-"Calculated," he muttered. "Expensive word."
+By the time he reached the door, the clerk was asking which caravan needed him next.

@@ -1,21 +1,19 @@
-# This Isekai Has a Bug. Unfortunately, It's Me.
+# A Monster Called Luck
 
-Luck Everhart wakes in a world that cannot decide what he is.
+Every miracle makes him look more dangerous.
 
-Name: UNDEFINED. Class: UNDEFINED. World Registry: NO RECORD.
+After an explosion destroys his life and most of his memories, Luck Everhart wakes in a world that cannot find a record of his soul. No readable level. No usable class. Not even an ordinary work contract.
 
-He has a more immediate concern: where to find breakfast, work, and a doorway suitable for a mysterious entrance.
+He wants food, freedom, and the occasional entrance impressive enough to deserve a dramatic pause.
 
-Luck has always liked the idea of the calm stranger standing just outside everyone else's important story. A pause here. A cryptic sentence there. Let the room supply the rest.
+Instead, he gets a reputation.
 
-The room keeps supplying rather more than he expected.
+A predator misses his throat. A collapsing wagon stops exactly where it should fall. Witnesses reconstruct brilliant plans from accidents he barely survived—and Luck discovers that keeping a straight face is easier than explaining the truth.
 
-A missed throw stops a predator. A repair he barely understands exposes a conspiracy. A route chosen because the other one looks unpleasant becomes proof that he predicted a disaster. Workers explain his engineering. Soldiers reconstruct his tactics. Enemies begin changing their plans before he has made one.
+What he doesn't know is that his impossible good fortune is a power. He cannot command it, and surviving danger does not mean everyone beside him will survive it too.
 
-Luck thinks his performance is going remarkably well.
+When dangerous work pulls him into Greywake's road crisis, every escape draws more attention. Workers trust him with their lives. Powerful people start accounting for schemes he never made.
 
-He has no idea that probability itself keeps bending around him.
+They see a monster who has already calculated the ending.
 
-Veyr already has its heroes, villains, prophecies, and wars. Now it also has an unregistered man whose accidents look like strategy—and whose growing reputation is volunteering him for problems he never agreed to solve.
-
-His luck can get him through a killing strike. It cannot stop someone asking him to do the impossible again.
+Luck is still trying to survive the next minute.
